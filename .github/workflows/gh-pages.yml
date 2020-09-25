@@ -1,0 +1,60 @@
+on:
+  push:
+    branches:
+      - master
+  schedule:
+  - cron: "0 0 1 * *"
+
+jobs:
+  comment:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v2
+      with:
+        ref: 'gh-pages'
+    - name: github and support
+      env:
+        GITHUB_REPOSITORY: ${{ github.repository }}
+      run: |
+        tmp="[{\"name\":\"general\"},{\"name\":\"random\"}]"
+        n=$((`echo $tmp|jq length` - 1))
+        for ((i=0;i<=$n;i++))
+        do
+          channel=`echo "$tmp"|jq -r ".[$i].name"`
+          echo $channel
+          s=`echo $channel|cut -b 1-3`.json
+          date=`date +"%Y%m"`
+          out=$date-$channel.json
+          if [ ! -d $channel ];then
+            mkdir -p $channel
+            cp -rf app.js $channel
+            cp -rf tmp.html $channel/index.html
+            sed -i "s/gen.json/$s/g" $channel/app.js
+          fi
+          if [ ! -d $channel/$date ];then
+            mkdir -p $channel/$date
+            cp -rf app.js $channel/$date
+            cp -rf dir.html $channel/$date/index.html
+            sed -i "s/gen.json/$out/g" $channel/$date/app.js
+          fi
+          if [ -z "`grep $date index.html`" ];then
+            sed -ie "/^<div id=\"app\">$/i \<p\><a href=\"\/slacklog/$channel/${date}\">${date}<\/a><\/p>" index.html
+          fi
+          if [ -z "`grep $date $channel/index.html`" ];then
+            sed -ie "/^<div id=\"app\">$/i \<p\><a href=\"\/slacklog/$channel/${date}\">${date}<\/a><\/p>" $channel/index.html
+          fi
+        done
+    - name: Commit files
+      run: |
+        git config --local user.email "action@github.com"
+        git config --local user.name "GitHub Action"
+        if [ -z `git status -s` ];then
+          exit
+        fi
+        git add random general
+        git commit -m "update json" -a
+    - name: Push changes
+      uses: ad-m/github-push-action@master
+      with:
+        github_token: ${{ secrets.GITHUB_TOKEN }}
+        branch: gh-pages

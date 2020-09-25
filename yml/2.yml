@@ -1,0 +1,16 @@
+    - name: Commit files
+      run: |
+        git config --local user.email "action@github.com"
+        git config --local user.name "GitHub Action"
+        if [ -z `git status -s` ];then
+          exit
+        fi
+        date=`date +"%Y%m"`
+        out=$date-general.json
+        git add $out
+        git add gen.json
+        git commit -m "update json" -a
+    - name: Push changes
+      uses: ad-m/github-push-action@master
+      with:
+        github_token: ${{ secrets.GITHUB_TOKEN }}

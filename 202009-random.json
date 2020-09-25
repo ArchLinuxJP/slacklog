@@ -1,0 +1,737 @@
+[
+  {
+    "user": "UGMP1THLJ",
+    "text": "なおcp使うほうが早い……",
+    "client_msg_id": "84a995df-bf84-4f32-9be9-9aab0ac58979",
+    "name": "muminn4",
+    "img": "https://secure.gravatar.com/avatar/1302576fab37f21c4ca24c66a0f66f91.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0013-24.png"
+  },
+  {
+    "user": "UGA29R3FH",
+    "text": "forkexecとか書きたくない",
+    "client_msg_id": "08bbfa7d-769e-4711-a204-162999612ce9",
+    "name": "znmxodq1",
+    "img": "https://avatars.slack-edge.com/2019-03-08/570571829091_2ca91fb0cc1ed2341fe0_24.png"
+  },
+  {
+    "user": "UGA29R3FH",
+    "text": "コマンド発行する手間を考えると自分で実装するのはわかる",
+    "client_msg_id": "271c26b3-9f55-4be6-aa61-eaefcd341bd8",
+    "name": "znmxodq1",
+    "img": "https://avatars.slack-edge.com/2019-03-08/570571829091_2ca91fb0cc1ed2341fe0_24.png"
+  },
+  {
+    "user": "UVB7L4CKH",
+    "text": "細かいキュー制御とか考えると自前でやったほうがいいのかもしれませんね",
+    "client_msg_id": "ec2a69dd-9d0d-4d2f-8ecf-77707fa6682a",
+    "name": "tatsumigamou",
+    "img": "https://avatars.slack-edge.com/2020-03-12/985313571153_203fee630d3a4a1053a1_24.jpg"
+  },
+  {
+    "user": "U017BNGTHT3",
+    "text": "そういえばファイルマネージャーって意外と(cpとかのコマンド発行じゃなくて)自分で実装してるんですね…",
+    "client_msg_id": "931110f6-078a-4462-ada9-e6ea44f7a823",
+    "name": "s5is",
+    "img": "https://avatars.slack-edge.com/2020-07-13/1222405306279_15e958295d437e18f344_24.png"
+  },
+  {
+    "user": "U0PM6EYR1",
+    "text": "パーミッションに依るんじゃないですかね",
+    "client_msg_id": "de5c4c73-257a-4f15-a1fb-16c873732a8e",
+    "name": "raa0121",
+    "img": "https://secure.gravatar.com/avatar/35b032d7b2d4182b0c2de1ef85ba91f2.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0009-24.png"
+  },
+  {
+    "user": "U7NBCFT1S",
+    "text": "/ｈomeってACL必須でしたっけ？",
+    "client_msg_id": "f6466a42-87e6-4802-8580-bed017c78925",
+    "name": "no97yuu",
+    "img": "https://avatars.slack-edge.com/2019-10-26/797548070962_e6a0da66a751d051ab30_24.jpg"
+  },
+  {
+    "user": "U7NBCFT1S",
+    "text": "素のTxtファイルで、書き込み中でなないですけども。",
+    "client_msg_id": "6232f391-cc2b-44c8-9ce0-0edbe6d3cf5c",
+    "name": "no97yuu",
+    "img": "https://avatars.slack-edge.com/2019-10-26/797548070962_e6a0da66a751d051ab30_24.jpg"
+  },
+  {
+    "user": "U0PM6EYR1",
+    "text": "コピー時にファイルに書き込みがあるとか？\nCaja がどんなコピーしてるかはわからないけど",
+    "client_msg_id": "80f87974-8d1c-4075-a06c-3aca6f4e3ed6",
+    "name": "raa0121",
+    "img": "https://secure.gravatar.com/avatar/35b032d7b2d4182b0c2de1ef85ba91f2.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0009-24.png"
+  },
+  {
+    "user": "UGMP1THLJ",
+    "text": "質問者です。みなさんありがとうございました！\n最終的にpam.d移して新規生成させ、できたファイルで古いの上書きで行けました。\n多分pacnewを無視してたのが原因な気がします。\nやはり再起動、再インストールはすべてを解決する……",
+    "client_msg_id": "23c96f42-a9f9-4d05-810f-50898a5ce9d4",
+    "name": "muminn4",
+    "img": "https://secure.gravatar.com/avatar/1302576fab37f21c4ca24c66a0f66f91.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0013-24.png"
+  },
+  {
+    "user": "U017BNGTHT3",
+    "text": "とりあえず切り分けした感じだとGUIやDM関係なくログイン自体が出来なくなってそう",
+    "client_msg_id": "bd33fc3c-c34e-4047-939f-2289d5bf9b8d",
+    "name": "s5is",
+    "img": "https://avatars.slack-edge.com/2020-07-13/1222405306279_15e958295d437e18f344_24.png"
+  },
+  {
+    "user": "U0GFBAM8U",
+    "text": "ログインマネージャーのユーザーを変更してみたり、ルートユーザーにしてみたりでログインできるか試してみてもいいかも",
+    "client_msg_id": "B7CB80E6-28F5-429F-A404-EBAEB8DB30BA",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png"
+  },
+  {
+    "user": "U0GFBAM8U",
+    "text": "<https://wiki.archlinux.jp/index.php/%E3%83%91%E3%82%B9%E3%83%AF%E3%83%BC%E3%83%89%E3%83%AA%E3%82%AB%E3%83%90%E3%83%AA>",
+    "client_msg_id": "2174add2-26f8-4334-9bd8-10bf513fddb1",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png"
+  },
+  {
+    "user": "U0GFBAM8U",
+    "text": "パスワードにもいろいろあってユーザーパスワードやルートパスワードなど\nそのGUIがどれを使用してるかによります\nもし設定していない場合、再度パスワードの設定が必要になるかも",
+    "client_msg_id": "36254463-897E-4244-96E0-727F5F73CF7F",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png"
+  },
+  {
+    "user": "UGMP1THLJ",
+    "text": "質問します！\nアプデからの再起動でGUIログインができません！\nArch iso 使ってコンソールログインができることは確認し、ついでにパスワード上書きしてみましたがだめでした。\n表示ではパスワードが正しくないと言われ続けますがそんなわけもなく困惑しています。\nなにか参考になるページなどありますか？",
+    "client_msg_id": "09a2f466-4934-4025-a165-59f1d442c918",
+    "name": "muminn4",
+    "img": "https://secure.gravatar.com/avatar/1302576fab37f21c4ca24c66a0f66f91.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0013-24.png"
+  },
+  {
+    "user": "U0GFBAM8U",
+    "text": "<http://ghcr.io|ghcr.io>、よさそう",
+    "client_msg_id": "881F819A-3F64-471F-9E06-691FD66B2848",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png"
+  },
+  {
+    "user": "U0GFBAM8U",
+    "text": "arch公式は結構使われてるので大丈夫そうですが、使われてないやつor一般は移行の流れ来るかも",
+    "client_msg_id": "2D8B0AB9-D0D7-421A-91FB-E0240AB9C890",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png"
+  },
+  {
+    "user": "UGA29R3FH",
+    "text": "<http://ghcr.io|ghcr.io> なんかは割と制限なく使えるみたいですが",
+    "client_msg_id": "810873de-e507-4685-842e-524c1c726480",
+    "name": "znmxodq1",
+    "img": "https://avatars.slack-edge.com/2019-03-08/570571829091_2ca91fb0cc1ed2341fe0_24.png"
+  },
+  {
+    "user": "UGA29R3FH",
+    "text": "Archの公式イメージも移行するんだろうか",
+    "client_msg_id": "c439e0ea-6eb0-4bca-8f8c-45bcb7d8ed6d",
+    "name": "znmxodq1",
+    "img": "https://avatars.slack-edge.com/2019-03-08/570571829091_2ca91fb0cc1ed2341fe0_24.png"
+  },
+  {
+    "user": "U0GFBAM8U",
+    "text": "関係ありませんが、最近、docker hubがちょっと不安定なので心配してる\nプランとか制限とか、きつくなったらしい",
+    "client_msg_id": "38B08596-587C-4CCA-9F64-75473462AFB1",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png"
+  },
+  {
+    "user": "U0GFBAM8U",
+    "text": "ほう",
+    "client_msg_id": "8F6E6301-1209-43DD-8641-440A7940DE84",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png"
+  },
+  {
+    "user": "UGA29R3FH",
+    "text": "家のネット回線が死んでるからVPSでパッケージビルドしてrsyncで自宅に送ってるんだけど、ちょっと前に話題になってたyay入ったDockerコンテナがとても便利",
+    "client_msg_id": "85a36a07-eacb-4bfc-a946-e1db491ea019",
+    "name": "znmxodq1",
+    "img": "https://avatars.slack-edge.com/2019-03-08/570571829091_2ca91fb0cc1ed2341fe0_24.png"
+  },
+  {
+    "user": "UP795STQS",
+    "text": "`gnome-desktop-git` がAURにありますよ｡降らせてみては!",
+    "client_msg_id": "2b9fd51d-60dc-4329-a3ff-8ae52f082660",
+    "name": "koumaza--",
+    "img": "https://avatars.slack-edge.com/2020-01-21/902911105539_c7feacc3dc2c7b8b4c6c_24.jpg"
+  },
+  {
+    "user": "U019C7VLZ4G",
+    "text": "Gnome3.38、まだ降りてこない🥺",
+    "client_msg_id": "86e4da0b-40f3-4247-8a7d-af64b2d1b6c8",
+    "name": "getalotofmail",
+    "img": "https://secure.gravatar.com/avatar/5a7f20688dc40b2989935a11bdfa25fe.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0001-24.png"
+  },
+  {
+    "user": "UU9BLM0TA",
+    "text": "<https://github.com/microsoft/vscode/wiki/Differences-between-the-repository-and-Visual-Studio-Code|https://github.com/microsoft/vscode/wiki/Differences-between-the-repository-and-Visual-Studio-Code>",
+    "client_msg_id": "4c89d812-6771-4f50-8a6d-883316bf3698",
+    "name": "yutaka.matsubara",
+    "img": "https://secure.gravatar.com/avatar/3ae568b8f48484c62a978eaed0756642.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0022-24.png"
+  },
+  {
+    "user": "UU9BLM0TA",
+    "text": "codeとvscodeは一応別物なので…",
+    "client_msg_id": "77beff2c-f885-453a-ada4-9eb0e3360190",
+    "name": "yutaka.matsubara",
+    "img": "https://secure.gravatar.com/avatar/3ae568b8f48484c62a978eaed0756642.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0022-24.png"
+  },
+  {
+    "user": "U53RAQBCP",
+    "text": "自分はaurの公式ビルド入れてますね。特に理由はないんですけどOSS版より高いコンパイラ(何?)とかでビルドしてそうで良いかなって思ってます:rolling_on_the_floor_laughing:",
+    "client_msg_id": "422CAD1F-6121-40BE-B323-6791AB7A3A04",
+    "name": "kkinx",
+    "img": "https://avatars.slack-edge.com/2020-06-19/1217544115744_070f890bad64414b4848_24.png"
+  },
+  {
+    "user": "UGA29R3FH",
+    "text": "ただ、ライセンス縛りがあったはず",
+    "client_msg_id": "aefcbc39-1568-43c8-b623-1795af63e1d3",
+    "name": "znmxodq1",
+    "img": "https://avatars.slack-edge.com/2019-03-08/570571829091_2ca91fb0cc1ed2341fe0_24.png"
+  },
+  {
+    "user": "UGA29R3FH",
+    "text": "operaとかあるんで",
+    "client_msg_id": "5f8d4770-2ea1-4a8c-8ff3-a595bfd29598",
+    "name": "znmxodq1",
+    "img": "https://avatars.slack-edge.com/2019-03-08/570571829091_2ca91fb0cc1ed2341fe0_24.png"
+  },
+  {
+    "user": "UGA29R3FH",
+    "text": "ないですね",
+    "client_msg_id": "fbabc83b-c41d-41bc-b72a-a76899cf0d1d",
+    "name": "znmxodq1",
+    "img": "https://avatars.slack-edge.com/2019-03-08/570571829091_2ca91fb0cc1ed2341fe0_24.png"
+  },
+  {
+    "user": "UVB7L4CKH",
+    "text": "Archのリポジトリってオープンソース縛りとかあるんでしたっけ？",
+    "client_msg_id": "fa88aaeb-0a51-4fd4-9d3b-908266bb3a25",
+    "name": "tatsumigamou",
+    "img": "https://avatars.slack-edge.com/2020-03-12/985313571153_203fee630d3a4a1053a1_24.jpg"
+  },
+  {
+    "user": "U3FJYR7MG",
+    "text": "VSCodiumベースなんですかね。商標とかロゴとか外したやつ。\nRHELに対してのCentOS的な",
+    "client_msg_id": "5f0be4ed-29b7-4f53-bb1c-979d7579dcf4",
+    "name": "dohq",
+    "img": "https://secure.gravatar.com/avatar/743659d990b6f68ef5c104ba8e415ba5.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0021-24.png"
+  },
+  {
+    "user": "UGA29R3FH",
+    "text": "これ、あれかな、ソースコードビルドしてるからvsの名前使えないとかそういうやつかな",
+    "client_msg_id": "eb6978da-69b6-406d-9904-7ff03c7bf473",
+    "name": "znmxodq1",
+    "img": "https://avatars.slack-edge.com/2019-03-08/570571829091_2ca91fb0cc1ed2341fe0_24.png"
+  },
+  {
+    "user": "U3FJYR7MG",
+    "text": "`code .`\n```(*'-') &lt; yay -Ss vscode                                                                                              (⎈ |kubernetes-admin@kubernetes:default)\n...\naur/visual-studio-code-bin 1.49.1-1 (+934 20.07)\n    Visual Studio Code (vscode): Editor for building and debugging modern web and cloud applications (official binary version)\ncommunity/code 1.49.0-2 (10.1 MiB 77.1 MiB)\n    The Open Source build of Visual Studio Code (vscode) editor```\nSUGOI BARABARA",
+    "client_msg_id": "6dab3f2a-a191-463d-a7fe-dc01c8c2fbdb",
+    "name": "dohq",
+    "img": "https://secure.gravatar.com/avatar/743659d990b6f68ef5c104ba8e415ba5.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0021-24.png"
+  },
+  {
+    "user": "U70QDFN82",
+    "text": "呼び方統一されてないのまじでやめてほしい。vscodeで通ってるはずなのにrofiとかから起動するときvisutal studio codeだし",
+    "client_msg_id": "a2c023b6-912e-4499-aa23-a095b0f52b9a",
+    "name": "yutakatay",
+    "img": "https://avatars.slack-edge.com/2020-08-16/1302143736069_0baa468f7bea68e827d9_24.png"
+  },
+  {
+    "user": "UGA29R3FH",
+    "text": "僕より圧倒的に詳しそうな人が`yay -S vscode`してるのを観測したんだが、`pacman -S code`で入るのって案外知られてない？",
+    "client_msg_id": "91c6c8be-e592-49a1-9909-aa5bda32723c",
+    "name": "znmxodq1",
+    "img": "https://avatars.slack-edge.com/2019-03-08/570571829091_2ca91fb0cc1ed2341fe0_24.png"
+  },
+  {
+    "user": "U0GFBAM8U",
+    "text": "emoji表示させたくてfontforgeいじってた思い出",
+    "client_msg_id": "D3B42F4D-811B-4E83-A7F5-C2EBE38057F8",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png"
+  },
+  {
+    "user": "U0GFBAM8U",
+    "text": "fontforgeあたりの情報、調べてみても面白いかも",
+    "client_msg_id": "8175D6DF-DA71-4A55-BA78-2F8DAF5598CB",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png"
+  },
+  {
+    "user": "U0GFBAM8U",
+    "text": "fontconfig周り、なかなかややこしいですよね",
+    "client_msg_id": "8638808C-BD79-4599-B0A7-329262C3BD34",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png"
+  },
+  {
+    "user": "U53RAQBCP",
+    "text": "ひさびさにGUIの設定してるんですけど `fontconfig` 周りの情報がぜんぜんなくてかなしい",
+    "client_msg_id": "fb1e8457-ad50-4a17-85a1-4d0103a6d342",
+    "name": "kkinx",
+    "img": "https://avatars.slack-edge.com/2020-06-19/1217544115744_070f890bad64414b4848_24.png"
+  },
+  {
+    "user": "U7NBCFT1S",
+    "text": "```    const char *AddressToName(void *address)\n    {\n        Dl_info dli;\n        if (0 != dladdr(address, &amp;dli))\n        {\n            if (dli.dli_sname != nullptr)\n            {\n                // C++orC\n                if (*(dli.dli_sname) == '_')\n                {\n                    int status = 0;\n                    return abi::__cxa_demangle(dli.dli_sname, 0, 0, &amp;status);\n                }\n                else\n                {\n                    return dli.dli_sname;\n                }\n            }\n        }\n        return nullptr;\n    };```\nだれだよこんな関数書いたやつ。。。　ぁ、、自分でした。",
+    "client_msg_id": "49ccc836-0261-4ff1-82dd-1047720b140f",
+    "name": "no97yuu",
+    "img": "https://avatars.slack-edge.com/2019-10-26/797548070962_e6a0da66a751d051ab30_24.jpg"
+  },
+  {
+    "user": "U7NBCFT1S",
+    "text": "おさがわせしました。",
+    "client_msg_id": "aa5566fb-62dd-4efb-821c-17a95863a315",
+    "name": "no97yuu",
+    "img": "https://avatars.slack-edge.com/2019-10-26/797548070962_e6a0da66a751d051ab30_24.jpg"
+  },
+  {
+    "user": "U7NBCFT1S",
+    "text": "ァ----自己解決・・・・ヌルポ　ガッ　がたりてなかったです。",
+    "client_msg_id": "79cfd4e4-6aa1-4d94-b950-59ac1b06ac57",
+    "name": "no97yuu",
+    "img": "https://avatars.slack-edge.com/2019-10-26/797548070962_e6a0da66a751d051ab30_24.jpg"
+  },
+  {
+    "user": "U7NBCFT1S",
+    "text": "調べようにも、何が悪いのかわからないのがわからないという状況なので、現在進行系でメンターさんを有償で探したり各種質問サイトに質問を投げたりしてます",
+    "client_msg_id": "b801f042-3786-40f0-9fca-774d818a5c0d",
+    "name": "no97yuu",
+    "img": "https://avatars.slack-edge.com/2019-10-26/797548070962_e6a0da66a751d051ab30_24.jpg"
+  },
+  {
+    "user": "U7NBCFT1S",
+    "text": "<@UN1SFMNU8> さんの言うとおり関数のINOUT時に何らかのフックをかけようとしていて、そこでのstd::coutが\nメイン関数内(googletestでのstd::coutとリソースを奪い合う？ような挙動をして、何もコンソールに出てこなくなる\nそんな状況です。",
+    "client_msg_id": "e8ee71b8-a37d-4983-a93c-846ce0effb79",
+    "name": "no97yuu",
+    "img": "https://avatars.slack-edge.com/2019-10-26/797548070962_e6a0da66a751d051ab30_24.jpg"
+  },
+  {
+    "user": "U257W41DW",
+    "text": "意図せぬタイミングというのは、実行時に複数回呼び出されてるとかそういう事ですかね？\nc++ のことは良く知らないですが、 `std::ios_base::Init` の説明を見る感じ翻訳単位ごとに 1 回呼び出されるような気がする。",
+    "client_msg_id": "c3346b64-008e-4848-bf86-9a4dcc37913e",
+    "name": "odknt",
+    "img": "https://secure.gravatar.com/avatar/5d54349749764603ddcf7f370f8c3d18.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0015-24.png"
+  },
+  {
+    "user": "UN1SFMNU8",
+    "text": "こういうことをやろうとしてるのかな。<https://qiita.com/naohikowatanabe/items/d559858734d8a02f0d8a>",
+    "client_msg_id": "8f809a65-204b-4025-a81b-adfcf949271a",
+    "name": "addokoda",
+    "img": "https://secure.gravatar.com/avatar/b55bd1ebde600f72f1e83a25c85d893c.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0022-24.png"
+  },
+  {
+    "user": "U7NBCFT1S",
+    "text": "具体的には　-ldl　と　-finstrument-functions　を有効にしたときの　std::coutの挙動についてなのですが\n、意図せぬタイミングでstd:: ios_base:: Initが暴発してるっぽい？のです；；；",
+    "client_msg_id": "ca35f029-9706-4228-9d7b-2e4b97ba53d6",
+    "name": "no97yuu",
+    "img": "https://avatars.slack-edge.com/2019-10-26/797548070962_e6a0da66a751d051ab30_24.jpg"
+  },
+  {
+    "user": "U7NBCFT1S",
+    "text": "お久しぶりです。GCCのリンカー周りの情報を集めてますが、どなたか一緒に協力していただけないでしょうか。いくばくかの謝礼はさせていただきます。",
+    "client_msg_id": "af59c449-b2d8-461f-ab77-8683c6cc09ec",
+    "name": "no97yuu",
+    "img": "https://avatars.slack-edge.com/2019-10-26/797548070962_e6a0da66a751d051ab30_24.jpg"
+  },
+  {
+    "user": "U0PM6EYR1",
+    "text": "&gt; 警告: PKGBUILD のメタデータに変更 (pkgver() の更新など) を加えても、自動的に .SRCINFO に変更が反映されることはありません。.SRCINFO を更新せずに、編集した PKGBUILD を AUR に投稿してしまうと、AUR に古いメタデータが残ってしまいます。\n<https://wiki.archlinux.jp/index.php/.SRCINFO>\nやらかしました",
+    "client_msg_id": "c3253e52-3579-4a68-8602-923bd0d6ab60",
+    "name": "raa0121",
+    "img": "https://secure.gravatar.com/avatar/35b032d7b2d4182b0c2de1ef85ba91f2.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0009-24.png"
+  },
+  {
+    "user": "U3FJYR7MG",
+    "text": "パッケージキャッシュ、直近のだと<https://archive.archlinux.org>で大抵引っぱってこれるのでそこまで\n消える事は気にしないなー",
+    "client_msg_id": "1f7ff1b6-dc76-41d9-85a2-62971423e59e",
+    "name": "dohq",
+    "img": "https://secure.gravatar.com/avatar/743659d990b6f68ef5c104ba8e415ba5.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0021-24.png"
+  },
+  {
+    "user": "U017BNGTHT3",
+    "text": "キャッシュミラー的なの立てるのはありかもしれない",
+    "client_msg_id": "7e502293-4e45-4758-af67-75bfa8f813e4",
+    "name": "s5is",
+    "img": "https://avatars.slack-edge.com/2020-07-13/1222405306279_15e958295d437e18f344_24.png"
+  },
+  {
+    "user": "UGA29R3FH",
+    "text": "Dockerでできるのかはわからん",
+    "client_msg_id": "076ec883-d620-457c-b869-6441ed9e0cd3",
+    "name": "znmxodq1",
+    "img": "https://avatars.slack-edge.com/2019-03-08/570571829091_2ca91fb0cc1ed2341fe0_24.png"
+  },
+  {
+    "user": "UGA29R3FH",
+    "text": "そうだ、串使うという手があった",
+    "client_msg_id": "e13dd7b3-bd08-4d38-9d00-f7ac4dbbbb06",
+    "name": "znmxodq1",
+    "img": "https://avatars.slack-edge.com/2019-03-08/570571829091_2ca91fb0cc1ed2341fe0_24.png"
+  },
+  {
+    "user": "U017BNGTHT3",
+    "text": "難しそう、っていうかホストの共有したらホストのキャッシュ消されそうで怖い",
+    "client_msg_id": "f329e3aa-2606-48d0-87eb-1910cb56e208",
+    "name": "s5is",
+    "img": "https://avatars.slack-edge.com/2020-07-13/1222405306279_15e958295d437e18f344_24.png"
+  },
+  {
+    "user": "UGA29R3FH",
+    "text": "ただ、Archのイメージだと追加されてるフックを消さないとキャッシュ消えます",
+    "client_msg_id": "bbd190dd-e012-48c5-9b32-34df3f803af1",
+    "name": "znmxodq1",
+    "img": "https://avatars.slack-edge.com/2019-03-08/570571829091_2ca91fb0cc1ed2341fe0_24.png"
+  },
+  {
+    "user": "UGA29R3FH",
+    "text": "ホストとは共有できないけど使い回す手段自体はあったはず",
+    "client_msg_id": "ed2b208a-5dba-4cd5-ae2f-37130e1ad0e3",
+    "name": "znmxodq1",
+    "img": "https://avatars.slack-edge.com/2019-03-08/570571829091_2ca91fb0cc1ed2341fe0_24.png"
+  },
+  {
+    "user": "U017BNGTHT3",
+    "text": "あ、ほんとだ",
+    "client_msg_id": "2e2cbc16-1fbb-4862-9cc1-4224e5ea2a22",
+    "name": "s5is",
+    "img": "https://avatars.slack-edge.com/2020-07-13/1222405306279_15e958295d437e18f344_24.png"
+  },
+  {
+    "user": "UGA29R3FH",
+    "text": "baseはFROMの中に入ってますね",
+    "client_msg_id": "1f22d254-7ca0-4dc3-ad3a-c1aa13d7b5df",
+    "name": "znmxodq1",
+    "img": "https://avatars.slack-edge.com/2019-03-08/570571829091_2ca91fb0cc1ed2341fe0_24.png"
+  },
+  {
+    "user": "UGA29R3FH",
+    "text": "自分専用に構築する時はDockerfile使わない方法でいつも共有してる",
+    "client_msg_id": "45d78cd3-dfca-449d-ae66-0aa6ac672feb",
+    "name": "znmxodq1",
+    "img": "https://avatars.slack-edge.com/2019-03-08/570571829091_2ca91fb0cc1ed2341fe0_24.png"
+  },
+  {
+    "user": "U017BNGTHT3",
+    "text": "そういえば、この場合ってbaseパッケージは入れなくても大丈夫でしょうか",
+    "client_msg_id": "c603f7ca-c156-4f4b-85a1-439556f4499b",
+    "name": "s5is",
+    "img": "https://avatars.slack-edge.com/2020-07-13/1222405306279_15e958295d437e18f344_24.png"
+  },
+  {
+    "user": "UGA29R3FH",
+    "text": "Dockerfileでマウントする方法があればいいんだが",
+    "client_msg_id": "772d86d1-1eeb-4409-8d82-c6ba4054c9a8",
+    "name": "znmxodq1",
+    "img": "https://avatars.slack-edge.com/2019-03-08/570571829091_2ca91fb0cc1ed2341fe0_24.png"
+  },
+  {
+    "user": "U017BNGTHT3",
+    "text": "ホストがArchならパッケージキャッシュ共有したら凄く速そう",
+    "client_msg_id": "a232c1a9-ed84-4b03-a421-304313ae21b6",
+    "name": "s5is",
+    "img": "https://avatars.slack-edge.com/2020-07-13/1222405306279_15e958295d437e18f344_24.png"
+  },
+  {
+    "user": "U0PM6EYR1",
+    "text": "```FROM archlinux\nRUN pacman -Syyu --noconfirm &amp;&amp; pacman -S --noconfirm base-devel &amp;&amp; \\\n    useradd -m -G wheel builder &amp;&amp; \\\n    echo '%wheel ALL=(ALL) NOPASSWD:ALL' &gt;&gt; /etc/sudoers```\nパッケージャー向けの Dockerfile です",
+    "client_msg_id": "2e715b43-0401-48a3-9b0a-f2176d937f32",
+    "name": "raa0121",
+    "img": "https://secure.gravatar.com/avatar/35b032d7b2d4182b0c2de1ef85ba91f2.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0009-24.png"
+  },
+  {
+    "user": "U0PM6EYR1",
+    "text": "arch のパッケージ作るのに、docker 楽だな\n環境汚さないし、ホスト何でもいいし",
+    "client_msg_id": "61a07c31-9030-4d8b-822a-f4668bea8f0a",
+    "name": "raa0121",
+    "img": "https://secure.gravatar.com/avatar/35b032d7b2d4182b0c2de1ef85ba91f2.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0009-24.png"
+  },
+  {
+    "user": "U0PM6EYR1",
+    "text": "ありがとうございます パッと出てこなくて…",
+    "client_msg_id": "1b17a828-5c9b-4056-b8a5-ab4dc1011255",
+    "name": "raa0121",
+    "img": "https://secure.gravatar.com/avatar/35b032d7b2d4182b0c2de1ef85ba91f2.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0009-24.png"
+  },
+  {
+    "user": "U6DL9D3AB",
+    "text": "`--noconfirm` でいけるはずです",
+    "client_msg_id": "810e3f28-15e5-4bb8-974a-fda93d526f18",
+    "name": "emtee",
+    "img": "https://avatars.slack-edge.com/2017-08-24/232261947719_1bb4d925e48fdfd0a154_24.png"
+  },
+  {
+    "user": "U0PM6EYR1",
+    "text": "pacman の対話を yes でスキップする方法ってありましたっけ",
+    "client_msg_id": "a2b48977-d260-4aa3-9dd9-77316413fca3",
+    "name": "raa0121",
+    "img": "https://secure.gravatar.com/avatar/35b032d7b2d4182b0c2de1ef85ba91f2.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0009-24.png"
+  },
+  {
+    "user": "U70QDFN82",
+    "text": "タイトルバー消すの私もやってみましたけどよいではないか！",
+    "client_msg_id": "0dcbe76a-dc1b-4d2e-8539-57acf741ba0b",
+    "name": "yutakatay",
+    "img": "https://avatars.slack-edge.com/2020-08-16/1302143736069_0baa468f7bea68e827d9_24.png"
+  },
+  {
+    "user": "UGA29R3FH",
+    "text": "折角i3-gaps使ってるからということでタイトルバー消して隙間開けてみたけど、かなり見た目がよくなった気がする",
+    "client_msg_id": "bd431de4-1e79-4506-a2e9-42dcc781fc09",
+    "name": "znmxodq1",
+    "img": "https://avatars.slack-edge.com/2019-03-08/570571829091_2ca91fb0cc1ed2341fe0_24.png"
+  },
+  {
+    "user": "UGA29R3FH",
+    "text": "せっかくなのでコンポジタの設定してみたけど意外と楽しい",
+    "client_msg_id": "429363b2-6330-42da-adac-011effe436f2",
+    "name": "znmxodq1",
+    "img": "https://avatars.slack-edge.com/2019-03-08/570571829091_2ca91fb0cc1ed2341fe0_24.png"
+  },
+  {
+    "user": "UGA29R3FH",
+    "text": "一応`picom --config /dev/null`で動くのでとりあえずはよし",
+    "client_msg_id": "9089de11-2c8d-42de-9b0e-6859ebc62e35",
+    "name": "znmxodq1",
+    "img": "https://avatars.slack-edge.com/2019-03-08/570571829091_2ca91fb0cc1ed2341fe0_24.png"
+  },
+  {
+    "user": "UGA29R3FH",
+    "text": "報告されてた <https://bugs.archlinux.org/task/67845?project=5&amp;string=picom>",
+    "client_msg_id": "835546fd-30d1-4687-ac9e-4f01f5b3d639",
+    "name": "znmxodq1",
+    "img": "https://avatars.slack-edge.com/2019-03-08/570571829091_2ca91fb0cc1ed2341fe0_24.png"
+  },
+  {
+    "user": "UGA29R3FH",
+    "text": "PKGBUILDに書いてあったアドレスにアクセスしたら普通に見れたのでGitHubのアドレスが変わったとかじゃないっぽい",
+    "client_msg_id": "e25fd659-327e-4d00-a69a-17274550a0dc",
+    "name": "znmxodq1",
+    "img": "https://avatars.slack-edge.com/2019-03-08/570571829091_2ca91fb0cc1ed2341fe0_24.png"
+  },
+  {
+    "user": "UGA29R3FH",
+    "text": "picomのバージョン上げたら起動しなくなって、エラーメッセージに書いてあった設定ファイルを覗いてみたらcurlに失敗したような跡があるw",
+    "client_msg_id": "4d280138-e7c6-4333-be03-4e54f91a0a86",
+    "name": "znmxodq1",
+    "img": "https://avatars.slack-edge.com/2019-03-08/570571829091_2ca91fb0cc1ed2341fe0_24.png"
+  },
+  {
+    "user": "U0PM6EYR1",
+    "text": "<https://aur.archlinux.org/packages/kink-hg/>\n2017年に練習のために作ったパッケージにコメントが来てびっくり",
+    "client_msg_id": "90e89fdd-48dc-4fab-9741-df8b19154910",
+    "name": "raa0121",
+    "img": "https://secure.gravatar.com/avatar/35b032d7b2d4182b0c2de1ef85ba91f2.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0009-24.png"
+  },
+  {
+    "user": "UN1SFMNU8",
+    "text": "<https://www.emacswiki.org/emacs/MenuBar> によれば、X Resources で設定できるようです。",
+    "client_msg_id": "917fd855-8f51-4e55-b101-1da65615db21",
+    "name": "addokoda",
+    "img": "https://secure.gravatar.com/avatar/b55bd1ebde600f72f1e83a25c85d893c.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0022-24.png"
+  },
+  {
+    "user": "U017BNGTHT3",
+    "text": "Xwaylandも物によってはたまにSEGVで落ちるのでXで動いてたものが必ず動くとは限らなかったり。",
+    "client_msg_id": "711c75bd-3976-48ec-895d-420d827b4c97",
+    "name": "s5is",
+    "img": "https://avatars.slack-edge.com/2020-07-13/1222405306279_15e958295d437e18f344_24.png"
+  },
+  {
+    "user": "UGA29R3FH",
+    "text": "なんならXじゃないから同時起動さえ可能",
+    "client_msg_id": "01afd1cd-d4b5-467b-8012-6bbaf537292e",
+    "name": "znmxodq1",
+    "img": "https://avatars.slack-edge.com/2019-03-08/570571829091_2ca91fb0cc1ed2341fe0_24.png"
+  },
+  {
+    "user": "UGA29R3FH",
+    "text": "心機一転という意味なら試してみるのはありかも、i3と競合するわけでもないですし",
+    "client_msg_id": "34b0925e-e50d-408a-8797-64ed9ef3a0bf",
+    "name": "znmxodq1",
+    "img": "https://avatars.slack-edge.com/2019-03-08/570571829091_2ca91fb0cc1ed2341fe0_24.png"
+  },
+  {
+    "user": "UUD5R0W8G",
+    "text": "なるほど〜個人的利用ではまぁまず影響は少ないですが、軽く調べたメリットとして、外部ディスプレイ接続時やセキュリティ上良いとのこと\nというのもxorgではxinputで全部共通で通信しているのでpw等も入力時に奪取出来るとかなんとか…\n\nあとは単純にswayやwaybarなりと今利用してるものの互換なものがあるので心機一転には良いかな〜と trayが利用できないのは痛手ですが… 日本語の云々が不安定なら考えものですね:face_with_monocle:",
+    "client_msg_id": "4E7F38D6-0FBE-4FA4-9BD5-209024D99C9F",
+    "name": "vector008200072",
+    "img": "https://secure.gravatar.com/avatar/5f75ec62f700a104d92d29499bbe2eb5.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0021-24.png"
+  },
+  {
+    "user": "U0H9QUFA5",
+    "text": "ちょっと前にswayを試したのですが、日本語入力関係とランチャーの動作でいろいろと不具合があり、i3に戻しました。そこそこなんでも動くには動くんだけど、特にメリットがなかったんだよなあ。",
+    "client_msg_id": "618f2090-63ff-409a-9947-894b4da2a680",
+    "name": "kusanaginoturugi",
+    "img": "https://secure.gravatar.com/avatar/e927cae947e74def10ee5fbb20859145.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0016-24.png"
+  },
+  {
+    "user": "U8T8KB5M4",
+    "text": "そろそろwsylandに乗り換えてみようかな",
+    "client_msg_id": "c2a3aaef-c9f2-4f11-be5d-f4240224bb61",
+    "name": "h.hata.ai.t",
+    "img": "https://avatars.slack-edge.com/2019-08-19/732537331990_536f34e28226326cb4e8_24.png"
+  },
+  {
+    "user": "U8T8KB5M4",
+    "text": "パフォーマンスは多少良くなるだろうけど基本的にはエンドユーザーではなく開発者のための未来への投資という認識",
+    "client_msg_id": "dac7934b-ccc3-4718-a68b-d43f7b318212",
+    "name": "h.hata.ai.t",
+    "img": "https://avatars.slack-edge.com/2019-08-19/732537331990_536f34e28226326cb4e8_24.png"
+  },
+  {
+    "user": "U70QDFN82",
+    "text": "バグをいっぱい踏めるし、機能もまだまだ足りてないので刺激求めてる人にはいいんじゃないですかね？？ネタには困らなさそうですよ",
+    "client_msg_id": "af21ccbe-3ea1-463c-aac1-d8456d4481e1",
+    "name": "yutakatay",
+    "img": "https://avatars.slack-edge.com/2020-08-16/1302143736069_0baa468f7bea68e827d9_24.png"
+  },
+  {
+    "user": "UGA29R3FH",
+    "text": "i3で使えてるなら無理して動くこともないかなって個人的には思ってる",
+    "client_msg_id": "35f1b63b-2b7a-40d3-aee9-05c92564a9df",
+    "name": "znmxodq1",
+    "img": "https://avatars.slack-edge.com/2019-03-08/570571829091_2ca91fb0cc1ed2341fe0_24.png"
+  },
+  {
+    "user": "UUD5R0W8G",
+    "text": "<@U70QDFN82> あーそうなんですか waylandはやはりまだx11よりアドバンテージが特にない感じなんですか…英語版arch wikiで以前推奨されていて(今は消えてるかも)、試してみようかなと思っていましたが、検討します",
+    "client_msg_id": "5DAEB660-08CD-4785-83A7-3D0343DFA98E",
+    "name": "vector008200072",
+    "img": "https://secure.gravatar.com/avatar/5f75ec62f700a104d92d29499bbe2eb5.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0021-24.png"
+  },
+  {
+    "user": "U70QDFN82",
+    "text": "あ、あと、chromeが若干動作が遅くなったり固まったりすることがあったりなかったり（バージョンによる）",
+    "client_msg_id": "ffdb1c71-09d1-4efa-876e-a6648479ca86",
+    "name": "yutakatay",
+    "img": "https://avatars.slack-edge.com/2020-08-16/1302143736069_0baa468f7bea68e827d9_24.png"
+  },
+  {
+    "user": "U70QDFN82",
+    "text": "XWaylandを使っていいなら基本的には動作しますね。fcitxも問題ないです。\n個人的にはflameshot(スクリーンショットのアプリ)が動かないのが一番ネックです。\nあとsway関連だとネットワークマネージャーとかのシステムトレイ的なのも動かないのでコマンドで起動するしかないです。\n\n逆にメリットはそんなにないですが、よかったのは外部ディスプレイと接続したときにちらつきとかがほとんどなく接続できるところですかね。",
+    "client_msg_id": "faf3b51b-1271-4313-84ca-024946a8c44e",
+    "name": "yutakatay",
+    "img": "https://avatars.slack-edge.com/2020-08-16/1302143736069_0baa468f7bea68e827d9_24.png"
+  },
+  {
+    "user": "UUD5R0W8G",
+    "text": "新しくdell xps15を買い、archを入れようと思っていて、どうせ再度入れるなら既存の自前の環境を少し変えようと思い\nx11→wayland(or xwayland)\ni3→sway\npolybar→waybar\nにしようかなと思っているのですが、wayland利用者いますかね?\nwaylandでよく聞くのが、既存のxorgで動作していたものが動作しない等ですがxwaylandでも動作しないのでしょうか?また影響が強いものを教えて欲しいです(以前fcitxが動作しない等聞いて…)",
+    "client_msg_id": "85D6DA26-773E-428B-B1CF-5B11EA19AD22",
+    "name": "vector008200072",
+    "img": "https://secure.gravatar.com/avatar/5f75ec62f700a104d92d29499bbe2eb5.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0021-24.png"
+  },
+  {
+    "user": "UAPRYSVPS",
+    "text": "８年前くらいに二万円のProliantみたいな名前のHPのマイクロサーバー買ってArch入れた記憶があるけど、苦労した記憶がない……公式サイトからBIOSのアップデートみたいなのはしたかも…… \n\nで、公式のBIOSが期間限定でしか配信されてなくてやべー気づいてよかった〜って思いながらした気がする",
+    "client_msg_id": "c21c2f98-a9b8-4fe3-acb1-f0241264d1bd",
+    "name": "vermilion928",
+    "img": "https://avatars.slack-edge.com/2018-11-19/482013000928_74c758375b0d3086d76f_24.png"
+  },
+  {
+    "user": "UUFDAQW1E",
+    "text": "ブートローダのみ内蔵SDカードリーダーから起動する力技で解決しました。\nこれだとRAIDも有効化できるので、ブートローダーだけコントローラを経由しないでインストールするのが良さそうです。",
+    "client_msg_id": "39363938-04b6-439c-b8b3-d210322ce506",
+    "name": "kosyu79",
+    "img": "https://secure.gravatar.com/avatar/1dffb41ab8d753b48d816ea8fe9b8e30.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-24.png"
+  },
+  {
+    "user": "UUFDAQW1E",
+    "text": "ドライバ組み込んでインストールを行うか、redhat用のパッケージをarch用に改造するかですかね",
+    "client_msg_id": "d9e9b6dd-1a77-4595-a2f4-890dc3955b47",
+    "name": "kosyu79",
+    "img": "https://secure.gravatar.com/avatar/1dffb41ab8d753b48d816ea8fe9b8e30.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-24.png"
+  },
+  {
+    "user": "U3FJYR7MG",
+    "text": "ESXiみたいにドライバ組み込んだインストールメディア作らないと駄目なのかなぁ…",
+    "client_msg_id": "9dae79ed-e9de-4cca-aa1a-0a9b8fdb1071",
+    "name": "dohq",
+    "img": "https://secure.gravatar.com/avatar/743659d990b6f68ef5c104ba8e415ba5.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0021-24.png"
+  },
+  {
+    "user": "UUFDAQW1E",
+    "text": "ありがとうございます。確認してみましたが、セキュアブートは無効化されていました。\nHPのサーバはハードウェアRAIDがドライバ必須らしく、その辺の問題っぽいというところまでは分かりましたが、RAIDコントローラを無効化すると今度はストレージを認識しなくなるのでどうしようもなさそうです…。",
+    "client_msg_id": "73a81bd5-b162-4bbb-8616-aee7d5a617fe",
+    "name": "kosyu79",
+    "img": "https://secure.gravatar.com/avatar/1dffb41ab8d753b48d816ea8fe9b8e30.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-24.png"
+  },
+  {
+    "user": "U0GFBAM8U",
+    "text": "セキュアブートとかが効いてるのかも",
+    "client_msg_id": "B17D84FC-EBA9-48A0-83A0-C27254C3D219",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png"
+  },
+  {
+    "user": "UUFDAQW1E",
+    "text": "HP ProLiantでarchのインストールに成功した方いますか?\n他のPCと同じように設定してもsystemd-bootが起きて来ません…",
+    "client_msg_id": "972020db-30fe-4237-b3d2-1bd0820c6cfa",
+    "name": "kosyu79",
+    "img": "https://secure.gravatar.com/avatar/1dffb41ab8d753b48d816ea8fe9b8e30.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-24.png"
+  },
+  {
+    "user": "UVB7L4CKH",
+    "text": "鍵の用途の設定が間違ってたみたいです\nお騒がせしました",
+    "client_msg_id": "dc37a611-fc08-4a1e-a573-8a2e64535cdd",
+    "name": "tatsumigamou",
+    "img": "https://avatars.slack-edge.com/2020-03-12/985313571153_203fee630d3a4a1053a1_24.jpg"
+  },
+  {
+    "user": "UVB7L4CKH",
+    "text": "Arch LinuxでYubikey 5 NFCに保存したPGP鍵を使っての復号がうまくできないのですが、同じ環境でちゃんと使えてる方っています？\n署名はできて検証もできるのですが……",
+    "client_msg_id": "3058b3eb-1724-4579-b061-6243b3cc7359",
+    "name": "tatsumigamou",
+    "img": "https://avatars.slack-edge.com/2020-03-12/985313571153_203fee630d3a4a1053a1_24.jpg"
+  },
+  {
+    "user": "UPLFHSQ2V",
+    "text": "初AUR PKGBUILD投稿しました! 審査がないのはちょっと不安な感がありますが、すごく簡単に公開できますね!\n<https://aur.archlinux.org/cgit/aur.git/tree/PKGBUILD?h=bashcaster>",
+    "client_msg_id": "cb2027a5-5f1d-48d5-96ce-b70115c411f9",
+    "name": "conao3",
+    "img": "https://secure.gravatar.com/avatar/1a9a49807415fb97544a7383a9288b84.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0006-24.png"
+  },
+  {
+    "user": "UAPRYSVPS",
+    "text": "無いですね...:octocat:",
+    "client_msg_id": "b7f130fa-948a-432b-8fdf-77e2c1b0198f",
+    "name": "vermilion928",
+    "img": "https://avatars.slack-edge.com/2018-11-19/482013000928_74c758375b0d3086d76f_24.png"
+  },
+  {
+    "user": "U0PM6EYR1",
+    "text": "ヒストリ見てみましたが、無かったですネ",
+    "client_msg_id": "6b1db296-72f2-4a08-adca-181154bf5d60",
+    "name": "raa0121",
+    "img": "https://secure.gravatar.com/avatar/35b032d7b2d4182b0c2de1ef85ba91f2.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0009-24.png"
+  },
+  {
+    "user": "U0PM6EYR1",
+    "text": "<https://github.com/archlinux/svntogit-packages/blob/packages/pacman/trunk/pacman.conf>",
+    "client_msg_id": "963ba2e2-3300-4ac6-8121-173fdbac8db9",
+    "name": "raa0121",
+    "img": "https://secure.gravatar.com/avatar/35b032d7b2d4182b0c2de1ef85ba91f2.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0009-24.png"
+  },
+  {
+    "user": "UAPRYSVPS",
+    "text": "なるほど…… じゃぁやっぱり自分で入れたんだな、ありがとうございますｗｗ",
+    "client_msg_id": "a0ce1536-b471-40c8-930e-e061a1ebb42a",
+    "name": "vermilion928",
+    "img": "https://avatars.slack-edge.com/2018-11-19/482013000928_74c758375b0d3086d76f_24.png"
+  },
+  {
+    "user": "",
+    "text": "",
+    "client_msg_id": "",
+    "name": "",
+    "img": ""
+  }
+]
