@@ -1,0 +1,29 @@
+td {
+ border-bottom:1px solid #ccc;
+}
+td {
+ min-width: 100px;
+ word-break: break-all;
+}
+pre {
+ background-color: #222;
+ color: #ccc;
+}
+p code {
+ background-color: #dddddd30;
+ padding: 3px 5px;
+}
+td img {
+ float: right;
+ padding: 10px;
+}
+td p {
+ margin: 10px;
+}
+td {
+ border-bottom:1px solid #ccc;
+}
+td {
+ min-width: 100px;
+ word-break: break-all;
+}
