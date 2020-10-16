@@ -1,11 +1,614 @@
 [
   {
+    "user": "U70QDFN82",
+    "text": "kinesisはいいらしいとよく聞く\n<https://www.edikun.co.jp/kinesis/>",
+    "client_msg_id": "477cfb78-db47-479e-b8ba-9dfcf8ebf517",
+    "name": "yutakatay",
+    "img": "https://avatars.slack-edge.com/2020-08-16/1302143736069_0baa468f7bea68e827d9_24.png",
+    "time": "2020/10/16 20:15:16",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1602846911235200"
+  },
+  {
+    "user": "UVB7L4CKH",
+    "text": "7段はレガシーなThinkpadユーザーへの憧れ的な意味で欲しい面はありますね",
+    "client_msg_id": "3a40130e-5f57-4531-82d7-9668e6284ad8",
+    "name": "tatsumigamou",
+    "img": "https://avatars.slack-edge.com/2020-03-12/985313571153_203fee630d3a4a1053a1_24.jpg",
+    "time": "2020/10/16 20:15:16",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1602846895234900"
+  },
+  {
+    "user": "UGA29R3FH",
+    "text": "7段あった所で見ないと押せないので結局使わなくなってしまうやつ（多分）",
+    "client_msg_id": "ede08bef-031b-4f75-9325-20aa4ff20628",
+    "name": "znmxodq1",
+    "img": "https://avatars.slack-edge.com/2019-03-08/570571829091_2ca91fb0cc1ed2341fe0_24.png",
+    "time": "2020/10/16 20:15:16",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1602846857234200"
+  },
+  {
+    "user": "UVB7L4CKH",
+    "text": "サイズ考えるとTrackpoint IIになるんですかね\n個人的には7段時代の奴使ってみたいんですけど\nX230じゃなくて220買えばよかったかな……",
+    "client_msg_id": "788b1227-2964-4866-b6ee-54325ab5972b",
+    "name": "tatsumigamou",
+    "img": "https://avatars.slack-edge.com/2020-03-12/985313571153_203fee630d3a4a1053a1_24.jpg",
+    "time": "2020/10/16 20:15:16",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1602846813233700"
+  },
+  {
+    "user": "U70QDFN82",
+    "text": "トラックポイントはほしい",
+    "client_msg_id": "4a2592a5-d33d-4393-8bc4-dd526553673a",
+    "name": "yutakatay",
+    "img": "https://avatars.slack-edge.com/2020-08-16/1302143736069_0baa468f7bea68e827d9_24.png",
+    "time": "2020/10/16 20:15:16",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1602846786233100"
+  },
+  {
+    "user": "UGA29R3FH",
+    "text": "キーは少なくてもいいんだけど",
+    "client_msg_id": "7c1d0677-a298-4ee1-8e1e-42cfd5b5f53a",
+    "name": "znmxodq1",
+    "img": "https://avatars.slack-edge.com/2019-03-08/570571829091_2ca91fb0cc1ed2341fe0_24.png",
+    "time": "2020/10/16 20:15:16",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1602846786233000"
+  },
+  {
+    "user": "U70QDFN82",
+    "text": "大きいのあんまりなんですよね〜",
+    "client_msg_id": "2466e10c-c7b9-492e-a0f5-136a5067b19c",
+    "name": "yutakatay",
+    "img": "https://avatars.slack-edge.com/2020-08-16/1302143736069_0baa468f7bea68e827d9_24.png",
+    "time": "2020/10/16 20:15:16",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1602846768232400"
+  },
+  {
+    "user": "UGA29R3FH",
+    "text": "そりゃ欲しい",
+    "client_msg_id": "297d4ed3-3123-492c-b141-de551298e00e",
+    "name": "znmxodq1",
+    "img": "https://avatars.slack-edge.com/2019-03-08/570571829091_2ca91fb0cc1ed2341fe0_24.png",
+    "time": "2020/10/16 20:15:16",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1602846768232300"
+  },
+  {
+    "user": "UVB7L4CKH",
+    "text": "メカニカル七段トラックポイントキーボードという属性てんこ盛りキーボード\n欲しくないですか？",
+    "client_msg_id": "7d2ca157-7d06-4c4c-98f7-94047a144490",
+    "name": "tatsumigamou",
+    "img": "https://avatars.slack-edge.com/2020-03-12/985313571153_203fee630d3a4a1053a1_24.jpg",
+    "time": "2020/10/16 20:15:16",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1602846754231700"
+  },
+  {
+    "user": "U70QDFN82",
+    "text": "独特だ",
+    "client_msg_id": "c20353ef-c8cc-448b-b7e0-b81e8f4e3fe2",
+    "name": "yutakatay",
+    "img": "https://avatars.slack-edge.com/2020-08-16/1302143736069_0baa468f7bea68e827d9_24.png",
+    "time": "2020/10/16 20:15:16",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1602846747231500"
+  },
+  {
+    "user": "U70QDFN82",
+    "text": "<https://tex.com.tw/products/shinobi?variant=16969883648090>",
+    "client_msg_id": "d6b04929-6f51-43ed-9634-60ff8461bab5",
+    "name": "yutakatay",
+    "img": "https://avatars.slack-edge.com/2020-08-16/1302143736069_0baa468f7bea68e827d9_24.png",
+    "time": "2020/10/16 20:15:16",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1602846726230700"
+  },
+  {
+    "user": "UGA29R3FH",
+    "text": "HHKB買えば物欲収まるかと思ってたけど、買ったらメカニカルキーボードが欲しくなってきたんだよな、なんかおかしい",
+    "client_msg_id": "4e41a5f7-85b2-4168-add4-054337338e60",
+    "name": "znmxodq1",
+    "img": "https://avatars.slack-edge.com/2019-03-08/570571829091_2ca91fb0cc1ed2341fe0_24.png",
+    "time": "2020/10/16 20:15:17",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1602846718230500"
+  },
+  {
+    "user": "UVB7L4CKH",
+    "text": "TEX Shinobiを近いうちに買いたいところなんですが、なかなか予算の都合がつかなくて……",
+    "client_msg_id": "7f1c483a-3cb8-4d99-894f-6eefa9426720",
+    "name": "tatsumigamou",
+    "img": "https://avatars.slack-edge.com/2020-03-12/985313571153_203fee630d3a4a1053a1_24.jpg",
+    "time": "2020/10/16 20:15:17",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1602846672229600"
+  },
+  {
+    "user": "U70QDFN82",
+    "text": "Thinkpadのキーボードは普通にいいですもんね〜（Thinkpad信者）",
+    "client_msg_id": "8d0d5473-a0b5-4e95-9e08-b2937ff50c36",
+    "name": "yutakatay",
+    "img": "https://avatars.slack-edge.com/2020-08-16/1302143736069_0baa468f7bea68e827d9_24.png",
+    "time": "2020/10/16 20:15:17",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1602846649229200"
+  },
+  {
+    "user": "UVB7L4CKH",
+    "text": "今はThinkpadとGALLERIA（ドスパラ）の付属キーボードです\nThinkpad使ってるせいで尊師スタイルもできないのでなおさらHHKBから足が遠のくという",
+    "client_msg_id": "8e792046-a165-4e59-99b1-632fa95888a2",
+    "name": "tatsumigamou",
+    "img": "https://avatars.slack-edge.com/2020-03-12/985313571153_203fee630d3a4a1053a1_24.jpg",
+    "time": "2020/10/16 20:15:17",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1602846611228500"
+  },
+  {
+    "user": "U70QDFN82",
+    "text": "Realforce？",
+    "client_msg_id": "2aa44984-c603-481a-a958-a914c83721dc",
+    "name": "yutakatay",
+    "img": "https://avatars.slack-edge.com/2020-08-16/1302143736069_0baa468f7bea68e827d9_24.png",
+    "time": "2020/10/16 20:15:17",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1602846577227800"
+  },
+  {
+    "user": "U70QDFN82",
+    "text": "今なに使ってるんですか？？",
+    "client_msg_id": "2dd91c37-6c53-4589-a1a6-41a59eb95d40",
+    "name": "yutakatay",
+    "img": "https://avatars.slack-edge.com/2020-08-16/1302143736069_0baa468f7bea68e827d9_24.png",
+    "time": "2020/10/16 20:15:17",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1602846573227500"
+  },
+  {
+    "user": "UVB7L4CKH",
+    "text": "ですよね\nそこもあってなかなか踏み切れずにいます",
+    "client_msg_id": "231dadb5-ca07-4833-abec-114b8ad7ebe7",
+    "name": "tatsumigamou",
+    "img": "https://avatars.slack-edge.com/2020-03-12/985313571153_203fee630d3a4a1053a1_24.jpg",
+    "time": "2020/10/16 20:15:17",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1602846557227200"
+  },
+  {
+    "user": "UGA29R3FH",
+    "text": "チルダ、右上の端にあって厳しい",
+    "client_msg_id": "eec77acf-cf9c-47fb-a1f5-5c5b6c107662",
+    "name": "znmxodq1",
+    "img": "https://avatars.slack-edge.com/2019-03-08/570571829091_2ca91fb0cc1ed2341fe0_24.png",
+    "time": "2020/10/16 20:15:17",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1602846543226900"
+  },
+  {
+    "user": "UVB7L4CKH",
+    "text": "USのチルダの位置が違った気がするんですけどどうでしたっけ",
+    "client_msg_id": "7e48fe0a-5ff0-4a3f-a38e-5a1b78b1b3bf",
+    "name": "tatsumigamou",
+    "img": "https://avatars.slack-edge.com/2020-03-12/985313571153_203fee630d3a4a1053a1_24.jpg",
+    "time": "2020/10/16 20:15:17",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1602846525226100"
+  },
+  {
+    "user": "UGA29R3FH",
+    "text": "今日MSIME使う羽目になったけどめっちゃ辛かったよ！",
+    "client_msg_id": "b9430081-91ef-45f4-a6b2-fc5ea4816530",
+    "name": "znmxodq1",
+    "img": "https://avatars.slack-edge.com/2019-03-08/570571829091_2ca91fb0cc1ed2341fe0_24.png",
+    "time": "2020/10/16 20:15:17",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1602846513225700"
+  },
+  {
+    "user": "UVB7L4CKH",
+    "text": "escじゃない\nどのキーだっけ",
+    "client_msg_id": "8ee1b516-37ea-4a3b-930c-806aef8cd362",
+    "name": "tatsumigamou",
+    "img": "https://avatars.slack-edge.com/2020-03-12/985313571153_203fee630d3a4a1053a1_24.jpg",
+    "time": "2020/10/16 20:15:17",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1602846502225000"
+  },
+  {
+    "user": "UVB7L4CKH",
+    "text": "カーソルキーとEscの位置ですかね\nカーソルキーはなんかもう……hjklあればいいじゃないって感じで……",
+    "client_msg_id": "c3db361c-13e0-4ac7-8034-7061f631938f",
+    "name": "tatsumigamou",
+    "img": "https://avatars.slack-edge.com/2020-03-12/985313571153_203fee630d3a4a1053a1_24.jpg",
+    "time": "2020/10/16 20:15:17",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1602846487224600"
+  },
+  {
+    "user": "U3FJYR7MG",
+    "text": "skkに慣れ過ぎて普通のimeしか入ってない環境とてもつらい…",
+    "client_msg_id": "4652dba1-c8b7-4572-940e-6e25f30e898e",
+    "name": "dohq",
+    "img": "https://secure.gravatar.com/avatar/743659d990b6f68ef5c104ba8e415ba5.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0021-24.png",
+    "time": "2020/10/16 20:15:17",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1602846479224300"
+  },
+  {
+    "user": "U70QDFN82",
+    "text": "あ、カーソル？",
+    "client_msg_id": "df845e15-4350-4a6c-b26a-158e0a88149d",
+    "name": "yutakatay",
+    "img": "https://avatars.slack-edge.com/2020-08-16/1302143736069_0baa468f7bea68e827d9_24.png",
+    "time": "2020/10/16 20:15:17",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1602846461223300"
+  },
+  {
+    "user": "U70QDFN82",
+    "text": "HHKB使ってないのってCtrl問題なんですかね？それとも~?",
+    "client_msg_id": "6a07fcdb-82ce-473d-9568-b4624d4b890a",
+    "name": "yutakatay",
+    "img": "https://avatars.slack-edge.com/2020-08-16/1302143736069_0baa468f7bea68e827d9_24.png",
+    "time": "2020/10/16 20:15:17",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1602846450222800"
+  },
+  {
+    "user": "UGA29R3FH",
+    "text": "デメリットをメリットが超えると判断したからなー",
+    "client_msg_id": "f5167034-9c03-45ed-911b-be0d1f32a963",
+    "name": "znmxodq1",
+    "img": "https://avatars.slack-edge.com/2019-03-08/570571829091_2ca91fb0cc1ed2341fe0_24.png",
+    "time": "2020/10/16 20:15:17",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1602846420222100"
+  },
+  {
+    "user": "UGA29R3FH",
+    "text": "HHKB使ってるし、それ以前からCtrlとCapsのswapをしているが、非swap環境で地獄を見ている",
+    "client_msg_id": "ada689f8-ef18-46d0-a367-582652ed2dcf",
+    "name": "znmxodq1",
+    "img": "https://avatars.slack-edge.com/2019-03-08/570571829091_2ca91fb0cc1ed2341fe0_24.png",
+    "time": "2020/10/16 20:15:17",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1602846402221500"
+  },
+  {
+    "user": "UVB7L4CKH",
+    "text": "結局汎用的なインターフェースに収まるという\n同じ理由でHHKBも使ってませんし\nそれにしてもMozcのコミット、2年も止まってたんですね",
+    "client_msg_id": "e1941acd-ad00-4ac8-acb2-39db70b8c21d",
+    "name": "tatsumigamou",
+    "img": "https://avatars.slack-edge.com/2020-03-12/985313571153_203fee630d3a4a1053a1_24.jpg",
+    "time": "2020/10/16 20:15:18",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1602846365220500"
+  },
+  {
+    "user": "UVB7L4CKH",
+    "text": "沼に引き込まれる空気が……\nこういう特徴的な奴って慣れると確かにいいんでしょうけど、それ以外の環境で地獄見るのが辛いんですよね",
+    "client_msg_id": "a561002a-5177-41da-9ff9-ff5cfe5466e3",
+    "name": "tatsumigamou",
+    "img": "https://avatars.slack-edge.com/2020-03-12/985313571153_203fee630d3a4a1053a1_24.jpg",
+    "time": "2020/10/16 20:15:18",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1602846297219700"
+  },
+  {
+    "user": "UGA29R3FH",
+    "text": "つeskk.vim",
+    "client_msg_id": "1eb3baf9-e89c-43aa-b353-20c675aa4b6a",
+    "name": "znmxodq1",
+    "img": "https://avatars.slack-edge.com/2019-03-08/570571829091_2ca91fb0cc1ed2341fe0_24.png",
+    "time": "2020/10/16 20:15:18",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1602846254218900"
+  },
+  {
+    "user": "UVB7L4CKH",
+    "text": "多分SKK使ってないのは自分がVimmerだからっていうのもありそうです",
+    "client_msg_id": "986cb343-07d1-480e-bf1c-b99c4edc99cf",
+    "name": "tatsumigamou",
+    "img": "https://avatars.slack-edge.com/2020-03-12/985313571153_203fee630d3a4a1053a1_24.jpg",
+    "time": "2020/10/16 20:15:18",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1602846244218600"
+  },
+  {
+    "user": "UVB7L4CKH",
+    "text": "めちゃくちゃ最近の記事どころかzennだった……",
+    "client_msg_id": "cc0044e5-d56d-4322-afca-3846ae31fb23",
+    "name": "tatsumigamou",
+    "img": "https://avatars.slack-edge.com/2020-03-12/985313571153_203fee630d3a4a1053a1_24.jpg",
+    "time": "2020/10/16 20:15:18",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1602846143217200"
+  },
+  {
+    "user": "U70QDFN82",
+    "text": "Vim??あ〜あの黒い画面で使うやつか。あと終了できないやつ",
+    "client_msg_id": "d865082e-bd6c-441d-852b-77963451714b",
+    "name": "yutakatay",
+    "img": "https://avatars.slack-edge.com/2020-08-16/1302143736069_0baa468f7bea68e827d9_24.png",
+    "time": "2020/10/16 20:15:18",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1602846140217100"
+  },
+  {
+    "user": "UGA29R3FH",
+    "text": "<https://zenn.dev/mattn/articles/5a84f6a09f907c374577>",
+    "client_msg_id": "3bc0ed84-3569-44ea-9e22-fd18f3692c7e",
+    "name": "znmxodq1",
+    "img": "https://avatars.slack-edge.com/2019-03-08/570571829091_2ca91fb0cc1ed2341fe0_24.png",
+    "time": "2020/10/16 20:15:18",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1602846114216400"
+  },
+  {
+    "user": "UVB7L4CKH",
+    "text": "一応あるんですねSKKの実装\n確かvimでもasyncomplete使ってskkを実装してる記事を最近みた気が",
+    "client_msg_id": "bd9671bd-731a-4aa4-ba1f-3326a36ee5a8",
+    "name": "tatsumigamou",
+    "img": "https://avatars.slack-edge.com/2020-03-12/985313571153_203fee630d3a4a1053a1_24.jpg",
+    "time": "2020/10/16 20:15:18",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1602846095216200"
+  },
+  {
+    "user": "USSBNDE68",
+    "text": "WindowsではCorvusSKK使ってますね",
+    "client_msg_id": "e60e29e0-d94d-4649-9e97-c11cb7c7f79d",
+    "name": "jnsk",
+    "img": "https://secure.gravatar.com/avatar/ac0d6e7f8ba1fb401b4a5b6b9e9d2e10.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0020-24.png",
+    "time": "2020/10/16 20:15:18",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1602846082215900"
+  },
+  {
+    "user": "UGA29R3FH",
+    "text": "最悪EmacsとDaredevil SKKを突っ込んでコピペするという手もありますw",
+    "client_msg_id": "17d48bb7-56cb-476c-b007-1e2675e39310",
+    "name": "znmxodq1",
+    "img": "https://avatars.slack-edge.com/2019-03-08/570571829091_2ca91fb0cc1ed2341fe0_24.png",
+    "time": "2020/10/16 20:15:18",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1602846071215300"
+  },
+  {
+    "user": "U70QDFN82",
+    "text": "大人気アプリSKK w",
+    "client_msg_id": "a5b84727-0ce2-4160-99e7-2755cfadf96a",
+    "name": "yutakatay",
+    "img": "https://avatars.slack-edge.com/2020-08-16/1302143736069_0baa468f7bea68e827d9_24.png",
+    "time": "2020/10/16 20:15:18",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1602846048214400"
+  },
+  {
+    "user": "UPYQ3CUJ1",
+    "text": "わたしもwindows/mac ではそれで skk 使ってます",
+    "client_msg_id": "a27327e5-f57e-45dc-aa26-c28cee076990",
+    "name": "shota.af083",
+    "img": "https://secure.gravatar.com/avatar/8806dbddb82d43065dd1190cfcf80c65.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0023-24.png",
+    "time": "2020/10/16 20:15:18",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1602846031213800"
+  },
+  {
+    "user": "UGA29R3FH",
+    "text": "自分で管理できるWindowsマシンにはcorvusskk突っ込んでた",
+    "client_msg_id": "7fb4cf0f-31c8-4932-a94f-5d84c303711d",
+    "name": "znmxodq1",
+    "img": "https://avatars.slack-edge.com/2019-03-08/570571829091_2ca91fb0cc1ed2341fe0_24.png",
+    "time": "2020/10/16 20:15:18",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1602846018213300"
+  },
+  {
+    "user": "U70QDFN82",
+    "text": "SKK挫折勢",
+    "client_msg_id": "30859b4f-a770-4951-8935-9638b5e0714d",
+    "name": "yutakatay",
+    "img": "https://avatars.slack-edge.com/2020-08-16/1302143736069_0baa468f7bea68e827d9_24.png",
+    "time": "2020/10/16 20:15:18",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1602846017213200"
+  },
+  {
+    "user": "USSBNDE68",
+    "text": "気が付いたら戻れなくなってた",
+    "client_msg_id": "85e8a9f0-c224-4dfa-ba20-238c76413f82",
+    "name": "jnsk",
+    "img": "https://secure.gravatar.com/avatar/ac0d6e7f8ba1fb401b4a5b6b9e9d2e10.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0020-24.png",
+    "time": "2020/10/16 20:15:18",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1602846008212300"
+  },
+  {
+    "user": "UVB7L4CKH",
+    "text": "他のプラットフォームでもありましたっけ？",
+    "client_msg_id": "af33c377-f50d-4988-af50-460e831c4120",
+    "name": "tatsumigamou",
+    "img": "https://avatars.slack-edge.com/2020-03-12/985313571153_203fee630d3a4a1053a1_24.jpg",
+    "time": "2020/10/16 20:15:18",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1602846002212100"
+  },
+  {
+    "user": "UGA29R3FH",
+    "text": "corvusskkとかaquaskkとか",
+    "client_msg_id": "8433a09c-c3d1-4c3e-851c-ed7420dc285b",
+    "name": "znmxodq1",
+    "img": "https://avatars.slack-edge.com/2019-03-08/570571829091_2ca91fb0cc1ed2341fe0_24.png",
+    "time": "2020/10/16 20:15:19",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1602845994211500"
+  },
+  {
+    "user": "UVB7L4CKH",
+    "text": "まだWindowsとかmacもたまに使うのでSKKに慣れちゃうとしんどいかなーと思って一回も触ってませんね",
+    "client_msg_id": "7a13ad4d-1b14-4753-9a54-b21f0270d38a",
+    "name": "tatsumigamou",
+    "img": "https://avatars.slack-edge.com/2020-03-12/985313571153_203fee630d3a4a1053a1_24.jpg",
+    "time": "2020/10/16 20:15:19",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1602845978211100"
+  },
+  {
+    "user": "UGA29R3FH",
+    "text": "Linuxにフル移行した辺りで既にSKKユーザーだったからな",
+    "client_msg_id": "8adad56a-a42d-4b3d-8120-89bf864965ef",
+    "name": "znmxodq1",
+    "img": "https://avatars.slack-edge.com/2019-03-08/570571829091_2ca91fb0cc1ed2341fe0_24.png",
+    "time": "2020/10/16 20:15:19",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1602845857210100"
+  },
+  {
+    "user": "U70QDFN82",
+    "text": "モグリか",
+    "client_msg_id": "077f1459-0c53-4e7f-b69f-f00c50d9a767",
+    "name": "yutakatay",
+    "img": "https://avatars.slack-edge.com/2020-08-16/1302143736069_0baa468f7bea68e827d9_24.png",
+    "time": "2020/10/16 20:15:19",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1602845790209200"
+  },
+  {
+    "user": "UGA29R3FH",
+    "text": "実はMozc使ったことがない",
+    "client_msg_id": "29bc5719-b3b9-4e95-bb32-ee72c126a675",
+    "name": "znmxodq1",
+    "img": "https://avatars.slack-edge.com/2019-03-08/570571829091_2ca91fb0cc1ed2341fe0_24.png",
+    "time": "2020/10/16 20:15:19",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1602845780208800"
+  },
+  {
+    "user": "UGA29R3FH",
+    "text": "お、生き返ったのか",
+    "client_msg_id": "8c2f007a-2f77-4c6e-b3e5-3ef3b15d4d72",
+    "name": "znmxodq1",
+    "img": "https://avatars.slack-edge.com/2019-03-08/570571829091_2ca91fb0cc1ed2341fe0_24.png",
+    "time": "2020/10/16 20:15:19",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1602845766208200"
+  },
+  {
+    "user": "UVB7L4CKH",
+    "text": "辞書問題解決できれば普通にGoogle IMEみたいな感じで使えたのでまあいいかなと\n本当はGoogleクラウド変換使いたいんですがね",
+    "client_msg_id": "fa488245-f282-4165-9a2a-46a3f393d5b8",
+    "name": "tatsumigamou",
+    "img": "https://avatars.slack-edge.com/2020-03-12/985313571153_203fee630d3a4a1053a1_24.jpg",
+    "time": "2020/10/16 20:15:19",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1602845765208100"
+  },
+  {
+    "user": "U0HJ7EB9T",
+    "text": "辞書の問題もありましたね...",
+    "client_msg_id": "5385aefd-3be6-495f-bddf-ab91ad46df62",
+    "name": "aruneko99",
+    "img": "https://avatars.slack-edge.com/2017-08-23/229932114416_ca48bb36d6cfe3d998ac_24.png",
+    "time": "2020/10/16 20:15:19",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1602845708207000"
+  },
+  {
+    "user": "UVB7L4CKH",
+    "text": "今でも一応Mozc使ってますがデフォルトだと本当にしんどかったので……\nneologdとかでだましだまし使ってます",
+    "client_msg_id": "d77ff002-496b-40ca-bbc5-b148092a0d51",
+    "name": "tatsumigamou",
+    "img": "https://avatars.slack-edge.com/2020-03-12/985313571153_203fee630d3a4a1053a1_24.jpg",
+    "time": "2020/10/16 20:15:19",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1602845648206400"
+  },
+  {
+    "user": "USSBNDE68",
+    "text": "もうSKKに移行してしまったので、仮にちゃんとした状態になっても戻れるかどうか怪しい()",
+    "client_msg_id": "e23728f0-d825-4183-ac36-ba0b60966b05",
+    "name": "jnsk",
+    "img": "https://secure.gravatar.com/avatar/ac0d6e7f8ba1fb401b4a5b6b9e9d2e10.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0020-24.png",
+    "time": "2020/10/16 20:15:19",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1602845640206100"
+  },
+  {
+    "user": "U70QDFN82",
+    "text": "衝撃が駆け巡ってるw",
+    "client_msg_id": "4c23b62d-ea33-42d7-a6a2-d541a3282840",
+    "name": "yutakatay",
+    "img": "https://avatars.slack-edge.com/2020-08-16/1302143736069_0baa468f7bea68e827d9_24.png",
+    "time": "2020/10/16 20:15:19",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1602845625205300"
+  },
+  {
+    "user": "UVB7L4CKH",
+    "text": "え、Mozc動き始めたんですか？",
+    "client_msg_id": "6773c073-3c8e-4d07-a740-88910dee678f",
+    "name": "tatsumigamou",
+    "img": "https://avatars.slack-edge.com/2020-03-12/985313571153_203fee630d3a4a1053a1_24.jpg",
+    "time": "2020/10/16 20:15:19",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1602845607204400"
+  },
+  {
+    "user": "U0HJ7EB9T",
+    "text": "実質これしか選択しがない状況でプロジェクトが死んでいるのは辛かったですからね...\nありがたい限りです......",
+    "client_msg_id": "7e9db5c6-4042-45b4-aafe-8015abbcbdc0",
+    "name": "aruneko99",
+    "img": "https://avatars.slack-edge.com/2017-08-23/229932114416_ca48bb36d6cfe3d998ac_24.png",
+    "time": "2020/10/16 20:15:19",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1602845579203300"
+  },
+  {
+    "user": "U70QDFN82",
+    "text": "ありがたい・・・",
+    "client_msg_id": "e0e4173a-fb73-4ba9-af45-925d7e4456db",
+    "name": "yutakatay",
+    "img": "https://avatars.slack-edge.com/2020-08-16/1302143736069_0baa468f7bea68e827d9_24.png",
+    "time": "2020/10/16 20:15:19",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1602845549202100"
+  },
+  {
+    "user": "U3FJYR7MG",
+    "text": "Mozc…生きてたんですね…(失礼)",
+    "client_msg_id": "4fcc2bc7-6383-4f29-b693-fba6ae7f0a2f",
+    "name": "dohq",
+    "img": "https://secure.gravatar.com/avatar/743659d990b6f68ef5c104ba8e415ba5.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0021-24.png",
+    "time": "2020/10/16 20:15:19",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1602845530201900"
+  },
+  {
+    "user": "USSBNDE68",
+    "text": "ホントだ……GitHubで2ヶ月くらい前からちょこちょこと……",
+    "client_msg_id": "4107dd28-64cd-44d4-9d4e-f6b6f1e04964",
+    "name": "jnsk",
+    "img": "https://secure.gravatar.com/avatar/ac0d6e7f8ba1fb401b4a5b6b9e9d2e10.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0020-24.png",
+    "time": "2020/10/16 20:15:19",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1602845514201600"
+  },
+  {
+    "user": "U0HJ7EB9T",
+    "text": "！？",
+    "client_msg_id": "99ced1b7-fd67-4111-bf4c-67eed2590064",
+    "name": "aruneko99",
+    "img": "https://avatars.slack-edge.com/2017-08-23/229932114416_ca48bb36d6cfe3d998ac_24.png",
+    "time": "2020/10/16 20:15:20",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1602845485200500"
+  },
+  {
+    "user": "USSBNDE68",
+    "text": "え、あのMozcが？！",
+    "client_msg_id": "5f86ef82-ae26-449e-8028-9588037e161d",
+    "name": "jnsk",
+    "img": "https://secure.gravatar.com/avatar/ac0d6e7f8ba1fb401b4a5b6b9e9d2e10.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0020-24.png",
+    "time": "2020/10/16 20:15:20",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1602845359200200"
+  },
+  {
+    "user": "U019C7VLZ4G",
+    "text": "かなり長期間止まってましたが…",
+    "client_msg_id": "1bcb6c50-68d8-4380-a67e-8d67df0b9b66",
+    "name": "getalotofmail",
+    "img": "https://secure.gravatar.com/avatar/5a7f20688dc40b2989935a11bdfa25fe.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0001-24.png",
+    "time": "2020/10/16 20:15:20",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1602845155199700"
+  },
+  {
+    "user": "U019C7VLZ4G",
+    "text": "Mozcの開発動き始めたみたいです",
+    "client_msg_id": "eab20986-f58b-45d0-8459-275c470292dc",
+    "name": "getalotofmail",
+    "img": "https://secure.gravatar.com/avatar/5a7f20688dc40b2989935a11bdfa25fe.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0001-24.png",
+    "time": "2020/10/16 20:15:20",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1602845127199000"
+  },
+  {
+    "user": "UGA29R3FH",
+    "text": "使ってる人には申し訳ないけどibusクソだと思う",
+    "client_msg_id": "45be05c5-adba-470a-ad2d-77bc1db13840",
+    "name": "znmxodq1",
+    "img": "https://avatars.slack-edge.com/2019-03-08/570571829091_2ca91fb0cc1ed2341fe0_24.png",
+    "time": "2020/10/16 20:15:20",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1602844748198200"
+  },
+  {
+    "user": "UPYQ3CUJ1",
+    "text": "ちなみに今日は ibus-skk を入れて試していましたが、スムーズに半角コロンとか打てなかったりとで なんだかなーという印象でした。どっかのファイルをいじると直ったり、使っていれば慣れる気はしますが uim-skk に戻そうと思います。",
+    "client_msg_id": "aa125ad9-b4e4-42c8-b4a2-60a1a246ff96",
+    "name": "shota.af083",
+    "img": "https://secure.gravatar.com/avatar/8806dbddb82d43065dd1190cfcf80c65.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0023-24.png",
+    "time": "2020/10/16 20:15:20",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1602844593197500"
+  },
+  {
+    "user": "UPYQ3CUJ1",
+    "text": "addokoda さん ありがとうございます!! これには辿りつけなかったです。「urxvt 漢字 白」ってググるとヒットしますね。当然のことのように color depth を 32 に設定してましたが、 24 でも使いたい配色への問題はなさそうなのでこれで対処しようかと思います。\n\nkuu さん ありがとうございます！ たしかに uim-fep を起動してみると一番下に fep のモードが表示されていました。ためになりました。",
+    "client_msg_id": "8d2677cd-717c-436f-aa6b-efc54186d2bf",
+    "name": "shota.af083",
+    "img": "https://secure.gravatar.com/avatar/8806dbddb82d43065dd1190cfcf80c65.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0023-24.png",
+    "time": "2020/10/16 20:15:20",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1602844048193600"
+  },
+  {
     "user": "UN1SFMNU8",
     "text": "<https://www.hadacchi.com/wp_blog/2561.html>",
     "client_msg_id": "dbd5673d-9c71-472a-a3d7-2ae9c8d3d6f3",
     "name": "addokoda",
     "img": "https://secure.gravatar.com/avatar/b55bd1ebde600f72f1e83a25c85d893c.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0022-24.png",
-    "time": "2020/10/16 19:17:05",
+    "time": "2020/10/16 20:15:20",
     "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1602841103187600"
   },
   {
