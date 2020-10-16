@@ -1,11 +1,56 @@
 [
   {
+    "user": "UGA29R3FH",
+    "text": "肝心のrxvtの質問に関しては:wakaranai:ので申し訳ない所",
+    "client_msg_id": "f036cccc-b686-4113-b767-e0d8dfcbe225",
+    "name": "znmxodq1",
+    "img": "https://avatars.slack-edge.com/2019-03-08/570571829091_2ca91fb0cc1ed2341fe0_24.png",
+    "time": "2020/10/16 18:16:26",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1602837682187500"
+  },
+  {
+    "user": "UGA29R3FH",
+    "text": "uim-fepの方は多分SSH越しでも動くんじゃないかなー",
+    "client_msg_id": "9006fb39-9fb6-4636-8990-69f6953d452f",
+    "name": "znmxodq1",
+    "img": "https://avatars.slack-edge.com/2019-03-08/570571829091_2ca91fb0cc1ed2341fe0_24.png",
+    "time": "2020/10/16 18:16:26",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1602837553186800"
+  },
+  {
+    "user": "UGA29R3FH",
+    "text": "当然競合するので、uim-fepを使いたいなら一時的にどうにかしてxim側を無効化するなどの工夫が必要ですね",
+    "client_msg_id": "5b54bbb7-c352-4b43-bf1c-2def28835824",
+    "name": "znmxodq1",
+    "img": "https://avatars.slack-edge.com/2019-03-08/570571829091_2ca91fb0cc1ed2341fe0_24.png",
+    "time": "2020/10/16 18:16:26",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1602837468186400"
+  },
+  {
+    "user": "UGA29R3FH",
+    "text": "こんな感じかな",
+    "client_msg_id": "f9b5c8e8-0738-48fe-a5cd-83b6addc715d",
+    "name": "znmxodq1",
+    "img": "https://avatars.slack-edge.com/2019-03-08/570571829091_2ca91fb0cc1ed2341fe0_24.png",
+    "time": "2020/10/16 18:16:26",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1602837414185600"
+  },
+  {
+    "user": "UGA29R3FH",
+    "text": "uim-fepの方はコンソールで動くIMEで、下一行を占有してからもう一つシェルが立ち上がるような動作をします。コンソールの制約を受けますが多分どんな環境でも動きます。\nuim-ximはX Window System(要はGUI)で動くIMEで、ターミナルの上にX側の描画が走るため、相性が悪いと上記のような問題が起きます",
+    "client_msg_id": "a264a7b0-a6db-414f-85cf-cb42cedd38aa",
+    "name": "znmxodq1",
+    "img": "https://avatars.slack-edge.com/2019-03-08/570571829091_2ca91fb0cc1ed2341fe0_24.png",
+    "time": "2020/10/16 18:16:26",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1602837410185400"
+  },
+  {
     "user": "UPYQ3CUJ1",
     "text": "質問をひとつ失礼します。\nuim と Xfce4-terminal を使っていて、ふとターミナルエミュレータを変えようと思い rxvt-unicode を使ってみることにしました。しかし、次の既知のバグにあるような状況になり、どうにかならないかなと調べていましたが、解決策はみつからず。どなたか、これを回避する方法をご存じありませんか? (いちおうパッケージは最新です.)\n<https://github.com/uim/uim/issues/45>\n<http://lists.schmorp.de/pipermail/rxvt-unicode/2014q3/002016.html>\n(メーリングリストにも返信はなさそう。。。)\n\n強いこだわりがあるわけでもないので、 uim か rxvt-unicode をやめるしかないですかね。(リンク先では uim-fep なら問題ないらしいとあるけど、uim-xim と競合? このあたり uim-xim/fep の違いは良く理解していないです)。",
     "client_msg_id": "e93d0bd6-2109-499c-9c8f-fee15f70306c",
     "name": "shota.af083",
     "img": "https://secure.gravatar.com/avatar/8806dbddb82d43065dd1190cfcf80c65.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0023-24.png",
-    "time": "2020/10/15 21:21:39",
+    "time": "2020/10/16 18:16:26",
     "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1602762818182300"
   },
   {
