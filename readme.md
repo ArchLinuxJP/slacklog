@@ -22,6 +22,22 @@ pushは[こちら](https://github.com/marketplace/actions/github-push)を利用�
 
 htmlは、gh-pagesとvueでjsonを参照します。
 
+### slack api
+
+https://api.slack.com/apps : `slacklog`
+
+`Basic Information > Add features and functionality > OAuth & Permissions`
+
+> config.json
+
+```json
+{
+ "SLACK_TOKEN":"xoxp-0000-0000-0000"
+}
+```
+
+`User Token Scopes` : [channels:history](https://api.slack.com/scopes/channels:history), [users:read](https://api.slack.com/scopes/users:read)
+
 ### 使い方
 
 `t.zsh`でテストします。`./config.json`をおいてください。
