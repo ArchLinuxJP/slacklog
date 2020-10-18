@@ -1,11 +1,146 @@
 [
   {
+    "user": "UPYQ3CUJ1",
+    "text": "ただ、頭の片隅においておくのも面倒なので忘れてアップグレードしてそう",
+    "client_msg_id": "4fc7f385-1b8d-4127-a11a-35c608f7c83f",
+    "name": "shota.af083",
+    "img": "https://secure.gravatar.com/avatar/8806dbddb82d43065dd1190cfcf80c65.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0023-24.png",
+    "time": "2020/10/18 15:18:00",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1603001786271100"
+  },
+  {
+    "user": "UPYQ3CUJ1",
+    "text": "nvidia driver の linux 5.9 へのちゃんとした対応もまだになりそうなのでアップグレードは様子見とこうかな。(わたしは ThinkPad X1 extreme ユーザ)。\n<https://forums.developer.nvidia.com/t/nvidia-driver-not-yet-supported-for-linux-kernel-5-9/157263>",
+    "client_msg_id": "884121a8-d4cb-42b9-801e-0ed65d1adec8",
+    "name": "shota.af083",
+    "img": "https://secure.gravatar.com/avatar/8806dbddb82d43065dd1190cfcf80c65.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0023-24.png",
+    "time": "2020/10/18 15:18:00",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1603001230269200"
+  },
+  {
+    "user": "U019C7VLZ4G",
+    "text": "ありがとうございます:grinning::pray::skin-tone-2::pray:",
+    "client_msg_id": "f22b890f-90db-4fc1-ae0a-e49db96b2ab7",
+    "name": "getalotofmail",
+    "img": "https://secure.gravatar.com/avatar/5a7f20688dc40b2989935a11bdfa25fe.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0001-24.png",
+    "time": "2020/10/18 15:18:00",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1603000861266800"
+  },
+  {
+    "user": "U019C7VLZ4G",
+    "text": "`sudo pacman -U /var/cache/pacman/pkg/alsa-utils-1.2.3-2-x86_64.pkg.tar.zst`\nしたところ、また聞こえるようになりました",
+    "client_msg_id": "def5973e-0e11-434f-a254-2e287d0ae4aa",
+    "name": "getalotofmail",
+    "img": "https://secure.gravatar.com/avatar/5a7f20688dc40b2989935a11bdfa25fe.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0001-24.png",
+    "time": "2020/10/18 15:18:00",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1603000805266100"
+  },
+  {
+    "user": "UPYQ3CUJ1",
+    "text": "<https://wiki.archlinux.jp/index.php/%E3%83%91%E3%83%83%E3%82%B1%E3%83%BC%E3%82%B8%E3%81%AE%E3%83%80%E3%82%A6%E3%83%B3%E3%82%B0%E3%83%AC%E3%83%BC%E3%83%89>",
+    "client_msg_id": "8aa86831-36a8-4620-9451-ce54c73508db",
+    "name": "shota.af083",
+    "img": "https://secure.gravatar.com/avatar/8806dbddb82d43065dd1190cfcf80c65.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0023-24.png",
+    "time": "2020/10/18 15:18:00",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1603000391264400"
+  },
+  {
+    "user": "UPYQ3CUJ1",
+    "text": "単純に、 ~pacman の cache がある directory に移動して、そこで、 pacman -S xxxxx.zst で良かったかと~ pacman -U /var/cache/pacman/pkg/xxxxxxx.zst  （ちがったかも. すみません確認してみます",
+    "client_msg_id": "b091830c-1cf2-4c24-9ecb-39040964a4ce",
+    "name": "shota.af083",
+    "img": "https://secure.gravatar.com/avatar/8806dbddb82d43065dd1190cfcf80c65.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0023-24.png",
+    "time": "2020/10/18 15:18:00",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1603000192263900"
+  },
+  {
+    "user": "UPYQ3CUJ1",
+    "text": "私もあまりくわしくないので解決策は downgrade するくらいしか持ちあわせていないです。すみません。\n一応、bug report でもlaplay は動いているそうです。bug report でも alsa-lib を下げれば動くと書いてあります。詳細は bug report を見張っておけばいいんですかね。",
+    "client_msg_id": "76505f0a-0d55-4a64-bc5b-2603b0076547",
+    "name": "shota.af083",
+    "img": "https://secure.gravatar.com/avatar/8806dbddb82d43065dd1190cfcf80c65.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0023-24.png",
+    "time": "2020/10/18 15:18:00",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1603000135263100"
+  },
+  {
+    "user": "U019C7VLZ4G",
+    "text": "alisa-libのdowngradeってどのようにすればできるのでしょうか?",
+    "client_msg_id": "d34d411a-3eea-4d1a-9da3-b145a50edfd8",
+    "name": "getalotofmail",
+    "img": "https://secure.gravatar.com/avatar/5a7f20688dc40b2989935a11bdfa25fe.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0001-24.png",
+    "time": "2020/10/18 15:18:00",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1603000128262900"
+  },
+  {
+    "user": "U019C7VLZ4G",
+    "text": "使ってるCPUがこのissueに上がってるものなのでこのバグにあたっているようです\nありがとうございます",
+    "client_msg_id": "901bb5b4-1ebf-4784-a180-477db7264f4b",
+    "name": "getalotofmail",
+    "img": "https://secure.gravatar.com/avatar/5a7f20688dc40b2989935a11bdfa25fe.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0001-24.png",
+    "time": "2020/10/18 15:18:01",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1603000094261600"
+  },
+  {
+    "user": "U019C7VLZ4G",
+    "text": "`aplay --device=default '/home/kiyugad/Music/test.wav'`\nとしても\n音は鳴りました",
+    "client_msg_id": "82fc8dfd-aabd-4841-a55b-8bd40facfd8f",
+    "name": "getalotofmail",
+    "img": "https://secure.gravatar.com/avatar/5a7f20688dc40b2989935a11bdfa25fe.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0001-24.png",
+    "time": "2020/10/18 15:18:01",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1602999859260300"
+  },
+  {
+    "user": "UPYQ3CUJ1",
+    "text": "関係あるのかな",
+    "client_msg_id": "c91d533e-2d3b-47a9-98ad-b54040953c8e",
+    "name": "shota.af083",
+    "img": "https://secure.gravatar.com/avatar/8806dbddb82d43065dd1190cfcf80c65.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0023-24.png",
+    "time": "2020/10/18 15:18:01",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1602999829259800"
+  },
+  {
+    "user": "UPYQ3CUJ1",
+    "text": "ぱっと見るとこんな bug report があがってますね\n<https://bugs.archlinux.org/task/68313?project=1&amp;order=dateopened&amp;sort=desc>",
+    "client_msg_id": "790111c8-8718-449e-ba25-6f48b2d5581d",
+    "name": "shota.af083",
+    "img": "https://secure.gravatar.com/avatar/8806dbddb82d43065dd1190cfcf80c65.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0023-24.png",
+    "time": "2020/10/18 15:18:01",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1602999788258800"
+  },
+  {
+    "user": "U019C7VLZ4G",
+    "text": "aplay -lLは下記のとおりです:\n```null\n    Discard all samples (playback) or generate zero samples (capture)\nsamplerate\n    Rate Converter Plugin Using Samplerate Library\nspeexrate\n    Rate Converter Plugin Using Speex Resampler\njack\n    JACK Audio Connection Kit\noss\n    Open Sound System\npipewire\n    PipeWire Sound Server\npulse\n    PulseAudio Sound Server\nspeex\n    Plugin using Speex DSP (resample, agc, denoise, echo, dereverb)\nupmix\n    Plugin for channel upmix (4,6,8)\nvdownmix\n    Plugin for channel downmix (stereo) with a simple spacialization\ndefault\n    Default ALSA Output (currently PulseAudio Sound Server)\nhdmi:CARD=Generic,DEV=0\n    HD-Audio Generic, HDMI 0\n    HDMI Audio Output\nhdmi:CARD=Generic,DEV=1\n    HD-Audio Generic, HDMI 1\n    HDMI Audio Output\nhdmi:CARD=Generic,DEV=2\n    HD-Audio Generic, HDMI 2\n    HDMI Audio Output\nusbstream:CARD=Generic\n    HD-Audio Generic\n    USB Stream Output\nsysdefault:CARD=Generic_1\n    HD-Audio Generic, ALC257 Analog\n    Default Audio Device\nfront:CARD=Generic_1,DEV=0\n    HD-Audio Generic, ALC257 Analog\n    Front output / input\nsurround21:CARD=Generic_1,DEV=0\n    HD-Audio Generic, ALC257 Analog\n    2.1 Surround output to Front and Subwoofer speakers\nsurround40:CARD=Generic_1,DEV=0\n    HD-Audio Generic, ALC257 Analog\n    4.0 Surround output to Front and Rear speakers\nsurround41:CARD=Generic_1,DEV=0\n    HD-Audio Generic, ALC257 Analog\n    4.1 Surround output to Front, Rear and Subwoofer speakers\nsurround50:CARD=Generic_1,DEV=0\n    HD-Audio Generic, ALC257 Analog\n    5.0 Surround output to Front, Center and Rear speakers\nsurround51:CARD=Generic_1,DEV=0\n    HD-Audio Generic, ALC257 Analog\n    5.1 Surround output to Front, Center, Rear and Subwoofer speakers\nsurround71:CARD=Generic_1,DEV=0\n    HD-Audio Generic, ALC257 Analog\n    7.1 Surround output to Front, Center, Side, Rear and Woofer speakers\nusbstream:CARD=Generic_1\n    HD-Audio Generic\n    USB Stream Output\nusbstream:CARD=acp\n    acp\n    USB Stream Output\n**** List of PLAYBACK Hardware Devices ****\ncard 0: Generic [HD-Audio Generic], device 3: HDMI 0 [HDMI 0]\n  Subdevices: 1/1\n  Subdevice #0: subdevice #0\ncard 0: Generic [HD-Audio Generic], device 7: HDMI 1 [HDMI 1]\n  Subdevices: 1/1\n  Subdevice #0: subdevice #0\ncard 0: Generic [HD-Audio Generic], device 8: HDMI 2 [HDMI 2]\n  Subdevices: 1/1\n  Subdevice #0: subdevice #0\ncard 1: Generic_1 [HD-Audio Generic], device 0: ALC257 Analog [ALC257 Analog]\n  Subdevices: 1/1\n  Subdevice #0: subdevice #0```",
+    "client_msg_id": "fa640cef-6bd4-4de6-9e11-6b7c21e8ff98",
+    "name": "getalotofmail",
+    "img": "https://secure.gravatar.com/avatar/5a7f20688dc40b2989935a11bdfa25fe.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0001-24.png",
+    "time": "2020/10/18 15:18:01",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1602999711257800"
+  },
+  {
+    "user": "U019C7VLZ4G",
+    "text": "`aplay --device=hw:1,0 '/home/kiyugad/Music/test.wav'`\nを実行すると音が聞こえるので故障ではなさそう",
+    "client_msg_id": "ba40f2b5-0235-4768-ad92-dfb6badf63a8",
+    "name": "getalotofmail",
+    "img": "https://secure.gravatar.com/avatar/5a7f20688dc40b2989935a11bdfa25fe.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0001-24.png",
+    "time": "2020/10/18 15:18:01",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1602999204257300"
+  },
+  {
+    "user": "U019C7VLZ4G",
+    "text": "ThinkPad x13 amdで5.9に上げたら音が出なくなってしまったのですが解決方法がわかりません",
+    "client_msg_id": "3fb0fcf3-f423-4b17-aaa6-049c1a6a813f",
+    "name": "getalotofmail",
+    "img": "https://secure.gravatar.com/avatar/5a7f20688dc40b2989935a11bdfa25fe.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0001-24.png",
+    "time": "2020/10/18 15:18:01",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1602998841256300"
+  },
+  {
     "user": "UGA29R3FH",
     "text": "ようやく流れてきたか(たった数日なのに遅く感じる件)",
     "client_msg_id": "cabcb2ba-fe71-4daf-9a45-0bb0011d4850",
     "name": "znmxodq1",
     "img": "https://avatars.slack-edge.com/2019-03-08/570571829091_2ca91fb0cc1ed2341fe0_24.png",
-    "time": "2020/10/18 10:38:21",
+    "time": "2020/10/18 15:18:01",
     "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1602983744254800"
   },
   {
