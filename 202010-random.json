@@ -1,11 +1,56 @@
 [
   {
+    "user": "UVB7L4CKH",
+    "text": "ずっと `linux-zen` 使ってたので固定したかったんですけど、やっぱり大人しくlts使ったほうがいいですかね……",
+    "client_msg_id": "48782858-743b-40d8-8070-e605c8e55fa6",
+    "name": "tatsumigamou",
+    "img": "https://avatars.slack-edge.com/2020-03-12/985313571153_203fee630d3a4a1053a1_24.jpg",
+    "time": "2020/10/18 18:16:14",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1603011496278800"
+  },
+  {
+    "user": "UPYQ3CUJ1",
+    "text": "おそらく良くなさそうですね。 私が考えていたのは、パッケージの更新を全て保留するということでした。重大な仕事があって切羽つまっているような時は、致命的なバグがないかぎりは更新を止めるようにしてます。",
+    "client_msg_id": "09bd9a1b-fb63-47ad-b2a9-980e67c14f9c",
+    "name": "shota.af083",
+    "img": "https://secure.gravatar.com/avatar/8806dbddb82d43065dd1190cfcf80c65.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0023-24.png",
+    "time": "2020/10/18 18:16:14",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1603011413277200"
+  },
+  {
+    "user": "UCA1NQM5K",
+    "text": "カーネルをバージョンを上げたくないのであれば個人的にはltsにする方をオススメしたいですが、一時的に止めるだけならそれでもいいと思います",
+    "client_msg_id": "3a15dbcc-2c7e-4acb-ae83-3333151e149e",
+    "name": "angel.beats.kanade.yu",
+    "img": "https://avatars.slack-edge.com/2020-04-19/1084275690241_c2a4866502e22de56328_24.png",
+    "time": "2020/10/18 18:16:14",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1603011325275700"
+  },
+  {
+    "user": "UVB7L4CKH",
+    "text": "excludeよりignoreの方が正しいかも知れない",
+    "client_msg_id": "e3f95eaf-1275-47d3-b414-64195f083531",
+    "name": "tatsumigamou",
+    "img": "https://avatars.slack-edge.com/2020-03-12/985313571153_203fee630d3a4a1053a1_24.jpg",
+    "time": "2020/10/18 18:16:15",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1603010702272100"
+  },
+  {
+    "user": "UVB7L4CKH",
+    "text": "カーネルバージョンの固定って普通にpacmanでexcludeしちゃっていいものなんですかね？\n今までなんも考えずにカーネルのバージョン上げてた記憶がある……",
+    "client_msg_id": "46ae15da-d166-421a-b8f9-02ecbba684bf",
+    "name": "tatsumigamou",
+    "img": "https://avatars.slack-edge.com/2020-03-12/985313571153_203fee630d3a4a1053a1_24.jpg",
+    "time": "2020/10/18 18:16:15",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1603010668271800"
+  },
+  {
     "user": "UPYQ3CUJ1",
     "text": "ただ、頭の片隅においておくのも面倒なので忘れてアップグレードしてそう",
     "client_msg_id": "4fc7f385-1b8d-4127-a11a-35c608f7c83f",
     "name": "shota.af083",
     "img": "https://secure.gravatar.com/avatar/8806dbddb82d43065dd1190cfcf80c65.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0023-24.png",
-    "time": "2020/10/18 15:18:00",
+    "time": "2020/10/18 18:16:15",
     "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1603001786271100"
   },
   {
