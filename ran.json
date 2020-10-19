@@ -1,11 +1,65 @@
 [
   {
+    "user": "UPYQ3CUJ1",
+    "text": "ざっと追ってみてところだと、\n• そもそものスレッドの始まりは問題があったのではなく、公式で linux 5.9 に完全には対応していないことの注意喚起\n• そのスレッドで、古めの GPU向けの nvidia-390xx での問題が議論されている (他のバージョンには関係のない話 (?))\n• （ちなみに初めにスレッドを始めた人は、RTX 2060 を使っていて openCL も使いたいらしくどう対応しようか考えていたそう。 この人は IgnorePkg=linux でしばらく様子を見るそう)\nちなみに、",
+    "client_msg_id": "d6ba5f7b-bc57-4fb4-a630-655cce8d73e4",
+    "name": "shota.af083",
+    "img": "https://secure.gravatar.com/avatar/8806dbddb82d43065dd1190cfcf80c65.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0023-24.png",
+    "time": "2020/10/19 10:38:19",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1603071469307000"
+  },
+  {
+    "user": "UVB7L4CKH",
+    "text": "ありがたいです\n僕の方もちょっとフォーラムとか追いかけてみます",
+    "client_msg_id": "4a1b8da1-96dc-482f-ae63-35606b32656f",
+    "name": "tatsumigamou",
+    "img": "https://avatars.slack-edge.com/2020-03-12/985313571153_203fee630d3a4a1053a1_24.jpg",
+    "time": "2020/10/19 10:38:19",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1603069105301500"
+  },
+  {
+    "user": "UPYQ3CUJ1",
+    "text": "もう少し詳しく追ってみてなにかわかったら、ここで共有するようにします",
+    "client_msg_id": "36266e8c-8830-4442-8d47-8a75df83f5cc",
+    "name": "shota.af083",
+    "img": "https://secure.gravatar.com/avatar/8806dbddb82d43065dd1190cfcf80c65.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0023-24.png",
+    "time": "2020/10/19 10:38:19",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1603069082301000"
+  },
+  {
+    "user": "UVB7L4CKH",
+    "text": "情報の取捨選択、日本語でも全然できないのに英語でできる訳無いじゃんってのはありますね",
+    "client_msg_id": "a84821f3-f72d-49a3-8a00-3b3d2f08a6f0",
+    "name": "tatsumigamou",
+    "img": "https://avatars.slack-edge.com/2020-03-12/985313571153_203fee630d3a4a1053a1_24.jpg",
+    "time": "2020/10/19 10:38:19",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1603068895298900"
+  },
+  {
+    "user": "UPYQ3CUJ1",
+    "text": "なんとなくは英語が理解できるつもりでいるけど、フォーラムなので各々で起きたことを議論していて自分にとって何が大事かよく分からないですね、、、、",
+    "client_msg_id": "91057619-7788-452b-8ad4-4bc8fed98253",
+    "name": "shota.af083",
+    "img": "https://secure.gravatar.com/avatar/8806dbddb82d43065dd1190cfcf80c65.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0023-24.png",
+    "time": "2020/10/19 10:38:19",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1603068867298400"
+  },
+  {
+    "user": "UVB7L4CKH",
+    "text": "うーん今までのNVIDIA Driverが依存しているモジュールかなんかのサポートが5.9だと落ちるからカーネル側のアダプタで対応するかドライバ側でモジュールをアップデートするかの話？\n英語もLinuxも全然わからない",
+    "client_msg_id": "e0560f59-dbe7-4c2c-a5a5-c70cbcb0eda7",
+    "name": "tatsumigamou",
+    "img": "https://avatars.slack-edge.com/2020-03-12/985313571153_203fee630d3a4a1053a1_24.jpg",
+    "time": "2020/10/19 10:38:20",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1603068769296600"
+  },
+  {
     "user": "UVB7L4CKH",
     "text": "あー、NVIDIAは対応しない・できない（少なくとも現状では気をつけろって声明しか出してない）てカーネル側での対応を期待している感じなんですかね\nそれとも最新の10xx向けカーネルでは対応できている？\n機械翻訳通しながらだとどうしてもニュアンスがいくらか欠落してしまうのがつらい……",
     "client_msg_id": "44eb84ef-a89e-4d03-b8ec-1f41ce92bbc1",
     "name": "tatsumigamou",
     "img": "https://avatars.slack-edge.com/2020-03-12/985313571153_203fee630d3a4a1053a1_24.jpg",
-    "time": "2020/10/19 09:48:16",
+    "time": "2020/10/19 10:38:20",
     "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1603067857291000"
   },
   {
