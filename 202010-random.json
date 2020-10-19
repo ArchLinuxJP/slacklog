@@ -1,11 +1,38 @@
 [
   {
+    "user": "UVB7L4CKH",
+    "text": "あー、NVIDIAは対応しない・できない（少なくとも現状では気をつけろって声明しか出してない）てカーネル側での対応を期待している感じなんですかね\nそれとも最新の10xx向けカーネルでは対応できている？\n機械翻訳通しながらだとどうしてもニュアンスがいくらか欠落してしまうのがつらい……",
+    "client_msg_id": "44eb84ef-a89e-4d03-b8ec-1f41ce92bbc1",
+    "name": "tatsumigamou",
+    "img": "https://avatars.slack-edge.com/2020-03-12/985313571153_203fee630d3a4a1053a1_24.jpg",
+    "time": "2020/10/19 09:48:16",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1603067857291000"
+  },
+  {
+    "user": "UPYQ3CUJ1",
+    "text": "中途半端にnvidia driverについて引用していてフェアでない気がするので、参考までに、私が1番初めにこの話題について見つけたところも引用しておきます。昨日見たときから、さらに話が続いているみたいでした。\n混乱を招いていたらすみません。\n\n<https://bbs.archlinux.org/viewtopic.php?id=259936|https://bbs.archlinux.org/viewtopic.php?id=259936>",
+    "client_msg_id": "65bee2c6-23fb-4347-a778-e7ad615ef60e",
+    "name": "shota.af083",
+    "img": "https://secure.gravatar.com/avatar/8806dbddb82d43065dd1190cfcf80c65.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0023-24.png",
+    "time": "2020/10/19 09:48:16",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1603067345289200"
+  },
+  {
+    "user": "UVB7L4CKH",
+    "text": "カーネルの件、とりあえず11月中旬まではIgnorePkgにしようかと\nNVIDIAがそのぐらいには対応できるって言ってるので",
+    "client_msg_id": "61303299-4c5a-457b-8553-6ffcfbe57e26",
+    "name": "tatsumigamou",
+    "img": "https://avatars.slack-edge.com/2020-03-12/985313571153_203fee630d3a4a1053a1_24.jpg",
+    "time": "2020/10/19 09:48:16",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1603066175283800"
+  },
+  {
     "user": "UGA29R3FH",
     "text": "よくKernelのバージョンをPinningしてたりするけど問題起きたことはないな",
     "client_msg_id": "6d702413-87ed-4a1e-b476-257e8352f756",
     "name": "znmxodq1",
     "img": "https://avatars.slack-edge.com/2019-03-08/570571829091_2ca91fb0cc1ed2341fe0_24.png",
-    "time": "2020/10/18 19:16:46",
+    "time": "2020/10/19 09:48:17",
     "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1603014870281200"
   },
   {
