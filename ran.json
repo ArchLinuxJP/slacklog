@@ -1,11 +1,20 @@
 [
   {
+    "user": "UVB7L4CKH",
+    "text": "知りたいことというか、NVIDIAが対応するまでアップデートは待つつもりだったんですが、フォーラムとかで話が動いてるっぽいのが気になっただけなので\n見た感じどちらにせよ待つしかなさそうなので待ちます",
+    "client_msg_id": "5c502e95-f339-483a-94e1-bc51a141f107",
+    "name": "tatsumigamou",
+    "img": "https://avatars.slack-edge.com/2020-03-12/985313571153_203fee630d3a4a1053a1_24.jpg",
+    "time": "2020/10/19 12:16:30",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1603075614314500"
+  },
+  {
     "user": "UPYQ3CUJ1",
-    "text": "ざっと追ってみてところだと、\n• そもそものスレッドの始まりは問題があったのではなく、公式で linux 5.9 に完全には対応していないことの注意喚起\n• そのスレッドで、古めの GPU向けの nvidia-390xx での問題が議論されている (他のバージョンには関係のない話 (?))\n• （ちなみに初めにスレッドを始めた人は、RTX 2060 を使っていて openCL も使いたいらしくどう対応しようか考えていたそう。 この人は IgnorePkg=linux でしばらく様子を見るそう)\nちなみに、",
+    "text": "ざっと先程のスレッドを追ってみてところだと、\n• そもそものスレッドの始まりは問題があったのではなく、公式で linux 5.9 に完全には対応していないことの注意喚起\n• そのスレッドで、古めの GPU向けの nvidia-390xx での問題が議論されている (他のバージョンには関係のない話 (?) 問題が起きないとは言えないが)\n• （ちなみに初めにスレッドを始めた人は、RTX 2060 を使っていて openCL も使いたいらしくどう対応しようか考えていたそう。 この人は IgnorePkg=linux でしばらく様子を見るそう)\nちなみに、\n• nvidia が提供するのは linux 向けの kernel module で （いわゆる modprobe で読むやつ) 、これの linux 5.9 への対応がまだだそう (公式) \nのようだと思います。おそらく知りたい事の直接の答えは、私はもちあわせていませんし、スレッドを追ったところで分からないのかと思います。\n\n私の場合は、特になにも考えないで気がむいて時間があるときにアップグレードかな。。。",
     "client_msg_id": "d6ba5f7b-bc57-4fb4-a630-655cce8d73e4",
     "name": "shota.af083",
     "img": "https://secure.gravatar.com/avatar/8806dbddb82d43065dd1190cfcf80c65.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0023-24.png",
-    "time": "2020/10/19 10:38:19",
+    "time": "2020/10/19 12:16:30",
     "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1603071469307000"
   },
   {
