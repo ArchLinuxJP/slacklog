@@ -1,35 +1,44 @@
 <!DOCTYPE html>
 <html lang="ja">
  <head>
-	<meta http-equiv="Pragma" content="no-cache" />
-	<meta http-equiv="Cache-Control" content="no-cache" />
-	<meta http-equiv="CONTENT-TYPE" content="text/html; charset=utf-8" />
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width,initial-scale=1">
+	<meta name="robots" content="noindex, nofollow">
 	<script src="https://unpkg.com/vue/dist/vue.js"></script>
 	<script src="https://unpkg.com/axios/dist/axios.min.js"></script>
 	<script src="/slacklog/dist/vue-markdown.js"></script>
+	<link rel="icon" href="/favicon.ico" type="image/x-icon"/>
+	<link rel="apple-touch-icon" href="/apple-touch-icon.png" />
+	<link rel="shortcut icon" href="/favicon.ico" type="image/x-icon"/>
+	<link rel="stylesheet" href="/slacklog/style.css">
 	<title>archlinuxjp slacklog</title>
  </head>
  <body>
-	<h2>#general</h2>
-	<h2><a href="/slacklog/random">#random</a></h2>
-	<p><a href="/slacklog/general/202009">202009</a></p>
-	<p><a href="/slacklog/general/202010">202010</a></p>
-	<div id="app">
-	 <table>
-		<tr v-for="(value,key) in cities" v-bind:id=value.client_msg_id>
-		 <td><img v-bind:src="value.img"></td>
-		 <td><a v-bind:href="'#' + value.client_msg_id">{{value.name}}</a></td>
-		 <td><a v-bind:href="value.link">{{value.time}}</a></td>
-		 <td>
-			<vue-markdown>{{ value.text.replace(/```/g,'\n```') }}</vue-markdown>
-		 </td>
-		</tr>
-	 </table>
+	<div id="content">
+	 <div class="top">
+		<h1>archlinuxjp / <a href="/slacklog">slacklog</a></h1>
+		<p><a href="https://archlinuxjp.slack.com/">https://archlinuxjp.slack.com</a></p>
+	 </div>
+	 <h2>#general</h2>
+	 <h2><a href="/slacklog/random">#random</a></h2>
+	 <p><a href="/slacklog/general/202009">202009</a></p>
+	 <p><a href="/slacklog/general/202010">202010</a></p>
+	 <div id="app">
+		<table>
+		 <tr v-for="(value,key) in cities" v-bind:id=value.client_msg_id>
+			<td><img v-bind:src="value.img"></td>
+			<td><a v-bind:href="'#' + value.client_msg_id">{{value.name}}</a></td>
+			<td><a v-bind:href="value.link">{{value.time}}</a></td>
+			<td>
+			 <vue-markdown>{{ value.text.replace(/```/g,'\n```') }}</vue-markdown>
+			</td>
+		 </tr>
+		</table>
+	 </div>
 	</div>
 	<script src="app.js"></script>
-	<link rel="stylesheet" href="/slacklog/style.css">
+	<footer id="footer">
+	 <a href="https://github.com/ArchLinuxJP/slacklog">github/archlinuxjp</a>
+	</footer>
  </body>
- <footer>
-	<a href="https://github.com/ArchLinuxJP/slacklog">github/archlinuxjp</a>
- </footer>
 </html>
