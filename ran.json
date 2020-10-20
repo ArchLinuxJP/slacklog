@@ -1,11 +1,92 @@
 [
   {
     "user": "U0PM6EYR1",
+    "text": "よし、やったろ",
+    "client_msg_id": "3233fa23-5d49-4d5c-8f3a-a9a7e212ddde",
+    "name": "raa0121",
+    "img": "https://secure.gravatar.com/avatar/35b032d7b2d4182b0c2de1ef85ba91f2.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0009-24.png",
+    "time": "2020/10/20 21:21:54",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1603195477329700"
+  },
+  {
+    "user": "U0PM6EYR1",
+    "text": "イケてるくさいわー",
+    "client_msg_id": "42161b0d-f014-4240-89d8-f2cdbfe194a4",
+    "name": "raa0121",
+    "img": "https://secure.gravatar.com/avatar/35b032d7b2d4182b0c2de1ef85ba91f2.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0009-24.png",
+    "time": "2020/10/20 21:21:54",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1603195447329500"
+  },
+  {
+    "user": "U0PM6EYR1",
+    "text": "```[linux-nitrous]\nserver = <https://github.com/xdevs23/linux-nitrous/releases/latest/download/>```\nへっ、こんなんで行けるのか",
+    "client_msg_id": "41c72bf1-d735-40aa-931c-edcb5d87b6eb",
+    "name": "raa0121",
+    "img": "https://secure.gravatar.com/avatar/35b032d7b2d4182b0c2de1ef85ba91f2.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0009-24.png",
+    "time": "2020/10/20 21:21:54",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1603195171329100"
+  },
+  {
+    "user": "UGA29R3FH",
+    "text": "そうか、CIでリポジトリ管理するという手があるのか",
+    "client_msg_id": "d7190d43-6706-44e9-85a2-356c36fba728",
+    "name": "znmxodq1",
+    "img": "https://avatars.slack-edge.com/2019-03-08/570571829091_2ca91fb0cc1ed2341fe0_24.png",
+    "time": "2020/10/20 21:21:54",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1603195137328600"
+  },
+  {
+    "user": "UGA29R3FH",
+    "text": "相性よさげ",
+    "client_msg_id": "a61ce803-7b89-44e0-b050-180bfde14a63",
+    "name": "znmxodq1",
+    "img": "https://avatars.slack-edge.com/2019-03-08/570571829091_2ca91fb0cc1ed2341fe0_24.png",
+    "time": "2020/10/20 21:21:54",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1603195113328000"
+  },
+  {
+    "user": "U0PM6EYR1",
+    "text": "github release に msys2/mingw{32,64} のパッケージを github actions で自動ビルドしてアップロードできるようにしたんですが、\nそれを pacman からいい感じにアップデートできるようにならないかなーって思って色々考えてたら、上のリポジトリを\n<https://wiki.archlinux.jp/index.php/%E9%9D%9E%E5%85%AC%E5%BC%8F%E3%83%A6%E3%83%BC%E3%82%B6%E3%83%BC%E3%83%AA%E3%83%9D%E3%82%B8%E3%83%88%E3%83%AA> から見つけたので…",
+    "client_msg_id": "3d644a80-b73c-4c52-863d-d2ca5decb693",
+    "name": "raa0121",
+    "img": "https://secure.gravatar.com/avatar/35b032d7b2d4182b0c2de1ef85ba91f2.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0009-24.png",
+    "time": "2020/10/20 21:21:54",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1603194940327800"
+  },
+  {
+    "user": "U3FJYR7MG",
+    "text": "独自パッチ当てたビルド済みカーネルなんかも置いてあったりしてなんていうかGitHub心広いなーという感じ",
+    "client_msg_id": "ce62d50b-351c-4037-a609-8c40435428c9",
+    "name": "dohq",
+    "img": "https://secure.gravatar.com/avatar/743659d990b6f68ef5c104ba8e415ba5.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0021-24.png",
+    "time": "2020/10/20 21:21:54",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1603194559326000"
+  },
+  {
+    "user": "U0GFBAM8U",
+    "text": "便利",
+    "client_msg_id": "194a65de-9b3a-4b86-a9c9-00de685334b7",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2020/10/20 21:21:54",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1603194466324600"
+  },
+  {
+    "user": "UGA29R3FH",
+    "text": "バイナリホスティングできるとこならどこでもよさそうではあるが、GH Pagesに置くのは思い付かなかったな",
+    "client_msg_id": "6cdb7047-893c-44bf-8627-0269645c8e52",
+    "name": "znmxodq1",
+    "img": "https://avatars.slack-edge.com/2019-03-08/570571829091_2ca91fb0cc1ed2341fe0_24.png",
+    "time": "2020/10/20 21:21:54",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1603194396324400"
+  },
+  {
+    "user": "U0PM6EYR1",
     "text": "<https://github.com/mikelpint/repository/tree/master/archlinux/repo>\narch のリポジトリ、 github pages でホスティングできるのか…\nバイナリ突っ込むの微妙に拒否感あるけど…",
     "client_msg_id": "bd5bc5f9-5dac-41cb-b920-cd43014a2460",
     "name": "raa0121",
     "img": "https://secure.gravatar.com/avatar/35b032d7b2d4182b0c2de1ef85ba91f2.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0009-24.png",
-    "time": "2020/10/20 20:15:41",
+    "time": "2020/10/20 21:21:54",
     "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1603190172323300"
   },
   {
