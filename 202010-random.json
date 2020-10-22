@@ -1,11 +1,29 @@
 [
   {
     "user": "U019C7VLZ4G",
+    "text": "最初起動した状態ではGnomeの設定の出力デバイスの項目名はheadphoneとなっていますが音声を再生するとスピーカーから音が出ます",
+    "client_msg_id": "238fc0aa-1c54-4579-ba6a-7a004e938e5c",
+    "name": "getalotofmail",
+    "img": "https://secure.gravatar.com/avatar/5a7f20688dc40b2989935a11bdfa25fe.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0001-24.png",
+    "time": "2020/10/22 22:16:31",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1603370594340300"
+  },
+  {
+    "user": "U019C7VLZ4G",
+    "text": "alsaの諸々を1.2.4-3や1.2.4にUpdateしましたが毎回起動するたびにイヤホンが刺さっていても音声出力がスピーカーに戻ってしまい、毎回変更しないといけません\nどのように解決すればいいのでしょうか?",
+    "client_msg_id": "96abee12-8971-404c-a162-861fe11f95ed",
+    "name": "getalotofmail",
+    "img": "https://secure.gravatar.com/avatar/5a7f20688dc40b2989935a11bdfa25fe.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0001-24.png",
+    "time": "2020/10/22 22:16:31",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1603370373339000"
+  },
+  {
+    "user": "U019C7VLZ4G",
     "text": "alsa-lib 1.2.4-2、もうすでにout-of-date flag立ってるのでまた更新がくればいいですが",
     "client_msg_id": "c40ddfe3-3519-49a8-b303-8b8918ec759c",
     "name": "getalotofmail",
     "img": "https://secure.gravatar.com/avatar/5a7f20688dc40b2989935a11bdfa25fe.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0001-24.png",
-    "time": "2020/10/20 23:18:03",
+    "time": "2020/10/22 22:16:31",
     "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1603200397335900"
   },
   {
