@@ -1,11 +1,83 @@
 [
   {
     "user": "U0GFBAM8U",
+    "text": "うーん、よくわかりませんが、ミュートは音が出ないようにするみたいな意味だったと思います",
+    "client_msg_id": "c0075ce8-048d-485d-a58e-210b4dd703c6",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2020/10/23 00:17:33",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1603379601360500"
+  },
+  {
+    "user": "U019C7VLZ4G",
+    "text": "直りました\nありがとうございます:pray:\n後学のために教えていただきたいのですが、alsaでの\"ミュート\"というのはどういうものなのでしょうか?\n今は添付の画像のような状態なのですが、この状態でイヤホンを抜くと勝手にスピーカーに切り替わってくれます(期待通りの動作)\nつまりalsaでのミュートというのはその出力先の優先度を下げるということでしょうか?",
+    "client_msg_id": "92c09680-5b58-4140-ad3c-737192f11e7c",
+    "name": "getalotofmail",
+    "img": "https://secure.gravatar.com/avatar/5a7f20688dc40b2989935a11bdfa25fe.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0001-24.png",
+    "time": "2020/10/23 00:17:33",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1603379439359600"
+  },
+  {
+    "user": "U0GFBAM8U",
+    "text": "画像ではスピーカー、ミュートなってない気がする",
+    "client_msg_id": "437DADAA-11EC-431F-B770-4475FCD36DF7",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2020/10/23 00:17:33",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1603379091356200"
+  },
+  {
+    "user": "U0GFBAM8U",
+    "text": "mキーを押すと選択してるやつミュートにできます",
+    "client_msg_id": "2B4D720B-4473-4EF9-8AE6-3854F6840C63",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2020/10/23 00:17:33",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1603379040355600"
+  },
+  {
+    "user": "U0GFBAM8U",
+    "text": "ミュートはmだった気がするので\nイヤホン挿した状態でスピーカーは全部ミュートにしてみては",
+    "client_msg_id": "EFD28FA3-2A32-4FC5-80FC-776A32F90A58",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2020/10/23 00:17:33",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1603378698354900"
+  },
+  {
+    "user": "U0GFBAM8U",
+    "text": "手順としては色々な設定インターフェイスを使って適切なサウンドカードを選択し\nイヤホン挿す\nスピーカーをミュートにする\nイヤホン外す\n確認する\n再起動してみる\nみたいな手順になります",
+    "client_msg_id": "41B01C74-76B7-48E2-A834-167E67C3196B",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2020/10/23 00:17:33",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1603378488351600"
+  },
+  {
+    "user": "U0GFBAM8U",
+    "text": "F6",
+    "client_msg_id": "2100B7F8-A4C3-49A8-BE71-8FEA85CB84E3",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2020/10/23 00:17:33",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1603378297348300"
+  },
+  {
+    "user": "U0GFBAM8U",
+    "text": "サウンドカードを選択できますか",
+    "client_msg_id": "278D18B4-D967-4195-B7D1-CE4058454209",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2020/10/23 00:17:33",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1603378266348100"
+  },
+  {
+    "user": "U0GFBAM8U",
     "text": "設定ファイル、わかりづらいですよね\n書いたものが有効に動作してるのかも判断できない...",
     "client_msg_id": "E4E66195-4045-4321-8C22-A8C5873058E0",
     "name": "syui",
     "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
-    "time": "2020/10/22 23:17:49",
+    "time": "2020/10/23 00:17:33",
     "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1603375707345100"
   },
   {
