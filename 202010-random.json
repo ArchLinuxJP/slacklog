@@ -1,11 +1,29 @@
 [
   {
+    "user": "U0GFBAM8U",
+    "text": "おそらく、イヤホンが接続されていない状態のときはデフォルトの設定を適用するのでしょう",
+    "client_msg_id": "6c214099-3ce6-46cd-a178-7dd060c27908",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2020/10/23 12:16:59",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1603421073366900"
+  },
+  {
+    "user": "U0GFBAM8U",
+    "text": "あまり詳しくはありませんが、カーネルモジュールがイヤホンの接続を認識して、設定を適用するのだと思います。\nalsaの設定インターフェイスは、それぞれの状態で保存しますので、それと連動して切り替わる感じかなあと推測",
+    "client_msg_id": "618719ce-57d8-4581-9306-436439fa5807",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2020/10/23 12:16:59",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1603420220366000"
+  },
+  {
     "user": "U019C7VLZ4G",
     "text": "イヤホン刺した状態でSpeakerをMuteにしていても\nイヤホン抜くとちゃんと音声出力が自動でSpeakerに切り替わるのはなぜなんでしょうか?(ずっとMuteのままなのではとおもっていた)",
     "client_msg_id": "43db859a-0835-4e1e-8ce0-dee4a4c3a201",
     "name": "getalotofmail",
     "img": "https://secure.gravatar.com/avatar/5a7f20688dc40b2989935a11bdfa25fe.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0001-24.png",
-    "time": "2020/10/23 11:18:24",
+    "time": "2020/10/23 12:16:59",
     "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1603419467364800"
   },
   {
