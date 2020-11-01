@@ -5,6 +5,7 @@
         if [ -z "`git status -s`" ];then
           exit
         fi
+        git clean -df
         date=`date +"%Y%m"`
         out=$date-general.json
         if [ -f $out ];then
