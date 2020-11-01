@@ -2,12 +2,14 @@
       run: |
         git config --local user.email "action@github.com"
         git config --local user.name "GitHub Action"
-        if [ -z `git status -s` ];then
+        if [ -z "`git status -s`" ];then
           exit
         fi
         date=`date +"%Y%m"`
         out=$date-general.json
-        git add $out
+        if [ -f $out ];then
+          git add $out
+        fi
         git add gen.json
         git commit -m "update json" -a
     - name: Push changes
