@@ -51,7 +51,7 @@ jobs:
         if [ -z "`git status -s`" ];then
           exit
         fi
-        git add random general
+        git add .
         git commit -m "update json" -a
     - name: Push changes
       uses: ad-m/github-push-action@master
