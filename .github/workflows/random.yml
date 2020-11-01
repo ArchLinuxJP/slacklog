@@ -229,7 +229,6 @@ jobs:
         fi
         date=`date +"%Y%m"`
         out=$date-general.json
-        git clean -df
         if [ -f $out ];then
           git add $out
         fi
