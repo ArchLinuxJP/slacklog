@@ -37,10 +37,10 @@ jobs:
             cp -rf dir.html $channel/$date/index.html
             sed -i "s/gen.json/$out/g" $channel/$date/app.js
           fi
-          if [ -z "`grep $date index.html`" ];then
+          if ! grep $date index.html;then
             sed -ie "/^<div id=\"app\">$/i \<p\><a href=\"\/slacklog/$channel/${date}\">${date}<\/a><\/p>" index.html
           fi
-          if [ -z "`grep $date $channel/index.html`" ];then
+          if ! grep $date $channel/index.html;then
             sed -ie "/^<div id=\"app\">$/i \<p\><a href=\"\/slacklog/$channel/${date}\">${date}<\/a><\/p>" $channel/index.html
           fi
         done
@@ -48,7 +48,7 @@ jobs:
       run: |
         git config --local user.email "action@github.com"
         git config --local user.name "GitHub Action"
-        if [ -z `git status -s` ];then
+        if [ -z "`git status -s`" ];then
           exit
         fi
         git add random general
