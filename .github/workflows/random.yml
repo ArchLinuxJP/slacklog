@@ -234,6 +234,7 @@ jobs:
         fi
         git add gen.json
         git commit --amend --no-edit
+        git clean -f 
         git commit -m "update json" -a
     - name: Push changes
       uses: ad-m/github-push-action@master
