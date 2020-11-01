@@ -38,10 +38,10 @@ jobs:
             sed -i "s/gen.json/$out/g" $channel/$date/app.js
           fi
           if ! grep $date index.html;then
-            sed -ie "/^<div id=\"app\">$/i \<p\><a href=\"\/slacklog/$channel/${date}\">${date}<\/a><\/p>" index.html
+            sed -ie "/<div id=\"app\">$/i \<p\><a href=\"\/slacklog/$channel/${date}\">${date}<\/a><\/p>" index.html
           fi
           if ! grep $date $channel/index.html;then
-            sed -ie "/^<div id=\"app\">$/i \<p\><a href=\"\/slacklog/$channel/${date}\">${date}<\/a><\/p>" $channel/index.html
+            sed -ie "/<div id=\"app\">$/i \<p\><a href=\"\/slacklog/$channel/${date}\">${date}<\/a><\/p>" $channel/index.html
           fi
         done
     - name: Commit files
