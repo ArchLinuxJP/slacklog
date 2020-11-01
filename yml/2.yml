@@ -5,13 +5,13 @@
         if [ -z "`git status -s`" ];then
           exit
         fi
-        git clean -df
         date=`date +"%Y%m"`
         out=$date-general.json
-        if [ -f $out ];then
-          git add $out
-        fi
-        git add gen.json
+        git add .
+        #if [ -f $out ];then
+        #  git add $out
+        #fi
+        #git add gen.json
         git commit -m "update json" -a
     - name: Push changes
       uses: ad-m/github-push-action@master
