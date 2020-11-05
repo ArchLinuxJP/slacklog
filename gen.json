@@ -1,11 +1,74 @@
 [
   {
+    "user": "U017BNGTHT3",
+    "text": "Windows9みたいな",
+    "client_msg_id": "3b880346-c692-44e6-9ba6-23af41629fa4",
+    "name": "s5is",
+    "img": "https://avatars.slack-edge.com/2020-07-13/1222405306279_15e958295d437e18f344_24.png",
+    "time": "2020/11/05 23:16:09",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1604585110064900"
+  },
+  {
+    "user": "U70QDFN82",
+    "text": "飛ぶパターンもありますしね。君のところの世界線ではPython4が存在したのか！ってやつ",
+    "client_msg_id": "bb022f9a-ff5e-4390-baa8-07a6cff920eb",
+    "name": "yutakatay",
+    "img": "https://avatars.slack-edge.com/2020-08-16/1302143736069_0baa468f7bea68e827d9_24.png",
+    "time": "2020/11/05 23:16:09",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1604584986064000"
+  },
+  {
+    "user": "U53RAQBCP",
+    "text": "全てが4.xになるまでに2050年ぐらいになってそう",
+    "client_msg_id": "6FA70D5A-AAB8-4A6F-A50D-398B64FD6562",
+    "name": "kkinx",
+    "img": "https://avatars.slack-edge.com/2020-06-19/1217544115744_070f890bad64414b4848_24.png",
+    "time": "2020/11/05 23:16:09",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1604584921063200"
+  },
+  {
+    "user": "U70QDFN82",
+    "text": "未来人来た",
+    "client_msg_id": "5226a65f-29cc-477f-a989-cf5090c9f3b7",
+    "name": "yutakatay",
+    "img": "https://avatars.slack-edge.com/2020-08-16/1302143736069_0baa468f7bea68e827d9_24.png",
+    "time": "2020/11/05 23:16:09",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1604584743062700"
+  },
+  {
+    "user": "U0PM6EYR1",
+    "text": "4.0 が来るかもしれない！(ぇ",
+    "client_msg_id": "20fd00e4-171c-48c8-bd76-5d2f41959b09",
+    "name": "raa0121",
+    "img": "https://secure.gravatar.com/avatar/35b032d7b2d4182b0c2de1ef85ba91f2.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0009-24.png",
+    "time": "2020/11/05 23:16:09",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1604584732062400"
+  },
+  {
+    "user": "U70QDFN82",
+    "text": "3.9ですかねwそれともタイムリープしてる？",
+    "client_msg_id": "24b7f901-70f5-4b04-b6c1-98b24c761079",
+    "name": "yutakatay",
+    "img": "https://avatars.slack-edge.com/2020-08-16/1302143736069_0baa468f7bea68e827d9_24.png",
+    "time": "2020/11/05 23:16:09",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1604584558061800"
+  },
+  {
+    "user": "U019C7VLZ4G",
+    "text": "なんか最近Python関連のパッケージが軒並みUpdateされているのでそろそろ3.0がくるかと思っている",
+    "client_msg_id": "0f474d1b-277f-4c7c-97a2-5a7f12ce7800",
+    "name": "getalotofmail",
+    "img": "https://secure.gravatar.com/avatar/5a7f20688dc40b2989935a11bdfa25fe.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0001-24.png",
+    "time": "2020/11/05 23:16:09",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1604584414060000"
+  },
+  {
     "user": "UJ7P75WB1",
-    "text": "今日諸々のアップデートをしたらKDEのGUIが立ち上がらなくなりました。SDDMのパッケージをダウングレードしたら解決しましたので、もし似たようなトラブルに遭遇された方がいらっしゃったらお試しください。\nカーネルはlinux-zen(最新)、nvidiaプロプライエタリドライバーを使っていて、パスワード無しでログインする設定にしていました。カーネルをlinux-ltsにしても立ち上がらなかったので、恐らくですがnvidiaドライバーの問題ではないかと思います。",
+    "text": "今日諸々のアップデートをしたらKDEのGUIが立ち上がらなくなりました。SDDMのパッケージをダウングレードしたら解決しましたので、もし似たようなトラブルに遭遇された方がいらっしゃったらお試しください。\nカーネルはlinux-zen(最新)、nvidiaプロプライエタリドライバーを使っていて、パスワード無しでログインする設定にしていました。カーネルをlinux-ltsにしても立ち上がらなかったので、恐らくですがnvidiaドライバーの問題では無いかと思います。",
     "client_msg_id": "6e47fb2b-93eb-4c18-a33f-f47cc6b978d9",
     "name": "motoi.railgun",
     "img": "https://avatars.slack-edge.com/2019-04-25/606553234194_44a1282f90562feee7b0_24.png",
-    "time": "2020/11/04 19:19:28",
+    "time": "2020/11/05 23:16:09",
     "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1604485040057300"
   },
   {
