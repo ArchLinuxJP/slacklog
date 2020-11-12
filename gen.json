@@ -1,11 +1,443 @@
 [
   {
+    "user": "UVB7L4CKH",
+    "text": "議論自体は定期的に上がってそうなんですけどね\nクローズドな場でやってるのかもしれない",
+    "client_msg_id": "f2545d79-3604-4f37-8798-2f6f0ebbde5b",
+    "name": "tatsumigamou",
+    "img": "https://avatars.slack-edge.com/2020-03-12/985313571153_203fee630d3a4a1053a1_24.jpg",
+    "time": "2020/11/12 22:14:33",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1605186354145200"
+  },
+  {
+    "user": "U70QDFN82",
+    "text": "全然見つからないな・・・",
+    "client_msg_id": "4242f590-425b-4271-bf6f-68f143848359",
+    "name": "yutakatay",
+    "img": "https://avatars.slack-edge.com/2020-08-16/1302143736069_0baa468f7bea68e827d9_24.png",
+    "time": "2020/11/12 22:14:33",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1605186307144600"
+  },
+  {
+    "user": "UVB7L4CKH",
+    "text": "（まあそもそもHTTPSで通信するのにキャッシュポイズニングを検知できないはずがないというのはある）",
+    "client_msg_id": "9e077194-0bf9-43dc-9aa6-3c58ea254c16",
+    "name": "tatsumigamou",
+    "img": "https://avatars.slack-edge.com/2020-03-12/985313571153_203fee630d3a4a1053a1_24.jpg",
+    "time": "2020/11/12 22:14:33",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1605186217143900"
+  },
+  {
+    "user": "UVB7L4CKH",
+    "text": "`<http://aur.archlinux.org|aur.archlinux.org>` から悪意あるスクリプトが落ちてくるならDNSキャッシュポイズニングとか食らってる可能性があるのでyayのリスク以前の問題になる",
+    "client_msg_id": "b70b1d0e-7312-4329-9974-e8be581e8013",
+    "name": "tatsumigamou",
+    "img": "https://avatars.slack-edge.com/2020-03-12/985313571153_203fee630d3a4a1053a1_24.jpg",
+    "time": "2020/11/12 22:14:33",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1605186136143300"
+  },
+  {
+    "user": "UP57VNN6T",
+    "text": "まぁそれも一理ありますね...",
+    "client_msg_id": "e25fe28b-0708-49c0-adb6-4e251f757496",
+    "name": "shun819.mail",
+    "img": "https://avatars.slack-edge.com/2019-10-06/787619965254_d350f87803cf2c832f57_24.png",
+    "time": "2020/11/12 22:14:33",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1605186076142200"
+  },
+  {
+    "user": "UVB7L4CKH",
+    "text": "そこは `<http://aur.archlinux.org|aur.archlinux.org>` をcloneするのさえ守ればいいですし、そこで躓くならManjaro使いましょうやと言いたくなる",
+    "client_msg_id": "b7f9ff99-9895-413d-bc3c-bd987e851a7b",
+    "name": "tatsumigamou",
+    "img": "https://avatars.slack-edge.com/2020-03-12/985313571153_203fee630d3a4a1053a1_24.jpg",
+    "time": "2020/11/12 22:14:33",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1605186057141500"
+  },
+  {
+    "user": "UP57VNN6T",
+    "text": "そういう意味では公式で提供する価値はあるんじゃないかなと",
+    "client_msg_id": "7b16255f-7df8-49f5-bdaf-04783f1f9aed",
+    "name": "shun819.mail",
+    "img": "https://avatars.slack-edge.com/2019-10-06/787619965254_d350f87803cf2c832f57_24.png",
+    "time": "2020/11/12 22:14:33",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1605186008140600"
+  },
+  {
+    "user": "UP57VNN6T",
+    "text": "cloneするPKGBUILD変えちゃえば改ざんし放題なわけだし",
+    "client_msg_id": "cb0f0e86-12ad-4e72-ac14-e1b7cb506aee",
+    "name": "shun819.mail",
+    "img": "https://avatars.slack-edge.com/2019-10-06/787619965254_d350f87803cf2c832f57_24.png",
+    "time": "2020/11/12 22:14:33",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1605185994140100"
+  },
+  {
+    "user": "U017BNGTHT3",
+    "text": "&gt; どっかのブログ\nこわい",
+    "client_msg_id": "0afe26e7-26bb-4688-b12e-76920a767e5b",
+    "name": "s5is",
+    "img": "https://avatars.slack-edge.com/2020-07-13/1222405306279_15e958295d437e18f344_24.png",
+    "time": "2020/11/12 22:14:33",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1605185959139100"
+  },
+  {
+    "user": "U017BNGTHT3",
+    "text": "まあ、yay-binとかはAURからgitで落とす分にはリスクは特に変わらないので…",
+    "client_msg_id": "da603311-5484-4662-86c7-3586fd8840d3",
+    "name": "s5is",
+    "img": "https://avatars.slack-edge.com/2020-07-13/1222405306279_15e958295d437e18f344_24.png",
+    "time": "2020/11/12 22:14:33",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1605185949138500"
+  },
+  {
+    "user": "U70QDFN82",
+    "text": "どっかのブログに悪意あるインストール方法書かれてる方がまじでリスク高いと思う。yayのインストール",
+    "client_msg_id": "da750413-164c-4191-8537-f3b34baaa0e0",
+    "name": "yutakatay",
+    "img": "https://avatars.slack-edge.com/2020-08-16/1302143736069_0baa468f7bea68e827d9_24.png",
+    "time": "2020/11/12 22:14:33",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1605185941138300"
+  },
+  {
+    "user": "UP57VNN6T",
+    "text": "メーリングリストの使い方がいまいちわからない...",
+    "client_msg_id": "05ae6f1e-08c0-488b-8410-3e09b515d07a",
+    "name": "shun819.mail",
+    "img": "https://avatars.slack-edge.com/2019-10-06/787619965254_d350f87803cf2c832f57_24.png",
+    "time": "2020/11/12 22:14:34",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1605185911137200"
+  },
+  {
+    "user": "UP57VNN6T",
+    "text": "結局数行のコマンドでインストールできるか短いコマンドでインストールできるかの差でしかないのでね...",
+    "client_msg_id": "eab95755-d998-4a3e-a7ca-bc1428485cc6",
+    "name": "shun819.mail",
+    "img": "https://avatars.slack-edge.com/2019-10-06/787619965254_d350f87803cf2c832f57_24.png",
+    "time": "2020/11/12 22:14:34",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1605185888135900"
+  },
+  {
+    "user": "U70QDFN82",
+    "text": "なんかどっかに議論あがってそうだけど見当たらないですね・・・",
+    "client_msg_id": "b8353c08-2cf4-4df8-8fda-4deb16fba0ca",
+    "name": "yutakatay",
+    "img": "https://avatars.slack-edge.com/2020-08-16/1302143736069_0baa468f7bea68e827d9_24.png",
+    "time": "2020/11/12 22:14:34",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1605185872135300"
+  },
+  {
+    "user": "U70QDFN82",
+    "text": "あ、いえ。私もまさに”yayの使い方であってyayそのものではないはず”だと思っていてAURを使うことには慎重になるべきだと思うけど、インストールを別にしても問題が解決してないんじゃないかと思ってます。。。",
+    "client_msg_id": "78d64ebe-231b-4e32-8e47-4e398921530a",
+    "name": "yutakatay",
+    "img": "https://avatars.slack-edge.com/2020-08-16/1302143736069_0baa468f7bea68e827d9_24.png",
+    "time": "2020/11/12 22:14:34",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1605185846134400"
+  },
+  {
+    "user": "UP57VNN6T",
+    "text": "yayのバイナリの話でしたね失礼しました",
+    "client_msg_id": "ccd03a28-5ffe-4c80-907f-2d54b3cfed44",
+    "name": "shun819.mail",
+    "img": "https://avatars.slack-edge.com/2019-10-06/787619965254_d350f87803cf2c832f57_24.png",
+    "time": "2020/11/12 22:14:34",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1605185740131800"
+  },
+  {
+    "user": "UP57VNN6T",
+    "text": "誤解してました",
+    "client_msg_id": "79160be1-2304-4fa4-a9b9-0c030fe54876",
+    "name": "shun819.mail",
+    "img": "https://avatars.slack-edge.com/2019-10-06/787619965254_d350f87803cf2c832f57_24.png",
+    "time": "2020/11/12 22:14:34",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1605185729131300"
+  },
+  {
+    "user": "UP57VNN6T",
+    "text": "あ、待ってそういうことかすみません",
+    "client_msg_id": "4cb37cfb-a098-4250-80af-254c5b310184",
+    "name": "shun819.mail",
+    "img": "https://avatars.slack-edge.com/2019-10-06/787619965254_d350f87803cf2c832f57_24.png",
+    "time": "2020/11/12 22:14:34",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1605185726130900"
+  },
+  {
+    "user": "UP57VNN6T",
+    "text": "<https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1605185623126900> これです",
+    "client_msg_id": "a1ec285f-9c74-4de4-90f6-81c21f388a87",
+    "name": "shun819.mail",
+    "img": "https://avatars.slack-edge.com/2019-10-06/787619965254_d350f87803cf2c832f57_24.png",
+    "time": "2020/11/12 22:14:34",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1605185709129900"
+  },
+  {
+    "user": "U70QDFN82",
+    "text": "&gt; それはあくまでのyayの使い方であってyayそのものではないはず\nこれのそれはどれをさしてます？",
+    "client_msg_id": "23819a7b-951a-487d-9663-2e2424514c52",
+    "name": "yutakatay",
+    "img": "https://avatars.slack-edge.com/2020-08-16/1302143736069_0baa468f7bea68e827d9_24.png",
+    "time": "2020/11/12 22:14:34",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1605185689129600"
+  },
+  {
+    "user": "UVB7L4CKH",
+    "text": "あくまでも公式から提供するものではない、っていうところにポイントがありそう",
+    "client_msg_id": "94f60c18-c9dd-4a8b-8ffe-f186da29f013",
+    "name": "tatsumigamou",
+    "img": "https://avatars.slack-edge.com/2020-03-12/985313571153_203fee630d3a4a1053a1_24.jpg",
+    "time": "2020/11/12 22:14:34",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1605185677129000"
+  },
+  {
+    "user": "U6DL9D3AB",
+    "text": "~ライセンスの問題が大きそう~\nyay単体については関係ないか",
+    "client_msg_id": "6194D25E-C646-49E3-A2CC-11825AAEB314",
+    "name": "emtee",
+    "img": "https://avatars.slack-edge.com/2017-08-24/232261947719_1bb4d925e48fdfd0a154_24.png",
+    "time": "2020/11/12 22:14:34",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1605185676128900"
+  },
+  {
+    "user": "UP57VNN6T",
+    "text": "それはあくまでのyayの使い方であってyayそのものではないはず",
+    "client_msg_id": "19161721-61b3-4c00-bc7c-1c1a461c73f7",
+    "name": "shun819.mail",
+    "img": "https://avatars.slack-edge.com/2019-10-06/787619965254_d350f87803cf2c832f57_24.png",
+    "time": "2020/11/12 22:14:34",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1605185644127900"
+  },
+  {
+    "user": "U70QDFN82",
+    "text": "逆に変なところから変なyayバイナリを落としちゃうとそれこそrootでいろいろできてセキュリティリスク",
+    "client_msg_id": "510376dc-e88b-457e-8070-9b3a444db1f0",
+    "name": "yutakatay",
+    "img": "https://avatars.slack-edge.com/2020-08-16/1302143736069_0baa468f7bea68e827d9_24.png",
+    "time": "2020/11/12 22:14:34",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1605185623126900"
+  },
+  {
+    "user": "U017BNGTHT3",
+    "text": "実際のところ初心者にも優しそうなManjaroはyayは公式に含めてるし、そのあたりの違いはありそう。",
+    "client_msg_id": "8393e70d-5e34-4377-8b1f-2cd5719f050f",
+    "name": "s5is",
+    "img": "https://avatars.slack-edge.com/2020-07-13/1222405306279_15e958295d437e18f344_24.png",
+    "time": "2020/11/12 22:14:34",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1605185615126400"
+  },
+  {
+    "user": "U017BNGTHT3",
+    "text": "&gt; メリット\nAURというかABSって感じ",
+    "client_msg_id": "6a9a71d1-ce2b-494f-89b4-6d33b25ed998",
+    "name": "s5is",
+    "img": "https://avatars.slack-edge.com/2020-07-13/1222405306279_15e958295d437e18f344_24.png",
+    "time": "2020/11/12 22:14:34",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1605185591125100"
+  },
+  {
+    "user": "U70QDFN82",
+    "text": "でも結局みんな入れるからまったく意味をなしてない",
+    "client_msg_id": "7beaacb2-b2d2-44c7-a557-1bb547d7be9e",
+    "name": "yutakatay",
+    "img": "https://avatars.slack-edge.com/2020-08-16/1302143736069_0baa468f7bea68e827d9_24.png",
+    "time": "2020/11/12 22:14:35",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1605185590125000"
+  },
+  {
+    "user": "UP57VNN6T",
+    "text": "でもArchのメリットってAURな部分が大きい気がするけど...",
+    "client_msg_id": "15f15d84-0b1a-4fb9-b28f-b29ec7de5907",
+    "name": "shun819.mail",
+    "img": "https://avatars.slack-edge.com/2019-10-06/787619965254_d350f87803cf2c832f57_24.png",
+    "time": "2020/11/12 22:14:35",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1605185581124700"
+  },
+  {
+    "user": "UVB7L4CKH",
+    "text": "そこを飲み込んだ上で使うのがAUR",
+    "client_msg_id": "bd4314ca-7516-40cd-8d4c-786e206f3e71",
+    "name": "tatsumigamou",
+    "img": "https://avatars.slack-edge.com/2020-03-12/985313571153_203fee630d3a4a1053a1_24.jpg",
+    "time": "2020/11/12 22:14:35",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1605185575124200"
+  },
+  {
+    "user": "U70QDFN82",
+    "text": "うーんAURから入れるのと、AURにアクセスするためのソフトは別な気がしますが・・・",
+    "client_msg_id": "d8de8349-6846-4854-bc77-0b552c4618e9",
+    "name": "yutakatay",
+    "img": "https://avatars.slack-edge.com/2020-08-16/1302143736069_0baa468f7bea68e827d9_24.png",
+    "time": "2020/11/12 22:14:35",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1605185574124100"
+  },
+  {
+    "user": "UVB7L4CKH",
+    "text": "リスク考えるとAURなんて使わないに越したことはないですからね",
+    "client_msg_id": "0223e1b4-b6ea-48b4-8599-6cf80bdf9f0b",
+    "name": "tatsumigamou",
+    "img": "https://avatars.slack-edge.com/2020-03-12/985313571153_203fee630d3a4a1053a1_24.jpg",
+    "time": "2020/11/12 22:14:35",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1605185564123300"
+  },
+  {
+    "user": "UP57VNN6T",
+    "text": "まぁそれでArch公式コミュニティに苦情が入っても邪魔なだけだしなあ",
+    "client_msg_id": "8b4100da-dfdf-4c2f-9a16-74149c6525bf",
+    "name": "shun819.mail",
+    "img": "https://avatars.slack-edge.com/2019-10-06/787619965254_d350f87803cf2c832f57_24.png",
+    "time": "2020/11/12 22:14:35",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1605185561123100"
+  },
+  {
+    "user": "U017BNGTHT3",
+    "text": "初心者に優しくしすぎないって意味かもしれない。",
+    "client_msg_id": "72c7afd6-df29-4530-b0f3-89e2f1889420",
+    "name": "s5is",
+    "img": "https://avatars.slack-edge.com/2020-07-13/1222405306279_15e958295d437e18f344_24.png",
+    "time": "2020/11/12 22:14:35",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1605185544122100"
+  },
+  {
+    "user": "U6DL9D3AB",
+    "text": "単純なラッパーなら公式に置かれる可能性もあるでしょうけれど、\n&gt; ノート: AUR からパッケージをインストールする公式の仕組みはありませんし今後も作られることはありません。全てのユーザーはビルドプロセスに慣れる必要があります。\n&gt; \nこう書かれている以上は公式ミラーに取り込まれることはないんじゃないかなと\n&gt; \n&gt; \n<https://wiki.archlinux.jp/index.php/Arch_User_Repository#.E3.83.91.E3.83.83.E3.82.B1.E3.83.BC.E3.82.B8.E3.81.AE.E3.82.A4.E3.83.B3.E3.82.B9.E3.83.88.E3.83.BC.E3.83.AB|https://wiki.archlinux.jp/index.php/Arch_User_Repository#.E3.83.91.E3.83.83.E3.82.B1.E3.83.BC.E3.82.B8.E3.81.AE.E3.82.A4.E3.83.B3.E3.82.B9.E3.83.88.E3.83.BC.E3.83.AB>",
+    "client_msg_id": "50BF7B1D-21A6-42DB-AD8C-CE8C15D55F1A",
+    "name": "emtee",
+    "img": "https://avatars.slack-edge.com/2017-08-24/232261947719_1bb4d925e48fdfd0a154_24.png",
+    "time": "2020/11/12 22:14:35",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1605185519121200"
+  },
+  {
+    "user": "U70QDFN82",
+    "text": "yay側のIssueとか見てないですけどなんか書かれてたりするかなー",
+    "client_msg_id": "9e289540-dba1-4db0-a34d-815faa51f98c",
+    "name": "yutakatay",
+    "img": "https://avatars.slack-edge.com/2020-08-16/1302143736069_0baa468f7bea68e827d9_24.png",
+    "time": "2020/11/12 22:14:35",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1605185433119100"
+  },
+  {
+    "user": "U70QDFN82",
+    "text": "ちなみに全く同じ議論を別の場所でした\n<https://vim-jp.org/slacklog/CL6NCDCQG/2020/09/#ts-1599220116.123100>",
+    "client_msg_id": "57e6e75f-3a0c-478d-897f-ba69c15a53e9",
+    "name": "yutakatay",
+    "img": "https://avatars.slack-edge.com/2020-08-16/1302143736069_0baa468f7bea68e827d9_24.png",
+    "time": "2020/11/12 22:14:35",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1605185413118400"
+  },
+  {
+    "user": "UP57VNN6T",
+    "text": "メーリングリストで質問していいことなのかどうか...",
+    "client_msg_id": "2ab08e5f-a2c3-4627-b219-212b16131d4b",
+    "name": "shun819.mail",
+    "img": "https://avatars.slack-edge.com/2019-10-06/787619965254_d350f87803cf2c832f57_24.png",
+    "time": "2020/11/12 22:14:35",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1605185386117100"
+  },
+  {
+    "user": "UVB7L4CKH",
+    "text": "（あるに越したことはない）",
+    "client_msg_id": "5b99dec1-b8e5-4d78-82cb-f3944b9e8757",
+    "name": "tatsumigamou",
+    "img": "https://avatars.slack-edge.com/2020-03-12/985313571153_203fee630d3a4a1053a1_24.jpg",
+    "time": "2020/11/12 22:14:35",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1605185349115800"
+  },
+  {
+    "user": "UVB7L4CKH",
+    "text": "yayはあくまでAURヘルパーであって公式リポジトリに置くのは違うかなあという感じ\n公式リポジトリからしたらAUR使うためにしか使わないパッケージならAURで管理すれば良くない？的な思考が働いてそう",
+    "client_msg_id": "3890d6d2-6829-41dd-b1d9-4fd8a7432f18",
+    "name": "tatsumigamou",
+    "img": "https://avatars.slack-edge.com/2020-03-12/985313571153_203fee630d3a4a1053a1_24.jpg",
+    "time": "2020/11/12 22:14:35",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1605185306114100"
+  },
+  {
+    "user": "U017BNGTHT3",
+    "text": "公式にあっても良さそうなのは確かに。\nそこまで不便とは感じてないけど、yayとlibalpmのバージョンずれて動かなくなったことあるからわかる。",
+    "client_msg_id": "286fa2f6-0f6a-4a3e-a9d2-549169ef9063",
+    "name": "s5is",
+    "img": "https://avatars.slack-edge.com/2020-07-13/1222405306279_15e958295d437e18f344_24.png",
+    "time": "2020/11/12 22:14:35",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1605185262113400"
+  },
+  {
+    "user": "U70QDFN82",
+    "text": "まあそれはyay-binですね",
+    "client_msg_id": "2b604585-eb50-4e41-b661-59d11d147542",
+    "name": "yutakatay",
+    "img": "https://avatars.slack-edge.com/2020-08-16/1302143736069_0baa468f7bea68e827d9_24.png",
+    "time": "2020/11/12 22:14:35",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1605185205111800"
+  },
+  {
+    "user": "UP57VNN6T",
+    "text": "それにビルドもgoの依存関係が大きいので面倒（yay-bin使えって話ですが）",
+    "client_msg_id": "1c1c6a1c-99c1-462a-853e-6e21c9b0f9b8",
+    "name": "shun819.mail",
+    "img": "https://avatars.slack-edge.com/2019-10-06/787619965254_d350f87803cf2c832f57_24.png",
+    "time": "2020/11/12 22:14:35",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1605185146110600"
+  },
+  {
+    "user": "U70QDFN82",
+    "text": "野良からyayを引っ張ってくるのってセキュリティリスクでしかない",
+    "client_msg_id": "ea9fa77d-f5de-495b-a2e9-fee3a9c62c72",
+    "name": "yutakatay",
+    "img": "https://avatars.slack-edge.com/2020-08-16/1302143736069_0baa468f7bea68e827d9_24.png",
+    "time": "2020/11/12 22:14:36",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1605185066109700"
+  },
+  {
+    "user": "U017BNGTHT3",
+    "text": "ありましたっけ？あったような無かったような",
+    "client_msg_id": "37104f8a-5c0d-4087-b952-86fd95028d16",
+    "name": "s5is",
+    "img": "https://avatars.slack-edge.com/2020-07-13/1222405306279_15e958295d437e18f344_24.png",
+    "time": "2020/11/12 22:14:36",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1605185052108900"
+  },
+  {
+    "user": "U70QDFN82",
+    "text": "私もインストールできてもいいと思ってる",
+    "client_msg_id": "f0ad4d9f-3a1c-42a8-9cce-6a1428e73fad",
+    "name": "yutakatay",
+    "img": "https://avatars.slack-edge.com/2020-08-16/1302143736069_0baa468f7bea68e827d9_24.png",
+    "time": "2020/11/12 22:14:36",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1605185028108100"
+  },
+  {
+    "user": "UP57VNN6T",
+    "text": "でも一時期はyaourtは公式リポジトリにあったと聞いているのですが...",
+    "client_msg_id": "e97504f4-30ca-43de-bd93-23c39052a548",
+    "name": "shun819.mail",
+    "img": "https://avatars.slack-edge.com/2019-10-06/787619965254_d350f87803cf2c832f57_24.png",
+    "time": "2020/11/12 22:14:36",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1605185016107200"
+  },
+  {
+    "user": "U017BNGTHT3",
+    "text": "一応yayはAUR用って棲み分けでもしてるんじゃないかなって予想",
+    "client_msg_id": "d72e42c0-0c05-4322-af15-9dce02099d99",
+    "name": "s5is",
+    "img": "https://avatars.slack-edge.com/2020-07-13/1222405306279_15e958295d437e18f344_24.png",
+    "time": "2020/11/12 22:14:36",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1605184997106200"
+  },
+  {
+    "user": "UP57VNN6T",
+    "text": "どうしてTUはAURでかなりの人気度を誇っている`yay`を`community`リポジトリに移動しないのでしょうか？\n何か特別な理由があるんでしょうか？日本人のTUがいたら他のTUに提案してほしいのですが",
+    "client_msg_id": "f19097e0-f9ea-4f6a-8704-7a34be665242",
+    "name": "shun819.mail",
+    "img": "https://avatars.slack-edge.com/2019-10-06/787619965254_d350f87803cf2c832f57_24.png",
+    "time": "2020/11/12 22:14:36",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1605184794105100"
+  },
+  {
     "user": "U019C7VLZ4G",
     "text": "`journalctl -b`してみたら\ngdmに関係ありそうなエラーはこのようなものがありました\n`failed to set screen _ICC_PROFILE: ファイル\"/var/lib/gdm/.local/share/icc/edid-aafbbbf9007ec8a8f195510fb63e9c67.icc\"を開くのに失敗しました: 許可がありません`",
     "client_msg_id": "65845801-eaba-4d19-8dae-f6c69f8d47a4",
     "name": "getalotofmail",
     "img": "https://secure.gravatar.com/avatar/5a7f20688dc40b2989935a11bdfa25fe.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0001-24.png",
-    "time": "2020/11/12 00:15:53",
+    "time": "2020/11/12 22:14:36",
     "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1605107570104000"
   },
   {
