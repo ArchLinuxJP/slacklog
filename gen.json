@@ -1,11 +1,38 @@
 [
   {
+    "user": "UPYQ3CUJ1",
+    "text": "Wiki の TU のページ見ると、Pacman wrapper は例外で community repo には許可されないって書いてありますね。 なんでこうなっているのかは書いてないですが、もし加えたければ、 arch-dev-public にメールしろ、とあるから過去の議論もここにありそう.",
+    "client_msg_id": "26d9bbcd-a248-404f-91ee-fe4cdcd4cec4",
+    "name": "shota.af083",
+    "img": "https://secure.gravatar.com/avatar/8806dbddb82d43065dd1190cfcf80c65.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0023-24.png",
+    "time": "2020/11/13 00:18:21",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1605192080155100"
+  },
+  {
+    "user": "UPYQ3CUJ1",
+    "text": "ああ、でも基本的には TU が気にいればいいのかな。",
+    "client_msg_id": "8592ee16-f45e-4d98-afb9-4ee9cc08313f",
+    "name": "shota.af083",
+    "img": "https://secure.gravatar.com/avatar/8806dbddb82d43065dd1190cfcf80c65.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0023-24.png",
+    "time": "2020/11/13 00:18:21",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1605191726153000"
+  },
+  {
+    "user": "UPYQ3CUJ1",
+    "text": "pacman の wrapper は使った事なかったので、ちょっと wiki を見てみたら結構な数 wrapper が開発されてるんですね。というのも、人気があるからってだけで公式リポジトリに移動できるもんなのなかと思って。。。ユーザーへの選択肢を確保するなら、他のも公式に移動しろって話しになるのかも?",
+    "client_msg_id": "68407187-4c41-4614-b9c8-cc76dc1a6ef9",
+    "name": "shota.af083",
+    "img": "https://secure.gravatar.com/avatar/8806dbddb82d43065dd1190cfcf80c65.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0023-24.png",
+    "time": "2020/11/13 00:18:21",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1605191240152500"
+  },
+  {
     "user": "U70QDFN82",
     "text": "これどこに問い合わせるかムズいですね。。。\n• pacmanのメーリングリスト\n• Archのフォーラム\n• yayのリポジトリのIssue\n• AURのyayのページのコメント\n• Redditとかで意見募集",
     "client_msg_id": "b25954e6-fa5d-4b9c-9520-9a0e5e7546b9",
     "name": "yutakatay",
     "img": "https://avatars.slack-edge.com/2020-08-16/1302143736069_0baa468f7bea68e827d9_24.png",
-    "time": "2020/11/12 23:17:18",
+    "time": "2020/11/13 00:18:21",
     "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1605187039146900"
   },
   {
