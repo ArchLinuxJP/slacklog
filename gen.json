@@ -1,11 +1,38 @@
 [
   {
     "user": "U019C7VLZ4G",
+    "text": "vainfoの出力:\n```vainfo: VA-API version: 1.9 (libva 2.9.1)\nvainfo: Driver version: Mesa Gallium driver 20.2.2 for AMD RENOIR (DRM 3.39.0, 5.9.8-arch1-1, LLVM 11.0.0)\nvainfo: Supported profile and entrypoints\n      VAProfileMPEG2Simple            :\tVAEntrypointVLD\n      VAProfileMPEG2Main              :\tVAEntrypointVLD\n      VAProfileVC1Simple              :\tVAEntrypointVLD\n      VAProfileVC1Main                :\tVAEntrypointVLD\n      VAProfileVC1Advanced            :\tVAEntrypointVLD\n      VAProfileH264ConstrainedBaseline:\tVAEntrypointVLD\n      VAProfileH264ConstrainedBaseline:\tVAEntrypointEncSlice\n      VAProfileH264Main               :\tVAEntrypointVLD\n      VAProfileH264Main               :\tVAEntrypointEncSlice\n      VAProfileH264High               :\tVAEntrypointVLD\n      VAProfileH264High               :\tVAEntrypointEncSlice\n      VAProfileHEVCMain               :\tVAEntrypointVLD\n      VAProfileHEVCMain               :\tVAEntrypointEncSlice\n      VAProfileHEVCMain10             :\tVAEntrypointVLD\n      VAProfileHEVCMain10             :\tVAEntrypointEncSlice\n      VAProfileJPEGBaseline           :\tVAEntrypointVLD\n      VAProfileVP9Profile0            :\tVAEntrypointVLD\n      VAProfileVP9Profile2            :\tVAEntrypointVLD\n      VAProfileNone                   :\tVAEntrypointVideoProc```",
+    "client_msg_id": "cb82959d-37cb-4fe7-b4a6-97cdca0bdb70",
+    "name": "getalotofmail",
+    "img": "https://secure.gravatar.com/avatar/5a7f20688dc40b2989935a11bdfa25fe.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0001-24.png",
+    "time": "2020/11/16 18:16:28",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1605516251173500"
+  },
+  {
+    "user": "U019C7VLZ4G",
+    "text": "sudo watch -n 0.5 cat /sys/kernel/debug/dri/0/amdgpu_pm_infoの出力:\n```        Graphics Medium Grain Clock Gating: On\n        Graphics Medium Grain memory Light Sleep: On\n        Graphics Coarse Grain Clock Gating: On\n        Graphics Coarse Grain memory Light Sleep: On\n        Graphics Coarse Grain Tree Shader Clock Gating: Off\n        Graphics Coarse Grain Tree Shader Light Sleep: Off\n        Graphics Command Processor Light Sleep: On\n        Graphics Run List Controller Light Sleep: Off\n        Graphics 3D Coarse Grain Clock Gating: On\n        Graphics 3D Coarse Grain memory Light Sleep: On\n        Memory Controller Light Sleep: Off\n        Memory Controller Medium Grain Clock Gating: Off\n        System Direct Memory Access Light Sleep: On\n        System Direct Memory Access Medium Grain Clock Gating: On\n        Bus Interface Medium Grain Clock Gating: On\n        Bus Interface Light Sleep: On\n        Unified Video Decoder Medium Grain Clock Gating: Off\n        Video Compression Engine Medium Grain Clock Gating: Off\n        Host Data Path Light Sleep: On\n        Host Data Path Medium Grain Clock Gating: Off\n        Digital Right Management Medium Grain Clock Gating: Off\n        Digital Right Management Light Sleep: On\n        Rom Medium Grain Clock Gating: On\n        Data Fabric Medium Grain Clock Gating: On\n        Address Translation Hub Medium Grain Clock Gating: On\n        Address Translation Hub Light Sleep: On\n\nGFX Clocks and Power:\n        1200 MHz (MCLK)\n        1600 MHz (SCLK)\n        0 MHz (PSTATE_SCLK)\n        0 MHz (PSTATE_MCLK)\n\nGPU Temperature: 48 C\nGPU Load: 1 %\n\nVCN: Disabled // VCNがDisabled!??```",
+    "client_msg_id": "0b26d26f-5935-40ef-beb5-102f21030e1e",
+    "name": "getalotofmail",
+    "img": "https://secure.gravatar.com/avatar/5a7f20688dc40b2989935a11bdfa25fe.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0001-24.png",
+    "time": "2020/11/16 18:16:28",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1605516149173100"
+  },
+  {
+    "user": "U019C7VLZ4G",
+    "text": "amdのAPUの載ったPC(Ryzen 7 4750U)を使っているのですが\ngpuの情報を見ようと`sudo watch -n 0.5  cat /sys/kernel/debug/dri/0/amdgpu_pm_info`したところVCN: Disabledという出力がされました。\nこれはVCN(AMDのメディア等のハードウェアアクセラレーション機能)が有効化されていないということなのでしょうか?\nlibva-mesa-driverはインストール済みです。\nまた、`vainfo`はきちんと表示されます\n各出力は下記のとおりです",
+    "client_msg_id": "3d726236-cf8e-4d1b-98e9-17f3060888d9",
+    "name": "getalotofmail",
+    "img": "https://secure.gravatar.com/avatar/5a7f20688dc40b2989935a11bdfa25fe.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0001-24.png",
+    "time": "2020/11/16 18:16:28",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1605516017172200"
+  },
+  {
+    "user": "U019C7VLZ4G",
     "text": "なんかpacman -Syuが遅くないですか?\nパッケージのダウンロードにいつもより時間がかかっている気がする",
     "client_msg_id": "8ac8ade9-6dc7-4abf-bf3c-807a1e50d5ae",
     "name": "getalotofmail",
     "img": "https://secure.gravatar.com/avatar/5a7f20688dc40b2989935a11bdfa25fe.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0001-24.png",
-    "time": "2020/11/14 22:13:56",
+    "time": "2020/11/16 18:16:28",
     "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1605356928166000"
   },
   {
