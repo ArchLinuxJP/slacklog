@@ -1,11 +1,47 @@
 [
   {
     "user": "U019C7VLZ4G",
+    "text": "mpv --hwdec=autoで動画再生したら\nUsing  hardware decoding (vaapi)となっているので動いてはいるということでしょうか?",
+    "client_msg_id": "f83355fb-a83c-4767-b23d-2694e42dd1ed",
+    "name": "getalotofmail",
+    "img": "https://secure.gravatar.com/avatar/5a7f20688dc40b2989935a11bdfa25fe.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0001-24.png",
+    "time": "2020/11/16 19:18:13",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1605520048179000"
+  },
+  {
+    "user": "U53RAQBCP",
+    "text": "modprobe*",
+    "client_msg_id": "44561807-9258-4300-bf7b-f392713ba0e5",
+    "name": "kkinx",
+    "img": "https://avatars.slack-edge.com/2020-06-19/1217544115744_070f890bad64414b4848_24.png",
+    "time": "2020/11/16 19:18:14",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1605519055175700"
+  },
+  {
+    "user": "U53RAQBCP",
+    "text": "それか `amdgpu-pro` だけ有効みたいな",
+    "client_msg_id": "ccab935a-ce1c-47ba-a001-4074ced00bf9",
+    "name": "kkinx",
+    "img": "https://avatars.slack-edge.com/2020-06-19/1217544115744_070f890bad64414b4848_24.png",
+    "time": "2020/11/16 19:18:14",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1605519006175400"
+  },
+  {
+    "user": "U53RAQBCP",
+    "text": "modproveのオプションとかカーネルパラメータとかで何かあるんですかね？",
+    "client_msg_id": "ca8652ed-d209-4b34-b4ba-7fc40dd8f149",
+    "name": "kkinx",
+    "img": "https://avatars.slack-edge.com/2020-06-19/1217544115744_070f890bad64414b4848_24.png",
+    "time": "2020/11/16 19:18:14",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1605518987175000"
+  },
+  {
+    "user": "U019C7VLZ4G",
     "text": "vainfoの出力:\n```vainfo: VA-API version: 1.9 (libva 2.9.1)\nvainfo: Driver version: Mesa Gallium driver 20.2.2 for AMD RENOIR (DRM 3.39.0, 5.9.8-arch1-1, LLVM 11.0.0)\nvainfo: Supported profile and entrypoints\n      VAProfileMPEG2Simple            :\tVAEntrypointVLD\n      VAProfileMPEG2Main              :\tVAEntrypointVLD\n      VAProfileVC1Simple              :\tVAEntrypointVLD\n      VAProfileVC1Main                :\tVAEntrypointVLD\n      VAProfileVC1Advanced            :\tVAEntrypointVLD\n      VAProfileH264ConstrainedBaseline:\tVAEntrypointVLD\n      VAProfileH264ConstrainedBaseline:\tVAEntrypointEncSlice\n      VAProfileH264Main               :\tVAEntrypointVLD\n      VAProfileH264Main               :\tVAEntrypointEncSlice\n      VAProfileH264High               :\tVAEntrypointVLD\n      VAProfileH264High               :\tVAEntrypointEncSlice\n      VAProfileHEVCMain               :\tVAEntrypointVLD\n      VAProfileHEVCMain               :\tVAEntrypointEncSlice\n      VAProfileHEVCMain10             :\tVAEntrypointVLD\n      VAProfileHEVCMain10             :\tVAEntrypointEncSlice\n      VAProfileJPEGBaseline           :\tVAEntrypointVLD\n      VAProfileVP9Profile0            :\tVAEntrypointVLD\n      VAProfileVP9Profile2            :\tVAEntrypointVLD\n      VAProfileNone                   :\tVAEntrypointVideoProc```",
     "client_msg_id": "cb82959d-37cb-4fe7-b4a6-97cdca0bdb70",
     "name": "getalotofmail",
     "img": "https://secure.gravatar.com/avatar/5a7f20688dc40b2989935a11bdfa25fe.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0001-24.png",
-    "time": "2020/11/16 18:16:28",
+    "time": "2020/11/16 19:18:14",
     "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1605516251173500"
   },
   {
