@@ -1,11 +1,83 @@
 [
   {
+    "user": "UGA29R3FH",
+    "text": "Arch Linux ARM気になって見たことはあるけど、HWごとにアーカイブがあって非常につらそうだったのでこれ上手くいってほしいなあ",
+    "client_msg_id": "22b0ed96-fd91-4b6b-82f5-0b26b9388ea4",
+    "name": "znmxodq1",
+    "img": "https://avatars.slack-edge.com/2019-03-08/570571829091_2ca91fb0cc1ed2341fe0_24.png",
+    "time": "2020/11/18 23:14:00",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1605707636470600"
+  },
+  {
+    "user": "UGA29R3FH",
+    "text": "ほう、これは期待せざるを得ない",
+    "client_msg_id": "2a3f7881-8f82-44ff-9a7f-c225d04feaa9",
+    "name": "znmxodq1",
+    "img": "https://avatars.slack-edge.com/2019-03-08/570571829091_2ca91fb0cc1ed2341fe0_24.png",
+    "time": "2020/11/18 23:14:00",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1605707121469000"
+  },
+  {
+    "user": "U019C7VLZ4G",
+    "text": "Server ReadyというのもあるのでArm的にもエコシステムを整備しようとはしているっぽい\n<https://news.mynavi.jp/article/20201009-1390047/>",
+    "client_msg_id": "a17ff2f5-ebe0-4432-9bce-d05eaacee186",
+    "name": "getalotofmail",
+    "img": "https://secure.gravatar.com/avatar/5a7f20688dc40b2989935a11bdfa25fe.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0001-24.png",
+    "time": "2020/11/18 23:14:00",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1605706990468500"
+  },
+  {
+    "user": "U6DL9D3AB",
+    "text": "macOS互換機…はまずないだろうな\n(hackintosh的なのは除いて)",
+    "client_msg_id": "AABBC78E-CAC0-4F63-9D4C-D3A1E336832F",
+    "name": "emtee",
+    "img": "https://avatars.slack-edge.com/2017-08-24/232261947719_1bb4d925e48fdfd0a154_24.png",
+    "time": "2020/11/18 23:14:00",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1605706865467200"
+  },
+  {
+    "user": "U53RAQBCP",
+    "text": "SamsungのARMベースChromebookなんかはfedoraとか走るみたいなのでMSのご機嫌次第では実現できそうですね",
+    "client_msg_id": "6931d986-2c4a-4c7f-aa89-855712289128",
+    "name": "kkinx",
+    "img": "https://avatars.slack-edge.com/2020-06-19/1217544115744_070f890bad64414b4848_24.png",
+    "time": "2020/11/18 23:14:00",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1605706347465500"
+  },
+  {
+    "user": "UGA29R3FH",
+    "text": "AT互換機みたいな自由な感じので",
+    "client_msg_id": "1d5f71b6-ecd6-4790-9d7c-fcee16cac2ac",
+    "name": "znmxodq1",
+    "img": "https://avatars.slack-edge.com/2019-03-08/570571829091_2ca91fb0cc1ed2341fe0_24.png",
+    "time": "2020/11/18 23:14:00",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1605705598464200"
+  },
+  {
+    "user": "UGA29R3FH",
+    "text": "まーARM(64)の方が設計美しいので、ちゃんとしたエコシステムがARMにも揃ってほしい感じはする",
+    "client_msg_id": "fa5ae294-52f3-4118-a127-56533688e4b5",
+    "name": "znmxodq1",
+    "img": "https://avatars.slack-edge.com/2019-03-08/570571829091_2ca91fb0cc1ed2341fe0_24.png",
+    "time": "2020/11/18 23:14:00",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1605705589463900"
+  },
+  {
+    "user": "U019C7VLZ4G",
+    "text": "AMDが頑張ってくれればいいんですが...(Intelは出遅れてるので...(Intelも最近までジムケラーいたのでなんかすごい速いCPU出してきそうではありますが))",
+    "client_msg_id": "dcde0b87-77f4-4d0d-9741-1e395758f67e",
+    "name": "getalotofmail",
+    "img": "https://secure.gravatar.com/avatar/5a7f20688dc40b2989935a11bdfa25fe.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0001-24.png",
+    "time": "2020/11/18 23:14:00",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1605705247463100"
+  },
+  {
     "user": "UJ7P75WB1",
     "text": "Linuxがブートでき(る可能性がそれなりに高かっ)たら記念品&amp;ARMの省電力性はいかほどか体験する目的で買ったんですが…かなしい。\nこのままPC業界がARM移行に向けて動いていったら、最終的にスマホみたいに自由にOSが選べない状態になったりするんでしょうかね…？(余りにもディストピア的な未来ですが)",
     "client_msg_id": "fda4bdcc-2849-4a7b-96cf-f9fdd33eb020",
     "name": "motoi.railgun",
     "img": "https://avatars.slack-edge.com/2019-04-25/606553234194_44a1282f90562feee7b0_24.png",
-    "time": "2020/11/18 22:11:36",
+    "time": "2020/11/18 23:14:00",
     "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1605704892461700"
   },
   {
