@@ -1,11 +1,56 @@
 [
   {
+    "user": "U0GFBAM8U",
+    "text": "非公式のarmは動くかもしれませんが、おそらく動かないのではないかと思います、m1の特殊性などから。\nm1はgpuやメモリもチップ内に埋め込んでmacに最適化してるようなので、色々と動かすのは難しそうに思います。",
+    "client_msg_id": "EAEA785B-A610-4105-B3C8-2D2BC1F211FF",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2020/11/18 16:12:57",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1605683050440500"
+  },
+  {
+    "user": "UHYM8FBAP",
+    "text": "なるほど、アーキテクチャがそもそも対応外だったりするのか…。\nありがとうございます！！",
+    "client_msg_id": "1f7e3c9c-6581-4655-b502-c2cdb362f7f6",
+    "name": "m.goto.jb",
+    "img": "https://secure.gravatar.com/avatar/7ef4856ad69e1349de54d92caaf1e038.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0020-24.png",
+    "time": "2020/11/18 16:12:57",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1605682768437500"
+  },
+  {
+    "user": "U0GFBAM8U",
+    "text": "こういったアーキテクチャの問題があるのと、セキュアブートなどの問題もありますので、難しいかと。\n<https://wiki.archlinux.jp/index.php/FAQ#Arch_.E3.81.AF.E3.81.A9.E3.81.AE.E3.82.A2.E3.83.BC.E3.82.AD.E3.83.86.E3.82.AF.E3.83.81.E3.83.A3.E3.82.92.E3.82.B5.E3.83.9D.E3.83.BC.E3.83.88.E3.81.97.E3.81.A6.E3.81.84.E3.81.BE.E3.81.99.E3.81.8B.EF.BC.9F>",
+    "client_msg_id": "fd852255-de93-427b-a7d1-4433118c7e43",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2020/11/18 16:12:58",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1605681880436300"
+  },
+  {
+    "user": "U0GFBAM8U",
+    "text": "入れられないと思います",
+    "client_msg_id": "609BCB6E-D2D3-4299-BB65-183A9D734037",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2020/11/18 16:12:58",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1605681595435600"
+  },
+  {
+    "user": "UHYM8FBAP",
+    "text": "Apple M1 のMacBook pro 出ましたが、そこに arch linux をデュアルブートで入れられたりするかわかる方いますでしょうか…？\nまだ全然情報が見つけられず、もし情報知ってる方教えていただきたく…！",
+    "client_msg_id": "0117e8a8-aae0-4450-9e99-29055c4675db",
+    "name": "m.goto.jb",
+    "img": "https://secure.gravatar.com/avatar/7ef4856ad69e1349de54d92caaf1e038.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0020-24.png",
+    "time": "2020/11/18 16:12:58",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1605681560435300"
+  },
+  {
     "user": "U7NBCFT1S",
     "text": "あぁ、やっぱりそうですよね。ありがとうございます。",
     "client_msg_id": "ff594d30-6247-4d6d-a4d9-693ba75dbb71",
     "name": "no97yuu",
     "img": "https://avatars.slack-edge.com/2019-10-26/797548070962_e6a0da66a751d051ab30_24.jpg",
-    "time": "2020/11/16 19:13:41",
+    "time": "2020/11/18 16:12:58",
     "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1605518216430800"
   },
   {
