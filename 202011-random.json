@@ -1,11 +1,92 @@
 [
   {
     "user": "U0GFBAM8U",
+    "text": "あら",
+    "client_msg_id": "507F0ED0-C8C6-40E1-B5EA-C92B3CA60BD1",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2020/11/18 17:14:33",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1605686592446200"
+  },
+  {
+    "user": "UCA1NQM5K",
+    "text": "翻訳ミスなのか純粋にXcodeの動作速度が2.8倍になるのかは分からないですが、こんなツイートがあったのです",
+    "client_msg_id": "bbe588b4-25f0-42e4-a066-b750bf22016a",
+    "name": "angel.beats.kanade.yu",
+    "img": "https://avatars.slack-edge.com/2020-04-19/1084275690241_c2a4866502e22de56328_24.png",
+    "time": "2020/11/18 17:14:33",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1605686549446000"
+  },
+  {
+    "user": "UCA1NQM5K",
+    "text": "<https://twitter.com/m43net/status/1326274138961424384?s=19|https://twitter.com/m43net/status/1326274138961424384?s=19>",
+    "client_msg_id": "18ef9aef-52bf-444c-8f04-166eab9bc7b2",
+    "name": "angel.beats.kanade.yu",
+    "img": "https://avatars.slack-edge.com/2020-04-19/1084275690241_c2a4866502e22de56328_24.png",
+    "time": "2020/11/18 17:14:34",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1605686491444600"
+  },
+  {
+    "user": "U0GFBAM8U",
+    "text": "dockerとかはまだ動かないらしい",
+    "client_msg_id": "2CFC3DE2-D8CF-4F44-8F05-D8FE3A1F0F7A",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2020/11/18 17:14:34",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1605686077444400"
+  },
+  {
+    "user": "U0GFBAM8U",
+    "text": "<https://www.publickey1.jp/blog/20/_dockerapplemacdocker_desktoprosetta_2.html|https://www.publickey1.jp/blog/20/_dockerapplemacdocker_desktoprosetta_2.html>",
+    "client_msg_id": "B166A19A-EBE1-4086-ABAF-F9825633BA2C",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2020/11/18 17:14:34",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1605686053443900"
+  },
+  {
+    "user": "U0GFBAM8U",
+    "text": "あー、ビルドとかテストとか含めると変わるのか",
+    "client_msg_id": "BB20374B-C714-4B7D-B1CA-DFCC79AF2014",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2020/11/18 17:14:34",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1605685804443700"
+  },
+  {
+    "user": "U0GFBAM8U",
+    "text": "いや、コーディング速度は変わらないでしょう^^",
+    "client_msg_id": "68968264-7B6A-4AAB-9D15-32E94F80099B",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2020/11/18 17:14:34",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1605685708443200"
+  },
+  {
+    "user": "UCA1NQM5K",
+    "text": "コーディング速度が倍増するらしい！？デバイス",
+    "client_msg_id": "a90224b4-ba49-48a5-b868-d7cbdf662bd3",
+    "name": "angel.beats.kanade.yu",
+    "img": "https://avatars.slack-edge.com/2020-04-19/1084275690241_c2a4866502e22de56328_24.png",
+    "time": "2020/11/18 17:14:34",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1605685659442500"
+  },
+  {
+    "user": "U0GFBAM8U",
+    "text": "そういえばapple m1搭載のデバイス、買った人います?\nこれなかなかにやばいですね(革新的という意味で",
+    "client_msg_id": "00715CD1-7BD1-40D5-81BB-BF70BE1E85F5",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2020/11/18 17:14:34",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1605684356441800"
+  },
+  {
+    "user": "U0GFBAM8U",
     "text": "非公式のarmは動くかもしれませんが、おそらく動かないのではないかと思います、m1の特殊性などから。\nm1はgpuやメモリもチップ内に埋め込んでmacに最適化してるようなので、色々と動かすのは難しそうに思います。",
     "client_msg_id": "EAEA785B-A610-4105-B3C8-2D2BC1F211FF",
     "name": "syui",
     "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
-    "time": "2020/11/18 16:12:57",
+    "time": "2020/11/18 17:14:34",
     "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1605683050440500"
   },
   {
