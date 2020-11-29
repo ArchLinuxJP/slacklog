@@ -1,11 +1,29 @@
 [
   {
     "user": "UN1SFMNU8",
+    "text": "自分でビルド、っていうのは makepkg -si のことなのでは？",
+    "client_msg_id": "4ef99227-9d54-4e9c-ac18-5ddc4d980b6c",
+    "name": "addokoda",
+    "img": "https://secure.gravatar.com/avatar/b55bd1ebde600f72f1e83a25c85d893c.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0022-24.png",
+    "time": "2020/11/30 01:20:47",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1606664511020000"
+  },
+  {
+    "user": "U015CDRQDD0",
+    "text": "@addokoda あーなるほど　差異はそのままなんですね　つまりpacman wrapperなら検索機能からダウンロード後の自動ビルドまでってことですね\nmakepkg -siと自分でビルドするのと何が違うんでしょう?!",
+    "client_msg_id": "30ca49ce-a591-4267-b01e-e3fcba336591",
+    "name": "v3rn3j",
+    "img": "https://secure.gravatar.com/avatar/245992ad0221e323c1397758868d2138.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0002-24.png",
+    "time": "2020/11/30 01:20:47",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1606663116019900"
+  },
+  {
+    "user": "UN1SFMNU8",
     "text": "aurutils は使ったことがないのでわかりませんが、PKGBUILD を修正するなどの途中での介入がやりやすいのかも。yay でも PKGBUILD の確認はできるので、普通に使う分には十分だと思います。",
     "client_msg_id": "9d035fa9-8666-4535-bb5b-9aeff615fa4b",
     "name": "addokoda",
     "img": "https://secure.gravatar.com/avatar/b55bd1ebde600f72f1e83a25c85d893c.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0022-24.png",
-    "time": "2020/11/30 00:12:45",
+    "time": "2020/11/30 01:20:47",
     "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1606661872017900"
   },
   {
