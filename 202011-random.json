@@ -1,11 +1,38 @@
 [
   {
+    "user": "U257W41DW",
+    "text": "フォントサイズをベタ書きで動作させるとこまではいったんですけど、外部からフォントサイズ渡そうとすると winit 側のインターフェイス変えないといけなくて、良い方法思いついたら送ろうと思ってたんですけど数年経ってしまいました",
+    "client_msg_id": "9623d5e4-4402-4676-bddb-cac1a758f0c9",
+    "name": "odknt",
+    "img": "https://secure.gravatar.com/avatar/5d54349749764603ddcf7f370f8c3d18.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0015-24.png",
+    "time": "2020/11/30 14:13:24",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1606711283031900"
+  },
+  {
+    "user": "U8T8KB5M4",
+    "text": "自分もwinitまで行き着いて力尽きました",
+    "client_msg_id": "9a87cdb8-88db-484d-8a85-e477f22d32b2",
+    "name": "h.hata.ai.t",
+    "img": "https://avatars.slack-edge.com/2019-08-19/732537331990_536f34e28226326cb4e8_24.png",
+    "time": "2020/11/30 14:13:24",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1606710463030600"
+  },
+  {
+    "user": "U257W41DW",
+    "text": "一回 alacritty のインライン入力パッチ作ったけど、依存ライブラリの winit 側も修正しないと対応できなかった記憶がある。\n確か winit 側の XIM 初期化の際に alacritty のフォントサイズを渡す上手い方法が思いつかなくて結局 PR 送らなかった。",
+    "client_msg_id": "a1ef2590-44a5-419b-9915-6f7dea6469d7",
+    "name": "odknt",
+    "img": "https://secure.gravatar.com/avatar/5d54349749764603ddcf7f370f8c3d18.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0015-24.png",
+    "time": "2020/11/30 14:13:24",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1606710230029800"
+  },
+  {
     "user": "U70QDFN82",
     "text": "一応Issueはだいぶ前からあるんですけどね。。。作者CJK圏じゃないし優先度低いんですよね。waylandで日本語入力できないとかもまだあるし\n<https://github.com/alacritty/alacritty/issues/1101>",
     "client_msg_id": "5aa3a949-169a-4b2b-b525-ce0b0f4cd9aa",
     "name": "yutakatay",
     "img": "https://avatars.slack-edge.com/2020-08-16/1302143736069_0baa468f7bea68e827d9_24.png",
-    "time": "2020/11/30 12:13:52",
+    "time": "2020/11/30 14:13:25",
     "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1606705941026600"
   },
   {
