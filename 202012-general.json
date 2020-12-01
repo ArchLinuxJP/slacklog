@@ -1,0 +1,866 @@
+[
+  {
+    "user": "U019C7VLZ4G",
+    "text": "```Unable to init server: Could not connect: Connection refused\n(gnome-session-check-accelerated:175): Gtk-WARNING **: 14:02:22.892: cannot open display: :0\nUnable to init server: Could not connect: Connection refused\n\n(gnome-session-check-accelerated:176): Gtk-WARNING **: 14:02:22.907: cannot open display: :0\ngnome-session-binary[166]: WARNING: software acceleration check failed: Child process exited with code 1\nUnable to init server: Could not connect: Connection refused\n\n** (gnome-session-failed:177): WARNING **: 14:02:22.923: Cannot open display: \nTerminated```\nとなります",
+    "client_msg_id": "7835dabb-124d-4b1d-b099-c0794968147f",
+    "name": "getalotofmail",
+    "img": "https://secure.gravatar.com/avatar/5a7f20688dc40b2989935a11bdfa25fe.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0001-24.png",
+    "time": "2020/11/26,14:48:05",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1606402085209500"
+  },
+  {
+    "user": "U019C7VLZ4G",
+    "text": "`DISPLAY=:0 XDG_SESSION_TYPE=wayland gnome-session` とすると",
+    "client_msg_id": "0548de51-66f8-40a1-bd28-0f6a3d097c45",
+    "name": "getalotofmail",
+    "img": "https://secure.gravatar.com/avatar/5a7f20688dc40b2989935a11bdfa25fe.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0001-24.png",
+    "time": "2020/11/26,14:47:06",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1606402026209000"
+  },
+  {
+    "user": "U019C7VLZ4G",
+    "text": "winetricksとかのguiはきちんと表示されるのに",
+    "client_msg_id": "9c4cb522-8251-478a-bf37-ce432ffde85b",
+    "name": "getalotofmail",
+    "img": "https://secure.gravatar.com/avatar/5a7f20688dc40b2989935a11bdfa25fe.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0001-24.png",
+    "time": "2020/11/26,14:22:13",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1606400533208100"
+  },
+  {
+    "user": "U019C7VLZ4G",
+    "text": "とおもったらgnome-session立ち上げようとするとConnection refuseでつながらないな",
+    "client_msg_id": "964cb4c3-e514-4bd0-b30a-61452c47bc66",
+    "name": "getalotofmail",
+    "img": "https://secure.gravatar.com/avatar/5a7f20688dc40b2989935a11bdfa25fe.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0001-24.png",
+    "time": "2020/11/26,14:20:07",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1606400407207800"
+  },
+  {
+    "user": "U0GFBAM8U",
+    "text": "なんでだろ",
+    "client_msg_id": "f3e8f3f4-4048-48b1-b78c-0c9334d5d0ae",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2020/11/26,04:39:35",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1606365575206800"
+  },
+  {
+    "user": "U0GFBAM8U",
+    "text": "今年、あまり盛り上がってないらしいですね",
+    "client_msg_id": "10489a22-36df-403c-b8bb-bea0ee70e143",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2020/11/26,04:37:46",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1606365466206400"
+  },
+  {
+    "user": "U70QDFN82",
+    "text": "今年アドベントカレンダーなんか盛り上がってないみたいなんでそことかいいかもですね\n<https://qiita.com/advent-calendar/2020/linux>",
+    "client_msg_id": "13287bb8-08ae-4d2a-8c84-5b66c7589241",
+    "name": "yutakatay",
+    "img": "https://avatars.slack-edge.com/2020-08-16/1302143736069_0baa468f7bea68e827d9_24.png",
+    "time": "2020/11/26,04:25:08",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1606364708205900"
+  },
+  {
+    "user": "U019C7VLZ4G",
+    "text": "そんな大した内容ではないですがあんまりブログ書いたことないのでいい機会かなというだけです:+1:",
+    "client_msg_id": "e667212c-4ab7-4de1-bb60-f59aa9293aef",
+    "name": "getalotofmail",
+    "img": "https://secure.gravatar.com/avatar/5a7f20688dc40b2989935a11bdfa25fe.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0001-24.png",
+    "time": "2020/11/26,04:24:15",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1606364655205400"
+  },
+  {
+    "user": "U0GFBAM8U",
+    "text": "お、すごい",
+    "client_msg_id": "67370D62-59A9-49D8-8122-82A19C9DC7B8",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2020/11/26,03:48:19",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1606362499203600"
+  },
+  {
+    "user": "U019C7VLZ4G",
+    "text": "ブログにでも書こうかな",
+    "client_msg_id": "19fda643-b865-495e-97d9-b127eb05c46c",
+    "name": "getalotofmail",
+    "img": "https://secure.gravatar.com/avatar/5a7f20688dc40b2989935a11bdfa25fe.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0001-24.png",
+    "time": "2020/11/26,03:47:27",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1606362447203400"
+  },
+  {
+    "user": "U019C7VLZ4G",
+    "text": "できました。ちょっと修整が必要でしたが",
+    "client_msg_id": "04c97005-7896-42e0-b0c5-4a505738ce5c",
+    "name": "getalotofmail",
+    "img": "https://secure.gravatar.com/avatar/5a7f20688dc40b2989935a11bdfa25fe.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0001-24.png",
+    "time": "2020/11/26,03:47:17",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1606362437203000"
+  },
+  {
+    "user": "U0GFBAM8U",
+    "text": "wayland用の環境変数が用意してあるので行けそうな気もする",
+    "client_msg_id": "C0163E84-6078-4D71-B2EB-6E2DA57FE909",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2020/11/25,04:24:47",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1606278287201400"
+  },
+  {
+    "user": "U019C7VLZ4G",
+    "text": "<https://github.com/mviereck/x11docker/wiki/How-to-provide-Wayland-socket-to-docker-container|https://github.com/mviereck/x11docker/wiki/How-to-provide-Wayland-socket-to-docker-container>\nこんな感じでできそうですか?",
+    "client_msg_id": "e5f02473-7305-4b38-89f5-f84da5408591",
+    "name": "getalotofmail",
+    "img": "https://secure.gravatar.com/avatar/5a7f20688dc40b2989935a11bdfa25fe.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0001-24.png",
+    "time": "2020/11/25,03:50:44",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1606276244200400"
+  },
+  {
+    "user": "UGA29R3FH",
+    "text": "ホストもXの時はその方法で自分の環境でもDocker内にWine閉じ込められるのは試したことがある",
+    "client_msg_id": "e7920b70-5a34-4d55-a909-9001fb845530",
+    "name": "znmxodq1",
+    "img": "https://avatars.slack-edge.com/2019-03-08/570571829091_2ca91fb0cc1ed2341fe0_24.png",
+    "time": "2020/11/24,15:24:22",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1606231462199800"
+  },
+  {
+    "user": "U0GFBAM8U",
+    "text": "わからないですね、私もWaylandは使ってないので",
+    "client_msg_id": "9e8790fe-084b-418b-98f2-075177d66b05",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2020/11/24,15:22:56",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1606231376198400"
+  },
+  {
+    "user": "UGA29R3FH",
+    "text": "すぐ使える環境がないのでぱっと試せなくてあれ",
+    "client_msg_id": "2a0e7ab7-c436-4ae5-9ab2-d74732fa6965",
+    "name": "znmxodq1",
+    "img": "https://avatars.slack-edge.com/2019-03-08/570571829091_2ca91fb0cc1ed2341fe0_24.png",
+    "time": "2020/11/24,15:22:16",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1606231336197700"
+  },
+  {
+    "user": "UGA29R3FH",
+    "text": "XWaylandでもこの手法使えるんですっけ",
+    "client_msg_id": "505d2077-8a73-480a-8816-f10ff3ef4955",
+    "name": "znmxodq1",
+    "img": "https://avatars.slack-edge.com/2019-03-08/570571829091_2ca91fb0cc1ed2341fe0_24.png",
+    "time": "2020/11/24,15:21:55",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1606231315197000"
+  },
+  {
+    "user": "U0GFBAM8U",
+    "text": "ぱっと見、この記事がわかりやすそうだった",
+    "client_msg_id": "da445b60-a15e-4607-b4fc-1733c6ef1c6f",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2020/11/24,15:21:06",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1606231266196400"
+  },
+  {
+    "user": "U0GFBAM8U",
+    "text": "<https://qiita.com/tayusa/items/fe3e6490a0aeceea5ddb>",
+    "client_msg_id": "0679c8e1-5ffe-4c92-b008-67432e94f30f",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2020/11/24,15:20:00",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1606231200195900"
+  },
+  {
+    "user": "U0GFBAM8U",
+    "text": "ただ、waylandはわかりません",
+    "client_msg_id": "f373b81a-2a37-468e-bb72-3b332fd0ad38",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2020/11/24,15:19:46",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1606231186195700"
+  },
+  {
+    "user": "U0GFBAM8U",
+    "text": "wine動かしてGUIアプリ起動したりできます",
+    "client_msg_id": "d5763612-4523-4499-a2ca-7cacaa621b55",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2020/11/24,15:12:35",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1606230755195100"
+  },
+  {
+    "user": "U019C7VLZ4G",
+    "text": "ArchLinux 上のdockerでWine動かしてGUI表示させるのってできますか?\nXの例はいくつかありますがWaylandだとどうするのでしょうか?",
+    "client_msg_id": "3d61e1fc-1f9e-441f-9258-bf8a3101f594",
+    "name": "getalotofmail",
+    "img": "https://secure.gravatar.com/avatar/5a7f20688dc40b2989935a11bdfa25fe.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0001-24.png",
+    "time": "2020/11/24,09:39:29",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1606210769194500"
+  },
+  {
+    "user": "U70QDFN82",
+    "text": "ファン置くしかないですね。3000円くらいだし",
+    "client_msg_id": "e0f461ce-4077-4b4f-a533-04079623cf0a",
+    "name": "yutakatay",
+    "img": "https://avatars.slack-edge.com/2020-08-16/1302143736069_0baa468f7bea68e827d9_24.png",
+    "time": "2020/11/19,05:40:14",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1605764414191900"
+  },
+  {
+    "user": "U019C7VLZ4G",
+    "text": "ThinkPad X13 AMD，ブラウザでYoutube見ると右上隅あたりがあっちっち:fire::fire:になるのでなんとかしたいと思っている",
+    "client_msg_id": "b993762e-63b2-4704-bee5-d8e6f0bb860e",
+    "name": "getalotofmail",
+    "img": "https://secure.gravatar.com/avatar/5a7f20688dc40b2989935a11bdfa25fe.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0001-24.png",
+    "time": "2020/11/19,05:37:41",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1605764261191300"
+  },
+  {
+    "user": "U019C7VLZ4G",
+    "text": "ありがとうございます!",
+    "client_msg_id": "8997c08f-c888-4f9c-aeaa-eb8e9a2861cd",
+    "name": "getalotofmail",
+    "img": "https://secure.gravatar.com/avatar/5a7f20688dc40b2989935a11bdfa25fe.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0001-24.png",
+    "time": "2020/11/19,05:35:25",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1605764125188400"
+  },
+  {
+    "user": "U257W41DW",
+    "text": "現状はソフトウェアデコードですが、↓みたいな動きもあるのでそのうち false にしなくてもハードウェアデコードされるかもしれません。\n<https://bugzilla.mozilla.org/show_bug.cgi?id=1660336>",
+    "client_msg_id": "cd58b837-19a7-4fee-a718-f8522465c28c",
+    "name": "odknt",
+    "img": "https://secure.gravatar.com/avatar/5d54349749764603ddcf7f370f8c3d18.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0015-24.png",
+    "time": "2020/11/19,05:17:16",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1605763036188000"
+  },
+  {
+    "user": "U019C7VLZ4G",
+    "text": "その組み込みデコーダはハードウェアデコードに対応したものなのでしょうか?(falseにするとなっているので対応してない?）",
+    "client_msg_id": "706ecd1c-5f70-4073-988e-7a95355610d7",
+    "name": "getalotofmail",
+    "img": "https://secure.gravatar.com/avatar/5a7f20688dc40b2989935a11bdfa25fe.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0001-24.png",
+    "time": "2020/11/19,04:49:16",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1605761356185400"
+  },
+  {
+    "user": "U257W41DW",
+    "text": "Firefox の組み込み VP8/VP9 デコーダ（ffvpx）を使用するかしないかの設定ですね。",
+    "client_msg_id": "faf8dd24-db76-458c-82f0-632dfba199a6",
+    "name": "odknt",
+    "img": "https://secure.gravatar.com/avatar/5d54349749764603ddcf7f370f8c3d18.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0015-24.png",
+    "time": "2020/11/19,01:58:48",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1605751128183200"
+  },
+  {
+    "user": "U019C7VLZ4G",
+    "text": "このページで言及されてる\nmedia.ffvpx.enabledはソフトウェアデコードの機能のON/OFFを切り替えるフラグなんでしょうか\n<https://wiki.archlinux.org/index.php/firefox|https://wiki.archlinux.org/index.php/firefox>",
+    "client_msg_id": "d1a6ebd0-e8b4-4a8f-8d93-5beb573003d3",
+    "name": "getalotofmail",
+    "img": "https://secure.gravatar.com/avatar/5a7f20688dc40b2989935a11bdfa25fe.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0001-24.png",
+    "time": "2020/11/19,00:19:09",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1605745149182900"
+  },
+  {
+    "user": "U257W41DW",
+    "text": "ハードウェアデコードに対応できてるってことは、VCNじゃなくてUVDが搭載されてるんじゃないですかね？",
+    "client_msg_id": "a072db1d-ebb2-4a88-af9d-65babf9b92e2",
+    "name": "odknt",
+    "img": "https://secure.gravatar.com/avatar/5d54349749764603ddcf7f370f8c3d18.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0015-24.png",
+    "time": "2020/11/16,18:27:12",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1605551232180200"
+  },
+  {
+    "user": "UJ7P75WB1",
+    "text": "`/dev/dri/renderD128` みたいなデバイスが存在して、かつffmpegから触れれば有効…なのかな？(正直良くわかってないです)",
+    "client_msg_id": "3cacc4cc-c267-4a09-8d3a-ba3c56e8d996",
+    "name": "motoi.railgun",
+    "img": "https://avatars.slack-edge.com/2019-04-25/606553234194_44a1282f90562feee7b0_24.png",
+    "time": "2020/11/16,11:33:55",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1605526435179700"
+  },
+  {
+    "user": "U019C7VLZ4G",
+    "text": "mpv --hwdec=autoで動画再生したら\nUsing  hardware decoding (vaapi)となっているので動いてはいるということでしょうか?",
+    "client_msg_id": "f83355fb-a83c-4767-b23d-2694e42dd1ed",
+    "name": "getalotofmail",
+    "img": "https://secure.gravatar.com/avatar/5a7f20688dc40b2989935a11bdfa25fe.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0001-24.png",
+    "time": "2020/11/16,09:47:28",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1605520048179000"
+  },
+  {
+    "user": "U53RAQBCP",
+    "text": "modprobe*",
+    "client_msg_id": "44561807-9258-4300-bf7b-f392713ba0e5",
+    "name": "kkinx",
+    "img": "https://avatars.slack-edge.com/2020-06-19/1217544115744_070f890bad64414b4848_24.png",
+    "time": "2020/11/16,09:30:55",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1605519055175700"
+  },
+  {
+    "user": "U53RAQBCP",
+    "text": "それか `amdgpu-pro` だけ有効みたいな",
+    "client_msg_id": "ccab935a-ce1c-47ba-a001-4074ced00bf9",
+    "name": "kkinx",
+    "img": "https://avatars.slack-edge.com/2020-06-19/1217544115744_070f890bad64414b4848_24.png",
+    "time": "2020/11/16,09:30:06",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1605519006175400"
+  },
+  {
+    "user": "U53RAQBCP",
+    "text": "modproveのオプションとかカーネルパラメータとかで何かあるんですかね？",
+    "client_msg_id": "ca8652ed-d209-4b34-b4ba-7fc40dd8f149",
+    "name": "kkinx",
+    "img": "https://avatars.slack-edge.com/2020-06-19/1217544115744_070f890bad64414b4848_24.png",
+    "time": "2020/11/16,09:29:47",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1605518987175000"
+  },
+  {
+    "user": "U019C7VLZ4G",
+    "text": "vainfoの出力:\n```vainfo: VA-API version: 1.9 (libva 2.9.1)\nvainfo: Driver version: Mesa Gallium driver 20.2.2 for AMD RENOIR (DRM 3.39.0, 5.9.8-arch1-1, LLVM 11.0.0)\nvainfo: Supported profile and entrypoints\n      VAProfileMPEG2Simple            :\tVAEntrypointVLD\n      VAProfileMPEG2Main              :\tVAEntrypointVLD\n      VAProfileVC1Simple              :\tVAEntrypointVLD\n      VAProfileVC1Main                :\tVAEntrypointVLD\n      VAProfileVC1Advanced            :\tVAEntrypointVLD\n      VAProfileH264ConstrainedBaseline:\tVAEntrypointVLD\n      VAProfileH264ConstrainedBaseline:\tVAEntrypointEncSlice\n      VAProfileH264Main               :\tVAEntrypointVLD\n      VAProfileH264Main               :\tVAEntrypointEncSlice\n      VAProfileH264High               :\tVAEntrypointVLD\n      VAProfileH264High               :\tVAEntrypointEncSlice\n      VAProfileHEVCMain               :\tVAEntrypointVLD\n      VAProfileHEVCMain               :\tVAEntrypointEncSlice\n      VAProfileHEVCMain10             :\tVAEntrypointVLD\n      VAProfileHEVCMain10             :\tVAEntrypointEncSlice\n      VAProfileJPEGBaseline           :\tVAEntrypointVLD\n      VAProfileVP9Profile0            :\tVAEntrypointVLD\n      VAProfileVP9Profile2            :\tVAEntrypointVLD\n      VAProfileNone                   :\tVAEntrypointVideoProc```",
+    "client_msg_id": "cb82959d-37cb-4fe7-b4a6-97cdca0bdb70",
+    "name": "getalotofmail",
+    "img": "https://secure.gravatar.com/avatar/5a7f20688dc40b2989935a11bdfa25fe.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0001-24.png",
+    "time": "2020/11/16,08:44:11",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1605516251173500"
+  },
+  {
+    "user": "U019C7VLZ4G",
+    "text": "sudo watch -n 0.5 cat /sys/kernel/debug/dri/0/amdgpu_pm_infoの出力:\n```        Graphics Medium Grain Clock Gating: On\n        Graphics Medium Grain memory Light Sleep: On\n        Graphics Coarse Grain Clock Gating: On\n        Graphics Coarse Grain memory Light Sleep: On\n        Graphics Coarse Grain Tree Shader Clock Gating: Off\n        Graphics Coarse Grain Tree Shader Light Sleep: Off\n        Graphics Command Processor Light Sleep: On\n        Graphics Run List Controller Light Sleep: Off\n        Graphics 3D Coarse Grain Clock Gating: On\n        Graphics 3D Coarse Grain memory Light Sleep: On\n        Memory Controller Light Sleep: Off\n        Memory Controller Medium Grain Clock Gating: Off\n        System Direct Memory Access Light Sleep: On\n        System Direct Memory Access Medium Grain Clock Gating: On\n        Bus Interface Medium Grain Clock Gating: On\n        Bus Interface Light Sleep: On\n        Unified Video Decoder Medium Grain Clock Gating: Off\n        Video Compression Engine Medium Grain Clock Gating: Off\n        Host Data Path Light Sleep: On\n        Host Data Path Medium Grain Clock Gating: Off\n        Digital Right Management Medium Grain Clock Gating: Off\n        Digital Right Management Light Sleep: On\n        Rom Medium Grain Clock Gating: On\n        Data Fabric Medium Grain Clock Gating: On\n        Address Translation Hub Medium Grain Clock Gating: On\n        Address Translation Hub Light Sleep: On\n\nGFX Clocks and Power:\n        1200 MHz (MCLK)\n        1600 MHz (SCLK)\n        0 MHz (PSTATE_SCLK)\n        0 MHz (PSTATE_MCLK)\n\nGPU Temperature: 48 C\nGPU Load: 1 %\n\nVCN: Disabled // VCNがDisabled!??```",
+    "client_msg_id": "0b26d26f-5935-40ef-beb5-102f21030e1e",
+    "name": "getalotofmail",
+    "img": "https://secure.gravatar.com/avatar/5a7f20688dc40b2989935a11bdfa25fe.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0001-24.png",
+    "time": "2020/11/16,08:42:29",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1605516149173100"
+  },
+  {
+    "user": "U019C7VLZ4G",
+    "text": "amdのAPUの載ったPC(Ryzen 7 4750U)を使っているのですが\ngpuの情報を見ようと`sudo watch -n 0.5  cat /sys/kernel/debug/dri/0/amdgpu_pm_info`したところVCN: Disabledという出力がされました。\nこれはVCN(AMDのメディア等のハードウェアアクセラレーション機能)が有効化されていないということなのでしょうか?\nlibva-mesa-driverはインストール済みです。\nまた、`vainfo`はきちんと表示されます\n各出力は下記のとおりです",
+    "client_msg_id": "3d726236-cf8e-4d1b-98e9-17f3060888d9",
+    "name": "getalotofmail",
+    "img": "https://secure.gravatar.com/avatar/5a7f20688dc40b2989935a11bdfa25fe.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0001-24.png",
+    "time": "2020/11/16,08:40:17",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1605516017172200"
+  },
+  {
+    "user": "U019C7VLZ4G",
+    "text": "なんかpacman -Syuが遅くないですか?\nパッケージのダウンロードにいつもより時間がかかっている気がする",
+    "client_msg_id": "8ac8ade9-6dc7-4abf-bf3c-807a1e50d5ae",
+    "name": "getalotofmail",
+    "img": "https://secure.gravatar.com/avatar/5a7f20688dc40b2989935a11bdfa25fe.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0001-24.png",
+    "time": "2020/11/14,12:28:48",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1605356928166000"
+  },
+  {
+    "user": "U019C7VLZ4G",
+    "text": "python3.9がstaging にきてた!\n<https://www.archlinux.org/packages/staging/x86_64/python/|https://www.archlinux.org/packages/staging/x86_64/python/>",
+    "client_msg_id": "29724ae6-b7a0-4ada-b10c-ec62f4364fa2",
+    "name": "getalotofmail",
+    "img": "https://secure.gravatar.com/avatar/5a7f20688dc40b2989935a11bdfa25fe.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0001-24.png",
+    "time": "2020/11/14,06:16:59",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1605334619165000"
+  },
+  {
+    "user": "U015CDRQDD0",
+    "text": "<@U0GFBAM8U> 有難う御座います",
+    "client_msg_id": "b6c79e4e-161c-4c4c-9f12-ec70a10bbfd0",
+    "name": "v3rn3j",
+    "img": "https://secure.gravatar.com/avatar/245992ad0221e323c1397758868d2138.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0002-24.png",
+    "time": "2020/11/13,06:18:43",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1605248323163900"
+  },
+  {
+    "user": "U0GFBAM8U",
+    "text": "<https://wiki.archlinux.jp/index.php/%E3%83%98%E3%83%AB%E3%83%97:%E7%B7%A8%E9%9B%86%23.E3.82.A2.E3.82.AB.E3.82.A6.E3.83.B3.E3.83.88.E3.81.AE.E4.BD.9C.E6.88.90|https://wiki.archlinux.jp/index.php/ヘルプ:編集#.E3.82.A2.E3.82.AB.E3.82.A6.E3.83.B3.E3.83.88.E3.81.AE.E4.BD.9C.E6.88.90>",
+    "client_msg_id": "5FAF67F4-013B-433D-869C-B71CC6B7B799",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2020/11/13,06:18:13",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1605248293163500"
+  },
+  {
+    "user": "U0GFBAM8U",
+    "text": "気軽に参加してみるといいかも(最初は小さな変更からがおすすめ",
+    "client_msg_id": "C4F9CD27-303B-41EF-B596-43FD67865120",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2020/11/13,06:16:05",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1605248165163300"
+  },
+  {
+    "user": "U0GFBAM8U",
+    "text": "ボランティアでかけると思いますよ\nアカウント作って編集みたいな感じで",
+    "client_msg_id": "7179ABF5-3ABC-4460-A224-46DF25034BA1",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2020/11/13,06:14:48",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1605248088162400"
+  },
+  {
+    "user": "U015CDRQDD0",
+    "text": "質問なんですが、Archwiki jpのまだ翻訳されていなかったり、Archwikiに追加されているものが記述されていなかったりした場合ってArchwiki jpの運営者？に報告して行く感じ何でしょうか？それともウィキペディアのようにボランティアで書けるのでしょうか？",
+    "client_msg_id": "e45c1f69-8912-49ea-8648-ba12df867cc2",
+    "name": "v3rn3j",
+    "img": "https://secure.gravatar.com/avatar/245992ad0221e323c1397758868d2138.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0002-24.png",
+    "time": "2020/11/13,06:13:52",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1605248032161500"
+  },
+  {
+    "user": "UPYQ3CUJ1",
+    "text": "気になってしらべてたら、かなり前の議論があったので一応共有しておきます:\n[1] <https://lists.archlinux.org/pipermail/arch-dev-public/2018-July/029306.html|https://lists.archlinux.org/pipermail/arch-dev-public/2018-July/029306.html>\n[2] <https://lists.archlinux.org/pipermail/arch-dev-public/2010-December/018893.html|https://lists.archlinux.org/pipermail/arch-dev-public/2010-December/018893.html>\n\nWiki の該当部分の編集履歴から、議論の時期に目星を付けて調べてました。今から10年以上前の議論だ。。。",
+    "client_msg_id": "c1e4a276-f521-466a-96aa-56e7806e25ae",
+    "name": "shota.af083",
+    "img": "https://secure.gravatar.com/avatar/8806dbddb82d43065dd1190cfcf80c65.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0023-24.png",
+    "time": "2020/11/12,15:40:54",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1605195654157700"
+  },
+  {
+    "user": "UPYQ3CUJ1",
+    "text": "Wiki の TU のページ見ると、Pacman wrapper は例外で community repo には許可されないって書いてありますね。 なんでこうなっているのかは書いてないですが、もし加えたければ、 arch-dev-public にメールしろ、とあるから過去の議論もここにありそう.",
+    "client_msg_id": "26d9bbcd-a248-404f-91ee-fe4cdcd4cec4",
+    "name": "shota.af083",
+    "img": "https://secure.gravatar.com/avatar/8806dbddb82d43065dd1190cfcf80c65.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0023-24.png",
+    "time": "2020/11/12,14:41:20",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1605192080155100"
+  },
+  {
+    "user": "UPYQ3CUJ1",
+    "text": "ああ、でも基本的には TU が気にいればいいのかな。",
+    "client_msg_id": "8592ee16-f45e-4d98-afb9-4ee9cc08313f",
+    "name": "shota.af083",
+    "img": "https://secure.gravatar.com/avatar/8806dbddb82d43065dd1190cfcf80c65.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0023-24.png",
+    "time": "2020/11/12,14:35:26",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1605191726153000"
+  },
+  {
+    "user": "UPYQ3CUJ1",
+    "text": "pacman の wrapper は使った事なかったので、ちょっと wiki を見てみたら結構な数 wrapper が開発されてるんですね。というのも、人気があるからってだけで公式リポジトリに移動できるもんなのなかと思って。。。ユーザーへの選択肢を確保するなら、他のも公式に移動しろって話しになるのかも?",
+    "client_msg_id": "68407187-4c41-4614-b9c8-cc76dc1a6ef9",
+    "name": "shota.af083",
+    "img": "https://secure.gravatar.com/avatar/8806dbddb82d43065dd1190cfcf80c65.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0023-24.png",
+    "time": "2020/11/12,14:27:20",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1605191240152500"
+  },
+  {
+    "user": "U70QDFN82",
+    "text": "これどこに問い合わせるかムズいですね。。。\n• pacmanのメーリングリスト\n• Archのフォーラム\n• yayのリポジトリのIssue\n• AURのyayのページのコメント\n• Redditとかで意見募集",
+    "client_msg_id": "b25954e6-fa5d-4b9c-9520-9a0e5e7546b9",
+    "name": "yutakatay",
+    "img": "https://avatars.slack-edge.com/2020-08-16/1302143736069_0baa468f7bea68e827d9_24.png",
+    "time": "2020/11/12,13:17:19",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1605187039146900"
+  },
+  {
+    "user": "UVB7L4CKH",
+    "text": "議論自体は定期的に上がってそうなんですけどね\nクローズドな場でやってるのかもしれない",
+    "client_msg_id": "f2545d79-3604-4f37-8798-2f6f0ebbde5b",
+    "name": "tatsumigamou",
+    "img": "https://avatars.slack-edge.com/2020-03-12/985313571153_203fee630d3a4a1053a1_24.jpg",
+    "time": "2020/11/12,13:05:54",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1605186354145200"
+  },
+  {
+    "user": "U70QDFN82",
+    "text": "全然見つからないな・・・",
+    "client_msg_id": "4242f590-425b-4271-bf6f-68f143848359",
+    "name": "yutakatay",
+    "img": "https://avatars.slack-edge.com/2020-08-16/1302143736069_0baa468f7bea68e827d9_24.png",
+    "time": "2020/11/12,13:05:07",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1605186307144600"
+  },
+  {
+    "user": "UVB7L4CKH",
+    "text": "（まあそもそもHTTPSで通信するのにキャッシュポイズニングを検知できないはずがないというのはある）",
+    "client_msg_id": "9e077194-0bf9-43dc-9aa6-3c58ea254c16",
+    "name": "tatsumigamou",
+    "img": "https://avatars.slack-edge.com/2020-03-12/985313571153_203fee630d3a4a1053a1_24.jpg",
+    "time": "2020/11/12,13:03:37",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1605186217143900"
+  },
+  {
+    "user": "UVB7L4CKH",
+    "text": "`<http://aur.archlinux.org|aur.archlinux.org>` から悪意あるスクリプトが落ちてくるならDNSキャッシュポイズニングとか食らってる可能性があるのでyayのリスク以前の問題になる",
+    "client_msg_id": "b70b1d0e-7312-4329-9974-e8be581e8013",
+    "name": "tatsumigamou",
+    "img": "https://avatars.slack-edge.com/2020-03-12/985313571153_203fee630d3a4a1053a1_24.jpg",
+    "time": "2020/11/12,13:02:16",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1605186136143300"
+  },
+  {
+    "user": "UP57VNN6T",
+    "text": "まぁそれも一理ありますね...",
+    "client_msg_id": "e25fe28b-0708-49c0-adb6-4e251f757496",
+    "name": "shun819.mail",
+    "img": "https://avatars.slack-edge.com/2019-10-06/787619965254_d350f87803cf2c832f57_24.png",
+    "time": "2020/11/12,13:01:16",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1605186076142200"
+  },
+  {
+    "user": "UVB7L4CKH",
+    "text": "そこは `<http://aur.archlinux.org|aur.archlinux.org>` をcloneするのさえ守ればいいですし、そこで躓くならManjaro使いましょうやと言いたくなる",
+    "client_msg_id": "b7f9ff99-9895-413d-bc3c-bd987e851a7b",
+    "name": "tatsumigamou",
+    "img": "https://avatars.slack-edge.com/2020-03-12/985313571153_203fee630d3a4a1053a1_24.jpg",
+    "time": "2020/11/12,13:00:57",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1605186057141500"
+  },
+  {
+    "user": "UP57VNN6T",
+    "text": "そういう意味では公式で提供する価値はあるんじゃないかなと",
+    "client_msg_id": "7b16255f-7df8-49f5-bdaf-04783f1f9aed",
+    "name": "shun819.mail",
+    "img": "https://avatars.slack-edge.com/2019-10-06/787619965254_d350f87803cf2c832f57_24.png",
+    "time": "2020/11/12,13:00:08",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1605186008140600"
+  },
+  {
+    "user": "UP57VNN6T",
+    "text": "cloneするPKGBUILD変えちゃえば改ざんし放題なわけだし",
+    "client_msg_id": "cb0f0e86-12ad-4e72-ac14-e1b7cb506aee",
+    "name": "shun819.mail",
+    "img": "https://avatars.slack-edge.com/2019-10-06/787619965254_d350f87803cf2c832f57_24.png",
+    "time": "2020/11/12,12:59:54",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1605185994140100"
+  },
+  {
+    "user": "U017BNGTHT3",
+    "text": "&gt; どっかのブログ\nこわい",
+    "client_msg_id": "0afe26e7-26bb-4688-b12e-76920a767e5b",
+    "name": "s5is",
+    "img": "https://avatars.slack-edge.com/2020-07-13/1222405306279_15e958295d437e18f344_24.png",
+    "time": "2020/11/12,12:59:19",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1605185959139100"
+  },
+  {
+    "user": "U017BNGTHT3",
+    "text": "まあ、yay-binとかはAURからgitで落とす分にはリスクは特に変わらないので…",
+    "client_msg_id": "da603311-5484-4662-86c7-3586fd8840d3",
+    "name": "s5is",
+    "img": "https://avatars.slack-edge.com/2020-07-13/1222405306279_15e958295d437e18f344_24.png",
+    "time": "2020/11/12,12:59:09",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1605185949138500"
+  },
+  {
+    "user": "U70QDFN82",
+    "text": "どっかのブログに悪意あるインストール方法書かれてる方がまじでリスク高いと思う。yayのインストール",
+    "client_msg_id": "da750413-164c-4191-8537-f3b34baaa0e0",
+    "name": "yutakatay",
+    "img": "https://avatars.slack-edge.com/2020-08-16/1302143736069_0baa468f7bea68e827d9_24.png",
+    "time": "2020/11/12,12:59:01",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1605185941138300"
+  },
+  {
+    "user": "UP57VNN6T",
+    "text": "メーリングリストの使い方がいまいちわからない...",
+    "client_msg_id": "05ae6f1e-08c0-488b-8410-3e09b515d07a",
+    "name": "shun819.mail",
+    "img": "https://avatars.slack-edge.com/2019-10-06/787619965254_d350f87803cf2c832f57_24.png",
+    "time": "2020/11/12,12:58:31",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1605185911137200"
+  },
+  {
+    "user": "UP57VNN6T",
+    "text": "結局数行のコマンドでインストールできるか短いコマンドでインストールできるかの差でしかないのでね...",
+    "client_msg_id": "eab95755-d998-4a3e-a7ca-bc1428485cc6",
+    "name": "shun819.mail",
+    "img": "https://avatars.slack-edge.com/2019-10-06/787619965254_d350f87803cf2c832f57_24.png",
+    "time": "2020/11/12,12:58:08",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1605185888135900"
+  },
+  {
+    "user": "U70QDFN82",
+    "text": "なんかどっかに議論あがってそうだけど見当たらないですね・・・",
+    "client_msg_id": "b8353c08-2cf4-4df8-8fda-4deb16fba0ca",
+    "name": "yutakatay",
+    "img": "https://avatars.slack-edge.com/2020-08-16/1302143736069_0baa468f7bea68e827d9_24.png",
+    "time": "2020/11/12,12:57:52",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1605185872135300"
+  },
+  {
+    "user": "U70QDFN82",
+    "text": "あ、いえ。私もまさに”yayの使い方であってyayそのものではないはず”だと思っていてAURを使うことには慎重になるべきだと思うけど、インストールを別にしても問題が解決してないんじゃないかと思ってます。。。",
+    "client_msg_id": "78d64ebe-231b-4e32-8e47-4e398921530a",
+    "name": "yutakatay",
+    "img": "https://avatars.slack-edge.com/2020-08-16/1302143736069_0baa468f7bea68e827d9_24.png",
+    "time": "2020/11/12,12:57:26",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1605185846134400"
+  },
+  {
+    "user": "UP57VNN6T",
+    "text": "yayのバイナリの話でしたね失礼しました",
+    "client_msg_id": "ccd03a28-5ffe-4c80-907f-2d54b3cfed44",
+    "name": "shun819.mail",
+    "img": "https://avatars.slack-edge.com/2019-10-06/787619965254_d350f87803cf2c832f57_24.png",
+    "time": "2020/11/12,12:55:40",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1605185740131800"
+  },
+  {
+    "user": "UP57VNN6T",
+    "text": "誤解してました",
+    "client_msg_id": "79160be1-2304-4fa4-a9b9-0c030fe54876",
+    "name": "shun819.mail",
+    "img": "https://avatars.slack-edge.com/2019-10-06/787619965254_d350f87803cf2c832f57_24.png",
+    "time": "2020/11/12,12:55:29",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1605185729131300"
+  },
+  {
+    "user": "UP57VNN6T",
+    "text": "あ、待ってそういうことかすみません",
+    "client_msg_id": "4cb37cfb-a098-4250-80af-254c5b310184",
+    "name": "shun819.mail",
+    "img": "https://avatars.slack-edge.com/2019-10-06/787619965254_d350f87803cf2c832f57_24.png",
+    "time": "2020/11/12,12:55:26",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1605185726130900"
+  },
+  {
+    "user": "UP57VNN6T",
+    "text": "<https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1605185623126900> これです",
+    "client_msg_id": "a1ec285f-9c74-4de4-90f6-81c21f388a87",
+    "name": "shun819.mail",
+    "img": "https://avatars.slack-edge.com/2019-10-06/787619965254_d350f87803cf2c832f57_24.png",
+    "time": "2020/11/12,12:55:09",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1605185709129900"
+  },
+  {
+    "user": "U70QDFN82",
+    "text": "&gt; それはあくまでのyayの使い方であってyayそのものではないはず\nこれのそれはどれをさしてます？",
+    "client_msg_id": "23819a7b-951a-487d-9663-2e2424514c52",
+    "name": "yutakatay",
+    "img": "https://avatars.slack-edge.com/2020-08-16/1302143736069_0baa468f7bea68e827d9_24.png",
+    "time": "2020/11/12,12:54:49",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1605185689129600"
+  },
+  {
+    "user": "UVB7L4CKH",
+    "text": "あくまでも公式から提供するものではない、っていうところにポイントがありそう",
+    "client_msg_id": "94f60c18-c9dd-4a8b-8ffe-f186da29f013",
+    "name": "tatsumigamou",
+    "img": "https://avatars.slack-edge.com/2020-03-12/985313571153_203fee630d3a4a1053a1_24.jpg",
+    "time": "2020/11/12,12:54:37",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1605185677129000"
+  },
+  {
+    "user": "U6DL9D3AB",
+    "text": "~ライセンスの問題が大きそう~\nyay単体については関係ないか",
+    "client_msg_id": "6194D25E-C646-49E3-A2CC-11825AAEB314",
+    "name": "emtee",
+    "img": "https://avatars.slack-edge.com/2017-08-24/232261947719_1bb4d925e48fdfd0a154_24.png",
+    "time": "2020/11/12,12:54:36",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1605185676128900"
+  },
+  {
+    "user": "UP57VNN6T",
+    "text": "それはあくまでのyayの使い方であってyayそのものではないはず",
+    "client_msg_id": "19161721-61b3-4c00-bc7c-1c1a461c73f7",
+    "name": "shun819.mail",
+    "img": "https://avatars.slack-edge.com/2019-10-06/787619965254_d350f87803cf2c832f57_24.png",
+    "time": "2020/11/12,12:54:04",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1605185644127900"
+  },
+  {
+    "user": "U70QDFN82",
+    "text": "逆に変なところから変なyayバイナリを落としちゃうとそれこそrootでいろいろできてセキュリティリスク",
+    "client_msg_id": "510376dc-e88b-457e-8070-9b3a444db1f0",
+    "name": "yutakatay",
+    "img": "https://avatars.slack-edge.com/2020-08-16/1302143736069_0baa468f7bea68e827d9_24.png",
+    "time": "2020/11/12,12:53:43",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1605185623126900"
+  },
+  {
+    "user": "U017BNGTHT3",
+    "text": "実際のところ初心者にも優しそうなManjaroはyayは公式に含めてるし、そのあたりの違いはありそう。",
+    "client_msg_id": "8393e70d-5e34-4377-8b1f-2cd5719f050f",
+    "name": "s5is",
+    "img": "https://avatars.slack-edge.com/2020-07-13/1222405306279_15e958295d437e18f344_24.png",
+    "time": "2020/11/12,12:53:35",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1605185615126400"
+  },
+  {
+    "user": "U017BNGTHT3",
+    "text": "&gt; メリット\nAURというかABSって感じ",
+    "client_msg_id": "6a9a71d1-ce2b-494f-89b4-6d33b25ed998",
+    "name": "s5is",
+    "img": "https://avatars.slack-edge.com/2020-07-13/1222405306279_15e958295d437e18f344_24.png",
+    "time": "2020/11/12,12:53:11",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1605185591125100"
+  },
+  {
+    "user": "U70QDFN82",
+    "text": "でも結局みんな入れるからまったく意味をなしてない",
+    "client_msg_id": "7beaacb2-b2d2-44c7-a557-1bb547d7be9e",
+    "name": "yutakatay",
+    "img": "https://avatars.slack-edge.com/2020-08-16/1302143736069_0baa468f7bea68e827d9_24.png",
+    "time": "2020/11/12,12:53:10",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1605185590125000"
+  },
+  {
+    "user": "UP57VNN6T",
+    "text": "でもArchのメリットってAURな部分が大きい気がするけど...",
+    "client_msg_id": "15f15d84-0b1a-4fb9-b28f-b29ec7de5907",
+    "name": "shun819.mail",
+    "img": "https://avatars.slack-edge.com/2019-10-06/787619965254_d350f87803cf2c832f57_24.png",
+    "time": "2020/11/12,12:53:01",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1605185581124700"
+  },
+  {
+    "user": "UVB7L4CKH",
+    "text": "そこを飲み込んだ上で使うのがAUR",
+    "client_msg_id": "bd4314ca-7516-40cd-8d4c-786e206f3e71",
+    "name": "tatsumigamou",
+    "img": "https://avatars.slack-edge.com/2020-03-12/985313571153_203fee630d3a4a1053a1_24.jpg",
+    "time": "2020/11/12,12:52:55",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1605185575124200"
+  },
+  {
+    "user": "U70QDFN82",
+    "text": "うーんAURから入れるのと、AURにアクセスするためのソフトは別な気がしますが・・・",
+    "client_msg_id": "d8de8349-6846-4854-bc77-0b552c4618e9",
+    "name": "yutakatay",
+    "img": "https://avatars.slack-edge.com/2020-08-16/1302143736069_0baa468f7bea68e827d9_24.png",
+    "time": "2020/11/12,12:52:54",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1605185574124100"
+  },
+  {
+    "user": "UVB7L4CKH",
+    "text": "リスク考えるとAURなんて使わないに越したことはないですからね",
+    "client_msg_id": "0223e1b4-b6ea-48b4-8599-6cf80bdf9f0b",
+    "name": "tatsumigamou",
+    "img": "https://avatars.slack-edge.com/2020-03-12/985313571153_203fee630d3a4a1053a1_24.jpg",
+    "time": "2020/11/12,12:52:44",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1605185564123300"
+  },
+  {
+    "user": "UP57VNN6T",
+    "text": "まぁそれでArch公式コミュニティに苦情が入っても邪魔なだけだしなあ",
+    "client_msg_id": "8b4100da-dfdf-4c2f-9a16-74149c6525bf",
+    "name": "shun819.mail",
+    "img": "https://avatars.slack-edge.com/2019-10-06/787619965254_d350f87803cf2c832f57_24.png",
+    "time": "2020/11/12,12:52:41",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1605185561123100"
+  },
+  {
+    "user": "U017BNGTHT3",
+    "text": "初心者に優しくしすぎないって意味かもしれない。",
+    "client_msg_id": "72c7afd6-df29-4530-b0f3-89e2f1889420",
+    "name": "s5is",
+    "img": "https://avatars.slack-edge.com/2020-07-13/1222405306279_15e958295d437e18f344_24.png",
+    "time": "2020/11/12,12:52:24",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1605185544122100"
+  },
+  {
+    "user": "U6DL9D3AB",
+    "text": "単純なラッパーなら公式に置かれる可能性もあるでしょうけれど、\n&gt; ノート: AUR からパッケージをインストールする公式の仕組みはありませんし今後も作られることはありません。全てのユーザーはビルドプロセスに慣れる必要があります。\n&gt; \nこう書かれている以上は公式ミラーに取り込まれることはないんじゃないかなと\n&gt; \n&gt; \n<https://wiki.archlinux.jp/index.php/Arch_User_Repository#.E3.83.91.E3.83.83.E3.82.B1.E3.83.BC.E3.82.B8.E3.81.AE.E3.82.A4.E3.83.B3.E3.82.B9.E3.83.88.E3.83.BC.E3.83.AB|https://wiki.archlinux.jp/index.php/Arch_User_Repository#.E3.83.91.E3.83.83.E3.82.B1.E3.83.BC.E3.82.B8.E3.81.AE.E3.82.A4.E3.83.B3.E3.82.B9.E3.83.88.E3.83.BC.E3.83.AB>",
+    "client_msg_id": "50BF7B1D-21A6-42DB-AD8C-CE8C15D55F1A",
+    "name": "emtee",
+    "img": "https://avatars.slack-edge.com/2017-08-24/232261947719_1bb4d925e48fdfd0a154_24.png",
+    "time": "2020/11/12,12:51:59",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1605185519121200"
+  },
+  {
+    "user": "U70QDFN82",
+    "text": "yay側のIssueとか見てないですけどなんか書かれてたりするかなー",
+    "client_msg_id": "9e289540-dba1-4db0-a34d-815faa51f98c",
+    "name": "yutakatay",
+    "img": "https://avatars.slack-edge.com/2020-08-16/1302143736069_0baa468f7bea68e827d9_24.png",
+    "time": "2020/11/12,12:50:33",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1605185433119100"
+  },
+  {
+    "user": "U70QDFN82",
+    "text": "ちなみに全く同じ議論を別の場所でした\n<https://vim-jp.org/slacklog/CL6NCDCQG/2020/09/#ts-1599220116.123100>",
+    "client_msg_id": "57e6e75f-3a0c-478d-897f-ba69c15a53e9",
+    "name": "yutakatay",
+    "img": "https://avatars.slack-edge.com/2020-08-16/1302143736069_0baa468f7bea68e827d9_24.png",
+    "time": "2020/11/12,12:50:13",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1605185413118400"
+  },
+  {
+    "user": "UP57VNN6T",
+    "text": "メーリングリストで質問していいことなのかどうか...",
+    "client_msg_id": "2ab08e5f-a2c3-4627-b219-212b16131d4b",
+    "name": "shun819.mail",
+    "img": "https://avatars.slack-edge.com/2019-10-06/787619965254_d350f87803cf2c832f57_24.png",
+    "time": "2020/11/12,12:49:46",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1605185386117100"
+  },
+  {
+    "user": "UVB7L4CKH",
+    "text": "（あるに越したことはない）",
+    "client_msg_id": "5b99dec1-b8e5-4d78-82cb-f3944b9e8757",
+    "name": "tatsumigamou",
+    "img": "https://avatars.slack-edge.com/2020-03-12/985313571153_203fee630d3a4a1053a1_24.jpg",
+    "time": "2020/11/12,12:49:09",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1605185349115800"
+  },
+  {
+    "user": "UVB7L4CKH",
+    "text": "yayはあくまでAURヘルパーであって公式リポジトリに置くのは違うかなあという感じ\n公式リポジトリからしたらAUR使うためにしか使わないパッケージならAURで管理すれば良くない？的な思考が働いてそう",
+    "client_msg_id": "3890d6d2-6829-41dd-b1d9-4fd8a7432f18",
+    "name": "tatsumigamou",
+    "img": "https://avatars.slack-edge.com/2020-03-12/985313571153_203fee630d3a4a1053a1_24.jpg",
+    "time": "2020/11/12,12:48:26",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1605185306114100"
+  },
+  {
+    "user": "U017BNGTHT3",
+    "text": "公式にあっても良さそうなのは確かに。\nそこまで不便とは感じてないけど、yayとlibalpmのバージョンずれて動かなくなったことあるからわかる。",
+    "client_msg_id": "286fa2f6-0f6a-4a3e-a9d2-549169ef9063",
+    "name": "s5is",
+    "img": "https://avatars.slack-edge.com/2020-07-13/1222405306279_15e958295d437e18f344_24.png",
+    "time": "2020/11/12,12:47:42",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1605185262113400"
+  },
+  {
+    "user": "U70QDFN82",
+    "text": "まあそれはyay-binですね",
+    "client_msg_id": "2b604585-eb50-4e41-b661-59d11d147542",
+    "name": "yutakatay",
+    "img": "https://avatars.slack-edge.com/2020-08-16/1302143736069_0baa468f7bea68e827d9_24.png",
+    "time": "2020/11/12,12:46:45",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1605185205111800"
+  },
+  {
+    "user": "UP57VNN6T",
+    "text": "それにビルドもgoの依存関係が大きいので面倒（yay-bin使えって話ですが）",
+    "client_msg_id": "1c1c6a1c-99c1-462a-853e-6e21c9b0f9b8",
+    "name": "shun819.mail",
+    "img": "https://avatars.slack-edge.com/2019-10-06/787619965254_d350f87803cf2c832f57_24.png",
+    "time": "2020/11/12,12:45:46",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1605185146110600"
+  },
+  {
+    "user": "U70QDFN82",
+    "text": "野良からyayを引っ張ってくるのってセキュリティリスクでしかない",
+    "client_msg_id": "ea9fa77d-f5de-495b-a2e9-fee3a9c62c72",
+    "name": "yutakatay",
+    "img": "https://avatars.slack-edge.com/2020-08-16/1302143736069_0baa468f7bea68e827d9_24.png",
+    "time": "2020/11/12,12:44:26",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1605185066109700"
+  },
+  {
+    "user": "U017BNGTHT3",
+    "text": "ありましたっけ？あったような無かったような",
+    "client_msg_id": "37104f8a-5c0d-4087-b952-86fd95028d16",
+    "name": "s5is",
+    "img": "https://avatars.slack-edge.com/2020-07-13/1222405306279_15e958295d437e18f344_24.png",
+    "time": "2020/11/12,12:44:12",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1605185052108900"
+  },
+  {
+    "user": "U70QDFN82",
+    "text": "私もインストールできてもいいと思ってる",
+    "client_msg_id": "f0ad4d9f-3a1c-42a8-9cce-6a1428e73fad",
+    "name": "yutakatay",
+    "img": "https://avatars.slack-edge.com/2020-08-16/1302143736069_0baa468f7bea68e827d9_24.png",
+    "time": "2020/11/12,12:43:48",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1605185028108100"
+  },
+  {
+    "user": "UP57VNN6T",
+    "text": "でも一時期はyaourtは公式リポジトリにあったと聞いているのですが...",
+    "client_msg_id": "e97504f4-30ca-43de-bd93-23c39052a548",
+    "name": "shun819.mail",
+    "img": "https://avatars.slack-edge.com/2019-10-06/787619965254_d350f87803cf2c832f57_24.png",
+    "time": "2020/11/12,12:43:36",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1605185016107200"
+  }
+]
