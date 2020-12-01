@@ -228,7 +228,7 @@ jobs:
           exit
         fi
         date=`date +"%Y%m"`
-        out=$date-general.json
+        out=$date-random.json
         if [ -f $out ];then
           git add $out
         fi
