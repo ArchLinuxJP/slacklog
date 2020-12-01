@@ -218,8 +218,8 @@ jobs:
          fi
         done
         cat $out|jq .
-        
         cp -rf $out $tmp_json
+
     - name: Commit files
       run: |
         git config --local user.email "action@github.com"
