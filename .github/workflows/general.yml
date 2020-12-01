@@ -229,12 +229,17 @@ jobs:
         fi
         date=`date +"%Y%m"`
         out=$date-general.json
-        git clean -df
         if [ -f $out ];then
           git add $out
         fi
-        git add gen.json
-        git commit -m "update json" -a
+        git add ran.json
+        if git commit -m "update json" -a;then
+          echo ok commit
+        else
+          echo error commit
+          exit
+        fi
+
     - name: Push changes
       uses: ad-m/github-push-action@master
       with:
