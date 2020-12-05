@@ -1,11 +1,101 @@
 [
   {
     "user": "U2YNMHCTV",
+    "text": "重大な変更でなければ、多少は猶予してほしいところです…",
+    "client_msg_id": "bc0ddbf5-adda-48f1-affb-b5cf0283f522",
+    "name": "takumi.kt",
+    "img": "https://avatars.slack-edge.com/2017-03-29/160483390144_d7c2d155ede8c59ea6bd_24.png",
+    "time": "2020/12/05 10:34:33",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1607130922055700"
+  },
+  {
+    "user": "U0GFBAM8U",
+    "text": "discordのアップデート問題、なかなかにめんどくさそうですね",
+    "client_msg_id": "458edae0-b2f3-4754-83c6-a70355e7d203",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2020/12/05 10:34:33",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1607130797055100"
+  },
+  {
+    "user": "U2YNMHCTV",
+    "text": "&gt; Yes it kind of seems like Linux users are treated as B-Class citizens all over the place.\n分かってて使ってるけど :totemoturai:",
+    "client_msg_id": "37a8785f-3caa-4d5c-be99-36df163eb82b",
+    "name": "takumi.kt",
+    "img": "https://avatars.slack-edge.com/2017-03-29/160483390144_d7c2d155ede8c59ea6bd_24.png",
+    "time": "2020/12/05 10:34:33",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1607130744054800"
+  },
+  {
+    "user": "U0GFBAM8U",
+    "text": "<https://support.discord.com/hc/en-us/community/posts/360057789311-Discord-won-t-open-on-Linux-when-an-update-is-available>",
+    "client_msg_id": "6b104cfd-10ad-41ce-a6f2-e100080b9a93",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2020/12/05 10:34:34",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1607130583054300"
+  },
+  {
+    "user": "U0GFBAM8U",
+    "text": "macとかwindowsとかのchromeはストア経由ではなく、自己アップデート持ってて便利ですし、そういうのarchでやりたいですよね",
+    "client_msg_id": "ac2c331d-e921-4158-be90-6108f265aa37",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2020/12/05 10:34:34",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1607130364054100"
+  },
+  {
+    "user": "U0GFBAM8U",
+    "text": "なるほど",
+    "client_msg_id": "d0ee3be7-4519-4be1-b4dd-34dee4af506d",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2020/12/05 10:34:34",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1607130278053100"
+  },
+  {
+    "user": "U2YNMHCTV",
+    "text": "今回のは、タイミングの問題だろうと思うんですが。\nアップデートサボりがちなときとかに、ブラウザの脆弱性修正されるとかそういうの考えたら、自己アップデート機能を持っていてインストールや利用にroot権限を必要としないものは、ユーザ側に入れた方がいいのではとたまに思います。",
+    "client_msg_id": "3d43dc13-523e-43da-8ad9-fc1e7852ac11",
+    "name": "takumi.kt",
+    "img": "https://avatars.slack-edge.com/2017-03-29/160483390144_d7c2d155ede8c59ea6bd_24.png",
+    "time": "2020/12/05 10:34:34",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1607130163052900"
+  },
+  {
+    "user": "U0GFBAM8U",
+    "text": "discord、バージョン要求、そんな早いんです?",
+    "client_msg_id": "8aa7bdb7-d320-439e-99df-bd53a26290d9",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2020/12/05 10:34:34",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1607129779050600"
+  },
+  {
+    "user": "U53RAQBCP",
+    "text": "自分でPKGBUILD書いてpacmanに管理させるのが真のArcherの流儀（？）",
+    "client_msg_id": "941B1A39-C88C-4CEB-AACF-528A4D6B344D",
+    "name": "kkinx",
+    "img": "https://avatars.slack-edge.com/2020-06-19/1217544115744_070f890bad64414b4848_24.png",
+    "time": "2020/12/05 10:34:34",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1607129614049900"
+  },
+  {
+    "user": "UBEFL3YLE",
+    "text": "↑自分もいまこの状況でここに来ました。やっぱり地味に困りますよねこれ",
+    "client_msg_id": "74d2611a-733e-4ddf-8b96-ce8caa1f74ad",
+    "name": "mail",
+    "img": "https://secure.gravatar.com/avatar/23a2be2c0c837372158d36ca83743fe5.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0018-24.png",
+    "time": "2020/12/05 10:34:34",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1607129537049700"
+  },
+  {
+    "user": "U2YNMHCTV",
     "text": "Discordアプリを立ち上げようとしたらバージョンアップを求められて、pacmanにまだ入ってなくてつらいなぁ、の気持ちなんですが。\nそういう、バージョンを自分で管理してくれるアプリはpacmanじゃなくて自分でtar.gzとかでインストールする方がいいんでしょうか?\nいい管理方法あります? $HOME/.local/optにtar.gzを展開して$HOME/binにシンボリックリンク貼るくらい?",
     "client_msg_id": "01712be7-a172-44e2-a3d6-0c180c2dffc1",
     "name": "takumi.kt",
     "img": "https://avatars.slack-edge.com/2017-03-29/160483390144_d7c2d155ede8c59ea6bd_24.png",
-    "time": "2020/12/05 09:40:10",
+    "time": "2020/12/05 10:34:34",
     "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1607128713047100"
   },
   {
