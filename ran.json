@@ -1,11 +1,74 @@
 [
   {
+    "user": "U0PM6EYR1",
+    "text": "今、外に公開してない塩漬けになってる昔の自宅鯖で見たけど…\n```$ yaourt -Qm | wc -l\n258```\nやばい",
+    "client_msg_id": "f6d9c8ff-71a8-469f-826e-a2cdfcb02d1c",
+    "name": "raa0121",
+    "img": "https://secure.gravatar.com/avatar/35b032d7b2d4182b0c2de1ef85ba91f2.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0009-24.png",
+    "time": "2020/12/09 13:19:33",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1607486577087800"
+  },
+  {
+    "user": "U6DL9D3AB",
+    "text": "抑えてたつもりだけれど46個も入ってました…",
+    "client_msg_id": "A0E3C2B5-01B3-4B27-99F4-27684F3710A6",
+    "name": "emtee",
+    "img": "https://avatars.slack-edge.com/2017-08-24/232261947719_1bb4d925e48fdfd0a154_24.png",
+    "time": "2020/12/09 13:19:33",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1607486199086600"
+  },
+  {
+    "user": "U70QDFN82",
+    "text": "まじでpacman系くっそわかりにくいから\n`alias yay-installed-list='yay -Qm'`\nとかしとくと便利ですw",
+    "client_msg_id": "9f5583fa-d962-41fe-b309-d9933d207146",
+    "name": "yutakatay",
+    "img": "https://avatars.slack-edge.com/2020-08-16/1302143736069_0baa468f7bea68e827d9_24.png",
+    "time": "2020/12/09 13:19:33",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1607485472084700"
+  },
+  {
+    "user": "UBEFL3YLE",
+    "text": "こんなコマンドが…僕は20個でしたね",
+    "client_msg_id": "4895e8bb-b82d-4699-9e27-221e1191dd40",
+    "name": "mail",
+    "img": "https://secure.gravatar.com/avatar/23a2be2c0c837372158d36ca83743fe5.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0018-24.png",
+    "time": "2020/12/09 13:19:33",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1607485421083900"
+  },
+  {
+    "user": "U70QDFN82",
+    "text": "ちなみにみなさんAURのパッケージ何個いれてます？？私32個もあった・・・前まで10個くらいに抑えてたんだけど・・・\n`yay -Qm | wc -l`",
+    "client_msg_id": "758acc84-1f52-4b09-8429-e1a46ef03c91",
+    "name": "yutakatay",
+    "img": "https://avatars.slack-edge.com/2020-08-16/1302143736069_0baa468f7bea68e827d9_24.png",
+    "time": "2020/12/09 13:19:33",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1607485318083500"
+  },
+  {
+    "user": "U0PM6EYR1",
+    "text": "まぁ、AUR は本家と違って、完全に作成者・メンテナ依存ですからね 最新に追従する義務があるわけじゃないですし",
+    "client_msg_id": "d239ad6a-b3cd-4497-ad14-6786e68a1067",
+    "name": "raa0121",
+    "img": "https://secure.gravatar.com/avatar/35b032d7b2d4182b0c2de1ef85ba91f2.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0009-24.png",
+    "time": "2020/12/09 13:19:33",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1607485172082600"
+  },
+  {
+    "user": "UJ7P75WB1",
+    "text": "そういうことたまにありますね…。更新の少ないソフトウェアとかだとライブラリのバージョンが上がっているのにAURのPKGBUILDに更新がなく再ビルドされず、結果動かなくなる…みたいな",
+    "client_msg_id": "91197fa6-24c4-436f-8c20-5b9cad90cd6f",
+    "name": "motoi.railgun",
+    "img": "https://avatars.slack-edge.com/2019-04-25/606553234194_44a1282f90562feee7b0_24.png",
+    "time": "2020/12/09 13:19:34",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1607484960081400"
+  },
+  {
     "user": "U0GFBAM8U",
     "text": "なるほど",
     "client_msg_id": "fd749da3-6082-47a6-a905-d835cb164e5e",
     "name": "syui",
     "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
-    "time": "2020/12/09 10:39:04",
+    "time": "2020/12/09 13:19:34",
     "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1607475368078600"
   },
   {
