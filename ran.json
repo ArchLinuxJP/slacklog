@@ -1,11 +1,20 @@
 [
   {
+    "user": "U0GFBAM8U",
+    "text": "なるほど",
+    "client_msg_id": "fd749da3-6082-47a6-a905-d835cb164e5e",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2020/12/09 10:39:04",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1607475368078600"
+  },
+  {
     "user": "UPYQ3CUJ1",
     "text": "起動時に lightdm が立ち上がらず、付きそうになったり、消えたりしていたと思ったら、optimus-manager のせいだった。 optimus-manager は AUR にある python で書かれたパッケージでして、python 3.9 になったことで上手く動かなくなったらしく、python3.9 でビルドしなおしたら直ったらしい。\nAUR のパッケージ側を自分でビルドしなおさないといけないのは、なかなかの盲点ですね。",
     "client_msg_id": "8ff54e3d-9398-4637-bce7-4a8efdff0f2e",
     "name": "shota.af083",
     "img": "https://secure.gravatar.com/avatar/8806dbddb82d43065dd1190cfcf80c65.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0023-24.png",
-    "time": "2020/12/09 01:23:31",
+    "time": "2020/12/09 10:39:04",
     "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1607440664078300"
   },
   {
