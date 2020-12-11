@@ -1,11 +1,47 @@
 [
   {
+    "user": "U0GFBAM8U",
+    "text": "とありますので、PKGBUILDを見てみるか、再起動してみてはどうでしょう。",
+    "client_msg_id": "6d0f36d4-6dbf-4f9e-9b9c-62d0ec1d5ec5",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2020/12/11 23:17:47",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1607694392108200"
+  },
+  {
+    "user": "U0GFBAM8U",
+    "text": "&gt;  上記のパッケージでは、PKGBUILD の中に特定の機能を有効化・無効化する定義が含まれていることがあります。特に、emacs パッケージをビルドする場合は _emacs_mozc 行をアンコメントする必要があります:\n&gt; \n&gt; ## If you will be using mozc.el on Emacs, uncomment below.\n&gt; _emacs_mozc=\"yes\"\n&gt; 同じように uim-mozc-ut2 もビルドするときは手動で有効にしてください。\n&gt; \n&gt; Mozc をインストールしたら、X やインプットメソッドフレームワークを再起動することで Mozc を使うことができます。",
+    "client_msg_id": "9a3f583c-d71e-47f7-adf1-030ba51667ce",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2020/12/11 23:17:47",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1607694373107800"
+  },
+  {
+    "user": "UGA29R3FH",
+    "text": "辞書が入ってるとして、プロパティから有効化してないとか？",
+    "client_msg_id": "132ccced-3e1a-40cd-84a6-0f52e5474ee5",
+    "name": "znmxodq1",
+    "img": "https://avatars.slack-edge.com/2019-03-08/570571829091_2ca91fb0cc1ed2341fe0_24.png",
+    "time": "2020/12/11 23:17:47",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1607692754106600"
+  },
+  {
+    "user": "UBEFL3YLE",
+    "text": "```export LANG=\"ja_JP.UTF-8\"\nexport XMODIFIERS=\"@im=fcitx\"\nexport XMODIFIER=\"@im=fcitx\"\nexport GTK_IM_MODULE=fcitx\nexport QT_IM_MODULE=fcitx\nexport DefaultIMModule=fcitx```\n.xprofileの中身はこんな感じです。",
+    "client_msg_id": "e343956d-b0fd-45fb-ac26-2e8695da63ab",
+    "name": "mail",
+    "img": "https://secure.gravatar.com/avatar/23a2be2c0c837372158d36ca83743fe5.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0018-24.png",
+    "time": "2020/12/11 23:17:47",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1607692552105900"
+  },
+  {
     "user": "UBEFL3YLE",
     "text": "Arch Linuxを入れたサブのラップトップでも同じ現象が発生しています。",
     "client_msg_id": "51344bb9-135a-43e9-98d1-df6b045460ed",
     "name": "mail",
     "img": "https://secure.gravatar.com/avatar/23a2be2c0c837372158d36ca83743fe5.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0018-24.png",
-    "time": "2020/12/11 22:15:10",
+    "time": "2020/12/11 23:17:47",
     "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1607692466105400"
   },
   {
