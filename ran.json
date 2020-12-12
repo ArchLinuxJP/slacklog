@@ -1,11 +1,92 @@
 [
   {
     "user": "UBEFL3YLE",
+    "text": "ありがとうございます。この手順をなぞってやってみます。",
+    "client_msg_id": "cacb2daa-7286-4fb1-8f71-d305ff6cd604",
+    "name": "mail",
+    "img": "https://secure.gravatar.com/avatar/23a2be2c0c837372158d36ca83743fe5.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0018-24.png",
+    "time": "2020/12/12 18:16:33",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1607764544117100"
+  },
+  {
+    "user": "U0GFBAM8U",
+    "text": "手順としては、こちらからPKGBUILDを落として、\n<https://osdn.net/users/utuhiro/pf/utuhiro/files/>\n\n```mkdir -p ./tmp\ncd ./tmp\ncurl -sLO xxx/fcitx-mozc-ut-2.26.4206.102.20201129.1.PKGBUILD\nmv fcitx-mozc-ut-2.26.4206.102.20201129.1.PKGBUILD PKGBUILD\nmakepkg ```\nみたいな感じでやりました。",
+    "client_msg_id": "addf2c27-62c0-430b-ab7a-bae05be58598",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2020/12/12 18:16:33",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1607764351116000"
+  },
+  {
+    "user": "U0GFBAM8U",
+    "text": "@mail 一応、私がやってることを載せておきます。\nyay -S fcitx-mozc-ut2\nが失敗するので、作者さんのサイトからPKGBUILDを持ってきて、独自でビルドしてみました。\n<http://linuxplayers.g1.xrea.com/mozc-ut.html>",
+    "client_msg_id": "ca36eef7-f833-4bb8-a43b-079678af3b54",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2020/12/12 18:16:33",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1607764201114400"
+  },
+  {
+    "user": "U0GFBAM8U",
+    "text": "あー、わかった\n変換と予測変換のキーで違うっぽい",
+    "client_msg_id": "4787ff8a-f1a4-4938-b942-9d7db5cce4b7",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2020/12/12 18:16:33",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1607763913113100"
+  },
+  {
+    "user": "U0GFBAM8U",
+    "text": "よくわからない挙動",
+    "client_msg_id": "f6c971cf-48c4-4abd-8dc5-f98deaf773e5",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2020/12/12 18:16:33",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1607763800112400"
+  },
+  {
+    "user": "U0GFBAM8U",
+    "text": "そうなんですね\n私のところでは、tab補完では英語出ませんが、スペース補完なら出てくるんですよね",
+    "client_msg_id": "28f48993-f193-429c-833b-e8da963e98fa",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2020/12/12 18:16:33",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1607763789112100"
+  },
+  {
+    "user": "UBEFL3YLE",
+    "text": "Tabだと「てくのろじー」で「テクノロジー犯罪」とか「テクノロジー・エヴァンジェリスト」みたいな関連語が主に出てきますね",
+    "client_msg_id": "be7f630d-a51f-4ebe-b7cb-3bdf0f21990a",
+    "name": "mail",
+    "img": "https://secure.gravatar.com/avatar/23a2be2c0c837372158d36ca83743fe5.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0018-24.png",
+    "time": "2020/12/12 18:16:33",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1607763775111800"
+  },
+  {
+    "user": "UBEFL3YLE",
+    "text": "いえ、逆にスペース変換だけ使っています。むしろ…恥ずかしながらこのTab補完の方を初めて知りました。",
+    "client_msg_id": "866849c3-fa4a-4360-bbfd-b1a2b158811f",
+    "name": "mail",
+    "img": "https://secure.gravatar.com/avatar/23a2be2c0c837372158d36ca83743fe5.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0018-24.png",
+    "time": "2020/12/12 18:16:33",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1607763738110700"
+  },
+  {
+    "user": "U0GFBAM8U",
+    "text": "@mail さんは、補完を出す時、tabを押していますか?\nもしそうなら、スペースで補完を出してみると出てきません?",
+    "client_msg_id": "bb64932c-82ab-43eb-bb3f-8c46b5410664",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2020/12/12 18:16:33",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1607763634109900"
+  },
+  {
+    "user": "UBEFL3YLE",
     "text": "ありがとうございます。明日やってみます。",
     "client_msg_id": "6fc1c7fa-6c68-40c3-b90f-67cb61d4042b",
     "name": "mail",
     "img": "https://secure.gravatar.com/avatar/23a2be2c0c837372158d36ca83743fe5.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0018-24.png",
-    "time": "2020/12/12 00:16:29",
+    "time": "2020/12/12 18:16:34",
     "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1607698969108600"
   },
   {
