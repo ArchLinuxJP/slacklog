@@ -1,11 +1,227 @@
 [
   {
+    "user": "UGA29R3FH",
+    "text": "全然関係ないけどVPSでAURパッケージをビルドして手元にパッケージだけ持ってくるというのはたまにやる",
+    "client_msg_id": "41861315-e4a3-4270-9b3b-588386f75ee3",
+    "name": "znmxodq1",
+    "img": "https://avatars.slack-edge.com/2019-03-08/570571829091_2ca91fb0cc1ed2341fe0_24.png",
+    "time": "2020/12/18 23:20:27",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1608300395175300"
+  },
+  {
+    "user": "U019Y32GS5S",
+    "text": "せめて svn がもっと詳細なエラーログを吐いてくれれば…",
+    "client_msg_id": "b8c72b3f-cda7-41e0-b670-cd683b52cbc0",
+    "name": "thinca_slack",
+    "img": "https://secure.gravatar.com/avatar/1931fe7cb99e644dcedaaa57c76bafad.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0010-24.png",
+    "time": "2020/12/18 23:20:27",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1608300178174700"
+  },
+  {
+    "user": "U0GFBAM8U",
+    "text": "ネットワーク設定あたりのような気がします",
+    "client_msg_id": "a27068da-24a1-44d5-9541-5d64f29c7606",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2020/12/18 23:20:27",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1608300138174400"
+  },
+  {
+    "user": "U019Y32GS5S",
+    "text": "Linux マシンでうまく動かない理由がまだ結局わかってない",
+    "client_msg_id": "45435968-40ab-4602-9e95-0d68f0840ff9",
+    "name": "thinca_slack",
+    "img": "https://secure.gravatar.com/avatar/1931fe7cb99e644dcedaaa57c76bafad.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0010-24.png",
+    "time": "2020/12/18 23:20:27",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1608299936172900"
+  },
+  {
+    "user": "U0GFBAM8U",
+    "text": "お、よかったですねー",
+    "client_msg_id": "9d02239e-6fc1-4e53-8e15-ae8675081776",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2020/12/18 23:20:27",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1608299799172300"
+  },
+  {
+    "user": "U019Y32GS5S",
+    "text": "別のマシン(Mac)だとできた…",
+    "client_msg_id": "d80e6233-c14d-4dc0-9b40-1f519e39264d",
+    "name": "thinca_slack",
+    "img": "https://secure.gravatar.com/avatar/1931fe7cb99e644dcedaaa57c76bafad.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0010-24.png",
+    "time": "2020/12/18 23:20:27",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1608299042171900"
+  },
+  {
+    "user": "U0GFBAM8U",
+    "text": "できたらscpとかすればいいので",
+    "client_msg_id": "04778C42-4A37-4218-8072-6455669DFD85",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2020/12/18 23:20:27",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1608298670171500"
+  },
+  {
+    "user": "U0GFBAM8U",
+    "text": "他のマシンでもサーバーでも試してみてもよさそう",
+    "client_msg_id": "2CA28B30-08F1-4B3D-968B-BCDA383128FC",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2020/12/18 23:20:27",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1608298567171000"
+  },
+  {
+    "user": "UVB7L4CKH",
+    "text": "何度か非力なマシンでビルドできなくてパッケージだけ移して `sudo pacman -U` で問題は起きてないですね、一応（ちゃんとバージョンを追跡してくれる）\nまあ面倒なのは確かですけど",
+    "client_msg_id": "16e603d0-4897-4ab8-ac96-030d8198d196",
+    "name": "tatsumigamou",
+    "img": "https://avatars.slack-edge.com/2020-03-12/985313571153_203fee630d3a4a1053a1_24.jpg",
+    "time": "2020/12/18 23:20:27",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1608298179168000"
+  },
+  {
+    "user": "U019Y32GS5S",
+    "text": "そこまでするなら ffmpeg のバイナリ取ってくるとかもあるので",
+    "client_msg_id": "9458700a-4316-4268-9b73-af50b9583c5f",
+    "name": "thinca_slack",
+    "img": "https://secure.gravatar.com/avatar/1931fe7cb99e644dcedaaa57c76bafad.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0010-24.png",
+    "time": "2020/12/18 23:20:27",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1608298131167100"
+  },
+  {
+    "user": "U019Y32GS5S",
+    "text": "後々面倒になるので野良インストールは避けたい",
+    "client_msg_id": "6126bd8d-0b33-42b6-87cf-63d17613202c",
+    "name": "thinca_slack",
+    "img": "https://secure.gravatar.com/avatar/1931fe7cb99e644dcedaaa57c76bafad.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0010-24.png",
+    "time": "2020/12/18 23:20:27",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1608298096166200"
+  },
+  {
+    "user": "UGA29R3FH",
+    "text": "環境ごとの差異はそこまでなさそうだし",
+    "client_msg_id": "5e891b5a-0efb-48c9-a248-507b9deeeafc",
+    "name": "znmxodq1",
+    "img": "https://avatars.slack-edge.com/2019-03-08/570571829091_2ca91fb0cc1ed2341fe0_24.png",
+    "time": "2020/12/18 23:20:27",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1608298087166000"
+  },
+  {
+    "user": "U019Y32GS5S",
+    "text": "ほかの　svn　はいってる　マシーン",
+    "client_msg_id": "ec59af39-9f06-4918-b4f6-48625c69d735",
+    "name": "thinca_slack",
+    "img": "https://secure.gravatar.com/avatar/1931fe7cb99e644dcedaaa57c76bafad.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0010-24.png",
+    "time": "2020/12/18 23:20:27",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1608298067165500"
+  },
+  {
+    "user": "UGA29R3FH",
+    "text": "というかライセンス問題なければそのビルドしたパッケージをここに上げるという手がありそげ",
+    "client_msg_id": "8ef140c2-74d0-4d1a-96c6-fe7ab90c3ccf",
+    "name": "znmxodq1",
+    "img": "https://avatars.slack-edge.com/2019-03-08/570571829091_2ca91fb0cc1ed2341fe0_24.png",
+    "time": "2020/12/18 23:20:27",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1608298050165000"
+  },
+  {
+    "user": "U0GFBAM8U",
+    "text": "他のマシンとかではどうでしょう\nダメだったらルーターあたり疑わしいかも",
+    "client_msg_id": "87A89ECB-63A5-476C-81B4-1E3F1E995090",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2020/12/18 23:20:28",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1608298039164700"
+  },
+  {
+    "user": "U019Y32GS5S",
+    "text": "コワイ",
+    "client_msg_id": "b05e79a5-1330-45b2-bdcb-f499793a810e",
+    "name": "thinca_slack",
+    "img": "https://secure.gravatar.com/avatar/1931fe7cb99e644dcedaaa57c76bafad.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0010-24.png",
+    "time": "2020/12/18 23:20:28",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1608298029164500"
+  },
+  {
+    "user": "UGA29R3FH",
+    "text": "~svn付いてないパッケージを手でsvn付きに変名してインストールするという手を思い付いた~",
+    "client_msg_id": "9409701f-6300-452e-a34f-a9398aaaae30",
+    "name": "znmxodq1",
+    "img": "https://avatars.slack-edge.com/2019-03-08/570571829091_2ca91fb0cc1ed2341fe0_24.png",
+    "time": "2020/12/18 23:20:28",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1608298018164000"
+  },
+  {
+    "user": "U019Y32GS5S",
+    "text": "svn クライアントは問題なく動いているように見える",
+    "client_msg_id": "24f68437-2937-482d-b90f-e326ed4f8e7c",
+    "name": "thinca_slack",
+    "img": "https://secure.gravatar.com/avatar/1931fe7cb99e644dcedaaa57c76bafad.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0010-24.png",
+    "time": "2020/12/18 23:20:28",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1608297989163000"
+  },
+  {
+    "user": "UVB7L4CKH",
+    "text": "アウトバウンド塞がってる回線に慣れちゃってるので……\n80と443と53にしか出られない回線",
+    "client_msg_id": "c91546cf-12bc-49f8-885c-da64ca0e0925",
+    "name": "tatsumigamou",
+    "img": "https://avatars.slack-edge.com/2020-03-12/985313571153_203fee630d3a4a1053a1_24.jpg",
+    "time": "2020/12/18 23:20:28",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1608297981162500"
+  },
+  {
+    "user": "UGA29R3FH",
+    "text": "GitHubそんな機能あったのか",
+    "client_msg_id": "b0cd40f5-a13f-4e7f-a775-9020198b9aae",
+    "name": "znmxodq1",
+    "img": "https://avatars.slack-edge.com/2019-03-08/570571829091_2ca91fb0cc1ed2341fe0_24.png",
+    "time": "2020/12/18 23:20:28",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1608297934161300"
+  },
+  {
+    "user": "UGA29R3FH",
+    "text": "それは鯖のポートであってクライアントは別だと思うけど",
+    "client_msg_id": "bed4715b-352d-4405-b9da-adf28b43ee36",
+    "name": "znmxodq1",
+    "img": "https://avatars.slack-edge.com/2019-03-08/570571829091_2ca91fb0cc1ed2341fe0_24.png",
+    "time": "2020/12/18 23:20:28",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1608297914160300"
+  },
+  {
+    "user": "U019Y32GS5S",
+    "text": "GitHub の任意のリポジトリが実は svn でアクセスできるのだった。で、ちゃんと checkout できました",
+    "client_msg_id": "c844e918-d80c-4ca5-8557-5588c662522c",
+    "name": "thinca_slack",
+    "img": "https://secure.gravatar.com/avatar/1931fe7cb99e644dcedaaa57c76bafad.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0010-24.png",
+    "time": "2020/12/18 23:20:28",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1608297913160200"
+  },
+  {
+    "user": "UVB7L4CKH",
+    "text": "```$ grep svn /etc/services\nsvnetworks       2973/tcp\nsvnetworks       2973/udp\nsvnet            3413/tcp\nsvnet            3413/udp\nsvn              3690/tcp\nsvn              3690/udp\nml-svnet         4171/tcp```\nなるほど……",
+    "client_msg_id": "8abc3ecc-bbd5-4fa8-b952-37268c5c2c88",
+    "name": "tatsumigamou",
+    "img": "https://avatars.slack-edge.com/2020-03-12/985313571153_203fee630d3a4a1053a1_24.jpg",
+    "time": "2020/12/18 23:20:28",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1608297883159400"
+  },
+  {
+    "user": "UGA29R3FH",
+    "text": "svn自体はsvnなのではって思った <https://svn.apache.org/repos/asf/subversion/>",
+    "client_msg_id": "9a7e3e3c-f79d-4311-a7b7-dca2f128bae8",
+    "name": "znmxodq1",
+    "img": "https://avatars.slack-edge.com/2019-03-08/570571829091_2ca91fb0cc1ed2341fe0_24.png",
+    "time": "2020/12/18 23:20:28",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1608297847158600"
+  },
+  {
     "user": "UVB7L4CKH",
     "text": "僕はsvnで落とせてビルドも通ってパッケージが手元に生成されましたね",
     "client_msg_id": "af2add8d-291c-4875-b986-b1762da7de42",
     "name": "tatsumigamou",
     "img": "https://avatars.slack-edge.com/2020-03-12/985313571153_203fee630d3a4a1053a1_24.jpg",
-    "time": "2020/12/18 22:23:17",
+    "time": "2020/12/18 23:20:28",
     "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1608297749157500"
   },
   {
