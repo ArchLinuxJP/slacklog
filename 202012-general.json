@@ -1,11 +1,74 @@
 [
   {
+    "user": "U0GFBAM8U",
+    "text": "基本的には、古いicuでも動くパッケージが大半だと思います",
+    "client_msg_id": "188ab822-f439-4795-b97a-129cb206193d",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2020/12/23 14:30:58",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1608701419284800"
+  },
+  {
+    "user": "U0GFBAM8U",
+    "text": "そうです。現にlightdmは古いバージョンのicuで動いているわけですし、これはパッケージの更新頻度にもよりますが、icuの最新バージョンに対応したパッケージがどれだけあるかわかりませんが、それほど多くはないのでは",
+    "client_msg_id": "5542846b-dd92-4ac3-90ee-d605e072cbdc",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2020/12/23 14:30:58",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1608701369284300"
+  },
+  {
+    "user": "U01HE1ENNJZ",
+    "text": "icuをダウングレードし、他の依存されているパッケージはダウングレードしないってことですか？",
+    "client_msg_id": "23d0da06-f81e-4d55-820c-87f5d0126469",
+    "name": "a3784197",
+    "img": "https://secure.gravatar.com/avatar/e8984bd40d9d91dfc8b95c5231b0d72c.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0011-24.png",
+    "time": "2020/12/23 14:30:58",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1608701296283200"
+  },
+  {
+    "user": "U0GFBAM8U",
+    "text": "私はその場合ならダウングレードしませんね",
+    "client_msg_id": "899ac245-bbd2-4e68-8b23-a430742d40ac",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2020/12/23 14:30:58",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1608701244282400"
+  },
+  {
+    "user": "U01HE1ENNJZ",
+    "text": "<https://bbs.archlinux.jp/viewtopic.php?id=176|https://bbs.archlinux.jp/viewtopic.php?id=176>\nここにも投稿したのですがicuが依存されているパッケージもダウングレードするべきですか？\n初心者です",
+    "client_msg_id": "d44905b0-eb5d-4ae3-b5eb-e9bfb5954e25",
+    "name": "a3784197",
+    "img": "https://secure.gravatar.com/avatar/e8984bd40d9d91dfc8b95c5231b0d72c.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0011-24.png",
+    "time": "2020/12/23 14:30:58",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1608700930281700"
+  },
+  {
+    "user": "U0GFBAM8U",
+    "text": "hi",
+    "client_msg_id": "f6a78f78-732f-40ca-aca3-cf25e29f8463",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2020/12/23 14:30:58",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1608700807280200"
+  },
+  {
+    "user": "U01HE1ENNJZ",
+    "text": "こんにちは\n初めまして\nよろしくお願いします",
+    "client_msg_id": "ade39ce5-f0df-4888-a7b7-3d214e7242c8",
+    "name": "a3784197",
+    "img": "https://secure.gravatar.com/avatar/e8984bd40d9d91dfc8b95c5231b0d72c.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0011-24.png",
+    "time": "2020/12/23 14:30:58",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1608700704279700"
+  },
+  {
     "user": "U3FJYR7MG",
     "text": "rust製cliもビルドにめっちゃ時間かかるの辛いので-bin :benri:",
     "client_msg_id": "8b4f16e9-36f1-4c51-8896-646c1ae19287",
     "name": "dohq",
     "img": "https://secure.gravatar.com/avatar/743659d990b6f68ef5c104ba8e415ba5.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0021-24.png",
-    "time": "2020/12/22 17:32:02",
+    "time": "2020/12/23 14:30:58",
     "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1608623681278400"
   },
   {
