@@ -1,11 +1,38 @@
 [
   {
+    "user": "U01HE1ENNJZ",
+    "text": "なるほどありがとうございました！",
+    "client_msg_id": "b75fbab8-9dff-4a19-95a7-e918ffa482a6",
+    "name": "a3784197",
+    "img": "https://secure.gravatar.com/avatar/e8984bd40d9d91dfc8b95c5231b0d72c.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0011-24.png",
+    "time": "2020/12/23 15:31:08",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1608701708288900"
+  },
+  {
+    "user": "U0GFBAM8U",
+    "text": "私ならlightdmの対応を見て判断すると思います。lightdmが最新icuに対応した段階でicuをアップデートし、仮に他のパッケージでicuバージョンで動かないなどの問題が発生した場合は再度icuをダウングレードしますが、そうでない場合はそのまま最新を使うと思います。",
+    "client_msg_id": "28c55bfd-5718-4fc8-82ed-2ec27863b480",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2020/12/23 15:31:08",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1608701682288500"
+  },
+  {
+    "user": "U01HE1ENNJZ",
+    "text": "わかりましたicuをダウングレードしたままにします\nもうひとつ聞きたいのですが、いつどのタイミングでicuをアップグレードしたらよいですか？",
+    "client_msg_id": "9b2f0977-5f23-47e3-8019-031c8c02c9b5",
+    "name": "a3784197",
+    "img": "https://secure.gravatar.com/avatar/e8984bd40d9d91dfc8b95c5231b0d72c.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0011-24.png",
+    "time": "2020/12/23 15:31:08",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1608701530286300"
+  },
+  {
     "user": "U0GFBAM8U",
     "text": "基本的には、古いicuでも動くパッケージが大半だと思います",
     "client_msg_id": "188ab822-f439-4795-b97a-129cb206193d",
     "name": "syui",
     "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
-    "time": "2020/12/23 14:30:58",
+    "time": "2020/12/23 15:31:08",
     "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1608701419284800"
   },
   {
