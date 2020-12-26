@@ -1,11 +1,38 @@
 [
   {
     "user": "U0GFBAM8U",
+    "text": "xinitrcで\n```export GTK_IM_MODULE=xim\nexport QT_IM_MODULE=xim```",
+    "client_msg_id": "4d4b195b-afcf-4b8f-a9d4-96f2aa5af3b5",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2020/12/26 18:23:06",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1608973925205900"
+  },
+  {
+    "user": "U0GFBAM8U",
+    "text": "すみません、勘違いしてました。自分とこでもインライン入力できませんね...\nfcitxアドオンでXIM(on the spot)はオンにしてます",
+    "client_msg_id": "d8cbdeb7-68f9-4aa4-b342-ba4f5a383a18",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2020/12/26 18:23:06",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1608972562205000"
+  },
+  {
+    "user": "U0GFBAM8U",
+    "text": "環境は設定=デフォルト, mozc, i3です。xinitrcは\n```export GTK_IM_MODULE=fcitx\nexport QT_IM_MODULE=fcitx\nexport XMODIFIERS=\"@im=fcitx\"\nexec fcitx5 &amp;```\n$ yay -Qs fcitx\n```local/fcitx5 5.0.3-2 (fcitx5-im)\n    Next generation of fcitx\nlocal/fcitx5-configtool 5.0.1-1 (fcitx5-im)\n    Configuration Tool for Fcitx5\nlocal/fcitx5-gtk 5.0.1-1 (fcitx5-im)\n    Fcitx5 gtk im module and glib based dbus client library\nlocal/fcitx5-mozc 2.26.4220.102.g1882e33-1\n    Fcitx5 Module of A Japanese Input Method for Chromium OS, Windows, Mac and Linux (the Open Source Edition of Google Japanese Input)\nlocal/fcitx5-qt 5.0.1-1 (fcitx5-im)\n    Fcitx5 Qt Library```",
+    "client_msg_id": "5e52fb21-04ad-4713-8b5a-95ca3eb0aefd",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2020/12/26 18:23:06",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1608971152203900"
+  },
+  {
+    "user": "U0GFBAM8U",
     "text": "xinitrcはどんな感じです?",
     "client_msg_id": "cdfcfdfb-078a-4916-b0c2-b96f3dea74a4",
     "name": "syui",
     "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
-    "time": "2020/12/26 17:21:58",
+    "time": "2020/12/26 18:23:06",
     "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1608970064202100"
   },
   {
