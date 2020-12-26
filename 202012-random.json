@@ -1,11 +1,20 @@
 [
   {
+    "user": "U0GFBAM8U",
+    "text": "調べてみましたが、fcitx4にあった「候補とプレエディットに1つの候補しか表示されていない場合は入力ウィンドウを表示しない」の設定がfcitx5にはないので、基本的にはできない気がします。\n`GTK_IM_MODULE=xim` でできているように見えたのは、おそらく、ウィンドウ表示位置が狂い、見えないようになっていただけっぽい。これだと補完候補がわからない。\n<https://kledgeb.blogspot.com/2013/12/ubuntu-fcitx-16-fcitx.html>",
+    "client_msg_id": "4badf5bd-e083-441d-9709-1b78887776b8",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2020/12/26 22:26:00",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1608986105221000"
+  },
+  {
     "user": "U019C7VLZ4G",
     "text": "そうです!\n`アプリケーションにプリエディット`でインラインにはなるのですが、下にウィンドウ的なやつがどうしても出てしまうのです。",
     "client_msg_id": "1e47111e-d267-46ae-aa0a-ca59041c6f24",
     "name": "getalotofmail",
     "img": "https://secure.gravatar.com/avatar/5a7f20688dc40b2989935a11bdfa25fe.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0001-24.png",
-    "time": "2020/12/26 20:19:06",
+    "time": "2020/12/26 22:26:00",
     "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1608980301214800"
   },
   {
