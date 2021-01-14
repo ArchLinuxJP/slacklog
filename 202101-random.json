@@ -1,11 +1,110 @@
 [
   {
     "user": "U0GFBAM8U",
+    "text": "スマホとか変えたとき、バックアップをインポート(リストア)できないの困ってたので",
+    "client_msg_id": "4dc54c2b-55fb-441f-afd2-863233f5aafa",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2021/01/14 14:50:51",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1610602370010000"
+  },
+  {
+    "user": "U0GFBAM8U",
+    "text": "移行する前にアップデートしてほしかった",
+    "client_msg_id": "76238964-6acb-4eb0-a9d0-a06bc8e5864f",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2021/01/14 14:50:51",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1610602317009500"
+  },
+  {
+    "user": "U0GFBAM8U",
+    "text": "そういえば二段階認証、googleのアプリが珍しくアップデートされて、インポートできるようになったので、今は便利になってるらしい",
+    "client_msg_id": "b7bd8f02-dcda-4482-907e-4f8e8e8b6e1a",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2021/01/14 14:50:51",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1610602293009200"
+  },
+  {
+    "user": "U0GFBAM8U",
+    "text": "私はapple 50, google 50みたいな感じかな(所感",
+    "client_msg_id": "4cb74136-8acb-44e7-bcee-ad04b997d21f",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2021/01/14 14:50:52",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1610602230008400"
+  },
+  {
+    "user": "U0GFBAM8U",
+    "text": "依存しないようにするのも大事だと思います\nなにかあったときとか、困ることがあるかもですし",
+    "client_msg_id": "a7ebe8a8-ee35-490e-81ea-ce29c6736e13",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2021/01/14 14:50:52",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1610602096007900"
+  },
+  {
+    "user": "U70QDFN82",
+    "text": "Google 100%, Amazon 100%, MS 30% Apple 0% Facebook 0%みたいな感じですね",
+    "client_msg_id": "c99795ce-4fc1-47e3-a14b-4d3573a503f4",
+    "name": "yutakatay",
+    "img": "https://avatars.slack-edge.com/2020-08-16/1302143736069_0baa468f7bea68e827d9_24.png",
+    "time": "2021/01/14 14:50:52",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1610602068007400"
+  },
+  {
+    "user": "U70QDFN82",
+    "text": "インテグされてるんで縛ったほうが楽なところありますよね〜\n私はMSには極力依存しないようにしてますね。今のところGitHubのみ",
+    "client_msg_id": "4af28291-a625-4bc1-94e6-15b0da083ce5",
+    "name": "yutakatay",
+    "img": "https://avatars.slack-edge.com/2020-08-16/1302143736069_0baa468f7bea68e827d9_24.png",
+    "time": "2021/01/14 14:50:52",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1610602031006500"
+  },
+  {
+    "user": "U0GFBAM8U",
+    "text": "二段階認証もmicrosoftのやつに移行したし、VScodeとかもだし、microsoft依存が高まってます\nこれがいいことか、よくないことかは、微妙なところだと思いますが",
+    "client_msg_id": "5afe0883-318a-4cd0-837c-6956c2eb45d8",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2021/01/14 14:50:52",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1610601784005300"
+  },
+  {
+    "user": "U0GFBAM8U",
+    "text": "ですね。linuxの検出ツール、なかなかこれというものがなかった気がする",
+    "client_msg_id": "59d134ab-dd78-41e4-9162-b0d9546f97a0",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2021/01/14 14:50:52",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1610601474003600"
+  },
+  {
+    "user": "U70QDFN82",
+    "text": "Clamavポンコツだからあれよりもいいツールが出るとみんな使いそうですよね〜",
+    "client_msg_id": "eb37dbc4-bf8a-49a7-b45f-94405673fa6c",
+    "name": "yutakatay",
+    "img": "https://avatars.slack-edge.com/2020-08-16/1302143736069_0baa468f7bea68e827d9_24.png",
+    "time": "2021/01/14 14:50:52",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1610601427003000"
+  },
+  {
+    "user": "U0GFBAM8U",
+    "text": "<https://www.publickey1.jp/blog/21/linuxmicrosoft_defender_for_linux_edrlinux.html>\n最近のmicrosoft、つよい\nOSSにもなくてはならない存在になってる感、githubとか",
+    "client_msg_id": "b2181623-d166-4c8e-a7b1-d8d8aa3b4b3b",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2021/01/14 14:50:52",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1610601369002200"
+  },
+  {
+    "user": "U0GFBAM8U",
     "text": "ちょっと調べてみたら使えるぽいですね\n`ハードウェアアクセラレーションを使用する`をオフにしてみた場合はどうでしょう",
     "client_msg_id": "9b32a402-b963-4a4f-8a98-0e05f877db84",
     "name": "syui",
     "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
-    "time": "2021/01/14 12:13:53",
+    "time": "2021/01/14 14:50:52",
     "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1610591259001500"
   },
   {
