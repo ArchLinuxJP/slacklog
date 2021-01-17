@@ -1,11 +1,74 @@
 [
   {
+    "user": "UVB7L4CKH",
+    "text": "筑波完全に死んだ疑惑がTwitterで上がってましたね",
+    "client_msg_id": "8d760c86-5098-4d54-8100-2854ba1ae42c",
+    "name": "tatsumigamou",
+    "img": "https://avatars.slack-edge.com/2020-03-12/985313571153_203fee630d3a4a1053a1_24.jpg",
+    "time": "2021/01/17 23:45:33",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1610892690015800"
+  },
+  {
+    "user": "U01GL4MB9KR",
+    "text": "ミラーステータスみたら、筑波の接続成功率が0%になってるけど、これって前からでしたっけ？\n<https://www.archlinux.jp/mirrors/status/>",
+    "client_msg_id": "9def0254-f264-45da-b2ab-d91241fef8bb",
+    "name": "futuresan750",
+    "img": "https://avatars.slack-edge.com/2020-12-16/1564164599591_9d5d4aeda3545b33c1c5_24.png",
+    "time": "2021/01/17 23:45:33",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1610892534015400"
+  },
+  {
+    "user": "UGA29R3FH",
+    "text": "jaist使わせてもらってます（前は筑波だったけど稀によく落ちるので）",
+    "client_msg_id": "fedad30e-a77b-42d3-a52f-c1d21543865d",
+    "name": "znmxodq1",
+    "img": "https://avatars.slack-edge.com/2019-03-08/570571829091_2ca91fb0cc1ed2341fe0_24.png",
+    "time": "2021/01/17 23:45:33",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1610892356014500"
+  },
+  {
+    "user": "U01HE1ENNJZ",
+    "text": "ありがとうございます\n前までデフォルトでやってたのですが、ファイルの取得に失敗するので変えて見たかったのです",
+    "client_msg_id": "a7ec1d0b-8697-4a9f-a8f1-3f1d5fc053d6",
+    "name": "a3784197",
+    "img": "https://secure.gravatar.com/avatar/e8984bd40d9d91dfc8b95c5231b0d72c.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0011-24.png",
+    "time": "2021/01/17 23:45:33",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1610892317013700"
+  },
+  {
+    "user": "U01GL4MB9KR",
+    "text": "なんとなく全ミラーに対して `rankmirrors` を実行してみたら、日本のサーバはTop10圏外だった。まあ、だからどうしたということではありますが...。\n\n```$ sed 's/^#//g' /etc/pacman.d/mirrorlist.pacnew &gt; tmp/mirrorlist.tmp\n$ rankmirrors -v -n 10 tmp/mirrorlist.tmp\n\nServer = <http://ftp.osuosl.org/pub/archlinux/$repo/os/$arch>\nServer = <http://archlinux.cu.be/$repo/os/$arch>\nServer = <http://mirror.bizflycloud.vn/archlinux/$repo/os/$arch>\nServer = <http://mirrors.sonic.net/archlinux/$repo/os/$arch>\nServer = <http://arch.mirror.constant.com/$repo/os/$arch>\nServer = <https://mirror.lty.me/archlinux/$repo/os/$arch>\nServer = <http://mirror.rackspace.com/archlinux/$repo/os/$arch>\nServer = <http://mirrors.xmission.com/archlinux/$repo/os/$arch>\nServer = <http://mirror.mia11.us.leaseweb.net/archlinux/$repo/os/$arch>\nServer = <https://mirror.gi.co.id/archlinux/$repo/os/$arch>```",
+    "client_msg_id": "59fdd827-7256-473e-aad3-020b62c7ddb8",
+    "name": "futuresan750",
+    "img": "https://avatars.slack-edge.com/2020-12-16/1564164599591_9d5d4aeda3545b33c1c5_24.png",
+    "time": "2021/01/17 23:45:33",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1610892168012000"
+  },
+  {
+    "user": "U01HE1ENNJZ",
+    "text": "ありがとうございます",
+    "client_msg_id": "1d05204a-4cbb-4084-89f0-a56e713e8241",
+    "name": "a3784197",
+    "img": "https://secure.gravatar.com/avatar/e8984bd40d9d91dfc8b95c5231b0d72c.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0011-24.png",
+    "time": "2021/01/17 23:45:33",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1610892067010900"
+  },
+  {
+    "user": "U01HE1ENNJZ",
+    "text": "やっぱ日本のみがいいそうですね\nそのままにします",
+    "client_msg_id": "2061f9e4-e86e-4ec6-b2f7-f1f77546fc7e",
+    "name": "a3784197",
+    "img": "https://secure.gravatar.com/avatar/e8984bd40d9d91dfc8b95c5231b0d72c.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0011-24.png",
+    "time": "2021/01/17 23:45:33",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1610892057010500"
+  },
+  {
     "user": "UGA29R3FH",
     "text": "あまり知らん国の鯖やtier1に負荷をかけたくないなーという気持ちで日本の鯖に限定している",
     "client_msg_id": "abf69891-4be4-4993-a094-625ce7c994bb",
     "name": "znmxodq1",
     "img": "https://avatars.slack-edge.com/2019-03-08/570571829091_2ca91fb0cc1ed2341fe0_24.png",
-    "time": "2021/01/17 22:56:51",
+    "time": "2021/01/17 23:45:34",
     "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1610891810009000"
   },
   {
