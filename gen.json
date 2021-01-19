@@ -1,11 +1,290 @@
 [
   {
+    "user": "U0HJ7EB9T",
+    "text": "EFI/systemd-bootの構成です。",
+    "client_msg_id": "284dae48-f299-4fc7-b09d-5c4161b9aed5",
+    "name": "aruneko99",
+    "img": "https://avatars.slack-edge.com/2017-08-23/229932114416_ca48bb36d6cfe3d998ac_24.png",
+    "time": "2021/01/19 13:57:02",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1611031764072000"
+  },
+  {
+    "user": "U0HJ7EB9T",
+    "text": "参考になるか分かりませんが、VMwareで試したときの記事を置いておきますねー\n<https://qiita.com/Aruneko/items/0541f343ec7a1989f236>",
+    "client_msg_id": "5a556bb8-9471-4e9f-b37d-ad055185c88c",
+    "name": "aruneko99",
+    "img": "https://avatars.slack-edge.com/2017-08-23/229932114416_ca48bb36d6cfe3d998ac_24.png",
+    "time": "2021/01/19 13:57:02",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1611031747071500"
+  },
+  {
+    "user": "U01JLJH02JK",
+    "text": "systemd-boot難しいのでGRUB戻ります",
+    "client_msg_id": "ae0cb185-04a3-469a-8475-a059d3036922",
+    "name": "",
+    "img": "",
+    "time": "2021/01/19 13:57:02",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1611031661071100"
+  },
+  {
+    "user": "U01JLJH02JK",
+    "text": "512Mにしたらあっさり通りました",
+    "client_msg_id": "684d54bc-99e6-4a61-8ee8-56f7d19604de",
+    "name": "",
+    "img": "",
+    "time": "2021/01/19 13:57:02",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1611030505070500"
+  },
+  {
+    "user": "U01JLJH02JK",
+    "text": "今調べたらミスで256Mにしてた\nそらエラーにもなる",
+    "client_msg_id": "683dfda2-80b1-4a0c-aae1-584d7e780d02",
+    "name": "",
+    "img": "",
+    "time": "2021/01/19 13:57:02",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1611030348070200"
+  },
+  {
+    "user": "U0J2VATJA",
+    "text": "推奨は 512MiB です",
+    "client_msg_id": "6d314323-5311-4a67-8f3c-28f4bb0e1014",
+    "name": "atnanasi",
+    "img": "https://avatars.slack-edge.com/2019-12-06/854879587169_f400d770c326c0b89e03_24.jpg",
+    "time": "2021/01/19 13:57:02",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1611030323069600"
+  },
+  {
+    "user": "U0J2VATJA",
+    "text": "<https://wiki.archlinux.jp/index.php/EFI_%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0%E3%83%91%E3%83%BC%E3%83%86%E3%82%A3%E3%82%B7%E3%83%A7%E3%83%B3> ここを参考にしてみてください",
+    "client_msg_id": "e1aadf8d-1b54-465f-8de5-4f5233bcadb3",
+    "name": "atnanasi",
+    "img": "https://avatars.slack-edge.com/2019-12-06/854879587169_f400d770c326c0b89e03_24.jpg",
+    "time": "2021/01/19 13:57:02",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1611030314069300"
+  },
+  {
+    "user": "U01JLJH02JK",
+    "text": "ちょっとbootのサイズ大きくします",
+    "client_msg_id": "ba43eecd-b0aa-4c70-9a17-cfca729c57a2",
+    "name": "",
+    "img": "",
+    "time": "2021/01/19 13:57:03",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1611030232069100"
+  },
+  {
+    "user": "U01JLJH02JK",
+    "text": "-s1指定でもclusterエラー吐く",
+    "client_msg_id": "98d8340d-ff89-47a7-a220-75a928c7e9c8",
+    "name": "",
+    "img": "",
+    "time": "2021/01/19 13:57:03",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1611030048068600"
+  },
+  {
+    "user": "U0J2VATJA",
+    "text": "cgdisk しか使わないのでよく分かりませんが…",
+    "client_msg_id": "84daae59-f792-44ad-9db1-cacc4b5ea8d8",
+    "name": "atnanasi",
+    "img": "https://avatars.slack-edge.com/2019-12-06/854879587169_f400d770c326c0b89e03_24.jpg",
+    "time": "2021/01/19 13:57:03",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1611029835067600"
+  },
+  {
+    "user": "U0J2VATJA",
+    "text": "<http://yuma.ohgami.jp/x86_64-Jisaku-OS/a2_gpt.html>",
+    "client_msg_id": "6510c5f1-a07b-43d1-af88-9db978102ea7",
+    "name": "atnanasi",
+    "img": "https://avatars.slack-edge.com/2019-12-06/854879587169_f400d770c326c0b89e03_24.jpg",
+    "time": "2021/01/19 13:57:03",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1611029810067200"
+  },
+  {
+    "user": "U0J2VATJA",
+    "text": "ぱっと身は正常っぽそうですね",
+    "client_msg_id": "ac13c1c8-7ea0-4f20-bf50-5738179e1b5f",
+    "name": "atnanasi",
+    "img": "https://avatars.slack-edge.com/2019-12-06/854879587169_f400d770c326c0b89e03_24.jpg",
+    "time": "2021/01/19 13:57:03",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1611029807067000"
+  },
+  {
+    "user": "U01JLJH02JK",
+    "text": "Gdiskだと\nThis option deletes all partitions and creates a new protective MBR.\nGPT指定してもこうなるんですが、これ正常ですか？",
+    "client_msg_id": "b798c4a4-2422-4dab-a7c0-497958ba01fa",
+    "name": "",
+    "img": "",
+    "time": "2021/01/19 13:57:03",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1611029757066700"
+  },
+  {
+    "user": "U01JLJH02JK",
+    "text": "ブートはsystemd-bootでEFIやってみます。",
+    "client_msg_id": "837a1a2e-899d-4a99-8093-1c1e632fa944",
+    "name": "",
+    "img": "",
+    "time": "2021/01/19 13:57:03",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1611029606066100"
+  },
+  {
+    "user": "U01JLJH02JK",
+    "text": "少しセットアップしたら次はEFI環境でも試してみます",
+    "client_msg_id": "00adb882-f96c-4768-ac02-1eefc72965d4",
+    "name": "",
+    "img": "",
+    "time": "2021/01/19 13:57:03",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1611028456065000"
+  },
+  {
+    "user": "U0GFBAM8U",
+    "text": "よかったですねー",
+    "client_msg_id": "37e26406-b718-4a4e-9d89-4afdc2dc9a1f",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2021/01/19 13:57:03",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1611028425064300"
+  },
+  {
+    "user": "U01JLJH02JK",
+    "text": "ありがとうございます。",
+    "client_msg_id": "451086f5-955b-4dba-87f9-252921d178f0",
+    "name": "",
+    "img": "",
+    "time": "2021/01/19 13:57:03",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1611028389063900"
+  },
+  {
+    "user": "U0GFBAM8U",
+    "text": "あとboot領域のフォーマット、vfatを指定したほうがいいかもです、この場合、sdaになるのかな",
+    "client_msg_id": "d353765c-b291-49f8-8480-0539d6cf10f2",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2021/01/19 13:57:03",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1611028328062600"
+  },
+  {
+    "user": "U01JLJH02JK",
+    "text": "なんとなく方向性は見えたので試してみます",
+    "client_msg_id": "9dd6dbb5-82d2-4939-9fc9-3ece843f603a",
+    "name": "",
+    "img": "",
+    "time": "2021/01/19 13:57:03",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1611027715061800"
+  },
+  {
+    "user": "U0GFBAM8U",
+    "text": "これうまくいかないときもありますけどね",
+    "client_msg_id": "6e4b1f8b-0900-4fe0-91fa-8371b934957a",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2021/01/19 13:57:03",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1611027684061400"
+  },
+  {
+    "user": "U0GFBAM8U",
+    "text": "私は以下のようなコマンドを使うことが多いです、grub\n```$ grub-install --force --recheck /dev/sda```",
+    "client_msg_id": "c9894a72-2600-4d37-a9b0-e4b541f86442",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2021/01/19 13:57:03",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1611027585061100"
+  },
+  {
+    "user": "U0J2VATJA",
+    "text": "<https://wiki.archlinux.jp/index.php/GRUB#.E3.83.87.E3.82.A3.E3.82.B9.E3.82.AF.E3.81.AB.E3.82.A4.E3.83.B3.E3.82.B9.E3.83.88.E3.83.BC.E3.83.AB.E3.81.99.E3.82.8B> ここですねー",
+    "client_msg_id": "9b8bbaef-15af-4569-8c9b-d904f299d2ec",
+    "name": "atnanasi",
+    "img": "https://avatars.slack-edge.com/2019-12-06/854879587169_f400d770c326c0b89e03_24.jpg",
+    "time": "2021/01/19 13:57:03",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1611027524060100"
+  },
+  {
+    "user": "U017BNGTHT3",
+    "text": "多分この場合なら/dev/sda指定すれば行けるはず。\nMBRはパーティション作るのにFdisk使う。",
+    "client_msg_id": "2833e841-22a0-4a84-82ca-f837a81bf266",
+    "name": "s5is",
+    "img": "https://avatars.slack-edge.com/2020-11-29/1531495219589_cf6a2f80ce7bb820ba38_24.png",
+    "time": "2021/01/19 13:57:04",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1611027452059900"
+  },
+  {
+    "user": "U01JLJH02JK",
+    "text": "今Wikiみました。納得です",
+    "client_msg_id": "90367559-fd9a-49f7-959a-3dac864a0294",
+    "name": "",
+    "img": "",
+    "time": "2021/01/19 13:57:04",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1611027410059200"
+  },
+  {
+    "user": "U0J2VATJA",
+    "text": "EFI の場合はディスクの先頭に `/boot` を切って FAT32 でフォーマットするのが一般的ですかね?",
+    "client_msg_id": "93997258-4331-40e5-9ddd-b9c9da402a68",
+    "name": "atnanasi",
+    "img": "https://avatars.slack-edge.com/2019-12-06/854879587169_f400d770c326c0b89e03_24.jpg",
+    "time": "2021/01/19 13:57:04",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1611027401058900"
+  },
+  {
+    "user": "U0J2VATJA",
+    "text": "BIOS で grub ならデュアルブートしない限り `/boot` を切る必要は基本的にないはずです、その上でディスクだけ指定して MBR に入れるのが一般的だと思います",
+    "client_msg_id": "d16dea01-20c4-4f67-92ab-0578b13c7f76",
+    "name": "atnanasi",
+    "img": "https://avatars.slack-edge.com/2019-12-06/854879587169_f400d770c326c0b89e03_24.jpg",
+    "time": "2021/01/19 13:57:04",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1611027373057700"
+  },
+  {
+    "user": "U01JLJH02JK",
+    "text": "の時のフォーマットって何が適切なんでしょ",
+    "client_msg_id": "c570f754-e992-40c6-8e3a-bf918559078c",
+    "name": "",
+    "img": "",
+    "time": "2021/01/19 13:57:04",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1611027309055900"
+  },
+  {
+    "user": "U0J2VATJA",
+    "text": "<https://wiki.archlinux.jp/index.php/GRUB#.E3.83.91.E3.83.BC.E3.83.86.E3.82.A3.E3.82.B7.E3.83.A7.E3.83.B3.E3.82.84.E3.83.91.E3.83.BC.E3.83.86.E3.82.A3.E3.82.B7.E3.83.A7.E3.83.B3.E3.83.AC.E3.82.B9.E3.83.87.E3.82.A3.E3.82.B9.E3.82.AF.E3.81.AB.E3.82.A4.E3.83.B3.E3.82.B9.E3.83.88.E3.83.BC.E3.83.AB.E3.81.99.E3.82.8B>\nPBR に grub を入れる場合は `--force` オプションが必要ですね",
+    "client_msg_id": "8ab1e3ac-b1c2-41a5-b84c-85726ce82315",
+    "name": "atnanasi",
+    "img": "https://avatars.slack-edge.com/2019-12-06/854879587169_f400d770c326c0b89e03_24.jpg",
+    "time": "2021/01/19 13:57:04",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1611027301055500"
+  },
+  {
+    "user": "U01JLJH02JK",
+    "text": "BIOS",
+    "client_msg_id": "8b4a496c-0300-44f9-9854-7e8fd3b0deea",
+    "name": "",
+    "img": "",
+    "time": "2021/01/19 13:57:04",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1611027297055200"
+  },
+  {
+    "user": "U017BNGTHT3",
+    "text": "こっちでも試してるけど、そもそもKPして起動しないや…",
+    "client_msg_id": "2460122f-e569-4ae7-bf47-11b235f443df",
+    "name": "s5is",
+    "img": "https://avatars.slack-edge.com/2020-11-29/1531495219589_cf6a2f80ce7bb820ba38_24.png",
+    "time": "2021/01/19 13:57:04",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1611027180054500"
+  },
+  {
+    "user": "U017BNGTHT3",
+    "text": "BIOSのときはMBRでsdXYじゃなくてsdXを指定するのが楽かと\n(最近BIOS触ってないから自信ない)",
+    "client_msg_id": "3e473e18-fe0c-4fe4-988f-9277102a3aa9",
+    "name": "s5is",
+    "img": "https://avatars.slack-edge.com/2020-11-29/1531495219589_cf6a2f80ce7bb820ba38_24.png",
+    "time": "2021/01/19 13:57:04",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1611026987052700"
+  },
+  {
     "user": "U0J2VATJA",
     "text": "VirtualBox に systemd-boot で UEFI ブートなら普通に動いてましたね、grub にこだわる必要がなければ試してみてください",
     "client_msg_id": "e5c94c0f-6e4e-4c37-919a-a58cc701bbcb",
     "name": "atnanasi",
     "img": "https://avatars.slack-edge.com/2019-12-06/854879587169_f400d770c326c0b89e03_24.jpg",
-    "time": "2021/01/19 12:21:08",
+    "time": "2021/01/19 13:57:04",
     "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1611026228051200"
   },
   {
