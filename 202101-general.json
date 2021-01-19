@@ -1,11 +1,119 @@
 [
   {
+    "user": "U01JLJH02JK",
+    "text": "<https://www.youtube.com/watch?v=A3z64QUTJsM>\nbootx64はWindows系のefiコマンドの模様。",
+    "client_msg_id": "d0d4b005-2959-45ef-8850-df91da8044f9",
+    "name": "",
+    "img": "",
+    "time": "2021/01/19 16:58:27",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1611042934082000"
+  },
+  {
+    "user": "U01JLJH02JK",
+    "text": "startup.nsh から指定しないといけないらしいですね",
+    "client_msg_id": "f98d1008-8715-4f66-a049-e73ae2b26bb0",
+    "name": "",
+    "img": "",
+    "time": "2021/01/19 16:58:27",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1611042809081500"
+  },
+  {
+    "user": "U01JLJH02JK",
+    "text": "<https://askubuntu.com/questions/162148/virtualbox-machine-boots-to-efi-shell>",
+    "client_msg_id": "7b751544-4c69-47cc-8965-fcf7efbea22b",
+    "name": "",
+    "img": "",
+    "time": "2021/01/19 16:58:27",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1611042794080900"
+  },
+  {
+    "user": "U01JLJH02JK",
+    "text": "<https://superuser.com/questions/1145681/how-to-get-out-of-efi-shell-in-virtual-box>\nこれも同様？",
+    "client_msg_id": "97fabc39-ccb8-42c4-9a11-61bf69264545",
+    "name": "",
+    "img": "",
+    "time": "2021/01/19 16:58:27",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1611042487080400"
+  },
+  {
+    "user": "U01JLJH02JK",
+    "text": "efiファイルが $ESP(=/boot)/EFI/grub/grub.efiに置かれていたので/boot/EFI/BOOT/BOOTX64.EFIにコピペしました。",
+    "client_msg_id": "8f544562-4fd7-4c5d-a211-6a657b788dc7",
+    "name": "",
+    "img": "",
+    "time": "2021/01/19 16:58:27",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1611042175080100"
+  },
+  {
+    "user": "U01JLJH02JK",
+    "text": "上のサイトだと名前がgrubx64.efiになってたっぽいです。\nとりあえず確認します",
+    "client_msg_id": "48eba006-ac07-4010-9067-412a1ca5b99d",
+    "name": "",
+    "img": "",
+    "time": "2021/01/19 16:58:27",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1611041558078800"
+  },
+  {
+    "user": "U0J2VATJA",
+    "text": "エラーの内容見ないと分からないですが ESP のパーティションタイプが EF00 になっているかとかも見てみるといいかもしれないですね",
+    "client_msg_id": "9ccaee53-b664-4f02-8c93-bfe1f7f6c5fe",
+    "name": "atnanasi",
+    "img": "https://avatars.slack-edge.com/2019-12-06/854879587169_f400d770c326c0b89e03_24.jpg",
+    "time": "2021/01/19 16:58:27",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1611041385077500"
+  },
+  {
+    "user": "U0J2VATJA",
+    "text": "<https://wiki.archlinux.jp/index.php/VirtualBox/Arch_Linux_%E3%82%92%E3%82%B2%E3%82%B9%E3%83%88%E3%81%AB%E3%81%99%E3%82%8B#EFI_.E3.83.A2.E3.83.BC.E3.83.89.E3.81.A7.E3.82.A4.E3.83.B3.E3.82.B9.E3.83.88.E3.83.BC.E3.83.AB> にあるとおり何もしなくてもうまくいくはずですので BOOTX64.EFI がちゃんと配置されているかどうか確認してみてください",
+    "client_msg_id": "b6e801a4-4e6e-4660-bf23-f7bfee2cd54e",
+    "name": "atnanasi",
+    "img": "https://avatars.slack-edge.com/2019-12-06/854879587169_f400d770c326c0b89e03_24.jpg",
+    "time": "2021/01/19 16:58:27",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1611041334076600"
+  },
+  {
+    "user": "U01JLJH02JK",
+    "text": "はい。VBはUEFIの場合決まった名前のファイルからしかブートできないとチラッと聞いたのでこれかもしれません",
+    "client_msg_id": "0b75f30f-9e8b-4a19-9428-4aca959a22a8",
+    "name": "",
+    "img": "",
+    "time": "2021/01/19 16:58:27",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1611041189075900"
+  },
+  {
+    "user": "U0J2VATJA",
+    "text": "ESP は `/boot` にマウントしてます?",
+    "client_msg_id": "c72fa9c8-5104-47d5-ae70-503616f413da",
+    "name": "atnanasi",
+    "img": "https://avatars.slack-edge.com/2019-12-06/854879587169_f400d770c326c0b89e03_24.jpg",
+    "time": "2021/01/19 16:58:27",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1611041114075100"
+  },
+  {
+    "user": "U01JLJH02JK",
+    "text": "もしやこれか？\n<https://bbs.archlinux.org/viewtopic.php?id=158003>",
+    "client_msg_id": "c0edd81e-b944-4bfe-b972-1ef15224a4f8",
+    "name": "",
+    "img": "",
+    "time": "2021/01/19 16:58:27",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1611041076074800"
+  },
+  {
+    "user": "U01JLJH02JK",
+    "text": "普通のインストールはダメっぽい\n全部のファイルをEFI内に入れる方法試します",
+    "client_msg_id": "007ff92c-5d68-4943-ad99-0c70abec5eb0",
+    "name": "",
+    "img": "",
+    "time": "2021/01/19 16:58:27",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1611039779074400"
+  },
+  {
     "user": "U0J2VATJA",
     "text": "systemd-boot そんな難しかったですか? `bootctl install` して ローダー設定書いてローダーエントリ書くだけだった記憶ですが…",
     "client_msg_id": "765c6747-d3c8-4327-88cf-8668cec835ae",
     "name": "atnanasi",
     "img": "https://avatars.slack-edge.com/2019-12-06/854879587169_f400d770c326c0b89e03_24.jpg",
-    "time": "2021/01/19 14:57:06",
+    "time": "2021/01/19 16:58:27",
     "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1611035531073700"
   },
   {
