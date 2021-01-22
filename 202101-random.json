@@ -1,11 +1,146 @@
 [
   {
+    "user": "U0GFBAM8U",
+    "text": "apiに関しては組み込んでるの取り外すのが難しいとか、時間かかるとかかもしれませんね(よくわかってない",
+    "client_msg_id": "2E6BFB17-77B0-4B8D-B83B-A1EE23E8DBD8",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2021/01/22 20:48:20",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1611314511018300"
+  },
+  {
+    "user": "U0GFBAM8U",
+    "text": "バイナリをダウンロードすればいいだけなので便利だったんですけどね",
+    "client_msg_id": "141088CB-09E4-4EBD-BC1E-BC80FC7E4F15",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2021/01/22 20:48:21",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1611314444017000"
+  },
+  {
+    "user": "UGA29R3FH",
+    "text": "AUR依存はあまりしたくないので公式にあるChromium使ってた",
+    "client_msg_id": "8f4e6108-b618-4d45-9027-52481600b960",
+    "name": "znmxodq1",
+    "img": "https://avatars.slack-edge.com/2019-03-08/570571829091_2ca91fb0cc1ed2341fe0_24.png",
+    "time": "2021/01/22 20:48:21",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1611314381016200"
+  },
+  {
+    "user": "U8T8KB5M4",
+    "text": "APIキー使わないでビルドできないとかなにか理由あるのかな。わからない。",
+    "client_msg_id": "f659e991-0832-49b3-b66e-d662bdd8c81c",
+    "name": "h.hata.ai.t",
+    "img": "https://avatars.slack-edge.com/2019-08-19/732537331990_536f34e28226326cb4e8_24.png",
+    "time": "2021/01/22 20:48:21",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1611314364015900"
+  },
+  {
+    "user": "UBEFL3YLE",
+    "text": "僕はaurのChromeしか使ったことないです。",
+    "client_msg_id": "0ce62072-c320-4b74-82f1-fed8d5d78b02",
+    "name": "mail",
+    "img": "https://secure.gravatar.com/avatar/23a2be2c0c837372158d36ca83743fe5.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0018-24.png",
+    "time": "2021/01/22 20:48:21",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1611314343014900"
+  },
+  {
+    "user": "U8T8KB5M4",
+    "text": "とくに主義とかこだわりがなければそれでいいと思います。",
+    "client_msg_id": "9d20e3b3-9563-4f95-afa9-4d1a694d6294",
+    "name": "h.hata.ai.t",
+    "img": "https://avatars.slack-edge.com/2019-08-19/732537331990_536f34e28226326cb4e8_24.png",
+    "time": "2021/01/22 20:48:21",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1611314321014700"
+  },
+  {
+    "user": "U01HE1ENNJZ",
+    "text": "どうしてもchrome使いたいならchrome(aur)使えばいいかんじですかね",
+    "client_msg_id": "de698d1d-f5c2-402d-9e7a-156c4355daaa",
+    "name": "a3784197",
+    "img": "https://avatars.slack-edge.com/2021-01-15/1652242406097_fbfa5b69ffe23ca9a640_24.jpg",
+    "time": "2021/01/22 20:48:21",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1611314286013400"
+  },
+  {
+    "user": "UBEFL3YLE",
+    "text": "そんな感じですね",
+    "client_msg_id": "4b1969e3-9e73-4648-97e3-0d23b8134745",
+    "name": "mail",
+    "img": "https://secure.gravatar.com/avatar/23a2be2c0c837372158d36ca83743fe5.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0018-24.png",
+    "time": "2021/01/22 20:48:21",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1611314279013000"
+  },
+  {
+    "user": "U01HE1ENNJZ",
+    "text": "自分もchromiumとchromeの違いあまりしりませんすみません\nオープンソースかクローズかっていう違いですかね",
+    "client_msg_id": "af87e574-0ff8-4444-b45c-721488d5359f",
+    "name": "a3784197",
+    "img": "https://avatars.slack-edge.com/2021-01-15/1652242406097_fbfa5b69ffe23ca9a640_24.jpg",
+    "time": "2021/01/22 20:48:21",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1611314245011800"
+  },
+  {
+    "user": "UGA29R3FH",
+    "text": "Chromiumを使うという選択をしている時点でそういうのは切り捨てても構わないんだという意思表示だと思っている",
+    "client_msg_id": "94756983-ff36-4b74-b54a-c8749fb5d7f4",
+    "name": "znmxodq1",
+    "img": "https://avatars.slack-edge.com/2019-03-08/570571829091_2ca91fb0cc1ed2341fe0_24.png",
+    "time": "2021/01/22 20:48:21",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1611314173010100"
+  },
+  {
+    "user": "UGA29R3FH",
+    "text": "ほんとそれ",
+    "client_msg_id": "1fcfbf5c-cbbf-4b1f-a4be-7959f7679b70",
+    "name": "znmxodq1",
+    "img": "https://avatars.slack-edge.com/2019-03-08/570571829091_2ca91fb0cc1ed2341fe0_24.png",
+    "time": "2021/01/22 20:48:21",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1611314155009600"
+  },
+  {
+    "user": "U8T8KB5M4",
+    "text": "ChromeSync使うということはモバイルのChromeつかってるんだろうからそれならChromiumでなくChrome使えばいいんじゃないのと思ったのですが。スレッド読んでみたけどそのあたりいまいちわかりませんでした。",
+    "client_msg_id": "d53f88e1-a951-4f04-8909-687c449af890",
+    "name": "h.hata.ai.t",
+    "img": "https://avatars.slack-edge.com/2019-08-19/732537331990_536f34e28226326cb4e8_24.png",
+    "time": "2021/01/22 20:48:21",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1611314128009400"
+  },
+  {
+    "user": "U8T8KB5M4",
+    "text": "自分も長らく狐なので特に問題ないですが素直に疑問。",
+    "client_msg_id": "f4ce9033-e31a-4783-a460-3808b9726812",
+    "name": "h.hata.ai.t",
+    "img": "https://avatars.slack-edge.com/2019-08-19/732537331990_536f34e28226326cb4e8_24.png",
+    "time": "2021/01/22 20:48:21",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1611314033006800"
+  },
+  {
+    "user": "UGA29R3FH",
+    "text": "ようやく流れ追ったけどChromeSyncのAPIキーが非公開になるって話か\n別に無くてもいいんだけど…",
+    "client_msg_id": "83f95462-3eb0-4dfb-b2b0-3a38217c97c5",
+    "name": "znmxodq1",
+    "img": "https://avatars.slack-edge.com/2019-03-08/570571829091_2ca91fb0cc1ed2341fe0_24.png",
+    "time": "2021/01/22 20:48:21",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1611313527005900"
+  },
+  {
+    "user": "U01HE1ENNJZ",
+    "text": "まあ火狐なんで無問題ですけどね",
+    "client_msg_id": "7fdaa63e-0223-4506-914f-1da8e5506bce",
+    "name": "a3784197",
+    "img": "https://avatars.slack-edge.com/2021-01-15/1652242406097_fbfa5b69ffe23ca9a640_24.jpg",
+    "time": "2021/01/22 20:48:21",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1611313442005200"
+  },
+  {
     "user": "U8T8KB5M4",
     "text": "ChromeSync使わないっていう選択肢がないのなんでなんだろう？",
     "client_msg_id": "650cd86b-f3e3-44d3-89fb-6c1993e928f1",
     "name": "h.hata.ai.t",
     "img": "https://avatars.slack-edge.com/2019-08-19/732537331990_536f34e28226326cb4e8_24.png",
-    "time": "2021/01/22 19:53:39",
+    "time": "2021/01/22 20:48:21",
     "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1611311629004000"
   },
   {
