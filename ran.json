@@ -1,11 +1,110 @@
 [
   {
     "user": "U0GFBAM8U",
+    "text": "なるほど",
+    "client_msg_id": "2f518836-a376-4245-93e2-d880c40d1228",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2021/02/01 17:23:43",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1612167260054200"
+  },
+  {
+    "user": "UPLFHSQ2V",
+    "text": "設定ファイルを見てみると、やはり怪しかった `permissions=user:conao:;` の部分が `permissions=` になってました。",
+    "client_msg_id": "19cb7fab-0e62-433b-bbb3-1801b623f769",
+    "name": "conao3",
+    "img": "https://secure.gravatar.com/avatar/1a9a49807415fb97544a7383a9288b84.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0006-24.png",
+    "time": "2021/02/01 17:23:43",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1612167183054000"
+  },
+  {
+    "user": "U0GFBAM8U",
+    "text": "お、よかった",
+    "client_msg_id": "9a6ee60e-23e4-4f9c-a5b8-a7418e2ee68e",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2021/02/01 17:23:43",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1612167067053700"
+  },
+  {
+    "user": "UPLFHSQ2V",
+    "text": "ありがとうございます! GUIで他ユーザーに許可したらログイン画面でwifiに繋がってました!",
+    "client_msg_id": "bd72801d-b86b-48be-9755-9a7ef0607860",
+    "name": "conao3",
+    "img": "https://secure.gravatar.com/avatar/1a9a49807415fb97544a7383a9288b84.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0006-24.png",
+    "time": "2021/02/01 17:23:43",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1612167005053500"
+  },
+  {
+    "user": "U0GFBAM8U",
+    "text": "なんかこれでいけそうですね\nもしうまくいかなかったら、nm-appletをxinitrcに書いてやるといいかもです(すでに書かれているかもしれないけど",
+    "client_msg_id": "e0ac2995-c694-44bb-8840-347f5f2de071",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2021/02/01 17:23:44",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1612166897053300"
+  },
+  {
+    "user": "UPLFHSQ2V",
+    "text": "すいません、調べてみたらGUIで設定できそう。。？ やってみます。\n<https://wiki.archlinux.jp/index.php/NetworkManager#%E3%83%AD%E3%82%B0%E3%82%A4%E3%83%B3%E6%99%82%E3%81%AB%E8%87%AA%E5%8B%95%E7%9A%84%E3%81%AB%E6%8E%A5%E7%B6%9A%E3%81%99%E3%82%8B>",
+    "client_msg_id": "26343f30-98c0-47f9-b89a-7618bf60e611",
+    "name": "conao3",
+    "img": "https://secure.gravatar.com/avatar/1a9a49807415fb97544a7383a9288b84.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0006-24.png",
+    "time": "2021/02/01 17:23:44",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1612166725052500"
+  },
+  {
+    "user": "U0GFBAM8U",
+    "text": "私が使ってるnetctlやsystemd-networkdなどでは、自動起動と自動接続(どのプロファイルを使って接続するか)の設定ができるので、networkmanagerでも同じようなことをやらないといけない感じなら、そんな感じてやってみるといいかも",
+    "client_msg_id": "340d6097-2078-46e1-b0b5-03635484f5b7",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2021/02/01 17:23:44",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1612166509052300"
+  },
+  {
+    "user": "UPLFHSQ2V",
+    "text": "なるほど。systemdでnetworkmanagerを自動起動する形でしょうか？\nそれともwifi-menuを使って設定しなおした方が早いですか？",
+    "client_msg_id": "e844e902-7421-47da-9d7a-4611d4d290a4",
+    "name": "conao3",
+    "img": "https://secure.gravatar.com/avatar/1a9a49807415fb97544a7383a9288b84.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0006-24.png",
+    "time": "2021/02/01 17:23:45",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1612166334050800"
+  },
+  {
+    "user": "U0GFBAM8U",
+    "text": "networkmanagerは使ってないのでよくわかりませんが、通常は、systemdなどでプロセスを自動起動して使います。\nあと、パスワード関連ならwifi-menuなど使ってみるといいかも",
+    "client_msg_id": "0f86fcb1-5113-4c56-a70f-8a6e65862bbd",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2021/02/01 17:23:45",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1612166100050500"
+  },
+  {
+    "user": "UPLFHSQ2V",
+    "text": "`permissions=user:conao:;` が明らかに怪しい。。？",
+    "client_msg_id": "a2cf13c0-67e8-44bd-baa1-f4cbccf1a3b3",
+    "name": "conao3",
+    "img": "https://secure.gravatar.com/avatar/1a9a49807415fb97544a7383a9288b84.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0006-24.png",
+    "time": "2021/02/01 17:23:45",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1612165574049500"
+  },
+  {
+    "user": "UPLFHSQ2V",
+    "text": "最近計算サーバーを組み立てたのですが、ログイン前にwifiに接続させることができず困っています。\nwifiの設定は `/etc/NetworkManager/system-connections/aterm-xxxxxx-a.nmconnection` に保存されています(パスワードも平文で保存されています())\nnmconnectionの所有者はroot:rootで、次の内容です(適当にマスクしました)\n```[connection]\nid=aterm-xxxx-a\nuuid=xxxxxxxxxxxxxxxx-f83c-4fb0-b4ef-xxxxxxxxxxxxxxxx\ntype=wifi\ninterface-name=wlp3s0\npermissions=user:conao:;\ntimestamp=161214xxxx\n\n[wifi]\nmac-address-blacklist=\nmode=infrastructure\nseen-bssids=C0:25:A2:xx:xx:xx;\nssid=aterm-xxxx-a\n\n[wifi-security]\nkey-mgmt=wpa-psk\npsk=xxxxxxxxxxxxxxxx\n\n[ipv4]\naddress1=192.168.10.101/24,192.168.10.1\ndns=8.8.8.8;\ndns-search=\nmethod=manual\n\n[ipv6]\naddr-gen-mode=stable-privacy\ndns-search=\nip6-privacy=0\nmethod=auto\n\n[proxy]```\nログイン画面でwifiに(固定IPで)接続させるにはどうすればいいでしょう？",
+    "client_msg_id": "3ae0eef5-75cc-4662-8cd3-19ed143c1ae0",
+    "name": "conao3",
+    "img": "https://secure.gravatar.com/avatar/1a9a49807415fb97544a7383a9288b84.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0006-24.png",
+    "time": "2021/02/01 17:23:45",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1612165152049100"
+  },
+  {
+    "user": "U0GFBAM8U",
     "text": "ですね。私も使ってない、大体の機能はoffにしてる",
     "client_msg_id": "293679c5-56cc-40ab-bdf8-e94568ef0e9a",
     "name": "syui",
     "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
-    "time": "2021/01/27,04:39:27",
+    "time": "2021/02/01 17:23:46",
     "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1611722367048300"
   },
   {
@@ -136,7 +235,7 @@
   },
   {
     "user": "U0GFBAM8U",
-    "text": "<@U0H026YUR> <http://mirror.archlinux.jp|mirror.archlinux.jp> ってもう動いてない感じなんです?",
+    "text": "@kusakata <http://mirror.archlinux.jp|mirror.archlinux.jp> ってもう動いてない感じなんです?",
     "client_msg_id": "e49191e9-7364-4a28-98ce-4dfa5636fef2",
     "name": "syui",
     "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
