@@ -1,11 +1,20 @@
 [
   {
+    "user": "U70QDFN82",
+    "text": "【NetworkManagerでVPN使ってる方】\nNetworkManagerの方のバージョンは上がってるけどnetworkmanager-l2tpがリリース切られてないんでVPN接続が失敗します。使ってる方注意。\n対処方法は、githubのmasterだとうまくいくのでPKGBUILD書き換えてビルドするのがよいと思います。",
+    "client_msg_id": "7034345f-f143-47c1-b589-a185ff56670f",
+    "name": "yutakatay",
+    "img": "https://avatars.slack-edge.com/2020-08-16/1302143736069_0baa468f7bea68e827d9_24.png",
+    "time": "2021/02/03 12:24:51",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1612321180008900"
+  },
+  {
     "user": "U0GFBAM8U",
     "text": "そういうときは設定ファイルがうまくいってないことが多い気がする\nisoからarch起動してchrootなどして編集してみると直るかも",
     "client_msg_id": "22FC655C-0179-4126-A321-567EF530CA7F",
     "name": "syui",
     "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
-    "time": "2021/01/24,06:23:07",
+    "time": "2021/02/03 12:24:51",
     "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1611469387002900"
   },
   {
