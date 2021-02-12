@@ -1,11 +1,47 @@
 [
   {
+    "user": "U01HE1ENNJZ",
+    "text": "X.orgのlogです",
+    "client_msg_id": "8bdb6c67-c80e-476f-b8b2-6be6cf70ed27",
+    "name": "a3784197",
+    "img": "https://avatars.slack-edge.com/2021-01-15/1652242406097_fbfa5b69ffe23ca9a640_24.jpg",
+    "time": "2021/02/12 21:28:50",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1613130794016100"
+  },
+  {
+    "user": "U01HE1ENNJZ",
+    "text": "`~\n[I] ➜ grep \\(EE\\) /var/log/Xorg.0.log\n\t(WW) warning, (EE) error, (NI) not implemented, (??) unknown.\n[    19.247] (EE) libinput: SynPS/2 Synaptics TouchPad: Failed to create a device for /dev/input/mouse1\n[    19.247] (EE) PreInit returned 2 for \"SynPS/2 Synaptics TouchPad\"`",
+    "client_msg_id": "7779ca48-6b03-4743-b909-22ba6e4267b4",
+    "name": "a3784197",
+    "img": "https://avatars.slack-edge.com/2021-01-15/1652242406097_fbfa5b69ffe23ca9a640_24.jpg",
+    "time": "2021/02/12 21:28:50",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1613130777015900"
+  },
+  {
+    "user": "U01HE1ENNJZ",
+    "text": "`xf86-video-intel` をインストールし、TearFree trueと書くとtearingは発生しませんでした",
+    "client_msg_id": "31ef90c6-d0d7-4d10-ad72-f7333c84d518",
+    "name": "a3784197",
+    "img": "https://avatars.slack-edge.com/2021-01-15/1652242406097_fbfa5b69ffe23ca9a640_24.jpg",
+    "time": "2021/02/12 21:28:50",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1613130542015600"
+  },
+  {
+    "user": "U01HE1ENNJZ",
+    "text": "`xf86-video-intel` がおすすめされないとarchwikiに書いていたので削除し<https://wiki.gentoo.org/wiki/Intel#Modesetting_DDX|gentoo wiki>のように\n設定してみましたが、tearingが治りませんどうすればいいですか？\n環境: i3-gaps, compton(picom)を動かしています",
+    "client_msg_id": "dab2e39a-abf2-409b-8644-090f6f7ebafc",
+    "name": "a3784197",
+    "img": "https://avatars.slack-edge.com/2021-01-15/1652242406097_fbfa5b69ffe23ca9a640_24.jpg",
+    "time": "2021/02/12 21:28:51",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1613130482014700"
+  },
+  {
     "user": "UGA29R3FH",
     "text": "パッケージ消えるわけじゃないならまあいいか",
     "client_msg_id": "e0addffe-9476-457b-a61d-ca5740b2b089",
     "name": "znmxodq1",
     "img": "https://avatars.slack-edge.com/2019-03-08/570571829091_2ca91fb0cc1ed2341fe0_24.png",
-    "time": "2021/02/12 19:23:16",
+    "time": "2021/02/12 21:28:51",
     "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1612371669010800"
   },
   {
