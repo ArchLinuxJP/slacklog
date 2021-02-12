@@ -1,11 +1,65 @@
 [
   {
     "user": "U01HE1ENNJZ",
+    "text": "追記: i915をMODULES行に追加したらtearingが解消したような気がします\nありがとうございました",
+    "client_msg_id": "27482af4-23bd-4418-9985-cd65bc7ce3a2",
+    "name": "a3784197",
+    "img": "https://avatars.slack-edge.com/2021-01-15/1652242406097_fbfa5b69ffe23ca9a640_24.jpg",
+    "time": "2021/02/12 23:23:13",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1613138672025100"
+  },
+  {
+    "user": "U01HE1ENNJZ",
+    "text": "mkinitcpio試してみます",
+    "client_msg_id": "dd1e77c9-b19e-4338-8694-8e7b8a107964",
+    "name": "a3784197",
+    "img": "https://avatars.slack-edge.com/2021-01-15/1652242406097_fbfa5b69ffe23ca9a640_24.jpg",
+    "time": "2021/02/12 23:23:14",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1613137875023800"
+  },
+  {
+    "user": "U01HE1ENNJZ",
+    "text": "なるほど\nありがとうございます",
+    "client_msg_id": "6932cf87-174e-4cae-ae32-44eb7e456e12",
+    "name": "a3784197",
+    "img": "https://avatars.slack-edge.com/2021-01-15/1652242406097_fbfa5b69ffe23ca9a640_24.jpg",
+    "time": "2021/02/12 23:23:14",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1613137864023400"
+  },
+  {
+    "user": "U53RAQBCP",
+    "text": "`xf86-video-intel` を使わないならmodesetを使わないとvesaモードになる(?)ので `mkinitcpio.conf` の MODULES に `i915` が入ってるか確認するといいかも",
+    "client_msg_id": "21df0c48-67c8-46fd-a337-c02a51d9a376",
+    "name": "kkinx",
+    "img": "https://avatars.slack-edge.com/2020-06-19/1217544115744_070f890bad64414b4848_24.png",
+    "time": "2021/02/12 23:23:14",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1613136499022700"
+  },
+  {
+    "user": "U0GFBAM8U",
+    "text": "configにintelの設定ぽいのがあったので掲載しときます\n\n/etc/X11/xorg.conf.d/20-intel.conf\n```Section \"Device\"\n  Identifier  \"Intel Graphics\"\n  Driver      \"intel\"\n  Option      \"AccelMethod\"  \"uxa\"\nEndSection```",
+    "client_msg_id": "03249aaf-db03-4404-bbfe-4442c6f1ab98",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2021/02/12 23:23:15",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1613136393021000"
+  },
+  {
+    "user": "U0GFBAM8U",
+    "text": "私、macbook airですが、一応、intelなので、さっき調べてみたらxf86-video-intelはいってますね",
+    "client_msg_id": "0620f63c-9526-4075-a12c-09ca3cd676b0",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2021/02/12 23:23:15",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1613136168019100"
+  },
+  {
+    "user": "U01HE1ENNJZ",
     "text": "ありがとうございます\nintel環境の人居ますか？\nいたら教えて下さい",
     "client_msg_id": "58d92340-3704-4724-9ead-f894a3e5e93a",
     "name": "a3784197",
     "img": "https://avatars.slack-edge.com/2021-01-15/1652242406097_fbfa5b69ffe23ca9a640_24.jpg",
-    "time": "2021/02/12 22:20:30",
+    "time": "2021/02/12 23:23:16",
     "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1613136010018500"
   },
   {
