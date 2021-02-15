@@ -1,11 +1,38 @@
 [
   {
     "user": "UCA1NQM5K",
+    "text": "linuxとlinux-ltsなら体感はさほど変わらないです\n恐らくカーネルのバージョンのが違うだけでArchプロジェクトとしてのカスタマイズは最低限のはずなのでさほど変わらないのかと思ってます",
+    "client_msg_id": "c98c5d4e-0103-44f7-8cd8-07ec8eef34e7",
+    "name": "angel.beats.kanade.yu",
+    "img": "https://avatars.slack-edge.com/2020-04-19/1084275690241_c2a4866502e22de56328_24.png",
+    "time": "2021/02/16 08:22:21",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1613431054040500"
+  },
+  {
+    "user": "U01HE1ENNJZ",
+    "text": "`linux`と`linux-lts`はどちらが消費電力高いですか？",
+    "client_msg_id": "35ad6380-6da5-410e-bfb2-87a21dc2225b",
+    "name": "a3784197",
+    "img": "https://avatars.slack-edge.com/2021-01-15/1652242406097_fbfa5b69ffe23ca9a640_24.jpg",
+    "time": "2021/02/16 08:22:21",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1613430559039400"
+  },
+  {
+    "user": "U01HE1ENNJZ",
+    "text": "なるほどありがとうございます\nlaptopなので`linux`の方に変えてみたいと思います",
+    "client_msg_id": "98d5e7cc-3731-4b14-a084-231a62d188f5",
+    "name": "a3784197",
+    "img": "https://avatars.slack-edge.com/2021-01-15/1652242406097_fbfa5b69ffe23ca9a640_24.jpg",
+    "time": "2021/02/16 08:22:22",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1613430286038400"
+  },
+  {
+    "user": "UCA1NQM5K",
     "text": "ZenカーネルはLinuxをデスクトップ作業(とくにマルチメディアやゲーム、ブラウジングなど)のパフォーマンスを高めるためのチューニングをされたカーネルです。\n電力効率などの犠牲の上に成り立っているので、デスクトップなら良いと思いますが、ラップトップだとバッテリの消費が通常のカーネルに比べて体感で分かるほど速いです。\nなので私はデスクトップではZenを入れてますが、ラップトップにはlinux-ltsを入れています。\n(個人的な感想なので、間違いがあるかもしれまんせんが悪しからず)",
     "client_msg_id": "18b57379-72d6-4294-aff9-424e3b7875ec",
     "name": "angel.beats.kanade.yu",
     "img": "https://avatars.slack-edge.com/2020-04-19/1084275690241_c2a4866502e22de56328_24.png",
-    "time": "2021/02/15 20:20:10",
+    "time": "2021/02/16 08:22:22",
     "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1613385574036600"
   },
   {
