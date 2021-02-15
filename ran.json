@@ -1,11 +1,20 @@
 [
   {
+    "user": "U257W41DW",
+    "text": "通話相手の声とかがスピーカーとかからマイクに乗らないようにするのがエコー除去なはずなので、\n`(with 出力デバイス)` となっているのは、どの出力デバイスの音を元にエコー除去しているかということではないですかね。",
+    "client_msg_id": "90d21137-128c-4ae1-a68f-8f8ac476397a",
+    "name": "odknt",
+    "img": "https://secure.gravatar.com/avatar/5d54349749764603ddcf7f370f8c3d18.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0015-24.png",
+    "time": "2021/02/16 00:15:23",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1613400559077000"
+  },
+  {
     "user": "UAPRYSVPS",
     "text": "<https://matoken.org/blog/2020/05/01/pulseaudios-echo-cancellation-module-for-linux-looks-good/> この記事のスクショを見るとインターフェース名カッコ内も同じになってて謎、、、 入力が複数あると他の入力が括弧内に入るんですかね？？",
     "client_msg_id": "8b7edc0c-8736-48cc-802d-f5111f2857c8",
     "name": "vermilion928",
     "img": "https://avatars.slack-edge.com/2018-11-19/482013000928_74c758375b0d3086d76f_24.png",
-    "time": "2021/02/15 22:16:25",
+    "time": "2021/02/16 00:15:23",
     "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1613394276076600"
   },
   {
