@@ -1,11 +1,20 @@
 [
   {
+    "user": "U019C7VLZ4G",
+    "text": "今 pacman -Syuしたら`<http://ftp.jaist.ac.jp|ftp.jaist.ac.jp> : SSL certificate problem: certificate has expired`というエラーが出ました。\n`<http://ftp.jaist.ac.jp|ftp.jaist.ac.jp>` の証明書の期限が切れている?",
+    "client_msg_id": "dfa94542-853a-4356-b923-6dac71514f64",
+    "name": "getalotofmail",
+    "img": "https://secure.gravatar.com/avatar/5a7f20688dc40b2989935a11bdfa25fe.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0001-24.png",
+    "time": "2021/02/22 22:17:58",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1613997889001700"
+  },
+  {
     "user": "UGA29R3FH",
     "text": "平気でそういうアプリぶっこんでくるのがいかにもArchって感じ",
     "client_msg_id": "870b61e4-34bb-4dbf-9b43-29a71be138fc",
     "name": "znmxodq1",
     "img": "https://avatars.slack-edge.com/2019-03-08/570571829091_2ca91fb0cc1ed2341fe0_24.png",
-    "time": "2021/02/17 02:29:22",
+    "time": "2021/02/22 22:17:59",
     "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1613494756049000"
   },
   {
@@ -147,8 +156,8 @@
     "user": "U53RAQBCP",
     "text": "`xf86-video-intel` を使わないならmodesetを使わないとvesaモードになる(?)ので `mkinitcpio.conf` の MODULES に `i915` が入ってるか確認するといいかも",
     "client_msg_id": "21df0c48-67c8-46fd-a337-c02a51d9a376",
-    "name": "kkinx",
-    "img": "https://avatars.slack-edge.com/2020-06-19/1217544115744_070f890bad64414b4848_24.png",
+    "name": "kokopis",
+    "img": "https://avatars.slack-edge.com/2021-02-17/1758258964165_98bf0ec770bc4e813fb0_24.png",
     "time": "2021/02/12 23:23:14",
     "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1613136499022700"
   },
