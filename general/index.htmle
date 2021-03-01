@@ -17,6 +17,7 @@
 <p><a href="/slacklog/general/202011">202011</a></p>
 <p><a href="/slacklog/general/202012">202012</a></p>
 <p><a href="/slacklog/general/202101">202101</a></p>
+<p><a href="/slacklog/general/202102">202102</a></p>
 	<div id="app">
 	 <table>
 		<tr v-for="(value,key) in cities" v-bind:id=value.client_msg_id>

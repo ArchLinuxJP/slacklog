@@ -19,24 +19,17 @@
 		<h1>archlinuxjp / <a href="/slacklog">slacklog</a></h1>
 		<p><a href="https://archlinuxjp.slack.com/">https://archlinuxjp.slack.com</a></p>
 	 </div>
-	 <h2>#general</h2>
-	 <h2><a href="/slacklog/random">#random</a></h2>
-	 <p><a href="/slacklog/general/202009">202009</a></p>
-	 <p><a href="/slacklog/general/202010">202010</a></p>
-<p><a href="/slacklog/general/202011">202011</a></p>
-<p><a href="/slacklog/general/202012">202012</a></p>
-<p><a href="/slacklog/general/202101">202101</a></p>
-<p><a href="/slacklog/general/202102">202102</a></p>
-<p><a href="/slacklog/general/202103">202103</a></p>
 	 <div id="app">
 		<table>
 		 <tr v-for="(value,key) in cities" v-bind:id=value.client_msg_id>
-			<td><img v-bind:src="value.img"></td>
-			<td><a v-bind:href="'#' + value.client_msg_id">{{value.name}}</a></td>
-			<td><a v-bind:href="value.link">{{value.time}}</a></td>
-			<td>
-			 <vue-markdown>{{ value.text.replace(/```/g,'\n```') }}</vue-markdown>
-			</td>
+			<template v-if="value.time.split('/')[0] + value.time.split('/')[1] === dirname">
+			 <td><img v-bind:src="value.img"></td>
+			 <td><a v-bind:href="'#' + value.client_msg_id">{{value.name}}</a></td>
+			 <td><a v-bind:href="value.link">{{ value.time }}</a></td>
+			 <td>
+				<vue-markdown>{{ value.text.replace(/```/g,'\n```') }}</vue-markdown>
+			 </td>
+			</template>
 		 </tr>
 		</table>
 	 </div>
