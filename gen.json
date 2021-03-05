@@ -1,11 +1,56 @@
 [
   {
+    "user": "U017BNGTHT3",
+    "text": "(Windowsのインストールメディア意外とコマンドプロンプトとかも使えるので優秀)",
+    "client_msg_id": "9b196ad5-0a65-49bd-8e62-c84a7b2de1c6",
+    "name": "s5is",
+    "img": "https://avatars.slack-edge.com/2020-11-29/1531495219589_cf6a2f80ce7bb820ba38_24.png",
+    "time": "2021/03/05 10:53:27",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1614907026028800"
+  },
+  {
+    "user": "UQDJXPHJ9",
+    "text": "そうかインストールメディア作ってみる手があるんですね…\n取り急ぎそれをやってみます、ありがとうございます",
+    "client_msg_id": "72070084-d64e-488f-978c-d5eb347ba3d4",
+    "name": "cj.bc-sd",
+    "img": "https://avatars.slack-edge.com/2019-11-12/821749881793_703a47a248d9e731dc3f_24.jpg",
+    "time": "2021/03/05 10:53:27",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1614906929028100"
+  },
+  {
+    "user": "U0GFBAM8U",
+    "text": "windowsのインストーラーをusbに書き込んで、それを起動した上でwinをインストールすると良さそう",
+    "client_msg_id": "4D6BB182-8659-4526-AD2D-0575E1BC565E",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2021/03/05 10:53:27",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1614906914027900"
+  },
+  {
+    "user": "U017BNGTHT3",
+    "text": "Windowsのインストールメディアの修復機能(「コンピューターを修復する」のやつ)を使えばワンチャンありますが、それでもうまく行かない場合は\n<https://freesoft.tvbok.com/tips/efi_installation/uefi_bootrec.html>\nこのあたりを参考に手動で直すしかなさそう。",
+    "client_msg_id": "12bb4503-7e82-4318-bb3e-420d5584773e",
+    "name": "s5is",
+    "img": "https://avatars.slack-edge.com/2020-11-29/1531495219589_cf6a2f80ce7bb820ba38_24.png",
+    "time": "2021/03/05 10:53:28",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1614906734025800"
+  },
+  {
+    "user": "UQDJXPHJ9",
+    "text": "ちょっとやらかしたので相談させてください\nWindowsとデュアルブートしているのですが、訳あってブートパーティションを綺麗に(`rm` )した時にWindowsのブートローダーも削除してしまい、Windowsが開かなくなりました…\nなんとか回復したいです\n\n【背景】\nSurface laptop 2に、Windowsとarchのデュアルブートをしています。パーティションはbootパーティション・rootパーティションを分けています。\narch側が昨年11月頃のアップデート( `pacman -Syu` )後うまく動かなくなり、長らく試行錯誤したのですが直せなかったので、つい先日前に必要なデータを吸い出して再インストールする作業に入りました。\nそこで、liveUSBからbootパーティション・rootパーティションをそれぞれ `/mnt/boot`/`/mnt` にマウントし、主要なファイル( `/etc` , `/usr`, `/lib`  など)を削除して再インストールをしました。\nその時に、安直に `rm -rf /mnt/boot` をしてしまいました。\nこれにより、 `/mnt/boot/EFI/Windows` が消えてしまったのがおそらく原因だと思っています\n\n【事後やったこと】\n1. <https://wiki.archlinux.jp/index.php/%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB%E3%83%AA%E3%82%AB%E3%83%90%E3%83%AA|archlinux wikiのファイルリカバリ> を見て、「プロの助けを求めましょう」とあったので、直接の作業はせず\n2. 別パーティションに、ddでbootパーティションのイメージ作成( `rm` したのが20:59、問題発覚が遅かったのでイメージの取得は0:18で、その間に何度か再起動しています…)\n3. liveUSBから起動した後、↑で作成したイメージに対してforemost、photorec実行。それぞれexeファイルは取得できたけど数が多くて何もわからない…\n4. liveUSBに入っていたmcも試しましたが、undelete機能がなかったので使えませんでした\n【どうしたいのか】\nWindowsのブートローダーを取り戻したい。もしくは、公式のどこかから取得してくるでも良いのですが…",
+    "client_msg_id": "32025180-cd19-44d5-919e-c8f6ee3f7177",
+    "name": "cj.bc-sd",
+    "img": "https://avatars.slack-edge.com/2019-11-12/821749881793_703a47a248d9e731dc3f_24.jpg",
+    "time": "2021/03/05 10:53:28",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1614906254024200"
+  },
+  {
     "user": "U01HE1ENNJZ",
     "text": "picomの設定を\n&lt; backend = \"xrender\";\n---\n&gt; backend = \"glx\";\nにすることで解決しました\nredshift絡みなのかは不明",
     "client_msg_id": "bc4bc4c7-0ae8-4de6-bae7-026290a9e548",
     "name": "a3784197",
     "img": "https://avatars.slack-edge.com/2021-01-15/1652242406097_fbfa5b69ffe23ca9a640_24.jpg",
-    "time": "2021/02/27,01:30:24",
+    "time": "2021/03/05 10:53:28",
     "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1614389424008300"
   },
   {
