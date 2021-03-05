@@ -1,11 +1,20 @@
 [
   {
+    "user": "UCA1NQM5K",
+    "text": "Windowsと共存する場合はEFI stubでブートしているので無ければESPを/bootにマウントするのは避けた方が賢明です\n(Windows10の場合半年に一度の大型アップデートでESPをいじくり回すため)\n自分は/boot/efiにマウントするようにしてます",
+    "client_msg_id": "d182a905-fd0c-40ed-a96f-ec0818087c1d",
+    "name": "angel.beats.kanade.yu",
+    "img": "https://avatars.slack-edge.com/2020-04-19/1084275690241_c2a4866502e22de56328_24.png",
+    "time": "2021/03/05 12:23:33",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1614912984030300"
+  },
+  {
     "user": "U017BNGTHT3",
     "text": "(Windowsのインストールメディア意外とコマンドプロンプトとかも使えるので優秀)",
     "client_msg_id": "9b196ad5-0a65-49bd-8e62-c84a7b2de1c6",
     "name": "s5is",
     "img": "https://avatars.slack-edge.com/2020-11-29/1531495219589_cf6a2f80ce7bb820ba38_24.png",
-    "time": "2021/03/05 10:53:27",
+    "time": "2021/03/05 12:23:33",
     "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1614907026028800"
   },
   {
