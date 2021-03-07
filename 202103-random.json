@@ -1,11 +1,20 @@
 [
   {
+    "user": "U01QTK2CP3K",
+    "text": "こんにちはです～\n\n早速質問、というかアドバイスを聞きたいです。\n\n当方lap-topにarchを入れているのですが、持ち運べるということもあり、なるだけセキュリティ性能を上げたいです。\n現状で自分が行っていることは以下の通りです。\n\n・ストレージはOS用とデータ用で物理的に分離し、データ用は「/home」にマウント。OS用はdm-cryptでパスコード(10桁以上、英数記号混在)を使用し暗号化。データ用はdm-cryptキーファイル(ランダム生成、十分なビット長)で暗号化。\n・firewalldで使用port以外のパケットはdrop\n・SElinux有効化\n・clamAVで定期的にスキャン\n\nほかに「これもやった方がいいぞ」的なことがあれば教えていただければと、、、",
+    "client_msg_id": "f0b8a1c3-7b5b-443d-8af9-0aff9c3d40d3",
+    "name": "",
+    "img": "",
+    "time": "2021/03/07 22:17:21",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1615119803026400"
+  },
+  {
     "user": "U0GFBAM8U",
     "text": "こんにちはー",
     "client_msg_id": "bbc6d663-dce3-4b46-985f-11aed7d9a01e",
     "name": "syui",
     "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
-    "time": "2021/03/07 20:15:16",
+    "time": "2021/03/07 22:17:22",
     "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1615114544011900"
   },
   {
