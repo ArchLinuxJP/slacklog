@@ -1,11 +1,20 @@
 [
   {
+    "user": "UQDJXPHJ9",
+    "text": "今はWindowsのbootパーティションをそのまま使っています。\nESPを `/boot/efi` 等に移す場合、このWindowsのbootパーティションとは他にパーティションを切るという理解であっていますか？\n又、rEFIndを使っているのですが、パーティションを分けた後は `refind-install`で問題ないですか？",
+    "client_msg_id": "cc35d08f-3865-4261-a359-c34c5a8dc488",
+    "name": "cj.bc-sd",
+    "img": "https://avatars.slack-edge.com/2019-11-12/821749881793_703a47a248d9e731dc3f_24.jpg",
+    "time": "2021/03/08 00:21:23",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1615129846044600"
+  },
+  {
     "user": "U01HE1ENNJZ",
     "text": "espはgrub.efiしか入ってないので空いているのですがbootはカーネルイメージとかあるので心配で",
     "client_msg_id": "4ceb1ac9-a574-496a-8927-ae02ca55bbf5",
     "name": "a3784197",
     "img": "https://avatars.slack-edge.com/2021-01-15/1652242406097_fbfa5b69ffe23ca9a640_24.jpg",
-    "time": "2021/03/06 19:24:54",
+    "time": "2021/03/08 00:21:24",
     "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1615023057043900"
   },
   {
