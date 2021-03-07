@@ -1,11 +1,56 @@
 [
   {
+    "user": "U53RAQBCP",
+    "text": "BIOSとか外部起動は意外と落とし穴ですよね(でもセキュリティリスクなのは知りつつデータ救出とかでたまにお世話になる)",
+    "client_msg_id": "3DEA601F-6624-4BD0-BA96-49B9FFF99316",
+    "name": "kokopis",
+    "img": "https://avatars.slack-edge.com/2021-02-17/1758258964165_98bf0ec770bc4e813fb0_24.png",
+    "time": "2021/03/08 01:26:26",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1615133552044600"
+  },
+  {
+    "user": "U0GFBAM8U",
+    "text": "サイオスさん、ありがとう。いつも素晴らしいまとめ",
+    "client_msg_id": "2c714ecc-32b2-4d4f-8f6a-3602f6c176fa",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2021/03/08 01:26:27",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1615131674042200"
+  },
+  {
+    "user": "U0GFBAM8U",
+    "text": "<#C0H9P6W1K|rss> を久しぶりに見てみると、oss脆弱性情報でめちゃくちゃありがたかったサイオスのrssが取得できてなくて、調べてみるとアドレスが変わってた\n<https://security.sios.com/atom.xml>",
+    "client_msg_id": "90efbeb3-087a-4116-b5bc-c17e8508a6cb",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2021/03/08 01:26:27",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1615131426041700"
+  },
+  {
+    "user": "U0GFBAM8U",
+    "text": "今現在、一番身近な危険としてはブラウザバックだと思っていて、できればブラウザの機能をできる限りoffにして、javascriptとcookieをoffにすると結構安全に使えると思ってます。けど、これだとweb loginとかできなくなるので不便",
+    "client_msg_id": "027413C3-EE16-48A4-98A4-4E9B33AEC968",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2021/03/08 01:26:27",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1615130437040100"
+  },
+  {
+    "user": "U0GFBAM8U",
+    "text": "ssh-keyに使われるrsaなど解読される可能性高まったみたいな情報が最近あった気がするので、ecdsaとかed25519で長いやつがおすすめらしいです。\nというか私もセキュリティ、ほぼほぼ考えてなかった...",
+    "client_msg_id": "7DCE5618-9261-49CD-AFD0-4C2E161A7FE9",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2021/03/08 01:26:28",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1615130188037100"
+  },
+  {
     "user": "U0GFBAM8U",
     "text": "あとはこの辺のツールの活用を考えてみるといいかも\n<https://wiki.archlinux.jp/index.php/%E3%82%A2%E3%83%97%E3%83%AA%E3%82%B1%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E4%B8%80%E8%A6%A7/%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3|https://wiki.archlinux.jp/index.php/アプリケーション一覧/セキュリティ>",
     "client_msg_id": "3C664EE9-A6E7-463A-9B48-5DDAC10D1835",
     "name": "syui",
     "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
-    "time": "2021/03/08 00:15:39",
+    "time": "2021/03/08 01:26:28",
     "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1615129908034100"
   },
   {
