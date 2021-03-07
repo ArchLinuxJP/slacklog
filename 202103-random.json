@@ -1,11 +1,38 @@
 [
   {
+    "user": "U0GFBAM8U",
+    "text": "あとはこの辺のツールの活用を考えてみるといいかも\n<https://wiki.archlinux.jp/index.php/%E3%82%A2%E3%83%97%E3%83%AA%E3%82%B1%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E4%B8%80%E8%A6%A7/%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3|https://wiki.archlinux.jp/index.php/アプリケーション一覧/セキュリティ>",
+    "client_msg_id": "3C664EE9-A6E7-463A-9B48-5DDAC10D1835",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2021/03/08 00:15:39",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1615129908034100"
+  },
+  {
+    "user": "U0GFBAM8U",
+    "text": "biosにパスワード設定できるやつあるので、できるなら設定してみるといいかも。usb挿されてdiskをddやらmountされた時の対策などから考えてみるのも良さそう\nあと、network通信としてvpnとかを使うといいかも。セキュリティ上、ip addressからわかること、情報も多いので。",
+    "client_msg_id": "357E2FA1-EACB-49F3-B276-3210A52932EA",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2021/03/08 00:15:39",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1615129606033200"
+  },
+  {
+    "user": "U01GL4MB9KR",
+    "text": "いろいろやっていてすごい。頭が下がる思いです。「うわ、私のPCのセキュリティザルすぎ」状態になってる。",
+    "client_msg_id": "068340fe-194c-4430-9929-fbb2bcfc2dd2",
+    "name": "futuresan750",
+    "img": "https://avatars.slack-edge.com/2020-12-16/1564164599591_9d5d4aeda3545b33c1c5_24.png",
+    "time": "2021/03/08 00:15:39",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1615129294029100"
+  },
+  {
     "user": "U01QTK2CP3K",
     "text": "こんにちはです～\n\n早速質問、というかアドバイスを聞きたいです。\n\n当方lap-topにarchを入れているのですが、持ち運べるということもあり、なるだけセキュリティ性能を上げたいです。\n現状で自分が行っていることは以下の通りです。\n\n・ストレージはOS用とデータ用で物理的に分離し、データ用は「/home」にマウント。OS用はdm-cryptでパスコード(10桁以上、英数記号混在)を使用し暗号化。データ用はdm-cryptキーファイル(ランダム生成、十分なビット長)で暗号化。\n・firewalldで使用port以外のパケットはdrop\n・SElinux有効化\n・clamAVで定期的にスキャン\n\nほかに「これもやった方がいいぞ」的なことがあれば教えていただければと、、、",
     "client_msg_id": "f0b8a1c3-7b5b-443d-8af9-0aff9c3d40d3",
     "name": "",
     "img": "",
-    "time": "2021/03/07 22:17:21",
+    "time": "2021/03/08 00:15:40",
     "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1615119803026400"
   },
   {
