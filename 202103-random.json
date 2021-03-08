@@ -1,11 +1,29 @@
 [
   {
+    "user": "U257W41DW",
+    "text": "あとはできそうなのはセキュアブートとかですかね",
+    "client_msg_id": "adc59148-95eb-4b71-a7f5-e01191c9ef10",
+    "name": "odknt",
+    "img": "https://secure.gravatar.com/avatar/5d54349749764603ddcf7f370f8c3d18.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0015-24.png",
+    "time": "2021/03/08 13:20:34",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1615176791058100"
+  },
+  {
+    "user": "UUWBU08TU",
+    "text": "ArchでSELinux有効にするの大変なイメージあったんですが、最近は楽になってたりするんですか？",
+    "client_msg_id": "b9e11380-bf58-4f50-bc4a-282a5c0f3848",
+    "name": "nekokowan_archjpslack",
+    "img": "https://avatars.slack-edge.com/2020-06-22/1204027183412_7f7a529c9005aa8cce36_24.png",
+    "time": "2021/03/08 13:20:35",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1615176538057700"
+  },
+  {
     "user": "U01QTK2CP3K",
     "text": "おはようございます！たくさんの返信ありがとうございます！\n\nbiosに関してはパスワード設定しておりますね。ブート時に要求するようにしてます。\nvpnに関しては失念してました、、、ありがとうございます。EgdeRouterに頑張ってもらおうかなと思います。\nセキュリティツールに関しては何導入しようかな～って感じですね、、、片っ端から入れるのもなんかあれなので、おすすめのツールとかあったら教えてほしいです！\nsshはポート変更して、rootログインオフ（そもそもrootパスワードをロックしている）して、パスワードとed15519での二段階認証にしてます。\nブラウザハッキングに関してはあんまり考えてなかったですね、、、でもここは利便性とのトレードオフと半分ぐらい割り切ろうかな～と。jsはデフォで切ってますが、cookieは切るの面倒ですし、、、\nサイオスさん、、、なんと、こんな有益なブログがあるとは、、、知りませんでした。ありがとうございます！拝見させていただきます！",
     "client_msg_id": "c780b1a2-27bd-4ff2-97e0-b3af1504da09",
     "name": "",
     "img": "",
-    "time": "2021/03/08 07:17:20",
+    "time": "2021/03/08 13:20:35",
     "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1615152434056500"
   },
   {
