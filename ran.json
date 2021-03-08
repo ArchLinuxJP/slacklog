@@ -1,11 +1,38 @@
 [
   {
+    "user": "U0PM6EYR1",
+    "text": "AppArmor 派の人は居ないんですかね？",
+    "client_msg_id": "528234e3-d4a1-4d6d-8b14-fc177aa05a79",
+    "name": "raa0121",
+    "img": "https://secure.gravatar.com/avatar/35b032d7b2d4182b0c2de1ef85ba91f2.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0009-24.png",
+    "time": "2021/03/08 17:24:31",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1615191238073400"
+  },
+  {
+    "user": "U53RAQBCP",
+    "text": "Archほど苦労せず(?)にSELinuxを使えるという理由で最近fedoraに浮気をしている…",
+    "client_msg_id": "A56C5F4A-BD37-4AA9-B78D-13474EB0F112",
+    "name": "kokopis",
+    "img": "https://avatars.slack-edge.com/2021-02-17/1758258964165_98bf0ec770bc4e813fb0_24.png",
+    "time": "2021/03/08 17:24:32",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1615190738073100"
+  },
+  {
+    "user": "UUWBU08TU",
+    "text": "潤沢なメモリと安定したインターネット接続があれば、OS用はread only+overlayfsで、データをできる限りストレージに持たないでシンクライアントっぽい感じにしたいなあと思っていたときもありましたが、新しいパッケージのインストールなんかもサクッとできなくなってしまうので面倒くさいんですよねー",
+    "client_msg_id": "c0d7d7ed-909a-4cdb-a15c-029f87ac20c1",
+    "name": "nekokowan_archjpslack",
+    "img": "https://avatars.slack-edge.com/2020-06-22/1204027183412_7f7a529c9005aa8cce36_24.png",
+    "time": "2021/03/08 17:24:32",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1615188797069800"
+  },
+  {
     "user": "U0GFBAM8U",
     "text": "SELinux、私も切ってるから、わかんない",
     "client_msg_id": "265e1d5d-c6ab-402b-9704-560c5f6210ec",
     "name": "syui",
     "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
-    "time": "2021/03/08 16:20:32",
+    "time": "2021/03/08 17:24:32",
     "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1615186082065100"
   },
   {
