@@ -1,19 +1,28 @@
 [
   {
+    "user": "U257W41DW",
+    "text": "セキュアブートしないとネットワーク通信できなくなるマシン使ってるので GRUB とカーネルに署名してセキュアブートで起動してるけど、\nArch は pacman と mkinitcpio のおかげでセキュアブートも TPM も設定しやすいほうだと思う。",
+    "client_msg_id": "2305af52-62f6-40d9-a3d4-0e1408e292de",
+    "name": "odknt",
+    "img": "https://secure.gravatar.com/avatar/5d54349749764603ddcf7f370f8c3d18.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0015-24.png",
+    "time": "2021/03/10 04:13:17",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1615315880122800"
+  },
+  {
     "user": "UUWBU08TU",
-    "text": "パスワードマネージャーはpassword store(pass)使ってますね、gpgのwrapperみたいなものだったはずで、YubiKeyとかにgpgの秘密鍵入れて使うとよりセキュアかなって感じです",
+    "text": "パスワードマネージャーはpassword store(pass)使ってますね、gpgのwrapperみたいなものだったはずで、YubiKeyとかにgpgの秘密鍵入れて使うとよりセキュアかなって感じです GitHubのプライベートリポジトリに同期して、Androidでも使ってます",
     "client_msg_id": "b32df9fe-52a2-4c70-85c9-db3592bc60e5",
     "name": "nekokowan_archjpslack",
     "img": "https://avatars.slack-edge.com/2020-06-22/1204027183412_7f7a529c9005aa8cce36_24.png",
-    "time": "2021/03/09 21:27:19",
+    "time": "2021/03/10 04:13:17",
     "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1615292590120500"
   },
   {
     "user": "U01QTK2CP3K",
     "text": "バックアップはtimeshiftでやってますね。キーファイルをなくしたくない（前科１犯）ので。\nサブパスワード設定もありですね、、、物理保存は最強。導入しましょう。",
     "client_msg_id": "3792a3da-b3c4-4be8-b9bf-f05a6df31d29",
-    "name": "",
-    "img": "",
+    "name": "redohagi127",
+    "img": "https://avatars.slack-edge.com/2021-03-07/1824244509366_870cdef2c6261c959069_24.jpg",
     "time": "2021/03/09 21:27:19",
     "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1615260209114700"
   },
@@ -30,8 +39,8 @@
     "user": "U01QTK2CP3K",
     "text": "やっぱりセキュアブートには署名が必要ですね、、、ものすごく面倒。不正ブートして情報盗んでくるぐらいやばいやつに遭遇したらあきらめよう\nsystemdがSElinuxで汚れてても動きますかね？というかまぁそこまでやるなら最初からtailsにしろというね、確かに、、、\nでもやっぱりそこは利便性をとって保留ですね、、、もっと情報漏洩に厳しい環境に行ったら考えます。",
     "client_msg_id": "80b7cf6b-da40-4e5c-b1a6-fb79772437d3",
-    "name": "",
-    "img": "",
+    "name": "redohagi127",
+    "img": "https://avatars.slack-edge.com/2021-03-07/1824244509366_870cdef2c6261c959069_24.jpg",
     "time": "2021/03/09 12:16:47",
     "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1615259107111500"
   },
@@ -75,8 +84,8 @@
     "user": "U01QTK2CP3K",
     "text": "SElinuxはやはりarchでは使いにくいですね、、、まぁarchに限らずなんですけど。しかも今自分の環境見てみたらkernelパラメータでオンにしてなかった、、、そしてオンにしたら起動できなくなるという始末、、、SElinuxやはり使いにくい\n、、、\nlinux-hardenedは初期イントール時点でミスりまして導入してないですね、、、導入します。kernelの変更って途中からできるのかわからないけど調べてみます。\nサンドボックス化はやったことがないので試してみます。\nパスワードマネージャ使ったことがないのでお勧めとかありますか？参考までに聞きたいです！\nセキュアブートとかセキュリティチップとかはさすがに面倒ですかね、、、というかarchってセキュアブートできるんですか？\nストレージのreadonly化はなんだかんだで面倒なんで、、、raspiやってた時に死ぬほど面倒だった、、、\nAppArmor派は少ないんですかね？自分は使ったことないんで使用感みたいなの聞きたいです！",
     "client_msg_id": "20049cb4-5cd1-4ef2-926f-a29eda402cbe",
-    "name": "",
-    "img": "",
+    "name": "redohagi127",
+    "img": "https://avatars.slack-edge.com/2021-03-07/1824244509366_870cdef2c6261c959069_24.jpg",
     "time": "2021/03/09 10:46:50",
     "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1615252553089700"
   },
@@ -156,8 +165,8 @@
     "user": "U01QTK2CP3K",
     "text": "おはようございます！たくさんの返信ありがとうございます！\n\nbiosに関してはパスワード設定しておりますね。ブート時に要求するようにしてます。\nvpnに関しては失念してました、、、ありがとうございます。EgdeRouterに頑張ってもらおうかなと思います。\nセキュリティツールに関しては何導入しようかな～って感じですね、、、片っ端から入れるのもなんかあれなので、おすすめのツールとかあったら教えてほしいです！\nsshはポート変更して、rootログインオフ（そもそもrootパスワードをロックしている）して、パスワードとed15519での二段階認証にしてます。\nブラウザハッキングに関してはあんまり考えてなかったですね、、、でもここは利便性とのトレードオフと半分ぐらい割り切ろうかな～と。jsはデフォで切ってますが、cookieは切るの面倒ですし、、、\nサイオスさん、、、なんと、こんな有益なブログがあるとは、、、知りませんでした。ありがとうございます！拝見させていただきます！",
     "client_msg_id": "c780b1a2-27bd-4ff2-97e0-b3af1504da09",
-    "name": "",
-    "img": "",
+    "name": "redohagi127",
+    "img": "https://avatars.slack-edge.com/2021-03-07/1824244509366_870cdef2c6261c959069_24.jpg",
     "time": "2021/03/08 13:20:35",
     "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1615152434056500"
   },
@@ -237,8 +246,8 @@
     "user": "U01QTK2CP3K",
     "text": "こんにちはです～\n\n早速質問、というかアドバイスを聞きたいです。\n\n当方lap-topにarchを入れているのですが、持ち運べるということもあり、なるだけセキュリティ性能を上げたいです。\n現状で自分が行っていることは以下の通りです。\n\n・ストレージはOS用とデータ用で物理的に分離し、データ用は「/home」にマウント。OS用はdm-cryptでパスコード(10桁以上、英数記号混在)を使用し暗号化。データ用はdm-cryptキーファイル(ランダム生成、十分なビット長)で暗号化。\n・firewalldで使用port以外のパケットはdrop\n・SElinux有効化\n・clamAVで定期的にスキャン\n\nほかに「これもやった方がいいぞ」的なことがあれば教えていただければと、、、",
     "client_msg_id": "f0b8a1c3-7b5b-443d-8af9-0aff9c3d40d3",
-    "name": "",
-    "img": "",
+    "name": "redohagi127",
+    "img": "https://avatars.slack-edge.com/2021-03-07/1824244509366_870cdef2c6261c959069_24.jpg",
     "time": "2021/03/08 00:15:40",
     "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1615119803026400"
   },
@@ -255,8 +264,8 @@
     "user": "U01QTK2CP3K",
     "text": "初めまして、礼儀も作法も未熟な不束者ではございますがよろしくお願いします！",
     "client_msg_id": "38b580c2-afcc-4447-b551-794f15bfe0f2",
-    "name": "",
-    "img": "",
+    "name": "redohagi127",
+    "img": "https://avatars.slack-edge.com/2021-03-07/1824244509366_870cdef2c6261c959069_24.jpg",
     "time": "2021/03/07 20:15:16",
     "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1615111945010900"
   },
