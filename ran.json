@@ -1,11 +1,47 @@
 [
   {
+    "user": "U01HE1ENNJZ",
+    "text": "bitwardenでもいいですが\n個人的オフライン管理最強だと思ってます",
+    "client_msg_id": "3e2891a5-8c32-4406-a403-3d953aed7d2a",
+    "name": "a3784197",
+    "img": "https://avatars.slack-edge.com/2021-01-15/1652242406097_fbfa5b69ffe23ca9a640_24.jpg",
+    "time": "2021/03/09 10:46:49",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1615254253091800"
+  },
+  {
+    "user": "U01HE1ENNJZ",
+    "text": "Androidではkeepassdxを使用してます",
+    "client_msg_id": "282ea685-39a8-46af-9958-b7bd06aaeb77",
+    "name": "a3784197",
+    "img": "https://avatars.slack-edge.com/2021-01-15/1652242406097_fbfa5b69ffe23ca9a640_24.jpg",
+    "time": "2021/03/09 10:46:50",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1615254121090900"
+  },
+  {
+    "user": "U01HE1ENNJZ",
+    "text": "keepassxcをsyncthingで同期",
+    "client_msg_id": "05c4f888-9dd1-483e-bf4c-4883f98a8ffb",
+    "name": "a3784197",
+    "img": "https://avatars.slack-edge.com/2021-01-15/1652242406097_fbfa5b69ffe23ca9a640_24.jpg",
+    "time": "2021/03/09 10:46:50",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1615254092090300"
+  },
+  {
+    "user": "U01QTK2CP3K",
+    "text": "SElinuxはやはりarchでは使いにくいですね、、、まぁarchに限らずなんですけど。しかも今自分の環境見てみたらkernelパラメータでオンにしてなかった、、、そしてオンにしたら起動できなくなるという始末、、、SElinuxやはり使いにくい\n、、、\nlinux-hardenedは初期イントール時点でミスりまして導入してないですね、、、導入します。kernelの変更って途中からできるのかわからないけど調べてみます。\nサンドボックス化はやったことがないので試してみます。\nパスワードマネージャ使ったことがないのでお勧めとかありますか？参考までに聞きたいです！\nセキュアブートとかセキュリティチップとかはさすがに面倒ですかね、、、というかarchってセキュアブートできるんですか？\nストレージのreadonly化はなんだかんだで面倒なんで、、、raspiやってた時に死ぬほど面倒だった、、、\nAppArmor派は少ないんですかね？自分は使ったことないんで使用感みたいなの聞きたいです！",
+    "client_msg_id": "20049cb4-5cd1-4ef2-926f-a29eda402cbe",
+    "name": "",
+    "img": "",
+    "time": "2021/03/09 10:46:50",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1615252553089700"
+  },
+  {
     "user": "U0PM6EYR1",
     "text": "AppArmor 派の人は居ないんですかね？",
     "client_msg_id": "528234e3-d4a1-4d6d-8b14-fc177aa05a79",
     "name": "raa0121",
     "img": "https://secure.gravatar.com/avatar/35b032d7b2d4182b0c2de1ef85ba91f2.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0009-24.png",
-    "time": "2021/03/08 17:24:31",
+    "time": "2021/03/09 10:46:51",
     "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1615191238073400"
   },
   {
