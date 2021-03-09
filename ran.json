@@ -1,11 +1,38 @@
 [
   {
+    "user": "U017BNGTHT3",
+    "text": "&gt; セキュリティ周り\nうちも普段使いのArch環境は一応dm-cryptで暗号化してFW効かせるぐらいはしてますね。\nSElinuxとclamAVは外部的にサービス提供とかしてなければそこまでしなくても…って感じで使ってないです。\n\n&gt; ほかに「これもやった方がいいぞ」的なこと\n多分やってらっしゃると思いますが、定期的にバックアップはしたいところですね。(暗号化してるなら特に)\nパスフレーズ覚えててもキーファイル消しちゃったとか、そういう事故は起こり得るので…\nキーファイル消しちゃった対策としてめっちゃ長いパスフレーズをサブで設定しておいて、それを物理で家に保管とかもアリかも。",
+    "client_msg_id": "42c01e31-4a66-42f3-b8ab-3129530d7080",
+    "name": "s5is",
+    "img": "https://avatars.slack-edge.com/2020-11-29/1531495219589_cf6a2f80ce7bb820ba38_24.png",
+    "time": "2021/03/09 12:16:46",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1615259162111700"
+  },
+  {
+    "user": "U01QTK2CP3K",
+    "text": "やっぱりセキュアブートには署名が必要ですね、、、ものすごく面倒。不正ブートして情報盗んでくるぐらいやばいやつに遭遇したらあきらめよう\nsystemdがSElinuxで汚れてても動きますかね？というかまぁそこまでやるなら最初からtailsにしろというね、確かに、、、\nでもやっぱりそこは利便性をとって保留ですね、、、もっと情報漏洩に厳しい環境に行ったら考えます。",
+    "client_msg_id": "80b7cf6b-da40-4e5c-b1a6-fb79772437d3",
+    "name": "",
+    "img": "",
+    "time": "2021/03/09 12:16:47",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1615259107111500"
+  },
+  {
+    "user": "U01J1GGMHDJ",
+    "text": "日々realtime kernelとgeneric kernelを反復横飛びしている人が通ります…（ubuntuのkernelもarchから起動したりもしている…）\nセキュアブートに関してはwikiにまとまっているから出来そう :thinking_face: （面倒なのでやりたくはない）\nセキュアブート - ArchWiki <https://wiki.archlinux.jp/index.php/%E3%82%BB%E3%82%AD%E3%83%A5%E3%82%A2%E3%83%96%E3%83%BC%E3%83%88>\nreadonly化というかoverlayfs rootはsystemdをフル活用すれば簡単だったりするかも？ここに載ってる手順でやってます。 <https://forum.manjaro.org/t/netboot-an-rpi4-with-manjaro/42343/14>\nsystemdの犬になりたくない人はこれ参考にすれば出来そう（ラズパイ特有の設定みたいなものはkernel option以外特に無かったりする） nils-werner/raspi-overlayroot: Protect your SD card against wear and tear <https://github.com/nils-werner/raspi-overlayroot> （readonly化するくらいならtailsで良くない？wow wow）\n何か新しいパッケージを入れたい時などはゴリゴリchrootで頑張ってます… rsyncを使って一時的に同期するのも一つの手としてはある。",
+    "client_msg_id": "063447f1-408d-45f9-a0de-2e1a7a05b2c4",
+    "name": "naokihirokitomoki",
+    "img": "https://avatars.slack-edge.com/2021-01-01/1607396797362_a9967cc229f49d114f8a_24.jpg",
+    "time": "2021/03/09 12:16:47",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1615257033097800"
+  },
+  {
     "user": "U01HE1ENNJZ",
     "text": "bitwardenでもいいですが\n個人的オフライン管理最強だと思ってます",
     "client_msg_id": "3e2891a5-8c32-4406-a403-3d953aed7d2a",
     "name": "a3784197",
     "img": "https://avatars.slack-edge.com/2021-01-15/1652242406097_fbfa5b69ffe23ca9a640_24.jpg",
-    "time": "2021/03/09 10:46:49",
+    "time": "2021/03/09 12:16:47",
     "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1615254253091800"
   },
   {
