@@ -1,11 +1,29 @@
 [
   {
+    "user": "U01HE1ENNJZ",
+    "text": "署名済みshimです",
+    "client_msg_id": "fcfc759d-6e6c-4c76-85ce-30a1f55521e1",
+    "name": "a3784197",
+    "img": "https://avatars.slack-edge.com/2021-01-15/1652242406097_fbfa5b69ffe23ca9a640_24.jpg",
+    "time": "2021/03/10 11:30:49",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1615342300127200"
+  },
+  {
+    "user": "U01HE1ENNJZ",
+    "text": "昨日セキュアブートしてみたのですが\nカーネルのハッシュ登録しなくとも行けちゃったんですがどうしてでしょう？",
+    "client_msg_id": "2e96968f-5fbc-40b1-a67a-455d174e3663",
+    "name": "a3784197",
+    "img": "https://avatars.slack-edge.com/2021-01-15/1652242406097_fbfa5b69ffe23ca9a640_24.jpg",
+    "time": "2021/03/10 11:30:50",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1615342269127000"
+  },
+  {
     "user": "U257W41DW",
     "text": "セキュアブートしないとネットワーク通信できなくなるマシン使ってるので GRUB とカーネルに署名してセキュアブートで起動してるけど、\nArch は pacman と mkinitcpio のおかげでセキュアブートも TPM も設定しやすいほうだと思う。",
     "client_msg_id": "2305af52-62f6-40d9-a3d4-0e1408e292de",
     "name": "odknt",
     "img": "https://secure.gravatar.com/avatar/5d54349749764603ddcf7f370f8c3d18.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0015-24.png",
-    "time": "2021/03/10 04:13:17",
+    "time": "2021/03/10 11:30:50",
     "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1615315880122800"
   },
   {
