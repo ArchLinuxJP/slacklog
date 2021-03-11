@@ -1,11 +1,20 @@
 [
   {
+    "user": "U3P09A8SX",
+    "text": "今更遅れてですが、セキュリティでここまで上がってなさそうで個人的にやっている話をすると\n\nAWS CLI を普段使いしてますが、クレデンシャルは pass で保存しています。公式では ~/.aws/credentials に平文で格納させるよう言っていますがそれは使わず、必要なときだけ pass から取得したものを環境変数として保持させています。\nでもパスワードマネージャは普段 keepass を使ってます。pass は単に CLI アクセスが楽そうだったからという。今から使い始めるなら bitwarden がいいかもですね。\n\nまた GPG 鍵管理はスタンドアローンな鍵管理マシンを Raspberry Pi で作ってそこでやってます。なおマスターキーの秘密鍵は Arch 機には置いていません。GPG もアルゴリズムは Ed25519 を採用。\n\n出先から母艦（Arch デスクトップ）への SSH については、踏み台サーバのところで鍵 + Google Authenticator による二段階認証をかましています。が、そもそも最近は外出控えてるので出番がありません…。",
+    "client_msg_id": "51a3a799-8e4e-4cc6-81d7-ccff41138bc0",
+    "name": "xorphitus",
+    "img": "https://secure.gravatar.com/avatar/89b7112b39cc8b2a277eb5c7fb27a343.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0021-24.png",
+    "time": "2021/03/11 16:16:40",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1615443589135700"
+  },
+  {
     "user": "U01QTK2CP3K",
     "text": "色々教えていただきありがとうございます！大変参考になりました。\n全てではないですが導入して、ある程度固まったらqiitaにでもまとめてみます。",
     "client_msg_id": "ee1c4607-35b7-428e-a4d2-fe2b8b488a0a",
     "name": "redohagi127",
     "img": "https://avatars.slack-edge.com/2021-03-07/1824244509366_870cdef2c6261c959069_24.jpg",
-    "time": "2021/03/10 22:19:15",
+    "time": "2021/03/11 16:16:40",
     "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1615380899134200"
   },
   {
