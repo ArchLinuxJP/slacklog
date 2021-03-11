@@ -1,11 +1,38 @@
 [
   {
+    "user": "U70QDFN82",
+    "text": "Keepassからbitwardenに乗り換えようと思って半年経ちました・・・",
+    "client_msg_id": "6367892f-bccc-4df4-8957-80bf2957590f",
+    "name": "yutakatay",
+    "img": "https://avatars.slack-edge.com/2020-08-16/1302143736069_0baa468f7bea68e827d9_24.png",
+    "time": "2021/03/11 17:27:49",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1615449939137800"
+  },
+  {
+    "user": "U0GFBAM8U",
+    "text": "keepassってモバイルアプリはどれがいいんでしょう\nもしくは使って大丈夫なものなのだろうか",
+    "client_msg_id": "97712909-CB73-4AF7-9778-F2ECBAFFC2B5",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2021/03/11 17:27:49",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1615449927137500"
+  },
+  {
+    "user": "U0GFBAM8U",
+    "text": "私もkeepass使ってます",
+    "client_msg_id": "CF0F6F61-767A-4E23-AEDD-3AFB2F99E25C",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2021/03/11 17:27:50",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1615449874136300"
+  },
+  {
     "user": "U3P09A8SX",
     "text": "今更遅れてですが、セキュリティでここまで上がってなさそうで個人的にやっている話をすると\n\nAWS CLI を普段使いしてますが、クレデンシャルは pass で保存しています。公式では ~/.aws/credentials に平文で格納させるよう言っていますがそれは使わず、必要なときだけ pass から取得したものを環境変数として保持させています。\nでもパスワードマネージャは普段 keepass を使ってます。pass は単に CLI アクセスが楽そうだったからという。今から使い始めるなら bitwarden がいいかもですね。\n\nまた GPG 鍵管理はスタンドアローンな鍵管理マシンを Raspberry Pi で作ってそこでやってます。なおマスターキーの秘密鍵は Arch 機には置いていません。GPG もアルゴリズムは Ed25519 を採用。\n\n出先から母艦（Arch デスクトップ）への SSH については、踏み台サーバのところで鍵 + Google Authenticator による二段階認証をかましています。が、そもそも最近は外出控えてるので出番がありません…。",
     "client_msg_id": "51a3a799-8e4e-4cc6-81d7-ccff41138bc0",
     "name": "xorphitus",
     "img": "https://secure.gravatar.com/avatar/89b7112b39cc8b2a277eb5c7fb27a343.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0021-24.png",
-    "time": "2021/03/11 16:16:40",
+    "time": "2021/03/11 17:27:50",
     "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1615443589135700"
   },
   {
