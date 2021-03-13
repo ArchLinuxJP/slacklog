@@ -1,11 +1,20 @@
 [
   {
+    "user": "U0108ASA482",
+    "text": "windows10とarchをそれぞれ別ディスクにインストールしてデュアルブートする場合について質問です。\narchの`/boot`は別ディスクのespパーティションをマウントしても大丈夫ですか？\n例えば\nwindows10が`/dev/sda`にインストールされ、ESPパーティションが`/dev/sda1`だとして\narchを`/dev/sdb/`にインストールする際`mount　/dev/sda1　/boot`　とし、`bootctl　path=/boot　install`をする　みたいな",
+    "client_msg_id": "47E1C70E-C9DB-4143-B326-C7F8182C2DE5",
+    "name": "watakushide.kakusanak",
+    "img": "https://avatars.slack-edge.com/2020-03-24/1022787421638_51c1c354f07e3329d045_24.png",
+    "time": "2021/03/13 21:34:29",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1615637980012900"
+  },
+  {
     "user": "UQDJXPHJ9",
     "text": "今はWindowsのbootパーティションをそのまま使っています。\nESPを `/boot/efi` 等に移す場合、このWindowsのbootパーティションとは他にパーティションを切るという理解であっていますか？\n又、rEFIndを使っているのですが、パーティションを分けた後は `refind-install`で問題ないですか？",
     "client_msg_id": "cc35d08f-3865-4261-a359-c34c5a8dc488",
     "name": "cj.bc-sd",
     "img": "https://avatars.slack-edge.com/2019-11-12/821749881793_703a47a248d9e731dc3f_24.jpg",
-    "time": "2021/03/08 00:21:23",
+    "time": "2021/03/13 21:34:29",
     "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1615129846044600"
   },
   {
@@ -490,7 +499,7 @@
     "text": "LXQt、\n・ログイン時に文字が表示されない\n・ログイン後に真っ暗な画面のまま進まない\n状態",
     "client_msg_id": "38216770-c901-4f75-868c-27f3930d7a0b",
     "name": "0w3kitten",
-    "img": "https://avatars.slack-edge.com/2021-01-19/1647738299443_8d700b59b339375044a3_24.png",
+    "img": "https://avatars.slack-edge.com/2021-03-10/1827929603303_ad6bacb2712356e61010_24.png",
     "time": "2021/01/24,01:33:02",
     "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1611451982001000"
   },
@@ -499,7 +508,7 @@
     "text": "たしかに参考にしたサイトほとんどVMwareでやってましたね…\nVBoxの改善に期待します。",
     "client_msg_id": "e1cdf053-1bcf-4d16-b82b-6b6758fed8d5",
     "name": "0w3kitten",
-    "img": "https://avatars.slack-edge.com/2021-01-19/1647738299443_8d700b59b339375044a3_24.png",
+    "img": "https://avatars.slack-edge.com/2021-03-10/1827929603303_ad6bacb2712356e61010_24.png",
     "time": "2021/01/20,02:32:25",
     "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1611109945088900"
   },
@@ -526,7 +535,7 @@
     "text": "すみません。邪魔かもと思ったので一部削除しました",
     "client_msg_id": "69032f74-f207-40e3-99c8-91e29a2d3daa",
     "name": "0w3kitten",
-    "img": "https://avatars.slack-edge.com/2021-01-19/1647738299443_8d700b59b339375044a3_24.png",
+    "img": "https://avatars.slack-edge.com/2021-03-10/1827929603303_ad6bacb2712356e61010_24.png",
     "time": "2021/01/19,10:53:43",
     "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1611053623086700"
   },
@@ -535,7 +544,7 @@
     "text": "あー、確かにそれはあるかもしれません。\n公式サイトとかだとShellからefiを実行する方法がありましたがやっても反応なかったですし。",
     "client_msg_id": "a0f997dc-5c49-4619-b4df-9675191de005",
     "name": "0w3kitten",
-    "img": "https://avatars.slack-edge.com/2021-01-19/1647738299443_8d700b59b339375044a3_24.png",
+    "img": "https://avatars.slack-edge.com/2021-03-10/1827929603303_ad6bacb2712356e61010_24.png",
     "time": "2021/01/19,10:52:58",
     "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1611053578085800"
   },
@@ -553,7 +562,7 @@
     "text": "名前変えたりstartup.nsh変えたり色々試しましたが無理でした。\n今のところは諦めます。",
     "client_msg_id": "02dfd3c4-3b50-426f-8ebb-f6038b8df919",
     "name": "0w3kitten",
-    "img": "https://avatars.slack-edge.com/2021-01-19/1647738299443_8d700b59b339375044a3_24.png",
+    "img": "https://avatars.slack-edge.com/2021-03-10/1827929603303_ad6bacb2712356e61010_24.png",
     "time": "2021/01/19,08:33:27",
     "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1611045207084000"
   },
@@ -562,7 +571,7 @@
     "text": "かなり厳しい",
     "client_msg_id": "53586f18-9424-4fdf-99f9-8d7d420b86e9",
     "name": "0w3kitten",
-    "img": "https://avatars.slack-edge.com/2021-01-19/1647738299443_8d700b59b339375044a3_24.png",
+    "img": "https://avatars.slack-edge.com/2021-03-10/1827929603303_ad6bacb2712356e61010_24.png",
     "time": "2021/01/19,08:07:10",
     "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1611043630082600"
   },
@@ -571,7 +580,7 @@
     "text": "startup.nsh から指定しないといけないらしいですね",
     "client_msg_id": "f98d1008-8715-4f66-a049-e73ae2b26bb0",
     "name": "0w3kitten",
-    "img": "https://avatars.slack-edge.com/2021-01-19/1647738299443_8d700b59b339375044a3_24.png",
+    "img": "https://avatars.slack-edge.com/2021-03-10/1827929603303_ad6bacb2712356e61010_24.png",
     "time": "2021/01/19,07:53:29",
     "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1611042809081500"
   },
@@ -598,7 +607,7 @@
     "text": "はい。VBはUEFIの場合決まった名前のファイルからしかブートできないとチラッと聞いたのでこれかもしれません",
     "client_msg_id": "0b75f30f-9e8b-4a19-9428-4aca959a22a8",
     "name": "0w3kitten",
-    "img": "https://avatars.slack-edge.com/2021-01-19/1647738299443_8d700b59b339375044a3_24.png",
+    "img": "https://avatars.slack-edge.com/2021-03-10/1827929603303_ad6bacb2712356e61010_24.png",
     "time": "2021/01/19,07:26:29",
     "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1611041189075900"
   },
@@ -616,7 +625,7 @@
     "text": "もしやこれか？\n<https://bbs.archlinux.org/viewtopic.php?id=158003>",
     "client_msg_id": "c0edd81e-b944-4bfe-b972-1ef15224a4f8",
     "name": "0w3kitten",
-    "img": "https://avatars.slack-edge.com/2021-01-19/1647738299443_8d700b59b339375044a3_24.png",
+    "img": "https://avatars.slack-edge.com/2021-03-10/1827929603303_ad6bacb2712356e61010_24.png",
     "time": "2021/01/19,07:24:36",
     "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1611041076074800"
   },
@@ -625,7 +634,7 @@
     "text": "普通のインストールはダメっぽい\n全部のファイルをEFI内に入れる方法試します",
     "client_msg_id": "007ff92c-5d68-4943-ad99-0c70abec5eb0",
     "name": "0w3kitten",
-    "img": "https://avatars.slack-edge.com/2021-01-19/1647738299443_8d700b59b339375044a3_24.png",
+    "img": "https://avatars.slack-edge.com/2021-03-10/1827929603303_ad6bacb2712356e61010_24.png",
     "time": "2021/01/19,07:02:59",
     "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1611039779074400"
   },
@@ -661,7 +670,7 @@
     "text": "systemd-boot難しいのでGRUB戻ります",
     "client_msg_id": "ae0cb185-04a3-469a-8475-a059d3036922",
     "name": "0w3kitten",
-    "img": "https://avatars.slack-edge.com/2021-01-19/1647738299443_8d700b59b339375044a3_24.png",
+    "img": "https://avatars.slack-edge.com/2021-03-10/1827929603303_ad6bacb2712356e61010_24.png",
     "time": "2021/01/19,04:47:41",
     "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1611031661071100"
   },
@@ -670,7 +679,7 @@
     "text": "512Mにしたらあっさり通りました",
     "client_msg_id": "684d54bc-99e6-4a61-8ee8-56f7d19604de",
     "name": "0w3kitten",
-    "img": "https://avatars.slack-edge.com/2021-01-19/1647738299443_8d700b59b339375044a3_24.png",
+    "img": "https://avatars.slack-edge.com/2021-03-10/1827929603303_ad6bacb2712356e61010_24.png",
     "time": "2021/01/19,04:28:25",
     "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1611030505070500"
   },
@@ -679,7 +688,7 @@
     "text": "今調べたらミスで256Mにしてた\nそらエラーにもなる",
     "client_msg_id": "683dfda2-80b1-4a0c-aae1-584d7e780d02",
     "name": "0w3kitten",
-    "img": "https://avatars.slack-edge.com/2021-01-19/1647738299443_8d700b59b339375044a3_24.png",
+    "img": "https://avatars.slack-edge.com/2021-03-10/1827929603303_ad6bacb2712356e61010_24.png",
     "time": "2021/01/19,04:25:48",
     "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1611030348070200"
   },
@@ -706,7 +715,7 @@
     "text": "ちょっとbootのサイズ大きくします",
     "client_msg_id": "ba43eecd-b0aa-4c70-9a17-cfca729c57a2",
     "name": "0w3kitten",
-    "img": "https://avatars.slack-edge.com/2021-01-19/1647738299443_8d700b59b339375044a3_24.png",
+    "img": "https://avatars.slack-edge.com/2021-03-10/1827929603303_ad6bacb2712356e61010_24.png",
     "time": "2021/01/19,04:23:52",
     "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1611030232069100"
   },
@@ -715,7 +724,7 @@
     "text": "-s1指定でもclusterエラー吐く",
     "client_msg_id": "98d8340d-ff89-47a7-a220-75a928c7e9c8",
     "name": "0w3kitten",
-    "img": "https://avatars.slack-edge.com/2021-01-19/1647738299443_8d700b59b339375044a3_24.png",
+    "img": "https://avatars.slack-edge.com/2021-03-10/1827929603303_ad6bacb2712356e61010_24.png",
     "time": "2021/01/19,04:20:48",
     "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1611030048068600"
   },
@@ -751,7 +760,7 @@
     "text": "Gdiskだと\nThis option deletes all partitions and creates a new protective MBR.\nGPT指定してもこうなるんですが、これ正常ですか？",
     "client_msg_id": "b798c4a4-2422-4dab-a7c0-497958ba01fa",
     "name": "0w3kitten",
-    "img": "https://avatars.slack-edge.com/2021-01-19/1647738299443_8d700b59b339375044a3_24.png",
+    "img": "https://avatars.slack-edge.com/2021-03-10/1827929603303_ad6bacb2712356e61010_24.png",
     "time": "2021/01/19,04:15:57",
     "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1611029757066700"
   },
@@ -760,7 +769,7 @@
     "text": "ブートはsystemd-bootでEFIやってみます。",
     "client_msg_id": "837a1a2e-899d-4a99-8093-1c1e632fa944",
     "name": "0w3kitten",
-    "img": "https://avatars.slack-edge.com/2021-01-19/1647738299443_8d700b59b339375044a3_24.png",
+    "img": "https://avatars.slack-edge.com/2021-03-10/1827929603303_ad6bacb2712356e61010_24.png",
     "time": "2021/01/19,04:13:26",
     "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1611029606066100"
   },
@@ -769,7 +778,7 @@
     "text": "少しセットアップしたら次はEFI環境でも試してみます",
     "client_msg_id": "00adb882-f96c-4768-ac02-1eefc72965d4",
     "name": "0w3kitten",
-    "img": "https://avatars.slack-edge.com/2021-01-19/1647738299443_8d700b59b339375044a3_24.png",
+    "img": "https://avatars.slack-edge.com/2021-03-10/1827929603303_ad6bacb2712356e61010_24.png",
     "time": "2021/01/19,03:54:16",
     "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1611028456065000"
   },
@@ -787,7 +796,7 @@
     "text": "ありがとうございます。",
     "client_msg_id": "451086f5-955b-4dba-87f9-252921d178f0",
     "name": "0w3kitten",
-    "img": "https://avatars.slack-edge.com/2021-01-19/1647738299443_8d700b59b339375044a3_24.png",
+    "img": "https://avatars.slack-edge.com/2021-03-10/1827929603303_ad6bacb2712356e61010_24.png",
     "time": "2021/01/19,03:53:09",
     "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1611028389063900"
   },
@@ -805,7 +814,7 @@
     "text": "なんとなく方向性は見えたので試してみます",
     "client_msg_id": "9dd6dbb5-82d2-4939-9fc9-3ece843f603a",
     "name": "0w3kitten",
-    "img": "https://avatars.slack-edge.com/2021-01-19/1647738299443_8d700b59b339375044a3_24.png",
+    "img": "https://avatars.slack-edge.com/2021-03-10/1827929603303_ad6bacb2712356e61010_24.png",
     "time": "2021/01/19,03:41:55",
     "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1611027715061800"
   },
@@ -850,7 +859,7 @@
     "text": "今Wikiみました。納得です",
     "client_msg_id": "90367559-fd9a-49f7-959a-3dac864a0294",
     "name": "0w3kitten",
-    "img": "https://avatars.slack-edge.com/2021-01-19/1647738299443_8d700b59b339375044a3_24.png",
+    "img": "https://avatars.slack-edge.com/2021-03-10/1827929603303_ad6bacb2712356e61010_24.png",
     "time": "2021/01/19,03:36:50",
     "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1611027410059200"
   },
@@ -877,7 +886,7 @@
     "text": "の時のフォーマットって何が適切なんでしょ",
     "client_msg_id": "c570f754-e992-40c6-8e3a-bf918559078c",
     "name": "0w3kitten",
-    "img": "https://avatars.slack-edge.com/2021-01-19/1647738299443_8d700b59b339375044a3_24.png",
+    "img": "https://avatars.slack-edge.com/2021-03-10/1827929603303_ad6bacb2712356e61010_24.png",
     "time": "2021/01/19,03:35:09",
     "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1611027309055900"
   },
@@ -895,7 +904,7 @@
     "text": "BIOS",
     "client_msg_id": "8b4a496c-0300-44f9-9854-7e8fd3b0deea",
     "name": "0w3kitten",
-    "img": "https://avatars.slack-edge.com/2021-01-19/1647738299443_8d700b59b339375044a3_24.png",
+    "img": "https://avatars.slack-edge.com/2021-03-10/1827929603303_ad6bacb2712356e61010_24.png",
     "time": "2021/01/19,03:34:57",
     "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1611027297055200"
   },
