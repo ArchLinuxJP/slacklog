@@ -1,11 +1,38 @@
 [
   {
     "user": "U0108ASA482",
-    "text": "windows10とarchをそれぞれ別ディスクにインストールしてデュアルブートする場合について質問です。\narchの`/boot`は別ディスクのespパーティションをマウントしても大丈夫ですか？\n例えば\nwindows10が`/dev/sda`にインストールされ、ESPパーティションが`/dev/sda1`だとして\narchを`/dev/sdb/`にインストールする際`mount　/dev/sda1　/boot`　とし、`bootctl　path=/boot　install`をする　みたいな",
+    "text": "windowsが定期的にファイルシステムいじくるの考えると、やはり面倒でもBIOSで逐一切り替えたほうがarchにも精神衛生上も良さそうですね…ありがとうございます",
+    "client_msg_id": "591be282-e48b-45fc-a1fa-3930f3c59348",
+    "name": "watakushide.kakusanak",
+    "img": "https://avatars.slack-edge.com/2020-03-24/1022787421638_51c1c354f07e3329d045_24.png",
+    "time": "2021/03/14 01:36:58",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1615651970018500"
+  },
+  {
+    "user": "U0GFBAM8U",
+    "text": "ただ、私もあまりよくわかってない",
+    "client_msg_id": "0B0D94A4-F5BD-43FF-A4BA-01BF18561B03",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2021/03/14 01:36:59",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1615649377015600"
+  },
+  {
+    "user": "U0GFBAM8U",
+    "text": "使用するブートローダーによるかもしれませんが、基本的にはwinのパーティションには触れない方が良さそうに思います",
+    "client_msg_id": "01D96149-8AD8-4CAB-8D29-0DE7119F6D7A",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2021/03/14 01:36:59",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1615649144015100"
+  },
+  {
+    "user": "U0108ASA482",
+    "text": "windows10とarchをそれぞれ別ディスクにインストールしてデュアルブートする場合について質問です。\narchの`/boot`は別ディスクのespパーティションをマウントしても大丈夫ですか？\n例えば\nwindows10が`/dev/sda`にインストールされ、ESPパーティションが`/dev/sda1`だとして\narchを`/dev/sdb`にインストールする際`mount　/dev/sda1　/boot`　とし、`bootctl　path=/boot　install`をする　みたいな",
     "client_msg_id": "47E1C70E-C9DB-4143-B326-C7F8182C2DE5",
     "name": "watakushide.kakusanak",
     "img": "https://avatars.slack-edge.com/2020-03-24/1022787421638_51c1c354f07e3329d045_24.png",
-    "time": "2021/03/13 21:34:29",
+    "time": "2021/03/14 01:36:59",
     "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1615637980012900"
   },
   {
