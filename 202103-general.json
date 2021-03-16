@@ -1,11 +1,47 @@
 [
   {
+    "user": "U01HE1ENNJZ",
+    "text": "initramfs-linux.imgを削除しmkinitcpioしましたができないです",
+    "client_msg_id": "4a990ac4-e529-43c6-aa38-adbef5ff5006",
+    "name": "a3784197",
+    "img": "https://avatars.slack-edge.com/2021-01-15/1652242406097_fbfa5b69ffe23ca9a640_24.jpg",
+    "time": "2021/03/16 20:26:24",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1615893650006100"
+  },
+  {
+    "user": "U01HE1ENNJZ",
+    "text": "メインが壊れてるってことですかね\n今linuxとheadersを再インストールしてみましたがメインでは起動しませんでした",
+    "client_msg_id": "b0201d87-4c43-4b32-9c17-568dadc4b911",
+    "name": "a3784197",
+    "img": "https://avatars.slack-edge.com/2021-01-15/1652242406097_fbfa5b69ffe23ca9a640_24.jpg",
+    "time": "2021/03/16 20:26:24",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1615893003005100"
+  },
+  {
+    "user": "U01HE1ENNJZ",
+    "text": "なぜかfallback initrdで起動しました",
+    "client_msg_id": "5cb5d70f-c0dd-4adc-9399-4c7f09881450",
+    "name": "a3784197",
+    "img": "https://avatars.slack-edge.com/2021-01-15/1652242406097_fbfa5b69ffe23ca9a640_24.jpg",
+    "time": "2021/03/16 20:26:24",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1615892960003800"
+  },
+  {
+    "user": "U01HE1ENNJZ",
+    "text": "`➜ pacman -Q linux\nlinux 5.11.6.arch1-1`\nintel i5 8256u\nintel uhd graphics 620で最新版linuxカーネル(stable)を起動したら\n<https://twitter.com/a266_u0/status/1371766443151224832?s=20>\nこれが出て起動しませんでした`mkinitcpio -P`もしました\n前に正常に起動していたときには\n<https://twitter.com/a266_u0/status/1371765487563022336?s=20>\nこれが出ました\nlts切り替えで治りましたが同様の症状の人いますか？",
+    "client_msg_id": "88c6454c-6a91-4d97-824f-c71cee6cd520",
+    "name": "a3784197",
+    "img": "https://avatars.slack-edge.com/2021-01-15/1652242406097_fbfa5b69ffe23ca9a640_24.jpg",
+    "time": "2021/03/16 20:26:25",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1615890976003200"
+  },
+  {
     "user": "UPLFHSQ2V",
     "text": "<https://www.reddit.com/r/archlinux/comments/m44cls/warning_systemdresolved_2474_testing_breaks_dns>\n:eyes:",
     "client_msg_id": "cb03709b-9ead-4070-8058-97ca25a200b6",
     "name": "conao3",
     "img": "https://secure.gravatar.com/avatar/1a9a49807415fb97544a7383a9288b84.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0006-24.png",
-    "time": "2021/03/14 11:36:23",
+    "time": "2021/03/16 20:26:25",
     "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1615683793018700"
   },
   {
