@@ -1,11 +1,20 @@
 [
   {
+    "user": "U01HE1ENNJZ",
+    "text": "そういえば昨日からsoft lockupではなく\nLoading initial ramdisk...で何も出ず止まってます",
+    "client_msg_id": "00004b7c-e7ce-4821-9840-e4cf0a0f7293",
+    "name": "a3784197",
+    "img": "https://avatars.slack-edge.com/2021-01-15/1652242406097_fbfa5b69ffe23ca9a640_24.jpg",
+    "time": "2021/03/17 09:58:19",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1615937920001500"
+  },
+  {
     "user": "U01J1GGMHDJ",
     "text": "根本的解決ではなさそうだけど、kernel parameterにnosoftlockup入れたら取り敢えずは起動しそう（未検証）",
     "client_msg_id": "7d04a1ff-1027-4314-a2d7-e216890f00ba",
     "name": "naokihirokitomoki",
     "img": "https://avatars.slack-edge.com/2021-01-01/1607396797362_a9967cc229f49d114f8a_24.jpg",
-    "time": "2021/03/16 22:30:43",
+    "time": "2021/03/17 09:58:20",
     "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1615900590008000"
   },
   {
