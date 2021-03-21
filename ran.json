@@ -1,11 +1,74 @@
 [
   {
+    "user": "U0GFBAM8U",
+    "text": "インライン入力が有効でない場合、カーソル下に表示されるサジェストウィンドウみたいなところでしか入力してる文字が確認できない感じ",
+    "client_msg_id": "2c58bcdc-8600-4e47-bd9b-73ebe470afc8",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2021/03/21 10:54:06",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1616291510024700"
+  },
+  {
+    "user": "U0GFBAM8U",
+    "text": "入力と同時にカーソル上に入力した文字が反映されることだと思われます。\nfctixの設定では`アプリケーションにプリエディットを表示する` のチェックを外すと、その動作を確認できます。",
+    "client_msg_id": "ad8533e2-b1af-4f71-a160-667bbec24d7a",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2021/03/21 10:54:06",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1616291407023600"
+  },
+  {
+    "user": "U8T8KB5M4",
+    "text": "前からよくわかってなかったんですがインライン入力ってどういう動作を指しているんでしょうか？",
+    "client_msg_id": "43058df1-daa4-4c12-945e-8ec417031ef7",
+    "name": "h.hata.ai.t",
+    "img": "https://avatars.slack-edge.com/2019-08-19/732537331990_536f34e28226326cb4e8_24.png",
+    "time": "2021/03/21 10:54:07",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1616290746021600"
+  },
+  {
+    "user": "U01HE1ENNJZ",
+    "text": "X11でもいいので",
+    "client_msg_id": "58e9f18c-dadf-4306-b7c4-e90b0c086b20",
+    "name": "a3784197",
+    "img": "https://avatars.slack-edge.com/2021-01-15/1652242406097_fbfa5b69ffe23ca9a640_24.jpg",
+    "time": "2021/03/21 10:54:07",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1616290241020600"
+  },
+  {
+    "user": "U01HE1ENNJZ",
+    "text": "できる方いたら教えてほしいです",
+    "client_msg_id": "3575f0ae-15c1-4146-a171-7dd028f00009",
+    "name": "a3784197",
+    "img": "https://avatars.slack-edge.com/2021-01-15/1652242406097_fbfa5b69ffe23ca9a640_24.jpg",
+    "time": "2021/03/21 10:54:07",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1616290234020300"
+  },
+  {
+    "user": "U01HE1ENNJZ",
+    "text": "できません",
+    "client_msg_id": "58a006f5-8cea-4a06-80cb-96613fe23338",
+    "name": "a3784197",
+    "img": "https://avatars.slack-edge.com/2021-01-15/1652242406097_fbfa5b69ffe23ca9a640_24.jpg",
+    "time": "2021/03/21 10:54:08",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1616288464019700"
+  },
+  {
+    "user": "U0H9QUFA5",
+    "text": "alacrittyはインライン入力ができなかったと思うけど、もしかしてswayならできるの？",
+    "client_msg_id": "292ce902-e452-43b3-af1d-a0b0e2b7cbab",
+    "name": "kusanaginoturugi",
+    "img": "https://secure.gravatar.com/avatar/e927cae947e74def10ee5fbb20859145.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0016-24.png",
+    "time": "2021/03/21 10:54:08",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1616288060019600"
+  },
+  {
     "user": "U01HE1ENNJZ",
     "text": "yutkatさんのqiita記事をみてwayland alacrittyで日本語入力できたのでどうぞ\n<https://qiita.com/yutkat/items/6aa10c9bd1bb71c15636|https://qiita.com/yutkat/items/6aa10c9bd1bb71c15636>",
     "client_msg_id": "00598221-1a38-4eb4-9ab0-eb9239be782d",
     "name": "a3784197",
     "img": "https://avatars.slack-edge.com/2021-01-15/1652242406097_fbfa5b69ffe23ca9a640_24.jpg",
-    "time": "2021/03/21 09:45:09",
+    "time": "2021/03/21 10:54:08",
     "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1616286189018400"
   },
   {
