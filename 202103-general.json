@@ -1,11 +1,20 @@
 [
   {
+    "user": "U015CDRQDD0",
+    "text": "すみません　今Archを入れようとしているのですが、いくつか質問があります。\narchを現在も利用していますが、他人のblogなどを軽く漁ってインストールした(`/boot`は暗号化せず`/`だけ暗号化)ので当方知識が浅く頓珍漢なこと聞いてるかも知れないですが\n答えて貰えると助かります。\n\n<https://wiki.archlinux.jp/index.php/Dm-crypt/%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0%E5%85%A8%E4%BD%93%E3%81%AE%E6%9A%97%E5%8F%B7%E5%8C%96#boot_.E3.83.91.E3.83.BC.E3.83.86.E3.82.A3.E3.82.B7.E3.83.A7.E3.83.B3.E3.81.AE.E6.9A.97.E5.8F.B7.E5.8C.96_.28GRUB.29|wikiにある方法(bootと/の暗号化但し/boot/efiは非暗号化)>で入れようとしているのですが、`/boot`と`/`が暗号化されている場合\n`/`→`/boot`の順番に暗号化解除されるのでしょうか？\nその続きの*fstab と crypttab の設定*に記述されている手順1→2→3は、`/`解除後`/boot`は自動解除する設定ということでしょうか?(つまりパスワード入力は`/`だけ行い`/boot`は一度で済ます)\nまた<https://wiki.archlinux.jp/index.php/Dm-crypt/%E7%89%B9%E8%A8%98%E4%BA%8B%E9%A0%85#.E3.83.AA.E3.83.A2.E3.83.BC.E3.83.88_LUKS_.E3.83.98.E3.83.83.E3.83.80.E3.83.BC.E3.82.92.E4.BD.BF.E3.81.A3.E3.81.A6.E3.82.B7.E3.82.B9.E3.83.86.E3.83.A0.E3.82.92.E6.9A.97.E5.8F.B7.E5.8C.96|wikiにあるluks headerを分離する方法>だと`/`のluks headerを`/boot/`に置く訳ですが、この場合`/boot`から解除しないと`/`解除出来なくないでしょうか？",
+    "client_msg_id": "535feb07-b9f2-4b4f-863f-7b8bb5ff2e02",
+    "name": "v3rn3j",
+    "img": "https://secure.gravatar.com/avatar/245992ad0221e323c1397758868d2138.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0002-24.png",
+    "time": "2021/03/26 13:37:43",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1616730528016700"
+  },
+  {
     "user": "U01HE1ENNJZ",
     "text": "そういや/boot配下吹き飛ばしてgrub再インストールしたらなんか治ってました",
     "client_msg_id": "9bdea69b-6baa-4ca1-8fb9-92d0ed68a4aa",
     "name": "a3784197",
     "img": "https://avatars.slack-edge.com/2021-01-15/1652242406097_fbfa5b69ffe23ca9a640_24.jpg",
-    "time": "2021/03/20 09:57:58",
+    "time": "2021/03/26 13:37:43",
     "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1616200982002500"
   },
   {
