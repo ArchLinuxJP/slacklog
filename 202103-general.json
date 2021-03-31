@@ -1,11 +1,20 @@
 [
   {
+    "user": "U257W41DW",
+    "text": "<https://wiki.archlinux.jp/index.php/Dm-crypt/%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0%E5%85%A8%E4%BD%93%E3%81%AE%E6%9A%97%E5%8F%B7%E5%8C%96#.E6.A6.82.E8.A6.81|システム全体の暗号化#概要> に載ってます。\nboot を暗号化してもブートローダーは露出するので、改竄のリスクを避けたいのであればセキュアブートが必要です。",
+    "client_msg_id": "242886e5-9b67-471f-80c5-edaf1a552140",
+    "name": "odknt",
+    "img": "https://secure.gravatar.com/avatar/5d54349749764603ddcf7f370f8c3d18.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0015-24.png",
+    "time": "2021/03/31 10:05:33",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1617148933022300"
+  },
+  {
     "user": "U01HE1ENNJZ",
     "text": "上にある/bootを暗号化するメリットってなんですか？",
     "client_msg_id": "9f8724b8-4a66-4d9d-b8db-a543d3d58c1c",
     "name": "a3784197",
     "img": "https://avatars.slack-edge.com/2021-01-15/1652242406097_fbfa5b69ffe23ca9a640_24.jpg",
-    "time": "2021/03/30 22:31:13",
+    "time": "2021/03/31 10:05:33",
     "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1617108017021500"
   },
   {
