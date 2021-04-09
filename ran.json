@@ -1,11 +1,20 @@
 [
   {
+    "user": "U3FJYR7MG",
+    "text": "もろもろ音量等設定したあとに、\n`sudo alsactl store` で次回起動以降リストアしてくれるかも…？",
+    "client_msg_id": "c41db1fa-0f23-45d4-896e-3e1ddf4e23b1",
+    "name": "dohq",
+    "img": "https://secure.gravatar.com/avatar/743659d990b6f68ef5c104ba8e415ba5.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0021-24.png",
+    "time": "2021/04/09 15:24:37",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1617946905069300"
+  },
+  {
     "user": "UAPRYSVPS",
     "text": "と思ったらなってませんでした…… うーん、 `<http://default.pa|default.pa>` が読み込まれるタイミングでマイクが認識されてないのかな？ USBオーディオコントローラーが噛んでるからモジュールの読み込みまでにインターフェースの認識が間に合わないのかも\n`pacmd set-source-volume @DEFAULT_SOURCE@ 0xffff` で音量変わることはわかったので、bash_profileとかに書いてお茶を濁します :tea:",
     "client_msg_id": "4c9caecc-3806-4822-9a73-8f4f3ee2c8b5",
     "name": "vermilion928",
     "img": "https://avatars.slack-edge.com/2018-11-19/482013000928_74c758375b0d3086d76f_24.png",
-    "time": "2021/04/09 14:24:14",
+    "time": "2021/04/09 15:24:37",
     "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1617945013069000"
   },
   {
