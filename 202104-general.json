@@ -1,11 +1,29 @@
 [
   {
+    "user": "U0GFBAM8U",
+    "text": "こんな感じでデフォルトでxmodmapの配列を指定していて、機能してたんですけど、いつの間にか、xbindkeysの配列がスタートされるようになってた\n`M+C+r`で切り替えてるので、そこまで不便でもないんですけど、スタート時xmodmap配列使いたい",
+    "client_msg_id": "4d8748fa-e86d-4f44-add6-afb13d916924",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2021/04/09 11:42:36",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1617934751049100"
+  },
+  {
+    "user": "U0GFBAM8U",
+    "text": "私もこの前から指定してるキー配列がi3で突然切り替わってしまいました\n```exec --no-startup-id xmodmap ~/.Xmodmap_custom\nbindsym $mod+r exec xbindkeys\nbindsym $mod+Ctrl+r exec pkill xbindkeys &amp; xmodmap ~/.Xmodmap_custom```",
+    "client_msg_id": "04cabd04-4333-4ea9-a8e7-917eab606cc4",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2021/04/09 11:42:36",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1617934538046500"
+  },
+  {
     "user": "U017BNGTHT3",
     "text": "i3なら `setxkbmap jp` とかも効いたはず",
     "client_msg_id": "777a8db3-d5c8-4268-93ff-c275004785a3",
     "name": "s5is",
     "img": "https://avatars.slack-edge.com/2020-11-29/1531495219589_cf6a2f80ce7bb820ba38_24.png",
-    "time": "2021/04/09 10:08:19",
+    "time": "2021/04/09 11:42:36",
     "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1617930114045400"
   },
   {
