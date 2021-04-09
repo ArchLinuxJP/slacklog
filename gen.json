@@ -1,11 +1,56 @@
 [
   {
+    "user": "U017BNGTHT3",
+    "text": "うちのはX270でバッテリー2本な上に、そこまで電源確保が厳しい状態になることが少なくて\nZenカーネルにTLPという省電力を考えてるのか考えてないのかよく分からない状態になってます\n(普通にバッテリーの持ちは良い)",
+    "client_msg_id": "61a2edf1-8837-4e6a-9258-857b4c4ea1c8",
+    "name": "s5is",
+    "img": "https://avatars.slack-edge.com/2020-11-29/1531495219589_cf6a2f80ce7bb820ba38_24.png",
+    "time": "2021/04/09 16:26:03",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1617952818063800"
+  },
+  {
+    "user": "U6DL9D3AB",
+    "text": "私も基本的には tlp任せですね\nそれとデバイス個別にカーネルモジュールのオプションをいくつか試して設定しています\n\npowertop自体は診断用に使ってますが、`--auto-tune` は結構アグレッシブにデバイスの省電力オプションを有効化してくるので、それがもとで不具合が起こるのを嫌って避けてます",
+    "client_msg_id": "D2E33979-2C6B-4497-853D-D71639B626E6",
+    "name": "emtee",
+    "img": "https://avatars.slack-edge.com/2017-08-24/232261947719_1bb4d925e48fdfd0a154_24.png",
+    "time": "2021/04/09 16:26:03",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1617952520060300"
+  },
+  {
+    "user": "U017BNGTHT3",
+    "text": "うちのThinkPadはtlpだけ突っ込んである感じですね。",
+    "client_msg_id": "e5a9c932-0d12-4213-a703-24d9d3bf5540",
+    "name": "s5is",
+    "img": "https://avatars.slack-edge.com/2020-11-29/1531495219589_cf6a2f80ce7bb820ba38_24.png",
+    "time": "2021/04/09 16:26:04",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1617951024052700"
+  },
+  {
+    "user": "U01HE1ENNJZ",
+    "text": "systemdで自動起動するようにしてます",
+    "client_msg_id": "b7fcfdfd-4f04-48eb-adda-f0c6c58c2b0a",
+    "name": "a3784197",
+    "img": "https://avatars.slack-edge.com/2021-01-15/1652242406097_fbfa5b69ffe23ca9a640_24.jpg",
+    "time": "2021/04/09 16:26:04",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1617950061052100"
+  },
+  {
+    "user": "U01HE1ENNJZ",
+    "text": "少電力化って何してますか？\n`powertop --auto-tune`\nは試してみたのですが",
+    "client_msg_id": "483cb9e7-09a2-40d6-9838-8eee9c7733c9",
+    "name": "a3784197",
+    "img": "https://avatars.slack-edge.com/2021-01-15/1652242406097_fbfa5b69ffe23ca9a640_24.jpg",
+    "time": "2021/04/09 16:26:04",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1617950018051700"
+  },
+  {
     "user": "U0GFBAM8U",
     "text": "以前はいけてたので、原因はupdateか何かかな",
     "client_msg_id": "4fe62c70-0616-4e85-9609-2b6399a611f8",
     "name": "syui",
     "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
-    "time": "2021/04/09 12:23:23",
+    "time": "2021/04/09 16:26:05",
     "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1617937349050800"
   },
   {
