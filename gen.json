@@ -1,11 +1,29 @@
 [
   {
     "user": "U0GFBAM8U",
+    "text": "以前はいけてたので、原因はupdateか何かかな",
+    "client_msg_id": "4fe62c70-0616-4e85-9609-2b6399a611f8",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2021/04/09 12:23:23",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1617937349050800"
+  },
+  {
+    "user": "U0GFBAM8U",
+    "text": "いけました\n/.Xmodmap_customを~/.Xmodmapにして、i3から読み込まないようにした(i3からxmodmapはstartupできないぽい?",
+    "client_msg_id": "1634fd93-203d-4561-aa19-9d8dc5a8896d",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2021/04/09 12:23:23",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1617937255050400"
+  },
+  {
+    "user": "U0GFBAM8U",
     "text": "こんな感じでデフォルトでxmodmapの配列を指定していて、機能してたんですけど、いつの間にか、xbindkeysの配列がスタートされるようになってた\n`M+C+r`で切り替えてるので、そこまで不便でもないんですけど、スタート時xmodmap配列使いたい",
     "client_msg_id": "4d8748fa-e86d-4f44-add6-afb13d916924",
     "name": "syui",
     "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
-    "time": "2021/04/09 11:42:36",
+    "time": "2021/04/09 12:23:24",
     "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1617934751049100"
   },
   {
