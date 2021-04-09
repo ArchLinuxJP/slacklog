@@ -1,11 +1,29 @@
 [
   {
+    "user": "UAPRYSVPS",
+    "text": "と思ったらなってませんでした…… うーん、 `<http://default.pa|default.pa>` が読み込まれるタイミングでマイクが認識されてないのかな？ USBオーディオコントローラーが噛んでるからモジュールの読み込みまでにインターフェースの認識が間に合わないのかも\n`pacmd set-source-volume @DEFAULT_SOURCE@ 0xffff` で音量変わることはわかったので、bash_profileとかに書いてお茶を濁します :tea:",
+    "client_msg_id": "4c9caecc-3806-4822-9a73-8f4f3ee2c8b5",
+    "name": "vermilion928",
+    "img": "https://avatars.slack-edge.com/2018-11-19/482013000928_74c758375b0d3086d76f_24.png",
+    "time": "2021/04/09 14:24:14",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1617945013069000"
+  },
+  {
+    "user": "UAPRYSVPS",
+    "text": "わからなくてつらがってたんですけど、 <https://wiki.archlinux.jp/index.php/PulseAudio/%E3%82%B5%E3%83%B3%E3%83%97%E3%83%AB#.E3.83.87.E3.83.95.E3.82.A9.E3.83.AB.E3.83.88.E3.81.AE.E5.85.A5.E5.8A.9B.E3.82.BD.E3.83.BC.E3.82.B9.E3.82.92.E8.A8.AD.E5.AE.9A|https://wiki.archlinux.jp/index.php/PulseAudio/%E3%82%B5%E3%83%B3%E3%83%97%E3%83%AB#.E3.83.87.E3.83.95.E3.82.A9.E3[…]2.B9.E3.82.92.E8.A8.AD.E5.AE.9A> とかを見て `<http://default.pa|default.pa>` に `set-sink-volume` すると出力の音が変えられるっぽい情報が書いてあったので、試しに `set-source-volume` したら音量変えられました！！！！ よかったぁ\n\n`<http://default.pa|default.pa>` 末尾に `set-source-volume @DEFAULT_SOURCE@ 0xffff` としたことでデフォルトのマイクの音量が100%でリストアされるようになりました :microphone: :microphone:",
+    "client_msg_id": "1bbb28db-5605-4750-82e1-fbadedc55c3f",
+    "name": "vermilion928",
+    "img": "https://avatars.slack-edge.com/2018-11-19/482013000928_74c758375b0d3086d76f_24.png",
+    "time": "2021/04/09 14:24:14",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1617944727066400"
+  },
+  {
     "user": "UGA29R3FH",
     "text": "私もそろそろfcitx試してみようかな",
     "client_msg_id": "79a4b54f-2396-4614-b2c9-11aec89a3456",
     "name": "znmxodq1",
     "img": "https://avatars.slack-edge.com/2019-03-08/570571829091_2ca91fb0cc1ed2341fe0_24.png",
-    "time": "2021/04/03 03:34:06",
+    "time": "2021/04/09 14:24:15",
     "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1617387011061100"
   },
   {
