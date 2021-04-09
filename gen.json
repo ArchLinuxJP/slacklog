@@ -1,11 +1,65 @@
 [
   {
+    "user": "U017BNGTHT3",
+    "text": "i3なら `setxkbmap jp` とかも効いたはず",
+    "client_msg_id": "777a8db3-d5c8-4268-93ff-c275004785a3",
+    "name": "s5is",
+    "img": "https://avatars.slack-edge.com/2020-11-29/1531495219589_cf6a2f80ce7bb820ba38_24.png",
+    "time": "2021/04/09 10:08:19",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1617930114045400"
+  },
+  {
+    "user": "U01HE1ENNJZ",
+    "text": "なるほど\nありがとうございます",
+    "client_msg_id": "7c82fb62-03cc-420c-940a-ac4a208996a3",
+    "name": "a3784197",
+    "img": "https://avatars.slack-edge.com/2021-01-15/1652242406097_fbfa5b69ffe23ca9a640_24.jpg",
+    "time": "2021/04/09 10:08:19",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1617929550044500"
+  },
+  {
+    "user": "UBEFL3YLE",
+    "text": "$ fcitx-configtoolで呼び出せるGUI画面から設定できます",
+    "client_msg_id": "be26c3f0-623a-4427-a2ea-3fb2000fb2e9",
+    "name": "mail",
+    "img": "https://secure.gravatar.com/avatar/23a2be2c0c837372158d36ca83743fe5.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0018-24.png",
+    "time": "2021/04/09 10:08:20",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1617929479044200"
+  },
+  {
+    "user": "UBEFL3YLE",
+    "text": "i3wmの方もアプリケーションによってはfcitx-mozcの設定を使っていたはず",
+    "client_msg_id": "aeced8dd-0d54-4042-9ec6-e4940b44d563",
+    "name": "mail",
+    "img": "https://secure.gravatar.com/avatar/23a2be2c0c837372158d36ca83743fe5.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0018-24.png",
+    "time": "2021/04/09 10:08:20",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1617929408043600"
+  },
+  {
+    "user": "UBEFL3YLE",
+    "text": "Gnome（wayland）だとX11のconfよりGnome Settingsやfcitxの配列設定を優先する仕組みだったかと思いますが",
+    "client_msg_id": "4f37f306-df3e-48f3-b727-128c58cb4946",
+    "name": "mail",
+    "img": "https://secure.gravatar.com/avatar/23a2be2c0c837372158d36ca83743fe5.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0018-24.png",
+    "time": "2021/04/09 10:08:20",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1617929227042600"
+  },
+  {
+    "user": "U01HE1ENNJZ",
+    "text": "gnomeのことなのですがX11の設定でjisキー配列使うように設定してたのですが(00-keyboard.conf)\nusキー配列になってしまったのですがどこか設定ファイルありますか？\nwaylandではなくi3wmでもusになってました",
+    "client_msg_id": "1a6ae528-795c-4f09-a994-ba873c65d1aa",
+    "name": "a3784197",
+    "img": "https://avatars.slack-edge.com/2021-01-15/1652242406097_fbfa5b69ffe23ca9a640_24.jpg",
+    "time": "2021/04/09 10:08:21",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1617927442041500"
+  },
+  {
     "user": "U53RAQBCP",
     "text": "`gnome-extensions` でCLI管理もできたはず",
     "client_msg_id": "E89874E4-8418-4753-808E-C7ED7A69E51F",
     "name": "kokopis",
     "img": "https://avatars.slack-edge.com/2021-02-17/1758258964165_98bf0ec770bc4e813fb0_24.png",
-    "time": "2021/04/08 00:27:39",
+    "time": "2021/04/09 10:08:21",
     "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1617806570038900"
   },
   {
