@@ -1,11 +1,20 @@
 [
   {
+    "user": "UD124KPDJ",
+    "text": "↓と同じような状況でL2TP VPN接続できないのですが知見お持ちの方いらっしゃいます?\nSELinuxは入れてないので関係ないと思うのですが....\n<https://bugzilla.redhat.com/show_bug.cgi?id=1889538>\n生のログとしては以下になります\n``` 3月 09 10:09:48 lied systemd[1]: ipsec.service: Scheduled restart job, restart counter is at 2.\n 3月 09 10:09:48 lied systemd[1]: Stopped Internet Key Exchange (IKE) Protocol Daemon for IPsec.\n 3月 09 10:09:48 lied systemd[1]: Starting Internet Key Exchange (IKE) Protocol Daemon for IPsec...\n 3月 09 10:09:49 lied ipsec[31209]: ERROR: destination directory \"/var/lib/ipsec/nss\" is missing or permission denied\n 3月 09 10:09:49 lied systemd[1]: ipsec.service: Control process exited, code=exited, status=1/FAILURE\n 3月 09 10:09:49 lied systemd[1]: ipsec.service: Failed with result 'exit-code'.\n 3月 09 10:09:49 lied systemd[1]: Failed to start Internet Key Exchange (IKE) Protocol Daemon for IPsec.\n\n$ ls -l /var/lib/ipsec/\n合計 4\ndrwxr-xr-x 2 root root 4096  3月  9 10:13 nss```",
+    "client_msg_id": "62da701f-53c5-4b2d-91a2-c487f8f83c87",
+    "name": "claude0803sz",
+    "img": "https://secure.gravatar.com/avatar/dc8d7b0277a1646d6842105241e8bef5.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0022-24.png",
+    "time": "2021/04/13 11:40:21",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1618277127072800"
+  },
+  {
     "user": "U3FJYR7MG",
     "text": "もろもろ音量等設定したあとに、\n`sudo alsactl store` で次回起動以降リストアしてくれるかも…？",
     "client_msg_id": "c41db1fa-0f23-45d4-896e-3e1ddf4e23b1",
     "name": "dohq",
     "img": "https://secure.gravatar.com/avatar/743659d990b6f68ef5c104ba8e415ba5.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0021-24.png",
-    "time": "2021/04/09 15:24:37",
+    "time": "2021/04/13 11:40:22",
     "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1617946905069300"
   },
   {
