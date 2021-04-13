@@ -1,11 +1,20 @@
 [
   {
+    "user": "U0GFBAM8U",
+    "text": "特定のディレクトリ、/nssに権限でアクセスできてないぽいエラーが出てますね",
+    "client_msg_id": "8CC52017-5185-4844-AD75-B676777DC694",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2021/04/14 02:44:13",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1618334109074300"
+  },
+  {
     "user": "UD124KPDJ",
     "text": "↓と同じような状況でL2TP VPN接続できないのですが知見お持ちの方いらっしゃいます?\nSELinuxは入れてないので関係ないと思うのですが....\n<https://bugzilla.redhat.com/show_bug.cgi?id=1889538>\n生のログとしては以下になります\n``` 3月 09 10:09:48 lied systemd[1]: ipsec.service: Scheduled restart job, restart counter is at 2.\n 3月 09 10:09:48 lied systemd[1]: Stopped Internet Key Exchange (IKE) Protocol Daemon for IPsec.\n 3月 09 10:09:48 lied systemd[1]: Starting Internet Key Exchange (IKE) Protocol Daemon for IPsec...\n 3月 09 10:09:49 lied ipsec[31209]: ERROR: destination directory \"/var/lib/ipsec/nss\" is missing or permission denied\n 3月 09 10:09:49 lied systemd[1]: ipsec.service: Control process exited, code=exited, status=1/FAILURE\n 3月 09 10:09:49 lied systemd[1]: ipsec.service: Failed with result 'exit-code'.\n 3月 09 10:09:49 lied systemd[1]: Failed to start Internet Key Exchange (IKE) Protocol Daemon for IPsec.\n\n$ ls -l /var/lib/ipsec/\n合計 4\ndrwxr-xr-x 2 root root 4096  3月  9 10:13 nss```",
     "client_msg_id": "62da701f-53c5-4b2d-91a2-c487f8f83c87",
     "name": "claude0803sz",
     "img": "https://secure.gravatar.com/avatar/dc8d7b0277a1646d6842105241e8bef5.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0022-24.png",
-    "time": "2021/04/13 11:40:21",
+    "time": "2021/04/14 02:44:13",
     "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1618277127072800"
   },
   {
