@@ -1,11 +1,20 @@
 [
   {
+    "user": "UD124KPDJ",
+    "text": "`/var/lib/nss` はreadついているのですが、それでは足りないということでしょうか? :thinking_face:",
+    "client_msg_id": "7cbe0fa6-2984-44b9-aa2c-c4f043a6ad83",
+    "name": "claude0803sz",
+    "img": "https://secure.gravatar.com/avatar/dc8d7b0277a1646d6842105241e8bef5.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0022-24.png",
+    "time": "2021/04/14 11:07:28",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1618364015075200"
+  },
+  {
     "user": "UPYQ3CUJ1",
     "text": "一度私がopenVPNで経験したのは、アップデートでdaemonの実行ユーザーがrootから変わり、特定のフォルダにアクセスできずエラーになったことです。新規にイントールした場合は当てはまらないはずですが参考までに。私の件と同様の理由かどうかはsystemdでのdaemonの実行ユーザーを確認すれば良いかと思います。",
     "client_msg_id": "5acc847c-348d-4cf0-9b2d-eddfa9855b3f",
     "name": "shota.af083",
     "img": "https://secure.gravatar.com/avatar/8806dbddb82d43065dd1190cfcf80c65.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0023-24.png",
-    "time": "2021/04/14 08:19:21",
+    "time": "2021/04/14 11:07:29",
     "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1618355131074400"
   },
   {
