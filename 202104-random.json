@@ -1,11 +1,56 @@
 [
   {
+    "user": "U0PM6EYR1",
+    "text": "<https://qiita.com/fkshom/items/9b623624a23ad80b58eb>\nUbuntu 18.04 で出来てるっぽいからバージョンをそれに合わせてみるとかですかね",
+    "client_msg_id": "af8f5bbd-f3ad-4156-a16b-dabcecd7c556",
+    "name": "raa0121",
+    "img": "https://secure.gravatar.com/avatar/35b032d7b2d4182b0c2de1ef85ba91f2.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0009-24.png",
+    "time": "2021/04/14 16:20:36",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1618383115092400"
+  },
+  {
+    "user": "U017BNGTHT3",
+    "text": "networkmanager-strongswan というのもあるんですよね…\nL2TP/IPsec難しい…",
+    "client_msg_id": "b5651597-64c8-4204-96e8-573f7f465e3d",
+    "name": "s5is",
+    "img": "https://avatars.slack-edge.com/2020-11-29/1531495219589_cf6a2f80ce7bb820ba38_24.png",
+    "time": "2021/04/14 16:20:37",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1618381790091800"
+  },
+  {
+    "user": "UD124KPDJ",
+    "text": "libreswanでだめそうだったのでstrongswanを入れ直してみてますが、だめですね...",
+    "client_msg_id": "b5e90dbb-1cfa-4514-9fba-038eafc2ec57",
+    "name": "claude0803sz",
+    "img": "https://secure.gravatar.com/avatar/dc8d7b0277a1646d6842105241e8bef5.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0022-24.png",
+    "time": "2021/04/14 16:20:37",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1618381579091200"
+  },
+  {
+    "user": "U017BNGTHT3",
+    "text": "L2TP/ipsecならlibreswanかstrongswanが選べたはず、でも恐らく情報が少ないですね…",
+    "client_msg_id": "63b9822e-3bf2-48db-9e13-0340781922bd",
+    "name": "s5is",
+    "img": "https://avatars.slack-edge.com/2020-11-29/1531495219589_cf6a2f80ce7bb820ba38_24.png",
+    "time": "2021/04/14 16:20:37",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1618381542090600"
+  },
+  {
+    "user": "UD124KPDJ",
+    "text": "ありがとうございます。これに当たっているみたいなので探っている途中です...\n<https://github.com/nm-l2tp/NetworkManager-l2tp/wiki/Known-Issues#libreswan-algorithm-modp1024-is-not-supported-error>",
+    "client_msg_id": "bd38c907-1aee-4720-bc37-116e0ae913e6",
+    "name": "claude0803sz",
+    "img": "https://secure.gravatar.com/avatar/dc8d7b0277a1646d6842105241e8bef5.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0022-24.png",
+    "time": "2021/04/14 16:20:38",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1618381480089500"
+  },
+  {
     "user": "U0GFBAM8U",
     "text": "そうですね。プラグインですんなりいけたという話はよく聞く",
     "client_msg_id": "16E2BD4A-3EC2-4834-9249-1A9FB10C80BB",
     "name": "syui",
     "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
-    "time": "2021/04/14 15:23:26",
+    "time": "2021/04/14 16:20:38",
     "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1618380749088600"
   },
   {
