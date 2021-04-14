@@ -1,11 +1,29 @@
 [
   {
     "user": "U0GFBAM8U",
+    "text": "ちょっと検索してみたんですが、こちらが詳しそうでした。気になる記述は以下。\n<https://github.com/nm-l2tp/NetworkManager-l2tp>\n&gt; Password protecting the libreswan NSS database\n&gt; The NSS database is used by NetworkManager-l2tp for machine certificate VPN connections using libreswan.\n&gt; libreswan &gt;= 4.0 default NSS database location is `/var/lib/ipsec/nss/` and for all versions of libreswan on Debian/Ubuntu. Older libreswan versions often use `/etc/ipsec.d/` such as on older version of RHEL/Fedora/CentOS.\n&gt; The default libreswan package install for most Linux distributions uses an empty password. It is up to the administrator to decide on whether to use a password or not. However, a non-empty database password must be provided when running in FIPS mode.\n&gt; See the following page on how to set the password for the libreswan NSS database and the syntax for the `/var/lib/ipsec/nss/nsspassword` file where the password is stored:\n&gt; <https://libreswan.org/wiki/HOWTO:_Using_NSS_with_libreswan>\nあと、`sudo rm -rf /var/lib/ipsec/nss/*.db`で初期化する必要があるかもしれません(このコマンドの実行は気をつけなければいけません)",
+    "client_msg_id": "66a1384c-a30b-4791-8bb6-17b6cf328284",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2021/04/14 13:23:44",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1618372991083300"
+  },
+  {
+    "user": "UD124KPDJ",
+    "text": "あります。権限も足りてそうなのですが...\n```$ ls -l /var/lib/ipsec/\n合計 4\ndrwxr-xr-x 2 root root 4096  3月  9 10:13 nss```",
+    "client_msg_id": "c0d8e1c6-e97c-4835-a085-b58467d4ee1e",
+    "name": "claude0803sz",
+    "img": "https://secure.gravatar.com/avatar/dc8d7b0277a1646d6842105241e8bef5.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0022-24.png",
+    "time": "2021/04/14 13:23:45",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1618372449081800"
+  },
+  {
+    "user": "U0GFBAM8U",
     "text": "`/var/lib/ipsec/nss` は存在しますか?しなければ、以下のコマンドを実行してみてください。\n```$ mkdir -p /var/lib/ipsec/nss```",
     "client_msg_id": "2c436d67-e7a6-4422-b727-da6b5655ebd2",
     "name": "syui",
     "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
-    "time": "2021/04/14 12:24:36",
+    "time": "2021/04/14 13:23:45",
     "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1618369695081100"
   },
   {
