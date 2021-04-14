@@ -1,11 +1,56 @@
 [
   {
     "user": "U0GFBAM8U",
+    "text": "そうですね。プラグインですんなりいけたという話はよく聞く",
+    "client_msg_id": "16E2BD4A-3EC2-4834-9249-1A9FB10C80BB",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2021/04/14 15:23:26",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1618380749088600"
+  },
+  {
+    "user": "U017BNGTHT3",
+    "text": "L2TPで接続するだけならNetworkManagerのl2tpプラグインは比較的簡単だったはず。\n~(もう出てた)~",
+    "client_msg_id": "cf16a421-a3d1-4054-b815-a1d160609bd4",
+    "name": "s5is",
+    "img": "https://avatars.slack-edge.com/2020-11-29/1531495219589_cf6a2f80ce7bb820ba38_24.png",
+    "time": "2021/04/14 15:23:27",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1618380523085900"
+  },
+  {
+    "user": "U0GFBAM8U",
+    "text": "softethervpn-serverやpritunlで比較的簡単に構築できた気がするので、そちらを使ってみるのもいいかもしれません",
+    "client_msg_id": "97ea2f22-8cdb-4e00-a981-7cebcb9d4835",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2021/04/14 15:23:27",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1618378734085000"
+  },
+  {
+    "user": "U0GFBAM8U",
+    "text": "うん、なんか難しかった記憶がある",
+    "client_msg_id": "5172D3C7-6255-4C04-918F-5F87383038CD",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2021/04/14 15:23:27",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1618378603084300"
+  },
+  {
+    "user": "U0PM6EYR1",
+    "text": "Linux で L2TP クライアントは鬼門なんだよな…",
+    "client_msg_id": "d4e58771-64af-4ed3-b007-1cb57e31dc76",
+    "name": "raa0121",
+    "img": "https://secure.gravatar.com/avatar/35b032d7b2d4182b0c2de1ef85ba91f2.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0009-24.png",
+    "time": "2021/04/14 15:23:28",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1618378444083900"
+  },
+  {
+    "user": "U0GFBAM8U",
     "text": "ちょっと検索してみたんですが、こちらが詳しそうでした。気になる記述は以下。\n<https://github.com/nm-l2tp/NetworkManager-l2tp>\n&gt; Password protecting the libreswan NSS database\n&gt; The NSS database is used by NetworkManager-l2tp for machine certificate VPN connections using libreswan.\n&gt; libreswan &gt;= 4.0 default NSS database location is `/var/lib/ipsec/nss/` and for all versions of libreswan on Debian/Ubuntu. Older libreswan versions often use `/etc/ipsec.d/` such as on older version of RHEL/Fedora/CentOS.\n&gt; The default libreswan package install for most Linux distributions uses an empty password. It is up to the administrator to decide on whether to use a password or not. However, a non-empty database password must be provided when running in FIPS mode.\n&gt; See the following page on how to set the password for the libreswan NSS database and the syntax for the `/var/lib/ipsec/nss/nsspassword` file where the password is stored:\n&gt; <https://libreswan.org/wiki/HOWTO:_Using_NSS_with_libreswan>\nあと、`sudo rm -rf /var/lib/ipsec/nss/*.db`で初期化する必要があるかもしれません(このコマンドの実行は気をつけなければいけません)",
     "client_msg_id": "66a1384c-a30b-4791-8bb6-17b6cf328284",
     "name": "syui",
     "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
-    "time": "2021/04/14 13:23:44",
+    "time": "2021/04/14 15:23:28",
     "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1618372991083300"
   },
   {
