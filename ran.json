@@ -1,11 +1,29 @@
 [
   {
+    "user": "U0GFBAM8U",
+    "text": "ただ、ログを見る限り、テーマやアイコン関連ぽい気もする",
+    "client_msg_id": "70e23307-ecd3-4052-b755-eeb2c76768dd",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2021/04/17 23:18:22",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1618667765096000"
+  },
+  {
+    "user": "U0GFBAM8U",
+    "text": "ここらへんぽい気がする\n<https://wiki.archlinux.org/index.php/Desktop_notifications#Troubleshooting>\nどの通知サーバーが動いてて、適切なものが他にあるなら、アンインストールして、そっちをインストールしてみるといいかも",
+    "client_msg_id": "2f84d8aa-c4ea-478e-a2d8-52c5d4b671f9",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2021/04/17 23:18:22",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1618667733095600"
+  },
+  {
     "user": "U7NBCFT1S",
     "text": "デスクトップ環境がMATEで、`journalctl -xe`をすると以下のログが大量に繰り返し吐き出されるのです。どなたか解決方法知りませんか？\n```notification-ar[2997]: GDBus.Error:org.freedesktop.DBus.Error.UnknownProperty: No such property ('org.kde.StatusNotifierItem.IconPixmap')```",
     "client_msg_id": "d466d19e-2198-4a2b-9c93-b9665b6b9b5b",
     "name": "no97yuu",
     "img": "https://avatars.slack-edge.com/2019-10-26/797548070962_e6a0da66a751d051ab30_24.jpg",
-    "time": "2021/04/17 15:23:49",
+    "time": "2021/04/17 23:18:22",
     "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1618638363094700"
   },
   {
