@@ -1,11 +1,20 @@
 [
   {
+    "user": "U7NBCFT1S",
+    "text": "デスクトップ環境がMATEで、`journalctl -xe`をすると以下のログが大量に繰り返し吐き出されるのです。どなたか解決方法知りませんか？\n```notification-ar[2997]: GDBus.Error:org.freedesktop.DBus.Error.UnknownProperty: No such property ('org.kde.StatusNotifierItem.IconPixmap')```",
+    "client_msg_id": "d466d19e-2198-4a2b-9c93-b9665b6b9b5b",
+    "name": "no97yuu",
+    "img": "https://avatars.slack-edge.com/2019-10-26/797548070962_e6a0da66a751d051ab30_24.jpg",
+    "time": "2021/04/17 15:23:49",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1618638363094700"
+  },
+  {
     "user": "U0PM6EYR1",
     "text": "<https://qiita.com/fkshom/items/9b623624a23ad80b58eb>\nUbuntu 18.04 で出来てるっぽいからバージョンをそれに合わせてみるとかですかね",
     "client_msg_id": "af8f5bbd-f3ad-4156-a16b-dabcecd7c556",
     "name": "raa0121",
     "img": "https://secure.gravatar.com/avatar/35b032d7b2d4182b0c2de1ef85ba91f2.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0009-24.png",
-    "time": "2021/04/14 16:20:36",
+    "time": "2021/04/17 15:23:50",
     "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1618383115092400"
   },
   {
@@ -688,7 +697,7 @@
     "text": "今更遅れてですが、セキュリティでここまで上がってなさそうで個人的にやっている話をすると\n\nAWS CLI を普段使いしてますが、クレデンシャルは pass で保存しています。公式では ~/.aws/credentials に平文で格納させるよう言っていますがそれは使わず、必要なときだけ pass から取得したものを環境変数として保持させています。\nでもパスワードマネージャは普段 keepass を使ってます。pass は単に CLI アクセスが楽そうだったからという。今から使い始めるなら bitwarden がいいかもですね。\n\nまた GPG 鍵管理はスタンドアローンな鍵管理マシンを Raspberry Pi で作ってそこでやってます。なおマスターキーの秘密鍵は Arch 機には置いていません。GPG もアルゴリズムは Ed25519 を採用。\n\n出先から母艦（Arch デスクトップ）への SSH については、踏み台サーバのところで鍵 + Google Authenticator による二段階認証をかましています。が、そもそも最近は外出控えてるので出番がありません…。",
     "client_msg_id": "51a3a799-8e4e-4cc6-81d7-ccff41138bc0",
     "name": "xorphitus",
-    "img": "https://secure.gravatar.com/avatar/89b7112b39cc8b2a277eb5c7fb27a343.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0021-24.png",
+    "img": "https://secure.gravatar.com/avatar/3e1e381e8a5a2a96422e4cbe18e85856.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0021-24.png",
     "time": "2021/03/11,06:19:49",
     "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1615443589135700"
   },
