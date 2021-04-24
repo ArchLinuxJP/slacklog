@@ -1,11 +1,110 @@
 [
   {
+    "user": "UUWBU08TU",
+    "text": "ファイルに未練がないなら、完全に再インストールになってデータ全部消えますが、そのまま mkfs.ext4 /dev/sda4 とかを実行してインストールガイドに沿ってインストールを進めればいいと思います\nファイルに未練があるなら、パーティション構成(sda2,3,4)を元の状態に戻せば、運がよければマウントできるかもしれません",
+    "client_msg_id": "eed61785-63df-42f6-90b0-dc4bc04a6241",
+    "name": "nekokowan_archjpslack",
+    "img": "https://avatars.slack-edge.com/2020-06-22/1204027183412_7f7a529c9005aa8cce36_24.png",
+    "time": "2021/04/24 17:28:23",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1619251036082700"
+  },
+  {
+    "user": "U020MDKG448",
+    "text": "",
+    "client_msg_id": "4d051965-1765-475e-933a-6ef517813ec1",
+    "name": "nine-k.960klo",
+    "img": "https://secure.gravatar.com/avatar/b765de53385a64b9414bf4cdad68d027.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-24.png",
+    "time": "2021/04/24 17:28:23",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1619250719082600"
+  },
+  {
+    "user": "U020MDKG448",
+    "text": "sda4のパーティションを一度か数度は変えてしまっていました",
+    "client_msg_id": "3626318d-e20f-41fa-b95d-5c01ea27ff20",
+    "name": "nine-k.960klo",
+    "img": "https://secure.gravatar.com/avatar/b765de53385a64b9414bf4cdad68d027.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-24.png",
+    "time": "2021/04/24 17:28:24",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1619250663082500"
+  },
+  {
+    "user": "UUWBU08TU",
+    "text": "sda5ってセクター34-2047でEF02なパーティション(BIOS Boot partition)ですよね、filesystemは設定しなくて大丈夫です\nfdisk/gdiskでパーティションを切り直しても、ディスクのパーティション境界を設定し直しているだけでデータもファイルシステムも元の位置のままなのでマウントできなくなったんだと思います",
+    "client_msg_id": "af2ccd8a-38d7-4597-b214-754c472985e0",
+    "name": "nekokowan_archjpslack",
+    "img": "https://avatars.slack-edge.com/2020-06-22/1204027183412_7f7a529c9005aa8cce36_24.png",
+    "time": "2021/04/24 17:28:24",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1619250357082300"
+  },
+  {
+    "user": "U020MDKG448",
+    "text": "また、sda2とsda3だった部分をsda4に変える前、sda4に該当する/homeにアクセスができなくなっている状態になりました\n実際、様々なことをしてしまいました",
+    "client_msg_id": "1b04d694-0b39-4eb7-a3b7-a90043c422d6",
+    "name": "nine-k.960klo",
+    "img": "https://secure.gravatar.com/avatar/b765de53385a64b9414bf4cdad68d027.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-24.png",
+    "time": "2021/04/24 17:28:24",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1619250058082200"
+  },
+  {
+    "user": "U020MDKG448",
+    "text": "ところでsda5は未だfilesystemを設定していません\n他はext4です",
+    "client_msg_id": "24517304-3e12-46d0-a960-ab5476d466ff",
+    "name": "nine-k.960klo",
+    "img": "https://secure.gravatar.com/avatar/b765de53385a64b9414bf4cdad68d027.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-24.png",
+    "time": "2021/04/24 17:28:25",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1619249982082100"
+  },
+  {
+    "user": "U020MDKG448",
+    "text": "Androidとusbコネクタがあるためスマホでliveusbを作り直すところです",
+    "client_msg_id": "b126ae8d-6943-4097-821c-94d21957e7f0",
+    "name": "nine-k.960klo",
+    "img": "https://secure.gravatar.com/avatar/b765de53385a64b9414bf4cdad68d027.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-24.png",
+    "time": "2021/04/24 17:28:25",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1619249915082000"
+  },
+  {
+    "user": "UUWBU08TU",
+    "text": "Archじゃなかったんですね……",
+    "client_msg_id": "447bcab8-ae00-4a66-8f75-892181fed08b",
+    "name": "nekokowan_archjpslack",
+    "img": "https://avatars.slack-edge.com/2020-06-22/1204027183412_7f7a529c9005aa8cce36_24.png",
+    "time": "2021/04/24 17:28:25",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1619249858081900"
+  },
+  {
+    "user": "U020MDKG448",
+    "text": "していたこと: /dev/sda5も作った、sda2とsda3だった部分をsda4にした、その前にsda4についてはe2fsckを行った（多分）\nそれから、使っていたライブusbはGNU Guixでしたが、色々とやっているうちにchrootれなくなった気がしたためusbの中身をちゃんとArchに変えます",
+    "client_msg_id": "e022e4e0-4d28-4354-aa0b-6db8f6f67691",
+    "name": "nine-k.960klo",
+    "img": "https://secure.gravatar.com/avatar/b765de53385a64b9414bf4cdad68d027.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-24.png",
+    "time": "2021/04/24 17:28:26",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1619249616081800"
+  },
+  {
+    "user": "UUWBU08TU",
+    "text": "続きっていうか、/homeに600GBくらい割り当てていて/や/varの空き容量が足りなくなったのでパーティション切り直してる感じの方ですよね\nフォーラムだと厳しそうだったので……",
+    "client_msg_id": "d28aab3a-86fd-4a2a-8212-36e9cf5e90a5",
+    "name": "nekokowan_archjpslack",
+    "img": "https://avatars.slack-edge.com/2020-06-22/1204027183412_7f7a529c9005aa8cce36_24.png",
+    "time": "2021/04/24 17:28:26",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1619249450081700"
+  },
+  {
+    "user": "U020MDKG448",
+    "text": "次のスレッドの続きです\n<https://bbs.archlinux.jp/viewtopic.php?id=180|https://bbs.archlinux.jp/viewtopic.php?id=180>",
+    "client_msg_id": "f87ccc4c-7ba7-4b33-a04a-bdf1c00bbb74",
+    "name": "nine-k.960klo",
+    "img": "https://secure.gravatar.com/avatar/b765de53385a64b9414bf4cdad68d027.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-24.png",
+    "time": "2021/04/24 17:28:26",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1619249291081600"
+  },
+  {
     "user": "U020MDKG448",
     "text": "こんにちは\n助言ありがとうございます\nslackに参りました",
     "client_msg_id": "649108ae-f58f-406c-b90a-d686feb6bd3b",
     "name": "nine-k.960klo",
     "img": "https://secure.gravatar.com/avatar/b765de53385a64b9414bf4cdad68d027.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-24.png",
-    "time": "2021/04/24 16:29:22",
+    "time": "2021/04/24 17:28:27",
     "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1619249169081500"
   },
   {
