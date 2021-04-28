@@ -1,11 +1,47 @@
 [
   {
+    "user": "U0GFBAM8U",
+    "text": "<https://dev.to/shofol/run-your-github-actions-jobs-from-a-specific-directory-1i9e|https://dev.to/shofol/run-your-github-actions-jobs-from-a-specific-directory-1i9e>",
+    "client_msg_id": "69764172-9264-4BA3-8C31-4CCCAE63506B",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2021/04/28 22:27:03",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1619615897138500"
+  },
+  {
+    "user": "U0GFBAM8U",
+    "text": "<https://github.community/t/use-working-directory-for-entire-job/16747/2|https://github.community/t/use-working-directory-for-entire-job/16747/2>",
+    "client_msg_id": "79253253-6CB0-48E4-BDDF-3FF55FD96371",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2021/04/28 22:27:03",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1619615881138300"
+  },
+  {
+    "user": "U0GFBAM8U",
+    "text": "gh-actionはどのディレクトリで作業してるのか把握しづらいことありますよね\n他にもciセキュリティの問題、gitの問題(clone範囲やignore、branchなど)、可能性として考えられます",
+    "client_msg_id": "4A53A005-05C7-4F19-AA57-BF5D6B4C9E0F",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2021/04/28 22:27:03",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1619615270137800"
+  },
+  {
+    "user": "U0GFBAM8U",
+    "text": "最も簡単な回避策としては、pkgbuildをrawのurlからcurlなどを使ってダウンロードする処理を直前に入れることかな",
+    "client_msg_id": "25F3F234-3DC8-4279-8D4B-3110500BDFE0",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2021/04/28 22:27:03",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1619615082135400"
+  },
+  {
     "user": "U01HE1ENNJZ",
     "text": "<https://github.com/xdevs23/linux-nitrous|https://github.com/xdevs23/linux-nitrous>\narchwikiの非公式リポジトリにのってた同じaction使ってるリポジトリです",
     "client_msg_id": "4421f045-4492-43b7-8133-27ac10fd406a",
     "name": "a3784197",
     "img": "https://avatars.slack-edge.com/2021-01-15/1652242406097_fbfa5b69ffe23ca9a640_24.jpg",
-    "time": "2021/04/28 19:21:38",
+    "time": "2021/04/28 22:27:04",
     "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1619603489133500"
   },
   {
