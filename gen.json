@@ -1,11 +1,47 @@
 [
   {
     "user": "U2YNMHCTV",
+    "text": "なるほど。それで試してみます。ありがとうございます。",
+    "client_msg_id": "b8a326c9-235d-4c0f-abe1-01215f903c33",
+    "name": "takumi.kt",
+    "img": "https://avatars.slack-edge.com/2017-03-29/160483390144_d7c2d155ede8c59ea6bd_24.png",
+    "time": "2021/04/28 14:27:57",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1619585515094200"
+  },
+  {
+    "user": "U017BNGTHT3",
+    "text": "完全に新規として入れ直すならgdiskとかで全部パーティション飛ばしてからやった方が良いですね。\n今回の場合はESP(/boot)の `/EFI/Microsoft/Boot/bootmgfw.efi` あたりが残ってたりしそうで怪しい。",
+    "client_msg_id": "f991e431-6e64-4bce-8f54-4a9d4c6a591a",
+    "name": "s5is",
+    "img": "https://avatars.slack-edge.com/2020-11-29/1531495219589_cf6a2f80ce7bb820ba38_24.png",
+    "time": "2021/04/28 14:27:58",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1619585417093900"
+  },
+  {
+    "user": "UPLFHSQ2V",
+    "text": "同じディスクに他のOSもインストールされている。。？",
+    "client_msg_id": "0a68b503-b96a-44ad-8963-f905c9ddaf74",
+    "name": "conao3",
+    "img": "https://secure.gravatar.com/avatar/1a9a49807415fb97544a7383a9288b84.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0006-24.png",
+    "time": "2021/04/28 14:27:58",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1619584499090600"
+  },
+  {
+    "user": "UPLFHSQ2V",
+    "text": "ん。Windowsのデータは要らないということですか？それなら全部フォーマットしてインストールすればよさそうな気もしますが？",
+    "client_msg_id": "bccbd687-c9c4-4464-8d36-7fe624b12b4a",
+    "name": "conao3",
+    "img": "https://secure.gravatar.com/avatar/1a9a49807415fb97544a7383a9288b84.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0006-24.png",
+    "time": "2021/04/28 14:27:58",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1619584477090400"
+  },
+  {
+    "user": "U2YNMHCTV",
     "text": "すみません、情報不足でした。デュアルブートではなく、Microsoft basic dataのパーティションをext4にフォーマットしてやっています。",
     "client_msg_id": "a5689746-b342-4d75-9005-fc900a16685b",
     "name": "takumi.kt",
     "img": "https://avatars.slack-edge.com/2017-03-29/160483390144_d7c2d155ede8c59ea6bd_24.png",
-    "time": "2021/04/28 13:32:22",
+    "time": "2021/04/28 14:27:59",
     "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1619584239090000"
   },
   {
