@@ -1,11 +1,47 @@
 [
   {
+    "user": "U01HE1ENNJZ",
+    "text": "多分制限でしょう",
+    "client_msg_id": "ec2ea488-fca6-460a-8b81-87c208a04e9e",
+    "name": "a3784197",
+    "img": "https://avatars.slack-edge.com/2021-01-15/1652242406097_fbfa5b69ffe23ca9a640_24.jpg",
+    "time": "2021/04/29 08:20:38",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1619652022144200"
+  },
+  {
+    "user": "U0GFBAM8U",
+    "text": "昔、似たようなことをやってた時期があって、linuxイメージをdocker内で作るのをtravis-ciで動かして、作ったイメージをdocker化してdocker-hubにupするみたいなことをやったんですけど、そのときもsize的に結構大きかったと思うんですが、travis-ciでは動いてましたね。",
+    "client_msg_id": "eacc26fd-03ff-46d4-bd90-0b46779d790a",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2021/04/29 08:20:39",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1619652003143800"
+  },
+  {
+    "user": "U0GFBAM8U",
+    "text": "`final close failed: No space left on device` とありますね。gh-actionsってfreeはdiskのsize制限とかあるのでしょうか",
+    "client_msg_id": "240c1a5c-acdb-466f-b40f-98d2fb24fb13",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2021/04/29 08:20:39",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1619651684141900"
+  },
+  {
+    "user": "U01HE1ENNJZ",
+    "text": "no left on spaceで終わってました\n一応うまく行ったのかな",
+    "client_msg_id": "8ce16048-7c6c-4e93-9675-0f3df2eb2b27",
+    "name": "a3784197",
+    "img": "https://avatars.slack-edge.com/2021-01-15/1652242406097_fbfa5b69ffe23ca9a640_24.jpg",
+    "time": "2021/04/29 08:20:39",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1619650980140900"
+  },
+  {
     "user": "U0GFBAM8U",
     "text": "お、よかった",
     "client_msg_id": "40E78E52-4DB4-485E-A9CC-6EEC8531B118",
     "name": "syui",
     "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
-    "time": "2021/04/29 00:22:15",
+    "time": "2021/04/29 08:20:40",
     "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1619620449139300"
   },
   {
