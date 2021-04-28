@@ -1,11 +1,38 @@
 [
   {
+    "user": "U2YNMHCTV",
+    "text": "すみません、情報不足でした。デュアルブートではなく、Microsoft basic dataのパーティションをext4にフォーマットしてやっています。",
+    "client_msg_id": "a5689746-b342-4d75-9005-fc900a16685b",
+    "name": "takumi.kt",
+    "img": "https://avatars.slack-edge.com/2017-03-29/160483390144_d7c2d155ede8c59ea6bd_24.png",
+    "time": "2021/04/28 13:32:22",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1619584239090000"
+  },
+  {
+    "user": "UPLFHSQ2V",
+    "text": "前やったときはこのUEFI環境の項を見てやりましたが、普通に起動してきましたが。。今は上手くいかない。。？\n<https://wiki.archlinux.jp/index.php/Windows_%E3%81%A8_Arch_%E3%81%AE%E3%83%87%E3%83%A5%E3%82%A2%E3%83%AB%E3%83%96%E3%83%BC%E3%83%88#UEFI_.E7.92.B0.E5.A2.83>",
+    "client_msg_id": "5691d24f-37e8-48d2-9c41-8a34ae8dbf9a",
+    "name": "conao3",
+    "img": "https://secure.gravatar.com/avatar/1a9a49807415fb97544a7383a9288b84.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0006-24.png",
+    "time": "2021/04/28 13:32:22",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1619583951089900"
+  },
+  {
+    "user": "U2YNMHCTV",
+    "text": "ノートパソコンにArchをインストールしようとしてるんですが。ブートローダーのインストールまで済ませたつもりが、再起動したら「PCの修復をしています」と出てWindowsが立ち上がろうとしてArchのパーティションを壊していくのですが。\n何か、そこらへん、罠ありましたっけ?\n機種はHP Spectre x360です。Secure BootはDisableにしています。/bootに既存のEFIファイルシステムをマウントして、ブートローダーはsystemd-bootを `bootctl install` でインストールし、loader.confとentries/arch.confを作っています(それだけでは不十分でしたっけ?)",
+    "client_msg_id": "d511cf56-d78f-4e1f-8b1f-49c4d007a943",
+    "name": "takumi.kt",
+    "img": "https://avatars.slack-edge.com/2017-03-29/160483390144_d7c2d155ede8c59ea6bd_24.png",
+    "time": "2021/04/28 13:32:23",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1619582056089700"
+  },
+  {
     "user": "UUWBU08TU",
     "text": "ファイルに未練がないなら、完全に再インストールになってデータ全部消えますが、そのまま mkfs.ext4 /dev/sda4 とかを実行してインストールガイドに沿ってインストールを進めればいいと思います\nファイルに未練があるなら、パーティション構成(sda2,3,4)を元の状態に戻せば、運がよければマウントできるかもしれません",
     "client_msg_id": "eed61785-63df-42f6-90b0-dc4bc04a6241",
     "name": "nekokowan_archjpslack",
     "img": "https://avatars.slack-edge.com/2020-06-22/1204027183412_7f7a529c9005aa8cce36_24.png",
-    "time": "2021/04/24 17:28:23",
+    "time": "2021/04/28 13:32:23",
     "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1619251036082700"
   },
   {
