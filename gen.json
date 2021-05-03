@@ -1,11 +1,20 @@
 [
   {
     "user": "U2YNMHCTV",
+    "text": "HD Audio詳しい人、教えてください。機種Spectre x360で起動時、音が出なくて <https://wiki.archlinux.org/title/HP_Spectre_x360_(2020)#Audio>\nに書かれているとおり、\n```sudo hda-verb /dev/snd/hwC0D0 0x01 SET_GPIO_DIR 0x01\nsudo hda-verb /dev/snd/hwC0D0 0x01 SET_GPIO_MASK 0x01\nsudo hda-verb /dev/snd/hwC0D0 0x01 SET_GPIO_DATA 0x01\nsudo hda-verb /dev/snd/hwC0D0 0x01 SET_GPIO_DATA 0x00```\nを毎回2回叩くと音が出るようになるのですが、手動はつらいので、X11のセッションマネージャの起動時に動くスクリプトである `/usr/share/sddm/scripts/Xsetup` に書いてもそれでは音は出ず、ユーザでログイン後手動で叩くと音が出る現象が起きています。(スクリプト自体が動いていることは、Xsetup中で `2&gt;&amp;1 &gt;/tmp/Xsetup.log` をして確認しています)\n• そもそもこのコマンドは何をしているものですか?\n• Xsetupのスクリプトから叩いても音が出ず、ログイン後に叩くと音が出るのはどういう理由からですか?\n• こういう場合のよい回避策を教えてください。",
+    "client_msg_id": "1dd32510-f36d-442a-8f07-3ee48936f90a",
+    "name": "takumi.kt",
+    "img": "https://avatars.slack-edge.com/2017-03-29/160483390144_d7c2d155ede8c59ea6bd_24.png",
+    "time": "2021/05/03 23:24:02",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1620050226103600"
+  },
+  {
+    "user": "U2YNMHCTV",
     "text": "なるほど。それで試してみます。ありがとうございます。",
     "client_msg_id": "b8a326c9-235d-4c0f-abe1-01215f903c33",
     "name": "takumi.kt",
     "img": "https://avatars.slack-edge.com/2017-03-29/160483390144_d7c2d155ede8c59ea6bd_24.png",
-    "time": "2021/04/28,04:51:55",
+    "time": "2021/05/03 23:24:02",
     "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1619585515094200"
   },
   {
