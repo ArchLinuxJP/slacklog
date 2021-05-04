@@ -1,11 +1,47 @@
 [
   {
+    "user": "U0GFBAM8U",
+    "text": "デフォルトでは全てのチャンネルがミュートとあるので、この辺の設定を変えればいけるかも",
+    "client_msg_id": "ecf3eb65-8d0a-41b8-ae70-d633c2457a29",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2021/05/04 10:08:16",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1620089526108700"
+  },
+  {
+    "user": "U0GFBAM8U",
+    "text": "起動時というとudevあたりかなと思って、検索してみると以下の記述があります。\n```ALSA はデフォルトの Arch カーネルにモジュールセットとして含まれているので、インストールは不要です。\n起動時に自動で udev があなたのハードウェアを調べて、オーディオカード用の適切なカーネルモジュールをロードします。したがって、サウンドはすでに鳴らせるはずです。ただ、デフォルトでは全てのチャンネルはミュートにされています。チャンネルのミュートを解除してください。```\n<https://wiki.archlinux.jp/index.php/Advanced_Linux_Sound_Architecture>",
+    "client_msg_id": "163d718c-62d1-43af-93b0-6a9281d5b9b6",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2021/05/04 10:08:16",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1620089505108300"
+  },
+  {
+    "user": "U0GFBAM8U",
+    "text": "原因として思ったのが、一つはインターフェイスの問題です。通常、ユーザーでログインしたとき、使用しているオーディオインターフェイスが起動し、保存されてる音量などが設定される気がしますが、起動時の音量と食い違う可能性。xsetupは読み込まれてオーディオモジュールかなんかは有効になるものの、そこで使用されるオーディオデバイスや音量などはインターフェイスやあるいはサウンドサーバーを通して読み込まれるため、ログイン前は音が出ないのかも",
+    "client_msg_id": "a30cfbc8-3192-427e-8bdf-aa8b1e94bed8",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2021/05/04 10:08:17",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1620089287107700"
+  },
+  {
+    "user": "U0GFBAM8U",
+    "text": "`~/.xinitrc`に書いてみてはどうでしょう",
+    "client_msg_id": "d305d71c-c9f7-4a8a-a46b-4a962ad0014d",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2021/05/04 10:08:17",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1620088828104100"
+  },
+  {
     "user": "U2YNMHCTV",
     "text": "HD Audio詳しい人、教えてください。機種Spectre x360で起動時、音が出なくて <https://wiki.archlinux.org/title/HP_Spectre_x360_(2020)#Audio>\nに書かれているとおり、\n```sudo hda-verb /dev/snd/hwC0D0 0x01 SET_GPIO_DIR 0x01\nsudo hda-verb /dev/snd/hwC0D0 0x01 SET_GPIO_MASK 0x01\nsudo hda-verb /dev/snd/hwC0D0 0x01 SET_GPIO_DATA 0x01\nsudo hda-verb /dev/snd/hwC0D0 0x01 SET_GPIO_DATA 0x00```\nを毎回2回叩くと音が出るようになるのですが、手動はつらいので、X11のセッションマネージャの起動時に動くスクリプトである `/usr/share/sddm/scripts/Xsetup` に書いてもそれでは音は出ず、ユーザでログイン後手動で叩くと音が出る現象が起きています。(スクリプト自体が動いていることは、Xsetup中で `2&gt;&amp;1 &gt;/tmp/Xsetup.log` をして確認しています)\n• そもそもこのコマンドは何をしているものですか?\n• Xsetupのスクリプトから叩いても音が出ず、ログイン後に叩くと音が出るのはどういう理由からですか?\n• こういう場合のよい回避策を教えてください。",
     "client_msg_id": "1dd32510-f36d-442a-8f07-3ee48936f90a",
     "name": "takumi.kt",
     "img": "https://avatars.slack-edge.com/2017-03-29/160483390144_d7c2d155ede8c59ea6bd_24.png",
-    "time": "2021/05/03 23:24:02",
+    "time": "2021/05/04 10:08:17",
     "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1620050226103600"
   },
   {
