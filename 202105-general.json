@@ -1,11 +1,92 @@
 [
   {
+    "user": "U020MDKG448",
+    "text": "でもここでの無線LANの設定が不適切なのか、それとも何かなのか、インストールできない環境になっています",
+    "client_msg_id": "ef558d38-a88f-4ef1-ab6d-a5c7bcb4ca6a",
+    "name": "nine-k.960klo",
+    "img": "https://secure.gravatar.com/avatar/b765de53385a64b9414bf4cdad68d027.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-24.png",
+    "time": "2021/05/06 10:05:36",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1620262909122900"
+  },
+  {
+    "user": "U020MDKG448",
+    "text": "今からやってみます",
+    "client_msg_id": "fdbadd3e-1514-45b0-aab7-19294e6b42ea",
+    "name": "nine-k.960klo",
+    "img": "https://secure.gravatar.com/avatar/b765de53385a64b9414bf4cdad68d027.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-24.png",
+    "time": "2021/05/06 10:05:37",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1620262641122800"
+  },
+  {
+    "user": "U020MDKG448",
+    "text": "助言ありがとうございます",
+    "client_msg_id": "022e7429-005b-4e29-acd9-993f9045d84f",
+    "name": "nine-k.960klo",
+    "img": "https://secure.gravatar.com/avatar/b765de53385a64b9414bf4cdad68d027.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-24.png",
+    "time": "2021/05/06 10:05:37",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1620262605122700"
+  },
+  {
+    "user": "U020MDKG448",
+    "text": "`df /dev/sda?`で、/に91%、/bootに36%、/varに100%、/homeに11%使用していることがわかり、実に勿体ない使い方だと改めて実感しました",
+    "client_msg_id": "9e4d8433-63d7-4887-8d10-e7e112a2adef",
+    "name": "nine-k.960klo",
+    "img": "https://secure.gravatar.com/avatar/b765de53385a64b9414bf4cdad68d027.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-24.png",
+    "time": "2021/05/06 10:05:38",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1620262546122600"
+  },
+  {
+    "user": "U0GFBAM8U",
+    "text": "gpartedなら簡単にパーティションの統合できたと思うので、できればstartxして、なければxorg環境を入れて、gpartedでやるのがおすすめかと思います。事故る可能性が少ないので",
+    "client_msg_id": "BB3602BB-9992-4B5D-8DFF-817ECB518A9E",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2021/05/06 10:05:38",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1620262471122500"
+  },
+  {
+    "user": "U020MDKG448",
+    "text": "以前どこかで「既存のデータを残しながらパーティションを変更するのであればファイルシステムのサイズ変更が先」とお聞きした気がしたのですが（誤りでなければ）、本当にどちらが先だったのでしょうか?\nまた、パーティションとfstabは次の構成です",
+    "client_msg_id": "48e6368c-de98-4879-98c1-3e81b1b4a06a",
+    "name": "nine-k.960klo",
+    "img": "https://secure.gravatar.com/avatar/b765de53385a64b9414bf4cdad68d027.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-24.png",
+    "time": "2021/05/06 10:05:39",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1620262295119900"
+  },
+  {
+    "user": "U0GFBAM8U",
+    "text": "普段はcfdisk使うのであまり使ったことないですが",
+    "client_msg_id": "91748CC5-9AEC-4E1E-827D-1D003E614940",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2021/05/06 10:05:39",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1620261862119800"
+  },
+  {
+    "user": "U0GFBAM8U",
+    "text": "gpartedとか便利だったと思います",
+    "client_msg_id": "9A838B20-CB33-4D45-B821-4D47056671D1",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2021/05/06 10:05:39",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1620261798119100"
+  },
+  {
+    "user": "U020MDKG448",
+    "text": "ずっと前からパーティションの個数を減らしたいと考えています\nsdaの1から4までは全てprimaryで以前通りのMBR構成になっています",
+    "client_msg_id": "3d2b1000-a145-49b1-bf05-711532da7304",
+    "name": "nine-k.960klo",
+    "img": "https://secure.gravatar.com/avatar/b765de53385a64b9414bf4cdad68d027.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-24.png",
+    "time": "2021/05/06 10:05:40",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1620261475118500"
+  },
+  {
     "user": "U01HE1ENNJZ",
     "text": "<https://wiki.archlinux.jp/index.php/ASUS_Zenbook_UX430/UX530>\nこれも同じようなやつですか",
     "client_msg_id": "1f5e3d1f-a8eb-4baf-9c8b-4ca2aaf55488",
     "name": "a3784197",
     "img": "https://avatars.slack-edge.com/2021-01-15/1652242406097_fbfa5b69ffe23ca9a640_24.jpg",
-    "time": "2021/05/04 21:33:54",
+    "time": "2021/05/06 10:05:40",
     "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1620131024110900"
   },
   {
