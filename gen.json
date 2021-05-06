@@ -1,11 +1,254 @@
 [
   {
+    "user": "U0GFBAM8U",
+    "text": "統合したいパーティションの後ろに続くものをバックアップ後に削除し、統合したいパーティションを拡張する感じ",
+    "client_msg_id": "EB58CF68-58E1-43CB-BC33-2CC5BC8105B6",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2021/05/06 21:35:00",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1620303991152900"
+  },
+  {
+    "user": "UN1SFMNU8",
+    "text": "大事なデータはバックアップとっておくことを忘れずにね。",
+    "client_msg_id": "c31d9138-3626-43ce-aec2-970e35b66ece",
+    "name": "addokoda",
+    "img": "https://avatars.slack-edge.com/2021-01-17/1644833828835_272adc4819e2e71cffcd_24.png",
+    "time": "2021/05/06 21:35:00",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1620303990152800"
+  },
+  {
+    "user": "U0GFBAM8U",
+    "text": "gpartedのほうが事故る可能性は低いと思います。\nまた、 @addokoda さんの手順がパーティション統合する際の一般的な手順だと思います。",
+    "client_msg_id": "AF93356A-872D-4C42-9370-31C1F2E67580",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2021/05/06 21:35:01",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1620303732150500"
+  },
+  {
+    "user": "U020MDKG448",
+    "text": "まあそれはともかく現在 @addokoda さんの手順で行おうとしています",
+    "client_msg_id": "1ffbf602-17f7-49e3-9a6e-c54e287d4375",
+    "name": "nine-k.960klo",
+    "img": "https://secure.gravatar.com/avatar/b765de53385a64b9414bf4cdad68d027.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-24.png",
+    "time": "2021/05/06 21:35:01",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1620303593148500"
+  },
+  {
+    "user": "U020MDKG448",
+    "text": "よく見たらもともとセクター単位でやっていたのにGB単位で丸められ",
+    "client_msg_id": "7b60383a-86f9-49c4-8a01-f2e06a1a9755",
+    "name": "nine-k.960klo",
+    "img": "https://secure.gravatar.com/avatar/b765de53385a64b9414bf4cdad68d027.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-24.png",
+    "time": "2021/05/06 21:35:01",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1620303560148200"
+  },
+  {
+    "user": "U020MDKG448",
+    "text": "結果sda4がマウントできなくなり",
+    "client_msg_id": "aa8e3f23-56cc-46e0-83e6-5862f4b16cc2",
+    "name": "nine-k.960klo",
+    "img": "https://secure.gravatar.com/avatar/b765de53385a64b9414bf4cdad68d027.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-24.png",
+    "time": "2021/05/06 21:35:02",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1620303414148100"
+  },
+  {
+    "user": "U020MDKG448",
+    "text": "今partedでresizepart 4 650GBとした後ですが",
+    "client_msg_id": "1bbc8b6c-1c89-4969-a68f-cbc261a6bfef",
+    "name": "nine-k.960klo",
+    "img": "https://secure.gravatar.com/avatar/b765de53385a64b9414bf4cdad68d027.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-24.png",
+    "time": "2021/05/06 21:35:02",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1620303221148000"
+  },
+  {
+    "user": "U0GFBAM8U",
+    "text": "なので自信ある場合、partedは確かdiskにも入ってたので、そのコマンドで",
+    "client_msg_id": "B67809DC-3E8A-487C-A6BC-4AFD7FE3045F",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2021/05/06 21:35:02",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1620303122147900"
+  },
+  {
+    "user": "U0GFBAM8U",
+    "text": "まあ操作が簡単ということであって、cliならpartedコマンドとか使えばいけると思います",
+    "client_msg_id": "650975DE-26CF-47D8-A04E-F4380E518FED",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2021/05/06 21:35:03",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1620303056146800"
+  },
+  {
+    "user": "U020MDKG448",
+    "text": "わざわざネット繋いでXとGParted入れることを面道臭く感じたらダメですか?",
+    "client_msg_id": "7226ac64-bd78-4f6d-87bb-5b98662c3715",
+    "name": "nine-k.960klo",
+    "img": "https://secure.gravatar.com/avatar/b765de53385a64b9414bf4cdad68d027.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-24.png",
+    "time": "2021/05/06 21:35:03",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1620302977145700"
+  },
+  {
+    "user": "U0GFBAM8U",
+    "text": "gpartedならいけそう",
+    "client_msg_id": "9052B1E0-3890-4921-BA03-DAD095CBA8CC",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2021/05/06 21:35:04",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1620302915145600"
+  },
+  {
+    "user": "U020MDKG448",
+    "text": "MBRで、かつ全てprimaryです。",
+    "client_msg_id": "a52dc9cf-1fe0-4a9f-9365-a8b12693b558",
+    "name": "nine-k.960klo",
+    "img": "https://secure.gravatar.com/avatar/b765de53385a64b9414bf4cdad68d027.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-24.png",
+    "time": "2021/05/06 21:35:04",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1620302761145200"
+  },
+  {
+    "user": "UN1SFMNU8",
+    "text": "gparted 使うんだったら、\n\n/home を限界まで縮小\n最後尾に 100G のパーティションを作成してフォーマット、 /var, /home をバックアップコピー\n/var, /home を削除、/ を拡張\n/var,/home のバックアップを / へコピー\n最後尾を削除\n/ を拡張\n\nという手順でやることになりますね。",
+    "client_msg_id": "243c9392-ad10-446c-b085-1607734cc78e",
+    "name": "addokoda",
+    "img": "https://avatars.slack-edge.com/2021-01-17/1644833828835_272adc4819e2e71cffcd_24.png",
+    "time": "2021/05/06 21:35:04",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1620302479145100"
+  },
+  {
+    "user": "U0GFBAM8U",
+    "text": "あと、こういうのも便利かも\n<https://wiki.archlinux.jp/index.php/Systemd-nspawn|https://wiki.archlinux.jp/index.php/Systemd-nspawn>",
+    "client_msg_id": "8D7579B3-D6DD-41F3-BAE2-7274E4EA676A",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2021/05/06 21:35:05",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1620302382144700"
+  },
+  {
+    "user": "U0GFBAM8U",
+    "text": "新しいユーザー作って",
+    "client_msg_id": "BE380ACF-BC7B-4074-94CB-22B1D88293F3",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2021/05/06 21:35:05",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1620302036144200"
+  },
+  {
+    "user": "U0GFBAM8U",
+    "text": "ああ、そういえばそうですね",
+    "client_msg_id": "6141A583-153A-4011-A785-447F26C2FA0A",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2021/05/06 21:35:05",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1620302016143900"
+  },
+  {
+    "user": "UUWBU08TU",
+    "text": "パーティションいじらずに、全部/homeに入れちゃうのが一番楽かなとは思います",
+    "client_msg_id": "3508db0c-a09d-4a46-bcd0-c670e8a9f589",
+    "name": "nekokowan_archjpslack",
+    "img": "https://avatars.slack-edge.com/2020-06-22/1204027183412_7f7a529c9005aa8cce36_24.png",
+    "time": "2021/05/06 21:35:06",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1620301932143400"
+  },
+  {
+    "user": "U0GFBAM8U",
+    "text": "この辺り参考になりそう\n<https://wiki.archlinux.jp/index.php/%E6%96%B0%E3%81%97%E3%81%84%E3%83%8F%E3%83%BC%E3%83%89%E3%82%A6%E3%82%A7%E3%82%A2%E3%81%AB%E7%A7%BB%E8%A1%8C%E3%81%99%E3%82%8B%23.E3.83.95.E3.82.A1.E3.82.A4.E3.83.AB.E3.81.AE.E3.82.B3.E3.83.94.E3.83.BC|https://wiki.archlinux.jp/index.php/新しいハードウェアに移行する#.E3.83.95.E3.82.A1.E3.82.A4.E3.83.AB.E3.81.AE.E3.82.B3.E3.83.94.E3.83.BC>",
+    "client_msg_id": "09C487D5-EF72-49EE-8435-A374D8A95226",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2021/05/06 21:35:06",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1620301737143300"
+  },
+  {
+    "user": "U0GFBAM8U",
+    "text": "としてもddでisoにして、コピーすればいけると思う",
+    "client_msg_id": "28D89002-9508-411F-8F7D-ABB1F9364829",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2021/05/06 21:35:06",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1620301558142900"
+  },
+  {
+    "user": "U0GFBAM8U",
+    "text": "パーティションが分かれてるんです?",
+    "client_msg_id": "E603BAA1-FD27-43F0-913B-0A93D762F643",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2021/05/06 21:35:07",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1620301456142000"
+  },
+  {
+    "user": "U0GFBAM8U",
+    "text": "原理的には可能です\n権限あたりでめんどくさいことになるかもですが",
+    "client_msg_id": "B3533FE1-D425-401C-BA97-BB74891E4DF4",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2021/05/06 21:35:07",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1620301409141400"
+  },
+  {
+    "user": "U020MDKG448",
+    "text": "今Archのならあるしそれで十分じゃないかと考えてはいます\n\nところで「/varと/homeを/に統合する」ことは可能ですか?既にあるデータを残しながらで",
+    "client_msg_id": "53208b32-4b52-4a7e-8ea0-dfa643c891c0",
+    "name": "nine-k.960klo",
+    "img": "https://secure.gravatar.com/avatar/b765de53385a64b9414bf4cdad68d027.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-24.png",
+    "time": "2021/05/06 21:35:07",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1620301218140600"
+  },
+  {
+    "user": "U0GFBAM8U",
+    "text": "環境がネットにつながりにくいなら、自宅でlive作って持ってけばいいし",
+    "client_msg_id": "A81BE448-204D-4187-943D-00C1864FA985",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2021/05/06 21:35:08",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1620300992140500"
+  },
+  {
+    "user": "U0GFBAM8U",
+    "text": "@s5is さんが言われてるようにgpartedが入ったlive osを使うのも手っ取り早くていいかもしれませんね",
+    "client_msg_id": "EF19DAA1-585F-4725-AFFE-E46F81C8592B",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2021/05/06 21:35:08",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1620300935139600"
+  },
+  {
+    "user": "U0GFBAM8U",
+    "text": "いや、不適切ではありません。\npacmanもgpartedもどちらも使えますよ。gparはxの構築とインストール必要ですが",
+    "client_msg_id": "4067FF96-5AA2-49E2-8913-35BA3767978E",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2021/05/06 21:35:08",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1620300858138000"
+  },
+  {
+    "user": "U020MDKG448",
+    "text": "ArchのLive環境では不適切なのでしょうか?",
+    "client_msg_id": "8fbff831-f74d-4274-b914-c6385bbebb9f",
+    "name": "nine-k.960klo",
+    "img": "https://secure.gravatar.com/avatar/b765de53385a64b9414bf4cdad68d027.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-24.png",
+    "time": "2021/05/06 21:35:09",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1620300576136400"
+  },
+  {
+    "user": "U020MDKG448",
+    "text": "翌日に",
+    "client_msg_id": "ab97f46f-5a10-411a-80e5-0041aff77bff",
+    "name": "nine-k.960klo",
+    "img": "https://secure.gravatar.com/avatar/b765de53385a64b9414bf4cdad68d027.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-24.png",
+    "time": "2021/05/06 21:35:09",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1620300153136300"
+  },
+  {
     "user": "UUWBU08TU",
     "text": "301ってリダイレクトだった気が？ `curl` じゃなくて `curl -L` にしてみたらどうでしょう",
     "client_msg_id": "b04bf984-f1f6-4eaf-a9c5-3d8e174f86bc",
     "name": "nekokowan_archjpslack",
     "img": "https://avatars.slack-edge.com/2020-06-22/1204027183412_7f7a529c9005aa8cce36_24.png",
-    "time": "2021/05/06 20:20:22",
+    "time": "2021/05/06 21:35:10",
     "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1620299753136200"
   },
   {
