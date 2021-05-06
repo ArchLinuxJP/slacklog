@@ -1,11 +1,47 @@
 [
   {
+    "user": "U020MDKG448",
+    "text": "でも、セクター数がぴったり18722376になるようにsda4のパーティションを減らしてもマウントできません",
+    "client_msg_id": "0e3ef996-d6de-4d7a-b0c0-7065f7ce4d8c",
+    "name": "nine-k.960klo",
+    "img": "https://secure.gravatar.com/avatar/b765de53385a64b9414bf4cdad68d027.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-24.png",
+    "time": "2021/05/06 22:30:17",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1620307335155100"
+  },
+  {
+    "user": "U020MDKG448",
+    "text": "The filesyste on /dev/sda4 is now 18722376 (4k) blocks long.",
+    "client_msg_id": "cfce95b0-7499-49f7-9232-c084e9833ded",
+    "name": "nine-k.960klo",
+    "img": "https://secure.gravatar.com/avatar/b765de53385a64b9414bf4cdad68d027.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-24.png",
+    "time": "2021/05/06 22:30:17",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1620307041155000"
+  },
+  {
+    "user": "U020MDKG448",
+    "text": "ようやく-Mが完了しました",
+    "client_msg_id": "47bab328-517d-4318-bd0d-9f343d822ffb",
+    "name": "nine-k.960klo",
+    "img": "https://secure.gravatar.com/avatar/b765de53385a64b9414bf4cdad68d027.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-24.png",
+    "time": "2021/05/06 22:30:18",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1620307004154900"
+  },
+  {
+    "user": "U020MDKG448",
+    "text": "現在: # resize2fs -M /dev/sda4",
+    "client_msg_id": "c58d7308-2b1b-431e-af6a-50f16656bfa4",
+    "name": "nine-k.960klo",
+    "img": "https://secure.gravatar.com/avatar/b765de53385a64b9414bf4cdad68d027.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-24.png",
+    "time": "2021/05/06 22:30:18",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1620304637153000"
+  },
+  {
     "user": "U0GFBAM8U",
     "text": "統合したいパーティションの後ろに続くものをバックアップ後に削除し、統合したいパーティションを拡張する感じ",
     "client_msg_id": "EB58CF68-58E1-43CB-BC33-2CC5BC8105B6",
     "name": "syui",
     "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
-    "time": "2021/05/06 21:35:00",
+    "time": "2021/05/06 22:30:18",
     "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1620303991152900"
   },
   {
