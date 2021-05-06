@@ -1,11 +1,119 @@
 [
   {
+    "user": "U0GFBAM8U",
+    "text": "dhcpcd入れてるなら、それをstartさせてみるといいかもしれません",
+    "client_msg_id": "884E6CD3-202E-47F8-A159-98D8790295E3",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2021/05/06 11:41:56",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1620264634128300"
+  },
+  {
+    "user": "U0GFBAM8U",
+    "text": "回線が遅いのか、ネットワーク設定の問題なのか、どちらかの可能性が高そう",
+    "client_msg_id": "721FC319-BA30-4983-A23B-7FA93D294D48",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2021/05/06 11:41:56",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1620264570127400"
+  },
+  {
+    "user": "U020MDKG448",
+    "text": "しかしOperation too slowだのtimeoutだの",
+    "client_msg_id": "27178c0c-7d54-4738-9aeb-842eb48c30cf",
+    "name": "nine-k.960klo",
+    "img": "https://secure.gravatar.com/avatar/b765de53385a64b9414bf4cdad68d027.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-24.png",
+    "time": "2021/05/06 11:41:56",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1620264011126200"
+  },
+  {
+    "user": "U020MDKG448",
+    "text": "今-Syyuをしています",
+    "client_msg_id": "c713e895-9f32-4a10-b3c7-b9317daf0c7a",
+    "name": "nine-k.960klo",
+    "img": "https://secure.gravatar.com/avatar/b765de53385a64b9414bf4cdad68d027.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-24.png",
+    "time": "2021/05/06 11:41:57",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1620263999126100"
+  },
+  {
+    "user": "U020MDKG448",
+    "text": "mirrorlistもwiki通りに",
+    "client_msg_id": "04675f49-4e59-45d1-baef-596334484887",
+    "name": "nine-k.960klo",
+    "img": "https://secure.gravatar.com/avatar/b765de53385a64b9414bf4cdad68d027.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-24.png",
+    "time": "2021/05/06 11:41:57",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1620263987126000"
+  },
+  {
+    "user": "U020MDKG448",
+    "text": "pingはできましたが",
+    "client_msg_id": "1b7416ad-cfce-49f3-811a-addb1c459329",
+    "name": "nine-k.960klo",
+    "img": "https://secure.gravatar.com/avatar/b765de53385a64b9414bf4cdad68d027.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-24.png",
+    "time": "2021/05/06 11:41:57",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1620263964125900"
+  },
+  {
+    "user": "U0GFBAM8U",
+    "text": "<http://github.com|github.com>とか",
+    "client_msg_id": "A7D3651F-84C4-41A5-A66D-D5E72DD10741",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2021/05/06 11:41:58",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1620263794125800"
+  },
+  {
+    "user": "U0GFBAM8U",
+    "text": "適当なpingは通ります?",
+    "client_msg_id": "999C3F1D-9B56-4EFB-AD14-A928D1DCB1F3",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2021/05/06 11:41:58",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1620263784125400"
+  },
+  {
+    "user": "U020MDKG448",
+    "text": "よく見たら最後に/を",
+    "client_msg_id": "449a82c0-f1af-4a85-ac9d-631a4bd7ae1c",
+    "name": "nine-k.960klo",
+    "img": "https://secure.gravatar.com/avatar/b765de53385a64b9414bf4cdad68d027.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-24.png",
+    "time": "2021/05/06 11:41:58",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1620263772125200"
+  },
+  {
+    "user": "U020MDKG448",
+    "text": "$ curl <https://mirrors.cat.net/archlinux/core/os|https://mirrors.cat.net/archlinux/core/os>\n結果301でした\n他、httpsのjaistとhttpのmirrors.cat.netも試した結果同様のようでした",
+    "client_msg_id": "a7c2ca12-b52f-46be-a9b4-8d0fbc914128",
+    "name": "nine-k.960klo",
+    "img": "https://secure.gravatar.com/avatar/b765de53385a64b9414bf4cdad68d027.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-24.png",
+    "time": "2021/05/06 11:41:58",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1620263720124800"
+  },
+  {
+    "user": "U0GFBAM8U",
+    "text": "もしcliでやるならpartedを使います\nresizepartなどを駆使しながら進める感じかと思います",
+    "client_msg_id": "F4904290-EF1C-49B3-B73B-F8E722CCD720",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2021/05/06 11:41:59",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1620263522124700"
+  },
+  {
+    "user": "U0GFBAM8U",
+    "text": "ダウンロードはできますか",
+    "client_msg_id": "14BD1E52-BAA8-4359-A3C5-47BD2A882DB6",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2021/05/06 11:41:59",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1620263201123200"
+  },
+  {
     "user": "U020MDKG448",
     "text": "でもここでの無線LANの設定が不適切なのか、それとも何かなのか、インストールできない環境になっています",
     "client_msg_id": "ef558d38-a88f-4ef1-ab6d-a5c7bcb4ca6a",
     "name": "nine-k.960klo",
     "img": "https://secure.gravatar.com/avatar/b765de53385a64b9414bf4cdad68d027.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-24.png",
-    "time": "2021/05/06 10:05:36",
+    "time": "2021/05/06 11:41:59",
     "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1620262909122900"
   },
   {
