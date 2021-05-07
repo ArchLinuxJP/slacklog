@@ -1,11 +1,29 @@
 [
   {
     "user": "U020MDKG448",
+    "text": "現在「後ろの100Gをそのまま残し、前の500G以上でパーティションを作成しそこで再びインストールする」ことを考えています",
+    "client_msg_id": "ffcde4a7-38c6-49a6-acf2-6e0944a5192f",
+    "name": "nine-k.960klo",
+    "img": "https://secure.gravatar.com/avatar/b765de53385a64b9414bf4cdad68d027.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-24.png",
+    "time": "2021/05/07 13:31:46",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1620358902159200"
+  },
+  {
+    "user": "U020MDKG448",
+    "text": "上記のページのコメント欄などで何をしたかを示しました\n現在の状況: sdaの後ろの方に/を移動（100G）、前の500G以上が空いている、移動の際に/usr/binや/usr/libをなくした、他に何かなくしたかもしれない",
+    "client_msg_id": "d6bc909e-4b37-48ff-9092-6da7f0990aae",
+    "name": "nine-k.960klo",
+    "img": "https://secure.gravatar.com/avatar/b765de53385a64b9414bf4cdad68d027.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-24.png",
+    "time": "2021/05/07 13:31:47",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1620358832159100"
+  },
+  {
+    "user": "U020MDKG448",
     "text": "その為sda4を元のサイズに戻しました",
     "client_msg_id": "6e5824f9-539d-44cf-8704-f821f3a187d9",
     "name": "nine-k.960klo",
     "img": "https://secure.gravatar.com/avatar/b765de53385a64b9414bf4cdad68d027.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-24.png",
-    "time": "2021/05/07 10:08:42",
+    "time": "2021/05/07 13:31:47",
     "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1620345991159000"
   },
   {
