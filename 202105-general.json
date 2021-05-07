@@ -1,11 +1,38 @@
 [
   {
+    "user": "U020MDKG448",
+    "text": "その為sda4を元のサイズに戻しました",
+    "client_msg_id": "6e5824f9-539d-44cf-8704-f821f3a187d9",
+    "name": "nine-k.960klo",
+    "img": "https://secure.gravatar.com/avatar/b765de53385a64b9414bf4cdad68d027.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-24.png",
+    "time": "2021/05/07 10:08:42",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1620345991159000"
+  },
+  {
+    "user": "U020MDKG448",
+    "text": "が、extensionにしないとそれ以上パーティションは作れないということで、以降これに従おうと: <https://unix.stackexchange.com/a/648429/451199|https://unix.stackexchange.com/a/648429/451199>",
+    "client_msg_id": "4a3c927b-1d2e-4881-b5e2-317de6667169",
+    "name": "nine-k.960klo",
+    "img": "https://secure.gravatar.com/avatar/b765de53385a64b9414bf4cdad68d027.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-24.png",
+    "time": "2021/05/07 10:08:42",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1620345688158800"
+  },
+  {
+    "user": "U020MDKG448",
+    "text": "今fdiskでsda4のサイズを適切に直しました",
+    "client_msg_id": "e600832d-8320-4d9f-9d26-45e03aa0f2e3",
+    "name": "nine-k.960klo",
+    "img": "https://secure.gravatar.com/avatar/b765de53385a64b9414bf4cdad68d027.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-24.png",
+    "time": "2021/05/07 10:08:43",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1620345507158700"
+  },
+  {
     "user": "UUWBU08TU",
     "text": "4kブロックなのでx8したサイズにしてみては。",
     "client_msg_id": "9d7ec991-5d23-4813-882b-010f5f8bcf91",
     "name": "nekokowan_archjpslack",
     "img": "https://avatars.slack-edge.com/2020-06-22/1204027183412_7f7a529c9005aa8cce36_24.png",
-    "time": "2021/05/07 00:26:54",
+    "time": "2021/05/07 10:08:43",
     "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1620313461158600"
   },
   {
