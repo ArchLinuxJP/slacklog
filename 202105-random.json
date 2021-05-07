@@ -1,11 +1,20 @@
 [
   {
+    "user": "U017BNGTHT3",
+    "text": "うちのはEFIに256M振ってて /boot にマウントしていて使用55%とかですね。\n普通の用途では500Mは多めですが、トラブルシューティング時に何か置くという使い方もアリ…？",
+    "client_msg_id": "680de5d4-0952-44fe-96e9-f820670aafc4",
+    "name": "s5is",
+    "img": "https://avatars.slack-edge.com/2020-11-29/1531495219589_cf6a2f80ce7bb820ba38_24.png",
+    "time": "2021/05/08 03:25:15",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1620409292156300"
+  },
+  {
     "user": "UCA1NQM5K",
     "text": "(ESPは/boot/efiにマウントしていてカーネルを入れてないのです)",
     "client_msg_id": "bd28df5a-5c41-4c2f-b8eb-a96e39f3d495",
     "name": "angel.beats.kanade.yu",
     "img": "https://avatars.slack-edge.com/2020-04-19/1084275690241_c2a4866502e22de56328_24.png",
-    "time": "2021/05/08 02:40:07",
+    "time": "2021/05/08 03:25:16",
     "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1620407550152700"
   },
   {
