@@ -1,11 +1,47 @@
 [
   {
+    "user": "UCA1NQM5K",
+    "text": "(ESPは/boot/efiにマウントしていてカーネルを入れてないのです)",
+    "client_msg_id": "bd28df5a-5c41-4c2f-b8eb-a96e39f3d495",
+    "name": "angel.beats.kanade.yu",
+    "img": "https://avatars.slack-edge.com/2020-04-19/1084275690241_c2a4866502e22de56328_24.png",
+    "time": "2021/05/08 02:40:07",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1620407550152700"
+  },
+  {
+    "user": "UCA1NQM5K",
+    "text": "ESPにカーネル入れるとそれくらい必要ですよね",
+    "client_msg_id": "2acf7ad5-ba88-4a69-b39a-2b9bac585f91",
+    "name": "angel.beats.kanade.yu",
+    "img": "https://avatars.slack-edge.com/2020-04-19/1084275690241_c2a4866502e22de56328_24.png",
+    "time": "2021/05/08 02:40:07",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1620407526152200"
+  },
+  {
+    "user": "U6DL9D3AB",
+    "text": "実験用でもない限りはほとんどカーネルを入れ替えないので、200-300MBくらいを割り当ててます。\n100MBだとかなりギリギリでは？",
+    "client_msg_id": "CE8E530D-7BC9-433B-8326-9AAABECE3058",
+    "name": "emtee",
+    "img": "https://avatars.slack-edge.com/2017-08-24/232261947719_1bb4d925e48fdfd0a154_24.png",
+    "time": "2021/05/08 02:40:08",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1620405825150900"
+  },
+  {
+    "user": "UCA1NQM5K",
+    "text": "そういえばみなさん EFIパーティションってどのくらい振ってますか？\n自分は100MBあれば十分だと思っているのですが、巷では500MBくらい振ってる人が結構いるので......",
+    "client_msg_id": "fc14629f-c61f-410b-85dd-226536a3dc00",
+    "name": "angel.beats.kanade.yu",
+    "img": "https://avatars.slack-edge.com/2020-04-19/1084275690241_c2a4866502e22de56328_24.png",
+    "time": "2021/05/08 02:40:08",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1620405148147500"
+  },
+  {
     "user": "U0GFBAM8U",
     "text": "お、よかったですね",
     "client_msg_id": "D7A0B450-2082-4300-A073-D7BC0D3158CD",
     "name": "syui",
     "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
-    "time": "2021/04/28,23:33:50",
+    "time": "2021/05/08 02:40:08",
     "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1619652830145800"
   },
   {
