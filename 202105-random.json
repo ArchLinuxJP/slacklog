@@ -1,11 +1,29 @@
 [
   {
+    "user": "U53RAQBCP",
+    "text": "あとは、firefoxの環境変数が正しく設定できてるかとかですね eg. `MOZ_ENABLE_WAYLAND`",
+    "client_msg_id": "978af956-e92d-477c-a5f0-e28c93490f1e",
+    "name": "kokopis",
+    "img": "https://avatars.slack-edge.com/2021-02-17/1758258964165_98bf0ec770bc4e813fb0_24.png",
+    "time": "2021/05/13 01:36:56",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1620837299172000"
+  },
+  {
+    "user": "U53RAQBCP",
+    "text": "具体的に何を改善したいかによるんですけど、hwデコードができないなら `gst-inspect-1.0 vaapi` でコーデックに対応するデコーダが出てくるか見てみたらいいと思います",
+    "client_msg_id": "08813f29-8cb9-46bf-b6c7-4edf60bf8693",
+    "name": "kokopis",
+    "img": "https://avatars.slack-edge.com/2021-02-17/1758258964165_98bf0ec770bc4e813fb0_24.png",
+    "time": "2021/05/13 01:36:56",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1620837137171900"
+  },
+  {
     "user": "U0GFBAM8U",
     "text": "<https://00.bulog.jp/archives/4756|https://00.bulog.jp/archives/4756>",
     "client_msg_id": "00ED7635-2D9A-4F30-B9CB-E8695F5B3635",
     "name": "syui",
     "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
-    "time": "2021/05/13 00:21:46",
+    "time": "2021/05/13 01:36:56",
     "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1620829647171700"
   },
   {
