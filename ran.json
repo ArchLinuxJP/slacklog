@@ -1,11 +1,65 @@
 [
   {
+    "user": "UGA29R3FH",
+    "text": "AURパッケージのメンテナ見たらny-aさんだった、何気に知ってる人を見るのは初めてだ",
+    "client_msg_id": "db68b2af-2b5e-4362-ae93-727432e1de6c",
+    "name": "znmxodq1",
+    "img": "https://avatars.slack-edge.com/2019-03-08/570571829091_2ca91fb0cc1ed2341fe0_24.png",
+    "time": "2021/05/14 01:36:04",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1620922762183600"
+  },
+  {
+    "user": "UGA29R3FH",
+    "text": "突然リポジトリからuim消失したけど何かあったんだろうか",
+    "client_msg_id": "1e11ef68-9ad5-428e-8a22-e2f992e5028c",
+    "name": "znmxodq1",
+    "img": "https://avatars.slack-edge.com/2019-03-08/570571829091_2ca91fb0cc1ed2341fe0_24.png",
+    "time": "2021/05/14 01:36:04",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1620922742183000"
+  },
+  {
+    "user": "U53RAQBCP",
+    "text": "ただfirefoxが普通にリソース食うのでハードウェアデコード効かせてもChromium系と大差ない気がします",
+    "client_msg_id": "39d85e0e-b128-46c5-973f-c364800d9fe8",
+    "name": "kokopis",
+    "img": "https://avatars.slack-edge.com/2021-02-17/1758258964165_98bf0ec770bc4e813fb0_24.png",
+    "time": "2021/05/14 01:36:04",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1620920293182300"
+  },
+  {
+    "user": "U017BNGTHT3",
+    "text": "現在はvaapi周りもffmpeg経由でやってるっぽいですね…\n<http://adakouda.blog.jp/archives/6885286.html>\n~<https://bugzilla.mozilla.org/show_bug.cgi?id=1610199>~ こっちは違うかも\nなんか有力そうな情報見つけました。",
+    "client_msg_id": "b4380f17-e070-4b52-a290-2fbf65381d09",
+    "name": "s5is",
+    "img": "https://avatars.slack-edge.com/2020-11-29/1531495219589_cf6a2f80ce7bb820ba38_24.png",
+    "time": "2021/05/14 01:36:05",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1620919984180100"
+  },
+  {
+    "user": "U53RAQBCP",
+    "text": "参考までに私のintel環境変数の設定です\n```$ printenv| grep 'MOZ_'\nMOZ_ENABLE_WAYLAND=1\nMOZ_X11_EGL=1\nMOZ_GMP_PATH=/usr/lib64/mozilla/plugins/gmp-gmpopenh264/system-installed\nMOZ_WEBRENDER=1```",
+    "client_msg_id": "97362364-46a6-4b46-b9dc-fa54a154de6f",
+    "name": "kokopis",
+    "img": "https://avatars.slack-edge.com/2021-02-17/1758258964165_98bf0ec770bc4e813fb0_24.png",
+    "time": "2021/05/14 01:36:05",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1620919788178800"
+  },
+  {
+    "user": "U53RAQBCP",
+    "text": "Firefox, GStreamer使うものだと思ったらいまは違うんですね。今使われてる `ffmpeg` のwikiがあるのでこちらを参考にするといいかも: <https://trac.ffmpeg.org/wiki/HWAccelIntro>",
+    "client_msg_id": "1404756a-f496-436e-b9ab-ea6a4a516df7",
+    "name": "kokopis",
+    "img": "https://avatars.slack-edge.com/2021-02-17/1758258964165_98bf0ec770bc4e813fb0_24.png",
+    "time": "2021/05/14 01:36:05",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1620919596177200"
+  },
+  {
     "user": "U017BNGTHT3",
     "text": "&gt; gstreamer-vaapi\ngst-inspect1.0 vaapiでデコード効いてるか確認する場合は必要ですね。\n使わないなら確認だけして消すというのもありかと。",
     "client_msg_id": "9c048507-0969-48ec-80a6-0950aeebc4f5",
     "name": "s5is",
     "img": "https://avatars.slack-edge.com/2020-11-29/1531495219589_cf6a2f80ce7bb820ba38_24.png",
-    "time": "2021/05/14 00:21:25",
+    "time": "2021/05/14 01:36:06",
     "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1620918827176100"
   },
   {
