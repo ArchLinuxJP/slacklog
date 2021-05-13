@@ -1,11 +1,29 @@
 [
   {
+    "user": "U019C7VLZ4G",
+    "text": "また、MOZ_ENABLE_WAYLAND=1にはなっており、\n`gst-inspect1.0 vaapi`は`No such element or plugin 'vaapi'`となりました。一応libva-mesa-driverはインストールしてありますが、`gstreamer-vaapi`も必要なのですか?",
+    "client_msg_id": "cad2c95a-694d-4bc0-9160-e0be42afd791",
+    "name": "getalotofmail",
+    "img": "https://secure.gravatar.com/avatar/5a7f20688dc40b2989935a11bdfa25fe.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0001-24.png",
+    "time": "2021/05/13 23:18:44",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1620914036174900"
+  },
+  {
+    "user": "U019C7VLZ4G",
+    "text": "上記のradeontopはFirefoxでYoutube(1080p)を再生時に撮影したのですが、この状態ではhwデコードはできているのでしょうか?",
+    "client_msg_id": "c9dfe31c-4a98-4023-baec-1a1ec286522a",
+    "name": "getalotofmail",
+    "img": "https://secure.gravatar.com/avatar/5a7f20688dc40b2989935a11bdfa25fe.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0001-24.png",
+    "time": "2021/05/13 23:18:45",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1620913648173300"
+  },
+  {
     "user": "U53RAQBCP",
     "text": "あとは、firefoxの環境変数が正しく設定できてるかとかですね eg. `MOZ_ENABLE_WAYLAND`",
     "client_msg_id": "978af956-e92d-477c-a5f0-e28c93490f1e",
     "name": "kokopis",
     "img": "https://avatars.slack-edge.com/2021-02-17/1758258964165_98bf0ec770bc4e813fb0_24.png",
-    "time": "2021/05/13 01:36:56",
+    "time": "2021/05/13 23:18:45",
     "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1620837299172000"
   },
   {
