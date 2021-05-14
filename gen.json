@@ -1,11 +1,47 @@
 [
   {
+    "user": "U020M0ZLKND",
+    "text": "私も今bspwm上のFirefoxでニコニコを日常的に見ているのですが、不安定と感じたことはあまり無いですね。PiPが勝手に起動したという現象もないです。\nただ回線自体が不安定な時は割とモロにその影響を受けた気がします",
+    "client_msg_id": "3C7DF9B9-9E46-4A45-AB8B-09083B170405",
+    "name": "qryxip",
+    "img": "https://secure.gravatar.com/avatar/29cf965ea58c70dba203a10ec39fe4cd.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0002-24.png",
+    "time": "2021/05/14 19:30:03",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1620987918174800"
+  },
+  {
+    "user": "U0GFBAM8U",
+    "text": "一応、設定は、プライバシーのところでcookie:on,tracking:on,cryptominers:on,fingerprinters:onと全部をonにして、about:configでjavascriptを大体trueにしてます。あと、拡張機能は入れていません。",
+    "client_msg_id": "0a1e89dd-c22e-4db9-8304-6531d8441a75",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2021/05/14 19:30:03",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1620985904171100"
+  },
+  {
+    "user": "U0GFBAM8U",
+    "text": "あと、再生したときピクチャインピクチャモードみたいなのが出てきて、i3のウィンドウが新しく立ち上がったのはびっくりした",
+    "client_msg_id": "08ae0a1c-2c21-4bb3-9efc-a714ad380370",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2021/05/14 19:30:04",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1620985675169900"
+  },
+  {
+    "user": "U0GFBAM8U",
+    "text": "ちょっとfirefoxでニコニコを再生してみましたが、今の所は安定してる気がします。\n開発者ツールのnetworkで.tsファイルを追ってみるといいかもしれません。",
+    "client_msg_id": "c16ce4a0-e12f-4762-8ef7-4c9955ae72f5",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2021/05/14 19:30:04",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1620985555169000"
+  },
+  {
     "user": "U01HE1ENNJZ",
     "text": "ないです\nchromiumだと上手く再生されます",
     "client_msg_id": "97f1e0a0-5516-473f-81ec-5df270037cba",
     "name": "a3784197",
     "img": "https://avatars.slack-edge.com/2021-01-15/1652242406097_fbfa5b69ffe23ca9a640_24.jpg",
-    "time": "2021/05/14 18:27:58",
+    "time": "2021/05/14 19:30:04",
     "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1620983346167600"
   },
   {
