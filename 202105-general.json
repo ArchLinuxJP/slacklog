@@ -1,11 +1,47 @@
 [
   {
+    "user": "UUWBU08TU",
+    "text": "パーミッションが `550` になっているが、(少なくとも最新の)パッケージでは `750` になってますよ、(意図せず変更されていたりしたら)もしかしたら変更しておいた方がいいかもしれません、くらいの話ですね\nまあ一般的にちゃんと動いてたら放置でもいいとは思いますが、warningは出ないようにしておくのがベターではあります",
+    "client_msg_id": "1c11aef4-9c87-492f-afe1-cff029e62041",
+    "name": "nekokowan_archjpslack",
+    "img": "https://avatars.slack-edge.com/2020-06-22/1204027183412_7f7a529c9005aa8cce36_24.png",
+    "time": "2021/05/17 01:46:26",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1621157350177700"
+  },
+  {
+    "user": "UUWBU08TU",
+    "text": "libalpmはパーミッション変更しないですね",
+    "client_msg_id": "7084aec2-a079-439f-a2c5-d2ab4bb020da",
+    "name": "nekokowan_archjpslack",
+    "img": "https://avatars.slack-edge.com/2020-06-22/1204027183412_7f7a529c9005aa8cce36_24.png",
+    "time": "2021/05/17 01:46:27",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1621157194177500"
+  },
+  {
+    "user": "U020MDKG448",
+    "text": "いいえ: まだ`dr-xr-x---`の通りです",
+    "client_msg_id": "30cd3021-19a4-40c7-a178-78d00f916d09",
+    "name": "nine-k.960klo",
+    "img": "https://secure.gravatar.com/avatar/b765de53385a64b9414bf4cdad68d027.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-24.png",
+    "time": "2021/05/17 01:46:27",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1621156892177300"
+  },
+  {
+    "user": "U020MDKG448",
+    "text": "話題変更失礼します\n\n```[2021-05-16T15:59:25+0900] [ALPM] warning: directory permissions differ on /etc/sudoers.d/\nfilesystem: 550  package: 750\n[2021-05-16T15:59:25+0900] [ALPM] upgraded sudo (1.9.6.p1-1 -&gt; 1.9.7-1)\n```\nこのwarningはどうすればよろしいのでしょうか?\n文字通りディレクトリのパーミッション変更ですか?\n\n参考\n<https://bbs.archlinux.org/viewtopic.php?id=218133|https://bbs.archlinux.org/viewtopic.php?id=218133>",
+    "client_msg_id": "cae63be3-21fe-474b-a724-c787321e17db",
+    "name": "nine-k.960klo",
+    "img": "https://secure.gravatar.com/avatar/b765de53385a64b9414bf4cdad68d027.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-24.png",
+    "time": "2021/05/17 01:46:27",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1621153813175200"
+  },
+  {
     "user": "U020M0ZLKND",
     "text": "私も今bspwm上のFirefoxでニコニコを日常的に見ているのですが、不安定と感じたことはあまり無いですね。PiPが勝手に起動したという現象もないです。\nただ回線自体が不安定な時は割とモロにその影響を受けた気がします",
     "client_msg_id": "3C7DF9B9-9E46-4A45-AB8B-09083B170405",
     "name": "qryxip",
     "img": "https://secure.gravatar.com/avatar/29cf965ea58c70dba203a10ec39fe4cd.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0002-24.png",
-    "time": "2021/05/14 19:30:03",
+    "time": "2021/05/17 01:46:27",
     "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1620987918174800"
   },
   {
