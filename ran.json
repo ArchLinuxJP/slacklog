@@ -1,11 +1,686 @@
 [
   {
+    "user": "UD124KPDJ",
+    "text": "ここまで人被ってるのすごいよなぁ...と毎回思ってます",
+    "client_msg_id": "0c2ce306-025b-45ca-b37e-027f075e0a00",
+    "name": "claude0803sz",
+    "img": "https://secure.gravatar.com/avatar/dc8d7b0277a1646d6842105241e8bef5.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0022-24.png",
+    "time": "2021/05/17 23:20:39",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1621260905287200"
+  },
+  {
+    "user": "UVB7L4CKH",
+    "text": "私のvimrcは53万行です（嘘）",
+    "client_msg_id": "8dede867-e1e5-44dc-b42c-680eb9962526",
+    "name": "tatsumigamou",
+    "img": "https://avatars.slack-edge.com/2020-03-12/985313571153_203fee630d3a4a1053a1_24.jpg",
+    "time": "2021/05/17 23:20:39",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1621260784285800"
+  },
+  {
+    "user": "UGA29R3FH",
+    "text": "ちなみに私終了くらいはできますよ(意味の無い強キャラアピール)",
+    "client_msg_id": "27e99a4b-4b4a-4c73-bc3c-6235b886c7e8",
+    "name": "znmxodq1",
+    "img": "https://avatars.slack-edge.com/2019-03-08/570571829091_2ca91fb0cc1ed2341fe0_24.png",
+    "time": "2021/05/17 23:20:39",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1621260770285200"
+  },
+  {
+    "user": "UVB7L4CKH",
+    "text": "いよいよどっかで見たアイコンばかりになってきたなぁ",
+    "client_msg_id": "fe438049-7c76-405b-a508-23a11a51e5ea",
+    "name": "tatsumigamou",
+    "img": "https://avatars.slack-edge.com/2020-03-12/985313571153_203fee630d3a4a1053a1_24.jpg",
+    "time": "2021/05/17 23:20:40",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1621260756284600"
+  },
+  {
+    "user": "UGA29R3FH",
+    "text": "そんなあなたにVimの使い方も載ってる万能Wiki <https://wiki.archlinux.jp/index.php/Vim>",
+    "client_msg_id": "61585f15-28d8-4c34-bfa3-74455bdb337a",
+    "name": "znmxodq1",
+    "img": "https://avatars.slack-edge.com/2019-03-08/570571829091_2ca91fb0cc1ed2341fe0_24.png",
+    "time": "2021/05/17 23:20:40",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1621260753284400"
+  },
+  {
+    "user": "U022AA9JS04",
+    "text": "よろしくおねがいします！（別人格と会話してるのだろうか... :thinking_face: ）",
+    "client_msg_id": "56e463c8-76f1-4e78-a675-f2c769b50bea",
+    "name": "peony.btn",
+    "img": "https://avatars.slack-edge.com/2021-05-17/2057420854023_74535eb4ae858ed60a8e_24.jpg",
+    "time": "2021/05/17 23:20:40",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1621260733283800"
+  },
+  {
+    "user": "UVB7L4CKH",
+    "text": "Vim使えるんですか、すごい",
+    "client_msg_id": "153e7f54-cdb4-471e-9310-fc407ab05a44",
+    "name": "tatsumigamou",
+    "img": "https://avatars.slack-edge.com/2020-03-12/985313571153_203fee630d3a4a1053a1_24.jpg",
+    "time": "2021/05/17 23:20:41",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1621260681282400"
+  },
+  {
+    "user": "U0GFBAM8U",
+    "text": "よろしくです",
+    "client_msg_id": "AB913622-EF39-4AE6-87DF-699AABA87F4A",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2021/05/17 23:20:41",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1621260554280700"
+  },
+  {
+    "user": "U70QDFN82",
+    "text": "Vimってあの終了できないやつですよね？あれでプログラミングできるなんてすごい",
+    "client_msg_id": "ca41a329-5eae-4783-85d0-f6c63660a978",
+    "name": "yutakatay",
+    "img": "https://avatars.slack-edge.com/2020-08-16/1302143736069_0baa468f7bea68e827d9_24.png",
+    "time": "2021/05/17 23:20:41",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1621260418280400"
+  },
+  {
+    "user": "U022AA9JS04",
+    "text": "こんばんは。はじめましてkatoと申します\nVim-jpでこのSlackを知ってお邪魔しました。最近ArchLinuxを使い始めたばかりでお世話になることがあるかと思いますが、よろしくおねがいします。",
+    "client_msg_id": "0efec0d9-abc9-401b-b81c-c0b6af9d7ace",
+    "name": "peony.btn",
+    "img": "https://avatars.slack-edge.com/2021-05-17/2057420854023_74535eb4ae858ed60a8e_24.jpg",
+    "time": "2021/05/17 23:20:41",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1621260359279200"
+  },
+  {
+    "user": "U0PM6EYR1",
+    "text": "風呂離脱",
+    "client_msg_id": "8d9adf5b-2a67-433c-a1c3-89b528aed887",
+    "name": "raa0121",
+    "img": "https://secure.gravatar.com/avatar/35b032d7b2d4182b0c2de1ef85ba91f2.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0009-24.png",
+    "time": "2021/05/17 23:20:42",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1621260256277900"
+  },
+  {
+    "user": "U0GFBAM8U",
+    "text": "わからないけど、わかる気がする(度しがたい",
+    "client_msg_id": "c665ded0-fa62-4ac0-86b9-2c6814158e54",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2021/05/17 23:20:42",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1621260245277700"
+  },
+  {
+    "user": "UGA29R3FH",
+    "text": "ってvim-jpからか",
+    "client_msg_id": "006457ea-491a-4b41-91a7-491a71c5c462",
+    "name": "znmxodq1",
+    "img": "https://avatars.slack-edge.com/2019-03-08/570571829091_2ca91fb0cc1ed2341fe0_24.png",
+    "time": "2021/05/17 23:20:42",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1621260230277300"
+  },
+  {
+    "user": "U0GFBAM8U",
+    "text": "(なんのあれかと思われてる可能性",
+    "client_msg_id": "2225c0a1-7425-42e4-bd72-35174fb91840",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2021/05/17 23:20:43",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1621260208276700"
+  },
+  {
+    "user": "UGA29R3FH",
+    "text": "すごいタイミングw",
+    "client_msg_id": "6e708bd8-a05a-4a9e-9465-abf9df1accb1",
+    "name": "znmxodq1",
+    "img": "https://avatars.slack-edge.com/2019-03-08/570571829091_2ca91fb0cc1ed2341fe0_24.png",
+    "time": "2021/05/17 23:20:43",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1621260194276300"
+  },
+  {
+    "user": "U0GFBAM8U",
+    "text": "こんにちは",
+    "client_msg_id": "a2f2d52e-de59-4bd5-bbf9-3b30f09ce1f6",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2021/05/17 23:20:43",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1621260183275800"
+  },
+  {
+    "user": "U0PM6EYR1",
+    "text": "このタイミングでご新規さん、いらっしゃい",
+    "client_msg_id": "4f492f8e-a3c7-4da5-a0c1-6db933faa672",
+    "name": "raa0121",
+    "img": "https://secure.gravatar.com/avatar/35b032d7b2d4182b0c2de1ef85ba91f2.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0009-24.png",
+    "time": "2021/05/17 23:20:43",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1621260176275600"
+  },
+  {
+    "user": "U0GFBAM8U",
+    "text": "度しがたいとは笑",
+    "client_msg_id": "9b2e1b70-15c4-45b4-a8f5-5eeea8286665",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2021/05/17 23:20:44",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1621260151275500"
+  },
+  {
+    "user": "U0PM6EYR1",
+    "text": "まぁ、度しがたいので… ＞メイドインアビス",
+    "client_msg_id": "24d7e562-4caa-4f5d-84eb-5fc1153245ea",
+    "name": "raa0121",
+    "img": "https://secure.gravatar.com/avatar/35b032d7b2d4182b0c2de1ef85ba91f2.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0009-24.png",
+    "time": "2021/05/17 23:20:44",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1621260132275000"
+  },
+  {
+    "user": "U70QDFN82",
+    "text": "私もメイドインアビス苦手ですね。雰囲気というか作者が透けて見える感じが・・・",
+    "client_msg_id": "868544d2-b345-4378-9d0f-eee2afeaf328",
+    "name": "yutakatay",
+    "img": "https://avatars.slack-edge.com/2020-08-16/1302143736069_0baa468f7bea68e827d9_24.png",
+    "time": "2021/05/17 23:20:44",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1621260101274900"
+  },
+  {
+    "user": "U0GFBAM8U",
+    "text": "話ちょっと戻るけど、メイドインは面白いと思うんだけど、ちょっと苦手、雰囲気が苦手",
+    "client_msg_id": "77aeb836-b93e-4f56-b0e7-0bd1bc4dcd00",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2021/05/17 23:20:45",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1621260073274400"
+  },
+  {
+    "user": "U0PM6EYR1",
+    "text": "<https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1621258928258100|https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1621258928258100>\nこのアニメ、スパイ×女子高生なんですが、戦闘多いし、苦悩もあります キャラ原がゆるゆりのなもりさん",
+    "client_msg_id": "a7449a27-cc29-48c9-b433-870869e7b1e5",
+    "name": "raa0121",
+    "img": "https://secure.gravatar.com/avatar/35b032d7b2d4182b0c2de1ef85ba91f2.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0009-24.png",
+    "time": "2021/05/17 23:20:45",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1621260044273800"
+  },
+  {
+    "user": "U70QDFN82",
+    "text": "苦悩と覚醒みたいなのが欲しい",
+    "client_msg_id": "e6b33048-1ade-40c5-a7d1-3f26eba40df6",
+    "name": "yutakatay",
+    "img": "https://avatars.slack-edge.com/2020-08-16/1302143736069_0baa468f7bea68e827d9_24.png",
+    "time": "2021/05/17 23:20:45",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1621259985273600"
+  },
+  {
+    "user": "U70QDFN82",
+    "text": "日常系ってストーリーに抑揚がないじゃないですか。あれが私は許せない。",
+    "client_msg_id": "c234c288-fa07-4a44-9ca7-0f0efa1ec6f5",
+    "name": "yutakatay",
+    "img": "https://avatars.slack-edge.com/2020-08-16/1302143736069_0baa468f7bea68e827d9_24.png",
+    "time": "2021/05/17 23:20:46",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1621259966272500"
+  },
+  {
+    "user": "U70QDFN82",
+    "text": "へー見たことないですね。グレンラガン系かな？",
+    "client_msg_id": "9922eee1-453a-42ba-9f3e-404b59f5e2ef",
+    "name": "yutakatay",
+    "img": "https://avatars.slack-edge.com/2020-08-16/1302143736069_0baa468f7bea68e827d9_24.png",
+    "time": "2021/05/17 23:20:46",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1621259945271700"
+  },
+  {
+    "user": "U0PM6EYR1",
+    "text": "血がたぎる、グレンラガン",
+    "client_msg_id": "2b7fb568-332e-4dda-926d-af7d432767bb",
+    "name": "raa0121",
+    "img": "https://secure.gravatar.com/avatar/35b032d7b2d4182b0c2de1ef85ba91f2.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0009-24.png",
+    "time": "2021/05/17 23:20:46",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1621259943271600"
+  },
+  {
+    "user": "U6DL9D3AB",
+    "text": "暑苦しい系だとガンXソードがおすすめ",
+    "client_msg_id": "B43A0CB2-3CE2-4997-82C2-5C5D493E0D17",
+    "name": "emtee",
+    "img": "https://avatars.slack-edge.com/2017-08-24/232261947719_1bb4d925e48fdfd0a154_24.png",
+    "time": "2021/05/17 23:20:46",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1621259897271100"
+  },
+  {
+    "user": "U70QDFN82",
+    "text": "私はまあ好きですけど別にグロじゃないやつですねw戦闘的な？\nあとは血がたぎる系？",
+    "client_msg_id": "06609f88-94bd-40d8-bafe-72a8f071e548",
+    "name": "yutakatay",
+    "img": "https://avatars.slack-edge.com/2020-08-16/1302143736069_0baa468f7bea68e827d9_24.png",
+    "time": "2021/05/17 23:20:47",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1621259867270000"
+  },
+  {
+    "user": "U0GFBAM8U",
+    "text": "yutkatさんでは",
+    "client_msg_id": "ce49e47e-515c-4661-ab54-48e8f6461b0c",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2021/05/17 23:20:47",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1621259810268800"
+  },
+  {
+    "user": "UGA29R3FH",
+    "text": "えっ",
+    "client_msg_id": "e1820bf1-7410-44e9-b0a4-da661af66aa0",
+    "name": "znmxodq1",
+    "img": "https://avatars.slack-edge.com/2019-03-08/570571829091_2ca91fb0cc1ed2341fe0_24.png",
+    "time": "2021/05/17 23:20:47",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1621259808268700"
+  },
+  {
+    "user": "U0GFBAM8U",
+    "text": "いや、私じゃないよ、それ",
+    "client_msg_id": "2b58b745-0a7a-48d5-9c1a-54f60c3e7d8e",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2021/05/17 23:20:48",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1621259793268200"
+  },
+  {
+    "user": "U0PM6EYR1",
+    "text": "syui さんは吸血鬼だった！？",
+    "client_msg_id": "c019b87d-45b4-422c-85e5-614453fb009f",
+    "name": "raa0121",
+    "img": "https://secure.gravatar.com/avatar/35b032d7b2d4182b0c2de1ef85ba91f2.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0009-24.png",
+    "time": "2021/05/17 23:20:48",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1621259776267900"
+  },
+  {
+    "user": "U0PM6EYR1",
+    "text": "血が好き、ワンチャン吸血鬼って可能性もあるのか",
+    "client_msg_id": "57af376c-78aa-4711-a20a-bf6eee6d2d87",
+    "name": "raa0121",
+    "img": "https://secure.gravatar.com/avatar/35b032d7b2d4182b0c2de1ef85ba91f2.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0009-24.png",
+    "time": "2021/05/17 23:20:48",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1621259753267500"
+  },
+  {
+    "user": "U0GFBAM8U",
+    "text": "あー、エルフェンリートってのもよく話題に上がってるの見るなあ、見たことないけど",
+    "client_msg_id": "07eac0ef-21af-42fb-bd31-e79d3a4ed940",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2021/05/17 23:20:48",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1621259718267400"
+  },
+  {
+    "user": "U0PM6EYR1",
+    "text": "メイドインアビス、原作半額セールしてたので、全巻買って読んだ",
+    "client_msg_id": "b05d0705-7f76-4fa1-b1c0-3b4d52107ad9",
+    "name": "raa0121",
+    "img": "https://secure.gravatar.com/avatar/35b032d7b2d4182b0c2de1ef85ba91f2.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0009-24.png",
+    "time": "2021/05/17 23:20:49",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1621259694266700"
+  },
+  {
+    "user": "U6DL9D3AB",
+    "text": "血がお好きならエルフェンリートは外せない",
+    "client_msg_id": "2F6F26CE-6EDA-4975-93D3-56E7BF0BB37C",
+    "name": "emtee",
+    "img": "https://avatars.slack-edge.com/2017-08-24/232261947719_1bb4d925e48fdfd0a154_24.png",
+    "time": "2021/05/17 23:20:49",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1621259690266600"
+  },
+  {
+    "user": "U019C7VLZ4G",
+    "text": "アニメ雑談、すき",
+    "client_msg_id": "8ff1abc8-3474-4fee-bda5-0778676d3e70",
+    "name": "getalotofmail",
+    "img": "https://secure.gravatar.com/avatar/5a7f20688dc40b2989935a11bdfa25fe.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0001-24.png",
+    "time": "2021/05/17 23:20:49",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1621259668266100"
+  },
+  {
+    "user": "U70QDFN82",
+    "text": "w",
+    "client_msg_id": "6809df48-84c9-4919-8a27-e2d58d7f655f",
+    "name": "yutakatay",
+    "img": "https://avatars.slack-edge.com/2020-08-16/1302143736069_0baa468f7bea68e827d9_24.png",
+    "time": "2021/05/17 23:20:50",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1621259615265800"
+  },
+  {
+    "user": "UGA29R3FH",
+    "text": "そういえばと思ってメイドインアビス観てるけど雰囲気いいな",
+    "client_msg_id": "9e8bd010-7e6f-48b5-8b9e-949279e0e57b",
+    "name": "znmxodq1",
+    "img": "https://avatars.slack-edge.com/2019-03-08/570571829091_2ca91fb0cc1ed2341fe0_24.png",
+    "time": "2021/05/17 23:20:50",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1621259614265600"
+  },
+  {
+    "user": "U0PM6EYR1",
+    "text": "696人にアニメ雑談垂れ流してるのか",
+    "client_msg_id": "0788900a-3f68-4d7e-b501-bbb605b8cde9",
+    "name": "raa0121",
+    "img": "https://secure.gravatar.com/avatar/35b032d7b2d4182b0c2de1ef85ba91f2.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0009-24.png",
+    "time": "2021/05/17 23:20:50",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1621259597265100"
+  },
+  {
+    "user": "U0GFBAM8U",
+    "text": "彼方のアストラ、見たけど、面白かったですし、好き",
+    "client_msg_id": "823ef458-f546-47ed-958f-3d6d1fd0f8e9",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2021/05/17 23:20:50",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1621259592264900"
+  },
+  {
+    "user": "U0GFBAM8U",
+    "text": "ニアアンダーセブン、検索してみたんですが、レインでしたっけ、たまに話題に上がったりするアニメに雰囲気似てるなっておもいました",
+    "client_msg_id": "ec191216-c869-46db-9569-3f2620bd383e",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2021/05/17 23:20:51",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1621259569264100"
+  },
+  {
+    "user": "U70QDFN82",
+    "text": "そういえば彼方のアストラは面白かったですね。アニメも",
+    "client_msg_id": "3d03f12b-cbc8-4320-b46b-02d9bb12c0f0",
+    "name": "yutakatay",
+    "img": "https://avatars.slack-edge.com/2020-08-16/1302143736069_0baa468f7bea68e827d9_24.png",
+    "time": "2021/05/17 23:20:51",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1621259525263100"
+  },
+  {
+    "user": "U70QDFN82",
+    "text": "私基本流し見はしない主義なんで真剣に見たい",
+    "client_msg_id": "cb09da23-dd60-4919-9ba7-72166fd9bdb6",
+    "name": "yutakatay",
+    "img": "https://avatars.slack-edge.com/2020-08-16/1302143736069_0baa468f7bea68e827d9_24.png",
+    "time": "2021/05/17 23:20:51",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1621259509262600"
+  },
+  {
+    "user": "U6DL9D3AB",
+    "text": "ぼんやり流し見する分にはニアアンダーセブンが好きです",
+    "client_msg_id": "30C1D0D0-4251-4C7D-A607-DC0594F568A4",
+    "name": "emtee",
+    "img": "https://avatars.slack-edge.com/2017-08-24/232261947719_1bb4d925e48fdfd0a154_24.png",
+    "time": "2021/05/17 23:20:52",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1621259471262100"
+  },
+  {
+    "user": "U0GFBAM8U",
+    "text": "海外の人に人気あります",
+    "client_msg_id": "b3629b11-ec80-40af-a926-99857064d265",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2021/05/17 23:20:52",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1621259462261700"
+  },
+  {
+    "user": "U70QDFN82",
+    "text": "GitHub上ではよく見るんですけどね・・・アイコン",
+    "client_msg_id": "8073e076-8579-4b5b-8eda-5793e7a41f7c",
+    "name": "yutakatay",
+    "img": "https://avatars.slack-edge.com/2020-08-16/1302143736069_0baa468f7bea68e827d9_24.png",
+    "time": "2021/05/17 23:20:52",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1621259444260900"
+  },
+  {
+    "user": "U0GFBAM8U",
+    "text": "好みにもよりますが、めっちゃ面白いですよ",
+    "client_msg_id": "7ffdd79d-b845-4a8a-8c54-7c2a4535fee5",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2021/05/17 23:20:52",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1621259436260500"
+  },
+  {
+    "user": "U0PM6EYR1",
+    "text": "日常、そういえばちゃんと見てないな",
+    "client_msg_id": "7098d886-eb63-4740-8895-1ed3e29695b6",
+    "name": "raa0121",
+    "img": "https://secure.gravatar.com/avatar/35b032d7b2d4182b0c2de1ef85ba91f2.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0009-24.png",
+    "time": "2021/05/17 23:20:53",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1621259423260100"
+  },
+  {
+    "user": "U0GFBAM8U",
+    "text": "日常ってアニメなんですけど、あれ、なのパートが好きな人と、ゆっこパートが好きな人で分かれる気がする",
+    "client_msg_id": "c59be565-e429-4b70-987c-e9c40566261d",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2021/05/17 23:20:53",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1621259362260000"
+  },
+  {
+    "user": "U0GFBAM8U",
+    "text": "コメディは日常が好き",
+    "client_msg_id": "000c9d07-b8d1-4975-afef-3a8339781355",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2021/05/17 23:20:53",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1621259271259300"
+  },
+  {
+    "user": "U70QDFN82",
+    "text": "あと完全にホラーコメディ？になっちゃうけど見える子ちゃん",
+    "client_msg_id": "38a5efad-06cd-453f-8ef5-6aa7f5c386e7",
+    "name": "yutakatay",
+    "img": "https://avatars.slack-edge.com/2020-08-16/1302143736069_0baa468f7bea68e827d9_24.png",
+    "time": "2021/05/17 23:20:54",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1621259119259000"
+  },
+  {
+    "user": "U70QDFN82",
+    "text": "ブルーピリオドがアニメ化するらしいから期待してる",
+    "client_msg_id": "7bf4098c-f38e-4457-b77e-0f6357b0ad09",
+    "name": "yutakatay",
+    "img": "https://avatars.slack-edge.com/2020-08-16/1302143736069_0baa468f7bea68e827d9_24.png",
+    "time": "2021/05/17 23:20:54",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1621258970258500"
+  },
+  {
+    "user": "U0PM6EYR1",
+    "text": "今、積んでた RELEASE THE SPICE 見てる",
+    "client_msg_id": "f4098055-8139-4235-8312-a30516311487",
+    "name": "raa0121",
+    "img": "https://secure.gravatar.com/avatar/35b032d7b2d4182b0c2de1ef85ba91f2.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0009-24.png",
+    "time": "2021/05/17 23:20:54",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1621258928258100"
+  },
+  {
+    "user": "UUWBU08TU",
+    "text": "私の時が止まっているだけだった",
+    "client_msg_id": "62e4c27b-116f-48a4-98cb-02fbc7a52715",
+    "name": "nekokowan_archjpslack",
+    "img": "https://avatars.slack-edge.com/2020-06-22/1204027183412_7f7a529c9005aa8cce36_24.png",
+    "time": "2021/05/17 23:20:54",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1621258888258000"
+  },
+  {
+    "user": "U0GFBAM8U",
+    "text": "アニメにハマってから、昔のアニメとか見たんですけど、やっぱ面白いもの多かった\n特に面白かったなって思ったのが、CCさくら、ガンダムSEED、攻殻機動隊とかかなあ",
+    "client_msg_id": "4d539e78-cd77-461e-aeab-f2561caa451d",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2021/05/17 23:20:55",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1621258871257900"
+  },
+  {
+    "user": "U0GFBAM8U",
+    "text": "最近、新しい話出てきた気がするけど、やっぱ2,3年くらい前だったかな",
+    "client_msg_id": "4025fea3-3c13-42bc-8449-fd54e70bf4f1",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2021/05/17 23:20:55",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1621258796256900"
+  },
+  {
+    "user": "U70QDFN82",
+    "text": "一番新しいやつは3-5年くらい前じゃなかったですっけ？？昔は楽しみにしてたけどコンテンツあふれるこの時代だとなー",
+    "client_msg_id": "5ffb5834-fff6-47f5-a380-0491e1589a1b",
+    "name": "yutakatay",
+    "img": "https://avatars.slack-edge.com/2020-08-16/1302143736069_0baa468f7bea68e827d9_24.png",
+    "time": "2021/05/17 23:20:55",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1621258796256800"
+  },
+  {
+    "user": "UUWBU08TU",
+    "text": "一昔前……3-5年前かな？と思ったら攻殻機動隊……w",
+    "client_msg_id": "36d89217-6492-40d8-a794-8685a5f9170e",
+    "name": "nekokowan_archjpslack",
+    "img": "https://avatars.slack-edge.com/2020-06-22/1204027183412_7f7a529c9005aa8cce36_24.png",
+    "time": "2021/05/17 23:20:56",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1621258747255300"
+  },
+  {
+    "user": "U0GFBAM8U",
+    "text": "あれお話がちょっとよくわからないところありますし、どこから見ていいのかとかも分かりづらいですよね",
+    "client_msg_id": "b2eccd53-d5b0-47db-8fb9-b28785703ee4",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2021/05/17 23:20:56",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1621258735255100"
+  },
+  {
+    "user": "UBEFL3YLE",
+    "text": "やはり最初の劇場版でしょう",
+    "client_msg_id": "1061d53f-6be1-405e-904c-3ca0fc643297",
+    "name": "mail",
+    "img": "https://secure.gravatar.com/avatar/23a2be2c0c837372158d36ca83743fe5.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0018-24.png",
+    "time": "2021/05/17 23:20:56",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1621258723254800"
+  },
+  {
+    "user": "U70QDFN82",
+    "text": "1話完結で名作って言われてるエピソードつまむか、普通にメインストーリーだけ抜粋して見るかでいい気がしますね",
+    "client_msg_id": "f8eec830-803b-447d-bae5-b12726b3f4a2",
+    "name": "yutakatay",
+    "img": "https://avatars.slack-edge.com/2020-08-16/1302143736069_0baa468f7bea68e827d9_24.png",
+    "time": "2021/05/17 23:20:56",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1621258690254300"
+  },
+  {
+    "user": "U0PM6EYR1",
+    "text": "攻殻機動隊、どこから見るのがいいんやろ",
+    "client_msg_id": "ba783218-4863-4279-8358-a5d83c0a0636",
+    "name": "raa0121",
+    "img": "https://secure.gravatar.com/avatar/35b032d7b2d4182b0c2de1ef85ba91f2.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0009-24.png",
+    "time": "2021/05/17 23:20:57",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1621258645253400"
+  },
+  {
+    "user": "U70QDFN82",
+    "text": "そういえば私も最新のやつは見てないですね",
+    "client_msg_id": "556f9bfc-6f19-45cc-aa66-815c474ee6e4",
+    "name": "yutakatay",
+    "img": "https://avatars.slack-edge.com/2020-08-16/1302143736069_0baa468f7bea68e827d9_24.png",
+    "time": "2021/05/17 23:20:57",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1621258582253300"
+  },
+  {
+    "user": "U0GFBAM8U",
+    "text": "それです、私もまあまあ面白かったし、好きですね",
+    "client_msg_id": "ce7c76dd-267d-46f1-9714-da689f1e761c",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2021/05/17 23:20:57",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1621258575253000"
+  },
+  {
+    "user": "U70QDFN82",
+    "text": "攻殻機動隊ですね",
+    "client_msg_id": "7a02b477-4079-41e1-84cc-da3980f58e60",
+    "name": "yutakatay",
+    "img": "https://avatars.slack-edge.com/2020-08-16/1302143736069_0baa468f7bea68e827d9_24.png",
+    "time": "2021/05/17 23:20:58",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1621258554252300"
+  },
+  {
+    "user": "U0GFBAM8U",
+    "text": "電脳空間とかタチコマとか",
+    "client_msg_id": "01270ed6-d97c-4128-8efa-e3f8b1467974",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2021/05/17 23:20:58",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1621258541252000"
+  },
+  {
+    "user": "U0GFBAM8U",
+    "text": "タイトルは何だったかな、サイコパスに似た感じのアニメだったんですが",
+    "client_msg_id": "8b4f1227-ed16-4653-8993-b0b7928941dc",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2021/05/17 23:20:58",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1621258493251700"
+  },
+  {
+    "user": "U0GFBAM8U",
+    "text": "あれは見ました?サイバーのやつ、一昔前の",
+    "client_msg_id": "aa58b946-ea05-4d7c-bfe0-ec786cd3d7a2",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2021/05/17 23:20:58",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1621258465251200"
+  },
+  {
+    "user": "UVB7L4CKH",
+    "text": "いじめるヤバイ奴が気になってる",
+    "client_msg_id": "5fcc541f-9a70-4b6d-95a2-1227a1fa6f5b",
+    "name": "tatsumigamou",
+    "img": "https://avatars.slack-edge.com/2020-03-12/985313571153_203fee630d3a4a1053a1_24.jpg",
+    "time": "2021/05/17 23:20:59",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1621258456251000"
+  },
+  {
+    "user": "U70QDFN82",
+    "text": "最近おもしろいアニメ出会えてない気がするなーマンガはポツポツあるけど",
+    "client_msg_id": "8a6f5d7b-f291-4387-9427-2290abeeffb8",
+    "name": "yutakatay",
+    "img": "https://avatars.slack-edge.com/2020-08-16/1302143736069_0baa468f7bea68e827d9_24.png",
+    "time": "2021/05/17 23:20:59",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1621258421250200"
+  },
+  {
+    "user": "U70QDFN82",
+    "text": "サイコパスキャラがw",
+    "client_msg_id": "15d27e8c-ac0c-47e9-a13d-57d122f1122e",
+    "name": "yutakatay",
+    "img": "https://avatars.slack-edge.com/2020-08-16/1302143736069_0baa468f7bea68e827d9_24.png",
+    "time": "2021/05/17 23:20:59",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1621258321249500"
+  },
+  {
+    "user": "UGA29R3FH",
+    "text": "抜刀斎",
+    "client_msg_id": "0228b077-26c7-4f37-ae3b-fa96f05ca95e",
+    "name": "znmxodq1",
+    "img": "https://avatars.slack-edge.com/2019-03-08/570571829091_2ca91fb0cc1ed2341fe0_24.png",
+    "time": "2021/05/17 23:21:00",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1621258320249400"
+  },
+  {
+    "user": "U0GFBAM8U",
+    "text": "アイコンが風評被害してる",
+    "client_msg_id": "76fbf2fa-d0cb-4ad9-b9af-4a041de4d29f",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2021/05/17 23:21:00",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1621258311249100"
+  },
+  {
+    "user": "UVB7L4CKH",
+    "text": "刀傷の跡",
+    "client_msg_id": "4524405d-dda0-439c-b5b1-6d7d0509b39f",
+    "name": "tatsumigamou",
+    "img": "https://avatars.slack-edge.com/2020-03-12/985313571153_203fee630d3a4a1053a1_24.jpg",
+    "time": "2021/05/17 23:21:00",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1621258297248600"
+  },
+  {
     "user": "UGA29R3FH",
     "text": "凶",
     "client_msg_id": "ce2ff0dd-c4ef-47ae-889d-5c6811f9a321",
     "name": "znmxodq1",
     "img": "https://avatars.slack-edge.com/2019-03-08/570571829091_2ca91fb0cc1ed2341fe0_24.png",
-    "time": "2021/05/17 22:30:58",
+    "time": "2021/05/17 23:21:00",
     "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1621258222248100"
   },
   {
