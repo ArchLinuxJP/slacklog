@@ -1,11 +1,47 @@
 [
   {
     "user": "U01HE1ENNJZ",
+    "text": "できましたがdpmsと関係あるのですか？",
+    "client_msg_id": "24bc3fad-0037-42d0-ba06-4977a61e83cb",
+    "name": "a3784197",
+    "img": "https://avatars.slack-edge.com/2021-01-15/1652242406097_fbfa5b69ffe23ca9a640_24.jpg",
+    "time": "2021/05/18 21:28:52",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1621338961013300"
+  },
+  {
+    "user": "U0GFBAM8U",
+    "text": "あとディレクトリとかファイル名とか若干異なる場合あります",
+    "client_msg_id": "A6CD9E45-525F-4760-89EA-3E752DCA4FC7",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2021/05/18 21:28:52",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1621337150012900"
+  },
+  {
+    "user": "U0GFBAM8U",
+    "text": "最大値はパソコンによって異なるんですけど、出来れば大きい値のほうがいいかな",
+    "client_msg_id": "533C0D48-4DD4-44A4-AB6E-250AE3BE458D",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2021/05/18 21:28:52",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1621337088012000"
+  },
+  {
+    "user": "U0GFBAM8U",
+    "text": "こういうコマンドで値を書き換えることできます?\ntee /sys/class/backlight/acpi_video0/brightness &lt;&lt;&lt; 5",
+    "client_msg_id": "1183D5DC-7562-47D7-9723-F9CDD09A6499",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2021/05/18 21:28:53",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1621337043011100"
+  },
+  {
+    "user": "U01HE1ENNJZ",
     "text": "できませんでした\n`mmap /dev/zero: Operation not permitted\nFailed to initialise LRMI (Linux Real-Mode Interface).`",
     "client_msg_id": "c78a1270-4565-4827-91f8-63716ee0e340",
     "name": "a3784197",
     "img": "https://avatars.slack-edge.com/2021-01-15/1652242406097_fbfa5b69ffe23ca9a640_24.jpg",
-    "time": "2021/05/18 20:15:49",
+    "time": "2021/05/18 21:28:53",
     "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1621335878010300"
   },
   {
