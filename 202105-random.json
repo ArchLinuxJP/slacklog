@@ -1,11 +1,74 @@
 [
   {
+    "user": "U01J1GGMHDJ",
+    "text": "拾い物です（最後の動くのかなぁ）\nWay to turn screen off · Issue #1129 · swaywm/sway\n<https://github.com/swaywm/sway/issues/1129|https://github.com/swaywm/sway/issues/1129>",
+    "client_msg_id": "e1b73110-f585-48c2-bd33-d27fad79194c",
+    "name": "naokihirokitomoki",
+    "img": "https://avatars.slack-edge.com/2021-01-01/1607396797362_a9967cc229f49d114f8a_24.jpg",
+    "time": "2021/05/18 17:22:06",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1621324100006700"
+  },
+  {
+    "user": "U01J1GGMHDJ",
+    "text": "そもそもxsetはX11環境の物だから動かないのかも （Wayland分からん）",
+    "client_msg_id": "5c55c3d7-2b04-4596-b0f2-e55f30c6a464",
+    "name": "naokihirokitomoki",
+    "img": "https://avatars.slack-edge.com/2021-01-01/1607396797362_a9967cc229f49d114f8a_24.jpg",
+    "time": "2021/05/18 17:22:06",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1621324043006600"
+  },
+  {
+    "user": "U0GFBAM8U",
+    "text": "の箇所ですが、うまくいかない場合もあります",
+    "client_msg_id": "D9AF9B81-8B6F-4167-8400-E90843E042C6",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2021/05/18 17:22:07",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1621323868006500"
+  },
+  {
+    "user": "U0GFBAM8U",
+    "text": "&gt; /etc/X11/xorg.conf.d/ 下のファイルの Monitor セクションに追加してください",
+    "client_msg_id": "06ED3B55-518A-4B92-827D-6897595A70AB",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2021/05/18 17:22:07",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1621323837005900"
+  },
+  {
+    "user": "U0GFBAM8U",
+    "text": "こちらを参考にやってみるといいかも\n<https://wiki.archlinux.jp/index.php/Display_Power_Management_Signaling|https://wiki.archlinux.jp/index.php/Display_Power_Management_Signaling>",
+    "client_msg_id": "1696EB5B-6FE4-41BD-B1B4-887D3512A6D6",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2021/05/18 17:22:07",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1621323770005600"
+  },
+  {
+    "user": "U01HE1ENNJZ",
+    "text": "swayかi3どちらかを捨てるしかないんでしょうか？",
+    "client_msg_id": "8bdbd64a-31ab-4dda-90ca-5c7b2ea2f805",
+    "name": "a3784197",
+    "img": "https://avatars.slack-edge.com/2021-01-15/1652242406097_fbfa5b69ffe23ca9a640_24.jpg",
+    "time": "2021/05/18 17:22:08",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1621323633005000"
+  },
+  {
+    "user": "U01HE1ENNJZ",
+    "text": "swayを始めたのですが\nスリープフック(<https://wiki.archlinux.jp/index.php/%E9%9B%BB%E6%BA%90%E7%AE%A1%E7%90%86#.E3.82.B9.E3.83.AA.E3.83.BC.E3.83.97.E3.83.95.E3.83.83.E3.82.AF>)　<https://github.com/u0a266/etc/blob/master/systemd/system/suspend%40.service>\\でX11環境ではうまくできたのですがswayではxset dpms force offできないのでどうすれば良いでしょうか",
+    "client_msg_id": "cccf6474-ccbb-402f-b6b6-7f8a66e926e3",
+    "name": "a3784197",
+    "img": "https://avatars.slack-edge.com/2021-01-15/1652242406097_fbfa5b69ffe23ca9a640_24.jpg",
+    "time": "2021/05/18 17:22:08",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1621323594004400"
+  },
+  {
     "user": "U01HE1ENNJZ",
     "text": "こんにちは",
     "client_msg_id": "84b9db74-7444-4b70-994b-fd5c44e639da",
     "name": "a3784197",
     "img": "https://avatars.slack-edge.com/2021-01-15/1652242406097_fbfa5b69ffe23ca9a640_24.jpg",
-    "time": "2021/05/18 11:49:05",
+    "time": "2021/05/18 17:22:08",
     "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1621300979000900"
   },
   {
