@@ -1,11 +1,38 @@
 [
   {
+    "user": "U01HE1ENNJZ",
+    "text": "できませんでした\n`mmap /dev/zero: Operation not permitted\nFailed to initialise LRMI (Linux Real-Mode Interface).`",
+    "client_msg_id": "c78a1270-4565-4827-91f8-63716ee0e340",
+    "name": "a3784197",
+    "img": "https://avatars.slack-edge.com/2021-01-15/1652242406097_fbfa5b69ffe23ca9a640_24.jpg",
+    "time": "2021/05/18 20:15:49",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1621335878010300"
+  },
+  {
+    "user": "U0GFBAM8U",
+    "text": "vbetool dpms on\nが使える場合があるらしい",
+    "client_msg_id": "41CEC0D2-0AB4-4882-937D-64380D164436",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2021/05/18 20:15:50",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1621335383009900"
+  },
+  {
+    "user": "U01HE1ENNJZ",
+    "text": "`swaymsg \"output * dpms off\"`\nでできたのですがキーボードなどを押しても復帰しないのでどうしたものかと思ってます",
+    "client_msg_id": "5455c8d4-32a3-4c44-9992-b79b8dfa1e24",
+    "name": "a3784197",
+    "img": "https://avatars.slack-edge.com/2021-01-15/1652242406097_fbfa5b69ffe23ca9a640_24.jpg",
+    "time": "2021/05/18 20:15:50",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1621335169009500"
+  },
+  {
     "user": "U0GFBAM8U",
     "text": "ここら辺のやつで代替してみるとか\n<https://wiki.archlinux.jp/index.php/%E3%83%90%E3%83%83%E3%82%AF%E3%83%A9%E3%82%A4%E3%83%88|https://wiki.archlinux.jp/index.php/バックライト>",
     "client_msg_id": "D0F229CB-98C2-412E-BB71-D8896C78D270",
     "name": "syui",
     "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
-    "time": "2021/05/18 19:20:25",
+    "time": "2021/05/18 20:15:50",
     "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1621333125008500"
   },
   {
