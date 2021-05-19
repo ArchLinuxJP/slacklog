@@ -1,11 +1,83 @@
 [
   {
+    "user": "U01J1GGMHDJ",
+    "text": "多分解決には関係無いと思うのですが、私は/lib/systemd/systemd-sleepを使ってロックやスリープ時の効果音鳴らしたりしてますね。（スリープ解除前後の処理をシェルスクリプトのif文で書けるのが良き）",
+    "client_msg_id": "8f66cac8-6d64-455d-a049-08dcbc989d41",
+    "name": "naokihirokitomoki",
+    "img": "https://avatars.slack-edge.com/2021-01-01/1607396797362_a9967cc229f49d114f8a_24.jpg",
+    "time": "2021/05/19 15:23:48",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1621403553055100"
+  },
+  {
+    "user": "U0GFBAM8U",
+    "text": "私の場合、電源管理周りどう設定したのか、ほぼほぼ忘れてますね",
+    "client_msg_id": "86AE39C7-F076-4151-ADEA-BC2343468905",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2021/05/19 15:23:48",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1621403450054900"
+  },
+  {
+    "user": "UBEFL3YLE",
+    "text": "電源全般を管理するGUIソフトウェアなので「蓋閉じてロック」だけが目的だとオーバースペックかも",
+    "client_msg_id": "1c231f96-91b6-4423-8661-487b23f58fc7",
+    "name": "mail",
+    "img": "https://secure.gravatar.com/avatar/23a2be2c0c837372158d36ca83743fe5.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0018-24.png",
+    "time": "2021/05/19 15:23:49",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1621402941053900"
+  },
+  {
+    "user": "UBEFL3YLE",
+    "text": "僕はそのあたり横着してxfce4-power-managerを入れてしまったなあ",
+    "client_msg_id": "7a47cf39-0641-48fc-bfff-e9dbd9437da9",
+    "name": "mail",
+    "img": "https://secure.gravatar.com/avatar/23a2be2c0c837372158d36ca83743fe5.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0018-24.png",
+    "time": "2021/05/19 15:23:49",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1621402870052700"
+  },
+  {
+    "user": "U01HE1ENNJZ",
+    "text": "試してみます",
+    "client_msg_id": "5bd29ff4-a0fa-4e92-804a-fce9bf759ae7",
+    "name": "a3784197",
+    "img": "https://avatars.slack-edge.com/2021-01-15/1652242406097_fbfa5b69ffe23ca9a640_24.jpg",
+    "time": "2021/05/19 15:23:50",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1621402681052000"
+  },
+  {
+    "user": "U0GFBAM8U",
+    "text": "わかんないですが、おそらく",
+    "client_msg_id": "9D1BD417-998D-40B6-AB73-6412A6BAC09A",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2021/05/19 15:23:50",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1621402668051800"
+  },
+  {
+    "user": "U01HE1ENNJZ",
+    "text": "acpidに変えた場合systemd-logind切ったほうがいいですよね",
+    "client_msg_id": "04d0b05c-2e6c-48b0-8029-001409a5708a",
+    "name": "a3784197",
+    "img": "https://avatars.slack-edge.com/2021-01-15/1652242406097_fbfa5b69ffe23ca9a640_24.jpg",
+    "time": "2021/05/19 15:23:50",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1621402591051500"
+  },
+  {
+    "user": "U0GFBAM8U",
+    "text": "acpidデーモンに置き換えることができるかもしれないので、試してみるといかも <https://wiki.archlinux.jp/index.php/Acpid|https://wiki.archlinux.jp/index.php/Acpid>",
+    "client_msg_id": "36615E2F-398C-41D6-B7A3-99449ABDE7B2",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2021/05/19 15:23:51",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1621402447050700"
+  },
+  {
     "user": "U01HE1ENNJZ",
     "text": "<https://gist.github.com/u0a266/4739150f8e65f2ab73d09df83281ff03>\n<https://github.com/u0a266/etc/blob/master/systemd/system/suspend%40.service>\nswayでは蓋閉じてロックかかるようになったのですがx11ではなぜかかからなくなりました\nシェルスクリプト初心者なので教えてください",
     "client_msg_id": "7fe05c53-5cf3-404b-8a0e-a11f42aa8d4f",
     "name": "a3784197",
     "img": "https://avatars.slack-edge.com/2021-01-15/1652242406097_fbfa5b69ffe23ca9a640_24.jpg",
-    "time": "2021/05/19 14:24:49",
+    "time": "2021/05/19 15:23:51",
     "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1621401237048800"
   },
   {
