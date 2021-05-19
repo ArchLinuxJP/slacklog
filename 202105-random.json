@@ -1,11 +1,209 @@
 [
   {
+    "user": "U01HE1ENNJZ",
+    "text": "<https://gist.github.com/u0a266/4739150f8e65f2ab73d09df83281ff03>\n<https://github.com/u0a266/etc/blob/master/systemd/system/suspend%40.service>\nswayでは蓋閉じてロックかかるようになったのですがx11ではなぜかかからなくなりました\nシェルスクリプト初心者なので教えてください",
+    "client_msg_id": "7fe05c53-5cf3-404b-8a0e-a11f42aa8d4f",
+    "name": "a3784197",
+    "img": "https://avatars.slack-edge.com/2021-01-15/1652242406097_fbfa5b69ffe23ca9a640_24.jpg",
+    "time": "2021/05/19 14:24:49",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1621401237048800"
+  },
+  {
+    "user": "UBEFL3YLE",
+    "text": "代わりにCFSってのが入ってます。僕の理解ではだいたい一緒です。",
+    "client_msg_id": "971dfd3d-8a57-425d-b938-3700d64a9172",
+    "name": "mail",
+    "img": "https://secure.gravatar.com/avatar/23a2be2c0c837372158d36ca83743fe5.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0018-24.png",
+    "time": "2021/05/19 14:24:49",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1621400401047100"
+  },
+  {
+    "user": "UBEFL3YLE",
+    "text": "MuQSSそのものは入ってないですね",
+    "client_msg_id": "c714c158-5c6d-49f8-ab42-f476fb2ccba4",
+    "name": "mail",
+    "img": "https://secure.gravatar.com/avatar/23a2be2c0c837372158d36ca83743fe5.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0018-24.png",
+    "time": "2021/05/19 14:24:49",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1621400365046500"
+  },
+  {
+    "user": "U017BNGTHT3",
+    "text": "体感だと若干重い作業でカクつきにくい気がするかもしれない程度ですかね。\nPreloadとか入れたほうが動作の体感は早くなりそう。",
+    "client_msg_id": "ff89627d-03ca-418a-a18e-5f28f9c944b6",
+    "name": "s5is",
+    "img": "https://avatars.slack-edge.com/2020-11-29/1531495219589_cf6a2f80ce7bb820ba38_24.png",
+    "time": "2021/05/19 14:24:49",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1621400266045900"
+  },
+  {
+    "user": "U0GFBAM8U",
+    "text": "なるほど",
+    "client_msg_id": "5FC003C2-4DD9-4BF9-8468-FCC87C9B83F1",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2021/05/19 14:24:50",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1621400191044500"
+  },
+  {
+    "user": "UBEFL3YLE",
+    "text": "ウーン、体感的な違いはありませんね……",
+    "client_msg_id": "ca468941-2bae-44b3-b603-533655bf162d",
+    "name": "mail",
+    "img": "https://secure.gravatar.com/avatar/23a2be2c0c837372158d36ca83743fe5.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0018-24.png",
+    "time": "2021/05/19 14:24:50",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1621400175044200"
+  },
+  {
+    "user": "U0GFBAM8U",
+    "text": "@mail zenカーネルって結構いいんです?",
+    "client_msg_id": "5DF4DAD6-2DC7-407C-979A-0C0E08C2FC08",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2021/05/19 14:24:50",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1621400150043700"
+  },
+  {
+    "user": "U70QDFN82",
+    "text": "ウィンドウ操作とかの感覚はいっしょでしたねーxrandrとかしたときのチラツキは確かになくなります",
+    "client_msg_id": "078848e5-844a-4ed1-8170-1270787ec765",
+    "name": "yutakatay",
+    "img": "https://avatars.slack-edge.com/2020-08-16/1302143736069_0baa468f7bea68e827d9_24.png",
+    "time": "2021/05/19 14:24:51",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1621400093042700"
+  },
+  {
+    "user": "U0GFBAM8U",
+    "text": "swayはウィンドウ操作しやすくなるとかはあります?",
+    "client_msg_id": "01D7CEB6-C7D7-4B1F-B0A9-20C1162BF997",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2021/05/19 14:24:51",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1621400042041700"
+  },
+  {
+    "user": "U021RBMEEET",
+    "text": "自分もなんとなくwaylandの情報は追っていますが、まだ移行はしたくないですね…",
+    "client_msg_id": "4fb8f386-3b59-442a-89c5-26931f46721a",
+    "name": "hshue83",
+    "img": "https://avatars.slack-edge.com/2021-05-17/2080329712996_315faabd888b19e55c36_24.png",
+    "time": "2021/05/19 14:24:51",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1621400037041400"
+  },
+  {
+    "user": "U70QDFN82",
+    "text": "私は一応いつでも移れるように準備は完了してますね",
+    "client_msg_id": "1d1e918f-15a7-465b-92fe-fa94e0c461a3",
+    "name": "yutakatay",
+    "img": "https://avatars.slack-edge.com/2020-08-16/1302143736069_0baa468f7bea68e827d9_24.png",
+    "time": "2021/05/19 14:24:51",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1621400037041300"
+  },
+  {
+    "user": "U70QDFN82",
+    "text": "i3, swayはついこの間開発状況とかの比較したんですが、開発の勢い的にもあんまり大差ないんですよね。。。",
+    "client_msg_id": "16819bb1-23c3-4338-aba3-b9f6f663c821",
+    "name": "yutakatay",
+    "img": "https://avatars.slack-edge.com/2020-08-16/1302143736069_0baa468f7bea68e827d9_24.png",
+    "time": "2021/05/19 14:24:52",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1621399990039600"
+  },
+  {
+    "user": "UBEFL3YLE",
+    "text": "根拠なく通常カーネルに対するZENカーネルのようなものだと思いこんでいた",
+    "client_msg_id": "2ada491a-8944-45ab-b9e6-9bc22d50ad7e",
+    "name": "mail",
+    "img": "https://secure.gravatar.com/avatar/23a2be2c0c837372158d36ca83743fe5.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0018-24.png",
+    "time": "2021/05/19 14:24:52",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1621399985039400"
+  },
+  {
+    "user": "U70QDFN82",
+    "text": "私もなんとなく移行したいんですけどメリットがなさすぎて行けない・・・せめてパフォーマンス20%アップしますとかだとアプリの対応とかほっといて移行するんですが。。。",
+    "client_msg_id": "0ae82a90-fab4-48d2-b125-31e2057df046",
+    "name": "yutakatay",
+    "img": "https://avatars.slack-edge.com/2020-08-16/1302143736069_0baa468f7bea68e827d9_24.png",
+    "time": "2021/05/19 14:24:52",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1621399923036300"
+  },
+  {
+    "user": "U0GFBAM8U",
+    "text": "ゑーッ",
+    "client_msg_id": "AADD3406-6447-4F51-A579-EF3040306F40",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2021/05/19 14:24:53",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1621399885034400"
+  },
+  {
+    "user": "UBEFL3YLE",
+    "text": "なんとなく移行を考えていたのに…",
+    "client_msg_id": "560bd2f1-7568-4f41-926a-8178eadd627b",
+    "name": "mail",
+    "img": "https://secure.gravatar.com/avatar/23a2be2c0c837372158d36ca83743fe5.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0018-24.png",
+    "time": "2021/05/19 14:24:53",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1621399870034100"
+  },
+  {
+    "user": "UBEFL3YLE",
+    "text": "ゑーッ",
+    "client_msg_id": "c55b626f-43cd-477f-bc76-2bd41719a86f",
+    "name": "mail",
+    "img": "https://secure.gravatar.com/avatar/23a2be2c0c837372158d36ca83743fe5.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0018-24.png",
+    "time": "2021/05/19 14:24:53",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1621399857033700"
+  },
+  {
+    "user": "U017BNGTHT3",
+    "text": "動画とかチラつきにくくなる程度かと…",
+    "client_msg_id": "5d0d8220-217f-4e83-a137-47e047937563",
+    "name": "s5is",
+    "img": "https://avatars.slack-edge.com/2020-11-29/1531495219589_cf6a2f80ce7bb820ba38_24.png",
+    "time": "2021/05/19 14:24:53",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1621399847033100"
+  },
+  {
+    "user": "U0GFBAM8U",
+    "text": "ええ、そうなんですか",
+    "client_msg_id": "545CBAEE-6074-412D-A0F0-4B00036C8E82",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2021/05/19 14:24:54",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1621399841032500"
+  },
+  {
+    "user": "U70QDFN82",
+    "text": "ユーザー的にメリットは今の所ほぼないですね。。。パフォーマンスも落ちることが多いんで",
+    "client_msg_id": "23d19e5e-5182-4f94-b855-84883e0ffc02",
+    "name": "yutakatay",
+    "img": "https://avatars.slack-edge.com/2020-08-16/1302143736069_0baa468f7bea68e827d9_24.png",
+    "time": "2021/05/19 14:24:54",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1621399824031800"
+  },
+  {
+    "user": "U0GFBAM8U",
+    "text": "waylandやswayの利点としてはどんなことがあるのでしょう?",
+    "client_msg_id": "22135A49-67CD-447F-910E-99886A24DBC2",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2021/05/19 14:24:54",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1621399799031100"
+  },
+  {
+    "user": "U017BNGTHT3",
+    "text": "Wayland環境、特有の問題が起こる感じがあるのでまだX使ってますね…",
+    "client_msg_id": "e0a934f9-6b26-4efc-9f57-be5215e98856",
+    "name": "s5is",
+    "img": "https://avatars.slack-edge.com/2020-11-29/1531495219589_cf6a2f80ce7bb820ba38_24.png",
+    "time": "2021/05/19 14:24:55",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1621399320028200"
+  },
+  {
     "user": "U0GFBAM8U",
     "text": "waylandもわからん",
     "client_msg_id": "687E7A4F-6D65-4CEE-96C0-1F628B601A39",
     "name": "syui",
     "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
-    "time": "2021/05/19 13:29:47",
+    "time": "2021/05/19 14:24:55",
     "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1621398558027200"
   },
   {
