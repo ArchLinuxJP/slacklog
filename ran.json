@@ -1,11 +1,92 @@
 [
   {
+    "user": "U0GFBAM8U",
+    "text": "waylandもわからん",
+    "client_msg_id": "687E7A4F-6D65-4CEE-96C0-1F628B601A39",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2021/05/19 13:29:47",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1621398558027200"
+  },
+  {
+    "user": "U0GFBAM8U",
+    "text": "sway環境は触ったことないです",
+    "client_msg_id": "4E1D6AFE-E720-4E6F-B73B-266274429B05",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2021/05/19 13:29:48",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1621398404026800"
+  },
+  {
+    "user": "U01HE1ENNJZ",
+    "text": "swayですか？",
+    "client_msg_id": "e6cef2da-0f09-4a54-8cd9-c152f66d222f",
+    "name": "a3784197",
+    "img": "https://avatars.slack-edge.com/2021-01-15/1652242406097_fbfa5b69ffe23ca9a640_24.jpg",
+    "time": "2021/05/19 13:29:48",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1621398291026000"
+  },
+  {
+    "user": "U0GFBAM8U",
+    "text": "あくまで私の環境では、普通に`$ xset -display :0 dpms force on` が動くんで、問題なく復帰できるんですが、やっぱり、環境によって動く動かないありますからね",
+    "client_msg_id": "1dc606fe-6673-4916-b142-43e4ffaeb544",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2021/05/19 13:29:48",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1621397853025800"
+  },
+  {
+    "user": "U01HE1ENNJZ",
+    "text": "dpms切るツールがあってよかったです",
+    "client_msg_id": "16683aba-084f-4cfd-8565-8af403df8ee9",
+    "name": "a3784197",
+    "img": "https://avatars.slack-edge.com/2021-01-15/1652242406097_fbfa5b69ffe23ca9a640_24.jpg",
+    "time": "2021/05/19 13:29:49",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1621397581024700"
+  },
+  {
+    "user": "U0GFBAM8U",
+    "text": "sway、なんもわからん",
+    "client_msg_id": "27450dfe-2392-4311-8c35-3262511057f5",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2021/05/19 13:29:49",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1621397513024300"
+  },
+  {
+    "user": "U0GFBAM8U",
+    "text": "お、よかったですね",
+    "client_msg_id": "5cae1f93-fb44-4383-8d81-b685c8f68afc",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2021/05/19 13:29:49",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1621397473024000"
+  },
+  {
+    "user": "U0GFBAM8U",
+    "text": "ただし、これは通常想定されない問題が発生してる場合のみ有効かと思われます。",
+    "client_msg_id": "27681295-9e38-4790-8168-1c3e0f7e4929",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2021/05/19 13:29:49",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1621397149022200"
+  },
+  {
+    "user": "U0GFBAM8U",
+    "text": "少し調べてみましたが、やはり、私の環境下では、`$ xset dpms force off`を実行すると、`/sys/class/backlight/acpi_video0/brightness` は0に書き換えられますね。\nで、仮にキーを押しても復帰しない場合で、なんらかの問題が生じており、操作自体はトリガーしてるけど、`/sys/class/backlight/acpi_video0/brightness` が0のままだった場合、`/sys/class/backlight/acpi_video0/brightness` をもとの値に戻すことで、画面オンになる場合があります。",
+    "client_msg_id": "dce4d12b-37f0-45d3-a4cc-9af5e9149076",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2021/05/19 13:29:50",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1621397008021500"
+  },
+  {
     "user": "U01HE1ENNJZ",
     "text": "なるほどありがとうございます",
     "client_msg_id": "e33cf2ee-883d-4832-a82c-ae8313fe1216",
     "name": "a3784197",
     "img": "https://avatars.slack-edge.com/2021-01-15/1652242406097_fbfa5b69ffe23ca9a640_24.jpg",
-    "time": "2021/05/19 11:19:35",
+    "time": "2021/05/19 13:29:50",
     "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1621388677018300"
   },
   {
