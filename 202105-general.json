@@ -1,11 +1,38 @@
 [
   {
+    "user": "UPYQ3CUJ1",
+    "text": "質問の意図とは外れますが、windowsのインストールディスクとPCメーカーからのドライバがあればクリーンインストールができるので、そもそも復元パーティションの必要性があるのか（？）ということも考えていみてもよいかもしれないですね。特にデュアルブートしていたらなおのこと、復元パーティションを使うと予期せぬことが起きそう。",
+    "client_msg_id": "284217c4-cdc0-4fcf-85aa-2388d04ba0b3",
+    "name": "shota.af083",
+    "img": "https://secure.gravatar.com/avatar/8806dbddb82d43065dd1190cfcf80c65.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0023-24.png",
+    "time": "2021/05/24 10:23:47",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1621815565014100"
+  },
+  {
+    "user": "U01HE1ENNJZ",
+    "text": "多分それだけです",
+    "client_msg_id": "459bc013-06f4-4940-9078-1b32c460b180",
+    "name": "a3784197",
+    "img": "https://avatars.slack-edge.com/2021-01-15/1652242406097_fbfa5b69ffe23ca9a640_24.jpg",
+    "time": "2021/05/24 10:23:47",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1621812999010600"
+  },
+  {
+    "user": "U01HE1ENNJZ",
+    "text": "前パーティションいじったらwindows側でchkdsk走りました",
+    "client_msg_id": "180dc709-7bb2-460e-9227-0a5dc3b2ca76",
+    "name": "a3784197",
+    "img": "https://avatars.slack-edge.com/2021-01-15/1652242406097_fbfa5b69ffe23ca9a640_24.jpg",
+    "time": "2021/05/24 10:23:48",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1621812919010400"
+  },
+  {
     "user": "UQDJXPHJ9",
     "text": "上手くいった事例が聞けるのは有り難いです...!(これでも可能なのだなというのが分かったので)\nとりあえず明日フルバックアップ取ってから作業してみます!",
     "client_msg_id": "95a5dabb-e7ef-4adb-931b-4bdd00ae54c3",
     "name": "cj.bc-sd",
     "img": "https://avatars.slack-edge.com/2019-11-12/821749881793_703a47a248d9e731dc3f_24.jpg",
-    "time": "2021/05/24 01:44:57",
+    "time": "2021/05/24 10:23:48",
     "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1621784387009700"
   },
   {
