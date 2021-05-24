@@ -1,11 +1,56 @@
 [
   {
+    "user": "U53RAQBCP",
+    "text": "最近はsystemd-bootでArch側に管理投げればWindowsのことは何も考えなくて良くなってるらしくデュアルブートには便利になってるみたいですね。友人談",
+    "client_msg_id": "53409f32-b367-4b3e-b1b8-3e7ac210aa1f",
+    "name": "kokopis",
+    "img": "https://avatars.slack-edge.com/2021-02-17/1758258964165_98bf0ec770bc4e813fb0_24.png",
+    "time": "2021/05/24 11:59:32",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1621821070018800"
+  },
+  {
+    "user": "U017BNGTHT3",
+    "text": "意外とWindows10は大暴れしないのでなんとかなってますね…\n環境によってはなにかまずいのかもしれない。",
+    "client_msg_id": "dc0ff329-5ace-4f63-b139-99e173b58041",
+    "name": "s5is",
+    "img": "https://avatars.slack-edge.com/2020-11-29/1531495219589_cf6a2f80ce7bb820ba38_24.png",
+    "time": "2021/05/24 11:59:32",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1621821063018600"
+  },
+  {
+    "user": "UPLFHSQ2V",
+    "text": "へー、なるほど。\n私はArch wikiのこれを見ながらやったので、Windowsを先に入れるのが安牌なのだと思ってました。\n<https://wiki.archlinux.jp/index.php/Windows_%E3%81%A8_Arch_%E3%81%AE%E3%83%87%E3%83%A5%E3%82%A2%E3%83%AB%E3%83%96%E3%83%BC%E3%83%88#.E3.82.A4.E3.83.B3.E3.82.B9.E3.83.88.E3.83.BC.E3.83.AB>",
+    "client_msg_id": "0dcc0dba-c5c0-497e-8ddd-8429aebb9af0",
+    "name": "conao3",
+    "img": "https://secure.gravatar.com/avatar/1a9a49807415fb97544a7383a9288b84.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0006-24.png",
+    "time": "2021/05/24 11:59:32",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1621820967016500"
+  },
+  {
+    "user": "U017BNGTHT3",
+    "text": "うちはArch先に入れてWindows後で突っ込んでますね…\nWindows入れ直しやすい。",
+    "client_msg_id": "b971d9b1-42c8-4bf5-bdaa-d374d6d1df05",
+    "name": "s5is",
+    "img": "https://avatars.slack-edge.com/2020-11-29/1531495219589_cf6a2f80ce7bb820ba38_24.png",
+    "time": "2021/05/24 11:59:33",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1621820847016100"
+  },
+  {
+    "user": "U53RAQBCP",
+    "text": "パーティションまわりめんどくさいので長いことデュアルブートはやめてVMにしてますね...",
+    "client_msg_id": "37c32661-391d-4879-bade-6620658e05e6",
+    "name": "kokopis",
+    "img": "https://avatars.slack-edge.com/2021-02-17/1758258964165_98bf0ec770bc4e813fb0_24.png",
+    "time": "2021/05/24 11:59:33",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1621820645015300"
+  },
+  {
     "user": "UPYQ3CUJ1",
     "text": "質問の意図とは外れますが、windowsのインストールディスクとPCメーカーからのドライバがあればクリーンインストールができるので、そもそも復元パーティションの必要性があるのか（？）ということも考えていみてもよいかもしれないですね。特にデュアルブートしていたらなおのこと、復元パーティションを使うと予期せぬことが起きそう。",
     "client_msg_id": "284217c4-cdc0-4fcf-85aa-2388d04ba0b3",
     "name": "shota.af083",
     "img": "https://secure.gravatar.com/avatar/8806dbddb82d43065dd1190cfcf80c65.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0023-24.png",
-    "time": "2021/05/24 10:23:47",
+    "time": "2021/05/24 11:59:33",
     "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1621815565014100"
   },
   {
