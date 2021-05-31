@@ -1,11 +1,155 @@
 [
   {
+    "user": "U019C7VLZ4G",
+    "text": "ちなみにThinkPad X13 gen1 (amd) です",
+    "client_msg_id": "85d74ab1-964c-45b9-be42-42e4155cfba3",
+    "name": "getalotofmail",
+    "img": "https://secure.gravatar.com/avatar/5a7f20688dc40b2989935a11bdfa25fe.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0001-24.png",
+    "time": "2021/05/31 22:11:19",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1622465722076100"
+  },
+  {
+    "user": "UGA29R3FH",
+    "text": "スマホだけど0%付近で速度制限かかるやつを見たことがあるのでPCでもありえそう",
+    "client_msg_id": "d697ea4d-db10-41b6-8af1-5b9128ed18ba",
+    "name": "znmxodq1",
+    "img": "https://avatars.slack-edge.com/2019-03-08/570571829091_2ca91fb0cc1ed2341fe0_24.png",
+    "time": "2021/05/31 22:11:20",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1622465084075900"
+  },
+  {
+    "user": "U01HE1ENNJZ",
+    "text": "解決してよかったです",
+    "client_msg_id": "2e4eb192-2862-4014-8b0f-4caa3c6d1c56",
+    "name": "a3784197",
+    "img": "https://avatars.slack-edge.com/2021-01-15/1652242406097_fbfa5b69ffe23ca9a640_24.jpg",
+    "time": "2021/05/31 22:11:20",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1622464650075800"
+  },
+  {
+    "user": "U019C7VLZ4G",
+    "text": "何回かバッテリーが1%から2%の状態でACアダプタ付きで再起動させていたのですが、とても動作が遅く、いま13%ぐらいになった状態で再起動させたら普通に速かったです。",
+    "client_msg_id": "3f631074-5550-4e36-99f8-f9315212a8e1",
+    "name": "getalotofmail",
+    "img": "https://secure.gravatar.com/avatar/5a7f20688dc40b2989935a11bdfa25fe.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0001-24.png",
+    "time": "2021/05/31 22:11:20",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1622464446075600"
+  },
+  {
+    "user": "U019C7VLZ4G",
+    "text": "ありがとうございます！\n今もう一度再起動してみたら通常の速さに戻りました。\nノートPCをACアダプタから長時間抜いており、電源押しても起動しないレベルまでバッテリーが減った状態になっていました。なのでACアダプタを挿して起動させたのですが、\nバッテリーがほぼゼロになった状態でのACアダプタ挿しての起動って遅くなったりするのでしょうか?",
+    "client_msg_id": "872ce628-fe55-4c8e-96b6-eb96e466d6d3",
+    "name": "getalotofmail",
+    "img": "https://secure.gravatar.com/avatar/5a7f20688dc40b2989935a11bdfa25fe.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0001-24.png",
+    "time": "2021/05/31 22:11:21",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1622464294075500"
+  },
+  {
+    "user": "U01HE1ENNJZ",
+    "text": "X11のlogは\n```grep EE /path/to/log```\nですね",
+    "client_msg_id": "d4c2d62a-bcf7-4b63-830a-cd5e21e92f56",
+    "name": "a3784197",
+    "img": "https://avatars.slack-edge.com/2021-01-15/1652242406097_fbfa5b69ffe23ca9a640_24.jpg",
+    "time": "2021/05/31 22:11:21",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1622464020075400"
+  },
+  {
+    "user": "UUWBU08TU",
+    "text": "`systemd-analyze blame` で遅いsystemdユニットが見れます",
+    "client_msg_id": "7e146679-c706-4ce9-a50d-390842deb31e",
+    "name": "nekokowan_archjpslack",
+    "img": "https://avatars.slack-edge.com/2020-06-22/1204027183412_7f7a529c9005aa8cce36_24.png",
+    "time": "2021/05/31 22:11:22",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1622463768074500"
+  },
+  {
+    "user": "U01HE1ENNJZ",
+    "text": "root権限必要です",
+    "client_msg_id": "74d6eefd-9db6-4e35-b90e-989346f5b9d0",
+    "name": "a3784197",
+    "img": "https://avatars.slack-edge.com/2021-01-15/1652242406097_fbfa5b69ffe23ca9a640_24.jpg",
+    "time": "2021/05/31 22:11:22",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1622463750074400"
+  },
+  {
+    "user": "U01HE1ENNJZ",
+    "text": "```dmesg -l err,warn```\nでレベル表示できます\nwarn抜くとerrのみになります\nこっちのほうがシンプルです",
+    "client_msg_id": "58c2f30c-b793-4c61-8e8a-6ee2e54fde04",
+    "name": "a3784197",
+    "img": "https://avatars.slack-edge.com/2021-01-15/1652242406097_fbfa5b69ffe23ca9a640_24.jpg",
+    "time": "2021/05/31 22:11:22",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1622463717074000"
+  },
+  {
+    "user": "U019C7VLZ4G",
+    "text": "普通に横の経過時間でしょうか?",
+    "client_msg_id": "c1e26762-d6b7-4503-a505-a1afa03564a0",
+    "name": "getalotofmail",
+    "img": "https://secure.gravatar.com/avatar/5a7f20688dc40b2989935a11bdfa25fe.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0001-24.png",
+    "time": "2021/05/31 22:11:23",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1622463699073600"
+  },
+  {
+    "user": "U019C7VLZ4G",
+    "text": "どのように見ればわかりますか？",
+    "client_msg_id": "dc77016a-ec5d-44e3-89fc-f244c40afcce",
+    "name": "getalotofmail",
+    "img": "https://secure.gravatar.com/avatar/5a7f20688dc40b2989935a11bdfa25fe.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0001-24.png",
+    "time": "2021/05/31 22:11:23",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1622463661072800"
+  },
+  {
+    "user": "U019C7VLZ4G",
+    "text": "お恥ずかしい話、あんまり見方わかってないです…",
+    "client_msg_id": "f3d804a1-bd67-4279-94dd-98103671bc49",
+    "name": "getalotofmail",
+    "img": "https://secure.gravatar.com/avatar/5a7f20688dc40b2989935a11bdfa25fe.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0001-24.png",
+    "time": "2021/05/31 22:11:24",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1622463193072700"
+  },
+  {
+    "user": "U01HE1ENNJZ",
+    "text": "```dmesg```\nとか見てみてはどうですか",
+    "client_msg_id": "509558b7-5758-41d3-8fbe-74e406a31f9f",
+    "name": "a3784197",
+    "img": "https://avatars.slack-edge.com/2021-01-15/1652242406097_fbfa5b69ffe23ca9a640_24.jpg",
+    "time": "2021/05/31 22:11:24",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1622462667072600"
+  },
+  {
+    "user": "U019C7VLZ4G",
+    "text": "最近のUpdateのあとから発生しているような気がする",
+    "client_msg_id": "b8f79b8c-a019-4c47-aff3-c81c4ee4565e",
+    "name": "getalotofmail",
+    "img": "https://secure.gravatar.com/avatar/5a7f20688dc40b2989935a11bdfa25fe.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0001-24.png",
+    "time": "2021/05/31 22:11:24",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1622462588072000"
+  },
+  {
+    "user": "U019C7VLZ4G",
+    "text": "起動にもとても時間がかかるし、Browser立ち上げも遅い",
+    "client_msg_id": "7a870a89-8d65-44e1-bf18-895cc6a90b50",
+    "name": "getalotofmail",
+    "img": "https://secure.gravatar.com/avatar/5a7f20688dc40b2989935a11bdfa25fe.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0001-24.png",
+    "time": "2021/05/31 22:11:25",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1622462555071900"
+  },
+  {
+    "user": "U019C7VLZ4G",
+    "text": "なぜかArch Linuxの動作が遅くなった",
+    "client_msg_id": "5217819d-1025-4175-9e17-1584bafd668a",
+    "name": "getalotofmail",
+    "img": "https://secure.gravatar.com/avatar/5a7f20688dc40b2989935a11bdfa25fe.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0001-24.png",
+    "time": "2021/05/31 22:11:25",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1622462529071800"
+  },
+  {
     "user": "U01HE1ENNJZ",
     "text": "シンガポールにすると速くなるのでいいですよってのをTwitterで聞きました",
     "client_msg_id": "6681a77c-23c0-4ed2-a330-30ff00a8285b",
     "name": "a3784197",
     "img": "https://avatars.slack-edge.com/2021-01-15/1652242406097_fbfa5b69ffe23ca9a640_24.jpg",
-    "time": "2021/05/30 08:34:08",
+    "time": "2021/05/31 22:11:26",
     "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1622329760070700"
   },
   {
