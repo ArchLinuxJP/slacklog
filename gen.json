@@ -1,11 +1,389 @@
 [
   {
+    "user": "U0GFBAM8U",
+    "text": "issueにはlibalpmのapiでスパゲティコードが云々という話がでてますね\n&gt;  There are significant API changes between libalpm 12 and libalpm 13. Implementing this would require significant effort and a lot of spaghetti code. ",
+    "client_msg_id": "3265f992-aaf7-4230-aad9-052080c50f5d",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2021/06/01 23:50:31",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1622558619066300"
+  },
+  {
+    "user": "UGA29R3FH",
+    "text": "そういえばしばらくArch使ってるけどlibalpmとおしゃべりしたことなかったな",
+    "client_msg_id": "4ea632ed-e533-4f76-a80a-a7f189c1a292",
+    "name": "znmxodq1",
+    "img": "https://avatars.slack-edge.com/2019-03-08/570571829091_2ca91fb0cc1ed2341fe0_24.png",
+    "time": "2021/06/01 23:50:31",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1622558584065700"
+  },
+  {
     "user": "U017BNGTHT3",
-    "text": "yayはlibalpm直接叩いてますからね…\npacmanの更新でバージョン変わると動かなくなる場合があるので予備にTrizenとかも入れてます。",
+    "text": "trizenとかはpacman直接叩いてたはずなので、コマンドラインオプションが変わったりしない限り動くんですよね。\nLibalpm使うと高速だったり細かい操作とか制御できるのかな…？",
+    "client_msg_id": "72df7c5d-2fe4-47d5-beb9-b64b8d5b5ae9",
+    "name": "s5is",
+    "img": "https://avatars.slack-edge.com/2020-11-29/1531495219589_cf6a2f80ce7bb820ba38_24.png",
+    "time": "2021/06/01 23:50:32",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1622558412065100"
+  },
+  {
+    "user": "U0GFBAM8U",
+    "text": "binのpkgbuild読めば良さそうな気もするんですが、読んでない...",
+    "client_msg_id": "37919e51-476c-40e5-81be-e49600abba98",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2021/06/01 23:50:32",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1622558324064400"
+  },
+  {
+    "user": "U017BNGTHT3",
+    "text": "たしかに謎",
+    "client_msg_id": "f0550ee6-cbcf-49fa-9d4c-4d1ccd1600a9",
+    "name": "s5is",
+    "img": "https://avatars.slack-edge.com/2020-11-29/1531495219589_cf6a2f80ce7bb820ba38_24.png",
+    "time": "2021/06/01 23:50:32",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1622558259063500"
+  },
+  {
+    "user": "U0GFBAM8U",
+    "text": "(よくわからない)",
+    "client_msg_id": "1bb45fa0-1ffc-4577-ab41-b396a1d73821",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2021/06/01 23:50:33",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1622558226063200"
+  },
+  {
+    "user": "U0GFBAM8U",
+    "text": "んで、古いparuをbuildするとlibalpm12を要求され、実質13のシンボリック貼ることで、なんとかbuild通った感じ",
+    "client_msg_id": "85a580e7-5d73-4a83-ac5b-24abb4fb1e87",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2021/06/01 23:50:33",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1622558164062000"
+  },
+  {
+    "user": "U0GFBAM8U",
+    "text": "でもparu最新はlibalpm13使うっぽいんだけど、なぜかbuild通らなくて、一旦、古いparuをbuildしないと通らなかった",
+    "client_msg_id": "4e79c1d1-cb71-4e65-afb9-9ba8ed3d4235",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2021/06/01 23:50:33",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1622558077060700"
+  },
+  {
+    "user": "U0GFBAM8U",
+    "text": "そうなんですね",
+    "client_msg_id": "ce2d22b3-4c09-40f7-9ee7-951db852ad80",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2021/06/01 23:50:33",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1622558006059300"
+  },
+  {
+    "user": "U017BNGTHT3",
+    "text": "結局yayもparuもLibalpmバインディング使ってるのでPacmanのバージョンアップ気をつけたい(そんなに困るタイミング無いけど)",
+    "client_msg_id": "3b8cb4a2-f3b4-4a63-9a6b-e49af5544699",
+    "name": "s5is",
+    "img": "https://avatars.slack-edge.com/2020-11-29/1531495219589_cf6a2f80ce7bb820ba38_24.png",
+    "time": "2021/06/01 23:50:34",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1622557921059100"
+  },
+  {
+    "user": "U0GFBAM8U",
+    "text": "paruも動いてるので、問題なさそう",
+    "client_msg_id": "86996651-df50-454f-8c40-0a13eaf353d9",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2021/06/01 23:50:34",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1622557911058900"
+  },
+  {
+    "user": "U0GFBAM8U",
+    "text": "自分とこはlibalpm.so.13はあるけど12はない",
+    "client_msg_id": "3c93fa88-5479-4189-87da-8852399e05a3",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2021/06/01 23:50:34",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1622557803057900"
+  },
+  {
+    "user": "U0GFBAM8U",
+    "text": "なんかparuの古いバージョンをbuildしてlibalpm.so.12を使用するようになるので、そこでparu最新をbuildすればいけるっぽいのか",
+    "client_msg_id": "eb73cd4e-2462-495f-959f-f2b855b0ad58",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2021/06/01 23:50:35",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1622557770057400"
+  },
+  {
+    "user": "U0GFBAM8U",
+    "text": "<https://github.com/Morganamilo/paru/issues/391>",
+    "client_msg_id": "87396b60-d360-40f3-a68f-46d5fa948bf6",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2021/06/01 23:50:35",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1622557685055700"
+  },
+  {
+    "user": "U0GFBAM8U",
+    "text": "一応、以下の手順でparu 1.7.0のbuildできた\n```$ sudo pacman -S --needed base-devel\n$ git clone <https://aur.archlinux.org/paru.git>\n$ cd paru\n$ git checkout 1.6.x\n$ makepkg -si\n\n$ git checkout master(1.7.0)\n$ sudo ln -s /usr/lib/libalpm.so.13.0.0 /usr/lib/libalpm.so.12\n$ makepkg -si```",
+    "client_msg_id": "f8903fc0-c838-425a-9700-79ba7deebe22",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2021/06/01 23:50:35",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1622557676055400"
+  },
+  {
+    "user": "U0GFBAM8U",
+    "text": "わかる",
+    "client_msg_id": "aadfda03-6a65-4320-9102-5c16949e32b2",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2021/06/01 23:50:35",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1622556740052400"
+  },
+  {
+    "user": "U70QDFN82",
+    "text": "Rustのビルド遅い＋（ファイルサイズ的に）重いんですよね・・・いっぱい連なってくる。node_modules感",
+    "client_msg_id": "d7550b24-150f-4554-9a9e-37911ad56afb",
+    "name": "yutakatay",
+    "img": "https://avatars.slack-edge.com/2020-08-16/1302143736069_0baa468f7bea68e827d9_24.png",
+    "time": "2021/06/01 23:50:36",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1622556724052200"
+  },
+  {
+    "user": "U0GFBAM8U",
+    "text": "rust、build遅いのがなあ...goは速いんだけど",
+    "client_msg_id": "d6e2741f-f104-447d-a671-3ba0db0ddd09",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2021/06/01 23:50:36",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1622556700052000"
+  },
+  {
+    "user": "U0GFBAM8U",
+    "text": "そっちのほうがよさそう",
+    "client_msg_id": "ec5b0da6-03fd-45c3-b178-f433a7387980",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2021/06/01 23:50:36",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1622556673051100"
+  },
+  {
+    "user": "UGA29R3FH",
+    "text": "yayならbin無しでもいけたけど",
+    "client_msg_id": "c29e73be-6093-4fbe-bb46-65ca289f83ed",
+    "name": "znmxodq1",
+    "img": "https://avatars.slack-edge.com/2019-03-08/570571829091_2ca91fb0cc1ed2341fe0_24.png",
+    "time": "2021/06/01 23:50:37",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1622556672051000"
+  },
+  {
+    "user": "UGA29R3FH",
+    "text": "paru-bin安定(Rustのビルドは遅い)",
+    "client_msg_id": "8a48bd59-44f4-4f53-b216-6ab1b56751a1",
+    "name": "znmxodq1",
+    "img": "https://avatars.slack-edge.com/2019-03-08/570571829091_2ca91fb0cc1ed2341fe0_24.png",
+    "time": "2021/06/01 23:50:37",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1622556660050400"
+  },
+  {
+    "user": "U70QDFN82",
+    "text": "<https://aur.archlinux.org/packages/paru-bin/>",
+    "client_msg_id": "1d1c2c81-0ae3-466a-9cd4-da2d50acdb62",
+    "name": "yutakatay",
+    "img": "https://avatars.slack-edge.com/2020-08-16/1302143736069_0baa468f7bea68e827d9_24.png",
+    "time": "2021/06/01 23:50:37",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1622556618050000"
+  },
+  {
+    "user": "U70QDFN82",
+    "text": "paru-binの方使ってますね",
+    "client_msg_id": "571035db-d3bb-42f7-9742-b659319f8062",
+    "name": "yutakatay",
+    "img": "https://avatars.slack-edge.com/2020-08-16/1302143736069_0baa468f7bea68e827d9_24.png",
+    "time": "2021/06/01 23:50:37",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1622556612049800"
+  },
+  {
+    "user": "U0GFBAM8U",
+    "text": "自分の環境、archのupdateがちょっと遅れてるのか、1.7.0でbuildできなかったので、git checkoutして1.6.xをbuildしてる",
+    "client_msg_id": "33477be1-ec12-435d-8a74-6f8e7a687f44",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2021/06/01 23:50:38",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1622556600049500"
+  },
+  {
+    "user": "U0GFBAM8U",
+    "text": "yutkatさんはparu 1.7.0使ってます?",
+    "client_msg_id": "4c7c6f7f-4771-4280-8e07-bc057a2d67c8",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2021/06/01 23:50:38",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1622556417048700"
+  },
+  {
+    "user": "U70QDFN82",
+    "text": "検索からのインストールとかがインタラクティブな動作とかもするんで（たぶん使わないけど）、結構機能的にはすでに優位性がある気がしますね",
+    "client_msg_id": "e363b6aa-4ce8-4649-a43c-218d59bbd43e",
+    "name": "yutakatay",
+    "img": "https://avatars.slack-edge.com/2020-08-16/1302143736069_0baa468f7bea68e827d9_24.png",
+    "time": "2021/06/01 23:50:38",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1622555906048200"
+  },
+  {
+    "user": "U70QDFN82",
+    "text": "へー。じゃあ私の頭の情報が更新されてなかったのかも。。。そうすると１文字タイプが増えてることになるか・・・",
+    "client_msg_id": "8f1907b8-2270-4af9-b4bb-34ee4cf6bb4e",
+    "name": "yutakatay",
+    "img": "https://avatars.slack-edge.com/2020-08-16/1302143736069_0baa468f7bea68e827d9_24.png",
+    "time": "2021/06/01 23:50:39",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1622555829047100"
+  },
+  {
+    "user": "UGA29R3FH",
+    "text": "yayもyayだけで動いたような",
+    "client_msg_id": "c47e293e-10a9-4023-9f4d-f58c7f00b42e",
+    "name": "znmxodq1",
+    "img": "https://avatars.slack-edge.com/2019-03-08/570571829091_2ca91fb0cc1ed2341fe0_24.png",
+    "time": "2021/06/01 23:50:39",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1622555757046300"
+  },
+  {
+    "user": "U70QDFN82",
+    "text": "ですね。GitHubActions使えばリリースバイナリ作るのも一瞬ですし、いい時代になりました",
+    "client_msg_id": "5ff25a85-1a12-4efb-bf80-6f627d47d250",
+    "name": "yutakatay",
+    "img": "https://avatars.slack-edge.com/2020-08-16/1302143736069_0baa468f7bea68e827d9_24.png",
+    "time": "2021/06/01 23:50:39",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1622555738046100"
+  },
+  {
+    "user": "U0GFBAM8U",
+    "text": "goやrustはワンバイナリなのでわかりやすくて助かりますね",
+    "client_msg_id": "2be01751-d63e-40eb-9e6e-030234da97e9",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2021/06/01 23:50:40",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1622555710045600"
+  },
+  {
+    "user": "U70QDFN82",
+    "text": "`yay -Syyu`しなくてよくなったのが個人的にはありがたかったり（paruでOK）w\n毎回なぜか手打ちしてたし",
+    "client_msg_id": "76c4934a-3ddf-4f0b-a2a2-5b6f5ddf0308",
+    "name": "yutakatay",
+    "img": "https://avatars.slack-edge.com/2020-08-16/1302143736069_0baa468f7bea68e827d9_24.png",
+    "time": "2021/06/01 23:50:40",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1622555653045100"
+  },
+  {
+    "user": "U0GFBAM8U",
+    "text": "<https://github.com/Morganamilo/paru>",
+    "client_msg_id": "f99ecac0-ff1c-40d7-a0c8-a3732d284140",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2021/06/01 23:50:40",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1622555573044000"
+  },
+  {
+    "user": "U0GFBAM8U",
+    "text": "なるほど\n移行してみようかな",
+    "client_msg_id": "be8a3036-72c9-4027-8db8-27a0d1822bc0",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2021/06/01 23:50:40",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1622555546043800"
+  },
+  {
+    "user": "U70QDFN82",
+    "text": "paru乗り換え作業も一瞬でしたね。yayをparuに書き換えるだけでOKだったんで。\nなんなら `alias yay=paru`でもいい気もしますw",
+    "client_msg_id": "eeab6790-1eba-4fcd-827d-d7cc2fd762ad",
+    "name": "yutakatay",
+    "img": "https://avatars.slack-edge.com/2020-08-16/1302143736069_0baa468f7bea68e827d9_24.png",
+    "time": "2021/06/01 23:50:41",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1622555481043500"
+  },
+  {
+    "user": "U0GFBAM8U",
+    "text": "archは移り変わり激しいですよね(aurとか",
+    "client_msg_id": "053f4f1f-a28b-473a-a3cb-68d1b130cfbd",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2021/06/01 23:50:41",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1622555317042100"
+  },
+  {
+    "user": "U70QDFN82",
+    "text": "yaourt一瞬でしたよね。あの速さびっくりした。さすがArchユーザー",
+    "client_msg_id": "6b3e7b82-2d8d-4605-96e6-ed5ce73248c7",
+    "name": "yutakatay",
+    "img": "https://avatars.slack-edge.com/2020-08-16/1302143736069_0baa468f7bea68e827d9_24.png",
+    "time": "2021/06/01 23:50:41",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1622555266041600"
+  },
+  {
+    "user": "U0GFBAM8U",
+    "text": "jpではyaourtからyayの移行はやかった印象でyaourtが廃れるの一瞬だったので、これを機にyayが廃れる可能性ありそう",
+    "client_msg_id": "2d06a7f6-b99c-4cab-8661-a67afcd28d2a",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2021/06/01 23:50:42",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1622555236041200"
+  },
+  {
+    "user": "U0GFBAM8U",
+    "text": "わかる\n最近だとgo,rust製のツールをなんとなく選んじゃう",
+    "client_msg_id": "c5aad05d-6e0f-45b5-88f4-438f738912b9",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2021/06/01 23:50:42",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1622555110040000"
+  },
+  {
+    "user": "U70QDFN82",
+    "text": "ちなみに速いらしいです（ネットの噂レベル）\n体感そんなにわからないですが・・・",
+    "client_msg_id": "7f85c28f-cbf2-477c-b957-26264d88e5e3",
+    "name": "yutakatay",
+    "img": "https://avatars.slack-edge.com/2020-08-16/1302143736069_0baa468f7bea68e827d9_24.png",
+    "time": "2021/06/01 23:50:42",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1622555062039500"
+  },
+  {
+    "user": "U70QDFN82",
+    "text": "前からいつかやろうとは思ってたんですよね〜\nできるだけRust製の方を使いたくって（コントリビューションできるという意味で）\nC→Go,Rustなら即移るんですけど、Go→Rustならまだいいかと思っちゃって後回しにしちゃいますね・・・いい機会",
+    "client_msg_id": "85dda712-c6ba-4b15-bf46-72e7261c60ba",
+    "name": "yutakatay",
+    "img": "https://avatars.slack-edge.com/2020-08-16/1302143736069_0baa468f7bea68e827d9_24.png",
+    "time": "2021/06/01 23:50:42",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1622555007038900"
+  },
+  {
+    "user": "U0GFBAM8U",
+    "text": "すばやい",
+    "client_msg_id": "B188A391-AE64-41B5-8F5C-074ED0547B88",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2021/06/01 23:50:43",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1622554470036900"
+  },
+  {
+    "user": "U70QDFN82",
+    "text": "なんとなくこれを機にparuに移行することにした",
+    "client_msg_id": "6132a714-2046-4a5b-ac62-067bd1a9d33b",
+    "name": "yutakatay",
+    "img": "https://avatars.slack-edge.com/2020-08-16/1302143736069_0baa468f7bea68e827d9_24.png",
+    "time": "2021/06/01 23:50:43",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1622554432036600"
+  },
+  {
+    "user": "U017BNGTHT3",
+    "text": "yayはlibalpm直接叩いてますからね…\n私はpacmanの更新でバージョン変わると動かなくなる場合があるので予備にTrizenとかも入れてます。",
     "client_msg_id": "1b81b949-3c3f-476c-a810-1781d1ac07f0",
     "name": "s5is",
     "img": "https://avatars.slack-edge.com/2020-11-29/1531495219589_cf6a2f80ce7bb820ba38_24.png",
-    "time": "2021/06/01,02:56:19",
+    "time": "2021/06/01 23:50:43",
     "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1622516179035700"
   },
   {
@@ -469,7 +847,7 @@
   },
   {
     "user": "U0GFBAM8U",
-    "text": "gpartedのほうが事故る可能性は低いと思います。\nまた、 <@UN1SFMNU8> さんの手順がパーティション統合する際の一般的な手順だと思います。",
+    "text": "gpartedのほうが事故る可能性は低いと思います。\nまた、 @addokoda さんの手順がパーティション統合する際の一般的な手順だと思います。",
     "client_msg_id": "AF93356A-872D-4C42-9370-31C1F2E67580",
     "name": "syui",
     "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
@@ -478,7 +856,7 @@
   },
   {
     "user": "U020MDKG448",
-    "text": "まあそれはともかく現在 <@UN1SFMNU8> さんの手順で行おうとしています",
+    "text": "まあそれはともかく現在 @addokoda さんの手順で行おうとしています",
     "client_msg_id": "1ffbf602-17f7-49e3-9a6e-c54e287d4375",
     "name": "nine-k.960klo",
     "img": "https://secure.gravatar.com/avatar/b765de53385a64b9414bf4cdad68d027.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-24.png",
@@ -658,7 +1036,7 @@
   },
   {
     "user": "U0GFBAM8U",
-    "text": "<@U017BNGTHT3> さんが言われてるようにgpartedが入ったlive osを使うのも手っ取り早くていいかもしれませんね",
+    "text": "@s5is さんが言われてるようにgpartedが入ったlive osを使うのも手っ取り早くていいかもしれませんね",
     "client_msg_id": "EF19DAA1-585F-4725-AFFE-E46F81C8592B",
     "name": "syui",
     "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
