@@ -1,11 +1,515 @@
 [
   {
+    "user": "U0GFBAM8U",
+    "text": "osもlinuxだけじゃないので便利そう",
+    "client_msg_id": "ac013877-d0c2-47df-b325-f42e1f18238e",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2021/06/03 19:58:10",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1622716807139100"
+  },
+  {
+    "user": "UGA29R3FH",
+    "text": "Rust製だし設定Luaで書けるし結構な人に刺さりそうだと思ってる\n<https://wezfurlong.org/wezterm/index.html>",
+    "client_msg_id": "4aafc2c5-140e-4873-9edf-52c5859fcfea",
+    "name": "znmxodq1",
+    "img": "https://avatars.slack-edge.com/2019-03-08/570571829091_2ca91fb0cc1ed2341fe0_24.png",
+    "time": "2021/06/03 19:58:10",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1622716654137800"
+  },
+  {
+    "user": "UBEFL3YLE",
+    "text": "せっかくなので僕もやっておこう。\n```Shell:zsh\nWM/DE:i3-gaps\nEditor:neovim/vscode/l3afpad\nTerminal:Alacritty\nMultiplexer:tmux\nAudio:Audacious+jack2/Spotify\nMonitor(bar):bumblebee-status\nMail:thunderbird\nIRC:[None]\nFile Manager:Thunar```",
+    "client_msg_id": "2961e0a1-1199-4619-8fc4-19462a5f0e57",
+    "name": "mail",
+    "img": "https://secure.gravatar.com/avatar/23a2be2c0c837372158d36ca83743fe5.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0018-24.png",
+    "time": "2021/06/03 19:58:10",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1622716604137200"
+  },
+  {
+    "user": "U0GFBAM8U",
+    "text": "よさそう",
+    "client_msg_id": "fbe4a802-90a6-4915-bf1e-4dfb08f348fd",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2021/06/03 19:58:11",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1622716540136000"
+  },
+  {
+    "user": "UGA29R3FH",
+    "text": "GTKのテーマはこれが好きでしたね\n<https://github.com/vinceliuice/Matcha-gtk-theme>\n割とManjaroっぽさが出る",
+    "client_msg_id": "beacde7f-e6f3-4dea-bdd9-208018d644cc",
+    "name": "znmxodq1",
+    "img": "https://avatars.slack-edge.com/2019-03-08/570571829091_2ca91fb0cc1ed2341fe0_24.png",
+    "time": "2021/06/03 19:58:11",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1622716479134800"
+  },
+  {
+    "user": "UGA29R3FH",
+    "text": "<https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1622712090113400>\n最近リポジトリに入ったweztermがSixel対応していてよさそうでした",
+    "client_msg_id": "6e9b0d0a-fcc3-4c8a-8320-2fba35bfb7bc",
+    "name": "znmxodq1",
+    "img": "https://avatars.slack-edge.com/2019-03-08/570571829091_2ca91fb0cc1ed2341fe0_24.png",
+    "time": "2021/06/03 19:58:11",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1622716262134000"
+  },
+  {
+    "user": "UGA29R3FH",
+    "text": "```Shell:zsh\nWM/DE:i3-gaps\nEditor:Vim\nTerminal: Alacritty\nMultiplexer: tmux\nAudio: VLC\nMonitor(bar): i3status\nMail: [None]\nIRC: [None]\nFile Manager: fff, vifm```",
+    "client_msg_id": "643ebb67-f3d0-4a87-93a8-5cad37a7367d",
+    "name": "znmxodq1",
+    "img": "https://avatars.slack-edge.com/2019-03-08/570571829091_2ca91fb0cc1ed2341fe0_24.png",
+    "time": "2021/06/03 19:58:12",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1622716243133500"
+  },
+  {
+    "user": "U0PM6EYR1",
+    "text": "screen はバックグラウンドに残しておくプロセスのために使ってる…",
+    "client_msg_id": "e814a374-85db-4117-9380-9daa6faa9178",
+    "name": "raa0121",
+    "img": "https://secure.gravatar.com/avatar/35b032d7b2d4182b0c2de1ef85ba91f2.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0009-24.png",
+    "time": "2021/06/03 19:58:12",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1622715988132500"
+  },
+  {
+    "user": "U70QDFN82",
+    "text": "私も昔screen使ってましたね。tmuxに乗り換えました。最近はtmuxからも卒業しようとしてますけど",
+    "client_msg_id": "ce4e3619-632f-4ffa-8fea-5740b1b8da21",
+    "name": "yutakatay",
+    "img": "https://avatars.slack-edge.com/2020-08-16/1302143736069_0baa468f7bea68e827d9_24.png",
+    "time": "2021/06/03 19:58:12",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1622715133131900"
+  },
+  {
+    "user": "U0GFBAM8U",
+    "text": "あまり見ないです",
+    "client_msg_id": "475A8080-49B4-487F-8BA0-A2CB8299F210",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2021/06/03 19:58:13",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1622714917130300"
+  },
+  {
+    "user": "UUWBU08TU",
+    "text": "```Shell: zsh\nWM/DE: xmonad\nEditor: vscode\nTerminal: urxvt\nMultiplexer: screen\nAudio: vlc\nMonitor(bar): (none)\nMail: thunderbird\nIRC: thunderbird\nFile Manager: (none)\n```\nscreen 使ってる人あんまり見ないですね(とはいえそこまで使ってるわけでもない)",
+    "client_msg_id": "a76627a9-c3b6-484a-83a3-561b69d69efc",
+    "name": "nekokowan_archjpslack",
+    "img": "https://avatars.slack-edge.com/2020-06-22/1204027183412_7f7a529c9005aa8cce36_24.png",
+    "time": "2021/06/03 19:58:13",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1622714634130000"
+  },
+  {
+    "user": "UBEFL3YLE",
+    "text": "ThemeはもともとKDEユーザだったこともあってBreezeを使ってます。IconはQogirですね。",
+    "client_msg_id": "bbd3403f-366a-4dd0-b7c0-82c9d22d7f71",
+    "name": "mail",
+    "img": "https://secure.gravatar.com/avatar/23a2be2c0c837372158d36ca83743fe5.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0018-24.png",
+    "time": "2021/06/03 19:58:13",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1622713953129800"
+  },
+  {
+    "user": "U0GFBAM8U",
+    "text": "krita、確かに使いやすいですね。昔、インストールしたことあったんですが、そのときファンがめちゃくちゃ回ってアンインストールして以来、触ってなかったです",
+    "client_msg_id": "4c21cd45-4ab1-47b5-8082-c750eee6e302",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2021/06/03 19:58:14",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1622713783128600"
+  },
+  {
+    "user": "UBEFL3YLE",
+    "text": "画像編集は最近Kritaを試しましたが使いやすかったので乗り換えました。",
+    "client_msg_id": "13a734c2-0aa0-440a-81e8-c7b4030f6fed",
+    "name": "mail",
+    "img": "https://secure.gravatar.com/avatar/23a2be2c0c837372158d36ca83743fe5.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0018-24.png",
+    "time": "2021/06/03 19:58:14",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1622713702127600"
+  },
+  {
+    "user": "U0GFBAM8U",
+    "text": "そういえば、皆さんが使ってるgtk-themeも気になる\nずっとnumixとnumix-iconを使ってるんですが、pcmanfmとかこれを当てないとモダンにならない...",
+    "client_msg_id": "70ff44aa-db86-4723-9dfd-98db7a14a322",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2021/06/03 19:58:14",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1622713702127500"
+  },
+  {
+    "user": "UBEFL3YLE",
+    "text": "おや、面白そうな流れ",
+    "client_msg_id": "93345109-e015-4d4c-ac60-c293e9eb55ab",
+    "name": "mail",
+    "img": "https://secure.gravatar.com/avatar/23a2be2c0c837372158d36ca83743fe5.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0018-24.png",
+    "time": "2021/06/03 19:58:15",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1622713666126300"
+  },
+  {
+    "user": "U0GFBAM8U",
+    "text": "ただ、linuxで画像編集はかなり厳しい印象あるので、macとかipadでやってます",
+    "client_msg_id": "36fa3de9-53d5-4822-983c-29da1780611d",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2021/06/03 19:58:15",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1622713364125600"
+  },
+  {
+    "user": "U0GFBAM8U",
+    "text": "私もそんな感じですよ。mplayerからmpvに移行した以外、昔からあるやつ使ってます。画像だとfeh、mcomix、編集だとgimp、inkscapeとかの定番",
+    "client_msg_id": "8366538b-e51e-40c1-b006-c6d3ed23e189",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2021/06/03 19:58:16",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1622713296125000"
+  },
+  {
+    "user": "U70QDFN82",
+    "text": "ターミナルとかDEとかは結構定期的に見直してるんですけど、動画再生とか画像ビューアとか画像編集とかのアプリは全然見直してないんで古臭いの使ってる可能性高いんですよね・・・\nモダンなの知りたい",
+    "client_msg_id": "b1f3f6d1-4da6-4f27-9767-db11ac1401f1",
+    "name": "yutakatay",
+    "img": "https://avatars.slack-edge.com/2020-08-16/1302143736069_0baa468f7bea68e827d9_24.png",
+    "time": "2021/06/03 19:58:16",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1622713132123600"
+  },
+  {
+    "user": "U70QDFN82",
+    "text": "一応なんか入れたかもと今確認したらSMPlayerが入ってました",
+    "client_msg_id": "cfe3de57-98dd-442f-acb1-c5d070cbc4c4",
+    "name": "yutakatay",
+    "img": "https://avatars.slack-edge.com/2020-08-16/1302143736069_0baa468f7bea68e827d9_24.png",
+    "time": "2021/06/03 19:58:16",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1622712974122100"
+  },
+  {
+    "user": "U023W9UQD0B",
+    "text": "mpvシンプルで良いですよね",
+    "client_msg_id": "ddab4e6e-160c-47f4-ba58-eff669d38fad",
+    "name": "takumiando15",
+    "img": "https://avatars.slack-edge.com/2021-06-03/2144738400513_95ddaa50f58bef3465bc_24.jpg",
+    "time": "2021/06/03 19:58:17",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1622712957121700"
+  },
+  {
+    "user": "U0GFBAM8U",
+    "text": "私は結構あるのでmpv便利",
+    "client_msg_id": "a17a7bcd-41d9-4387-8747-023491b9d416",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2021/06/03 19:58:17",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1622712923121100"
+  },
+  {
+    "user": "U70QDFN82",
+    "text": "私は動画再生することがほとんどないですね・・・gifとかmp4化したやつちょろっと再生したいときはchromeで再生したりしてます",
+    "client_msg_id": "35f01d12-864d-44d6-b964-66953a80b9f7",
+    "name": "yutakatay",
+    "img": "https://avatars.slack-edge.com/2020-08-16/1302143736069_0baa468f7bea68e827d9_24.png",
+    "time": "2021/06/03 19:58:17",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1622712786120700"
+  },
+  {
+    "user": "U0GFBAM8U",
+    "text": "皆さん、動画とかは何で再生されますか?\n私はmpvとかcvlcとかが多いかなあ",
+    "client_msg_id": "7dae44e3-76e8-4fff-a408-d697e9e2f541",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2021/06/03 19:58:18",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1622712615119400"
+  },
+  {
+    "user": "U0GFBAM8U",
+    "text": "他の人の見てmpvとかweechatとか追加した",
+    "client_msg_id": "5a4f11af-16f0-4200-b4bc-6633726a99b3",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2021/06/03 19:58:18",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1622712482118500"
+  },
+  {
+    "user": "U020M0ZLKND",
+    "text": "```Shell: zsh\nWM/DE: bspwm\nEditor: Emacs (with Evil), Vim, VSCode (with VsCodeVim)\nTerminal: Alacritty\nMultiplexer: tmux\nAudio: cmus, Spotify公式デスクトップアプリ\nMonitor(bar): Polybar\nMail: Firefox\nIRC: WeeChat\nFile Manager: ranger, Dolphin```",
+    "client_msg_id": "4aaddc72-034d-453d-9d1c-38e8ba166701",
+    "name": "qryxip",
+    "img": "https://secure.gravatar.com/avatar/29cf965ea58c70dba203a10ec39fe4cd.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0002-24.png",
+    "time": "2021/06/03 19:58:18",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1622712450118400"
+  },
+  {
+    "user": "U017BNGTHT3",
+    "text": "```Shell: zsh / ash\nWM/DE: i3\nEditor: vscode / neovim / leafpad (メモ用)\nTerminal: alacrytty / urxvt\nMultiplexer: tmux (あまり使わない)\nAudio: mpv (alias bgm=mpv --loop-playlist --no-video)\nMonitor(bar): i3-blocks\nMail: gmail / tutanota (ブラウザで使ってます)\nIRC: [None]\nFile Manager: pcmanfm / zsh (suffix aliasで色々)```",
+    "client_msg_id": "46a3c0fd-93d3-458c-a12b-5568b34cc56e",
+    "name": "s5is",
+    "img": "https://avatars.slack-edge.com/2020-11-29/1531495219589_cf6a2f80ce7bb820ba38_24.png",
+    "time": "2021/06/03 19:58:19",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1622712204115600"
+  },
+  {
+    "user": "U023W9UQD0B",
+    "text": "```Shell: zsh\nWM/DE: openbox\nEditor: vim\nTerminal: st\nMultiplexer: tmux\nAudio: spotify\nMonitor(bar): polybar\nMail: firefox\nFile Manager: fff, thunar```",
+    "client_msg_id": "b13f3c7b-2801-45ad-84b4-540a241a7e22",
+    "name": "takumiando15",
+    "img": "https://avatars.slack-edge.com/2021-06-03/2144738400513_95ddaa50f58bef3465bc_24.jpg",
+    "time": "2021/06/03 19:58:19",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1622712169115300"
+  },
+  {
+    "user": "U0GFBAM8U",
+    "text": "xterm、sixel対応なので、画像表示するときとかたまに使う",
+    "client_msg_id": "bbb519ad-a7be-4771-8878-0affd7228620",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2021/06/03 19:58:19",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1622712090113400"
+  },
+  {
+    "user": "U0GFBAM8U",
+    "text": "```Shell: zsh\nWM/DE: i3\nEditor: vim\nTerminal: tilix\nMultiplexer: tmux\nAudio: mpv\nMail: chromium\nIRC: weechat\nFile Manager: pcmanfm```",
+    "client_msg_id": "543458aa-fead-4f33-b0ae-7ae5020c0e30",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2021/06/03 19:58:20",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1622712040111700"
+  },
+  {
+    "user": "U0GFBAM8U",
+    "text": "なるほど\nでもxtermよりよさそうな感じする",
+    "client_msg_id": "b445b33e-1d8e-42fe-b448-31b5e997083c",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2021/06/03 19:58:20",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1622711999111000"
+  },
+  {
+    "user": "U023W9UQD0B",
+    "text": "stはコンフィグファイルが無くて、config.def.hをいじってコンパイルする感じですね。",
+    "client_msg_id": "a2cc51e1-ede8-46cc-ae7c-c23bf3a82a29",
+    "name": "takumiando15",
+    "img": "https://avatars.slack-edge.com/2021-06-03/2144738400513_95ddaa50f58bef3465bc_24.jpg",
+    "time": "2021/06/03 19:58:20",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1622711964110700"
+  },
+  {
+    "user": "U0GFBAM8U",
+    "text": "stはaurなのか...気になってたけど、そこで除外してしまってたので試してなかった",
+    "client_msg_id": "0d47ca8f-4058-491c-ba8c-9c3d62ce1ac7",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2021/06/03 19:58:21",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1622711925110000"
+  },
+  {
+    "user": "U70QDFN82",
+    "text": "書けた\n```Shell: zsh\nWM/DE: i3\nEditor: neovim\nTerminal: alacritty\nMultiplexer: tmux\nAudio: chrome\nMonitor(bar): i3status-rust\nMail: chrome\nIRC: chrome\nFile Manager: -```",
+    "client_msg_id": "d4b5c998-36c4-4b6b-835e-07c1574567d0",
+    "name": "yutakatay",
+    "img": "https://avatars.slack-edge.com/2020-08-16/1302143736069_0baa468f7bea68e827d9_24.png",
+    "time": "2021/06/03 19:58:21",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1622711910109600"
+  },
+  {
+    "user": "U70QDFN82",
+    "text": "slackで書けるようにテンプレ化しときました\n```Shell:\nWM/DE:\nEditor:\nTerminal:\nMultiplexer:\nAudio:\nMonitor(bar):\nMail:\nIRC:\nFile Manager:```",
+    "client_msg_id": "be940c8d-b6f3-4195-9c66-e610091a5ede",
+    "name": "yutakatay",
+    "img": "https://avatars.slack-edge.com/2020-08-16/1302143736069_0baa468f7bea68e827d9_24.png",
+    "time": "2021/06/03 19:58:21",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1622711834108900"
+  },
+  {
+    "user": "U0GFBAM8U",
+    "text": "私は基本、tmuxで分割して、i3はウィンドウ切り替えで使ってる感じかなあ",
+    "client_msg_id": "32cb1ad5-af05-43ba-a925-8109c04c4d17",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2021/06/03 19:58:22",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1622711781107500"
+  },
+  {
+    "user": "U01J1GGMHDJ",
+    "text": "tmuxはambiguous width問題を解決出来なくてサーバーで使うとき以外やめてしまった…",
+    "client_msg_id": "cb35e0ed-8236-48d9-aa9a-3fe353ab69ac",
+    "name": "naokihirokitomoki",
+    "img": "https://avatars.slack-edge.com/2021-01-01/1607396797362_a9967cc229f49d114f8a_24.jpg",
+    "time": "2021/06/03 19:58:22",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1622711708106100"
+  },
+  {
+    "user": "U70QDFN82",
+    "text": "この分類分けいいですよね。もっとはやく知りたかった（15年前くらいに）",
+    "client_msg_id": "aadfc743-ade0-470c-8f39-1439cf88ce9f",
+    "name": "yutakatay",
+    "img": "https://avatars.slack-edge.com/2020-08-16/1302143736069_0baa468f7bea68e827d9_24.png",
+    "time": "2021/06/03 19:58:23",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1622711703105700"
+  },
+  {
+    "user": "U023W9UQD0B",
+    "text": "tmuxとかtilixみたいに、ターミナルウィンドウ1枚を分割する人と\nタイルWMで分割する人とで分かれますね",
+    "client_msg_id": "f8132914-a249-4667-8e97-807f2f8ad438",
+    "name": "takumiando15",
+    "img": "https://avatars.slack-edge.com/2021-06-03/2144738400513_95ddaa50f58bef3465bc_24.jpg",
+    "time": "2021/06/03 19:58:23",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1622711630104900"
+  },
+  {
+    "user": "U01J1GGMHDJ",
+    "text": "i3wmで、lxterminal使ってます（小さい、軽い、選択して右クリックでコピーが出来るターミナルなら何でも良いが、昔lxde使ってた名残です）",
+    "client_msg_id": "1251e02f-a17d-4142-b929-301e781d9d61",
+    "name": "naokihirokitomoki",
+    "img": "https://avatars.slack-edge.com/2021-01-01/1607396797362_a9967cc229f49d114f8a_24.jpg",
+    "time": "2021/06/03 19:58:23",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1622711582104300"
+  },
+  {
+    "user": "U017BNGTHT3",
+    "text": "そういえば最初は大体ここ見て良さそうなの探したりしてました。\n<https://wiki.archlinux.org/title/Dotfiles#User_repositories>",
+    "client_msg_id": "2c675d80-aa8e-4020-a651-6dc976a62815",
+    "name": "s5is",
+    "img": "https://avatars.slack-edge.com/2020-11-29/1531495219589_cf6a2f80ce7bb820ba38_24.png",
+    "time": "2021/06/03 19:58:24",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1622711555104100"
+  },
+  {
+    "user": "U0GFBAM8U",
+    "text": "へえ\nよさそう <http://suckless.org/>",
+    "client_msg_id": "ec0f7804-c92e-4827-be99-d0bec6545d14",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2021/06/03 19:58:24",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1622711488103200"
+  },
+  {
+    "user": "U023W9UQD0B",
+    "text": "sucklessのツール群は、どれもソース小さくて読みやすいので好きなんです",
+    "client_msg_id": "d2748407-aece-451e-8fce-f19df15ea2ae",
+    "name": "takumiando15",
+    "img": "https://avatars.slack-edge.com/2021-06-03/2144738400513_95ddaa50f58bef3465bc_24.jpg",
+    "time": "2021/06/03 19:58:24",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1622711338101000"
+  },
+  {
+    "user": "U0GFBAM8U",
+    "text": "terminalはtilixとxtermを基本使ってます",
+    "client_msg_id": "89f65134-ad16-42e3-9124-06581f56eff9",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2021/06/03 19:58:25",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1622711294099900"
+  },
+  {
+    "user": "U70QDFN82",
+    "text": "私はターミナルではweztermに最近注目してますね\n<https://github.com/wez/wezterm>",
+    "client_msg_id": "995a653f-cf0e-47ce-98c2-b1f11399f4ab",
+    "name": "yutakatay",
+    "img": "https://avatars.slack-edge.com/2020-08-16/1302143736069_0baa468f7bea68e827d9_24.png",
+    "time": "2021/06/03 19:58:25",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1622711269098600"
+  },
+  {
+    "user": "U0GFBAM8U",
+    "text": "便利",
+    "client_msg_id": "400c455e-0ca8-4fec-9fe9-5fa106ce81bc",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2021/06/03 19:58:25",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1622711245098300"
+  },
+  {
+    "user": "U70QDFN82",
+    "text": "archinstaller体験いいですよ。（CLIなんで初心者には勧められないけど）\nすごく楽になった。2021年にしてインストーラーの便利さを再発見できます。",
+    "client_msg_id": "e14af0ec-502c-4471-a1ac-997b6e74de9c",
+    "name": "yutakatay",
+    "img": "https://avatars.slack-edge.com/2020-08-16/1302143736069_0baa468f7bea68e827d9_24.png",
+    "time": "2021/06/03 19:58:26",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1622711224097800"
+  },
+  {
+    "user": "U0GFBAM8U",
+    "text": "arch installer、そうなんですね\n実はまだ触ってなくて知らなかった",
+    "client_msg_id": "62aabd0f-1f2d-4024-ae31-3a25856e09a0",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2021/06/03 19:58:26",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1622711175096600"
+  },
+  {
+    "user": "U017BNGTHT3",
+    "text": "i3使いたい人は自分で入れるしええやろ！で除外された説(おそらく違う)",
+    "client_msg_id": "9588053b-ffa0-470e-922a-885dfc8e53c6",
+    "name": "s5is",
+    "img": "https://avatars.slack-edge.com/2020-11-29/1531495219589_cf6a2f80ce7bb820ba38_24.png",
+    "time": "2021/06/03 19:58:26",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1622711115095500"
+  },
+  {
+    "user": "U0GFBAM8U",
+    "text": "terminal:stは、名前短いので興味あります(短い名前好き",
+    "client_msg_id": "34477a59-12ff-4ade-a1d6-f1abfbe30727",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2021/06/03 19:58:27",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1622711078094800"
+  },
+  {
+    "user": "U70QDFN82",
+    "text": "けどarchのインストーラーでDEの候補としてないんですよね。i3。awesomeとかあるのに",
+    "client_msg_id": "25074ec3-540a-45f2-b04c-20737ab78d29",
+    "name": "yutakatay",
+    "img": "https://avatars.slack-edge.com/2020-08-16/1302143736069_0baa468f7bea68e827d9_24.png",
+    "time": "2021/06/03 19:58:27",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1622711048094100"
+  },
+  {
+    "user": "U023W9UQD0B",
+    "text": "やっぱりタイル型人気なんですね〜\nちなみにターミナルはstを使っています、カスタマイズしやすくて。",
+    "client_msg_id": "979479c4-6a7e-4c9f-b9ae-b5f340efb481",
+    "name": "takumiando15",
+    "img": "https://avatars.slack-edge.com/2021-06-03/2144738400513_95ddaa50f58bef3465bc_24.jpg",
+    "time": "2021/06/03 19:58:27",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1622711004093500"
+  },
+  {
+    "user": "U70QDFN82",
+    "text": "あとどこで開発してるのかなぞなんですよね・・・urxvt\n派生品も多くてどれ使うのがベターかわからない",
+    "client_msg_id": "14a2a6a1-4bd4-48dc-91d7-dd30940fc53a",
+    "name": "yutakatay",
+    "img": "https://avatars.slack-edge.com/2020-08-16/1302143736069_0baa468f7bea68e827d9_24.png",
+    "time": "2021/06/03 19:58:28",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1622710996093200"
+  },
+  {
+    "user": "U0GFBAM8U",
+    "text": "お、スクショにarchjpのslackが",
+    "client_msg_id": "8AF148E0-CE41-4C0A-8E8B-937B0CFA7F16",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2021/06/03 19:58:28",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1622710976092600"
+  },
+  {
+    "user": "U017BNGTHT3",
+    "text": "Alacritty、高機能で設定ファイルが書きやすいので使ってますが\n高速さについては差はあまり体感できない(urxvtとかもかなり速い)",
+    "client_msg_id": "0a994ef5-c076-4e3c-89b9-a21de7206332",
+    "name": "s5is",
+    "img": "https://avatars.slack-edge.com/2020-11-29/1531495219589_cf6a2f80ce7bb820ba38_24.png",
+    "time": "2021/06/03 19:58:28",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1622710939091300"
+  },
+  {
+    "user": "U020M0ZLKND",
+    "text": "これに関しては文字数は同じですが編集距離5なんですよね。なぜ間違えた",
+    "client_msg_id": "8ebbc1ce-b8ea-40ba-af3f-1089ab17e68a",
+    "name": "qryxip",
+    "img": "https://secure.gravatar.com/avatar/29cf965ea58c70dba203a10ec39fe4cd.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0002-24.png",
+    "time": "2021/06/03 19:58:29",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1622710912091000"
+  },
+  {
     "user": "U70QDFN82",
     "text": "意味不明の羅列覚えさせられるのつらいですよね。fcitxとか",
     "client_msg_id": "a7664356-ce66-4452-a452-a2465b236c54",
     "name": "yutakatay",
     "img": "https://avatars.slack-edge.com/2020-08-16/1302143736069_0baa468f7bea68e827d9_24.png",
-    "time": "2021/06/03 18:05:24",
+    "time": "2021/06/03 19:58:29",
     "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1622710841089500"
   },
   {
