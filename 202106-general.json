@@ -1,11 +1,29 @@
 [
   {
+    "user": "U6DL9D3AB",
+    "text": "&gt; pacmanを更新した後に AURのリポジトリから `yay` をチェックアウトして\n古いyayを消す前に `yay -G yay` しておく方がラクかも\n試したのは yay 10.2.2-4 です",
+    "client_msg_id": "584914d5-fb06-46f1-96c2-4b4d92a29d7d",
+    "name": "emtee",
+    "img": "https://avatars.slack-edge.com/2017-08-24/232261947719_1bb4d925e48fdfd0a154_24.png",
+    "time": "2021/06/04 00:43:46",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1622732841078300"
+  },
+  {
+    "user": "U6DL9D3AB",
+    "text": "`yay-bin` ではないのですが…\npacmanを更新した後に AURのリポジトリから `yay` をチェックアウトして `makepkg -si` でビルド・インストール出来ましたよ\n動作も特に問題なさそうです",
+    "client_msg_id": "b2837ce7-65af-43e6-b134-ff44e34adce6",
+    "name": "emtee",
+    "img": "https://avatars.slack-edge.com/2017-08-24/232261947719_1bb4d925e48fdfd0a154_24.png",
+    "time": "2021/06/04 00:43:47",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1622732704076800"
+  },
+  {
     "user": "U0GFBAM8U",
     "text": "ちなみに、manjaroはlibalpm12なので大丈夫そう\nこれも伝聞ですけど",
     "client_msg_id": "5851E024-D666-4807-98E6-58C2AAF196C2",
     "name": "syui",
     "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
-    "time": "2021/06/03 23:40:55",
+    "time": "2021/06/04 00:43:47",
     "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1622729790074600"
   },
   {
