@@ -1,11 +1,47 @@
 [
   {
     "user": "U0GFBAM8U",
+    "text": "ちなみに、manjaroはlibalpm12なので大丈夫そう\nこれも伝聞ですけど",
+    "client_msg_id": "5851E024-D666-4807-98E6-58C2AAF196C2",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2021/06/03 23:40:55",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1622729790074600"
+  },
+  {
+    "user": "U0GFBAM8U",
+    "text": "もうトラブル前にparuに移行しちゃったので、あくまで推測ですが、yayまだlibalpm12だったので、archがlibalpm13に移行した段階で動かなくなっちったんじゃないかと",
+    "client_msg_id": "F2AED9C5-61A0-449A-A20C-0293BACF36B7",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2021/06/03 23:40:55",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1622729733073500"
+  },
+  {
+    "user": "U0GFBAM8U",
+    "text": "<https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1622515892034500|https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1622515892034500>",
+    "client_msg_id": "51FDEEA1-BA47-4EB6-B1E1-14B1292C5C3F",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2021/06/03 23:40:55",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1622729601070900"
+  },
+  {
+    "user": "U019C7VLZ4G",
+    "text": "paruの話題出てましたが、yayは死んだのですか?",
+    "client_msg_id": "c876bbc0-0871-40fc-8e24-4c98fac2861b",
+    "name": "getalotofmail",
+    "img": "https://secure.gravatar.com/avatar/5a7f20688dc40b2989935a11bdfa25fe.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0001-24.png",
+    "time": "2021/06/03 23:40:55",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1622729524070700"
+  },
+  {
+    "user": "U0GFBAM8U",
     "text": "おそらくこの修正でparu 1.7.0は正常にbuildできるようになったはずだと思います。\n<https://github.com/archlinux/alpm.rs/commit/5253d631de6f250ba5ced28c21d8fdeadb131fb4>",
     "client_msg_id": "af08dffd-9f02-4bc5-a95a-cf6f106450ec",
     "name": "syui",
     "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
-    "time": "2021/06/03 03:25:23",
+    "time": "2021/06/03 23:40:56",
     "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1622654369069900"
   },
   {
