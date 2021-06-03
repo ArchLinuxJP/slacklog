@@ -1,11 +1,29 @@
 [
   {
+    "user": "U70QDFN82",
+    "text": "ですね。AURのメンテナンスの人はアップデートするよって言ってたんですけどそれから応答なしですね\n<https://aur.archlinux.org/packages/yay-bin>",
+    "client_msg_id": "84ce9309-42b8-461f-834e-84e1e64ab5c5",
+    "name": "yutakatay",
+    "img": "https://avatars.slack-edge.com/2020-08-16/1302143736069_0baa468f7bea68e827d9_24.png",
+    "time": "2021/06/04 02:55:41",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1622736914081700"
+  },
+  {
+    "user": "U0GFBAM8U",
+    "text": "あら、そうなのか\nとするとyay-binが古いyay参照しててそれがlibalpm12依存なので、とかかなあ\nyay最新自体はlibalpm13対応してそう",
+    "client_msg_id": "137F98BC-7FB6-4C72-B79B-5F2AF5B5EE84",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2021/06/04 02:55:41",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1622735373081000"
+  },
+  {
     "user": "U6DL9D3AB",
     "text": "&gt; pacmanを更新した後に AURのリポジトリから `yay` をチェックアウトして\n古いyayを消す前に `yay -G yay` しておく方がラクかも\n試したのは yay 10.2.2-4 です",
     "client_msg_id": "584914d5-fb06-46f1-96c2-4b4d92a29d7d",
     "name": "emtee",
     "img": "https://avatars.slack-edge.com/2017-08-24/232261947719_1bb4d925e48fdfd0a154_24.png",
-    "time": "2021/06/04 00:43:46",
+    "time": "2021/06/04 02:55:42",
     "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1622732841078300"
   },
   {
