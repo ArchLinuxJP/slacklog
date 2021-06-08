@@ -1,11 +1,110 @@
 [
   {
+    "user": "UPLFHSQ2V",
+    "text": "<https://www.unknownengineer.net/entry/2017/08/16/184537#%E3%83%8F%E3%83%83%E3%82%B7%E3%83%A5%E6%96%B9%E5%BC%8F>\n詳しくないので適当に調べただけであれですが、/etc/shadow見れば分かるんですかね？",
+    "client_msg_id": "937a4a08-e7f9-4430-8820-13855549a132",
+    "name": "conao3",
+    "img": "https://secure.gravatar.com/avatar/1a9a49807415fb97544a7383a9288b84.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0006-24.png",
+    "time": "2021/06/08 21:35:25",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1623155712095200"
+  },
+  {
+    "user": "U70QDFN82",
+    "text": "とりあえず長そう（けどなぜかed25519とか短いんだよな・・・）",
+    "client_msg_id": "5fea2a93-1a3c-4ed0-84b1-9b5ad4640510",
+    "name": "yutakatay",
+    "img": "https://avatars.slack-edge.com/2020-08-16/1302143736069_0baa468f7bea68e827d9_24.png",
+    "time": "2021/06/08 21:35:26",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1623155698094800"
+  },
+  {
+    "user": "U0GFBAM8U",
+    "text": "なぞ",
+    "client_msg_id": "6A0B3AF6-32DA-4924-BD9F-92EA377FB378",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2021/06/08 21:35:26",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1623155639093200"
+  },
+  {
+    "user": "U70QDFN82",
+    "text": "今のパスワードどれ使ってるかってどうやったらわかるんだろう・・・？",
+    "client_msg_id": "4870ca5b-0fdb-451e-b562-00c61fbe7fad",
+    "name": "yutakatay",
+    "img": "https://avatars.slack-edge.com/2020-08-16/1302143736069_0baa468f7bea68e827d9_24.png",
+    "time": "2021/06/08 21:35:27",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1623155509093000"
+  },
+  {
+    "user": "U0GFBAM8U",
+    "text": "たしかに",
+    "client_msg_id": "220AF2B2-1621-4BA6-A65B-140C03ED1D43",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2021/06/08 21:35:27",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1623155503092800"
+  },
+  {
+    "user": "UGA29R3FH",
+    "text": "(自動ログインしてるのでちょっと怖い)",
+    "client_msg_id": "182a8a2e-305c-4caf-b396-e4bbf3b170b2",
+    "name": "znmxodq1",
+    "img": "https://avatars.slack-edge.com/2019-03-08/570571829091_2ca91fb0cc1ed2341fe0_24.png",
+    "time": "2021/06/08 21:35:27",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1623155491092500"
+  },
+  {
+    "user": "UGA29R3FH",
+    "text": "なるほど\nまあ突然brickする心配はしなくてもいいか、変更求められるだけって書いてあるし",
+    "client_msg_id": "684c2991-b4f1-47c6-ae7e-ab6759ebad37",
+    "name": "znmxodq1",
+    "img": "https://avatars.slack-edge.com/2019-03-08/570571829091_2ca91fb0cc1ed2341fe0_24.png",
+    "time": "2021/06/08 21:35:28",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1623155466092100"
+  },
+  {
+    "user": "U0GFBAM8U",
+    "text": " パスワード &gt; うーん、どうなんでしょうね\n新しく作る場合は有効になると思うけど、古いままのパスワードの人はそのままでも使えるのは使えるような気がする",
+    "client_msg_id": "BB93E34D-B6FA-4AB5-9328-2B6520D3E15E",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2021/06/08 21:35:28",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1623155413091600"
+  },
+  {
+    "user": "U0GFBAM8U",
+    "text": "(更新はやいと自動翻訳されずjpのurlが投稿される感じだったと思う)",
+    "client_msg_id": "9430CA92-863A-49D9-B717-A8D281078E53",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2021/06/08 21:35:29",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1623155058089100"
+  },
+  {
+    "user": "UGA29R3FH",
+    "text": "これって最近パスワード変えてたら大丈夫なのかな",
+    "client_msg_id": "6b981795-380f-4fa9-be0f-33fdc0c1402c",
+    "name": "znmxodq1",
+    "img": "https://avatars.slack-edge.com/2019-03-08/570571829091_2ca91fb0cc1ed2341fe0_24.png",
+    "time": "2021/06/08 21:35:29",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1623155058089000"
+  },
+  {
+    "user": "U0GFBAM8U",
+    "text": "お、はやい",
+    "client_msg_id": "FA3101DF-6778-4D32-8ED5-0ADB39D12E5B",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2021/06/08 21:35:30",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1623154970087300"
+  },
+  {
     "user": "U70QDFN82",
     "text": "RedditでArchのアンケートやってるので共有しときます\n<https://www.reddit.com/r/archlinux/comments/ntkloq/how_often_does_your_install_breaks/>",
     "client_msg_id": "15a007b6-e250-4491-9449-5ac7cb141f79",
     "name": "yutakatay",
     "img": "https://avatars.slack-edge.com/2020-08-16/1302143736069_0baa468f7bea68e827d9_24.png",
-    "time": "2021/06/07 00:34:53",
+    "time": "2021/06/08 21:35:30",
     "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1622990585085800"
   },
   {
