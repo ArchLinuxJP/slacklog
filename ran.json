@@ -1,11 +1,83 @@
 [
   {
+    "user": "U0GFBAM8U",
+    "text": "pavucontrolはちょっとわからない",
+    "client_msg_id": "D2E75573-A2CA-40FE-A4BD-0EE74DDDEE75",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2021/06/09 22:31:30",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1623245334170800"
+  },
+  {
+    "user": "U0GFBAM8U",
+    "text": "<https://wiki.archlinux.jp/index.php/Advanced_Linux_Sound_Architecture/%E3%83%88%E3%83%A9%E3%83%96%E3%83%AB%E3%82%B7%E3%83%A5%E3%83%BC%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%23.E3.83.9E.E3.82.A4.E3.82.AF.E3.83.AD.E3.83.95.E3.82.A9.E3.83.B3|https://wiki.archlinux.jp/index.php/Advanced_Linux_Sound_Architecture/トラブルシューティング#.E3.83.9E.E3.82.A4.E3.82.AF.E3.83.AD.E3.83.95.E3.82.A9.E3.83.B3>",
+    "client_msg_id": "CB029125-9F34-496E-80EE-67AFC7DF0FA3",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2021/06/09 22:31:30",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1623245274170200"
+  },
+  {
+    "user": "U0GFBAM8U",
+    "text": "この辺だと思います <https://wiki.archlinux.jp/index.php/Advanced_Linux_Sound_Architecture#.E3.82.B5.E3.82.A6.E3.83.B3.E3.83.89.E3.83.A2.E3.82.B8.E3.83.A5.E3.83.BC.E3.83.AB.E3.81.8C.E3.83.AD.E3.83.BC.E3.83.89.E3.81.95.E3.82.8C.E3.81.A6.E3.81.84.E3.82.8B.E3.81.93.E3.81.A8.E3.82.92.E7.A2.BA.E3.81.8B.E3.82.81.E3.82.8B|https://wiki.archlinux.jp/index.php/Advanced_Linux_Sound_Architecture#.E3.82.B5.E3.82.A6.E3.83.B3.E3.83.89.E3.83.A2.E3.82.B8.E3.83.A5.E3.83.BC.E3.83.AB.E3.81.8C.E3.83.AD.E3.83.BC.E3.83.89.E3.81.95.E3.82.8C.E3.81.A6.E3.81.84.E3.82.8B.E3.81.93.E3.81.A8.E3.82.92.E7.A2.BA.E3.81.8B.E3.82.81.E3.82.8B>",
+    "client_msg_id": "EDC35E8C-6828-419D-A8D6-69ED6A400A5B",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2021/06/09 22:31:31",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1623245154170000"
+  },
+  {
+    "user": "U019C7VLZ4G",
+    "text": "ノイズを消そうといろいろいじっていたらPC本体のマイクが見えなくなってしまいました。\narecord -lからは見えるのですが、pavucontrolのinput deviceのタブに出てきません。\nどうすればいいのでしょうか?",
+    "client_msg_id": "fdd26bb5-1d0a-48b4-83b3-e440c7a098cc",
+    "name": "getalotofmail",
+    "img": "https://secure.gravatar.com/avatar/5a7f20688dc40b2989935a11bdfa25fe.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0001-24.png",
+    "time": "2021/06/09 22:31:31",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1623244853169400"
+  },
+  {
+    "user": "U0GFBAM8U",
+    "text": "ゲイン調整でノイズ自体を小さくすることは可能だけど、音量も小さくなるので解決しませんできた",
+    "client_msg_id": "5E918303-D3A8-4233-BAEE-5487C2A5AA6E",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2021/06/09 22:31:31",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1623244813169000"
+  },
+  {
+    "user": "U0GFBAM8U",
+    "text": "ですが私も同じような現象に遭遇したことがあって、update後とかだった気がしますが、ノイズが入るようになってしまい、どうにも消せないことがありました",
+    "client_msg_id": "37ED69F5-1883-4B8C-8E98-2DF9305AA372",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2021/06/09 22:31:31",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1623244570164900"
+  },
+  {
+    "user": "U0GFBAM8U",
+    "text": "私はalsamixerとかで調整してます",
+    "client_msg_id": "FEE3DC1E-100E-4BE6-BA7A-F69962A954CE",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2021/06/09 22:31:32",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1623244428162600"
+  },
+  {
+    "user": "U019C7VLZ4G",
+    "text": "PC本体のマイクでサウンドレコーダーを使って録音できません。\nなぜでしょうか?\nGnomeのsettingsのサウンドから見てもPC本体のマイクが選択できない状況です。\narecord -l からみたところ、デバイスを認識はしているようです。",
+    "client_msg_id": "89b53970-d11b-4bb0-921d-a3cb176550d5",
+    "name": "getalotofmail",
+    "img": "https://secure.gravatar.com/avatar/5a7f20688dc40b2989935a11bdfa25fe.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0001-24.png",
+    "time": "2021/06/09 22:31:32",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1623244307161900"
+  },
+  {
     "user": "U019C7VLZ4G",
     "text": "generalでも言及したけどFlatpak版のdiscord、マイクからの音声にノイズめっちゃ乗る\n別のマイクにしても変わらなかったのでマイク側ではなさそう\npipewireにしたところノイズは少し良くなったけど音声が途切れる",
     "client_msg_id": "4a13d935-283d-467e-ae15-cb9f97db2b5e",
     "name": "getalotofmail",
     "img": "https://secure.gravatar.com/avatar/5a7f20688dc40b2989935a11bdfa25fe.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0001-24.png",
-    "time": "2021/06/07 23:43:10",
+    "time": "2021/06/09 22:31:32",
     "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1623073010157000"
   },
   {
