@@ -1,11 +1,56 @@
 [
   {
     "user": "U0GFBAM8U",
+    "text": "ただ、github action上でこれらが実行可能かどうかは、やったことがないので、わかりませんが",
+    "client_msg_id": "5698c49d-d797-44a6-85e8-7b461a180554",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2021/06/12 11:35:14",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1623464048108800"
+  },
+  {
+    "user": "U0GFBAM8U",
+    "text": "なので可能なら\n```default:\n  image: \"archlinux:latest\"```\nみたいな感じでarchのimg上で実行するか、もしくは、dockerに閉じ込めて、ci上で`docker run -v /var/run/docker.sock:/var/run/docker.sock --privileged -it archlinux /bin/bash /mkimage-arch.sh` みたいな解決策が考えられると思います。",
+    "client_msg_id": "c984728d-9118-4b4b-801a-e51ce8fb6229",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2021/06/12 11:35:15",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1623463951108300"
+  },
+  {
+    "user": "U0GFBAM8U",
+    "text": "ちなみに、そんな感じの問題にあたった記憶が自分にもあった気がして、そのときは、archのimg上でbuildすれば回避できたような気がする",
+    "client_msg_id": "bfd2f775-d26e-407d-955c-2982b5f4852e",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2021/06/12 11:35:15",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1623463540106000"
+  },
+  {
+    "user": "U0GFBAM8U",
+    "text": "一応、こんなものがあって、gitlab-ciではbuildできてるっぽいのかな...あまり参考にならないかもですが\n<https://github.com/archlinux/archlinux-docker/blob/master/.gitlab-ci.yml>",
+    "client_msg_id": "10cd8627-04f2-47fc-90c1-9b7bd7613661",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2021/06/12 11:35:16",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1623463417104800"
+  },
+  {
+    "user": "U01HE1ENNJZ",
+    "text": "archisoをgithub action上のcontainerでビルドしようと思ったんですけど\n<https://bbs.archlinux.org/viewtopic.php?id=258147>\nこのようなprocマウントが権限拒否されるんですけど\n解決策知ってる人いますか？",
+    "client_msg_id": "3d8acff2-33a4-4e3b-84bd-31221c1bcca1",
+    "name": "a3784197",
+    "img": "https://avatars.slack-edge.com/2021-01-15/1652242406097_fbfa5b69ffe23ca9a640_24.jpg",
+    "time": "2021/06/12 11:35:16",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1623461929104200"
+  },
+  {
+    "user": "U0GFBAM8U",
     "text": "文字や記号には基本的には著作権は発生しないけど、発生する場合もあるので難しいらしい(デザインが施された場合など",
     "client_msg_id": "78885fcc-1cd6-4cc9-b2ad-b803cd6139a1",
     "name": "syui",
     "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
-    "time": "2021/06/08 22:38:15",
+    "time": "2021/06/12 11:35:16",
     "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1623156198101100"
   },
   {
