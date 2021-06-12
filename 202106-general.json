@@ -1,11 +1,47 @@
 [
   {
+    "user": "U01HE1ENNJZ",
+    "text": "<https://forum.gitlab.com/t/unable-to-mount-img-in-ci/38237>\nやっぱgitlabだったら設定があるようですね",
+    "client_msg_id": "17411b4e-4f58-44e2-831d-0516a1918070",
+    "name": "a3784197",
+    "img": "https://avatars.slack-edge.com/2021-01-15/1652242406097_fbfa5b69ffe23ca9a640_24.jpg",
+    "time": "2021/06/12 13:27:03",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1623471955113300"
+  },
+  {
+    "user": "U0GFBAM8U",
+    "text": "gh-actionsでもarchのimgをなんらかの方法で使うことができるなら、procのerr出ずにbuild通るかも。",
+    "client_msg_id": "F78E04BB-82A3-429E-A0B4-06B2D1DFF610",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2021/06/12 13:27:03",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1623471593112900"
+  },
+  {
+    "user": "U0GFBAM8U",
+    "text": "共有したリポジトリではできる感じだと思われます。\n私がやったのはtravis-ciでdocker-imgを使う方法でした。",
+    "client_msg_id": "EE070F72-FCB1-4EFE-B1FE-F7C3E13C356A",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2021/06/12 13:27:04",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1623471288110600"
+  },
+  {
+    "user": "U01HE1ENNJZ",
+    "text": "gitlabだとできた感じですか？",
+    "client_msg_id": "f9cee2ce-9882-4186-b261-e50a8fac87c3",
+    "name": "a3784197",
+    "img": "https://avatars.slack-edge.com/2021-01-15/1652242406097_fbfa5b69ffe23ca9a640_24.jpg",
+    "time": "2021/06/12 13:27:04",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1623471207109100"
+  },
+  {
     "user": "U0GFBAM8U",
     "text": "ただ、github action上でこれらが実行可能かどうかは、やったことがないので、わかりませんが",
     "client_msg_id": "5698c49d-d797-44a6-85e8-7b461a180554",
     "name": "syui",
     "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
-    "time": "2021/06/12 11:35:14",
+    "time": "2021/06/12 13:27:05",
     "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1623464048108800"
   },
   {
