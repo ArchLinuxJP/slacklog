@@ -1,11 +1,128 @@
 [
   {
+    "user": "U0PM6EYR1",
+    "text": "`Can't save user-dirs.dirs, failed to create directory`\nほーん…",
+    "client_msg_id": "0849e0f7-8f92-4ed4-a703-74814ff298ab",
+    "name": "raa0121",
+    "img": "https://secure.gravatar.com/avatar/35b032d7b2d4182b0c2de1ef85ba91f2.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0009-24.png",
+    "time": "2021/06/16 11:38:53",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1623811123120500"
+  },
+  {
+    "user": "U01HE1ENNJZ",
+    "text": "なるほど！\nビルドするとして時間かかりそうなのはpacmanのみですね",
+    "client_msg_id": "36b00b48-99c1-47ce-a4ee-d60a8d835d89",
+    "name": "a3784197",
+    "img": "https://avatars.slack-edge.com/2021-01-15/1652242406097_fbfa5b69ffe23ca9a640_24.jpg",
+    "time": "2021/06/16 11:38:53",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1623811083120200"
+  },
+  {
+    "user": "U0PM6EYR1",
+    "text": "でも、あんまり時間使ってないのか",
+    "client_msg_id": "5f7c68aa-2833-4322-8d65-454515d5978b",
+    "name": "raa0121",
+    "img": "https://secure.gravatar.com/avatar/35b032d7b2d4182b0c2de1ef85ba91f2.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0009-24.png",
+    "time": "2021/06/16 11:38:53",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1623811052119600"
+  },
+  {
+    "user": "U0PM6EYR1",
+    "text": "例えば、ビルド時間を減らすソリューションとしては、pacman や archlinux-keyring を deb パッケージとして先にビルドしちゃうとか",
+    "client_msg_id": "55cfed4b-2ba5-491a-9c8c-00433d0cb6ce",
+    "name": "raa0121",
+    "img": "https://secure.gravatar.com/avatar/35b032d7b2d4182b0c2de1ef85ba91f2.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0009-24.png",
+    "time": "2021/06/16 11:38:54",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1623810996119200"
+  },
+  {
+    "user": "U0GFBAM8U",
+    "text": "ですね、key動くの便利",
+    "client_msg_id": "e2aef409-29d2-4722-ae2d-ab4586f7283e",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2021/06/16 11:38:54",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1623810981118900"
+  },
+  {
+    "user": "U01HE1ENNJZ",
+    "text": "動きますよ\narchlinux-keyringをなんとか入れないと\nエラー出ますが",
+    "client_msg_id": "dba3dda9-4b67-47fe-b093-aa0abd5eb721",
+    "name": "a3784197",
+    "img": "https://avatars.slack-edge.com/2021-01-15/1652242406097_fbfa5b69ffe23ca9a640_24.jpg",
+    "time": "2021/06/16 11:38:54",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1623810950118100"
+  },
+  {
+    "user": "U0GFBAM8U",
+    "text": "pacman-keyも動く感じなのかな",
+    "client_msg_id": "9de8e253-dc30-4c69-874e-66479eca28ab",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2021/06/16 11:38:55",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1623810903117000"
+  },
+  {
+    "user": "U0GFBAM8U",
+    "text": "こういうやりかたができる、というところまで持っていったの、すごく貴重だし、いいと思います",
+    "client_msg_id": "F6380219-0DF1-4E23-B462-E39CEA6DD653",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2021/06/16 11:38:55",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1623810811116700"
+  },
+  {
+    "user": "U01HE1ENNJZ",
+    "text": "ubuntuにpacmanを入れていいのかはわかりませんが",
+    "client_msg_id": "05978c1c-5878-4a47-a3ca-2f337e3a1ee4",
+    "name": "a3784197",
+    "img": "https://avatars.slack-edge.com/2021-01-15/1652242406097_fbfa5b69ffe23ca9a640_24.jpg",
+    "time": "2021/06/16 11:38:55",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1623810650115700"
+  },
+  {
+    "user": "U0GFBAM8U",
+    "text": "おお、すごい",
+    "client_msg_id": "EB0C4123-4C43-4662-8B42-C8635D41F798",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2021/06/16 11:38:55",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1623810425115200"
+  },
+  {
+    "user": "U01HE1ENNJZ",
+    "text": "ありがとうございました",
+    "client_msg_id": "57176cf1-0149-462e-8c9d-f2a4345b4cf6",
+    "name": "a3784197",
+    "img": "https://avatars.slack-edge.com/2021-01-15/1652242406097_fbfa5b69ffe23ca9a640_24.jpg",
+    "time": "2021/06/16 11:38:56",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1623810330115000"
+  },
+  {
+    "user": "U01HE1ENNJZ",
+    "text": "<https://github.com/u0a266/myarch/blob/master/.github/workflows/build-archiso.yml>",
+    "client_msg_id": "0858f3db-e543-4390-87ef-d806a0c84fe4",
+    "name": "a3784197",
+    "img": "https://avatars.slack-edge.com/2021-01-15/1652242406097_fbfa5b69ffe23ca9a640_24.jpg",
+    "time": "2021/06/16 11:38:56",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1623810324114700"
+  },
+  {
+    "user": "U01HE1ENNJZ",
+    "text": "ubuntu上でmkarchiso回したら動きました",
+    "client_msg_id": "8e831e63-3c62-47b2-b7a0-475bc480c0ee",
+    "name": "a3784197",
+    "img": "https://avatars.slack-edge.com/2021-01-15/1652242406097_fbfa5b69ffe23ca9a640_24.jpg",
+    "time": "2021/06/16 11:38:56",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1623810299114500"
+  },
+  {
     "user": "U01HE1ENNJZ",
     "text": "<https://forum.gitlab.com/t/unable-to-mount-img-in-ci/38237>\nやっぱgitlabだったら設定があるようですね",
     "client_msg_id": "17411b4e-4f58-44e2-831d-0516a1918070",
     "name": "a3784197",
     "img": "https://avatars.slack-edge.com/2021-01-15/1652242406097_fbfa5b69ffe23ca9a640_24.jpg",
-    "time": "2021/06/12 13:27:03",
+    "time": "2021/06/16 11:38:57",
     "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1623471955113300"
   },
   {
