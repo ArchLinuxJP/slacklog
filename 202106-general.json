@@ -1,11 +1,20 @@
 [
   {
+    "user": "U015CDRQDD0",
+    "text": "wayland(sway)環境下のキーボードのリマップってXKBで行うと思うんですが、以下のような記述の場合、fcitxの日本語キーボード(aと打っても\"*あ*\"ではなく\"*a*\")の時はしっかりと入れ替わっていて、mozc時は`Eisu_toggle`として認識され`Caps_Lock`として認識されず入れ替わっていないのでしょうか?\n実現したいこととしてはctrlと英数の入れ替え及び変換をswayの第2のwinキーにしたい。\n参考にしたサイト:\n1. <https://blog.cnu.jp/2014/05/12/use-xkb/>\n2. <https://qiita.com/terrari/items/39dad1e139fe23b926d9>\n3. <https://www.charvolant.org/doug/xkb/html/node5.html>\n4. wiki\n```partial modifier_keys\nxkb_symbols \"swapkeys\" {\n  replace key &lt;LCTL&gt;  { [ Caps_Lock ] };\n  replace key &lt;CAPS&gt; { [ Control_L ] };\n};```",
+    "client_msg_id": "b8f8f2b3-8a28-4f43-bde2-ef498a1350a3",
+    "name": "v3rn3j",
+    "img": "https://secure.gravatar.com/avatar/245992ad0221e323c1397758868d2138.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0002-24.png",
+    "time": "2021/06/23 01:34:26",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1624379130145100"
+  },
+  {
     "user": "U7F8FQF6W",
     "text": "devtools に sogrep のコマンドがあって結構使います",
     "client_msg_id": "6e69733a-8069-4c63-99f4-8d2e143cce9c",
     "name": "farseerfc",
     "img": "https://secure.gravatar.com/avatar/96ebe2cbc5e2a21062204b8ce2153db2.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0012-24.png",
-    "time": "2021/06/22 10:02:21",
+    "time": "2021/06/23 01:34:27",
     "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1624323663135000"
   },
   {
