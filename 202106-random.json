@@ -1,11 +1,92 @@
 [
   {
+    "user": "U0GFBAM8U",
+    "text": "そんな感じです。bootloader unlockできるとsupersuとか通しやすくなりそうだったと思います",
+    "client_msg_id": "2d4ba03b-4558-41fd-b5eb-4a40a4d9234a",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2021/06/26 23:13:41",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1624716577304500"
+  },
+  {
+    "user": "U019C7VLZ4G",
+    "text": "まず頑張ってbootloader unlockがいる感じですか?",
+    "client_msg_id": "0e7285d2-3583-4b15-b251-9a6a40fa7888",
+    "name": "getalotofmail",
+    "img": "https://secure.gravatar.com/avatar/5a7f20688dc40b2989935a11bdfa25fe.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0001-24.png",
+    "time": "2021/06/26 23:13:41",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1624716464303500"
+  },
+  {
+    "user": "U0GFBAM8U",
+    "text": "よさそう、うまくいくとandroid端末にsshとかもできるし便利ですよ",
+    "client_msg_id": "b82c37ff-9959-48d2-a7e9-94b70f7954d2",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2021/06/26 23:13:41",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1624716385302500"
+  },
+  {
+    "user": "U019C7VLZ4G",
+    "text": "Kindle Fire HD 10買ったので、Arch Tabletとして使ってみたいという野望がある",
+    "client_msg_id": "d6a3e2ea-3652-49d3-a013-7b42b549fd03",
+    "name": "getalotofmail",
+    "img": "https://secure.gravatar.com/avatar/5a7f20688dc40b2989935a11bdfa25fe.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0001-24.png",
+    "time": "2021/06/26 23:13:42",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1624716323302100"
+  },
+  {
+    "user": "U0GFBAM8U",
+    "text": "実はnexus7、chrootでarchのimgを読み込んで使ってるので、実質archlinuxだったりする(違う",
+    "client_msg_id": "8f6275f7-6b2c-4309-8da5-e7f42e1f43f7",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2021/06/26 23:13:42",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1624715097298500"
+  },
+  {
+    "user": "U01HE1ENNJZ",
+    "text": "ありがとうございます！",
+    "client_msg_id": "d9471348-1c64-4440-a9ed-5eff67845ec2",
+    "name": "a3784197",
+    "img": "https://avatars.slack-edge.com/2021-01-15/1652242406097_fbfa5b69ffe23ca9a640_24.jpg",
+    "time": "2021/06/26 23:13:42",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1624715090298300"
+  },
+  {
+    "user": "U0GFBAM8U",
+    "text": "@a3784197 ブログは `<http://syui.cf/blog/index.xml|syui.cf/blog/index.xml>` です",
+    "client_msg_id": "99de167b-28ab-49c6-aac7-c8dd5e2226fa",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2021/06/26 23:13:43",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1624714856297300"
+  },
+  {
+    "user": "UGA29R3FH",
+    "text": "Anroidコア部分がLinuxなので、Termuxみたいなアプリを使えばそこそこLinuxとして使えるのが魅力的な部分だったりする(ニッチそう)",
+    "client_msg_id": "41153537-1abd-40c5-8932-06aa93f2e5b9",
+    "name": "znmxodq1",
+    "img": "https://avatars.slack-edge.com/2019-03-08/570571829091_2ca91fb0cc1ed2341fe0_24.png",
+    "time": "2021/06/26 23:13:43",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1624714810297200"
+  },
+  {
+    "user": "U01HE1ENNJZ",
+    "text": "@syui メンション失礼します\nsyuiさんのブログrss登録したいのですが直リンありますか？\nあったらほしいです",
+    "client_msg_id": "5f24ddee-0e79-476c-9379-3d585a2c4cb3",
+    "name": "a3784197",
+    "img": "https://avatars.slack-edge.com/2021-01-15/1652242406097_fbfa5b69ffe23ca9a640_24.jpg",
+    "time": "2021/06/26 23:13:44",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1624714558295900"
+  },
+  {
     "user": "U0PM6EYR1",
     "text": "某-jp の方には、tech-android 部屋があるな",
     "client_msg_id": "0abfd389-595c-4c11-b64e-9dfba6ada8da",
     "name": "raa0121",
     "img": "https://secure.gravatar.com/avatar/35b032d7b2d4182b0c2de1ef85ba91f2.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0009-24.png",
-    "time": "2021/06/26 22:19:50",
+    "time": "2021/06/26 23:13:44",
     "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1624713422294600"
   },
   {
