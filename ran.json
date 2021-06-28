@@ -1,11 +1,83 @@
 [
   {
+    "user": "U017BNGTHT3",
+    "text": "i3の場合だと、タスクスイッチャーではないですがRofiとかのウィンドウ選択モード使えば似たようなことが出来るはず。",
+    "client_msg_id": "b5f46496-b143-4010-b462-cda60dd65a55",
+    "name": "s5is",
+    "img": "https://avatars.slack-edge.com/2020-11-29/1531495219589_cf6a2f80ce7bb820ba38_24.png",
+    "time": "2021/06/28 23:14:16",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1624889590323600"
+  },
+  {
+    "user": "UGA29R3FH",
+    "text": "固定されたワークスペース間を移動するのが快適すぎてAlt+Tab欲しいと思ったことがなかった",
+    "client_msg_id": "3e12309f-dd6d-480b-a3b3-ae4632d416a5",
+    "name": "znmxodq1",
+    "img": "https://avatars.slack-edge.com/2019-03-08/570571829091_2ca91fb0cc1ed2341fe0_24.png",
+    "time": "2021/06/28 23:14:16",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1624889533322500"
+  },
+  {
+    "user": "UBEFL3YLE",
+    "text": "ワーススペースの遷移が事実上のタスクスイッチャーになってしまっている。",
+    "client_msg_id": "00b22d0a-f0f8-440a-805c-da05170cbd5d",
+    "name": "mail",
+    "img": "https://secure.gravatar.com/avatar/23a2be2c0c837372158d36ca83743fe5.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0018-24.png",
+    "time": "2021/06/28 23:14:17",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1624889093321400"
+  },
+  {
+    "user": "UBEFL3YLE",
+    "text": "言われてみれば確かにi3でタスクスイッチャーをやる方法を知らないかも",
+    "client_msg_id": "c5d41507-b051-40c4-8bb5-a2d9ceb869ae",
+    "name": "mail",
+    "img": "https://secure.gravatar.com/avatar/23a2be2c0c837372158d36ca83743fe5.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0018-24.png",
+    "time": "2021/06/28 23:14:17",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1624889039320400"
+  },
+  {
+    "user": "U70QDFN82",
+    "text": "alt+tabをi3でやりたいだと途端に難易度あがりますけどKDEなら設定だけでいけて便利ですよね",
+    "client_msg_id": "cbadb279-cea5-477b-ba68-4ba17e8261ed",
+    "name": "yutakatay",
+    "img": "https://avatars.slack-edge.com/2020-08-16/1302143736069_0baa468f7bea68e827d9_24.png",
+    "time": "2021/06/28 23:14:17",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1624887690319600"
+  },
+  {
+    "user": "UBEFL3YLE",
+    "text": "ショートカットをalt+tabにして、お好みのフォーカスアニメーションを選べばよいと思います。",
+    "client_msg_id": "32a4378d-e8b0-4445-8df4-feacb0be882d",
+    "name": "mail",
+    "img": "https://secure.gravatar.com/avatar/23a2be2c0c837372158d36ca83743fe5.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0018-24.png",
+    "time": "2021/06/28 23:14:18",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1624887301318900"
+  },
+  {
+    "user": "UBEFL3YLE",
+    "text": "でしたら「KDE システム設定」を開いて「ワークスペース」→「ウインドウマネジメント」からタスクスイッチャーの設定に入れますので",
+    "client_msg_id": "1477ed87-8c93-471d-b169-ea9ba746619e",
+    "name": "mail",
+    "img": "https://secure.gravatar.com/avatar/23a2be2c0c837372158d36ca83743fe5.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0018-24.png",
+    "time": "2021/06/28 23:14:18",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1624887233318000"
+  },
+  {
+    "user": "UBEFL3YLE",
+    "text": "archlinuxでデスクトップ環境がKDEなんですよね？",
+    "client_msg_id": "53ceb9ea-dc2d-4e24-a5fa-52b96c882f38",
+    "name": "mail",
+    "img": "https://secure.gravatar.com/avatar/23a2be2c0c837372158d36ca83743fe5.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0018-24.png",
+    "time": "2021/06/28 23:14:18",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1624887089316900"
+  },
+  {
     "user": "U0211KDBJJX",
     "text": "初心的な質問ですみません、\nkdeを使用しているのですが、Windowsでいうalt+tabでフォーカスするウィンドウを切り替えるような操作をarch linuxでも行いたいです\n\nご存知の方いらっしゃいますか",
     "client_msg_id": "C4D0FD02-23E1-40D7-BB1E-0EEA0E75DC3C",
     "name": "murashun982",
     "img": "https://avatars.slack-edge.com/2021-05-06/2032371117141_71025c391b4671d322e1_24.png",
-    "time": "2021/06/28 22:22:27",
+    "time": "2021/06/28 23:14:19",
     "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1624886523316500"
   },
   {
