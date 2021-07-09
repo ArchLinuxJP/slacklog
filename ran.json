@@ -1,11 +1,20 @@
 [
   {
+    "user": "U0H9QUFA5",
+    "text": "お試しに AlterLinux を Live USB で起動して、10分ほど使ってみた。i3版を入れてみたけど、結構苦労して作りあげた自分の環境とほぼ遜色ない環境がすぐに使える感じ(~ が入力できなくて難儀したけど)。ターミナル上でのインライン入力もできてたし、i3の設定も練られてる感じだった。設定の参考になりそう。lsdのアイコン表示とかもきっちりでてたのも感動した。",
+    "client_msg_id": "c7846ef7-9662-487d-ac30-ad98fc13f57c",
+    "name": "kusanaginoturugi",
+    "img": "https://secure.gravatar.com/avatar/e927cae947e74def10ee5fbb20859145.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0016-24.png",
+    "time": "2021/07/09 17:17:45",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1625818529336500"
+  },
+  {
     "user": "U0HA90BFG",
     "text": "systemd-homedご使用の方でfido2デバイスとの連携に成功した方っていますか？\n自分の環境ではyubikey(5.2.3)を使ってあれこれ試しているのですが、うまくいきません :sob:",
     "client_msg_id": "081ecbfa-5d74-4638-b520-574de4ec6031",
     "name": "kc5m",
     "img": "https://secure.gravatar.com/avatar/97213b9078ca85b8a25da8371553ff9c.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0024-24.png",
-    "time": "2021/06/29,08:42:52",
+    "time": "2021/07/09 17:17:45",
     "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1624956172326500"
   },
   {
@@ -208,7 +217,7 @@
   },
   {
     "user": "U01HE1ENNJZ",
-    "text": "<@U0GFBAM8U> メンション失礼します\nsyuiさんのブログrss登録したいのですが直リンありますか？\nあったらほしいです",
+    "text": "@syui メンション失礼します\nsyuiさんのブログrss登録したいのですが直リンありますか？\nあったらほしいです",
     "client_msg_id": "5f24ddee-0e79-476c-9379-3d585a2c4cb3",
     "name": "a3784197",
     "img": "https://avatars.slack-edge.com/2021-01-15/1652242406097_fbfa5b69ffe23ca9a640_24.jpg",
@@ -280,7 +289,7 @@
   },
   {
     "user": "U0GFBAM8U",
-    "text": "<@U01HE1ENNJZ> さんはxperiaですか?",
+    "text": "@a3784197 さんはxperiaですか?",
     "client_msg_id": "9162AF75-5737-42E8-9119-A41900251402",
     "name": "syui",
     "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
@@ -604,7 +613,7 @@
   },
   {
     "user": "U015CDRQDD0",
-    "text": "<@U7F8FQF6W> ダメみたいです　変更してみましたが... fcitx5利用してましたがconfigtoolの→の画像？が読み込んでくれず４使ってます",
+    "text": "@farseerfc ダメみたいです　変更してみましたが... fcitx5利用してましたがconfigtoolの→の画像？が読み込んでくれず４使ってます",
     "client_msg_id": "36dcfbd0-37d0-40d9-8c35-c40f9d8d4672",
     "name": "v3rn3j",
     "img": "https://secure.gravatar.com/avatar/245992ad0221e323c1397758868d2138.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0002-24.png",
