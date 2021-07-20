@@ -1,11 +1,20 @@
 [
   {
+    "user": "U0HA90BFG",
+    "text": "この間からmicrosoft-edgeがセグフォして起動しない問題で困っていたのですが、今見たらいくつか解決策が出ていました\n- `systemd` `systemd-libs` を248-3に戻す\n- `/etc/nsswitch.conf` のhosts行をコメントアウト\n- `systemd-resolved` の利用をやめて `/etc/resolv.conf` を手動管理\n自分はnsswitch.confの修正で起動できました\naurのコメントを見るとどれも動いたり動かなかったりと環境によっては解決しないみたいですが、もし困っている方がいらっしゃいましたら参考になれば幸いです",
+    "client_msg_id": "5a5dfa54-5a77-46c1-a18f-8d8dd2957e93",
+    "name": "kc5m",
+    "img": "https://secure.gravatar.com/avatar/97213b9078ca85b8a25da8371553ff9c.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0024-24.png",
+    "time": "2021/07/20 09:55:32",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1626741831381600"
+  },
+  {
     "user": "UGA29R3FH",
     "text": "KDEはいいぞ〜",
     "client_msg_id": "4f41981f-5804-40e8-9cdb-9faf7766d0f9",
     "name": "znmxodq1",
     "img": "https://avatars.slack-edge.com/2019-03-08/570571829091_2ca91fb0cc1ed2341fe0_24.png",
-    "time": "2021/07/16 21:25:22",
+    "time": "2021/07/20 09:55:32",
     "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1626436700374700"
   },
   {
