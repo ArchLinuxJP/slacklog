@@ -1,11 +1,29 @@
 [
   {
+    "user": "U019C7VLZ4G",
+    "text": "`Build Date      : 2021年05月28日 15時58分52秒`\nとなっている",
+    "client_msg_id": "bad2e378-b69c-4a7b-813c-8a31f8e68523",
+    "name": "getalotofmail",
+    "img": "https://secure.gravatar.com/avatar/5a7f20688dc40b2989935a11bdfa25fe.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0001-24.png",
+    "time": "2021/07/25 09:53:15",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1627170794384700"
+  },
+  {
+    "user": "U019C7VLZ4G",
+    "text": "そういえばarchlinuxのgvimのパッケージ、結構長いこと更新されてない?",
+    "client_msg_id": "e7f9e162-5713-4ab3-9167-dabdb71e679a",
+    "name": "getalotofmail",
+    "img": "https://secure.gravatar.com/avatar/5a7f20688dc40b2989935a11bdfa25fe.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0001-24.png",
+    "time": "2021/07/25 09:53:16",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1627170680384000"
+  },
+  {
     "user": "U0HA90BFG",
     "text": "この間からmicrosoft-edgeがセグフォして起動しない問題で困っていたのですが、今見たらいくつか解決策が出ていました\n- `systemd` `systemd-libs` を248-3に戻す\n- `/etc/nsswitch.conf` のhosts行をコメントアウト\n- `systemd-resolved` の利用をやめて `/etc/resolv.conf` を手動管理\n自分はnsswitch.confの修正で起動できました\naurのコメントを見るとどれも動いたり動かなかったりと環境によっては解決しないみたいですが、もし困っている方がいらっしゃいましたら参考になれば幸いです",
     "client_msg_id": "5a5dfa54-5a77-46c1-a18f-8d8dd2957e93",
     "name": "kc5m",
     "img": "https://secure.gravatar.com/avatar/97213b9078ca85b8a25da8371553ff9c.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0024-24.png",
-    "time": "2021/07/20 09:55:32",
+    "time": "2021/07/25 09:53:16",
     "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1626741831381600"
   },
   {
@@ -67,7 +85,7 @@
     "text": "しかしDEがPlasmaなのは気になる",
     "client_msg_id": "67c49a78-96ae-4839-96ec-7f84f3b621c2",
     "name": "kokopis",
-    "img": "https://avatars.slack-edge.com/2021-02-17/1758258964165_98bf0ec770bc4e813fb0_24.png",
+    "img": "https://avatars.slack-edge.com/2021-07-20/2286834687606_a13ed1ddce5fbfc574f2_24.png",
     "time": "2021/07/16 15:20:16",
     "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1626404165368800"
   },
@@ -76,7 +94,7 @@
     "text": "Archベースなのマジか",
     "client_msg_id": "0ca8021b-b668-49ce-908c-f433dcde6771",
     "name": "kokopis",
-    "img": "https://avatars.slack-edge.com/2021-02-17/1758258964165_98bf0ec770bc4e813fb0_24.png",
+    "img": "https://avatars.slack-edge.com/2021-07-20/2286834687606_a13ed1ddce5fbfc574f2_24.png",
     "time": "2021/07/16 12:17:53",
     "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1626404145368300"
   },
@@ -130,7 +148,7 @@
     "text": "ねこすき",
     "client_msg_id": "d5d178db-4f74-4c0a-8791-5688cfa89da9",
     "name": "kokopis",
-    "img": "https://avatars.slack-edge.com/2021-02-17/1758258964165_98bf0ec770bc4e813fb0_24.png",
+    "img": "https://avatars.slack-edge.com/2021-07-20/2286834687606_a13ed1ddce5fbfc574f2_24.png",
     "time": "2021/07/14 21:27:14",
     "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1626246539362700"
   },
@@ -157,7 +175,7 @@
     "text": "ArchじゃないんですけどiOS 15で画像のタグとcreator属性が弄れるようになってた:eyes:(前からできたかもしれない)",
     "client_msg_id": "01D380D9-9CF7-4888-89C9-AA27C3DAFB78",
     "name": "kokopis",
-    "img": "https://avatars.slack-edge.com/2021-02-17/1758258964165_98bf0ec770bc4e813fb0_24.png",
+    "img": "https://avatars.slack-edge.com/2021-07-20/2286834687606_a13ed1ddce5fbfc574f2_24.png",
     "time": "2021/07/14 15:19:47",
     "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1626235765361500"
   },
@@ -949,7 +967,7 @@
     "text": ":goodpoem: ",
     "client_msg_id": "633339A3-6A47-4B4A-B078-E75746B4531C",
     "name": "kokopis",
-    "img": "https://avatars.slack-edge.com/2021-02-17/1758258964165_98bf0ec770bc4e813fb0_24.png",
+    "img": "https://avatars.slack-edge.com/2021-07-20/2286834687606_a13ed1ddce5fbfc574f2_24.png",
     "time": "2021/06/17,05:01:59",
     "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1623906119218900"
   },
@@ -1039,7 +1057,7 @@
     "text": "Ryzen意外とLinuxユーザーにも人気でびっくり",
     "client_msg_id": "8d88d364-6276-4a16-8eef-32ee6fe93bfe",
     "name": "kokopis",
-    "img": "https://avatars.slack-edge.com/2021-02-17/1758258964165_98bf0ec770bc4e813fb0_24.png",
+    "img": "https://avatars.slack-edge.com/2021-07-20/2286834687606_a13ed1ddce5fbfc574f2_24.png",
     "time": "2021/06/11,05:11:28",
     "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1623388288197800"
   },
