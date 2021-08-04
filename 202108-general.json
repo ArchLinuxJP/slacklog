@@ -1,11 +1,83 @@
 [
   {
     "user": "UMB4JTAS2",
+    "text": "ありがとうございます。rxvt-unicodeで試してみます。",
+    "client_msg_id": "083a8260-b66a-408b-b9a4-c0435c712bb3",
+    "name": "naoya",
+    "img": "https://avatars.slack-edge.com/2019-08-12/716631268753_023d8ca4ff53b333c83e_24.jpg",
+    "time": "2021/08/04 16:18:50",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1628061113032500"
+  },
+  {
+    "user": "U8T8KB5M4",
+    "text": "rxvt-unicodeだとfontsizeは奇数にしてって書いてますね。\n<https://github.com/vim-airline/vim-airline/wiki/FAQ|https://github.com/vim-airline/vim-airline/wiki/FAQ>",
+    "client_msg_id": "e6c6557d-567d-483a-8c71-15dc5f242cc1",
+    "name": "h.hata.ai.t",
+    "img": "https://avatars.slack-edge.com/2019-08-19/732537331990_536f34e28226326cb4e8_24.png",
+    "time": "2021/08/04 16:18:51",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1628060979031500"
+  },
+  {
+    "user": "U8T8KB5M4",
+    "text": "あとはfontconfigの設定だったり。\n<https://powerline.readthedocs.io/en/master/installation/linux.html|https://powerline.readthedocs.io/en/master/installation/linux.html>",
+    "client_msg_id": "40d440bc-b51c-4b88-a467-4a007d76f49e",
+    "name": "h.hata.ai.t",
+    "img": "https://avatars.slack-edge.com/2019-08-19/732537331990_536f34e28226326cb4e8_24.png",
+    "time": "2021/08/04 16:18:51",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1628059166027200"
+  },
+  {
+    "user": "U8T8KB5M4",
+    "text": "あとは使ってる仮想端末によって色々制約があります\n<https://powerline.readthedocs.io/en/latest/usage.html|https://powerline.readthedocs.io/en/latest/usage.html>",
+    "client_msg_id": "b8879b94-2316-4390-b6a0-fc17ceefa63c",
+    "name": "h.hata.ai.t",
+    "img": "https://avatars.slack-edge.com/2019-08-19/732537331990_536f34e28226326cb4e8_24.png",
+    "time": "2021/08/04 16:18:51",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1628058945026500"
+  },
+  {
+    "user": "UMB4JTAS2",
+    "text": "では位置文字だけ適用されてないってことなんですかね。どうしたらいいんだろう",
+    "client_msg_id": "7cd4b2ac-2e99-4388-8894-d12f1e865f3b",
+    "name": "naoya",
+    "img": "https://avatars.slack-edge.com/2019-08-12/716631268753_023d8ca4ff53b333c83e_24.jpg",
+    "time": "2021/08/04 16:18:52",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1628058899025800"
+  },
+  {
+    "user": "UMB4JTAS2",
+    "text": "あっ...",
+    "client_msg_id": "5ae66374-2cdf-44d4-8f64-d41604aaece6",
+    "name": "naoya",
+    "img": "https://avatars.slack-edge.com/2019-08-12/716631268753_023d8ca4ff53b333c83e_24.jpg",
+    "time": "2021/08/04 16:18:52",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1628058834024200"
+  },
+  {
+    "user": "U8T8KB5M4",
+    "text": "<https://github.com/powerline/fonts|https://github.com/powerline/fonts>",
+    "client_msg_id": "04f40402-b672-4812-b784-28720ca17b69",
+    "name": "h.hata.ai.t",
+    "img": "https://avatars.slack-edge.com/2019-08-19/732537331990_536f34e28226326cb4e8_24.png",
+    "time": "2021/08/04 16:18:52",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1628058701023300"
+  },
+  {
+    "user": "U8T8KB5M4",
+    "text": "airlineって確かpowerline patch当たってればOKだったきがしますが。",
+    "client_msg_id": "4031abb0-8bb4-48ef-b476-f872496dfed6",
+    "name": "h.hata.ai.t",
+    "img": "https://avatars.slack-edge.com/2019-08-19/732537331990_536f34e28226326cb4e8_24.png",
+    "time": "2021/08/04 16:18:52",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1628058698023100"
+  },
+  {
+    "user": "UMB4JTAS2",
     "text": "ごめんなさいこの化けてる文字powerlineじゃなかったです:pray:\n`☰` ←これがその化けてる文字なんですけど、これってどのフォントをインストールしたらいいんでしょう。`noto-fonts-emoji`はインストールされてます。\n文字とフォントの対応を調べられるサイトとかご存知でしたら教えていただけないでしょうか。",
     "client_msg_id": "1d2385c2-9e9c-41c8-8f4b-d205e481d143",
     "name": "naoya",
     "img": "https://avatars.slack-edge.com/2019-08-12/716631268753_023d8ca4ff53b333c83e_24.jpg",
-    "time": "2021/08/04 15:26:58",
+    "time": "2021/08/04 16:18:53",
     "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1628057868022400"
   },
   {
