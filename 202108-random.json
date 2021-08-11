@@ -1,11 +1,65 @@
 [
   {
     "user": "U0GFBAM8U",
+    "text": "ネットワーク上の住所を持つか持たないかでも、攻撃の機会は変わってきそう",
+    "client_msg_id": "77735E64-32C3-4832-BAC4-96414C7BC874",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2021/08/11 16:17:23",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1628665107039700"
+  },
+  {
+    "user": "U0GFBAM8U",
+    "text": "コピペ領域のほうが安全だと思います\nクラウドはアドレスさえ知っていれば、攻撃の契機ができてしまう",
+    "client_msg_id": "9afa495e-19c7-495f-b46d-306a483a5b7d",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2021/08/11 16:17:24",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1628664627038600"
+  },
+  {
+    "user": "U0GFBAM8U",
+    "text": "私も今回使用したのvaultwardenのdocker-imageですね",
+    "client_msg_id": "6d2d46b6-d542-4b57-8748-70dc9b724e4d",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2021/08/11 16:17:24",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1628664491037800"
+  },
+  {
+    "user": "U01J1GGMHDJ",
+    "text": "よく考えてみると、コピーペースト領域を信じるか、クラウドを信じるかの二択になってしまうんですね。パスワードコピペは危ないとされていると聞くけれども、localhostで完全に自分の管理化なら安全とも言えなくもないと :thinking_face: \n（ちなみに私はセルフホストvaultwardenです。androidでもbitwardenアプリで自動入力楽で最高です。ちょっとバグいけど。）",
+    "client_msg_id": "d4d13054-ca90-4856-ac67-28a99bfe4c29",
+    "name": "naokihirokitomoki",
+    "img": "https://avatars.slack-edge.com/2021-01-01/1607396797362_a9967cc229f49d114f8a_24.jpg",
+    "time": "2021/08/11 16:17:24",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1628664405037300"
+  },
+  {
+    "user": "U0GFBAM8U",
+    "text": "私もそうでしたね\nこれから少し様子見てから、便利そうなら自動入力に頼っていきたいけど、そのためにcloudに情報置くのはなあと思った場合は、keepassでいいかなと考えています",
+    "client_msg_id": "C294972C-73A6-4049-943E-CEE611825471",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2021/08/11 16:17:25",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1628663967031100"
+  },
+  {
+    "user": "U017BNGTHT3",
+    "text": "KeepassXC使ってますね。\nいまのところ特に自動入力とかの便利機能には頼ってない…\n(ユーザー名とパスワードの2個ぐらいならコピペで良いかなって)",
+    "client_msg_id": "c392d8ea-3da5-402d-9002-03eb2aa3be34",
+    "name": "s5is",
+    "img": "https://avatars.slack-edge.com/2020-11-29/1531495219589_cf6a2f80ce7bb820ba38_24.png",
+    "time": "2021/08/11 16:17:25",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1628663807027000"
+  },
+  {
+    "user": "U0GFBAM8U",
     "text": "keepaas使っています\nbitwardenが流行ってるみたいなのでセルフホストして試してみました、自動入力が楽",
     "client_msg_id": "18DD80E7-43B6-4529-B5B8-EDE641287CBC",
     "name": "syui",
     "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
-    "time": "2021/08/11 15:20:05",
+    "time": "2021/08/11 16:17:25",
     "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1628662611025200"
   },
   {
