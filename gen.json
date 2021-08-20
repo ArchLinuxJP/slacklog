@@ -1,11 +1,47 @@
 [
   {
+    "user": "UP57VNN6T",
+    "text": "どこのメーリングリストに送れば良いのかわからなくて...",
+    "client_msg_id": "40639bb0-d0db-44e3-8c43-8767d8c282cb",
+    "name": "shun819.mail",
+    "img": "https://avatars.slack-edge.com/2019-10-06/787619965254_d350f87803cf2c832f57_24.png",
+    "time": "2021/08/20 22:25:38",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1629465748054000"
+  },
+  {
+    "user": "UP57VNN6T",
+    "text": "あ、送る先が違うのか...",
+    "client_msg_id": "4f2a62a0-11a7-4041-b12d-53edd57a43fe",
+    "name": "shun819.mail",
+    "img": "https://avatars.slack-edge.com/2019-10-06/787619965254_d350f87803cf2c832f57_24.png",
+    "time": "2021/08/20 22:25:39",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1629465739053700"
+  },
+  {
+    "user": "UUWBU08TU",
+    "text": "arch-commitsってコミットされたときの自動通知だけのイメージがありました",
+    "client_msg_id": "f6aff7d4-e3ac-424d-8355-a7cfe986387a",
+    "name": "nekokowan_archjpslack",
+    "img": "https://avatars.slack-edge.com/2020-06-22/1204027183412_7f7a529c9005aa8cce36_24.png",
+    "time": "2021/08/20 22:25:39",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1629465032053400"
+  },
+  {
+    "user": "UP57VNN6T",
+    "text": "Arch Linuxのメーリングリストを使ってパッケージの不具合を報告したいんですが、`your message was rejected` って帰ってきてしまいます。\nすでにメーリングリストの購読はしているので`<mailto:arch-commits@lists.archlinux.org|arch-commits@lists.archlinux.org>`にメールを送信しました。\n本文とエラーはこんな感じです。何か問題があったのでしょうか\n```\nYour message was rejected\n\n\n\n\n---------- Forwarded message ----------\nFrom: \"山田ハヤオ\" &lt;hayao@fascode.net&gt;\nTo: <mailto:arch-commits@lists.archlinux.org|arch-commits@lists.archlinux.org>\nCc: \nBcc: \nDate: Fri, 20 Aug 2021 21:54:55 +0900\nSubject: file conflict between official packages\nI tried to install cups-filters and pantheon-default-settings.\nAs a result, Pacman reported a \"/usr/share/cups/data/default-testpage.pdf\" conflict. \nThis issue should be fixed.```",
+    "client_msg_id": "2aba1092-70cc-497f-8803-950fbfad1591",
+    "name": "shun819.mail",
+    "img": "https://avatars.slack-edge.com/2019-10-06/787619965254_d350f87803cf2c832f57_24.png",
+    "time": "2021/08/20 22:25:40",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1629464227052300"
+  },
+  {
     "user": "U0GFBAM8U",
     "text": "こんにちはー",
     "client_msg_id": "DB5884C3-8D91-46AE-8150-6E71859AD19E",
     "name": "syui",
     "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
-    "time": "2021/08/20 21:34:19",
+    "time": "2021/08/20 22:25:40",
     "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1629459573050300"
   },
   {
