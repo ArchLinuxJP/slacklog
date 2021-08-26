@@ -1,11 +1,20 @@
 [
   {
     "user": "U02ASPM0A6T",
+    "text": "下記でパッケージダウンロードして閲覧できました。ありがとうございます\n```wget <https://github.com/ny-a/arch-wiki-docs-ja/releases/download/v20210825-1/arch-wiki-docs-ja-20210826-1-any-safe.pkg.tar.zst>\nwget <https://github.com/ny-a/arch-wiki-docs-ja/releases/download/v20210825-1/arch-wiki-docs-ja-20210826-1-any-unsafe.pkg.tar.zst>\nsudo pacman -U arch-wiki-docs-ja-20210826-1-any-safe.pkg.tar.zst\nsudo pacman -U arch-wiki-docs-ja-20210826-1-any-unsafe.pkg.tar.zst\nw3m /usr/share/doc/arch-wiki-jp/html/ja/%E7%9B%AE%E6%AC%A1.html```",
+    "client_msg_id": "53e5917d-0477-4d6e-8ed9-51e499ba132e",
+    "name": "yozigen",
+    "img": "https://avatars.slack-edge.com/2021-08-15/2405164316960_50d7f6e8be23e5b2a0eb_24.jpg",
+    "time": "2021/08/27 02:25:00",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1629995657015200"
+  },
+  {
+    "user": "U02ASPM0A6T",
     "text": "```yay arch-wiki-docs-ja```\nで導入したところ、パッケージ展開ではなくwikiから直接落としているようです\n```tcp \t60076 \tESTABLISHED \t160.16.119.98 \t443 https \t<http://tk2-235-27344.vs.sakura.ne.jp|tk2-235-27344.vs.sakura.ne.jp> \t25809 \tpython3.9```\nこれは想定された動作でしょうか？（とりあえずwikiに負荷掛かっていそうなので止めました）",
     "client_msg_id": "ce7a345f-bf04-4435-8dc0-cf9a8e7c1f2e",
     "name": "yozigen",
     "img": "https://avatars.slack-edge.com/2021-08-15/2405164316960_50d7f6e8be23e5b2a0eb_24.jpg",
-    "time": "2021/08/27 01:33:39",
+    "time": "2021/08/27 02:25:00",
     "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1629994351014400"
   },
   {
