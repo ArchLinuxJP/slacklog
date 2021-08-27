@@ -1,11 +1,38 @@
 [
   {
+    "user": "UUWBU08TU",
+    "text": "-safeと-unsafeは同じもの(マルチバイト文字を含むファイル名がそのままになっているかエンコードされているか)なので、どちらか入れてもらえば結構なはずです。\nちなみに、-safeの方も現状だとカテゴリ名はエンコードされていないようなので、日本語版についてはしばらくunsafeでいい気もしています……。\n何にせよ、GitHub Actionsでの定期ビルドなどはやっていくつもりなので少々お待ちください……。(少し忙しく……。)",
+    "client_msg_id": "6b31b01f-0bd7-4118-bc50-1c72999219c5",
+    "name": "nekokowan_archjpslack",
+    "img": "https://avatars.slack-edge.com/2020-06-22/1204027183412_7f7a529c9005aa8cce36_24.png",
+    "time": "2021/08/27 11:30:51",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1630029967020200"
+  },
+  {
+    "user": "UUWBU08TU",
+    "text": "はい、AURのリポジトリに丸々データ投げるわけにはいかないので普通に取得コードだけを入れています。(gh-releaseとかからbinとして取ってくるのも考えましょうか……。)\narch-wiki-docsは適度な取得間隔をあけるようになっていたはずなので、私の認識としては負荷は問題ないレベルのはずです(同時に複数ビルドとかしない限り)。",
+    "client_msg_id": "842e0cd5-2567-44c9-87d5-86c59a9eba55",
+    "name": "nekokowan_archjpslack",
+    "img": "https://avatars.slack-edge.com/2020-06-22/1204027183412_7f7a529c9005aa8cce36_24.png",
+    "time": "2021/08/27 11:30:52",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1630029847018200"
+  },
+  {
+    "user": "UGA29R3FH",
+    "text": "ありがたい…(実は前々から欲しかった)",
+    "client_msg_id": "6534c95a-f923-4d0a-9f1a-3037748f8b56",
+    "name": "znmxodq1",
+    "img": "https://avatars.slack-edge.com/2019-03-08/570571829091_2ca91fb0cc1ed2341fe0_24.png",
+    "time": "2021/08/27 11:30:52",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1630028996016100"
+  },
+  {
     "user": "U02ASPM0A6T",
-    "text": "下記でパッケージダウンロードして閲覧できました。ありがとうございます\n```wget <https://github.com/ny-a/arch-wiki-docs-ja/releases/download/v20210825-1/arch-wiki-docs-ja-20210826-1-any-safe.pkg.tar.zst>\nwget <https://github.com/ny-a/arch-wiki-docs-ja/releases/download/v20210825-1/arch-wiki-docs-ja-20210826-1-any-unsafe.pkg.tar.zst>\nsudo pacman -U arch-wiki-docs-ja-20210826-1-any-safe.pkg.tar.zst\nsudo pacman -U arch-wiki-docs-ja-20210826-1-any-unsafe.pkg.tar.zst\nw3m /usr/share/doc/arch-wiki-jp/html/ja/%E7%9B%AE%E6%AC%A1.html```",
+    "text": "下記でパッケージダウンロードして閲覧できました\n```wget <https://github.com/ny-a/arch-wiki-docs-ja/releases/download/v20210825-1/arch-wiki-docs-ja-20210826-1-any-safe.pkg.tar.zst>\nwget <https://github.com/ny-a/arch-wiki-docs-ja/releases/download/v20210825-1/arch-wiki-docs-ja-20210826-1-any-unsafe.pkg.tar.zst>\nsudo pacman -U arch-wiki-docs-ja-20210826-1-any-safe.pkg.tar.zst\nsudo pacman -U arch-wiki-docs-ja-20210826-1-any-unsafe.pkg.tar.zst\nw3m /usr/share/doc/arch-wiki-jp/html/ja/%E7%9B%AE%E6%AC%A1.html```",
     "client_msg_id": "53e5917d-0477-4d6e-8ed9-51e499ba132e",
     "name": "yozigen",
     "img": "https://avatars.slack-edge.com/2021-08-15/2405164316960_50d7f6e8be23e5b2a0eb_24.jpg",
-    "time": "2021/08/27 02:25:00",
+    "time": "2021/08/27 11:30:52",
     "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1629995657015200"
   },
   {
