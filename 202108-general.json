@@ -1,11 +1,20 @@
 [
   {
+    "user": "U0H9QUFA5",
+    "text": "archwiki を手元に置こうとした人がいっぱいいてなんかうれしかった。今となってはオンラインでいいやと思っているので、わたしは surfraw をつかって、`sr archwiki -l=jp DokuWiki` とかやってます。(aur の surfraw-git でないと対応してないです)",
+    "client_msg_id": "ff5002e2-29a9-4a63-abe3-b1abd5379df6",
+    "name": "kusanaginoturugi",
+    "img": "https://secure.gravatar.com/avatar/e927cae947e74def10ee5fbb20859145.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0016-24.png",
+    "time": "2021/08/27 17:23:48",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1630049887024000"
+  },
+  {
     "user": "UUWBU08TU",
     "text": "-safeと-unsafeは同じもの(マルチバイト文字を含むファイル名がそのままになっているかエンコードされているか)なので、どちらか入れてもらえば結構なはずです。\nちなみに、-safeの方も現状だとカテゴリ名はエンコードされていないようなので、日本語版についてはしばらくunsafeでいい気もしています……。\n何にせよ、GitHub Actionsでの定期ビルドなどはやっていくつもりなので少々お待ちください……。(少し忙しく……。)",
     "client_msg_id": "6b31b01f-0bd7-4118-bc50-1c72999219c5",
     "name": "nekokowan_archjpslack",
     "img": "https://avatars.slack-edge.com/2020-06-22/1204027183412_7f7a529c9005aa8cce36_24.png",
-    "time": "2021/08/27 11:30:51",
+    "time": "2021/08/27 17:23:48",
     "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1630029967020200"
   },
   {
