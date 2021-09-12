@@ -1,11 +1,38 @@
 [
   {
     "user": "U02ASPM0A6T",
+    "text": "jack 設定は地味に資料参照してやった方がいいっぽいですね。。\nsway の問題じゃなかったです。失礼しました:man-bowing:",
+    "client_msg_id": "bf3d0cb9-532d-4485-936c-69a64ed08cba",
+    "name": "yozigen",
+    "img": "https://avatars.slack-edge.com/2021-08-15/2405164316960_50d7f6e8be23e5b2a0eb_24.jpg",
+    "time": "2021/09/12 23:17:56",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1631454053106100"
+  },
+  {
+    "user": "U0GFBAM8U",
+    "text": "すごい",
+    "client_msg_id": "C5EB9EEE-F342-437B-A56E-76F4A01C9B5C",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2021/09/12 23:17:56",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1631453808103700"
+  },
+  {
+    "user": "U02ASPM0A6T",
+    "text": "@raa0121 下記参照して qjackctl で汎用USBオーディオインターフェースを指定して「D-Busインターフェースの有効化」をしたら音が出るようになりました:bow:\n<https://wiki.archlinux.jp/index.php/JACK_Audio_Connection_Kit#GUI_.E3.82.92.E4.BD.BF.E3.81.A3.E3.81.9F.E8.A8.AD.E5.AE.9A.E3.81.AE.E4.BE.8B>",
+    "client_msg_id": "4f3481fe-6093-4f4a-a067-955792800b49",
+    "name": "yozigen",
+    "img": "https://avatars.slack-edge.com/2021-08-15/2405164316960_50d7f6e8be23e5b2a0eb_24.jpg",
+    "time": "2021/09/12 23:17:57",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1631453754103400"
+  },
+  {
+    "user": "U02ASPM0A6T",
     "text": "ありがとうございます。jack素朴にデバイス指定しただけではできないようで、一見しても構成等何がどうなってるのかよくわからないので基本の部分から参照してみます",
     "client_msg_id": "3baa5f65-876d-4663-b69b-9df0177cfc08",
     "name": "yozigen",
     "img": "https://avatars.slack-edge.com/2021-08-15/2405164316960_50d7f6e8be23e5b2a0eb_24.jpg",
-    "time": "2021/09/12 21:31:51",
+    "time": "2021/09/12 23:17:57",
     "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1631446813099900"
   },
   {
