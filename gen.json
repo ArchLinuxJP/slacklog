@@ -1,11 +1,290 @@
 [
   {
+    "user": "U0GFBAM8U",
+    "text": "最近、Synthesizer Vというツールよさそうだなと思ったくらいで時が止まってる...",
+    "client_msg_id": "C168F391-C881-4A99-BA64-099B5C15AB77",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2021/09/12 19:22:40",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1631442066083000"
+  },
+  {
+    "user": "U0GFBAM8U",
+    "text": "いいですね\n音楽関連、なんか良さそうなツールってありますか?\nあまり知らなくて",
+    "client_msg_id": "A0C7DBC5-C342-4491-9C2C-3157BF91F22A",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2021/09/12 19:22:40",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1631441786081000"
+  },
+  {
+    "user": "U02ASPM0A6T",
+    "text": "@syui 音楽はやっていて、それとは別に「ライブコーディング」というコードでMIDIや音源、OSCなどを制御して音楽作成していこうというツールやムーブメントのジャンルがあって、それを学習・環境構築して楽して複雑なかっこええ作品を色々作りたいと思っています",
+    "client_msg_id": "3a4b9f55-bd6e-4dce-84c4-a02031d31ec0",
+    "name": "yozigen",
+    "img": "https://avatars.slack-edge.com/2021-08-15/2405164316960_50d7f6e8be23e5b2a0eb_24.jpg",
+    "time": "2021/09/12 19:22:41",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1631441683079200"
+  },
+  {
+    "user": "U0PM6EYR1",
+    "text": "&gt; GUIライブラリの種類 x バージョン x 環境変数 x それでもうまくいかない場合は環境変数付きの直接起動って感じで、トラブった時に考慮必要なことが多い\nLinux をデスクトップ環境として使うには、そういうトラブルを直すのを好んでるような人じゃないと使いにくいのは確かかも…",
+    "client_msg_id": "d9dcf863-0c88-4083-866a-ad41243fd9c6",
+    "name": "raa0121",
+    "img": "https://secure.gravatar.com/avatar/35b032d7b2d4182b0c2de1ef85ba91f2.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0009-24.png",
+    "time": "2021/09/12 19:22:41",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1631441553077800"
+  },
+  {
+    "user": "U0PM6EYR1",
+    "text": "今もリリースされてるな",
+    "client_msg_id": "d203515d-be46-4798-b5d6-36be575e82e5",
+    "name": "raa0121",
+    "img": "https://secure.gravatar.com/avatar/35b032d7b2d4182b0c2de1ef85ba91f2.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0009-24.png",
+    "time": "2021/09/12 19:22:42",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1631441495076300"
+  },
+  {
+    "user": "U0PM6EYR1",
+    "text": "マルチメディア系なら、昔は Ubuntu Studio とかあったけど、今はどうなんだろう",
+    "client_msg_id": "4ef843ab-764c-4fb8-ae67-b64d9079685b",
+    "name": "raa0121",
+    "img": "https://secure.gravatar.com/avatar/35b032d7b2d4182b0c2de1ef85ba91f2.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0009-24.png",
+    "time": "2021/09/12 19:22:42",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1631441451075600"
+  },
+  {
+    "user": "U02ASPM0A6T",
+    "text": "ええ、なんかまだそんな印象がありますね。GUIライブラリの種類 x バージョン x 環境変数 x それでもうまくいかない場合は別の環境変数付きの直接起動って感じで、トラブった時に考慮必要なことが多いです。firefox と vim と Emacs とかスタンダードなツールだけ使うならいいと思うんですが、マルチメディア系やらIMEやらの別のレイヤーがコンポジタと絡んでくると調査してるだけでどんどん時間なくなってしまう",
+    "client_msg_id": "784524b0-fc52-4b82-9792-2b7b82211426",
+    "name": "yozigen",
+    "img": "https://avatars.slack-edge.com/2021-08-15/2405164316960_50d7f6e8be23e5b2a0eb_24.jpg",
+    "time": "2021/09/12 19:22:43",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1631441392074100"
+  },
+  {
+    "user": "U0GFBAM8U",
+    "text": "シンセサイザーということは何か音楽されてるんですか?",
+    "client_msg_id": "DF25F126-04A7-43BF-9213-96EEE39E1F7D",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2021/09/12 19:22:43",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1631441363073700"
+  },
+  {
+    "user": "U0GFBAM8U",
+    "text": "問題の切り分け等、必要な場面だとwayland、ない方が良さそう",
+    "client_msg_id": "80BB89A5-2E4F-4652-A977-2B6FB4EF6551",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2021/09/12 19:22:43",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1631441115069600"
+  },
+  {
+    "user": "UBEFL3YLE",
+    "text": "実際、swayならではの強力なメリットというのもそんなに無かったと思うので、なるだけ環境要因を排したいならi3の方が良いんじゃないかと思います。",
+    "client_msg_id": "2878bc40-526c-498d-989e-e8989b1ad765",
+    "name": "mail",
+    "img": "https://secure.gravatar.com/avatar/23a2be2c0c837372158d36ca83743fe5.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0018-24.png",
+    "time": "2021/09/12 19:22:44",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1631441074068300"
+  },
+  {
+    "user": "U02ASPM0A6T",
+    "text": "@mail\n&gt; せっかく入れるならフォーク版のi3-gapsの方がいいですね。\nありがとうございます。もうちょっとあがいて諦めたら移行しようかと思います。。",
+    "client_msg_id": "f320aff5-f605-47e0-b0b2-1d51dd00b6c8",
+    "name": "yozigen",
+    "img": "https://avatars.slack-edge.com/2021-08-15/2405164316960_50d7f6e8be23e5b2a0eb_24.jpg",
+    "time": "2021/09/12 19:22:44",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1631440979066200"
+  },
+  {
+    "user": "U02ASPM0A6T",
+    "text": "@oyasumi60 特に問題なく使えているんですね。supercollider というコードでシンセサイザーを動かすソフトの音が出なくて何に問題があるのか切り分けがかなり難儀しています。\nsway関係ないのかもしれないんですが、場合により環境変数付き起動とか必要になるとその度調査や設定が大変だなあと途方に暮れてきてます",
+    "client_msg_id": "9dce9480-2a5e-4e35-aa93-d43b20fd4668",
+    "name": "yozigen",
+    "img": "https://avatars.slack-edge.com/2021-08-15/2405164316960_50d7f6e8be23e5b2a0eb_24.jpg",
+    "time": "2021/09/12 19:22:45",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1631440861065100"
+  },
+  {
+    "user": "U0PM6EYR1",
+    "text": "sway は i3 に影響を受けて作られた(と思う)ので、i3 より、設定や関連ツールが少なくても使いやすいように作られたんじゃないですかね\n後発がそういう方向に行くのは正しいというか",
+    "client_msg_id": "426996a8-ad71-4e34-88b9-9720c4d9502a",
+    "name": "raa0121",
+    "img": "https://secure.gravatar.com/avatar/35b032d7b2d4182b0c2de1ef85ba91f2.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0009-24.png",
+    "time": "2021/09/12 19:22:45",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1631440788064300"
+  },
+  {
+    "user": "U0GFBAM8U",
+    "text": "お、試してみようかな",
+    "client_msg_id": "F2314A67-E0FE-4FE1-A066-FF746DF473A7",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2021/09/12 19:22:45",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1631440728062500"
+  },
+  {
+    "user": "UGA29R3FH",
+    "text": "gaps圧迫感がなくなるので好き",
+    "client_msg_id": "d02e58bc-9776-4dc3-a9a0-438b572a6c16",
+    "name": "znmxodq1",
+    "img": "https://avatars.slack-edge.com/2019-03-08/570571829091_2ca91fb0cc1ed2341fe0_24.png",
+    "time": "2021/09/12 19:22:46",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1631440698061800"
+  },
+  {
+    "user": "UBEFL3YLE",
+    "text": "せっかく入れるならフォーク版のi3-gapsの方がいいですね。",
+    "client_msg_id": "bd7b2344-672b-4308-aba3-28fd3940ead8",
+    "name": "mail",
+    "img": "https://secure.gravatar.com/avatar/23a2be2c0c837372158d36ca83743fe5.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0018-24.png",
+    "time": "2021/09/12 19:22:46",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1631440511059900"
+  },
+  {
+    "user": "UBEFL3YLE",
+    "text": "むしろi3の方がこなれてるんじゃないでしょうか。",
+    "client_msg_id": "f7ad8440-6e6f-4017-b0e7-1edd47f155ea",
+    "name": "mail",
+    "img": "https://secure.gravatar.com/avatar/23a2be2c0c837372158d36ca83743fe5.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0018-24.png",
+    "time": "2021/09/12 19:22:47",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1631440462058200"
+  },
+  {
+    "user": "U0GFBAM8U",
+    "text": "i3、あまり使ったことなかったら移行してみるのも楽しそうと思ったのですが、どうでしょう",
+    "client_msg_id": "376EE587-3B05-44B4-8549-E4FBA1662A9C",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2021/09/12 19:22:47",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1631440453058000"
+  },
+  {
+    "user": "U0GFBAM8U",
+    "text": "うん、私のところでは問題なく使えてます",
+    "client_msg_id": "F3D08AE5-A31A-4207-8E81-C3BBC5DF5EDB",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2021/09/12 19:22:47",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1631440340055300"
+  },
+  {
+    "user": "U02ASPM0A6T",
+    "text": "@syui 軽く manjaro-i3 をインストールしたりはしましたが、swayに比べて設定ポイントや関連ツールが多いように感じてswayに戻ってました。i3 は諸々問題なく使える感じですか？",
+    "client_msg_id": "7cb82407-ff95-49cf-a6ff-0e2dcbe0723b",
+    "name": "yozigen",
+    "img": "https://avatars.slack-edge.com/2021-08-15/2405164316960_50d7f6e8be23e5b2a0eb_24.jpg",
+    "time": "2021/09/12 19:22:48",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1631440307054300"
+  },
+  {
+    "user": "UGA29R3FH",
+    "text": "VimからNeovimに移行するくらいの変化があると便利そう",
+    "client_msg_id": "c0962624-fa1d-40d1-9c03-fb5517073451",
+    "name": "znmxodq1",
+    "img": "https://avatars.slack-edge.com/2019-03-08/570571829091_2ca91fb0cc1ed2341fe0_24.png",
+    "time": "2021/09/12 19:22:48",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1631440307054200"
+  },
+  {
+    "user": "U0GFBAM8U",
+    "text": "試してみた時点でいいねってなる",
+    "client_msg_id": "FDE9D052-AF22-48F9-9E9B-B2B2315C846E",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2021/09/12 19:22:49",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1631440196052300"
+  },
+  {
+    "user": "UGA29R3FH",
+    "text": "最近環境が固定されててよくないな",
+    "client_msg_id": "ad880ffd-790b-4159-abd6-62b22b6750ec",
+    "name": "znmxodq1",
+    "img": "https://avatars.slack-edge.com/2019-03-08/570571829091_2ca91fb0cc1ed2341fe0_24.png",
+    "time": "2021/09/12 19:22:49",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1631440144050700"
+  },
+  {
+    "user": "U0GFBAM8U",
+    "text": "新しい環境、試してる人すごいよね",
+    "client_msg_id": "4F4EACF5-0AC8-4EA4-B30E-9358224B8A0D",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2021/09/12 19:22:50",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1631440096049800"
+  },
+  {
+    "user": "UGA29R3FH",
+    "text": "ほぼ同じだもんなw それがいい所でもあるけど",
+    "client_msg_id": "b1d04cb3-085b-4c3e-99c4-e3548b16cb89",
+    "name": "znmxodq1",
+    "img": "https://avatars.slack-edge.com/2019-03-08/570571829091_2ca91fb0cc1ed2341fe0_24.png",
+    "time": "2021/09/12 19:22:50",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1631440084049600"
+  },
+  {
+    "user": "U70QDFN82",
+    "text": "移行するからにはパフォーマンスが有利になるとか機能が増えるとかなんらかのわかりやすい優位性がほしい・・・",
+    "client_msg_id": "e13c6408-5f2e-4831-9b83-7e034fd0641e",
+    "name": "yutakatay",
+    "img": "https://avatars.slack-edge.com/2020-08-16/1302143736069_0baa468f7bea68e827d9_24.png",
+    "time": "2021/09/12 19:22:50",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1631439976048300"
+  },
+  {
+    "user": "UGA29R3FH",
+    "text": "(移行めんどくさいw)",
+    "client_msg_id": "94a93857-5217-429f-b6a4-de3ae0f88ae7",
+    "name": "znmxodq1",
+    "img": "https://avatars.slack-edge.com/2019-03-08/570571829091_2ca91fb0cc1ed2341fe0_24.png",
+    "time": "2021/09/12 19:22:51",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1631439918047100"
+  },
+  {
+    "user": "U0GFBAM8U",
+    "text": "@yozigen i3は使ってたことありますか?",
+    "client_msg_id": "B7DA90D1-9ECE-4C39-A5AA-B5FE118ACCB1",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2021/09/12 19:22:51",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1631439917047000"
+  },
+  {
+    "user": "UGA29R3FH",
+    "text": "ただ、i3に対する現時点での優位性が見出せなかったのが大きい",
+    "client_msg_id": "1a8aab1c-7612-467b-87a6-6ef5e207baa4",
+    "name": "znmxodq1",
+    "img": "https://avatars.slack-edge.com/2019-03-08/570571829091_2ca91fb0cc1ed2341fe0_24.png",
+    "time": "2021/09/12 19:22:52",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1631439902046500"
+  },
+  {
+    "user": "UGA29R3FH",
+    "text": "flameshotだったかな、うろ覚えだけど",
+    "client_msg_id": "808b42b4-fc99-461d-9fa4-e6d3f800a7c3",
+    "name": "znmxodq1",
+    "img": "https://avatars.slack-edge.com/2019-03-08/570571829091_2ca91fb0cc1ed2341fe0_24.png",
+    "time": "2021/09/12 19:22:52",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1631439861046200"
+  },
+  {
+    "user": "UGA29R3FH",
+    "text": "sway移行しようとした時に動かないツールを使っていたので諦めたという経緯がある",
+    "client_msg_id": "9ccba8ef-14b3-499a-be85-2b73fd1d5a6a",
+    "name": "znmxodq1",
+    "img": "https://avatars.slack-edge.com/2019-03-08/570571829091_2ca91fb0cc1ed2341fe0_24.png",
+    "time": "2021/09/12 19:22:52",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1631439849046100"
+  },
+  {
     "user": "U01SAL8K6P5",
     "text": "半年程sway使ってますがGTKやQt等の環境変数を設定したくらいで動作しないアプリには出会ってないですね。\nxwaylandも入れているのでwaylandネイティブかはあまり意識していません。",
     "client_msg_id": "5836B686-17EF-4D8C-8A01-9DC06D6F7324",
     "name": "oyasumi60",
     "img": "https://secure.gravatar.com/avatar/85097f3d1b387c4143451076908bdd45.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0008-24.png",
-    "time": "2021/09/12 18:19:25",
+    "time": "2021/09/12 19:22:53",
     "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1631438166046000"
   },
   {
