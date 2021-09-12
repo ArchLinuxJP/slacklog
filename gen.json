@@ -1,11 +1,20 @@
 [
   {
+    "user": "U01SAL8K6P5",
+    "text": "半年程sway使ってますがGTKやQt等の環境変数を設定したくらいで動作しないアプリには出会ってないですね。\nxwaylandも入れているのでwaylandネイティブかはあまり意識していません。",
+    "client_msg_id": "5836B686-17EF-4D8C-8A01-9DC06D6F7324",
+    "name": "oyasumi60",
+    "img": "https://secure.gravatar.com/avatar/85097f3d1b387c4143451076908bdd45.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0008-24.png",
+    "time": "2021/09/12 18:19:25",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1631438166046000"
+  },
+  {
     "user": "U02ASPM0A6T",
     "text": "sway（manjaro-sway） を使っています。\n基本的な動作はすっきりしていて快適なのですが、素直に動作しないアプリが多く大変に感じています。\nアプリの動作するしないを自分なりにざっと分類すると下記のようになります。\n\n1. デフォルトで動く\n2. テンプレ（ArchWiki, sway, アプリのドキュメントやFAQなど）の設定を入れれば動く\n3. インターネットの海で見つけた何かをしたり、issueを書いて対応してもらえば動く\n4. 何かをすると動く可能性がある が、まだ見つからない\n5. 今は動かないという確定めいた情報がある（アプリまたはコンポジタまたはWayland仕様にて未対応）\n特に、「まだ見つからないが、何かをすると動く可能性がある」類のものについては調査コスト・問い合わせコストが非常に高く、楽しい時間である反面、時間や精神力や体力も消耗するので、sway の常用は諦めて、i3 等に移行しようかなと迷っています。\n恐れ入りますが、sway・i3 やデスクトップ環境に詳しい方アドバイスのほどお願いできましたら幸いです。",
     "client_msg_id": "5a122184-83fe-4ef9-a650-7241e6e7d72b",
     "name": "yozigen",
     "img": "https://avatars.slack-edge.com/2021-08-15/2405164316960_50d7f6e8be23e5b2a0eb_24.jpg",
-    "time": "2021/09/12 16:19:09",
+    "time": "2021/09/12 18:19:25",
     "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1631428146042600"
   },
   {
