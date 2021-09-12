@@ -1,11 +1,101 @@
 [
   {
+    "user": "U0PM6EYR1",
+    "text": "この問題は X/Wayland には関係ないっぽいです",
+    "client_msg_id": "ee43287d-9a2d-4108-a427-27749b550414",
+    "name": "raa0121",
+    "img": "https://secure.gravatar.com/avatar/35b032d7b2d4182b0c2de1ef85ba91f2.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0009-24.png",
+    "time": "2021/09/12 20:16:53",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1631445057095700"
+  },
+  {
+    "user": "U0PM6EYR1",
+    "text": "Qjackctl から、使いたいデバイスを選んで、default のプロファイルを上書きすれば、行けそうです",
+    "client_msg_id": "4860512c-99cb-4c22-96fa-675efb787c24",
+    "name": "raa0121",
+    "img": "https://secure.gravatar.com/avatar/35b032d7b2d4182b0c2de1ef85ba91f2.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0009-24.png",
+    "time": "2021/09/12 20:16:54",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1631444868095200"
+  },
+  {
+    "user": "U0PM6EYR1",
+    "text": "これは jack 側の問題っぽいです",
+    "client_msg_id": "2eda9ed3-8529-4543-98c1-b6da381eaf18",
+    "name": "raa0121",
+    "img": "https://secure.gravatar.com/avatar/35b032d7b2d4182b0c2de1ef85ba91f2.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0009-24.png",
+    "time": "2021/09/12 20:16:54",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1631444840094500"
+  },
+  {
+    "user": "U02ASPM0A6T",
+    "text": "`could not initialize audio.`同じですねえ\nWayland か X かは関係ないんですかね\nちょっとissue漁ってみます\n<https://github.com/supercollider/supercollider/issues?q=is%3Aissue++%22could+not+initialize+audio.%22+>",
+    "client_msg_id": "cbad2c24-4bd7-4d9a-9869-3a6ecb8e8235",
+    "name": "yozigen",
+    "img": "https://avatars.slack-edge.com/2021-08-15/2405164316960_50d7f6e8be23e5b2a0eb_24.jpg",
+    "time": "2021/09/12 20:16:54",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1631444753094000"
+  },
+  {
+    "user": "U0PM6EYR1",
+    "text": "手元だと、SuperCollider の boot server で、 could not initialize audio. が出てますね",
+    "client_msg_id": "a093a2e1-aaf2-4118-9681-9bcf80535405",
+    "name": "raa0121",
+    "img": "https://secure.gravatar.com/avatar/35b032d7b2d4182b0c2de1ef85ba91f2.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0009-24.png",
+    "time": "2021/09/12 20:16:55",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1631444420093000"
+  },
+  {
+    "user": "U0PM6EYR1",
+    "text": "Ubuntu Mate で FoxDot やってみましたが、確かに、supercollider から音が出ないですね",
+    "client_msg_id": "1c9a3877-435d-43ff-8b9e-30a9f8a66548",
+    "name": "raa0121",
+    "img": "https://secure.gravatar.com/avatar/35b032d7b2d4182b0c2de1ef85ba91f2.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0009-24.png",
+    "time": "2021/09/12 20:16:55",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1631444065091900"
+  },
+  {
+    "user": "U02ASPM0A6T",
+    "text": "ちなみに私はsway環境においてはまだ構築できていません。開発者がWindows使いのせいかWindowsでの構築が一番楽で、次点がmacOSです。確認していないのでわかりませんが、うまくいけば意外とarchのX環境が一番楽だったりするかもしれません",
+    "client_msg_id": "cecddcef-f68f-4936-bcf1-1020e2889cb3",
+    "name": "yozigen",
+    "img": "https://avatars.slack-edge.com/2021-08-15/2405164316960_50d7f6e8be23e5b2a0eb_24.jpg",
+    "time": "2021/09/12 20:16:55",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1631442902090100"
+  },
+  {
+    "user": "U0GFBAM8U",
+    "text": "ありがとうございます",
+    "client_msg_id": "400AF6CC-79D0-4AAB-9915-8E242FD1D591",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2021/09/12 20:16:56",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1631442681087500"
+  },
+  {
+    "user": "U0GFBAM8U",
+    "text": "おお、なんか面白そうですね",
+    "client_msg_id": "3EB741DC-6AC0-4B15-A745-DE6BEC75A142",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2021/09/12 20:16:56",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1631442675087200"
+  },
+  {
+    "user": "U02ASPM0A6T",
+    "text": "もし興味があったら、`foxdot` が公式パッケージにあるので環境構築挑戦してみてください\n• <https://youtu.be/Tjf-NJNfOP4?t=1560>\n• <https://github.com/Qirky/FoxDot>\n```pacman -S foxdot sc3-plugins```\nパッケージ自体は上記で入ります\nあとはトラブルなければ下記でできると思います\n• supercollider 上で foxdot.quark を入れて `FoxDot.start` する\n• `python -m FoxDot`\nただ意外とトラブルの結節点みたいなものが多く、けっこう手こずる可能性は*大*です",
+    "client_msg_id": "b9707578-f9ad-4e4d-b996-1dda7aa4af09",
+    "name": "yozigen",
+    "img": "https://avatars.slack-edge.com/2021-08-15/2405164316960_50d7f6e8be23e5b2a0eb_24.jpg",
+    "time": "2021/09/12 20:16:56",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1631442582086700"
+  },
+  {
     "user": "U0GFBAM8U",
     "text": "最近、Synthesizer Vというツールよさそうだなと思ったくらいで時が止まってる...",
     "client_msg_id": "C168F391-C881-4A99-BA64-099B5C15AB77",
     "name": "syui",
     "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
-    "time": "2021/09/12 19:22:40",
+    "time": "2021/09/12 20:16:57",
     "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1631442066083000"
   },
   {
