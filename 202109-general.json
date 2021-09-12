@@ -1,11 +1,20 @@
 [
   {
+    "user": "UEED0BQ4A",
+    "text": "こんにちは、supercollliderやfoxdotというソフトがあるのを初めて知りました。普段はjack環境上でardourを中心に音楽作成したりしています。jack環境の構築は随分苦労した覚えがありますのでお力になれれば幸いです。当方はPC起動時に以下のスクリプトを走らせてjack audio環境にしています。\n```#!/bin/bash\n\nkernel=$(uname -r)\n\njack_control ds alsa # alsaドライバを指定\njack_control dps device hw:PCH # デバイス名を指定\njack_control dps capture hw:PCH # 入力デバイス名\njack_control dps playback hw:PCH # 出力デバイス名\njack_control dps rate 44100 # サンプルレート\njack_control dps nperiods 2 # ピリオド／バッファー\n\n#リアルタイムカーネル判別\ncase \"$kernel\" in\n\t*-rt*)\n\t\tjack_control dps period 256\n\t\t;;\n\t*)\n\t\tjack_control dps period 1024\n\t\t;;\nesac\n\njack_control dps midi-driver seq # MIDIドライバー\njack_control dps duplex true # オーディオ入出力\njack_control eps realtime True # リアルタイムモード\njack_control start # jackdサーバースタート```\nインストールしているのはjack2の方です。qjackctlは設定が反映されているのかどうかがなんとなく分かりづらく普段は使っていません。jackサーバーを手動で停止する際はターミナルで\n```jack_control stop\njack_control exit```\nと入力すればもとのalsaとかpulseaudioの状態に戻れます。",
+    "client_msg_id": "897885a1-48d4-4330-93a9-2af3b4b1bb7e",
+    "name": "raggedoven2009",
+    "img": "https://avatars.slack-edge.com/2019-11-03/821568837942_c6a125808b8a354cc3ee_24.jpg",
+    "time": "2021/09/13 06:16:59",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1631479521127900"
+  },
+  {
     "user": "U0PM6EYR1",
     "text": "<https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1631444420093000>\nこれ、もう少し強調してエラーとして出してほしいですね…\njackd コマンドでも同じ文が特にエラー扱いされずに出たので、jack側に言うしかないんですかね…",
     "client_msg_id": "74573479-8495-4302-af47-9aa44041a17f",
     "name": "raa0121",
     "img": "https://secure.gravatar.com/avatar/35b032d7b2d4182b0c2de1ef85ba91f2.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0009-24.png",
-    "time": "2021/09/13 00:20:59",
+    "time": "2021/09/13 06:17:00",
     "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1631456308108500"
   },
   {
