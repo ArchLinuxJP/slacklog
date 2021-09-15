@@ -1,11 +1,20 @@
 [
   {
+    "user": "U02ASPM0A6T",
+    "text": "Libreboot というオープンソースのブートファームウェア実装のプロジェクトが、 「Intel も AMD も新しいものはバックドア付きだから使うな」と強い口調で非難していました。\n• <https://libreboot.org/faq.html#intel>\n• <https://translate.google.com/translate?sl=auto&amp;tl=ja&amp;u=https://libreboot.org/faq.html|日本語訳> \n他の coreboot 等のブートファームウェアを入れてもそれは同じなのかが気になっています。corebootもオープンソース実装と言っているものの一部プロプラエタリということなのか？と思いましたが、単にライトプロテクト等をソフト的に外せるチップセットでないと Libreboot では差し替えできないくらいの話なんですかね？ Libreboot の実装の特異性に由来するのだろうと思いますがまだよくわからないでいます",
+    "client_msg_id": "437c3e42-e776-4b5e-b52d-1bfeae03e854",
+    "name": "yozigen",
+    "img": "https://avatars.slack-edge.com/2021-08-15/2405164316960_50d7f6e8be23e5b2a0eb_24.jpg",
+    "time": "2021/09/15 13:20:36",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1631678506031400"
+  },
+  {
     "user": "U53RAQBCP",
     "text": "AMD, Zen初期の安定性とかの報告がちらほら目についた印象が強くて踏み切れていない",
     "client_msg_id": "8fe532e2-ff46-49d1-91a9-17e0a1d3db1c",
     "name": "kokopis",
     "img": "https://avatars.slack-edge.com/2021-07-20/2286834687606_a13ed1ddce5fbfc574f2_24.png",
-    "time": "2021/09/13 21:27:35",
+    "time": "2021/09/15 13:20:36",
     "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1631535650020900"
   },
   {
