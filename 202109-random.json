@@ -1,11 +1,20 @@
 [
   {
+    "user": "U53RAQBCP",
+    "text": "企業向けのwake on lanやリモートワイプの機能がバックドアになりうるという話みたいですね。この辺の機能がセキュリティリスクなのは結構言われてる印象で、LenovoとかはEFIから無効化できる(ハードウェアアクセス用の秘密鍵を消去してるのかな？)オプションがあったはず",
+    "client_msg_id": "2C14C78B-3DC8-41DD-ADEB-C6D184639EE1",
+    "name": "kokopis",
+    "img": "https://avatars.slack-edge.com/2021-07-20/2286834687606_a13ed1ddce5fbfc574f2_24.png",
+    "time": "2021/09/15 16:15:25",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1631686795034300"
+  },
+  {
     "user": "U02ASPM0A6T",
     "text": "Libreboot というオープンソースのブートファームウェア実装のプロジェクトが、 「Intel も AMD も新しいものはバックドア付きだから使うな」と強い口調で非難していました。\n• <https://libreboot.org/faq.html#intel>\n• <https://translate.google.com/translate?sl=auto&amp;tl=ja&amp;u=https://libreboot.org/faq.html|日本語訳> \n他の coreboot 等のブートファームウェアを入れてもそれは同じなのかが気になっています。corebootもオープンソース実装と言っているものの一部プロプラエタリということなのか？と思いましたが、単にライトプロテクト等をソフト的に外せるチップセットでないと Libreboot では差し替えできないくらいの話なんですかね？ Libreboot の実装の特異性に由来するのだろうと思いますがまだよくわからないでいます",
     "client_msg_id": "437c3e42-e776-4b5e-b52d-1bfeae03e854",
     "name": "yozigen",
     "img": "https://avatars.slack-edge.com/2021-08-15/2405164316960_50d7f6e8be23e5b2a0eb_24.jpg",
-    "time": "2021/09/15 13:20:36",
+    "time": "2021/09/15 16:15:25",
     "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1631678506031400"
   },
   {
