@@ -1,11 +1,20 @@
 [
   {
+    "user": "U02ASPM0A6T",
+    "text": "&gt; Intel Boot Guardは、第4世代Intel Core i3 / i5 / i7（Haswell）CPUにMEファームウェアバージョン9.0を搭載した2013年第2四半期に導入されたMEアプリケーションです。これにより、PC OEMは非対称暗号鍵ペアを生成し、公開鍵をCPUにインストールし、CPUが秘密鍵で署名されていないブートファームウェアを実行するのを防ぐことができます。これは、OEMの秘密署名キーがないと、corebootとlibrebootをそのようなPCに移植できないことを意味します。別々に購入したメインボードとCPUパーツから組み立てられたシステムは影響を受けないことに注意してください。これは、メインボードのベンダー（ブートファームウェアが保存されている）がCPUに保存されている公開鍵に影響を与える可能性がないためです。\n&gt; \n→CPU がオンボードだとブートファームウェア書き換えができない可能性がある",
+    "client_msg_id": "0FFC1032-F976-44FD-9CDB-AC3203DFF1D1",
+    "name": "yozigen",
+    "img": "https://avatars.slack-edge.com/2021-08-15/2405164316960_50d7f6e8be23e5b2a0eb_24.jpg",
+    "time": "2021/09/15 20:13:10",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1631702626035600"
+  },
+  {
     "user": "U53RAQBCP",
     "text": "企業向けのwake on lanやリモートワイプの機能がバックドアになりうるという話みたいですね。この辺の機能がセキュリティリスクなのは結構言われてる印象で、LenovoとかはEFIから無効化できる(ハードウェアアクセス用の秘密鍵を消去してるのかな？)オプションがあったはず",
     "client_msg_id": "2C14C78B-3DC8-41DD-ADEB-C6D184639EE1",
     "name": "kokopis",
     "img": "https://avatars.slack-edge.com/2021-07-20/2286834687606_a13ed1ddce5fbfc574f2_24.png",
-    "time": "2021/09/15 16:15:25",
+    "time": "2021/09/15 20:13:10",
     "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1631686795034300"
   },
   {
