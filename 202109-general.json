@@ -1,11 +1,128 @@
 [
   {
+    "user": "U70QDFN82",
+    "text": "なるほど",
+    "client_msg_id": "520aadff-2fb2-4d47-afac-ef57d29478fd",
+    "name": "yutakatay",
+    "img": "https://avatars.slack-edge.com/2020-08-16/1302143736069_0baa468f7bea68e827d9_24.png",
+    "time": "2021/09/16 22:26:06",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1631798759159700"
+  },
+  {
+    "user": "U0GFBAM8U",
+    "text": "だからちょこちょこ使う機会あったり",
+    "client_msg_id": "F01DF58B-917A-4959-AF33-D56FFE2957D7",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2021/09/16 22:26:07",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1631798759159600"
+  },
+  {
+    "user": "U0GFBAM8U",
+    "text": "ですね\n右shiftはdeleteにしてます",
+    "client_msg_id": "AA0AD0E4-13FF-48A6-BF49-A96A6CED0886",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2021/09/16 22:26:07",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1631798740158900"
+  },
+  {
+    "user": "U70QDFN82",
+    "text": "Altは左が多いですけど右も稀に使う",
+    "client_msg_id": "7e1a63bd-1a63-4336-a950-a7669c015c23",
+    "name": "yutakatay",
+    "img": "https://avatars.slack-edge.com/2020-08-16/1302143736069_0baa468f7bea68e827d9_24.png",
+    "time": "2021/09/16 22:26:07",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1631798731158600"
+  },
+  {
+    "user": "U70QDFN82",
+    "text": "私はあと右Shiftもほとんど使わないんですよね・・・・",
+    "client_msg_id": "45e73b39-ad70-4026-9703-b6988059f659",
+    "name": "yutakatay",
+    "img": "https://avatars.slack-edge.com/2020-08-16/1302143736069_0baa468f7bea68e827d9_24.png",
+    "time": "2021/09/16 22:26:07",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1631798702157700"
+  },
+  {
+    "user": "U0GFBAM8U",
+    "text": "右winは全く使わないので他のキーにしてた気がするのですが、使わないので何に割り当てたのか忘れてる",
+    "client_msg_id": "D489BA22-6358-4222-9226-951179AC6368",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2021/09/16 22:26:08",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1631798662157100"
+  },
+  {
+    "user": "U0GFBAM8U",
+    "text": "あとkeylayoutはxbindkeysを使うのが楽でした\n<https://wiki.archlinux.jp/index.php/Xbindkeys|https://wiki.archlinux.jp/index.php/Xbindkeys>",
+    "client_msg_id": "98CB0A8C-AD2D-4D0C-BDB6-1F0EA41945D3",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2021/09/16 22:26:08",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1631798575155600"
+  },
+  {
+    "user": "U70QDFN82",
+    "text": "一回右Winを使おうとしたんですけどもう手が覚えていて誤爆しまくってましたね・・・\nよく使う修飾キーは変更難しいんですよね・・・単発だといけたりしますけどWin+Shift+とかの場合が特に",
+    "client_msg_id": "b9c64b4d-c59b-42d2-ad35-d943cd0957e4",
+    "name": "yutakatay",
+    "img": "https://avatars.slack-edge.com/2020-08-16/1302143736069_0baa468f7bea68e827d9_24.png",
+    "time": "2021/09/16 22:26:08",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1631798523154800"
+  },
+  {
+    "user": "U0GFBAM8U",
+    "text": "その際、xevなどでcapslockの割り当てを調べる必要あるかもです",
+    "client_msg_id": "C50E15B5-41CE-4960-961B-084B45C9E70B",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2021/09/16 22:26:09",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1631798337153300"
+  },
+  {
+    "user": "U0GFBAM8U",
+    "text": "私はwinです\nもし設定、特にcapslockがmodに指定して動かないようなら、keylayoutを変更しcapalockをwinなどに変えた後、i3などでwinにmodをあてればいけるかもしれません",
+    "client_msg_id": "229818D4-DEBE-4920-8512-2720EE676729",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2021/09/16 22:26:09",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1631798282152000"
+  },
+  {
+    "user": "U70QDFN82",
+    "text": "私はWinにしてますね。左手親指で押してます（HHKB）",
+    "client_msg_id": "c384c43b-5fc2-4b3d-82c5-c2dff2c2bc95",
+    "name": "yutakatay",
+    "img": "https://avatars.slack-edge.com/2020-08-16/1302143736069_0baa468f7bea68e827d9_24.png",
+    "time": "2021/09/16 22:26:09",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1631798144149400"
+  },
+  {
+    "user": "U015CDRQDD0",
+    "text": "因みにlaptopはxps13です",
+    "client_msg_id": "476E3EAA-73F8-418F-9733-3933F334C530",
+    "name": "v3rn3j",
+    "img": "https://secure.gravatar.com/avatar/245992ad0221e323c1397758868d2138.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0002-24.png",
+    "time": "2021/09/16 22:26:10",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1631797951148900"
+  },
+  {
+    "user": "U015CDRQDD0",
+    "text": "i3然りsway然りwmのmodキー皆さん何を利用されていますか?\nwinキーがデフォルトで多いかと思いますが正直左手を離さないと届かないのでcapslockをmodキーにしたいなと考えています\nそれか変換無変換をmod3,mod4で運用しようかなとも\nxkbのドキュメントを見てもいまいちうまく行かないのですがxkbで設定弄ったり乃至modキー変えてる方いれば.xkb以下やdotfileを見せて頂きたいです",
+    "client_msg_id": "1F067DA8-49F1-439B-96E1-14A1308D5FA3",
+    "name": "v3rn3j",
+    "img": "https://secure.gravatar.com/avatar/245992ad0221e323c1397758868d2138.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0002-24.png",
+    "time": "2021/09/16 22:26:10",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1631797885148500"
+  },
+  {
     "user": "UQDJXPHJ9",
     "text": "journalファイルってどのくらい前の分まで残していますか？\n容量削減のために減らそうとしてるんですが、どこまで減らして良いのかで悩んでいます。\n私は、アップデート後のエラーを探るためにその日分のjournalを読む程度でしか使わないので1週間分もあれば十分な気はするのですが、残しておいた方が良いこともあるのかな...?と気になっています。",
     "client_msg_id": "950bec59-ef3f-482f-85f7-b5fc10a89944",
     "name": "cj.bc-sd",
     "img": "https://avatars.slack-edge.com/2019-11-12/821749881793_703a47a248d9e731dc3f_24.jpg",
-    "time": "2021/09/16 00:22:05",
+    "time": "2021/09/16 22:26:10",
     "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1631716209142300"
   },
   {
