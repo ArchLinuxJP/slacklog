@@ -1,11 +1,20 @@
 [
   {
+    "user": "U02ASPM0A6T",
+    "text": "自分なりに熟考した結果、`mod` キーは `Space` にしました。\n単独押しした場合は元通りのキーが使えます。\n今のところ下記のように割り当てています。\n• `Space`  -&gt; `Win(mod)`\n• `無変換` -&gt; `Ctrl`\n• `変換`   -&gt; `Shift`\n`Ctrl` と `Shift` に関しては、下記理由で親指の位置にしました。\n1. 一番使用頻度の高い修飾キーなのに遠い\n2. Q列・W列のキー押下時にフォームが崩れるのが嫌\nあと、`Ctrl` の単独押しは `Esc` に割り当てました。近くて楽です。\nマクロ的な修飾キーは使用頻度が高くないので他（`カナ`キーなど）に割り当てればいいかなと思っています。\n実現にはパッケージ `interception-dual-function-keys` を使っています。低レベルで動作し wayland でも使えます。\n1. `/etc/interception/udevmon.d/udevmon.yml`\n2. `/etc/interception/dual-function-keys/hhkb-jp.yml`\n3. `systemctl enable --now udevmon.service`\n作業概要としては上記の 1. で各種キーボードデバイス別の設定ファイル振り分けをして 2. でキー割当して 3.で有効化すればよいです。\n<https://gitlab.com/interception/linux/plugins/dual-function-keys>",
+    "client_msg_id": "c5dea390-f63f-4499-bec6-fd874ed15b2a",
+    "name": "yozigen",
+    "img": "https://avatars.slack-edge.com/2021-08-15/2405164316960_50d7f6e8be23e5b2a0eb_24.jpg",
+    "time": "2021/09/17 03:24:07",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1631814329191400"
+  },
+  {
     "user": "U0GFBAM8U",
     "text": "xbindkeysは組み合わせで使ってる感じで、xmodmapはキー変更に使ってる感じなので、xmodmapが正解ですね\nxmodmapでやるほうがいいかも",
     "client_msg_id": "47AA132F-2008-4F4D-A77D-10B37D57EDA1",
     "name": "syui",
     "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
-    "time": "2021/09/17 00:22:16",
+    "time": "2021/09/17 03:24:07",
     "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1631803638179100"
   },
   {
