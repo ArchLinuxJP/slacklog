@@ -1,11 +1,155 @@
 [
   {
     "user": "U70QDFN82",
+    "text": "最近はそうでもないですけど昔はaltってターミナル上のTUIによってはEsc(^[)に解釈されたりして不安定だったんですよね・・・\nだから私も使ってなかったんですけど、tmuxは結構ちゃんと解釈してくれるんで割り当てるって人が多いんじゃないかなって気がしてます",
+    "client_msg_id": "a83dd846-8bec-4538-806f-4e12f574858e",
+    "name": "yutakatay",
+    "img": "https://avatars.slack-edge.com/2020-08-16/1302143736069_0baa468f7bea68e827d9_24.png",
+    "time": "2021/09/16 23:20:09",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1631800879174500"
+  },
+  {
+    "user": "UBEFL3YLE",
+    "text": "以前は両立を目指していましたが諦めました。",
+    "client_msg_id": "db960a80-a92c-4158-a919-8fa351241774",
+    "name": "mail",
+    "img": "https://secure.gravatar.com/avatar/23a2be2c0c837372158d36ca83743fe5.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0018-24.png",
+    "time": "2021/09/16 23:20:09",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1631800735172100"
+  },
+  {
+    "user": "UBEFL3YLE",
+    "text": "VimでCtrlを専有したいのでやむを得なく、という感じですけどね。",
+    "client_msg_id": "85269dd5-d699-4afd-9f46-f9fc7a920142",
+    "name": "mail",
+    "img": "https://secure.gravatar.com/avatar/23a2be2c0c837372158d36ca83743fe5.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0018-24.png",
+    "time": "2021/09/16 23:20:10",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1631800706171300"
+  },
+  {
+    "user": "U0GFBAM8U",
+    "text": "altをtmuxで使ってる人多いのか",
+    "client_msg_id": "A7496251-FAFF-4F93-B8A0-90DE3CE49D61",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2021/09/16 23:20:10",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1631800555170300"
+  },
+  {
+    "user": "U0GFBAM8U",
+    "text": "わかりやすくていいですね",
+    "client_msg_id": "62C4C137-6E1A-4964-9352-62F9E31ECBC1",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2021/09/16 23:20:10",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1631800521169700"
+  },
+  {
+    "user": "UBEFL3YLE",
+    "text": "Winキーをi3、CtrlキーをVim、Altキーをtmuxに捧げています。",
+    "client_msg_id": "932137c6-628a-4c14-99a0-4d7e5260405a",
+    "name": "mail",
+    "img": "https://secure.gravatar.com/avatar/23a2be2c0c837372158d36ca83743fe5.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0018-24.png",
+    "time": "2021/09/16 23:20:11",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1631799865169300"
+  },
+  {
+    "user": "U70QDFN82",
+    "text": "右Shiftどのキーボードにも同じ場所にあるしEscにしようかな・・・",
+    "client_msg_id": "8410775d-66b3-446a-981d-bd303c3eb186",
+    "name": "yutakatay",
+    "img": "https://avatars.slack-edge.com/2020-08-16/1302143736069_0baa468f7bea68e827d9_24.png",
+    "time": "2021/09/16 23:20:11",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1631799424168500"
+  },
+  {
+    "user": "U0GFBAM8U",
+    "text": "不便",
+    "client_msg_id": "B63A23D7-F1FE-4475-A17F-3CA9290BC8F1",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2021/09/16 23:20:11",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1631799365168000"
+  },
+  {
+    "user": "U0GFBAM8U",
+    "text": "私はdeleteキーないので割り当ててるけど、普通はありますよね\n(macbookはdeleteなくてbackspaceだけしかない",
+    "client_msg_id": "0B683A65-9D38-4409-A4F2-23CA6B8301A5",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2021/09/16 23:20:12",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1631799218167800"
+  },
+  {
+    "user": "U0GFBAM8U",
+    "text": "ノートパソコンのキーボード、jあたりからダメになっていく",
+    "client_msg_id": "29D6E4A4-8681-48E1-AF76-73538FB73E6E",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2021/09/16 23:20:12",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1631799103166000"
+  },
+  {
+    "user": "U70QDFN82",
+    "text": "右Shiftなにかに変えようかな・・・利用用途少なすぎるんで。\nなんとなくすべてのキーを満遍なくヘタらせたい欲求がある",
+    "client_msg_id": "d375c232-3b0c-4698-a5e7-9cffb6dcc693",
+    "name": "yutakatay",
+    "img": "https://avatars.slack-edge.com/2020-08-16/1302143736069_0baa468f7bea68e827d9_24.png",
+    "time": "2021/09/16 23:20:12",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1631799051165300"
+  },
+  {
+    "user": "U0GFBAM8U",
+    "text": "windowsとかだと使うんですけど、linuxだと使ってなかったalt",
+    "client_msg_id": "B73B862E-4E05-4FA4-92D4-7419B48A5F59",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2021/09/16 23:20:13",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1631799035165000"
+  },
+  {
+    "user": "U0GFBAM8U",
+    "text": ":benri: ",
+    "client_msg_id": "72DDBC17-49C4-4AD8-B699-5B694CF545C1",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2021/09/16 23:20:13",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1631798965162900"
+  },
+  {
+    "user": "U70QDFN82",
+    "text": "私はtmuxのプレフィックスなしのキーにしてますね。ウィンドウ切り替えとかよく使うやつに使ってます",
+    "client_msg_id": "603713ff-eb84-43a6-8b5a-903c2ba7fad2",
+    "name": "yutakatay",
+    "img": "https://avatars.slack-edge.com/2020-08-16/1302143736069_0baa468f7bea68e827d9_24.png",
+    "time": "2021/09/16 23:20:13",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1631798915162400"
+  },
+  {
+    "user": "U0GFBAM8U",
+    "text": "altの使い所むずい、皆さん何に使われてますか?",
+    "client_msg_id": "58755E99-1EE6-488B-A5A5-CE3B502F2E0E",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2021/09/16 23:20:14",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1631798868161400"
+  },
+  {
+    "user": "U0GFBAM8U",
+    "text": "覚えてる",
+    "client_msg_id": "CF9DCD25-351C-47B7-B24A-8DB5B11A3E5C",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2021/09/16 23:20:14",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1631798776160000"
+  },
+  {
+    "user": "U70QDFN82",
     "text": "なるほど",
     "client_msg_id": "520aadff-2fb2-4d47-afac-ef57d29478fd",
     "name": "yutakatay",
     "img": "https://avatars.slack-edge.com/2020-08-16/1302143736069_0baa468f7bea68e827d9_24.png",
-    "time": "2021/09/16 22:26:06",
+    "time": "2021/09/16 23:20:14",
     "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1631798759159700"
   },
   {
