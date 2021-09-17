@@ -1,11 +1,83 @@
 [
   {
+    "user": "U02ASPM0A6T",
+    "text": "@raa0121 ある程度どんなキーボードでも使えるように、考え方とソフトウェアだけででなんとかならないかと足掻いてます。皆さんの事例教えていただいてありがたいです",
+    "client_msg_id": "694BDB3E-F788-4E7B-B4B9-4C8E4BECAEF3",
+    "name": "yozigen",
+    "img": "https://avatars.slack-edge.com/2021-08-15/2405164316960_50d7f6e8be23e5b2a0eb_24.jpg",
+    "time": "2021/09/17 14:18:23",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1631855418222800"
+  },
+  {
+    "user": "U015CDRQDD0",
+    "text": "@yozigen なるほど 有難う御座います",
+    "client_msg_id": "F949044A-3297-4AF6-9BE6-F75BD3BF7489",
+    "name": "v3rn3j",
+    "img": "https://secure.gravatar.com/avatar/245992ad0221e323c1397758868d2138.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0002-24.png",
+    "time": "2021/09/17 14:18:23",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1631855318220500"
+  },
+  {
+    "user": "UGA29R3FH",
+    "text": "無理ですね &gt; 押したまま",
+    "client_msg_id": "59025d77-2869-4b65-a8a0-c02dca2fc843",
+    "name": "znmxodq1",
+    "img": "https://avatars.slack-edge.com/2019-03-08/570571829091_2ca91fb0cc1ed2341fe0_24.png",
+    "time": "2021/09/17 14:18:23",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1631853804213900"
+  },
+  {
+    "user": "U02ASPM0A6T",
+    "text": "@v3rn3j Spaceです。vimのリーダーキーって押したまま修飾キー的に使えましたっけ？もしそう使っているようであれば他に割り当てる必要があるかもしれません",
+    "client_msg_id": "727D1D3A-9BE7-4F79-8E39-D9B9B070976B",
+    "name": "yozigen",
+    "img": "https://avatars.slack-edge.com/2021-08-15/2405164316960_50d7f6e8be23e5b2a0eb_24.jpg",
+    "time": "2021/09/17 14:18:24",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1631853769213700"
+  },
+  {
+    "user": "UGA29R3FH",
+    "text": "ちなみに私はSpace関係なしにリーダーキーは`'`にしてます",
+    "client_msg_id": "d0df005c-1022-4d45-8689-dd4788f9d1fa",
+    "name": "znmxodq1",
+    "img": "https://avatars.slack-edge.com/2019-03-08/570571829091_2ca91fb0cc1ed2341fe0_24.png",
+    "time": "2021/09/17 14:18:24",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1631853562211400"
+  },
+  {
+    "user": "UGA29R3FH",
+    "text": "Spaceはまあ無理だと思う(IMEのキーをShift+Spaceにしただけで誤爆しまくってたので)",
+    "client_msg_id": "ddf4c0a9-cf63-4056-9e7d-514e471ba947",
+    "name": "znmxodq1",
+    "img": "https://avatars.slack-edge.com/2019-03-08/570571829091_2ca91fb0cc1ed2341fe0_24.png",
+    "time": "2021/09/17 14:18:24",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1631853479211000"
+  },
+  {
+    "user": "UGA29R3FH",
+    "text": "Tab and Winはいいかもな",
+    "client_msg_id": "98c27798-f379-4d94-812a-f0880491ae4b",
+    "name": "znmxodq1",
+    "img": "https://avatars.slack-edge.com/2019-03-08/570571829091_2ca91fb0cc1ed2341fe0_24.png",
+    "time": "2021/09/17 14:18:24",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1631853435210400"
+  },
+  {
+    "user": "U015CDRQDD0",
+    "text": "因みにSpaceをmodキーにした際vimのリーダーキー何にしてるのでしょうか？",
+    "client_msg_id": "7E9DA368-F677-4E42-AF12-EDBE5E9B0CBD",
+    "name": "v3rn3j",
+    "img": "https://secure.gravatar.com/avatar/245992ad0221e323c1397758868d2138.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0002-24.png",
+    "time": "2021/09/17 14:18:25",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1631853375210100"
+  },
+  {
     "user": "U8T8KB5M4",
     "text": "自分もWinですねー（thinkpad USキーボード）",
     "client_msg_id": "be2c5643-79d2-45ae-bb9c-5fadbc8dfb67",
     "name": "h.hata.ai.t",
     "img": "https://avatars.slack-edge.com/2019-08-19/732537331990_536f34e28226326cb4e8_24.png",
-    "time": "2021/09/17 13:27:26",
+    "time": "2021/09/17 14:18:25",
     "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1631851889207500"
   },
   {
