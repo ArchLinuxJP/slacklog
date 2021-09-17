@@ -1,11 +1,20 @@
 [
   {
+    "user": "U01HE1ENNJZ",
+    "text": "swayのenv設定ってどうしてますか？\n.pam_environmentがdeprecatedになってたので",
+    "client_msg_id": "220f6014-a082-4770-a8ae-0b7238a14a05",
+    "name": "a3784197",
+    "img": "https://avatars.slack-edge.com/2021-09-08/2452014575271_1a34f97ec1eeb20d8b71_24.png",
+    "time": "2021/09/17 15:18:48",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1631856067042200"
+  },
+  {
     "user": "U02ASPM0A6T",
     "text": "Libreboot 以外の coreboot ディストリビューションではバイナリブロブ非混入が保証されていないことがわかりました。ベンダーから渡されたバイナリ使わないと動かないんじゃ現実的にはほぼ妥協するしかないですね\n• <https://doc.coreboot.org/distributions.html> / <https://doc-coreboot-org.translate.goog/distributions.html?_x_tr_sl=auto&amp;_x_tr_tl=ja&amp;_x_tr_hl=ja&amp;_x_tr_pto=ajax,elem|日本語訳> \n• <https://doc.coreboot.org/> / <https://translate.google.com/translate?sl=auto&amp;tl=ja&amp;u=https://doc.coreboot.org/|日本語訳>\n&gt; プロジェクトが配布するのは、厳密に言えば、プロジェクトの一部ではない場合でも、再配布可能なベンダーバイナリ（「ブロブ」と呼びます）のコレクションです。それらは、私たちが開くことができなかったハードウェアinitの部分をカバーし、一部のハードウェアはそれらを必要としますが、そのようなバイナリコンポーネントなしで起動できるハードウェアはまだあります。",
     "client_msg_id": "871fa730-710b-4b2d-866d-6319bfb484a1",
     "name": "yozigen",
     "img": "https://avatars.slack-edge.com/2021-08-15/2405164316960_50d7f6e8be23e5b2a0eb_24.jpg",
-    "time": "2021/09/16 00:16:42",
+    "time": "2021/09/17 15:18:49",
     "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1631718976040300"
   },
   {
