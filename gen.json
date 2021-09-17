@@ -1,11 +1,65 @@
 [
   {
+    "user": "U8T8KB5M4",
+    "text": "自分もWinですねー（thinkpad USキーボード）",
+    "client_msg_id": "be2c5643-79d2-45ae-bb9c-5fadbc8dfb67",
+    "name": "h.hata.ai.t",
+    "img": "https://avatars.slack-edge.com/2019-08-19/732537331990_536f34e28226326cb4e8_24.png",
+    "time": "2021/09/17 13:27:26",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1631851889207500"
+  },
+  {
+    "user": "U02ASPM0A6T",
+    "text": "普通の `f`とかも修飾キーになるので手頃なところから選ぶといいと思います",
+    "client_msg_id": "7F54FE1C-AE3B-4EBC-A61E-635D6F5F8437",
+    "name": "yozigen",
+    "img": "https://avatars.slack-edge.com/2021-08-15/2405164316960_50d7f6e8be23e5b2a0eb_24.jpg",
+    "time": "2021/09/17 13:27:26",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1631851682207400"
+  },
+  {
+    "user": "U02ASPM0A6T",
+    "text": "ああなるほど。コード書きまくる場合それはあるかもしれないですね",
+    "client_msg_id": "D79717AB-EE97-4786-B4F9-91AA93E0FCF8",
+    "name": "yozigen",
+    "img": "https://avatars.slack-edge.com/2021-08-15/2405164316960_50d7f6e8be23e5b2a0eb_24.jpg",
+    "time": "2021/09/17 13:27:27",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1631851538206000"
+  },
+  {
+    "user": "U70QDFN82",
+    "text": "今Tab and Winにしてみました。Tabくらいの利用頻度だと大丈夫そう。\nスペースはやっぱりひっかかりとかいろいろ気になりますね・・・利用頻度多すぎるんでタイプクセによってはまじで誤爆しまくる・・・",
+    "client_msg_id": "ce564fc2-90e4-45ca-a839-84bffd24f3ac",
+    "name": "yutakatay",
+    "img": "https://avatars.slack-edge.com/2020-08-16/1302143736069_0baa468f7bea68e827d9_24.png",
+    "time": "2021/09/17 13:27:27",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1631849495202300"
+  },
+  {
+    "user": "U0GFBAM8U",
+    "text": "`/etc/X11/xorg.conf.d`で`Option \"XkbOptions\" \"caps:super\"` とかは動きますか?\nもし動かないようなら`setxkbmap` で実行してみたりとか",
+    "client_msg_id": "255d87bf-3b29-49cc-93c6-4d6faad72746",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2021/09/17 13:27:28",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1631849302200800"
+  },
+  {
+    "user": "U0PM6EYR1",
+    "text": "キーの押しづらい問題、最終荒業は自作キーボードで、自分の押しやすい位置に mod を持ってくる という方法が…",
+    "client_msg_id": "5177aa51-60a1-4a68-b0c0-4e69560ad891",
+    "name": "raa0121",
+    "img": "https://secure.gravatar.com/avatar/35b032d7b2d4182b0c2de1ef85ba91f2.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0009-24.png",
+    "time": "2021/09/17 13:27:28",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1631849170200700"
+  },
+  {
     "user": "U70QDFN82",
     "text": "dual-function-keys試してみました。Space and WinかなりいいけどやっぱりSpaceの使用感がだいぶ下がる・・・誤爆もする・・・\nパラメーターもうすこし調整してみよう・・・",
     "client_msg_id": "c2f4a01c-e826-4f72-9b3a-7db9310a8d83",
     "name": "yutakatay",
     "img": "https://avatars.slack-edge.com/2020-08-16/1302143736069_0baa468f7bea68e827d9_24.png",
-    "time": "2021/09/17 12:21:34",
+    "time": "2021/09/17 13:27:28",
     "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1631847617199400"
   },
   {
