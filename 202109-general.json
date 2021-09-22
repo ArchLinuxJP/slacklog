@@ -1,11 +1,20 @@
 [
   {
+    "user": "U01HE1ENNJZ",
+    "text": "`sudo dmesg -l err,warn`\n```...\n[    0.417847] ACPI BIOS Error (bug): Could not resolve symbol [\\_SB.IPPF._STA.POS1], AE_NOT_FOUND (20200925/psargs-330)\n[    0.417857] ACPI Error: Aborting method \\_SB.IPPF._STA due to previous error (AE_NOT_FOUND) (20200925/psparse-529)\n[    0.476726] ACPI BIOS Error (bug): Could not resolve symbol [\\_SB.IPPF._STA.POS1], AE_NOT_FOUND (20200925/psargs-330)\n[    0.476735] ACPI Error: Aborting method \\_SB.IPPF._STA due to previous error (AE_NOT_FOUND) (20200925/psparse-529)\n[    0.551489] ACPI BIOS Error (bug): Could not resolve symbol [\\_SB.IPPF._STA.POS1], AE_NOT_FOUND (20200925/psargs-330)\n[    0.551499] ACPI Error: Aborting method \\_SB.IPPF._STA due to previous error (AE_NOT_FOUND) (20200925/psparse-529)\n[    0.795876] [Firmware Bug]: Invalid critical threshold (0)\n[   14.254527] acpi PNP0C14:01: duplicate WMI GUID 05901221-D566-11D1-B2F0-00A0C9062910 (first instance was on PNP0C14:00)\n[   14.254640] acpi PNP0C14:02: duplicate WMI GUID 05901221-D566-11D1-B2F0-00A0C9062910 (first instance was on PNP0C14:00)\n[   14.254643] wmi_bus wmi_bus-PNP0C14:02: WQBC data block query control method not found\n[   14.254671] wmi_bus wmi_bus-PNP0C14:02: WQBJ data block query control method not found\n[   14.285108] ACPI BIOS Error (bug): Could not resolve symbol [\\_SB.IPPF._STA.POS1], AE_NOT_FOUND (20200925/psargs-330)\n[   14.285114] ACPI Error: Aborting method \\_SB.IPPF._STA due to previous error (AE_NOT_FOUND) (20200925/psparse-529)\n[   14.294835] ACPI BIOS Error (bug): Could not resolve symbol [\\_SB.IPPF._STA.POS1], AE_NOT_FOUND (20200925/psargs-330)\n[   14.294845] ACPI Error: Aborting method \\_SB.IPPF._STA due to previous error (AE_NOT_FOUND) (20200925/psparse-529)\n...\n[   15.551107] ACPI BIOS Error (bug): Could not resolve symbol [\\_SB.IPPF._STA.POS1], AE_NOT_FOUND (20200925/psargs-330)\n[   15.551117] ACPI Error: Aborting method \\_SB.IPPF._STA due to previous error (AE_NOT_FOUND) (20200925/psparse-529)\n...```\ndmesgに謎のエラーまみれなので\n誰か分かる人いらっしゃったら教えてください",
+    "client_msg_id": "65e816b5-09ec-4230-8a27-9c698aa11a1a",
+    "name": "a3784197",
+    "img": "https://avatars.slack-edge.com/2021-09-08/2452014575271_1a34f97ec1eeb20d8b71_24.png",
+    "time": "2021/09/22 10:10:36",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1632267802250900"
+  },
+  {
     "user": "U02ASPM0A6T",
     "text": "気になっていた azik との併用設定事例も充実しているようなので、近々導入検討してみます。ありがとうございます\n<http://coexe.web.fc2.com/skkrule_azik.html|http://coexe.web.fc2.com/skkrule_azik.html>",
     "client_msg_id": "F0A1C4EA-1A47-4AB8-A333-15B2271BEF3D",
     "name": "yozigen",
     "img": "https://avatars.slack-edge.com/2021-08-15/2405164316960_50d7f6e8be23e5b2a0eb_24.jpg",
-    "time": "2021/09/18 02:23:31",
+    "time": "2021/09/22 10:10:36",
     "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1631897641244900"
   },
   {
