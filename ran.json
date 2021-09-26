@@ -1,11 +1,146 @@
 [
   {
     "user": "U0GFBAM8U",
+    "text": "というより改造が成功したら、もはやarchlinuxではなく、archベースのオリジナルos(custom rom)ということになりそう",
+    "client_msg_id": "f7f4458e-6df0-4fcd-8129-660ba06e06ae",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2021/09/26 15:18:09",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1632636962081900"
+  },
+  {
+    "user": "U0GFBAM8U",
+    "text": "タッチパネルあたりの処理は、やはりubuntuとか使ったほうがいいですしね",
+    "client_msg_id": "32b8e302-2ed6-471f-babc-3529a7f616c0",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2021/09/26 15:18:10",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1632636570080300"
+  },
+  {
+    "user": "U0GFBAM8U",
+    "text": "検索してみた\n<https://bbs.archlinux.org/viewtopic.php?id=177349>",
+    "client_msg_id": "de21ad85-296c-4a85-962c-b918e43aad3c",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2021/09/26 15:18:10",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1632636513079900"
+  },
+  {
+    "user": "U0PM6EYR1",
+    "text": "あんまり需要がないからか、ブログも見かけないんですよね…",
+    "client_msg_id": "d6a5d435-0cb1-4dda-8007-538a3ed51d70",
+    "name": "raa0121",
+    "img": "https://secure.gravatar.com/avatar/35b032d7b2d4182b0c2de1ef85ba91f2.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0009-24.png",
+    "time": "2021/09/26 15:18:11",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1632636508079800"
+  },
+  {
+    "user": "U0GFBAM8U",
+    "text": "様々なcustom romがあり、いろんなlinuxディストリビューションが動いてるので、そのどれかをinstallしたあとに、bootあたりの処理を残して、archlinuxのimgを読み込むよう改造してみてはどうでしょう。(様々な困難が予想されると思われますが",
+    "client_msg_id": "34aed24c-78db-4b31-a2b7-ed76cc627ddb",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2021/09/26 15:18:11",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1632636318077000"
+  },
+  {
+    "user": "U019C7VLZ4G",
+    "text": "そうですねBootloaderが直にArch呼び出して起動するようにしたいです。",
+    "client_msg_id": "c60fffec-f1a9-4e9e-805e-13281cb1ecd4",
+    "name": "getalotofmail",
+    "img": "https://secure.gravatar.com/avatar/5a7f20688dc40b2989935a11bdfa25fe.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0001-24.png",
+    "time": "2021/09/26 15:18:11",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1632636309076800"
+  },
+  {
+    "user": "U0GFBAM8U",
+    "text": "可能だと思いますが、難しそうです。\nつまり、android上でlinuxのimageを動かすのではなく、端末をbootしたときにarchlinuxを呼び出したいということですよね?",
+    "client_msg_id": "5a35d927-fad6-4a81-a530-9d16b7c6b1f3",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2021/09/26 15:18:12",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1632636162074200"
+  },
+  {
+    "user": "U019C7VLZ4G",
+    "text": "Xiaomi Pad5、日本発売はまだなのですがXiaomi端末は公式でUnlock対応しているようですし、性能もSnapdragon870だし、中国での価格を見ると結構安いので期待している",
+    "client_msg_id": "c7e54b27-1ed5-42cf-97cf-37981f0cdb4a",
+    "name": "getalotofmail",
+    "img": "https://secure.gravatar.com/avatar/5a7f20688dc40b2989935a11bdfa25fe.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0001-24.png",
+    "time": "2021/09/26 15:18:12",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1632636152074000"
+  },
+  {
+    "user": "U019C7VLZ4G",
+    "text": "BootloaderがUnlockできるなら可能でしょうか?",
+    "client_msg_id": "7f37df63-3d1d-4a70-b7a1-e5bbee0d0d79",
+    "name": "getalotofmail",
+    "img": "https://secure.gravatar.com/avatar/5a7f20688dc40b2989935a11bdfa25fe.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0001-24.png",
+    "time": "2021/09/26 15:18:12",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1632635758068700"
+  },
+  {
+    "user": "U0PM6EYR1",
+    "text": "Android端末は bootloader がロックされてると、インストーラーが起動できないかな",
+    "client_msg_id": "45e24d49-a15d-444b-a0b3-4b1caa10fdb9",
+    "name": "raa0121",
+    "img": "https://secure.gravatar.com/avatar/35b032d7b2d4182b0c2de1ef85ba91f2.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0009-24.png",
+    "time": "2021/09/26 15:18:13",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1632635465067300"
+  },
+  {
+    "user": "UUWBU08TU",
+    "text": "uboot？あたりがしんどそうなイメージがありますね",
+    "client_msg_id": "3c9bf941-7d30-4a86-9f1f-9d7c1b671d13",
+    "name": "nekokowan_archjpslack",
+    "img": "https://avatars.slack-edge.com/2020-06-22/1204027183412_7f7a529c9005aa8cce36_24.png",
+    "time": "2021/09/26 15:18:13",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1632635449066800"
+  },
+  {
+    "user": "U019C7VLZ4G",
+    "text": "chrootやtermux無しで素でArch Linux ARM入れるみたいに入れることは難しいのでしょうか?\n(ARM、UEFIとかないしつらそうな気はしている)",
+    "client_msg_id": "c2555311-5e96-42f1-898d-8f99a8872ec6",
+    "name": "getalotofmail",
+    "img": "https://secure.gravatar.com/avatar/5a7f20688dc40b2989935a11bdfa25fe.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0001-24.png",
+    "time": "2021/09/26 15:18:13",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1632635369065000"
+  },
+  {
+    "user": "U0PM6EYR1",
+    "text": "<https://blog.rago1975.net/entry/post042/>\ntermux で動かすのも楽っぽいですね",
+    "client_msg_id": "4f1274c1-5122-45c5-9ad4-2eed7a3574e6",
+    "name": "raa0121",
+    "img": "https://secure.gravatar.com/avatar/35b032d7b2d4182b0c2de1ef85ba91f2.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0009-24.png",
+    "time": "2021/09/26 15:18:14",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1632634180062500"
+  },
+  {
+    "user": "U0PM6EYR1",
+    "text": "<https://www.space-i.com/post-blog/linux-on-android/>\n古い記事ですが、chroot で動かすのは割とサクッと行けそうですね",
+    "client_msg_id": "a24398a7-261f-4ce8-9019-c8e7d5d24652",
+    "name": "raa0121",
+    "img": "https://secure.gravatar.com/avatar/35b032d7b2d4182b0c2de1ef85ba91f2.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0009-24.png",
+    "time": "2021/09/26 15:18:14",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1632634102062000"
+  },
+  {
+    "user": "U019C7VLZ4G",
+    "text": "Xiaomi Pad 5に興味があるのですがこれをArch Linux Armが動くようにするのは大変なのでしょうか?",
+    "client_msg_id": "0a60e779-8a2f-4c1d-9aae-53e4d26b2938",
+    "name": "getalotofmail",
+    "img": "https://secure.gravatar.com/avatar/5a7f20688dc40b2989935a11bdfa25fe.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0001-24.png",
+    "time": "2021/09/26 15:18:14",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1632633454061500"
+  },
+  {
+    "user": "U0GFBAM8U",
     "text": "この前リリースされたシンセサイザーぽい、よさそう\n<https://github.com/awwbees/BespokeSynth/|https://github.com/awwbees/BespokeSynth/>",
     "client_msg_id": "6164E25D-036B-43D3-B26A-F8DDA603205E",
     "name": "syui",
     "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
-    "time": "2021/09/19 13:20:18",
+    "time": "2021/09/26 15:18:15",
     "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1632022878054100"
   },
   {
