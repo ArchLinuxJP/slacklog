@@ -1,11 +1,38 @@
 [
   {
+    "user": "U3FJYR7MG",
+    "text": "LinegeOSとか大手に取り込まれたりしたからか、最近はカスタムカーネル単品はあまり見なくなりましたねぇ…",
+    "client_msg_id": "20d189fa-92ea-47fe-a455-dd15d057f405",
+    "name": "dohq",
+    "img": "https://secure.gravatar.com/avatar/743659d990b6f68ef5c104ba8e415ba5.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0021-24.png",
+    "time": "2021/09/27 15:19:25",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1632721193105600"
+  },
+  {
+    "user": "UVB7L4CKH",
+    "text": "そういえば昔はスマホにカスタムカーネルを焼く、なんてのもありましたね",
+    "client_msg_id": "eb308c4e-63a1-401b-8b61-94dcc889f017",
+    "name": "tatsumigamou",
+    "img": "https://avatars.slack-edge.com/2020-03-12/985313571153_203fee630d3a4a1053a1_24.jpg",
+    "time": "2021/09/27 15:19:26",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1632721078104700"
+  },
+  {
+    "user": "U3FJYR7MG",
+    "text": "限らないですね。WiFiとかBluetoothなんかもそうです。\nなので基本的には製品モデル毎に専用のカーネルを使います。\nxiaomi製品はカーネルとかベンダーパッチ類公開してるのですがAndroid用(AOSP)なのでARMLinuxカーネルに取り込んでubootからそっちを起動して~とかいろいろする必要があります。",
+    "client_msg_id": "24420ec1-959f-4583-be4e-e1dd1668a738",
+    "name": "dohq",
+    "img": "https://secure.gravatar.com/avatar/743659d990b6f68ef5c104ba8e415ba5.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0021-24.png",
+    "time": "2021/09/27 15:19:26",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1632720901104200"
+  },
+  {
     "user": "U019C7VLZ4G",
     "text": "よくわかっていないのですが、Androidタブレットで使われている各種ドライバ(タッチパネルとかペン)ってLinuxカーネルupstreamに含まれているとは限らないということですか?",
     "client_msg_id": "99aa7386-b220-483c-a15e-c0b8fb3e3bc0",
     "name": "getalotofmail",
     "img": "https://secure.gravatar.com/avatar/5a7f20688dc40b2989935a11bdfa25fe.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0001-24.png",
-    "time": "2021/09/27 14:14:18",
+    "time": "2021/09/27 15:19:26",
     "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1632717270100600"
   },
   {
