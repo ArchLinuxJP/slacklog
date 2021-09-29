@@ -1,11 +1,29 @@
 [
   {
+    "user": "U017BNGTHT3",
+    "text": "ネットワーク周り特に難しいですよね…\nディストリによってはResolv.conf勝手に書き換わったりする…",
+    "client_msg_id": "704b8326-cf3c-471b-99c1-b0b13df8c9e2",
+    "name": "s5is",
+    "img": "https://avatars.slack-edge.com/2020-11-29/1531495219589_cf6a2f80ce7bb820ba38_24.png",
+    "time": "2021/09/29 19:23:39",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1632910246310500"
+  },
+  {
+    "user": "U02GQTCTTFA",
+    "text": "無線LANの接続ができないので、質問させていただきます。この問題について知ってる方、助けてくださると嬉しいです。\n\n自分はNetworkmanagerを使ってきたのですが、突然使えなくなりました。おそらく自分が意味を理解してなく、色々弄ったせいです。\n\nネットワーク障害の始まりは、毎回dhcpcdを動かさないと動かなかったところから始まります。\n\nそこで、それを自動化したり、archwikiを見て色々設定を変えたりしました。\n\nこれで動くだろうと思い、再起動してみると、dhcpcdを使ってもネットワークに繋げなくなりました。\n\n自分はnmtuiを使っており、nmtuiの方で確認するとアクティベートになっており、接続が出来ているようです。\n\n今のところ確認できているところを下記に書きます。\n1. ip アドレスの取得は出来ている(ip aを使って確認)\n2. DNS周りは生きている。正引き、逆引きが出来ている（dig,nslookupを使って確認)\n3. NetWorkmanager.serviceは動いてる(systemctl statusで確認)\n4. ネットワークインタフェースは立ち上がってる( ip linkで確認\n##環境\nManjaro arch 5.10.63-1 x86-64\n\n詳細はスレッドに書きます。",
+    "client_msg_id": "160F07DA-2A97-4ADF-9689-9B73291C60A3",
+    "name": "",
+    "img": "",
+    "time": "2021/09/29 19:23:39",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1632908163273300"
+  },
+  {
     "user": "U01HE1ENNJZ",
     "text": "`sudo dmesg -l err,warn`\n```...\n[    0.417847] ACPI BIOS Error (bug): Could not resolve symbol [\\_SB.IPPF._STA.POS1], AE_NOT_FOUND (20200925/psargs-330)\n[    0.417857] ACPI Error: Aborting method \\_SB.IPPF._STA due to previous error (AE_NOT_FOUND) (20200925/psparse-529)\n[    0.476726] ACPI BIOS Error (bug): Could not resolve symbol [\\_SB.IPPF._STA.POS1], AE_NOT_FOUND (20200925/psargs-330)\n[    0.476735] ACPI Error: Aborting method \\_SB.IPPF._STA due to previous error (AE_NOT_FOUND) (20200925/psparse-529)\n[    0.551489] ACPI BIOS Error (bug): Could not resolve symbol [\\_SB.IPPF._STA.POS1], AE_NOT_FOUND (20200925/psargs-330)\n[    0.551499] ACPI Error: Aborting method \\_SB.IPPF._STA due to previous error (AE_NOT_FOUND) (20200925/psparse-529)\n[    0.795876] [Firmware Bug]: Invalid critical threshold (0)\n[   14.254527] acpi PNP0C14:01: duplicate WMI GUID 05901221-D566-11D1-B2F0-00A0C9062910 (first instance was on PNP0C14:00)\n[   14.254640] acpi PNP0C14:02: duplicate WMI GUID 05901221-D566-11D1-B2F0-00A0C9062910 (first instance was on PNP0C14:00)\n[   14.254643] wmi_bus wmi_bus-PNP0C14:02: WQBC data block query control method not found\n[   14.254671] wmi_bus wmi_bus-PNP0C14:02: WQBJ data block query control method not found\n[   14.285108] ACPI BIOS Error (bug): Could not resolve symbol [\\_SB.IPPF._STA.POS1], AE_NOT_FOUND (20200925/psargs-330)\n[   14.285114] ACPI Error: Aborting method \\_SB.IPPF._STA due to previous error (AE_NOT_FOUND) (20200925/psparse-529)\n[   14.294835] ACPI BIOS Error (bug): Could not resolve symbol [\\_SB.IPPF._STA.POS1], AE_NOT_FOUND (20200925/psargs-330)\n[   14.294845] ACPI Error: Aborting method \\_SB.IPPF._STA due to previous error (AE_NOT_FOUND) (20200925/psparse-529)\n...\n[   15.551107] ACPI BIOS Error (bug): Could not resolve symbol [\\_SB.IPPF._STA.POS1], AE_NOT_FOUND (20200925/psargs-330)\n[   15.551117] ACPI Error: Aborting method \\_SB.IPPF._STA due to previous error (AE_NOT_FOUND) (20200925/psparse-529)\n...```\ndmesgに謎のエラーまみれなので\n誰か分かる人いらっしゃったら教えてください",
     "client_msg_id": "65e816b5-09ec-4230-8a27-9c698aa11a1a",
     "name": "a3784197",
     "img": "https://avatars.slack-edge.com/2021-09-08/2452014575271_1a34f97ec1eeb20d8b71_24.png",
-    "time": "2021/09/22 10:10:36",
+    "time": "2021/09/29 19:23:40",
     "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1632267802250900"
   },
   {
