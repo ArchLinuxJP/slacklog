@@ -1,11 +1,101 @@
 [
   {
+    "user": "UUWBU08TU",
+    "text": "結局英語版の数千ページを同期するのがスタートであり、永遠に終わらないタスクなので、現時点で何かいい感じにするというのは効果が少ないかなと……",
+    "client_msg_id": "9699dcd1-e5ee-4ef1-9948-d9660c46ec2c",
+    "name": "nekokowan_archjpslack",
+    "img": "https://avatars.slack-edge.com/2020-06-22/1204027183412_7f7a529c9005aa8cce36_24.png",
+    "time": "2021/10/01 22:25:25",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1633093988359900"
+  },
+  {
+    "user": "UUWBU08TU",
+    "text": "out_of_dateは微妙に意味が異なると思っていて、translatemeの方が適切かもしれません",
+    "client_msg_id": "1f5834ac-4951-4ac4-9cb2-f481df13ad71",
+    "name": "nekokowan_archjpslack",
+    "img": "https://avatars.slack-edge.com/2020-06-22/1204027183412_7f7a529c9005aa8cce36_24.png",
+    "time": "2021/10/01 22:25:25",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1633093824358800"
+  },
+  {
+    "user": "UP57VNN6T",
+    "text": "Out of DateとTranslationsStatusで状態を管理するのがいいですかね...",
+    "client_msg_id": "18734dfa-2ebe-4d5b-8b65-7ebbc068588e",
+    "name": "shun819.mail",
+    "img": "https://avatars.slack-edge.com/2019-10-06/787619965254_d350f87803cf2c832f57_24.png",
+    "time": "2021/10/01 22:25:25",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1633093640358200"
+  },
+  {
+    "user": "UUWBU08TU",
+    "text": "個人的な感覚としては、同期できているページの方が少ないので、そちらから分かりやすくしていくとよいかなと思っています(Template:TranslationStatusを末尾に貼る、など)",
+    "client_msg_id": "3915c9ec-0773-42bb-ab61-1d2c58934e0f",
+    "name": "nekokowan_archjpslack",
+    "img": "https://avatars.slack-edge.com/2020-06-22/1204027183412_7f7a529c9005aa8cce36_24.png",
+    "time": "2021/10/01 22:25:26",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1633093426357600"
+  },
+  {
+    "user": "UP57VNN6T",
+    "text": "それを最初やろうと考えていたのですが、そうすると書かれた場所が結局ページごとで分散してしまうので、1箇所で管理できればなと考えていました",
+    "client_msg_id": "df4c12e5-85ab-4e2b-a11f-9e49f735d436",
+    "name": "shun819.mail",
+    "img": "https://avatars.slack-edge.com/2019-10-06/787619965254_d350f87803cf2c832f57_24.png",
+    "time": "2021/10/01 22:25:26",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1633093051356600"
+  },
+  {
+    "user": "U0PM6EYR1",
+    "text": "ベージごとの議論・トークページに書くのが良いのかな？",
+    "client_msg_id": "41a3653b-42ca-40bb-9451-a4c1ff8a6c5f",
+    "name": "raa0121",
+    "img": "https://secure.gravatar.com/avatar/35b032d7b2d4182b0c2de1ef85ba91f2.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0009-24.png",
+    "time": "2021/10/01 22:25:26",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1633093011355800"
+  },
+  {
+    "user": "UP57VNN6T",
+    "text": "主に英語版と大きく内容が違うページをリストアップしたいですね。\nArchbootやArchISO、Gnomeはだいぶ情報が変化しています。",
+    "client_msg_id": "ce157060-1dce-420b-a2fe-f5e9e1b75d22",
+    "name": "shun819.mail",
+    "img": "https://avatars.slack-edge.com/2019-10-06/787619965254_d350f87803cf2c832f57_24.png",
+    "time": "2021/10/01 22:25:27",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1633092928355300"
+  },
+  {
+    "user": "UUWBU08TU",
+    "text": "どういったToDoを管理したいですか？",
+    "client_msg_id": "5f33b505-dc0f-4549-9b86-e80f42b0f11a",
+    "name": "nekokowan_archjpslack",
+    "img": "https://avatars.slack-edge.com/2020-06-22/1204027183412_7f7a529c9005aa8cce36_24.png",
+    "time": "2021/10/01 22:25:27",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1633089176354500"
+  },
+  {
+    "user": "UUWBU08TU",
+    "text": "強いていえば\n<https://wiki.archlinux.jp/index.php/ArchWiki%E3%83%BB%E3%83%88%E3%83%BC%E3%82%AF:%E3%83%AA%E3%82%AF%E3%82%A8%E3%82%B9%E3%83%88>\nですかね？",
+    "client_msg_id": "d3199e77-97ee-4255-8934-11302c2bcda5",
+    "name": "nekokowan_archjpslack",
+    "img": "https://avatars.slack-edge.com/2020-06-22/1204027183412_7f7a529c9005aa8cce36_24.png",
+    "time": "2021/10/01 22:25:28",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1633089168354200"
+  },
+  {
+    "user": "UP57VNN6T",
+    "text": "@nekokowan_archjpslack ArchWikiのTodoみたいなものとかを管理する場所ってありますか？",
+    "client_msg_id": "ee0a4d11-d0fd-43a8-b89e-7e01e1ba19f9",
+    "name": "shun819.mail",
+    "img": "https://avatars.slack-edge.com/2019-10-06/787619965254_d350f87803cf2c832f57_24.png",
+    "time": "2021/10/01 22:25:28",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1633088995353500"
+  },
+  {
     "user": "U017BNGTHT3",
     "text": "ネットワーク周り特に難しいですよね…\nディストリによってはResolv.conf勝手に書き換わったりする…",
     "client_msg_id": "704b8326-cf3c-471b-99c1-b0b13df8c9e2",
     "name": "s5is",
     "img": "https://avatars.slack-edge.com/2020-11-29/1531495219589_cf6a2f80ce7bb820ba38_24.png",
-    "time": "2021/09/29,10:10:46",
+    "time": "2021/10/01 22:25:28",
     "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1632910246310500"
   },
   {
@@ -109,7 +199,7 @@
   },
   {
     "user": "U02ASPM0A6T",
-    "text": "<@U0PM6EYR1> ある程度どんなキーボードでも使えるように、考え方とソフトウェアだけでなんとかならないかと足掻いてます。皆さんの事例教えていただいてありがたいです",
+    "text": "@raa0121 ある程度どんなキーボードでも使えるように、考え方とソフトウェアだけでなんとかならないかと足掻いてます。皆さんの事例教えていただいてありがたいです",
     "client_msg_id": "694BDB3E-F788-4E7B-B4B9-4C8E4BECAEF3",
     "name": "yozigen",
     "img": "https://avatars.slack-edge.com/2021-08-15/2405164316960_50d7f6e8be23e5b2a0eb_24.jpg",
@@ -118,7 +208,7 @@
   },
   {
     "user": "U015CDRQDD0",
-    "text": "<@U02ASPM0A6T> なるほど 有難う御座います",
+    "text": "@yozigen なるほど 有難う御座います",
     "client_msg_id": "F949044A-3297-4AF6-9BE6-F75BD3BF7489",
     "name": "v3rn3j",
     "img": "https://secure.gravatar.com/avatar/245992ad0221e323c1397758868d2138.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0002-24.png",
@@ -136,7 +226,7 @@
   },
   {
     "user": "U02ASPM0A6T",
-    "text": "<@U015CDRQDD0> Spaceです。vimのリーダーキーって押したまま修飾キー的に使えましたっけ？もしそう使っているようであれば他に割り当てる必要があるかもしれません",
+    "text": "@v3rn3j Spaceです。vimのリーダーキーって押したまま修飾キー的に使えましたっけ？もしそう使っているようであれば他に割り当てる必要があるかもしれません",
     "client_msg_id": "727D1D3A-9BE7-4F79-8E39-D9B9B070976B",
     "name": "yozigen",
     "img": "https://avatars.slack-edge.com/2021-08-15/2405164316960_50d7f6e8be23e5b2a0eb_24.jpg",
@@ -604,7 +694,7 @@
   },
   {
     "user": "U02ASPM0A6T",
-    "text": "<@U257W41DW> 各サウンド・ビデオのサーバーのギャップを埋めて統合するという発想と実装がすごいですね。Linuxデスクトップの「素人にはお勧めできない」的な問題はこんな形で解決に向かっていくんでしょうか\n<https://wiki.archlinux.jp/index.php/PipeWire|https://wiki.archlinux.jp/index.php/PipeWire>",
+    "text": "@odknt 各サウンド・ビデオのサーバーのギャップを埋めて統合するという発想と実装がすごいですね。Linuxデスクトップの「素人にはお勧めできない」的な問題はこんな形で解決に向かっていくんでしょうか\n<https://wiki.archlinux.jp/index.php/PipeWire|https://wiki.archlinux.jp/index.php/PipeWire>",
     "client_msg_id": "723B5C4C-13EA-4FA6-84C8-50EDEC870417",
     "name": "yozigen",
     "img": "https://avatars.slack-edge.com/2021-08-15/2405164316960_50d7f6e8be23e5b2a0eb_24.jpg",
@@ -658,7 +748,7 @@
   },
   {
     "user": "U02ASPM0A6T",
-    "text": "<@U0PM6EYR1> 下記参照して qjackctl で汎用USBオーディオインターフェースを指定して「D-Busインターフェースの有効化」をしたら音が出るようになりました:bow:\n<https://wiki.archlinux.jp/index.php/JACK_Audio_Connection_Kit#GUI_.E3.82.92.E4.BD.BF.E3.81.A3.E3.81.9F.E8.A8.AD.E5.AE.9A.E3.81.AE.E4.BE.8B>",
+    "text": "@raa0121 下記参照して qjackctl で汎用USBオーディオインターフェースを指定して「D-Busインターフェースの有効化」をしたら音が出るようになりました:bow:\n<https://wiki.archlinux.jp/index.php/JACK_Audio_Connection_Kit#GUI_.E3.82.92.E4.BD.BF.E3.81.A3.E3.81.9F.E8.A8.AD.E5.AE.9A.E3.81.AE.E4.BE.8B>",
     "client_msg_id": "4f3481fe-6093-4f4a-a067-955792800b49",
     "name": "yozigen",
     "img": "https://avatars.slack-edge.com/2021-08-15/2405164316960_50d7f6e8be23e5b2a0eb_24.jpg",
@@ -784,7 +874,7 @@
   },
   {
     "user": "U02ASPM0A6T",
-    "text": "<@U0GFBAM8U> 音楽はやっていて、それとは別に「ライブコーディング」というコードでMIDIや音源、OSCなどを制御して音楽作成していこうというツールやムーブメントのジャンルがあって、それを学習・環境構築して楽して複雑なかっこええ作品を色々作りたいと思っています",
+    "text": "@syui 音楽はやっていて、それとは別に「ライブコーディング」というコードでMIDIや音源、OSCなどを制御して音楽作成していこうというツールやムーブメントのジャンルがあって、それを学習・環境構築して楽して複雑なかっこええ作品を色々作りたいと思っています",
     "client_msg_id": "3a4b9f55-bd6e-4dce-84c4-a02031d31ec0",
     "name": "yozigen",
     "img": "https://avatars.slack-edge.com/2021-08-15/2405164316960_50d7f6e8be23e5b2a0eb_24.jpg",
