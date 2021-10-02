@@ -1,11 +1,20 @@
 [
   {
+    "user": "U3FJYR7MG",
+    "text": "pipewireへの置換え、苦労した結果pulseaudioに戻ってきてしまったなぁ\n• ブラウザのGPU再生支援ON\n• pipewire-pulse導入\n• bluetoothイヤホン接続\nこの条件の時なぜかブラウザで動画再生出来ない(音は聞こえる)という謎現象にハマッてしまった…",
+    "client_msg_id": "8419c1b5-fb7b-4668-9d6f-4c3e0d26a2c0",
+    "name": "dohq",
+    "img": "https://secure.gravatar.com/avatar/743659d990b6f68ef5c104ba8e415ba5.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0021-24.png",
+    "time": "2021/10/02 16:15:05",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1633156827173400"
+  },
+  {
     "user": "U02ASPM0A6T",
-    "text": "archinstall スクリプトでは pulseaudio ではなく pipewire がデフォルト選択になっていました\n<https://wiki.archlinux.jp/index.php/Archinstall>",
+    "text": "archinstall スクリプトでは pulseaudio ではなく pipewire がデフォルト選択になっていました。使い方よくわかっていませんがもう実用レベルに入ってる感じっぽいですね\n<https://wiki.archlinux.jp/index.php/Archinstall>",
     "client_msg_id": "3f3f0aa2-ae48-4f5a-8612-e99c81cebbae",
     "name": "yozigen",
     "img": "https://avatars.slack-edge.com/2021-08-15/2405164316960_50d7f6e8be23e5b2a0eb_24.jpg",
-    "time": "2021/10/02 14:14:16",
+    "time": "2021/10/02 16:15:05",
     "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1633151239170300"
   },
   {
