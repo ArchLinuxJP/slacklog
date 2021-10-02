@@ -1,11 +1,38 @@
 [
   {
+    "user": "UUWBU08TU",
+    "text": "何も分からなかったらArchWikiを読んでみる(日本語版をざっと見てから英語版を見て、差分とかも確認する)、\nある程度分かっていたらmanページとかupstreamのドキュメントを参照する、という感じですかねー",
+    "client_msg_id": "1bb64dc7-e28b-4e2f-bffb-b3f256a8fc76",
+    "name": "nekokowan_archjpslack",
+    "img": "https://avatars.slack-edge.com/2020-06-22/1204027183412_7f7a529c9005aa8cce36_24.png",
+    "time": "2021/10/03 00:16:01",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1633184691193300"
+  },
+  {
+    "user": "U02ASPM0A6T",
+    "text": "（pipewire 云々とは 関係ないです。すみません）",
+    "client_msg_id": "88f3499b-52a7-4a35-b477-2d9650e3ca38",
+    "name": "yozigen",
+    "img": "https://avatars.slack-edge.com/2021-08-15/2405164316960_50d7f6e8be23e5b2a0eb_24.jpg",
+    "time": "2021/10/03 00:16:02",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1633184234192100"
+  },
+  {
+    "user": "U02ASPM0A6T",
+    "text": "インターネットをなんとなく調べて「なんだかよくわからんけどここの記載によるとうまくいくらしい」みたいな設定を入れて「まだ充分条件ではないのか？」などと思って更に他の設定を重ねたりしていくとどんどん泥沼になっていきますね。\n地道に明確な根拠がある最小限の設定のみを行っていけばいいんでしょうが、どうもリテラシー不足で迷子になることが多いです。\nリテラシーある方の設定方法の調べ方はだいたいこんな感じでしょうか？\n1. 英語版 ArchWiki を読んで設定\n    a. 日本語版ArchWikiとの差分があったらできれば反映\n2. 問題があったら下記を探す。なければ質問する\n    a. Upstream関連\n        i. 一通りのドキュメント\n        ii. FAQ\n        iii. issue\n        iv. コミットログ\n    b. 英語版Arch関連\n        i. フォーラム\n        ii. IRC\nどちらかというと ArchWiki よりも Upstream のドキュメントを先に読むように習慣付けたほうがいいですかね？",
+    "client_msg_id": "edde5267-1c80-4a44-acd7-a3c3b942181e",
+    "name": "yozigen",
+    "img": "https://avatars.slack-edge.com/2021-08-15/2405164316960_50d7f6e8be23e5b2a0eb_24.jpg",
+    "time": "2021/10/03 00:16:02",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1633184178191400"
+  },
+  {
     "user": "U3FJYR7MG",
     "text": "pipewireへの置換え、苦労した結果pulseaudioに戻ってきてしまったなぁ\n• ブラウザのGPU再生支援ON\n• pipewire-pulse導入\n• bluetoothイヤホン接続\nこの条件の時なぜかブラウザで動画再生出来ない(音は聞こえる)という謎現象にハマッてしまった…",
     "client_msg_id": "8419c1b5-fb7b-4668-9d6f-4c3e0d26a2c0",
     "name": "dohq",
     "img": "https://secure.gravatar.com/avatar/743659d990b6f68ef5c104ba8e415ba5.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0021-24.png",
-    "time": "2021/10/02 16:15:05",
+    "time": "2021/10/03 00:16:03",
     "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1633156827173400"
   },
   {
