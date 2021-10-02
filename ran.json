@@ -1,11 +1,29 @@
 [
   {
+    "user": "UUWBU08TU",
+    "text": "何を使うのがよいというのは難しい(いろいろな評価基準がある)ですが、私はpipewire使ってみています。(ALSAを直接使って欲しい派の人間ですが、PulseAudioにしか対応していないdiscordとかを使うために仕方なく……)",
+    "client_msg_id": "db93b690-4edb-4802-aa3a-1ff2c0646439",
+    "name": "nekokowan_archjpslack",
+    "img": "https://avatars.slack-edge.com/2020-06-22/1204027183412_7f7a529c9005aa8cce36_24.png",
+    "time": "2021/10/02 10:58:23",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1633138258168700"
+  },
+  {
+    "user": "U019C7VLZ4G",
+    "text": "現時点ではpulseaudioとpipewireのどちらを使うのがいいのでしょうか?\npipewireのほうが次世代感があるし、pulseaudioともjackとも互換性あるので最終的にはpipewireメインになっていくのかなと思ってます",
+    "client_msg_id": "96cc9a30-8e03-47cb-8615-8d74f99d1643",
+    "name": "getalotofmail",
+    "img": "https://secure.gravatar.com/avatar/5a7f20688dc40b2989935a11bdfa25fe.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0001-24.png",
+    "time": "2021/10/02 10:58:24",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1633137914167100"
+  },
+  {
     "user": "U02ASPM0A6T",
     "text": "これかなり色々なことができて面白そうですね\nPythonでライブコーディングできるのあたりがどんな感じか気になります\n• <https://youtu.be/NnrStjS4NhU|https://youtu.be/NnrStjS4NhU>\n• <https://gigazine.net/news/20210918-bespoke/|https://gigazine.net/news/20210918-bespoke/>",
     "client_msg_id": "61196C33-C6FC-47BB-B6B2-BF385E95353C",
     "name": "yozigen",
     "img": "https://avatars.slack-edge.com/2021-08-15/2405164316960_50d7f6e8be23e5b2a0eb_24.jpg",
-    "time": "2021/09/30,21:00:12",
+    "time": "2021/10/02 10:58:24",
     "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1633035612161500"
   },
   {
@@ -469,7 +487,7 @@
   },
   {
     "user": "U015CDRQDD0",
-    "text": "<@U01HE1ENNJZ> 自分はenvironment.d下で管理してます",
+    "text": "@a3784197 自分はenvironment.d下で管理してます",
     "client_msg_id": "E7AE4B6E-6743-4705-BEF2-583C39C29BFD",
     "name": "v3rn3j",
     "img": "https://secure.gravatar.com/avatar/245992ad0221e323c1397758868d2138.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0002-24.png",
@@ -604,7 +622,7 @@
   },
   {
     "user": "U02ASPM0A6T",
-    "text": "<@U019C7VLZ4G> ブラウザ設定を同期する、という用途としてはこちらの方が汎用的でいいかもしれません\n<https://wiki.archlinux.jp/index.php/Profile-sync-daemon|https://wiki.archlinux.jp/index.php/Profile-sync-daemon>",
+    "text": "@getalotofmail ブラウザ設定を同期する、という用途としてはこちらの方が汎用的でいいかもしれません\n<https://wiki.archlinux.jp/index.php/Profile-sync-daemon|https://wiki.archlinux.jp/index.php/Profile-sync-daemon>",
     "client_msg_id": "470DE6DB-F3BB-4313-BD2B-4163B8DB9FC8",
     "name": "yozigen",
     "img": "https://avatars.slack-edge.com/2021-08-15/2405164316960_50d7f6e8be23e5b2a0eb_24.jpg",
