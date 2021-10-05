@@ -1,11 +1,29 @@
 [
   {
     "user": "UUWBU08TU",
+    "text": "はい、頑張りましょう！(ちょっと今月は忙しくてすいません……。)",
+    "client_msg_id": "d39e4703-744d-46df-bbe8-90c3a291b6c1",
+    "name": "nekokowan_archjpslack",
+    "img": "https://avatars.slack-edge.com/2020-06-22/1204027183412_7f7a529c9005aa8cce36_24.png",
+    "time": "2021/10/05 11:30:51",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1633400423371900"
+  },
+  {
+    "user": "U0H9QUFA5",
+    "text": "すべてのページに translationStatus がつくようになれば理想ですよね。",
+    "client_msg_id": "9706f4d5-2da5-467c-bc22-6717f690827a",
+    "name": "kusanaginoturugi",
+    "img": "https://secure.gravatar.com/avatar/e927cae947e74def10ee5fbb20859145.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0016-24.png",
+    "time": "2021/10/05 11:30:51",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1633400335371500"
+  },
+  {
+    "user": "UUWBU08TU",
     "text": "結局英語版の数千ページを同期するのがスタートであり、永遠に終わらないタスクなので、現時点で何かいい感じにするというのは効果が少ないかなと……",
     "client_msg_id": "9699dcd1-e5ee-4ef1-9948-d9660c46ec2c",
     "name": "nekokowan_archjpslack",
     "img": "https://avatars.slack-edge.com/2020-06-22/1204027183412_7f7a529c9005aa8cce36_24.png",
-    "time": "2021/10/01 22:25:25",
+    "time": "2021/10/05 11:30:52",
     "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1633093988359900"
   },
   {
@@ -102,8 +120,8 @@
     "user": "U02GQTCTTFA",
     "text": "無線LANの接続ができないので、質問させていただきます。この問題について知ってる方、助けてくださると嬉しいです。\n\n自分はNetworkmanagerを使ってきたのですが、突然使えなくなりました。おそらく自分が意味を理解してなく、色々弄ったせいです。\n\nネットワーク障害の始まりは、毎回dhcpcdを動かさないと動かなかったところから始まります。\n\nそこで、それを自動化したり、archwikiを見て色々設定を変えたりしました。\n\nこれで動くだろうと思い、再起動してみると、dhcpcdを使ってもネットワークに繋げなくなりました。\n\n自分はnmtuiを使っており、nmtuiの方で確認するとアクティベートになっており、接続が出来ているようです。\n\n今のところ確認できているところを下記に書きます。\n1. ip アドレスの取得は出来ている(ip aを使って確認)\n2. DNS周りは生きている。正引き、逆引きが出来ている（dig,nslookupを使って確認)\n3. NetWorkmanager.serviceは動いてる(systemctl statusで確認)\n4. ネットワークインタフェースは立ち上がってる( ip linkで確認\n##環境\nManjaro arch 5.10.63-1 x86-64\n\n詳細はスレッドに書きます。",
     "client_msg_id": "160F07DA-2A97-4ADF-9689-9B73291C60A3",
-    "name": "",
-    "img": "",
+    "name": "onodaha",
+    "img": "https://avatars.slack-edge.com/2021-09-29/2542293822261_5bdcbbb213b8d9e9e1a5_24.jpg",
     "time": "2021/09/29,09:36:03",
     "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1632908163273300"
   },
