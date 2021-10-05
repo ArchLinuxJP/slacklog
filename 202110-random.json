@@ -1,11 +1,20 @@
 [
   {
+    "user": "U01J1GGMHDJ",
+    "text": "このプログラムの存在を何年も前から知っていたら、anything-sync-daemonのserviceの依存関係をゴリゴリにイジって/var/logに対応させる必要が無かったのに:face_with_rolling_eyes:  （systemdの更新時にバグるから乗り換えようかなぁ）\n<https://github.com/azlux/log2ram|https://github.com/azlux/log2ram>",
+    "client_msg_id": "fcacf440-3945-4888-bd03-b6bebaabf3da",
+    "name": "naokihirokitomoki",
+    "img": "https://avatars.slack-edge.com/2021-01-01/1607396797362_a9967cc229f49d114f8a_24.jpg",
+    "time": "2021/10/06 01:26:05",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1633448560218600"
+  },
+  {
     "user": "U02ASPM0A6T",
     "text": "@h.hata.ai.t 作業ログ取得するにあたって下記のような要件を思いついたのですが、それでスクリプト組むのも面倒なので、既成品で何か洗練されたものがないかなと思いまして。。\n• パッケージによる導入の簡便化\n    ◦ サービス起動だけで全ユーザーでログ取れる\n• ディスクアクセス避けるために ramdisk とかに書く\n    ◦ でもいつ落ちてもいいように保存はちゃんとしててほしい\n    ◦ 元の`script`コマンドでも非同期書き込み等でディスク負荷が低いならあまり要らないかも\n• ログの圧縮化オプション\n    ◦ 確認したいときはマウントできる",
     "client_msg_id": "d658cfbd-9d3b-49df-9f05-f5c66fc0fb26",
     "name": "yozigen",
     "img": "https://avatars.slack-edge.com/2021-08-15/2405164316960_50d7f6e8be23e5b2a0eb_24.jpg",
-    "time": "2021/10/04 02:17:26",
+    "time": "2021/10/06 01:26:05",
     "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1633280293211800"
   },
   {
