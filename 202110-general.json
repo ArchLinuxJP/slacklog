@@ -1,11 +1,38 @@
 [
   {
+    "user": "U01HE1ENNJZ",
+    "text": "なるほど、シャットダウンもありですね",
+    "client_msg_id": "e618327e-f1b7-4633-b9f7-fe82795d5d4a",
+    "name": "a3784197",
+    "img": "https://avatars.slack-edge.com/2021-09-08/2452014575271_1a34f97ec1eeb20d8b71_24.png",
+    "time": "2021/10/11 17:24:46",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1633940429390700"
+  },
+  {
+    "user": "U70QDFN82",
+    "text": "私も２年くらい前サスペンドやったときうまくいかなかった（同じように安定しない感じ）んで、それからはロックだけにしてますね。\n長い持ち運びのときは仕方なくシャットダウンしてます。\nサスペンド後になんかおかしな状態になることも多々あり・・・",
+    "client_msg_id": "7ad990ec-2178-4ff6-8024-5ea1022fe3d9",
+    "name": "yutakatay",
+    "img": "https://avatars.slack-edge.com/2020-08-16/1302143736069_0baa468f7bea68e827d9_24.png",
+    "time": "2021/10/11 17:24:46",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1633939870390400"
+  },
+  {
+    "user": "U01HE1ENNJZ",
+    "text": "i3wmでsystemd-logind+xss-lockでフタ閉じた際のサスペンドをやってるのですが、正常にサスペンドするときとすぐ起きあがってきちゃう時があるのですが(手動で`systemctl suspend`をすると正常にサスペンドされます) 有識者の方、知ってる解決法あれば教えてください\n`journalctl | grep PM: suspend | tail -2`\n```Oct 11 16:59:16 archlinux kernel: PM: suspend entry (deep)\nOct 11 16:59:16 archlinux kernel: PM: suspend exit```\n`/etc/systemd/logind.conf`\n```#  This file is part of systemd.\n#\n#  systemd is free software; you can redistribute it and/or modify it under the\n#  terms of the GNU Lesser General Public License as published by the Free\n#  Software Foundation; either version 2.1 of the License, or (at your option)\n#  any later version.\n#\n# Entries in this file show the compile time defaults. Local configuration\n# should be created by either modifying this file, or by creating \"drop-ins\" in\n# the logind.conf.d/ subdirectory. The latter is generally recommended.\n# Defaults can be restored by simply deleting this file and all drop-ins.\n#\n# Use 'systemd-analyze cat-config systemd/logind.conf' to display the full config.\n#\n# See logind.conf(5) for details.\n\n[Login]\n#NAutoVTs=6\n#ReserveVT=6\n#KillUserProcesses=no\n#KillOnlyUsers=\n#KillExcludeUsers=root\n#InhibitDelayMaxSec=5\n#UserStopDelaySec=10\n#HandlePowerKey=poweroff\n#HandleSuspendKey=suspend\n#HandleHibernateKey=hibernate\nHandleLidSwitch=suspend\n#HandleLidSwitchExternalPower=suspend\n#HandleLidSwitchDocked=ignore\n#HandleRebootKey=reboot\n#PowerKeyIgnoreInhibited=no\n#SuspendKeyIgnoreInhibited=no\n#HibernateKeyIgnoreInhibited=no\n#LidSwitchIgnoreInhibited=yes\n#RebootKeyIgnoreInhibited=no\n#HoldoffTimeoutSec=30s\n#IdleAction=ignore\n#IdleActionSec=30min\n#RuntimeDirectorySize=10%\n#RuntimeDirectoryInodes=400k\n#RemoveIPC=yes\n#InhibitorsMax=8192\n#SessionsMax=8192 ```",
+    "client_msg_id": "5f3e4958-75be-417c-b0d7-7c27967c1592",
+    "name": "a3784197",
+    "img": "https://avatars.slack-edge.com/2021-09-08/2452014575271_1a34f97ec1eeb20d8b71_24.png",
+    "time": "2021/10/11 17:24:47",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1633939537387800"
+  },
+  {
     "user": "U0H9QUFA5",
     "text": "Nuxt.js やったことないからやってみたい。今のお仕事でも若干使える可能性があった(ことに今気付いた)けど、画面少ないから、express の上位互換的な fastify を使ってみた。",
     "client_msg_id": "23ec2332-4ed0-4451-8385-43b5efed526d",
     "name": "kusanaginoturugi",
     "img": "https://secure.gravatar.com/avatar/e927cae947e74def10ee5fbb20859145.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0016-24.png",
-    "time": "2021/10/06 11:31:42",
+    "time": "2021/10/11 17:24:47",
     "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1633485995382200"
   },
   {
