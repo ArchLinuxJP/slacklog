@@ -1,11 +1,83 @@
 [
   {
+    "user": "U0GFBAM8U",
+    "text": "ちなみに、japanのmirrorは載ってなかった",
+    "client_msg_id": "aeea494c-0ea2-4cdc-aae7-0462448a2dc1",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2021/10/24 00:16:02",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1635001717006600"
+  },
+  {
+    "user": "U0GFBAM8U",
+    "text": "そういえば、比較的新しいarchを使ってるやつは、mirrorのトップが\n<https://archlinux.org/mirrors/osbeck.com/>\nでした。mirrorリスト、更新があったのかも",
+    "client_msg_id": "b68bb8fa-9368-4460-a78c-467f0374abd5",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2021/10/24 00:16:02",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1635001518006200"
+  },
+  {
+    "user": "U0GFBAM8U",
+    "text": "ほんとだ",
+    "client_msg_id": "ebb4f2af-ba2f-49fe-b927-a5f9c2feb1ca",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2021/10/24 00:16:02",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1635001458005200"
+  },
+  {
+    "user": "UVB7L4CKH",
+    "text": "日本のミラー全部同じタイミングの更新を最後に止まってますね（ `10/21 15:20` ）",
+    "client_msg_id": "5c489d2e-228f-4808-b4bd-ab8d859478e3",
+    "name": "tatsumigamou",
+    "img": "https://avatars.slack-edge.com/2020-03-12/985313571153_203fee630d3a4a1053a1_24.jpg",
+    "time": "2021/10/24 00:16:03",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1635001127005000"
+  },
+  {
+    "user": "UVB7L4CKH",
+    "text": "<https://www.archlinux.jp/mirrors/jaist.ac.jp/>\n21日から更新されてなさそう",
+    "client_msg_id": "751cabbe-9cd8-41e5-92c3-f8b308f37bd7",
+    "name": "tatsumigamou",
+    "img": "https://avatars.slack-edge.com/2020-03-12/985313571153_203fee630d3a4a1053a1_24.jpg",
+    "time": "2021/10/24 00:16:03",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1635001020004300"
+  },
+  {
+    "user": "UVB7L4CKH",
+    "text": "なんか日本のミラーが軒並み死んでるってツイート見ましたね\n少なくともjaistは何も降りて来ない",
+    "client_msg_id": "0be3b7b4-a43b-4982-99e3-362b904a5d72",
+    "name": "tatsumigamou",
+    "img": "https://avatars.slack-edge.com/2020-03-12/985313571153_203fee630d3a4a1053a1_24.jpg",
+    "time": "2021/10/24 00:16:03",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1635000932003900"
+  },
+  {
+    "user": "U019C7VLZ4G",
+    "text": "ここ2日ぐらいpacman -Syuしても何も降ってこない",
+    "client_msg_id": "75fef4aa-343b-4cd3-a08e-fa8a5aec0636",
+    "name": "getalotofmail",
+    "img": "https://secure.gravatar.com/avatar/5a7f20688dc40b2989935a11bdfa25fe.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0001-24.png",
+    "time": "2021/10/24 00:16:04",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1634999756003000"
+  },
+  {
+    "user": "U019C7VLZ4G",
+    "text": "あれ、Archのjaist mirror、sync遅れてる?",
+    "client_msg_id": "5ce3a09f-28cd-4d5b-b718-c3a07aa037f8",
+    "name": "getalotofmail",
+    "img": "https://secure.gravatar.com/avatar/5a7f20688dc40b2989935a11bdfa25fe.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0001-24.png",
+    "time": "2021/10/24 00:16:04",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1634999724002200"
+  },
+  {
     "user": "U019C7VLZ4G",
     "text": "ArchにPython3.10来るのいつだろう",
     "client_msg_id": "0381c087-6b53-44e2-afa5-2be4fdf42ece",
     "name": "getalotofmail",
     "img": "https://secure.gravatar.com/avatar/5a7f20688dc40b2989935a11bdfa25fe.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0001-24.png",
-    "time": "2021/10/21 14:14:30",
+    "time": "2021/10/24 00:16:04",
     "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1634791061001000"
   },
   {
