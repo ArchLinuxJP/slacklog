@@ -1,11 +1,74 @@
 [
   {
+    "user": "U019C7VLZ4G",
+    "text": "一応jaistサーバー管理してる方にレポート入れました",
+    "client_msg_id": "9a2c73f0-2570-47e6-a7cf-deec271713ec",
+    "name": "getalotofmail",
+    "img": "https://secure.gravatar.com/avatar/5a7f20688dc40b2989935a11bdfa25fe.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0001-24.png",
+    "time": "2021/10/24 14:14:10",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1635051859024700"
+  },
+  {
+    "user": "U019C7VLZ4G",
+    "text": "<https://twitter.com/kfujieda/status/1452137039768408068?t=XtDizWVH0-7g4EeoWxAyKg&amp;s=19|https://twitter.com/kfujieda/status/1452137039768408068?t=XtDizWVH0-7g4EeoWxAyKg&amp;s=19>",
+    "client_msg_id": "1a266fe6-7382-4388-b39e-0ef96ff36388",
+    "name": "getalotofmail",
+    "img": "https://secure.gravatar.com/avatar/5a7f20688dc40b2989935a11bdfa25fe.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0001-24.png",
+    "time": "2021/10/24 14:14:11",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1635051783023700"
+  },
+  {
+    "user": "UVB7L4CKH",
+    "text": "ふと気になってaptのjaistミラーを見てみたけどちゃんと更新されてそう",
+    "client_msg_id": "27c59e6a-80d2-4ee7-aaf5-5b8373d660bc",
+    "name": "tatsumigamou",
+    "img": "https://avatars.slack-edge.com/2020-03-12/985313571153_203fee630d3a4a1053a1_24.jpg",
+    "time": "2021/10/24 14:14:11",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1635051777023500"
+  },
+  {
+    "user": "U01J1GGMHDJ",
+    "text": "非公式ミラーに手を出してまで最新版を日本で手に入れたいとなるならば下3つぐらいしかなさそう。 （hiyukiさんミラーダウンロード爆速だけど最新版来るのは遅いという印象だったのに…）\n<http://mirror.hiyuki2578.net/ArchLinux/> <http://ftp.kddilabs.jp/Linux/packages/archlinux/> <http://srv2.ftp.ne.jp/Linux/packages/archlinux/>",
+    "client_msg_id": "de828ea5-2a97-46bf-bcfa-73a8b74d4340",
+    "name": "naokihirokitomoki",
+    "img": "https://avatars.slack-edge.com/2021-01-01/1607396797362_a9967cc229f49d114f8a_24.jpg",
+    "time": "2021/10/24 14:14:11",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1635051290022900"
+  },
+  {
+    "user": "U70QDFN82",
+    "text": "まだアップデートないですね・・・１日くらいで直ると見てたけど。\n山手線と相関？",
+    "client_msg_id": "6d286e03-3382-45af-a44a-51d2ef95ba3d",
+    "name": "yutakatay",
+    "img": "https://avatars.slack-edge.com/2020-08-16/1302143736069_0baa468f7bea68e827d9_24.png",
+    "time": "2021/10/24 14:14:12",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1635051065020500"
+  },
+  {
+    "user": "U0GFBAM8U",
+    "text": "osbeckのスウェーデンは割と安定してた気がする\nけど、他の人の意見も聞きたい",
+    "client_msg_id": "7DBA9F18-1CC1-4513-87C2-E742A2BFD641",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2021/10/24 14:14:12",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1635049822018600"
+  },
+  {
+    "user": "U01J1GGMHDJ",
+    "text": "こんな事も起こるんですね。\n私も日本のミラーしか使わない勢なのですが、日本でなければどこの国のミラーを使うのが良いんでしょうね。reflectorオプション無しで動かしたらオーストラリアとかフランスのミラーが上に来てしまうので:thinking_face:",
+    "client_msg_id": "2dfbf23b-fc40-4eb2-b0de-798d99bcb066",
+    "name": "naokihirokitomoki",
+    "img": "https://avatars.slack-edge.com/2021-01-01/1607396797362_a9967cc229f49d114f8a_24.jpg",
+    "time": "2021/10/24 14:14:12",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1635049596017400"
+  },
+  {
     "user": "U0GFBAM8U",
     "text": "なるほど",
     "client_msg_id": "19976AB8-50F6-49C4-AF65-FBC5796973A2",
     "name": "syui",
     "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
-    "time": "2021/10/24 13:21:06",
+    "time": "2021/10/24 14:14:12",
     "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1635047346013000"
   },
   {
