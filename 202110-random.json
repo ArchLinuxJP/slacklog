@@ -1,11 +1,38 @@
 [
   {
+    "user": "UVB7L4CKH",
+    "text": "ShiftはHIDレベルで変わるからudevで弄れるとかでしたっけ",
+    "client_msg_id": "7ba34047-9bb6-413f-a4a2-cfc7506432ae",
+    "name": "tatsumigamou",
+    "img": "https://avatars.slack-edge.com/2020-03-12/985313571153_203fee630d3a4a1053a1_24.jpg",
+    "time": "2021/10/28 13:21:17",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1635394533059500"
+  },
+  {
+    "user": "UVB7L4CKH",
+    "text": "wayland、xkbは使ってるらしいけどそこでキーコード弄れるのかは分からない",
+    "client_msg_id": "54b1693d-0f11-4f35-81b8-a5bb804d22b0",
+    "name": "tatsumigamou",
+    "img": "https://avatars.slack-edge.com/2020-03-12/985313571153_203fee630d3a4a1053a1_24.jpg",
+    "time": "2021/10/28 13:21:18",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1635394487058500"
+  },
+  {
+    "user": "U70QDFN82",
+    "text": "Shiftはいけます。Ctrlとかは無理です。Ctrlとかのコンビネーションまで変更したいなら\n<https://github.com/snyball/Hawck>\nとか使うしかないです",
+    "client_msg_id": "3825b298-6486-46f1-bbc0-1cf0536d03ec",
+    "name": "yutakatay",
+    "img": "https://avatars.slack-edge.com/2020-08-16/1302143736069_0baa468f7bea68e827d9_24.png",
+    "time": "2021/10/28 13:21:18",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1635394396057800"
+  },
+  {
     "user": "U019C7VLZ4G",
     "text": "現時点では\n(KEY_RO)だとバックスラッシュ\n(Shift-KEY_RO)だとアンダーバーになるようになっています\nudevで2つのキーの組み合わせを1つのキーに割り当てることはできますか?",
     "client_msg_id": "b8418577-6fa2-4998-8d76-9810fa578434",
     "name": "getalotofmail",
     "img": "https://secure.gravatar.com/avatar/5a7f20688dc40b2989935a11bdfa25fe.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0001-24.png",
-    "time": "2021/10/28 10:57:59",
+    "time": "2021/10/28 13:21:18",
     "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1635384039056700"
   },
   {
