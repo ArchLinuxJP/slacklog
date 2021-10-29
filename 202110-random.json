@@ -1,11 +1,83 @@
 [
   {
+    "user": "UUWBU08TU",
+    "text": "RPiを使うときにRaspberryPi OSを使うのと同じような感じだと思っています(許容はできるけど避けられるなら避けたい)",
+    "client_msg_id": "97aa8370-418e-4c1b-afca-ebfea2a4b812",
+    "name": "nekokowan_archjpslack",
+    "img": "https://avatars.slack-edge.com/2020-06-22/1204027183412_7f7a529c9005aa8cce36_24.png",
+    "time": "2021/10/29 22:22:01",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1635513482078800"
+  },
+  {
+    "user": "UGA29R3FH",
+    "text": "私はズルをしてしまった…",
+    "client_msg_id": "988f555c-c1e2-40de-b226-3b805d34222f",
+    "name": "znmxodq1",
+    "img": "https://avatars.slack-edge.com/2019-03-08/570571829091_2ca91fb0cc1ed2341fe0_24.png",
+    "time": "2021/10/29 22:22:02",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1635513279077900"
+  },
+  {
+    "user": "UGA29R3FH",
+    "text": "たしかに",
+    "client_msg_id": "135ae4ec-b2b0-49ce-8159-528b67301789",
+    "name": "znmxodq1",
+    "img": "https://avatars.slack-edge.com/2019-03-08/570571829091_2ca91fb0cc1ed2341fe0_24.png",
+    "time": "2021/10/29 22:22:02",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1635513269077500"
+  },
+  {
+    "user": "UUWBU08TU",
+    "text": "archisoではちゃんと動いていたのでarchisoの環境をそのままコピーすればいいはそう……でもArch wayではない……",
+    "client_msg_id": "f27e71d2-d3f0-483d-9e8a-37d1b4bafb02",
+    "name": "nekokowan_archjpslack",
+    "img": "https://avatars.slack-edge.com/2020-06-22/1204027183412_7f7a529c9005aa8cce36_24.png",
+    "time": "2021/10/29 22:22:02",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1635513087077300"
+  },
+  {
+    "user": "UGA29R3FH",
+    "text": "systemd-networkdはだいぶ前にarchisoの真似をしてなんとか優勝した記憶がある",
+    "client_msg_id": "6aad7498-7d72-4798-8791-08a620c034dc",
+    "name": "znmxodq1",
+    "img": "https://avatars.slack-edge.com/2019-03-08/570571829091_2ca91fb0cc1ed2341fe0_24.png",
+    "time": "2021/10/29 22:22:03",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1635513029076600"
+  },
+  {
+    "user": "UGA29R3FH",
+    "text": "ネットワーク、一度ハマると無限につらい印象がある",
+    "client_msg_id": "69066b03-d14d-478f-bc37-ec45fffb2f74",
+    "name": "znmxodq1",
+    "img": "https://avatars.slack-edge.com/2019-03-08/570571829091_2ca91fb0cc1ed2341fe0_24.png",
+    "time": "2021/10/29 22:22:03",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1635512999075700"
+  },
+  {
+    "user": "UUWBU08TU",
+    "text": "久しぶりにArchInstallBattleをしたら、systemd-networkdでDHCPの設定をしたはずなのにv4アドレスが降ってこなくて途方に暮れていました(v6はちゃんと降ってくる……)",
+    "client_msg_id": "01936951-c2f2-4565-bbf3-7f4aa3b99c1a",
+    "name": "nekokowan_archjpslack",
+    "img": "https://avatars.slack-edge.com/2020-06-22/1204027183412_7f7a529c9005aa8cce36_24.png",
+    "time": "2021/10/29 22:22:03",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1635510533071600"
+  },
+  {
+    "user": "U019C7VLZ4G",
+    "text": "こんなのもあつた\n<https://gitlab.freedesktop.org/pipewire/pipewire/-/issues/1370|https://gitlab.freedesktop.org/pipewire/pipewire/-/issues/1370>",
+    "client_msg_id": "d80896af-273c-4e17-b890-db508d12a5b4",
+    "name": "getalotofmail",
+    "img": "https://secure.gravatar.com/avatar/5a7f20688dc40b2989935a11bdfa25fe.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0001-24.png",
+    "time": "2021/10/29 22:22:03",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1635510524071300"
+  },
+  {
     "user": "U01J1GGMHDJ",
     "text": "LC3コーデックがフリーじゃないらしいからしんどそう（pulseaudioではなくてpipewireのissueというので時代を感じてしまっている）\n<https://gitlab.freedesktop.org/pipewire/pipewire/-/issues/1211|https://gitlab.freedesktop.org/pipewire/pipewire/-/issues/1211>",
     "client_msg_id": "ab46c372-c8e9-4cda-9b00-2be2be597150",
     "name": "naokihirokitomoki",
     "img": "https://avatars.slack-edge.com/2021-01-01/1607396797362_a9967cc229f49d114f8a_24.jpg",
-    "time": "2021/10/29 21:26:00",
+    "time": "2021/10/29 22:22:04",
     "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1635510156070000"
   },
   {
