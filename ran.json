@@ -1,11 +1,146 @@
 [
   {
+    "user": "U02ASPM0A6T",
+    "text": "systemd-resolved を有効にしないとDHCP効かないんじゃないかとなんとなく思ってましたがそうでもないんですか",
+    "client_msg_id": "02da35c3-9f87-4892-a301-70ddab4bda8f",
+    "name": "yozigen",
+    "img": "https://avatars.slack-edge.com/2021-08-15/2405164316960_50d7f6e8be23e5b2a0eb_24.jpg",
+    "time": "2021/10/29 23:15:11",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1635516849098400"
+  },
+  {
+    "user": "UUWBU08TU",
+    "text": "resolvedは、ネットワーク接続時にはenableするの忘れてたので同じタイミングのログはないですね……(リゾルバないからv4アドレス降ってこないとかないですよね……",
+    "client_msg_id": "0fb492ec-74be-485b-aae6-7f4cacfd77a1",
+    "name": "nekokowan_archjpslack",
+    "img": "https://avatars.slack-edge.com/2020-06-22/1204027183412_7f7a529c9005aa8cce36_24.png",
+    "time": "2021/10/29 23:15:11",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1635516615097100"
+  },
+  {
+    "user": "UUWBU08TU",
+    "text": "```● systemd-networkd.service - Network Configuration\n     Loaded: loaded (/usr/lib/systemd/system/systemd-networkd.service; enabled; vendor preset: enabled)\n     Active: active (running) since Fri 2021-10-29 19:00:31 JST; 4h 6min ago\nTriggeredBy: ● systemd-networkd.socket\n       Docs: man:systemd-networkd.service(8)\n   Main PID: 250 (systemd-network)\n     Status: \"Processing requests...\"\n      Tasks: 1 (limit: 19037)\n     Memory: 2.6M\n        CPU: 59ms\n     CGroup: /system.slice/systemd-networkd.service\n             └─250 /usr/lib/systemd/systemd-networkd\n\nOct 29 19:00:31 hostname systemd[1]: Starting Network Configuration...\nOct 29 19:00:31 hostname systemd-networkd[250]: lo: Link UP\nOct 29 19:00:31 hostname systemd-networkd[250]: lo: Gained carrier\nOct 29 19:00:31 hostname systemd-networkd[250]: Enumeration completed\nOct 29 19:00:31 hostname systemd[1]: Started Network Configuration.\nOct 29 19:00:31 hostname systemd-networkd[250]: eth0: Interface name change detected, renamed to enp2s0.\nOct 29 19:01:23 hostname systemd-networkd[250]: enp2s0: Link UP\nOct 29 19:01:33 hostname systemd-networkd[250]: enp2s0: Gained carrier\nOct 29 19:01:35 hostname systemd-networkd[250]: enp2s0: Gained IPv6LL```\nこんな感じですね(journalctlで確認しましたが、boot後のログ全て↑に出ています",
+    "client_msg_id": "49c17e7f-5457-4552-b876-2ba6cb3787f1",
+    "name": "nekokowan_archjpslack",
+    "img": "https://avatars.slack-edge.com/2020-06-22/1204027183412_7f7a529c9005aa8cce36_24.png",
+    "time": "2021/10/29 23:15:11",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1635516509096200"
+  },
+  {
+    "user": "U02ASPM0A6T",
+    "text": "systemd-resolved も",
+    "client_msg_id": "59b666c0-5358-4794-be37-24d7f97ee28b",
+    "name": "yozigen",
+    "img": "https://avatars.slack-edge.com/2021-08-15/2405164316960_50d7f6e8be23e5b2a0eb_24.jpg",
+    "time": "2021/10/29 23:15:12",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1635516422095500"
+  },
+  {
+    "user": "UN1SFMNU8",
+    "text": "tcpdump してみたい。",
+    "client_msg_id": "a0c2af12-49c6-47e1-a9e9-7b3f3197e5a1",
+    "name": "addokoda",
+    "img": "https://avatars.slack-edge.com/2021-01-17/1644833828835_272adc4819e2e71cffcd_24.png",
+    "time": "2021/10/29 23:15:12",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1635514769092600"
+  },
+  {
+    "user": "U02ASPM0A6T",
+    "text": "何か変わったんですかね。ライブシステムけっこう充実してるからインストール直後と落差ありますね",
+    "client_msg_id": "49e13470-6e9b-49ed-84ee-5abc982fcefb",
+    "name": "yozigen",
+    "img": "https://avatars.slack-edge.com/2021-08-15/2405164316960_50d7f6e8be23e5b2a0eb_24.jpg",
+    "time": "2021/10/29 23:15:12",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1635514760092400"
+  },
+  {
+    "user": "UGA29R3FH",
+    "text": "DHCPv4にRouteMetric指定されてたけどこれは認識のためのオプションではなさそう",
+    "client_msg_id": "17aa1579-7285-482d-9606-96ebdc36799b",
+    "name": "znmxodq1",
+    "img": "https://avatars.slack-edge.com/2019-03-08/570571829091_2ca91fb0cc1ed2341fe0_24.png",
+    "time": "2021/10/29 23:15:12",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1635514626091700"
+  },
+  {
+    "user": "UUWBU08TU",
+    "text": "あと、起動直後にNICがdownになっているという問題も……\n# ip l set dev enpxxx up\nすれば使えるので許せるのですが、(Archで遭遇したことはないものの)Linuxではありがちっぽい問題っぽいなーと思って後で調べようと思っています",
+    "client_msg_id": "f6a10145-48e9-4494-b01c-8331e9739ecb",
+    "name": "nekokowan_archjpslack",
+    "img": "https://avatars.slack-edge.com/2020-06-22/1204027183412_7f7a529c9005aa8cce36_24.png",
+    "time": "2021/10/29 23:15:13",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1635514449089700"
+  },
+  {
+    "user": "UGA29R3FH",
+    "text": "relengの中身見てもyesだな、なんだろう",
+    "client_msg_id": "ae6917e7-4059-476f-8fc6-4b35afd82ba3",
+    "name": "znmxodq1",
+    "img": "https://avatars.slack-edge.com/2019-03-08/570571829091_2ca91fb0cc1ed2341fe0_24.png",
+    "time": "2021/10/29 23:15:13",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1635514435089100"
+  },
+  {
+    "user": "U02ASPM0A6T",
+    "text": "ライブシステムでv4あったなら不審ですねえ",
+    "client_msg_id": "0151e30a-5def-49b6-8b69-30e91f626aa9",
+    "name": "yozigen",
+    "img": "https://avatars.slack-edge.com/2021-08-15/2405164316960_50d7f6e8be23e5b2a0eb_24.jpg",
+    "time": "2021/10/29 23:15:13",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1635514340084800"
+  },
+  {
+    "user": "UUWBU08TU",
+    "text": "インストールしたシステムではDHCP=yesでもipv4でもv6だけ降ってくるって感じでした\nライブシステムではv4ちゃんと降ってきてました",
+    "client_msg_id": "25d06f43-4fdd-4fc7-853d-9c2adc6c2699",
+    "name": "nekokowan_archjpslack",
+    "img": "https://avatars.slack-edge.com/2020-06-22/1204027183412_7f7a529c9005aa8cce36_24.png",
+    "time": "2021/10/29 23:15:14",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1635514174082700"
+  },
+  {
+    "user": "U02ASPM0A6T",
+    "text": "ルーター設定保存した上でリセットして直ればそのあたりかもしれません",
+    "client_msg_id": "3caec554-fcf6-4dcc-9870-f8fc0021f3b3",
+    "name": "yozigen",
+    "img": "https://avatars.slack-edge.com/2021-08-15/2405164316960_50d7f6e8be23e5b2a0eb_24.jpg",
+    "time": "2021/10/29 23:15:14",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1635514137081500"
+  },
+  {
+    "user": "U02ASPM0A6T",
+    "text": "ネットワークうまく行かない時はけっこうラビリンスになりますね\n私もそれなってさんざんいじってもうまくいかなくて最後はルーター起因（DHCP開始アドレスよりNIC指定振り分け設定したIPが小さかった）だった気がします",
+    "client_msg_id": "b7abb744-4231-4f15-8747-018b51b3d086",
+    "name": "yozigen",
+    "img": "https://avatars.slack-edge.com/2021-08-15/2405164316960_50d7f6e8be23e5b2a0eb_24.jpg",
+    "time": "2021/10/29 23:15:14",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1635514068080500"
+  },
+  {
+    "user": "UGA29R3FH",
+    "text": "DHCPにipv4を指定すると死ぬって感じですよね？",
+    "client_msg_id": "8e4963a7-faa5-4503-a6cb-1339f0755b16",
+    "name": "znmxodq1",
+    "img": "https://avatars.slack-edge.com/2019-03-08/570571829091_2ca91fb0cc1ed2341fe0_24.png",
+    "time": "2021/10/29 23:15:14",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1635513804080100"
+  },
+  {
+    "user": "UGA29R3FH",
+    "text": "ざっとWiki見たけどそれらしき記述はないな",
+    "client_msg_id": "3f96fc88-c5b2-4134-b8dc-f5e1f22c442e",
+    "name": "znmxodq1",
+    "img": "https://avatars.slack-edge.com/2019-03-08/570571829091_2ca91fb0cc1ed2341fe0_24.png",
+    "time": "2021/10/29 23:15:15",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1635513780079300"
+  },
+  {
     "user": "UUWBU08TU",
     "text": "RPiを使うときにRaspberryPi OSを使うのと同じような感じだと思っています(許容はできるけど避けられるなら避けたい)",
     "client_msg_id": "97aa8370-418e-4c1b-afca-ebfea2a4b812",
     "name": "nekokowan_archjpslack",
     "img": "https://avatars.slack-edge.com/2020-06-22/1204027183412_7f7a529c9005aa8cce36_24.png",
-    "time": "2021/10/29 22:22:01",
+    "time": "2021/10/29 23:15:15",
     "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1635513482078800"
   },
   {
