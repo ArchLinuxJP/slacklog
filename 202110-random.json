@@ -1,11 +1,92 @@
 [
   {
+    "user": "UN1SFMNU8",
+    "text": "```ClientIdentifier=mac```\nかな。",
+    "client_msg_id": "63ba27b2-dac8-49cc-8c80-1d45a921601d",
+    "name": "addokoda",
+    "img": "https://avatars.slack-edge.com/2021-01-17/1644833828835_272adc4819e2e71cffcd_24.png",
+    "time": "2021/10/30 09:52:15",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1635554497112900"
+  },
+  {
+    "user": "UN1SFMNU8",
+    "text": "こういうのも。<https://askubuntu.com/questions/1139012/18-04-server-systemd-dhcp-hangs-on-discover-dhclient-works/1186626#1186626>",
+    "client_msg_id": "f23a6e8e-0118-4af3-9b19-f3b7d92024bb",
+    "name": "addokoda",
+    "img": "https://avatars.slack-edge.com/2021-01-17/1644833828835_272adc4819e2e71cffcd_24.png",
+    "time": "2021/10/30 09:52:15",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1635554440112000"
+  },
+  {
+    "user": "U0GFBAM8U",
+    "text": "こんな事例があるようで、つながらないことがありました。ただ、今回のipv4が得られてないので関係ないか\n<https://bbs.archlinux.jp/viewtopic.php?id=36>",
+    "client_msg_id": "dfaf8592-a0c7-4417-b8ba-731759da8f4f",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2021/10/30 09:52:15",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1635553623111500"
+  },
+  {
+    "user": "U0GFBAM8U",
+    "text": "ああそうか",
+    "client_msg_id": "1a8a8432-2578-4491-b910-812c41ff63e7",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2021/10/30 09:52:16",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1635553505110500"
+  },
+  {
+    "user": "UN1SFMNU8",
+    "text": "アドレス取れてないのに、netmask とは？",
+    "client_msg_id": "955ee7e4-8cfc-4cb7-9028-442a1a636b48",
+    "name": "addokoda",
+    "img": "https://avatars.slack-edge.com/2021-01-17/1644833828835_272adc4819e2e71cffcd_24.png",
+    "time": "2021/10/30 09:52:16",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1635553389110300"
+  },
+  {
+    "user": "U0GFBAM8U",
+    "text": "net-tools",
+    "client_msg_id": "316d48d9-1aa2-4e5f-940b-dce10d857917",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2021/10/30 09:52:16",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1635553360110000"
+  },
+  {
+    "user": "U0GFBAM8U",
+    "text": "ifconfigとか入れてます?入れてるならnetmaskを確認してみるといいかも",
+    "client_msg_id": "f0836979-85fb-41c7-a3d4-bab0b9e75775",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2021/10/30 09:52:16",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1635553334109600"
+  },
+  {
+    "user": "UUWBU08TU",
+    "text": "CIDRだと/24ですね(ipコマンドではそもそも表示されないので確認できないですが",
+    "client_msg_id": "7f3bc236-2895-433f-a37c-b434c7f25c7a",
+    "name": "nekokowan_archjpslack",
+    "img": "https://avatars.slack-edge.com/2020-06-22/1204027183412_7f7a529c9005aa8cce36_24.png",
+    "time": "2021/10/30 09:52:17",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1635552974109000"
+  },
+  {
+    "user": "UGA29R3FH",
+    "text": "archiso、だいぶ前にnetworkdに移行してますね(Wiki更新しなくては…)",
+    "client_msg_id": "72bce2dd-a5ce-48f2-b46a-be6c9aa641cc",
+    "name": "znmxodq1",
+    "img": "https://avatars.slack-edge.com/2019-03-08/570571829091_2ca91fb0cc1ed2341fe0_24.png",
+    "time": "2021/10/30 09:52:17",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1635551290108500"
+  },
+  {
     "user": "U0GFBAM8U",
     "text": "サブネットマスクを確認してみるのどうでしょう",
     "client_msg_id": "09158654-428E-401F-9D38-672B65E13307",
     "name": "syui",
     "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
-    "time": "2021/10/30 04:11:40",
+    "time": "2021/10/30 09:52:17",
     "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1635532381107200"
   },
   {
