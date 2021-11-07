@@ -1,11 +1,20 @@
 [
   {
+    "user": "U02LCA8SU0M",
+    "text": "ネットワーク設定周りの質問なんですが、\nPredictable Network Interface Names (ex: enp1s0)を `ln -s /dev/null /etc/udev/rules.d/80-net-setup-link.rules` で無効化してるときに、\n`/etc/systemd/network/10-hoge.link`  とかの systemd.link ファイルの内容が無視されるようなのです。\nどうしてこのような動きになるかわかる方いますか？",
+    "client_msg_id": "38fd9e3d-a828-4a06-b719-1881308d9ea4",
+    "name": "usagiga",
+    "img": "https://avatars.slack-edge.com/2021-11-07/2692349394309_6caec6ffc940df131187_24.png",
+    "time": "2021/11/07 19:22:14",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1636277476165300"
+  },
+  {
     "user": "U02BYQ8JYD9",
     "text": "いつも望んでいる電力プロファイルはまだ来ませんww\n待つしかありませんね",
     "client_msg_id": "040c95f2-6cd9-4e68-8b10-b61a5d39eac4",
     "name": "weiliang1503",
-    "img": "https://avatars.slack-edge.com/2021-08-22/2391899318455_4f232419bd322d920b0c_24.png",
-    "time": "2021/11/02 01:27:19",
+    "img": "https://secure.gravatar.com/avatar/675d3d3feeac737895383f90429a4169.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0015-24.png",
+    "time": "2021/11/07 19:22:14",
     "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1635780116156900"
   },
   {
@@ -22,7 +31,7 @@
     "text": "今回 arch-linux は随分遅いですね",
     "client_msg_id": "59883f6b-3e5a-41ad-b776-3244e17145e6",
     "name": "weiliang1503",
-    "img": "https://avatars.slack-edge.com/2021-08-22/2391899318455_4f232419bd322d920b0c_24.png",
+    "img": "https://secure.gravatar.com/avatar/675d3d3feeac737895383f90429a4169.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0015-24.png",
     "time": "2021/11/02 00:17:36",
     "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1635774287152200"
   },
@@ -31,7 +40,7 @@
     "text": "！更新したところそうです，今はgnome-unstableにあります",
     "client_msg_id": "48fc5b2a-94f3-4917-ad89-7a957b97012e",
     "name": "weiliang1503",
-    "img": "https://avatars.slack-edge.com/2021-08-22/2391899318455_4f232419bd322d920b0c_24.png",
+    "img": "https://secure.gravatar.com/avatar/675d3d3feeac737895383f90429a4169.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0015-24.png",
     "time": "2021/11/01 23:15:23",
     "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1635774255151200"
   },
@@ -40,7 +49,7 @@
     "text": "GNOME41はさすが変です，<http://archlinux.org|archlinux.org> までも gnome-shell を 「out of date」とマークされました",
     "client_msg_id": "706ce711-9f0e-460c-8950-c1df2c50ed1f",
     "name": "weiliang1503",
-    "img": "https://avatars.slack-edge.com/2021-08-22/2391899318455_4f232419bd322d920b0c_24.png",
+    "img": "https://secure.gravatar.com/avatar/675d3d3feeac737895383f90429a4169.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0015-24.png",
     "time": "2021/11/01 23:15:24",
     "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1635774092148500"
   },
@@ -76,7 +85,7 @@
     "text": "GNOME41もリリースしませんでしたね",
     "client_msg_id": "c5556075-2978-43e9-90b0-a1c7bd77457e",
     "name": "weiliang1503",
-    "img": "https://avatars.slack-edge.com/2021-08-22/2391899318455_4f232419bd322d920b0c_24.png",
+    "img": "https://secure.gravatar.com/avatar/675d3d3feeac737895383f90429a4169.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0015-24.png",
     "time": "2021/11/01 18:17:07",
     "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1635756963142200"
   },
@@ -220,7 +229,7 @@
     "text": "でもメールアドレスを確認しなくても wiki を編集できますから，構わないんですね",
     "client_msg_id": "9f85cfa3-7a9e-4302-974e-3b8f38fe7860",
     "name": "weiliang1503",
-    "img": "https://avatars.slack-edge.com/2021-08-22/2391899318455_4f232419bd322d920b0c_24.png",
+    "img": "https://secure.gravatar.com/avatar/675d3d3feeac737895383f90429a4169.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0015-24.png",
     "time": "2021/11/01 11:02:58",
     "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1635695249126600"
   },
@@ -229,7 +238,7 @@
     "text": "いえ，ないはずです。<http://wiki.archlinux.jp|wiki.archlinux.jp> と言いたかったです",
     "client_msg_id": "b4d03667-a436-420c-9ae4-49509de68f20",
     "name": "weiliang1503",
-    "img": "https://avatars.slack-edge.com/2021-08-22/2391899318455_4f232419bd322d920b0c_24.png",
+    "img": "https://secure.gravatar.com/avatar/675d3d3feeac737895383f90429a4169.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0015-24.png",
     "time": "2021/10/31,15:43:15",
     "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1635694995124300"
   },
@@ -247,7 +256,7 @@
     "text": "私は GMail を使っています",
     "client_msg_id": "269f8677-59d7-4111-bd36-919dbe69a849",
     "name": "weiliang1503",
-    "img": "https://avatars.slack-edge.com/2021-08-22/2391899318455_4f232419bd322d920b0c_24.png",
+    "img": "https://secure.gravatar.com/avatar/675d3d3feeac737895383f90429a4169.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0015-24.png",
     "time": "2021/10/31,11:14:06",
     "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1635678846120700"
   },
@@ -256,7 +265,7 @@
     "text": "私は <http://archlinux.jp|archlinux.jp> のアカントを作成したいんですが，なかなか確認のメールを受け取らないんです，でも <http://archlinux.org|archlinux.org> のは問題ありません……それは何の理由がありますか？",
     "client_msg_id": "6ca69d65-9823-4a22-9b0f-7c92fa5a6029",
     "name": "weiliang1503",
-    "img": "https://avatars.slack-edge.com/2021-08-22/2391899318455_4f232419bd322d920b0c_24.png",
+    "img": "https://secure.gravatar.com/avatar/675d3d3feeac737895383f90429a4169.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0015-24.png",
     "time": "2021/10/31,11:11:42",
     "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1635678702119800"
   },
