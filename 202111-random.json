@@ -1,11 +1,83 @@
 [
   {
+    "user": "UVB7L4CKH",
+    "text": "よかった\n再帰的に設定されてたり700とかになってるとなかなかめんどくさかったかもしれない",
+    "client_msg_id": "d27ab3c6-9dcb-495e-8960-b75ddfc9d5fa",
+    "name": "tatsumigamou",
+    "img": "https://avatars.slack-edge.com/2020-03-12/985313571153_203fee630d3a4a1053a1_24.jpg",
+    "time": "2021/11/09 10:58:38",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1636422133177800"
+  },
+  {
+    "user": "UQDJXPHJ9",
+    "text": "その下(直下)はrootがほぼ全て所有していますね。唯一haskellのstack用ディレクトリだけが違いますが。\n権限755です!変えてしまいます~~ありがとうございます!!",
+    "client_msg_id": "ecf1b377-d60d-4b6b-86ae-82df468bd455",
+    "name": "cj.bc-sd",
+    "img": "https://avatars.slack-edge.com/2019-11-12/821749881793_703a47a248d9e731dc3f_24.jpg",
+    "time": "2021/11/09 10:58:38",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1636422034176900"
+  },
+  {
+    "user": "U0PM6EYR1",
+    "text": "Ubuntu だと、755\nCentOS だと 555 っぽい",
+    "client_msg_id": "70d08504-7591-44dc-8bed-92e09a959c89",
+    "name": "raa0121",
+    "img": "https://secure.gravatar.com/avatar/35b032d7b2d4182b0c2de1ef85ba91f2.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0009-24.png",
+    "time": "2021/11/09 10:58:38",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1636421805175600"
+  },
+  {
+    "user": "UVB7L4CKH",
+    "text": "その下の権限がどうなってるのかとかも気になりますが、権限が755なら変えてしまっても問題ないかと",
+    "client_msg_id": "89c0ce4b-8320-4363-a751-a698aa28d9b8",
+    "name": "tatsumigamou",
+    "img": "https://avatars.slack-edge.com/2020-03-12/985313571153_203fee630d3a4a1053a1_24.jpg",
+    "time": "2021/11/09 10:58:39",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1636421750175200"
+  },
+  {
+    "user": "UQDJXPHJ9",
+    "text": "なるほど...そうか上書きされるんですね。\n確かにそういえば実行権限あれば中身見れるんでしたそうでした。\n\nちなみに、私の環境では\n```$ stat -c \"%U\" /\nme```\nってなっちゃっててどうやらrootが持ってないのですが、rootに変更してしまっても問題ないということで良いのでしょうか？\n(そもそもなぜrootが持っていないのかが凄い謎)",
+    "client_msg_id": "a32c6839-e304-47c4-97aa-6ae55210b8c7",
+    "name": "cj.bc-sd",
+    "img": "https://avatars.slack-edge.com/2019-11-12/821749881793_703a47a248d9e731dc3f_24.jpg",
+    "time": "2021/11/09 10:58:39",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1636421124174500"
+  },
+  {
+    "user": "UVB7L4CKH",
+    "text": "厳密には実行権限も必要ですが",
+    "client_msg_id": "3c2a9516-63c8-4115-86d5-575c2d243df9",
+    "name": "tatsumigamou",
+    "img": "https://avatars.slack-edge.com/2020-03-12/985313571153_203fee630d3a4a1053a1_24.jpg",
+    "time": "2021/11/09 10:58:39",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1636420957172300"
+  },
+  {
+    "user": "UVB7L4CKH",
+    "text": "サブディレクトリで所有権が設定されていたら原則的には上書きされるので `/` に書き込み権限がなくても問題なし（読めれば良い）という認識",
+    "client_msg_id": "fe894ccd-2010-43c2-91e0-ea611eb92de8",
+    "name": "tatsumigamou",
+    "img": "https://avatars.slack-edge.com/2020-03-12/985313571153_203fee630d3a4a1053a1_24.jpg",
+    "time": "2021/11/09 10:58:40",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1636420925171900"
+  },
+  {
+    "user": "UVB7L4CKH",
+    "text": "`/` の事ならrootが持ってて755になってますね",
+    "client_msg_id": "04ac98bb-c003-4208-820d-cea25fca6cb3",
+    "name": "tatsumigamou",
+    "img": "https://avatars.slack-edge.com/2020-03-12/985313571153_203fee630d3a4a1053a1_24.jpg",
+    "time": "2021/11/09 10:58:40",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1636420885171000"
+  },
+  {
     "user": "UQDJXPHJ9",
     "text": "ルートディレクトリの所有者って、 `root` であるべきかなと漠然と思っているのですがあっていますか？\n所用があったので`stat` で見てみたら、所有者が一般ユーザーになっててあれ？？と困惑しています。\n一番上だから `root` が持つべきだよね、という認識をしていたのですけど、これを見て一番上だからこそ `root` が持っていたら他のユーザーはアクセスできないのでは？？と悩んでいます。\nどっちでも問題なかったりするのか...??",
     "client_msg_id": "98407b01-f462-4fba-ac02-554992e28fdd",
     "name": "cj.bc-sd",
     "img": "https://avatars.slack-edge.com/2019-11-12/821749881793_703a47a248d9e731dc3f_24.jpg",
-    "time": "2021/11/09 09:54:40",
+    "time": "2021/11/09 10:58:40",
     "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1636419099170800"
   },
   {
