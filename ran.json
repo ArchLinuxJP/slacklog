@@ -1,11 +1,20 @@
 [
   {
+    "user": "UQDJXPHJ9",
+    "text": "ルートディレクトリの所有者って、 `root` であるべきかなと漠然と思っているのですがあっていますか？\n所用があったので`stat` で見てみたら、所有者が一般ユーザーになっててあれ？？と困惑しています。\n一番上だから `root` が持つべきだよね、という認識をしていたのですけど、これを見て一番上だからこそ `root` が持っていたら他のユーザーはアクセスできないのでは？？と悩んでいます。\nどっちでも問題なかったりするのか...??",
+    "client_msg_id": "98407b01-f462-4fba-ac02-554992e28fdd",
+    "name": "cj.bc-sd",
+    "img": "https://avatars.slack-edge.com/2019-11-12/821749881793_703a47a248d9e731dc3f_24.jpg",
+    "time": "2021/11/09 09:54:40",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1636419099170800"
+  },
+  {
     "user": "U02LCA8SU0M",
     "text": "ネットワーク設定周りの質問なんですが、\nPredictable Network Interface Names (ex: enp1s0)を `ln -s /dev/null /etc/udev/rules.d/80-net-setup-link.rules` で無効化してるときに、\n`/etc/systemd/network/10-hoge.link`  とかの systemd.link ファイルの内容が無視されるようなのです。\nどうしてこのような動きになるかわかる方いますか？",
     "client_msg_id": "38fd9e3d-a828-4a06-b719-1881308d9ea4",
     "name": "usagiga",
     "img": "https://avatars.slack-edge.com/2021-11-07/2692349394309_6caec6ffc940df131187_24.png",
-    "time": "2021/11/07 19:22:14",
+    "time": "2021/11/09 09:54:40",
     "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1636277476165300"
   },
   {
