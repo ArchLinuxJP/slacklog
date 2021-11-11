@@ -1,11 +1,38 @@
 [
   {
+    "user": "U02BYQ8JYD9",
+    "text": "ちなみに，archlinuxcn という非公式な repo には flutter が用意されました",
+    "client_msg_id": "d56c0b08-e9eb-4164-9558-9938955b5e30",
+    "name": "weiliang1503",
+    "img": "https://secure.gravatar.com/avatar/675d3d3feeac737895383f90429a4169.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0015-24.png",
+    "time": "2021/11/11 22:21:30",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1636636453209900"
+  },
+  {
+    "user": "U02BYQ8JYD9",
+    "text": "HOME にインストールのは自分がいつか忘れてしまう気がします，できれば pacman が代わりにアプデートをしてくれて欲しいなぁ……",
+    "client_msg_id": "134f0347-6237-4765-afc7-fa5f06693d4f",
+    "name": "weiliang1503",
+    "img": "https://secure.gravatar.com/avatar/675d3d3feeac737895383f90429a4169.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0015-24.png",
+    "time": "2021/11/11 22:21:30",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1636636348208600"
+  },
+  {
+    "user": "U02BYQ8JYD9",
+    "text": "arch は dev と bin パッケージを分けないそうですが……",
+    "client_msg_id": "283bef09-7b36-4dad-9146-ebd7156059cf",
+    "name": "weiliang1503",
+    "img": "https://secure.gravatar.com/avatar/675d3d3feeac737895383f90429a4169.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0015-24.png",
+    "time": "2021/11/11 22:21:30",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1636636153208500"
+  },
+  {
     "user": "U019C7VLZ4G",
     "text": "Linux desktopをターゲットにしてbuildすると`gtk3` を入れているのに\n``` ✗ GTK 3.0 development libraries are required for Linux development.\n      They are likely available from your distribution (e.g.: apt install libgtk-3-dev)```\nとなってビルド失敗する",
     "client_msg_id": "4a6fa6a1-c9a6-4f8f-bc37-72b824bd6677",
     "name": "getalotofmail",
     "img": "https://secure.gravatar.com/avatar/5a7f20688dc40b2989935a11bdfa25fe.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0001-24.png",
-    "time": "2021/11/11 19:18:15",
+    "time": "2021/11/11 22:21:30",
     "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1636625655206800"
   },
   {
