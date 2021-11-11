@@ -1,11 +1,38 @@
 [
   {
+    "user": "U0PM6EYR1",
+    "text": "<https://aur.archlinux.org/packages/flutter/> を vote しまくれば、 community に入るかも？",
+    "client_msg_id": "b2beba81-d6d2-4aaf-a81c-16dc1fe3ab2e",
+    "name": "raa0121",
+    "img": "https://secure.gravatar.com/avatar/35b032d7b2d4182b0c2de1ef85ba91f2.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0009-24.png",
+    "time": "2021/11/12 00:17:28",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1636643113213800"
+  },
+  {
+    "user": "UGA29R3FH",
+    "text": "Vimが趣味なので頻繁にビルドしてるけどPKGBUILD通してるな、その方が楽なので",
+    "client_msg_id": "de34593f-7afe-46d3-bf9c-567ebb519aee",
+    "name": "znmxodq1",
+    "img": "https://avatars.slack-edge.com/2019-03-08/570571829091_2ca91fb0cc1ed2341fe0_24.png",
+    "time": "2021/11/12 00:17:29",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1636642573212900"
+  },
+  {
+    "user": "U02BLTTQEL9",
+    "text": "ライブラリのチェックは <https://github.com/flutter/flutter/blob/packages/flutter_tools/lib/src/linux/linux_doctor.dart#L144> のあたりで以下を `pkg-config` で確認してるぽいので、それぞれ `pkg-config --exists` してみるといいかもしれないです。\n\n```'gtk+-3.0',\n'glib-2.0',\n'gio-2.0',```",
+    "client_msg_id": "78f93a28-6918-4d33-bebc-1ea8c4fae33b",
+    "name": "buzz.taiki",
+    "img": "https://avatars.slack-edge.com/2021-08-15/2388525195124_53543ae8a9c6189fc784_24.jpg",
+    "time": "2021/11/12 00:17:29",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1636641313211800"
+  },
+  {
     "user": "U02BYQ8JYD9",
     "text": "ちなみに，archlinuxcn という非公式な repo には flutter が用意されました",
     "client_msg_id": "d56c0b08-e9eb-4164-9558-9938955b5e30",
     "name": "weiliang1503",
     "img": "https://secure.gravatar.com/avatar/675d3d3feeac737895383f90429a4169.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0015-24.png",
-    "time": "2021/11/11 22:21:30",
+    "time": "2021/11/12 00:17:29",
     "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1636636453209900"
   },
   {
