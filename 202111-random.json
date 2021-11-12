@@ -1,11 +1,290 @@
 [
   {
+    "user": "UPLFHSQ2V",
+    "text": "そこ引用しようと思って選択したところでした。罠すぎるw",
+    "client_msg_id": "072b0636-5a20-4dcb-8be8-65a57aad9147",
+    "name": "conao3",
+    "img": "https://secure.gravatar.com/avatar/1a9a49807415fb97544a7383a9288b84.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0006-24.png",
+    "time": "2021/11/12 14:15:00",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1636694081237800"
+  },
+  {
+    "user": "U0PM6EYR1",
+    "text": "&gt; 重要なのですが既存のAMDのプロプライエタリ・ドライバーとは衝突してまともに動かなくなるっぽいです。\n&gt; 公式ブログのコメント欄でしれっと書かれているのですが、KFDでドライバーも提供されているので、ROCm導入時には既存のプロプライエタリ・ドライバーは除去する必要があります。\n&gt; つまり、ROCmを入れるとOpenCLは使えなくなるということです（Issue参照）。",
+    "client_msg_id": "68f919f4-56c4-4ea8-ac61-51b9e48e82cf",
+    "name": "raa0121",
+    "img": "https://secure.gravatar.com/avatar/35b032d7b2d4182b0c2de1ef85ba91f2.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0009-24.png",
+    "time": "2021/11/12 14:15:01",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1636694053237400"
+  },
+  {
+    "user": "U0PM6EYR1",
+    "text": "<https://proc-cpuinfo.fixstars.com/2016/08/cudaradeon-html/>",
+    "client_msg_id": "62f660cc-a3ac-41f7-b50b-d56d90da017a",
+    "name": "raa0121",
+    "img": "https://secure.gravatar.com/avatar/35b032d7b2d4182b0c2de1ef85ba91f2.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0009-24.png",
+    "time": "2021/11/12 14:15:01",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1636694018236900"
+  },
+  {
+    "user": "UVB7L4CKH",
+    "text": "まあ元がArchユーザーから始まったのでそうですね",
+    "client_msg_id": "f393bb4c-c423-456e-865e-463d066f9a7f",
+    "name": "tatsumigamou",
+    "img": "https://avatars.slack-edge.com/2020-03-12/985313571153_203fee630d3a4a1053a1_24.jpg",
+    "time": "2021/11/12 14:15:01",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1636694009236500"
+  },
+  {
+    "user": "UGA29R3FH",
+    "text": "Tatsumiさんは最初にこちらで見かけたのでこちらの人という認識ではある",
+    "client_msg_id": "77cbd3c7-af21-407a-b7ff-a90c87a85052",
+    "name": "znmxodq1",
+    "img": "https://avatars.slack-edge.com/2019-03-08/570571829091_2ca91fb0cc1ed2341fe0_24.png",
+    "time": "2021/11/12 14:15:02",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1636693967236000"
+  },
+  {
+    "user": "UGA29R3FH",
+    "text": "なぜか人が被ってる謎",
+    "client_msg_id": "2959bf44-017f-4bcf-851f-0da679d9106f",
+    "name": "znmxodq1",
+    "img": "https://avatars.slack-edge.com/2019-03-08/570571829091_2ca91fb0cc1ed2341fe0_24.png",
+    "time": "2021/11/12 14:15:02",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1636693933235300"
+  },
+  {
+    "user": "U0PM6EYR1",
+    "text": "話してる人の大半がお隣さんでいつも話してる人なのがほんと草",
+    "client_msg_id": "0fb6d510-f07d-46a9-903e-ed3bc2388ad8",
+    "name": "raa0121",
+    "img": "https://secure.gravatar.com/avatar/35b032d7b2d4182b0c2de1ef85ba91f2.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0009-24.png",
+    "time": "2021/11/12 14:15:02",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1636693912235000"
+  },
+  {
+    "user": "UVB7L4CKH",
+    "text": "AMDのCUDA相当って何になるんですかね、あまり聞いたことがない気がする",
+    "client_msg_id": "4646f69a-2f70-4370-b977-1c4cb4696ce4",
+    "name": "tatsumigamou",
+    "img": "https://avatars.slack-edge.com/2020-03-12/985313571153_203fee630d3a4a1053a1_24.jpg",
+    "time": "2021/11/12 14:15:02",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1636693889234500"
+  },
+  {
+    "user": "UPLFHSQ2V",
+    "text": "OpenCLというのもあるんですが。。うーん。\n<https://wiki.archlinux.jp/index.php/GPGPU>",
+    "client_msg_id": "f53623b3-34a2-4db2-8aa7-a1bdbe1f31aa",
+    "name": "conao3",
+    "img": "https://secure.gravatar.com/avatar/1a9a49807415fb97544a7383a9288b84.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0006-24.png",
+    "time": "2021/11/12 14:15:03",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1636693886234400"
+  },
+  {
+    "user": "U0PM6EYR1",
+    "text": "ここ :dajare: ないか",
+    "client_msg_id": "be313f4e-5faf-4a8b-88ac-86eb695315c2",
+    "name": "raa0121",
+    "img": "https://secure.gravatar.com/avatar/35b032d7b2d4182b0c2de1ef85ba91f2.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0009-24.png",
+    "time": "2021/11/12 14:15:03",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1636693874233800"
+  },
+  {
+    "user": "UGA29R3FH",
+    "text": ":dajare:",
+    "client_msg_id": "bb20f519-8797-4aeb-8fe8-4526a08c9900",
+    "name": "znmxodq1",
+    "img": "https://avatars.slack-edge.com/2019-03-08/570571829091_2ca91fb0cc1ed2341fe0_24.png",
+    "time": "2021/11/12 14:15:03",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1636693874233600"
+  },
+  {
+    "user": "U0PM6EYR1",
+    "text": "CUDAが使えないと管を巻いちゃうので…",
+    "client_msg_id": "9cbb46a5-6dbf-4686-a170-7b46c6898740",
+    "name": "raa0121",
+    "img": "https://secure.gravatar.com/avatar/35b032d7b2d4182b0c2de1ef85ba91f2.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0009-24.png",
+    "time": "2021/11/12 14:15:04",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1636693864233000"
+  },
+  {
+    "user": "UVB7L4CKH",
+    "text": "CUDA自体が中指のAPIか",
+    "client_msg_id": "9bd58202-55e8-4c1d-9aa5-58deb21f92e3",
+    "name": "tatsumigamou",
+    "img": "https://avatars.slack-edge.com/2020-03-12/985313571153_203fee630d3a4a1053a1_24.jpg",
+    "time": "2021/11/12 14:15:04",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1636693856232800"
+  },
+  {
+    "user": "UGA29R3FH",
+    "text": "中指で会話が行われてるの草生える",
+    "client_msg_id": "77ae1057-3630-4aa5-a11f-f883f7e9a4e9",
+    "name": "znmxodq1",
+    "img": "https://avatars.slack-edge.com/2019-03-08/570571829091_2ca91fb0cc1ed2341fe0_24.png",
+    "time": "2021/11/12 14:15:04",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1636693851232500"
+  },
+  {
+    "user": "UVB7L4CKH",
+    "text": "まあCUDA関係はNVIDIAの方がよく聞きますね",
+    "client_msg_id": "a1ddf66d-23cb-4e8f-9729-50b64c1ffcd2",
+    "name": "tatsumigamou",
+    "img": "https://avatars.slack-edge.com/2020-03-12/985313571153_203fee630d3a4a1053a1_24.jpg",
+    "time": "2021/11/12 14:15:05",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1636693842231900"
+  },
+  {
+    "user": "UPLFHSQ2V",
+    "text": "そうなんですよね。。",
+    "client_msg_id": "648c1a7b-4605-4445-8d6a-22ad643f134f",
+    "name": "conao3",
+    "img": "https://secure.gravatar.com/avatar/1a9a49807415fb97544a7383a9288b84.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0006-24.png",
+    "time": "2021/11/12 14:15:05",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1636693835231400"
+  },
+  {
+    "user": "UPLFHSQ2V",
+    "text": "提供というか、GPUの仕様公開かな？",
+    "client_msg_id": "32bfebb6-d7bc-4eda-b589-56bad576e978",
+    "name": "conao3",
+    "img": "https://secure.gravatar.com/avatar/1a9a49807415fb97544a7383a9288b84.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0006-24.png",
+    "time": "2021/11/12 14:15:05",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1636693812230800"
+  },
+  {
+    "user": "U0PM6EYR1",
+    "text": "でも機械学習系ライブラリは中指企業のものが多いんですよね…",
+    "client_msg_id": "fca7412e-bac8-4758-81fa-1c7b9c28dc7e",
+    "name": "raa0121",
+    "img": "https://secure.gravatar.com/avatar/35b032d7b2d4182b0c2de1ef85ba91f2.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0009-24.png",
+    "time": "2021/11/12 14:15:06",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1636693811230700"
+  },
+  {
+    "user": "UVB7L4CKH",
+    "text": "Linusが中指を立てた企業が親和性がなさすぎるだけという説も",
+    "client_msg_id": "6559b4cc-c642-4a9c-924e-e803f21faf94",
+    "name": "tatsumigamou",
+    "img": "https://avatars.slack-edge.com/2020-03-12/985313571153_203fee630d3a4a1053a1_24.jpg",
+    "time": "2021/11/12 14:15:06",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1636693773229600"
+  },
+  {
+    "user": "UPLFHSQ2V",
+    "text": "「GPUも」というか「GPUは」？今は「GPUも」なのかもしれませんが。。\nAMDはちゃんとLinuxにドライバ提供してくれてるみたいですがNvidiaが提供してくれないみたいですね。",
+    "client_msg_id": "155bf0a7-5669-48e8-a4fe-785c3903842e",
+    "name": "conao3",
+    "img": "https://secure.gravatar.com/avatar/1a9a49807415fb97544a7383a9288b84.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0006-24.png",
+    "time": "2021/11/12 14:15:06",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1636693757229200"
+  },
+  {
+    "user": "U0PM6EYR1",
+    "text": "GPU も AMDのほうがLinuxへの親和性が有るんでしたっけ？",
+    "client_msg_id": "2504453a-3340-4d1c-b1cd-98df9063a1a5",
+    "name": "raa0121",
+    "img": "https://secure.gravatar.com/avatar/35b032d7b2d4182b0c2de1ef85ba91f2.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0009-24.png",
+    "time": "2021/11/12 14:15:07",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1636693611227300"
+  },
+  {
+    "user": "UPLFHSQ2V",
+    "text": "ビルドはCPUバウンドなのでRyzenにするのは納得感",
+    "client_msg_id": "f9d50645-e2d4-4f3f-bc57-2ee3bf6d53b7",
+    "name": "conao3",
+    "img": "https://secure.gravatar.com/avatar/1a9a49807415fb97544a7383a9288b84.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0006-24.png",
+    "time": "2021/11/12 14:15:07",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1636693054226900"
+  },
+  {
+    "user": "UPLFHSQ2V",
+    "text": "そうですね。こんな記事も。\n<https://pc.watch.impress.co.jp/docs/news/yajiuma/1255074.html>",
+    "client_msg_id": "b7e6a07b-c999-4ebe-9499-e2ccd4fc5db9",
+    "name": "conao3",
+    "img": "https://secure.gravatar.com/avatar/1a9a49807415fb97544a7383a9288b84.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0006-24.png",
+    "time": "2021/11/12 14:15:07",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1636692991226100"
+  },
+  {
+    "user": "UVB7L4CKH",
+    "text": "LinusってAMDユーザーだったんですね",
+    "client_msg_id": "8fb01e91-a0f7-4e4b-9ae9-10644839dcd4",
+    "name": "tatsumigamou",
+    "img": "https://avatars.slack-edge.com/2020-03-12/985313571153_203fee630d3a4a1053a1_24.jpg",
+    "time": "2021/11/12 14:15:08",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1636692935225400"
+  },
+  {
+    "user": "UVB7L4CKH",
+    "text": "AMDで起きるスリープ死が改善されるっていうのしかまだ把握してない（もしかしたらそれだけかもしれない）んですが、ラップトップだとそれなりに影響あるので直ってるといいなあという気持ち",
+    "client_msg_id": "aa8d84c4-2f6a-4756-a3d5-c663a850326b",
+    "name": "tatsumigamou",
+    "img": "https://avatars.slack-edge.com/2020-03-12/985313571153_203fee630d3a4a1053a1_24.jpg",
+    "time": "2021/11/12 14:15:08",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1636692918224900"
+  },
+  {
+    "user": "UGA29R3FH",
+    "text": "(=安定して動くのが期待できる)",
+    "client_msg_id": "3cdcddd3-9d51-42fa-8987-8b96e2216ca8",
+    "name": "znmxodq1",
+    "img": "https://avatars.slack-edge.com/2019-03-08/570571829091_2ca91fb0cc1ed2341fe0_24.png",
+    "time": "2021/11/12 14:15:08",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1636692664223800"
+  },
+  {
+    "user": "UGA29R3FH",
+    "text": "Linusが使ってるからとか？",
+    "client_msg_id": "2d44c476-fa9f-49be-ad29-543b744752aa",
+    "name": "znmxodq1",
+    "img": "https://avatars.slack-edge.com/2019-03-08/570571829091_2ca91fb0cc1ed2341fe0_24.png",
+    "time": "2021/11/12 14:15:09",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1636692651223300"
+  },
+  {
+    "user": "U70QDFN82",
+    "text": "前RedditでLinuxユーザー向けにどのCPU使ってるかのアンケートあったけど、予想以上にAMDユーザー多くてびっくりした",
+    "client_msg_id": "6409ca7d-4bbc-4329-a2a7-cc2e46fa7009",
+    "name": "yutakatay",
+    "img": "https://avatars.slack-edge.com/2020-08-16/1302143736069_0baa468f7bea68e827d9_24.png",
+    "time": "2021/11/12 14:15:09",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1636692607223000"
+  },
+  {
+    "user": "UPLFHSQ2V",
+    "text": "へー。期待。Windows専用にしてしまってるRyzenのThinkpadで挑戦してみようかな。",
+    "client_msg_id": "7e07b86f-5392-4cda-bece-e51100911bfe",
+    "name": "conao3",
+    "img": "https://secure.gravatar.com/avatar/1a9a49807415fb97544a7383a9288b84.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0006-24.png",
+    "time": "2021/11/12 14:15:09",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1636692110221100"
+  },
+  {
+    "user": "UVB7L4CKH",
+    "text": "AMD系の問題がかなり改善されると聞いて、それ次第で次に買うPCが変わりそうな気配",
+    "client_msg_id": "f8c8b11e-e9b3-4e6e-9b18-0233e3caaa7a",
+    "name": "tatsumigamou",
+    "img": "https://avatars.slack-edge.com/2020-03-12/985313571153_203fee630d3a4a1053a1_24.jpg",
+    "time": "2021/11/12 14:15:10",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1636691642220300"
+  },
+  {
+    "user": "UVB7L4CKH",
+    "text": "Linux 5.15がいつごろArchに来るのか密かに気になっている",
+    "client_msg_id": "ad3441ad-cd49-47e0-a8dd-629d9e71d560",
+    "name": "tatsumigamou",
+    "img": "https://avatars.slack-edge.com/2020-03-12/985313571153_203fee630d3a4a1053a1_24.jpg",
+    "time": "2021/11/12 14:15:10",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1636691596219700"
+  },
+  {
     "user": "U019C7VLZ4G",
     "text": "ほんとだ、`pkg-config --exists gtk+-3.0 --print-errors` しても何も出ないので認識はしているようです",
     "client_msg_id": "da1890a5-22c8-4bb1-8cb4-35a1bef0db17",
     "name": "getalotofmail",
     "img": "https://secure.gravatar.com/avatar/5a7f20688dc40b2989935a11bdfa25fe.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0001-24.png",
-    "time": "2021/11/12 11:00:16",
+    "time": "2021/11/12 14:15:10",
     "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1636681742219000"
   },
   {
