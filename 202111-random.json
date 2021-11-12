@@ -1,11 +1,29 @@
 [
   {
+    "user": "U019C7VLZ4G",
+    "text": "ほんとだ、`pkg-config --exists gtk+-3.0 --print-errors` しても何も出ないので認識はしているようです",
+    "client_msg_id": "da1890a5-22c8-4bb1-8cb4-35a1bef0db17",
+    "name": "getalotofmail",
+    "img": "https://secure.gravatar.com/avatar/5a7f20688dc40b2989935a11bdfa25fe.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0001-24.png",
+    "time": "2021/11/12 11:00:16",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1636681742219000"
+  },
+  {
+    "user": "U019C7VLZ4G",
+    "text": "gtk3はインストールしてあるのに`pkg-config --exists gtk+-3.0`はなにも表示されないのなぜでしょうか?\n/usr/lib/pkgbuild/gtk+-3.0.pcはきちんと存ています",
+    "client_msg_id": "03162ad4-10da-4a9e-b840-053632eb7de1",
+    "name": "getalotofmail",
+    "img": "https://secure.gravatar.com/avatar/5a7f20688dc40b2989935a11bdfa25fe.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0001-24.png",
+    "time": "2021/11/12 11:00:16",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1636680952215800"
+  },
+  {
     "user": "U0PM6EYR1",
     "text": "<https://aur.archlinux.org/packages/flutter/> を vote しまくれば、 community に入るかも？",
     "client_msg_id": "b2beba81-d6d2-4aaf-a81c-16dc1fe3ab2e",
     "name": "raa0121",
     "img": "https://secure.gravatar.com/avatar/35b032d7b2d4182b0c2de1ef85ba91f2.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0009-24.png",
-    "time": "2021/11/12 00:17:28",
+    "time": "2021/11/12 11:00:16",
     "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1636643113213800"
   },
   {
