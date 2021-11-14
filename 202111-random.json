@@ -1,11 +1,29 @@
 [
   {
+    "user": "U02BLTTQEL9",
+    "text": "hwdb って systemd が管理してるみたいなんですけど、更新の PR 気軽に受けつけてくれるのかな。",
+    "client_msg_id": "b3bd39c3-3732-4f8d-9082-802fd89aed8f",
+    "name": "buzz.taiki",
+    "img": "https://avatars.slack-edge.com/2021-08-15/2388525195124_53543ae8a9c6189fc784_24.jpg",
+    "time": "2021/11/14 16:15:29",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1636873036268700"
+  },
+  {
+    "user": "U02BLTTQEL9",
+    "text": "wanland の gnome で `ScrollButton` 相当のことをしたくて gsettings で `scroll-wheel-emulation-button` を設定したけど Expert Mouse Wireless だとうまく動いてくれなくて、しばらく悩んでたんですけど、hwdb がうまくマッチしてなくて `ID_INPUT_TRACKBALL=1` になってなかったっていうオチでした。Kensington...\n\n```$ libinput list-devices | grep -ie 'expert'\nDevice:           Kensington Expert Wireless TB Mouse\nDevice:           Kensington Expert Wireless TB Consumer Control```\n```$ grep -ie 'expert' /usr/lib/udev/hwdb.d/70-mouse.hwdb\n# Kensington Expert Mouse trackball\nmouse:usb:v047dp1020:*Kensington Expert Mouse*:*```\nので、`/etc/udev/hwdb.d/90-mouse.hwdb` に以下を書いたら動くようになりました。うれしい。\n\n```mouse:usb:v047dp8018:name:Kensington Expert Wireless TB Mouse:\nmouse:bluetooth:v047dp8019:name:Expert Wireless TB Mouse:\n ID_INPUT_TRACKBALL=1```",
+    "client_msg_id": "6cbb9755-3f01-4f21-bdaf-7084cdef9943",
+    "name": "buzz.taiki",
+    "img": "https://avatars.slack-edge.com/2021-08-15/2388525195124_53543ae8a9c6189fc784_24.jpg",
+    "time": "2021/11/14 16:15:29",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1636872983268500"
+  },
+  {
     "user": "U02BYQ8JYD9",
     "text": "でも大変調べましたから，この Slack チャネルを発見できるのはよかったです",
     "client_msg_id": "e63b06db-dbc7-4eb5-9cc0-8faf3f85a0f1",
     "name": "weiliang1503",
     "img": "https://secure.gravatar.com/avatar/675d3d3feeac737895383f90429a4169.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0015-24.png",
-    "time": "2021/11/14 03:18:32",
+    "time": "2021/11/14 16:15:29",
     "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1636827125266900"
   },
   {
