@@ -1,11 +1,137 @@
 [
   {
+    "user": "U01J1GGMHDJ",
+    "text": "自分にとってのhotfixが全体の為になるのかなぁとか、時間が経てば解決しそうだなぁと考えてしまうとPR投げるの後で良いやになってしまう :face_with_rolling_eyes: \n貢献はしたいけど、時間と熱量が無い…",
+    "client_msg_id": "c1a6cdf4-f9a1-4403-a5e8-5bbdbd6db11f",
+    "name": "naokihirokitomoki",
+    "img": "https://avatars.slack-edge.com/2021-01-01/1607396797362_a9967cc229f49d114f8a_24.jpg",
+    "time": "2021/11/14 18:16:02",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1636880987292800"
+  },
+  {
+    "user": "U0PM6EYR1",
+    "text": "<https://github.com/dart-lang/sdk/commit/ad3c3644a4c6aecfb2d30ffd5251f6a1e165cf49>\nコマンド自体が入ったのが、1月か…",
+    "client_msg_id": "4ed17e2f-12d4-4660-aa45-bde7cfccce48",
+    "name": "raa0121",
+    "img": "https://secure.gravatar.com/avatar/35b032d7b2d4182b0c2de1ef85ba91f2.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0009-24.png",
+    "time": "2021/11/14 18:16:02",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1636880935292000"
+  },
+  {
+    "user": "U0PM6EYR1",
+    "text": "<https://github.com/dart-lang/sdk/commit/c224cc2e0d4cd8fc536c21ee963a0254d18a27bb>\nsdk 側のドキュメントの更新が入ったのが5日前",
+    "client_msg_id": "c3e4f386-79b5-4b80-b21e-3ceea8085d75",
+    "name": "raa0121",
+    "img": "https://secure.gravatar.com/avatar/35b032d7b2d4182b0c2de1ef85ba91f2.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0009-24.png",
+    "time": "2021/11/14 18:16:02",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1636880784289700"
+  },
+  {
+    "user": "U70QDFN82",
+    "text": "そういや先週OSSで不具合２つ見つけたけど、レポートあげるのめんどくさくて放置してることを思い出した・・・\n小さいプロジェクトだとそこそこ軽い感じで投げるけど、大きいと相手の時間使わないようにちゃんとなげなくちゃいけない使命感にかられて結局先延ばしにしちゃうんだよな・・・",
+    "client_msg_id": "548d45df-214a-470a-b4e3-ed21d5aba424",
+    "name": "yutakatay",
+    "img": "https://avatars.slack-edge.com/2020-08-16/1302143736069_0baa468f7bea68e827d9_24.png",
+    "time": "2021/11/14 18:16:03",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1636880419288600"
+  },
+  {
+    "user": "UGA29R3FH",
+    "text": "ドキュメントが古いケースは往々にしてあるので、気付いた人がPR送るとよさそう",
+    "client_msg_id": "24932c47-bde1-4999-80ec-8c49f235c6a8",
+    "name": "znmxodq1",
+    "img": "https://avatars.slack-edge.com/2019-03-08/570571829091_2ca91fb0cc1ed2341fe0_24.png",
+    "time": "2021/11/14 18:16:03",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1636880179286100"
+  },
+  {
+    "user": "U019C7VLZ4G",
+    "text": "私の環境ではstackoverflowに載せた方法でないと動きませんでした。",
+    "client_msg_id": "1bc3693b-625f-45cb-a95c-94da6bc20751",
+    "name": "getalotofmail",
+    "img": "https://secure.gravatar.com/avatar/5a7f20688dc40b2989935a11bdfa25fe.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0001-24.png",
+    "time": "2021/11/14 18:16:03",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1636880154285300"
+  },
+  {
+    "user": "U019C7VLZ4G",
+    "text": "でも、Dart公式vim-pluginの中のlspの説明部分ではまだ古いほうが書いてあるので...\nどっちが正しいんだろ?\n<https://github.com/dart-lang/dart-vim-plugin#how-do-i-configure-an-lsp-plugin-to-start-the-analysis-server>",
+    "client_msg_id": "78b8b28d-1f91-42e5-ab6b-93e0e7484922",
+    "name": "getalotofmail",
+    "img": "https://secure.gravatar.com/avatar/5a7f20688dc40b2989935a11bdfa25fe.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0001-24.png",
+    "time": "2021/11/14 18:16:04",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1636880100284000"
+  },
+  {
+    "user": "UGA29R3FH",
+    "text": "vim-jp出張所かな？w",
+    "client_msg_id": "9834c4bf-0a3a-43f3-95b9-f6a03295c601",
+    "name": "znmxodq1",
+    "img": "https://avatars.slack-edge.com/2019-03-08/570571829091_2ca91fb0cc1ed2341fe0_24.png",
+    "time": "2021/11/14 18:16:04",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1636880083283700"
+  },
+  {
+    "user": "U0PM6EYR1",
+    "text": "vim-lsp-settings の README を更新するPRを投げてもいいかもですね",
+    "client_msg_id": "6479bf8d-e5c3-48cf-a50c-38875f8d4d25",
+    "name": "raa0121",
+    "img": "https://secure.gravatar.com/avatar/35b032d7b2d4182b0c2de1ef85ba91f2.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0009-24.png",
+    "time": "2021/11/14 18:16:05",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1636879844282000"
+  },
+  {
+    "user": "U0PM6EYR1",
+    "text": "language-server の起動のさせ方が変わったんですね",
+    "client_msg_id": "719934e3-a523-44e1-ae33-afc15b9d86fc",
+    "name": "raa0121",
+    "img": "https://secure.gravatar.com/avatar/35b032d7b2d4182b0c2de1ef85ba91f2.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0009-24.png",
+    "time": "2021/11/14 18:16:05",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1636879821281300"
+  },
+  {
+    "user": "U0PM6EYR1",
+    "text": "うーん 良いんじゃないでしょうか",
+    "client_msg_id": "3ee13305-1dd4-4519-afbf-6ee1db900bdb",
+    "name": "raa0121",
+    "img": "https://secure.gravatar.com/avatar/35b032d7b2d4182b0c2de1ef85ba91f2.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0009-24.png",
+    "time": "2021/11/14 18:16:05",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1636879798280600"
+  },
+  {
+    "user": "U019C7VLZ4G",
+    "text": "コメントありがとうございます。本人です。\nちょうど今、動作させることに成功したので回答として投稿しました。\nでもあれだとbashが立ち上がるからあまり良くないのでしょうか?",
+    "client_msg_id": "8b0e129b-f537-4ccd-8080-0aee2109cfd5",
+    "name": "getalotofmail",
+    "img": "https://secure.gravatar.com/avatar/5a7f20688dc40b2989935a11bdfa25fe.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0001-24.png",
+    "time": "2021/11/14 18:16:06",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1636879707280400"
+  },
+  {
+    "user": "U0PM6EYR1",
+    "text": "@getalotofmail <https://ja.stackoverflow.com/questions/83589/vim%e3%81%a7%e3%81%aedart%e7%92%b0%e5%a2%83%e3%81%aelsp%e3%81%ae%e8%a8%ad%e5%ae%9a%e6%96%b9%e6%b3%95>\nこちらにコメントしました(ご本人ですよね？",
+    "client_msg_id": "2ab9d47f-7789-42c5-96e6-47f46f6660aa",
+    "name": "raa0121",
+    "img": "https://secure.gravatar.com/avatar/35b032d7b2d4182b0c2de1ef85ba91f2.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0009-24.png",
+    "time": "2021/11/14 18:16:06",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1636878557274700"
+  },
+  {
+    "user": "U02BLTTQEL9",
+    "text": "そですね。とりま投げてみました。\n\n<https://github.com/systemd/systemd/pull/21362>",
+    "client_msg_id": "f2e87173-abcc-4571-ba01-6382048abb16",
+    "name": "buzz.taiki",
+    "img": "https://avatars.slack-edge.com/2021-08-15/2388525195124_53543ae8a9c6189fc784_24.jpg",
+    "time": "2021/11/14 18:16:06",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1636878413274000"
+  },
+  {
     "user": "U02BLTTQEL9",
     "text": "hwdb って systemd が管理してるみたいなんですけど、更新の PR 気軽に受けつけてくれるのかな。",
     "client_msg_id": "b3bd39c3-3732-4f8d-9082-802fd89aed8f",
     "name": "buzz.taiki",
     "img": "https://avatars.slack-edge.com/2021-08-15/2388525195124_53543ae8a9c6189fc784_24.jpg",
-    "time": "2021/11/14 16:15:29",
+    "time": "2021/11/14 18:16:07",
     "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1636873036268700"
   },
   {
