@@ -1,11 +1,38 @@
 [
   {
+    "user": "UGA29R3FH",
+    "text": "端末限定だとuim-fepが使えるのだけどメンテされてないせいでAUR送りになってしまった",
+    "client_msg_id": "d1b68e6f-e477-4742-819a-ce0065937fad",
+    "name": "znmxodq1",
+    "img": "https://avatars.slack-edge.com/2019-03-08/570571829091_2ca91fb0cc1ed2341fe0_24.png",
+    "time": "2021/11/20 00:20:06",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1637334960327700"
+  },
+  {
+    "user": "U02ASPM0A6T",
+    "text": "GNOME端末では適切に設定すれば日本語変換が効くのかもしれませんが、swayのfootやalacrittyでは fcitx5 のwayland対応がまだで入力できないようでした。ちなみにtermiteではwaylandプロトコルでないせいか日本語入力できています。そんな一見分かりづらい仕様の錯綜があるようなのでそのあたりかなと書いていたものです。スレッド化しないと文脈わかりづらかったかもしれませんね、すみません\n<https://fcitx-im.org/wiki/Todo-List>",
+    "client_msg_id": "89d0e955-4f75-4266-8420-dc89ad6e7b31",
+    "name": "yozigen",
+    "img": "https://avatars.slack-edge.com/2021-08-15/2405164316960_50d7f6e8be23e5b2a0eb_24.jpg",
+    "time": "2021/11/20 00:20:06",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1637334805326600"
+  },
+  {
+    "user": "U02ASPM0A6T",
+    "text": "@getalotofmail さんが fcitx5 での日本語入力がGNOME端末でできないという話をされていたので、wayland絡みでできないのかどうかの切り分けのために訊いていたものです\n<https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1637076040313300>",
+    "client_msg_id": "8ac5159f-9e69-4cc8-8a30-2c915454991c",
+    "name": "yozigen",
+    "img": "https://avatars.slack-edge.com/2021-08-15/2405164316960_50d7f6e8be23e5b2a0eb_24.jpg",
+    "time": "2021/11/20 00:20:06",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1637334422326200"
+  },
+  {
     "user": "U02BYQ8JYD9",
     "text": "GNOME XORG はどうかしましたか？",
     "client_msg_id": "818eece8-fbf4-4589-9283-6d38d4e3148c",
     "name": "weiliang1503",
     "img": "https://secure.gravatar.com/avatar/675d3d3feeac737895383f90429a4169.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0015-24.png",
-    "time": "2021/11/19 17:19:36",
+    "time": "2021/11/20 00:20:06",
     "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1637308837325800"
   },
   {
