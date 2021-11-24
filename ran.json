@@ -1,11 +1,38 @@
 [
   {
+    "user": "U02BLTTQEL9",
+    "text": "IM切り替えまわりに自由度がないですよね。",
+    "client_msg_id": "05251a4b-f54b-45b7-8976-fa142feb5992",
+    "name": "buzz.taiki",
+    "img": "https://avatars.slack-edge.com/2021-08-15/2388525195124_53543ae8a9c6189fc784_24.jpg",
+    "time": "2021/11/24 22:22:20",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1637760068362800"
+  },
+  {
+    "user": "UUWBU08TU",
+    "text": "私もibus試してみましたが、skkに固定して英数モードで乗り切ることにしました(Ctrl-jが固定で取られるのは少し気になる所ですが)",
+    "client_msg_id": "91c93e88-5ee9-4e42-b6ce-98558574116a",
+    "name": "nekokowan_archjpslack",
+    "img": "https://avatars.slack-edge.com/2020-06-22/1204027183412_7f7a529c9005aa8cce36_24.png",
+    "time": "2021/11/24 22:22:21",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1637759688361700"
+  },
+  {
+    "user": "U02BLTTQEL9",
+    "text": "ibus 推しの空気を感じたので fcitx から ibus に戻してみた。いつぶりだろ。\nキーボードレイアウトが変わる問題は `/usr/share/ibus/component/skk.xml` をいじって逃げました。",
+    "client_msg_id": "33e976be-2f62-4d92-b51c-ebe75f75263a",
+    "name": "buzz.taiki",
+    "img": "https://avatars.slack-edge.com/2021-08-15/2388525195124_53543ae8a9c6189fc784_24.jpg",
+    "time": "2021/11/24 22:22:21",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1637759137360800"
+  },
+  {
     "user": "U02BYQ8JYD9",
     "text": "Fcitx5 はただ GNOME での表現があまりよくない気がします（",
     "client_msg_id": "19b501f6-33c1-47c5-9576-b7bd106680ad",
     "name": "weiliang1503",
     "img": "https://secure.gravatar.com/avatar/675d3d3feeac737895383f90429a4169.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0015-24.png",
-    "time": "2021/11/21 16:15:46",
+    "time": "2021/11/24 22:22:22",
     "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1637476346359700"
   },
   {
