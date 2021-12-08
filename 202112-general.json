@@ -1,11 +1,20 @@
 [
   {
+    "user": "U02ASPM0A6T",
+    "text": "`<https://wiki.archlinux.jp/?search=キーワード>`\nの形で検索用のツールに入れるのもいいと思います\n私は`qutebrowser`の config.py に下記を入れています\narch-wiki-jp は Ctrl+o`a キーワード`で検索できます\n```c.url.searchengines = {\n    \"DEFAULT\": \"<https://www.google.co.jp/search?q={}>\", \n    \"a\": \"<https://wiki.archlinux.jp/?search={}>\", \n    \"ae\": \"<https://wiki.archlinux.org/index.php?search={}>\", \n    \"aj\": \"<https://translate.google.com/translate?sl=en&amp;tl=ja&amp;u=https://wiki.archlinux.org/index.php?search={}>\", \n    \"me\": \"<https://man.archlinux.org/man/{}>\", \n    \"m\": \"<https://translate.google.com/translate?sl=en&amp;tl=ja&amp;u=https://man.archlinux.org/man/{}>\", \n    \"ap\": \"<https://archlinux.org/packages/?q={}>\", \n    \"gh\": \"<https://github.com/search?q={}>\", \n    \"mf\": \"<https://forum.manjaro.org/search?q={}>\", \n    \"w\": \"<https://ejje.weblio.jp/content/{}>\", \n    \"yt\": \"<https://www.youtube.com/results?search_query={}>\"\n}```",
+    "client_msg_id": "f54b8637-7d86-4600-977d-919a251fee67",
+    "name": "yozigen",
+    "img": "https://avatars.slack-edge.com/2021-08-15/2405164316960_50d7f6e8be23e5b2a0eb_24.jpg",
+    "time": "2021/12/08 21:35:54",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1638965321045000"
+  },
+  {
     "user": "U0H9QUFA5",
     "text": "<https://wiki.archlinux.jp/index.php/%E3%83%98%E3%83%AB%E3%83%97:%E9%96%B2%E8%A6%A7#DuckDuckGo_Bangs> duckduckgoを使うこの方法もなかなか良いですね。 `!aw xxx` もしくは `!archjp xxx`  (日本語版ちょっと長い)",
     "client_msg_id": "cabf814e-e3a8-4437-930d-a347f342ab75",
     "name": "kusanaginoturugi",
     "img": "https://secure.gravatar.com/avatar/e927cae947e74def10ee5fbb20859145.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0016-24.png",
-    "time": "2021/12/08 18:22:34",
+    "time": "2021/12/08 21:35:55",
     "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1638952143044000"
   },
   {
