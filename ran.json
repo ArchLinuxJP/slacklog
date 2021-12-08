@@ -1,11 +1,56 @@
 [
   {
+    "user": "UQDJXPHJ9",
+    "text": "xmonadの設定はHaskellですね。\nHaskellは一緒にビルドできるパッケージのバージョンを合わせるのが面倒なので、基本はstack(若しくはcabal-v2とかnixとか)を使って依存パッケージのバージョンを固定して管理するのが推奨されてると思います。\nstackは「問題なく一緒にビルドできるパッケージのリスト」みたいなもの(Stackage)を管理してくれてるので、そちらを使うと楽なのですよね。\n私はXMonadに自作のライブラリも読み込ませたいのもありstackで管理しています。\n(最初はシステムで入れてて、stackに乗り換えた後システム側消したらうまく動かなくなったので暫定で残したままだけど...)\n(上手く説明できてなかったらきっと誰か補足してくださるはず)",
+    "client_msg_id": "7b45938c-d481-4d73-9aaf-283b595efb0f",
+    "name": "cj.bc-sd",
+    "img": "https://avatars.slack-edge.com/2019-11-12/821749881793_703a47a248d9e731dc3f_24.jpg",
+    "time": "2021/12/08 23:16:08",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1638972815428100"
+  },
+  {
+    "user": "U70QDFN82",
+    "text": "archって意外と昔からあるし結構クローズドな感じでやってるから勝手におじいちゃんたちがメンテしてると思ってたけど、ArchConfで見たらみんな若かったですね。\npacmanのHaskell関連パッケージもいい方向に進んでくれるといいけど・・・",
+    "client_msg_id": "b5e1d9b3-18ef-407f-83b3-5a7d88815e60",
+    "name": "yutakatay",
+    "img": "https://avatars.slack-edge.com/2020-08-16/1302143736069_0baa468f7bea68e827d9_24.png",
+    "time": "2021/12/08 23:16:08",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1638971650422800"
+  },
+  {
+    "user": "UGA29R3FH",
+    "text": "xmonadだけで言うならghc必須のはずなのでStackで入れるのが一番いい気がしますね",
+    "client_msg_id": "79c08a76-5df8-41f9-902e-983ac7576ba7",
+    "name": "znmxodq1",
+    "img": "https://avatars.slack-edge.com/2019-03-08/570571829091_2ca91fb0cc1ed2341fe0_24.png",
+    "time": "2021/12/08 23:16:09",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1638970890420800"
+  },
+  {
+    "user": "U70QDFN82",
+    "text": "xmonadもHaskellも１ミリも触ったことないからあれですけど、xmonadって設定Haskellで書くんですよね？？それならHaskell環境あったほうがいいんじゃって思ったけど違うのかな・・・・？\n\npandocとかshellcheckはそれだけ使いたいのにゾロゾロHaskellパッケージ入ってきていらつくけど",
+    "client_msg_id": "44d7feb5-16fd-4761-a355-3441d37c4dd3",
+    "name": "yutakatay",
+    "img": "https://avatars.slack-edge.com/2020-08-16/1302143736069_0baa468f7bea68e827d9_24.png",
+    "time": "2021/12/08 23:16:09",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1638970510419800"
+  },
+  {
+    "user": "U70QDFN82",
+    "text": "あ、けどなくなるとarchinstallで今後もサポートされることがなくなるからユーザーにとっては割と大きな問題なのかも。\nまぁ現状入ってないけど\n<https://github.com/archlinux/archinstall/blob/908c7b8cc0a804e9522d93fcf0dc71034c53ccdb/profiles/desktop.py#L23-L36>",
+    "client_msg_id": "e2046fe2-055a-4945-a3fb-594a2ef77394",
+    "name": "yutakatay",
+    "img": "https://avatars.slack-edge.com/2020-08-16/1302143736069_0baa468f7bea68e827d9_24.png",
+    "time": "2021/12/08 23:16:09",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1638970166417000"
+  },
+  {
     "user": "U70QDFN82",
     "text": "まあ意外とスムーズに移行できたケースも結構あるけど。64bit、systemd etc",
     "client_msg_id": "e67f683a-1c45-4d3c-9a6e-6ffbd77310b6",
     "name": "yutakatay",
     "img": "https://avatars.slack-edge.com/2020-08-16/1302143736069_0baa468f7bea68e827d9_24.png",
-    "time": "2021/12/08 22:24:11",
+    "time": "2021/12/08 23:16:10",
     "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1638969300415900"
   },
   {
