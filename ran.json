@@ -1,11 +1,20 @@
 [
   {
+    "user": "UGA29R3FH",
+    "text": "よさそう",
+    "client_msg_id": "7d7f4719-0d46-41c2-9d31-ff407b9a7028",
+    "name": "znmxodq1",
+    "img": "https://avatars.slack-edge.com/2019-03-08/570571829091_2ca91fb0cc1ed2341fe0_24.png",
+    "time": "2021/12/09 01:25:28",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1638978575428400"
+  },
+  {
     "user": "UQDJXPHJ9",
     "text": "xmonadの設定はHaskellですね。\nHaskellは一緒にビルドできるパッケージのバージョンを合わせるのが面倒なので、基本はstack(若しくはcabal-v2とかnixとか)を使って依存パッケージのバージョンを固定して管理するのが推奨されてると思います。\nstackは「問題なく一緒にビルドできるパッケージのリスト」みたいなもの(Stackage)を管理してくれてるので、そちらを使うと楽なのですよね。\n私はXMonadに自作のライブラリも読み込ませたいのもありstackで管理しています。\n(最初はシステムで入れてて、stackに乗り換えた後システム側消したらうまく動かなくなったので暫定で残したままだけど...)\n(上手く説明できてなかったらきっと誰か補足してくださるはず)",
     "client_msg_id": "7b45938c-d481-4d73-9aaf-283b595efb0f",
     "name": "cj.bc-sd",
     "img": "https://avatars.slack-edge.com/2019-11-12/821749881793_703a47a248d9e731dc3f_24.jpg",
-    "time": "2021/12/08 23:16:08",
+    "time": "2021/12/09 01:25:28",
     "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1638972815428100"
   },
   {
