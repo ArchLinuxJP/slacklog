@@ -1,11 +1,56 @@
 [
   {
+    "user": "UVB7L4CKH",
+    "text": "なるほど、yayが死んだ時に一度使ってて、微妙に使い勝手が違ったのでyayが復活したら戻してしまった",
+    "client_msg_id": "3f221745-c03b-4eb0-8ccb-2c7a7e820362",
+    "name": "tatsumigamou",
+    "img": "https://avatars.slack-edge.com/2020-03-12/985313571153_203fee630d3a4a1053a1_24.jpg",
+    "time": "2021/12/09 10:12:35",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1639010031047200"
+  },
+  {
+    "user": "UGA29R3FH",
+    "text": "できますね、確か",
+    "client_msg_id": "9bce057a-37cf-468b-a64c-9ed2151e5b90",
+    "name": "znmxodq1",
+    "img": "https://avatars.slack-edge.com/2019-03-08/570571829091_2ca91fb0cc1ed2341fe0_24.png",
+    "time": "2021/12/09 10:12:36",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1639009987046500"
+  },
+  {
+    "user": "UVB7L4CKH",
+    "text": "paru、エンター連打でアップデートできましたっけ",
+    "client_msg_id": "df04f1b6-fc06-4b3e-a2b7-19f88de8ef33",
+    "name": "tatsumigamou",
+    "img": "https://avatars.slack-edge.com/2020-03-12/985313571153_203fee630d3a4a1053a1_24.jpg",
+    "time": "2021/12/09 10:12:36",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1639009951046300"
+  },
+  {
+    "user": "UGA29R3FH",
+    "text": "yayが一度死んだ時になんとなくparuに乗り換えてからそのまま",
+    "client_msg_id": "93e837d9-31eb-47e8-ad79-34b596aa704b",
+    "name": "znmxodq1",
+    "img": "https://avatars.slack-edge.com/2019-03-08/570571829091_2ca91fb0cc1ed2341fe0_24.png",
+    "time": "2021/12/09 10:12:36",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1639009925046000"
+  },
+  {
+    "user": "U70QDFN82",
+    "text": "<https://www.reddit.com/r/archlinux/comments/rbtnjt/paru_vs_yay_vs_other_please_specify_in_comments/>",
+    "client_msg_id": "0be9c257-9cb9-438d-b314-e6ee0f1a603f",
+    "name": "yutakatay",
+    "img": "https://avatars.slack-edge.com/2020-08-16/1302143736069_0baa468f7bea68e827d9_24.png",
+    "time": "2021/12/09 10:12:36",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1639009746045500"
+  },
+  {
     "user": "U02ASPM0A6T",
-    "text": "`<https://wiki.archlinux.jp/?search=キーワード>`\nの形で検索用のツールに入れるのもいいと思います\n私は`qutebrowser`の config.py に下記を入れています\narch-wiki-jp は Ctrl+o`a キーワード`で検索できます\n```c.url.searchengines = {\n    \"DEFAULT\": \"<https://www.google.co.jp/search?q={}>\", \n    \"a\": \"<https://wiki.archlinux.jp/?search={}>\", \n    \"ae\": \"<https://wiki.archlinux.org/index.php?search={}>\", \n    \"aj\": \"<https://translate.google.com/translate?sl=en&amp;tl=ja&amp;u=https://wiki.archlinux.org/index.php?search={}>\", \n    \"me\": \"<https://man.archlinux.org/man/{}>\", \n    \"m\": \"<https://translate.google.com/translate?sl=en&amp;tl=ja&amp;u=https://man.archlinux.org/man/{}>\", \n    \"ap\": \"<https://archlinux.org/packages/?q={}>\", \n    \"gh\": \"<https://github.com/search?q={}>\", \n    \"mf\": \"<https://forum.manjaro.org/search?q={}>\", \n    \"w\": \"<https://ejje.weblio.jp/content/{}>\", \n    \"yt\": \"<https://www.youtube.com/results?search_query={}>\"\n}```",
+    "text": "`<https://wiki.archlinux.jp/?search=キーワード>`\nの形で検索用のツールに入れるのもいいと思います\n私は`qutebrowser`の config.py に下記を入れています\narch-wiki-jp は Shift+o`a キーワード`で検索できます\n```c.url.searchengines = {\n    \"DEFAULT\": \"<https://www.google.co.jp/search?q={}>\", \n    \"a\": \"<https://wiki.archlinux.jp/?search={}>\", \n    \"ae\": \"<https://wiki.archlinux.org/index.php?search={}>\", \n    \"aj\": \"<https://translate.google.com/translate?sl=en&amp;tl=ja&amp;u=https://wiki.archlinux.org/index.php?search={}>\", \n    \"me\": \"<https://man.archlinux.org/man/{}>\", \n    \"m\": \"<https://translate.google.com/translate?sl=en&amp;tl=ja&amp;u=https://man.archlinux.org/man/{}>\", \n    \"ap\": \"<https://archlinux.org/packages/?q={}>\", \n    \"gh\": \"<https://github.com/search?q={}>\", \n    \"mf\": \"<https://forum.manjaro.org/search?q={}>\", \n    \"w\": \"<https://ejje.weblio.jp/content/{}>\", \n    \"yt\": \"<https://www.youtube.com/results?search_query={}>\"\n}```",
     "client_msg_id": "f54b8637-7d86-4600-977d-919a251fee67",
     "name": "yozigen",
     "img": "https://avatars.slack-edge.com/2021-08-15/2405164316960_50d7f6e8be23e5b2a0eb_24.jpg",
-    "time": "2021/12/08 21:35:54",
+    "time": "2021/12/09 10:12:37",
     "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1638965321045000"
   },
   {
