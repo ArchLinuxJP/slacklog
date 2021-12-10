@@ -1,11 +1,110 @@
 [
   {
+    "user": "UVB7L4CKH",
+    "text": "結局NASからオブジェクトストレージに定期バックアップが一番堅牢な気はしている",
+    "client_msg_id": "d602ca3f-8ec7-45a5-9ba1-0244d0fd4ed1",
+    "name": "tatsumigamou",
+    "img": "https://avatars.slack-edge.com/2020-03-12/985313571153_203fee630d3a4a1053a1_24.jpg",
+    "time": "2021/12/10 14:20:18",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1639111372085100"
+  },
+  {
+    "user": "U70QDFN82",
+    "text": "結局一番怖いのは災害な気がしていて普通の自宅だとまあ回避不能ですからね・・・",
+    "client_msg_id": "8ab18a24-30d4-4aff-9a4d-3fc207b6b40e",
+    "name": "yutakatay",
+    "img": "https://avatars.slack-edge.com/2020-08-16/1302143736069_0baa468f7bea68e827d9_24.png",
+    "time": "2021/12/10 14:20:18",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1639111331084600"
+  },
+  {
+    "user": "UVB7L4CKH",
+    "text": "上等な :eggplant: を買ったらオンプレでも色々バックアップするかもしれませんが……",
+    "client_msg_id": "d39a7eac-489e-4a2a-97a5-6b7399892291",
+    "name": "tatsumigamou",
+    "img": "https://avatars.slack-edge.com/2020-03-12/985313571153_203fee630d3a4a1053a1_24.jpg",
+    "time": "2021/12/10 14:20:19",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1639111276083700"
+  },
+  {
+    "user": "U70QDFN82",
+    "text": "私は自宅サーバーの管理めんどいし意外とコストかかるからクラウドにしちゃってますね・・・",
+    "client_msg_id": "47a13632-070e-491f-9973-4b330b19cf43",
+    "name": "yutakatay",
+    "img": "https://avatars.slack-edge.com/2020-08-16/1302143736069_0baa468f7bea68e827d9_24.png",
+    "time": "2021/12/10 14:20:19",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1639111243083100"
+  },
+  {
+    "user": "UGA29R3FH",
+    "text": "クラウドストレージは一切信用できないので避けられる場面では絶対避けてる",
+    "client_msg_id": "8bbcf649-f53c-4f64-ba67-0c76b59e2965",
+    "name": "znmxodq1",
+    "img": "https://avatars.slack-edge.com/2019-03-08/570571829091_2ca91fb0cc1ed2341fe0_24.png",
+    "time": "2021/12/10 14:20:19",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1639111211082400"
+  },
+  {
+    "user": "UGA29R3FH",
+    "text": "あー、家で送るならマウントする手があったか",
+    "client_msg_id": "408ece07-75e0-4db5-888f-ae6b651a38d5",
+    "name": "znmxodq1",
+    "img": "https://avatars.slack-edge.com/2019-03-08/570571829091_2ca91fb0cc1ed2341fe0_24.png",
+    "time": "2021/12/10 14:20:20",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1639111191081600"
+  },
+  {
+    "user": "UVB7L4CKH",
+    "text": "写真はAmazonとGoogleをそれぞれ信用する事にしている",
+    "client_msg_id": "6e585c5c-a34b-475f-8ce2-a90576ee4a71",
+    "name": "tatsumigamou",
+    "img": "https://avatars.slack-edge.com/2020-03-12/985313571153_203fee630d3a4a1053a1_24.jpg",
+    "time": "2021/12/10 14:20:20",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1639111174081000"
+  },
+  {
+    "user": "U70QDFN82",
+    "text": "というか私の利用だと写真バックアップするとき以外であんまりPCとつなぐ用途がない・・・\n写真バックアップは有線でマウントするし",
+    "client_msg_id": "2ca70366-b164-4d7e-bc9b-1d2800c98521",
+    "name": "yutakatay",
+    "img": "https://avatars.slack-edge.com/2020-08-16/1302143736069_0baa468f7bea68e827d9_24.png",
+    "time": "2021/12/10 14:20:20",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1639111135080600"
+  },
+  {
+    "user": "UGA29R3FH",
+    "text": "Syncthing、試した時Androidアプリがバグってて機能しなかったので諦めた記憶がある",
+    "client_msg_id": "8d42bf77-945c-4e5b-964c-3b1c4dd01859",
+    "name": "znmxodq1",
+    "img": "https://avatars.slack-edge.com/2019-03-08/570571829091_2ca91fb0cc1ed2341fe0_24.png",
+    "time": "2021/12/10 14:20:21",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1639111082079600"
+  },
+  {
+    "user": "U0H9QUFA5",
+    "text": "syncthing で共有しているけど、何度やっても使いかたがピンとこない。いつも同期するのに躓く。",
+    "client_msg_id": "9c72382b-016f-46da-ad09-50ea530308e5",
+    "name": "kusanaginoturugi",
+    "img": "https://secure.gravatar.com/avatar/e927cae947e74def10ee5fbb20859145.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0016-24.png",
+    "time": "2021/12/10 14:20:21",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1639111047078100"
+  },
+  {
+    "user": "U70QDFN82",
+    "text": "私はめんどくさいからGoogleDrive経由だ",
+    "client_msg_id": "3739d87a-b5bc-439c-b1cb-3b2127a65b12",
+    "name": "yutakatay",
+    "img": "https://avatars.slack-edge.com/2020-08-16/1302143736069_0baa468f7bea68e827d9_24.png",
+    "time": "2021/12/10 14:20:21",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1639111035077800"
+  },
+  {
     "user": "U01J1GGMHDJ",
     "text": "android to linux pcはpc側でwebdavサーバー立ち上げてなんとかしてしまっている（セキュリティアレだけど速い）",
     "client_msg_id": "7faf600e-399b-40d3-8f41-bbc60a7cb59c",
     "name": "naokihirokitomoki",
     "img": "https://avatars.slack-edge.com/2021-01-01/1607396797362_a9967cc229f49d114f8a_24.jpg",
-    "time": "2021/12/10 13:29:20",
+    "time": "2021/12/10 14:20:22",
     "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1639109617076800"
   },
   {
