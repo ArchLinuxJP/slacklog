@@ -1,11 +1,29 @@
 [
   {
+    "user": "UGA29R3FH",
+    "text": "更新の量多くてびっくりした",
+    "client_msg_id": "e8251aa7-57bd-436f-9d25-365dd987fb3a",
+    "name": "znmxodq1",
+    "img": "https://avatars.slack-edge.com/2019-03-08/570571829091_2ca91fb0cc1ed2341fe0_24.png",
+    "time": "2021/12/13 11:37:13",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1639360440114100"
+  },
+  {
+    "user": "U70QDFN82",
+    "text": "むっちゃ更新きたと思ったらついにPython3.10来ましたね :tada:",
+    "client_msg_id": "e60c1313-82a8-48d0-b957-052c9f999d81",
+    "name": "yutakatay",
+    "img": "https://avatars.slack-edge.com/2020-08-16/1302143736069_0baa468f7bea68e827d9_24.png",
+    "time": "2021/12/13 11:37:13",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1639358969112800"
+  },
+  {
     "user": "U01HE1ENNJZ",
-    "text": "3.5mmジャックにヘッドホンを差して音楽を聞いているのですがたまにパチパチと音が鳴ります\nオーディオ関連のログってどうやって見れますか？\n環境依存もりもりで多分大変なためです\npipewire + pipewire-pulse環境です\nカーネルの方ではsnd_hda_intelが使用されています\n今試すとpulseaudioでも発生しました\nプレイヤーとしてfirefox, mpvを使用しています\nmpvはalsa出力です\nオーディオ関連なにも分からないのでよろしくお願いします",
+    "text": "3.5mmジャックにヘッドホンを差して音楽を聞いているのですがたまにパチパチと音が鳴ります\nオーディオ関連のログってどうやって見れますか？\n環境依存もりもりで多分大変なためです\npipewire + pipewire-pulse環境です\nカーネルの方ではsnd_hda_intelが使用されています\n今試すとpulseaudioでも発生しました\nプレイヤーとしてfirefox, mpvを使用しています\nmpvはalsa出力です\n<https://wiki.archlinux.org/title/Advanced_Linux_Sound_Architecture/Troubleshooting#Pops_when_starting_and_stopping_playback>\nこれを試しましたが変化なし\nオーディオ関連なにも分からないのでよろしくお願いします",
     "client_msg_id": "a6cd4b29-4f46-40ef-bd04-d9843c4887ac",
     "name": "a3784197",
     "img": "https://avatars.slack-edge.com/2021-09-08/2452014575271_1a34f97ec1eeb20d8b71_24.png",
-    "time": "2021/12/11 23:19:09",
+    "time": "2021/12/13 11:37:13",
     "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1639231332101900"
   },
   {
