@@ -1,11 +1,560 @@
 [
   {
+    "user": "U0GFBAM8U",
+    "text": "うん、私もハマっちゃってねえ",
+    "client_msg_id": "0551405E-645D-4638-B59C-C3D5A651C437",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2021/12/20 19:19:19",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1639995519043600"
+  },
+  {
+    "user": "U01792411FA",
+    "text": "糖分とカフェインには勝てない",
+    "client_msg_id": "66decbeb-41a9-4bfb-85b6-755d277f4263",
+    "name": "seekerkrt",
+    "img": "https://avatars.slack-edge.com/2020-07-06/1229422291988_bb227d56e151807964f4_24.png",
+    "time": "2021/12/20 19:19:20",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1639995515043500"
+  },
+  {
+    "user": "U70QDFN82",
+    "text": "きっと私は炭酸的な刺激がほしいんだろうなと思って、エナジードリンクの変わりにコーラのゼロカロリーで代用したことありますけどダメでしたね。やつが必要",
+    "client_msg_id": "54b2097a-1603-4478-82c4-4009729eabe3",
+    "name": "yutakatay",
+    "img": "https://avatars.slack-edge.com/2020-08-16/1302143736069_0baa468f7bea68e827d9_24.png",
+    "time": "2021/12/20 19:19:20",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1639995500043000"
+  },
+  {
+    "user": "U01792411FA",
+    "text": "まあでも適度に飲むとしゃっきりするので、ハマる気持ちもわからなくもないです",
+    "client_msg_id": "69525770-b53c-4c57-b5a3-68ec4ed09592",
+    "name": "seekerkrt",
+    "img": "https://avatars.slack-edge.com/2020-07-06/1229422291988_bb227d56e151807964f4_24.png",
+    "time": "2021/12/20 19:19:20",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1639995479042400"
+  },
+  {
+    "user": "U0GFBAM8U",
+    "text": "(実は1日二本は飲んだことがない)",
+    "client_msg_id": "B6FB263E-BBD6-4031-9C02-C2FE00AA6650",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2021/12/20 19:19:21",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1639995443041300"
+  },
+  {
+    "user": "U70QDFN82",
+    "text": "8年くらい前は私も１日２本とか飲んでたこともありますけど、ふわふわしてきて逆に集中できないという",
+    "client_msg_id": "ce117cf3-8893-4959-b76d-70a24e98de22",
+    "name": "yutakatay",
+    "img": "https://avatars.slack-edge.com/2020-08-16/1302143736069_0baa468f7bea68e827d9_24.png",
+    "time": "2021/12/20 19:19:21",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1639995416040500"
+  },
+  {
+    "user": "U0GFBAM8U",
+    "text": "なるほど",
+    "client_msg_id": "D0029B58-E7E1-498D-8A59-B10CB4DA34E7",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2021/12/20 19:19:21",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1639995408040100"
+  },
+  {
+    "user": "U01792411FA",
+    "text": "栄養ドリンクもエナドリも一日１本までが良いですねぇ",
+    "client_msg_id": "20bbee02-8751-4764-b8e3-e0998d10b7d6",
+    "name": "seekerkrt",
+    "img": "https://avatars.slack-edge.com/2020-07-06/1229422291988_bb227d56e151807964f4_24.png",
+    "time": "2021/12/20 19:19:22",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1639995402039900"
+  },
+  {
+    "user": "U01792411FA",
+    "text": "摂り過ぎで、気持ち悪くなって、胃が荒れました",
+    "client_msg_id": "7ad2be08-baa8-4b67-af87-8eafbcd3fb4d",
+    "name": "seekerkrt",
+    "img": "https://avatars.slack-edge.com/2020-07-06/1229422291988_bb227d56e151807964f4_24.png",
+    "time": "2021/12/20 19:19:22",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1639995362038800"
+  },
+  {
+    "user": "U01792411FA",
+    "text": "エナドリじゃないけど、栄養ドリンクで体壊したことありますｗ　飲まないです",
+    "client_msg_id": "3ec81a15-df64-4657-854f-6cd2abd4922b",
+    "name": "seekerkrt",
+    "img": "https://avatars.slack-edge.com/2020-07-06/1229422291988_bb227d56e151807964f4_24.png",
+    "time": "2021/12/20 19:19:23",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1639995306037300"
+  },
+  {
+    "user": "U0GFBAM8U",
+    "text": "seekerkrtさんは飲まれない?",
+    "client_msg_id": "C9873098-2E84-40BF-8238-8ACC6E556BA1",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2021/12/20 19:19:23",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1639995270036800"
+  },
+  {
+    "user": "U01792411FA",
+    "text": "ただまあしゃっきりする感じはわからなくもないｗ",
+    "client_msg_id": "be8bc09d-604e-4e8f-a694-9397cd10ebb6",
+    "name": "seekerkrt",
+    "img": "https://avatars.slack-edge.com/2020-07-06/1229422291988_bb227d56e151807964f4_24.png",
+    "time": "2021/12/20 19:19:23",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1639995180036000"
+  },
+  {
+    "user": "U0GFBAM8U",
+    "text": "うん、エナドリ体に良くない。ほぼ間違いなく、笑\n私は逆で実はカロリーゼロ避けてます",
+    "client_msg_id": "B3AFEFD0-124F-419E-90DF-15C4E678EBE0",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2021/12/20 19:19:24",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1639995173035800"
+  },
+  {
+    "user": "U01792411FA",
+    "text": "エナドリは糖尿病とカフェインの過剰摂取に注意ですよ～",
+    "client_msg_id": "2cbfb2bc-4ce0-49ee-a9f4-d37444c3c5d5",
+    "name": "seekerkrt",
+    "img": "https://avatars.slack-edge.com/2020-07-06/1229422291988_bb227d56e151807964f4_24.png",
+    "time": "2021/12/20 19:19:24",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1639995062033900"
+  },
+  {
+    "user": "U70QDFN82",
+    "text": "味はカロリーあるやつのほうがやっぱりうまいですね。あと覚醒する感があるのもカロリーあるやつな気がします。\nただちょこちょこ飲む習慣があると、やっぱ300kcalとかは避けたくなってきてますね・・・",
+    "client_msg_id": "af20c176-fcb5-442f-bee2-d3af3a087584",
+    "name": "yutakatay",
+    "img": "https://avatars.slack-edge.com/2020-08-16/1302143736069_0baa468f7bea68e827d9_24.png",
+    "time": "2021/12/20 19:19:24",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1639995057033700"
+  },
+  {
+    "user": "U0GFBAM8U",
+    "text": "yutkatさんはカロリーゼロに近い方がおすすめ感?",
+    "client_msg_id": "24634535-2716-49C2-B1A2-A8EAF7E0F3E6",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2021/12/20 19:19:25",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1639994979031200"
+  },
+  {
+    "user": "U0GFBAM8U",
+    "text": "黄緑?あれ出る前くらいに断飲し始めたので、感想ありがたい",
+    "client_msg_id": "71F0D3CB-B0EA-4A32-842D-044E761DB264",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2021/12/20 19:19:25",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1639994877029100"
+  },
+  {
+    "user": "U70QDFN82",
+    "text": "私はなかなか好きですよ。エナジーエナジーしてないときにちょうどいい感じ\nあとあいつ意外にカロリーゼロなんですよね",
+    "client_msg_id": "7d64dd9e-9801-4f67-93e5-0f2910f44cc1",
+    "name": "yutakatay",
+    "img": "https://avatars.slack-edge.com/2020-08-16/1302143736069_0baa468f7bea68e827d9_24.png",
+    "time": "2021/12/20 19:19:26",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1639994824028400"
+  },
+  {
+    "user": "U0GFBAM8U",
+    "text": "黄緑ぽいやつよくみる",
+    "client_msg_id": "14613514-9D1A-42E9-9CA1-D5172BD6DDD3",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2021/12/20 19:19:26",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1639994752026500"
+  },
+  {
+    "user": "U0GFBAM8U",
+    "text": "赤いやつ最近見かけないね",
+    "client_msg_id": "36320ECA-434C-4F87-978A-3C16775FAF4F",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2021/12/20 19:19:26",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1639994730026000"
+  },
+  {
+    "user": "U0GFBAM8U",
+    "text": "ですね、なんでしょう\nみなぎる感じが",
+    "client_msg_id": "A7332C1A-1D8A-427E-87A4-E2649EC7908B",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2021/12/20 19:19:27",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1639994692025400"
+  },
+  {
+    "user": "U0GFBAM8U",
+    "text": "表現しづらいけど、そう言われればちょっとコーラぽさあったかも",
+    "client_msg_id": "A53A9EE0-9CCF-4C8F-B969-5D42AC7ADE4A",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2021/12/20 19:19:27",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1639994632024400"
+  },
+  {
+    "user": "U70QDFN82",
+    "text": "そういえばペプシとかコカ・コーラもエナジードリンク出してましたけどイマイチでしたね。\nやはりあのエナジーっぽさを出すにはなんらかの技術が必要らしい",
+    "client_msg_id": "7b68c072-eaa6-4fd6-9ea7-dbfdd1030e75",
+    "name": "yutakatay",
+    "img": "https://avatars.slack-edge.com/2020-08-16/1302143736069_0baa468f7bea68e827d9_24.png",
+    "time": "2021/12/20 19:19:27",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1639994618023900"
+  },
+  {
+    "user": "U70QDFN82",
+    "text": "コーラ系ですよね",
+    "client_msg_id": "cb352517-b586-4ecb-b4f8-6a24c053042a",
+    "name": "yutakatay",
+    "img": "https://avatars.slack-edge.com/2020-08-16/1302143736069_0baa468f7bea68e827d9_24.png",
+    "time": "2021/12/20 19:19:28",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1639994549021900"
+  },
+  {
+    "user": "U0GFBAM8U",
+    "text": "あ、その赤いやつ飲んだことある\nおいしかった記憶",
+    "client_msg_id": "23FB1291-A56F-4163-BB77-94A6AA085682",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2021/12/20 19:19:28",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1639994538021600"
+  },
+  {
+    "user": "U70QDFN82",
+    "text": "カロリーあるけど",
+    "client_msg_id": "704b75bf-86e4-4c31-86ab-b4e21f8f1604",
+    "name": "yutakatay",
+    "img": "https://avatars.slack-edge.com/2020-08-16/1302143736069_0baa468f7bea68e827d9_24.png",
+    "time": "2021/12/20 19:19:29",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1639994466020700"
+  },
+  {
+    "user": "U70QDFN82",
+    "text": "あ、でも私も１番はモンスターのこれかも・・・\n<https://amazon.jp/dp/B07BL6XBD2>",
+    "client_msg_id": "118040aa-652f-4f78-aa99-cce5d0278f01",
+    "name": "yutakatay",
+    "img": "https://avatars.slack-edge.com/2020-08-16/1302143736069_0baa468f7bea68e827d9_24.png",
+    "time": "2021/12/20 19:19:29",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1639994451020500"
+  },
+  {
+    "user": "U0GFBAM8U",
+    "text": "私はモンエナ派でした。レッドブルは1,2回で味はあまり覚えてないんですが、ハマらなかったぽい",
+    "client_msg_id": "BA0D9AB4-5852-4C2E-9EE9-49A212DD8BDB",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2021/12/20 19:19:29",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1639994053019900"
+  },
+  {
+    "user": "U0GFBAM8U",
+    "text": "小さいからねー",
+    "client_msg_id": "3B256A90-65D1-459F-A397-710869C891B3",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2021/12/20 19:19:30",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1639993528018200"
+  },
+  {
+    "user": "U70QDFN82",
+    "text": "あとカロリー",
+    "client_msg_id": "7fe288e5-2d27-42ac-bba7-69b670dfccd5",
+    "name": "yutakatay",
+    "img": "https://avatars.slack-edge.com/2020-08-16/1302143736069_0baa468f7bea68e827d9_24.png",
+    "time": "2021/12/20 19:19:30",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1639993520017900"
+  },
+  {
+    "user": "U70QDFN82",
+    "text": "なんだかんだ味で一番好きなのはやっぱりレッドブルだなーって最近思いますね。\nけどコスパが悪いですよね・・・",
+    "client_msg_id": "9eed60a1-ac16-4d56-83d0-da5ff6039070",
+    "name": "yutakatay",
+    "img": "https://avatars.slack-edge.com/2020-08-16/1302143736069_0baa468f7bea68e827d9_24.png",
+    "time": "2021/12/20 19:19:30",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1639993513017600"
+  },
+  {
+    "user": "U0GFBAM8U",
+    "text": "ここレッドブル派の人いるのかな\nyutkatさんはレッドブルどうなんだろ",
+    "client_msg_id": "52E7B530-E83D-4D66-8069-75BFDB9E2E09",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2021/12/20 19:19:31",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1639993466016800"
+  },
+  {
+    "user": "U0GFBAM8U",
+    "text": "すごい\nそういや海外のでかいやつネットで見たことある",
+    "client_msg_id": "27F3D16A-22BF-4072-B55E-6EC78979861C",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2021/12/20 19:19:31",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1639993399016100"
+  },
+  {
+    "user": "U70QDFN82",
+    "text": "ちなみに米軍の施設公開とかいくと日本で売ってないエナジードリンク購入できますね\n行ったら１０本くらい買って帰るけど毎回重くて後悔する",
+    "client_msg_id": "fd76d7b4-3634-475c-8187-5e7259103206",
+    "name": "yutakatay",
+    "img": "https://avatars.slack-edge.com/2020-08-16/1302143736069_0baa468f7bea68e827d9_24.png",
+    "time": "2021/12/20 19:19:31",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1639993352015200"
+  },
+  {
+    "user": "U0GFBAM8U",
+    "text": "昔好きだったなあ",
+    "client_msg_id": "302FF6C2-660A-4588-A142-3D273B95027C",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2021/12/20 19:19:32",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1639993218013400"
+  },
+  {
+    "user": "U0GFBAM8U",
+    "text": "チェリオのライフガードを思い出す",
+    "client_msg_id": "33442084-6D7E-4D19-BEC0-847AA6B84137",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2021/12/20 19:19:32",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1639993207013000"
+  },
+  {
+    "user": "U70QDFN82",
+    "text": "ちなみに今日私はこれ飲みましたけど、久しぶりにまずいやつでしたね\n<https://amazon.jp/dp/B09M7YBPRD>",
+    "client_msg_id": "6789cd07-4b4f-411b-b052-3bbac4d7cf8d",
+    "name": "yutakatay",
+    "img": "https://avatars.slack-edge.com/2020-08-16/1302143736069_0baa468f7bea68e827d9_24.png",
+    "time": "2021/12/20 19:19:33",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1639993147012500"
+  },
+  {
+    "user": "U0GFBAM8U",
+    "text": "えへへ、近所の自販機自慢",
+    "client_msg_id": "DC6F6F59-60B5-4F6E-856B-3C099A3B0F8B",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2021/12/20 19:19:33",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1639993098011500"
+  },
+  {
+    "user": "U70QDFN82",
+    "text": "200円ですね。",
+    "client_msg_id": "8fd626bb-6832-444d-9cce-dd332f753810",
+    "name": "yutakatay",
+    "img": "https://avatars.slack-edge.com/2020-08-16/1302143736069_0baa468f7bea68e827d9_24.png",
+    "time": "2021/12/20 19:19:33",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1639993096011400"
+  },
+  {
+    "user": "U70QDFN82",
+    "text": "社畜専用自販機",
+    "client_msg_id": "35a3db8a-227a-4691-9bbb-252ddbe0a14e",
+    "name": "yutakatay",
+    "img": "https://avatars.slack-edge.com/2020-08-16/1302143736069_0baa468f7bea68e827d9_24.png",
+    "time": "2021/12/20 19:19:34",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1639993081010800"
+  },
+  {
+    "user": "U0GFBAM8U",
+    "text": "zoneて普通はいくらなんでしょう\nモンエナは確か210円だったはず",
+    "client_msg_id": "8449150B-2A3C-4735-A546-8AFE870446C2",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2021/12/20 19:19:34",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1639993073010400"
+  },
+  {
+    "user": "U70QDFN82",
+    "text": "安い",
+    "client_msg_id": "260c3f2d-54f5-4338-92cc-6d7114644f33",
+    "name": "yutakatay",
+    "img": "https://avatars.slack-edge.com/2020-08-16/1302143736069_0baa468f7bea68e827d9_24.png",
+    "time": "2021/12/20 19:19:34",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1639993072010200"
+  },
+  {
+    "user": "U70QDFN82",
+    "text": "まじか。",
+    "client_msg_id": "f9970f6c-1568-44d1-9795-395d23d5b81d",
+    "name": "yutakatay",
+    "img": "https://avatars.slack-edge.com/2020-08-16/1302143736069_0baa468f7bea68e827d9_24.png",
+    "time": "2021/12/20 19:19:35",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1639993070010000"
+  },
+  {
+    "user": "U0GFBAM8U",
+    "text": "私は近所の自販機でした\nモンエナが180円でzoneが130円で売ってる",
+    "client_msg_id": "7DD0465A-DE3A-4168-A68F-619CD0557BAE",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2021/12/20 19:19:35",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1639993013008700"
+  },
+  {
+    "user": "UVB7L4CKH",
+    "text": "ZONe Utopiaがもう製造されてないらしいと聞いて残念な気持ちになっている",
+    "client_msg_id": "0b09f9af-516c-42a8-9e3e-eac8295f7b88",
+    "name": "tatsumigamou",
+    "img": "https://avatars.slack-edge.com/2020-03-12/985313571153_203fee630d3a4a1053a1_24.jpg",
+    "time": "2021/12/20 19:19:36",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1639993008008600"
+  },
+  {
+    "user": "U70QDFN82",
+    "text": "150円くらいで購入したい",
+    "client_msg_id": "49bc6118-f27a-4f9b-b2d9-48b30080935b",
+    "name": "yutakatay",
+    "img": "https://avatars.slack-edge.com/2020-08-16/1302143736069_0baa468f7bea68e827d9_24.png",
+    "time": "2021/12/20 19:19:36",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1639992989007500"
+  },
+  {
+    "user": "U0GFBAM8U",
+    "text": "なふほど",
+    "client_msg_id": "2843EC40-5168-44F7-BC79-48594ADD160F",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2021/12/20 19:19:36",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1639992972006300"
+  },
+  {
+    "user": "U70QDFN82",
+    "text": "Amazonかコンビニ寄ったときにポイントとか還元される安いやつ買ってますね・・・まあけど高いですよね・・・ビールよりも高いの納得いかない",
+    "client_msg_id": "267be261-47a9-46a6-9aa7-e2194e1a4057",
+    "name": "yutakatay",
+    "img": "https://avatars.slack-edge.com/2020-08-16/1302143736069_0baa468f7bea68e827d9_24.png",
+    "time": "2021/12/20 19:19:37",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1639992960006000"
+  },
+  {
+    "user": "U0GFBAM8U",
+    "text": "おお、耳寄りな情報\nyutkatさんはエナドリ、どこで買ってます?",
+    "client_msg_id": "D641779B-883E-4347-B566-10E5538DDD96",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2021/12/20 19:19:37",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1639992898004800"
+  },
+  {
+    "user": "U70QDFN82",
+    "text": "ZONEは味としては結構優しい感じですね。量が多いから２本目に手を出すことがなくてよいです",
+    "client_msg_id": "1ade2775-c6c0-45d7-a388-c63a0918ff0b",
+    "name": "yutakatay",
+    "img": "https://avatars.slack-edge.com/2020-08-16/1302143736069_0baa468f7bea68e827d9_24.png",
+    "time": "2021/12/20 19:19:37",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1639992870004200"
+  },
+  {
+    "user": "U0GFBAM8U",
+    "text": "ただ、飲まないように決めてから飲んでないので、最近出てきたzoneが気になってる",
+    "client_msg_id": "261871C0-0C43-4734-A022-A7B6225CA62F",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2021/12/20 19:19:38",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1639992830002800"
+  },
+  {
+    "user": "U0GFBAM8U",
+    "text": "いいですね！",
+    "client_msg_id": "E91E2D57-3EAB-4C81-98B2-D81FDCCFC165",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2021/12/20 19:19:38",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1639992769000900"
+  },
+  {
+    "user": "U70QDFN82",
+    "text": "なるほど。私も味は好きなんですけどカロリーあるから、私は白かアブソリュートゼロか、トロピカルな緑ですね",
+    "client_msg_id": "63f6e0fe-5c63-4f26-94b6-d912588f74ed",
+    "name": "yutakatay",
+    "img": "https://avatars.slack-edge.com/2020-08-16/1302143736069_0baa468f7bea68e827d9_24.png",
+    "time": "2021/12/20 19:19:39",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1639992749000600"
+  },
+  {
+    "user": "U0GFBAM8U",
+    "text": "濃い緑",
+    "client_msg_id": "D598F306-5840-4D55-935A-8688B474E2DE",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2021/12/20 19:19:39",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1639992705499000"
+  },
+  {
+    "user": "U0GFBAM8U",
+    "text": "濃いやつで最初からあるやつですね",
+    "client_msg_id": "15AE4C90-D333-46B0-A7C6-5670D62B1AD8",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2021/12/20 19:19:39",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1639992699498700"
+  },
+  {
+    "user": "U70QDFN82",
+    "text": "緑２つありますけど、一番ベーシックな緑黒？それともトロピカル的な緑？",
+    "client_msg_id": "f3db7e7c-c5bc-4d20-aaed-0c3684994e6b",
+    "name": "yutakatay",
+    "img": "https://avatars.slack-edge.com/2020-08-16/1302143736069_0baa468f7bea68e827d9_24.png",
+    "time": "2021/12/20 19:19:40",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1639992679498100"
+  },
+  {
+    "user": "U0GFBAM8U",
+    "text": "私はモンスターの緑のやつ",
+    "client_msg_id": "7A6038ED-EEF7-4F46-9EC3-1C0594B70011",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2021/12/20 19:19:40",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1639992640497100"
+  },
+  {
+    "user": "U70QDFN82",
+    "text": "量多いやつ",
+    "client_msg_id": "bce7e3af-e608-4dda-b59a-1af303ef7b08",
+    "name": "yutakatay",
+    "img": "https://avatars.slack-edge.com/2020-08-16/1302143736069_0baa468f7bea68e827d9_24.png",
+    "time": "2021/12/20 19:19:40",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1639992622496600"
+  },
+  {
+    "user": "U70QDFN82",
+    "text": "私はモンスターかZONEが好きですね",
+    "client_msg_id": "610dd45a-c14a-4f56-a920-3078287d68f4",
+    "name": "yutakatay",
+    "img": "https://avatars.slack-edge.com/2020-08-16/1302143736069_0baa468f7bea68e827d9_24.png",
+    "time": "2021/12/20 19:19:41",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1639992610496100"
+  },
+  {
+    "user": "UGA29R3FH",
+    "text": "魔剤は飲まないようにしてる",
+    "client_msg_id": "2e51848a-6898-4390-a880-ea124c9baa1a",
+    "name": "znmxodq1",
+    "img": "https://avatars.slack-edge.com/2019-03-08/570571829091_2ca91fb0cc1ed2341fe0_24.png",
+    "time": "2021/12/20 19:19:41",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1639992608496000"
+  },
+  {
+    "user": "U0GFBAM8U",
+    "text": "みなさん、好きなエナジードリンクってありますか?",
+    "client_msg_id": "F1AF35F4-5E08-46FE-B463-100B4E9617AD",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2021/12/20 19:19:41",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1639992576494900"
+  },
+  {
     "user": "U02ASPM0A6T",
     "text": "ArchJP フォーラムのサイトアイコンよりメリークリスマス",
     "client_msg_id": "03734544-faa3-45be-bdbf-ab35a5e64ceb",
     "name": "yozigen",
     "img": "https://avatars.slack-edge.com/2021-08-15/2405164316960_50d7f6e8be23e5b2a0eb_24.jpg",
-    "time": "2021/12/20 12:17:49",
+    "time": "2021/12/20 19:19:42",
     "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1639967592493300"
   },
   {
