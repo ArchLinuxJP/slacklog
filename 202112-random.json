@@ -1,11 +1,101 @@
 [
   {
+    "user": "U0PM6EYR1",
+    "text": "`--delete` とか `--after-delete` とかあるけど、scp 代わりに使うだけなら、 `-av` で十分かなー",
+    "client_msg_id": "72d717c2-7f04-4d85-9901-f9a3a2c368c0",
+    "name": "raa0121",
+    "img": "https://secure.gravatar.com/avatar/35b032d7b2d4182b0c2de1ef85ba91f2.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0009-24.png",
+    "time": "2021/12/24 12:17:14",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1640313488095000"
+  },
+  {
+    "user": "U70QDFN82",
+    "text": "なるほどavのオプションだけ知ってればいいんですね。覚えやすい",
+    "client_msg_id": "d7071f59-d25a-4e0f-84fc-e66343b0e113",
+    "name": "yutakatay",
+    "img": "https://avatars.slack-edge.com/2020-08-16/1302143736069_0baa468f7bea68e827d9_24.png",
+    "time": "2021/12/24 12:17:14",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1640313394093900"
+  },
+  {
+    "user": "U0PM6EYR1",
+    "text": "```rsync -av dir1/ dir2/```\nだけ覚えておく",
+    "client_msg_id": "5fc0ff02-3bb2-4ca2-8e0c-90f2ba4db872",
+    "name": "raa0121",
+    "img": "https://secure.gravatar.com/avatar/35b032d7b2d4182b0c2de1ef85ba91f2.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0009-24.png",
+    "time": "2021/12/24 12:17:14",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1640313111093700"
+  },
+  {
+    "user": "UGA29R3FH",
+    "text": "dryrunも時間かかるのでヨシ！と思っている時はすっ飛ばしてしまう(そして事故る)",
+    "client_msg_id": "044d6fd0-d60e-43a0-9b2a-819324181df4",
+    "name": "znmxodq1",
+    "img": "https://avatars.slack-edge.com/2019-03-08/570571829091_2ca91fb0cc1ed2341fe0_24.png",
+    "time": "2021/12/24 12:17:15",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1640312790092500"
+  },
+  {
+    "user": "U017BNGTHT3",
+    "text": "rsyncに関してはdryrunで思ってる動きか毎回確認してますね…",
+    "client_msg_id": "a3cb6f00-2c38-4820-a878-7318a2fbbdc3",
+    "name": "s5is",
+    "img": "https://avatars.slack-edge.com/2020-11-29/1531495219589_cf6a2f80ce7bb820ba38_24.png",
+    "time": "2021/12/24 12:17:15",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1640312699091400"
+  },
+  {
+    "user": "U70QDFN82",
+    "text": "私は最近man引かなくなってきましたね〜 manファイルないこともあるし。\n--help 文化が広がってきた。いいこと。",
+    "client_msg_id": "34a6e594-988a-4136-91cf-060d5a192800",
+    "name": "yutakatay",
+    "img": "https://avatars.slack-edge.com/2020-08-16/1302143736069_0baa468f7bea68e827d9_24.png",
+    "time": "2021/12/24 12:17:15",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1640312587089600"
+  },
+  {
+    "user": "U02BLTTQEL9",
+    "text": "使うたびに man をひくコマンド筆頭。",
+    "client_msg_id": "25565b69-330e-4a31-a737-c6129c9a274a",
+    "name": "buzz.taiki",
+    "img": "https://avatars.slack-edge.com/2021-08-15/2388525195124_53543ae8a9c6189fc784_24.jpg",
+    "time": "2021/12/24 12:17:16",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1640312433088400"
+  },
+  {
+    "user": "UGA29R3FH",
+    "text": "スラッシュの位置あれほんと…",
+    "client_msg_id": "bdcb6a3d-f11a-40ad-a542-3f9f07dabfaa",
+    "name": "znmxodq1",
+    "img": "https://avatars.slack-edge.com/2019-03-08/570571829091_2ca91fb0cc1ed2341fe0_24.png",
+    "time": "2021/12/24 12:17:16",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1640312273087500"
+  },
+  {
+    "user": "U017BNGTHT3",
+    "text": "スラッシュの位置だけ気をつければ割と何とかなる",
+    "client_msg_id": "b0374b1e-41fd-4a3d-a1a4-042e199cb5d2",
+    "name": "s5is",
+    "img": "https://avatars.slack-edge.com/2020-11-29/1531495219589_cf6a2f80ce7bb820ba38_24.png",
+    "time": "2021/12/24 12:17:16",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1640312248086900"
+  },
+  {
+    "user": "UGA29R3FH",
+    "text": "rsyncは雰囲気で使っている2021",
+    "client_msg_id": "e2188ece-45f8-4eb3-8b4d-a886166d50ff",
+    "name": "znmxodq1",
+    "img": "https://avatars.slack-edge.com/2019-03-08/570571829091_2ca91fb0cc1ed2341fe0_24.png",
+    "time": "2021/12/24 12:17:16",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1640311724085900"
+  },
+  {
     "user": "U70QDFN82",
     "text": "rsyncを覚えたかった2021年がもうすぐ終わろうとしている・・・",
     "client_msg_id": "95b1d739-ab6a-4075-a712-7c8988464996",
     "name": "yutakatay",
     "img": "https://avatars.slack-edge.com/2020-08-16/1302143736069_0baa468f7bea68e827d9_24.png",
-    "time": "2021/12/24 11:06:36",
+    "time": "2021/12/24 12:17:17",
     "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1640310407085400"
   },
   {
