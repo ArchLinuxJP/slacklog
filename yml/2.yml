@@ -6,15 +6,3 @@
           exit
         fi
         date=`date +"%Y%m"`
-        out=$date-general.json
-        git add .
-        #if [ -f $out ];then
-        #  git add $out
-        #fi
-        #git add gen.json
-        git commit -m "update json" -a
-    - name: Push changes
-      uses: ad-m/github-push-action@master
-      with:
-        github_token: ${{ secrets.GITHUB_TOKEN }}
-        branch: master

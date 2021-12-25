@@ -1,0 +1,16 @@
+        if [ -f $out ];then
+          git add $out
+        fi
+        git add gen.json
+        git add ran.json
+        if git commit -m "update json" -a;then
+          echo ok commit
+        else
+          echo error commit
+          exit
+        fi
+    - name: Push changes
+      uses: ad-m/github-push-action@master
+      with:
+        github_token: ${{ secrets.GITHUB_TOKEN }}
+        branch: master

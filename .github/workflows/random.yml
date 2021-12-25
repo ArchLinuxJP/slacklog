@@ -218,8 +218,8 @@ jobs:
          fi
         done
         cat $out|jq .
+        
         cp -rf $out $tmp_json
-
     - name: Commit files
       run: |
         git config --local user.email "action@github.com"
@@ -232,6 +232,7 @@ jobs:
         if [ -f $out ];then
           git add $out
         fi
+        git add gen.json
         git add ran.json
         if git commit -m "update json" -a;then
           echo ok commit
@@ -239,7 +240,6 @@ jobs:
           echo error commit
           exit
         fi
-
     - name: Push changes
       uses: ad-m/github-push-action@master
       with:
