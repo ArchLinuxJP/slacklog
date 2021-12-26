@@ -185,7 +185,7 @@ rm $out
 cat $out.tmp|jq -s ".|= .+[]" > $out
 
 #text : @${user} -> @${name}
-t=`cat $out|grep '<*>'|grep '@'|tr '<' '\n' |grep '@'|cut -d '@' -f 2 |cut -d ">" -f 1|sort|uniq`
+t=`cat $out|grep '<*>'|grep '@'|tr '<' '\n' |cut -d '"' -f 4|grep '^@'|cut -d '@' -f 2 |cut -d ">" -f 1|sort|uniq`
 n=`echo "$t"|wc -l|tr -d ' '`
 for ((i=1;i<=$n;i++))
 do
