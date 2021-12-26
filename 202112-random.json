@@ -1,11 +1,110 @@
 [
   {
+    "user": "U01J1GGMHDJ",
+    "text": "magic wormhole、android版クライアントとセキュリティが微妙だけど、それ以外は便利で良きだった。\n（これ仕組みが複雑過ぎてよく分からん…）",
+    "client_msg_id": "388e4d19-a5b3-4218-8588-7042d8d36940",
+    "name": "naokihirokitomoki",
+    "img": "https://avatars.slack-edge.com/2021-01-01/1607396797362_a9967cc229f49d114f8a_24.jpg",
+    "time": "2021/12/26 12:55:45",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1640480994144400"
+  },
+  {
+    "user": "U0GFBAM8U",
+    "text": "インターネット越しにssh確立するのも面倒な時ありますからね",
+    "client_msg_id": "3495B908-9C43-48B3-B7CB-EA6C3A5E4624",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2021/12/26 12:55:46",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1640479661140900"
+  },
+  {
+    "user": "U0GFBAM8U",
+    "text": "おお、便利そう",
+    "client_msg_id": "23B19939-FE4C-42FF-9E45-8837CEBAA0FD",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2021/12/26 12:55:46",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1640479631140000"
+  },
+  {
+    "user": "U02ASPM0A6T",
+    "text": "簡単にファイルを送れるのは何かの話、こんなものがありました\nLAN内では`zget`インターネット越しでは`magic-wormhole`が楽そうです\n• <https://pypi.org/project/zget/>\n• <https://jp.techcrunch.com/2017/06/28/20170627magic-wormhole-is-a-clever-way-to-send-files-easily-and-securely/>",
+    "client_msg_id": "12e06080-2c7c-407d-a381-431440c0dd9f",
+    "name": "yozigen",
+    "img": "https://avatars.slack-edge.com/2021-08-15/2405164316960_50d7f6e8be23e5b2a0eb_24.jpg",
+    "time": "2021/12/26 12:55:46",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1640467371139600"
+  },
+  {
+    "user": "UGA29R3FH",
+    "text": "なんでuim使ってたしリポジトリから無くなった時に困った(今は不満が出たらAURからuim突っ込むつもりでfcitx5-skk使ってます)",
+    "client_msg_id": "a5b7383c-208f-4f57-a954-c5fbaeb43aba",
+    "name": "znmxodq1",
+    "img": "https://avatars.slack-edge.com/2019-03-08/570571829091_2ca91fb0cc1ed2341fe0_24.png",
+    "time": "2021/12/26 12:55:46",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1640438002136200"
+  },
+  {
+    "user": "UGA29R3FH",
+    "text": "SKK無いと生きていけない(おおげさ)",
+    "client_msg_id": "330f5da2-6a3c-4173-9128-eda32bf2a181",
+    "name": "znmxodq1",
+    "img": "https://avatars.slack-edge.com/2019-03-08/570571829091_2ca91fb0cc1ed2341fe0_24.png",
+    "time": "2021/12/26 12:55:47",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1640437945134600"
+  },
+  {
+    "user": "U0GFBAM8U",
+    "text": "すごいなあ\nskkなんもわからん",
+    "client_msg_id": "F849B0DC-0BDC-4F6F-94B8-980AE2BDBD2D",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2021/12/26 12:55:47",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1640437715134100"
+  },
+  {
+    "user": "UGA29R3FH",
+    "text": "(単にArch使ってますよアピールをしているだけ)",
+    "client_msg_id": "88802dbb-c692-4900-a181-ce80429d624c",
+    "name": "znmxodq1",
+    "img": "https://avatars.slack-edge.com/2019-03-08/570571829091_2ca91fb0cc1ed2341fe0_24.png",
+    "time": "2021/12/26 12:55:47",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1640437381133600"
+  },
+  {
+    "user": "UGA29R3FH",
+    "text": "お(ちなみに申し訳程度にArch要素がある)",
+    "client_msg_id": "6f07a19f-e9b8-4c26-bbfe-754a2405e1e2",
+    "name": "znmxodq1",
+    "img": "https://avatars.slack-edge.com/2019-03-08/570571829091_2ca91fb0cc1ed2341fe0_24.png",
+    "time": "2021/12/26 12:55:48",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1640437361132900"
+  },
+  {
+    "user": "U0GFBAM8U",
+    "text": "便利\n<https://zenn.dev/kuu/articles/vac2021-skkeleton>",
+    "client_msg_id": "80f7eb22-9a20-4d33-b5a3-49214c1971da",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2021/12/26 12:55:48",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1640437344132400"
+  },
+  {
+    "user": "U0GFBAM8U",
+    "text": "kuuさんのプラグイン、紹介されてた\n<https://mastodon.zunda.ninja/@zundan/107505280176529587>",
+    "client_msg_id": "f196c065-c686-44a4-b607-994441221b6c",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2021/12/26 12:55:48",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1640437299131700"
+  },
+  {
     "user": "U017BNGTHT3",
     "text": "これが作者のPCのスペックの話なのか、推奨スペックなのかが分からない。\n(おそらく前者ですが)",
     "client_msg_id": "804d1d84-e711-45de-a39b-f94c6bfd3a1b",
     "name": "s5is",
     "img": "https://avatars.slack-edge.com/2020-11-29/1531495219589_cf6a2f80ce7bb820ba38_24.png",
-    "time": "2021/12/24 16:01:09",
+    "time": "2021/12/26 12:55:49",
     "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1640329269128200"
   },
   {
@@ -1398,7 +1497,7 @@
     "user": "UUWBU08TU",
     "text": "Wikipediaは確か別管理だった気が。",
     "client_msg_id": "15ebb3a6-e4cc-421c-8acf-1497f9949009",
-    "name": "nekokowan_archjpslack",
+    "name": "nyaarch64",
     "img": "https://avatars.slack-edge.com/2020-06-22/1204027183412_7f7a529c9005aa8cce36_24.png",
     "time": "2021/12/10 12:17:23",
     "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1639104176457900"
@@ -1416,7 +1515,7 @@
     "user": "UUWBU08TU",
     "text": "言語間リンクの更新が単体でそこまで手間か、あるいはそれがなければ楽かと言われると微妙なところですね(ほぼ誤差な気がします)",
     "client_msg_id": "3f2eee84-4ec5-476e-a6a0-cc67656b7e88",
-    "name": "nekokowan_archjpslack",
+    "name": "nyaarch64",
     "img": "https://avatars.slack-edge.com/2020-06-22/1204027183412_7f7a529c9005aa8cce36_24.png",
     "time": "2021/12/10 12:17:24",
     "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1639101354453400"
@@ -1452,7 +1551,7 @@
     "user": "UUWBU08TU",
     "text": "とりあえず、形式的にはArchWikiの議論ページで反対意見を募った方がいい気がします。この場合どこの議論ページにするか迷いますが……。ちょっと考えます。",
     "client_msg_id": "3c949301-a0a8-4692-b03e-7c9ab38e8240",
-    "name": "nekokowan_archjpslack",
+    "name": "nyaarch64",
     "img": "https://avatars.slack-edge.com/2020-06-22/1204027183412_7f7a529c9005aa8cce36_24.png",
     "time": "2021/12/10 09:57:28",
     "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1639093634437600"
@@ -1470,7 +1569,7 @@
     "user": "UUWBU08TU",
     "text": "他言語版へのリンク、タイトルが読めることが前提なので、to/from英語版には意味があるが、それ以外はあまりない、確かに",
     "client_msg_id": "93a401be-28d8-4142-bc9f-22e2c9c18b22",
-    "name": "nekokowan_archjpslack",
+    "name": "nyaarch64",
     "img": "https://avatars.slack-edge.com/2020-06-22/1204027183412_7f7a529c9005aa8cce36_24.png",
     "time": "2021/12/10 09:57:29",
     "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1639028666433800"
@@ -1479,7 +1578,7 @@
     "user": "UUWBU08TU",
     "text": "なるほど。何も考えずに慣習で続けていましたが、確かにそうかも。",
     "client_msg_id": "d9141109-acb0-4fb5-9355-ffccd2e1157d",
-    "name": "nekokowan_archjpslack",
+    "name": "nyaarch64",
     "img": "https://avatars.slack-edge.com/2020-06-22/1204027183412_7f7a529c9005aa8cce36_24.png",
     "time": "2021/12/09 15:20:25",
     "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1639028614433000"
@@ -1632,7 +1731,7 @@
     "user": "UUWBU08TU",
     "text": "x86は今はUEFIで済んでる感じですかねー、BIOS時代はベンダーによって実装が違ったりして大変だったと聞いたことがあります",
     "client_msg_id": "d7b39832-b603-41da-99e9-42e1c15d6156",
-    "name": "nekokowan_archjpslack",
+    "name": "nyaarch64",
     "img": "https://avatars.slack-edge.com/2020-06-22/1204027183412_7f7a529c9005aa8cce36_24.png",
     "time": "2021/12/08 22:24:14",
     "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1638673975409400"
@@ -2019,7 +2118,7 @@
     "user": "UUWBU08TU",
     "text": "私もibus試してみましたが、skkに固定して英数モードで乗り切ることにしました(Ctrl-jが固定で取られるのは少し気になる所ですが)",
     "client_msg_id": "91c93e88-5ee9-4e42-b6ce-98558574116a",
-    "name": "nekokowan_archjpslack",
+    "name": "nyaarch64",
     "img": "https://avatars.slack-edge.com/2020-06-22/1204027183412_7f7a529c9005aa8cce36_24.png",
     "time": "2021/11/24,13:14:48",
     "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1637759688361700"
@@ -2406,7 +2505,7 @@
     "user": "UUWBU08TU",
     "text": "ArchLinuxARM の linux-raspberrypi-5.10.78-2-arm7vh で、HDMIドライバがクラッシュしてる~っぽいですね~かもしれません…… :cry:",
     "client_msg_id": "9d802546-c6fe-46af-bfdf-195fec56f670",
-    "name": "nekokowan_archjpslack",
+    "name": "nyaarch64",
     "img": "https://avatars.slack-edge.com/2020-06-22/1204027183412_7f7a529c9005aa8cce36_24.png",
     "time": "2021/11/14,14:03:41",
     "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1636898621299700"
