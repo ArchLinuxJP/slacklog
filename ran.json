@@ -1,11 +1,371 @@
 [
   {
+    "user": "U017BNGTHT3",
+    "text": "多分個人鯖で一番現実的なのはOCIの無料枠じゃないかな、Arm鯖ならRAMが24GBまで無料。",
+    "client_msg_id": "42f6fbe1-160b-4c4c-ab30-cc2427870bdd",
+    "name": "s5is",
+    "img": "https://avatars.slack-edge.com/2020-11-29/1531495219589_cf6a2f80ce7bb820ba38_24.png",
+    "time": "2021/12/29 16:16:34",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1640760957197800"
+  },
+  {
+    "user": "UGA29R3FH",
+    "text": "ラズパイでやるのすごい",
+    "client_msg_id": "6e665c52-ebe4-4072-a82d-6353fbbf3c68",
+    "name": "znmxodq1",
+    "img": "https://avatars.slack-edge.com/2019-03-08/570571829091_2ca91fb0cc1ed2341fe0_24.png",
+    "time": "2021/12/29 16:16:35",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1640760830196300"
+  },
+  {
+    "user": "U017BNGTHT3",
+    "text": "個人鯖をラズパイで運用してる人も居るらしいが、3とか4じゃないと1台では無理そう。",
+    "client_msg_id": "852cc1ab-8401-4d59-b036-64203e420d4a",
+    "name": "s5is",
+    "img": "https://avatars.slack-edge.com/2020-11-29/1531495219589_cf6a2f80ce7bb820ba38_24.png",
+    "time": "2021/12/29 16:16:35",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1640760815196100"
+  },
+  {
+    "user": "U01J1GGMHDJ",
+    "text": "（負荷よりもmastdonはruby製なのでメモリーが大変）",
+    "client_msg_id": "24dd663c-60c8-4811-9624-eae336229aac",
+    "name": "naokihirokitomoki",
+    "img": "https://avatars.slack-edge.com/2021-01-01/1607396797362_a9967cc229f49d114f8a_24.jpg",
+    "time": "2021/12/29 16:16:35",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1640760648195300"
+  },
+  {
+    "user": "U0GFBAM8U",
+    "text": "(なお負荷も大きい",
+    "client_msg_id": "75B796CC-3CEB-4448-8BEA-B52414211AF4",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2021/12/29 16:16:36",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1640760573194200"
+  },
+  {
+    "user": "U0GFBAM8U",
+    "text": "楽しいね",
+    "client_msg_id": "40C3703F-A8C7-4D1C-A474-AFB1ACD6F1A1",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2021/12/29 16:16:36",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1640760550193900"
+  },
+  {
+    "user": "U01J1GGMHDJ",
+    "text": "個人でSNS運営、自由にID取れるしBot作成できるしイイぞ！（鯖落とすと他の鯖に迷惑かかるのが一番大変）",
+    "client_msg_id": "05bfc991-4eef-4212-8d69-4cdc9b071388",
+    "name": "naokihirokitomoki",
+    "img": "https://avatars.slack-edge.com/2021-01-01/1607396797362_a9967cc229f49d114f8a_24.jpg",
+    "time": "2021/12/29 16:16:36",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1640760512193700"
+  },
+  {
+    "user": "U0GFBAM8U",
+    "text": "それもあると思う。\nあと、やはり圧倒的なユーザー数が強いんだと思う",
+    "client_msg_id": "73A1959B-A55F-435B-B99B-3DF978A97D00",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2021/12/29 16:16:37",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1640760452192300"
+  },
+  {
+    "user": "UGA29R3FH",
+    "text": "ここみたいなSlackワークスペースにしてもそう",
+    "client_msg_id": "a2e444c3-8e23-4776-84e8-5ff5e2a5e7aa",
+    "name": "znmxodq1",
+    "img": "https://avatars.slack-edge.com/2019-03-08/570571829091_2ca91fb0cc1ed2341fe0_24.png",
+    "time": "2021/12/29 16:16:37",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1640760402190900"
+  },
+  {
+    "user": "UGA29R3FH",
+    "text": "Twitterがなんやかんやで使われ続けてるのも最終的には運用コストをTwitterに押し付けられるからだと思いますし",
+    "client_msg_id": "21aca3cc-6333-4f4e-9ce2-c62574e2482a",
+    "name": "znmxodq1",
+    "img": "https://avatars.slack-edge.com/2019-03-08/570571829091_2ca91fb0cc1ed2341fe0_24.png",
+    "time": "2021/12/29 16:16:38",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1640760359190400"
+  },
+  {
+    "user": "U0GFBAM8U",
+    "text": "きついと思う。dbの増加も半端なかったし、続けていくのはつらそう\nyutkatさんid取れたの羨ましい",
+    "client_msg_id": "F49197D3-6169-4FF8-925F-958CEDFFB113",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2021/12/29 16:16:38",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1640760344189900"
+  },
+  {
+    "user": "UGA29R3FH",
+    "text": "個人でSNSの運営、難しすぎるのでは？",
+    "client_msg_id": "51fa5379-a53e-4306-bcf2-91ab52b97db3",
+    "name": "znmxodq1",
+    "img": "https://avatars.slack-edge.com/2019-03-08/570571829091_2ca91fb0cc1ed2341fe0_24.png",
+    "time": "2021/12/29 16:16:38",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1640760290188200"
+  },
+  {
+    "user": "U0GFBAM8U",
+    "text": "mastodon、流行ってほしかったけど、サーバー管理者は大変だっただろうなあ\ntwitterのid取れなかったのが残念感",
+    "client_msg_id": "4BDFBA38-42D1-44FC-802A-70D371C990EE",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2021/12/29 16:16:39",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1640760255187300"
+  },
+  {
+    "user": "U017BNGTHT3",
+    "text": "まあ、性質的に爆発的に流行ったらそれはそれで困るので…",
+    "client_msg_id": "4551f0d5-a313-42a7-bcb2-0cc88e092f26",
+    "name": "s5is",
+    "img": "https://avatars.slack-edge.com/2020-11-29/1531495219589_cf6a2f80ce7bb820ba38_24.png",
+    "time": "2021/12/29 16:16:39",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1640760109185700"
+  },
+  {
+    "user": "U0GFBAM8U",
+    "text": "今でも活発ですよ、開発は(なおユーザーは",
+    "client_msg_id": "B64652D6-6FBE-4D36-8E5E-745CF93E41E8",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2021/12/29 16:16:39",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1640760047184700"
+  },
+  {
+    "user": "U70QDFN82",
+    "text": "mastodonなつかしい・・・",
+    "client_msg_id": "97292248-a99b-43a0-a573-905ac3004122",
+    "name": "yutakatay",
+    "img": "https://avatars.slack-edge.com/2020-08-16/1302143736069_0baa468f7bea68e827d9_24.png",
+    "time": "2021/12/29 16:16:40",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1640759995183900"
+  },
+  {
+    "user": "U0GFBAM8U",
+    "text": "mastodonのデータベースにすると容量、日に日に圧迫してくれるので便利\nでもインターネット上に置かないといけないので",
+    "client_msg_id": "FCA89179-1C44-41C9-8B21-2A891B4CB289",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2021/12/29 16:16:40",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1640759936183500"
+  },
+  {
+    "user": "U017BNGTHT3",
+    "text": "録画勢が本気出した結果OneDriveの無制限が…(トラウマ)",
+    "client_msg_id": "b1d98a27-540f-4906-b4a1-d640d55286e1",
+    "name": "s5is",
+    "img": "https://avatars.slack-edge.com/2020-11-29/1531495219589_cf6a2f80ce7bb820ba38_24.png",
+    "time": "2021/12/29 16:16:40",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1640759883182900"
+  },
+  {
+    "user": "U01J1GGMHDJ",
+    "text": "あとはバックアップとかですかね…",
+    "client_msg_id": "8f914c2d-8fa8-4d10-92aa-012e7bc9fdd3",
+    "name": "naokihirokitomoki",
+    "img": "https://avatars.slack-edge.com/2021-01-01/1607396797362_a9967cc229f49d114f8a_24.jpg",
+    "time": "2021/12/29 16:16:41",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1640759858182000"
+  },
+  {
+    "user": "U0GFBAM8U",
+    "text": "動画以外で容量難しいですね、個人",
+    "client_msg_id": "C73B7C16-3400-4B11-B5ED-B50512FBC108",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2021/12/29 16:16:41",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1640759822180700"
+  },
+  {
+    "user": "U70QDFN82",
+    "text": "大衆にフィットさせたCMってCMになってないですよね・・・まじで",
+    "client_msg_id": "1bb744cc-eeb5-41ce-86b7-5bf56fc36bbc",
+    "name": "yutakatay",
+    "img": "https://avatars.slack-edge.com/2020-08-16/1302143736069_0baa468f7bea68e827d9_24.png",
+    "time": "2021/12/29 16:16:42",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1640759794180300"
+  },
+  {
+    "user": "UGA29R3FH",
+    "text": "こっちがお金払うから無駄にCMも入らないし",
+    "client_msg_id": "7607d0c5-6023-49a1-a455-ac854241ecc7",
+    "name": "znmxodq1",
+    "img": "https://avatars.slack-edge.com/2019-03-08/570571829091_2ca91fb0cc1ed2341fe0_24.png",
+    "time": "2021/12/29 16:16:42",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1640759714179000"
+  },
+  {
+    "user": "U01J1GGMHDJ",
+    "text": "ストリーミングサービスの動画をダウンロードする動機、期間限定のものを後から見たいというのと、何か編集等したい以外の理由が無い（動画が基本web上から消える事が無いし、オフライン環境が電車以外無いので…）",
+    "client_msg_id": "ab01dbd7-0e93-4835-bcb1-e27aa5ce4b1a",
+    "name": "naokihirokitomoki",
+    "img": "https://avatars.slack-edge.com/2021-01-01/1607396797362_a9967cc229f49d114f8a_24.jpg",
+    "time": "2021/12/29 16:16:42",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1640759710178800"
+  },
+  {
+    "user": "UGA29R3FH",
+    "text": "録画なんてしなくても見たい時に見れるNetflixが一番いい",
+    "client_msg_id": "328e3ade-f8d1-43ef-8e7c-d4ebf3ccdce9",
+    "name": "znmxodq1",
+    "img": "https://avatars.slack-edge.com/2019-03-08/570571829091_2ca91fb0cc1ed2341fe0_24.png",
+    "time": "2021/12/29 16:16:43",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1640759686177600"
+  },
+  {
+    "user": "U70QDFN82",
+    "text": "私は通勤減ってしまったんで活用しなくなっちゃいましたね・・・",
+    "client_msg_id": "9befd9a2-94ab-4305-9184-174b1d641ec6",
+    "name": "yutakatay",
+    "img": "https://avatars.slack-edge.com/2020-08-16/1302143736069_0baa468f7bea68e827d9_24.png",
+    "time": "2021/12/29 16:16:43",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1640759648175900"
+  },
+  {
+    "user": "U0GFBAM8U",
+    "text": "netflixだとダウンロードしてオフライン視聴できるぽい",
+    "client_msg_id": "87BFA65F-0617-4CAB-912B-3329631F41F8",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2021/12/29 16:16:43",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1640759611174200"
+  },
+  {
+    "user": "U0GFBAM8U",
+    "text": "動画配信サービス、ストリーミングもいいですけど、ダウンロードもいいかも",
+    "client_msg_id": "D58B926D-0212-4AC5-A19A-7707A65F50A4",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2021/12/29 16:16:44",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1640759548172500"
+  },
+  {
+    "user": "U0GFBAM8U",
+    "text": "いいですね、録画は楽しい(環境作るのが",
+    "client_msg_id": "B7BD8CC3-2E91-4D16-9538-D71CFD97E652",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2021/12/29 16:16:44",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1640759510171400"
+  },
+  {
+    "user": "U70QDFN82",
+    "text": "テレビはNHKのサブスクが高すぎるから、それならいつでも見れる動画配信サービスの方がいいなって感じで捨てちゃいました",
+    "client_msg_id": "2b955997-77eb-4f88-9d05-12fb5acc310e",
+    "name": "yutakatay",
+    "img": "https://avatars.slack-edge.com/2020-08-16/1302143736069_0baa468f7bea68e827d9_24.png",
+    "time": "2021/12/29 16:16:45",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1640759489170800"
+  },
+  {
+    "user": "U01J1GGMHDJ",
+    "text": "パソコン用チューナーを買って全チャンネル録画サーバー作成:face_with_rolling_eyes: （要らない）\n（そもそもlinuxでテレビ関係辛い）",
+    "client_msg_id": "9dd35924-32e0-42d9-9ad9-2a6d8bf63247",
+    "name": "naokihirokitomoki",
+    "img": "https://avatars.slack-edge.com/2021-01-01/1607396797362_a9967cc229f49d114f8a_24.jpg",
+    "time": "2021/12/29 16:16:45",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1640759467170300"
+  },
+  {
+    "user": "U0GFBAM8U",
+    "text": "私もテレビは見ないなあ、アニメ以外",
+    "client_msg_id": "26A9C5EC-0554-4FE9-BF6C-262557FFEA1A",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2021/12/29 16:16:45",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1640759437169200"
+  },
+  {
+    "user": "U70QDFN82",
+    "text": "今はNetflixとアマゾンプライムにしてますね",
+    "client_msg_id": "f4c6b904-128b-46a5-a441-98efdf58a094",
+    "name": "yutakatay",
+    "img": "https://avatars.slack-edge.com/2020-08-16/1302143736069_0baa468f7bea68e827d9_24.png",
+    "time": "2021/12/29 16:16:46",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1640759432169000"
+  },
+  {
+    "user": "U70QDFN82",
+    "text": "有人の家で久しぶりにテレビ見ましたけどCM多すぎてまったく集中できなかったですね・・・時代は変わった",
+    "client_msg_id": "bd912c54-fd14-4c79-bf98-0dc2fc6d9642",
+    "name": "yutakatay",
+    "img": "https://avatars.slack-edge.com/2020-08-16/1302143736069_0baa468f7bea68e827d9_24.png",
+    "time": "2021/12/29 16:16:46",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1640759419168400"
+  },
+  {
+    "user": "U0GFBAM8U",
+    "text": "netflixとかは契約あります?",
+    "client_msg_id": "2A6D6601-0977-4561-8D3A-84AC39BB52C7",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2021/12/29 16:16:46",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1640759417168200"
+  },
+  {
+    "user": "U0GFBAM8U",
+    "text": "録画しても結局見ないし、他のことしてる",
+    "client_msg_id": "2C0E5EF8-5B04-410E-B710-0F10838067BA",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2021/12/29 16:16:47",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1640759368166500"
+  },
+  {
+    "user": "U0GFBAM8U",
+    "text": "なるほど\nあるあるですね",
+    "client_msg_id": "71E09402-89EB-49D3-AF11-97D991BC1FCB",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2021/12/29 16:16:47",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1640759336166000"
+  },
+  {
+    "user": "U70QDFN82",
+    "text": "しかも結局取ったやつの半分も見れてないという",
+    "client_msg_id": "aa01d831-f012-4d4a-b405-11c56f318ed0",
+    "name": "yutakatay",
+    "img": "https://avatars.slack-edge.com/2020-08-16/1302143736069_0baa468f7bea68e827d9_24.png",
+    "time": "2021/12/29 16:16:47",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1640759319165600"
+  },
+  {
+    "user": "U70QDFN82",
+    "text": "もうテレビがないんですよね・・・だから見れないデータだけがある",
+    "client_msg_id": "bb96ed98-6fda-4460-a8d0-6a9271dd6f9e",
+    "name": "yutakatay",
+    "img": "https://avatars.slack-edge.com/2020-08-16/1302143736069_0baa468f7bea68e827d9_24.png",
+    "time": "2021/12/29 16:16:48",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1640759298165100"
+  },
+  {
+    "user": "U0GFBAM8U",
+    "text": "アニメ録画用にしては?",
+    "client_msg_id": "6F0FEFF7-5B6F-4D01-A258-A33D300A5CB0",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2021/12/29 16:16:48",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1640759266164500"
+  },
+  {
+    "user": "U0GFBAM8U",
+    "text": "すごい",
+    "client_msg_id": "8C71D32A-2A00-407D-8E09-307E09A4F7BE",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2021/12/29 16:16:49",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1640759257164200"
+  },
+  {
     "user": "U70QDFN82",
     "text": "昔テレビの録画用とかで使ってたHDDが大量に余ってるけど有効活用する方法はないものか・・・\nたぶん8台くらいあって全部で20TBくらいある",
     "client_msg_id": "477fbdb7-ffe1-46bc-90e6-5db51582c9b8",
     "name": "yutakatay",
     "img": "https://avatars.slack-edge.com/2020-08-16/1302143736069_0baa468f7bea68e827d9_24.png",
-    "time": "2021/12/29 15:20:59",
+    "time": "2021/12/29 16:16:49",
     "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1640756879163900"
   },
   {
