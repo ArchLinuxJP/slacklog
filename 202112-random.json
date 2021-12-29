@@ -1,11 +1,56 @@
 [
   {
+    "user": "U70QDFN82",
+    "text": "昔テレビの録画用とかで使ってたHDDが大量に余ってるけど有効活用する方法はないものか・・・\nたぶん8台くらいあって全部で20TBくらいある",
+    "client_msg_id": "477fbdb7-ffe1-46bc-90e6-5db51582c9b8",
+    "name": "yutakatay",
+    "img": "https://avatars.slack-edge.com/2020-08-16/1302143736069_0baa468f7bea68e827d9_24.png",
+    "time": "2021/12/29 15:20:59",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1640756879163900"
+  },
+  {
+    "user": "UGA29R3FH",
+    "text": "rsyncが活きてくるようなやつ",
+    "client_msg_id": "2eb16c00-5d7b-44c7-b474-c5760f9d7801",
+    "name": "znmxodq1",
+    "img": "https://avatars.slack-edge.com/2019-03-08/570571829091_2ca91fb0cc1ed2341fe0_24.png",
+    "time": "2021/12/29 15:20:59",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1640756348162200"
+  },
+  {
+    "user": "UGA29R3FH",
+    "text": "ここの人が言う「ファイル共有」、個人で所有/契約してるデバイスやサーバー間で大量にデータをやりとりするケースが多そうな気がしてます",
+    "client_msg_id": "8bd0af27-6480-4e8a-968b-7c9db7687651",
+    "name": "znmxodq1",
+    "img": "https://avatars.slack-edge.com/2019-03-08/570571829091_2ca91fb0cc1ed2341fe0_24.png",
+    "time": "2021/12/29 15:21:00",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1640756307161700"
+  },
+  {
+    "user": "UGA29R3FH",
+    "text": "人とやりとりするならそうですね",
+    "client_msg_id": "6169c72f-aaa3-4d19-9a11-2ed67f90ed7f",
+    "name": "znmxodq1",
+    "img": "https://avatars.slack-edge.com/2019-03-08/570571829091_2ca91fb0cc1ed2341fe0_24.png",
+    "time": "2021/12/29 15:21:00",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1640756248160000"
+  },
+  {
+    "user": "U017BNGTHT3",
+    "text": "ファイルの共有、大抵のシーンでSlack/Box/Google Driveだけで事足りてしまっている…。",
+    "client_msg_id": "957a67f4-60f7-48f4-8f92-309712ad740f",
+    "name": "s5is",
+    "img": "https://avatars.slack-edge.com/2020-11-29/1531495219589_cf6a2f80ce7bb820ba38_24.png",
+    "time": "2021/12/29 15:21:00",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1640756164159600"
+  },
+  {
     "user": "U02ASPM0A6T",
     "text": "ファイル送信、GUIブラウザとインターネットが使える端末であればWebサービスの方がツールのインストール不要で非技術者でも使えるのが楽そうです。外部へアクセスするので組織内のポリシーによっては使えないゆるいデータ限定にはなるでしょうが。\n• LAN内では snapdrop（Airdropの代替。「<http://snapdrop.net|snapdrop.net> を開いてください」と伝える）\n• インターネット越しではReal-Time File Transfer（ファイルDL用のURLを直接送る）\n• <https://snapdrop.net/>\n• <https://rts.zatsuzen.com/>\n• <https://news.mynavi.jp/article/20210605-1899680/>",
     "client_msg_id": "704d74f7-e97f-430b-ba6e-00c953b21ce2",
     "name": "yozigen",
     "img": "https://avatars.slack-edge.com/2021-08-15/2405164316960_50d7f6e8be23e5b2a0eb_24.jpg",
-    "time": "2021/12/29 11:06:57",
+    "time": "2021/12/29 15:21:01",
     "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1640740990154800"
   },
   {
