@@ -1,11 +1,227 @@
 [
   {
+    "user": "U01QTK2CP3K",
+    "text": "ipv6のポートを全開放していたONUがあったそうな、、、",
+    "client_msg_id": "6ccb602a-df35-4d8c-9d28-8b26379aea72",
+    "name": "redohagi127",
+    "img": "https://avatars.slack-edge.com/2021-03-07/1824244509366_870cdef2c6261c959069_24.jpg",
+    "time": "2021/12/31 21:27:39",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1640952047448300"
+  },
+  {
+    "user": "UGA29R3FH",
+    "text": "やばい",
+    "client_msg_id": "7d98241e-ba40-4324-bbca-602811c677d0",
+    "name": "znmxodq1",
+    "img": "https://avatars.slack-edge.com/2019-03-08/570571829091_2ca91fb0cc1ed2341fe0_24.png",
+    "time": "2021/12/31 21:27:40",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1640951777447700"
+  },
+  {
+    "user": "U01QTK2CP3K",
+    "text": "なお世の中にはfirewall設定の無効にしているONUを貸し出してるとんでも回線業者がいる、、、",
+    "client_msg_id": "6c084184-cefd-4261-ba09-4d6af93b4c3b",
+    "name": "redohagi127",
+    "img": "https://avatars.slack-edge.com/2021-03-07/1824244509366_870cdef2c6261c959069_24.jpg",
+    "time": "2021/12/31 21:27:40",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1640951587447400"
+  },
+  {
+    "user": "UGA29R3FH",
+    "text": "必要になった時はVPSに放り込んでるArchに向けてSSH Port Forwardingしかけてる",
+    "client_msg_id": "9ce86eaa-fbe8-4795-8d17-44ddd8e8960d",
+    "name": "znmxodq1",
+    "img": "https://avatars.slack-edge.com/2019-03-08/570571829091_2ca91fb0cc1ed2341fe0_24.png",
+    "time": "2021/12/31 21:27:40",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1640950272445800"
+  },
+  {
+    "user": "UGA29R3FH",
+    "text": "インフラマンではないので自宅のネットワークは一切公開してないな、今は",
+    "client_msg_id": "3d541988-b393-4caf-89f0-1487070b19ef",
+    "name": "znmxodq1",
+    "img": "https://avatars.slack-edge.com/2019-03-08/570571829091_2ca91fb0cc1ed2341fe0_24.png",
+    "time": "2021/12/31 21:27:40",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1640950238445200"
+  },
+  {
+    "user": "UGA29R3FH",
+    "text": "ルーターのNATが弾いてくれるの便利",
+    "client_msg_id": "09c9d494-159b-4018-a495-9bf92be9ad8d",
+    "name": "znmxodq1",
+    "img": "https://avatars.slack-edge.com/2019-03-08/570571829091_2ca91fb0cc1ed2341fe0_24.png",
+    "time": "2021/12/31 21:27:41",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1640950153444700"
+  },
+  {
+    "user": "U01QTK2CP3K",
+    "text": "ネットワーク系のセキュリティはルーターさんのファイアーウォールに任せてる",
+    "client_msg_id": "5097924d-cff2-43f3-9178-10d421c52fbe",
+    "name": "redohagi127",
+    "img": "https://avatars.slack-edge.com/2021-03-07/1824244509366_870cdef2c6261c959069_24.jpg",
+    "time": "2021/12/31 21:27:41",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1640950132444300"
+  },
+  {
+    "user": "U01792411FA",
+    "text": "ブラスターワームは猛威を奮った",
+    "client_msg_id": "80abaa4d-7bbb-4c3a-9cfd-126fde67835c",
+    "name": "seekerkrt",
+    "img": "https://avatars.slack-edge.com/2020-07-06/1229422291988_bb227d56e151807964f4_24.png",
+    "time": "2021/12/31 21:27:41",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1640950106443800"
+  },
+  {
+    "user": "U01792411FA",
+    "text": "昔は、無対策でネットに一瞬つないだだけでワームに感染とかありましたね",
+    "client_msg_id": "668fd18a-0fe2-4b8e-9d63-a48503075f1a",
+    "name": "seekerkrt",
+    "img": "https://avatars.slack-edge.com/2020-07-06/1229422291988_bb227d56e151807964f4_24.png",
+    "time": "2021/12/31 21:27:41",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1640950078443100"
+  },
+  {
+    "user": "U01QTK2CP3K",
+    "text": "作今のウイルス対策というかセキュリティ対策は、ソフト云々よりユーザーが気を付ける！のほうが対策になるような気がしてる。怪しいURLクリックするなとか、変なメール開くなとか、よくわからんUSBメモリ指すなとか、、、",
+    "client_msg_id": "ad52d1d9-eefd-4dfd-a675-0e62895675c6",
+    "name": "redohagi127",
+    "img": "https://avatars.slack-edge.com/2021-03-07/1824244509366_870cdef2c6261c959069_24.jpg",
+    "time": "2021/12/31 21:27:42",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1640950010442400"
+  },
+  {
+    "user": "UGA29R3FH",
+    "text": "うちの環境は余計な物がたくさん入ってるので使えない",
+    "client_msg_id": "262de410-b513-454d-8621-00b3ccb51035",
+    "name": "znmxodq1",
+    "img": "https://avatars.slack-edge.com/2019-03-08/570571829091_2ca91fb0cc1ed2341fe0_24.png",
+    "time": "2021/12/31 21:27:42",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1640949996442100"
+  },
+  {
+    "user": "U01792411FA",
+    "text": "copytoramかぁ",
+    "client_msg_id": "8b5b4ebb-0873-4e4a-9476-f02dcf02c2da",
+    "name": "seekerkrt",
+    "img": "https://avatars.slack-edge.com/2020-07-06/1229422291988_bb227d56e151807964f4_24.png",
+    "time": "2021/12/31 21:27:42",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1640949963441000"
+  },
+  {
+    "user": "UGA29R3FH",
+    "text": "メモリが潤沢にあって起動の遅さが許容できるなら便利だと思う",
+    "client_msg_id": "41e65400-0163-4c0e-bd6b-92dd6b0aa7bd",
+    "name": "znmxodq1",
+    "img": "https://avatars.slack-edge.com/2019-03-08/570571829091_2ca91fb0cc1ed2341fe0_24.png",
+    "time": "2021/12/31 21:27:43",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1640949847438600"
+  },
+  {
+    "user": "U01QTK2CP3K",
+    "text": "copytoram知らなかった、、、これ便利そう",
+    "client_msg_id": "0bbb26a1-73b5-4404-8a09-228ce212a786",
+    "name": "redohagi127",
+    "img": "https://avatars.slack-edge.com/2021-03-07/1824244509366_870cdef2c6261c959069_24.jpg",
+    "time": "2021/12/31 21:27:43",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1640949811437300"
+  },
+  {
+    "user": "U01792411FA",
+    "text": "昔ほどウィルスやワーム流行ってないし",
+    "client_msg_id": "a47910fd-5cc2-498a-8233-f594b60189aa",
+    "name": "seekerkrt",
+    "img": "https://avatars.slack-edge.com/2020-07-06/1229422291988_bb227d56e151807964f4_24.png",
+    "time": "2021/12/31 21:27:43",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1640949804437100"
+  },
+  {
+    "user": "U01792411FA",
+    "text": "昨今はWindows、Defenderだけで十分な気もしないでもない",
+    "client_msg_id": "036a1062-f39a-4876-bf1c-5cc53e703cd4",
+    "name": "seekerkrt",
+    "img": "https://avatars.slack-edge.com/2020-07-06/1229422291988_bb227d56e151807964f4_24.png",
+    "time": "2021/12/31 21:27:43",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1640949777436500"
+  },
+  {
+    "user": "U01792411FA",
+    "text": "デスクトップは保険としてNorton先生愛用してる",
+    "client_msg_id": "55ff438f-52cf-4bae-bf1a-7b0166e36911",
+    "name": "seekerkrt",
+    "img": "https://avatars.slack-edge.com/2020-07-06/1229422291988_bb227d56e151807964f4_24.png",
+    "time": "2021/12/31 21:27:44",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1640949708435900"
+  },
+  {
+    "user": "UGA29R3FH",
+    "text": "ライブシステムなら大抵copytoramオプションあるし(我らがarchisoにもある)使いたいんですよね",
+    "client_msg_id": "157e88b4-7280-4a7e-b300-65cd137020fe",
+    "name": "znmxodq1",
+    "img": "https://avatars.slack-edge.com/2019-03-08/570571829091_2ca91fb0cc1ed2341fe0_24.png",
+    "time": "2021/12/31 21:27:44",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1640949694435600"
+  },
+  {
+    "user": "U01QTK2CP3K",
+    "text": "RAM上にシステム展開とかするならなおさらほしい",
+    "client_msg_id": "67b6d3f3-6e3a-47ff-bc7c-b4c4d02a2c7e",
+    "name": "redohagi127",
+    "img": "https://avatars.slack-edge.com/2021-03-07/1824244509366_870cdef2c6261c959069_24.jpg",
+    "time": "2021/12/31 21:27:44",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1640949639434700"
+  },
+  {
+    "user": "U01QTK2CP3K",
+    "text": "まぁメモリはいくらあっても困らないんで、たくさんあればあるほどいいもんです",
+    "client_msg_id": "70982971-7559-4364-b9d2-38082724a946",
+    "name": "redohagi127",
+    "img": "https://avatars.slack-edge.com/2021-03-07/1824244509366_870cdef2c6261c959069_24.jpg",
+    "time": "2021/12/31 21:27:44",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1640949611434000"
+  },
+  {
+    "user": "UGA29R3FH",
+    "text": "タブレットでも下手するともっと欲しくなる",
+    "client_msg_id": "98c9b8a5-ef6d-4578-a93e-4dd22b2ac836",
+    "name": "znmxodq1",
+    "img": "https://avatars.slack-edge.com/2019-03-08/570571829091_2ca91fb0cc1ed2341fe0_24.png",
+    "time": "2021/12/31 21:27:45",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1640949545433400"
+  },
+  {
+    "user": "U01QTK2CP3K",
+    "text": "まぁ業務にもよるんでしょうが、4Gが許されるのは現代ではタブレット端末ぐらいだと思ってます。",
+    "client_msg_id": "620752de-df08-4953-ae88-e94ba95ea3b1",
+    "name": "redohagi127",
+    "img": "https://avatars.slack-edge.com/2021-03-07/1824244509366_870cdef2c6261c959069_24.jpg",
+    "time": "2021/12/31 21:27:45",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1640949431431800"
+  },
+  {
+    "user": "UGA29R3FH",
+    "text": "せめて16GBは欲しいところ",
+    "client_msg_id": "9bd20252-0f95-49f3-91a0-65160921b69c",
+    "name": "znmxodq1",
+    "img": "https://avatars.slack-edge.com/2019-03-08/570571829091_2ca91fb0cc1ed2341fe0_24.png",
+    "time": "2021/12/31 21:27:45",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1640949356430700"
+  },
+  {
+    "user": "U01QTK2CP3K",
+    "text": "laptopなら8Gでも許せるけど、デスクトップで8Gは正直認めたくない、、、",
+    "client_msg_id": "5e70e59d-2752-4cce-a2a7-588161e7fc4d",
+    "name": "redohagi127",
+    "img": "https://avatars.slack-edge.com/2021-03-07/1824244509366_870cdef2c6261c959069_24.jpg",
+    "time": "2021/12/31 21:27:46",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1640949290430200"
+  },
+  {
     "user": "UGA29R3FH",
     "text": "ブラウザ立ち上げてIDE(正確にはVimとLS)立ち上げてビルドするだけで死ぬことがある",
     "client_msg_id": "d91e7a48-7bd6-4543-96af-9f496996da30",
     "name": "znmxodq1",
     "img": "https://avatars.slack-edge.com/2019-03-08/570571829091_2ca91fb0cc1ed2341fe0_24.png",
-    "time": "2021/12/31 20:14:01",
+    "time": "2021/12/31 21:27:46",
     "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1640949198428900"
   },
   {
