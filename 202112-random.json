@@ -1,11 +1,569 @@
 [
   {
     "user": "UGA29R3FH",
+    "text": "こんなのを機械的に走らせてます、手でやるのだるいのと間違えるので",
+    "client_msg_id": "ff4db66b-e953-40e6-b5aa-ceb6065468c3",
+    "name": "znmxodq1",
+    "img": "https://avatars.slack-edge.com/2019-03-08/570571829091_2ca91fb0cc1ed2341fe0_24.png",
+    "time": "2021/12/31 19:18:46",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1640945887343800"
+  },
+  {
+    "user": "U01792411FA",
+    "text": "付属するようになってから、何度かインストールし直したりもしたけど全部手動でやっちゃったからわからんや",
+    "client_msg_id": "342fc5a9-c4f5-4da4-8a00-c564547d0849",
+    "name": "seekerkrt",
+    "img": "https://avatars.slack-edge.com/2020-07-06/1229422291988_bb227d56e151807964f4_24.png",
+    "time": "2021/12/31 19:18:46",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1640945868343400"
+  },
+  {
+    "user": "UGA29R3FH",
+    "text": "一部分を貼るとするならこんな感じ",
+    "client_msg_id": "11ecca48-9219-449b-861d-a0c37f8d4c07",
+    "name": "znmxodq1",
+    "img": "https://avatars.slack-edge.com/2019-03-08/570571829091_2ca91fb0cc1ed2341fe0_24.png",
+    "time": "2021/12/31 19:18:47",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1640945866343300"
+  },
+  {
+    "user": "U8T8KB5M4",
+    "text": "これってどの程度のことまでやってくれるんですかね？",
+    "client_msg_id": "44b41b54-1c88-450d-8e67-bb3a6861c94d",
+    "name": "h.hata.ai.t",
+    "img": "https://avatars.slack-edge.com/2019-08-19/732537331990_536f34e28226326cb4e8_24.png",
+    "time": "2021/12/31 19:18:47",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1640945822342200"
+  },
+  {
+    "user": "U01792411FA",
+    "text": "複数台やるとき便利そう",
+    "client_msg_id": "1edac99b-1adb-4732-a7ae-cd1f5858e61d",
+    "name": "seekerkrt",
+    "img": "https://avatars.slack-edge.com/2020-07-06/1229422291988_bb227d56e151807964f4_24.png",
+    "time": "2021/12/31 19:18:47",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1640945790341600"
+  },
+  {
+    "user": "U0GFBAM8U",
+    "text": "便利",
+    "client_msg_id": "C471E063-ABFC-4E91-8DFC-81DA0DEFCB57",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2021/12/31 19:18:48",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1640945769340900"
+  },
+  {
+    "user": "UGA29R3FH",
+    "text": "archisoの構築スクリプトに近い物です、pacstrap走らせて、作られたrootfsの上にデータをコピペしてスクリプトでガッと自動で設定する",
+    "client_msg_id": "8484d01a-f75b-473a-89be-2d129a1161ad",
+    "name": "znmxodq1",
+    "img": "https://avatars.slack-edge.com/2019-03-08/570571829091_2ca91fb0cc1ed2341fe0_24.png",
+    "time": "2021/12/31 19:18:48",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1640945756340500"
+  },
+  {
+    "user": "U01792411FA",
+    "text": "最強の自動化はシェルスクリプトで導入ってきいた",
+    "client_msg_id": "68d95b0e-78a7-4fc1-9dee-5c90a0a460b0",
+    "name": "seekerkrt",
+    "img": "https://avatars.slack-edge.com/2020-07-06/1229422291988_bb227d56e151807964f4_24.png",
+    "time": "2021/12/31 19:18:48",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1640945743340000"
+  },
+  {
+    "user": "U0GFBAM8U",
+    "text": "kuuさんの自動化どんな感じなのかなあ",
+    "client_msg_id": "7EB94BB0-E8D3-43F9-95BB-5D9E0520F69D",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2021/12/31 19:18:48",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1640945697339000"
+  },
+  {
+    "user": "U01792411FA",
+    "text": "いやまあ昔はセットアップついてて、使い勝手は悪かったけどよしなにしてくれてた時代もあったんですが",
+    "client_msg_id": "0e4a0e3d-db05-48b2-b834-de7c332d1771",
+    "name": "seekerkrt",
+    "img": "https://avatars.slack-edge.com/2020-07-06/1229422291988_bb227d56e151807964f4_24.png",
+    "time": "2021/12/31 19:18:49",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1640945668338300"
+  },
+  {
+    "user": "UVB7L4CKH",
+    "text": "サーバーで使った気がするんですが全然記憶にない……\nつまりそれぐらいには自然と使えた気がするんですが",
+    "client_msg_id": "77dc431c-e593-45ab-8f9f-6c8ea0abb333",
+    "name": "tatsumigamou",
+    "img": "https://avatars.slack-edge.com/2020-03-12/985313571153_203fee630d3a4a1053a1_24.jpg",
+    "time": "2021/12/31 19:18:49",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1640945644337900"
+  },
+  {
+    "user": "U0GFBAM8U",
+    "text": "そういや私もまだ",
+    "client_msg_id": "3E139490-BBB5-4F57-A240-351682531826",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2021/12/31 19:18:49",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1640945641337600"
+  },
+  {
+    "user": "U01QTK2CP3K",
+    "text": "それ僕も気になります。\n自分が出会ったときにはまだなかったから",
+    "client_msg_id": "c746a13c-5f80-4dda-bf30-4c6ab33061a2",
+    "name": "redohagi127",
+    "img": "https://avatars.slack-edge.com/2021-03-07/1824244509366_870cdef2c6261c959069_24.jpg",
+    "time": "2021/12/31 19:18:50",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1640945638337500"
+  },
+  {
+    "user": "UGA29R3FH",
+    "text": "既に「ぼくのかんがえたさいきょうのこうちくほう」があるからなー",
+    "client_msg_id": "463bc366-0d6d-4962-b5d3-fba47c5e43a1",
+    "name": "znmxodq1",
+    "img": "https://avatars.slack-edge.com/2019-03-08/570571829091_2ca91fb0cc1ed2341fe0_24.png",
+    "time": "2021/12/31 19:18:50",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1640945635337300"
+  },
+  {
+    "user": "U01792411FA",
+    "text": "従来どおり全部手動でやるのとどっちがいいんだろう",
+    "client_msg_id": "db787b16-e0e1-44e5-b139-fabe85d9b9de",
+    "name": "seekerkrt",
+    "img": "https://avatars.slack-edge.com/2020-07-06/1229422291988_bb227d56e151807964f4_24.png",
+    "time": "2021/12/31 19:18:50",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1640945600336200"
+  },
+  {
+    "user": "U01792411FA",
+    "text": "ところで、Archの付属インストールスクリプト試したことないんですが、使い勝手どうですか？",
+    "client_msg_id": "903b11d4-fe17-482d-89ac-6be5159b9d98",
+    "name": "seekerkrt",
+    "img": "https://avatars.slack-edge.com/2020-07-06/1229422291988_bb227d56e151807964f4_24.png",
+    "time": "2021/12/31 19:18:50",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1640945560335200"
+  },
+  {
+    "user": "U01QTK2CP3K",
+    "text": "キャッシュが原因ということは実はWeb版が一番安定してる説",
+    "client_msg_id": "e71fb703-b57c-4410-829e-27e044a757c5",
+    "name": "redohagi127",
+    "img": "https://avatars.slack-edge.com/2021-03-07/1824244509366_870cdef2c6261c959069_24.jpg",
+    "time": "2021/12/31 19:18:51",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1640945326334400"
+  },
+  {
+    "user": "U0GFBAM8U",
+    "text": "ありますね\n流量多いとこだと「まだ見てないよ」の太字にずっとなってる",
+    "client_msg_id": "570e5cd8-e8af-4700-b318-d8aff13bd0a8",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2021/12/31 19:18:51",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1640945233333400"
+  },
+  {
+    "user": "U01792411FA",
+    "text": "Win版でもよく起こりますよSlack",
+    "client_msg_id": "01d0eacd-e20d-4226-95d0-7b54248526c1",
+    "name": "seekerkrt",
+    "img": "https://avatars.slack-edge.com/2020-07-06/1229422291988_bb227d56e151807964f4_24.png",
+    "time": "2021/12/31 19:18:51",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1640945227333200"
+  },
+  {
+    "user": "U01QTK2CP3K",
+    "text": "それもありますね\n最後まで見てるのに、未読のメッセージがありますマークが外れない",
+    "client_msg_id": "4a463909-535a-4ffe-81fa-bedc3f4bc1ec",
+    "name": "redohagi127",
+    "img": "https://avatars.slack-edge.com/2021-03-07/1824244509366_870cdef2c6261c959069_24.jpg",
+    "time": "2021/12/31 19:18:52",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1640945208332400"
+  },
+  {
+    "user": "U8T8KB5M4",
+    "text": "Androidアプリでだけしょっちゅう起きます。",
+    "client_msg_id": "08b64d55-256f-437f-8394-a8e0e6f0a376",
+    "name": "h.hata.ai.t",
+    "img": "https://avatars.slack-edge.com/2019-08-19/732537331990_536f34e28226326cb4e8_24.png",
+    "time": "2021/12/31 19:18:52",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1640945198331800"
+  },
+  {
+    "user": "UGA29R3FH",
+    "text": "モバイル版は既読管理が雑なのでたまにキャッシュ飛ばしてます",
+    "client_msg_id": "69bc02e5-7fb6-4180-be79-afe6c4c35232",
+    "name": "znmxodq1",
+    "img": "https://avatars.slack-edge.com/2019-03-08/570571829091_2ca91fb0cc1ed2341fe0_24.png",
+    "time": "2021/12/31 19:18:52",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1640945169331200"
+  },
+  {
+    "user": "U01792411FA",
+    "text": "バグと言うか、既読したはずなのに既読になってないとかある",
+    "client_msg_id": "4c3dd8a2-8c6a-403c-8259-0e1b5b6e4171",
+    "name": "seekerkrt",
+    "img": "https://avatars.slack-edge.com/2020-07-06/1229422291988_bb227d56e151807964f4_24.png",
+    "time": "2021/12/31 19:18:53",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1640945146330700"
+  },
+  {
+    "user": "U01QTK2CP3K",
+    "text": "タスクマネージャーでバックグラウンドもろとも消して、Tempファイル消して、再起動すると治ります。",
+    "client_msg_id": "b4b9d447-3b15-4ae2-badc-d9e9a0afb0bf",
+    "name": "redohagi127",
+    "img": "https://avatars.slack-edge.com/2021-03-07/1824244509366_870cdef2c6261c959069_24.jpg",
+    "time": "2021/12/31 19:18:53",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1640945033328900"
+  },
+  {
+    "user": "U0GFBAM8U",
+    "text": "ありがとうございます",
+    "client_msg_id": "c251cc37-65dc-40d0-85c6-3d420d9fef4a",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2021/12/31 19:18:53",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1640945003328300"
+  },
+  {
+    "user": "U01QTK2CP3K",
+    "text": "アプリですね",
+    "client_msg_id": "22cb973c-404d-48e9-bbf1-f1beb1b382f6",
+    "name": "redohagi127",
+    "img": "https://avatars.slack-edge.com/2021-03-07/1824244509366_870cdef2c6261c959069_24.jpg",
+    "time": "2021/12/31 19:18:53",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1640944966327200"
+  },
+  {
+    "user": "U0GFBAM8U",
+    "text": "あー、os関係なかったのか\nアプリですか、webですか?",
+    "client_msg_id": "1e1cf1c5-2393-4175-9142-2df8ca43f43f",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2021/12/31 19:18:54",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1640944949326900"
+  },
+  {
+    "user": "U01QTK2CP3K",
+    "text": "たまに起こります\n自分はWinで使ってて起こりますね",
+    "client_msg_id": "243a6f7f-9861-448b-a7a1-fbb770298c87",
+    "name": "redohagi127",
+    "img": "https://avatars.slack-edge.com/2021-03-07/1824244509366_870cdef2c6261c959069_24.jpg",
+    "time": "2021/12/31 19:18:54",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1640944895325600"
+  },
+  {
+    "user": "U0GFBAM8U",
+    "text": "これもたまに発生しますね、ios",
+    "client_msg_id": "356a5088-9445-47d7-9878-db63717bda1b",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2021/12/31 19:18:54",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1640944858325100"
+  },
+  {
+    "user": "U0GFBAM8U",
+    "text": "あとslack、他のワークスペースから移動してくると真っ白になって、再起動しなきゃいけなかったりする人、いません?",
+    "client_msg_id": "32e0ac78-cc1b-4911-ba85-fe6093a26844",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2021/12/31 19:18:55",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1640944808324500"
+  },
+  {
+    "user": "U01QTK2CP3K",
+    "text": "アイコン更新したら参照先更新されてなおるかな～なんて、、、",
+    "client_msg_id": "cdd34fc6-1c29-4a11-9ec2-29440551f9c6",
+    "name": "redohagi127",
+    "img": "https://avatars.slack-edge.com/2021-03-07/1824244509366_870cdef2c6261c959069_24.jpg",
+    "time": "2021/12/31 19:18:55",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1640944604319800"
+  },
+  {
+    "user": "U0GFBAM8U",
+    "text": "？「あらゆる可能性がある」",
+    "client_msg_id": "f199cef9-5514-459a-814f-fa4f8f6b03c5",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2021/12/31 19:18:55",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1640944561318600"
+  },
+  {
+    "user": "U8T8KB5M4",
+    "text": "キャッシュとかのバグなら変えたら一時的に直る可能性も",
+    "client_msg_id": "70a6ced8-1447-40fe-91b8-b461d38f2c9c",
+    "name": "h.hata.ai.t",
+    "img": "https://avatars.slack-edge.com/2019-08-19/732537331990_536f34e28226326cb4e8_24.png",
+    "time": "2021/12/31 19:18:55",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1640944539318000"
+  },
+  {
+    "user": "UGA29R3FH",
+    "text": "アイコンが何かがバグの原因じゃないと思うので変えても変わらないと思うけどw",
+    "client_msg_id": "8b79a7b6-a2d5-49ac-af61-7f1b5e9a423b",
+    "name": "znmxodq1",
+    "img": "https://avatars.slack-edge.com/2019-03-08/570571829091_2ca91fb0cc1ed2341fe0_24.png",
+    "time": "2021/12/31 19:18:56",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1640944490316400"
+  },
+  {
+    "user": "U0GFBAM8U",
+    "text": "(たぶんこのバグ、誰にでも起こり得そう",
+    "client_msg_id": "c71f3817-7300-4911-bd18-78f2f998c3b7",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2021/12/31 19:18:56",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1640944487316300"
+  },
+  {
+    "user": "U0GFBAM8U",
+    "text": "いえ面白かったので変えなくても大丈夫ですよー",
+    "client_msg_id": "cba01786-e26f-4a8a-b91f-6e47bdd436bc",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2021/12/31 19:18:56",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1640944462315400"
+  },
+  {
+    "user": "U0GFBAM8U",
+    "text": "かっこいい",
+    "client_msg_id": "9c894734-cb0f-43e8-8e18-16fc45901936",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2021/12/31 19:18:57",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1640944445314800"
+  },
+  {
+    "user": "U01QTK2CP3K",
+    "text": "アイコンを更新することでバグの改善を図ってみた、、、\n\n元アイコンはフェイト・テスタロッサです！",
+    "client_msg_id": "3dadf9b9-26d7-40ee-a316-efe1e36c61d0",
+    "name": "redohagi127",
+    "img": "https://avatars.slack-edge.com/2021-03-07/1824244509366_870cdef2c6261c959069_24.jpg",
+    "time": "2021/12/31 19:18:57",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1640944406314200"
+  },
+  {
+    "user": "U0GFBAM8U",
+    "text": "<@U01QTK2CP3K> さんのアイコンは、なのはなのかな\nあれアイコン変わった",
+    "client_msg_id": "e216a96d-b472-4097-97a3-4cae11999910",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2021/12/31 19:18:57",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1640944363313200"
+  },
+  {
+    "user": "U8T8KB5M4",
+    "text": "火狐メインでつかってるのに会社ではG Suiteのセキュリティ連携のせいで火狐つかえなくなってプンプンしてます。",
+    "client_msg_id": "bc6dc65a-1b9b-485c-92b4-517841992e48",
+    "name": "h.hata.ai.t",
+    "img": "https://avatars.slack-edge.com/2019-08-19/732537331990_536f34e28226326cb4e8_24.png",
+    "time": "2021/12/31 19:18:57",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1640944250312200"
+  },
+  {
+    "user": "U0GFBAM8U",
+    "text": "chrome、最近、よくない仕様入れてきてる話をよく聞く",
+    "client_msg_id": "ccde119b-1aff-4e6a-9c7f-0d5eca156367",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2021/12/31 19:18:58",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1640944166309800"
+  },
+  {
+    "user": "U01792411FA",
+    "text": "ChromeもいつかはIEのようなサダメに突入しそう",
+    "client_msg_id": "b1388933-8227-447a-adfc-e3cc0688ebc9",
+    "name": "seekerkrt",
+    "img": "https://avatars.slack-edge.com/2020-07-06/1229422291988_bb227d56e151807964f4_24.png",
+    "time": "2021/12/31 19:18:58",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1640944121308700"
+  },
+  {
+    "user": "U0GFBAM8U",
+    "text": "win11のリンクをedgeで開くの、逆にセキュリティリスク増大しそう",
+    "client_msg_id": "ce18a7bd-37d8-4e0b-914e-53449386b99f",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2021/12/31 19:18:58",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1640944097308300"
+  },
+  {
+    "user": "U0GFBAM8U",
+    "text": "いえ...オタクですっ！",
+    "client_msg_id": "fc5d9dc5-1a67-469c-ab2b-643a58a0f8f5",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2021/12/31 19:18:59",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1640944058307500"
+  },
+  {
+    "user": "U01QTK2CP3K",
+    "text": "syuiさんがオタクみたくなってる、、、なんか申し訳ない、、、",
+    "client_msg_id": "62a183e1-3a41-4686-88c1-603c9c782782",
+    "name": "redohagi127",
+    "img": "https://avatars.slack-edge.com/2021-03-07/1824244509366_870cdef2c6261c959069_24.jpg",
+    "time": "2021/12/31 19:18:59",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1640944024307000"
+  },
+  {
+    "user": "U8T8KB5M4",
+    "text": "たまにありますよね、アイコンバグ",
+    "client_msg_id": "bd00654d-2fb3-471d-a6b5-d80879ac6429",
+    "name": "h.hata.ai.t",
+    "img": "https://avatars.slack-edge.com/2019-08-19/732537331990_536f34e28226326cb4e8_24.png",
+    "time": "2021/12/31 19:18:59",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1640943962306000"
+  },
+  {
+    "user": "U0GFBAM8U",
+    "text": "slackバグですね、笑",
+    "client_msg_id": "3774D42C-6FC9-474D-A1B3-12DD22171824",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2021/12/31 19:18:59",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1640943934305600"
+  },
+  {
+    "user": "U01QTK2CP3K",
+    "text": "？！？！？！？！？！",
+    "client_msg_id": "26af5d2a-2d90-44d5-a139-2df0843143f6",
+    "name": "redohagi127",
+    "img": "https://avatars.slack-edge.com/2021-03-07/1824244509366_870cdef2c6261c959069_24.jpg",
+    "time": "2021/12/31 19:19:00",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1640943916305200"
+  },
+  {
+    "user": "U0GFBAM8U",
+    "text": "",
+    "client_msg_id": "4616163B-698C-48F1-8A83-B441ED751397",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2021/12/31 19:19:00",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1640943907305000"
+  },
+  {
+    "user": "U01QTK2CP3K",
+    "text": "どうやらEdgeじゃないとリンクを開けない仕様にwin11からする可能性があるらしいですね（理由はセキュリティの強化）、、、迷惑なこって",
+    "client_msg_id": "3f2d9a72-dba9-4689-a259-27d2c5f35bfe",
+    "name": "redohagi127",
+    "img": "https://avatars.slack-edge.com/2021-03-07/1824244509366_870cdef2c6261c959069_24.jpg",
+    "time": "2021/12/31 19:19:00",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1640943893304900"
+  },
+  {
+    "user": "U0GFBAM8U",
+    "text": "関係ないですけど、<@U01QTK2CP3K> さんが頻繁にsyuiさんになってる",
+    "client_msg_id": "342FCB46-AF59-4967-A269-D7DD2A49DB5F",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2021/12/31 19:19:01",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1640943880304800"
+  },
+  {
+    "user": "U8T8KB5M4",
+    "text": "全く普段は使わないから別途ハード持つのも嫌だしかといってたまに使うためだけにデュアルブートでガクブルするのもいやだし、laptopなので物理でディスクも分けられないしとか言ってたらあっという間に4年ががが。",
+    "client_msg_id": "8c06da22-941d-4218-ab1f-ad2e8f009ddb",
+    "name": "h.hata.ai.t",
+    "img": "https://avatars.slack-edge.com/2019-08-19/732537331990_536f34e28226326cb4e8_24.png",
+    "time": "2021/12/31 19:19:01",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1640943774303000"
+  },
+  {
+    "user": "U0GFBAM8U",
+    "text": "それは非常に良いことです",
+    "client_msg_id": "6A7D7C49-E490-48DA-9D70-476BD93AA848",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2021/12/31 19:19:01",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1640943682299800"
+  },
+  {
+    "user": "U8T8KB5M4",
+    "text": "メンテしてるアプリの動作確認用にWin機を用意しようと思ってから4年が経過しました。",
+    "client_msg_id": "2f8fc999-c103-4d31-bf2f-655d9c2f667a",
+    "name": "h.hata.ai.t",
+    "img": "https://avatars.slack-edge.com/2019-08-19/732537331990_536f34e28226326cb4e8_24.png",
+    "time": "2021/12/31 19:19:02",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1640943638299100"
+  },
+  {
+    "user": "U0GFBAM8U",
+    "text": "win事情はあまり詳しくないですけど、最近ieが死んだっぽい?",
+    "client_msg_id": "F7D40C78-BB51-434E-915E-D21012422025",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2021/12/31 19:19:02",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1640943559297400"
+  },
+  {
+    "user": "U0GFBAM8U",
+    "text": "困りそう",
+    "client_msg_id": "DCB4081A-9652-4EA4-B808-21CF848448A9",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2021/12/31 19:19:02",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1640943482296300"
+  },
+  {
+    "user": "U01QTK2CP3K",
+    "text": "そー言えばWinではEdgeじゃないとリンクが開けなくなるんでしたっけ？なんかそんな話が出てませんでしたっけ？",
+    "client_msg_id": "157fb1ea-a854-4cde-ba89-22451be5e497",
+    "name": "redohagi127",
+    "img": "https://avatars.slack-edge.com/2021-03-07/1824244509366_870cdef2c6261c959069_24.jpg",
+    "time": "2021/12/31 19:19:02",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1640942831296000"
+  },
+  {
+    "user": "U01792411FA",
+    "text": "ネットサーフィンやYoutube鑑賞ぐらいなら確かにLinuxだけでも不自由がない（操作方法知ってれば",
+    "client_msg_id": "bd6a5486-390f-42f9-803f-edfac3f20295",
+    "name": "seekerkrt",
+    "img": "https://avatars.slack-edge.com/2020-07-06/1229422291988_bb227d56e151807964f4_24.png",
+    "time": "2021/12/31 19:19:03",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1640942573292900"
+  },
+  {
+    "user": "UGA29R3FH",
+    "text": "こういう時Webありがたいと思う",
+    "client_msg_id": "803571d9-fcbe-48e4-bb7b-ab4ef5182534",
+    "name": "znmxodq1",
+    "img": "https://avatars.slack-edge.com/2019-03-08/570571829091_2ca91fb0cc1ed2341fe0_24.png",
+    "time": "2021/12/31 19:19:03",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1640942523291500"
+  },
+  {
+    "user": "UGA29R3FH",
+    "text": "ブラウザベンダーがLinux版出してくれてるのでWebで生きていくのには困りませんね",
+    "client_msg_id": "029d4d5c-57f6-4c65-acf6-103b1c1d9277",
+    "name": "znmxodq1",
+    "img": "https://avatars.slack-edge.com/2019-03-08/570571829091_2ca91fb0cc1ed2341fe0_24.png",
+    "time": "2021/12/31 19:19:03",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1640942510291000"
+  },
+  {
+    "user": "U01QTK2CP3K",
+    "text": "やはりLinuxはいい子。ぜひ広めたいですね\nというかネットサーフィンするぐらいなら圧倒的にLinuxのほうがいい気がするのは僕だけですかね？イラスト・設計系とか会計系とかでWinはわかるんですけど、それ以外ならLinux割と合理性高い気がします。",
+    "client_msg_id": "43e57e83-3679-42d0-aa42-27f31e542d35",
+    "name": "redohagi127",
+    "img": "https://avatars.slack-edge.com/2021-03-07/1824244509366_870cdef2c6261c959069_24.jpg",
+    "time": "2021/12/31 19:19:04",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1640942467290200"
+  },
+  {
+    "user": "UGA29R3FH",
+    "text": "(指示したことは確認せずにやるけど)",
+    "client_msg_id": "347895ff-dda8-4281-9bf1-e9601451464c",
+    "name": "znmxodq1",
+    "img": "https://avatars.slack-edge.com/2019-03-08/570571829091_2ca91fb0cc1ed2341fe0_24.png",
+    "time": "2021/12/31 19:19:04",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1640942294287900"
+  },
+  {
+    "user": "UGA29R3FH",
     "text": "*nix系のツールって指示されたことしかしない感じある",
     "client_msg_id": "fabfe014-d216-400c-be2c-965ec4016f70",
     "name": "znmxodq1",
     "img": "https://avatars.slack-edge.com/2019-03-08/570571829091_2ca91fb0cc1ed2341fe0_24.png",
-    "time": "2021/12/31 18:17:36",
+    "time": "2021/12/31 19:19:04",
     "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1640942245287200"
   },
   {
