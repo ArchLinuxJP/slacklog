@@ -1,11 +1,704 @@
 [
   {
     "user": "UGA29R3FH",
+    "text": "*nix系のツールって指示されたことしかしない感じある",
+    "client_msg_id": "fabfe014-d216-400c-be2c-965ec4016f70",
+    "name": "znmxodq1",
+    "img": "https://avatars.slack-edge.com/2019-03-08/570571829091_2ca91fb0cc1ed2341fe0_24.png",
+    "time": "2021/12/31 18:17:36",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1640942245287200"
+  },
+  {
+    "user": "U01792411FA",
+    "text": "操作ミスぐらいかな、ないと思う",
+    "client_msg_id": "4f9ca0d2-4b65-44e8-89e8-e763ff1f19d9",
+    "name": "seekerkrt",
+    "img": "https://avatars.slack-edge.com/2020-07-06/1229422291988_bb227d56e151807964f4_24.png",
+    "time": "2021/12/31 18:17:36",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1640942225286400"
+  },
+  {
+    "user": "U01QTK2CP3K",
+    "text": "逆にLinuxがWinのデータ壊すのって（故意を除いて）あんまり聞かない。\nあるんですかね？",
+    "client_msg_id": "53d813e0-ae49-40fe-80d0-3de8e89eae46",
+    "name": "redohagi127",
+    "img": "https://avatars.slack-edge.com/2021-03-07/1824244509366_870cdef2c6261c959069_24.jpg",
+    "time": "2021/12/31 18:17:36",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1640942207286100"
+  },
+  {
+    "user": "U01792411FA",
+    "text": "結局Virtualboxとかでどっちかを閉じ込めておくほうがトラブルがない",
+    "client_msg_id": "b46bf36d-bed8-40cb-bd1a-d52fec5ed092",
+    "name": "seekerkrt",
+    "img": "https://avatars.slack-edge.com/2020-07-06/1229422291988_bb227d56e151807964f4_24.png",
+    "time": "2021/12/31 18:17:37",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1640942165285300"
+  },
+  {
+    "user": "UGA29R3FH",
+    "text": "私の場合呪縛から解放されたような感覚がありましたね、WindowsはVM領域に移動しました",
+    "client_msg_id": "16251881-9968-43cd-b626-3aa7a49e4fbf",
+    "name": "znmxodq1",
+    "img": "https://avatars.slack-edge.com/2019-03-08/570571829091_2ca91fb0cc1ed2341fe0_24.png",
+    "time": "2021/12/31 18:17:37",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1640942032282100"
+  },
+  {
+    "user": "U01792411FA",
+    "text": "そういうブートローダー関係でトラブったときに、うっかりWindows用ファイルとか領域を消してしまったときの絶望感は半端ないです",
+    "client_msg_id": "37a669b5-4f74-4cf1-bfe2-9674f24ba79d",
+    "name": "seekerkrt",
+    "img": "https://avatars.slack-edge.com/2020-07-06/1229422291988_bb227d56e151807964f4_24.png",
+    "time": "2021/12/31 18:17:37",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1640941977280600"
+  },
+  {
+    "user": "U01792411FA",
+    "text": "LibreOfficeは優秀",
+    "client_msg_id": "692fc76e-5875-495f-9547-75020d5c3104",
+    "name": "seekerkrt",
+    "img": "https://avatars.slack-edge.com/2020-07-06/1229422291988_bb227d56e151807964f4_24.png",
+    "time": "2021/12/31 18:17:38",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1640941883278400"
+  },
+  {
+    "user": "UGA29R3FH",
+    "text": "正直安定はしていない…",
+    "client_msg_id": "d122a7f9-299e-42d6-92e1-4ae524b3b78d",
+    "name": "znmxodq1",
+    "img": "https://avatars.slack-edge.com/2019-03-08/570571829091_2ca91fb0cc1ed2341fe0_24.png",
+    "time": "2021/12/31 18:17:38",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1640941876278100"
+  },
+  {
+    "user": "UGA29R3FH",
+    "text": "LibreOffice「呼んだ？」",
+    "client_msg_id": "c4a85bc6-972d-474f-82bc-4f73ff12a542",
+    "name": "znmxodq1",
+    "img": "https://avatars.slack-edge.com/2019-03-08/570571829091_2ca91fb0cc1ed2341fe0_24.png",
+    "time": "2021/12/31 18:17:38",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1640941870277700"
+  },
+  {
+    "user": "U01QTK2CP3K",
+    "text": "LinuxユーザーにやさしくないMicrosoftOfficeさん",
+    "client_msg_id": "ce2944fd-c9f5-4f85-be4e-156d42f25d4c",
+    "name": "redohagi127",
+    "img": "https://avatars.slack-edge.com/2021-03-07/1824244509366_870cdef2c6261c959069_24.jpg",
+    "time": "2021/12/31 18:17:39",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1640941856277500"
+  },
+  {
+    "user": "UGA29R3FH",
+    "text": "ひどい話",
+    "client_msg_id": "423fcb9e-f999-42d8-b28d-f211448e3e24",
+    "name": "znmxodq1",
+    "img": "https://avatars.slack-edge.com/2019-03-08/570571829091_2ca91fb0cc1ed2341fe0_24.png",
+    "time": "2021/12/31 18:17:39",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1640941817276800"
+  },
+  {
+    "user": "U01792411FA",
+    "text": "Windows用にEFI領域確保してるはずなのにブートローダーがLinux用に作った領域に移動してるとかよくある",
+    "client_msg_id": "b374db93-1f29-4ce5-86c1-93398b0afc60",
+    "name": "seekerkrt",
+    "img": "https://avatars.slack-edge.com/2020-07-06/1229422291988_bb227d56e151807964f4_24.png",
+    "time": "2021/12/31 18:17:39",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1640941806276500"
+  },
+  {
+    "user": "UGA29R3FH",
+    "text": "うっかり手が滑ってWindowsが消えちゃってからは堂々とディスクにブートローダー突っ込んでます",
+    "client_msg_id": "3a83ba0d-55e0-4c55-a3ed-51aa45324075",
+    "name": "znmxodq1",
+    "img": "https://avatars.slack-edge.com/2019-03-08/570571829091_2ca91fb0cc1ed2341fe0_24.png",
+    "time": "2021/12/31 18:17:39",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1640941765275600"
+  },
+  {
+    "user": "U01QTK2CP3K",
+    "text": "というか迷惑すぎる",
+    "client_msg_id": "2d6d0fa1-882f-43af-a857-5ac51a9acb05",
+    "name": "redohagi127",
+    "img": "https://avatars.slack-edge.com/2021-03-07/1824244509366_870cdef2c6261c959069_24.jpg",
+    "time": "2021/12/31 18:17:40",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1640941738274300"
+  },
+  {
+    "user": "U01QTK2CP3K",
+    "text": "`Linux用のEFI領域にインストールされてしまうことがある` 　←なにそれめっちゃ怖い、、、",
+    "client_msg_id": "5e6916c0-96b7-4f1e-9b5c-db613f5ed126",
+    "name": "redohagi127",
+    "img": "https://avatars.slack-edge.com/2021-03-07/1824244509366_870cdef2c6261c959069_24.jpg",
+    "time": "2021/12/31 18:17:40",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1640941712273800"
+  },
+  {
+    "user": "UGA29R3FH",
+    "text": "Windowsがまだインストールされていた時は、安定をとってUSBメモリにLinux用のブートローダーを書き込んで使っていました",
+    "client_msg_id": "a48be703-05a4-476d-8278-02f3566369c2",
+    "name": "znmxodq1",
+    "img": "https://avatars.slack-edge.com/2019-03-08/570571829091_2ca91fb0cc1ed2341fe0_24.png",
+    "time": "2021/12/31 18:17:40",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1640941702273400"
+  },
+  {
+    "user": "U01792411FA",
+    "text": "マルチブートするときはWindowsUpdateが鬼門、勝手にごちゃごちゃにしてくれる\nあとWinクリーンインストール時になぜかLinux用のEFI領域にインストールされてしまうことがある",
+    "client_msg_id": "0956db84-6a4a-4f4c-91c2-41a8caedf2b9",
+    "name": "seekerkrt",
+    "img": "https://avatars.slack-edge.com/2020-07-06/1229422291988_bb227d56e151807964f4_24.png",
+    "time": "2021/12/31 18:17:41",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1640941649272400"
+  },
+  {
+    "user": "U01QTK2CP3K",
+    "text": "winは自動でやってくれるありがたさ反面、誤動作したときのダメージがでかい時が多い感じがしますね",
+    "client_msg_id": "d3f7e30a-32ca-4a61-bf7c-de346dabddb0",
+    "name": "redohagi127",
+    "img": "https://avatars.slack-edge.com/2021-03-07/1824244509366_870cdef2c6261c959069_24.jpg",
+    "time": "2021/12/31 18:17:41",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1640941130269700"
+  },
+  {
+    "user": "UGA29R3FH",
+    "text": "壊れても当たりが付けられるというか\n1から構築させられるので分かってるからというのもありそう",
+    "client_msg_id": "3908de84-5cdf-4f40-9d5f-0e6ddf86679b",
+    "name": "znmxodq1",
+    "img": "https://avatars.slack-edge.com/2019-03-08/570571829091_2ca91fb0cc1ed2341fe0_24.png",
+    "time": "2021/12/31 18:17:41",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1640941069268700"
+  },
+  {
+    "user": "U0GFBAM8U",
+    "text": "壊れてるんですよねえ、修復も難しい\nその点、archは修復可能なことが多いですよね",
+    "client_msg_id": "307c24bd-b646-4bb4-af6e-2664d944ba88",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2021/12/31 18:17:41",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1640941021268100"
+  },
+  {
+    "user": "U01QTK2CP3K",
+    "text": "サブデータのディスクになぜブートローダだけインストールしたのか意味不明だった、、、\n結局メインディスク以外を物理的に外して再インストールしましたね\n\nArchはほんとにありがたい",
+    "client_msg_id": "b5630de7-f3c7-4dca-8635-e0cfcbc92b50",
+    "name": "redohagi127",
+    "img": "https://avatars.slack-edge.com/2021-03-07/1824244509366_870cdef2c6261c959069_24.jpg",
+    "time": "2021/12/31 18:17:42",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1640940942267500"
+  },
+  {
+    "user": "UGA29R3FH",
+    "text": "その点Archなら手でブートローダーをインストールするので安心",
+    "client_msg_id": "fb9aed5b-0409-4ac1-a9ea-87d496f74b4a",
+    "name": "znmxodq1",
+    "img": "https://avatars.slack-edge.com/2019-03-08/570571829091_2ca91fb0cc1ed2341fe0_24.png",
+    "time": "2021/12/31 18:17:42",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1640940838265500"
+  },
+  {
+    "user": "U01QTK2CP3K",
+    "text": "この間winでアップデートして、壊れて、再インストールしたら、ブートローダーとOS本体を別々の場所にインストールするとかいう妙技をしてくれましたよ。",
+    "client_msg_id": "df057a6f-0e77-4e2d-a764-a04be97d2565",
+    "name": "redohagi127",
+    "img": "https://avatars.slack-edge.com/2021-03-07/1824244509366_870cdef2c6261c959069_24.jpg",
+    "time": "2021/12/31 18:17:42",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1640940800264800"
+  },
+  {
+    "user": "UGA29R3FH",
+    "text": "(壊れたというのはひどい壊れ方をしたという意味です)",
+    "client_msg_id": "a38b8678-596d-4f62-b337-5fde65bf907e",
+    "name": "znmxodq1",
+    "img": "https://avatars.slack-edge.com/2019-03-08/570571829091_2ca91fb0cc1ed2341fe0_24.png",
+    "time": "2021/12/31 18:17:43",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1640940795264500"
+  },
+  {
+    "user": "U0GFBAM8U",
+    "text": "あくまで個人感想ですが、archのほうが全然マシだなって思ったり",
+    "client_msg_id": "ac0c8670-6e16-4fda-a285-87e098b46ef2",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2021/12/31 18:17:43",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1640940755263400"
+  },
+  {
+    "user": "UGA29R3FH",
+    "text": "`pacman -Syu` しても壊れたという経験が今の所ない",
+    "client_msg_id": "a4a0a752-c461-43fd-b730-7bdd75847b4d",
+    "name": "znmxodq1",
+    "img": "https://avatars.slack-edge.com/2019-03-08/570571829091_2ca91fb0cc1ed2341fe0_24.png",
+    "time": "2021/12/31 18:17:43",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1640940746263100"
+  },
+  {
+    "user": "U0GFBAM8U",
+    "text": "(...windows update、ひどい目にあったことが結構ある)",
+    "client_msg_id": "d21fb138-82ae-402e-9367-403472441ba6",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2021/12/31 18:17:43",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1640940723262100"
+  },
+  {
+    "user": "UGA29R3FH",
+    "text": "Windows Updateは全然信頼できないですね",
+    "client_msg_id": "d598220a-7775-4834-bfb5-d365581bb04d",
+    "name": "znmxodq1",
+    "img": "https://avatars.slack-edge.com/2019-03-08/570571829091_2ca91fb0cc1ed2341fe0_24.png",
+    "time": "2021/12/31 18:17:44",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1640940686261000"
+  },
+  {
+    "user": "U01QTK2CP3K",
+    "text": "ArchはもしUpdateで最悪起動できなくなってもインストールメディアからブートして直せるからいい。",
+    "client_msg_id": "5b957d09-7720-4840-9e20-e0a260d7fc61",
+    "name": "redohagi127",
+    "img": "https://avatars.slack-edge.com/2021-03-07/1824244509366_870cdef2c6261c959069_24.jpg",
+    "time": "2021/12/31 18:17:44",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1640940683260800"
+  },
+  {
+    "user": "UGA29R3FH",
+    "text": "いや困るんだけど、まあ程度の問題で",
+    "client_msg_id": "26db965a-d20a-42dd-a2b3-0a4b90904bf1",
+    "name": "znmxodq1",
+    "img": "https://avatars.slack-edge.com/2019-03-08/570571829091_2ca91fb0cc1ed2341fe0_24.png",
+    "time": "2021/12/31 18:17:44",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1640940652260200"
+  },
+  {
+    "user": "UGA29R3FH",
+    "text": "Arch Linuxはインストールを100%自動化できたのでupdateで破壊されても特には困らない",
+    "client_msg_id": "b5d4b128-5825-4395-8f8f-f627a23a0a17",
+    "name": "znmxodq1",
+    "img": "https://avatars.slack-edge.com/2019-03-08/570571829091_2ca91fb0cc1ed2341fe0_24.png",
+    "time": "2021/12/31 18:17:45",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1640940646259800"
+  },
+  {
+    "user": "U0GFBAM8U",
+    "text": "updateで",
+    "client_msg_id": "251f0204-3f2d-4c8a-95a4-e87e2b521463",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2021/12/31 18:17:45",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1640940604258700"
+  },
+  {
+    "user": "U0GFBAM8U",
+    "text": "windowsとかはたまにわけのわからない壊れ方をしてどうにもならなかったりすることがありますからね",
+    "client_msg_id": "778d4afd-89f6-43e0-847a-e1e766c11c90",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2021/12/31 18:17:45",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1640940592258500"
+  },
+  {
+    "user": "UGA29R3FH",
+    "text": "Windowsはレジストリがつらい",
+    "client_msg_id": "efb7e279-dc4c-4908-ada8-d06d1442ffe0",
+    "name": "znmxodq1",
+    "img": "https://avatars.slack-edge.com/2019-03-08/570571829091_2ca91fb0cc1ed2341fe0_24.png",
+    "time": "2021/12/31 18:17:45",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1640940562257800"
+  },
+  {
+    "user": "U01QTK2CP3K",
+    "text": "Winはアプリがどこにインストールされたかわからんときがあって非常に面倒かつ怖い",
+    "client_msg_id": "04e7c9bd-ad8b-4ab7-912b-cd5e6eaa91e8",
+    "name": "redohagi127",
+    "img": "https://avatars.slack-edge.com/2021-03-07/1824244509366_870cdef2c6261c959069_24.jpg",
+    "time": "2021/12/31 18:17:46",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1640940552257600"
+  },
+  {
+    "user": "U0GFBAM8U",
+    "text": "ですね",
+    "client_msg_id": "cde4a665-7e40-44ad-b17e-a29807862d0d",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2021/12/31 18:17:46",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1640940546257500"
+  },
+  {
+    "user": "UGA29R3FH",
+    "text": "あれはあれで批判されることもありますけどね、分かりやすさはありますね",
+    "client_msg_id": "a708fd48-94d9-4485-9b10-abb42f181464",
+    "name": "znmxodq1",
+    "img": "https://avatars.slack-edge.com/2019-03-08/570571829091_2ca91fb0cc1ed2341fe0_24.png",
+    "time": "2021/12/31 18:17:46",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1640940541257400"
+  },
+  {
+    "user": "U01QTK2CP3K",
+    "text": "というかLinux全般に言えることですけど、/etc　にアプリケーションの設定とかが入ってる等わかりやすくて僕的にはそういうところがいいですね。",
+    "client_msg_id": "16e522cb-f2c7-4e6d-b35c-078d88c91b99",
+    "name": "redohagi127",
+    "img": "https://avatars.slack-edge.com/2021-03-07/1824244509366_870cdef2c6261c959069_24.jpg",
+    "time": "2021/12/31 18:17:47",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1640940515256400"
+  },
+  {
+    "user": "U01QTK2CP3K",
+    "text": "壊れてても原因がちゃんとわかることが多いので、非常に助かってる。",
+    "client_msg_id": "5fa4f387-7587-46df-9435-700fd8286e2d",
+    "name": "redohagi127",
+    "img": "https://avatars.slack-edge.com/2021-03-07/1824244509366_870cdef2c6261c959069_24.jpg",
+    "time": "2021/12/31 18:17:47",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1640940430254900"
+  },
+  {
+    "user": "U0GFBAM8U",
+    "text": "訓練されている",
+    "client_msg_id": "2fce655e-aaad-43a2-a5b8-0e03c66d3427",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2021/12/31 18:17:47",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1640940413254600"
+  },
+  {
+    "user": "U01792411FA",
+    "text": "もう１０年ぐらいArch Linux触ってる",
+    "client_msg_id": "75bf945b-8477-4ae7-9f40-0208ca17ec32",
+    "name": "seekerkrt",
+    "img": "https://avatars.slack-edge.com/2020-07-06/1229422291988_bb227d56e151807964f4_24.png",
+    "time": "2021/12/31 18:17:47",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1640940401254200"
+  },
+  {
+    "user": "U0GFBAM8U",
+    "text": "多少壊れてもarcherの人は大抵大丈夫そうですし",
+    "client_msg_id": "122a8aca-fc53-4cab-8a16-3ea2bdf9c333",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2021/12/31 18:17:48",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1640940357253300"
+  },
+  {
+    "user": "U01792411FA",
+    "text": "Archの場合、メンテされないやつはだいたいトラブルのもとだったり互換性がなくなってくるので、問題ないですし",
+    "client_msg_id": "79deafd7-b11c-401b-8175-028ad324155b",
+    "name": "seekerkrt",
+    "img": "https://avatars.slack-edge.com/2020-07-06/1229422291988_bb227d56e151807964f4_24.png",
+    "time": "2021/12/31 18:17:48",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1640940333252800"
+  },
+  {
+    "user": "UGA29R3FH",
+    "text": "メンテできないパッケージは容赦なく消えていくけどAURにはあるし",
+    "client_msg_id": "6c1eda4d-dbf4-4773-a71c-dc3658e43fc6",
+    "name": "znmxodq1",
+    "img": "https://avatars.slack-edge.com/2019-03-08/570571829091_2ca91fb0cc1ed2341fe0_24.png",
+    "time": "2021/12/31 18:17:48",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1640940290252200"
+  },
+  {
+    "user": "U01792411FA",
+    "text": "Gentooとかのパッケージ管理だと依存性連鎖で詰みかけることも多いけど",
+    "client_msg_id": "b3684198-60ee-4b82-a546-60ef39532056",
+    "name": "seekerkrt",
+    "img": "https://avatars.slack-edge.com/2020-07-06/1229422291988_bb227d56e151807964f4_24.png",
+    "time": "2021/12/31 18:17:49",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1640940246251500"
+  },
+  {
+    "user": "UGA29R3FH",
+    "text": "互換性を全て切り捨ててローリングリリースにしているのはでかいと思う",
+    "client_msg_id": "1ce16d9a-56eb-41cf-b0d3-ed6153fb7cb5",
+    "name": "znmxodq1",
+    "img": "https://avatars.slack-edge.com/2019-03-08/570571829091_2ca91fb0cc1ed2341fe0_24.png",
+    "time": "2021/12/31 18:17:49",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1640940242251400"
+  },
+  {
+    "user": "UGA29R3FH",
+    "text": "rpmやdebを生成したことないので比較はできませんが",
+    "client_msg_id": "2498c540-0468-4046-8d6a-7392148247f6",
+    "name": "znmxodq1",
+    "img": "https://avatars.slack-edge.com/2019-03-08/570571829091_2ca91fb0cc1ed2341fe0_24.png",
+    "time": "2021/12/31 18:17:49",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1640940212250300"
+  },
+  {
+    "user": "U0GFBAM8U",
+    "text": "新しいパッケージ降ってくるのも大きい",
+    "client_msg_id": "f0728bc6-b610-4ba7-a6e0-abe0049703b3",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2021/12/31 18:17:50",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1640940206249900"
+  },
+  {
+    "user": "U01792411FA",
+    "text": "そうそれAURというかABSというか",
+    "client_msg_id": "8cd22f19-b7c7-472f-84ad-6cb66ebda2f3",
+    "name": "seekerkrt",
+    "img": "https://avatars.slack-edge.com/2020-07-06/1229422291988_bb227d56e151807964f4_24.png",
+    "time": "2021/12/31 18:17:50",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1640940183249600"
+  },
+  {
+    "user": "UGA29R3FH",
+    "text": "Arch Build Systemも使いやすくていいですね",
+    "client_msg_id": "212fa540-a257-4fbc-8b97-749f29aab4d6",
+    "name": "znmxodq1",
+    "img": "https://avatars.slack-edge.com/2019-03-08/570571829091_2ca91fb0cc1ed2341fe0_24.png",
+    "time": "2021/12/31 18:17:50",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1640940163249100"
+  },
+  {
+    "user": "U01792411FA",
+    "text": "pacmanコマンドやパッケージシステムも優秀だし、AURっていう仕組みや任意追加コマンドのおかげでもありそう",
+    "client_msg_id": "6a1490ef-7473-4546-aedf-17d82a0ff9d3",
+    "name": "seekerkrt",
+    "img": "https://avatars.slack-edge.com/2020-07-06/1229422291988_bb227d56e151807964f4_24.png",
+    "time": "2021/12/31 18:17:50",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1640940130248700"
+  },
+  {
+    "user": "U0GFBAM8U",
+    "text": "それくらい機能が豊富で便利ということでもありそう",
+    "client_msg_id": "69772b38-c886-4874-893c-3dca4e1ee59a",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2021/12/31 18:17:51",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1640940079247900"
+  },
+  {
+    "user": "U0GFBAM8U",
+    "text": "同じくpacman、使いこなせる気がしない",
+    "client_msg_id": "d800d9de-4250-4b34-a8ef-8f48e8bf0497",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2021/12/31 18:17:51",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1640940035247400"
+  },
+  {
+    "user": "U01QTK2CP3K",
+    "text": "pacmanまだ使いこなせている気がしない、、、-Q系オプションとか使うことほとんどないし、毎回Wiki見てる",
+    "client_msg_id": "1804af80-6f55-4782-9080-8ddfe8163612",
+    "name": "redohagi127",
+    "img": "https://avatars.slack-edge.com/2021-03-07/1824244509366_870cdef2c6261c959069_24.jpg",
+    "time": "2021/12/31 18:17:51",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1640939936247100"
+  },
+  {
+    "user": "UGA29R3FH",
+    "text": "pacmanが(コマンド体系は別として)優秀",
+    "client_msg_id": "ae4f5991-e2da-412b-9de0-3c35d7c73955",
+    "name": "znmxodq1",
+    "img": "https://avatars.slack-edge.com/2019-03-08/570571829091_2ca91fb0cc1ed2341fe0_24.png",
+    "time": "2021/12/31 18:17:52",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1640939798245800"
+  },
+  {
+    "user": "UGA29R3FH",
+    "text": "ですね",
+    "client_msg_id": "f3e2df36-314b-43ea-9484-6a66f39616fc",
+    "name": "znmxodq1",
+    "img": "https://avatars.slack-edge.com/2019-03-08/570571829091_2ca91fb0cc1ed2341fe0_24.png",
+    "time": "2021/12/31 18:17:52",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1640939773245500"
+  },
+  {
+    "user": "U0GFBAM8U",
+    "text": "archベースってかなり一般的になりつつありますよね\nwinのmsys2とかもpacmanだった記憶",
+    "client_msg_id": "22531f1e-1e86-4e04-aa08-65b28c534651",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2021/12/31 18:17:52",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1640939761245300"
+  },
+  {
+    "user": "U01QTK2CP3K",
+    "text": "Pythonですかねやっぱり",
+    "client_msg_id": "c89c7d00-2500-4b98-ab81-899684cfed0e",
+    "name": "redohagi127",
+    "img": "https://avatars.slack-edge.com/2021-03-07/1824244509366_870cdef2c6261c959069_24.jpg",
+    "time": "2021/12/31 18:17:52",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1640939735244800"
+  },
+  {
+    "user": "U01QTK2CP3K",
+    "text": "CADをLISPでとか周りから心配されそうwww",
+    "client_msg_id": "66244658-b326-4cc6-be36-6a58fda5336b",
+    "name": "redohagi127",
+    "img": "https://avatars.slack-edge.com/2021-03-07/1824244509366_870cdef2c6261c959069_24.jpg",
+    "time": "2021/12/31 18:17:53",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1640939715244300"
+  },
+  {
+    "user": "UGA29R3FH",
+    "text": "pacman使ってるけどリポジトリがそもそも違いますし(Archから色々引っ張ってきてはいるはず)",
+    "client_msg_id": "729c6c0a-bafc-46e4-a999-f0e901e7aad5",
+    "name": "znmxodq1",
+    "img": "https://avatars.slack-edge.com/2019-03-08/570571829091_2ca91fb0cc1ed2341fe0_24.png",
+    "time": "2021/12/31 18:17:53",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1640939711244100"
+  },
+  {
+    "user": "UGA29R3FH",
+    "text": "楽にインストールできて安定しているArch Linuxといった雰囲気です",
+    "client_msg_id": "4ef82179-a117-46eb-8110-0d84f855ccc9",
+    "name": "znmxodq1",
+    "img": "https://avatars.slack-edge.com/2019-03-08/570571829091_2ca91fb0cc1ed2341fe0_24.png",
+    "time": "2021/12/31 18:17:53",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1640939682243200"
+  },
+  {
+    "user": "U01QTK2CP3K",
+    "text": "Manjaro使ったことないんですよね、、、ハードが余ったら今度手を出してみよう",
+    "client_msg_id": "829d872c-ddf6-496d-bec7-94e9e89e83ba",
+    "name": "redohagi127",
+    "img": "https://avatars.slack-edge.com/2021-03-07/1824244509366_870cdef2c6261c959069_24.jpg",
+    "time": "2021/12/31 18:17:54",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1640939664242900"
+  },
+  {
+    "user": "UGA29R3FH",
+    "text": "~AutoCADでLISP!~",
+    "client_msg_id": "1be34962-246d-498e-9ced-7cf63d433eeb",
+    "name": "znmxodq1",
+    "img": "https://avatars.slack-edge.com/2019-03-08/570571829091_2ca91fb0cc1ed2341fe0_24.png",
+    "time": "2021/12/31 18:17:54",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1640939616242400"
+  },
+  {
+    "user": "U6DL9D3AB",
+    "text": "建築関連だと3D CAD使うだろうから、おすすめしやすいのはPythonになるのかな…",
+    "client_msg_id": "0DC15FDE-7D46-4E65-BF5E-EAD133E2FB26",
+    "name": "emtee",
+    "img": "https://avatars.slack-edge.com/2017-08-24/232261947719_1bb4d925e48fdfd0a154_24.png",
+    "time": "2021/12/31 18:17:54",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1640939604241900"
+  },
+  {
+    "user": "UGA29R3FH",
+    "text": "建築は門外漢なんだよなぁ、うーむ",
+    "client_msg_id": "54d70e43-a9a7-4045-b6e5-6432511e92d8",
+    "name": "znmxodq1",
+    "img": "https://avatars.slack-edge.com/2019-03-08/570571829091_2ca91fb0cc1ed2341fe0_24.png",
+    "time": "2021/12/31 18:17:54",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1640939603241800"
+  },
+  {
+    "user": "U0GFBAM8U",
+    "text": "これからubuntuではなくmanjaroの時代",
+    "client_msg_id": "92229007-d1dd-49ea-bbd1-e1178d983af4",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2021/12/31 18:17:55",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1640939589240900"
+  },
+  {
+    "user": "UGA29R3FH",
+    "text": "archjp的にはManjaro辺りを推したい",
+    "client_msg_id": "bba0581d-8975-4fe4-a2a5-5016aba9cc2a",
+    "name": "znmxodq1",
+    "img": "https://avatars.slack-edge.com/2019-03-08/570571829091_2ca91fb0cc1ed2341fe0_24.png",
+    "time": "2021/12/31 18:17:55",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1640939534239600"
+  },
+  {
+    "user": "U01QTK2CP3K",
+    "text": "設計建築でプログラミングがしたいらしいことが判明",
+    "client_msg_id": "3f5476a5-71e9-46a5-9706-246cf711daeb",
+    "name": "redohagi127",
+    "img": "https://avatars.slack-edge.com/2021-03-07/1824244509366_870cdef2c6261c959069_24.jpg",
+    "time": "2021/12/31 18:17:55",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1640939529239500"
+  },
+  {
+    "user": "U0GFBAM8U",
+    "text": "vbaは一般的にかなり便利になりえるので、vbaか\n環境はubuntu、言語はruby, pythonあたりが無難かなあ",
+    "client_msg_id": "07f58627-4b88-4e90-af05-352770f902ec",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2021/12/31 18:17:56",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1640939503238800"
+  },
+  {
+    "user": "U01QTK2CP3K",
+    "text": "環境は壊すもの",
+    "client_msg_id": "670ba356-be40-4f5a-a644-194926e964f1",
+    "name": "redohagi127",
+    "img": "https://avatars.slack-edge.com/2021-03-07/1824244509366_870cdef2c6261c959069_24.jpg",
+    "time": "2021/12/31 18:17:56",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1640939472238500"
+  },
+  {
+    "user": "UVB7L4CKH",
+    "text": "何回か環境ぶっ壊せば楽しくなってきますよ",
+    "client_msg_id": "ede0bd40-0ed8-4388-88dc-69a57ae10002",
+    "name": "tatsumigamou",
+    "img": "https://avatars.slack-edge.com/2020-03-12/985313571153_203fee630d3a4a1053a1_24.jpg",
+    "time": "2021/12/31 18:17:56",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1640939133233000"
+  },
+  {
+    "user": "U01QTK2CP3K",
+    "text": "でも個人的にwiki見ながらそれをこなす能力ないとプログラミング続けるの難しそうとは思うので、Arch洗脳ありかなとは思いますね、、、",
+    "client_msg_id": "a5cb6685-3c26-4132-b28c-0efe046e9cbb",
+    "name": "redohagi127",
+    "img": "https://avatars.slack-edge.com/2021-03-07/1824244509366_870cdef2c6261c959069_24.jpg",
+    "time": "2021/12/31 18:17:57",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1640939111232000"
+  },
+  {
+    "user": "U0GFBAM8U",
+    "text": "そういえば、さっき私、archをおすすめするって書いたけど、改めて考えてみると、やばい(初心者には",
+    "client_msg_id": "de03112a-93d8-4976-ac6c-4f9e15b40c76",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2021/12/31 18:17:57",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1640939034230300"
+  },
+  {
+    "user": "UVB7L4CKH",
+    "text": "毎日トラブルシューティングできるので盤石",
+    "client_msg_id": "89010cbf-68f4-4d28-a6b3-5773b3a76ea7",
+    "name": "tatsumigamou",
+    "img": "https://avatars.slack-edge.com/2020-03-12/985313571153_203fee630d3a4a1053a1_24.jpg",
+    "time": "2021/12/31 18:17:57",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1640938999229300"
+  },
+  {
+    "user": "UGA29R3FH",
+    "text": "？「ところでですね、Arch Linuxという物があるんですけどね、これを使うとコンピューターを使うのが楽しくなるらしいですよ？」",
+    "client_msg_id": "07bf5646-72e3-4f39-b845-59780439ec64",
+    "name": "znmxodq1",
+    "img": "https://avatars.slack-edge.com/2019-03-08/570571829091_2ca91fb0cc1ed2341fe0_24.png",
+    "time": "2021/12/31 18:17:57",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1640938980228700"
+  },
+  {
+    "user": "UVB7L4CKH",
+    "text": "やりたい事ドリブンでここまで生きてきたので、TSやGoはそこそこ触れるけどVBAどころかExcelの関数すら分からない",
+    "client_msg_id": "3065547c-cb19-4c2a-b91b-4999fceabb53",
+    "name": "tatsumigamou",
+    "img": "https://avatars.slack-edge.com/2020-03-12/985313571153_203fee630d3a4a1053a1_24.jpg",
+    "time": "2021/12/31 18:17:58",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1640938971228600"
+  },
+  {
+    "user": "U01QTK2CP3K",
+    "text": "漠然とであればほんとにおすすめしない学問の一つですね、、、\nまぁ個人的にはVBAは便利だからもし相手がWin使ってるならおすすめしますね",
+    "client_msg_id": "1c92de8e-79aa-497d-b718-b1ce56c4f03f",
+    "name": "redohagi127",
+    "img": "https://avatars.slack-edge.com/2021-03-07/1824244509366_870cdef2c6261c959069_24.jpg",
+    "time": "2021/12/31 18:17:58",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1640938908225800"
+  },
+  {
+    "user": "UGA29R3FH",
     "text": "初期段階は特に",
     "client_msg_id": "957ce854-36e9-44e6-8076-1a833878e9d8",
     "name": "znmxodq1",
     "img": "https://avatars.slack-edge.com/2019-03-08/570571829091_2ca91fb0cc1ed2341fe0_24.png",
-    "time": "2021/12/31 17:21:04",
+    "time": "2021/12/31 18:17:58",
     "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1640938838223800"
   },
   {
