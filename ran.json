@@ -1,11 +1,947 @@
 [
   {
     "user": "UGA29R3FH",
+    "text": "ブラウザ立ち上げてIDE(正確にはVimとLS)立ち上げてビルドするだけで死ぬことがある",
+    "client_msg_id": "d91e7a48-7bd6-4543-96af-9f496996da30",
+    "name": "znmxodq1",
+    "img": "https://avatars.slack-edge.com/2019-03-08/570571829091_2ca91fb0cc1ed2341fe0_24.png",
+    "time": "2021/12/31 20:14:01",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1640949198428900"
+  },
+  {
+    "user": "UGA29R3FH",
+    "text": "私なんてメモリ8GBのマシンでも人権の無さ感じることがあるのに…",
+    "client_msg_id": "d1b322b4-5745-45e0-9a44-bc1a01134b92",
+    "name": "znmxodq1",
+    "img": "https://avatars.slack-edge.com/2019-03-08/570571829091_2ca91fb0cc1ed2341fe0_24.png",
+    "time": "2021/12/31 20:14:01",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1640949155428200"
+  },
+  {
+    "user": "UGA29R3FH",
+    "text": "人権が無い",
+    "client_msg_id": "7611fef2-0f94-46ed-ada1-0d2057d9691e",
+    "name": "znmxodq1",
+    "img": "https://avatars.slack-edge.com/2019-03-08/570571829091_2ca91fb0cc1ed2341fe0_24.png",
+    "time": "2021/12/31 20:14:02",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1640949121427700"
+  },
+  {
+    "user": "U01QTK2CP3K",
+    "text": "そのうえ監視ソフト入れてるから、起動しただけでavailableRAMが1Gちょっと、、、なにしろと？ってなる\n\nマウスパッドのないlaptop出ないかな",
+    "client_msg_id": "7253e4fc-04d6-4f6c-b2cc-73b5874c3275",
+    "name": "redohagi127",
+    "img": "https://avatars.slack-edge.com/2021-03-07/1824244509366_870cdef2c6261c959069_24.jpg",
+    "time": "2021/12/31 20:14:02",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1640949105427500"
+  },
+  {
+    "user": "U0GFBAM8U",
+    "text": "今度、「タイル型ノーパスワードセキュリティ、オプションにキーバインド書き換えで更に強化パック」をおすすめしましょう",
+    "client_msg_id": "936181cd-bae9-4dce-85dc-d2677b30136d",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2021/12/31 20:14:02",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1640949025426500"
+  },
+  {
+    "user": "UGA29R3FH",
+    "text": "あるある",
+    "client_msg_id": "9075ae21-6017-4b06-9064-288ecac54dbb",
+    "name": "znmxodq1",
+    "img": "https://avatars.slack-edge.com/2019-03-08/570571829091_2ca91fb0cc1ed2341fe0_24.png",
+    "time": "2021/12/31 20:14:03",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1640948960424700"
+  },
+  {
+    "user": "U0GFBAM8U",
+    "text": "つら",
+    "client_msg_id": "a4fbecdc-0792-4a0b-a5ea-e0f3cacd6853",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2021/12/31 20:14:03",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1640948958424600"
+  },
+  {
+    "user": "U01QTK2CP3K",
+    "text": "でも情弱な会社の上層部が安心感のために社内の端末に入れるように指示しているせいで、バイト先の業務PCがあり得ないぐらい動かない、、、第三世代Celeronのメモリ４Gに何させてんねん！ってめっちゃ思ってる。",
+    "client_msg_id": "9e2e1f27-a0ce-441e-a42f-a6ae448b2cd2",
+    "name": "redohagi127",
+    "img": "https://avatars.slack-edge.com/2021-03-07/1824244509366_870cdef2c6261c959069_24.jpg",
+    "time": "2021/12/31 20:14:04",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1640948937424300"
+  },
+  {
+    "user": "U01QTK2CP3K",
+    "text": "ただでさえ重いOSをさらに重くしてどうする？って思っている",
+    "client_msg_id": "2e7dc8b6-714b-4471-b662-75205918e5d0",
+    "name": "redohagi127",
+    "img": "https://avatars.slack-edge.com/2021-03-07/1824244509366_870cdef2c6261c959069_24.jpg",
+    "time": "2021/12/31 20:14:04",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1640948773421800"
+  },
+  {
+    "user": "U0GFBAM8U",
+    "text": "...true(プログラム)",
+    "client_msg_id": "41624884-b00b-4df1-b952-becc2fb9f3e1",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2021/12/31 20:14:04",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1640948760421400"
+  },
+  {
+    "user": "UGA29R3FH",
+    "text": "ウイルスバスター、存在がウイルスみたいなもの(暴言)",
+    "client_msg_id": "80a9b0c9-30f4-43e9-b39a-9541017289bb",
+    "name": "znmxodq1",
+    "img": "https://avatars.slack-edge.com/2019-03-08/570571829091_2ca91fb0cc1ed2341fe0_24.png",
+    "time": "2021/12/31 20:14:05",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1640948737420300"
+  },
+  {
+    "user": "U0GFBAM8U",
+    "text": "でもスマホはセキュリティパック定期購入してる人多いし、winはウィルスバスター入れてる人多い印象あったりで",
+    "client_msg_id": "2e40103b-a49b-4e3f-a058-5a3514a09d51",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2021/12/31 20:14:05",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1640948716419600"
+  },
+  {
+    "user": "U01QTK2CP3K",
+    "text": "arch入れてるserverにもclamAV入れて動かしてますね。",
+    "client_msg_id": "9348736a-5bc4-4974-b13c-57095751fba5",
+    "name": "redohagi127",
+    "img": "https://avatars.slack-edge.com/2021-03-07/1824244509366_870cdef2c6261c959069_24.jpg",
+    "time": "2021/12/31 20:14:06",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1640948668418100"
+  },
+  {
+    "user": "U0GFBAM8U",
+    "text": "私もmicrosoftのdefenderで十分という意見",
+    "client_msg_id": "5fbb35e7-843b-4764-a794-198de1e99a01",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2021/12/31 20:14:06",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1640948662417900"
+  },
+  {
+    "user": "U01QTK2CP3K",
+    "text": "スマホは何も入れてないですね\nlaptopにはclamAV入れて時々動かしてます\nwinはdefenderで十分派ですね、僕も",
+    "client_msg_id": "1c883c9e-0607-41ba-8b92-05264a12fe00",
+    "name": "redohagi127",
+    "img": "https://avatars.slack-edge.com/2021-03-07/1824244509366_870cdef2c6261c959069_24.jpg",
+    "time": "2021/12/31 20:14:06",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1640948619416700"
+  },
+  {
+    "user": "UGA29R3FH",
+    "text": "スマホはサンドボックスみたいなもんだしいらんでしょと思ってる(no root勢)しWindowsはDefenderで十分でしょ派",
+    "client_msg_id": "0f779ee9-2433-41ba-b1e6-f078dc48fb72",
+    "name": "znmxodq1",
+    "img": "https://avatars.slack-edge.com/2019-03-08/570571829091_2ca91fb0cc1ed2341fe0_24.png",
+    "time": "2021/12/31 20:14:07",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1640948558415600"
+  },
+  {
+    "user": "U0GFBAM8U",
+    "text": "スマホの場合はドコモセキュリティパックとかになるんですが",
+    "client_msg_id": "c92262a3-cd61-4b14-8446-e4289264bfad",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2021/12/31 20:14:07",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1640948557415400"
+  },
+  {
+    "user": "U0GFBAM8U",
+    "text": "そういえば、みなさん、スマホとかwindowsとかでウィルスソフト入れてたりします?\nあれ逆に危ないと思うんですよねえ(あくまで個人的な意見",
+    "client_msg_id": "19e3baf5-d90c-4946-b525-841e24102287",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2021/12/31 20:14:08",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1640948506413800"
+  },
+  {
+    "user": "U01QTK2CP3K",
+    "text": "macbookみたいなデザインでマウスパッドのないlaptopが発売されたら、タイル型WM入れて遊んでみたい",
+    "client_msg_id": "2b7d744b-9b94-4dfd-b3bb-f14076e7610d",
+    "name": "redohagi127",
+    "img": "https://avatars.slack-edge.com/2021-03-07/1824244509366_870cdef2c6261c959069_24.jpg",
+    "time": "2021/12/31 20:14:08",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1640948499413600"
+  },
+  {
+    "user": "U0GFBAM8U",
+    "text": "キーバインド上書きされてる場合はさらなるセキュリティ向上が可能です\n？「こ、これは...売れるぞっ！」",
+    "client_msg_id": "577cc62a-9373-4fa1-93a7-41f3d36c338e",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2021/12/31 20:14:08",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1640948341411900"
+  },
+  {
+    "user": "U01QTK2CP3K",
+    "text": "ある意味情弱勢に対しては一定の効果のあるセキュリティであることは間違いない",
+    "client_msg_id": "49964895-6bea-474f-b0e8-fab8373d2aa4",
+    "name": "redohagi127",
+    "img": "https://avatars.slack-edge.com/2021-03-07/1824244509366_870cdef2c6261c959069_24.jpg",
+    "time": "2021/12/31 20:14:09",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1640948322411500"
+  },
+  {
+    "user": "U01QTK2CP3K",
+    "text": "「あいつのPC盗んでやったぜ！早速起動してみよ、、、やった！起動できた！あいつパスワードなしかよwww」\n「・・・どうやって操作するんだ？？？」",
+    "client_msg_id": "05954054-0a6c-4590-b1d5-a88c9db6c8df",
+    "name": "redohagi127",
+    "img": "https://avatars.slack-edge.com/2021-03-07/1824244509366_870cdef2c6261c959069_24.jpg",
+    "time": "2021/12/31 20:14:09",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1640948249410000"
+  },
+  {
+    "user": "U8T8KB5M4",
+    "text": "さらにデフォキーバインド全部上書きしてますね（セキュリティ意図はもちろんない）",
+    "client_msg_id": "c4b5b230-1ef4-41cc-a1e7-5414b9a5715b",
+    "name": "h.hata.ai.t",
+    "img": "https://avatars.slack-edge.com/2019-08-19/732537331990_536f34e28226326cb4e8_24.png",
+    "time": "2021/12/31 20:14:10",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1640948185408500"
+  },
+  {
+    "user": "U0GFBAM8U",
+    "text": "タイル型ノーパスワードセキュリティ",
+    "client_msg_id": "160e2158-7749-4a2c-821d-1ac2bd3ff3e7",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2021/12/31 20:14:10",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1640948135406300"
+  },
+  {
+    "user": "U01QTK2CP3K",
+    "text": "タイル型ウインドウマネージャーは初見じゃ操作できん、、、",
+    "client_msg_id": "4d2fa4e3-9560-465e-87d3-e8632452751c",
+    "name": "redohagi127",
+    "img": "https://avatars.slack-edge.com/2021-03-07/1824244509366_870cdef2c6261c959069_24.jpg",
+    "time": "2021/12/31 20:14:10",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1640948102405900"
+  },
+  {
+    "user": "UGA29R3FH",
+    "text": "個別にtrustできたらいいんだけど",
+    "client_msg_id": "94e2942a-c652-44fd-a991-bafd31054c53",
+    "name": "znmxodq1",
+    "img": "https://avatars.slack-edge.com/2019-03-08/570571829091_2ca91fb0cc1ed2341fe0_24.png",
+    "time": "2021/12/31 20:14:11",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1640948081405500"
+  },
+  {
+    "user": "UGA29R3FH",
+    "text": "パスワードといえば、sudoersにNOPASSWD設定してるのもよくないなーと思いつつやめられてない",
+    "client_msg_id": "039731a6-57f7-4f6f-b63e-a54dbb839e87",
+    "name": "znmxodq1",
+    "img": "https://avatars.slack-edge.com/2019-03-08/570571829091_2ca91fb0cc1ed2341fe0_24.png",
+    "time": "2021/12/31 20:14:11",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1640948074405200"
+  },
+  {
+    "user": "U0GFBAM8U",
+    "text": "i3、初見だと、マジで操作わかんないと思う",
+    "client_msg_id": "dadd1794-e7d6-4ff3-9a6f-c14636951f02",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2021/12/31 20:14:12",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1640947988404100"
+  },
+  {
+    "user": "UGA29R3FH",
+    "text": "外に持ち出すならちゃんとログインとLUKSの設定はします",
+    "client_msg_id": "377e426f-d532-4c58-88ed-272b4e333bf9",
+    "name": "znmxodq1",
+    "img": "https://avatars.slack-edge.com/2019-03-08/570571829091_2ca91fb0cc1ed2341fe0_24.png",
+    "time": "2021/12/31 20:14:12",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1640947984403900"
+  },
+  {
+    "user": "U0GFBAM8U",
+    "text": "まあ、そうですね笑",
+    "client_msg_id": "b85fbac2-cd4d-4c2d-bc9d-7d33766fec6d",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2021/12/31 20:14:12",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1640947950402900"
+  },
+  {
+    "user": "UGA29R3FH",
+    "text": "うちの環境、i3なので知らん人が起動しても操作できないでしょ",
+    "client_msg_id": "fe00403d-992c-4303-87ea-712be65a1566",
+    "name": "znmxodq1",
+    "img": "https://avatars.slack-edge.com/2019-03-08/570571829091_2ca91fb0cc1ed2341fe0_24.png",
+    "time": "2021/12/31 20:14:13",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1640947927402400"
+  },
+  {
+    "user": "UGA29R3FH",
+    "text": "ただlaptopだとできないんよなぁ",
+    "client_msg_id": "20881021-f60e-49d0-9965-b45f8b72358b",
+    "name": "znmxodq1",
+    "img": "https://avatars.slack-edge.com/2019-03-08/570571829091_2ca91fb0cc1ed2341fe0_24.png",
+    "time": "2021/12/31 20:14:13",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1640947905402000"
+  },
+  {
+    "user": "U01QTK2CP3K",
+    "text": "いらなくなったUSBメモリのキャップに入れて、PCツールバックのポケットに入れてます",
+    "client_msg_id": "f307c6fc-8507-4b17-a8c6-0267d82b5c8d",
+    "name": "redohagi127",
+    "img": "https://avatars.slack-edge.com/2021-03-07/1824244509366_870cdef2c6261c959069_24.jpg",
+    "time": "2021/12/31 20:14:14",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1640947902401600"
+  },
+  {
+    "user": "U0GFBAM8U",
+    "text": "パスワード入力ログイン派のほうが多いのだろうか",
+    "client_msg_id": "76515df7-4127-4733-8078-721c1b546938",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2021/12/31 20:14:14",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1640947899401500"
+  },
+  {
+    "user": "UGA29R3FH",
+    "text": "ライブディストロの体験がコンセプトなので自動ログインは外せない",
+    "client_msg_id": "027f52e4-0d84-4a97-a1c7-d5e386427711",
+    "name": "znmxodq1",
+    "img": "https://avatars.slack-edge.com/2019-03-08/570571829091_2ca91fb0cc1ed2341fe0_24.png",
+    "time": "2021/12/31 20:14:15",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1640947897401200"
+  },
+  {
+    "user": "U0GFBAM8U",
+    "text": "私はセキュリティ放置勢でパスワードなしの自動ログインしてるなあ",
+    "client_msg_id": "9d28208c-ce17-41e1-acd5-7f11869dd0c3",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2021/12/31 20:14:15",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1640947845400000"
+  },
+  {
+    "user": "UGA29R3FH",
+    "text": "一般性が無い(Arch Wikiの情報が役に立たない部分がそれなりにある)\n運用に難がある(更新や設定の反映が面倒臭い)",
+    "client_msg_id": "8215fd04-af67-4331-90ad-7fa48ccbe69b",
+    "name": "znmxodq1",
+    "img": "https://avatars.slack-edge.com/2019-03-08/570571829091_2ca91fb0cc1ed2341fe0_24.png",
+    "time": "2021/12/31 20:14:15",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1640947795399300"
+  },
+  {
+    "user": "U8T8KB5M4",
+    "text": "Yubikeyどうやって持ち歩いてるか気になります。端子部分露出してるの気になってなんかいい感じに保護できないかなっていつも思ってるんですが。",
+    "client_msg_id": "7170d62f-159a-436a-a4c9-83b7c1413f13",
+    "name": "h.hata.ai.t",
+    "img": "https://avatars.slack-edge.com/2019-08-19/732537331990_536f34e28226326cb4e8_24.png",
+    "time": "2021/12/31 20:14:16",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1640947681397600"
+  },
+  {
+    "user": "U0GFBAM8U",
+    "text": "セキュリティ強そう",
+    "client_msg_id": "adfc98af-4a80-474c-a57b-dcad16aa37c8",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2021/12/31 20:14:16",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1640947680397500"
+  },
+  {
+    "user": "U0GFBAM8U",
+    "text": "便利",
+    "client_msg_id": "d85a8d43-9fde-48bf-b2e6-d2d1a5414215",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2021/12/31 20:14:17",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1640947673397300"
+  },
+  {
+    "user": "UGA29R3FH",
+    "text": "あまりに一般性が無いのと運用に難があるので手放しでおすすめはできないですが、電源切ると戻るシステムというのは乙な物ですよ",
+    "client_msg_id": "8b2ba861-d1f3-4d48-a1a7-37d341556f8b",
+    "name": "znmxodq1",
+    "img": "https://avatars.slack-edge.com/2019-03-08/570571829091_2ca91fb0cc1ed2341fe0_24.png",
+    "time": "2021/12/31 20:14:17",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1640947642396700"
+  },
+  {
+    "user": "U01QTK2CP3K",
+    "text": "laptopは取られたときに漏洩するの嫌だから暗号化に暗号化を重ねて、パスワードもショルダーハッキングされないようにYubikey使ってますね",
+    "client_msg_id": "e4320191-4574-4aee-959e-929d827488df",
+    "name": "redohagi127",
+    "img": "https://avatars.slack-edge.com/2021-03-07/1824244509366_870cdef2c6261c959069_24.jpg",
+    "time": "2021/12/31 20:14:17",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1640947596396000"
+  },
+  {
+    "user": "U8T8KB5M4",
+    "text": "皆さんのキッティングの話それぞれブログにしてもらいたい",
+    "client_msg_id": "c7ccafad-461f-4a29-a24e-ce9cd5e60e31",
+    "name": "h.hata.ai.t",
+    "img": "https://avatars.slack-edge.com/2019-08-19/732537331990_536f34e28226326cb4e8_24.png",
+    "time": "2021/12/31 20:14:18",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1640947570395200"
+  },
+  {
+    "user": "U01792411FA",
+    "text": "魔改造！",
+    "client_msg_id": "8876824f-cb4a-434a-86b5-e9dcd895b310",
+    "name": "seekerkrt",
+    "img": "https://avatars.slack-edge.com/2020-07-06/1229422291988_bb227d56e151807964f4_24.png",
+    "time": "2021/12/31 20:14:18",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1640947553394400"
+  },
+  {
+    "user": "UGA29R3FH",
+    "text": "実の所、魔改造archisoをベースにしていて生きているのでユーザーディレクトリ以外は全てライブシステムみたく揮発性なのですが、`/home`以下だけは実用上困るので起動時に日付でディレクトリを掘ってマウントしてます",
+    "client_msg_id": "46f36746-9d60-4330-84d6-f431a64af1ae",
+    "name": "znmxodq1",
+    "img": "https://avatars.slack-edge.com/2019-03-08/570571829091_2ca91fb0cc1ed2341fe0_24.png",
+    "time": "2021/12/31 20:14:19",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1640947532394100"
+  },
+  {
+    "user": "U0GFBAM8U",
+    "text": "ありがたい",
+    "client_msg_id": "601e03c8-fb7d-40a1-95ba-b26355801053",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2021/12/31 20:14:19",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1640947439391400"
+  },
+  {
+    "user": "U01792411FA",
+    "text": "ラップトップでもデスクトップでも多分、/homeだけは分割しておくべき",
+    "client_msg_id": "4666273e-cc44-48c3-9458-c2112f606221",
+    "name": "seekerkrt",
+    "img": "https://avatars.slack-edge.com/2020-07-06/1229422291988_bb227d56e151807964f4_24.png",
+    "time": "2021/12/31 20:14:19",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1640947430391200"
+  },
+  {
+    "user": "U8T8KB5M4",
+    "text": "この辺の他の人の話聞けるのとても嬉しい",
+    "client_msg_id": "d47b8d48-26cd-498d-8391-fbbacc48fa4e",
+    "name": "h.hata.ai.t",
+    "img": "https://avatars.slack-edge.com/2019-08-19/732537331990_536f34e28226326cb4e8_24.png",
+    "time": "2021/12/31 20:14:20",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1640947395390500"
+  },
+  {
+    "user": "UGA29R3FH",
+    "text": "おうちマシンはdesktopなので特に暗号化してない",
+    "client_msg_id": "91eb866a-d35c-467e-932d-476cf8589a7f",
+    "name": "znmxodq1",
+    "img": "https://avatars.slack-edge.com/2019-03-08/570571829091_2ca91fb0cc1ed2341fe0_24.png",
+    "time": "2021/12/31 20:14:20",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1640947354389900"
+  },
+  {
+    "user": "U01792411FA",
+    "text": "ほんとはhomeぐらいは分割しとくべきなんだろうけど",
+    "client_msg_id": "3e2b9a89-ba4e-4844-85cb-ea944ba46a07",
+    "name": "seekerkrt",
+    "img": "https://avatars.slack-edge.com/2020-07-06/1229422291988_bb227d56e151807964f4_24.png",
+    "time": "2021/12/31 20:14:21",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1640947352389800"
+  },
+  {
+    "user": "UGA29R3FH",
+    "text": "laptopでやるならそのへんもちゃんと考えないといけないなー",
+    "client_msg_id": "20ccf8e0-2920-458c-960c-18eb0daf0c0d",
+    "name": "znmxodq1",
+    "img": "https://avatars.slack-edge.com/2019-03-08/570571829091_2ca91fb0cc1ed2341fe0_24.png",
+    "time": "2021/12/31 20:14:21",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1640947335389100"
+  },
+  {
+    "user": "U01792411FA",
+    "text": "EFI 500MiB 残りroot、メモリ多めに積んでるのでSwap取らない",
+    "client_msg_id": "9de84b99-c1c2-42a1-87f6-d11aaf8daec2",
+    "name": "seekerkrt",
+    "img": "https://avatars.slack-edge.com/2020-07-06/1229422291988_bb227d56e151807964f4_24.png",
+    "time": "2021/12/31 20:14:21",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1640947234388100"
+  },
+  {
+    "user": "U01QTK2CP3K",
+    "text": "laptopにNVMe-SSDとSATA-SSDぶち込んでるので、nvmeにブートローダーを、sataをLUKSで暗号化してホームディレクトリに使ってますね\nnvmeは`/boot` `/home` `/home` にいい感じに切ってますね\nsataのほうは復号化ファイルをnvmeに入れて、nvmeがマウントされていないと復号化できないようにしてます。",
+    "client_msg_id": "4ab46139-3f21-4931-9111-27cfd9ab7276",
+    "name": "redohagi127",
+    "img": "https://avatars.slack-edge.com/2021-03-07/1824244509366_870cdef2c6261c959069_24.jpg",
+    "time": "2021/12/31 20:14:22",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1640947233388000"
+  },
+  {
+    "user": "UGA29R3FH",
+    "text": "(なお `/data` 以下は散らかっている模様)",
+    "client_msg_id": "cbf44a0e-c5fe-4ee0-a610-2a4daabf1ac7",
+    "name": "znmxodq1",
+    "img": "https://avatars.slack-edge.com/2019-03-08/570571829091_2ca91fb0cc1ed2341fe0_24.png",
+    "time": "2021/12/31 20:14:22",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1640947183386300"
+  },
+  {
+    "user": "UGA29R3FH",
+    "text": "Linux的ではないディレクトリに突っ込んでおく利点としてディストロをスイッチしやすいというのがあります、後homeディレクトリも散らかりにくい",
+    "client_msg_id": "014309de-c46e-445c-ac15-b3e966b61744",
+    "name": "znmxodq1",
+    "img": "https://avatars.slack-edge.com/2019-03-08/570571829091_2ca91fb0cc1ed2341fe0_24.png",
+    "time": "2021/12/31 20:14:23",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1640947165385300"
+  },
+  {
+    "user": "UGA29R3FH",
+    "text": "標準的ではないので名前を何にするかが悩ましかった",
+    "client_msg_id": "4fe69198-9cf4-444d-8505-970743daf8f2",
+    "name": "znmxodq1",
+    "img": "https://avatars.slack-edge.com/2019-03-08/570571829091_2ca91fb0cc1ed2341fe0_24.png",
+    "time": "2021/12/31 20:14:23",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1640947079382700"
+  },
+  {
+    "user": "UGA29R3FH",
+    "text": "ホームディレクトリとか何とかの振り分けを全然やってない代わりにユーザーデータを全て `/data` 以下に置いてます",
+    "client_msg_id": "4041b6a9-6fc2-471e-a74d-2a7ccaff774e",
+    "name": "znmxodq1",
+    "img": "https://avatars.slack-edge.com/2019-03-08/570571829091_2ca91fb0cc1ed2341fe0_24.png",
+    "time": "2021/12/31 20:14:23",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1640947053381800"
+  },
+  {
+    "user": "U8T8KB5M4",
+    "text": "なんか久しぶりにインストールバトルやりたくなってきた…",
+    "client_msg_id": "b724d600-ed14-4fd3-b3e4-09f6d9a1b73e",
+    "name": "h.hata.ai.t",
+    "img": "https://avatars.slack-edge.com/2019-08-19/732537331990_536f34e28226326cb4e8_24.png",
+    "time": "2021/12/31 20:14:24",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1640946992380100"
+  },
+  {
+    "user": "UGA29R3FH",
+    "text": "メモリが少ないのでReal 8GB Swap 8GBくらいやってます",
+    "client_msg_id": "f8aa764b-2451-4368-a9c3-bbe11b2ba59e",
+    "name": "znmxodq1",
+    "img": "https://avatars.slack-edge.com/2019-03-08/570571829091_2ca91fb0cc1ed2341fe0_24.png",
+    "time": "2021/12/31 20:14:24",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1640946982379500"
+  },
+  {
+    "user": "U0GFBAM8U",
+    "text": "swapは作ってません",
+    "client_msg_id": "235bc766-7057-468b-80ea-b2150df16bcf",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2021/12/31 20:14:25",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1640946955378300"
+  },
+  {
+    "user": "UGA29R3FH",
+    "text": "ここは自動化してないな(構築スクリプトで出てくるのさすが)",
+    "client_msg_id": "86b367a3-77de-4356-9684-ac5ac49d6eaf",
+    "name": "znmxodq1",
+    "img": "https://avatars.slack-edge.com/2019-03-08/570571829091_2ca91fb0cc1ed2341fe0_24.png",
+    "time": "2021/12/31 20:14:25",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1640946949378200"
+  },
+  {
+    "user": "U0GFBAM8U",
+    "text": "私は基本的にこんな感じでやってます\n```   parted /dev/${x} \\\n      -s mklabel gpt \\\n      -s mkpart primary ext2 0 200 \\\n      -s mkpart primary ext4 200 100% \\\n      -s p```",
+    "client_msg_id": "2828ec28-08ae-4395-8dbc-9de5d30dfb88",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2021/12/31 20:14:25",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1640946921377600"
+  },
+  {
+    "user": "U0GFBAM8U",
+    "text": "みなさん、ディスクパーティション、どんな感じなのでしょう?",
+    "client_msg_id": "3e4c9710-b13e-44fa-ba73-132da343b676",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2021/12/31 20:14:26",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1640946901377100"
+  },
+  {
+    "user": "UGA29R3FH",
+    "text": "セキュアブートは切るものだと覚えてる",
+    "client_msg_id": "9f13c6c3-b2c0-4d85-ac22-0264e7b6baee",
+    "name": "znmxodq1",
+    "img": "https://avatars.slack-edge.com/2019-03-08/570571829091_2ca91fb0cc1ed2341fe0_24.png",
+    "time": "2021/12/31 20:14:26",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1640946836376500"
+  },
+  {
+    "user": "U01792411FA",
+    "text": "Linuxのセキュアブートチャレンジしてみたいけど難しそう",
+    "client_msg_id": "fa5d51a1-9598-4ca5-a611-01890d5406ca",
+    "name": "seekerkrt",
+    "img": "https://avatars.slack-edge.com/2020-07-06/1229422291988_bb227d56e151807964f4_24.png",
+    "time": "2021/12/31 20:14:27",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1640946756375600"
+  },
+  {
+    "user": "UGA29R3FH",
+    "text": "GRUB楽だけど私にとっては完全なブラックボックス…",
+    "client_msg_id": "a4437577-c4f7-4461-93e5-f5be7574cd47",
+    "name": "znmxodq1",
+    "img": "https://avatars.slack-edge.com/2019-03-08/570571829091_2ca91fb0cc1ed2341fe0_24.png",
+    "time": "2021/12/31 20:14:27",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1640946750375500"
+  },
+  {
+    "user": "U01QTK2CP3K",
+    "text": "未だに署名セキュアブートしてないし、、、",
+    "client_msg_id": "bd45a4cd-e33d-4bf8-a943-b26e414a9a08",
+    "name": "redohagi127",
+    "img": "https://avatars.slack-edge.com/2021-03-07/1824244509366_870cdef2c6261c959069_24.jpg",
+    "time": "2021/12/31 20:14:27",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1640946728374900"
+  },
+  {
+    "user": "U0GFBAM8U",
+    "text": "grub楽なんだけど",
+    "client_msg_id": "8BE2420C-9508-4881-8DF4-3B2C80BEAE46",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2021/12/31 20:14:28",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1640946716374600"
+  },
+  {
+    "user": "U01792411FA",
+    "text": "EFIのGRUB2ならほぼ設定いらないから楽です",
+    "client_msg_id": "380c4e6e-df77-498d-88f8-13e0016ff7f6",
+    "name": "seekerkrt",
+    "img": "https://avatars.slack-edge.com/2020-07-06/1229422291988_bb227d56e151807964f4_24.png",
+    "time": "2021/12/31 20:14:28",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1640946715374400"
+  },
+  {
+    "user": "UGA29R3FH",
+    "text": "EFIだとsystemd-bootとかrefindとかありますよね",
+    "client_msg_id": "753d5c26-cd32-43fa-bf65-d20b0d1d9e40",
+    "name": "znmxodq1",
+    "img": "https://avatars.slack-edge.com/2019-03-08/570571829091_2ca91fb0cc1ed2341fe0_24.png",
+    "time": "2021/12/31 20:14:29",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1640946701373900"
+  },
+  {
+    "user": "U0GFBAM8U",
+    "text": "bootloader周りはパソコンによって変わってきますから、むずかしそう",
+    "client_msg_id": "318DC0CF-3820-46E8-BE0D-6611E185E693",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2021/12/31 20:14:29",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1640946689373200"
+  },
+  {
+    "user": "UGA29R3FH",
+    "text": "BIOS積んだ古いマシンなのでsyslinux使ってます",
+    "client_msg_id": "b3800bf0-78ac-4be5-9511-76cd141394cf",
+    "name": "znmxodq1",
+    "img": "https://avatars.slack-edge.com/2019-03-08/570571829091_2ca91fb0cc1ed2341fe0_24.png",
+    "time": "2021/12/31 20:14:29",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1640946682372800"
+  },
+  {
+    "user": "U01QTK2CP3K",
+    "text": "ブートローダーとかGrabしか使ったことない\n今度別のブートローダー挑戦しよう",
+    "client_msg_id": "a2d08cbf-b430-4e48-8437-eb01d02345e3",
+    "name": "redohagi127",
+    "img": "https://avatars.slack-edge.com/2021-03-07/1824244509366_870cdef2c6261c959069_24.jpg",
+    "time": "2021/12/31 20:14:30",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1640946656371600"
+  },
+  {
+    "user": "UGA29R3FH",
+    "text": "このへんのあれこれは、私が丸一日Dockerfileとか書いて潰せるような人間だというだけで再現性はないよな",
+    "client_msg_id": "c1355f2f-3d5d-4160-86d9-635b92aff330",
+    "name": "znmxodq1",
+    "img": "https://avatars.slack-edge.com/2019-03-08/570571829091_2ca91fb0cc1ed2341fe0_24.png",
+    "time": "2021/12/31 20:14:30",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1640946575370400"
+  },
+  {
+    "user": "U01792411FA",
+    "text": "linuxパッケージがbaseから分割されたので最近セットアップするとカーネルなくて起動しないことがある",
+    "client_msg_id": "4ab15ca6-5876-48b1-b40f-d5cf6aad699a",
+    "name": "seekerkrt",
+    "img": "https://avatars.slack-edge.com/2020-07-06/1229422291988_bb227d56e151807964f4_24.png",
+    "time": "2021/12/31 20:14:31",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1640946567370200"
+  },
+  {
+    "user": "U01QTK2CP3K",
+    "text": "あ、いまWikiみて確認したけどブートローダー自信なくなった",
+    "client_msg_id": "ee46bf2d-f919-4faf-8439-ba1995a2e5e0",
+    "name": "redohagi127",
+    "img": "https://avatars.slack-edge.com/2021-03-07/1824244509366_870cdef2c6261c959069_24.jpg",
+    "time": "2021/12/31 20:14:31",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1640946553369900"
+  },
+  {
+    "user": "UVB7L4CKH",
+    "text": "大口叩いたものの、Xの細かい設定を覚えてない気がする",
+    "client_msg_id": "cec4c885-1062-4cae-b15c-47845967c8a6",
+    "name": "tatsumigamou",
+    "img": "https://avatars.slack-edge.com/2020-03-12/985313571153_203fee630d3a4a1053a1_24.jpg",
+    "time": "2021/12/31 20:14:31",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1640946535368900"
+  },
+  {
+    "user": "UGA29R3FH",
+    "text": "```# System\nbase\nlinux\n\n# Dev\nbase-devel\ngit```\nのようにパッケージリストを書けるようにもしている(確かこれはarchisoの処理をコピペしたやつ)",
+    "client_msg_id": "6a97e02b-8b13-48de-a213-f74a7cb12cd3",
+    "name": "znmxodq1",
+    "img": "https://avatars.slack-edge.com/2019-03-08/570571829091_2ca91fb0cc1ed2341fe0_24.png",
+    "time": "2021/12/31 20:14:32",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1640946515368200"
+  },
+  {
+    "user": "UVB7L4CKH",
+    "text": "stack（haskellのやつ）インストールしてXorgインストールしてdotfilesのhaskellビルドすればGUIは一発で起動するはず",
+    "client_msg_id": "5b3b6b6a-e9ff-49d3-ad4b-38d7dec473f2",
+    "name": "tatsumigamou",
+    "img": "https://avatars.slack-edge.com/2020-03-12/985313571153_203fee630d3a4a1053a1_24.jpg",
+    "time": "2021/12/31 20:14:32",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1640946474366600"
+  },
+  {
+    "user": "U01792411FA",
+    "text": "みんなすごいな",
+    "client_msg_id": "b3c933d7-907b-4d13-9559-59a6c3738320",
+    "name": "seekerkrt",
+    "img": "https://avatars.slack-edge.com/2020-07-06/1229422291988_bb227d56e151807964f4_24.png",
+    "time": "2021/12/31 20:14:33",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1640946461366300"
+  },
+  {
+    "user": "UGA29R3FH",
+    "text": "上のスクリプトはGitHubのプライベートリポジトリに押し込んである",
+    "client_msg_id": "1734d994-c9a0-410d-a456-157db30bd62c",
+    "name": "znmxodq1",
+    "img": "https://avatars.slack-edge.com/2019-03-08/570571829091_2ca91fb0cc1ed2341fe0_24.png",
+    "time": "2021/12/31 20:14:33",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1640946434365500"
+  },
+  {
+    "user": "UGA29R3FH",
+    "text": "bootloaderの設定を除けばいけそうな気はする",
+    "client_msg_id": "0c96533d-c537-408d-9c3a-355eda128aa8",
+    "name": "znmxodq1",
+    "img": "https://avatars.slack-edge.com/2019-03-08/570571829091_2ca91fb0cc1ed2341fe0_24.png",
+    "time": "2021/12/31 20:14:33",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1640946414364300"
+  },
+  {
+    "user": "U0GFBAM8U",
+    "text": "でもguiとなるとdotfileをcloneしてscript走らせるしかないですね、覚えてないので",
+    "client_msg_id": "F7299794-4BA5-42C1-A94E-4B70C10E97DA",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2021/12/31 20:14:34",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1640946411364200"
+  },
+  {
+    "user": "U01QTK2CP3K",
+    "text": "インストールメディア使っていいなら何とか、、、GUI拝むまでなら、、、",
+    "client_msg_id": "a4b644c9-2f3c-46c3-90ed-e3354f845519",
+    "name": "redohagi127",
+    "img": "https://avatars.slack-edge.com/2021-03-07/1824244509366_870cdef2c6261c959069_24.jpg",
+    "time": "2021/12/31 20:14:34",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1640946409364100"
+  },
+  {
+    "user": "U0GFBAM8U",
+    "text": "初期構築ならなんとか",
+    "client_msg_id": "484D6DE5-44C3-4F18-983F-D3613A71CEAB",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2021/12/31 20:14:35",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1640946368361800"
+  },
+  {
+    "user": "UVB7L4CKH",
+    "text": "まあ結局細かいチューニングのためにWiki読み漁ることになるんですが",
+    "client_msg_id": "a1b7ee46-c4ab-4557-838f-cb166c1707ea",
+    "name": "tatsumigamou",
+    "img": "https://avatars.slack-edge.com/2020-03-12/985313571153_203fee630d3a4a1053a1_24.jpg",
+    "time": "2021/12/31 20:14:35",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1640946368361700"
+  },
+  {
+    "user": "UVB7L4CKH",
+    "text": "AURの設定まではできそう\nGUIもいけるかな……？",
+    "client_msg_id": "8247ae93-9799-459e-9d31-c8ff122a2f86",
+    "name": "tatsumigamou",
+    "img": "https://avatars.slack-edge.com/2020-03-12/985313571153_203fee630d3a4a1053a1_24.jpg",
+    "time": "2021/12/31 20:14:35",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1640946333360400"
+  },
+  {
+    "user": "UGA29R3FH",
+    "text": "pacstrapしたやつに上のスクリプトを適用するために走らせてるやつ",
+    "client_msg_id": "b896eef0-42fd-4b7d-96f1-1e449067b43a",
+    "name": "znmxodq1",
+    "img": "https://avatars.slack-edge.com/2019-03-08/570571829091_2ca91fb0cc1ed2341fe0_24.png",
+    "time": "2021/12/31 20:14:36",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1640946322360200"
+  },
+  {
+    "user": "U01QTK2CP3K",
+    "text": "gitとかにスクリプト保管しておけばめっちゃ便利そうだな～と思ってはいるけど、やってない、、、",
+    "client_msg_id": "91235f87-67e8-4193-9fb4-35f4d3d69e85",
+    "name": "redohagi127",
+    "img": "https://avatars.slack-edge.com/2021-03-07/1824244509366_870cdef2c6261c959069_24.jpg",
+    "time": "2021/12/31 20:14:36",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1640946321360100"
+  },
+  {
+    "user": "U01792411FA",
+    "text": "手動になれすぎて、Wiki見なくても一通りのセットアップ（GUI拝む、AUR設定）はできるようになった猛者いませんか",
+    "client_msg_id": "7a92ec12-9bda-4172-9980-8ec367bb73f1",
+    "name": "seekerkrt",
+    "img": "https://avatars.slack-edge.com/2020-07-06/1229422291988_bb227d56e151807964f4_24.png",
+    "time": "2021/12/31 20:14:37",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1640946307359700"
+  },
+  {
+    "user": "UGA29R3FH",
+    "text": "pacstrap走らせてる所",
+    "client_msg_id": "08afa011-4801-4b77-bc9c-90291c433c4b",
+    "name": "znmxodq1",
+    "img": "https://avatars.slack-edge.com/2019-03-08/570571829091_2ca91fb0cc1ed2341fe0_24.png",
+    "time": "2021/12/31 20:14:37",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1640946274359000"
+  },
+  {
+    "user": "UVB7L4CKH",
+    "text": "自動化と言えば、次に買うパソコンでNixOSに手を出すか否かで葛藤してますね\nArchに愛着はあるけど少し風変わりなディストロを開発機に入れたい",
+    "client_msg_id": "c736ff21-49f2-4efa-994d-c6631e7bec59",
+    "name": "tatsumigamou",
+    "img": "https://avatars.slack-edge.com/2020-03-12/985313571153_203fee630d3a4a1053a1_24.jpg",
+    "time": "2021/12/31 20:14:37",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1640946274358900"
+  },
+  {
+    "user": "UGA29R3FH",
+    "text": "役に立たない部品みたいな物ですがユニークな部分だけ貼っておきます",
+    "client_msg_id": "79860ba0-11a8-4a42-9d04-cd22d176f684",
+    "name": "znmxodq1",
+    "img": "https://avatars.slack-edge.com/2019-03-08/570571829091_2ca91fb0cc1ed2341fe0_24.png",
+    "time": "2021/12/31 20:14:38",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1640946234357800"
+  },
+  {
+    "user": "UUWBU08TU",
+    "text": "手動でやってたときはログインユーザー名でいつも悩んでましたね(今は同じくシェルスクリプトです)",
+    "client_msg_id": "777ad3a3-b319-4f5a-a1c4-f8ed89007ac0",
+    "name": "nyaarch64",
+    "img": "https://avatars.slack-edge.com/2020-06-22/1204027183412_7f7a529c9005aa8cce36_24.png",
+    "time": "2021/12/31 20:14:38",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1640946221357500"
+  },
+  {
+    "user": "U0GFBAM8U",
+    "text": "シンプルイズベスト",
+    "client_msg_id": "5C15BCF6-C1BE-4C91-AC8E-4F207FD6F398",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2021/12/31 20:14:39",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1640946202356800"
+  },
+  {
+    "user": "U01792411FA",
+    "text": "ちょこっと修正するだけでいいですもんね",
+    "client_msg_id": "14d911a7-f004-4904-b17f-5eb737bc3216",
+    "name": "seekerkrt",
+    "img": "https://avatars.slack-edge.com/2020-07-06/1229422291988_bb227d56e151807964f4_24.png",
+    "time": "2021/12/31 20:14:39",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1640946193355900"
+  },
+  {
+    "user": "U8T8KB5M4",
+    "text": "シェルスクリプトくらいがメンテしやすくていい塩梅そう。",
+    "client_msg_id": "841fc2d3-e300-4d0f-bbef-60c376b590ed",
+    "name": "h.hata.ai.t",
+    "img": "https://avatars.slack-edge.com/2019-08-19/732537331990_536f34e28226326cb4e8_24.png",
+    "time": "2021/12/31 20:14:39",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1640946177355200"
+  },
+  {
+    "user": "UGA29R3FH",
+    "text": "我に返らなかった結果がこれ",
+    "client_msg_id": "bc4d9d21-1bd7-469a-93fe-77e5717fac1f",
+    "name": "znmxodq1",
+    "img": "https://avatars.slack-edge.com/2019-03-08/570571829091_2ca91fb0cc1ed2341fe0_24.png",
+    "time": "2021/12/31 20:14:40",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1640946149353700"
+  },
+  {
+    "user": "U8T8KB5M4",
+    "text": "一時期ansible書き始めたんですがわれにかえりました。",
+    "client_msg_id": "df9043f1-1765-447f-b074-7ca014f733fa",
+    "name": "h.hata.ai.t",
+    "img": "https://avatars.slack-edge.com/2019-08-19/732537331990_536f34e28226326cb4e8_24.png",
+    "time": "2021/12/31 20:14:40",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1640946133353300"
+  },
+  {
+    "user": "U01QTK2CP3K",
+    "text": "ブートローダーとかパーティション切ったりとか暗号化とか、どこまでやってくれるのか気になる",
+    "client_msg_id": "649b0870-818d-4e02-9954-b6e15ec4a2bb",
+    "name": "redohagi127",
+    "img": "https://avatars.slack-edge.com/2021-03-07/1824244509366_870cdef2c6261c959069_24.jpg",
+    "time": "2021/12/31 20:14:41",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1640946123353000"
+  },
+  {
+    "user": "UGA29R3FH",
+    "text": "たまには手でやるのもいいのかもしれない",
+    "client_msg_id": "657197cd-2a70-452a-ba93-64e2cf07ecfd",
+    "name": "znmxodq1",
+    "img": "https://avatars.slack-edge.com/2019-03-08/570571829091_2ca91fb0cc1ed2341fe0_24.png",
+    "time": "2021/12/31 20:14:41",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1640946123352900"
+  },
+  {
+    "user": "U01792411FA",
+    "text": "ここ数年はセットアップほとんどかわってないかも、SystemdとUEFI普及してから",
+    "client_msg_id": "81fc8d81-e600-4e58-a348-d31b97baaa40",
+    "name": "seekerkrt",
+    "img": "https://avatars.slack-edge.com/2020-07-06/1229422291988_bb227d56e151807964f4_24.png",
+    "time": "2021/12/31 20:14:41",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1640946036349300"
+  },
+  {
+    "user": "UGA29R3FH",
+    "text": "こんな感じで完全に自動化できるのでArch好きなんですよね、他のOSだとこうはいかない",
+    "client_msg_id": "85b3be71-7b15-46cd-b3d1-9917c1a81885",
+    "name": "znmxodq1",
+    "img": "https://avatars.slack-edge.com/2019-03-08/570571829091_2ca91fb0cc1ed2341fe0_24.png",
+    "time": "2021/12/31 20:14:42",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1640946026348600"
+  },
+  {
+    "user": "U8T8KB5M4",
+    "text": "複数台運用とかしてないので割と自分の知識のアップデートがてら楽しく手動でセットアップしちゃってますね。",
+    "client_msg_id": "2f09910f-c6b8-4819-935e-94db4a4d8ec7",
+    "name": "h.hata.ai.t",
+    "img": "https://avatars.slack-edge.com/2019-08-19/732537331990_536f34e28226326cb4e8_24.png",
+    "time": "2021/12/31 20:14:42",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1640945998347000"
+  },
+  {
+    "user": "UGA29R3FH",
     "text": "こんなのを機械的に走らせてます、手でやるのだるいのと間違えるので",
     "client_msg_id": "ff4db66b-e953-40e6-b5aa-ceb6065468c3",
     "name": "znmxodq1",
     "img": "https://avatars.slack-edge.com/2019-03-08/570571829091_2ca91fb0cc1ed2341fe0_24.png",
-    "time": "2021/12/31 19:18:46",
+    "time": "2021/12/31 20:14:43",
     "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1640945887343800"
   },
   {
