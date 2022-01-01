@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="ja">
+ <head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width,initial-scale=1">
+	<meta name="robots" content="noindex, nofollow">
+	<script src="https://unpkg.com/vue/dist/vue.js"></script>
+	<script src="https://unpkg.com/axios/dist/axios.min.js"></script>
+	<script src="/slacklog/dist/vue-markdown.js"></script>
+	<link rel="icon" href="/favicon.ico" type="image/x-icon"/>
+	<link rel="apple-touch-icon" href="/apple-touch-icon.png" />
+	<link rel="shortcut icon" href="/favicon.ico" type="image/x-icon"/>
+	<link rel="stylesheet" href="/slacklog/style.css">
+	<title>archlinuxjp slacklog</title>
+ </head>
+ <body>
+	<div id="content">
+	 <div class="top">
+		<h1>archlinuxjp / <a href="/slacklog">slacklog</a></h1>
+		<p><a href="https://archlinuxjp.slack.com/">https://archlinuxjp.slack.com</a></p>
+	 </div>
+	 <div id="app">
+		<table>
+		 <tr v-for="(value,key) in cities" v-bind:id=value.client_msg_id>
+			<template v-if="value.time.split('/')[0] + value.time.split('/')[1] === dirname">
+			 <td><img v-bind:src="value.img"></td>
+			 <td><a v-bind:href="'#' + value.client_msg_id">{{value.name}}</a></td>
+			 <td><a v-bind:href="value.link">{{ value.time }}</a></td>
+			 <td>
+				<vue-markdown>{{ value.text.replace(/```/g,'\n```') }}</vue-markdown>
+			 </td>
+			</template>
+		 </tr>
+		</table>
+	 </div>
+	</div>
+	<script src="app.js"></script>
+	<footer id="footer">
+	 <a href="https://github.com/ArchLinuxJP/slacklog">github/archlinuxjp</a>
+	</footer>
+ </body>
+</html>

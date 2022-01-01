@@ -27,6 +27,7 @@
 <p><a href="/slacklog/random/202109">202109</a></p>
 <p><a href="/slacklog/random/202110">202110</a></p>
 <p><a href="/slacklog/random/202111">202111</a></p>
+<p><a href="/slacklog/random/202112">202112</a></p>
 	<div id="app">
 	 <table>
 		<tr v-for="(value,key) in cities" v-bind:id=value.client_msg_id>
