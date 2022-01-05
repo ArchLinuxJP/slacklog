@@ -1,11 +1,20 @@
 [
   {
+    "user": "U70QDFN82",
+    "text": "またいつものアンケートやってますね\n<https://www.reddit.com/r/archlinux/comments/rwkwfr/yay_or_paru/>",
+    "client_msg_id": "a61f8fca-64bc-4443-9a8f-be14545a9bb3",
+    "name": "yutakatay",
+    "img": "https://avatars.slack-edge.com/2020-08-16/1302143736069_0baa468f7bea68e827d9_24.png",
+    "time": "2022/01/06 00:23:50",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1641392833150300"
+  },
+  {
     "user": "U0GFBAM8U",
     "text": "よさそう",
     "client_msg_id": "06AC040B-8815-43C8-8CFB-808E749C9A76",
     "name": "syui",
     "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
-    "time": "2021/12/26,00:41:22",
+    "time": "2022/01/06 00:23:50",
     "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1640479282144900"
   },
   {
@@ -505,7 +514,7 @@
   },
   {
     "user": "U02ASPM0A6T",
-    "text": "<@UUWBU08TU> `arch-wiki-docs-ja` パッケージに <http://wiki.archlinux.jp|wiki.archlinux.jp> のアーカイブをつけてくださったのですね。おかげでどこのオフライン環境からでも arch-wiki-jp を気軽に参照できるようになりました。ありがとうございます:relaxed:\n```$ ls -Fa ~/.cache/paru/clone/arch-wiki-docs-ja/\n./   .SRCINFO  PKGBUILD         arch-wiki-docs-ja-20211205-1-any.pkg.tar.zst  archwiki-jp.patch\n../  .git/     arch-wiki-docs/  arch-wiki-docs-ja-20211207-1-any.pkg.tar.zst  src/\n$```",
+    "text": "@nyaarch64 `arch-wiki-docs-ja` パッケージに <http://wiki.archlinux.jp|wiki.archlinux.jp> のアーカイブをつけてくださったのですね。おかげでどこのオフライン環境からでも arch-wiki-jp を気軽に参照できるようになりました。ありがとうございます:relaxed:\n```$ ls -Fa ~/.cache/paru/clone/arch-wiki-docs-ja/\n./   .SRCINFO  PKGBUILD         arch-wiki-docs-ja-20211205-1-any.pkg.tar.zst  archwiki-jp.patch\n../  .git/     arch-wiki-docs/  arch-wiki-docs-ja-20211207-1-any.pkg.tar.zst  src/\n$```",
     "client_msg_id": "9b50a160-767e-4c63-9177-974dd2e58cd2",
     "name": "yozigen",
     "img": "https://avatars.slack-edge.com/2021-08-15/2405164316960_50d7f6e8be23e5b2a0eb_24.jpg",
