@@ -1,11 +1,110 @@
 [
   {
+    "user": "U70QDFN82",
+    "text": "これだからPythonつらい",
+    "client_msg_id": "d7778587-daae-44a0-a63e-9f5a9836f4db",
+    "name": "yutakatay",
+    "img": "https://avatars.slack-edge.com/2020-08-16/1302143736069_0baa468f7bea68e827d9_24.png",
+    "time": "2022/01/06 11:44:52",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1641435217016000"
+  },
+  {
+    "user": "UUWBU08TU",
+    "text": "ただ公式リポジトリには複数バージョン入ってない気がするので、アップストリームの修正待ちとかになる可能性もありますね :thinking_face:、アップストリームで直せるならアップストリームに直接バグ報告する方がいいかもしれません",
+    "client_msg_id": "3db38c91-b19f-42b3-a0e3-a21a17946ca2",
+    "name": "nyaarch64",
+    "img": "https://avatars.slack-edge.com/2020-06-22/1204027183412_7f7a529c9005aa8cce36_24.png",
+    "time": "2022/01/06 11:44:52",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1641435001015500"
+  },
+  {
+    "user": "UUWBU08TU",
+    "text": "Pythonに依存しているパッケージが全て正常に動作することをtestingリポジトリで確認してからリリースという流れだったはずなのでバグ報告で大丈夫だと思います",
+    "client_msg_id": "30a58e2a-e980-427c-bfa7-43185dc426db",
+    "name": "nyaarch64",
+    "img": "https://avatars.slack-edge.com/2020-06-22/1204027183412_7f7a529c9005aa8cce36_24.png",
+    "time": "2022/01/06 11:44:53",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1641434928014600"
+  },
+  {
+    "user": "U017BNGTHT3",
+    "text": "なるほど、他の環境でも再現するならバグ報告で大丈夫そう。\n(FreeCAD使い方が分からないので確認ができない…)",
+    "client_msg_id": "924a7807-b2d0-4c7f-b99f-f814ded71186",
+    "name": "s5is",
+    "img": "https://avatars.slack-edge.com/2020-11-29/1531495219589_cf6a2f80ce7bb820ba38_24.png",
+    "time": "2022/01/06 11:44:53",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1641434651013700"
+  },
+  {
+    "user": "U7NBCFT1S",
+    "text": "freecadだけのために古いPhythonパッケージを使用してくださいというのも、なんか変な感じがしますし。",
+    "client_msg_id": "5a9402a1-3af2-4364-ae38-0b9efe532a7a",
+    "name": "no97yuu",
+    "img": "https://avatars.slack-edge.com/2019-10-26/797548070962_e6a0da66a751d051ab30_24.jpg",
+    "time": "2022/01/06 11:44:53",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1641434098012400"
+  },
+  {
+    "user": "U7NBCFT1S",
+    "text": "おそらく、freecad単体は最新なんですが、\nその最新ですら、”最新の”Phython3パッケージとの互換性がないという・・・",
+    "client_msg_id": "e7c7d49b-3060-4e64-bfbe-7d89a7d994d5",
+    "name": "no97yuu",
+    "img": "https://avatars.slack-edge.com/2019-10-26/797548070962_e6a0da66a751d051ab30_24.jpg",
+    "time": "2022/01/06 11:44:54",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1641434018011300"
+  },
+  {
+    "user": "U017BNGTHT3",
+    "text": "単にパッケージが古くなっていて動かないっぽいので、outdatedフラグのほうが適切だったかもしれない。",
+    "client_msg_id": "e6921505-07a0-4e85-a443-c68453121291",
+    "name": "s5is",
+    "img": "https://avatars.slack-edge.com/2020-11-29/1531495219589_cf6a2f80ce7bb820ba38_24.png",
+    "time": "2022/01/06 11:44:54",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1641433891009600"
+  },
+  {
+    "user": "U7NBCFT1S",
+    "text": "ありがとうございます。",
+    "client_msg_id": "ae8fb66e-3c00-4986-8f86-ee64fd0a8c49",
+    "name": "no97yuu",
+    "img": "https://avatars.slack-edge.com/2019-10-26/797548070962_e6a0da66a751d051ab30_24.jpg",
+    "time": "2022/01/06 11:44:55",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1641433582008800"
+  },
+  {
+    "user": "U017BNGTHT3",
+    "text": "バグなら<https://bugs.archlinux.org/|バグトラッカー>があるので、そこで良いはず？",
+    "client_msg_id": "8fc559b9-7d16-4e38-81ac-cae2a5f902de",
+    "name": "s5is",
+    "img": "https://avatars.slack-edge.com/2020-11-29/1531495219589_cf6a2f80ce7bb820ba38_24.png",
+    "time": "2022/01/06 11:44:55",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1641433475008400"
+  },
+  {
+    "user": "U7NBCFT1S",
+    "text": "Archパッケージの中のソフトの一部にバグがあるときにどうしたらいいのか教えていただけないでしょうか。\n\n具体的な症状\n・対象パッケージ\n　freecad\n・現象\n　PATHワークベンチにて新規オブジェクトを作成したときにpythonが以下のエラーを吐くため、\n　新規オブジェクトが生成されない。\n```　10:30:53  Traceback (most recent call last):\n  File \"/usr/lib/freecad/Mod/Path/PathScripts/PathJobGui.py\", line 139, in attach\n    self.axs = coin.SoType.fromName('SoAxisCrossKit').createInstance()\n  File \"/usr/lib/python3.10/site-packages/pivy/coin.py\", line 491, in createInstance\n    return _coin.SoType_createInstance(self)\n&lt;class 'SystemError'&gt;: &lt;built-in function SoType_createInstance&gt; returned a result with an exception set\n10:30:53  PathJobGui.ERROR: &lt;built-in function SoFieldContainer_getField&gt; returned a result with an exception set\n10:30:53  SystemError: PY_SSIZE_T_CLEAN macro must be defined for '#' formats\n10:30:53  \nThe above exception was the direct cause of the following exception:```\n・2021/12月下旬以降のアップデートでこの問題が出てきました。\n・freecadのメンテナ？に依存パッケージの調整をしてほしい\n　・おそらく新しいPythonパッケージとfreecadの互換性が悪いため",
+    "client_msg_id": "4aaa81c3-b1b3-4f68-a533-6509f871d714",
+    "name": "no97yuu",
+    "img": "https://avatars.slack-edge.com/2019-10-26/797548070962_e6a0da66a751d051ab30_24.jpg",
+    "time": "2022/01/06 11:44:55",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1641433335007600"
+  },
+  {
+    "user": "U017BNGTHT3",
+    "text": "yayはAURのパッケージをアプデするときに複数個更新がある場合は指定できるとかが便利ではあった気が。\n(ビルド時間が長いものとかを除外できる)",
+    "client_msg_id": "37f4170b-f409-4d56-b9b1-39c725d29727",
+    "name": "s5is",
+    "img": "https://avatars.slack-edge.com/2020-11-29/1531495219589_cf6a2f80ce7bb820ba38_24.png",
+    "time": "2022/01/06 11:44:56",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1641433095005800"
+  },
+  {
     "user": "UGA29R3FH",
     "text": "正直差がほとんどわからんが(デフォルトでPKGBUILDの差分出してくれるのは気に入ってる)",
     "client_msg_id": "c4074d47-7a39-4eb2-a0a5-4c8b3ad8b694",
     "name": "znmxodq1",
     "img": "https://avatars.slack-edge.com/2019-03-08/570571829091_2ca91fb0cc1ed2341fe0_24.png",
-    "time": "2022/01/06 02:30:31",
+    "time": "2022/01/06 11:44:56",
     "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1641400908151900"
   },
   {
