@@ -1,11 +1,20 @@
 [
   {
+    "user": "U7NBCFT1S",
+    "text": "wif接続でch混線時にめっちゃ通信速度が下がって（数百kpbs）厳しい。\nスマホは20M程度出しているので、Linux 側の設定でどうにかならないものだろうか。\n\n使用ドライバ：rtl88x2bu-dkms-git\n・国設定\n・パワーセーブOFF\nは設定済み。\n\n以下のwikiは見てます。\n<https://wiki.archlinux.jp/index.php/%E3%83%AF%E3%82%A4%E3%83%A4%E3%83%AC%E3%82%B9%E8%A8%AD%E5%AE%9A>",
+    "client_msg_id": "fc3e0c54-9563-412a-87b4-686f09e06400",
+    "name": "no97yuu",
+    "img": "https://avatars.slack-edge.com/2019-10-26/797548070962_e6a0da66a751d051ab30_24.jpg",
+    "time": "2022/01/07 14:17:33",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1641530518021800"
+  },
+  {
     "user": "U02ASPM0A6T",
     "text": "ありがとうございます。/etc/paru.conf に`SudoLoop`を入れておきました",
     "client_msg_id": "20e666e7-5c59-430b-9eae-8065721d974f",
     "name": "yozigen",
     "img": "https://avatars.slack-edge.com/2021-08-15/2405164316960_50d7f6e8be23e5b2a0eb_24.jpg",
-    "time": "2022/01/07 05:17:00",
+    "time": "2022/01/07 14:17:33",
     "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1641497482015300"
   },
   {
