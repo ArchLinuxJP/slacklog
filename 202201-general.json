@@ -1,11 +1,20 @@
 [
   {
+    "user": "U7NBCFT1S",
+    "text": "FreeCAD のPathワークベンチが動かない件について進展がありましたのでお知らせします。\n結論から言いますと、`AUR:freecad-weekly-appimage:0.20_26720-1`を使うことで解決しました。\nなお、`freecad-git`はビルドできませんでした。結構時間取られるので注意してほしいです。\n\n2022/1/7現在のArchパッケージの`freecad`は0.19.3-12ですが、\nAUR上のVerは0.20です。そのバージョンではすでに解決されているようです。\n（FreeCADのIRCでARCHユーザーに確認しました。）\n\nお騒がせしました。\nありがとうございました。",
+    "client_msg_id": "eae6c5bb-505d-4a77-a7da-4b82f93bc9d1",
+    "name": "no97yuu",
+    "img": "https://avatars.slack-edge.com/2019-10-26/797548070962_e6a0da66a751d051ab30_24.jpg",
+    "time": "2022/01/07 11:44:52",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1641520579025300"
+  },
+  {
     "user": "U017BNGTHT3",
     "text": "&gt; flatpak\nZoomとかで一時期使ってたけど便利だった。",
     "client_msg_id": "2ccc11e7-fdc3-469d-8b65-3f72fd35a04e",
     "name": "s5is",
     "img": "https://avatars.slack-edge.com/2020-11-29/1531495219589_cf6a2f80ce7bb820ba38_24.png",
-    "time": "2022/01/06 13:30:40",
+    "time": "2022/01/07 11:44:53",
     "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1641441747018400"
   },
   {
