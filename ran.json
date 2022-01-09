@@ -1,11 +1,38 @@
 [
   {
+    "user": "U02ASPM0A6T",
+    "text": "これは今のところArchではなくGentooの領域ってことなんだろうなあ",
+    "client_msg_id": "aeb8597a-0695-422f-a412-b1d0f6be15dd",
+    "name": "yozigen",
+    "img": "https://avatars.slack-edge.com/2021-08-15/2405164316960_50d7f6e8be23e5b2a0eb_24.jpg",
+    "time": "2022/01/09 12:18:45",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1641698245053100"
+  },
+  {
+    "user": "U02ASPM0A6T",
+    "text": "ありがとうございます。とりあえず archlinuxarm みたいになってもらえればいいとは思うのですが、カーネルとGNUツールチェーンビルドしてエッジコンピューティングで使うあたりまでの仕組みはすぐできるとしても、ARM以上にCPUバリエーションが超乱立するので相当根本的な仕組みの革新がないとAURまで揃うのは無理で、個人利用のPCとしてはまだまだしばらくX86全盛時代が続きそうというところですね",
+    "client_msg_id": "2059610a-0430-452f-b39b-4a5082af08ba",
+    "name": "yozigen",
+    "img": "https://avatars.slack-edge.com/2021-08-15/2405164316960_50d7f6e8be23e5b2a0eb_24.jpg",
+    "time": "2022/01/09 12:18:45",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1641698157052600"
+  },
+  {
+    "user": "UGA29R3FH",
+    "text": "こうして考えるとAT互換機、BIOS、UEFI等の共通の仕組みは偉大だよなと",
+    "client_msg_id": "663a5a1d-ce5f-4009-990a-8592ec328849",
+    "name": "znmxodq1",
+    "img": "https://avatars.slack-edge.com/2019-03-08/570571829091_2ca91fb0cc1ed2341fe0_24.png",
+    "time": "2022/01/09 12:18:45",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1641695982051900"
+  },
+  {
     "user": "UPYQ3CUJ1",
     "text": "RISC-V は単に CPU  の仕様を定めるだけで、バイナリ自体の移植は原理的には単純にコンパイラが対応すれば簡単ですが、CPU 周り、基板の仕様はまちまちなので仕様をfix して系統的に皆が簡単に使えるような段階には至っていない状況なのではないでしょうか。だからこそ kernel では対応しようとも、パッケージのメンテナは  RISC-V をサポートするだけの労力を割けないでしょうし（する義務もないのでやるならアップストリームを待つか自分らでやる)。\n逆いそうならない限り、それは単に linux が動くだけであってパケージ提供が主な仕事である archlinux コミュニティが \"archlinux\" としてサポートする方向いは進んでいないのではないでしょうか。そもそも \"archlinux\" がサポートするアーキテクチャは x86_64 だけで、こうしている思想からもコミュニティとしても動かないかなと。（やるなら、archlinux コミュニティとしてではなく archlinuxarm みたいにしかなれないし、そうするには人が足りなさそう)",
     "client_msg_id": "aa45fee4-820d-4bc6-9f55-ba52b3d0e158",
     "name": "shota.af083",
     "img": "https://secure.gravatar.com/avatar/8806dbddb82d43065dd1190cfcf80c65.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0023-24.png",
-    "time": "2022/01/09 11:38:13",
+    "time": "2022/01/09 12:18:45",
     "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1641694561051000"
   },
   {
