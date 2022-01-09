@@ -1,11 +1,38 @@
 [
   {
+    "user": "UUWBU08TU",
+    "text": "RPiの手軽さがよく分かりますね……、ARMもアーキテクチャ自体が作られたのは1990年とかなので、そこから組み込み向けで広く使われながら、20年くらい経ってやっとRPiが登場したことになります。\nArchLinuxARMの環境がきちんと整ったのもその前後なんじゃないかなと思っていて、そう考えると2010年からのプロジェクトであるRISC-Vはまだそのような段階に達していないような気もします。",
+    "client_msg_id": "7f347fe6-8d1d-4a2e-be9e-125567018d75",
+    "name": "nyaarch64",
+    "img": "https://avatars.slack-edge.com/2020-06-22/1204027183412_7f7a529c9005aa8cce36_24.png",
+    "time": "2022/01/09 13:23:02",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1641700223057700"
+  },
+  {
+    "user": "U02ASPM0A6T",
+    "text": "わずかながら＆どの程度使えるのかよくわかりませんが、Amazonで素朴に見たところハードウェアはいくつかありそうです\n<https://www.amazon.co.jp/s?k=risc-v>",
+    "client_msg_id": "64973f93-0837-4bac-87df-51b757a02378",
+    "name": "yozigen",
+    "img": "https://avatars.slack-edge.com/2021-08-15/2405164316960_50d7f6e8be23e5b2a0eb_24.jpg",
+    "time": "2022/01/09 13:23:03",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1641699700055000"
+  },
+  {
+    "user": "UUWBU08TU",
+    "text": "rv32iのバイナリだとほとんどのriscvマシンで動くんですかね？そもそもハードウェアを手軽に入手できるのか調べてないですが……",
+    "client_msg_id": "b19fbf25-9450-4917-bd2c-403f8145d1dc",
+    "name": "nyaarch64",
+    "img": "https://avatars.slack-edge.com/2020-06-22/1204027183412_7f7a529c9005aa8cce36_24.png",
+    "time": "2022/01/09 13:23:03",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1641699320054100"
+  },
+  {
     "user": "U02ASPM0A6T",
     "text": "これは今のところArchではなくGentooの領域ってことなんだろうなあ",
     "client_msg_id": "aeb8597a-0695-422f-a412-b1d0f6be15dd",
     "name": "yozigen",
     "img": "https://avatars.slack-edge.com/2021-08-15/2405164316960_50d7f6e8be23e5b2a0eb_24.jpg",
-    "time": "2022/01/09 12:18:45",
+    "time": "2022/01/09 13:23:03",
     "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1641698245053100"
   },
   {
