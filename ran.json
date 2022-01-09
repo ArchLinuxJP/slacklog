@@ -1,11 +1,29 @@
 [
   {
+    "user": "UPYQ3CUJ1",
+    "text": "RISC-V は単に CPU  の仕様を定めるだけで、バイナリ自体の移植は原理的には単純にコンパイラが対応すれば簡単ですが、CPU 周り、基板の仕様はまちまちなので仕様をfix して系統的に皆が簡単に使えるような段階には至っていない状況なのではないでしょうか。だからこそ kernel では対応しようとも、パッケージのメンテナは  RISC-V をサポートするだけの労力を割けないでしょうし（する義務もないのでやるならアップストリームを待つか自分らでやる)。\n逆いそうならない限り、それは単に linux が動くだけであってパケージ提供が主な仕事である archlinux コミュニティが \"archlinux\" としてサポートする方向いは進んでいないのではないでしょうか。そもそも \"archlinux\" がサポートするアーキテクチャは x86_64 だけで、こうしている思想からもコミュニティとしても動かないかなと。（やるなら、archlinux コミュニティとしてではなく archlinuxarm みたいにしかなれないし、そうするには人が足りなさそう)",
+    "client_msg_id": "aa45fee4-820d-4bc6-9f55-ba52b3d0e158",
+    "name": "shota.af083",
+    "img": "https://secure.gravatar.com/avatar/8806dbddb82d43065dd1190cfcf80c65.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0023-24.png",
+    "time": "2022/01/09 11:38:13",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1641694561051000"
+  },
+  {
+    "user": "U02ASPM0A6T",
+    "text": "RISC-VへのArch Linux移植ってどうなってるんでしょう\n非常に熱い領域に思えますが、英語版ArchWikiで調べても情報が全然出てこないのでかなり難しいんでしょうか\nこんなリポジトリや情報は見つけました\n• <https://github.com/archlinux-riscv>\n• <https://wiki.archlinux.org/title/User:Cmsigler/RISC-V>\n• <https://bbs.archlinux.org/search.php?action=search&amp;keywords=risc-v&amp;show_as=topics&amp;search=Submit>\n• <https://archlinuxarm.org/forum/search.php?keywords=risc-v>\n• <https://wiki.gentoo.org/wiki/Project:RISC-V>",
+    "client_msg_id": "fd83525e-dd2e-418d-a60a-448525e52fa4",
+    "name": "yozigen",
+    "img": "https://avatars.slack-edge.com/2021-08-15/2405164316960_50d7f6e8be23e5b2a0eb_24.jpg",
+    "time": "2022/01/09 11:38:14",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1641692785041300"
+  },
+  {
     "user": "U02ASPM0A6T",
     "text": "八幡さん、やはりHHKB開発の中心人物でした。知らなかった\n<https://note.com/tt_yawata/n/n5b750f8efc51|https://note.com/tt_yawata/n/n5b750f8efc51>",
     "client_msg_id": "fdd06314-b2ed-47b6-b159-ba320dbf705b",
     "name": "yozigen",
     "img": "https://avatars.slack-edge.com/2021-08-15/2405164316960_50d7f6e8be23e5b2a0eb_24.jpg",
-    "time": "2022/01/08 16:16:08",
+    "time": "2022/01/09 11:38:14",
     "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1641623582039500"
   },
   {
@@ -103,7 +121,7 @@
     "text": "覚えておこう。\nタイムアウトしないで、パス入力状態で待機してくれる感じですかね。",
     "client_msg_id": "d80bae7a-0b31-4620-9f17-43046cae81bf",
     "name": "yasunori.kirin0418",
-    "img": "https://secure.gravatar.com/avatar/2ce9d776d1e38d5dd959a2181bcf04d2.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0016-24.png",
+    "img": "https://avatars.slack-edge.com/2022-01-01/2921240792304_782ce2341a3138d14335_24.jpg",
     "time": "2022/01/07 01:27:47",
     "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1641483906014300"
   },
@@ -112,7 +130,7 @@
     "text": "だいたい、トイレ行く前だったりコーヒー入れる前に実行して戻ってくると、タイムアウトしてましたってなる",
     "client_msg_id": "a7af8307-0f7a-4a69-8bf5-f70aa1685027",
     "name": "yasunori.kirin0418",
-    "img": "https://secure.gravatar.com/avatar/2ce9d776d1e38d5dd959a2181bcf04d2.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0016-24.png",
+    "img": "https://avatars.slack-edge.com/2022-01-01/2921240792304_782ce2341a3138d14335_24.jpg",
     "time": "2022/01/07 01:27:47",
     "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1641483843013900"
   },
@@ -130,7 +148,7 @@
     "text": "yay使ってますけど、放置してsudoタイムアウトしてると、心が無になる",
     "client_msg_id": "42823ca9-711b-4a78-9e98-d6f3fa7cb8e5",
     "name": "yasunori.kirin0418",
-    "img": "https://secure.gravatar.com/avatar/2ce9d776d1e38d5dd959a2181bcf04d2.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0016-24.png",
+    "img": "https://avatars.slack-edge.com/2022-01-01/2921240792304_782ce2341a3138d14335_24.jpg",
     "time": "2022/01/07 01:27:48",
     "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1641483767011900"
   },
