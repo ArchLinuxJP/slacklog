@@ -1,11 +1,20 @@
 [
   {
+    "user": "U02ASPM0A6T",
+    "text": "`/var/cache/pacman`ディレクトリを btrfs subvolume に外出ししてシンボリックリンクしてたら更新時に`/usr/bin/pacman`が消えてしまって焦りました\nそういうのやりたい場合はバインドマウントするといいようです\n<https://bbs.archlinux.org/viewtopic.php?id=241213>",
+    "client_msg_id": "715bd8de-d89b-408a-bc9c-835e07695b10",
+    "name": "yozigen",
+    "img": "https://avatars.slack-edge.com/2021-08-15/2405164316960_50d7f6e8be23e5b2a0eb_24.jpg",
+    "time": "2022/01/11 00:23:17",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1641825545074500"
+  },
+  {
     "user": "U019C7VLZ4G",
     "text": "ARMもSystemReadyが必須になってACPIとかが全てに載ればx64みたいにLinux入れるだけでだいたい動くみたいになるんだろうなぁと思ってる",
     "client_msg_id": "ad46f1ea-0656-4634-bf62-d28ab2375c16",
     "name": "getalotofmail",
     "img": "https://secure.gravatar.com/avatar/5a7f20688dc40b2989935a11bdfa25fe.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0001-24.png",
-    "time": "2022/01/10 02:24:12",
+    "time": "2022/01/11 00:23:17",
     "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1641748545072400"
   },
   {
