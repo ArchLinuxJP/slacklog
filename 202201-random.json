@@ -1,11 +1,29 @@
 [
   {
+    "user": "U70QDFN82",
+    "text": "`-G` やりたくなったときに忘れて結局git cloneしてそう・・・",
+    "client_msg_id": "0d80e5a4-20be-4acd-b45b-b2e377adcb7f",
+    "name": "yutakatay",
+    "img": "https://avatars.slack-edge.com/2020-08-16/1302143736069_0baa468f7bea68e827d9_24.png",
+    "time": "2022/01/14 01:32:49",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1642089039089700"
+  },
+  {
+    "user": "U6DL9D3AB",
+    "text": "`yay -G {package}` でGitリポジトリを取得できるので、そこから適当にロールバックしてmakepkgするのが簡単かもです",
+    "client_msg_id": "681e2898-49db-490e-8cce-70b4d4b05bd0",
+    "name": "emtee",
+    "img": "https://avatars.slack-edge.com/2017-08-24/232261947719_1bb4d925e48fdfd0a154_24.png",
+    "time": "2022/01/14 01:32:49",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1642088933089000"
+  },
+  {
     "user": "U01J1GGMHDJ",
     "text": "私ならAURヘルパー使わずに手動で過去のPKGBUILDをダウンロードしてきて、makepkgでビルドしちゃいますね。（過去バージョンなら更新する必要が無いので）",
     "client_msg_id": "b528542f-835b-48f3-acd6-3935363fea8a",
     "name": "naokihirokitomoki",
     "img": "https://avatars.slack-edge.com/2021-01-01/1607396797362_a9967cc229f49d114f8a_24.jpg",
-    "time": "2022/01/13 23:16:13",
+    "time": "2022/01/14 01:32:50",
     "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1642080421087800"
   },
   {
