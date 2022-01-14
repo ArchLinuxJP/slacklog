@@ -1,11 +1,128 @@
 [
   {
     "user": "U017BNGTHT3",
+    "text": "そういえばロマンでMDドライブを買ったのでArchのISO焼こうとしたらギリギリ入らなかった思い出",
+    "client_msg_id": "7e742fef-51a5-4d99-a7e1-461354d733ed",
+    "name": "s5is",
+    "img": "https://avatars.slack-edge.com/2020-11-29/1531495219589_cf6a2f80ce7bb820ba38_24.png",
+    "time": "2022/01/14 12:19:11",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1642129801140200"
+  },
+  {
+    "user": "UGA29R3FH",
+    "text": "あれラベルでしか探してないのでカーネルが読める場所にあればOK",
+    "client_msg_id": "b36d5939-92b7-4f3d-93be-b88e4c528649",
+    "name": "znmxodq1",
+    "img": "https://avatars.slack-edge.com/2019-03-08/570571829091_2ca91fb0cc1ed2341fe0_24.png",
+    "time": "2022/01/14 12:19:11",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1642129362138900"
+  },
+  {
+    "user": "UGA29R3FH",
+    "text": "少しの手間を惜しまないのであればisoの中身をパーティションに展開してラベルを付けるのも手(archisoはそれで起動する)",
+    "client_msg_id": "470410d9-9a16-4e4f-b078-47240bfc6ecb",
+    "name": "znmxodq1",
+    "img": "https://avatars.slack-edge.com/2019-03-08/570571829091_2ca91fb0cc1ed2341fe0_24.png",
+    "time": "2022/01/14 12:19:12",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1642129320138200"
+  },
+  {
+    "user": "U70QDFN82",
+    "text": "この間久しぶりにインストールしてインストールメディア作ったから私のやつは11月のやつで新しい",
+    "client_msg_id": "916c6956-2684-4454-bac7-ab9b5d68d2bc",
+    "name": "yutakatay",
+    "img": "https://avatars.slack-edge.com/2020-08-16/1302143736069_0baa468f7bea68e827d9_24.png",
+    "time": "2022/01/14 12:19:12",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1642129305137600"
+  },
+  {
+    "user": "UGA29R3FH",
+    "text": "古すぎると証明書やkeyringの問題を食らうイメージがある(遭遇したことはない)",
+    "client_msg_id": "9c1383fa-9977-4fc2-b870-cfd05a009540",
+    "name": "znmxodq1",
+    "img": "https://avatars.slack-edge.com/2019-03-08/570571829091_2ca91fb0cc1ed2341fe0_24.png",
+    "time": "2022/01/14 12:19:12",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1642129214135800"
+  },
+  {
+    "user": "U6DL9D3AB",
+    "text": "systemd-bootがループバックデバイスをマウント出来ないので、いちいちGRUBを挟む必要があるのが少し煩わしい\nGRUBは設定記述がわかりにくいので通常のシステムはsystemd-bootで起動するようにしてます",
+    "client_msg_id": "FE6465AD-FB23-433D-9616-30123BA2F4C3",
+    "name": "emtee",
+    "img": "https://avatars.slack-edge.com/2017-08-24/232261947719_1bb4d925e48fdfd0a154_24.png",
+    "time": "2022/01/14 12:19:12",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1642129204135400"
+  },
+  {
+    "user": "U70QDFN82",
+    "text": "ArchはローリングアップロードだからUSBメモリのやつ３年前とかザラにある",
+    "client_msg_id": "39c29530-1a7a-44d1-b36f-c6d761e7f35a",
+    "name": "yutakatay",
+    "img": "https://avatars.slack-edge.com/2020-08-16/1302143736069_0baa468f7bea68e827d9_24.png",
+    "time": "2022/01/14 12:19:13",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1642129111132000"
+  },
+  {
+    "user": "U70QDFN82",
+    "text": "USBメモリに入れたISOがかなり古い問題が解決できそう（まあ古くても問題はないけど）",
+    "client_msg_id": "f5a1fdfa-d7da-4053-b456-fee61d841ca3",
+    "name": "yutakatay",
+    "img": "https://avatars.slack-edge.com/2020-08-16/1302143736069_0baa468f7bea68e827d9_24.png",
+    "time": "2022/01/14 12:19:13",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1642129078130600"
+  },
+  {
+    "user": "U70QDFN82",
+    "text": "へーたしかに。考えたことなかった",
+    "client_msg_id": "cad23e0a-95fc-45e4-ba5a-07fe437f50bc",
+    "name": "yutakatay",
+    "img": "https://avatars.slack-edge.com/2020-08-16/1302143736069_0baa468f7bea68e827d9_24.png",
+    "time": "2022/01/14 12:19:13",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1642129008130000"
+  },
+  {
+    "user": "U6DL9D3AB",
+    "text": "isoを置いたパテを用意してそれからも起動できるようにGRUBの設定をしています\n非常時はsystemd-bootからGRUBを呼び出す感じ",
+    "client_msg_id": "1D5C2E8F-CCA0-48A0-92CC-9D8F478A6612",
+    "name": "emtee",
+    "img": "https://avatars.slack-edge.com/2017-08-24/232261947719_1bb4d925e48fdfd0a154_24.png",
+    "time": "2022/01/14 12:19:14",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1642128965129100"
+  },
+  {
+    "user": "U017BNGTHT3",
+    "text": "実際インストールメディアが最強なので、インストールメディアさえあれば何でも良さそう。",
+    "client_msg_id": "9e1762e2-0a5f-4ef3-83ee-be5e01d0da16",
+    "name": "s5is",
+    "img": "https://avatars.slack-edge.com/2020-11-29/1531495219589_cf6a2f80ce7bb820ba38_24.png",
+    "time": "2022/01/14 12:19:14",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1642128475123400"
+  },
+  {
+    "user": "UGA29R3FH",
+    "text": "最終手段、インストールメディア",
+    "client_msg_id": "764a0339-64a8-4a03-962e-accf14ac7a06",
+    "name": "znmxodq1",
+    "img": "https://avatars.slack-edge.com/2019-03-08/570571829091_2ca91fb0cc1ed2341fe0_24.png",
+    "time": "2022/01/14 12:19:14",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1642128262120100"
+  },
+  {
+    "user": "U70QDFN82",
+    "text": "ネットに繋がらなくなるっていう不具合パターンで、他にマシンがなくなったら詰む可能性はありますからね\nまあかなりレアだとは思いますが",
+    "client_msg_id": "3ae196f8-1b91-4181-bddf-7bc2f475a338",
+    "name": "yutakatay",
+    "img": "https://avatars.slack-edge.com/2020-08-16/1302143736069_0baa468f7bea68e827d9_24.png",
+    "time": "2022/01/14 12:19:15",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1642128224119600"
+  },
+  {
+    "user": "U017BNGTHT3",
     "text": "何らかの原因でパッケージのダウンロードすら出来なくなったら辛いなと思って一応残してますが、そんなことにはなったことはないので…\n確かに全バージョン消しでも問題はないと思いますね。",
     "client_msg_id": "8040ad6c-4f25-47d7-9975-9297866d25f7",
     "name": "s5is",
     "img": "https://avatars.slack-edge.com/2020-11-29/1531495219589_cf6a2f80ce7bb820ba38_24.png",
-    "time": "2022/01/14 11:37:55",
+    "time": "2022/01/14 12:19:15",
     "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1642127568117000"
   },
   {
