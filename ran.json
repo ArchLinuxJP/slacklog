@@ -1,11 +1,146 @@
 [
   {
+    "user": "U017BNGTHT3",
+    "text": "何らかの原因でパッケージのダウンロードすら出来なくなったら辛いなと思って一応残してますが、そんなことにはなったことはないので…\n確かに全バージョン消しでも問題はないと思いますね。",
+    "client_msg_id": "8040ad6c-4f25-47d7-9975-9297866d25f7",
+    "name": "s5is",
+    "img": "https://avatars.slack-edge.com/2020-11-29/1531495219589_cf6a2f80ce7bb820ba38_24.png",
+    "time": "2022/01/14 11:37:55",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1642127568117000"
+  },
+  {
+    "user": "UGA29R3FH",
+    "text": "私も消す時は過去バージョン全部飛ばしてますね(そもそも結構コアに近い所は安定志向みたいなのでロールバックするような事態に陥ったことがない)",
+    "client_msg_id": "cd97f6e1-90f2-4bfc-a0f7-3d06d3ba10d3",
+    "name": "znmxodq1",
+    "img": "https://avatars.slack-edge.com/2019-03-08/570571829091_2ca91fb0cc1ed2341fe0_24.png",
+    "time": "2022/01/14 11:37:55",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1642127292114400"
+  },
+  {
+    "user": "UGA29R3FH",
+    "text": "解説ありがとうございます",
+    "client_msg_id": "c4d65e40-d9c7-45a0-87ce-179521c736cf",
+    "name": "znmxodq1",
+    "img": "https://avatars.slack-edge.com/2019-03-08/570571829091_2ca91fb0cc1ed2341fe0_24.png",
+    "time": "2022/01/14 11:37:56",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1642127217112400"
+  },
+  {
+    "user": "U017BNGTHT3",
+    "text": "paccache -rk3: すべてのパッケージのキャッシュは直近3個残して削除\npaccache -ruk0: インストールしてないパッケージのキャッシュは直近0個残して削除(つまり全削除)",
+    "client_msg_id": "5a26de20-405b-4bae-8791-bce64d325a24",
+    "name": "s5is",
+    "img": "https://avatars.slack-edge.com/2020-11-29/1531495219589_cf6a2f80ce7bb820ba38_24.png",
+    "time": "2022/01/14 11:37:56",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1642127183112100"
+  },
+  {
+    "user": "U3FJYR7MG",
+    "text": "みんな結構直近の残してるんですね。\n`<https://asia.archive.pkgbuild.com>` に旧バージョンのパッケージ残ってるしAURはgitでロールバック出来るやろの精神で過去バージョン残してないなぁ",
+    "client_msg_id": "cd38d7db-d9c2-4b94-a858-889180c500d7",
+    "name": "dohq",
+    "img": "https://secure.gravatar.com/avatar/743659d990b6f68ef5c104ba8e415ba5.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0021-24.png",
+    "time": "2022/01/14 11:37:56",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1642126999109800"
+  },
+  {
+    "user": "UGA29R3FH",
+    "text": "お、知見が(相変わらずコマンドの見た目から効果が予測できないw)",
+    "client_msg_id": "85a485a1-afd6-4476-8e30-4eda5f5fe99b",
+    "name": "znmxodq1",
+    "img": "https://avatars.slack-edge.com/2019-03-08/570571829091_2ca91fb0cc1ed2341fe0_24.png",
+    "time": "2022/01/14 11:37:56",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1642126928108100"
+  },
+  {
+    "user": "U017BNGTHT3",
+    "text": "私は普段はpaccache -rk3とpaccache -ruk0で済ませてますね…",
+    "client_msg_id": "b4fa6346-5cea-4465-a0ea-34ccbf6bfce6",
+    "name": "s5is",
+    "img": "https://avatars.slack-edge.com/2020-11-29/1531495219589_cf6a2f80ce7bb820ba38_24.png",
+    "time": "2022/01/14 11:37:57",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1642126857107200"
+  },
+  {
+    "user": "U6DL9D3AB",
+    "text": "`yay -Sc` ＆ n -&gt; n  -&gt; y -&gt; y でインストールされていないaurを吹き飛ばしたあとに paccacheで2個残すのが手癖になってます",
+    "client_msg_id": "3c4ae6a8-cad0-470d-b8c0-910c32d7be80",
+    "name": "emtee",
+    "img": "https://avatars.slack-edge.com/2017-08-24/232261947719_1bb4d925e48fdfd0a154_24.png",
+    "time": "2022/01/14 11:37:57",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1642126466106300"
+  },
+  {
+    "user": "UGA29R3FH",
+    "text": "単に古い物残したくないならそれすらする必要なくて `sudo pacman -Sc` で済む",
+    "client_msg_id": "13c5dbc0-8a0a-4a62-ba5b-1f54420aaf62",
+    "name": "znmxodq1",
+    "img": "https://avatars.slack-edge.com/2019-03-08/570571829091_2ca91fb0cc1ed2341fe0_24.png",
+    "time": "2022/01/14 11:37:57",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1642126334104900"
+  },
+  {
+    "user": "UGA29R3FH",
+    "text": "普通にpaccache使っていればいいか",
+    "client_msg_id": "1329977b-9a49-4db0-afdf-2a5c0d71dc22",
+    "name": "znmxodq1",
+    "img": "https://avatars.slack-edge.com/2019-03-08/570571829091_2ca91fb0cc1ed2341fe0_24.png",
+    "time": "2022/01/14 11:37:58",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1642126268103600"
+  },
+  {
+    "user": "U017BNGTHT3",
+    "text": "私も定期的にpaccacheで飛ばしてますね。\n最新3個ぐらい保持できていれば困ることは殆ど無い…",
+    "client_msg_id": "b8bfd127-9f7f-4b27-9e35-6a02e6c2334b",
+    "name": "s5is",
+    "img": "https://avatars.slack-edge.com/2020-11-29/1531495219589_cf6a2f80ce7bb820ba38_24.png",
+    "time": "2022/01/14 11:37:58",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1642126174103000"
+  },
+  {
+    "user": "UGA29R3FH",
+    "text": "DBに存在しないパッケージ吹き飛ばすスクリプトを自前で書いて使ってる(なおpacmanの変更に追従できておらずバグってる)",
+    "client_msg_id": "69a80223-cb11-4908-a687-8c51fc4a6bb0",
+    "name": "znmxodq1",
+    "img": "https://avatars.slack-edge.com/2019-03-08/570571829091_2ca91fb0cc1ed2341fe0_24.png",
+    "time": "2022/01/14 11:37:58",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1642126143102400"
+  },
+  {
+    "user": "U70QDFN82",
+    "text": "pacmanとかAURのキャッシュ大きくなること多いから個人的には月１では飛ばしてる気がする（手動で）",
+    "client_msg_id": "29ef3fe9-e471-49a3-97c7-ae5684526534",
+    "name": "yutakatay",
+    "img": "https://avatars.slack-edge.com/2020-08-16/1302143736069_0baa468f7bea68e827d9_24.png",
+    "time": "2022/01/14 11:37:59",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1642126034099400"
+  },
+  {
+    "user": "U017BNGTHT3",
+    "text": "確か設定でAURのビルド済みパッケージもそこに置けたはず",
+    "client_msg_id": "d28b3cbe-dec1-459d-b6cd-e35d1f457458",
+    "name": "s5is",
+    "img": "https://avatars.slack-edge.com/2020-11-29/1531495219589_cf6a2f80ce7bb820ba38_24.png",
+    "time": "2022/01/14 11:37:59",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1642125209098100"
+  },
+  {
+    "user": "U0PM6EYR1",
+    "text": "過去のパッケージって、実は手元の `/var/cache/pacman` にあったりします？",
+    "client_msg_id": "a5702897-af23-4eeb-8207-d9a0d21afa68",
+    "name": "raa0121",
+    "img": "https://secure.gravatar.com/avatar/35b032d7b2d4182b0c2de1ef85ba91f2.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0009-24.png",
+    "time": "2022/01/14 11:37:59",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1642123643095300"
+  },
+  {
     "user": "UVB7L4CKH",
     "text": "ghq駆動でリポジトリ管理してるので `yay -G` するより `ghq get <https://aur.archlinux.org/>&lt;package&gt;` してる",
     "client_msg_id": "3d33abdd-7c4a-4e97-8b57-8a1c37aabd04",
     "name": "tatsumigamou",
     "img": "https://avatars.slack-edge.com/2020-03-12/985313571153_203fee630d3a4a1053a1_24.jpg",
-    "time": "2022/01/14 10:02:13",
+    "time": "2022/01/14 11:37:59",
     "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1642120626094000"
   },
   {
