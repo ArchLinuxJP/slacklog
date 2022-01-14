@@ -1,11 +1,65 @@
 [
   {
+    "user": "U02ASPM0A6T",
+    "text": "すみません背景よくわかってないんですが、Xwayland起動した場合ではどんな不都合があるんですか？",
+    "client_msg_id": "e930bbc6-8b86-4050-9e3f-f73b4ee33c3e",
+    "name": "yozigen",
+    "img": "https://avatars.slack-edge.com/2021-08-15/2405164316960_50d7f6e8be23e5b2a0eb_24.jpg",
+    "time": "2022/01/14 17:21:43",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1642147395001500"
+  },
+  {
+    "user": "U0H9QUFA5",
+    "text": "やっぱり使えないですよね。Firefoxは使えるんだけど。なんか昨日からブラウザ落ちまくり。",
+    "client_msg_id": "a53534d8-80f3-40d9-a939-31c00d422a25",
+    "name": "kusanaginoturugi",
+    "img": "https://secure.gravatar.com/avatar/e927cae947e74def10ee5fbb20859145.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0016-24.png",
+    "time": "2022/01/14 17:21:43",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1642146759163200"
+  },
+  {
+    "user": "U02ASPM0A6T",
+    "text": "下記環境変数を入れたsway上で`chromium --ozone-platform-hint=auto`と`extramaus`を起動してマウスポインタ赤くない状態でfcitx5入力試みましたが反応なしでした\nXWayland上では使えました\n```XDG_SESSION_TYPE=wayland\nXDG_SESSION_DESKTOP=sway\nXDG_CURRENT_DESKTOP=sway\nCLUTTER_BACKEND=wayland\nECORE_EVAS_ENGINE=wayland-egl\nELM_ENGINE=wayland_egl\nMOZ_ENABLE_WAYLAND=1\nNO_AT_BRIDGE=1\nQT_QPA_PLATFORM=wayland-egl\nSDL_VIDEODRIVER=wayland\n_JAVA_AWT_WM_NONREPARENTING=1\nGTK_IM_MODULE DEFAULT=fcitx5\nQT_IM_MODULE  DEFAULT=fcitx5\nQT4_IM_MODULE DEFAULT=fcitx5\nXMODIFIERS    DEFAULT=\\@im=fcitx5\nSDL_IM_MODULE DEFAULT=fcitx5```",
+    "client_msg_id": "82bdfcfe-e4dc-4aec-8b7b-501a10880ed7",
+    "name": "yozigen",
+    "img": "https://avatars.slack-edge.com/2021-08-15/2405164316960_50d7f6e8be23e5b2a0eb_24.jpg",
+    "time": "2022/01/14 17:21:43",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1642146644162500"
+  },
+  {
+    "user": "U01J1GGMHDJ",
+    "text": "xeyesしか知らんかった（他の方法があったのね）\n<https://wiki.archlinux.jp/index.php/Wayland#Xwayland_.E3.82.A2.E3.83.97.E3.83.AA.E3.82.B1.E3.83.BC.E3.82.B7.E3.83.A7.E3.83.B3.E3.81.A7.E3.81.82.E3.82.8B.E3.81.93.E3.81.A8.E3.82.92.E8.A6.96.E8.AA.8D.E3.81.99.E3.82.8B|https://wiki.archlinux.jp/index.php/Wayland#Xwayland_.E3.82.A2.E3.83.97.E3.83.AA.E3.82.B1.E3.8[…].81.A8.E3.82.92.E8.A6.96.E8.AA.8D.E3.81.99.E3.82.8B>",
+    "client_msg_id": "b8c89ed7-0683-4b48-afea-67e87e4c1d7f",
+    "name": "naokihirokitomoki",
+    "img": "https://avatars.slack-edge.com/2021-01-01/1607396797362_a9967cc229f49d114f8a_24.jpg",
+    "time": "2022/01/14 17:21:44",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1642145274158000"
+  },
+  {
+    "user": "U70QDFN82",
+    "text": "ネイティブかネイティブじゃないか判断仕方がわからない・・・XWayland抜けばいい感じですかね？？",
+    "client_msg_id": "0e73e91e-b08d-4bf0-86af-d20c38e22622",
+    "name": "yutakatay",
+    "img": "https://avatars.slack-edge.com/2020-08-16/1302143736069_0baa468f7bea68e827d9_24.png",
+    "time": "2022/01/14 17:21:44",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1642145060157500"
+  },
+  {
+    "user": "U0H9QUFA5",
+    "text": "<https://wiki.archlinux.org/title/Chromium#Native_Wayland_support>\nまた、このあたりの仕様が変更になったみたいですね。未だに fcitx が使えないままなんだよなあ。ネイティブ Wayland で Google Chrome で fcitx 使えている人って誰かいますか？",
+    "client_msg_id": "0a1934c1-3b5d-4cb5-b921-131068f8de40",
+    "name": "kusanaginoturugi",
+    "img": "https://secure.gravatar.com/avatar/e927cae947e74def10ee5fbb20859145.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0016-24.png",
+    "time": "2022/01/14 17:21:44",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1642144809156800"
+  },
+  {
     "user": "U7NBCFT1S",
     "text": "Archの何がいいって、ガチ民のレベルが神。とりあえずArchさんならビルドできるはず。っていう安心感がヤバイ。",
     "client_msg_id": "e0f772b3-5d5a-4076-adbe-1ffc5de1df50",
     "name": "no97yuu",
     "img": "https://avatars.slack-edge.com/2019-10-26/797548070962_e6a0da66a751d051ab30_24.jpg",
-    "time": "2022/01/14 15:21:35",
+    "time": "2022/01/14 17:21:45",
     "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1642140279154400"
   },
   {
