@@ -1,11 +1,38 @@
 [
   {
+    "user": "U02ASPM0A6T",
+    "text": "あ、でも\n```set $term WINIT_UNIX_BACKEND=x11 alacritty```\nで普通に alacritty 使えるんですね。今のところこれで全然問題ない気がする",
+    "client_msg_id": "141878e8-1c24-4f9f-b973-9bf18de8c23f",
+    "name": "yozigen",
+    "img": "https://avatars.slack-edge.com/2021-08-15/2405164316960_50d7f6e8be23e5b2a0eb_24.jpg",
+    "time": "2022/01/15 00:18:16",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1642171296065300"
+  },
+  {
+    "user": "U02ASPM0A6T",
+    "text": "今日久しぶりに sway 上の foot を試したらfcitx5入力できてました。変換中の文字列も候補も表示OKです。キーボードでのテキスト選択ができないのでその場合にtmuxとか使う必要ありますが…",
+    "client_msg_id": "acbdcf65-c94e-4720-b974-144df4df7d35",
+    "name": "yozigen",
+    "img": "https://avatars.slack-edge.com/2021-08-15/2405164316960_50d7f6e8be23e5b2a0eb_24.jpg",
+    "time": "2022/01/15 00:18:16",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1642170639065000"
+  },
+  {
+    "user": "U70QDFN82",
+    "text": "書き換えはターミナルの話ですかね？？DEだとswayのほうがパフォーマンスは悪かったはず",
+    "client_msg_id": "20081691-2e1a-4da9-88bb-e67e3b740ff7",
+    "name": "yutakatay",
+    "img": "https://avatars.slack-edge.com/2020-08-16/1302143736069_0baa468f7bea68e827d9_24.png",
+    "time": "2022/01/15 00:18:17",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1642170201064300"
+  },
+  {
     "user": "U0H9QUFA5",
     "text": "Sway + Wayland をしばらく使ってるけど、気になるのは、fcitx5 が chromium で使えないことと、Virtualbox に XWayland が必要なこととくらいかな。Wayland 移行は完了しつつある。愛用した urxvt を捨てて kitty に移るのがちょっと悲しかったけど、今は満足。体感としては、画面の書き換えとかは早い気がする。",
     "client_msg_id": "4aaa9e8f-da35-4caf-ba70-82bf5142cad1",
     "name": "kusanaginoturugi",
     "img": "https://secure.gravatar.com/avatar/e927cae947e74def10ee5fbb20859145.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0016-24.png",
-    "time": "2022/01/14 23:16:11",
+    "time": "2022/01/15 00:18:17",
     "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1642169590063300"
   },
   {
