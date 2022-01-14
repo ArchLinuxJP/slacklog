@@ -1,11 +1,218 @@
 [
   {
+    "user": "U02ASPM0A6T",
+    "text": "別のHDMI端子のモニターに接続したところ少しよくなりましたが画面切り替えするとちらつき出ますねぇ\nチカチカして動画見れないのが不便なんですよね、残念ながらまたswayと行きつ戻りつすることになりそうです",
+    "client_msg_id": "7ac8b5a0-b479-4bcc-9130-81ed6fba8ffd",
+    "name": "yozigen",
+    "img": "https://avatars.slack-edge.com/2021-08-15/2405164316960_50d7f6e8be23e5b2a0eb_24.jpg",
+    "time": "2022/01/14 20:14:29",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1642158489052200"
+  },
+  {
+    "user": "U02ASPM0A6T",
+    "text": "Swayだとちらつきはなくなるんですよね。やはりそのあたり丈夫に作ってあるのかなあ",
+    "client_msg_id": "1a3856d1-343a-41f6-aeaf-9920bfb17334",
+    "name": "yozigen",
+    "img": "https://avatars.slack-edge.com/2021-08-15/2405164316960_50d7f6e8be23e5b2a0eb_24.jpg",
+    "time": "2022/01/14 20:14:29",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1642157244051800"
+  },
+  {
+    "user": "U01J1GGMHDJ",
+    "text": "picom、画面消した時は必ず、その他の時でも時々突発的にチカチカするからwaylandか何かに乗り換えたさはある。（マルチディスプレイ実質対応してないし…）",
+    "client_msg_id": "a6b06487-b2c1-4358-b138-d5b2f224e20b",
+    "name": "naokihirokitomoki",
+    "img": "https://avatars.slack-edge.com/2021-01-01/1607396797362_a9967cc229f49d114f8a_24.jpg",
+    "time": "2022/01/14 20:14:30",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1642156922049800"
+  },
+  {
+    "user": "U017BNGTHT3",
+    "text": "DVIなら問題なさそうか",
+    "client_msg_id": "2c0860a5-0155-4662-b9cc-1f1b81b527e6",
+    "name": "s5is",
+    "img": "https://avatars.slack-edge.com/2020-11-29/1531495219589_cf6a2f80ce7bb820ba38_24.png",
+    "time": "2022/01/14 20:14:30",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1642156910049500"
+  },
+  {
+    "user": "U017BNGTHT3",
+    "text": "いや、HDMIと変換して相性悪いのはDVIじゃなくてVGAだった。",
+    "client_msg_id": "889ed0d2-b065-4909-9814-a756c7c4666a",
+    "name": "s5is",
+    "img": "https://avatars.slack-edge.com/2020-11-29/1531495219589_cf6a2f80ce7bb820ba38_24.png",
+    "time": "2022/01/14 20:14:30",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1642156869048000"
+  },
+  {
+    "user": "U02ASPM0A6T",
+    "text": "fedoraのworkstationみたいをUSBに入れて起動してみますかね",
+    "client_msg_id": "6e106e9e-d5c4-4901-871a-36464f1ce144",
+    "name": "yozigen",
+    "img": "https://avatars.slack-edge.com/2021-08-15/2405164316960_50d7f6e8be23e5b2a0eb_24.jpg",
+    "time": "2022/01/14 20:14:31",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1642156829046300"
+  },
+  {
+    "user": "UGA29R3FH",
+    "text": "さすがにちゃんとしてるかー、うーむ",
+    "client_msg_id": "769cf03d-fd52-4f4f-953a-75df24c41a63",
+    "name": "znmxodq1",
+    "img": "https://avatars.slack-edge.com/2019-03-08/570571829091_2ca91fb0cc1ed2341fe0_24.png",
+    "time": "2022/01/14 20:14:31",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1642156755044500"
+  },
+  {
+    "user": "U017BNGTHT3",
+    "text": "Liveで良いのでWayland+Gnomeとか入ってるディストリ起動して確認とかはアリかも。",
+    "client_msg_id": "449c3271-7ac0-4012-9595-57e2a09653d5",
+    "name": "s5is",
+    "img": "https://avatars.slack-edge.com/2020-11-29/1531495219589_cf6a2f80ce7bb820ba38_24.png",
+    "time": "2022/01/14 20:14:31",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1642156728043700"
+  },
+  {
+    "user": "U02ASPM0A6T",
+    "text": "起動はi3のconfigで下記にしています\n```exec_always --no-startup-id DISPLAY=\":0\" picom -CGb --experimental-backend --backend glx```",
+    "client_msg_id": "fda40b69-dd3b-4b30-8047-8ce7f9dd8122",
+    "name": "yozigen",
+    "img": "https://avatars.slack-edge.com/2021-08-15/2405164316960_50d7f6e8be23e5b2a0eb_24.jpg",
+    "time": "2022/01/14 20:14:31",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1642156638042300"
+  },
+  {
+    "user": "U017BNGTHT3",
+    "text": "DVI→HDMIは相性悪そう。(逆も)",
+    "client_msg_id": "71a67eab-3772-4480-959e-d53773efee57",
+    "name": "s5is",
+    "img": "https://avatars.slack-edge.com/2020-11-29/1531495219589_cf6a2f80ce7bb820ba38_24.png",
+    "time": "2022/01/14 20:14:32",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1642156600041600"
+  },
+  {
+    "user": "U02ASPM0A6T",
+    "text": "ええ、ハード周りな気はします。DVI端子にHDMIへの変換コネクタつけて使ってるせいかも",
+    "client_msg_id": "9a54ff3c-66a1-4a19-97e4-0e26a2dbf5f8",
+    "name": "yozigen",
+    "img": "https://avatars.slack-edge.com/2021-08-15/2405164316960_50d7f6e8be23e5b2a0eb_24.jpg",
+    "time": "2022/01/14 20:14:32",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1642156564041000"
+  },
+  {
+    "user": "U01J1GGMHDJ",
+    "text": "picom，いろいろとおかしくなってexperimental-backendsオプションを入れた覚えがある",
+    "client_msg_id": "18b38aa2-6511-46d9-9eff-836319703727",
+    "name": "naokihirokitomoki",
+    "img": "https://avatars.slack-edge.com/2021-01-01/1607396797362_a9967cc229f49d114f8a_24.jpg",
+    "time": "2022/01/14 20:14:32",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1642156538040500"
+  },
+  {
+    "user": "UGA29R3FH",
+    "text": "glxって現状picom自体にオプション付けないと有効化されなかった気がするんですが、気のせいだったかな",
+    "client_msg_id": "1afd5521-b812-4552-9da3-6c826224d95e",
+    "name": "znmxodq1",
+    "img": "https://avatars.slack-edge.com/2019-03-08/570571829091_2ca91fb0cc1ed2341fe0_24.png",
+    "time": "2022/01/14 20:14:33",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1642156519040000"
+  },
+  {
+    "user": "U017BNGTHT3",
+    "text": "実はグラボ周りの問題だったり？",
+    "client_msg_id": "3d6ce4f8-ee51-4194-9949-01876991b931",
+    "name": "s5is",
+    "img": "https://avatars.slack-edge.com/2020-11-29/1531495219589_cf6a2f80ce7bb820ba38_24.png",
+    "time": "2022/01/14 20:14:33",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1642156454037400"
+  },
+  {
+    "user": "U02ASPM0A6T",
+    "text": "picom.conf\n```backend = \"glx\";\nunredir-if-possible = false;```\nあたりは入れてるんですが、どうにも画面のグリッチエフェクトが消えない",
+    "client_msg_id": "cf45595a-47dc-44f8-9f4d-1a24509c4e13",
+    "name": "yozigen",
+    "img": "https://avatars.slack-edge.com/2021-08-15/2405164316960_50d7f6e8be23e5b2a0eb_24.jpg",
+    "time": "2022/01/14 20:14:33",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1642156403036800"
+  },
+  {
+    "user": "U02ASPM0A6T",
+    "text": "ローカル環境のi3だとどうもデスクトップでの画面ちらつきが解消されないんですよね…",
+    "client_msg_id": "96962a3c-91b3-4558-ab57-7ebbd8862309",
+    "name": "yozigen",
+    "img": "https://avatars.slack-edge.com/2021-08-15/2405164316960_50d7f6e8be23e5b2a0eb_24.jpg",
+    "time": "2022/01/14 20:14:34",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1642156184034900"
+  },
+  {
+    "user": "UGA29R3FH",
+    "text": "飽きというのならそろそろ来てそうなので冒険したい感じはあるかな",
+    "client_msg_id": "eea68e06-4f63-44f5-b0c7-45d1be8d6928",
+    "name": "znmxodq1",
+    "img": "https://avatars.slack-edge.com/2019-03-08/570571829091_2ca91fb0cc1ed2341fe0_24.png",
+    "time": "2022/01/14 20:14:34",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1642156143034200"
+  },
+  {
+    "user": "UGA29R3FH",
+    "text": "Swayは起動だけならしたことある",
+    "client_msg_id": "ef220430-a480-47ed-bab3-bbedf9d7eaad",
+    "name": "znmxodq1",
+    "img": "https://avatars.slack-edge.com/2019-03-08/570571829091_2ca91fb0cc1ed2341fe0_24.png",
+    "time": "2022/01/14 20:14:34",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1642156117033400"
+  },
+  {
+    "user": "U017BNGTHT3",
+    "text": "移行の手間とそれで得られる利便性が…といった感じで。\nただ、新しい環境を構築するなら試してみても良いかな的な。\nGnomeとか使うなら楽そうではある。",
+    "client_msg_id": "1c773adf-d8be-4231-b1c1-7f9b6a7200d0",
+    "name": "s5is",
+    "img": "https://avatars.slack-edge.com/2020-11-29/1531495219589_cf6a2f80ce7bb820ba38_24.png",
+    "time": "2022/01/14 20:14:34",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1642156083032400"
+  },
+  {
+    "user": "UGA29R3FH",
+    "text": "「現状困ってない」というのが一番の障壁なのかもしれない",
+    "client_msg_id": "aff50747-ffb1-4fc9-9e28-12cc555555fd",
+    "name": "znmxodq1",
+    "img": "https://avatars.slack-edge.com/2019-03-08/570571829091_2ca91fb0cc1ed2341fe0_24.png",
+    "time": "2022/01/14 20:14:35",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1642155766029500"
+  },
+  {
+    "user": "UGA29R3FH",
+    "text": "i3-gapsとpicomでやってることがswayでそのままできるなら移行への障壁はあまりないが、単に困ってないので移行する意欲が湧かない問題が",
+    "client_msg_id": "e14473a7-1476-49a1-b7b9-c3db72635e12",
+    "name": "znmxodq1",
+    "img": "https://avatars.slack-edge.com/2019-03-08/570571829091_2ca91fb0cc1ed2341fe0_24.png",
+    "time": "2022/01/14 20:14:35",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1642155727028800"
+  },
+  {
+    "user": "U017BNGTHT3",
+    "text": "色々あって未だにWaylandに移行する気が起こらないでいる…",
+    "client_msg_id": "8ed22143-ee81-4e15-a600-2b2fb7e014f4",
+    "name": "s5is",
+    "img": "https://avatars.slack-edge.com/2020-11-29/1531495219589_cf6a2f80ce7bb820ba38_24.png",
+    "time": "2022/01/14 20:14:35",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1642155628026600"
+  },
+  {
+    "user": "UGA29R3FH",
+    "text": "uim-fepだとuimで動く物ならちゃんと動くのがいいなあと",
+    "client_msg_id": "08c7c175-4c23-4dc0-835d-436fc6a4eb2b",
+    "name": "znmxodq1",
+    "img": "https://avatars.slack-edge.com/2019-03-08/570571829091_2ca91fb0cc1ed2341fe0_24.png",
+    "time": "2022/01/14 20:14:36",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1642155590026400"
+  },
+  {
     "user": "UGA29R3FH",
     "text": "SKKという時点で人を選ぶ:upside_down_face:",
     "client_msg_id": "321641f1-52cc-48bc-a446-587932913860",
     "name": "znmxodq1",
     "img": "https://avatars.slack-edge.com/2019-03-08/570571829091_2ca91fb0cc1ed2341fe0_24.png",
-    "time": "2022/01/14 19:19:22",
+    "time": "2022/01/14 20:14:36",
     "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1642155544025000"
   },
   {
