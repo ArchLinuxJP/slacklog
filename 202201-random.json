@@ -1,11 +1,38 @@
 [
   {
+    "user": "U02BLTTQEL9",
+    "text": "xwayland だと小数 dpi がぼやけた表示になったりしますね。",
+    "client_msg_id": "ffe0572e-466f-40d3-b54a-f1c1fce04dca",
+    "name": "buzz.taiki",
+    "img": "https://avatars.slack-edge.com/2021-08-15/2388525195124_53543ae8a9c6189fc784_24.jpg",
+    "time": "2022/01/14 18:18:05",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1642151225006500"
+  },
+  {
+    "user": "U70QDFN82",
+    "text": "ネイティブでchromiumが動くかとfcitxが使えるかは別の問題かと・・・",
+    "client_msg_id": "5ed228be-e67e-4566-8dd1-382f6ae40add",
+    "name": "yutakatay",
+    "img": "https://avatars.slack-edge.com/2020-08-16/1302143736069_0baa468f7bea68e827d9_24.png",
+    "time": "2022/01/14 18:18:06",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1642151165005100"
+  },
+  {
+    "user": "U0H9QUFA5",
+    "text": "Xwayland + Chromium だと問題なく fcitx は使えますが、ネイティブ Wayland で chromium を起動 ( ~/.config/chromium-flags.conf --ozone-platform-hint=auto) した場合に chromium 上で fcitx が使えない(ime の切り替えができいない)という状態です。",
+    "client_msg_id": "95f9e934-b312-410a-889a-dc1cbb63ceb4",
+    "name": "kusanaginoturugi",
+    "img": "https://secure.gravatar.com/avatar/e927cae947e74def10ee5fbb20859145.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0016-24.png",
+    "time": "2022/01/14 18:18:06",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1642150933003900"
+  },
+  {
     "user": "U02ASPM0A6T",
     "text": "すみません背景よくわかってないんですが、Xwayland起動した場合ではどんな不都合があるんですか？",
     "client_msg_id": "e930bbc6-8b86-4050-9e3f-f73b4ee33c3e",
     "name": "yozigen",
     "img": "https://avatars.slack-edge.com/2021-08-15/2405164316960_50d7f6e8be23e5b2a0eb_24.jpg",
-    "time": "2022/01/14 17:21:43",
+    "time": "2022/01/14 18:18:06",
     "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1642147395001500"
   },
   {
