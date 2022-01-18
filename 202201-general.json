@@ -1,11 +1,119 @@
 [
   {
+    "user": "UGA29R3FH",
+    "text": "構成によって違うとかならddでもして保管しておくとよさそう",
+    "client_msg_id": "9625edff-7233-4f55-ac8a-0928f1136aef",
+    "name": "znmxodq1",
+    "img": "https://avatars.slack-edge.com/2019-03-08/570571829091_2ca91fb0cc1ed2341fe0_24.png",
+    "time": "2022/01/18 14:22:40",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1642482058011100"
+  },
+  {
+    "user": "UGA29R3FH",
+    "text": "-F 16にしても通った",
+    "client_msg_id": "58bacd4d-0963-4ed3-bc57-4690240d4c6b",
+    "name": "znmxodq1",
+    "img": "https://avatars.slack-edge.com/2019-03-08/570571829091_2ca91fb0cc1ed2341fe0_24.png",
+    "time": "2022/01/18 14:22:41",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1642481865010200"
+  },
+  {
+    "user": "UGA29R3FH",
+    "text": "カーネルバージョン上げて\n```truncate -s 1G /tmp/a\nmkdosfs -F 32 /tmp/a\nmkdir /tmp/b\nsudo mount -o loop /tmp/a /tmp/b\n```\nを実行した所通りました",
+    "client_msg_id": "5065ed24-986b-4a91-850d-489fd6a19c16",
+    "name": "znmxodq1",
+    "img": "https://avatars.slack-edge.com/2019-03-08/570571829091_2ca91fb0cc1ed2341fe0_24.png",
+    "time": "2022/01/18 14:22:41",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1642481793009800"
+  },
+  {
+    "user": "UGA29R3FH",
+    "text": "手元のBIOSマシンは困らないので上げてみてる",
+    "client_msg_id": "0489626a-11e7-4b9c-afb0-175457775521",
+    "name": "znmxodq1",
+    "img": "https://avatars.slack-edge.com/2019-03-08/570571829091_2ca91fb0cc1ed2341fe0_24.png",
+    "time": "2022/01/18 14:22:42",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1642481513007500"
+  },
+  {
+    "user": "U0H9QUFA5",
+    "text": "ESPです。",
+    "client_msg_id": "881aadfb-d50f-4f92-b43d-713bf11b3554",
+    "name": "kusanaginoturugi",
+    "img": "https://secure.gravatar.com/avatar/e927cae947e74def10ee5fbb20859145.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0016-24.png",
+    "time": "2022/01/18 14:22:42",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1642481372007000"
+  },
+  {
+    "user": "U70QDFN82",
+    "text": "私は昨日更新して再起動したけど大丈夫でしたね",
+    "client_msg_id": "4c41d3b1-e389-4d69-8a52-033b65c483b2",
+    "name": "yutakatay",
+    "img": "https://avatars.slack-edge.com/2020-08-16/1302143736069_0baa468f7bea68e827d9_24.png",
+    "time": "2022/01/18 14:22:43",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1642481268006800"
+  },
+  {
+    "user": "UGA29R3FH",
+    "text": "ESPですよね多分",
+    "client_msg_id": "3914a338-7fb7-4d40-b6d5-b9340ed9d6cf",
+    "name": "znmxodq1",
+    "img": "https://avatars.slack-edge.com/2019-03-08/570571829091_2ca91fb0cc1ed2341fe0_24.png",
+    "time": "2022/01/18 14:22:43",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1642481241006200"
+  },
+  {
+    "user": "UGA29R3FH",
+    "text": "あ、いやvfatならそうかなと",
+    "client_msg_id": "d006ddd1-54df-4aac-9131-975e2c237426",
+    "name": "znmxodq1",
+    "img": "https://avatars.slack-edge.com/2019-03-08/570571829091_2ca91fb0cc1ed2341fe0_24.png",
+    "time": "2022/01/18 14:22:43",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1642481230005800"
+  },
+  {
+    "user": "U0PM6EYR1",
+    "text": "<https://bugs.archlinux.org/>\nバグ報告はなさそう",
+    "client_msg_id": "d8c767cf-ac8c-4991-9abe-ff7fe80bf2f6",
+    "name": "raa0121",
+    "img": "https://secure.gravatar.com/avatar/35b032d7b2d4182b0c2de1ef85ba91f2.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0009-24.png",
+    "time": "2022/01/18 14:22:44",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1642481230005700"
+  },
+  {
+    "user": "U0H9QUFA5",
+    "text": "なんか情報出てました？",
+    "client_msg_id": "1c9e3aff-7318-4d64-9add-a0cf10b0d2f6",
+    "name": "kusanaginoturugi",
+    "img": "https://secure.gravatar.com/avatar/e927cae947e74def10ee5fbb20859145.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0016-24.png",
+    "time": "2022/01/18 14:22:44",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1642481207005100"
+  },
+  {
+    "user": "UGA29R3FH",
+    "text": "UEFI死亡ってことか",
+    "client_msg_id": "a7c46124-8f1a-408d-9e41-c31274f94bbc",
+    "name": "znmxodq1",
+    "img": "https://avatars.slack-edge.com/2019-03-08/570571829091_2ca91fb0cc1ed2341fe0_24.png",
+    "time": "2022/01/18 14:22:45",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1642481175004800"
+  },
+  {
+    "user": "U0H9QUFA5",
+    "text": "linux-5.16.1.arch1-1 をインストールしたら、vfat の boot パーティションの mount に失敗して、起動しなくなりました。linux-5.16.arch1-1 に戻すと起動するようになります。2回やって再現しました。",
+    "client_msg_id": "f73924dc-3da3-4f85-ad1f-fc175efe3647",
+    "name": "kusanaginoturugi",
+    "img": "https://secure.gravatar.com/avatar/e927cae947e74def10ee5fbb20859145.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0016-24.png",
+    "time": "2022/01/18 14:22:45",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1642481130004100"
+  },
+  {
     "user": "U7NBCFT1S",
     "text": "FreeCAD のPathワークベンチが動かない件について進展がありましたのでお知らせします。\n結論から言いますと、`AUR:freecad-weekly-appimage:0.20_26720-1`を使うことで解決しました。\nなお、`freecad-git`はビルドできませんでした。結構時間取られるので注意してほしいです。\n\n2022/1/7現在のArchパッケージの`freecad`は0.19.3-12ですが、\nAUR上のVerは0.20です。そのバージョンではすでに解決されているようです。\n（FreeCADのIRCでARCHユーザーに確認しました。）\n\nお騒がせしました。\nありがとうございました。",
     "client_msg_id": "eae6c5bb-505d-4a77-a7da-4b82f93bc9d1",
     "name": "no97yuu",
     "img": "https://avatars.slack-edge.com/2019-10-26/797548070962_e6a0da66a751d051ab30_24.jpg",
-    "time": "2022/01/07 11:44:52",
+    "time": "2022/01/18 14:22:46",
     "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1641520579025300"
   },
   {
