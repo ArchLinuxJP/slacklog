@@ -1,11 +1,137 @@
 [
   {
+    "user": "U0PM6EYR1",
+    "text": "それはそうですね",
+    "client_msg_id": "34580484-550e-4f9b-9f83-58d54d407d77",
+    "name": "raa0121",
+    "img": "https://secure.gravatar.com/avatar/35b032d7b2d4182b0c2de1ef85ba91f2.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0009-24.png",
+    "time": "2022/01/19 17:18:54",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1642580271086100"
+  },
+  {
+    "user": "U0GFBAM8U",
+    "text": "今回のケースではdockerでは解決できなさそう、ハード起因ぽいので",
+    "client_msg_id": "54424694-6D26-4695-A462-87721D1332F3",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2022/01/19 17:18:54",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1642580221085900"
+  },
+  {
+    "user": "U0PM6EYR1",
+    "text": "そうですね そういう感じです",
+    "client_msg_id": "d9095acb-c1b8-4c02-8b0d-6c455d79a141",
+    "name": "raa0121",
+    "img": "https://secure.gravatar.com/avatar/35b032d7b2d4182b0c2de1ef85ba91f2.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0009-24.png",
+    "time": "2022/01/19 17:18:54",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1642580110084900"
+  },
+  {
+    "user": "U02ASPM0A6T",
+    "text": "私dockerを自分の環境でちゃんと使ったことがないんですが、今の文脈で言えば古いパッケージが絡み合うソフトウェア群やpython3.10未満の環境をdockerにつくっておいて外部から目的のコマンドだけ呼び出して使うみたいなことですよね",
+    "client_msg_id": "a008f697-7794-4a18-8b47-163f99524c7f",
+    "name": "yozigen",
+    "img": "https://avatars.slack-edge.com/2021-08-15/2405164316960_50d7f6e8be23e5b2a0eb_24.jpg",
+    "time": "2022/01/19 17:18:55",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1642580034084300"
+  },
+  {
+    "user": "U0PM6EYR1",
+    "text": "ソフトウェアのバージョンを固定したかったら、docker とかありますしね",
+    "client_msg_id": "d84acdb3-21ff-42b8-bc80-44c5044fc1fa",
+    "name": "raa0121",
+    "img": "https://secure.gravatar.com/avatar/35b032d7b2d4182b0c2de1ef85ba91f2.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0009-24.png",
+    "time": "2022/01/19 17:18:55",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1642578782083100"
+  },
+  {
+    "user": "U0GFBAM8U",
+    "text": "ただ、いつの間にか治ってることも多いので、基本的には最新に追従してることが多いですね",
+    "client_msg_id": "B62A6F23-931C-4604-83BA-C6907B32484E",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2022/01/19 17:18:55",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1642578771082800"
+  },
+  {
+    "user": "U0GFBAM8U",
+    "text": "そういう時はダウングレードするのが楽でいいですね",
+    "client_msg_id": "EF8A5B8F-46CA-435F-838A-12A6ED33E265",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2022/01/19 17:18:55",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1642578687081100"
+  },
+  {
+    "user": "U02ASPM0A6T",
+    "text": "ああでもある程度あたりがついてればカーネル起動時のオプション指定とかで回避できるかもしれないんですかね",
+    "client_msg_id": "1b945258-35ee-479e-9a5d-39ed850db331",
+    "name": "yozigen",
+    "img": "https://avatars.slack-edge.com/2021-08-15/2405164316960_50d7f6e8be23e5b2a0eb_24.jpg",
+    "time": "2022/01/19 17:18:56",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1642578681080900"
+  },
+  {
+    "user": "U02ASPM0A6T",
+    "text": "公式UEFI・BIOSでない、linux-ltsでギリギリ動いてるようなトリッキーな環境の場合はそうもいかなかったり。カーネル等で問題おきても簡単なコマンドですぐ戻せるってのは心強いです",
+    "client_msg_id": "40dd20ef-65b2-43d8-9004-2e9d19b6a1c4",
+    "name": "yozigen",
+    "img": "https://avatars.slack-edge.com/2021-08-15/2405164316960_50d7f6e8be23e5b2a0eb_24.jpg",
+    "time": "2022/01/19 17:18:56",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1642578587079600"
+  },
+  {
+    "user": "U0GFBAM8U",
+    "text": "archユーザは最新を求める",
+    "client_msg_id": "19D6CB00-FF11-40D9-A2AE-C1C9CE2FB796",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2022/01/19 17:18:56",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1642578181076200"
+  },
+  {
+    "user": "U70QDFN82",
+    "text": "だから今は全部HEADにいますね",
+    "client_msg_id": "15fcebaf-bd9b-4bce-972f-8a025c329fcf",
+    "name": "yutakatay",
+    "img": "https://avatars.slack-edge.com/2020-08-16/1302143736069_0baa468f7bea68e827d9_24.png",
+    "time": "2022/01/19 17:18:56",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1642577748075500"
+  },
+  {
+    "user": "U70QDFN82",
+    "text": "そんなに困ったことはない（一時的にバグで戻すときはあるけどGitHubのIssueをWatchしてOKになったら戻す）",
+    "client_msg_id": "107c1a9a-718b-401b-bf00-d0826d90a048",
+    "name": "yutakatay",
+    "img": "https://avatars.slack-edge.com/2020-08-16/1302143736069_0baa468f7bea68e827d9_24.png",
+    "time": "2022/01/19 17:18:57",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1642577728075100"
+  },
+  {
+    "user": "U70QDFN82",
+    "text": "正統派のArch教徒だからオプションいじることはあっても基本downgradeしないようにしてますね。",
+    "client_msg_id": "8b4d39f8-94b9-4513-ada5-0cfea811ac86",
+    "name": "yutakatay",
+    "img": "https://avatars.slack-edge.com/2020-08-16/1302143736069_0baa468f7bea68e827d9_24.png",
+    "time": "2022/01/19 17:18:57",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1642577667074300"
+  },
+  {
+    "user": "U0GFBAM8U",
+    "text": "downgradeパッケージ、常用してる(だめ",
+    "client_msg_id": "8FC7DDDA-C8A4-4161-BB4C-E0AE2E62A43C",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2022/01/19 17:18:57",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1642576544072600"
+  },
+  {
     "user": "U02ASPM0A6T",
     "text": "最近のできごと\n• UEFIがcorebootの元chromebook（Acer712）で使用している`linux-lts`を上げたらシャットダウンできなくなったためバージョンを下げた。*`downgrade`パッケージすごく便利*\n• i3からswayへのメイン環境移行ほぼ完了。デスクトップでのちらつきはほぼなくなり動画再生も快適になり安心した\n• デスクトップミニPC（上記と同じChuwi HeroboxのCeleron N4100版）でオンボードのサウンドカードがすんなり使えないため色々苦労していたが、そういう場合は早々に諦めてカーネルでの対応デバイス（ALSAまたはUSBクラスコンプライアント対応のオーディオインターフェース、安いものはUCA202など）を使う運用に決めた。下記にあるものや目星をつけたオーディオデバイスで使用しているチップセットの型番（pcm2902など）を下記等で調べて動作確認取れているものを使えばだいたいOKと思われ\n    ◦ <https://www.alsa-project.org/wiki/Matrix:Main>\n• `fcitx5-git-5.0.13.r7` へ更新後sway上のfootで日本語入力できなくなったため`fcitx5`に変更したら直った。`WINIT_UNIX_BACKEND=x11 alacritty`はsway上では不意に端末が操作不能になることが頻発したためとりあえずメインでの使用をやめた",
     "client_msg_id": "7330cfec-f0b9-4d85-b361-e46ae24aaa32",
     "name": "yozigen",
     "img": "https://avatars.slack-edge.com/2021-08-15/2405164316960_50d7f6e8be23e5b2a0eb_24.jpg",
-    "time": "2022/01/19 16:12:14",
+    "time": "2022/01/19 17:18:58",
     "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1642575616072000"
   },
   {
