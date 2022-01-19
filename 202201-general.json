@@ -1,11 +1,29 @@
 [
   {
+    "user": "U70QDFN82",
+    "text": "`/boot/efi`にしてます。（元デュアルブート勢）\nArchWiki内でも記述安定してない感じありますけど、一番デファクトがたぶん`/boot/efi`",
+    "client_msg_id": "9b97be35-8c6b-4f86-a4e9-0b20630b20af",
+    "name": "yutakatay",
+    "img": "https://avatars.slack-edge.com/2020-08-16/1302143736069_0baa468f7bea68e827d9_24.png",
+    "time": "2022/01/19 18:21:01",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1642581192015000"
+  },
+  {
+    "user": "UCA1NQM5K",
+    "text": "そういえば皆さんはESPをどうマウントしてます？\n/bootとしてしまうか、/boot/efiみたいにマウントするか......\n\n個人的にはWindowsと同居させたりする事を考えて/boot/efiにしています",
+    "client_msg_id": "23d7f0d8-4bad-4a9e-98b8-6077a4649c4f",
+    "name": "angel.beats.kanade.yu",
+    "img": "https://avatars.slack-edge.com/2020-04-19/1084275690241_c2a4866502e22de56328_24.png",
+    "time": "2022/01/19 18:21:01",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1642580956014500"
+  },
+  {
     "user": "U0H9QUFA5",
     "text": "おそらく、わたしの環境でのみのトラブルみたいです。なんでかmkinitcpio が動いていなかったりしていました。",
     "client_msg_id": "2d806902-a63a-482b-80f4-4bdf49489c22",
     "name": "kusanaginoturugi",
     "img": "https://secure.gravatar.com/avatar/e927cae947e74def10ee5fbb20859145.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0016-24.png",
-    "time": "2022/01/18 17:28:43",
+    "time": "2022/01/19 18:21:01",
     "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1642493200011200"
   },
   {
