@@ -1,11 +1,164 @@
 [
   {
     "user": "U02ASPM0A6T",
+    "text": "このところ入力可能なPDFの形式（最終的に印刷して提出しなきゃいけない）があって、それの文字化けとかがなんとかならないかとあがいてました。flatpakやappimageでbottleっていうwine環境引受けマネージャーみたいなものを起動しようとしてましたがどうもアクロバットリーダーのインストーラーファイルが渡せなくて泣きそうになってました。おとなしくmac起動しよう。。",
+    "client_msg_id": "c33bce3d-d18f-45e2-8ef9-9c97d2318e70",
+    "name": "yozigen",
+    "img": "https://avatars.slack-edge.com/2021-08-15/2405164316960_50d7f6e8be23e5b2a0eb_24.jpg",
+    "time": "2022/01/19 21:33:23",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1642595596043200"
+  },
+  {
+    "user": "U0GFBAM8U",
+    "text": "adobeはflashのイメージが",
+    "client_msg_id": "0131A661-CF8F-4F34-AC4B-AADAFEBC296D",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2022/01/19 21:33:23",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1642595487041300"
+  },
+  {
+    "user": "UGA29R3FH",
+    "text": "Adobeとは距離を置きたい",
+    "client_msg_id": "db56983a-4cc9-49e0-beb4-775c507bf465",
+    "name": "znmxodq1",
+    "img": "https://avatars.slack-edge.com/2019-03-08/570571829091_2ca91fb0cc1ed2341fe0_24.png",
+    "time": "2022/01/19 21:33:24",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1642595360039000"
+  },
+  {
+    "user": "UGA29R3FH",
+    "text": "必要になったらxremapしようかなって思ってる",
+    "client_msg_id": "21baf9a9-8a96-4181-8f7d-7954f516e4ad",
+    "name": "znmxodq1",
+    "img": "https://avatars.slack-edge.com/2019-03-08/570571829091_2ca91fb0cc1ed2341fe0_24.png",
+    "time": "2022/01/19 21:33:24",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1642595307037900"
+  },
+  {
+    "user": "U0GFBAM8U",
+    "text": "確かにデザイン関連はlinuxでは厳しいかもしれませんね",
+    "client_msg_id": "92559555-DDB1-4D31-BD8A-CE231A5CDE5D",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2022/01/19 21:33:24",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1642595277037000"
+  },
+  {
+    "user": "U02ASPM0A6T",
+    "text": "Linuxはudev関連のソフトでリマップなんとかなるので私はHKKB配列はデフォルトで使っています。現状`interception-dual-function-keys`を使っていますが、`keyd`が最終的な覇者になりそうな雰囲気なのでそのうち移行すると思います\n<https://github.com/rvaiya/keyd>",
+    "client_msg_id": "fad881b9-78f0-49b9-980e-c535e18dd228",
+    "name": "yozigen",
+    "img": "https://avatars.slack-edge.com/2021-08-15/2405164316960_50d7f6e8be23e5b2a0eb_24.jpg",
+    "time": "2022/01/19 21:33:25",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1642595149035100"
+  },
+  {
+    "user": "UD124KPDJ",
+    "text": "最近Adobeが必要になってきてArchメインからmacOSメインになってしまった…",
+    "client_msg_id": "857a2f2e-0374-4387-a37e-865cf9e301d0",
+    "name": "claude0803sz",
+    "img": "https://secure.gravatar.com/avatar/dc8d7b0277a1646d6842105241e8bef5.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0022-24.png",
+    "time": "2022/01/19 21:33:25",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1642595087034600"
+  },
+  {
+    "user": "U3FJYR7MG",
+    "text": "Steam系のゲームいくつかあるからまだWindows必要なんよなぁ…\nいまんとこlibvirtでどうにかなってますが",
+    "client_msg_id": "dc485d4c-e23d-4735-9640-6f47bb3f2062",
+    "name": "dohq",
+    "img": "https://secure.gravatar.com/avatar/743659d990b6f68ef5c104ba8e415ba5.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0021-24.png",
+    "time": "2022/01/19 21:33:25",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1642594986032700"
+  },
+  {
+    "user": "U70QDFN82",
+    "text": "唯一まだだめなのがHHKBのマッピング書き換えアプリ・・・",
+    "client_msg_id": "c2f3e485-c974-495c-81be-8d465bd36238",
+    "name": "yutakatay",
+    "img": "https://avatars.slack-edge.com/2020-08-16/1302143736069_0baa468f7bea68e827d9_24.png",
+    "time": "2022/01/19 21:33:26",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1642594797030200"
+  },
+  {
+    "user": "U70QDFN82",
+    "text": "最近Windows本当に必要なくなりましたね・・・Excel形式の申請書系のなにかもだいたいGoogleで大丈夫だし",
+    "client_msg_id": "06f56e92-d811-4baf-af53-4a3b44752f76",
+    "name": "yutakatay",
+    "img": "https://avatars.slack-edge.com/2020-08-16/1302143736069_0baa468f7bea68e827d9_24.png",
+    "time": "2022/01/19 21:33:26",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1642594772029600"
+  },
+  {
+    "user": "U0GFBAM8U",
+    "text": "確かこの前は10だった記憶",
+    "client_msg_id": "F535EFAB-9520-4838-893B-1A9184F22686",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2022/01/19 21:33:26",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1642594674028700"
+  },
+  {
+    "user": "U0GFBAM8U",
+    "text": "笑\nyutkatさんもやられてたのか",
+    "client_msg_id": "93ED932A-C46E-4C2B-A771-1DC6EF542FF6",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2022/01/19 21:33:27",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1642594578027700"
+  },
+  {
+    "user": "U70QDFN82",
+    "text": "私は最近デュアルブートのWindows消しましたね。ちょうど11のアップデートでESP消されてイラッとして殺ってしまった",
+    "client_msg_id": "76547c92-cff6-4596-9d25-32463be4a142",
+    "name": "yutakatay",
+    "img": "https://avatars.slack-edge.com/2020-08-16/1302143736069_0baa468f7bea68e827d9_24.png",
+    "time": "2022/01/19 21:33:27",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1642594496026900"
+  },
+  {
+    "user": "U02ASPM0A6T",
+    "text": "macでもそういうのあって何回かトラブったので怖くてArchに流れてきたってのもあります。ファイルシステム変えるようなレベルのアップデートが裏で中途半端に準備されてたりするのが本当に怖い",
+    "client_msg_id": "7f5ed0a9-f0c8-4921-8cda-aec69a7be445",
+    "name": "yozigen",
+    "img": "https://avatars.slack-edge.com/2021-08-15/2405164316960_50d7f6e8be23e5b2a0eb_24.jpg",
+    "time": "2022/01/19 21:33:27",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1642594486026700"
+  },
+  {
+    "user": "UGA29R3FH",
+    "text": "Arch Linuxは毎回これ再起動フェーズでフリーズしないよね？起動してこないことないよね？と怯える心配が無いので再起動がそんなにストレスじゃないな",
+    "client_msg_id": "e83d94a2-89c7-490a-b023-fc83ea3624ad",
+    "name": "znmxodq1",
+    "img": "https://avatars.slack-edge.com/2019-03-08/570571829091_2ca91fb0cc1ed2341fe0_24.png",
+    "time": "2022/01/19 21:33:28",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1642592971024700"
+  },
+  {
+    "user": "UGA29R3FH",
+    "text": "Windows Updateは大概Flakyなのがなぁ",
+    "client_msg_id": "f61fead3-b214-4941-a997-e1cd4b03409f",
+    "name": "znmxodq1",
+    "img": "https://avatars.slack-edge.com/2019-03-08/570571829091_2ca91fb0cc1ed2341fe0_24.png",
+    "time": "2022/01/19 21:33:28",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1642592936023800"
+  },
+  {
+    "user": "U3FJYR7MG",
+    "text": "windowsは勝手にアップデートインストールして勝手に再起動がなぁ…\nこちらでやるから余計な事せんと!!!ってなる\n再起動必要なのは正直Linuxもそうなのでもうたいして気にしてないけど",
+    "client_msg_id": "3b3528ec-3f3b-4b05-ace6-75dce7fa2cee",
+    "name": "dohq",
+    "img": "https://secure.gravatar.com/avatar/743659d990b6f68ef5c104ba8e415ba5.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0021-24.png",
+    "time": "2022/01/19 21:33:29",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1642592896023500"
+  },
+  {
+    "user": "U02ASPM0A6T",
     "text": "やる場合はとりあえずESPを適宜バックアップする仕組みにしておけばよさそうですね。ありがとうございます。\nやはりWindowsUpdateは怖いですねえ",
     "client_msg_id": "ad1cb83b-ea1e-4e64-b9c6-f3581d152dff",
     "name": "yozigen",
     "img": "https://avatars.slack-edge.com/2021-08-15/2405164316960_50d7f6e8be23e5b2a0eb_24.jpg",
-    "time": "2022/01/19 20:17:25",
+    "time": "2022/01/19 21:33:29",
     "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1642590973021700"
   },
   {
