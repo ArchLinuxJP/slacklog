@@ -1,11 +1,47 @@
 [
   {
     "user": "U02ASPM0A6T",
+    "text": "たぶん最初にはまるだいたいの落とし穴には落ちて死に覚えしたと思うので、何かに手こずったら教えていただければ手っ取り早い対応をお伝えできるかもしれません",
+    "client_msg_id": "bd018b23-9bb4-49c0-a5f5-b856826bc0ca",
+    "name": "yozigen",
+    "img": "https://avatars.slack-edge.com/2021-08-15/2405164316960_50d7f6e8be23e5b2a0eb_24.jpg",
+    "time": "2022/01/20 01:34:12",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1642602872071500"
+  },
+  {
+    "user": "U02ASPM0A6T",
+    "text": "私が練り込んだ検索定義があるのでよかったら使ってください。`config.py`に入れれば`shift+o`後に `該当のプレフィックス 検索キーワード`で使えると思います\n```c.url.searchengines = {\n    \"DEFAULT\": \"<https://www.google.co.jp/search?num=100&amp;q={}>\",\n    \"a\": \"<https://wiki.archlinux.jp/?search={}>\",\n    \"ap\": \"<https://www.appimagehub.com/find?search={}>\",\n    \"ae\": \"<https://wiki.archlinux.org/index.php?search={}>\",\n    \"af\": \"<https://bbs.archlinux.org/search.php?action=search&amp;keywords={}>\",\n    \"afarm\": \"<https://archlinuxarm.org/forum/search.php?keywords={}>\",\n    \"aj\": \"<https://translate.google.com/translate?sl=en&amp;tl=ja&amp;u=https://wiki.archlinux.org/index.php?search={}>\",\n    \"am\": \"<https://www.amazon.co.jp/s?k={}>\",\n    \"me\": \"<https://man.archlinux.org/man/{}>\",\n    \"m\": \"<https://translate.google.com/translate?sl=en&amp;tl=ja&amp;u=https://man.archlinux.org/man/{}>\",\n    \"pkg\": \"<https://archlinux.org/packages/?q={}>\",\n    \"aur\": \"<https://aur.archlinux.org/packages/?K={}>\",\n    \"d\": \"<https://duckduckgo.com/?q={}>\",\n    \"g\": \"<https://www.google.co.jp/search?q={}>\",\n    \"gi\": \"<https://www.google.co.jp/search?tbm=isch&amp;q={}>\",\n    \"gh\": \"<https://github.com/search?q={}>\",\n    \"ka\": \"<https://kakaku.com/search_results/{}/>\",\n    \"mer\": \"<https://www.mercari.com/jp/search/?keyword={}>\",\n    \"mf\": \"<https://forum.manjaro.org/search?q={}>\",\n    \"qti\": \"<https://github.com/qutebrowser/qutebrowser/issues?q=is%3Aissue+{}>\",\n    \"rui\": \"<https://renso-ruigo.com/word/{}>\",\n    \"sy\": \"<https://www.thesaurus.com/browse/{}>\",\n    \"e\": \"<https://ejje.weblio.jp/content/{}>\",\n    \"j\": \"<https://www.weblio.jp/content/{}>\",\n    \"wp\": \"<https://ja.wikipedia.org/wiki/{}>\",\n    \"ya\": \"<https://auctions.yahoo.co.jp/search/search?va={}>\",\n    \"yodo\": \"<https://www.yodobashi.com/?word={}>\",\n    \"yt\": \"<https://www.youtube.com/results?search_query={}>\"\n}```",
+    "client_msg_id": "9428492e-ee01-424a-b229-31dd9cd922b6",
+    "name": "yozigen",
+    "img": "https://avatars.slack-edge.com/2021-08-15/2405164316960_50d7f6e8be23e5b2a0eb_24.jpg",
+    "time": "2022/01/20 01:34:12",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1642602087069200"
+  },
+  {
+    "user": "U70QDFN82",
+    "text": "徹底してる・・・",
+    "client_msg_id": "6498c4aa-f405-4527-b165-98c3df053747",
+    "name": "yutakatay",
+    "img": "https://avatars.slack-edge.com/2020-08-16/1302143736069_0baa468f7bea68e827d9_24.png",
+    "time": "2022/01/20 01:34:12",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1642601991068200"
+  },
+  {
+    "user": "U02ASPM0A6T",
+    "text": "で、保存終了するとそれが元のテキストエリアに反映されるわけですね",
+    "client_msg_id": "5d8f3e0f-9b69-4eb8-906b-60d9d3c2d06a",
+    "name": "yozigen",
+    "img": "https://avatars.slack-edge.com/2021-08-15/2405164316960_50d7f6e8be23e5b2a0eb_24.jpg",
+    "time": "2022/01/20 01:34:13",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1642601952067900"
+  },
+  {
+    "user": "U02ASPM0A6T",
     "text": "テキストエリアはCtrl+e押下でデフォルトではgvimで編集するようになっています",
     "client_msg_id": "f6321504-9e13-4067-9738-e218e4b36619",
     "name": "yozigen",
     "img": "https://avatars.slack-edge.com/2021-08-15/2405164316960_50d7f6e8be23e5b2a0eb_24.jpg",
-    "time": "2022/01/19 23:18:35",
+    "time": "2022/01/20 01:34:13",
     "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1642601897067100"
   },
   {
