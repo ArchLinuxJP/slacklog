@@ -1,11 +1,65 @@
 [
   {
     "user": "U02ASPM0A6T",
+    "text": "インストール用のスクリプトはこれを使っています。ArchWayに反している可能性はありますがかなり楽です\n<https://github.com/picodotdev/alis>",
+    "client_msg_id": "7377a79f-898b-4117-8172-9adeb0581c3a",
+    "name": "yozigen",
+    "img": "https://avatars.slack-edge.com/2021-08-15/2405164316960_50d7f6e8be23e5b2a0eb_24.jpg",
+    "time": "2022/01/19 19:17:14",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1642585030114100"
+  },
+  {
+    "user": "U02ASPM0A6T",
+    "text": "ええ、`yadm`ってのを使って諸々のファイルや設定を入れるシェルスクリプトをgithubに上げて各環境で更新して同様の環境になるようにしています。WindowsUpdate体系を自作するようなイメージですね\n<https://yadm.io/>",
+    "client_msg_id": "c5ed302a-536a-46ee-a9cb-b57eb21d305e",
+    "name": "yozigen",
+    "img": "https://avatars.slack-edge.com/2021-08-15/2405164316960_50d7f6e8be23e5b2a0eb_24.jpg",
+    "time": "2022/01/19 19:17:15",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1642584833112200"
+  },
+  {
+    "user": "UGA29R3FH",
+    "text": "snapperでもいいか",
+    "client_msg_id": "87fd50ed-e180-4476-886d-5ffe34011944",
+    "name": "znmxodq1",
+    "img": "https://avatars.slack-edge.com/2019-03-08/570571829091_2ca91fb0cc1ed2341fe0_24.png",
+    "time": "2022/01/19 19:17:15",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1642584759111600"
+  },
+  {
+    "user": "UGA29R3FH",
+    "text": "(気が付いたら完全に自動でインストールできるようになった)",
+    "client_msg_id": "50fd97e7-01ce-49c4-bad3-fb23d1a3963e",
+    "name": "znmxodq1",
+    "img": "https://avatars.slack-edge.com/2019-03-08/570571829091_2ca91fb0cc1ed2341fe0_24.png",
+    "time": "2022/01/19 19:17:15",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1642584667109900"
+  },
+  {
+    "user": "UGA29R3FH",
+    "text": "とりあえずいつでも戻せるように自動化とかしておくと安心して壊せるのでおすすめ",
+    "client_msg_id": "4cb840bf-2dc9-46b2-8827-1e2c4cf2a9af",
+    "name": "znmxodq1",
+    "img": "https://avatars.slack-edge.com/2019-03-08/570571829091_2ca91fb0cc1ed2341fe0_24.png",
+    "time": "2022/01/19 19:17:16",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1642584629108700"
+  },
+  {
+    "user": "U02ASPM0A6T",
+    "text": "Arch Linux を使い始めて何ヶ月か経ちましたが、コミュニティーや諸々の情報のおかげでやっとトラブル対応が概ねできるようになってきたような気がします。今の所だいたい下記でなんとかなるんじゃなかろうか的な感覚です\n• `pacman -Syyuu` や `paru -Syyuu`\n• カーネルやパッケージのダウングレード\n• `*-git`版、またはそうじゃない方の安定版パッケージを使う\n• btrfs snapperで戻す\n• /boot配下はbootbackup.hook等でバックアップするようにしておいてbtrfs snapperなどで戻す\n• archisoで起動していろいろやってなんとかする\nあと\n• ノーマル状態でまともに動くハードウェアを買う\n    ◦ なるべくドライバや設定やソフトウェアでなんとかしようとしない\n• 孤児パッケージを使わない\nとか、重要だけど死に覚えして背景の構造など知って初めて暗黙的ノウハウになるようなものがけっこうありそうですね",
+    "client_msg_id": "67f8157e-a139-434d-96a5-93d9ba9dde5a",
+    "name": "yozigen",
+    "img": "https://avatars.slack-edge.com/2021-08-15/2405164316960_50d7f6e8be23e5b2a0eb_24.jpg",
+    "time": "2022/01/19 19:17:16",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1642584564107800"
+  },
+  {
+    "user": "U02ASPM0A6T",
     "text": "ああそういうことか。やっと理解できました…。みなさんありがとうございます",
     "client_msg_id": "f790d810-1f70-44f6-a950-3c5d58c2f98e",
     "name": "yozigen",
     "img": "https://avatars.slack-edge.com/2021-08-15/2405164316960_50d7f6e8be23e5b2a0eb_24.jpg",
-    "time": "2022/01/19 18:16:17",
+    "time": "2022/01/19 19:17:16",
     "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1642583037103800"
   },
   {
