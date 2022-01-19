@@ -1,11 +1,20 @@
 [
   {
+    "user": "U02ASPM0A6T",
+    "text": "最近のできごと\n• UEFIがcorebootの元chromebook（Acer712）で使用している`linux-lts`を上げたらシャットダウンできなくなったためバージョンを下げた。*`downgrade`パッケージすごく便利*\n• i3からswayへのメイン環境移行ほぼ完了。デスクトップでのちらつきはほぼなくなり動画再生も快適になり安心した\n• デスクトップミニPC（上記と同じChuwi HeroboxのCeleron N4100版）でオンボードのサウンドカードがすんなり使えないため色々苦労していたが、そういう場合は早々に諦めてカーネルでの対応デバイス（ALSAまたはUSBクラスコンプライアント対応のオーディオインターフェース、安いものはUCA202など）を使う運用に決めた。下記にあるものや目星をつけたオーディオデバイスで使用しているチップセットの型番（pcm2902など）を下記等で調べて動作確認取れているものを使えばだいたいOKと思われ\n    ◦ <https://www.alsa-project.org/wiki/Matrix:Main>\n• `fcitx5-git-5.0.13.r7` へ更新後sway上のfootで日本語入力できなくなったため`fcitx5`に変更したら直った。`WINIT_UNIX_BACKEND=x11 alacritty`はsway上では不意に端末が操作不能になることが頻発したためとりあえずメインでの使用をやめた",
+    "client_msg_id": "7330cfec-f0b9-4d85-b361-e46ae24aaa32",
+    "name": "yozigen",
+    "img": "https://avatars.slack-edge.com/2021-08-15/2405164316960_50d7f6e8be23e5b2a0eb_24.jpg",
+    "time": "2022/01/19 16:12:14",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1642575616072000"
+  },
+  {
     "user": "U70QDFN82",
     "text": "<https://www.reddit.com/r/unixporn/comments/s51kb6/oc_controlling_sway_wm_with_tv_remote/>",
     "client_msg_id": "92e7e85a-52b4-4cff-82ee-d3af6f27c530",
     "name": "yutakatay",
     "img": "https://avatars.slack-edge.com/2020-08-16/1302143736069_0baa468f7bea68e827d9_24.png",
-    "time": "2022/01/16 16:16:19",
+    "time": "2022/01/19 16:12:15",
     "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1642314342066000"
   },
   {
