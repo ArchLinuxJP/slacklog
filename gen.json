@@ -1,11 +1,146 @@
 [
   {
+    "user": "U02ASPM0A6T",
+    "text": "テキストエリアはCtrl+e押下でデフォルトではgvimで編集するようになっています",
+    "client_msg_id": "f6321504-9e13-4067-9738-e218e4b36619",
+    "name": "yozigen",
+    "img": "https://avatars.slack-edge.com/2021-08-15/2405164316960_50d7f6e8be23e5b2a0eb_24.jpg",
+    "time": "2022/01/19 23:18:35",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1642601897067100"
+  },
+  {
+    "user": "U70QDFN82",
+    "text": "ここまでやるならすべての入力フォームもデフォルトでVim化するとかやりそう",
+    "client_msg_id": "3fea13ed-db02-4cb6-afa6-d33fa0104475",
+    "name": "yutakatay",
+    "img": "https://avatars.slack-edge.com/2020-08-16/1302143736069_0baa468f7bea68e827d9_24.png",
+    "time": "2022/01/19 23:18:35",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1642601760065600"
+  },
+  {
+    "user": "U02ASPM0A6T",
+    "text": "デフォルトのキーバインドはこちらです <https://qutebrowser.org/img/cheatsheet-big.png>",
+    "client_msg_id": "d275fd01-11dd-4796-8a80-2eb5038c33a8",
+    "name": "yozigen",
+    "img": "https://avatars.slack-edge.com/2021-08-15/2405164316960_50d7f6e8be23e5b2a0eb_24.jpg",
+    "time": "2022/01/19 23:18:35",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1642601603064400"
+  },
+  {
+    "user": "U02ASPM0A6T",
+    "text": "ダークモード表示で常用したい場合は、base16テーマ形式を`pybase16-builder`などで生成して使うのがおすすめです",
+    "client_msg_id": "796d0f10-0d2f-45a7-bad5-224aee52870a",
+    "name": "yozigen",
+    "img": "https://avatars.slack-edge.com/2021-08-15/2405164316960_50d7f6e8be23e5b2a0eb_24.jpg",
+    "time": "2022/01/19 23:18:36",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1642601224064000"
+  },
+  {
+    "user": "U02ASPM0A6T",
+    "text": "ここのフレーズしびれます",
+    "client_msg_id": "4d4f5906-915d-4bfa-9408-17bbcab58b10",
+    "name": "yozigen",
+    "img": "https://avatars.slack-edge.com/2021-08-15/2405164316960_50d7f6e8be23e5b2a0eb_24.jpg",
+    "time": "2022/01/19 23:18:36",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1642601015062400"
+  },
+  {
+    "user": "U02ASPM0A6T",
+    "text": "&gt; 2. なぜ別のブラウザ？\n&gt; *信じられないかもしれませんが、満足できるブラウザが見つからなかったので、自分で書き始めました。*\n&gt; 4. TridactylやVimiumのようなFirefox / Chromiumアドオンとの違いは何ですか？\n&gt; WebExtensions APIは、プラグイン作成者に多くの自由を与えていないようです。その結果、Vimium / Tridactylは、適切な最小限のvimのようなブラウザーに期待するすべての機能を実際には備えていません。同じ理由で、これらのアドオンは非常に一貫性がありません。一部のページでは、キーボード入力を正しく実行およびインターセプトできません。Tridactylは、さまざまな手段（Pythonで記述されたネイティブメッセンジャーがアドオンから直接実行できない作業を実行するなど）でこれらの制限を回避しますが、実行できることは非常に限られています。\n<https://qutebrowser.org/doc/faq.html>",
+    "client_msg_id": "3e10ba4a-3de3-4d21-8c57-bf46eb270177",
+    "name": "yozigen",
+    "img": "https://avatars.slack-edge.com/2021-08-15/2405164316960_50d7f6e8be23e5b2a0eb_24.jpg",
+    "time": "2022/01/19 23:18:36",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1642600941062000"
+  },
+  {
+    "user": "U70QDFN82",
+    "text": "一応Vimium入れてますけど、私そんなにヘビーユーザーじゃないんですよねー\njkページ移動と\nタブ移動と\nfでのリンク先移動\nくらいしか使ってない・・・",
+    "client_msg_id": "0c0001d7-0520-408a-80ed-0e306bc09f0d",
+    "name": "yutakatay",
+    "img": "https://avatars.slack-edge.com/2020-08-16/1302143736069_0baa468f7bea68e827d9_24.png",
+    "time": "2022/01/19 23:18:37",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1642600766061100"
+  },
+  {
+    "user": "U02ASPM0A6T",
+    "text": "firefoxのtridactylとかchromiumのvimiumなどより全然いいです",
+    "client_msg_id": "50ef7bd6-affb-4830-8e7a-91ef995fc8cd",
+    "name": "yozigen",
+    "img": "https://avatars.slack-edge.com/2021-08-15/2405164316960_50d7f6e8be23e5b2a0eb_24.jpg",
+    "time": "2022/01/19 23:18:37",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1642600369059000"
+  },
+  {
+    "user": "U70QDFN82",
+    "text": "まじか。結構すごいVim拡張がデフォルトで入ってる感じなんすね",
+    "client_msg_id": "65acace8-8566-41d8-8cc2-e77a53ab5406",
+    "name": "yutakatay",
+    "img": "https://avatars.slack-edge.com/2020-08-16/1302143736069_0baa468f7bea68e827d9_24.png",
+    "time": "2022/01/19 23:18:37",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1642600271058100"
+  },
+  {
+    "user": "U02ASPM0A6T",
+    "text": "すげえいいです。",
+    "client_msg_id": "a86e226a-860e-4dd1-abd9-5f63dd9d5988",
+    "name": "yozigen",
+    "img": "https://avatars.slack-edge.com/2021-08-15/2405164316960_50d7f6e8be23e5b2a0eb_24.jpg",
+    "time": "2022/01/19 23:18:37",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1642600174056800"
+  },
+  {
+    "user": "U70QDFN82",
+    "text": "お、知らないやつだ",
+    "client_msg_id": "6cdca2ca-000f-4ce2-a3e3-a295e4a9b878",
+    "name": "yutakatay",
+    "img": "https://avatars.slack-edge.com/2020-08-16/1302143736069_0baa468f7bea68e827d9_24.png",
+    "time": "2022/01/19 23:18:38",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1642600149056400"
+  },
+  {
+    "user": "U02ASPM0A6T",
+    "text": "ブラウザ私はここ半年ほど`qutebrowser`命な感じになっています。ブラウザ開発大変だろうに活発親切にやってくれていてありがたみを感じたので、少額ですがオーナーのgithub sponsorsへサブスク形式の寄付登録してしまいました",
+    "client_msg_id": "3c93226b-d1f0-442a-8025-3647476cb734",
+    "name": "yozigen",
+    "img": "https://avatars.slack-edge.com/2021-08-15/2405164316960_50d7f6e8be23e5b2a0eb_24.jpg",
+    "time": "2022/01/19 23:18:38",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1642600082055400"
+  },
+  {
+    "user": "U02ASPM0A6T",
+    "text": "&gt; テキストボックス上で control + n を押してウィンドウが開く\nん？C-nを下へのカーソル移動に変えたいとかですか？",
+    "client_msg_id": "fa42d3f6-e21e-486d-9d2c-fe11677479a1",
+    "name": "yozigen",
+    "img": "https://avatars.slack-edge.com/2021-08-15/2405164316960_50d7f6e8be23e5b2a0eb_24.jpg",
+    "time": "2022/01/19 23:18:38",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1642599731051400"
+  },
+  {
+    "user": "U70QDFN82",
+    "text": "ブラウザはショートカット変更のためにVivaldi使ってますね。カスタマイズいろいろできてとても便利",
+    "client_msg_id": "62ea200f-e271-4f28-8376-d9291e47af9b",
+    "name": "yutakatay",
+    "img": "https://avatars.slack-edge.com/2020-08-16/1302143736069_0baa468f7bea68e827d9_24.png",
+    "time": "2022/01/19 23:18:39",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1642599556050100"
+  },
+  {
+    "user": "U0H9QUFA5",
+    "text": "`keyd` 良いですね。念願の firefox のテキストボックス上で control + n を押してウィンドウが開くアホな挙動を回避できました。めっちゃうれしい。",
+    "client_msg_id": "a48732f7-4c31-498f-92e0-e5a6755c51a6",
+    "name": "kusanaginoturugi",
+    "img": "https://secure.gravatar.com/avatar/e927cae947e74def10ee5fbb20859145.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0016-24.png",
+    "time": "2022/01/19 23:18:39",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1642599357049100"
+  },
+  {
     "user": "U0GFBAM8U",
     "text": "有料で買う人がいるのは純粋にすごい",
     "client_msg_id": "05637E94-D114-4720-8536-8DB0E8D4D24D",
     "name": "syui",
     "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
-    "time": "2022/01/19 22:22:37",
+    "time": "2022/01/19 23:18:39",
     "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1642595747046700"
   },
   {
