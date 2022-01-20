@@ -1,11 +1,56 @@
 [
   {
+    "user": "U02ASPM0A6T",
+    "text": "`chromium-widevine`が元から入っていたせいか、そのままで普通に観れました",
+    "client_msg_id": "9a403bd5-6270-4fdb-ad22-8c6ef4c3b1f5",
+    "name": "yozigen",
+    "img": "https://avatars.slack-edge.com/2021-08-15/2405164316960_50d7f6e8be23e5b2a0eb_24.jpg",
+    "time": "2022/01/20 22:18:51",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1642684213236200"
+  },
+  {
+    "user": "U02ASPM0A6T",
+    "text": "&gt; widevine入れればよかったような？\n• `chromium-widevine`\n• `vivaldi-widevine`\n• `qt5-webengine-widevine`\nとかってありますね。これらで使っているものを入れれば見れるのかな。qt5-webengineを入れてqutebrowserでbefore after比較してみます",
+    "client_msg_id": "072c7cd9-62ad-4fe5-96a4-d70de60a09f9",
+    "name": "yozigen",
+    "img": "https://avatars.slack-edge.com/2021-08-15/2405164316960_50d7f6e8be23e5b2a0eb_24.jpg",
+    "time": "2022/01/20 22:18:51",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1642683798234800"
+  },
+  {
+    "user": "U02ASPM0A6T",
+    "text": "今`electronplayer`というのを入れて <http://amazon.co.jp|amazon.co.jp> 側にログインしておもむろに表示されていたMatrixを再生したところ問題なく観れました\n小さい画面で見たので高画質かどうかはわかりませんでしたが\n<https://wiki.archlinux.org/title/Electronplayer>",
+    "client_msg_id": "a2efd948-f857-48b8-bc26-3569bbf7cd21",
+    "name": "yozigen",
+    "img": "https://avatars.slack-edge.com/2021-08-15/2405164316960_50d7f6e8be23e5b2a0eb_24.jpg",
+    "time": "2022/01/20 22:18:51",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1642683290234100"
+  },
+  {
+    "user": "UUWBU08TU",
+    "text": "widevine入れればよかったような？(画質までは見てないですが)",
+    "client_msg_id": "c7de5fe3-6889-4944-8e80-3c7a1e772837",
+    "name": "nyaarch64",
+    "img": "https://avatars.slack-edge.com/2020-06-22/1204027183412_7f7a529c9005aa8cce36_24.png",
+    "time": "2022/01/20 22:18:52",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1642683049231500"
+  },
+  {
+    "user": "U019C7VLZ4G",
+    "text": "<https://en.wikipedia.org/wiki/Widevine|https://en.wikipedia.org/wiki/Widevine>",
+    "client_msg_id": "f7edb4a3-9c14-4664-b7ba-62594a8ff6be",
+    "name": "getalotofmail",
+    "img": "https://secure.gravatar.com/avatar/5a7f20688dc40b2989935a11bdfa25fe.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0001-24.png",
+    "time": "2022/01/20 22:18:52",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1642681878230300"
+  },
+  {
     "user": "U019C7VLZ4G",
     "text": "widevineというDRMのL1というレベルに対応してないとFull-HD再生はできないらしい",
     "client_msg_id": "45fb09de-5fb8-4e05-8444-89ef80977d82",
     "name": "getalotofmail",
     "img": "https://secure.gravatar.com/avatar/5a7f20688dc40b2989935a11bdfa25fe.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0001-24.png",
-    "time": "2022/01/20 21:31:18",
+    "time": "2022/01/20 22:18:52",
     "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1642681675230000"
   },
   {
