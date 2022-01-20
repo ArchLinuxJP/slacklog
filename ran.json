@@ -1,11 +1,407 @@
 [
   {
     "user": "U0GFBAM8U",
+    "text": "増えてますよね\n最近特に感じてた",
+    "client_msg_id": "BADFCB34-B8DC-42AC-9B9D-8DF2811A0FC1",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2022/01/20 18:20:21",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1642669268223700"
+  },
+  {
+    "user": "U70QDFN82",
+    "text": "いろんなガジェットでも対応OSにLinux表記あるのも増えててほんといい時代ですよね〜\n昔はWindowsでは動くのか。じゃあワンチャンあるか。買うかって感じだったのに",
+    "client_msg_id": "c5369807-88d5-4fa4-b0a2-41091faaf636",
+    "name": "yutakatay",
+    "img": "https://avatars.slack-edge.com/2020-08-16/1302143736069_0baa468f7bea68e827d9_24.png",
+    "time": "2022/01/20 18:20:21",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1642669134223200"
+  },
+  {
+    "user": "U0GFBAM8U",
+    "text": "最新の流れとして、yutkatさんが言ったようにブラウザが飲み込んだという表現はとても直感的だと思いました。まさにそんな感じの流れになりつつあるのかも",
+    "client_msg_id": "02509D58-F7A1-4490-815D-9AF857569EBF",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2022/01/20 18:20:22",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1642669031221800"
+  },
+  {
+    "user": "U0GFBAM8U",
+    "text": "きっかけ大事",
+    "client_msg_id": "DA8CC394-2984-4345-9D0F-E297C3C47D2A",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2022/01/20 18:20:22",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1642668909219900"
+  },
+  {
+    "user": "UGA29R3FH",
+    "text": "Windows無くても暮らせるじゃんと",
+    "client_msg_id": "52eaf3b4-10d4-4045-ba98-89f4fca0222e",
+    "name": "znmxodq1",
+    "img": "https://avatars.slack-edge.com/2019-03-08/570571829091_2ca91fb0cc1ed2341fe0_24.png",
+    "time": "2022/01/20 18:20:22",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1642668889219500"
+  },
+  {
+    "user": "UGA29R3FH",
+    "text": "最初Windows母艦にしてVMで使いやすいLinuxやろうとしてたんですけど、全部VMの中でできることに気が付いたんですよね",
+    "client_msg_id": "d838b3d9-0b0b-4d88-b07d-86650935ac31",
+    "name": "znmxodq1",
+    "img": "https://avatars.slack-edge.com/2019-03-08/570571829091_2ca91fb0cc1ed2341fe0_24.png",
+    "time": "2022/01/20 18:20:23",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1642668850219100"
+  },
+  {
+    "user": "U02ASPM0A6T",
+    "text": "確かに。そこからみるとchromeOSだけでほぼ問題ないかもしれませんね",
+    "client_msg_id": "6bbdb769-76e9-4490-9b2a-3f5082969476",
+    "name": "yozigen",
+    "img": "https://avatars.slack-edge.com/2021-08-15/2405164316960_50d7f6e8be23e5b2a0eb_24.jpg",
+    "time": "2022/01/20 18:20:23",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1642668825218200"
+  },
+  {
+    "user": "U70QDFN82",
+    "text": "そうするとブラウザさえ動けばあとは軽いやつでよくなる→Linux",
+    "client_msg_id": "df63158c-cb1c-440a-973e-8e6438c2e13f",
+    "name": "yutakatay",
+    "img": "https://avatars.slack-edge.com/2020-08-16/1302143736069_0baa468f7bea68e827d9_24.png",
+    "time": "2022/01/20 18:20:23",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1642668756216900"
+  },
+  {
+    "user": "U70QDFN82",
+    "text": "ブラウザがアプリをだいぶ飲み込んだのもでかいですね\nブラウザがほぼOSになっちゃってるし",
+    "client_msg_id": "5dfd6954-2100-4c9c-9663-6797617a6431",
+    "name": "yutakatay",
+    "img": "https://avatars.slack-edge.com/2020-08-16/1302143736069_0baa468f7bea68e827d9_24.png",
+    "time": "2022/01/20 18:20:23",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1642668702216100"
+  },
+  {
+    "user": "UGA29R3FH",
+    "text": "最初に触れた時なんて、今流行った理由であろうコンテナ技術の基礎になってるcgroupsなんてなかったし",
+    "client_msg_id": "9a0c03b9-c4df-4136-aeee-0bcfc1d1a180",
+    "name": "znmxodq1",
+    "img": "https://avatars.slack-edge.com/2019-03-08/570571829091_2ca91fb0cc1ed2341fe0_24.png",
+    "time": "2022/01/20 18:20:24",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1642668491215400"
+  },
+  {
+    "user": "U70QDFN82",
+    "text": "これでキーボードでも買いな・・・",
+    "client_msg_id": "5dd0fa4d-9e92-49a4-8cdf-38203a54d0c4",
+    "name": "yutakatay",
+    "img": "https://avatars.slack-edge.com/2020-08-16/1302143736069_0baa468f7bea68e827d9_24.png",
+    "time": "2022/01/20 18:20:24",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1642668475214800"
+  },
+  {
+    "user": "U70QDFN82",
+    "text": "投げ銭してあげたい",
+    "client_msg_id": "79a12a4f-e806-41d3-b87f-c11289bf4c79",
+    "name": "yutakatay",
+    "img": "https://avatars.slack-edge.com/2020-08-16/1302143736069_0baa468f7bea68e827d9_24.png",
+    "time": "2022/01/20 18:20:24",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1642668456214000"
+  },
+  {
+    "user": "UGA29R3FH",
+    "text": "Linux界も確実によくなってるだろうね",
+    "client_msg_id": "4662860b-92c5-4c9d-9cef-3dffc4b87f83",
+    "name": "znmxodq1",
+    "img": "https://avatars.slack-edge.com/2019-03-08/570571829091_2ca91fb0cc1ed2341fe0_24.png",
+    "time": "2022/01/20 18:20:25",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1642668452213700"
+  },
+  {
+    "user": "U02ASPM0A6T",
+    "text": "「マジで超楽しい！作ったものが動くって素晴らしい！だからパソコン買って！」って。ほんと世の中どんどん良くなってくなあと思いました",
+    "client_msg_id": "4db12f63-dfba-4179-9a2f-eb4e3e18867b",
+    "name": "yozigen",
+    "img": "https://avatars.slack-edge.com/2021-08-15/2405164316960_50d7f6e8be23e5b2a0eb_24.jpg",
+    "time": "2022/01/20 18:20:25",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1642668447213400"
+  },
+  {
+    "user": "U0GFBAM8U",
+    "text": "最初の話に戻るんですか、linuxの躍進とかも良くなった結果なのかもしれないなあと思ったり",
+    "client_msg_id": "74838A08-1436-4F8E-8969-3D6532B65F59",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2022/01/20 18:20:25",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1642668423212700"
+  },
+  {
+    "user": "UGA29R3FH",
+    "text": "プログラミングで得られる体験は強烈だからな",
+    "client_msg_id": "6e73402a-d879-4825-b57b-806ef145435d",
+    "name": "znmxodq1",
+    "img": "https://avatars.slack-edge.com/2019-03-08/570571829091_2ca91fb0cc1ed2341fe0_24.png",
+    "time": "2022/01/20 18:20:26",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1642668393211100"
+  },
+  {
+    "user": "U02ASPM0A6T",
+    "text": "こないだ本屋で小学生が親に学校で習ったscrachおよびプログラミングの世界の良さと楽しさを熱く力説してましたよ",
+    "client_msg_id": "852287d1-9ce4-4690-afe7-3bcb8601a093",
+    "name": "yozigen",
+    "img": "https://avatars.slack-edge.com/2021-08-15/2405164316960_50d7f6e8be23e5b2a0eb_24.jpg",
+    "time": "2022/01/20 18:20:26",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1642668353209600"
+  },
+  {
+    "user": "U0GFBAM8U",
+    "text": "世の中はどんどんよくなる",
+    "client_msg_id": "94DE56FE-8D74-483C-9B5A-69DF7CAA266B",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2022/01/20 18:20:26",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1642668262208600"
+  },
+  {
+    "user": "U0GFBAM8U",
+    "text": "そうですね\nテレビとかでいい話よく聞きますね",
+    "client_msg_id": "5CB8C875-648D-4A53-8D06-135B0F618C3F",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2022/01/20 18:20:26",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1642668240207900"
+  },
+  {
+    "user": "U02ASPM0A6T",
+    "text": "まあでも既存の教育がどうなってるか知らないから、もしかしたらもうかなりいい感じになってるのかもしれないですね\nscrach使ってワクワク感伸ばして試行錯誤させる、などでほぼ正解なのかもしれない",
+    "client_msg_id": "bb8b42ca-eb0e-40ec-ad09-7c382c5777e6",
+    "name": "yozigen",
+    "img": "https://avatars.slack-edge.com/2021-08-15/2405164316960_50d7f6e8be23e5b2a0eb_24.jpg",
+    "time": "2022/01/20 18:20:27",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1642668118206800"
+  },
+  {
+    "user": "U70QDFN82",
+    "text": "低レイヤーは一部の人しか響かない気しかしない・・・（その一部はすごく楽しみそうだけど）",
+    "client_msg_id": "2c9d76b9-37ba-4496-a254-297c9ba58326",
+    "name": "yutakatay",
+    "img": "https://avatars.slack-edge.com/2020-08-16/1302143736069_0baa468f7bea68e827d9_24.png",
+    "time": "2022/01/20 18:20:27",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1642667897204400"
+  },
+  {
+    "user": "U02ASPM0A6T",
+    "text": "カーネルをCUI上で書いてコンパイルしてブートストラップするなど、*「Linux V0.0.1 の作成概要を追体験する」*というのがかなりいい教育プログラムになるんじゃないかと思いますね。あれば受けたい",
+    "client_msg_id": "9cbfe658-cbdc-4945-8565-bde395248b21",
+    "name": "yozigen",
+    "img": "https://avatars.slack-edge.com/2021-08-15/2405164316960_50d7f6e8be23e5b2a0eb_24.jpg",
+    "time": "2022/01/20 18:20:27",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1642667829203300"
+  },
+  {
+    "user": "U0GFBAM8U",
+    "text": "だから問題が起こらないようにっていう教育とかだと厳しそうって思ったりします",
+    "client_msg_id": "E207A85F-DD3E-47E5-9CA7-76AF270CF9D8",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2022/01/20 18:20:28",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1642667695202200"
+  },
+  {
+    "user": "U0GFBAM8U",
+    "text": "そのへん、プログラムでもデータベースでも同じで",
+    "client_msg_id": "A15C0903-6D80-420D-A565-EB69A66A341B",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2022/01/20 18:20:28",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1642667602200000"
+  },
+  {
+    "user": "U0GFBAM8U",
+    "text": "ですよね\nセキュリティとかでも攻撃したことなければ、防御を考えられないと思う",
+    "client_msg_id": "3ED0E13D-6040-466B-B60F-6212E0057A14",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2022/01/20 18:20:28",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1642667554198900"
+  },
+  {
+    "user": "U70QDFN82",
+    "text": "そこでのルールが壊したあとちゃんと組み立てようってなっててそれなって思いましたね。\n\n壊して→壊れましたー\nって人だとセンスなくって\n壊して→なんで壊れたんだ？どうやったら戻るかな？\nとかの思考をする人を育てたい",
+    "client_msg_id": "5308a7b9-d9d8-4aa9-9997-d01bf3473957",
+    "name": "yutakatay",
+    "img": "https://avatars.slack-edge.com/2020-08-16/1302143736069_0baa468f7bea68e827d9_24.png",
+    "time": "2022/01/20 18:20:29",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1642667553198600"
+  },
+  {
+    "user": "UGA29R3FH",
+    "text": "「壊れても困らない設計にする」はかなり正しいと思ってますが、壊した経験がないとここに至らないですからね",
+    "client_msg_id": "078a7d05-79cd-447c-a4d7-8f9b438a0e98",
+    "name": "znmxodq1",
+    "img": "https://avatars.slack-edge.com/2019-03-08/570571829091_2ca91fb0cc1ed2341fe0_24.png",
+    "time": "2022/01/20 18:20:29",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1642667501196300"
+  },
+  {
+    "user": "U0GFBAM8U",
+    "text": "壊すことも失敗することも時に必要",
+    "client_msg_id": "2B04D3A6-8450-4BD5-9B51-2E376BFA6F70",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2022/01/20 18:20:29",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1642667396194000"
+  },
+  {
+    "user": "U70QDFN82",
+    "text": "makers fairとかのイベントでも小学生向けに炊飯器だったりとかテレビだったりとか実際に壊して組み立てようってコーナーがあってこれいいなって思いましたね",
+    "client_msg_id": "99f4fb14-3029-407c-a292-fdf8c99ddb66",
+    "name": "yutakatay",
+    "img": "https://avatars.slack-edge.com/2020-08-16/1302143736069_0baa468f7bea68e827d9_24.png",
+    "time": "2022/01/20 18:20:29",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1642667379193300"
+  },
+  {
+    "user": "U02ASPM0A6T",
+    "text": "小学生にもそういう感じで教えるといいと思いますね。まず壊してから直そうということで",
+    "client_msg_id": "b6bee038-9783-4428-a42d-adf3fd66cf97",
+    "name": "yozigen",
+    "img": "https://avatars.slack-edge.com/2021-08-15/2405164316960_50d7f6e8be23e5b2a0eb_24.jpg",
+    "time": "2022/01/20 18:20:30",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1642667336191700"
+  },
+  {
+    "user": "U0GFBAM8U",
+    "text": "さっき話に出ていましたが、環境壊したりとかもいい経験ですよね\n現在の学校教育的には悪いことですが",
+    "client_msg_id": "E0896917-6F95-4616-8330-73F3979FECE8",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2022/01/20 18:20:30",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1642667285191100"
+  },
+  {
+    "user": "U02ASPM0A6T",
+    "text": "せいぜい2万程度の投資ですがかなり多くの技術蓄積になったと思います",
+    "client_msg_id": "22f13d7f-41bf-4b2f-bdf3-48870d10936e",
+    "name": "yozigen",
+    "img": "https://avatars.slack-edge.com/2021-08-15/2405164316960_50d7f6e8be23e5b2a0eb_24.jpg",
+    "time": "2022/01/20 18:20:30",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1642667182189200"
+  },
+  {
+    "user": "U0GFBAM8U",
+    "text": "ただ、人に迷惑かけたり犯罪とかはダメだと思う。\nその辺の倫理観あたりの話は難しそう",
+    "client_msg_id": "C367FE27-65BE-4BD7-BE53-96D44500AED5",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2022/01/20 18:20:31",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1642667096187500"
+  },
+  {
+    "user": "U02ASPM0A6T",
+    "text": "chromeOSのBIOSを一か八かでcorebootに置換してArchLinuxを入れ、音が出ないカーネルパニック出るなどのトラブルを地味に直していくいくのは非常にお薦めです",
+    "client_msg_id": "5fb7555c-2bf2-4184-af5b-21ad7ca9b8c4",
+    "name": "yozigen",
+    "img": "https://avatars.slack-edge.com/2021-08-15/2405164316960_50d7f6e8be23e5b2a0eb_24.jpg",
+    "time": "2022/01/20 18:20:31",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1642667061186300"
+  },
+  {
+    "user": "UGA29R3FH",
+    "text": "キディでもない限り「やってます」とは言わんだろうし",
+    "client_msg_id": "651499b9-6858-4fcc-b763-a932004a6e54",
+    "name": "znmxodq1",
+    "img": "https://avatars.slack-edge.com/2019-03-08/570571829091_2ca91fb0cc1ed2341fe0_24.png",
+    "time": "2022/01/20 18:20:31",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1642667029185600"
+  },
+  {
+    "user": "U0GFBAM8U",
+    "text": "そういう人たちが普通に採用されたりしてるところを見ると、教科書読んでるだけでは勝てんよなぁとかも思ったり",
+    "client_msg_id": "EBF923A5-70A7-4AAF-9648-0297CB05F01B",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2022/01/20 18:20:31",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1642667005184700"
+  },
+  {
+    "user": "U0GFBAM8U",
+    "text": "アメリカのドラマとか見るんですけど、技術部門のチーフとか昔は無茶(ハッキング)とかやったみたいな話があったりで",
+    "client_msg_id": "D6C97EF5-DD93-49E9-AD5A-FBA23C8A9033",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2022/01/20 18:20:32",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1642666952182900"
+  },
+  {
+    "user": "UGA29R3FH",
+    "text": "セキュリティやってる人、実は悪いことやったことあるんじゃなかろうかと思っていたりはする",
+    "client_msg_id": "7c958271-0762-4a35-bf21-847ccd87a7d7",
+    "name": "znmxodq1",
+    "img": "https://avatars.slack-edge.com/2019-03-08/570571829091_2ca91fb0cc1ed2341fe0_24.png",
+    "time": "2022/01/20 18:20:32",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1642666949182700"
+  },
+  {
+    "user": "U0PM6EYR1",
+    "text": "つまり壊れかけのラジオは直す気にさせるための曲だった…？",
+    "client_msg_id": "c47a8891-306c-48a2-9cd3-37da842017e7",
+    "name": "raa0121",
+    "img": "https://secure.gravatar.com/avatar/35b032d7b2d4182b0c2de1ef85ba91f2.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0009-24.png",
+    "time": "2022/01/20 18:20:32",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1642666910180700"
+  },
+  {
+    "user": "U0GFBAM8U",
+    "text": "そのへん難しそうですよね\nただ、例えば、セキュリティエンジニアなんかは多少悪いこと経験したほうがいいんじゃないかとも思ってて、そのへん",
+    "client_msg_id": "6092A44C-3B2F-4A5C-B810-2A087D46EE71",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2022/01/20 18:20:33",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1642666879179200"
+  },
+  {
+    "user": "U70QDFN82",
+    "text": "壊れかけると本気になれる",
+    "client_msg_id": "9b058c74-41fa-4c86-bc20-6123ff9342dd",
+    "name": "yutakatay",
+    "img": "https://avatars.slack-edge.com/2020-08-16/1302143736069_0baa468f7bea68e827d9_24.png",
+    "time": "2022/01/20 18:20:33",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1642666863177800"
+  },
+  {
+    "user": "U02BLTTQEL9",
+    "text": "壊していいデバイス触れる機会増えてほしい。",
+    "client_msg_id": "cb0feef7-3e48-49eb-a85c-4551453ba00b",
+    "name": "buzz.taiki",
+    "img": "https://avatars.slack-edge.com/2021-08-15/2388525195124_53543ae8a9c6189fc784_24.jpg",
+    "time": "2022/01/20 18:20:33",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1642666853177200"
+  },
+  {
+    "user": "U01J1GGMHDJ",
+    "text": "知らないうちに間違って動かなくして授業受けられなくなるとか起こると教える側としてはアレだろうけど、ここの人達は皆壊して学んできた人が多そう:thinking_face:",
+    "client_msg_id": "bec1334c-c303-4d28-a24e-32e845329e46",
+    "name": "naokihirokitomoki",
+    "img": "https://avatars.slack-edge.com/2021-01-01/1607396797362_a9967cc229f49d114f8a_24.jpg",
+    "time": "2022/01/20 18:20:34",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1642666830176100"
+  },
+  {
+    "user": "U70QDFN82",
+    "text": "突出はしそうですよね。倫理観欠如してる人がいたらやばいことなりそうだけど",
+    "client_msg_id": "675b1b8e-f254-457e-9451-e76fae8298a2",
+    "name": "yutakatay",
+    "img": "https://avatars.slack-edge.com/2020-08-16/1302143736069_0baa468f7bea68e827d9_24.png",
+    "time": "2022/01/20 18:20:34",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1642666753173100"
+  },
+  {
+    "user": "U0GFBAM8U",
     "text": "制限突破とかも勉強になりそう\nエンジニア的に見て",
     "client_msg_id": "8D6EC943-8417-4941-B85A-E9BCE9384A6E",
     "name": "syui",
     "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
-    "time": "2022/01/20 17:19:13",
+    "time": "2022/01/20 18:20:34",
     "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1642666731172000"
   },
   {
