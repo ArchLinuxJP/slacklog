@@ -1,11 +1,56 @@
 [
   {
+    "user": "U0H9QUFA5",
+    "text": "<https://vim.fandom.com/wiki/Vi_key_bindings_in_gtk>",
+    "client_msg_id": "5d4c2b2c-0044-42db-9bba-5b9e59674dfe",
+    "name": "kusanaginoturugi",
+    "img": "https://secure.gravatar.com/avatar/e927cae947e74def10ee5fbb20859145.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0016-24.png",
+    "time": "2022/01/20 19:22:38",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1642669372088100"
+  },
+  {
+    "user": "U0H9QUFA5",
+    "text": "だと思うけど、違ったかな？",
+    "client_msg_id": "71232479-5eb3-4ba2-b92e-ae9ec6ff5bfe",
+    "name": "kusanaginoturugi",
+    "img": "https://secure.gravatar.com/avatar/e927cae947e74def10ee5fbb20859145.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0016-24.png",
+    "time": "2022/01/20 19:22:39",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1642669342087900"
+  },
+  {
+    "user": "U02ASPM0A6T",
+    "text": "いやその機能今日初めて知りました。vimキーバインドにもできるんですか？",
+    "client_msg_id": "64c5d787-d7ce-49ea-9816-648d2279b338",
+    "name": "yozigen",
+    "img": "https://avatars.slack-edge.com/2021-08-15/2405164316960_50d7f6e8be23e5b2a0eb_24.jpg",
+    "time": "2022/01/20 19:22:39",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1642669285087500"
+  },
+  {
+    "user": "U0H9QUFA5",
+    "text": "あ、すでに解決してた。",
+    "client_msg_id": "746eff99-c9d3-4bcb-9eb1-016b4aea4332",
+    "name": "kusanaginoturugi",
+    "img": "https://secure.gravatar.com/avatar/e927cae947e74def10ee5fbb20859145.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0016-24.png",
+    "time": "2022/01/20 19:22:39",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1642669270087100"
+  },
+  {
+    "user": "U0H9QUFA5",
+    "text": "~/.config/gtk-3.0/settings.ini\n[Settings]\ngtk-key-theme-name = Emacs\nchromium の場合、この設定を入れると、C-n がカーソル下移動になると思います。まあ、みなさん Vi に設定されてますよね〜。",
+    "client_msg_id": "c8d66c32-a315-461c-9698-3cc1c8703e90",
+    "name": "kusanaginoturugi",
+    "img": "https://secure.gravatar.com/avatar/e927cae947e74def10ee5fbb20859145.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0016-24.png",
+    "time": "2022/01/20 19:22:40",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1642669227086100"
+  },
+  {
     "user": "U02ASPM0A6T",
     "text": "`xremap`もいいですね。設定がすっきりしていてわかりやすそう\n<https://github.com/k0kubun/xremap>\n`keyd`はSBC経由でのキーボードプロキシガジェット（USBtoUSBコンバーターボード）が作れるらしいというのが特に気になっています。これが使えれば、接続先がどんなOSのどんな状態であるかに関わらず全部共通で独自体系にカスタムしたキーボードを使えるようになる。最初のarchiso起動状態からフルカスタムのキー入力体系が使えると考えるとけっこう強い魅力であるように感じています\n<https://github.com/rvaiya/keyd/blob/master/src/vkbd/usb-gadget.md>",
     "client_msg_id": "6d80d5fd-13ae-42d5-adf4-1dbd44b20a90",
     "name": "yozigen",
     "img": "https://avatars.slack-edge.com/2021-08-15/2405164316960_50d7f6e8be23e5b2a0eb_24.jpg",
-    "time": "2022/01/20 17:25:05",
+    "time": "2022/01/20 19:22:40",
     "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1642665551085300"
   },
   {
