@@ -1,11 +1,65 @@
 [
   {
+    "user": "U70QDFN82",
+    "text": "&lt;C-pも&gt;プリンタ開いちゃいそうだけどそっちのほうが弱いんだな・・・",
+    "client_msg_id": "ba319f16-ea98-4863-9701-c2fa40101721",
+    "name": "yutakatay",
+    "img": "https://avatars.slack-edge.com/2020-08-16/1302143736069_0baa468f7bea68e827d9_24.png",
+    "time": "2022/01/20 16:19:10",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1642662799083800"
+  },
+  {
+    "user": "U02ASPM0A6T",
+    "text": "なんか定番の不具合みたいですね。ハードコードされていて書き換えられないということなのかな。（何か対応するとよりまずくなるような構造的な理由があるのかもしれませんが）\nmacではできる的な話があるけどそれはOSが全体的にEmacsキーバインドなだけなんでしょうね\n<https://blog.tmtms.net/entry/2017/11/15/xremap>",
+    "client_msg_id": "162bdd38-c65d-4805-ad77-e53397a8dd76",
+    "name": "yozigen",
+    "img": "https://avatars.slack-edge.com/2021-08-15/2405164316960_50d7f6e8be23e5b2a0eb_24.jpg",
+    "time": "2022/01/20 16:19:11",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1642662560083200"
+  },
+  {
+    "user": "U70QDFN82",
+    "text": "へー。なんでだろう・・・？",
+    "client_msg_id": "ec5bb380-024d-40a4-9208-0dabbbb985e9",
+    "name": "yutakatay",
+    "img": "https://avatars.slack-edge.com/2020-08-16/1302143736069_0baa468f7bea68e827d9_24.png",
+    "time": "2022/01/20 16:19:11",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1642661693081300"
+  },
+  {
+    "user": "U02ASPM0A6T",
+    "text": "でも、Firefoxで見たら確かに C-p でカーソル上移動はできても C-n するとカーソル下移動ではなく、新規ウィンドウが開いちゃいますね。多分これのことなんだろうな",
+    "client_msg_id": "5610edea-9c38-4c58-91a6-bc6952ec8bbf",
+    "name": "yozigen",
+    "img": "https://avatars.slack-edge.com/2021-08-15/2405164316960_50d7f6e8be23e5b2a0eb_24.jpg",
+    "time": "2022/01/20 16:19:11",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1642661658080800"
+  },
+  {
+    "user": "U02ASPM0A6T",
+    "text": "&gt; これでいけるかもです。(GTK)\n設定したら Chromium でEmacsキーバインドできました。快適です:grinning:",
+    "client_msg_id": "cb6b96e9-bd45-426a-ad4d-87269f69f367",
+    "name": "yozigen",
+    "img": "https://avatars.slack-edge.com/2021-08-15/2405164316960_50d7f6e8be23e5b2a0eb_24.jpg",
+    "time": "2022/01/20 16:19:12",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1642661285079400"
+  },
+  {
+    "user": "U02R6AP6H0C",
+    "text": "ぼくは下記の方法で emacs キーバインドにしたので、これでいけるかもです。(GTK)\n<https://wiki.archlinux.org/title/GTK#Emacs_key_bindings>",
+    "client_msg_id": "f6daa9e6-249b-4db7-bb49-3c5a9c367ab1",
+    "name": "yutaro.ono.418",
+    "img": "https://avatars.slack-edge.com/2021-12-16/2851143779109_fedae61bdcb7abee3d9b_24.png",
+    "time": "2022/01/20 16:19:12",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1642660039077500"
+  },
+  {
     "user": "U02ASPM0A6T",
     "text": "chromium上のテキストエリアでC-nしてみたら新規ウィンドウが開きました\nmacOSのようにデフォルトでemacsキーバインドにするための何かを使っていて、それがFirefox上で効かなくなっているという感じですかね？",
     "client_msg_id": "8cf8ef26-9b7f-4856-ba9b-f975e080a539",
     "name": "yozigen",
     "img": "https://avatars.slack-edge.com/2021-08-15/2405164316960_50d7f6e8be23e5b2a0eb_24.jpg",
-    "time": "2022/01/20 13:27:12",
+    "time": "2022/01/20 16:19:12",
     "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1642649521075200"
   },
   {
