@@ -1,11 +1,65 @@
 [
   {
     "user": "U02ASPM0A6T",
+    "text": "（まあできるからといってやってもいいのかという問題は別にあるかもしれませんが。。）",
+    "client_msg_id": "b68857e7-9d3c-4fbb-af3f-294db8d70632",
+    "name": "yozigen",
+    "img": "https://avatars.slack-edge.com/2021-08-15/2405164316960_50d7f6e8be23e5b2a0eb_24.jpg",
+    "time": "2022/01/21 18:15:58",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1642756072248000"
+  },
+  {
+    "user": "U02ASPM0A6T",
+    "text": "ここでできたという話がありました\n<https://www.reddit.com/r/linux4noobs/comments/owidar/finally_made_amazon_prime_to_stream_in_hd_in_linux/>\n&gt; LinuxでAmazon PrimeのHDストリーミングをついに実現!\n&gt; Arch Linuxに`wine-staging`, `wine-mono`, `wine-gecko`をインストールしました。etc/pacman.conf で `multilib` を有効にしてから、PC用の google chrome (.Exe) をダウンロードして wine を使ってインストールしました。\n&gt; そしてオーディオ用の32ビットライブラリをいくつか入れました そして Prime Video は HD で動きます",
+    "client_msg_id": "e04dfd52-217d-4499-89aa-3dcc76c47a62",
+    "name": "yozigen",
+    "img": "https://avatars.slack-edge.com/2021-08-15/2405164316960_50d7f6e8be23e5b2a0eb_24.jpg",
+    "time": "2022/01/21 18:15:58",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1642755869246600"
+  },
+  {
+    "user": "U02ASPM0A6T",
+    "text": "いや、でももうなんとなく塞がれてそうだな、",
+    "client_msg_id": "5cd9092e-f449-4059-b61f-d79c51eaf62f",
+    "name": "yozigen",
+    "img": "https://avatars.slack-edge.com/2021-08-15/2405164316960_50d7f6e8be23e5b2a0eb_24.jpg",
+    "time": "2022/01/21 18:15:58",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1642755758245600"
+  },
+  {
+    "user": "U02ASPM0A6T",
+    "text": "で、ユーザーエージェントをWindowsにするだけですんなりできたという話がありました\n<http://gino-rei.weblog.to/archives/15483098.html>",
+    "client_msg_id": "f6358a78-f840-4809-87a4-6d5ffe873ae6",
+    "name": "yozigen",
+    "img": "https://avatars.slack-edge.com/2021-08-15/2405164316960_50d7f6e8be23e5b2a0eb_24.jpg",
+    "time": "2022/01/21 18:15:59",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1642754943243400"
+  },
+  {
+    "user": "U02ASPM0A6T",
+    "text": "まず、Linuxは公式対応はSD画質までしかしていないと。\n<https://www.amazon.co.jp/gp/help/customer/display.html?nodeId=201422810>",
+    "client_msg_id": "3314e23d-74e8-4fa3-9ee3-d3da4121a75d",
+    "name": "yozigen",
+    "img": "https://avatars.slack-edge.com/2021-08-15/2405164316960_50d7f6e8be23e5b2a0eb_24.jpg",
+    "time": "2022/01/21 18:15:59",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1642754899242700"
+  },
+  {
+    "user": "U019C7VLZ4G",
+    "text": "Firefoxだと見ることはできるのですが(最初にDRMプラグインインストールするか聞いてくる)\n高画質を選択してもFull-HDにならないのです:sob:",
+    "client_msg_id": "0b379ed3-908a-45c4-a253-350286d72e15",
+    "name": "getalotofmail",
+    "img": "https://secure.gravatar.com/avatar/5a7f20688dc40b2989935a11bdfa25fe.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0001-24.png",
+    "time": "2022/01/21 18:15:59",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1642753343241400"
+  },
+  {
+    "user": "U02ASPM0A6T",
     "text": "`chromium-widevine`が元から入っていたせいか、そのままで普通に観れました",
     "client_msg_id": "9a403bd5-6270-4fdb-ad22-8c6ef4c3b1f5",
     "name": "yozigen",
     "img": "https://avatars.slack-edge.com/2021-08-15/2405164316960_50d7f6e8be23e5b2a0eb_24.jpg",
-    "time": "2022/01/20 22:18:51",
+    "time": "2022/01/21 18:15:59",
     "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1642684213236200"
   },
   {
