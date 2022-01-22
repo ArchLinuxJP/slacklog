@@ -1,11 +1,38 @@
 [
   {
     "user": "U02ASPM0A6T",
+    "text": "Kindle使えてる方います？これ使えると助かるなあ\n`$ winetricks apps list | grep -i kindle`\n`kindle                   Amazon Kindle (Amazon, 2017) [downloadable,cached]`\n`$` ",
+    "client_msg_id": "770cc9ec-9655-4282-9417-e6a15b31524a",
+    "name": "yozigen",
+    "img": "https://avatars.slack-edge.com/2021-08-15/2405164316960_50d7f6e8be23e5b2a0eb_24.jpg",
+    "time": "2022/01/22 21:24:40",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1642851735276800"
+  },
+  {
+    "user": "U02ASPM0A6T",
+    "text": "まあこれは穴に落ちて調べて解決してを何巡かしないととだめっぽいですね\nまた気が向いたらやってみます",
+    "client_msg_id": "f1b60da4-9f39-483c-9799-f751ec8993a3",
+    "name": "yozigen",
+    "img": "https://avatars.slack-edge.com/2021-08-15/2405164316960_50d7f6e8be23e5b2a0eb_24.jpg",
+    "time": "2022/01/22 21:24:41",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1642851655275800"
+  },
+  {
+    "user": "U0PM6EYR1",
+    "text": "GUIからはインストールできるんですけどね",
+    "client_msg_id": "de4fe4fb-4dea-402f-87b7-a4a8c3366fc8",
+    "name": "raa0121",
+    "img": "https://secure.gravatar.com/avatar/35b032d7b2d4182b0c2de1ef85ba91f2.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0009-24.png",
+    "time": "2022/01/22 21:24:41",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1642850675274700"
+  },
+  {
+    "user": "U02ASPM0A6T",
     "text": "`$ winetricks apps list | wc -l`\n`60`\n`$` \nインストール対象のアプリはとりあえず60個あるようでしたが、コマンドラインで下記のDB内等をsearchしてinstallみたいなことはできないんですよね\n<https://appdb.winehq.org/objectManager.php?sClass=application>",
     "client_msg_id": "91e009e4-40eb-41ba-a673-cea647139fd9",
     "name": "yozigen",
     "img": "https://avatars.slack-edge.com/2021-08-15/2405164316960_50d7f6e8be23e5b2a0eb_24.jpg",
-    "time": "2022/01/22 20:13:52",
+    "time": "2022/01/22 21:24:42",
     "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1642849914274100"
   },
   {
