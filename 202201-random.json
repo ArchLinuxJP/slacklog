@@ -1,11 +1,128 @@
 [
   {
+    "user": "U02ASPM0A6T",
+    "text": "`$ winetricks apps list | wc -l`\n`60`\n`$` \nインストール対象のアプリはとりあえず60個あるようでしたが、コマンドラインで下記のDB内等をsearchしてinstallみたいなことはできないんですよね\n<https://appdb.winehq.org/objectManager.php?sClass=application>",
+    "client_msg_id": "91e009e4-40eb-41ba-a673-cea647139fd9",
+    "name": "yozigen",
+    "img": "https://avatars.slack-edge.com/2021-08-15/2405164316960_50d7f6e8be23e5b2a0eb_24.jpg",
+    "time": "2022/01/22 20:13:52",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1642849914274100"
+  },
+  {
+    "user": "U02ASPM0A6T",
+    "text": "Windows用のpowershellもwine上である程度動くみたいでしたが、swayのせいなのか何なのかつまづいてるのでとりあえずそこまで引き返します",
+    "client_msg_id": "20845f4a-8965-407d-936f-e865fb683326",
+    "name": "yozigen",
+    "img": "https://avatars.slack-edge.com/2021-08-15/2405164316960_50d7f6e8be23e5b2a0eb_24.jpg",
+    "time": "2022/01/22 20:13:52",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1642848746272100"
+  },
+  {
+    "user": "UGA29R3FH",
+    "text": "導入が面倒なフォントとかがコマンド叩くだけで入って便利",
+    "client_msg_id": "c8046d8f-edb1-4204-beab-4e80690417d2",
+    "name": "znmxodq1",
+    "img": "https://avatars.slack-edge.com/2019-03-08/570571829091_2ca91fb0cc1ed2341fe0_24.png",
+    "time": "2022/01/22 20:13:53",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1642848714271800"
+  },
+  {
+    "user": "U0GFBAM8U",
+    "text": "kuuさんが上で言ってるやつです\ns忘れてた",
+    "client_msg_id": "93B26228-C66E-4E8F-80EE-0BF9985957FD",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2022/01/22 20:13:53",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1642848684270700"
+  },
+  {
+    "user": "UGA29R3FH",
+    "text": "パッケージマネージャーというよりはインストールスクリプト集みたいな感じですね",
+    "client_msg_id": "e828b4ea-ada0-4c6b-80f2-d3aa97ddee33",
+    "name": "znmxodq1",
+    "img": "https://avatars.slack-edge.com/2019-03-08/570571829091_2ca91fb0cc1ed2341fe0_24.png",
+    "time": "2022/01/22 20:13:54",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1642848668269700"
+  },
+  {
+    "user": "U02ASPM0A6T",
+    "text": "おお`winetrick`ってのがパッケージマネージャーとして機能するんですか？とりあえずそれで見てみます。scoopやwingetはもしできたとしても動く動かないでまた苦労しそうだし",
+    "client_msg_id": "8cf1205b-7b7d-43b3-8b85-08f40570748f",
+    "name": "yozigen",
+    "img": "https://avatars.slack-edge.com/2021-08-15/2405164316960_50d7f6e8be23e5b2a0eb_24.jpg",
+    "time": "2022/01/22 20:13:54",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1642848632268700"
+  },
+  {
+    "user": "U0GFBAM8U",
+    "text": "wingetでしたっけ",
+    "client_msg_id": "86AFFE0A-56F4-4082-99CB-03DDFAA77073",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2022/01/22 20:13:54",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1642848368267000"
+  },
+  {
+    "user": "U0GFBAM8U",
+    "text": "そういえば、pwshのパッケージマネージャーでたみたいなので、それなら動くかも",
+    "client_msg_id": "A763226F-7F50-48C5-BB80-EF61A1606D0F",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2022/01/22 20:13:55",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1642848275266700"
+  },
+  {
+    "user": "U0GFBAM8U",
+    "text": "wine環境でのパッケージマネージャーとしてwinetrick以外のscoopとか使えたらいいなって感じですよね",
+    "client_msg_id": "59D9B9BB-9751-4286-B543-50A45945A03B",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2022/01/22 20:13:55",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1642848107265000"
+  },
+  {
+    "user": "U0GFBAM8U",
+    "text": "難しそう",
+    "client_msg_id": "20C323E4-2DA1-4E92-84B6-2ACCAB6513FC",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2022/01/22 20:13:55",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1642848022263000"
+  },
+  {
+    "user": "U02ASPM0A6T",
+    "text": "Linux用Powershellではだめみたいだ…",
+    "client_msg_id": "fba9e782-8c8d-4c3c-a39f-6723b1c0e31b",
+    "name": "yozigen",
+    "img": "https://avatars.slack-edge.com/2021-08-15/2405164316960_50d7f6e8be23e5b2a0eb_24.jpg",
+    "time": "2022/01/22 20:13:56",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1642847748262600"
+  },
+  {
+    "user": "U02ASPM0A6T",
+    "text": "普通に`powershell-bin`パッケージがあった",
+    "client_msg_id": "8066ed3a-591c-4c93-a7e4-90375d4474d4",
+    "name": "yozigen",
+    "img": "https://avatars.slack-edge.com/2021-08-15/2405164316960_50d7f6e8be23e5b2a0eb_24.jpg",
+    "time": "2022/01/22 20:13:56",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1642847177261600"
+  },
+  {
+    "user": "U02ASPM0A6T",
+    "text": "上記のものはWindows用のWavesっていう音楽制作プラグインを動かすことが目的のもので汎用ではないためか、起動できませんでした:cry:",
+    "client_msg_id": "75ca562d-8b92-489b-b033-ea3bc98c11bc",
+    "name": "yozigen",
+    "img": "https://avatars.slack-edge.com/2021-08-15/2405164316960_50d7f6e8be23e5b2a0eb_24.jpg",
+    "time": "2022/01/22 20:13:57",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1642846766261200"
+  },
+  {
     "user": "U0GFBAM8U",
     "text": "便利",
     "client_msg_id": "9796322F-E29F-404F-AD10-FEF2C577BEDD",
     "name": "syui",
     "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
-    "time": "2022/01/22 19:16:55",
+    "time": "2022/01/22 20:13:57",
     "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1642846226260500"
   },
   {
