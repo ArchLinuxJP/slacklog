@@ -1,11 +1,470 @@
 [
   {
+    "user": "U017BNGTHT3",
+    "text": "ChromeOSのオープンソース部分がChromiumOSで、ビルド済みのものとして配布されているCloudReadyが存在していて…という。\nそしてCloudReadyを配布しているNeverwareをGoogleが買収した。",
+    "client_msg_id": "7e0a18d2-e521-4ea8-ae36-a526273cf31f",
+    "name": "s5is",
+    "img": "https://avatars.slack-edge.com/2020-11-29/1531495219589_cf6a2f80ce7bb820ba38_24.png",
+    "time": "2022/01/24 16:20:14",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1643008722137200"
+  },
+  {
+    "user": "U0PM6EYR1",
+    "text": "ChromiumOS なんてあったんだ",
+    "client_msg_id": "2d36f0f5-9581-423c-8c5e-b5f65929abbe",
+    "name": "raa0121",
+    "img": "https://secure.gravatar.com/avatar/35b032d7b2d4182b0c2de1ef85ba91f2.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0009-24.png",
+    "time": "2022/01/24 16:20:15",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1643008561135000"
+  },
+  {
+    "user": "U017BNGTHT3",
+    "text": "確かにこれができる人はArchInstall使えば入れられそう。",
+    "client_msg_id": "5fa0e16d-0cc6-4fa7-a1b5-35b518cb4903",
+    "name": "s5is",
+    "img": "https://avatars.slack-edge.com/2020-11-29/1531495219589_cf6a2f80ce7bb820ba38_24.png",
+    "time": "2022/01/24 16:20:15",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1643008397133000"
+  },
+  {
+    "user": "U70QDFN82",
+    "text": "これ入れられるならたぶんArch入れられる",
+    "client_msg_id": "ece2c041-6507-473e-be02-87b7d29e1db8",
+    "name": "yutakatay",
+    "img": "https://avatars.slack-edge.com/2020-08-16/1302143736069_0baa468f7bea68e827d9_24.png",
+    "time": "2022/01/24 16:20:16",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1643008312132000"
+  },
+  {
+    "user": "U70QDFN82",
+    "text": "２ページ目見ましたけどインストーラーがやばい\nこれはChromeOSに軍配",
+    "client_msg_id": "9f45b9f0-5fe5-42da-a05c-35172b6d2227",
+    "name": "yutakatay",
+    "img": "https://avatars.slack-edge.com/2020-08-16/1302143736069_0baa468f7bea68e827d9_24.png",
+    "time": "2022/01/24 16:20:16",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1643008289131600"
+  },
+  {
+    "user": "U017BNGTHT3",
+    "text": "動かないアプリとかは多少あった気がしますが。",
+    "client_msg_id": "d23b11f2-2b49-49ec-ba8d-a3f606919c49",
+    "name": "s5is",
+    "img": "https://avatars.slack-edge.com/2020-11-29/1531495219589_cf6a2f80ce7bb820ba38_24.png",
+    "time": "2022/01/24 16:20:16",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1643008251130900"
+  },
+  {
+    "user": "U017BNGTHT3",
+    "text": "Android-x86は結構簡単だった気がしますね。",
+    "client_msg_id": "67348ebb-c025-47ef-a8b1-78e69d5d46c5",
+    "name": "s5is",
+    "img": "https://avatars.slack-edge.com/2020-11-29/1531495219589_cf6a2f80ce7bb820ba38_24.png",
+    "time": "2022/01/24 16:20:17",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1643008236130500"
+  },
+  {
+    "user": "U70QDFN82",
+    "text": "もしかして意外と簡単に入る？\n<https://atmarkit.itmedia.co.jp/ait/articles/1809/14/news024.html>",
+    "client_msg_id": "2eada911-ceb1-4871-a4c5-95678ebbb80d",
+    "name": "yutakatay",
+    "img": "https://avatars.slack-edge.com/2020-08-16/1302143736069_0baa468f7bea68e827d9_24.png",
+    "time": "2022/01/24 16:20:17",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1643008230130300"
+  },
+  {
+    "user": "U70QDFN82",
+    "text": "Androidはインストールがむずそうなイメージがありますね（PCに入れたことがないから感覚）",
+    "client_msg_id": "fff71011-664c-4b36-8a3a-8e5c291dbbf4",
+    "name": "yutakatay",
+    "img": "https://avatars.slack-edge.com/2020-08-16/1302143736069_0baa468f7bea68e827d9_24.png",
+    "time": "2022/01/24 16:20:18",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1643008130129700"
+  },
+  {
+    "user": "U017BNGTHT3",
+    "text": "&gt; ChromeOS\nLinuxカーネルという意味ではAndroidも…",
+    "client_msg_id": "931a97a5-3d99-44fc-a09f-0e63d2155758",
+    "name": "s5is",
+    "img": "https://avatars.slack-edge.com/2020-11-29/1531495219589_cf6a2f80ce7bb820ba38_24.png",
+    "time": "2022/01/24 16:20:18",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1643008075129000"
+  },
+  {
+    "user": "UVB7L4CKH",
+    "text": "石川さんごめんなさいしなきゃ",
+    "client_msg_id": "de500580-ceef-49e2-ac9f-550b90748e1a",
+    "name": "tatsumigamou",
+    "img": "https://avatars.slack-edge.com/2020-03-12/985313571153_203fee630d3a4a1053a1_24.jpg",
+    "time": "2022/01/24 16:20:18",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1643008025128400"
+  },
+  {
+    "user": "U70QDFN82",
+    "text": "たぶん初心者に使いやすいLinuxはChromeOS",
+    "client_msg_id": "6dd1755b-a368-4d2a-9ce7-0e9984a13179",
+    "name": "yutakatay",
+    "img": "https://avatars.slack-edge.com/2020-08-16/1302143736069_0baa468f7bea68e827d9_24.png",
+    "time": "2022/01/24 16:20:19",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1643008009128200"
+  },
+  {
+    "user": "U017BNGTHT3",
+    "text": "~そしてよくわからないままrpmfusionを導入し、そしてよくわからないままWindowsが消えていることに気がついて絶望する。~",
+    "client_msg_id": "1560601b-2e02-474b-a4a0-41280358feba",
+    "name": "s5is",
+    "img": "https://avatars.slack-edge.com/2020-11-29/1531495219589_cf6a2f80ce7bb820ba38_24.png",
+    "time": "2022/01/24 16:20:19",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1643007991128000"
+  },
+  {
+    "user": "U017BNGTHT3",
+    "text": "初心者がRHEL使うとSE Linuxでハマりそう。",
+    "client_msg_id": "f9255ee9-e457-4cb5-bebd-4f5de6aa0518",
+    "name": "s5is",
+    "img": "https://avatars.slack-edge.com/2020-11-29/1531495219589_cf6a2f80ce7bb820ba38_24.png",
+    "time": "2022/01/24 16:20:20",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1643007871126900"
+  },
+  {
+    "user": "UGA29R3FH",
+    "text": "Archは固有のハマりどころが少ないのでむしろ簡単に感じるまである(バイアスマシマシ発言)",
+    "client_msg_id": "9da8850e-76e3-4ce4-a7e5-49851adcd749",
+    "name": "znmxodq1",
+    "img": "https://avatars.slack-edge.com/2019-03-08/570571829091_2ca91fb0cc1ed2341fe0_24.png",
+    "time": "2022/01/24 16:20:20",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1643007796125600"
+  },
+  {
+    "user": "UGA29R3FH",
+    "text": "RHEL系統、逆に上級者向けみたいな印象がある",
+    "client_msg_id": "2e5edca6-73f9-46a0-b8ef-38870f42279a",
+    "name": "znmxodq1",
+    "img": "https://avatars.slack-edge.com/2019-03-08/570571829091_2ca91fb0cc1ed2341fe0_24.png",
+    "time": "2022/01/24 16:20:20",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1643007752124500"
+  },
+  {
+    "user": "U017BNGTHT3",
+    "text": "CentOSよりは初心者にも使いやすそうなイメージがありますね…(微妙な比較)",
+    "client_msg_id": "9a16280a-d432-4e92-86c7-5e8eff0b2a3a",
+    "name": "s5is",
+    "img": "https://avatars.slack-edge.com/2020-11-29/1531495219589_cf6a2f80ce7bb820ba38_24.png",
+    "time": "2022/01/24 16:20:21",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1643007690123700"
+  },
+  {
+    "user": "U70QDFN82",
+    "text": "個人的にはUbuntuのほうがって感じしますね・・・まずテーマが暗い",
+    "client_msg_id": "90b8bc1b-4fc7-488a-b8c9-cf824f007b6d",
+    "name": "yutakatay",
+    "img": "https://avatars.slack-edge.com/2020-08-16/1302143736069_0baa468f7bea68e827d9_24.png",
+    "time": "2022/01/24 16:20:21",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1643007684123600"
+  },
+  {
+    "user": "U0GFBAM8U",
+    "text": "そういえば、fedoraって初心者にも使いやすそうな感じです?",
+    "client_msg_id": "2229E355-B5AD-4153-9568-2BEC9BD2FB17",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2022/01/24 16:20:22",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1643007627121900"
+  },
+  {
+    "user": "U0GFBAM8U",
+    "text": "それはありそう\n普通にやってubuntu落ちる可能性もありますよね",
+    "client_msg_id": "8970A9EC-C6FB-4622-B5A2-48974B4C0909",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2022/01/24 16:20:22",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1643007465120400"
+  },
+  {
+    "user": "U70QDFN82",
+    "text": "Linux（オタク）\nArchLinux（オタクの中のオタク）",
+    "client_msg_id": "7202a463-f600-4d1b-9edf-0f3d672b531f",
+    "name": "yutakatay",
+    "img": "https://avatars.slack-edge.com/2020-08-16/1302143736069_0baa468f7bea68e827d9_24.png",
+    "time": "2022/01/24 16:20:22",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1643007460120200"
+  },
+  {
+    "user": "U70QDFN82",
+    "text": "Reddit民はいわゆるオタクが多いからArchが強くなる傾向にありますね・・・残念ながら",
+    "client_msg_id": "38fc4958-7ab3-46a6-b69c-89f289ab44a7",
+    "name": "yutakatay",
+    "img": "https://avatars.slack-edge.com/2020-08-16/1302143736069_0baa468f7bea68e827d9_24.png",
+    "time": "2022/01/24 16:20:23",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1643007419119000"
+  },
+  {
+    "user": "U0GFBAM8U",
+    "text": "ubuntu早めに落ちてる(とはいえ投票者の偏りあってのことかもしれないのでわからないけど",
+    "client_msg_id": "FD9A0B63-2721-4E6F-A653-5E875237F45F",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2022/01/24 16:20:23",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1643007379118300"
+  },
+  {
+    "user": "U0GFBAM8U",
+    "text": "とすると、初心者が選んじゃダメなosランキングなのかなあ",
+    "client_msg_id": "143DA570-D998-4A58-93B7-1F66A8DC91A5",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2022/01/24 16:20:24",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1643007298117000"
+  },
+  {
+    "user": "UD124KPDJ",
+    "text": "特にBritish Englishは難しい…",
+    "client_msg_id": "33f08295-e93a-4d66-aefe-0945b6f19fd1",
+    "name": "claude0803sz",
+    "img": "https://secure.gravatar.com/avatar/dc8d7b0277a1646d6842105241e8bef5.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0022-24.png",
+    "time": "2022/01/24 16:20:24",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1643007288116800"
+  },
+  {
+    "user": "U0GFBAM8U",
+    "text": "英語圏の人、ジョーク効いてることもあって、よほど文化に馴染まないと、その辺のニュアンス読み取るの難しいですよね",
+    "client_msg_id": "5A5235A9-3E1E-42B5-87A7-53A1A0A82F36",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2022/01/24 16:20:24",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1643007167115300"
+  },
+  {
+    "user": "U017BNGTHT3",
+    "text": "確かに",
+    "client_msg_id": "0b1e66f0-1f0d-4e68-bd27-02ca2a897c63",
+    "name": "s5is",
+    "img": "https://avatars.slack-edge.com/2020-11-29/1531495219589_cf6a2f80ce7bb820ba38_24.png",
+    "time": "2022/01/24 16:20:25",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1643007141114400"
+  },
+  {
+    "user": "U70QDFN82",
+    "text": "じゃあArchだめじゃんw",
+    "client_msg_id": "722869ac-c4d9-4ea2-b3bc-f7165c2560a7",
+    "name": "yutakatay",
+    "img": "https://avatars.slack-edge.com/2020-08-16/1302143736069_0baa468f7bea68e827d9_24.png",
+    "time": "2022/01/24 16:20:25",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1643007126113700"
+  },
+  {
+    "user": "U017BNGTHT3",
+    "text": "<https://forums.linuxmint.com/viewtopic.php?t=56556>\nPanic! at the Distroでググったらこれが最初に出てきたので「初心者がどれを選んでいいか分からない(パニック)」みたいなニュアンスなのかなと。",
+    "client_msg_id": "5972eab0-2f96-436b-a893-0f97480c4009",
+    "name": "s5is",
+    "img": "https://avatars.slack-edge.com/2020-11-29/1531495219589_cf6a2f80ce7bb820ba38_24.png",
+    "time": "2022/01/24 16:20:26",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1643007098113200"
+  },
+  {
+    "user": "U70QDFN82",
+    "text": "日本人エンジニアはマンガ・アニメネタ使うのが多いですよね。けど英語になるとちゃんとわきまえてる感じがある。\nたまに向こう（海外のエンジニア）からマンガ・アニメネタ振られてビビる。なんのことかわからなくて。あぁ英語でそういうんだってなる。こっちに合わせてネタ振ってくれたのに反応できなくてごめんって",
+    "client_msg_id": "765a303f-6839-435b-8ebc-3e8f227363fe",
+    "name": "yutakatay",
+    "img": "https://avatars.slack-edge.com/2020-08-16/1302143736069_0baa468f7bea68e827d9_24.png",
+    "time": "2022/01/24 16:20:26",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1643007031111900"
+  },
+  {
+    "user": "U0GFBAM8U",
+    "text": "でもpanic...なんなんだ",
+    "client_msg_id": "4CB3F279-910D-4D7E-9409-C0EBE38FC51C",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2022/01/24 16:20:26",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1643006984110600"
+  },
+  {
+    "user": "U0GFBAM8U",
+    "text": "私もそんな感じで",
+    "client_msg_id": "CE2DBBD1-4D17-46CA-AA09-21D41950B4BE",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2022/01/24 16:20:27",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1643006974110100"
+  },
+  {
+    "user": "U70QDFN82",
+    "text": "です。たしかに最初なんでPanicなんだ？って思ったけど下読んでいくうちに普通に忘れてましたね・・・",
+    "client_msg_id": "90254b0f-fbbf-41da-98dc-1669b8a6034f",
+    "name": "yutakatay",
+    "img": "https://avatars.slack-edge.com/2020-08-16/1302143736069_0baa468f7bea68e827d9_24.png",
+    "time": "2022/01/24 16:20:27",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1643006915109400"
+  },
+  {
+    "user": "U0GFBAM8U",
+    "text": "コメント見る限りでは割と純粋に人気ランキングぽい気もする",
+    "client_msg_id": "553AEBE7-A762-41CA-A2B8-4052D40A1EED",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2022/01/24 16:20:27",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1643006868108500"
+  },
+  {
+    "user": "U0GFBAM8U",
+    "text": "ロックバンド説もあるのか",
+    "client_msg_id": "23CE8F5E-CE61-4749-8FF0-E393CBE0CA60",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2022/01/24 16:20:28",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1643006791107500"
+  },
+  {
+    "user": "UD124KPDJ",
+    "text": "なるほど&lt;バンド",
+    "client_msg_id": "90a7a911-36d0-4dc3-947b-c6d6b0ed2456",
+    "name": "claude0803sz",
+    "img": "https://secure.gravatar.com/avatar/dc8d7b0277a1646d6842105241e8bef5.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0022-24.png",
+    "time": "2022/01/24 16:20:28",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1643006783107000"
+  },
+  {
+    "user": "U70QDFN82",
+    "text": "こういうのが一番むずい",
+    "client_msg_id": "7e2a3e2c-0d08-4e9a-9892-98d4910b59ac",
+    "name": "yutakatay",
+    "img": "https://avatars.slack-edge.com/2020-08-16/1302143736069_0baa468f7bea68e827d9_24.png",
+    "time": "2022/01/24 16:20:29",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1643006777106700"
+  },
+  {
+    "user": "U70QDFN82",
+    "text": "なるほど・・・",
+    "client_msg_id": "7f12b3f7-bce4-4888-aaa8-7e4d6fc71719",
+    "name": "yutakatay",
+    "img": "https://avatars.slack-edge.com/2020-08-16/1302143736069_0baa468f7bea68e827d9_24.png",
+    "time": "2022/01/24 16:20:29",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1643006772106400"
+  },
+  {
+    "user": "U017BNGTHT3",
+    "text": "タイトルはPanic! at the Disco(ロックバンド)のオマージュなんですかね。",
+    "client_msg_id": "afe8ef1d-516b-47e1-a836-2a7a354311df",
+    "name": "s5is",
+    "img": "https://avatars.slack-edge.com/2020-11-29/1531495219589_cf6a2f80ce7bb820ba38_24.png",
+    "time": "2022/01/24 16:20:29",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1643006762106200"
+  },
+  {
+    "user": "UD124KPDJ",
+    "text": "GitHub Englishというかスラングですかね。わからん",
+    "client_msg_id": "a8e40870-009e-4c8d-8673-7c3e9ada56a2",
+    "name": "claude0803sz",
+    "img": "https://secure.gravatar.com/avatar/dc8d7b0277a1646d6842105241e8bef5.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0022-24.png",
+    "time": "2022/01/24 16:20:30",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1643006729105700"
+  },
+  {
+    "user": "U70QDFN82",
+    "text": "こういうところだとGitHub語としての英語を話して欲しい・・・",
+    "client_msg_id": "578ea8f3-2fdd-472e-a45b-056e57b0a57b",
+    "name": "yutakatay",
+    "img": "https://avatars.slack-edge.com/2020-08-16/1302143736069_0baa468f7bea68e827d9_24.png",
+    "time": "2022/01/24 16:20:30",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1643006601104400"
+  },
+  {
+    "user": "U0GFBAM8U",
+    "text": "不安定ディストロ人気ランキング的な意味があるのか、わかんない",
+    "client_msg_id": "AE549620-CFA7-4406-9A97-6475BB4D8DB3",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2022/01/24 16:20:31",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1643006503103400"
+  },
+  {
+    "user": "U70QDFN82",
+    "text": "タイトルだと思ってました・・・どうなんでしょう・・・",
+    "client_msg_id": "5d0e13d0-e491-4124-8a38-7ab6e3fa8dab",
+    "name": "yutakatay",
+    "img": "https://avatars.slack-edge.com/2020-08-16/1302143736069_0baa468f7bea68e827d9_24.png",
+    "time": "2022/01/24 16:20:31",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1643006457102200"
+  },
+  {
+    "user": "U0GFBAM8U",
+    "text": "ちなみに、panicってタイトルなのか、カーネルパニックなどを揶揄して壊れやすいという意味なのか、良くわかってないんですけど、どうなんでしょう",
+    "client_msg_id": "BA2A7F74-35F8-4184-B350-AE6AF0419391",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2022/01/24 16:20:31",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1643006329101600"
+  },
+  {
+    "user": "U0GFBAM8U",
+    "text": "私はやっぱシンプルなarchの方が好きですね",
+    "client_msg_id": "C1F840BE-145D-44B4-BF6D-CDF7086374AE",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2022/01/24 16:20:32",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1643006218099800"
+  },
+  {
+    "user": "U0GFBAM8U",
+    "text": "あーそれでか\n全然趣向が違うのにって思ってた",
+    "client_msg_id": "6FF990B4-A922-4FEF-BE1F-1A11F862890C",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2022/01/24 16:20:32",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1643006191099100"
+  },
+  {
+    "user": "U70QDFN82",
+    "text": "",
+    "client_msg_id": "ad549df3-eaf1-4f23-bfd0-5accbe0c8cc3",
+    "name": "yutakatay",
+    "img": "https://avatars.slack-edge.com/2020-08-16/1302143736069_0baa468f7bea68e827d9_24.png",
+    "time": "2022/01/24 16:20:32",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1643006173098500"
+  },
+  {
+    "user": "U70QDFN82",
+    "text": "ちなみに決勝がFedoraとなのはトーナメントの弊害ですね・・・\nArchがいる上ブロックがやたら強かった（Ubuntu,Debian,SUSE,Gentoo）",
+    "client_msg_id": "7e18d36e-eafd-4a69-9f7d-f04fd784e597",
+    "name": "yutakatay",
+    "img": "https://avatars.slack-edge.com/2020-08-16/1302143736069_0baa468f7bea68e827d9_24.png",
+    "time": "2022/01/24 16:20:33",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1643006141098300"
+  },
+  {
+    "user": "U70QDFN82",
+    "text": "CIで各種ディストリビューションからよくパッケージ更新してますけど、落ちるのだいたいFedoraかCent",
+    "client_msg_id": "995f6081-152e-4bb8-97a7-3b3713aeaea8",
+    "name": "yutakatay",
+    "img": "https://avatars.slack-edge.com/2020-08-16/1302143736069_0baa468f7bea68e827d9_24.png",
+    "time": "2022/01/24 16:20:33",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1643005950097100"
+  },
+  {
+    "user": "U70QDFN82",
+    "text": "そうなんですかね？個人的にはdnfが全然いいと思わないですけど・・・",
+    "client_msg_id": "f38e3d1c-88c6-4c4a-a4d1-c05cca1d5c4a",
+    "name": "yutakatay",
+    "img": "https://avatars.slack-edge.com/2020-08-16/1302143736069_0baa468f7bea68e827d9_24.png",
+    "time": "2022/01/24 16:20:34",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1643005905096300"
+  },
+  {
+    "user": "U0GFBAM8U",
+    "text": "fedora、最近人気なんです?\n乗り換えた人がちらほら",
+    "client_msg_id": "957C6423-6EFB-4EC5-8735-30FCFE9A812B",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2022/01/24 16:20:34",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1643005725095600"
+  },
+  {
     "user": "U70QDFN82",
     "text": "こっちだった\n<https://www.reddit.com/r/linuxmasterrace/comments/sb0i45/arch_linux_vs_fedora_panic_at_the_distro/>",
     "client_msg_id": "b4230a64-2e94-476a-b80c-b035592f2e5b",
     "name": "yutakatay",
     "img": "https://avatars.slack-edge.com/2020-08-16/1302143736069_0baa468f7bea68e827d9_24.png",
-    "time": "2022/01/24 13:27:25",
+    "time": "2022/01/24 16:20:34",
     "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1642997855094000"
   },
   {
