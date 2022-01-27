@@ -1,11 +1,344 @@
 [
   {
+    "user": "U0PM6EYR1",
+    "text": "",
+    "client_msg_id": "27ba3bcc-02c0-4945-89bf-6d38fbd05cdc",
+    "name": "raa0121",
+    "img": "https://secure.gravatar.com/avatar/35b032d7b2d4182b0c2de1ef85ba91f2.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0009-24.png",
+    "time": "2022/01/27 12:21:11",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1643252885927019"
+  },
+  {
+    "user": "UGA29R3FH",
+    "text": "terminfoが別個にいるけど一応動く",
+    "client_msg_id": "6f88e1c1-0b14-4380-9988-188ba65e1f36",
+    "name": "znmxodq1",
+    "img": "https://avatars.slack-edge.com/2019-03-08/570571829091_2ca91fb0cc1ed2341fe0_24.png",
+    "time": "2022/01/27 12:21:11",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1643252346021099"
+  },
+  {
+    "user": "UVB7L4CKH",
+    "text": "マルチステージビルドは割と癖になってる",
+    "client_msg_id": "e01f59d4-7a7e-487a-8b61-e0fa5c8fa76a",
+    "name": "tatsumigamou",
+    "img": "https://avatars.slack-edge.com/2020-03-12/985313571153_203fee630d3a4a1053a1_24.jpg",
+    "time": "2022/01/27 12:21:12",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1643252335558009"
+  },
+  {
+    "user": "UGA29R3FH",
+    "text": "staticビルドしたVimだけが入ったコンテナを作ったことがある",
+    "client_msg_id": "4dd9a572-bc90-432f-9482-3578a6e317a1",
+    "name": "znmxodq1",
+    "img": "https://avatars.slack-edge.com/2019-03-08/570571829091_2ca91fb0cc1ed2341fe0_24.png",
+    "time": "2022/01/27 12:21:12",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1643252326426849"
+  },
+  {
+    "user": "UVB7L4CKH",
+    "text": "コンテナダイエット、ヤバい人はscratchイメージ使っちゃうので……",
+    "client_msg_id": "246689d0-f55b-465a-8a81-f6ebf7648ea5",
+    "name": "tatsumigamou",
+    "img": "https://avatars.slack-edge.com/2020-03-12/985313571153_203fee630d3a4a1053a1_24.jpg",
+    "time": "2022/01/27 12:21:12",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1643252260762819"
+  },
+  {
+    "user": "U0PM6EYR1",
+    "text": "alpine「お願い musl！めっちゃ(イメージサイズ)痩せたい！」",
+    "client_msg_id": "6ebb1a67-004f-4039-bc24-ae2a7f87563c",
+    "name": "raa0121",
+    "img": "https://secure.gravatar.com/avatar/35b032d7b2d4182b0c2de1ef85ba91f2.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0009-24.png",
+    "time": "2022/01/27 12:21:13",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1643251753876559"
+  },
+  {
+    "user": "U017BNGTHT3",
+    "text": "軽量でSystemdでglibcで癖が少ないのはArchぐらいか…",
+    "client_msg_id": "7b6c3992-81e5-4ffa-ab0c-d195e80d0623",
+    "name": "s5is",
+    "img": "https://avatars.slack-edge.com/2020-11-29/1531495219589_cf6a2f80ce7bb820ba38_24.png",
+    "time": "2022/01/27 12:21:13",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1643251746330409"
+  },
+  {
+    "user": "UGA29R3FH",
+    "text": "最近のシングルバイナリ文化と何気に相性が悪い",
+    "client_msg_id": "9736fa5b-9c29-4a98-9944-2e48946c132f",
+    "name": "znmxodq1",
+    "img": "https://avatars.slack-edge.com/2019-03-08/570571829091_2ca91fb0cc1ed2341fe0_24.png",
+    "time": "2022/01/27 12:21:14",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1643251729253769"
+  },
+  {
+    "user": "U70QDFN82",
+    "text": "やつは軽さと引き換えに大切なものを奪っていきました\nあなたの時間です",
+    "client_msg_id": "99fefd06-ee7f-4101-b08c-e939d0eb7ae4",
+    "name": "yutakatay",
+    "img": "https://avatars.slack-edge.com/2020-08-16/1302143736069_0baa468f7bea68e827d9_24.png",
+    "time": "2022/01/27 12:21:14",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1643251723313639"
+  },
+  {
+    "user": "UGA29R3FH",
+    "text": "バイナリ配布されてると詰む(大抵glibcでビルドされてるので)",
+    "client_msg_id": "400b074a-3e54-4deb-9aa3-0ffef63c74a0",
+    "name": "znmxodq1",
+    "img": "https://avatars.slack-edge.com/2019-03-08/570571829091_2ca91fb0cc1ed2341fe0_24.png",
+    "time": "2022/01/27 12:21:14",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1643251699137549"
+  },
+  {
+    "user": "U0GFBAM8U",
+    "text": "パッケージ入れても動かないから依存解消して結局時間がかかっちゃう",
+    "client_msg_id": "7D7CBB4C-377B-4798-8FBD-E6E19DEB6507",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2022/01/27 12:21:15",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1643251670809309"
+  },
+  {
+    "user": "U6DL9D3AB",
+    "text": "musl, musl, alpineはmusl",
+    "client_msg_id": "1b9d3f0d-f03a-4fb1-965b-e2c11a7c8907",
+    "name": "emtee",
+    "img": "https://avatars.slack-edge.com/2017-08-24/232261947719_1bb4d925e48fdfd0a154_24.png",
+    "time": "2022/01/27 12:21:15",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1643251660810339"
+  },
+  {
+    "user": "U0GFBAM8U",
+    "text": "ほんとそうなんですよね、笑",
+    "client_msg_id": "67AD7191-B4D5-4FF3-AE5A-BBE91C5AACB0",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2022/01/27 12:21:16",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1643251628939439"
+  },
+  {
+    "user": "U6DL9D3AB",
+    "text": "Alpineを使う時はまっするまっすると頭の中で唱えながら依存をどうにかするというのをやりがち（個人の感想です）",
+    "client_msg_id": "9b4e0593-4d05-4f07-8420-2d1df8588ac5",
+    "name": "emtee",
+    "img": "https://avatars.slack-edge.com/2017-08-24/232261947719_1bb4d925e48fdfd0a154_24.png",
+    "time": "2022/01/27 12:21:16",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1643251593335739"
+  },
+  {
+    "user": "U70QDFN82",
+    "text": "おお、長年の疑問が解決された",
+    "client_msg_id": "2ff4e5e0-38bc-4f69-97a6-923f33834601",
+    "name": "yutakatay",
+    "img": "https://avatars.slack-edge.com/2020-08-16/1302143736069_0baa468f7bea68e827d9_24.png",
+    "time": "2022/01/27 12:21:16",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1643251504144979"
+  },
+  {
+    "user": "UGA29R3FH",
+    "text": "pacmanも先にldconfig走らせておくと速い",
+    "client_msg_id": "424a35f1-e386-4854-87a4-166a1e2dfeec",
+    "name": "znmxodq1",
+    "img": "https://avatars.slack-edge.com/2019-03-08/570571829091_2ca91fb0cc1ed2341fe0_24.png",
+    "time": "2022/01/27 12:21:17",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1643251484933879"
+  },
+  {
+    "user": "UGA29R3FH",
+    "text": "Alpine、パッケージのインストール速いのすげーとか思ってたけどldconfigすっ飛ばしてるからだということに最近気付いた",
+    "client_msg_id": "4b3b8bca-2236-4843-9b7b-ce8bc3bfcc77",
+    "name": "znmxodq1",
+    "img": "https://avatars.slack-edge.com/2019-03-08/570571829091_2ca91fb0cc1ed2341fe0_24.png",
+    "time": "2022/01/27 12:21:17",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1643251463569449"
+  },
+  {
+    "user": "U0GFBAM8U",
+    "text": "archはなんだかんだパッケージ入れたら動きますからね(動くことが多いと感じてる",
+    "client_msg_id": "73F4581E-A720-4076-A2AD-6AE91BD7CE4A",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2022/01/27 12:21:18",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1643251359666809"
+  },
+  {
+    "user": "UGA29R3FH",
+    "text": "自前コンテナは全部Archだな、外に出す時は絶対Ubuntu",
+    "client_msg_id": "aa1d7810-241b-4ddd-b97d-300621b2b134",
+    "name": "znmxodq1",
+    "img": "https://avatars.slack-edge.com/2019-03-08/570571829091_2ca91fb0cc1ed2341fe0_24.png",
+    "time": "2022/01/27 12:21:18",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1643251320643329"
+  },
+  {
+    "user": "U017BNGTHT3",
+    "text": "ラズパイ、うちのは結局全部ArchARMで動いてる。",
+    "client_msg_id": "2fbb6a2e-3a85-4f69-98ea-697e53ef97a4",
+    "name": "s5is",
+    "img": "https://avatars.slack-edge.com/2020-11-29/1531495219589_cf6a2f80ce7bb820ba38_24.png",
+    "time": "2022/01/27 12:21:18",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1643251313780189"
+  },
+  {
+    "user": "U0GFBAM8U",
+    "text": "alpineはdockerでたまに使うけど、つまづく",
+    "client_msg_id": "69E64506-E83D-4E1A-BCED-74A46E18DBA0",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2022/01/27 12:21:19",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1643251287115699"
+  },
+  {
+    "user": "U0GFBAM8U",
+    "text": "archベースのものも多いですし、pacmanやpacmanをベースにしたパッケージマネージャーも非常に多く、最近ではゲーム機もarchベースで入ってるみたいなものが出てきて、それって結局、シンプルでわかりやすい、使いやすいってことなんだと思う",
+    "client_msg_id": "C489DF2D-4119-4B05-A6D5-9470DFE6C060",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2022/01/27 12:21:19",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1643251256172089"
+  },
+  {
+    "user": "U70QDFN82",
+    "text": "alpineは嫌いだな",
+    "client_msg_id": "57aaf588-907b-4912-9549-d57294b040f4",
+    "name": "yutakatay",
+    "img": "https://avatars.slack-edge.com/2020-08-16/1302143736069_0baa468f7bea68e827d9_24.png",
+    "time": "2022/01/27 12:21:19",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1643251245528269"
+  },
+  {
+    "user": "UGA29R3FH",
+    "text": "無念",
+    "client_msg_id": "4d1d37e1-608f-4343-b7fa-5dffcdabdc34",
+    "name": "znmxodq1",
+    "img": "https://avatars.slack-edge.com/2019-03-08/570571829091_2ca91fb0cc1ed2341fe0_24.png",
+    "time": "2022/01/27 12:21:20",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1643251223368769"
+  },
+  {
+    "user": "U017BNGTHT3",
+    "text": "そういえばOpenRCだから無理だ",
+    "client_msg_id": "98c5e1d0-3b6f-4316-9edc-37559836c428",
+    "name": "s5is",
+    "img": "https://avatars.slack-edge.com/2020-11-29/1531495219589_cf6a2f80ce7bb820ba38_24.png",
+    "time": "2022/01/27 12:21:20",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1643251216054169"
+  },
+  {
+    "user": "UGA29R3FH",
+    "text": "alpineってsystemdなんでしたっけ(単体で起動したことがない)",
+    "client_msg_id": "abce5948-9ec2-4dac-9803-c60ae4ff8810",
+    "name": "znmxodq1",
+    "img": "https://avatars.slack-edge.com/2019-03-08/570571829091_2ca91fb0cc1ed2341fe0_24.png",
+    "time": "2022/01/27 12:21:21",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1643251206045139"
+  },
+  {
+    "user": "U017BNGTHT3",
+    "text": "個人的にAlpineからNspawnとかでArch起動してX使うとか攻めた運用も試してみたい。",
+    "client_msg_id": "a239c82c-795a-4b31-a5c2-c3fd32532217",
+    "name": "s5is",
+    "img": "https://avatars.slack-edge.com/2020-11-29/1531495219589_cf6a2f80ce7bb820ba38_24.png",
+    "time": "2022/01/27 12:21:21",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1643251150775399"
+  },
+  {
+    "user": "U017BNGTHT3",
+    "text": "環境構築も運用も楽なんだけど慣れるまでにArchの方が気軽だなって。",
+    "client_msg_id": "1c3f661b-089f-41e3-b8a1-5cfdf42c375a",
+    "name": "s5is",
+    "img": "https://avatars.slack-edge.com/2020-11-29/1531495219589_cf6a2f80ce7bb820ba38_24.png",
+    "time": "2022/01/27 12:21:21",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1643251046603059"
+  },
+  {
+    "user": "U0GFBAM8U",
+    "text": "それにarchの強みの一つに、さまざまなところのコアとして使われてるっていうのがあります\nこれがなくならない限り移行はなさそう",
+    "client_msg_id": "0821AD2F-ED4E-41F2-BE4E-F523C118214C",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2022/01/27 12:21:22",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1643251021582899"
+  },
+  {
+    "user": "U0GFBAM8U",
+    "text": "運用が苦しくなりそうな(楽しくないと辛い",
+    "client_msg_id": "C2BEA295-8901-4AA6-B395-CA4605AAC874",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2022/01/27 12:21:22",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1643250966133959"
+  },
+  {
+    "user": "U70QDFN82",
+    "text": "ある程度雑に管理したいから私も無理だった",
+    "client_msg_id": "cbf14cd8-2003-4fe0-a3f6-28a4f904bdaf",
+    "name": "yutakatay",
+    "img": "https://avatars.slack-edge.com/2020-08-16/1302143736069_0baa468f7bea68e827d9_24.png",
+    "time": "2022/01/27 12:21:23",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1643250961222769"
+  },
+  {
+    "user": "U0GFBAM8U",
+    "text": "nixは面白そうだけど、多分、使わないだろうなあ、あくまで個人的には",
+    "client_msg_id": "18C600D1-0290-4EE5-A86D-B6D62D354A63",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2022/01/27 12:21:23",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1643250928669989"
+  },
+  {
+    "user": "U017BNGTHT3",
+    "text": "Nix OS、Arch感覚で使おうと思うと苦しかったので難しい。",
+    "client_msg_id": "39f2c3c5-e264-4fa9-afd6-5f87edf5ee06",
+    "name": "s5is",
+    "img": "https://avatars.slack-edge.com/2020-11-29/1531495219589_cf6a2f80ce7bb820ba38_24.png",
+    "time": "2022/01/27 12:21:23",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1643250914935949"
+  },
+  {
+    "user": "UGA29R3FH",
+    "text": "後はQubesみたいに尖ってるやつ",
+    "client_msg_id": "3648c065-b515-4908-a33f-444d5bfedd59",
+    "name": "znmxodq1",
+    "img": "https://avatars.slack-edge.com/2019-03-08/570571829091_2ca91fb0cc1ed2341fe0_24.png",
+    "time": "2022/01/27 12:21:24",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1643250879763409"
+  },
+  {
+    "user": "U70QDFN82",
+    "text": "Nixちょっと前まで興味あったけど最近なくなっちゃった・・・",
+    "client_msg_id": "19de32d8-4e8d-4fb2-99c6-ffe3e19b259a",
+    "name": "yutakatay",
+    "img": "https://avatars.slack-edge.com/2020-08-16/1302143736069_0baa468f7bea68e827d9_24.png",
+    "time": "2022/01/27 12:21:24",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1643250851764619"
+  },
+  {
+    "user": "U0GFBAM8U",
+    "text": "環境構築が好きな人や突き詰める人、構築を苦だと思わない人はarchがあってると思います。",
+    "client_msg_id": "421EACBC-1F2E-430A-8217-C650996FCF23",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2022/01/27 12:21:25",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1643250837775089"
+  },
+  {
+    "user": "UGA29R3FH",
+    "text": "そもそも怠惰だしArch気に入ってるしで乗り換える気がない",
+    "client_msg_id": "cadf7210-c79e-40a6-9d7a-f1d7759fc699",
+    "name": "znmxodq1",
+    "img": "https://avatars.slack-edge.com/2019-03-08/570571829091_2ca91fb0cc1ed2341fe0_24.png",
+    "time": "2022/01/27 12:21:25",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1643250830508699"
+  },
+  {
     "user": "UGA29R3FH",
     "text": "現時点での乗り換え候補を出すとしたらNixかGuixくらいだなー",
     "client_msg_id": "5b2db8d5-0246-4770-9951-0ba1706f5c88",
     "name": "znmxodq1",
     "img": "https://avatars.slack-edge.com/2019-03-08/570571829091_2ca91fb0cc1ed2341fe0_24.png",
-    "time": "2022/01/27 11:33:26",
+    "time": "2022/01/27 12:21:25",
     "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1643250796179699"
   },
   {
