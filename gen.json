@@ -1,11 +1,146 @@
 [
   {
+    "user": "U02BLTTQEL9",
+    "text": "Gitlab だとユーザー配下にリポジトリできるからだめそう。",
+    "client_msg_id": "65c9f656-05d4-460a-a111-2eb31beea6c7",
+    "name": "buzz.taiki",
+    "img": "https://avatars.slack-edge.com/2021-08-15/2388525195124_53543ae8a9c6189fc784_24.jpg",
+    "time": "2022/01/28 13:27:18",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1643341431290889"
+  },
+  {
+    "user": "U0J2VATJA",
+    "text": "AUR はレビュー無しに投稿できるので、GitHub でそれを再現するのは難しいですよね",
+    "client_msg_id": "dec518f8-b524-4369-82e4-169c132621e6",
+    "name": "atnanasi",
+    "img": "https://avatars.slack-edge.com/2019-12-06/854879587169_f400d770c326c0b89e03_24.jpg",
+    "time": "2022/01/28 13:27:19",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1643341347237049"
+  },
+  {
+    "user": "U02BLTTQEL9",
+    "text": "セルフホストの GItlab なら今の仕組みを踏襲しつつ何かってのがやれそうな気がしなくもない。",
+    "client_msg_id": "5509b0db-d9a3-417e-95b8-f3b0a51e20a9",
+    "name": "buzz.taiki",
+    "img": "https://avatars.slack-edge.com/2021-08-15/2388525195124_53543ae8a9c6189fc784_24.jpg",
+    "time": "2022/01/28 13:27:19",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1643341331611319"
+  },
+  {
+    "user": "U0PM6EYR1",
+    "text": "msys2 のパッケージも1リポジトリでやってますね",
+    "client_msg_id": "114a7a3e-0e6f-44ff-8091-bea94104ac9a",
+    "name": "raa0121",
+    "img": "https://secure.gravatar.com/avatar/35b032d7b2d4182b0c2de1ef85ba91f2.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0009-24.png",
+    "time": "2022/01/28 13:27:19",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1643341128143879"
+  },
+  {
+    "user": "UGA29R3FH",
+    "text": "AURの規模でそれをやるのはきつそう",
+    "client_msg_id": "28ef2a17-663d-4715-bea3-1e5eb13d2c60",
+    "name": "znmxodq1",
+    "img": "https://avatars.slack-edge.com/2019-03-08/570571829091_2ca91fb0cc1ed2341fe0_24.png",
+    "time": "2022/01/28 13:27:20",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1643341016330849"
+  },
+  {
+    "user": "UGA29R3FH",
+    "text": "管理できるならそれが一番楽な気はします、管理できるなら",
+    "client_msg_id": "b1fcd565-757d-41db-90be-6f4bc4739f61",
+    "name": "znmxodq1",
+    "img": "https://avatars.slack-edge.com/2019-03-08/570571829091_2ca91fb0cc1ed2341fe0_24.png",
+    "time": "2022/01/28 13:27:20",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1643341008323239"
+  },
+  {
+    "user": "U02BLTTQEL9",
+    "text": "AUR は PKGBUILD に何か問題があったときに差分を簡単にやりとりできないのがめんどいなーとか思いますね。",
+    "client_msg_id": "45c6af5f-5299-41e0-b6c7-f7f08b4d03c4",
+    "name": "buzz.taiki",
+    "img": "https://avatars.slack-edge.com/2021-08-15/2388525195124_53543ae8a9c6189fc784_24.jpg",
+    "time": "2022/01/28 13:27:21",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1643340758411529"
+  },
+  {
+    "user": "U02BLTTQEL9",
+    "text": "たしかこいつ\n<https://gitlab.archlinux.org/archlinux/aurweb/-/blob/master/aurweb/git/update.py>",
+    "client_msg_id": "0b2938a5-745a-417c-88ec-e2d5050ebb2f",
+    "name": "buzz.taiki",
+    "img": "https://avatars.slack-edge.com/2021-08-15/2388525195124_53543ae8a9c6189fc784_24.jpg",
+    "time": "2022/01/28 13:27:21",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1643340544077509"
+  },
+  {
+    "user": "UVB7L4CKH",
+    "text": "あー、そういうのはありましたね",
+    "client_msg_id": "870ac695-a773-4226-a1ea-8e8d3f30c0ae",
+    "name": "tatsumigamou",
+    "img": "https://avatars.slack-edge.com/2020-03-12/985313571153_203fee630d3a4a1053a1_24.jpg",
+    "time": "2022/01/28 13:27:21",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1643340369847049"
+  },
+  {
+    "user": "U02BLTTQEL9",
+    "text": "git の server hook でいろいろやってて、そこでチェックかけたたりする。",
+    "client_msg_id": "bdf38257-9b45-4440-b666-d70978729344",
+    "name": "buzz.taiki",
+    "img": "https://avatars.slack-edge.com/2021-08-15/2388525195124_53543ae8a9c6189fc784_24.jpg",
+    "time": "2022/01/28 13:27:22",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1643340309326119"
+  },
+  {
+    "user": "UVB7L4CKH",
+    "text": "まあ最悪squashしてもいい気はするけど",
+    "client_msg_id": "a0fc8f34-69a0-4d90-a08b-0b2ca56179a5",
+    "name": "tatsumigamou",
+    "img": "https://avatars.slack-edge.com/2020-03-12/985313571153_203fee630d3a4a1053a1_24.jpg",
+    "time": "2022/01/28 13:27:22",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1643340307573959"
+  },
+  {
+    "user": "UGA29R3FH",
+    "text": "PKGBUILDをビルドするActionは見たことあるな",
+    "client_msg_id": "527e6b4a-50e7-4160-821f-eeea3b355e32",
+    "name": "znmxodq1",
+    "img": "https://avatars.slack-edge.com/2019-03-08/570571829091_2ca91fb0cc1ed2341fe0_24.png",
+    "time": "2022/01/28 13:27:23",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1643340301903849"
+  },
+  {
+    "user": "UVB7L4CKH",
+    "text": "あれ、そういうポリシーとかあるんでしたっけ\n公開した事ないので知らなかった",
+    "client_msg_id": "cc4d3095-5386-416b-bf68-ec41d0b5e502",
+    "name": "tatsumigamou",
+    "img": "https://avatars.slack-edge.com/2020-03-12/985313571153_203fee630d3a4a1053a1_24.jpg",
+    "time": "2022/01/28 13:27:23",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1643340275844279"
+  },
+  {
+    "user": "U02BLTTQEL9",
+    "text": "途中のコミットが AUR の都合に会ってないとpushできないのとかがわりとかなしい。",
+    "client_msg_id": "ba56bc8f-3e56-4df3-a8d9-6f08722e1d5b",
+    "name": "buzz.taiki",
+    "img": "https://avatars.slack-edge.com/2021-08-15/2388525195124_53543ae8a9c6189fc784_24.jpg",
+    "time": "2022/01/28 13:27:23",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1643340253848469"
+  },
+  {
+    "user": "U0J2VATJA",
+    "text": "裏はただの Git なので、 GitHub Actions とかで master に push されたら AUR 側にも push する、みたいな事をすれば、GitHub 側で PKGBUILD をメンテしつつ AUR で公開できそうですね",
+    "client_msg_id": "1ac24299-3e60-468b-8392-1348eb115f2d",
+    "name": "atnanasi",
+    "img": "https://avatars.slack-edge.com/2019-12-06/854879587169_f400d770c326c0b89e03_24.jpg",
+    "time": "2022/01/28 13:27:24",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1643340220213349"
+  },
+  {
     "user": "UVB7L4CKH",
     "text": "org使うよりは今の方が楽だって話ですよね\n野良PKGBUILD、使ってる本人ですら滅多にメンテナンスしない説もあり……",
     "client_msg_id": "9c947fb1-5676-47a7-8c7f-8d40fae3f5de",
     "name": "tatsumigamou",
     "img": "https://avatars.slack-edge.com/2020-03-12/985313571153_203fee630d3a4a1053a1_24.jpg",
-    "time": "2022/01/28 12:20:45",
+    "time": "2022/01/28 13:27:24",
     "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1643339920041449"
   },
   {
