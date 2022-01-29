@@ -1,11 +1,911 @@
 [
   {
+    "user": "U0GFBAM8U",
+    "text": "そういえば、動物アイコンが多いのってvimだけなのか、全般的に多いのかってのは少し気になる",
+    "client_msg_id": "1fe719f5-b889-4311-8a7d-c75ea609db8a",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2022/01/29 21:27:45",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1643458398545199"
+  },
+  {
+    "user": "U0GFBAM8U",
+    "text": "アイコンのが個性がでて好きだなって思います",
+    "client_msg_id": "539aabb2-43be-458a-82ce-480844db8ff3",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2022/01/29 21:27:45",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1643458351292549"
+  },
+  {
+    "user": "U8T8KB5M4",
+    "text": "とはいえ自分はcommitとかには実名入れてるから紐づける気になればいくらでもという感じ。そんなこと思う稀有な人がいないだけで。",
+    "client_msg_id": "4f1a99d4-4d3c-4f0f-9501-a252e51ff4ec",
+    "name": "h.hata.ai.t",
+    "img": "https://avatars.slack-edge.com/2019-08-19/732537331990_536f34e28226326cb4e8_24.png",
+    "time": "2022/01/29 21:27:46",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1643458136030699"
+  },
+  {
+    "user": "UGA29R3FH",
+    "text": "めっちゃ手が込んでるw",
+    "client_msg_id": "03e66b24-609d-417e-bb6f-6f8e032df7bd",
+    "name": "znmxodq1",
+    "img": "https://avatars.slack-edge.com/2019-03-08/570571829091_2ca91fb0cc1ed2341fe0_24.png",
+    "time": "2022/01/29 21:27:46",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1643458000182369"
+  },
+  {
+    "user": "U8T8KB5M4",
+    "text": "Gravatarの自分のアイコンを自分だけでリバプロで",
+    "client_msg_id": "1c5e3b1e-8232-4ea8-a6ca-2d5850616d21",
+    "name": "h.hata.ai.t",
+    "img": "https://avatars.slack-edge.com/2019-08-19/732537331990_536f34e28226326cb4e8_24.png",
+    "time": "2022/01/29 21:27:46",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1643457983210989"
+  },
+  {
+    "user": "U70QDFN82",
+    "text": "あ、アカウントとは紐付いてないのか",
+    "client_msg_id": "bf726b47-680d-47b5-b65e-a985d3786644",
+    "name": "yutakatay",
+    "img": "https://avatars.slack-edge.com/2020-08-16/1302143736069_0baa468f7bea68e827d9_24.png",
+    "time": "2022/01/29 21:27:47",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1643457979156089"
+  },
+  {
+    "user": "UGA29R3FH",
+    "text": "Facebook的世界と対極に位置したい",
+    "client_msg_id": "5e6f3bcf-acb9-404d-a832-a49d55e50085",
+    "name": "znmxodq1",
+    "img": "https://avatars.slack-edge.com/2019-03-08/570571829091_2ca91fb0cc1ed2341fe0_24.png",
+    "time": "2022/01/29 21:27:47",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1643457953929999"
+  },
+  {
+    "user": "U70QDFN82",
+    "text": "けどmichaelさんは一応顔出ししてますよね？？見た",
+    "client_msg_id": "7a5d751c-8010-4ba8-91e8-07b715a2787f",
+    "name": "yutakatay",
+    "img": "https://avatars.slack-edge.com/2020-08-16/1302143736069_0baa468f7bea68e827d9_24.png",
+    "time": "2022/01/29 21:27:47",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1643457942402939"
+  },
+  {
+    "user": "UGA29R3FH",
+    "text": "というか現実逃避にインターネットやってる節があるので現実性をあまり持ち込みたくないでござる",
+    "client_msg_id": "ef87147c-bc49-49e8-8db5-73ef8aea0b74",
+    "name": "znmxodq1",
+    "img": "https://avatars.slack-edge.com/2019-03-08/570571829091_2ca91fb0cc1ed2341fe0_24.png",
+    "time": "2022/01/29 21:27:48",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1643457935783119"
+  },
+  {
+    "user": "UGA29R3FH",
+    "text": "~自分には猫か何かに見えるハック~",
+    "client_msg_id": "f2b7ee4f-874e-4edb-b294-d5405305433c",
+    "name": "znmxodq1",
+    "img": "https://avatars.slack-edge.com/2019-03-08/570571829091_2ca91fb0cc1ed2341fe0_24.png",
+    "time": "2022/01/29 21:27:48",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1643457874279049"
+  },
+  {
+    "user": "U8T8KB5M4",
+    "text": "自分はなによりそんなに自分の顔写真みたくない。絶対自分が一番見ることになるので。",
+    "client_msg_id": "0e5acb37-1d90-4305-b326-db6ad27ce142",
+    "name": "h.hata.ai.t",
+    "img": "https://avatars.slack-edge.com/2019-08-19/732537331990_536f34e28226326cb4e8_24.png",
+    "time": "2022/01/29 21:27:49",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1643457811660569"
+  },
+  {
+    "user": "U0187SHUN1Z",
+    "text": "エンジニアのSNSは9割ネタと趣味、1割マジメだもんなぁ",
+    "client_msg_id": "dca12e3c-2cb7-4f08-aee0-668178211868",
+    "name": "ochimasumi",
+    "img": "https://avatars.slack-edge.com/2022-01-29/3029074417012_2b9015401fe5d3be46ed_24.png",
+    "time": "2022/01/29 21:27:49",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1643457762674379"
+  },
+  {
+    "user": "UGA29R3FH",
+    "text": "似非プログラマーなので偽名を名乗っています",
+    "client_msg_id": "a864c9c0-db4b-45cf-b17d-6ad7e2513926",
+    "name": "znmxodq1",
+    "img": "https://avatars.slack-edge.com/2019-03-08/570571829091_2ca91fb0cc1ed2341fe0_24.png",
+    "time": "2022/01/29 21:27:49",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1643457738886629"
+  },
+  {
+    "user": "U0PM6EYR1",
+    "text": "楽しい雑談だけどフロリダ",
+    "client_msg_id": "de6ed601-b626-4ff3-a8f5-05b7a0b9373d",
+    "name": "raa0121",
+    "img": "https://secure.gravatar.com/avatar/35b032d7b2d4182b0c2de1ef85ba91f2.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0009-24.png",
+    "time": "2022/01/29 21:27:50",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1643457703521509"
+  },
+  {
+    "user": "U0187SHUN1Z",
+    "text": "江戸川コナンみがある",
+    "client_msg_id": "a309579b-4a92-4022-8417-815cc12466fb",
+    "name": "ochimasumi",
+    "img": "https://avatars.slack-edge.com/2022-01-29/3029074417012_2b9015401fe5d3be46ed_24.png",
+    "time": "2022/01/29 21:27:50",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1643457693664949"
+  },
+  {
+    "user": "UGA29R3FH",
+    "text": "架空の名前というとこれ",
+    "client_msg_id": "c08e26e4-67a1-49a5-81cb-938ba1fbbc4b",
+    "name": "znmxodq1",
+    "img": "https://avatars.slack-edge.com/2019-03-08/570571829091_2ca91fb0cc1ed2341fe0_24.png",
+    "time": "2022/01/29 21:27:50",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1643457680971469"
+  },
+  {
+    "user": "U02ASPM0A6T",
+    "text": "プログラマーを政治家や学者と同じような公人と捉えると実名になるのは自然なのかも。\nもちろんその分そういったアカウントでは気を使った表現になるんでしょうが",
+    "client_msg_id": "014fea84-5e92-450d-9024-93fff1b510f4",
+    "name": "yozigen",
+    "img": "https://avatars.slack-edge.com/2021-08-15/2405164316960_50d7f6e8be23e5b2a0eb_24.jpg",
+    "time": "2022/01/29 21:27:51",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1643457677696639"
+  },
+  {
+    "user": "UGA29R3FH",
+    "text": "<https://ja.wikipedia.org/wiki/%E3%83%8B%E3%82%B3%E3%83%A9%E3%83%BB%E3%83%96%E3%83%AB%E3%83%90%E3%82%AD>",
+    "client_msg_id": "b700fcbe-6006-4413-9818-641a4ab1b4ee",
+    "name": "znmxodq1",
+    "img": "https://avatars.slack-edge.com/2019-03-08/570571829091_2ca91fb0cc1ed2341fe0_24.png",
+    "time": "2022/01/29 21:27:51",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1643457674181059"
+  },
+  {
+    "user": "U0PM6EYR1",
+    "text": "アラン・スミシーとかも、めったに使われてないしな・・\n<https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%A9%E3%83%B3%E3%83%BB%E3%82%B9%E3%83%9F%E3%82%B7%E3%83%BC>",
+    "client_msg_id": "ef3be968-9e77-4d0f-a1f3-7ed8be9cd7ad",
+    "name": "raa0121",
+    "img": "https://secure.gravatar.com/avatar/35b032d7b2d4182b0c2de1ef85ba91f2.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0009-24.png",
+    "time": "2022/01/29 21:27:51",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1643457647128599"
+  },
+  {
+    "user": "UGA29R3FH",
+    "text": "雑談相手は求めている癖に人間が出てくると「うっ…」となるやつわかるな",
+    "client_msg_id": "9fc72018-a3b1-458c-b7cc-ede40687f9c0",
+    "name": "znmxodq1",
+    "img": "https://avatars.slack-edge.com/2019-03-08/570571829091_2ca91fb0cc1ed2341fe0_24.png",
+    "time": "2022/01/29 21:27:52",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1643457642467109"
+  },
+  {
+    "user": "U0187SHUN1Z",
+    "text": "そろそろQiitaで「エンジニアならネットでハンドルネームとアイコンはやめとけ」っていう記事がバズってもよさそう",
+    "client_msg_id": "67ef0183-075e-4c6b-a665-db1e5cc2b4bd",
+    "name": "ochimasumi",
+    "img": "https://avatars.slack-edge.com/2022-01-29/3029074417012_2b9015401fe5d3be46ed_24.png",
+    "time": "2022/01/29 21:27:52",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1643457635118399"
+  },
+  {
+    "user": "U0GFBAM8U",
+    "text": "ありますね",
+    "client_msg_id": "940dc587-3f31-43b5-b506-6995b3a052cc",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2022/01/29 21:27:53",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1643457601932349"
+  },
+  {
+    "user": "U02ASPM0A6T",
+    "text": "英語圏の出版物にはペンネーム文化があまりないって話は聞いたことがある",
+    "client_msg_id": "6eb684ea-ba15-445c-832f-6a7c53b3522b",
+    "name": "yozigen",
+    "img": "https://avatars.slack-edge.com/2021-08-15/2405164316960_50d7f6e8be23e5b2a0eb_24.jpg",
+    "time": "2022/01/29 21:27:53",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1643457576678199"
+  },
+  {
+    "user": "U0187SHUN1Z",
+    "text": "人間らしい人間との会話つらい",
+    "client_msg_id": "37b0c4ee-d6b4-48aa-abff-6f9c30497f71",
+    "name": "ochimasumi",
+    "img": "https://avatars.slack-edge.com/2022-01-29/3029074417012_2b9015401fe5d3be46ed_24.png",
+    "time": "2022/01/29 21:27:53",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1643457548891029"
+  },
+  {
+    "user": "U0PM6EYR1",
+    "text": "怪しいというか、アニメアイコン系で整ってるTLに顔写真が交じると嫌悪感が…",
+    "client_msg_id": "6df98215-c673-4a4f-ad12-370b502c62d8",
+    "name": "raa0121",
+    "img": "https://secure.gravatar.com/avatar/35b032d7b2d4182b0c2de1ef85ba91f2.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0009-24.png",
+    "time": "2022/01/29 21:27:54",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1643457512920309"
+  },
+  {
+    "user": "U0GFBAM8U",
+    "text": "ちょっとわかる",
+    "client_msg_id": "9a1420b9-f7b9-4ae3-b539-4e0c789153d2",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2022/01/29 21:27:54",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1643457465367469"
+  },
+  {
+    "user": "U8T8KB5M4",
+    "text": "確かにネットワークビジネス系のtwitterアカウントは軒並み顔写真な気がしてきた。",
+    "client_msg_id": "1ced8269-278a-4f76-81dd-65036075ad21",
+    "name": "h.hata.ai.t",
+    "img": "https://avatars.slack-edge.com/2019-08-19/732537331990_536f34e28226326cb4e8_24.png",
+    "time": "2022/01/29 21:27:54",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1643457465331089"
+  },
+  {
+    "user": "U0GFBAM8U",
+    "text": "日本だと逆に顔写真、怪しいってなっちゃってるのか、笑",
+    "client_msg_id": "830866e7-f2e6-4843-94dd-c5fa1eb9f9cd",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2022/01/29 21:27:55",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1643457443522679"
+  },
+  {
+    "user": "U70QDFN82",
+    "text": "なるほど。それか！",
+    "client_msg_id": "a5750c1b-dc66-4c08-8f3d-524f66a46b27",
+    "name": "yutakatay",
+    "img": "https://avatars.slack-edge.com/2020-08-16/1302143736069_0baa468f7bea68e827d9_24.png",
+    "time": "2022/01/29 21:27:55",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1643457417846019"
+  },
+  {
+    "user": "U0187SHUN1Z",
+    "text": "顔写真=オンラインサロン　みたいな変なイメージついちゃってる",
+    "client_msg_id": "a5c650dc-9f3b-42bc-a14b-90f64fd3a7e0",
+    "name": "ochimasumi",
+    "img": "https://avatars.slack-edge.com/2022-01-29/3029074417012_2b9015401fe5d3be46ed_24.png",
+    "time": "2022/01/29 21:27:56",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1643457382619129"
+  },
+  {
+    "user": "U0PM6EYR1",
+    "text": "ぼく「ほー 〇〇が好きとはやりますねー(権利関係だいじょぶかなー)」",
+    "client_msg_id": "f316679e-a4dd-4406-b4ca-e3cb97e13609",
+    "name": "raa0121",
+    "img": "https://secure.gravatar.com/avatar/35b032d7b2d4182b0c2de1ef85ba91f2.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0009-24.png",
+    "time": "2022/01/29 21:27:56",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1643457381283189"
+  },
+  {
+    "user": "U6DL9D3AB",
+    "text": "権利関係だいじょぶかなー",
+    "client_msg_id": "FA8B447C-9D00-4E13-A7D2-C948D9ED7E64",
+    "name": "emtee",
+    "img": "https://avatars.slack-edge.com/2017-08-24/232261947719_1bb4d925e48fdfd0a154_24.png",
+    "time": "2022/01/29 21:27:56",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1643457363602339"
+  },
+  {
+    "user": "UGA29R3FH",
+    "text": "ぼく「アニメアイコンだなー」",
+    "client_msg_id": "74395c17-3c11-4edd-9860-4faa7a4e2910",
+    "name": "znmxodq1",
+    "img": "https://avatars.slack-edge.com/2019-03-08/570571829091_2ca91fb0cc1ed2341fe0_24.png",
+    "time": "2022/01/29 21:27:57",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1643457349307109"
+  },
+  {
+    "user": "U0GFBAM8U",
+    "text": "みなさんはどうですか?\n私はgithubでアニメアイコンの人見ると、できるなって推定がちょっとだけ働きます",
+    "client_msg_id": "3c84fa13-1ebd-4b44-8ff2-6ad8a9e41429",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2022/01/29 21:27:57",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1643457328023419"
+  },
+  {
+    "user": "UGA29R3FH",
+    "text": "日本人的感覚だと顔写真でキラキラしてると「こいつ…胡散臭いぞ…」となるのでやはりギャップが",
+    "client_msg_id": "0c6f23a0-bfb5-43fc-be4f-b1fccd5192fe",
+    "name": "znmxodq1",
+    "img": "https://avatars.slack-edge.com/2019-03-08/570571829091_2ca91fb0cc1ed2341fe0_24.png",
+    "time": "2022/01/29 21:27:57",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1643457274981539"
+  },
+  {
+    "user": "U0GFBAM8U",
+    "text": "やはりアメリカ圏とかだと顔写真のが信用されるっぽいのか",
+    "client_msg_id": "222e125e-a8f5-4279-ab47-6b0f41cc5011",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2022/01/29 21:27:58",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1643457224826799"
+  },
+  {
+    "user": "UGA29R3FH",
+    "text": "貴重なパケット(大嘘)が浪費されていく…",
+    "client_msg_id": "411effeb-e25e-4859-9673-56a4d1ea5b11",
+    "name": "znmxodq1",
+    "img": "https://avatars.slack-edge.com/2019-03-08/570571829091_2ca91fb0cc1ed2341fe0_24.png",
+    "time": "2022/01/29 21:27:58",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1643457171963359"
+  },
+  {
+    "user": "U0GFBAM8U",
+    "text": "出るけど、webだと3MBとか表示されますね",
+    "client_msg_id": "0c126195-01c9-4307-a6fc-6b5f4d5d82e7",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2022/01/29 21:27:58",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1643457167392559"
+  },
+  {
+    "user": "U8T8KB5M4",
+    "text": "アニメアイコンだったアメリカ人の知り合いがGitHub sponsorsに登録したときから顔写真になったの思い出した。",
+    "client_msg_id": "65b28b43-1f5b-43d7-ad29-b2da029b611c",
+    "name": "h.hata.ai.t",
+    "img": "https://avatars.slack-edge.com/2019-08-19/732537331990_536f34e28226326cb4e8_24.png",
+    "time": "2022/01/29 21:27:59",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1643457159436819"
+  },
+  {
+    "user": "U0GFBAM8U",
+    "text": "お、モバイルでは出た",
+    "client_msg_id": "8a30e06b-e7d5-497e-8561-4d69615da5d9",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2022/01/29 21:27:59",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1643457138965959"
+  },
+  {
+    "user": "U02ASPM0A6T",
+    "text": "3MB以上",
+    "client_msg_id": "518ccd78-a4d2-4f7b-9849-fd5ca4cff8b9",
+    "name": "yozigen",
+    "img": "https://avatars.slack-edge.com/2021-08-15/2405164316960_50d7f6e8be23e5b2a0eb_24.jpg",
+    "time": "2022/01/29 21:27:59",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1643457110291919"
+  },
+  {
+    "user": "U0PM6EYR1",
+    "text": "<https://c.tenor.com/9wSkctw61sUAAAAC/omotenashi-crystal.gif>",
+    "client_msg_id": "93b4407d-095f-47fb-a412-9d161196dd66",
+    "name": "raa0121",
+    "img": "https://secure.gravatar.com/avatar/35b032d7b2d4182b0c2de1ef85ba91f2.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0009-24.png",
+    "time": "2022/01/29 21:28:00",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1643457092210739"
+  },
+  {
+    "user": "U0187SHUN1Z",
+    "text": "日本人の信頼とか、思いやり、おもてなし文化ですね　大事にせねば",
+    "client_msg_id": "b4f18090-a81e-4128-a928-7430d27f4c73",
+    "name": "ochimasumi",
+    "img": "https://avatars.slack-edge.com/2022-01-29/3029074417012_2b9015401fe5d3be46ed_24.png",
+    "time": "2022/01/29 21:28:00",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1643457052812059"
+  },
+  {
+    "user": "U02ASPM0A6T",
+    "text": "公家とか武将は呪い避けに実名を明かさないように気を使ったって言うし",
+    "client_msg_id": "d8e630e0-1fe0-45b0-aa39-099e7eadfef1",
+    "name": "yozigen",
+    "img": "https://avatars.slack-edge.com/2021-08-15/2405164316960_50d7f6e8be23e5b2a0eb_24.jpg",
+    "time": "2022/01/29 21:28:00",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1643457035765929"
+  },
+  {
+    "user": "U0187SHUN1Z",
+    "text": "日本だとメルカリみたいに本人確認しなきゃな〜ｗ",
+    "client_msg_id": "515f2a5a-3162-48e9-843b-cbab0b6831b4",
+    "name": "ochimasumi",
+    "img": "https://avatars.slack-edge.com/2022-01-29/3029074417012_2b9015401fe5d3be46ed_24.png",
+    "time": "2022/01/29 21:28:01",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1643457004127169"
+  },
+  {
+    "user": "U02ASPM0A6T",
+    "text": "ああでも少なからず日本の場合無意識下でのデスノート感覚はあるかも",
+    "client_msg_id": "6478cceb-0f3d-4f27-aacf-41bbd871ef90",
+    "name": "yozigen",
+    "img": "https://avatars.slack-edge.com/2021-08-15/2405164316960_50d7f6e8be23e5b2a0eb_24.jpg",
+    "time": "2022/01/29 21:28:01",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1643456990883999"
+  },
+  {
+    "user": "U0PM6EYR1",
+    "text": "デスノートは顔と名前が一致しないと発動しないから…",
+    "client_msg_id": "13832f25-1fb3-42d5-9cd4-69c5657efc84",
+    "name": "raa0121",
+    "img": "https://secure.gravatar.com/avatar/35b032d7b2d4182b0c2de1ef85ba91f2.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0009-24.png",
+    "time": "2022/01/29 21:28:02",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1643456952844989"
+  },
+  {
+    "user": "UGA29R3FH",
+    "text": "デスノートw",
+    "client_msg_id": "94700751-3081-4764-b091-fea95ba5c437",
+    "name": "znmxodq1",
+    "img": "https://avatars.slack-edge.com/2019-03-08/570571829091_2ca91fb0cc1ed2341fe0_24.png",
+    "time": "2022/01/29 21:28:02",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1643456933840839"
+  },
+  {
+    "user": "U70QDFN82",
+    "text": "もしかして、デスノート出身？",
+    "client_msg_id": "fa3386ca-5711-47ea-ba16-1b5853a2d8a1",
+    "name": "yutakatay",
+    "img": "https://avatars.slack-edge.com/2020-08-16/1302143736069_0baa468f7bea68e827d9_24.png",
+    "time": "2022/01/29 21:28:02",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1643456923988019"
+  },
+  {
+    "user": "UGA29R3FH",
+    "text": "名前出すと攻撃されるような文化圏で暮らしていたので抵抗あるだけで、違う場所にいたらそうでもないのかもとは思う",
+    "client_msg_id": "9a911aca-bd51-41b6-9a0c-cfe227818b6e",
+    "name": "znmxodq1",
+    "img": "https://avatars.slack-edge.com/2019-03-08/570571829091_2ca91fb0cc1ed2341fe0_24.png",
+    "time": "2022/01/29 21:28:03",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1643456899860129"
+  },
+  {
+    "user": "U70QDFN82",
+    "text": "TikTokとかよくやるよなっておっちゃんは思う",
+    "client_msg_id": "acd52f4f-0a37-4891-ac79-afff462914eb",
+    "name": "yutakatay",
+    "img": "https://avatars.slack-edge.com/2020-08-16/1302143736069_0baa468f7bea68e827d9_24.png",
+    "time": "2022/01/29 21:28:03",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1643456889411229"
+  },
+  {
+    "user": "U0GFBAM8U",
+    "text": "でも時代は変わってきて、今では気にしない人も増えてる印象あったりしますね",
+    "client_msg_id": "9372d55e-6350-4130-8e34-b646204c4330",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2022/01/29 21:28:03",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1643456843107549"
+  },
+  {
+    "user": "U0GFBAM8U",
+    "text": "日本はそうですね、教育でそもそもネットでは実名をさらさないようにとか言われたりしますので",
+    "client_msg_id": "39742c1f-384f-424c-a7e2-836f806612ce",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2022/01/29 21:28:04",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1643456711634169"
+  },
+  {
+    "user": "U70QDFN82",
+    "text": "顔出ししたくないけど会社からPRでやってくれってパターンとかもありそう・・・\n会社の記事とかyoutube出演とか",
+    "client_msg_id": "77a64c51-94a2-4f38-a8da-254127436d30",
+    "name": "yutakatay",
+    "img": "https://avatars.slack-edge.com/2020-08-16/1302143736069_0baa468f7bea68e827d9_24.png",
+    "time": "2022/01/29 21:28:04",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1643456673485559"
+  },
+  {
+    "user": "UGA29R3FH",
+    "text": "現実の自分とネットの自分を紐付けするメリットが何も見出せない",
+    "client_msg_id": "bbbcf6aa-a79b-424c-aaec-4e0b362200da",
+    "name": "znmxodq1",
+    "img": "https://avatars.slack-edge.com/2019-03-08/570571829091_2ca91fb0cc1ed2341fe0_24.png",
+    "time": "2022/01/29 21:28:04",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1643456672360239"
+  },
+  {
+    "user": "U02ASPM0A6T",
+    "text": "元々大学でのusenet使った学問的成果の共有というか、論文発表的な文化で進んできてるとかあって自然と実名前提になってるんじゃないですかね",
+    "client_msg_id": "1553fda8-41dc-4ae0-8a33-a56c3cc1cf4c",
+    "name": "yozigen",
+    "img": "https://avatars.slack-edge.com/2021-08-15/2405164316960_50d7f6e8be23e5b2a0eb_24.jpg",
+    "time": "2022/01/29 21:28:05",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1643456625967439"
+  },
+  {
+    "user": "U0GFBAM8U",
+    "text": "でもプログラマー的な人種からすると、あまり気にされないことも多いのかなって思ったり(上記はあくまで一般人基準では海外でそういう文化的なものがあるらしいという話だった記憶",
+    "client_msg_id": "86ef2de3-dd8f-4eeb-b430-350af55bca38",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2022/01/29 21:28:05",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1643456622681159"
+  },
+  {
+    "user": "U0PM6EYR1",
+    "text": "日本人はSNSは本名でやるなっていうばっちゃの教えを守ってる人が多くて",
+    "client_msg_id": "3747f126-23bd-46fa-b526-725a12113e34",
+    "name": "raa0121",
+    "img": "https://secure.gravatar.com/avatar/35b032d7b2d4182b0c2de1ef85ba91f2.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0009-24.png",
+    "time": "2022/01/29 21:28:05",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1643456612737049"
+  },
+  {
+    "user": "U70QDFN82",
+    "text": "まあそういう流れになってもおかしくはない感じはありますね・・・明らかに顔出ししてる方がリスクとってるし",
+    "client_msg_id": "9efaf7c8-e52d-4eb0-9c8d-23dcbe63f88c",
+    "name": "yutakatay",
+    "img": "https://avatars.slack-edge.com/2020-08-16/1302143736069_0baa468f7bea68e827d9_24.png",
+    "time": "2022/01/29 21:28:06",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1643456562104369"
+  },
+  {
+    "user": "U0GFBAM8U",
+    "text": "どっかの記事でそういったものはあるらしいって聞いたことあります\nただ、率直にはそういったことは言葉にされないので",
+    "client_msg_id": "f4480ca4-117f-4daa-aa36-230e54840a27",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2022/01/29 21:28:06",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1643456502650949"
+  },
+  {
+    "user": "U0PM6EYR1",
+    "text": "←自分が打ったドット絵",
+    "client_msg_id": "5ac6063a-e336-4be0-a16a-65ebe77db5f8",
+    "name": "raa0121",
+    "img": "https://secure.gravatar.com/avatar/35b032d7b2d4182b0c2de1ef85ba91f2.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0009-24.png",
+    "time": "2022/01/29 21:28:06",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1643456437332469"
+  },
+  {
+    "user": "U70QDFN82",
+    "text": "ふと思ったけど日本人は顔出ししてないことに抵抗ないけど、海外とかだともしかしたらあったりするのかな？？\n２つほぼ似たようなアプリがあったとして、顔出ししてる方が信頼できるからそっち使おう的な",
+    "client_msg_id": "318a4876-0e21-4f09-9cdd-927b8a9c3239",
+    "name": "yutakatay",
+    "img": "https://avatars.slack-edge.com/2020-08-16/1302143736069_0baa468f7bea68e827d9_24.png",
+    "time": "2022/01/29 21:28:07",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1643456429056859"
+  },
+  {
+    "user": "U70QDFN82",
+    "text": "そして顔出しが極端に少ない",
+    "client_msg_id": "b640a475-0e05-49be-a653-cd0d4adc42c1",
+    "name": "yutakatay",
+    "img": "https://avatars.slack-edge.com/2020-08-16/1302143736069_0baa468f7bea68e827d9_24.png",
+    "time": "2022/01/29 21:28:07",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1643456135541639"
+  },
+  {
+    "user": "U70QDFN82",
+    "text": "わかる",
+    "client_msg_id": "f3ee1638-8baa-4d36-a841-18f2ad0f8c35",
+    "name": "yutakatay",
+    "img": "https://avatars.slack-edge.com/2020-08-16/1302143736069_0baa468f7bea68e827d9_24.png",
+    "time": "2022/01/29 21:28:07",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1643456125800379"
+  },
+  {
+    "user": "UGA29R3FH",
+    "text": "日本人は動物だらけ",
+    "client_msg_id": "bdf4765e-e7b9-418b-97d9-4fa9d96c7147",
+    "name": "znmxodq1",
+    "img": "https://avatars.slack-edge.com/2019-03-08/570571829091_2ca91fb0cc1ed2341fe0_24.png",
+    "time": "2022/01/29 21:28:08",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1643456120054299"
+  },
+  {
+    "user": "U0187SHUN1Z",
+    "text": "マジもんだｗ　インフルエンサーすぎる",
+    "client_msg_id": "c2a6afda-fb57-449c-b3db-ec0a04813e43",
+    "name": "ochimasumi",
+    "img": "https://avatars.slack-edge.com/2022-01-29/3029074417012_2b9015401fe5d3be46ed_24.png",
+    "time": "2022/01/29 21:28:08",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1643456110807629"
+  },
+  {
+    "user": "U70QDFN82",
+    "text": "日本人でそこそこ有名でアニメアイコン使ってる人そういえば知らないな",
+    "client_msg_id": "3cd747c4-fd9e-44cc-a9b1-a56814c5129d",
+    "name": "yutakatay",
+    "img": "https://avatars.slack-edge.com/2020-08-16/1302143736069_0baa468f7bea68e827d9_24.png",
+    "time": "2022/01/29 21:28:08",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1643456089526049"
+  },
+  {
+    "user": "U0GFBAM8U",
+    "text": "どっかで見た気がする(vimプラグインではない",
+    "client_msg_id": "92571f3e-df2a-4bf6-b2fa-48ef9b4f97c4",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2022/01/29 21:28:09",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1643456054645069"
+  },
+  {
+    "user": "U0GFBAM8U",
+    "text": "はかせは?",
+    "client_msg_id": "3fea3f42-8c76-40d5-8564-548c00cdb488",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2022/01/29 21:28:09",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1643456024132159"
+  },
+  {
+    "user": "UGA29R3FH",
+    "text": "作者知らんかった",
+    "client_msg_id": "a8beb0c9-c5ce-4c71-a6e0-7ffb8f317cfe",
+    "name": "znmxodq1",
+    "img": "https://avatars.slack-edge.com/2019-03-08/570571829091_2ca91fb0cc1ed2341fe0_24.png",
+    "time": "2022/01/29 21:28:10",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1643456017911769"
+  },
+  {
+    "user": "UGA29R3FH",
+    "text": "まじか",
+    "client_msg_id": "791a481d-3dc0-40aa-a478-9e967123a632",
+    "name": "znmxodq1",
+    "img": "https://avatars.slack-edge.com/2019-03-08/570571829091_2ca91fb0cc1ed2341fe0_24.png",
+    "time": "2022/01/29 21:28:10",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1643456012646309"
+  },
+  {
+    "user": "U6DL9D3AB",
+    "text": "しゃべるやつはこれか。ゆっこのアイコンの方が作ったやつ\n<https://github.com/iamcco/coc-rainbow-fart>",
+    "client_msg_id": "8a4b2200-010d-47e5-80aa-b223b91fa8aa",
+    "name": "emtee",
+    "img": "https://avatars.slack-edge.com/2017-08-24/232261947719_1bb4d925e48fdfd0a154_24.png",
+    "time": "2022/01/29 21:28:10",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1643456000187009"
+  },
+  {
+    "user": "U0GFBAM8U",
+    "text": "ゆっこと坂本",
+    "client_msg_id": "e54a4fd8-70e5-4fb6-aac6-761620bf9762",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2022/01/29 21:28:11",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1643455934183209"
+  },
+  {
+    "user": "UGA29R3FH",
+    "text": "<https://github.com/voldikss>",
+    "client_msg_id": "2f54a1a3-e207-4545-9d82-c752caba944e",
+    "name": "znmxodq1",
+    "img": "https://avatars.slack-edge.com/2019-03-08/570571829091_2ca91fb0cc1ed2341fe0_24.png",
+    "time": "2022/01/29 21:28:11",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1643455917530389"
+  },
+  {
+    "user": "UGA29R3FH",
+    "text": "<https://github.com/iamcco>",
+    "client_msg_id": "7379dd0d-fd42-4905-88da-495a3bd36fd6",
+    "name": "znmxodq1",
+    "img": "https://avatars.slack-edge.com/2019-03-08/570571829091_2ca91fb0cc1ed2341fe0_24.png",
+    "time": "2022/01/29 21:28:11",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1643455902228549"
+  },
+  {
+    "user": "UGA29R3FH",
+    "text": "それ喋るやつ",
+    "client_msg_id": "12b88915-bd1b-4491-a0c0-8f0e3c54ede5",
+    "name": "znmxodq1",
+    "img": "https://avatars.slack-edge.com/2019-03-08/570571829091_2ca91fb0cc1ed2341fe0_24.png",
+    "time": "2022/01/29 21:28:12",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1643455895491379"
+  },
+  {
+    "user": "U6DL9D3AB",
+    "text": "cocの rainbow-fart でしたっけ",
+    "client_msg_id": "1b0ba446-7746-48b6-b1db-53ddbe39796f",
+    "name": "emtee",
+    "img": "https://avatars.slack-edge.com/2017-08-24/232261947719_1bb4d925e48fdfd0a154_24.png",
+    "time": "2022/01/29 21:28:12",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1643455884142839"
+  },
+  {
+    "user": "U0187SHUN1Z",
+    "text": "某！？！？vim プラグイン！？！？",
+    "client_msg_id": "d70b73b0-3bf1-4a91-a8b6-508c91dce362",
+    "name": "ochimasumi",
+    "img": "https://avatars.slack-edge.com/2022-01-29/3029074417012_2b9015401fe5d3be46ed_24.png",
+    "time": "2022/01/29 21:28:12",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1643455847833389"
+  },
+  {
+    "user": "UGA29R3FH",
+    "text": "(主に某Vimプラグインのせい)",
+    "client_msg_id": "96d6f72a-42bd-4110-b562-60c40640cca4",
+    "name": "znmxodq1",
+    "img": "https://avatars.slack-edge.com/2019-03-08/570571829091_2ca91fb0cc1ed2341fe0_24.png",
+    "time": "2022/01/29 21:28:13",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1643455823201269"
+  },
+  {
+    "user": "UGA29R3FH",
+    "text": "中国の人は日常のイメージが",
+    "client_msg_id": "b7e94baa-ccc0-437b-9343-4d41a948a63d",
+    "name": "znmxodq1",
+    "img": "https://avatars.slack-edge.com/2019-03-08/570571829091_2ca91fb0cc1ed2341fe0_24.png",
+    "time": "2022/01/29 21:28:13",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1643455817707629"
+  },
+  {
+    "user": "U70QDFN82",
+    "text": "わかる",
+    "client_msg_id": "934ae0a9-153e-40b8-9a5f-4ef3ca37d2bf",
+    "name": "yutakatay",
+    "img": "https://avatars.slack-edge.com/2020-08-16/1302143736069_0baa468f7bea68e827d9_24.png",
+    "time": "2022/01/29 21:28:14",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1643455816253259"
+  },
+  {
+    "user": "U0PM6EYR1",
+    "text": "日本人より印象に残るんだよな…",
+    "client_msg_id": "55857f5b-4a5f-40a7-a78d-8b590501bd10",
+    "name": "raa0121",
+    "img": "https://secure.gravatar.com/avatar/35b032d7b2d4182b0c2de1ef85ba91f2.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0009-24.png",
+    "time": "2022/01/29 21:28:14",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1643455810409469"
+  },
+  {
+    "user": "U70QDFN82",
+    "text": "あとフランスも多い",
+    "client_msg_id": "9399eafb-2669-4e73-9aee-f482573a103d",
+    "name": "yutakatay",
+    "img": "https://avatars.slack-edge.com/2020-08-16/1302143736069_0baa468f7bea68e827d9_24.png",
+    "time": "2022/01/29 21:28:14",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1643455798521859"
+  },
+  {
+    "user": "U70QDFN82",
+    "text": "ちな中国人も",
+    "client_msg_id": "56bb40bf-f6dd-4339-9fe0-1acf99820c7e",
+    "name": "yutakatay",
+    "img": "https://avatars.slack-edge.com/2020-08-16/1302143736069_0baa468f7bea68e827d9_24.png",
+    "time": "2022/01/29 21:28:15",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1643455791368319"
+  },
+  {
+    "user": "U0PM6EYR1",
+    "text": "韓国人、アニメの切り抜き画像をそのままGithub で使ってる印象ある(偏見",
+    "client_msg_id": "0a8584a2-9466-47bb-b00f-956415e7e319",
+    "name": "raa0121",
+    "img": "https://secure.gravatar.com/avatar/35b032d7b2d4182b0c2de1ef85ba91f2.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0009-24.png",
+    "time": "2022/01/29 21:28:15",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1643455777893889"
+  },
+  {
+    "user": "U0187SHUN1Z",
+    "text": "なんか不思議な話でしたね",
+    "client_msg_id": "42866d8a-e978-49dc-bc84-0d249ce0c727",
+    "name": "ochimasumi",
+    "img": "https://avatars.slack-edge.com/2022-01-29/3029074417012_2b9015401fe5d3be46ed_24.png",
+    "time": "2022/01/29 21:28:15",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1643455741382709"
+  },
+  {
+    "user": "U0GFBAM8U",
+    "text": "アイコンがかわいい",
+    "client_msg_id": "0E0C4E20-329C-48B2-9495-54BE106EEAB8",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2022/01/29 21:28:16",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1643455647876469"
+  },
+  {
+    "user": "U70QDFN82",
+    "text": "リアル17だと、仕方ない",
+    "client_msg_id": "c14e5641-0586-40b3-9606-79674a486843",
+    "name": "yutakatay",
+    "img": "https://avatars.slack-edge.com/2020-08-16/1302143736069_0baa468f7bea68e827d9_24.png",
+    "time": "2022/01/29 21:28:16",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1643455547717759"
+  },
+  {
+    "user": "U0187SHUN1Z",
+    "text": "若気が至ってそう",
+    "client_msg_id": "20632a58-7d83-456e-b6a1-846039ceb547",
+    "name": "ochimasumi",
+    "img": "https://avatars.slack-edge.com/2022-01-29/3029074417012_2b9015401fe5d3be46ed_24.png",
+    "time": "2022/01/29 21:28:16",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1643455544814979"
+  },
+  {
+    "user": "U0PM6EYR1",
+    "text": "歌詞の英訳をMITで公開してるのはどうなんだ…",
+    "client_msg_id": "57a9a3c5-a4d1-437c-9c9d-46acfca5f00f",
+    "name": "raa0121",
+    "img": "https://secure.gravatar.com/avatar/35b032d7b2d4182b0c2de1ef85ba91f2.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0009-24.png",
+    "time": "2022/01/29 21:28:17",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1643455480756609"
+  },
+  {
+    "user": "U70QDFN82",
+    "text": "すげぇ13でGitHub登録してるのか・・・",
+    "client_msg_id": "365e547c-36d4-4145-83f7-bda074fe4b01",
+    "name": "yutakatay",
+    "img": "https://avatars.slack-edge.com/2020-08-16/1302143736069_0baa468f7bea68e827d9_24.png",
+    "time": "2022/01/29 21:28:17",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1643455451250469"
+  },
+  {
+    "user": "U70QDFN82",
+    "text": "このキャラの年齢だったりw？",
+    "client_msg_id": "12adf14b-2cf2-41db-ad50-021f09b1f846",
+    "name": "yutakatay",
+    "img": "https://avatars.slack-edge.com/2020-08-16/1302143736069_0baa468f7bea68e827d9_24.png",
+    "time": "2022/01/29 21:28:18",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1643455407349979"
+  },
+  {
+    "user": "U0187SHUN1Z",
+    "text": "<https://twitter.com/NoaHimesaka1873>\n<https://github.com/NoaHimesaka1873>\n\n特定しました（怪しいのじゃないです）",
+    "client_msg_id": "a4158e25-f6de-46b2-95c6-18678c326b82",
+    "name": "ochimasumi",
+    "img": "https://avatars.slack-edge.com/2022-01-29/3029074417012_2b9015401fe5d3be46ed_24.png",
+    "time": "2022/01/29 21:28:18",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1643455406822979"
+  },
+  {
+    "user": "U70QDFN82",
+    "text": "せめてGitHubアカウントとか知りたいですね・・・ちょっと探したけど見つからず・・・",
+    "client_msg_id": "45d9b6ca-7d39-4b03-8eae-ba54ca9fe0fb",
+    "name": "yutakatay",
+    "img": "https://avatars.slack-edge.com/2020-08-16/1302143736069_0baa468f7bea68e827d9_24.png",
+    "time": "2022/01/29 21:28:18",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1643455391425439"
+  },
+  {
+    "user": "U0187SHUN1Z",
+    "text": "嘘ついてるようにはみえない（主観）",
+    "client_msg_id": "e989a2fd-d3ec-494a-969b-6e9286e3111a",
+    "name": "ochimasumi",
+    "img": "https://avatars.slack-edge.com/2022-01-29/3029074417012_2b9015401fe5d3be46ed_24.png",
+    "time": "2022/01/29 21:28:19",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1643455237583199"
+  },
+  {
+    "user": "U0PM6EYR1",
+    "text": "まぁ、高校生くらいからミラー建てる技術くらいは身につけられると思うので",
+    "client_msg_id": "c149104b-3dc0-4a01-8bde-299ab355f98e",
+    "name": "raa0121",
+    "img": "https://secure.gravatar.com/avatar/35b032d7b2d4182b0c2de1ef85ba91f2.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0009-24.png",
+    "time": "2022/01/29 21:28:19",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1643455198220649"
+  },
+  {
+    "user": "U70QDFN82",
+    "text": "邪推しちゃうけどリアル17歳？",
+    "client_msg_id": "239d61f3-9d95-4891-8906-b16f439ccac9",
+    "name": "yutakatay",
+    "img": "https://avatars.slack-edge.com/2020-08-16/1302143736069_0baa468f7bea68e827d9_24.png",
+    "time": "2022/01/29 21:28:19",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1643455037445959"
+  },
+  {
+    "user": "U70QDFN82",
+    "text": "17歳・・・",
+    "client_msg_id": "ce9eec01-919f-43a2-9221-1a6e9706d78e",
+    "name": "yutakatay",
+    "img": "https://avatars.slack-edge.com/2020-08-16/1302143736069_0baa468f7bea68e827d9_24.png",
+    "time": "2022/01/29 21:28:20",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1643454996353699"
+  },
+  {
+    "user": "U0PM6EYR1",
+    "text": "funami って聞き覚えあるなーと思ったらやっぱりゆるゆりだったか…",
+    "client_msg_id": "e98ecf63-1920-4989-a48a-00d4c0302a18",
+    "name": "raa0121",
+    "img": "https://secure.gravatar.com/avatar/35b032d7b2d4182b0c2de1ef85ba91f2.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0009-24.png",
+    "time": "2022/01/29 21:28:20",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1643454917039269"
+  },
+  {
+    "user": "U0187SHUN1Z",
+    "text": "このfunamiさん、17歳の高校生一人でミラーサーバーを回してて、寄付を募ってるツイートもみた\nお金が足らなくなってしまったのかもしれない……　なんか切実すぎる話だ",
+    "client_msg_id": "7dd5b764-0aea-4bdc-83b9-d9f88a7f46ef",
+    "name": "ochimasumi",
+    "img": "https://avatars.slack-edge.com/2022-01-29/3029074417012_2b9015401fe5d3be46ed_24.png",
+    "time": "2022/01/29 21:28:20",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1643454887394829"
+  },
+  {
     "user": "U0187SHUN1Z",
     "text": "今更ですが、フォロワー2人の公式ミラーアカウントが30分前に声明出してました\n<https://twitter.com/YuiFunamiMirror/status/1487374596630220804>",
     "client_msg_id": "40e338ec-b742-48ad-a5e1-6e9663a9d0f0",
     "name": "ochimasumi",
-    "img": "https://secure.gravatar.com/avatar/cdfff9be12b12849f1eeb94b2196aca5.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0015-24.png",
-    "time": "2022/01/29 20:13:55",
+    "img": "https://avatars.slack-edge.com/2022-01-29/3029074417012_2b9015401fe5d3be46ed_24.png",
+    "time": "2022/01/29 21:28:21",
     "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1643454616601849"
   },
   {
@@ -13,7 +913,7 @@
     "text": "curlでとってきてるあたり　ここらへんで例外処理が必要だったんでしょうか（詳しくないですが）\n\nいずれにせよ、どうにかなってほしい",
     "client_msg_id": "125d331f-3124-465a-8f6e-35e94efdf8b2",
     "name": "ochimasumi",
-    "img": "https://secure.gravatar.com/avatar/cdfff9be12b12849f1eeb94b2196aca5.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0015-24.png",
+    "img": "https://avatars.slack-edge.com/2022-01-29/3029074417012_2b9015401fe5d3be46ed_24.png",
     "time": "2022/01/29 20:13:56",
     "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1643454555024089"
   },
@@ -31,7 +931,7 @@
     "text": "阿部寛のHPをミラーリストに仕込むバグが作れそう",
     "client_msg_id": "d369a511-9868-48e4-a7f6-b0ae5edc53ff",
     "name": "ochimasumi",
-    "img": "https://secure.gravatar.com/avatar/cdfff9be12b12849f1eeb94b2196aca5.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0015-24.png",
+    "img": "https://avatars.slack-edge.com/2022-01-29/3029074417012_2b9015401fe5d3be46ed_24.png",
     "time": "2022/01/29 20:13:56",
     "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1643453833903679"
   },
@@ -49,7 +949,7 @@
     "text": "ランキングみても1位だけ明らかにおかしいのに使われてますねｗ　HTMLはないだろ\nこういうのってバグなんですかね？",
     "client_msg_id": "17845a85-66e9-48b6-9df0-02e5bb22eae8",
     "name": "ochimasumi",
-    "img": "https://secure.gravatar.com/avatar/cdfff9be12b12849f1eeb94b2196aca5.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0015-24.png",
+    "img": "https://avatars.slack-edge.com/2022-01-29/3029074417012_2b9015401fe5d3be46ed_24.png",
     "time": "2022/01/29 20:13:57",
     "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1643453703339419"
   },
@@ -67,7 +967,7 @@
     "text": "やばい！　funami techが使われそう",
     "client_msg_id": "fdb4d931-23dc-4189-86f7-0c28b892ec97",
     "name": "ochimasumi",
-    "img": "https://secure.gravatar.com/avatar/cdfff9be12b12849f1eeb94b2196aca5.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0015-24.png",
+    "img": "https://avatars.slack-edge.com/2022-01-29/3029074417012_2b9015401fe5d3be46ed_24.png",
     "time": "2022/01/29 20:13:58",
     "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1643453611894459"
   },
@@ -76,7 +976,7 @@
     "text": "rankimirrorsをyesにしてごにょごにょ",
     "client_msg_id": "b8a30b36-34db-436c-b31e-4ccb942f8f53",
     "name": "ochimasumi",
-    "img": "https://secure.gravatar.com/avatar/cdfff9be12b12849f1eeb94b2196aca5.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0015-24.png",
+    "img": "https://avatars.slack-edge.com/2022-01-29/3029074417012_2b9015401fe5d3be46ed_24.png",
     "time": "2022/01/29 20:13:58",
     "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1643453540343479"
   },
@@ -121,7 +1021,7 @@
     "text": "これじゃあarchでもmirrorlistの一番上にあったりしたらだめなのか……\nたくさんミラーサーバー書くのって、ミラーサーバーに接続できなくなったとき用だと思ってたけど、接続できちゃったから困ったのか",
     "client_msg_id": "fb35c879-daf2-4998-9400-6b75787735b8",
     "name": "ochimasumi",
-    "img": "https://secure.gravatar.com/avatar/cdfff9be12b12849f1eeb94b2196aca5.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0015-24.png",
+    "img": "https://avatars.slack-edge.com/2022-01-29/3029074417012_2b9015401fe5d3be46ed_24.png",
     "time": "2022/01/29 20:14:00",
     "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1643453111048189"
   },
@@ -157,7 +1057,7 @@
     "text": "\"何もしてないのに壊れた\"実績を解除してしまった……",
     "client_msg_id": "1cf644df-491e-482a-a6a9-60d83a1d4d9c",
     "name": "ochimasumi",
-    "img": "https://secure.gravatar.com/avatar/cdfff9be12b12849f1eeb94b2196aca5.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0015-24.png",
+    "img": "https://avatars.slack-edge.com/2022-01-29/3029074417012_2b9015401fe5d3be46ed_24.png",
     "time": "2022/01/29 20:14:01",
     "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1643452946985999"
   },
@@ -220,7 +1120,7 @@
     "text": "とても勉強になりましたし、まさかミラーリストが死ぬなんて思ってもいませんでした",
     "client_msg_id": "06022b60-bec8-4ac9-9a3e-3337d10d95bb",
     "name": "ochimasumi",
-    "img": "https://secure.gravatar.com/avatar/cdfff9be12b12849f1eeb94b2196aca5.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0015-24.png",
+    "img": "https://avatars.slack-edge.com/2022-01-29/3029074417012_2b9015401fe5d3be46ed_24.png",
     "time": "2022/01/29 20:14:04",
     "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1643452705743629"
   },
@@ -229,7 +1129,7 @@
     "text": "助けてくれた方々、本当にありがとうございます:sob:",
     "client_msg_id": "7cd94f92-c196-4369-a165-6688dde06771",
     "name": "ochimasumi",
-    "img": "https://secure.gravatar.com/avatar/cdfff9be12b12849f1eeb94b2196aca5.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0015-24.png",
+    "img": "https://avatars.slack-edge.com/2022-01-29/3029074417012_2b9015401fe5d3be46ed_24.png",
     "time": "2022/01/29 20:14:04",
     "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1643452653128529"
   },
@@ -265,7 +1165,7 @@
     "text": "",
     "client_msg_id": "0be2d680-e19a-4356-aa2b-6d8f72b0dd33",
     "name": "ochimasumi",
-    "img": "https://secure.gravatar.com/avatar/cdfff9be12b12849f1eeb94b2196aca5.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0015-24.png",
+    "img": "https://avatars.slack-edge.com/2022-01-29/3029074417012_2b9015401fe5d3be46ed_24.png",
     "time": "2022/01/29 20:14:06",
     "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1643452555163269"
   },
@@ -274,7 +1174,7 @@
     "text": "あ！！！　コピペしながら思いましたが、endeavourosのmirrorlistを保存するの忘れてました　保存したらなんかいけそうです",
     "client_msg_id": "5cea4dd4-2eae-4fff-b713-06f1e65c81ce",
     "name": "ochimasumi",
-    "img": "https://secure.gravatar.com/avatar/cdfff9be12b12849f1eeb94b2196aca5.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0015-24.png",
+    "img": "https://avatars.slack-edge.com/2022-01-29/3029074417012_2b9015401fe5d3be46ed_24.png",
     "time": "2022/01/29 20:14:06",
     "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1643452539666799"
   },
@@ -283,7 +1183,7 @@
     "text": "これがendeavourです\n\n<https://pastebin.pl/view/3690eaef>",
     "client_msg_id": "35d64728-8435-4963-828a-aec260b5c932",
     "name": "ochimasumi",
-    "img": "https://secure.gravatar.com/avatar/cdfff9be12b12849f1eeb94b2196aca5.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0015-24.png",
+    "img": "https://avatars.slack-edge.com/2022-01-29/3029074417012_2b9015401fe5d3be46ed_24.png",
     "time": "2022/01/29 20:14:06",
     "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1643452513668149"
   },
@@ -292,7 +1192,7 @@
     "text": "pacman.confです\n<https://pastebin.pl/view/bdf16b19>",
     "client_msg_id": "141eedaf-f0b6-40fc-8305-44d65fcd05b4",
     "name": "ochimasumi",
-    "img": "https://secure.gravatar.com/avatar/cdfff9be12b12849f1eeb94b2196aca5.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0015-24.png",
+    "img": "https://avatars.slack-edge.com/2022-01-29/3029074417012_2b9015401fe5d3be46ed_24.png",
     "time": "2022/01/29 20:14:07",
     "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1643452426652649"
   },
@@ -301,7 +1201,7 @@
     "text": "この手順でやります\n1. pacman.confを晒す\n2. endevouros.dbを移してみる\n3. 手動pacman -Uする",
     "client_msg_id": "91d3be6a-e740-4398-9b7a-1c2f1a5432e1",
     "name": "ochimasumi",
-    "img": "https://secure.gravatar.com/avatar/cdfff9be12b12849f1eeb94b2196aca5.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0015-24.png",
+    "img": "https://avatars.slack-edge.com/2022-01-29/3029074417012_2b9015401fe5d3be46ed_24.png",
     "time": "2022/01/29 20:14:07",
     "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1643452290649439"
   },
@@ -319,7 +1219,7 @@
     "text": "pacman -Uを使ったことないので、使い方を教えてほしいです:pray:",
     "client_msg_id": "22967e1a-1f26-4778-8ba6-824ae9d66f3d",
     "name": "ochimasumi",
-    "img": "https://secure.gravatar.com/avatar/cdfff9be12b12849f1eeb94b2196aca5.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0015-24.png",
+    "img": "https://avatars.slack-edge.com/2022-01-29/3029074417012_2b9015401fe5d3be46ed_24.png",
     "time": "2022/01/29 20:14:08",
     "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1643452231047169"
   },
@@ -346,7 +1246,7 @@
     "text": "本来なら.dbは、gzipのそれらしいファイルなんだけど、funami techが死んでるから謎のホームページのHTMLが取得されちゃったっていう話なのか？",
     "client_msg_id": "402f9039-0383-47cc-a1b9-2eeb2a10cb4e",
     "name": "ochimasumi",
-    "img": "https://secure.gravatar.com/avatar/cdfff9be12b12849f1eeb94b2196aca5.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0015-24.png",
+    "img": "https://avatars.slack-edge.com/2022-01-29/3029074417012_2b9015401fe5d3be46ed_24.png",
     "time": "2022/01/29 20:14:09",
     "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1643452078985689"
   },
@@ -364,7 +1264,7 @@
     "text": "やってみました！　db.lckっていうファイルが存在してないですね",
     "client_msg_id": "47a2d36d-9769-4d30-ba04-6060d03ed0cf",
     "name": "ochimasumi",
-    "img": "https://secure.gravatar.com/avatar/cdfff9be12b12849f1eeb94b2196aca5.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0015-24.png",
+    "img": "https://avatars.slack-edge.com/2022-01-29/3029074417012_2b9015401fe5d3be46ed_24.png",
     "time": "2022/01/29 20:14:10",
     "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1643452010709079"
   },
@@ -382,7 +1282,7 @@
     "text": "普通にドメイン失効だったらもっとTLとかredditとか湧いててほしいな",
     "client_msg_id": "d97be4bd-1a00-4a7c-b8bb-6dec63bbc78c",
     "name": "ochimasumi",
-    "img": "https://secure.gravatar.com/avatar/cdfff9be12b12849f1eeb94b2196aca5.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0015-24.png",
+    "img": "https://avatars.slack-edge.com/2022-01-29/3029074417012_2b9015401fe5d3be46ed_24.png",
     "time": "2022/01/29 20:14:10",
     "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1643451866489449"
   },
@@ -391,7 +1291,7 @@
     "text": "うーん……　(´；ω；｀)",
     "client_msg_id": "f9857677-9c90-48de-916e-d1b3f0ebdd8a",
     "name": "ochimasumi",
-    "img": "https://secure.gravatar.com/avatar/cdfff9be12b12849f1eeb94b2196aca5.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0015-24.png",
+    "img": "https://avatars.slack-edge.com/2022-01-29/3029074417012_2b9015401fe5d3be46ed_24.png",
     "time": "2022/01/29 20:14:11",
     "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1643451846750749"
   },
@@ -427,7 +1327,7 @@
     "text": "さっき開いたendeavouros.dbをもう一回見てもfunami techが使われたのでこれをどうにかしないといけないですね",
     "client_msg_id": "378d6d77-8861-4bc8-ab1d-78603c6c4a0b",
     "name": "ochimasumi",
-    "img": "https://secure.gravatar.com/avatar/cdfff9be12b12849f1eeb94b2196aca5.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0015-24.png",
+    "img": "https://avatars.slack-edge.com/2022-01-29/3029074417012_2b9015401fe5d3be46ed_24.png",
     "time": "2022/01/29 20:14:12",
     "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1643451545856539"
   },
@@ -436,7 +1336,7 @@
     "text": "1. コメントアウト\n2. sync下消す\n3. pacman -Syu",
     "client_msg_id": "c80f7a12-c545-43e7-9ff7-7b67a97d33af",
     "name": "ochimasumi",
-    "img": "https://secure.gravatar.com/avatar/cdfff9be12b12849f1eeb94b2196aca5.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0015-24.png",
+    "img": "https://avatars.slack-edge.com/2022-01-29/3029074417012_2b9015401fe5d3be46ed_24.png",
     "time": "2022/01/29 20:14:13",
     "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1643451480538059"
   },
@@ -445,7 +1345,7 @@
     "text": "！？！？",
     "client_msg_id": "dbe284fe-3536-4547-bad5-e0bb27e08720",
     "name": "ochimasumi",
-    "img": "https://secure.gravatar.com/avatar/cdfff9be12b12849f1eeb94b2196aca5.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0015-24.png",
+    "img": "https://avatars.slack-edge.com/2022-01-29/3029074417012_2b9015401fe5d3be46ed_24.png",
     "time": "2022/01/29 20:14:13",
     "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1643451399580259"
   },
@@ -472,7 +1372,7 @@
     "text": "そこからもわかるんですか！　たしかにfunamiって書いてある:eyes:\n手順として、",
     "client_msg_id": "e6f1b181-f67a-4937-a5c2-09e086da2c7e",
     "name": "ochimasumi",
-    "img": "https://secure.gravatar.com/avatar/cdfff9be12b12849f1eeb94b2196aca5.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0015-24.png",
+    "img": "https://avatars.slack-edge.com/2022-01-29/3029074417012_2b9015401fe5d3be46ed_24.png",
     "time": "2022/01/29 20:14:14",
     "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1643451386604519"
   },
@@ -490,7 +1390,7 @@
     "text": "archのmirror detailsをみるも、おかしなものはなさそう　ひとつひとつコメントアウトしてみます",
     "client_msg_id": "e71536a1-c5ae-4406-b423-39d33f8b84b2",
     "name": "ochimasumi",
-    "img": "https://secure.gravatar.com/avatar/cdfff9be12b12849f1eeb94b2196aca5.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0015-24.png",
+    "img": "https://avatars.slack-edge.com/2022-01-29/3029074417012_2b9015401fe5d3be46ed_24.png",
     "time": "2022/01/29 19:16:23",
     "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1643451229678789"
   },
@@ -499,7 +1399,7 @@
     "text": "なるほど！　とりあえずこいつらでした　リアルタイム障害情報とかあんのかな",
     "client_msg_id": "55882bf3-d4c2-4419-81cd-1eb019245239",
     "name": "ochimasumi",
-    "img": "https://secure.gravatar.com/avatar/cdfff9be12b12849f1eeb94b2196aca5.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0015-24.png",
+    "img": "https://avatars.slack-edge.com/2022-01-29/3029074417012_2b9015401fe5d3be46ed_24.png",
     "time": "2022/01/29 19:16:24",
     "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1643450980796709"
   },
@@ -526,7 +1426,7 @@
     "text": "普通にhtml書かれてる？",
     "client_msg_id": "5741f999-1ca3-4bee-8bee-06371eda737c",
     "name": "ochimasumi",
-    "img": "https://secure.gravatar.com/avatar/cdfff9be12b12849f1eeb94b2196aca5.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0015-24.png",
+    "img": "https://avatars.slack-edge.com/2022-01-29/3029074417012_2b9015401fe5d3be46ed_24.png",
     "time": "2022/01/29 19:16:25",
     "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1643450906410439"
   },
@@ -535,7 +1435,7 @@
     "text": "今やってもhtmlですね　開いてみるか",
     "client_msg_id": "0ba42f36-717d-4160-a841-065fe321fa90",
     "name": "ochimasumi",
-    "img": "https://secure.gravatar.com/avatar/cdfff9be12b12849f1eeb94b2196aca5.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0015-24.png",
+    "img": "https://avatars.slack-edge.com/2022-01-29/3029074417012_2b9015401fe5d3be46ed_24.png",
     "time": "2022/01/29 19:16:25",
     "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1643450854008869"
   },
@@ -553,7 +1453,7 @@
     "text": "ありがとうございます　コメントあうとして、syncの下のやつ消しましたが、また同じエラーになりました　再起動はしてないです",
     "client_msg_id": "75b40fb4-0341-42e0-9aef-66e2fa127b0f",
     "name": "ochimasumi",
-    "img": "https://secure.gravatar.com/avatar/cdfff9be12b12849f1eeb94b2196aca5.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0015-24.png",
+    "img": "https://avatars.slack-edge.com/2022-01-29/3029074417012_2b9015401fe5d3be46ed_24.png",
     "time": "2022/01/29 19:16:26",
     "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1643450755551889"
   },
@@ -571,7 +1471,7 @@
     "text": "multilibはosu!かもです　osu!を昨晩入れてみよ〜って思って入れたときに入った気がします（32bitアプリというとそれしか思いつかない）\nでもosu!は別に要らないので、消しても問題ないです\n読んできます",
     "client_msg_id": "18c598f3-473e-4058-980e-cbfc019b73a6",
     "name": "ochimasumi",
-    "img": "https://secure.gravatar.com/avatar/cdfff9be12b12849f1eeb94b2196aca5.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0015-24.png",
+    "img": "https://avatars.slack-edge.com/2022-01-29/3029074417012_2b9015401fe5d3be46ed_24.png",
     "time": "2022/01/29 19:16:26",
     "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1643450565416519"
   },
@@ -589,7 +1489,7 @@
     "text": "何見たらいいんだ…　forumsかな",
     "client_msg_id": "fda464b1-a59c-4fa0-b7d9-72479c26823e",
     "name": "ochimasumi",
-    "img": "https://secure.gravatar.com/avatar/cdfff9be12b12849f1eeb94b2196aca5.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0015-24.png",
+    "img": "https://avatars.slack-edge.com/2022-01-29/3029074417012_2b9015401fe5d3be46ed_24.png",
     "time": "2022/01/29 19:16:27",
     "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1643450490541709"
   },
@@ -607,7 +1507,7 @@
     "text": "となると、pacmanの問題というより、EndeavourOS自体のkeyの問題になりそうなところでしょうか？　\n調べます",
     "client_msg_id": "68701e3f-ab0d-4c2a-8799-da351d84a82c",
     "name": "ochimasumi",
-    "img": "https://secure.gravatar.com/avatar/cdfff9be12b12849f1eeb94b2196aca5.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0015-24.png",
+    "img": "https://avatars.slack-edge.com/2022-01-29/3029074417012_2b9015401fe5d3be46ed_24.png",
     "time": "2022/01/29 19:16:28",
     "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1643450370423319"
   },
@@ -625,7 +1525,7 @@
     "text": "`/var/lib/pacman/sync/`　下のファイルが壊れてるのでしょうか",
     "client_msg_id": "f914aab7-b853-4e58-9955-f60af595ef31",
     "name": "ochimasumi",
-    "img": "https://secure.gravatar.com/avatar/cdfff9be12b12849f1eeb94b2196aca5.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0015-24.png",
+    "img": "https://avatars.slack-edge.com/2022-01-29/3029074417012_2b9015401fe5d3be46ed_24.png",
     "time": "2022/01/29 19:16:29",
     "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1643450023358539"
   },
@@ -634,7 +1534,7 @@
     "text": "ほう:eyes:　\n本当にお気持ちなので、裏でなにやってるかわかってないです　WKDあたりでググってみます",
     "client_msg_id": "338bd8e2-bd77-4341-add7-3db1f73f294c",
     "name": "ochimasumi",
-    "img": "https://secure.gravatar.com/avatar/cdfff9be12b12849f1eeb94b2196aca5.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0015-24.png",
+    "img": "https://avatars.slack-edge.com/2022-01-29/3029074417012_2b9015401fe5d3be46ed_24.png",
     "time": "2022/01/29 19:16:29",
     "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1643449803049129"
   },
@@ -670,7 +1570,7 @@
     "text": "ありがとうございます　試してみましたが、変わらずでした……　\n何か重要なファイルを消してしまったのかしら…",
     "client_msg_id": "6cc59f29-78f3-49e5-b1a8-1d5b8791ab28",
     "name": "ochimasumi",
-    "img": "https://secure.gravatar.com/avatar/cdfff9be12b12849f1eeb94b2196aca5.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0015-24.png",
+    "img": "https://avatars.slack-edge.com/2022-01-29/3029074417012_2b9015401fe5d3be46ed_24.png",
     "time": "2022/01/29 19:16:30",
     "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1643449077559829"
   },
@@ -688,7 +1588,7 @@
     "text": "相談させてください:pray:\n\n環境はEndeavourOS（ほぼほぼArch）なんですが、updateをしようと思ってコマンドを叩いたら画像のようなエラーが出てしまいました。\n\nググって、このコマンドで鍵を作っても最後のrefresh-keysで２枚目の画像のようなエラーが出てしまいました\n```sudo pacman-key --init\nsudo pacman-key --populate\nsudo pacman-key --refresh-keys```\n解決が難しいので考えられる原因、試してほしいことなど教えていただけたら本当に助かります。\n\n今日は.zshrcをいじって遊んでいただけで、$HOME下のzsh configをいじっただけなので変なことはしてないと思います　　\n\npacmanとyayの-Syuも2日前はした覚えがあります\n\n追記：再起動もしましたが、変わらずです",
     "client_msg_id": "1e221e81-d9c8-45b8-adda-7cacb3d111da",
     "name": "ochimasumi",
-    "img": "https://secure.gravatar.com/avatar/cdfff9be12b12849f1eeb94b2196aca5.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0015-24.png",
+    "img": "https://avatars.slack-edge.com/2022-01-29/3029074417012_2b9015401fe5d3be46ed_24.png",
     "time": "2022/01/29 19:16:31",
     "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1643447268352669"
   },
