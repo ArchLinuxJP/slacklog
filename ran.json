@@ -1,11 +1,488 @@
 [
   {
+    "user": "U0187SHUN1Z",
+    "text": "今更ですが、フォロワー2人の公式ミラーアカウントが30分前に声明出してました\n<https://twitter.com/YuiFunamiMirror/status/1487374596630220804>",
+    "client_msg_id": "40e338ec-b742-48ad-a5e1-6e9663a9d0f0",
+    "name": "ochimasumi",
+    "img": "https://secure.gravatar.com/avatar/cdfff9be12b12849f1eeb94b2196aca5.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0015-24.png",
+    "time": "2022/01/29 20:13:55",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1643454616601849"
+  },
+  {
+    "user": "U0187SHUN1Z",
+    "text": "curlでとってきてるあたり　ここらへんで例外処理が必要だったんでしょうか（詳しくないですが）\n\nいずれにせよ、どうにかなってほしい",
+    "client_msg_id": "125d331f-3124-465a-8f6e-35e94efdf8b2",
+    "name": "ochimasumi",
+    "img": "https://secure.gravatar.com/avatar/cdfff9be12b12849f1eeb94b2196aca5.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0015-24.png",
+    "time": "2022/01/29 20:13:56",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1643454555024089"
+  },
+  {
+    "user": "U0PM6EYR1",
+    "text": "<https://github.com/endeavouros-team/PKGBUILDS/blob/master/eos-rankmirrors/eos-rankmirrors>\nコードです",
+    "client_msg_id": "a4c26c80-fa98-48c0-b790-1ec64520e9be",
+    "name": "raa0121",
+    "img": "https://secure.gravatar.com/avatar/35b032d7b2d4182b0c2de1ef85ba91f2.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0009-24.png",
+    "time": "2022/01/29 20:13:56",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1643454118209239"
+  },
+  {
+    "user": "U0187SHUN1Z",
+    "text": "阿部寛のHPをミラーリストに仕込むバグが作れそう",
+    "client_msg_id": "d369a511-9868-48e4-a7f6-b0ae5edc53ff",
+    "name": "ochimasumi",
+    "img": "https://secure.gravatar.com/avatar/cdfff9be12b12849f1eeb94b2196aca5.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0015-24.png",
+    "time": "2022/01/29 20:13:56",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1643453833903679"
+  },
+  {
+    "user": "UGA29R3FH",
+    "text": "データの検証しとらんのかって気持ちになってる",
+    "client_msg_id": "19f0378f-bb12-47e2-b163-cb9f78f69c7f",
+    "name": "znmxodq1",
+    "img": "https://avatars.slack-edge.com/2019-03-08/570571829091_2ca91fb0cc1ed2341fe0_24.png",
+    "time": "2022/01/29 20:13:57",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1643453766470939"
+  },
+  {
+    "user": "U0187SHUN1Z",
+    "text": "ランキングみても1位だけ明らかにおかしいのに使われてますねｗ　HTMLはないだろ\nこういうのってバグなんですかね？",
+    "client_msg_id": "17845a85-66e9-48b6-9df0-02e5bb22eae8",
+    "name": "ochimasumi",
+    "img": "https://secure.gravatar.com/avatar/cdfff9be12b12849f1eeb94b2196aca5.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0015-24.png",
+    "time": "2022/01/29 20:13:57",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1643453703339419"
+  },
+  {
+    "user": "U0PM6EYR1",
+    "text": "入るんだ…",
+    "client_msg_id": "758f32fa-328e-46bb-a659-3f92010ce011",
+    "name": "raa0121",
+    "img": "https://secure.gravatar.com/avatar/35b032d7b2d4182b0c2de1ef85ba91f2.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0009-24.png",
+    "time": "2022/01/29 20:13:57",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1643453632362799"
+  },
+  {
+    "user": "U0187SHUN1Z",
+    "text": "やばい！　funami techが使われそう",
+    "client_msg_id": "fdb4d931-23dc-4189-86f7-0c28b892ec97",
+    "name": "ochimasumi",
+    "img": "https://secure.gravatar.com/avatar/cdfff9be12b12849f1eeb94b2196aca5.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0015-24.png",
+    "time": "2022/01/29 20:13:58",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1643453611894459"
+  },
+  {
+    "user": "U0187SHUN1Z",
+    "text": "rankimirrorsをyesにしてごにょごにょ",
+    "client_msg_id": "b8a30b36-34db-436c-b31e-4ccb942f8f53",
+    "name": "ochimasumi",
+    "img": "https://secure.gravatar.com/avatar/cdfff9be12b12849f1eeb94b2196aca5.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0015-24.png",
+    "time": "2022/01/29 20:13:58",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1643453540343479"
+  },
+  {
+    "user": "U02ASPM0A6T",
+    "text": "最初reflector使ってたけど24時間以内対象だから入ってたか",
+    "client_msg_id": "6e3abd81-e8d8-4ead-90c7-a0de9710e104",
+    "name": "yozigen",
+    "img": "https://avatars.slack-edge.com/2021-08-15/2405164316960_50d7f6e8be23e5b2a0eb_24.jpg",
+    "time": "2022/01/29 20:13:59",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1643453298064839"
+  },
+  {
+    "user": "U0PM6EYR1",
+    "text": "多分funami tech は消えるかも",
+    "client_msg_id": "4a5fd3e7-74f6-41fb-b8bb-6266c4d42e72",
+    "name": "raa0121",
+    "img": "https://secure.gravatar.com/avatar/35b032d7b2d4182b0c2de1ef85ba91f2.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0009-24.png",
+    "time": "2022/01/29 20:13:59",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1643453249169889"
+  },
+  {
+    "user": "U0PM6EYR1",
+    "text": "eos-rankimirrors で再生成したらどうなるかな",
+    "client_msg_id": "c12d3215-4826-4bb4-b1e0-adbcb91794ea",
+    "name": "raa0121",
+    "img": "https://secure.gravatar.com/avatar/35b032d7b2d4182b0c2de1ef85ba91f2.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0009-24.png",
+    "time": "2022/01/29 20:13:59",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1643453209452489"
+  },
+  {
+    "user": "U02BLTTQEL9",
+    "text": "reflector 使ってたら回避できたかな？",
+    "client_msg_id": "97b696b2-e785-4f88-bf5f-f1e2fed3695b",
+    "name": "buzz.taiki",
+    "img": "https://avatars.slack-edge.com/2021-08-15/2388525195124_53543ae8a9c6189fc784_24.jpg",
+    "time": "2022/01/29 20:14:00",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1643453156516249"
+  },
+  {
+    "user": "U0187SHUN1Z",
+    "text": "これじゃあarchでもmirrorlistの一番上にあったりしたらだめなのか……\nたくさんミラーサーバー書くのって、ミラーサーバーに接続できなくなったとき用だと思ってたけど、接続できちゃったから困ったのか",
+    "client_msg_id": "fb35c879-daf2-4998-9400-6b75787735b8",
+    "name": "ochimasumi",
+    "img": "https://secure.gravatar.com/avatar/cdfff9be12b12849f1eeb94b2196aca5.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0015-24.png",
+    "time": "2022/01/29 20:14:00",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1643453111048189"
+  },
+  {
+    "user": "U0GFBAM8U",
+    "text": "いろいろ、壊れてるからなあ、osしかり",
+    "client_msg_id": "9c29af3d-61eb-4053-b1b8-8d43508dc05e",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2022/01/29 20:14:00",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1643453098197449"
+  },
+  {
+    "user": "U02BLTTQEL9",
+    "text": "放射線でメモリが壊れることだってある。",
+    "client_msg_id": "0d8069e8-706b-420f-a911-b4cf39111862",
+    "name": "buzz.taiki",
+    "img": "https://avatars.slack-edge.com/2021-08-15/2388525195124_53543ae8a9c6189fc784_24.jpg",
+    "time": "2022/01/29 20:14:01",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1643453073514919"
+  },
+  {
+    "user": "U0GFBAM8U",
+    "text": "実際、ないもしてないのに壊れるケースもかなり多いと思ってるので、「何もしてないのに壊れた」という人に対しても、そうかもね、くらいに思ったりしてる",
+    "client_msg_id": "ce354404-5c43-48cf-82b5-84f289ba5bc7",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2022/01/29 20:14:01",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1643453032933979"
+  },
+  {
+    "user": "U0187SHUN1Z",
+    "text": "\"何もしてないのに壊れた\"実績を解除してしまった……",
+    "client_msg_id": "1cf644df-491e-482a-a6a9-60d83a1d4d9c",
+    "name": "ochimasumi",
+    "img": "https://secure.gravatar.com/avatar/cdfff9be12b12849f1eeb94b2196aca5.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0015-24.png",
+    "time": "2022/01/29 20:14:01",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1643452946985999"
+  },
+  {
+    "user": "U02BLTTQEL9",
+    "text": "接続できないとかならいいけど html かえってくるのはつらい。",
+    "client_msg_id": "5012e990-2aca-4c89-8ff6-fc4cbae85abe",
+    "name": "buzz.taiki",
+    "img": "https://avatars.slack-edge.com/2021-08-15/2388525195124_53543ae8a9c6189fc784_24.jpg",
+    "time": "2022/01/29 20:14:02",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1643452898596389"
+  },
+  {
+    "user": "U02BLTTQEL9",
+    "text": "arch も mirror してるんだなぁ。\n<https://archlinux.org/mirrors/funami.tech/1647/>",
+    "client_msg_id": "633c71ba-ce06-46b7-be4a-69f814f3401d",
+    "name": "buzz.taiki",
+    "img": "https://avatars.slack-edge.com/2021-08-15/2388525195124_53543ae8a9c6189fc784_24.jpg",
+    "time": "2022/01/29 20:14:02",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1643452843394819"
+  },
+  {
+    "user": "U0GFBAM8U",
+    "text": "archのmirrorもたまに死にますね(主に国内の使ってるけど",
+    "client_msg_id": "bfdbec83-1152-4eb2-a9c9-abc7b03c444b",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2022/01/29 20:14:02",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1643452842545259"
+  },
+  {
+    "user": "U02ASPM0A6T",
+    "text": "ドメイン失効してるのはたまげたなあ",
+    "client_msg_id": "2db33c80-8303-4557-890b-2149ffe427e3",
+    "name": "yozigen",
+    "img": "https://avatars.slack-edge.com/2021-08-15/2405164316960_50d7f6e8be23e5b2a0eb_24.jpg",
+    "time": "2022/01/29 20:14:03",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1643452819314669"
+  },
+  {
+    "user": "U0PM6EYR1",
+    "text": "jaist「Linuxユーザっていっつもそうですよね ディスク容量や帯域のこと考えてください！」",
+    "client_msg_id": "74870929-6b3f-42b5-983b-e4989bb6a347",
+    "name": "raa0121",
+    "img": "https://secure.gravatar.com/avatar/35b032d7b2d4182b0c2de1ef85ba91f2.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0009-24.png",
+    "time": "2022/01/29 20:14:03",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1643452813152359"
+  },
+  {
+    "user": "U0PM6EYR1",
+    "text": "jaist あたりが国内ミラー立ててくれないかな…",
+    "client_msg_id": "4199a959-c0a6-4f93-83d7-0cb5866e0c98",
+    "name": "raa0121",
+    "img": "https://secure.gravatar.com/avatar/35b032d7b2d4182b0c2de1ef85ba91f2.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0009-24.png",
+    "time": "2022/01/29 20:14:04",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1643452736289769"
+  },
+  {
+    "user": "U0187SHUN1Z",
+    "text": "とても勉強になりましたし、まさかミラーリストが死ぬなんて思ってもいませんでした",
+    "client_msg_id": "06022b60-bec8-4ac9-9a3e-3337d10d95bb",
+    "name": "ochimasumi",
+    "img": "https://secure.gravatar.com/avatar/cdfff9be12b12849f1eeb94b2196aca5.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0015-24.png",
+    "time": "2022/01/29 20:14:04",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1643452705743629"
+  },
+  {
+    "user": "U0187SHUN1Z",
+    "text": "助けてくれた方々、本当にありがとうございます:sob:",
+    "client_msg_id": "7cd94f92-c196-4369-a165-6688dde06771",
+    "name": "ochimasumi",
+    "img": "https://secure.gravatar.com/avatar/cdfff9be12b12849f1eeb94b2196aca5.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0015-24.png",
+    "time": "2022/01/29 20:14:04",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1643452653128529"
+  },
+  {
+    "user": "U02ASPM0A6T",
+    "text": "ああなるほど、コメントアウトしたミラーリストを保存したらうまくいったってことですね",
+    "client_msg_id": "9eee1a61-e7af-41f3-a93b-96ed79e45030",
+    "name": "yozigen",
+    "img": "https://avatars.slack-edge.com/2021-08-15/2405164316960_50d7f6e8be23e5b2a0eb_24.jpg",
+    "time": "2022/01/29 20:14:05",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1643452628860709"
+  },
+  {
+    "user": "U0GFBAM8U",
+    "text": "お、よかった",
+    "client_msg_id": "a523bf2b-7334-4919-b9ee-1a79cba6690f",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2022/01/29 20:14:05",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1643452578414539"
+  },
+  {
+    "user": "U0PM6EYR1",
+    "text": "おぉ、良かった",
+    "client_msg_id": "3263dcf4-e044-4ffe-a92c-dcdf3bb2f7bf",
+    "name": "raa0121",
+    "img": "https://secure.gravatar.com/avatar/35b032d7b2d4182b0c2de1ef85ba91f2.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0009-24.png",
+    "time": "2022/01/29 20:14:05",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1643452571045029"
+  },
+  {
+    "user": "U0187SHUN1Z",
+    "text": "",
+    "client_msg_id": "0be2d680-e19a-4356-aa2b-6d8f72b0dd33",
+    "name": "ochimasumi",
+    "img": "https://secure.gravatar.com/avatar/cdfff9be12b12849f1eeb94b2196aca5.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0015-24.png",
+    "time": "2022/01/29 20:14:06",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1643452555163269"
+  },
+  {
+    "user": "U0187SHUN1Z",
+    "text": "あ！！！　コピペしながら思いましたが、endeavourosのmirrorlistを保存するの忘れてました　保存したらなんかいけそうです",
+    "client_msg_id": "5cea4dd4-2eae-4fff-b713-06f1e65c81ce",
+    "name": "ochimasumi",
+    "img": "https://secure.gravatar.com/avatar/cdfff9be12b12849f1eeb94b2196aca5.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0015-24.png",
+    "time": "2022/01/29 20:14:06",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1643452539666799"
+  },
+  {
+    "user": "U0187SHUN1Z",
+    "text": "これがendeavourです\n\n<https://pastebin.pl/view/3690eaef>",
+    "client_msg_id": "35d64728-8435-4963-828a-aec260b5c932",
+    "name": "ochimasumi",
+    "img": "https://secure.gravatar.com/avatar/cdfff9be12b12849f1eeb94b2196aca5.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0015-24.png",
+    "time": "2022/01/29 20:14:06",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1643452513668149"
+  },
+  {
+    "user": "U0187SHUN1Z",
+    "text": "pacman.confです\n<https://pastebin.pl/view/bdf16b19>",
+    "client_msg_id": "141eedaf-f0b6-40fc-8305-44d65fcd05b4",
+    "name": "ochimasumi",
+    "img": "https://secure.gravatar.com/avatar/cdfff9be12b12849f1eeb94b2196aca5.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0015-24.png",
+    "time": "2022/01/29 20:14:07",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1643452426652649"
+  },
+  {
+    "user": "U0187SHUN1Z",
+    "text": "この手順でやります\n1. pacman.confを晒す\n2. endevouros.dbを移してみる\n3. 手動pacman -Uする",
+    "client_msg_id": "91d3be6a-e740-4398-9b7a-1c2f1a5432e1",
+    "name": "ochimasumi",
+    "img": "https://secure.gravatar.com/avatar/cdfff9be12b12849f1eeb94b2196aca5.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0015-24.png",
+    "time": "2022/01/29 20:14:07",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1643452290649439"
+  },
+  {
+    "user": "U02BLTTQEL9",
+    "text": "pacman.conf さらしてみるのがよいかもです。",
+    "client_msg_id": "9a0d7417-224d-4eec-b202-2baee3545016",
+    "name": "buzz.taiki",
+    "img": "https://avatars.slack-edge.com/2021-08-15/2388525195124_53543ae8a9c6189fc784_24.jpg",
+    "time": "2022/01/29 20:14:08",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1643452248311179"
+  },
+  {
+    "user": "U0187SHUN1Z",
+    "text": "pacman -Uを使ったことないので、使い方を教えてほしいです:pray:",
+    "client_msg_id": "22967e1a-1f26-4778-8ba6-824ae9d66f3d",
+    "name": "ochimasumi",
+    "img": "https://secure.gravatar.com/avatar/cdfff9be12b12849f1eeb94b2196aca5.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0015-24.png",
+    "time": "2022/01/29 20:14:08",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1643452231047169"
+  },
+  {
+    "user": "U0PM6EYR1",
+    "text": "<https://mirrors.tuna.tsinghua.edu.cn/endeavouros/repo/endeavouros/x86_64/endeavouros.db>\nこれも落として設置してみる？",
+    "client_msg_id": "b151ad56-0130-49d0-b56e-1aecee6f4579",
+    "name": "raa0121",
+    "img": "https://secure.gravatar.com/avatar/35b032d7b2d4182b0c2de1ef85ba91f2.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0009-24.png",
+    "time": "2022/01/29 20:14:08",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1643452153440979"
+  },
+  {
+    "user": "U0GFBAM8U",
+    "text": "syncを消したので、通常のarchではmirrorからdbはとってくるはずだと思います。",
+    "client_msg_id": "d4027f3b-ca87-4a79-89f9-92625c21c561",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2022/01/29 20:14:09",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1643452133042319"
+  },
+  {
+    "user": "U0187SHUN1Z",
+    "text": "本来なら.dbは、gzipのそれらしいファイルなんだけど、funami techが死んでるから謎のホームページのHTMLが取得されちゃったっていう話なのか？",
+    "client_msg_id": "402f9039-0383-47cc-a1b9-2eeb2a10cb4e",
+    "name": "ochimasumi",
+    "img": "https://secure.gravatar.com/avatar/cdfff9be12b12849f1eeb94b2196aca5.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0015-24.png",
+    "time": "2022/01/29 20:14:09",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1643452078985689"
+  },
+  {
+    "user": "U0PM6EYR1",
+    "text": "<https://mirrors.tuna.tsinghua.edu.cn/endeavouros/repo/endeavouros/x86_64/endeavouros-mirrorlist-4.4-3-any.pkg.tar.zst>\n<https://mirrors.tuna.tsinghua.edu.cn/endeavouros/repo/endeavouros/x86_64/endeavouros-mirrorlist-4.4-3-any.pkg.tar.zst.sig>\nこれを落として pacman -U したらどうなりますかね",
+    "client_msg_id": "b7d282e3-2866-48f9-8554-d348bc16e434",
+    "name": "raa0121",
+    "img": "https://secure.gravatar.com/avatar/35b032d7b2d4182b0c2de1ef85ba91f2.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0009-24.png",
+    "time": "2022/01/29 20:14:09",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1643452076438959"
+  },
+  {
+    "user": "U0187SHUN1Z",
+    "text": "やってみました！　db.lckっていうファイルが存在してないですね",
+    "client_msg_id": "47a2d36d-9769-4d30-ba04-6060d03ed0cf",
+    "name": "ochimasumi",
+    "img": "https://secure.gravatar.com/avatar/cdfff9be12b12849f1eeb94b2196aca5.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0015-24.png",
+    "time": "2022/01/29 20:14:10",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1643452010709079"
+  },
+  {
+    "user": "U0GFBAM8U",
+    "text": "以下のコマンドを試してみるとどうなりますか?\n```sudo rm -R /var/lib/pacman/sync\nsudo rm /var/lib/pacman/db.lck\nsudo pacman -Sy```",
+    "client_msg_id": "1cbd7b11-3f15-4990-803a-bafae155eaed",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2022/01/29 20:14:10",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1643451942420949"
+  },
+  {
+    "user": "U0187SHUN1Z",
+    "text": "普通にドメイン失効だったらもっとTLとかredditとか湧いててほしいな",
+    "client_msg_id": "d97be4bd-1a00-4a7c-b8bb-6dec63bbc78c",
+    "name": "ochimasumi",
+    "img": "https://secure.gravatar.com/avatar/cdfff9be12b12849f1eeb94b2196aca5.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0015-24.png",
+    "time": "2022/01/29 20:14:10",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1643451866489449"
+  },
+  {
+    "user": "U0187SHUN1Z",
+    "text": "うーん……　(´；ω；｀)",
+    "client_msg_id": "f9857677-9c90-48de-916e-d1b3f0ebdd8a",
+    "name": "ochimasumi",
+    "img": "https://secure.gravatar.com/avatar/cdfff9be12b12849f1eeb94b2196aca5.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0015-24.png",
+    "time": "2022/01/29 20:14:11",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1643451846750749"
+  },
+  {
+    "user": "U02ASPM0A6T",
+    "text": "`pacman -Syyuu`でなんとかなったりしないですかね",
+    "client_msg_id": "6cc580d0-d01b-4a6a-a775-13abdc0caf03",
+    "name": "yozigen",
+    "img": "https://avatars.slack-edge.com/2021-08-15/2405164316960_50d7f6e8be23e5b2a0eb_24.jpg",
+    "time": "2022/01/29 20:14:11",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1643451783541079"
+  },
+  {
+    "user": "U0PM6EYR1",
+    "text": "ドメイン失効でこんなことになるんですね…",
+    "client_msg_id": "95a7ff69-a110-424a-b431-60cce21a745e",
+    "name": "raa0121",
+    "img": "https://secure.gravatar.com/avatar/35b032d7b2d4182b0c2de1ef85ba91f2.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0009-24.png",
+    "time": "2022/01/29 20:14:11",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1643451699091939"
+  },
+  {
+    "user": "U02BLTTQEL9",
+    "text": "むずい。",
+    "client_msg_id": "8261bd24-58f4-48a7-b202-b8b85766119f",
+    "name": "buzz.taiki",
+    "img": "https://avatars.slack-edge.com/2021-08-15/2388525195124_53543ae8a9c6189fc784_24.jpg",
+    "time": "2022/01/29 20:14:12",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1643451631891899"
+  },
+  {
+    "user": "U0187SHUN1Z",
+    "text": "さっき開いたendeavouros.dbをもう一回見てもfunami techが使われたのでこれをどうにかしないといけないですね",
+    "client_msg_id": "378d6d77-8861-4bc8-ab1d-78603c6c4a0b",
+    "name": "ochimasumi",
+    "img": "https://secure.gravatar.com/avatar/cdfff9be12b12849f1eeb94b2196aca5.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0015-24.png",
+    "time": "2022/01/29 20:14:12",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1643451545856539"
+  },
+  {
+    "user": "U0187SHUN1Z",
+    "text": "1. コメントアウト\n2. sync下消す\n3. pacman -Syu",
+    "client_msg_id": "c80f7a12-c545-43e7-9ff7-7b67a97d33af",
+    "name": "ochimasumi",
+    "img": "https://secure.gravatar.com/avatar/cdfff9be12b12849f1eeb94b2196aca5.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0015-24.png",
+    "time": "2022/01/29 20:14:13",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1643451480538059"
+  },
+  {
+    "user": "U0187SHUN1Z",
+    "text": "！？！？",
+    "client_msg_id": "dbe284fe-3536-4547-bad5-e0bb27e08720",
+    "name": "ochimasumi",
+    "img": "https://secure.gravatar.com/avatar/cdfff9be12b12849f1eeb94b2196aca5.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0015-24.png",
+    "time": "2022/01/29 20:14:13",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1643451399580259"
+  },
+  {
+    "user": "U02BLTTQEL9",
+    "text": "わらっちゃった。",
+    "client_msg_id": "80030719-1b03-418a-bc45-0a37c2330c4b",
+    "name": "buzz.taiki",
+    "img": "https://avatars.slack-edge.com/2021-08-15/2388525195124_53543ae8a9c6189fc784_24.jpg",
+    "time": "2022/01/29 20:14:13",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1643451396372459"
+  },
+  {
+    "user": "U02BLTTQEL9",
+    "text": "<https://mirror.funami.tech/>",
+    "client_msg_id": "bfd3030a-6764-4e66-a75f-39fb7ced1d4c",
+    "name": "buzz.taiki",
+    "img": "https://avatars.slack-edge.com/2021-08-15/2388525195124_53543ae8a9c6189fc784_24.jpg",
+    "time": "2022/01/29 20:14:14",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1643451391722829"
+  },
+  {
+    "user": "U0187SHUN1Z",
+    "text": "そこからもわかるんですか！　たしかにfunamiって書いてある:eyes:\n手順として、",
+    "client_msg_id": "e6f1b181-f67a-4937-a5c2-09e086da2c7e",
+    "name": "ochimasumi",
+    "img": "https://secure.gravatar.com/avatar/cdfff9be12b12849f1eeb94b2196aca5.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0015-24.png",
+    "time": "2022/01/29 20:14:14",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1643451386604519"
+  },
+  {
     "user": "U02BLTTQEL9",
     "text": "html のスクショみると funami があやしそう。",
     "client_msg_id": "879d55b7-75bc-4f18-b497-811bb3ae870a",
     "name": "buzz.taiki",
     "img": "https://avatars.slack-edge.com/2021-08-15/2388525195124_53543ae8a9c6189fc784_24.jpg",
-    "time": "2022/01/29 19:16:23",
+    "time": "2022/01/29 20:14:14",
     "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1643451324030439"
   },
   {
