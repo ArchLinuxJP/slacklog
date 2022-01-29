@@ -1,11 +1,218 @@
 [
   {
+    "user": "U02BLTTQEL9",
+    "text": "html のスクショみると funami があやしそう。",
+    "client_msg_id": "879d55b7-75bc-4f18-b497-811bb3ae870a",
+    "name": "buzz.taiki",
+    "img": "https://avatars.slack-edge.com/2021-08-15/2388525195124_53543ae8a9c6189fc784_24.jpg",
+    "time": "2022/01/29 19:16:23",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1643451324030439"
+  },
+  {
+    "user": "U0187SHUN1Z",
+    "text": "archのmirror detailsをみるも、おかしなものはなさそう　ひとつひとつコメントアウトしてみます",
+    "client_msg_id": "e71536a1-c5ae-4406-b423-39d33f8b84b2",
+    "name": "ochimasumi",
+    "img": "https://secure.gravatar.com/avatar/cdfff9be12b12849f1eeb94b2196aca5.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0015-24.png",
+    "time": "2022/01/29 19:16:23",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1643451229678789"
+  },
+  {
+    "user": "U0187SHUN1Z",
+    "text": "なるほど！　とりあえずこいつらでした　リアルタイム障害情報とかあんのかな",
+    "client_msg_id": "55882bf3-d4c2-4419-81cd-1eb019245239",
+    "name": "ochimasumi",
+    "img": "https://secure.gravatar.com/avatar/cdfff9be12b12849f1eeb94b2196aca5.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0015-24.png",
+    "time": "2022/01/29 19:16:24",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1643450980796709"
+  },
+  {
+    "user": "U02BLTTQEL9",
+    "text": "なかで、壊れてるのがいるかもしれないのでそれ削除するとなおるかも。",
+    "client_msg_id": "7dc5a5c0-d0eb-4b93-92e8-e8b1fe6c16f7",
+    "name": "buzz.taiki",
+    "img": "https://avatars.slack-edge.com/2021-08-15/2388525195124_53543ae8a9c6189fc784_24.jpg",
+    "time": "2022/01/29 19:16:24",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1643450930531969"
+  },
+  {
+    "user": "U02BLTTQEL9",
+    "text": "もし本当に html だったとすると `pacman-conf -r endeavouros` で出てきたミラーの",
+    "client_msg_id": "f28c941d-fad4-4690-b560-0eb16640990d",
+    "name": "buzz.taiki",
+    "img": "https://avatars.slack-edge.com/2021-08-15/2388525195124_53543ae8a9c6189fc784_24.jpg",
+    "time": "2022/01/29 19:16:24",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1643450910387629"
+  },
+  {
+    "user": "U0187SHUN1Z",
+    "text": "普通にhtml書かれてる？",
+    "client_msg_id": "5741f999-1ca3-4bee-8bee-06371eda737c",
+    "name": "ochimasumi",
+    "img": "https://secure.gravatar.com/avatar/cdfff9be12b12849f1eeb94b2196aca5.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0015-24.png",
+    "time": "2022/01/29 19:16:25",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1643450906410439"
+  },
+  {
+    "user": "U0187SHUN1Z",
+    "text": "今やってもhtmlですね　開いてみるか",
+    "client_msg_id": "0ba42f36-717d-4160-a841-065fe321fa90",
+    "name": "ochimasumi",
+    "img": "https://secure.gravatar.com/avatar/cdfff9be12b12849f1eeb94b2196aca5.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0015-24.png",
+    "time": "2022/01/29 19:16:25",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1643450854008869"
+  },
+  {
+    "user": "U02BLTTQEL9",
+    "text": "endeavouros.db を file した結果はやっぱり html だったりしますか？",
+    "client_msg_id": "9027f378-1f7c-4152-999d-9fbf1acec56d",
+    "name": "buzz.taiki",
+    "img": "https://avatars.slack-edge.com/2021-08-15/2388525195124_53543ae8a9c6189fc784_24.jpg",
+    "time": "2022/01/29 19:16:25",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1643450832095399"
+  },
+  {
+    "user": "U0187SHUN1Z",
+    "text": "ありがとうございます　コメントあうとして、syncの下のやつ消しましたが、また同じエラーになりました　再起動はしてないです",
+    "client_msg_id": "75b40fb4-0341-42e0-9aef-66e2fa127b0f",
+    "name": "ochimasumi",
+    "img": "https://secure.gravatar.com/avatar/cdfff9be12b12849f1eeb94b2196aca5.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0015-24.png",
+    "time": "2022/01/29 19:16:26",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1643450755551889"
+  },
+  {
+    "user": "U02ASPM0A6T",
+    "text": "あ、すいません上記リンクそれでうまくいく理由はよくわからないな、参考程度でお願いします",
+    "client_msg_id": "17664184-b924-4023-a273-e676ba4510c0",
+    "name": "yozigen",
+    "img": "https://avatars.slack-edge.com/2021-08-15/2405164316960_50d7f6e8be23e5b2a0eb_24.jpg",
+    "time": "2022/01/29 19:16:26",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1643450755408569"
+  },
+  {
+    "user": "U0187SHUN1Z",
+    "text": "multilibはosu!かもです　osu!を昨晩入れてみよ〜って思って入れたときに入った気がします（32bitアプリというとそれしか思いつかない）\nでもosu!は別に要らないので、消しても問題ないです\n読んできます",
+    "client_msg_id": "18c598f3-473e-4058-980e-cbfc019b73a6",
+    "name": "ochimasumi",
+    "img": "https://secure.gravatar.com/avatar/cdfff9be12b12849f1eeb94b2196aca5.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0015-24.png",
+    "time": "2022/01/29 19:16:26",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1643450565416519"
+  },
+  {
+    "user": "U02ASPM0A6T",
+    "text": "multilib はあえて入れた感じですか？コメントアウトしてこれでいけるかなあ\n<https://bbs.archlinux.org/viewtopic.php?pid=1983577>",
+    "client_msg_id": "65de7290-00bc-47dc-8ab9-226b23160385",
+    "name": "yozigen",
+    "img": "https://avatars.slack-edge.com/2021-08-15/2405164316960_50d7f6e8be23e5b2a0eb_24.jpg",
+    "time": "2022/01/29 19:16:27",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1643450498423429"
+  },
+  {
+    "user": "U0187SHUN1Z",
+    "text": "何見たらいいんだ…　forumsかな",
+    "client_msg_id": "fda464b1-a59c-4fa0-b7d9-72479c26823e",
+    "name": "ochimasumi",
+    "img": "https://secure.gravatar.com/avatar/cdfff9be12b12849f1eeb94b2196aca5.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0015-24.png",
+    "time": "2022/01/29 19:16:27",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1643450490541709"
+  },
+  {
+    "user": "U02BLTTQEL9",
+    "text": "EndeavourOS の配布元が死んでるとかあるかもですね。",
+    "client_msg_id": "f42408a3-4786-47f8-b225-ceaf5813260f",
+    "name": "buzz.taiki",
+    "img": "https://avatars.slack-edge.com/2021-08-15/2388525195124_53543ae8a9c6189fc784_24.jpg",
+    "time": "2022/01/29 19:16:28",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1643450448609929"
+  },
+  {
+    "user": "U0187SHUN1Z",
+    "text": "となると、pacmanの問題というより、EndeavourOS自体のkeyの問題になりそうなところでしょうか？　\n調べます",
+    "client_msg_id": "68701e3f-ab0d-4c2a-8799-da351d84a82c",
+    "name": "ochimasumi",
+    "img": "https://secure.gravatar.com/avatar/cdfff9be12b12849f1eeb94b2196aca5.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0015-24.png",
+    "time": "2022/01/29 19:16:28",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1643450370423319"
+  },
+  {
+    "user": "U02BLTTQEL9",
+    "text": "endevoros.db が HTML とかってなってるので、そうかも。",
+    "client_msg_id": "ca5a86c0-0261-40b6-9bc7-ca8d1af03aef",
+    "name": "buzz.taiki",
+    "img": "https://avatars.slack-edge.com/2021-08-15/2388525195124_53543ae8a9c6189fc784_24.jpg",
+    "time": "2022/01/29 19:16:28",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1643450288207579"
+  },
+  {
+    "user": "U0187SHUN1Z",
+    "text": "`/var/lib/pacman/sync/`　下のファイルが壊れてるのでしょうか",
+    "client_msg_id": "f914aab7-b853-4e58-9955-f60af595ef31",
+    "name": "ochimasumi",
+    "img": "https://secure.gravatar.com/avatar/cdfff9be12b12849f1eeb94b2196aca5.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0015-24.png",
+    "time": "2022/01/29 19:16:29",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1643450023358539"
+  },
+  {
+    "user": "U0187SHUN1Z",
+    "text": "ほう:eyes:　\n本当にお気持ちなので、裏でなにやってるかわかってないです　WKDあたりでググってみます",
+    "client_msg_id": "338bd8e2-bd77-4341-add7-3db1f73f294c",
+    "name": "ochimasumi",
+    "img": "https://secure.gravatar.com/avatar/cdfff9be12b12849f1eeb94b2196aca5.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0015-24.png",
+    "time": "2022/01/29 19:16:29",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1643449803049129"
+  },
+  {
+    "user": "U02BLTTQEL9",
+    "text": "WKD への接続がタイムアウトしてその結果鍵DBがcorruptしたって事っぽい感じはする。",
+    "client_msg_id": "f4d48702-2b0c-4346-a075-ddda3ce7a613",
+    "name": "buzz.taiki",
+    "img": "https://avatars.slack-edge.com/2021-08-15/2388525195124_53543ae8a9c6189fc784_24.jpg",
+    "time": "2022/01/29 19:16:29",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1643449758683139"
+  },
+  {
+    "user": "U02BLTTQEL9",
+    "text": "gnupg 雰囲気で使ってるだけなので詳しくないんですけど WKD は鍵サーバとはまた別のなにかですかね？\n\n<https://wiki.gnupg.org/WKD>",
+    "client_msg_id": "d3f7bf7c-ca9b-4c35-946a-2a85df1e2c90",
+    "name": "buzz.taiki",
+    "img": "https://avatars.slack-edge.com/2021-08-15/2388525195124_53543ae8a9c6189fc784_24.jpg",
+    "time": "2022/01/29 19:16:30",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1643449681397269"
+  },
+  {
+    "user": "U02BLTTQEL9",
+    "text": "retrieving ... via WKD とかって出てるところでタイムアウトしてるとか出てますねぇ。",
+    "client_msg_id": "8a866976-727d-4e8a-98f0-ee0a0bb5b564",
+    "name": "buzz.taiki",
+    "img": "https://avatars.slack-edge.com/2021-08-15/2388525195124_53543ae8a9c6189fc784_24.jpg",
+    "time": "2022/01/29 19:16:30",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1643449414638239"
+  },
+  {
+    "user": "U0187SHUN1Z",
+    "text": "ありがとうございます　試してみましたが、変わらずでした……　\n何か重要なファイルを消してしまったのかしら…",
+    "client_msg_id": "6cc59f29-78f3-49e5-b1a8-1d5b8791ab28",
+    "name": "ochimasumi",
+    "img": "https://secure.gravatar.com/avatar/cdfff9be12b12849f1eeb94b2196aca5.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0015-24.png",
+    "time": "2022/01/29 19:16:30",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1643449077559829"
+  },
+  {
+    "user": "U02ASPM0A6T",
+    "text": "関係ないかもしれませんが、下記でmirrorlistを更新するとどうですか\n`sudo cp /etc/pacman.d/mirrorlist{,.bk}`\n`sudo reflector --country 'Japan,Australia,' --age 24 --protocol https --sort rate --save /etc/pacman.d/mirrorlist`",
+    "client_msg_id": "7576de68-5535-4004-85b5-e47ba7fcb059",
+    "name": "yozigen",
+    "img": "https://avatars.slack-edge.com/2021-08-15/2405164316960_50d7f6e8be23e5b2a0eb_24.jpg",
+    "time": "2022/01/29 19:16:31",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1643448687314029"
+  },
+  {
     "user": "U0187SHUN1Z",
     "text": "相談させてください:pray:\n\n環境はEndeavourOS（ほぼほぼArch）なんですが、updateをしようと思ってコマンドを叩いたら画像のようなエラーが出てしまいました。\n\nググって、このコマンドで鍵を作っても最後のrefresh-keysで２枚目の画像のようなエラーが出てしまいました\n```sudo pacman-key --init\nsudo pacman-key --populate\nsudo pacman-key --refresh-keys```\n解決が難しいので考えられる原因、試してほしいことなど教えていただけたら本当に助かります。\n\n今日は.zshrcをいじって遊んでいただけで、$HOME下のzsh configをいじっただけなので変なことはしてないと思います　　\n\npacmanとyayの-Syuも2日前はした覚えがあります\n\n追記：再起動もしましたが、変わらずです",
     "client_msg_id": "1e221e81-d9c8-45b8-adda-7cacb3d111da",
     "name": "ochimasumi",
     "img": "https://secure.gravatar.com/avatar/cdfff9be12b12849f1eeb94b2196aca5.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0015-24.png",
-    "time": "2022/01/29 18:15:29",
+    "time": "2022/01/29 19:16:31",
     "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1643447268352669"
   },
   {
