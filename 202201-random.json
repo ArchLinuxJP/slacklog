@@ -1,11 +1,20 @@
 [
   {
+    "user": "U0187SHUN1Z",
+    "text": "相談させてください:pray:\n\n環境はEndeavourOS（ほぼほぼArch）なんですが、updateをしようと思ってコマンドを叩いたら画像のようなエラーが出てしまいました。\n\nググって、このコマンドで鍵を作っても最後のrefresh-keysで２枚目の画像のようなエラーが出てしまいました\n```sudo pacman-key --init\nsudo pacman-key --populate\nsudo pacman-key --refresh-keys```\n解決が難しいので考えられる原因、試してほしいことなど教えていただけたら本当に助かります。\n\n今日は.zshrcをいじって遊んでいただけで、$HOME下のzsh configをいじっただけなので変なことはしてないと思います　　\n\npacmanとyayの-Syuも2日前はした覚えがあります\n\n追記：再起動もしましたが、変わらずです",
+    "client_msg_id": "1e221e81-d9c8-45b8-adda-7cacb3d111da",
+    "name": "ochimasumi",
+    "img": "https://secure.gravatar.com/avatar/cdfff9be12b12849f1eeb94b2196aca5.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0015-24.png",
+    "time": "2022/01/29 18:15:29",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1643447268352669"
+  },
+  {
     "user": "U02ASPM0A6T",
     "text": "agettyのデフォルトフォント変わりましたかね？",
     "client_msg_id": "db900258-22ab-48c2-826f-766522a488a1",
     "name": "yozigen",
     "img": "https://avatars.slack-edge.com/2021-08-15/2405164316960_50d7f6e8be23e5b2a0eb_24.jpg",
-    "time": "2022/01/29 14:14:14",
+    "time": "2022/01/29 18:15:30",
     "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1643430802179059"
   },
   {
