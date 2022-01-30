@@ -1,11 +1,29 @@
 [
   {
     "user": "U70QDFN82",
+    "text": "まあなくはない気もしますが、私ならsystemd-bootが最近デファクトになってきてるのでそっちで動くならOKって思っちゃいますね",
+    "client_msg_id": "b0341a0b-fcd7-4d54-81b4-3fffc480e1d3",
+    "name": "yutakatay",
+    "img": "https://avatars.slack-edge.com/2020-08-16/1302143736069_0baa468f7bea68e827d9_24.png",
+    "time": "2022/01/30 15:18:18",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1643523332673509"
+  },
+  {
+    "user": "U01QTK2CP3K",
+    "text": "MSIのM/Bだとgrubが認識されないとかあるんですかね？\nM/B変えたら起動できなくなって、インストールメディアで回復を試みたらそっちは無事起動。\nでもブートローダーgrubで焼き直しても、esp作り直しても、.efi各所においても起動できなくて、試しにsystemd-bootに変えたら一発起動。\nこれはM/Bのせいなのか、intelチップセットのせいなのか、、、",
+    "client_msg_id": "43ac2628-a3c5-45ab-9fe9-571ba756ac34",
+    "name": "redohagi127",
+    "img": "https://avatars.slack-edge.com/2021-12-31/2920219642768_bbde2736d2110b1a109d_24.jpg",
+    "time": "2022/01/30 15:18:18",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1643521662566389"
+  },
+  {
+    "user": "U70QDFN82",
     "text": "まあ普通に晒していいなら絶対書いたほうがよいですね",
     "client_msg_id": "404ccbd1-95c1-439a-a84d-f57f8a428983",
     "name": "yutakatay",
     "img": "https://avatars.slack-edge.com/2020-08-16/1302143736069_0baa468f7bea68e827d9_24.png",
-    "time": "2022/01/29 22:16:40",
+    "time": "2022/01/30 15:18:19",
     "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1643461335053049"
   },
   {
