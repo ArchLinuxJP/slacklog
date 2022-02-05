@@ -1,11 +1,110 @@
 [
   {
+    "user": "UPLFHSQ2V",
+    "text": "あーなるほど。altairのaurを落としてきてローカルでmakepkgすればいいんですね。",
+    "client_msg_id": "973147c4-a6e9-47f9-b93d-5cc09c22e01c",
+    "name": "conao3",
+    "img": "https://secure.gravatar.com/avatar/1a9a49807415fb97544a7383a9288b84.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0006-24.png",
+    "time": "2022/02/05 16:12:44",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1644045107311779"
+  },
+  {
+    "user": "UUWBU08TU",
+    "text": "公式リポジトリはpacmanで、AURは自分でPKGBUILD落としてきて `makepkg` する分には問題ないかと。yayはしばらく使えないかな……なんて思っています。(ちゃんと追ってない)",
+    "client_msg_id": "7a0fbaaa-8790-47e9-b2cd-7dbfaf30d35f",
+    "name": "nyaarch64",
+    "img": "https://avatars.slack-edge.com/2020-06-22/1204027183412_7f7a529c9005aa8cce36_24.png",
+    "time": "2022/02/05 16:12:44",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1644044948718549"
+  },
+  {
+    "user": "UPLFHSQ2V",
+    "text": "むむむ。。なるほど。。",
+    "client_msg_id": "830eb0a5-7381-4f69-931e-b9a102073873",
+    "name": "conao3",
+    "img": "https://secure.gravatar.com/avatar/1a9a49807415fb97544a7383a9288b84.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0006-24.png",
+    "time": "2022/02/05 16:12:44",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1644044905907509"
+  },
+  {
+    "user": "UUWBU08TU",
+    "text": "まだこのissueがcloseされてないので、最新でも直っていない気がします",
+    "client_msg_id": "66f7bf03-1605-4bd7-ad94-f6fd4157cd34",
+    "name": "nyaarch64",
+    "img": "https://avatars.slack-edge.com/2020-06-22/1204027183412_7f7a529c9005aa8cce36_24.png",
+    "time": "2022/02/05 16:12:45",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1644044883972219"
+  },
+  {
+    "user": "UPLFHSQ2V",
+    "text": "これはどうやってアップデートしたらいいんでしょう？\nyayの最新を取ってきてmakepkgすれば良いんでしょうか？",
+    "client_msg_id": "1b964edd-a46f-4735-83eb-97df926fd105",
+    "name": "conao3",
+    "img": "https://secure.gravatar.com/avatar/1a9a49807415fb97544a7383a9288b84.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0006-24.png",
+    "time": "2022/02/05 16:12:45",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1644044855218759"
+  },
+  {
+    "user": "UUWBU08TU",
+    "text": "mailing listでaurweb6.0のリリースが流れてきて、へ〜〜〜とか思ってたんですが、結構破壊的な変更入ったみたいですねー。過去にも何回かあったような。",
+    "client_msg_id": "67879bc5-f739-416d-adb9-c2cfde966b11",
+    "name": "nyaarch64",
+    "img": "https://avatars.slack-edge.com/2020-06-22/1204027183412_7f7a529c9005aa8cce36_24.png",
+    "time": "2022/02/05 16:12:45",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1644044845329469"
+  },
+  {
+    "user": "UPLFHSQ2V",
+    "text": "```$ yay -Syu\n[sudo] password for conao: \n:: Synchronizing package databases...\n core is up to date\n extra is up to date\n community is up to date\n multilib is up to date\n:: Starting full system upgrade...\n there is nothing to do\n:: Searching databases for updates...\n:: Searching AUR for updates...\n -&gt; response decoding failed: invalid character '&lt;' looking for beginning of value```\nたしかにaltairじゃなくて `yay -Syu` でもエラーになってますね。。",
+    "client_msg_id": "68b09989-f364-4a8a-bf84-b6e32a1c5371",
+    "name": "conao3",
+    "img": "https://secure.gravatar.com/avatar/1a9a49807415fb97544a7383a9288b84.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0006-24.png",
+    "time": "2022/02/05 16:12:46",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1644044801497369"
+  },
+  {
+    "user": "UUWBU08TU",
+    "text": "AURWebの新しいバージョンがリリースされたので、そのAPIに依存しているyayがエラーになってしまっているという状況かと",
+    "client_msg_id": "b80c1a1e-5804-496a-9562-77ed854f0154",
+    "name": "nyaarch64",
+    "img": "https://avatars.slack-edge.com/2020-06-22/1204027183412_7f7a529c9005aa8cce36_24.png",
+    "time": "2022/02/05 16:12:46",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1644044778395909"
+  },
+  {
+    "user": "UUWBU08TU",
+    "text": "<https://github.com/Jguer/yay/issues/1684>\n多分これです",
+    "client_msg_id": "e005e195-d04a-4fe2-9390-f05355534fa8",
+    "name": "nyaarch64",
+    "img": "https://avatars.slack-edge.com/2020-06-22/1204027183412_7f7a529c9005aa8cce36_24.png",
+    "time": "2022/02/05 16:12:47",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1644044741675759"
+  },
+  {
+    "user": "UUWBU08TU",
+    "text": "最近リリースが出てたような気が",
+    "client_msg_id": "f579421c-9fd0-4741-b072-2ec0636cae37",
+    "name": "nyaarch64",
+    "img": "https://avatars.slack-edge.com/2020-06-22/1204027183412_7f7a529c9005aa8cce36_24.png",
+    "time": "2022/02/05 16:12:47",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1644044495066399"
+  },
+  {
+    "user": "UPLFHSQ2V",
+    "text": "<https://github.com/altair-graphql/altair>\naltairというGraphQLクライアントを見つけたので、yayでインストールしようとするとこんなエラーが。。\nこういうときどこを見れば良いのでしょう？\n```$ yay -S altair\n -&gt; response decoding failed: invalid character '&lt;' looking for beginning of value```",
+    "client_msg_id": "bdbae5de-2167-4734-8c02-cf949eb8f13f",
+    "name": "conao3",
+    "img": "https://secure.gravatar.com/avatar/1a9a49807415fb97544a7383a9288b84.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0006-24.png",
+    "time": "2022/02/05 16:12:47",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1644044118408779"
+  },
+  {
     "user": "U8T8KB5M4",
     "text": "わかりやすい詳細で良い、",
     "client_msg_id": "339ccef2-9714-48aa-8d75-28a3e5b8ac53",
     "name": "h.hata.ai.t",
     "img": "https://avatars.slack-edge.com/2019-08-19/732537331990_536f34e28226326cb4e8_24.png",
-    "time": "2022/02/04 22:14:05",
+    "time": "2022/02/05 16:12:48",
     "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1643978663198279"
   },
   {
