@@ -1,11 +1,209 @@
 [
   {
     "user": "U8T8KB5M4",
+    "text": "patch送ろうかと思って今commit遡ってみてました。",
+    "client_msg_id": "ccdd643f-179c-4279-a724-c81654dd1895",
+    "name": "h.hata.ai.t",
+    "img": "https://avatars.slack-edge.com/2019-08-19/732537331990_536f34e28226326cb4e8_24.png",
+    "time": "2022/02/05 18:13:48",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1644052263653519"
+  },
+  {
+    "user": "U02BLTTQEL9",
+    "text": "先祖返りっぽい。",
+    "client_msg_id": "0df8b6f2-da5f-48a0-abd8-51a5dc64637a",
+    "name": "buzz.taiki",
+    "img": "https://avatars.slack-edge.com/2021-08-15/2388525195124_53543ae8a9c6189fc784_24.jpg",
+    "time": "2022/02/05 18:13:49",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1644052262707119"
+  },
+  {
+    "user": "U8T8KB5M4",
+    "text": "なのでなんか意図していない気がしています。",
+    "client_msg_id": "c7ea048f-34d8-4b3a-87a7-05b96aba48f6",
+    "name": "h.hata.ai.t",
+    "img": "https://avatars.slack-edge.com/2019-08-19/732537331990_536f34e28226326cb4e8_24.png",
+    "time": "2022/02/05 18:13:49",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1644052247274259"
+  },
+  {
+    "user": "U8T8KB5M4",
+    "text": "で、ここでなんのコメントもなくv5になったんですよね\n<https://gitlab.archlinux.org/archlinux/aurweb/-/commit/7c4fb539d8d88375d66dd7466bbc6e058f64c3a1#f79505275ac9b4a973d30b602fa570beab676cfe_68_54>",
+    "client_msg_id": "6d9961da-380c-4c1f-b46f-aaefb7295ac6",
+    "name": "h.hata.ai.t",
+    "img": "https://avatars.slack-edge.com/2019-08-19/732537331990_536f34e28226326cb4e8_24.png",
+    "time": "2022/02/05 18:13:49",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1644052240180329"
+  },
+  {
+    "user": "U02BLTTQEL9",
+    "text": "<https://gitlab.archlinux.org/archlinux/aurweb/-/blob/master/doc/rpc.txt> にもしっかり `v6`ってありますね。",
+    "client_msg_id": "2e009363-b57d-44c5-baa0-bf93b5bf594e",
+    "name": "buzz.taiki",
+    "img": "https://avatars.slack-edge.com/2021-08-15/2388525195124_53543ae8a9c6189fc784_24.jpg",
+    "time": "2022/02/05 18:13:50",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1644052213954079"
+  },
+  {
+    "user": "U8T8KB5M4",
+    "text": "たぶん意図していないような気がします。この時点ではv6使えたみたいなんですよね。\n<https://gitlab.archlinux.org/archlinux/aurweb/-/commit/efe99dc16f2a94be1d4e5917a07fee2260f3d547>",
+    "client_msg_id": "23214ef7-6423-4879-a4e1-4084f22b265a",
+    "name": "h.hata.ai.t",
+    "img": "https://avatars.slack-edge.com/2019-08-19/732537331990_536f34e28226326cb4e8_24.png",
+    "time": "2022/02/05 18:13:50",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1644052164199529"
+  },
+  {
+    "user": "U02BLTTQEL9",
+    "text": "でも aurweb  v6 になったんだから v6 使わせろよとは思う。",
+    "client_msg_id": "8a017ad5-c9e7-4a1c-bddb-1d7bc1412677",
+    "name": "buzz.taiki",
+    "img": "https://avatars.slack-edge.com/2021-08-15/2388525195124_53543ae8a9c6189fc784_24.jpg",
+    "time": "2022/02/05 18:13:50",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1644052135368509"
+  },
+  {
+    "user": "U02BLTTQEL9",
+    "text": "互換性たもってるから `v5` のままっていう。",
+    "client_msg_id": "78e9b36c-340e-4247-9438-ddecd7dd543c",
+    "name": "buzz.taiki",
+    "img": "https://avatars.slack-edge.com/2021-08-15/2388525195124_53543ae8a9c6189fc784_24.jpg",
+    "time": "2022/02/05 18:13:51",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1644052065374049"
+  },
+  {
+    "user": "UGA29R3FH",
+    "text": "ですよねー",
+    "client_msg_id": "172293d2-152f-42e0-b219-eab8370dfeb0",
+    "name": "znmxodq1",
+    "img": "https://avatars.slack-edge.com/2019-03-08/570571829091_2ca91fb0cc1ed2341fe0_24.png",
+    "time": "2022/02/05 18:13:51",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1644052034000469"
+  },
+  {
+    "user": "U02BLTTQEL9",
+    "text": "多分だけど `.php` は使われてるつもり無かったんじゃないのかなぁ。",
+    "client_msg_id": "2e7ef037-8066-4c24-a3f3-0c15cb452dca",
+    "name": "buzz.taiki",
+    "img": "https://avatars.slack-edge.com/2021-08-15/2388525195124_53543ae8a9c6189fc784_24.jpg",
+    "time": "2022/02/05 18:13:51",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1644052021702209"
+  },
+  {
+    "user": "UGA29R3FH",
+    "text": "前回の騒動の時もあまりやる気ないみたいな話出てませんでした？",
+    "client_msg_id": "92cb5d32-6242-4c48-8267-2b6fa53028ba",
+    "name": "znmxodq1",
+    "img": "https://avatars.slack-edge.com/2019-03-08/570571829091_2ca91fb0cc1ed2341fe0_24.png",
+    "time": "2022/02/05 18:13:52",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1644051955125329"
+  },
+  {
+    "user": "U8T8KB5M4",
+    "text": "APIはv5",
+    "client_msg_id": "07162263-cada-4ce6-857c-4717430e8c26",
+    "name": "h.hata.ai.t",
+    "img": "https://avatars.slack-edge.com/2019-08-19/732537331990_536f34e28226326cb4e8_24.png",
+    "time": "2022/02/05 18:13:52",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1644051907271789"
+  },
+  {
+    "user": "U8T8KB5M4",
+    "text": "aurwebのソース読んでてさらにややこしいのがaurweb自体はv6なんですが  `/?v=6&amp;type=search` は実は動かないですね。",
+    "client_msg_id": "7d3fb36c-d6e1-4bc2-8253-118123affa6e",
+    "name": "h.hata.ai.t",
+    "img": "https://avatars.slack-edge.com/2019-08-19/732537331990_536f34e28226326cb4e8_24.png",
+    "time": "2022/02/05 18:13:52",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1644051899670579"
+  },
+  {
+    "user": "UGA29R3FH",
+    "text": "なんかyayの時代が終わりつつあるような気がする",
+    "client_msg_id": "2bd6df37-3dd6-43ec-a1ba-044d97520755",
+    "name": "znmxodq1",
+    "img": "https://avatars.slack-edge.com/2019-03-08/570571829091_2ca91fb0cc1ed2341fe0_24.png",
+    "time": "2022/02/05 18:13:53",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1644051857754149"
+  },
+  {
+    "user": "U02BLTTQEL9",
+    "text": "aurweb が 5 -&gt; 6 で php から python に実装が変わって、`.php` 付きの URL が使えなくなった。paru は元々 `.php` 付けてなかったから大丈夫。\n\nって事なのかな。",
+    "client_msg_id": "0d87309a-9f7e-4837-9482-1bf5c870fe83",
+    "name": "buzz.taiki",
+    "img": "https://avatars.slack-edge.com/2021-08-15/2388525195124_53543ae8a9c6189fc784_24.jpg",
+    "time": "2022/02/05 18:13:53",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1644051667375769"
+  },
+  {
+    "user": "U70QDFN82",
+    "text": "称賛の嵐やんw",
+    "client_msg_id": "13394215-77f4-4523-aa3e-cf40d84b9f93",
+    "name": "yutakatay",
+    "img": "https://avatars.slack-edge.com/2020-08-16/1302143736069_0baa468f7bea68e827d9_24.png",
+    "time": "2022/02/05 18:13:53",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1644051512791009"
+  },
+  {
+    "user": "U02BLTTQEL9",
+    "text": "べんり。",
+    "client_msg_id": "8a212693-9a05-442d-bc0b-3cf2dd0b4219",
+    "name": "buzz.taiki",
+    "img": "https://avatars.slack-edge.com/2021-08-15/2388525195124_53543ae8a9c6189fc784_24.jpg",
+    "time": "2022/02/05 18:13:54",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1644051500634909"
+  },
+  {
+    "user": "UGA29R3FH",
+    "text": "このパディングはウケる",
+    "client_msg_id": "e0a428de-ce02-4a2f-a118-5e830000b54c",
+    "name": "znmxodq1",
+    "img": "https://avatars.slack-edge.com/2019-03-08/570571829091_2ca91fb0cc1ed2341fe0_24.png",
+    "time": "2022/02/05 18:13:54",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1644051487640739"
+  },
+  {
+    "user": "UGA29R3FH",
+    "text": "バイナリパッチは草",
+    "client_msg_id": "aa719067-87d4-4895-b5a8-f5ca55b74082",
+    "name": "znmxodq1",
+    "img": "https://avatars.slack-edge.com/2019-03-08/570571829091_2ca91fb0cc1ed2341fe0_24.png",
+    "time": "2022/02/05 18:13:54",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1644051435955099"
+  },
+  {
+    "user": "U02BLTTQEL9",
+    "text": "わらった。\n<https://github.com/Jguer/yay/issues/1684#issuecomment-1030511989>\n\n```$ sudo sed -i 's:rpc.php:rpc////:g' /usr/bin/yay```",
+    "client_msg_id": "2f7b42fc-2ad0-424b-b2f2-8ee736329f86",
+    "name": "buzz.taiki",
+    "img": "https://avatars.slack-edge.com/2021-08-15/2388525195124_53543ae8a9c6189fc784_24.jpg",
+    "time": "2022/02/05 18:13:55",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1644051345106859"
+  },
+  {
+    "user": "U8T8KB5M4",
+    "text": "一応clientの方にもPR出しておきました。\n<https://github.com/Jguer/aur/pull/3>",
+    "client_msg_id": "cc8c07e1-bccc-403a-b5ff-9909fcfcbf4b",
+    "name": "h.hata.ai.t",
+    "img": "https://avatars.slack-edge.com/2019-08-19/732537331990_536f34e28226326cb4e8_24.png",
+    "time": "2022/02/05 18:13:55",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1644049747201589"
+  },
+  {
+    "user": "U8T8KB5M4",
+    "text": "バージョンをクエリパラメータで管理しているのでバージョンごとにルーティングかんたんに分けれなそうなのも相まって。",
+    "client_msg_id": "66285748-cb81-42ee-aefa-9e026891697b",
+    "name": "h.hata.ai.t",
+    "img": "https://avatars.slack-edge.com/2019-08-19/732537331990_536f34e28226326cb4e8_24.png",
+    "time": "2022/02/05 18:13:55",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1644048959762459"
+  },
+  {
+    "user": "U8T8KB5M4",
     "text": "ざっと見た感じ今回きついのは `v5` APIで使えていた php エンドポイントが突如使えなくなったことなのでAUR helperがわもきつそうですね。",
     "client_msg_id": "c73f02e5-ac3a-4aa1-8e39-addc19399d72",
     "name": "h.hata.ai.t",
     "img": "https://avatars.slack-edge.com/2019-08-19/732537331990_536f34e28226326cb4e8_24.png",
-    "time": "2022/02/05 17:15:10",
+    "time": "2022/02/05 18:13:56",
     "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1644048897633329"
   },
   {
