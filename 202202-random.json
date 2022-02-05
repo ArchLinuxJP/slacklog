@@ -1,11 +1,209 @@
 [
   {
+    "user": "U8T8KB5M4",
+    "text": "ざっと見た感じ今回きついのは `v5` APIで使えていた php エンドポイントが突如使えなくなったことなのでAUR helperがわもきつそうですね。",
+    "client_msg_id": "c73f02e5-ac3a-4aa1-8e39-addc19399d72",
+    "name": "h.hata.ai.t",
+    "img": "https://avatars.slack-edge.com/2019-08-19/732537331990_536f34e28226326cb4e8_24.png",
+    "time": "2022/02/05 17:15:10",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1644048897633329"
+  },
+  {
+    "user": "UUWBU08TU",
+    "text": "そろそろAURWebの破壊的変更の事前告知とリリーススケジュール調整があってもいい気はする(AUR Helper側が追えというのはそうかもしれないけど)",
+    "client_msg_id": "033c6a8b-a7cb-49e7-b900-2d66bbb47bbc",
+    "name": "nyaarch64",
+    "img": "https://avatars.slack-edge.com/2020-06-22/1204027183412_7f7a529c9005aa8cce36_24.png",
+    "time": "2022/02/05 17:15:11",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1644048747197859"
+  },
+  {
+    "user": "UUWBU08TU",
+    "text": "AURあんまり使ってないし、バグってたらバグってる〜かわいいね〜くらいの気持ちです(無料で使わせていただいているので負の感情が0)",
+    "client_msg_id": "8ddfe841-1332-4bcb-b884-7d164a8c1213",
+    "name": "nyaarch64",
+    "img": "https://avatars.slack-edge.com/2020-06-22/1204027183412_7f7a529c9005aa8cce36_24.png",
+    "time": "2022/02/05 17:15:11",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1644048703242249"
+  },
+  {
+    "user": "U8T8KB5M4",
+    "text": "まってればAURWebのほうが一旦戻してくれそうですね。\n<https://gitlab.archlinux.org/archlinux/aurweb/-/commit/101de8e7b18916dd84ae52d39fb853924ea63a42>",
+    "client_msg_id": "b7fbda0a-d49b-4fda-a26b-10899660ec2d",
+    "name": "h.hata.ai.t",
+    "img": "https://avatars.slack-edge.com/2019-08-19/732537331990_536f34e28226326cb4e8_24.png",
+    "time": "2022/02/05 17:15:11",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1644048566721999"
+  },
+  {
+    "user": "U8T8KB5M4",
+    "text": "このPR試してみましたがこれで動くのは確認できました。",
+    "client_msg_id": "fcf2f3e6-43d7-409d-b5ae-a68adbc4d1f6",
+    "name": "h.hata.ai.t",
+    "img": "https://avatars.slack-edge.com/2019-08-19/732537331990_536f34e28226326cb4e8_24.png",
+    "time": "2022/02/05 17:15:12",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1644047271570819"
+  },
+  {
+    "user": "U70QDFN82",
+    "text": "基本あまり書いてない言語だとちょいとしたバグ直すときに少し気合入れないといけないのがつらいんですよね・・・私はGo moduleあたりからGoは全く追えてないから最近あんまりいじりたくない",
+    "client_msg_id": "29f01bbc-b46c-4f8d-aa80-5679ba604ae2",
+    "name": "yutakatay",
+    "img": "https://avatars.slack-edge.com/2020-08-16/1302143736069_0baa468f7bea68e827d9_24.png",
+    "time": "2022/02/05 17:15:12",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1644046829643179"
+  },
+  {
+    "user": "U8T8KB5M4",
+    "text": "runtime依存なく使えてメンテ浴されていればそこまでこだわりはないんですけどね。 &gt; aur helper",
+    "client_msg_id": "b3cda3cf-0933-44bb-8dd9-8deb8cbb2287",
+    "name": "h.hata.ai.t",
+    "img": "https://avatars.slack-edge.com/2019-08-19/732537331990_536f34e28226326cb4e8_24.png",
+    "time": "2022/02/05 17:15:12",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1644046671404339"
+  },
+  {
+    "user": "U0GFBAM8U",
+    "text": "わからなくなった",
+    "client_msg_id": "C29DF9F4-E19D-47A9-B60A-F74110F2F2D4",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2022/02/05 17:15:13",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1644046656714849"
+  },
+  {
+    "user": "U70QDFN82",
+    "text": "まぁ別にバグるのはいいと思うんですけどyayって対応遅いイメージあるんですよね・・・",
+    "client_msg_id": "67efc4ae-b97d-4fd1-8ae0-9a87ab7d78b4",
+    "name": "yutakatay",
+    "img": "https://avatars.slack-edge.com/2020-08-16/1302143736069_0baa468f7bea68e827d9_24.png",
+    "time": "2022/02/05 17:15:13",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1644046634735889"
+  },
+  {
+    "user": "U0GFBAM8U",
+    "text": "そのうち治りそうですね",
+    "client_msg_id": "0E58F52B-D6BD-43B3-A814-B773D7B00DC9",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2022/02/05 17:15:14",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1644046602600589"
+  },
+  {
+    "user": "U70QDFN82",
+    "text": ":me-too:",
+    "client_msg_id": "25cc5751-b0eb-430a-aa0b-0007f4fe2c5e",
+    "name": "yutakatay",
+    "img": "https://avatars.slack-edge.com/2020-08-16/1302143736069_0baa468f7bea68e827d9_24.png",
+    "time": "2022/02/05 17:15:14",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1644046593605939"
+  },
+  {
+    "user": "U0GFBAM8U",
+    "text": "<@U8T8KB5M4> さんはrustのイメージあったからそうだと思った",
+    "client_msg_id": "71AB1EF7-14C0-44EB-89C9-171B55A396C5",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2022/02/05 17:15:14",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1644046556142309"
+  },
+  {
+    "user": "U8T8KB5M4",
+    "text": "clientの呼び出し側で設定上書きできるようでPRでてますねー\n<https://github.com/Jguer/yay/pull/1685>",
+    "client_msg_id": "4779022c-6d7e-4665-ad41-7b12344cc180",
+    "name": "h.hata.ai.t",
+    "img": "https://avatars.slack-edge.com/2019-08-19/732537331990_536f34e28226326cb4e8_24.png",
+    "time": "2022/02/05 17:15:15",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1644046530915639"
+  },
+  {
+    "user": "U8T8KB5M4",
+    "text": "自分は今はparuですねー",
+    "client_msg_id": "0482a962-25a6-49f0-8694-a23acfd29f45",
+    "name": "h.hata.ai.t",
+    "img": "https://avatars.slack-edge.com/2019-08-19/732537331990_536f34e28226326cb4e8_24.png",
+    "time": "2022/02/05 17:15:15",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1644046511467159"
+  },
+  {
+    "user": "U0GFBAM8U",
+    "text": "そういえば<@U8T8KB5M4> さんはyayなんです?",
+    "client_msg_id": "38659790-EFB5-4DB4-B660-D1B1DF67D69E",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2022/02/05 17:15:15",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1644046500762909"
+  },
+  {
+    "user": "U70QDFN82",
+    "text": "乗り換え楽だしみんなもparu使おうぜ！",
+    "client_msg_id": "5eef70c2-25ee-4e82-9014-2d6acd2fc5eb",
+    "name": "yutakatay",
+    "img": "https://avatars.slack-edge.com/2020-08-16/1302143736069_0baa468f7bea68e827d9_24.png",
+    "time": "2022/02/05 17:15:16",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1644046387731819"
+  },
+  {
+    "user": "U0GFBAM8U",
+    "text": "原因わかってるなら、そのうちyay本体がclient.goのバージョン固定でビルドされ治るかもですね\nあるいは自分でyayをビルドして使うか",
+    "client_msg_id": "59341B48-726B-4AFF-9EF8-7C4E28DD52A2",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2022/02/05 17:15:16",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1644046344180489"
+  },
+  {
+    "user": "U0GFBAM8U",
+    "text": "なるほど",
+    "client_msg_id": "8AD13D44-24E4-4A05-B80C-05609FFF6377",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2022/02/05 17:15:17",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1644046236903799"
+  },
+  {
+    "user": "U8T8KB5M4",
+    "text": "yay本体でなくこっちの依存のほうっぽいですねー\n<https://github.com/Jguer/aur/blob/master/client.go#L25|https://github.com/Jguer/aur/blob/master/client.go#L25>",
+    "client_msg_id": "cfa1811d-27fc-4d14-bff9-a51fa5781bfb",
+    "name": "h.hata.ai.t",
+    "img": "https://avatars.slack-edge.com/2019-08-19/732537331990_536f34e28226326cb4e8_24.png",
+    "time": "2022/02/05 17:15:17",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1644045648556839"
+  },
+  {
+    "user": "UPLFHSQ2V",
+    "text": "なるほど。altairのaurを落としてローカルでmakepkgしたらちゃんとインストールできました!\nちょっと急ぎなので移行はまた考えます。ありがとうございますー!",
+    "client_msg_id": "34ba647d-a11e-4ecf-bf70-3702caed8b8d",
+    "name": "conao3",
+    "img": "https://secure.gravatar.com/avatar/1a9a49807415fb97544a7383a9288b84.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0006-24.png",
+    "time": "2022/02/05 17:15:17",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1644045287850669"
+  },
+  {
+    "user": "U0GFBAM8U",
+    "text": "paruは動いてるぽいので、乗り換えてみるのもいいかもしれません",
+    "client_msg_id": "1e516f92-1881-452f-a378-10584472a989",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2022/02/05 17:15:18",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1644045209653009"
+  },
+  {
+    "user": "U0GFBAM8U",
+    "text": "自分はlibalpmのときyayが動かなくなったので yay -&gt; paru に乗り換えた記憶",
+    "client_msg_id": "97e8abeb-3992-4258-8302-6e34e2409d45",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2022/02/05 17:15:18",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1644045182757649"
+  },
+  {
     "user": "UPLFHSQ2V",
     "text": "あーなるほど。altairのaurを落としてきてローカルでmakepkgすればいいんですね。",
     "client_msg_id": "973147c4-a6e9-47f9-b93d-5cc09c22e01c",
     "name": "conao3",
     "img": "https://secure.gravatar.com/avatar/1a9a49807415fb97544a7383a9288b84.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0006-24.png",
-    "time": "2022/02/05 16:12:44",
+    "time": "2022/02/05 17:15:18",
     "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1644045107311779"
   },
   {
