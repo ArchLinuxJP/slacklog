@@ -1,11 +1,92 @@
 [
   {
+    "user": "UMJLTG3EV",
+    "text": "みなさん，ありがとうございます．\ntreeの標準出力がJSON化する原因がなんとなく掴めてきました．\n\n&gt; ってことはなんか出力キャプチャする機能がシェル（.zshrcとかプラグインとか）に入ってるとかですかね？\n&gt; ので、まずは fd3 を開いてるか確認してみるのがいい気します。\nということでしたので，早速fd3を確認しました．\n\n&gt; *$ ls /proc*/$$/fd                                                                                                                                                                            \n&gt; *0*  *10*   *101*  *104*  *11*  *13*  *3*   *39*  *5*   *53*  *55*  *57*  *59*  *60*  *62*  *64*  *67*  *69*  *70*  *72*  *74*  *76*  *82*  *86*  *88*  *9*   *91*  *93*  *95*                                                                        \n&gt; *1*  *100*  *102*  *107*  *12*  *2*   *30*  *4*   *52*  *54*  *56*  *58*  *6*   *61*  *63*  *65*  *68*  *7*   *71*  *73*  *75*  *8*   *85*  *87*  *89*  *90*  *92*  *94*  *98*\nfd3以外も色々開いているようです．\nこのlsした環境はTerminusという仮想端末環境でして，色々と綺麗に表示してくれます．\n\nTerminusが悪さをしているのかと推察し，Xfce terminalでも同様の確認をしてみました．\n&gt; $ ls /proc/$$/fd\n&gt; 0  1  10  2\nほぼ必要最低限のファイルのみ開いている様子で，fd3は開かれてません．\nここでtreeを実行すると，今まで通りに表示してくれました．\n&gt; $ tree\n&gt; .\n&gt; ├── array\n&gt; │   ├── Makefile\n&gt; │   └── main.c\n&gt; ├── ctype\n&gt; │   ├── Makefile\n&gt; │   └── main.c\n&gt; ├── fibonacci\n&gt; │   ├── Makefile\n&gt; │   └── main.c\n&gt; ├── hello\n&gt; │   ├── Makefile\n&gt; │   └── main.c\n&gt; ├── sample\n&gt; │   ├── Makefile\n&gt; │   ├── main.c\n&gt; │   ├── sample.c\n&gt; │   └── sample.h\n&gt; └── sum\n&gt;     ├── Makefile\n&gt;     └── main.c\nTerminusが原因で表示がJSON化してしまったようです．\n取りあえずtreeのパッケージに何か問題が起きた，ということでは無いことが分かりました．\nありがとうございます！",
+    "client_msg_id": "91d62d9e-6a81-4f37-945b-7299393413f5",
+    "name": "kk.068.kenta325",
+    "img": "https://secure.gravatar.com/avatar/bf0ec338c466a8a0288a616ea0b24c49.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0026-24.png",
+    "time": "2022/02/06 20:12:20",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1644144050950239"
+  },
+  {
+    "user": "U70QDFN82",
+    "text": "勝った\n```&gt; ls -l /proc/$$/fd | wc -l\n20```",
+    "client_msg_id": "089f8bba-f8fc-42a1-94b9-17dd110600db",
+    "name": "yutakatay",
+    "img": "https://avatars.slack-edge.com/2020-08-16/1302143736069_0baa468f7bea68e827d9_24.png",
+    "time": "2022/02/06 20:12:21",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1644143286522979"
+  },
+  {
+    "user": "U02BLTTQEL9",
+    "text": "<@UMJLTG3EV> ので、まずは fd3 を開いてるか確認してみるのがいい気します。",
+    "client_msg_id": "f1b031dd-9cc3-4ae3-9d07-b2c6c880ac2f",
+    "name": "buzz.taiki",
+    "img": "https://avatars.slack-edge.com/2021-08-15/2388525195124_53543ae8a9c6189fc784_24.jpg",
+    "time": "2022/02/06 20:12:21",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1644143234273499"
+  },
+  {
+    "user": "U02BLTTQEL9",
+    "text": "これで開いてる fd がわかるな。\n\n```$ ls -l /proc/$$/fd\n合計 0\nlrwx------ 1 taiki taiki 64  2月  6 19:22 0 -&gt; /dev/pts/1\nlrwx------ 1 taiki taiki 64  2月  6 19:22 1 -&gt; /dev/pts/1\nlrwx------ 1 taiki taiki 64  2月  6 19:22 2 -&gt; /dev/pts/1\nlrwx------ 1 taiki taiki 64  2月  6 19:22 255 -&gt; /dev/pts/1```",
+    "client_msg_id": "738df85b-39c2-4f19-856b-46f91a04548a",
+    "name": "buzz.taiki",
+    "img": "https://avatars.slack-edge.com/2021-08-15/2388525195124_53543ae8a9c6189fc784_24.jpg",
+    "time": "2022/02/06 20:12:22",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1644143203371479"
+  },
+  {
+    "user": "U02BLTTQEL9",
+    "text": "そうかも。",
+    "client_msg_id": "387c9f45-3192-499e-8db3-cca7777474bc",
+    "name": "buzz.taiki",
+    "img": "https://avatars.slack-edge.com/2021-08-15/2388525195124_53543ae8a9c6189fc784_24.jpg",
+    "time": "2022/02/06 20:12:22",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1644142830331009"
+  },
+  {
+    "user": "U70QDFN82",
+    "text": "私も昔標準エラー出力に全部色つけようと思ってやったことある",
+    "client_msg_id": "b0a8ad01-b37f-4b0c-90ab-d0b013bcf7d5",
+    "name": "yutakatay",
+    "img": "https://avatars.slack-edge.com/2020-08-16/1302143736069_0baa468f7bea68e827d9_24.png",
+    "time": "2022/02/06 20:12:22",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1644142745038909"
+  },
+  {
+    "user": "U70QDFN82",
+    "text": "ってことはなんか出力キャプチャする機能がシェル（.zshrcとかプラグインとか）に入ってるとかですかね？",
+    "client_msg_id": "3dc5b11e-103b-4f0b-902b-660d27ae7152",
+    "name": "yutakatay",
+    "img": "https://avatars.slack-edge.com/2020-08-16/1302143736069_0baa468f7bea68e827d9_24.png",
+    "time": "2022/02/06 20:12:23",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1644142716647569"
+  },
+  {
+    "user": "U02BLTTQEL9",
+    "text": "こうすると json になる。\n\n```$ exec 3&gt;&amp;1; tree; exec 3&gt;&amp;-\n[{\"type\":\"directory\",\"name\":\".\",\"contents\":[{\"type\":\"file\",\"name\":\"a\"},{\"type\":\"file\",\"name\":\"b\"},{\"type\":\"file\",\"name\":\"c\"}]},{\"type\":\"report\",\"directories\":0,\"files\":3}]```",
+    "client_msg_id": "270340f0-0e60-49b7-9694-613cf675c1e8",
+    "name": "buzz.taiki",
+    "img": "https://avatars.slack-edge.com/2021-08-15/2388525195124_53543ae8a9c6189fc784_24.jpg",
+    "time": "2022/02/06 20:12:23",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1644142635200599"
+  },
+  {
+    "user": "U70QDFN82",
+    "text": "そう呼ぶのかは知らないですけど 3&gt; みたいなのですかね？stdin, stdout, stderr, stddata?",
+    "client_msg_id": "f232c753-f393-4713-ba9b-d3996146a1d5",
+    "name": "yutakatay",
+    "img": "https://avatars.slack-edge.com/2020-08-16/1302143736069_0baa468f7bea68e827d9_24.png",
+    "time": "2022/02/06 20:12:23",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1644142611502769"
+  },
+  {
     "user": "U02BLTTQEL9",
     "text": "stddata ってなんだろ。",
     "client_msg_id": "3490dcb7-c6b2-4c4b-8f0d-d2b925094555",
     "name": "buzz.taiki",
     "img": "https://avatars.slack-edge.com/2021-08-15/2388525195124_53543ae8a9c6189fc784_24.jpg",
-    "time": "2022/02/06 19:16:30",
+    "time": "2022/02/06 20:12:24",
     "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1644142350297279"
   },
   {
