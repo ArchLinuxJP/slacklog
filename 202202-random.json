@@ -1,11 +1,65 @@
 [
   {
+    "user": "U02BLTTQEL9",
+    "text": "stddata ってなんだろ。",
+    "client_msg_id": "3490dcb7-c6b2-4c4b-8f0d-d2b925094555",
+    "name": "buzz.taiki",
+    "img": "https://avatars.slack-edge.com/2021-08-15/2388525195124_53543ae8a9c6189fc784_24.jpg",
+    "time": "2022/02/06 19:16:30",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1644142350297279"
+  },
+  {
+    "user": "U02BLTTQEL9",
+    "text": "&gt; *Version 2.0.0 (12/21/2021)*\n&gt;  Output un-indented JSON on file descriptor 3 (\"stddata\") automatically if file descriptor 3 is present (currently Linux only.) Maybe switch to BSON.",
+    "client_msg_id": "e8a2517b-5b65-45f3-9f20-8f4a21d620e8",
+    "name": "buzz.taiki",
+    "img": "https://avatars.slack-edge.com/2021-08-15/2388525195124_53543ae8a9c6189fc784_24.jpg",
+    "time": "2022/02/06 19:16:30",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1644142259810129"
+  },
+  {
+    "user": "UVB7L4CKH",
+    "text": "つまり2.0.1でツリー表示が標準に戻ってるんですかね",
+    "client_msg_id": "fa85b40b-a6c9-47ca-8a31-f9447c5566cb",
+    "name": "tatsumigamou",
+    "img": "https://avatars.slack-edge.com/2020-03-12/985313571153_203fee630d3a4a1053a1_24.jpg",
+    "time": "2022/02/06 19:16:30",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1644141159119719"
+  },
+  {
+    "user": "U70QDFN82",
+    "text": "-Jを付けるとたしかにJSONになる",
+    "client_msg_id": "7a078dce-663a-4c8a-86df-2a9fb0b02b77",
+    "name": "yutakatay",
+    "img": "https://avatars.slack-edge.com/2020-08-16/1302143736069_0baa468f7bea68e827d9_24.png",
+    "time": "2022/02/06 19:16:31",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1644141148019339"
+  },
+  {
+    "user": "U70QDFN82",
+    "text": "私tree v2.0.1 ですが普通に表示されてる気がします",
+    "client_msg_id": "448f551a-c0cd-40a2-8884-cd697b5a28c5",
+    "name": "yutakatay",
+    "img": "https://avatars.slack-edge.com/2020-08-16/1302143736069_0baa468f7bea68e827d9_24.png",
+    "time": "2022/02/06 19:16:31",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1644141125843149"
+  },
+  {
+    "user": "UMJLTG3EV",
+    "text": "はじめまして．\n\n今日，Manjaroを更新したところ，treeコマンドの表示がJSON形式になりました．\nCHANGELOG（<http://mama.indstate.edu/users/ice/tree/changes.html>）を読む限り，v2.0.0からの仕様とのことです．\n従来通りの表示を使いたいのですが，どなたか方法をご存知ないでしょうか．",
+    "client_msg_id": "cf462d26-1b58-4932-bf85-5c344b694d0a",
+    "name": "kk.068.kenta325",
+    "img": "https://secure.gravatar.com/avatar/bf0ec338c466a8a0288a616ea0b24c49.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0026-24.png",
+    "time": "2022/02/06 19:16:31",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1644140803868279"
+  },
+  {
     "user": "U0GFBAM8U",
     "text": "すごい",
     "client_msg_id": "2A99D89E-C7DE-4A5F-9252-07AE7061DDE6",
     "name": "syui",
     "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
-    "time": "2022/02/05 21:19:43",
+    "time": "2022/02/06 19:16:32",
     "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1644060433867819"
   },
   {
