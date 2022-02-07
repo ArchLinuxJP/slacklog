@@ -1,11 +1,20 @@
 [
   {
+    "user": "UQDJXPHJ9",
+    "text": "treeがfd 3を開いていると出力が変わる問題、<https://git.zx2c4.com/password-store/commit/?id=eea24967a002a2a81ae9b97a1fe972b5287f3a09|パスワードマネージャーのpassでも対策がされていました>ね...\nGit credential managerをpass使って自作していたのですが少し前から壊れており困っていたのですが、今ここの投稿見て原因理解しました...passが対策済みのものにアップデートされていなかった...",
+    "client_msg_id": "1b77fda5-3323-4d90-963f-1c7389d339bd",
+    "name": "cj.bc-sd",
+    "img": "https://avatars.slack-edge.com/2019-11-12/821749881793_703a47a248d9e731dc3f_24.jpg",
+    "time": "2022/02/07 11:05:50",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1644195655771229"
+  },
+  {
     "user": "U0PM6EYR1",
     "text": "~J-POP を聞きながら起動すればちゃんと動くかもしれない~",
     "client_msg_id": "2768bfe2-ded7-4bf0-b3a5-0561c8e03f83",
     "name": "raa0121",
     "img": "https://secure.gravatar.com/avatar/35b032d7b2d4182b0c2de1ef85ba91f2.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0009-24.png",
-    "time": "2022/02/07 01:22:40",
+    "time": "2022/02/07 11:05:50",
     "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1644160881321079"
   },
   {
@@ -22,7 +31,7 @@
     "text": "みなさん，ありがとうございます．\ntreeの標準出力がJSON化する原因がなんとなく掴めてきました．\n\n&gt; ってことはなんか出力キャプチャする機能がシェル（.zshrcとかプラグインとか）に入ってるとかですかね？\n&gt; ので、まずは fd3 を開いてるか確認してみるのがいい気します。\nということでしたので，早速fd3を確認しました．\n\n&gt; *$ ls /proc*/$$/fd                                                                                                                                                                            \n&gt; *0*  *10*   *101*  *104*  *11*  *13*  *3*   *39*  *5*   *53*  *55*  *57*  *59*  *60*  *62*  *64*  *67*  *69*  *70*  *72*  *74*  *76*  *82*  *86*  *88*  *9*   *91*  *93*  *95*                                                                        \n&gt; *1*  *100*  *102*  *107*  *12*  *2*   *30*  *4*   *52*  *54*  *56*  *58*  *6*   *61*  *63*  *65*  *68*  *7*   *71*  *73*  *75*  *8*   *85*  *87*  *89*  *90*  *92*  *94*  *98*\nfd3以外も色々開いているようです．\nこのlsした環境はTerminusという仮想端末環境でして，色々と綺麗に表示してくれます．\n\nTerminusが悪さをしているのかと推察し，Xfce terminalでも同様の確認をしてみました．\n&gt; $ ls /proc/$$/fd\n&gt; 0  1  10  2\nほぼ必要最低限のファイルのみ開いている様子で，fd3は開かれてません．\nここでtreeを実行すると，今まで通りに表示してくれました．\n&gt; $ tree\n&gt; .\n&gt; ├── array\n&gt; │   ├── Makefile\n&gt; │   └── main.c\n&gt; ├── ctype\n&gt; │   ├── Makefile\n&gt; │   └── main.c\n&gt; ├── fibonacci\n&gt; │   ├── Makefile\n&gt; │   └── main.c\n&gt; ├── hello\n&gt; │   ├── Makefile\n&gt; │   └── main.c\n&gt; ├── sample\n&gt; │   ├── Makefile\n&gt; │   ├── main.c\n&gt; │   ├── sample.c\n&gt; │   └── sample.h\n&gt; └── sum\n&gt;     ├── Makefile\n&gt;     └── main.c\nTerminusが原因で表示がJSON化してしまったようです．\n取りあえずtreeのパッケージに何か問題が起きた，ということでは無いことが分かりました．\nありがとうございます！",
     "client_msg_id": "91d62d9e-6a81-4f37-945b-7299393413f5",
     "name": "kk.068.kenta325",
-    "img": "https://secure.gravatar.com/avatar/bf0ec338c466a8a0288a616ea0b24c49.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0026-24.png",
+    "img": "https://avatars.slack-edge.com/2022-02-06/3062914287970_3a91c4c1da2c32eb7a82_24.jpg",
     "time": "2022/02/07 00:15:03",
     "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1644144050950239"
   },
@@ -148,7 +157,7 @@
     "text": "はじめまして．\n\n今日，Manjaroを更新したところ，treeコマンドの表示がJSON形式になりました．\nCHANGELOG（<http://mama.indstate.edu/users/ice/tree/changes.html>）を読む限り，v2.0.0からの仕様とのことです．\n従来通りの表示を使いたいのですが，どなたか方法をご存知ないでしょうか．",
     "client_msg_id": "cf462d26-1b58-4932-bf85-5c344b694d0a",
     "name": "kk.068.kenta325",
-    "img": "https://secure.gravatar.com/avatar/bf0ec338c466a8a0288a616ea0b24c49.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0026-24.png",
+    "img": "https://avatars.slack-edge.com/2022-02-06/3062914287970_3a91c4c1da2c32eb7a82_24.jpg",
     "time": "2022/02/06 19:16:31",
     "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1644140803868279"
   },
