@@ -1,11 +1,191 @@
 [
   {
+    "user": "UGA29R3FH",
+    "text": "保証シール剥がすようなもんか",
+    "client_msg_id": "e793f8a4-b2e5-4550-87a4-8544b6dd0515",
+    "name": "znmxodq1",
+    "img": "https://avatars.slack-edge.com/2019-03-08/570571829091_2ca91fb0cc1ed2341fe0_24.png",
+    "time": "2022/02/08 13:20:01",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1644293919212669"
+  },
+  {
+    "user": "U017BNGTHT3",
+    "text": "無くても使える(サポートは無いし保証もない)みたいな感じですね。",
+    "client_msg_id": "23cb4781-9e66-468c-a0da-61d8f09185d8",
+    "name": "s5is",
+    "img": "https://avatars.slack-edge.com/2020-11-29/1531495219589_cf6a2f80ce7bb820ba38_24.png",
+    "time": "2022/02/08 13:20:01",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1644293888004459"
+  },
+  {
+    "user": "UGA29R3FH",
+    "text": "なるほど穴か",
+    "client_msg_id": "7f282325-8f39-4acd-a52e-66d1fe2c5767",
+    "name": "znmxodq1",
+    "img": "https://avatars.slack-edge.com/2019-03-08/570571829091_2ca91fb0cc1ed2341fe0_24.png",
+    "time": "2022/02/08 13:20:02",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1644293801948769"
+  },
+  {
+    "user": "UGA29R3FH",
+    "text": "BitLocker使えないのは持ち運びにつらそう",
+    "client_msg_id": "baf0df6b-0107-403e-8145-36e9e9e24998",
+    "name": "znmxodq1",
+    "img": "https://avatars.slack-edge.com/2019-03-08/570571829091_2ca91fb0cc1ed2341fe0_24.png",
+    "time": "2022/02/08 13:20:02",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1644293781072719"
+  },
+  {
+    "user": "U70QDFN82",
+    "text": "まあけどそのうちできなくなりそうな気配は感じてますね・・・",
+    "client_msg_id": "8f7a0893-3a22-4caf-ba42-0fe709c1a401",
+    "name": "yutakatay",
+    "img": "https://avatars.slack-edge.com/2020-08-16/1302143736069_0baa468f7bea68e827d9_24.png",
+    "time": "2022/02/08 13:20:02",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1644293779048599"
+  },
+  {
+    "user": "UGA29R3FH",
+    "text": "あれ、切っても立ち上がるのか、~それなら要求するなよ…~",
+    "client_msg_id": "7422891e-c349-46b2-a8ec-24ad8975d98a",
+    "name": "znmxodq1",
+    "img": "https://avatars.slack-edge.com/2019-03-08/570571829091_2ca91fb0cc1ed2341fe0_24.png",
+    "time": "2022/02/08 13:20:03",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1644293752688819"
+  },
+  {
+    "user": "U017BNGTHT3",
+    "text": "家で使ってるマシンだったからBitlocker使ってなくて気が付かなかった…確かに使えない。",
+    "client_msg_id": "c37360c4-8bab-4100-babd-00f268e9a75a",
+    "name": "s5is",
+    "img": "https://avatars.slack-edge.com/2020-11-29/1531495219589_cf6a2f80ce7bb820ba38_24.png",
+    "time": "2022/02/08 13:20:03",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1644293619261609"
+  },
+  {
+    "user": "U70QDFN82",
+    "text": "私はブートローダーじゃなくてBIOSからのセキュアブートのオンオフでLinux・Windows切り替えてましたw",
+    "client_msg_id": "72711971-11d0-4ce3-acc7-000e113bbc33",
+    "name": "yutakatay",
+    "img": "https://avatars.slack-edge.com/2020-08-16/1302143736069_0baa468f7bea68e827d9_24.png",
+    "time": "2022/02/08 13:20:03",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1644293598740349"
+  },
+  {
+    "user": "U70QDFN82",
+    "text": "BitLockerが使えなくなるのがたぶん痛いんですよね。シス管的に",
+    "client_msg_id": "5f3bad07-c2c8-4234-8407-426e3ea73186",
+    "name": "yutakatay",
+    "img": "https://avatars.slack-edge.com/2020-08-16/1302143736069_0baa468f7bea68e827d9_24.png",
+    "time": "2022/02/08 13:20:04",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1644293571264039"
+  },
+  {
+    "user": "U017BNGTHT3",
+    "text": "逆にセキュアブートを切ったらどうなるのかという話ですがね…\n前に試したときはWindows11でセキュアブート切っても(一部アプリケーションが使えない程度で)問題がなかった。",
+    "client_msg_id": "9479409d-1dec-40a6-b210-0e2da52fdec0",
+    "name": "s5is",
+    "img": "https://avatars.slack-edge.com/2020-11-29/1531495219589_cf6a2f80ce7bb820ba38_24.png",
+    "time": "2022/02/08 13:20:04",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1644293529859399"
+  },
+  {
+    "user": "U70QDFN82",
+    "text": "ですね",
+    "client_msg_id": "b601beec-9515-4911-a743-5fcf92ea058e",
+    "name": "yutakatay",
+    "img": "https://avatars.slack-edge.com/2020-08-16/1302143736069_0baa468f7bea68e827d9_24.png",
+    "time": "2022/02/08 13:20:05",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1644293417464769"
+  },
+  {
+    "user": "U017BNGTHT3",
+    "text": "Ubuntuとかは署名済みカーネルが配られていますが、Archはそうではないはずなので。",
+    "client_msg_id": "bdda1a49-7db1-47a9-bc1e-82dbf88ef2e8",
+    "name": "s5is",
+    "img": "https://avatars.slack-edge.com/2020-11-29/1531495219589_cf6a2f80ce7bb820ba38_24.png",
+    "time": "2022/02/08 13:20:05",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1644293400494519"
+  },
+  {
+    "user": "UVB7L4CKH",
+    "text": "セキュアブートは切らなくてもLinux入った記憶があるんですが、Win11絡みが完全に未知の領域",
+    "client_msg_id": "84d2c367-3501-40fe-9e7b-815917448cd3",
+    "name": "tatsumigamou",
+    "img": "https://avatars.slack-edge.com/2020-03-12/985313571153_203fee630d3a4a1053a1_24.jpg",
+    "time": "2022/02/08 13:20:05",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1644293352436529"
+  },
+  {
+    "user": "UGA29R3FH",
+    "text": "やはり邪悪な窓は捨てるのが正解…",
+    "client_msg_id": "f739d774-5483-4086-a74e-f5b72f5873ea",
+    "name": "znmxodq1",
+    "img": "https://avatars.slack-edge.com/2019-03-08/570571829091_2ca91fb0cc1ed2341fe0_24.png",
+    "time": "2022/02/08 13:20:06",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1644292894162399"
+  },
+  {
+    "user": "U70QDFN82",
+    "text": "セキュアブートが守っているものそれはWindowsのシェア",
+    "client_msg_id": "2d57b3e1-8a88-4f31-ba56-9312ce003230",
+    "name": "yutakatay",
+    "img": "https://avatars.slack-edge.com/2020-08-16/1302143736069_0baa468f7bea68e827d9_24.png",
+    "time": "2022/02/08 13:20:06",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1644292870655849"
+  },
+  {
+    "user": "U70QDFN82",
+    "text": "それはセキュアブートをセキュリティ対策と思ってるからですね。",
+    "client_msg_id": "b1b06236-c505-48f4-be76-0f33a173f089",
+    "name": "yutakatay",
+    "img": "https://avatars.slack-edge.com/2020-08-16/1302143736069_0baa468f7bea68e827d9_24.png",
+    "time": "2022/02/08 13:20:06",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1644292856697529"
+  },
+  {
+    "user": "UGA29R3FH",
+    "text": "手間を増やしてるだけにしか思えないんだよなあ",
+    "client_msg_id": "202b3f31-2ce3-48e5-91d6-4ee35378654a",
+    "name": "znmxodq1",
+    "img": "https://avatars.slack-edge.com/2019-03-08/570571829091_2ca91fb0cc1ed2341fe0_24.png",
+    "time": "2022/02/08 13:20:07",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1644292744712639"
+  },
+  {
+    "user": "U017BNGTHT3",
+    "text": "セキュアブート、ディスク暗号化ほどセキュアではないし嫌がらせにしか思えない。(個人の感想)\n会社の貸出機とかで好き勝手出来なくしたいみたいな理由ならvProとかに組み込んで欲しい。(個人の感想)",
+    "client_msg_id": "cc14e02d-46d4-49f0-aad4-d0d9083c590c",
+    "name": "s5is",
+    "img": "https://avatars.slack-edge.com/2020-11-29/1531495219589_cf6a2f80ce7bb820ba38_24.png",
+    "time": "2022/02/08 13:20:07",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1644292463351959"
+  },
+  {
+    "user": "UGA29R3FH",
+    "text": "~セキュアブート、ほんとクソ~",
+    "client_msg_id": "c3d4d550-265c-4c39-9cf3-5992ae01c4ac",
+    "name": "znmxodq1",
+    "img": "https://avatars.slack-edge.com/2019-03-08/570571829091_2ca91fb0cc1ed2341fe0_24.png",
+    "time": "2022/02/08 13:20:07",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1644292207587519"
+  },
+  {
+    "user": "U017BNGTHT3",
+    "text": "TPM2.0を有効にするにはセキュアブートが必須だったはず、なので署名済みローダーとかHashtool.efiとかでうまくやらないと起動できないかと。",
+    "client_msg_id": "e18eb997-b5e2-4e90-a243-37ddf97915b6",
+    "name": "s5is",
+    "img": "https://avatars.slack-edge.com/2020-11-29/1531495219589_cf6a2f80ce7bb820ba38_24.png",
+    "time": "2022/02/08 13:20:08",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1644291460732269"
+  },
+  {
     "user": "UVB7L4CKH",
     "text": "そもそもLinuxからセキュリティモジュール使わないなら支障ないのかな",
     "client_msg_id": "04582013-fd0c-432e-ad50-80f0b7cc6c70",
     "name": "tatsumigamou",
     "img": "https://avatars.slack-edge.com/2020-03-12/985313571153_203fee630d3a4a1053a1_24.jpg",
-    "time": "2022/02/08 12:16:08",
+    "time": "2022/02/08 13:20:08",
     "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1644288403807209"
   },
   {
