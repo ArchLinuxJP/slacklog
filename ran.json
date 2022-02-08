@@ -1,11 +1,308 @@
 [
   {
+    "user": "UVB7L4CKH",
+    "text": "更新で自殺プログラム発動するのSF味がすごい",
+    "client_msg_id": "3b492ea0-4b8c-424e-ab5e-5a18567e9551",
+    "name": "tatsumigamou",
+    "img": "https://avatars.slack-edge.com/2020-03-12/985313571153_203fee630d3a4a1053a1_24.jpg",
+    "time": "2022/02/08 15:19:37",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1644300174202249"
+  },
+  {
+    "user": "U70QDFN82",
+    "text": "fwupdがない世界だったときは、\nBIOS新しいの出たらしい\n久しぶりにデュアルブートのWindows立ち上げて更新してみるか\n謎のベンダープログラム起動\nしかし、更新が必要で起動せず\n更新\nアップデートを確認（５分くらい）\nWindowsアップデートがたくさんあります\nまあ一応Windowsアップデートしたあとに更新した方が安全か・・・\nアップデート（１時間半）\nさぁBIOS更新だ\n更新完了\nあれ？ブートローダーが消し飛ばされててLinuxが立ち上がらない？？\n\nが、\n`sudo fwupdmgr update`\nだけで終わる",
+    "client_msg_id": "26790478-4ebc-49d3-aca1-5dbad1f8cdd5",
+    "name": "yutakatay",
+    "img": "https://avatars.slack-edge.com/2020-08-16/1302143736069_0baa468f7bea68e827d9_24.png",
+    "time": "2022/02/08 15:19:37",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1644299726726999"
+  },
+  {
+    "user": "U70QDFN82",
+    "text": "ホントだ。こっち側にあるのか。見てなかった\n<https://wiki.archlinux.jp/index.php/Fwupd>",
+    "client_msg_id": "817936dd-ecdb-45bb-9aca-9e7161c94e62",
+    "name": "yutakatay",
+    "img": "https://avatars.slack-edge.com/2020-08-16/1302143736069_0baa468f7bea68e827d9_24.png",
+    "time": "2022/02/08 15:19:37",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1644299458784359"
+  },
+  {
+    "user": "U70QDFN82",
+    "text": "くっそ便利ですね。Windowsがいらなくなった要因の１つ",
+    "client_msg_id": "08d83c33-e3ce-49b1-9805-f39aa37be645",
+    "name": "yutakatay",
+    "img": "https://avatars.slack-edge.com/2020-08-16/1302143736069_0baa468f7bea68e827d9_24.png",
+    "time": "2022/02/08 15:19:38",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1644299333484769"
+  },
+  {
+    "user": "U70QDFN82",
+    "text": "これ私も３年前くらいにまいけるさんから教えてもらいましたね",
+    "client_msg_id": "2ae2e7d8-543b-4263-abf9-3b2d483fee64",
+    "name": "yutakatay",
+    "img": "https://avatars.slack-edge.com/2020-08-16/1302143736069_0baa468f7bea68e827d9_24.png",
+    "time": "2022/02/08 15:19:38",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1644299318243199"
+  },
+  {
+    "user": "UVB7L4CKH",
+    "text": "fwupdmgr、恥ずかしながら今日知った（その辺りはいつもWindows通してた）",
+    "client_msg_id": "9b816106-beb6-42ef-86af-1271bf53bfb6",
+    "name": "tatsumigamou",
+    "img": "https://avatars.slack-edge.com/2020-03-12/985313571153_203fee630d3a4a1053a1_24.jpg",
+    "time": "2022/02/08 15:19:38",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1644299268050339"
+  },
+  {
+    "user": "U70QDFN82",
+    "text": "私SecureBootは結局導入実績解除しただけで使ってないんですが、fwupdmgrのBIOSアップデートとかちゃんと動くんですかね？？（fwupdmgrのBIOSアップデートがどのあたりからトリガーされてるか知らないですけど）",
+    "client_msg_id": "6bbc8b2d-4c26-4db1-bc03-090c8b17192b",
+    "name": "yutakatay",
+    "img": "https://avatars.slack-edge.com/2020-08-16/1302143736069_0baa468f7bea68e827d9_24.png",
+    "time": "2022/02/08 15:19:39",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1644299213505129"
+  },
+  {
+    "user": "UGA29R3FH",
+    "text": "Arch LinuxのTUのような方々がSigneeなら問題は起きなさそうだけど",
+    "client_msg_id": "2273ca15-293e-42c4-8407-4ae4e97e23d6",
+    "name": "znmxodq1",
+    "img": "https://avatars.slack-edge.com/2019-03-08/570571829091_2ca91fb0cc1ed2341fe0_24.png",
+    "time": "2022/02/08 15:19:39",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1644299162892839"
+  },
+  {
+    "user": "UVB7L4CKH",
+    "text": "macはOS更新でイーサネットアダプタが死んだりしてるのをよく観測する",
+    "client_msg_id": "545cef24-92c9-4bc8-b1e5-c8671364794b",
+    "name": "tatsumigamou",
+    "img": "https://avatars.slack-edge.com/2020-03-12/985313571153_203fee630d3a4a1053a1_24.jpg",
+    "time": "2022/02/08 15:19:39",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1644299127090269"
+  },
+  {
+    "user": "UGA29R3FH",
+    "text": "Appleとか見ればよくわかる",
+    "client_msg_id": "2169e97a-bb69-4f89-9701-a0ce6c4930fd",
+    "name": "znmxodq1",
+    "img": "https://avatars.slack-edge.com/2019-03-08/570571829091_2ca91fb0cc1ed2341fe0_24.png",
+    "time": "2022/02/08 15:19:40",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1644299103171239"
+  },
+  {
+    "user": "UGA29R3FH",
+    "text": "署名する人の思想により容易に自由が奪われるのが嫌いなんですよ",
+    "client_msg_id": "c14e75f2-ae13-4241-8279-ace2f5557a17",
+    "name": "znmxodq1",
+    "img": "https://avatars.slack-edge.com/2019-03-08/570571829091_2ca91fb0cc1ed2341fe0_24.png",
+    "time": "2022/02/08 15:19:40",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1644299094442889"
+  },
+  {
+    "user": "UVB7L4CKH",
+    "text": "それはそれとしてリスク呑んで好き勝手やる分には楽させてほしい",
+    "client_msg_id": "1301f68a-9890-4e14-9de0-99b29f60ee62",
+    "name": "tatsumigamou",
+    "img": "https://avatars.slack-edge.com/2020-03-12/985313571153_203fee630d3a4a1053a1_24.jpg",
+    "time": "2022/02/08 15:19:40",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1644299083894649"
+  },
+  {
+    "user": "UVB7L4CKH",
+    "text": "まあそれはそうなんですけどね\n署名のないドライバなんかを積極的に使いたいかと言われたらそうではないので迂闊に首を横には振れない",
+    "client_msg_id": "7921df9f-90a5-4e90-8d55-94c8efea6ed4",
+    "name": "tatsumigamou",
+    "img": "https://avatars.slack-edge.com/2020-03-12/985313571153_203fee630d3a4a1053a1_24.jpg",
+    "time": "2022/02/08 15:19:40",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1644299053275429"
+  },
+  {
+    "user": "U70QDFN82",
+    "text": "そりゃあロックした方がセキュアですからね・・・",
+    "client_msg_id": "f876c571-9dd3-42e1-b5c1-225bf39ccc85",
+    "name": "yutakatay",
+    "img": "https://avatars.slack-edge.com/2020-08-16/1302143736069_0baa468f7bea68e827d9_24.png",
+    "time": "2022/02/08 15:19:41",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1644299002654519"
+  },
+  {
+    "user": "UVB7L4CKH",
+    "text": "なお実態は事実上のベンダーロック",
+    "client_msg_id": "9baf8440-c0ff-4a15-a8cb-3449525edf23",
+    "name": "tatsumigamou",
+    "img": "https://avatars.slack-edge.com/2020-03-12/985313571153_203fee630d3a4a1053a1_24.jpg",
+    "time": "2022/02/08 15:19:41",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1644298989449169"
+  },
+  {
+    "user": "U70QDFN82",
+    "text": "まあ保険業みたいなもんですからね・・・セキュリティって書けばみんな身構えるしみんな従ってくれる",
+    "client_msg_id": "d78ecee4-1c22-48c4-8718-2658ebdbf018",
+    "name": "yutakatay",
+    "img": "https://avatars.slack-edge.com/2020-08-16/1302143736069_0baa468f7bea68e827d9_24.png",
+    "time": "2022/02/08 15:19:41",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1644298931787619"
+  },
+  {
+    "user": "UGA29R3FH",
+    "text": "セキュリティとかいう名目の元自由を奪っていく野蛮な思想には積極的に抵抗していく必要がある",
+    "client_msg_id": "056fbdf0-81a0-4616-8ec8-f56229b71e54",
+    "name": "znmxodq1",
+    "img": "https://avatars.slack-edge.com/2019-03-08/570571829091_2ca91fb0cc1ed2341fe0_24.png",
+    "time": "2022/02/08 15:19:42",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1644298869212119"
+  },
+  {
+    "user": "UVB7L4CKH",
+    "text": "セキュアブート、知れば知るほどベンダーニュートラルでもなんでもないのが嫌すぎる",
+    "client_msg_id": "afa9fad3-729f-43e7-9e1f-4cf9f63d3b98",
+    "name": "tatsumigamou",
+    "img": "https://avatars.slack-edge.com/2020-03-12/985313571153_203fee630d3a4a1053a1_24.jpg",
+    "time": "2022/02/08 15:19:42",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1644298805698929"
+  },
+  {
+    "user": "UVB7L4CKH",
+    "text": "systemd-bootとカーネルの更新に合わせてリネームして署名するHookを書けばいいのか",
+    "client_msg_id": "4933f26b-d25b-4cc1-926a-4e84f50f9ea6",
+    "name": "tatsumigamou",
+    "img": "https://avatars.slack-edge.com/2020-03-12/985313571153_203fee630d3a4a1053a1_24.jpg",
+    "time": "2022/02/08 15:19:42",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1644298745626759"
+  },
+  {
+    "user": "U70QDFN82",
+    "text": "&gt; 署名済みのブートローダーを使うというのは Microsoft の鍵で署名されたブートローダーを使うということです。\nこの一文嫌味にも聞こえて好き",
+    "client_msg_id": "34bd9b2e-8f64-4596-9d59-2a28e3e82db1",
+    "name": "yutakatay",
+    "img": "https://avatars.slack-edge.com/2020-08-16/1302143736069_0baa468f7bea68e827d9_24.png",
+    "time": "2022/02/08 15:19:42",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1644298736882549"
+  },
+  {
+    "user": "UVB7L4CKH",
+    "text": "なるほど、なら試すときはShimでやるのが安牌ですかね",
+    "client_msg_id": "15ee8003-172c-4b60-9f9d-a9f908b0ec04",
+    "name": "tatsumigamou",
+    "img": "https://avatars.slack-edge.com/2020-03-12/985313571153_203fee630d3a4a1053a1_24.jpg",
+    "time": "2022/02/08 15:19:43",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1644298587668449"
+  },
+  {
+    "user": "U017BNGTHT3",
+    "text": "&gt; オレオレ鍵\n試しに設定してそのままだから実は試したことがない。\nShim楽そうですね、今度試したい。",
+    "client_msg_id": "a7c4eccc-664d-48ac-aa36-cd34a47a4cb8",
+    "name": "s5is",
+    "img": "https://avatars.slack-edge.com/2020-11-29/1531495219589_cf6a2f80ce7bb820ba38_24.png",
+    "time": "2022/02/08 15:19:43",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1644298554495899"
+  },
+  {
+    "user": "UVB7L4CKH",
+    "text": "もしかしてオレオレ鍵の方が楽なのか……？",
+    "client_msg_id": "db8a66ab-e624-4c86-b5ff-ab6d6bd9d3e1",
+    "name": "tatsumigamou",
+    "img": "https://avatars.slack-edge.com/2020-03-12/985313571153_203fee630d3a4a1053a1_24.jpg",
+    "time": "2022/02/08 15:19:43",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1644298492067969"
+  },
+  {
+    "user": "UVB7L4CKH",
+    "text": "Wikiにはオレオレ鍵のHookはあったけどPreLoaderのハッシュ登録Hookはなかった",
+    "client_msg_id": "8cd32e75-4c7e-42b3-9640-8e75c85fff49",
+    "name": "tatsumigamou",
+    "img": "https://avatars.slack-edge.com/2020-03-12/985313571153_203fee630d3a4a1053a1_24.jpg",
+    "time": "2022/02/08 15:19:44",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1644298365300629"
+  },
+  {
+    "user": "U70QDFN82",
+    "text": "これですね。普通にこの通りやればいける\n<https://wiki.archlinux.jp/index.php/セキュアブート>",
+    "client_msg_id": "7309eb67-b2df-4699-8680-2f242db28413",
+    "name": "yutakatay",
+    "img": "https://avatars.slack-edge.com/2020-08-16/1302143736069_0baa468f7bea68e827d9_24.png",
+    "time": "2022/02/08 15:19:44",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1644298302394019"
+  },
+  {
+    "user": "UGA29R3FH",
+    "text": "ログあった <https://thinca.hatenablog.com/entry/arch-linux-install-battle-2020|https://thinca.hatenablog.com/entry/arch-linux-install-battle-2020>",
+    "client_msg_id": "2fddc2be-47f1-47d3-8186-f38a53659b04",
+    "name": "znmxodq1",
+    "img": "https://avatars.slack-edge.com/2019-03-08/570571829091_2ca91fb0cc1ed2341fe0_24.png",
+    "time": "2022/02/08 15:19:44",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1644298279855549"
+  },
+  {
+    "user": "UVB7L4CKH",
+    "text": "アプデごとに再生成するだけならpacman hookで頑張ればいけそうですけど、やってる人いないのかな",
+    "client_msg_id": "de252b24-106c-4a4f-b4fd-76718d373388",
+    "name": "tatsumigamou",
+    "img": "https://avatars.slack-edge.com/2020-03-12/985313571153_203fee630d3a4a1053a1_24.jpg",
+    "time": "2022/02/08 15:19:45",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1644298275176369"
+  },
+  {
+    "user": "UGA29R3FH",
+    "text": "LUKSは設定配信してる人いたので見たことあるけどとても大変そうだった",
+    "client_msg_id": "618e1e59-8e84-41e6-9622-7f35250926fc",
+    "name": "znmxodq1",
+    "img": "https://avatars.slack-edge.com/2019-03-08/570571829091_2ca91fb0cc1ed2341fe0_24.png",
+    "time": "2022/02/08 15:19:45",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1644298170680969"
+  },
+  {
+    "user": "U017BNGTHT3",
+    "text": "Signed LoaderとHashtool使う場合はアプデごとにハッシュ登録するとかしないといけない程度。",
+    "client_msg_id": "8e5860b0-4a75-4a00-b0ce-048969df350a",
+    "name": "s5is",
+    "img": "https://avatars.slack-edge.com/2020-11-29/1531495219589_cf6a2f80ce7bb820ba38_24.png",
+    "time": "2022/02/08 15:19:45",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1644298146823479"
+  },
+  {
+    "user": "U017BNGTHT3",
+    "text": "Archでのセキュアブート、そこまで苦ではないですね。\nディスク(/boot込みで)全体暗号化よりは苦ではない。",
+    "client_msg_id": "0b0e3799-940a-4e65-983a-f1f2911d2a39",
+    "name": "s5is",
+    "img": "https://avatars.slack-edge.com/2020-11-29/1531495219589_cf6a2f80ce7bb820ba38_24.png",
+    "time": "2022/02/08 15:19:45",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1644298129486059"
+  },
+  {
+    "user": "UVB7L4CKH",
+    "text": "あるいはいい機会だからArchでのセキュアブートを試すか\nいつの間にかarchisoもセキュアブートで起動できるようになったみたいですし",
+    "client_msg_id": "da7ecbdd-53de-4ab0-88e6-881ce50e0467",
+    "name": "tatsumigamou",
+    "img": "https://avatars.slack-edge.com/2020-03-12/985313571153_203fee630d3a4a1053a1_24.jpg",
+    "time": "2022/02/08 15:19:46",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1644298044486429"
+  },
+  {
+    "user": "UVB7L4CKH",
+    "text": "むしろセキュアブートのオンオフでOS切り替わるならそれはそれでアリか？",
+    "client_msg_id": "07885ef3-82a6-4d10-bba5-35d39069b4eb",
+    "name": "tatsumigamou",
+    "img": "https://avatars.slack-edge.com/2020-03-12/985313571153_203fee630d3a4a1053a1_24.jpg",
+    "time": "2022/02/08 15:19:46",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1644297745944609"
+  },
+  {
+    "user": "UVB7L4CKH",
+    "text": "うーん、なかなか辛い\nセキュアブートが諸悪の根源すぎる",
+    "client_msg_id": "14b91538-3389-4f5d-ad0c-782e89212cdc",
+    "name": "tatsumigamou",
+    "img": "https://avatars.slack-edge.com/2020-03-12/985313571153_203fee630d3a4a1053a1_24.jpg",
+    "time": "2022/02/08 15:19:46",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1644297703730029"
+  },
+  {
     "user": "UGA29R3FH",
     "text": "保証シール剥がすようなもんか",
     "client_msg_id": "e793f8a4-b2e5-4550-87a4-8544b6dd0515",
     "name": "znmxodq1",
     "img": "https://avatars.slack-edge.com/2019-03-08/570571829091_2ca91fb0cc1ed2341fe0_24.png",
-    "time": "2022/02/08 13:20:01",
+    "time": "2022/02/08 15:19:47",
     "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1644293919212669"
   },
   {
