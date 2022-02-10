@@ -1,11 +1,92 @@
 [
   {
     "user": "U0GFBAM8U",
+    "text": "ですが、パスワード弱かったとか他要素認証使ってなかったケースとかが多そうな気がしますね",
+    "client_msg_id": "AD46E8C7-6B46-42B5-8E1B-C51C6AC38E33",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2022/02/10 14:14:55",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1644468845922839"
+  },
+  {
+    "user": "U0GFBAM8U",
+    "text": "考えられるケースとして、github自体のexploitや本人が使ってたアプリのexploitをつかれるケース。\n本人が配信していたケース(バレて乗っ取りだと言われたらわからない\nなどが可能性として考えられそう",
+    "client_msg_id": "D70D1712-DF04-47D5-9B9E-FF30B654195C",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2022/02/10 14:14:55",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1644468687519329"
+  },
+  {
+    "user": "U0GFBAM8U",
+    "text": "これはいろんなケースが考えられそうですが、乗っ取りが多いのかもしれません。",
+    "client_msg_id": "A804144B-DDEB-4ED2-93DA-F6059E7E0F3B",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2022/02/10 14:14:55",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1644468549486939"
+  },
+  {
+    "user": "U8T8KB5M4",
+    "text": "githubにしてもnoderepoにしても他要素認証使ってた上で乗っ取り起きてるんですかね？",
+    "client_msg_id": "eab0c4e3-4121-4720-9e1b-86727d5f574e",
+    "name": "h.hata.ai.t",
+    "img": "https://avatars.slack-edge.com/2019-08-19/732537331990_536f34e28226326cb4e8_24.png",
+    "time": "2022/02/10 14:14:56",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1644468412652039"
+  },
+  {
+    "user": "U0GFBAM8U",
+    "text": "上に書いたnodeのpackageの記事、多分、これ\n<https://techtarget.itmedia.co.jp/tt/news/2202/01/news03.html>",
+    "client_msg_id": "9db37652-5290-4ddf-9f14-87003c08255e",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2022/02/10 14:14:56",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1644467218852579"
+  },
+  {
+    "user": "U0GFBAM8U",
+    "text": "あるかないかで簡易判断してること多いですね",
+    "client_msg_id": "F78F3234-70CC-4819-BF88-01CFC514C503",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2022/02/10 14:14:56",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1644467055230339"
+  },
+  {
+    "user": "U0GFBAM8U",
+    "text": "とりあえずgithub",
+    "client_msg_id": "BE7DBA8A-4E98-4A69-A454-CF1C291677EE",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2022/02/10 14:14:57",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1644467013473619"
+  },
+  {
+    "user": "U0GFBAM8U",
+    "text": "わかる",
+    "client_msg_id": "1F521E77-FAA2-43AA-9751-1E9AAB76AED0",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2022/02/10 14:14:57",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1644466997719159"
+  },
+  {
+    "user": "U70QDFN82",
+    "text": "おととい全く同じことしましたね。Waylandでスクリーン録画するアプリ選んでたんですけどArchWiki開いてパッケージにあるやつソースがGitHubにあるやつって順番で絞り込みました",
+    "client_msg_id": "259e96b2-5b81-4fd9-ba9c-2ddcf2cb8f27",
+    "name": "yutakatay",
+    "img": "https://avatars.slack-edge.com/2020-08-16/1302143736069_0baa468f7bea68e827d9_24.png",
+    "time": "2022/02/10 14:14:58",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1644466948887929"
+  },
+  {
+    "user": "U0GFBAM8U",
     "text": "ちなみに、sourceforgeは出来る限り避けてますね、なんとなく",
     "client_msg_id": "4F0FC584-9FB2-4D11-946B-9A9A4A821059",
     "name": "syui",
     "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
-    "time": "2022/02/10 13:20:22",
+    "time": "2022/02/10 14:14:58",
     "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1644466810976649"
   },
   {
