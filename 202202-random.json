@@ -1,11 +1,101 @@
 [
   {
+    "user": "U02ASPM0A6T",
+    "text": "• pipewire\n• pipewire-alsa\n• pipewire-jack\n• pipewire-pulse\n• pipewire-zeroconf\n• gst-plugin-pipewire\nを入れて、jack競合を無視するために`/etc/pacman.conf` で`IgnorePkg   = jack2`を入れています",
+    "client_msg_id": "3e39acfd-d096-4a42-bd70-0712fcd9f439",
+    "name": "yozigen",
+    "img": "https://avatars.slack-edge.com/2021-08-15/2405164316960_50d7f6e8be23e5b2a0eb_24.jpg",
+    "time": "2022/02/13 00:15:13",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1644676387302669"
+  },
+  {
+    "user": "U0GFBAM8U",
+    "text": "waylandはセキュリティの関係上、画面共有とかはめんどくさそうですね",
+    "client_msg_id": "b8c2bdbd-17b0-4a2a-a29b-634de237dd1d",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2022/02/13 00:15:13",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1644676318734999"
+  },
+  {
+    "user": "U0GFBAM8U",
+    "text": "上の記事と関係しますが、こちらが参考になるかもしれません。\n<https://wiki.archlinux.jp/index.php/PipeWire#WebRTC_.E7.94.BB.E9.9D.A2.E5.85.B1.E6.9C.89>",
+    "client_msg_id": "d9363f91-1da1-4cca-8e4e-2d063ad72888",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2022/02/13 00:15:14",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1644676234847099"
+  },
+  {
+    "user": "U02ASPM0A6T",
+    "text": "ええ使ってます",
+    "client_msg_id": "2a0d6dbe-55c6-49a3-bec9-cb59c196d535",
+    "name": "yozigen",
+    "img": "https://avatars.slack-edge.com/2021-08-15/2405164316960_50d7f6e8be23e5b2a0eb_24.jpg",
+    "time": "2022/02/13 00:15:14",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1644676147476649"
+  },
+  {
+    "user": "U0GFBAM8U",
+    "text": "<@U02ASPM0A6T> さんは今現在、PipeWireを使われてるんですか?",
+    "client_msg_id": "1dec105a-ffaf-4322-98bf-de753132d209",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2022/02/13 00:15:14",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1644676125468539"
+  },
+  {
+    "user": "U02ASPM0A6T",
+    "text": "ああでもちょっとツール変えればできるかも\n<https://github.com/swaywm/sway/wiki/Useful-add-ons-for-sway>\nまた気力が出てきたらやります。社員でもないのに労働に勤しんでしまってつらい",
+    "client_msg_id": "ea0575fd-615a-4967-af54-870b6af670c0",
+    "name": "yozigen",
+    "img": "https://avatars.slack-edge.com/2021-08-15/2405164316960_50d7f6e8be23e5b2a0eb_24.jpg",
+    "time": "2022/02/13 00:15:15",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1644676036988109"
+  },
+  {
+    "user": "U0GFBAM8U",
+    "text": "つらい\nまあ、時間ある時や気が向いた時にでも",
+    "client_msg_id": "7E5E5511-8C46-4712-9B8C-5597F827B81A",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2022/02/13 00:15:15",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1644675879389509"
+  },
+  {
+    "user": "U02ASPM0A6T",
+    "text": "swayのissueを書くためにキャプチャしたかったけどこの時点でつまづいて嫌になってきた\nデスクトップをキャプチャするくらいでOBS経由して動画編集までしないといけないとは。。",
+    "client_msg_id": "1c30dcef-e709-4f88-94fe-b96f9deaef04",
+    "name": "yozigen",
+    "img": "https://avatars.slack-edge.com/2021-08-15/2405164316960_50d7f6e8be23e5b2a0eb_24.jpg",
+    "time": "2022/02/13 00:15:16",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1644675741692919"
+  },
+  {
+    "user": "U0GFBAM8U",
+    "text": "なるほど",
+    "client_msg_id": "e780c4eb-2cf4-4bc3-a046-c4e79674dbb1",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2022/02/13 00:15:16",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1644675302266069"
+  },
+  {
+    "user": "U02ASPM0A6T",
+    "text": "ふむふむ。これは大変だ……。OBS経由で簡単にできないか見てみましたが、手数掛けて色々経由すれば結果的にはできるけど、手軽なデスクトップのキャプチャって感じではハードル高そうでした。画面共有用途ではカメラデバイス化とかすれば汎用的に使えるかもしれませんが……",
+    "client_msg_id": "c073963f-6913-4da1-ac61-85f5bd4bd1f6",
+    "name": "yozigen",
+    "img": "https://avatars.slack-edge.com/2021-08-15/2405164316960_50d7f6e8be23e5b2a0eb_24.jpg",
+    "time": "2022/02/13 00:15:16",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1644675246898369"
+  },
+  {
     "user": "U0GFBAM8U",
     "text": "chromiumでは以下の設定が必要かもしれません\nenable-webrtc-pipewire-capturer flag (in <chrome://flags|chrome://flags>).",
     "client_msg_id": "A70A0019-4632-4483-A161-A0EE66260C36",
     "name": "syui",
     "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
-    "time": "2022/02/12 23:14:03",
+    "time": "2022/02/13 00:15:17",
     "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1644674806517929"
   },
   {
