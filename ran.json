@@ -1,11 +1,119 @@
 [
   {
+    "user": "U0GFBAM8U",
+    "text": "chromiumでは以下の設定が必要かもしれません\nenable-webrtc-pipewire-capturer flag (in <chrome://flags|chrome://flags>).",
+    "client_msg_id": "A70A0019-4632-4483-A161-A0EE66260C36",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2022/02/12 23:14:03",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1644674806517929"
+  },
+  {
+    "user": "U0GFBAM8U",
+    "text": "issueにちょっとしたやりとり載ってますね\n<https://github.com/emersion/xdg-desktop-portal-wlr/issues/24|https://github.com/emersion/xdg-desktop-portal-wlr/issues/24>",
+    "client_msg_id": "A7103DE9-E9E6-4E2D-A5BF-6E6A1B64EBB8",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2022/02/12 23:14:03",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1644674491314989"
+  },
+  {
+    "user": "U0GFBAM8U",
+    "text": "おそらくデバッグに役立つもので、テストページを見ながら問題解決や設定してく感じではないかと(わかりませんが",
+    "client_msg_id": "0E8EA87E-9912-464C-9D82-DF47F040877C",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2022/02/12 23:14:04",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1644674340796059"
+  },
+  {
+    "user": "U02ASPM0A6T",
+    "text": "この人が言っているのは`pipewire-git xdg-desktop-portal-git xdg-desktop-portal-wlr-git`を入れて下記を起動しておけばswayのchromium経由での画面共有ができるよってことですかね\n```env PIPEWIRE_DEBUG=3 pipewire\n/usr/local/libexec/xdg-desktop-portal-wlr -p BGRx -l DEBUG\n/usr/local/libexec/xdg-desktop-portal --verbose -r```",
+    "client_msg_id": "fbd9b075-6b1e-4579-a62a-61d638c4d60d",
+    "name": "yozigen",
+    "img": "https://avatars.slack-edge.com/2021-08-15/2405164316960_50d7f6e8be23e5b2a0eb_24.jpg",
+    "time": "2022/02/12 23:14:04",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1644674147619679"
+  },
+  {
+    "user": "U0GFBAM8U",
+    "text": "aurmanで入れてるパッケージ便利そうでしたね",
+    "client_msg_id": "BC9D83D9-5A93-4D57-BBE1-FA8A23C26FD7",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2022/02/12 23:14:04",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1644673466943699"
+  },
+  {
+    "user": "U02ASPM0A6T",
+    "text": "素朴な思いつきですが、obs経由したら全部うまくいったりしないのかな",
+    "client_msg_id": "1d18c034-1fc4-46ed-8d51-dc1b7223dc1e",
+    "name": "yozigen",
+    "img": "https://avatars.slack-edge.com/2021-08-15/2405164316960_50d7f6e8be23e5b2a0eb_24.jpg",
+    "time": "2022/02/12 23:14:04",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1644673443620939"
+  },
+  {
+    "user": "U0GFBAM8U",
+    "text": "お、よかったです",
+    "client_msg_id": "380CEB8B-F453-4247-8E7C-1BB6B116487F",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2022/02/12 23:14:05",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1644673434173879"
+  },
+  {
+    "user": "U02ASPM0A6T",
+    "text": "今画面記録がうまく取れずに格闘してたのでタイムリーでした\nこれは複雑ですねえ\ngit版かつ独自の引数の何かをいくつか起動しないとだめなのか……",
+    "client_msg_id": "05867958-cd35-4470-bc50-5c26443b9acb",
+    "name": "yozigen",
+    "img": "https://avatars.slack-edge.com/2021-08-15/2405164316960_50d7f6e8be23e5b2a0eb_24.jpg",
+    "time": "2022/02/12 23:14:05",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1644673321257239"
+  },
+  {
+    "user": "U0GFBAM8U",
+    "text": "aurman ユーザーだ",
+    "client_msg_id": "c3f60f0b-5b11-4708-9a50-047ca08b2f40",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2022/02/12 23:14:05",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1644672623331699"
+  },
+  {
+    "user": "U0GFBAM8U",
+    "text": "<https://soyuka.me/make-screen-sharing-wayland-sway-work/>",
+    "client_msg_id": "818b7c84-8e7e-4d1e-9295-79cc8a265137",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2022/02/12 23:14:06",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1644672586109019"
+  },
+  {
+    "user": "U0GFBAM8U",
+    "text": "今、slim使ってるんですが、多分、scriptくらいは実行できそう(そのへんあまり調べてない",
+    "client_msg_id": "888fd1a8-844c-41a0-b17c-04956e1fb33a",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2022/02/12 23:14:06",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1644672583394839"
+  },
+  {
+    "user": "U0GFBAM8U",
+    "text": "参考になります。display manager経由ですね",
+    "client_msg_id": "ed274de5-53ea-47d4-92f8-3e0a4ec16457",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2022/02/12 23:14:06",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1644672553696079"
+  },
+  {
     "user": "U02ASPM0A6T",
     "text": "現状は下記のような形にしてディスプレイマネージャーの`greetd-tuigreet-bin`で`sway-run`を起動しています",
     "client_msg_id": "a2b49558-c7cb-4e11-8b5c-7dfc65878c72",
     "name": "yozigen",
     "img": "https://avatars.slack-edge.com/2021-08-15/2405164316960_50d7f6e8be23e5b2a0eb_24.jpg",
-    "time": "2022/02/12 22:16:11",
+    "time": "2022/02/12 23:14:07",
     "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1644670070737739"
   },
   {
