@@ -1,11 +1,443 @@
 [
   {
+    "user": "U017BNGTHT3",
+    "text": "あとSlackなんかはワークスペース間の移動の際にページ遷移が入るのでもっさりする。\nそれを改善するためにBrowserWindowを複数用意なんかしたらメモリ消費が酷いことになる。",
+    "client_msg_id": "b95c9ce9-425d-4873-a115-ed42b08e028b",
+    "name": "s5is",
+    "img": "https://avatars.slack-edge.com/2020-11-29/1531495219589_cf6a2f80ce7bb820ba38_24.png",
+    "time": "2022/02/12 19:16:01",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1644660291971629"
+  },
+  {
+    "user": "UD124KPDJ",
+    "text": "なおメモリ消費...",
+    "client_msg_id": "c2446010-22cd-4447-9b4c-5712be2a5e8d",
+    "name": "claude0803sz",
+    "img": "https://secure.gravatar.com/avatar/dc8d7b0277a1646d6842105241e8bef5.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0022-24.png",
+    "time": "2022/02/12 19:16:01",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1644660207403899"
+  },
+  {
+    "user": "U70QDFN82",
+    "text": "しかもそれなりにはやくそれなりにかっこいい（Linuxアプリにありがちなデフォルトのダサさが若干軽減される）",
+    "client_msg_id": "991c1293-a344-42b4-881d-ab0bbd2444bc",
+    "name": "yutakatay",
+    "img": "https://avatars.slack-edge.com/2020-08-16/1302143736069_0baa468f7bea68e827d9_24.png",
+    "time": "2022/02/12 19:16:01",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1644660175867189"
+  },
+  {
+    "user": "UGA29R3FH",
+    "text": "しかも(ブラウザベンダーの謎の技術と努力により)ポータブルに動くし",
+    "client_msg_id": "ae5bacad-cdf2-4701-9656-c5ac2e57fccd",
+    "name": "znmxodq1",
+    "img": "https://avatars.slack-edge.com/2019-03-08/570571829091_2ca91fb0cc1ed2341fe0_24.png",
+    "time": "2022/02/12 19:16:02",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1644660127240689"
+  },
+  {
+    "user": "U017BNGTHT3",
+    "text": "むしろElectronの共通部分をライブラリとして1個に纏めてくれればそれで済む。\n…それってブラウザなのでは？",
+    "client_msg_id": "153364ba-f91a-4035-98d5-d93bc858273d",
+    "name": "s5is",
+    "img": "https://avatars.slack-edge.com/2020-11-29/1531495219589_cf6a2f80ce7bb820ba38_24.png",
+    "time": "2022/02/12 19:16:02",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1644660079059669"
+  },
+  {
+    "user": "UGA29R3FH",
+    "text": "GUIフレームワークとして優秀なんだよな、と(GTKもQtも触った上での感想)",
+    "client_msg_id": "8f362bdf-c3b1-4fd4-8298-593bc56b7fd2",
+    "name": "znmxodq1",
+    "img": "https://avatars.slack-edge.com/2019-03-08/570571829091_2ca91fb0cc1ed2341fe0_24.png",
+    "time": "2022/02/12 19:16:02",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1644660063815549"
+  },
+  {
+    "user": "U0GFBAM8U",
+    "text": "electoronとかありますしね、web",
+    "client_msg_id": "ec93454b-470b-4d89-92a8-92d1898be259",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2022/02/12 19:16:02",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1644660024283729"
+  },
+  {
+    "user": "U017BNGTHT3",
+    "text": "普段はブラウザと仮想ターミナルとVSCodeさえ動けば文句がほぼ無いのでそこまでモダンなデスクトップ環境いらない…になってる。",
+    "client_msg_id": "4ed18678-2c8f-43b1-9862-3421a4604fcb",
+    "name": "s5is",
+    "img": "https://avatars.slack-edge.com/2020-11-29/1531495219589_cf6a2f80ce7bb820ba38_24.png",
+    "time": "2022/02/12 19:16:03",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1644660013323339"
+  },
+  {
+    "user": "U70QDFN82",
+    "text": "わかる",
+    "client_msg_id": "59ac6248-fc8b-4725-9980-aae6d70e21d6",
+    "name": "yutakatay",
+    "img": "https://avatars.slack-edge.com/2020-08-16/1302143736069_0baa468f7bea68e827d9_24.png",
+    "time": "2022/02/12 19:16:03",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1644660009692019"
+  },
+  {
+    "user": "UGA29R3FH",
+    "text": "もしやるならWebアプリとして作る",
+    "client_msg_id": "d1a161f1-25a7-4cc2-bd4e-8fb871a173ea",
+    "name": "znmxodq1",
+    "img": "https://avatars.slack-edge.com/2019-03-08/570571829091_2ca91fb0cc1ed2341fe0_24.png",
+    "time": "2022/02/12 19:16:03",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1644660002455599"
+  },
+  {
+    "user": "U70QDFN82",
+    "text": "なんとなく昔はGUIアプリ（Linux）作る人ってそれなりの人数いた気がするんですけど、最近はそっちに興味ある人減ってる気がしていて、ヘビーに使われてるアプリの開発者高齢化しててWayland？めんどくさってなってる感が否めない気もしてますね・・・（かなり独断と偏見で見た感じ）",
+    "client_msg_id": "413a93b4-d08f-409e-a25f-53c759b6616a",
+    "name": "yutakatay",
+    "img": "https://avatars.slack-edge.com/2020-08-16/1302143736069_0baa468f7bea68e827d9_24.png",
+    "time": "2022/02/12 19:16:03",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1644659988408789"
+  },
+  {
+    "user": "U0GFBAM8U",
+    "text": "これ読んでると、そのうちwaylandはスタンダードになりそうな気がする\n<https://en.wikipedia.org/wiki/Wayland_(display_server_protocol)#Differences_between_Wayland_and_X>",
+    "client_msg_id": "8450c792-3478-4480-8f38-3513d0e7acb6",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2022/02/12 19:16:04",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1644659771553129"
+  },
+  {
+    "user": "U70QDFN82",
+    "text": "以前はいろんなアプリのIssueでもWayland？そんなん知らんわ、クローズだったけど、最近はとりあえずOpenにはなってる感じはあります。ただあんまりうまく動いてる試しないですが・・・",
+    "client_msg_id": "bf109076-ca95-48e6-9658-4a3b7f7af6ed",
+    "name": "yutakatay",
+    "img": "https://avatars.slack-edge.com/2020-08-16/1302143736069_0baa468f7bea68e827d9_24.png",
+    "time": "2022/02/12 19:16:04",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1644659694991909"
+  },
+  {
+    "user": "U0GFBAM8U",
+    "text": "なるほど",
+    "client_msg_id": "CB788D04-4488-4E32-92A1-F938A7E22291",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2022/02/12 19:16:04",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1644659540285689"
+  },
+  {
+    "user": "U70QDFN82",
+    "text": "個人的には３年後はよくなってる気がします。１年後はたぶん無理です。",
+    "client_msg_id": "bdf4d1de-f03e-4d32-b52b-598029c6ad7f",
+    "name": "yutakatay",
+    "img": "https://avatars.slack-edge.com/2020-08-16/1302143736069_0baa468f7bea68e827d9_24.png",
+    "time": "2022/02/12 19:16:05",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1644659510104999"
+  },
+  {
+    "user": "U70QDFN82",
+    "text": "xdg-desktop-portal　←なぜか入れさせられるパッケージの筆頭",
+    "client_msg_id": "3279a3e4-98d0-446b-8384-6b86dee3146b",
+    "name": "yutakatay",
+    "img": "https://avatars.slack-edge.com/2020-08-16/1302143736069_0baa468f7bea68e827d9_24.png",
+    "time": "2022/02/12 19:16:05",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1644659475131049"
+  },
+  {
+    "user": "U02BLTTQEL9",
+    "text": "多分このへんと wayland protocol を整備していくんだろうなぁという気はしてるんですけど、あとどれくらいかかるんだろうなぁ。",
+    "client_msg_id": "0ee0ec01-b1cc-4ba6-9775-78957cf73af4",
+    "name": "buzz.taiki",
+    "img": "https://avatars.slack-edge.com/2021-08-15/2388525195124_53543ae8a9c6189fc784_24.jpg",
+    "time": "2022/02/12 19:16:05",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1644659467650959"
+  },
+  {
+    "user": "U0GFBAM8U",
+    "text": "最初は仕方ないですねー",
+    "client_msg_id": "E4641090-56DB-4EDC-92A4-DBF46C47435B",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2022/02/12 19:16:05",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1644659461407199"
+  },
+  {
+    "user": "U02BLTTQEL9",
+    "text": "時代は dbus\n\n<https://flatpak.github.io/xdg-desktop-portal/>",
+    "client_msg_id": "02b5a051-00b6-4df8-a629-17e72c2d815e",
+    "name": "buzz.taiki",
+    "img": "https://avatars.slack-edge.com/2021-08-15/2388525195124_53543ae8a9c6189fc784_24.jpg",
+    "time": "2022/02/12 19:16:06",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1644659421341559"
+  },
+  {
+    "user": "U70QDFN82",
+    "text": "ただその割に仕上がりがいまいちだしアプリ側の対応もいまいち",
+    "client_msg_id": "f41b9a77-91a5-4ad3-ac32-69aeea7defa2",
+    "name": "yutakatay",
+    "img": "https://avatars.slack-edge.com/2020-08-16/1302143736069_0baa468f7bea68e827d9_24.png",
+    "time": "2022/02/12 19:16:06",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1644659394639959"
+  },
+  {
+    "user": "U70QDFN82",
+    "text": "波はWaylandだと思いますね。ほぼすべてのLinuxディストリの標準だしWSLでも動くらしいですし",
+    "client_msg_id": "0e84c669-6a69-4df9-8af2-e005ce9ffbcf",
+    "name": "yutakatay",
+    "img": "https://avatars.slack-edge.com/2020-08-16/1302143736069_0baa468f7bea68e827d9_24.png",
+    "time": "2022/02/12 19:16:06",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1644659365676969"
+  },
+  {
+    "user": "U0GFBAM8U",
+    "text": "開発者がx書くより楽しいなら、そのうち良くなりそうだけど、どうだろう",
+    "client_msg_id": "25E178D6-5C2C-4673-99F4-C1FFD3BDDA0A",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2022/02/12 19:16:06",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1644659279255339"
+  },
+  {
+    "user": "U02BLTTQEL9",
+    "text": "wayland って思想的に今どきは gtk が大体全部吸収してくれるから、機能少なくていいじゃん？みたいな奴だったはずなので、使わない場合だとかえって辛いんじゃないかなぁという気がする。",
+    "client_msg_id": "aa554dd9-d691-4ec1-be79-58993b1dc4fa",
+    "name": "buzz.taiki",
+    "img": "https://avatars.slack-edge.com/2021-08-15/2388525195124_53543ae8a9c6189fc784_24.jpg",
+    "time": "2022/02/12 19:16:07",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1644659264316999"
+  },
+  {
+    "user": "U70QDFN82",
+    "text": "どうせ普通の開発者は使ってもGTKとかQtとかレベルだから違い感じられない感もありますね・・・ラップされてて",
+    "client_msg_id": "3076cdd4-daa5-4881-b54f-726587aa63f0",
+    "name": "yutakatay",
+    "img": "https://avatars.slack-edge.com/2020-08-16/1302143736069_0baa468f7bea68e827d9_24.png",
+    "time": "2022/02/12 19:16:07",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1644659163671009"
+  },
+  {
+    "user": "UGA29R3FH",
+    "text": "API触ってみれば感想も変わってくるのかもしれないが(Xは少しだけお喋りしたことがある)",
+    "client_msg_id": "dc95f658-b292-4455-9ab8-195a1b36b802",
+    "name": "znmxodq1",
+    "img": "https://avatars.slack-edge.com/2019-03-08/570571829091_2ca91fb0cc1ed2341fe0_24.png",
+    "time": "2022/02/12 19:16:07",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1644659124050449"
+  },
+  {
+    "user": "UGA29R3FH",
+    "text": "開発者が楽できるみたいな感じなんだろうけど(Xのプロトコルがつらいという話は聞いた)ユーザーから見て移行するメリットがどんだけあるのかという話",
+    "client_msg_id": "676e3b59-7c06-4ca4-a1c1-f2bf8c335ba0",
+    "name": "znmxodq1",
+    "img": "https://avatars.slack-edge.com/2019-03-08/570571829091_2ca91fb0cc1ed2341fe0_24.png",
+    "time": "2022/02/12 19:16:07",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1644659085936839"
+  },
+  {
+    "user": "U70QDFN82",
+    "text": "Waylandでしか動かないXX機能みたいなのあればいいんですけどね・・・\nない上にXXに該当するのも思いつかない・・・\n愚直にパフォーマンスがちょっといいくらいなレベルになるまで頑張った方がユーザー増えそうな感じですね・・・（アーキテクチャ的にできるのかは不明ですけど）",
+    "client_msg_id": "6c60df2a-8373-4b7b-8371-10db76cdf981",
+    "name": "yutakatay",
+    "img": "https://avatars.slack-edge.com/2020-08-16/1302143736069_0baa468f7bea68e827d9_24.png",
+    "time": "2022/02/12 19:16:08",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1644659002699259"
+  },
+  {
+    "user": "U70QDFN82",
+    "text": "ですね。まさにそんな感じです",
+    "client_msg_id": "4fb1e884-5e00-479d-aa82-d5afbbbba33b",
+    "name": "yutakatay",
+    "img": "https://avatars.slack-edge.com/2020-08-16/1302143736069_0baa468f7bea68e827d9_24.png",
+    "time": "2022/02/12 19:16:08",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1644658716610959"
+  },
+  {
+    "user": "UGA29R3FH",
+    "text": "一昔前のLinuxデスクトップみたいな肌感かな？",
+    "client_msg_id": "8135d366-982d-440c-8471-e73fa315430c",
+    "name": "znmxodq1",
+    "img": "https://avatars.slack-edge.com/2019-03-08/570571829091_2ca91fb0cc1ed2341fe0_24.png",
+    "time": "2022/02/12 19:16:08",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1644658681090239"
+  },
+  {
+    "user": "U70QDFN82",
+    "text": "まあけど使えはするレベルにはなってますね。そういう意味であんまり人柱感はもうない気がします。細かいところがなんかちょっと変レベル",
+    "client_msg_id": "777d04dc-7d1e-4e3c-8c08-41211c2e63c3",
+    "name": "yutakatay",
+    "img": "https://avatars.slack-edge.com/2020-08-16/1302143736069_0baa468f7bea68e827d9_24.png",
+    "time": "2022/02/12 19:16:09",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1644658649684629"
+  },
+  {
+    "user": "UGA29R3FH",
+    "text": "テキストエディタの人柱ですらキャパシティオーバーなのに増やすと爆発する",
+    "client_msg_id": "75843a56-43a4-48ef-9961-f846a815ca4e",
+    "name": "znmxodq1",
+    "img": "https://avatars.slack-edge.com/2019-03-08/570571829091_2ca91fb0cc1ed2341fe0_24.png",
+    "time": "2022/02/12 19:16:09",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1644658607432669"
+  },
+  {
+    "user": "U02BLTTQEL9",
+    "text": "WSL が Wayland 対応したから何か動きがあってもいいのではとか思ってたりはするけれど。",
+    "client_msg_id": "b7755b39-cd3f-4d45-a82e-8276511ba36b",
+    "name": "buzz.taiki",
+    "img": "https://avatars.slack-edge.com/2021-08-15/2388525195124_53543ae8a9c6189fc784_24.jpg",
+    "time": "2022/02/12 19:16:09",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1644658589748519"
+  },
+  {
+    "user": "UGA29R3FH",
+    "text": "この層で人柱をする気はあんまり起きないな",
+    "client_msg_id": "87edcdb3-83a0-41f3-bf31-69e5d592dceb",
+    "name": "znmxodq1",
+    "img": "https://avatars.slack-edge.com/2019-03-08/570571829091_2ca91fb0cc1ed2341fe0_24.png",
+    "time": "2022/02/12 19:16:09",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1644658580930689"
+  },
+  {
+    "user": "U70QDFN82",
+    "text": "この間久しぶりにWMフリーズした。たぶん５年ぶりくらい",
+    "client_msg_id": "43936995-4126-4d46-b3dd-f96313c35051",
+    "name": "yutakatay",
+    "img": "https://avatars.slack-edge.com/2020-08-16/1302143736069_0baa468f7bea68e827d9_24.png",
+    "time": "2022/02/12 19:16:10",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1644658561714619"
+  },
+  {
+    "user": "U70QDFN82",
+    "text": "私もここ２週間くらいWayland生活ですけどいいことはない",
+    "client_msg_id": "91bdba5e-d170-4ce6-be13-c404b99711b8",
+    "name": "yutakatay",
+    "img": "https://avatars.slack-edge.com/2020-08-16/1302143736069_0baa468f7bea68e827d9_24.png",
+    "time": "2022/02/12 19:16:10",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1644658540501429"
+  },
+  {
+    "user": "U70QDFN82",
+    "text": "わかりすぎる",
+    "client_msg_id": "1cddaeff-2b59-41e4-b66a-02f48766db1f",
+    "name": "yutakatay",
+    "img": "https://avatars.slack-edge.com/2020-08-16/1302143736069_0baa468f7bea68e827d9_24.png",
+    "time": "2022/02/12 19:16:10",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1644658521645449"
+  },
+  {
+    "user": "U02BLTTQEL9",
+    "text": "なんだかんだでユーザーは X11 で困る事がないんですよねぇ。ここ数ヶ月くらいは Wayland で生活してみてますけど、困る事はあってもあまり嬉しい事がないっていう。",
+    "client_msg_id": "b679beb5-05e0-47c4-ba4a-01e69084f8d9",
+    "name": "buzz.taiki",
+    "img": "https://avatars.slack-edge.com/2021-08-15/2388525195124_53543ae8a9c6189fc784_24.jpg",
+    "time": "2022/02/12 19:16:10",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1644658509604149"
+  },
+  {
+    "user": "U70QDFN82",
+    "text": "ネイティブWaylandまだいろいろあれだから時が経つまで私はなにもしないつもりですね・・・",
+    "client_msg_id": "e59dfab9-d15c-4f90-b71e-adeda0379f84",
+    "name": "yutakatay",
+    "img": "https://avatars.slack-edge.com/2020-08-16/1302143736069_0baa468f7bea68e827d9_24.png",
+    "time": "2022/02/12 19:16:11",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1644658249537629"
+  },
+  {
+    "user": "U02BLTTQEL9",
+    "text": "今 chromium で試したら再現しなかったので、xwayland は多分問題ないですね。",
+    "client_msg_id": "f18247e6-7179-4f5b-beca-6f61d40bfeda",
+    "name": "buzz.taiki",
+    "img": "https://avatars.slack-edge.com/2021-08-15/2388525195124_53543ae8a9c6189fc784_24.jpg",
+    "time": "2022/02/12 19:16:11",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1644658181825649"
+  },
+  {
+    "user": "U70QDFN82",
+    "text": "あそこらへんなんか中でこっそり使ってたりするから切り分けるのが大変ですよね・・・",
+    "client_msg_id": "bc649668-60d3-471a-9ad5-0e66a816a18b",
+    "name": "yutakatay",
+    "img": "https://avatars.slack-edge.com/2020-08-16/1302143736069_0baa468f7bea68e827d9_24.png",
+    "time": "2022/02/12 19:16:11",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1644658173906519"
+  },
+  {
+    "user": "U02BLTTQEL9",
+    "text": "gedit とかで再現なので native ですね。xwayland は試してないな。",
+    "client_msg_id": "fe589b62-4669-4a2d-afd2-3b091d063e6e",
+    "name": "buzz.taiki",
+    "img": "https://avatars.slack-edge.com/2021-08-15/2388525195124_53543ae8a9c6189fc784_24.jpg",
+    "time": "2022/02/12 19:16:12",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1644658139603389"
+  },
+  {
+    "user": "U70QDFN82",
+    "text": "ネイティブWaylandなんですかね？XWaylandあり？",
+    "client_msg_id": "1d76cd83-1806-4e11-b52e-2c7cbea8a2a7",
+    "name": "yutakatay",
+    "img": "https://avatars.slack-edge.com/2020-08-16/1302143736069_0baa468f7bea68e827d9_24.png",
+    "time": "2022/02/12 19:16:12",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1644658109329539"
+  },
+  {
+    "user": "U02BLTTQEL9",
+    "text": "全然別件なんですけど、wayland + fcitx5-skk で `Q10en` とかしようとすると fcitx5 がクラッシュするみたいです。gnome wayland と sway の両方で再現してて、X11 だと問題なさそう。\n\n問題自体はそこそこ前から起きてたように思う。",
+    "client_msg_id": "d331366a-68de-4389-8dbb-054a3a5a99bf",
+    "name": "buzz.taiki",
+    "img": "https://avatars.slack-edge.com/2021-08-15/2388525195124_53543ae8a9c6189fc784_24.jpg",
+    "time": "2022/02/12 19:16:12",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1644658052902609"
+  },
+  {
+    "user": "U02BLTTQEL9",
+    "text": "gvfs とかで勝手にマウントされるやつを触るときと、DnD のときに Nautilus 使ってる。",
+    "client_msg_id": "7700a1ef-5491-4f46-9539-b118556fb325",
+    "name": "buzz.taiki",
+    "img": "https://avatars.slack-edge.com/2021-08-15/2388525195124_53543ae8a9c6189fc784_24.jpg",
+    "time": "2022/02/12 19:16:12",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1644657660926839"
+  },
+  {
+    "user": "UGA29R3FH",
+    "text": "基本GUIのファイラー使ってないのにD&amp;Dのためだけにpcmanfmが入っている",
+    "client_msg_id": "ec063b48-993a-4257-b75e-746f26bfd36e",
+    "name": "znmxodq1",
+    "img": "https://avatars.slack-edge.com/2019-03-08/570571829091_2ca91fb0cc1ed2341fe0_24.png",
+    "time": "2022/02/12 19:16:13",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1644657564819919"
+  },
+  {
+    "user": "U02BLTTQEL9",
+    "text": "scrapbox は :notebook: みたいなアイコンの中に upload file がある。",
+    "client_msg_id": "1829a941-6de7-4e59-94bc-4cab3da500e4",
+    "name": "buzz.taiki",
+    "img": "https://avatars.slack-edge.com/2021-08-15/2388525195124_53543ae8a9c6189fc784_24.jpg",
+    "time": "2022/02/12 19:16:13",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1644657551054879"
+  },
+  {
+    "user": "U70QDFN82",
+    "text": "できますね。アイコン化されてるからわかりにくいけど。refined入ってたら消された気もする",
+    "client_msg_id": "46652fac-4ea6-42df-8920-a6a32d41bcba",
+    "name": "yutakatay",
+    "img": "https://avatars.slack-edge.com/2020-08-16/1302143736069_0baa468f7bea68e827d9_24.png",
+    "time": "2022/02/12 19:16:13",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1644657378337449"
+  },
+  {
+    "user": "UGA29R3FH",
+    "text": "わざわざpcmanfm起動していたあの手間は一体…",
+    "client_msg_id": "52360e54-aebd-4a65-81d4-3370911006da",
+    "name": "znmxodq1",
+    "img": "https://avatars.slack-edge.com/2019-03-08/570571829091_2ca91fb0cc1ed2341fe0_24.png",
+    "time": "2022/02/12 19:16:14",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1644657368819519"
+  },
+  {
     "user": "U02BLTTQEL9",
     "text": "github は `Attach files by dragging &amp; dropping, selecting or pasting them.` をクリックでできた。",
     "client_msg_id": "8a2f5397-48ce-466f-b964-9d7dd14bd008",
     "name": "buzz.taiki",
     "img": "https://avatars.slack-edge.com/2021-08-15/2388525195124_53543ae8a9c6189fc784_24.jpg",
-    "time": "2022/02/12 18:16:09",
+    "time": "2022/02/12 19:16:14",
     "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1644657367431539"
   },
   {
