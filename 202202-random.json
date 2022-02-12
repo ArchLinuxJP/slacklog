@@ -1,11 +1,38 @@
 [
   {
     "user": "U0GFBAM8U",
+    "text": "sway使ってる人、基本的に`xwayland disable` で使われていますか?",
+    "client_msg_id": "b4326297-8eb5-4abc-b880-49eafa260b9e",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2022/02/12 21:24:32",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1644666950976899"
+  },
+  {
+    "user": "U01SAL8K6P5",
+    "text": "waylamdで嬉しいのはHiDPI環境だけですね。Xのスケーリングは整数倍だけだったりボヤけたりで微妙だったのが小数指定するだけになって楽です。",
+    "client_msg_id": "FE937879-8B9E-4C8E-BCEC-317B29D69D98",
+    "name": "oyasumi60",
+    "img": "https://secure.gravatar.com/avatar/85097f3d1b387c4143451076908bdd45.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0008-24.png",
+    "time": "2022/02/12 21:24:33",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1644665864213219"
+  },
+  {
+    "user": "U02ASPM0A6T",
+    "text": "keydは単一ビルドでアプリケーションごとのリマップできるようです\n• <https://github.com/rvaiya/keyd>\n• <https://github.com/rvaiya/keyd/blob/master/man.md>\n最初の設定面倒ですが、SBCサポート（RaspberryPi等を介したUSBガジェット化＝接続先のOSを問わずカスタムキーボードとして使える）があったりで応用性がかなり広くて気に入っています",
+    "client_msg_id": "16df0988-43f2-4033-ba28-791ff041fd63",
+    "name": "yozigen",
+    "img": "https://avatars.slack-edge.com/2021-08-15/2405164316960_50d7f6e8be23e5b2a0eb_24.jpg",
+    "time": "2022/02/12 21:24:33",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1644664860411969"
+  },
+  {
+    "user": "U0GFBAM8U",
     "text": "便利",
     "client_msg_id": "78128B8E-B047-4047-9FFC-44CF6E27F0D5",
     "name": "syui",
     "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
-    "time": "2022/02/12 20:12:59",
+    "time": "2022/02/12 21:24:34",
     "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1644664342916049"
   },
   {
