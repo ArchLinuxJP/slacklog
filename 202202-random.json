@@ -1,11 +1,362 @@
 [
   {
+    "user": "U0GFBAM8U",
+    "text": "便利",
+    "client_msg_id": "78128B8E-B047-4047-9FFC-44CF6E27F0D5",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2022/02/12 20:12:59",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1644664342916049"
+  },
+  {
+    "user": "U02ASPM0A6T",
+    "text": "現状おそらくsway標準のターミナルエミュレータの`foot`ではfcitx5の変換リストが表示されないと思います\n日本語を使う場合は`alacritty`を`$mod+ctrl+enter`で起動という形でキー割当てして使っています",
+    "client_msg_id": "98feb8f2-4ad3-4ffe-b9b0-1fb34f66e4d6",
+    "name": "yozigen",
+    "img": "https://avatars.slack-edge.com/2021-08-15/2405164316960_50d7f6e8be23e5b2a0eb_24.jpg",
+    "time": "2022/02/12 20:12:59",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1644663677647909"
+  },
+  {
+    "user": "U8T8KB5M4",
+    "text": "xremapなんでx, wayland, swayとビルドオプションあるのかと思ったらapplicationごとにkeyremapできるんですね。",
+    "client_msg_id": "7014e137-5793-45a6-a875-509b0a5b3472",
+    "name": "h.hata.ai.t",
+    "img": "https://avatars.slack-edge.com/2019-08-19/732537331990_536f34e28226326cb4e8_24.png",
+    "time": "2022/02/12 20:12:59",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1644663642350209"
+  },
+  {
+    "user": "U8T8KB5M4",
+    "text": "心が枯れたことによって設定はstableになっていた。なんとも言えない気持ちだ。",
+    "client_msg_id": "953f5f54-2388-42c6-a1e5-759700dace25",
+    "name": "h.hata.ai.t",
+    "img": "https://avatars.slack-edge.com/2019-08-19/732537331990_536f34e28226326cb4e8_24.png",
+    "time": "2022/02/12 20:12:59",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1644662955421879"
+  },
+  {
+    "user": "UGA29R3FH",
+    "text": "fcitxに仕方なく乗り換えた時以来なんもしとらんな？",
+    "client_msg_id": "dba0aeb2-af00-439a-baff-d415e1cb09e4",
+    "name": "znmxodq1",
+    "img": "https://avatars.slack-edge.com/2019-03-08/570571829091_2ca91fb0cc1ed2341fe0_24.png",
+    "time": "2022/02/12 20:13:00",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1644662756424389"
+  },
+  {
+    "user": "UGA29R3FH",
+    "text": "うちの環境もだいぶ安定してきたので問題の対処だけで日々過ごせるようになっている",
+    "client_msg_id": "c3f0e9f0-6b73-4304-b052-5a0a3d6d0cc2",
+    "name": "znmxodq1",
+    "img": "https://avatars.slack-edge.com/2019-03-08/570571829091_2ca91fb0cc1ed2341fe0_24.png",
+    "time": "2022/02/12 20:13:00",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1644662729012339"
+  },
+  {
+    "user": "UGA29R3FH",
+    "text": "dotfilesの更新日時を可視化したら精神状態が分かる説",
+    "client_msg_id": "0cb9ac91-a214-4d45-8e39-3923911fb940",
+    "name": "znmxodq1",
+    "img": "https://avatars.slack-edge.com/2019-03-08/570571829091_2ca91fb0cc1ed2341fe0_24.png",
+    "time": "2022/02/12 20:13:00",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1644662692760859"
+  },
+  {
+    "user": "U0GFBAM8U",
+    "text": "わかる、問題が起こらない限り放置され続けてしまう",
+    "client_msg_id": "8bfdd6f8-21e9-40aa-9f4a-39cf62d1fdda",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2022/02/12 20:13:01",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1644662686606659"
+  },
+  {
+    "user": "U8T8KB5M4",
+    "text": "2年ほど心が枯れていたのでなにかの更新で壊れない限り放置してました。",
+    "client_msg_id": "573e8a68-eece-4842-b285-57f977cb9a9c",
+    "name": "h.hata.ai.t",
+    "img": "https://avatars.slack-edge.com/2019-08-19/732537331990_536f34e28226326cb4e8_24.png",
+    "time": "2022/02/12 20:13:01",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1644662659214479"
+  },
+  {
+    "user": "UGA29R3FH",
+    "text": "dotfilesちまちまいじってるけど、全然刷新されなくなった",
+    "client_msg_id": "b7cf6aaa-1eb3-475c-9b7a-79f3ac4d4df6",
+    "name": "znmxodq1",
+    "img": "https://avatars.slack-edge.com/2019-03-08/570571829091_2ca91fb0cc1ed2341fe0_24.png",
+    "time": "2022/02/12 20:13:01",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1644662617590289"
+  },
+  {
+    "user": "UGA29R3FH",
+    "text": "オッ",
+    "client_msg_id": "d459914f-f521-4cd8-b5bf-6881d7c591af",
+    "name": "znmxodq1",
+    "img": "https://avatars.slack-edge.com/2019-03-08/570571829091_2ca91fb0cc1ed2341fe0_24.png",
+    "time": "2022/02/12 20:13:01",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1644662603079059"
+  },
+  {
+    "user": "U8T8KB5M4",
+    "text": "2年ぶりくらいにdotfileの更新をするモチベーションが上がってきた。",
+    "client_msg_id": "71ce54a6-7920-40f3-b45f-68508278bef5",
+    "name": "h.hata.ai.t",
+    "img": "https://avatars.slack-edge.com/2019-08-19/732537331990_536f34e28226326cb4e8_24.png",
+    "time": "2022/02/12 20:13:02",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1644662577194629"
+  },
+  {
+    "user": "U02BLTTQEL9",
+    "text": "報告はしといたけど、fcitx5-skk の問題じゃなくて fcitx5 本体の問題とかかもしれない。\n\n<https://github.com/fcitx/fcitx5-skk/issues/8>",
+    "client_msg_id": "7471e982-cb29-4a6f-8c97-1fa93b597275",
+    "name": "buzz.taiki",
+    "img": "https://avatars.slack-edge.com/2021-08-15/2388525195124_53543ae8a9c6189fc784_24.jpg",
+    "time": "2022/02/12 20:13:02",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1644662494610469"
+  },
+  {
+    "user": "U0GFBAM8U",
+    "text": "今、この記事読んでる、なるほど\n<https://inthisfucking.world/sway/>",
+    "client_msg_id": "024dcd49-5342-4f11-a734-58a0ceccc78a",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2022/02/12 20:13:02",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1644662382948299"
+  },
+  {
+    "user": "U0GFBAM8U",
+    "text": "ただ、なんか端っこが黒になってるので、configで調整とか必要になってきそう",
+    "client_msg_id": "11b1a36d-4d36-468d-b35e-3cf11a8e1d9a",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2022/02/12 20:13:03",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1644662219539399"
+  },
+  {
+    "user": "U02ASPM0A6T",
+    "text": "リマップは`keyd`もX,wayland関係なく使えるので気に入っています。C-x後のワンショットモディファイアとかトグルでDvorakへレイアウト変更みたいなこともできます",
+    "client_msg_id": "022511d0-cd18-4093-86cd-75bb4c6f6010",
+    "name": "yozigen",
+    "img": "https://avatars.slack-edge.com/2021-08-15/2405164316960_50d7f6e8be23e5b2a0eb_24.jpg",
+    "time": "2022/02/12 20:13:03",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1644662173708979"
+  },
+  {
+    "user": "U0GFBAM8U",
+    "text": "今回の移行、わりとすんなりいけたのでおすすめです(i3 -&gt; sway)\n```$ sudo pacman -S sway xorg-xwayland qt5-waylandsudo\n$ cp -rf ~/.config/i3 ~/.config/sway\n$ cat ~/.xinitrc\n#!/bin/sh\nexec sway\n\n$ sudo reboot```",
+    "client_msg_id": "aa28156d-ed04-4f75-8d10-c4f634997a76",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2022/02/12 20:13:03",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1644662154798369"
+  },
+  {
+    "user": "U8T8KB5M4",
+    "text": "いつかwaylandに移行するためにxremapに移行しよう。",
+    "client_msg_id": "9bfe5bd8-8dba-42d1-93c0-436e4f13310f",
+    "name": "h.hata.ai.t",
+    "img": "https://avatars.slack-edge.com/2019-08-19/732537331990_536f34e28226326cb4e8_24.png",
+    "time": "2022/02/12 20:13:04",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1644662146973519"
+  },
+  {
+    "user": "U70QDFN82",
+    "text": "swayと共用するときに１枚だとめんどいんですよね",
+    "client_msg_id": "380534e7-d2d1-4cff-9518-87377a4b1e04",
+    "name": "yutakatay",
+    "img": "https://avatars.slack-edge.com/2020-08-16/1302143736069_0baa468f7bea68e827d9_24.png",
+    "time": "2022/02/12 20:13:04",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1644662139666369"
+  },
+  {
+    "user": "UGA29R3FH",
+    "text": "老人なので一枚岩config使っている\nそうか分割できるのか",
+    "client_msg_id": "1cebfbe1-ec08-43b7-8aaa-76a05a620002",
+    "name": "znmxodq1",
+    "img": "https://avatars.slack-edge.com/2019-03-08/570571829091_2ca91fb0cc1ed2341fe0_24.png",
+    "time": "2022/02/12 20:13:04",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1644662103489259"
+  },
+  {
+    "user": "U8T8KB5M4",
+    "text": "Rustに移植されてたのか、Rubyだったから食指がのびなかった。",
+    "client_msg_id": "117169cf-10a2-44f7-b2e9-402eca93e48f",
+    "name": "h.hata.ai.t",
+    "img": "https://avatars.slack-edge.com/2019-08-19/732537331990_536f34e28226326cb4e8_24.png",
+    "time": "2022/02/12 20:13:04",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1644662075374109"
+  },
+  {
+    "user": "U70QDFN82",
+    "text": "最近のi3/swayはファイル分けてincludeで書くのがナウいらしいです。",
+    "client_msg_id": "911ed216-ed1e-4031-a399-cc194ee8e1a0",
+    "name": "yutakatay",
+    "img": "https://avatars.slack-edge.com/2020-08-16/1302143736069_0baa468f7bea68e827d9_24.png",
+    "time": "2022/02/12 20:13:05",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1644662057438509"
+  },
+  {
+    "user": "UGA29R3FH",
+    "text": "自称",
+    "client_msg_id": "2224fe4f-a3e6-4700-b76d-88d15910706e",
+    "name": "znmxodq1",
+    "img": "https://avatars.slack-edge.com/2019-03-08/570571829091_2ca91fb0cc1ed2341fe0_24.png",
+    "time": "2022/02/12 20:13:05",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1644661999778999"
+  },
+  {
+    "user": "U0GFBAM8U",
+    "text": "@yutakatay ありがとうございます、こっちも参考になりそう\n<https://github.com/yutkat/dotfiles/blob/master/.config/sway/config>",
+    "client_msg_id": "4d499220-1e60-4f34-9ce7-115618302983",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2022/02/12 20:13:05",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1644661997283939"
+  },
+  {
+    "user": "U70QDFN82",
+    "text": "ですね。自称Rust初心者の",
+    "client_msg_id": "cc925f8f-ef97-4949-b1f1-4d46cdd35042",
+    "name": "yutakatay",
+    "img": "https://avatars.slack-edge.com/2020-08-16/1302143736069_0baa468f7bea68e827d9_24.png",
+    "time": "2022/02/12 20:13:06",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1644661984424059"
+  },
+  {
+    "user": "U8T8KB5M4",
+    "text": "あーxremapってk0kubunさんが作ってたやつですか",
+    "client_msg_id": "8e0b946e-d8bf-43dc-8db8-f6529e810cf8",
+    "name": "h.hata.ai.t",
+    "img": "https://avatars.slack-edge.com/2019-08-19/732537331990_536f34e28226326cb4e8_24.png",
+    "time": "2022/02/12 20:13:06",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1644661969274179"
+  },
+  {
+    "user": "U0GFBAM8U",
+    "text": "わかる、xinitrcでsway書いたけど、これどうなんだって思った",
+    "client_msg_id": "c6d7d594-50b7-483f-b2e9-52dd11794ab7",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2022/02/12 20:13:06",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1644661844137519"
+  },
+  {
+    "user": "U8T8KB5M4",
+    "text": "xremapってwaylandも対応なんだ（xついてると使えなさそうに思ってしまう）",
+    "client_msg_id": "61568d71-1337-449f-a614-d997bd9811ac",
+    "name": "h.hata.ai.t",
+    "img": "https://avatars.slack-edge.com/2019-08-19/732537331990_536f34e28226326cb4e8_24.png",
+    "time": "2022/02/12 20:13:06",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1644661770550419"
+  },
+  {
+    "user": "U70QDFN82",
+    "text": "私はi3でしか使えない（使わない）やつと共用できるやつで設定ファイル分けてますね\n<https://github.com/yutkat/dotfiles/blob/master/.config/i3/config.d/i3.conf>",
+    "client_msg_id": "5a97ae36-d117-4d7b-b259-9ef0816941f8",
+    "name": "yutakatay",
+    "img": "https://avatars.slack-edge.com/2020-08-16/1302143736069_0baa468f7bea68e827d9_24.png",
+    "time": "2022/02/12 20:13:07",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1644661748955119"
+  },
+  {
+    "user": "U0GFBAM8U",
+    "text": "そうなんですね\nでも自分とこではどうやらexec以降に書いたやつ実行されてないっぽい",
+    "client_msg_id": "9692e388-26c3-4eb9-abea-10256d50096b",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2022/02/12 20:13:07",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1644661628986769"
+  },
+  {
+    "user": "U70QDFN82",
+    "text": "execはいくはずですけど、i3-msgとかはswaymsgに置き換える必要ありますね",
+    "client_msg_id": "62c3cb35-9310-45ea-9da1-de174b25df81",
+    "name": "yutakatay",
+    "img": "https://avatars.slack-edge.com/2020-08-16/1302143736069_0baa468f7bea68e827d9_24.png",
+    "time": "2022/02/12 20:13:07",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1644661579078349"
+  },
+  {
+    "user": "U0GFBAM8U",
+    "text": "今の所、i3で設定したキーは使えてる模様",
+    "client_msg_id": "78b918e6-d3f0-4934-9ea3-b79d62e31680",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2022/02/12 20:13:08",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1644661545792939"
+  },
+  {
+    "user": "U0GFBAM8U",
+    "text": "i3 confのexecはコマンド実行されないんだろうか?",
+    "client_msg_id": "40bc0934-94c5-43f1-8c5f-dc583982987e",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2022/02/12 20:13:08",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1644661519839169"
+  },
+  {
+    "user": "U70QDFN82",
+    "text": "udevのhwdbですね",
+    "client_msg_id": "13f63839-7d11-4bdd-9715-31d54180d634",
+    "name": "yutakatay",
+    "img": "https://avatars.slack-edge.com/2020-08-16/1302143736069_0baa468f7bea68e827d9_24.png",
+    "time": "2022/02/12 20:13:08",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1644661486355199"
+  },
+  {
+    "user": "UVB7L4CKH",
+    "text": "xremapがwaylandで使えたはず……",
+    "client_msg_id": "edd3bf06-0e3c-44a0-b546-acc75eaaf477",
+    "name": "tatsumigamou",
+    "img": "https://avatars.slack-edge.com/2020-03-12/985313571153_203fee630d3a4a1053a1_24.jpg",
+    "time": "2022/02/12 20:13:08",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1644661484668549"
+  },
+  {
+    "user": "U8T8KB5M4",
+    "text": "ってArchWikiに絶対書いて有りそうだな。",
+    "client_msg_id": "154b8920-1ed6-4e94-be3c-e7aaf974825a",
+    "name": "h.hata.ai.t",
+    "img": "https://avatars.slack-edge.com/2019-08-19/732537331990_536f34e28226326cb4e8_24.png",
+    "time": "2022/02/12 20:13:09",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1644661465316169"
+  },
+  {
+    "user": "U8T8KB5M4",
+    "text": "Waylandではキーリマッピングとかどうするんですか？",
+    "client_msg_id": "dcc65138-d02c-4880-9bf8-c53a282a3608",
+    "name": "h.hata.ai.t",
+    "img": "https://avatars.slack-edge.com/2019-08-19/732537331990_536f34e28226326cb4e8_24.png",
+    "time": "2022/02/12 20:13:09",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1644661450625409"
+  },
+  {
+    "user": "U0GFBAM8U",
+    "text": "i3の設定がそのまま使えて便利",
+    "client_msg_id": "af94cf0f-bc8f-45f1-a7f2-4ed6eeaf2f90",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2022/02/12 20:13:09",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1644661435125939"
+  },
+  {
+    "user": "U0GFBAM8U",
+    "text": "ちょっとswayに乗り換えようと思ったので、乗り換えてみました(i3 -&gt; sway)",
+    "client_msg_id": "605fd3a9-eb22-4675-b326-b036d6494ae9",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2022/02/12 20:13:10",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1644661382666569"
+  },
+  {
     "user": "U017BNGTHT3",
     "text": "あとSlackなんかはワークスペース間の移動の際にページ遷移が入るのでもっさりする。\nそれを改善するためにBrowserWindowを複数用意なんかしたらメモリ消費が酷いことになる。",
     "client_msg_id": "b95c9ce9-425d-4873-a115-ed42b08e028b",
     "name": "s5is",
     "img": "https://avatars.slack-edge.com/2020-11-29/1531495219589_cf6a2f80ce7bb820ba38_24.png",
-    "time": "2022/02/12 19:16:01",
+    "time": "2022/02/12 20:13:10",
     "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1644660291971629"
   },
   {
