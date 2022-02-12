@@ -1,11 +1,200 @@
 [
   {
+    "user": "U02BLTTQEL9",
+    "text": "github は `Attach files by dragging &amp; dropping, selecting or pasting them.` をクリックでできた。",
+    "client_msg_id": "8a2f5397-48ce-466f-b964-9d7dd14bd008",
+    "name": "buzz.taiki",
+    "img": "https://avatars.slack-edge.com/2021-08-15/2388525195124_53543ae8a9c6189fc784_24.jpg",
+    "time": "2022/02/12 18:16:09",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1644657367431539"
+  },
+  {
+    "user": "UGA29R3FH",
+    "text": "あれ、そうなのか",
+    "client_msg_id": "5f8f022a-5a66-4bb4-ac1a-3cfe5a890017",
+    "name": "znmxodq1",
+    "img": "https://avatars.slack-edge.com/2019-03-08/570571829091_2ca91fb0cc1ed2341fe0_24.png",
+    "time": "2022/02/12 18:16:09",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1644657337972829"
+  },
+  {
+    "user": "U02BLTTQEL9",
+    "text": "Scrapbox 右上からファイル添付できますよ。Github もできたような。",
+    "client_msg_id": "56e0e7d8-abea-48a0-a3b0-54a593d16e76",
+    "name": "buzz.taiki",
+    "img": "https://avatars.slack-edge.com/2021-08-15/2388525195124_53543ae8a9c6189fc784_24.jpg",
+    "time": "2022/02/12 18:16:09",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1644657328686739"
+  },
+  {
+    "user": "UGA29R3FH",
+    "text": "私が利用しているサービスではGitHubとScrapboxがそう",
+    "client_msg_id": "d30be6da-cd3d-4363-9fdf-81977e4b716b",
+    "name": "znmxodq1",
+    "img": "https://avatars.slack-edge.com/2019-03-08/570571829091_2ca91fb0cc1ed2341fe0_24.png",
+    "time": "2022/02/12 18:16:10",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1644657303438709"
+  },
+  {
+    "user": "U70QDFN82",
+    "text": "どこクリックすれば出てくるのか探すのも地味に面倒。アイコンになってたりするし",
+    "client_msg_id": "e8284566-0b63-406b-aeff-2bf4471d5c9a",
+    "name": "yutakatay",
+    "img": "https://avatars.slack-edge.com/2020-08-16/1302143736069_0baa468f7bea68e827d9_24.png",
+    "time": "2022/02/12 18:16:10",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1644657276167859"
+  },
+  {
+    "user": "U70QDFN82",
+    "text": "8割のサイトはどこかクリックすると選択ダイアログ出してくれるタイル型WMに優しい作りなんですが、ドラックアンドドロップできないとかいうやつの存在を知らないサイトも存在しますね",
+    "client_msg_id": "f0a953c3-8b45-4c90-99ac-d3a2858e6c46",
+    "name": "yutakatay",
+    "img": "https://avatars.slack-edge.com/2020-08-16/1302143736069_0baa468f7bea68e827d9_24.png",
+    "time": "2022/02/12 18:16:10",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1644657247765589"
+  },
+  {
+    "user": "UGA29R3FH",
+    "text": "ドロップするためにウィンドウ出すと別のウィンドウが縮む",
+    "client_msg_id": "b2dc8a6a-0189-414d-b268-b9b7dd84ff50",
+    "name": "znmxodq1",
+    "img": "https://avatars.slack-edge.com/2019-03-08/570571829091_2ca91fb0cc1ed2341fe0_24.png",
+    "time": "2022/02/12 18:16:11",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1644657148933529"
+  },
+  {
+    "user": "U70QDFN82",
+    "text": "ドラックアンドドロップとかができないパターンとかも地味にめんどいんですよね",
+    "client_msg_id": "2748f892-3595-48f0-aa26-c5c92eda43a0",
+    "name": "yutakatay",
+    "img": "https://avatars.slack-edge.com/2020-08-16/1302143736069_0baa468f7bea68e827d9_24.png",
+    "time": "2022/02/12 18:16:11",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1644657103885339"
+  },
+  {
+    "user": "UGA29R3FH",
+    "text": "ダイアログが不自然に拡大されるとか、キャプチャとかで柔軟に並べたい時にできないとか",
+    "client_msg_id": "ba90aed5-e5e5-470d-86b9-b98b36aadb4b",
+    "name": "znmxodq1",
+    "img": "https://avatars.slack-edge.com/2019-03-08/570571829091_2ca91fb0cc1ed2341fe0_24.png",
+    "time": "2022/02/12 18:16:11",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1644657076377829"
+  },
+  {
+    "user": "UGA29R3FH",
+    "text": "ただ、例外ケースが漏れなくきつい",
+    "client_msg_id": "bcfdb660-97ee-470f-ac55-0df2a456e043",
+    "name": "znmxodq1",
+    "img": "https://avatars.slack-edge.com/2019-03-08/570571829091_2ca91fb0cc1ed2341fe0_24.png",
+    "time": "2022/02/12 18:16:11",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1644656979775209"
+  },
+  {
+    "user": "UGA29R3FH",
+    "text": "私がタイル型に移ったのは、ほぼ最大化か左右並べしかしないからそれならタイル型でいんじゃね？となったのがきっかけなんですが、ほとんどのケースでは快適ではあるんですよね",
+    "client_msg_id": "26259777-bd2c-4bcf-a187-d8748a98fe2c",
+    "name": "znmxodq1",
+    "img": "https://avatars.slack-edge.com/2019-03-08/570571829091_2ca91fb0cc1ed2341fe0_24.png",
+    "time": "2022/02/12 18:16:12",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1644656969999839"
+  },
+  {
+    "user": "U70QDFN82",
+    "text": "なんだかんだ開発力（人数）が正義なところありますからね・・・",
+    "client_msg_id": "6d9b7748-2678-4d43-9f22-4d9a74ebe96d",
+    "name": "yutakatay",
+    "img": "https://avatars.slack-edge.com/2020-08-16/1302143736069_0baa468f7bea68e827d9_24.png",
+    "time": "2022/02/12 18:16:12",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1644656913424529"
+  },
+  {
+    "user": "U02BLTTQEL9",
+    "text": "UWQHD とか使ってると勝手に並んでくた方が嬉しいけど、タイルじゃなくてもいいとは思う。",
+    "client_msg_id": "ca21bf37-dc1f-4f07-bd51-3348de025122",
+    "name": "buzz.taiki",
+    "img": "https://avatars.slack-edge.com/2021-08-15/2388525195124_53543ae8a9c6189fc784_24.jpg",
+    "time": "2022/02/12 18:16:12",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1644656807342999"
+  },
+  {
+    "user": "U70QDFN82",
+    "text": "３年前までくらいはフルカスタムできて軽くてでかなり優位あったんですけどね。GNOME側もgnome-shellになってばたばたしてたし",
+    "client_msg_id": "ba592d90-815c-412a-b287-dcdb9f4a30a0",
+    "name": "yutakatay",
+    "img": "https://avatars.slack-edge.com/2020-08-16/1302143736069_0baa468f7bea68e827d9_24.png",
+    "time": "2022/02/12 18:16:13",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1644656797474979"
+  },
+  {
+    "user": "UGA29R3FH",
+    "text": "最初から最大化してくれればタイル型じゃなくてもいい",
+    "client_msg_id": "0f480f12-eefe-4cf9-8766-89882991d05c",
+    "name": "znmxodq1",
+    "img": "https://avatars.slack-edge.com/2019-03-08/570571829091_2ca91fb0cc1ed2341fe0_24.png",
+    "time": "2022/02/12 18:16:13",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1644656763717779"
+  },
+  {
+    "user": "U02BLTTQEL9",
+    "text": "ただ僕は何度か sway とか i3 試して結局 gnome に戻ってきた人なんですけど。",
+    "client_msg_id": "efc515be-672e-4e77-b19e-183b61fca89b",
+    "name": "buzz.taiki",
+    "img": "https://avatars.slack-edge.com/2021-08-15/2388525195124_53543ae8a9c6189fc784_24.jpg",
+    "time": "2022/02/12 18:16:13",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1644656754101119"
+  },
+  {
+    "user": "UGA29R3FH",
+    "text": "実の所、タイル型不便では？と思う所がそれなりにある",
+    "client_msg_id": "afd096a8-c46f-4cee-9f40-783f11bbeabe",
+    "name": "znmxodq1",
+    "img": "https://avatars.slack-edge.com/2019-03-08/570571829091_2ca91fb0cc1ed2341fe0_24.png",
+    "time": "2022/02/12 18:16:14",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1644656736795739"
+  },
+  {
+    "user": "U02BLTTQEL9",
+    "text": "そですね。本物のタイル型と比べるとレイアウトの自由度とかは少ないですけど、わりとタイルっぽい拡張色々あるし。さすがにちゃんとDEしてるし。",
+    "client_msg_id": "109a188f-a7bc-4764-8278-48e5612c01b1",
+    "name": "buzz.taiki",
+    "img": "https://avatars.slack-edge.com/2021-08-15/2388525195124_53543ae8a9c6189fc784_24.jpg",
+    "time": "2022/02/12 18:16:14",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1644656641780179"
+  },
+  {
+    "user": "U70QDFN82",
+    "text": "正直最近のGNOMEはタイルっぽく使えるし、ショートカット充実してるしパフォーマンス悪くないしで別に不自由しないですよね。\n私も今から環境作る勢なら絶対GNOMEにする。",
+    "client_msg_id": "9e3e5e96-1b71-47d9-8530-2faa6369cebe",
+    "name": "yutakatay",
+    "img": "https://avatars.slack-edge.com/2020-08-16/1302143736069_0baa468f7bea68e827d9_24.png",
+    "time": "2022/02/12 18:16:14",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1644656322534719"
+  },
+  {
+    "user": "U02BLTTQEL9",
+    "text": "wifi とか bluetooth まわりで苦労する事が少ない (気がする) から gnome 使ってるみたいな所がある。",
+    "client_msg_id": "234f597d-c179-43b5-94d9-2b4d9dd7af59",
+    "name": "buzz.taiki",
+    "img": "https://avatars.slack-edge.com/2021-08-15/2388525195124_53543ae8a9c6189fc784_24.jpg",
+    "time": "2022/02/12 18:16:14",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1644656205398119"
+  },
+  {
+    "user": "U0PM6EYR1",
+    "text": "このご時世だからね…",
+    "client_msg_id": "666aca9c-3fc0-477e-9fd8-1e6cc09795dc",
+    "name": "raa0121",
+    "img": "https://secure.gravatar.com/avatar/35b032d7b2d4182b0c2de1ef85ba91f2.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0009-24.png",
+    "time": "2022/02/12 18:16:15",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1644655168185209"
+  },
+  {
     "user": "U70QDFN82",
     "text": "そういえば外で使う機会めっきり減ったな・・・",
     "client_msg_id": "7e3c9e6a-cf19-40d8-b364-7a7a3ba725fa",
     "name": "yutakatay",
     "img": "https://avatars.slack-edge.com/2020-08-16/1302143736069_0baa468f7bea68e827d9_24.png",
-    "time": "2022/02/12 16:14:11",
+    "time": "2022/02/12 18:16:15",
     "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1644648870017099"
   },
   {
