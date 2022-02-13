@@ -1,11 +1,371 @@
 [
   {
+    "user": "UGA29R3FH",
+    "text": "YAMLつらいのでLuaに移行したい",
+    "client_msg_id": "797d326b-995a-4f62-b775-0762a1508a6b",
+    "name": "znmxodq1",
+    "img": "https://avatars.slack-edge.com/2019-03-08/570571829091_2ca91fb0cc1ed2341fe0_24.png",
+    "time": "2022/02/13 18:15:54",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1644743729258279"
+  },
+  {
+    "user": "U70QDFN82",
+    "text": "いろいろ辛くない",
+    "client_msg_id": "cba23f49-dd8e-4456-a1c9-d7901a126b73",
+    "name": "yutakatay",
+    "img": "https://avatars.slack-edge.com/2020-08-16/1302143736069_0baa468f7bea68e827d9_24.png",
+    "time": "2022/02/13 18:15:54",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1644743728777849"
+  },
+  {
+    "user": "U70QDFN82",
+    "text": "tmuxさっさと捨てるのがやっぱりいい気がする",
+    "client_msg_id": "05e8c129-5c1d-4a55-9bd0-6a0e51d07ac5",
+    "name": "yutakatay",
+    "img": "https://avatars.slack-edge.com/2020-08-16/1302143736069_0baa468f7bea68e827d9_24.png",
+    "time": "2022/02/13 18:15:54",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1644743720203399"
+  },
+  {
+    "user": "U0GFBAM8U",
+    "text": "ですね",
+    "client_msg_id": "adb827a3-b486-4fe2-bd47-6ad9da0e8d65",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2022/02/13 18:15:54",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1644743704957119"
+  },
+  {
+    "user": "U70QDFN82",
+    "text": "まぁtmux使ったらどのみち機能しなくなっちゃいますけどね・・・",
+    "client_msg_id": "a4c0ff1c-b9e4-49e6-b739-45b3c684ef5a",
+    "name": "yutakatay",
+    "img": "https://avatars.slack-edge.com/2020-08-16/1302143736069_0baa468f7bea68e827d9_24.png",
+    "time": "2022/02/13 18:15:55",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1644743671555849"
+  },
+  {
+    "user": "U0GFBAM8U",
+    "text": "sixelも対応してるのいいね",
+    "client_msg_id": "421ee192-e64a-4d9e-a2d7-3774b3c028fc",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2022/02/13 18:15:55",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1644743646096529"
+  },
+  {
+    "user": "U0GFBAM8U",
+    "text": "githubでみてみたら更新頻度活発で良さそうですね",
+    "client_msg_id": "6e8d52d5-9d1d-4d66-a330-94118bb34c6c",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2022/02/13 18:15:55",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1644743593080439"
+  },
+  {
+    "user": "UGA29R3FH",
+    "text": "セッション目当て…",
+    "client_msg_id": "318f714d-e1e3-4a52-95be-11a61971add0",
+    "name": "znmxodq1",
+    "img": "https://avatars.slack-edge.com/2019-03-08/570571829091_2ca91fb0cc1ed2341fe0_24.png",
+    "time": "2022/02/13 18:15:56",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1644743591092269"
+  },
+  {
+    "user": "U8T8KB5M4",
+    "text": "alacrittyはtabとかpaneはtmux使ってくれっていう思想ですものね。",
+    "client_msg_id": "aa7eb4f3-5c57-49e1-8734-2a65fe16d06a",
+    "name": "h.hata.ai.t",
+    "img": "https://avatars.slack-edge.com/2019-08-19/732537331990_536f34e28226326cb4e8_24.png",
+    "time": "2022/02/13 18:15:56",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1644743586134819"
+  },
+  {
+    "user": "U70QDFN82",
+    "text": "あ、あとsixel対応してます",
+    "client_msg_id": "87e28a8f-5b25-459c-873e-01eb3c5ab620",
+    "name": "yutakatay",
+    "img": "https://avatars.slack-edge.com/2020-08-16/1302143736069_0baa468f7bea68e827d9_24.png",
+    "time": "2022/02/13 18:15:56",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1644743585994239"
+  },
+  {
+    "user": "U70QDFN82",
+    "text": "セッション機能使ってないなら捨てれますね",
+    "client_msg_id": "92cc2dcb-e666-4668-85fe-bf1dce38cc4e",
+    "name": "yutakatay",
+    "img": "https://avatars.slack-edge.com/2020-08-16/1302143736069_0baa468f7bea68e827d9_24.png",
+    "time": "2022/02/13 18:15:56",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1644743579527339"
+  },
+  {
+    "user": "UGA29R3FH",
+    "text": "お、tmux捨てられるチャンス？",
+    "client_msg_id": "42a90b67-7414-43ea-b5c0-4ac92f1ace12",
+    "name": "znmxodq1",
+    "img": "https://avatars.slack-edge.com/2019-03-08/570571829091_2ca91fb0cc1ed2341fe0_24.png",
+    "time": "2022/02/13 18:15:57",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1644743564381979"
+  },
+  {
+    "user": "U70QDFN82",
+    "text": "速度的には差がない気がします。\n設定細かくできるのと、tmux的に使える機能があるのが差別化ポイントですかね",
+    "client_msg_id": "81d3a4a9-8dfb-4b37-9275-9a42d79b1acf",
+    "name": "yutakatay",
+    "img": "https://avatars.slack-edge.com/2020-08-16/1302143736069_0baa468f7bea68e827d9_24.png",
+    "time": "2022/02/13 18:15:57",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1644743544915799"
+  },
+  {
+    "user": "U8T8KB5M4",
+    "text": "alacrittyと比較するとどうですか？",
+    "client_msg_id": "b2a44cba-9756-4d1d-8c71-16df1f6202d4",
+    "name": "h.hata.ai.t",
+    "img": "https://avatars.slack-edge.com/2019-08-19/732537331990_536f34e28226326cb4e8_24.png",
+    "time": "2022/02/13 18:15:57",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1644743494219569"
+  },
+  {
+    "user": "U70QDFN82",
+    "text": "ちょっと前まで日本語入力バグってたけど最近は問題ない",
+    "client_msg_id": "8fd42c7f-aeff-408b-aaa5-b952002ee906",
+    "name": "yutakatay",
+    "img": "https://avatars.slack-edge.com/2020-08-16/1302143736069_0baa468f7bea68e827d9_24.png",
+    "time": "2022/02/13 18:15:58",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1644743484240039"
+  },
+  {
+    "user": "U0GFBAM8U",
+    "text": "foot全く使ってないので設定とかフォントがあれ",
+    "client_msg_id": "b95f4911-3182-40b7-b9ce-ccc3deee24b2",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2022/02/13 18:15:58",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1644743481262489"
+  },
+  {
+    "user": "UGA29R3FH",
+    "text": "wezterm日本語がちゃんと出るなら乗り換えるんだけど今どうなってるんだろう",
+    "client_msg_id": "4662fd2a-4ef1-4a14-b533-331b432bfcc8",
+    "name": "znmxodq1",
+    "img": "https://avatars.slack-edge.com/2019-03-08/570571829091_2ca91fb0cc1ed2341fe0_24.png",
+    "time": "2022/02/13 18:15:58",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1644743480974109"
+  },
+  {
+    "user": "U70QDFN82",
+    "text": "かなりいいですよ",
+    "client_msg_id": "ccbc9151-0d50-4b6f-bc35-01d375ff2dd0",
+    "name": "yutakatay",
+    "img": "https://avatars.slack-edge.com/2020-08-16/1302143736069_0baa468f7bea68e827d9_24.png",
+    "time": "2022/02/13 18:15:58",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1644743469146319"
+  },
+  {
+    "user": "U8T8KB5M4",
+    "text": "wezterm気になって入るけどまだ試してない。",
+    "client_msg_id": "e905efee-f66d-41c0-a92e-159e6a7ea6e3",
+    "name": "h.hata.ai.t",
+    "img": "https://avatars.slack-edge.com/2019-08-19/732537331990_536f34e28226326cb4e8_24.png",
+    "time": "2022/02/13 18:15:59",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1644743455575209"
+  },
+  {
+    "user": "U0GFBAM8U",
+    "text": "実はriverっていうvmも試してみたんですが(zigで書かれてる)、それに使われてて知りました。\nswayもfootでexample書かれてた気がする",
+    "client_msg_id": "69d47f83-fd9c-4d3a-8719-a40bd21df32d",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2022/02/13 18:15:59",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1644743451174209"
+  },
+  {
+    "user": "UGA29R3FH",
+    "text": "同じく知らんなと思ったらWayland用か",
+    "client_msg_id": "a548aa35-0e56-4b78-b44a-7b2224e26f50",
+    "name": "znmxodq1",
+    "img": "https://avatars.slack-edge.com/2019-03-08/570571829091_2ca91fb0cc1ed2341fe0_24.png",
+    "time": "2022/02/13 18:15:59",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1644743424081019"
+  },
+  {
+    "user": "U70QDFN82",
+    "text": "私も最近alacritty-&gt;weztermに変えた",
+    "client_msg_id": "1f2a145d-c1ed-42d3-8468-e7b87b3f762c",
+    "name": "yutakatay",
+    "img": "https://avatars.slack-edge.com/2020-08-16/1302143736069_0baa468f7bea68e827d9_24.png",
+    "time": "2022/02/13 18:16:00",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1644743421280969"
+  },
+  {
+    "user": "U8T8KB5M4",
+    "text": "しらないterminalだ",
+    "client_msg_id": "21b725fb-b1e3-488c-bb91-b466c6fb22de",
+    "name": "h.hata.ai.t",
+    "img": "https://avatars.slack-edge.com/2019-08-19/732537331990_536f34e28226326cb4e8_24.png",
+    "time": "2022/02/13 18:16:00",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1644743380577649"
+  },
+  {
+    "user": "UGA29R3FH",
+    "text": "i3/swayのデフォルト設定を久々に見た",
+    "client_msg_id": "b826a9ac-8cb0-4520-8633-da767c8eaa06",
+    "name": "znmxodq1",
+    "img": "https://avatars.slack-edge.com/2019-03-08/570571829091_2ca91fb0cc1ed2341fe0_24.png",
+    "time": "2022/02/13 18:16:00",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1644743372501859"
+  },
+  {
+    "user": "U0GFBAM8U",
+    "text": "footだとこんな感じ",
+    "client_msg_id": "55109d83-b527-4b5c-b6ee-9849d133f27b",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2022/02/13 18:16:00",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1644743332396489"
+  },
+  {
+    "user": "U0GFBAM8U",
+    "text": "多分、タイトルバーはtilix(terminal)が太い感じ",
+    "client_msg_id": "69b310bb-827b-44f1-bf91-8c4b3fa4ea21",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2022/02/13 18:16:01",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1644743237194609"
+  },
+  {
+    "user": "U8T8KB5M4",
+    "text": "ビルドしてるときにCPU温度眺めてる",
+    "client_msg_id": "1d253a6e-c790-4d7f-9e26-035a1b663c70",
+    "name": "h.hata.ai.t",
+    "img": "https://avatars.slack-edge.com/2019-08-19/732537331990_536f34e28226326cb4e8_24.png",
+    "time": "2022/02/13 18:16:01",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1644743227543409"
+  },
+  {
+    "user": "UGA29R3FH",
+    "text": "人権侵害されている民としてはメモリ量表示したいのと時計が欲しいくらい(デフォルトで出るので何もしてないやつ)",
+    "client_msg_id": "79b00128-4170-4b9c-8b85-e99c443d1aaf",
+    "name": "znmxodq1",
+    "img": "https://avatars.slack-edge.com/2019-03-08/570571829091_2ca91fb0cc1ed2341fe0_24.png",
+    "time": "2022/02/13 18:16:01",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1644743202630279"
+  },
+  {
+    "user": "U0GFBAM8U",
+    "text": "アイコン押すと設定出てくるようにしてるので便利ですよ",
+    "client_msg_id": "e20db560-5921-4bc6-9ebf-91876eaed568",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2022/02/13 18:16:02",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1644743152835749"
+  },
+  {
+    "user": "U8T8KB5M4",
+    "text": "i3status -&gt; conky -&gt; polybar と変遷した",
+    "client_msg_id": "3fc38712-520e-4478-9539-d1af50d351ba",
+    "name": "h.hata.ai.t",
+    "img": "https://avatars.slack-edge.com/2019-08-19/732537331990_536f34e28226326cb4e8_24.png",
+    "time": "2022/02/13 18:16:02",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1644743122694809"
+  },
+  {
+    "user": "U70QDFN82",
+    "text": "私も表示してない",
+    "client_msg_id": "c0f013cc-b8de-4d9f-92d9-293eea9e2dfd",
+    "name": "yutakatay",
+    "img": "https://avatars.slack-edge.com/2020-08-16/1302143736069_0baa468f7bea68e827d9_24.png",
+    "time": "2022/02/13 18:16:02",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1644743078580469"
+  },
+  {
+    "user": "UGA29R3FH",
+    "text": "表示してない",
+    "client_msg_id": "ef810b66-1bfd-4382-b814-ea954c3be03a",
+    "name": "znmxodq1",
+    "img": "https://avatars.slack-edge.com/2019-03-08/570571829091_2ca91fb0cc1ed2341fe0_24.png",
+    "time": "2022/02/13 18:16:02",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1644743072891109"
+  },
+  {
+    "user": "UGA29R3FH",
+    "text": "~タイトルバーなんて飾りなんです、偉い人には分からんのです~",
+    "client_msg_id": "d04db9f4-e2fb-41a8-b44c-ccba3ea15927",
+    "name": "znmxodq1",
+    "img": "https://avatars.slack-edge.com/2019-03-08/570571829091_2ca91fb0cc1ed2341fe0_24.png",
+    "time": "2022/02/13 18:16:03",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1644743068881759"
+  },
+  {
+    "user": "U70QDFN82",
+    "text": "i3status-rust使ってます",
+    "client_msg_id": "97e8e68d-8d39-4b8c-a6dc-e0a57679d33a",
+    "name": "yutakatay",
+    "img": "https://avatars.slack-edge.com/2020-08-16/1302143736069_0baa468f7bea68e827d9_24.png",
+    "time": "2022/02/13 18:16:03",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1644743044529839"
+  },
+  {
+    "user": "U70QDFN82",
+    "text": "私はpolybar無理でしたね・・・なんかいい感じに設定するのも難しいしなんか遅かった",
+    "client_msg_id": "c7a4ae48-b0a1-447c-96d0-e7d1de9a7848",
+    "name": "yutakatay",
+    "img": "https://avatars.slack-edge.com/2020-08-16/1302143736069_0baa468f7bea68e827d9_24.png",
+    "time": "2022/02/13 18:16:03",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1644743020276179"
+  },
+  {
+    "user": "U0PM6EYR1",
+    "text": "タイトルバー太い…",
+    "client_msg_id": "56b88f17-5e28-4282-b2ef-3059efd76f62",
+    "name": "raa0121",
+    "img": "https://secure.gravatar.com/avatar/35b032d7b2d4182b0c2de1ef85ba91f2.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0009-24.png",
+    "time": "2022/02/13 18:16:03",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1644742993951539"
+  },
+  {
+    "user": "U8T8KB5M4",
+    "text": "polybarは楽ちんですよね。",
+    "client_msg_id": "59d12a3c-536d-4c93-b7ba-6eae0df9701e",
+    "name": "h.hata.ai.t",
+    "img": "https://avatars.slack-edge.com/2019-08-19/732537331990_536f34e28226326cb4e8_24.png",
+    "time": "2022/02/13 18:16:04",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1644742992598009"
+  },
+  {
+    "user": "U70QDFN82",
+    "text": "polybar使いだ",
+    "client_msg_id": "9b91a4d5-abfa-44ab-b612-f96cae162d37",
+    "name": "yutakatay",
+    "img": "https://avatars.slack-edge.com/2020-08-16/1302143736069_0baa468f7bea68e827d9_24.png",
+    "time": "2022/02/13 18:16:04",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1644742960425259"
+  },
+  {
+    "user": "U0GFBAM8U",
+    "text": "いろいろな情報ありがとうございました。",
+    "client_msg_id": "b842aae1-0f15-447f-97cd-2a522fae5cd5",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2022/02/13 18:16:04",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1644742897613409"
+  },
+  {
+    "user": "U0GFBAM8U",
+    "text": "昨日のsway設定してました",
+    "client_msg_id": "dad12274-5335-407b-845b-83a3e73a8bbb",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2022/02/13 18:16:05",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1644742759697639"
+  },
+  {
     "user": "U02ASPM0A6T",
     "text": "• pipewire\n• pipewire-alsa\n• pipewire-jack\n• pipewire-pulse\n• pipewire-zeroconf\n• gst-plugin-pipewire\nを入れて、jack競合を無視するために`/etc/pacman.conf` で`IgnorePkg   = jack2`を入れています",
     "client_msg_id": "3e39acfd-d096-4a42-bd70-0712fcd9f439",
     "name": "yozigen",
     "img": "https://avatars.slack-edge.com/2021-08-15/2405164316960_50d7f6e8be23e5b2a0eb_24.jpg",
-    "time": "2022/02/13 00:15:13",
+    "time": "2022/02/13 18:16:05",
     "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1644676387302669"
   },
   {
