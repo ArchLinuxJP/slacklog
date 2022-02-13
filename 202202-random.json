@@ -1,11 +1,479 @@
 [
   {
+    "user": "U70QDFN82",
+    "text": "ですね。ブラウザセッションは復旧するしまあ無視してます・・・\nフリーズしてから落ちるのが少し遅いんで復旧するまでに1分くらいかかるのがちょっとなーって感じです。",
+    "client_msg_id": "b7d35872-6ff6-40fe-a111-d471feb809e3",
+    "name": "yutakatay",
+    "img": "https://avatars.slack-edge.com/2020-08-16/1302143736069_0baa468f7bea68e827d9_24.png",
+    "time": "2022/02/13 19:16:25",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1644746109041129"
+  },
+  {
+    "user": "U0GFBAM8U",
+    "text": "そういうのは割とどうしようもありませんね",
+    "client_msg_id": "8ed4e35c-31a7-49ec-a549-5695f8b7b957",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2022/02/13 19:16:26",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1644746045384089"
+  },
+  {
+    "user": "U70QDFN82",
+    "text": "私が最近よく起こるのは、しばらく放置してからロック解除したあとになんか重くてVivaldiが落ちるってやつですね。\n20回に1回くらい起きる",
+    "client_msg_id": "5d5e2646-9f61-41ed-9723-78c77f1f415a",
+    "name": "yutakatay",
+    "img": "https://avatars.slack-edge.com/2020-08-16/1302143736069_0baa468f7bea68e827d9_24.png",
+    "time": "2022/02/13 19:16:26",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1644745991789489"
+  },
+  {
+    "user": "U0GFBAM8U",
+    "text": "chromiumとかfile managerとか基本的なところは一応大丈夫そうだった",
+    "client_msg_id": "54ef4f2d-14ef-4865-8202-ca9f36745d18",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2022/02/13 19:16:26",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1644745974645059"
+  },
+  {
+    "user": "U0GFBAM8U",
+    "text": "使ってるうちに色々出てきそう",
+    "client_msg_id": "f47b917f-abc8-4f21-8c31-4ec661c848ea",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2022/02/13 19:16:27",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1644745907419009"
+  },
+  {
+    "user": "U70QDFN82",
+    "text": "ですね。あれ？ここ動かないみたいなのがポツポツでてきますね",
+    "client_msg_id": "e8887214-0fa0-44cb-894e-afd5fba3637a",
+    "name": "yutakatay",
+    "img": "https://avatars.slack-edge.com/2020-08-16/1302143736069_0baa468f7bea68e827d9_24.png",
+    "time": "2022/02/13 19:16:27",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1644745844675759"
+  },
+  {
+    "user": "U0GFBAM8U",
+    "text": "うーん、まだまだ今後不満出てくることたくさんあると思うから、それに対応してくの大変そうですけどね、笑",
+    "client_msg_id": "dac2027c-511c-4be1-ad80-64f3ee8e3a1f",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2022/02/13 19:16:27",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1644745796862419"
+  },
+  {
+    "user": "U8T8KB5M4",
+    "text": "話は戻ってswayへの移行。1日で終わるのすごい。",
+    "client_msg_id": "1854fe78-3158-4dd7-a82b-9adb3373caaf",
+    "name": "h.hata.ai.t",
+    "img": "https://avatars.slack-edge.com/2019-08-19/732537331990_536f34e28226326cb4e8_24.png",
+    "time": "2022/02/13 19:16:28",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1644745713142209"
+  },
+  {
+    "user": "UGA29R3FH",
+    "text": "Windowsに深入りしたくない",
+    "client_msg_id": "67502646-9cce-4a7c-94d5-3b4d9942aa66",
+    "name": "znmxodq1",
+    "img": "https://avatars.slack-edge.com/2019-03-08/570571829091_2ca91fb0cc1ed2341fe0_24.png",
+    "time": "2022/02/13 19:16:28",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1644745576097939"
+  },
+  {
+    "user": "U0GFBAM8U",
+    "text": "なおlinuxではほかがつよすぎる",
+    "client_msg_id": "6a31dc4b-076a-4f32-bdda-d90c0a52b56b",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2022/02/13 19:16:28",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1644745570857799"
+  },
+  {
+    "user": "U0GFBAM8U",
+    "text": "windowsではいいshellです",
+    "client_msg_id": "514ffa9f-adf1-432f-9aba-c8f90da77995",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2022/02/13 19:16:29",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1644745557061269"
+  },
+  {
+    "user": "U70QDFN82",
+    "text": "powershellは私は無理ですね・・・宗教的にも使い勝手的にも・・・",
+    "client_msg_id": "980d5d4a-5ee7-4412-84e8-016b437a4529",
+    "name": "yutakatay",
+    "img": "https://avatars.slack-edge.com/2020-08-16/1302143736069_0baa468f7bea68e827d9_24.png",
+    "time": "2022/02/13 19:16:29",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1644745527318549"
+  },
+  {
+    "user": "U0GFBAM8U",
+    "text": "powershellはlinuxでも使えますからね",
+    "client_msg_id": "8a6d7861-1154-4edf-a78f-267173e42205",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2022/02/13 19:16:29",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1644745526852749"
+  },
+  {
+    "user": "U8T8KB5M4",
+    "text": "最近powershellはstring以外の型が扱えるというのをしって興味をもちました。",
+    "client_msg_id": "1896e4e9-ceb3-4cc9-8163-319162bbc74e",
+    "name": "h.hata.ai.t",
+    "img": "https://avatars.slack-edge.com/2019-08-19/732537331990_536f34e28226326cb4e8_24.png",
+    "time": "2022/02/13 19:16:30",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1644745490962169"
+  },
+  {
+    "user": "U70QDFN82",
+    "text": "それ私いらないやつだ・・・\nもっといい感じのシェルが使いたい",
+    "client_msg_id": "8eaea73a-b09d-4be3-9612-57389ea62370",
+    "name": "yutakatay",
+    "img": "https://avatars.slack-edge.com/2020-08-16/1302143736069_0baa468f7bea68e827d9_24.png",
+    "time": "2022/02/13 19:16:30",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1644745291991869"
+  },
+  {
+    "user": "U8T8KB5M4",
+    "text": "POSIX compatibilityかな。。。",
+    "client_msg_id": "1fbdceae-1bf0-4b7e-be0f-7fc0f5b3bf6d",
+    "name": "h.hata.ai.t",
+    "img": "https://avatars.slack-edge.com/2019-08-19/732537331990_536f34e28226326cb4e8_24.png",
+    "time": "2022/02/13 19:16:30",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1644745208938539"
+  },
+  {
+    "user": "U70QDFN82",
+    "text": "私もshell変えたいな・・・nushellとかいわゆる次世代シェル系に",
+    "client_msg_id": "01919c03-a04d-4a81-b777-dcb29b5b6612",
+    "name": "yutakatay",
+    "img": "https://avatars.slack-edge.com/2020-08-16/1302143736069_0baa468f7bea68e827d9_24.png",
+    "time": "2022/02/13 19:16:31",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1644745189834219"
+  },
+  {
+    "user": "U70QDFN82",
+    "text": "fishはなにがイケてないんですかね？",
+    "client_msg_id": "6f181342-de37-468f-8f78-5ffa6a020376",
+    "name": "yutakatay",
+    "img": "https://avatars.slack-edge.com/2020-08-16/1302143736069_0baa468f7bea68e827d9_24.png",
+    "time": "2022/02/13 19:16:31",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1644745149338039"
+  },
+  {
+    "user": "U0GFBAM8U",
+    "text": "fishちょっと使って挫折した、ずっとzshユーザーです",
+    "client_msg_id": "abe89c50-ccdf-4289-884f-22546fad8b6f",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2022/02/13 19:16:31",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1644745116887609"
+  },
+  {
+    "user": "UGA29R3FH",
+    "text": "tmux依存の何がつらいってGUI版のVimが使えないんだった",
+    "client_msg_id": "9ba68f09-1d9e-44b1-b642-da6d9e8b9f1a",
+    "name": "znmxodq1",
+    "img": "https://avatars.slack-edge.com/2019-03-08/570571829091_2ca91fb0cc1ed2341fe0_24.png",
+    "time": "2022/02/13 19:16:32",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1644745077831369"
+  },
+  {
+    "user": "U8T8KB5M4",
+    "text": "次に脱したいもの、個人的にはfishshellだけど他のshellを色々カスタマイズする気力が湧いてこない。",
+    "client_msg_id": "f7ab221f-4f5c-4e78-8b49-49f106fa3427",
+    "name": "h.hata.ai.t",
+    "img": "https://avatars.slack-edge.com/2019-08-19/732537331990_536f34e28226326cb4e8_24.png",
+    "time": "2022/02/13 19:16:32",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1644745065819959"
+  },
+  {
+    "user": "U0GFBAM8U",
+    "text": "私もtmux派ですが、terminalを使いこなしたい欲はあったりします(なかなかできていない\nたまにterminalを使いこなしてる記事読むと、いいなーってなってる",
+    "client_msg_id": "785d630b-ac1b-42d0-997d-bc73670de923",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2022/02/13 19:16:32",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1644744988538439"
+  },
+  {
+    "user": "U70QDFN82",
+    "text": "私は少なくともssh先では使い続けるかもですけど、ローカルだとたぶんもういらないですね〜",
+    "client_msg_id": "5d9386e4-2be9-409d-8e3c-6befdc3376c9",
+    "name": "yutakatay",
+    "img": "https://avatars.slack-edge.com/2020-08-16/1302143736069_0baa468f7bea68e827d9_24.png",
+    "time": "2022/02/13 19:16:33",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1644744893032699"
+  },
+  {
+    "user": "U8T8KB5M4",
+    "text": "メリットと捉えるかデメリットと捉えるかは人それぞれですが自分はtmuxだとpaneとかwindow開いた時に上書きが必要がない環境変数とかのexportとかを飛ばせるのが好きですね。",
+    "client_msg_id": "f0734c26-b465-403e-b0df-ff23eae3b237",
+    "name": "h.hata.ai.t",
+    "img": "https://avatars.slack-edge.com/2019-08-19/732537331990_536f34e28226326cb4e8_24.png",
+    "time": "2022/02/13 19:16:33",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1644744829988549"
+  },
+  {
+    "user": "U70QDFN82",
+    "text": "キーバインドをイジれるのは必須要件ですね",
+    "client_msg_id": "f6c99b30-1a58-40b5-8a62-9fdf8ce63cc8",
+    "name": "yutakatay",
+    "img": "https://avatars.slack-edge.com/2020-08-16/1302143736069_0baa468f7bea68e827d9_24.png",
+    "time": "2022/02/13 19:16:33",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1644744793509089"
+  },
+  {
+    "user": "U0GFBAM8U",
+    "text": "terminalも移り変わるからなあ...その都度、覚えるの大変そうってのはありますね",
+    "client_msg_id": "ce9a8253-84e8-4960-ab80-3610b564e303",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2022/02/13 19:16:34",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1644744771332429"
+  },
+  {
+    "user": "U70QDFN82",
+    "text": "私はgnome-terminal-&gt;urxvt-&gt;alacritty-&gt;weztermですね",
+    "client_msg_id": "945f4734-ec55-4a0f-ac84-4be1ac297e79",
+    "name": "yutakatay",
+    "img": "https://avatars.slack-edge.com/2020-08-16/1302143736069_0baa468f7bea68e827d9_24.png",
+    "time": "2022/02/13 19:16:34",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1644744754159339"
+  },
+  {
+    "user": "UGA29R3FH",
+    "text": "自分で選ぶようになってから、xterm→termite→alacrittyと渡り歩いてきたけどみんなシンプル",
+    "client_msg_id": "74af2c74-b3a4-467b-9e9c-10713569228d",
+    "name": "znmxodq1",
+    "img": "https://avatars.slack-edge.com/2019-03-08/570571829091_2ca91fb0cc1ed2341fe0_24.png",
+    "time": "2022/02/13 19:16:35",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1644744728787619"
+  },
+  {
+    "user": "U0GFBAM8U",
+    "text": "あー、そういやタブは使ってる(タブだけ",
+    "client_msg_id": "62914993-dd47-4cc7-99cc-3f712160db19",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2022/02/13 19:16:35",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1644744708212169"
+  },
+  {
+    "user": "UGA29R3FH",
+    "text": "後、高機能ターミナルは大抵ごちゃっとしてるのでそれが嫌い",
+    "client_msg_id": "75870cf5-7265-47fe-b668-873f85716d8f",
+    "name": "znmxodq1",
+    "img": "https://avatars.slack-edge.com/2019-03-08/570571829091_2ca91fb0cc1ed2341fe0_24.png",
+    "time": "2022/02/13 19:16:35",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1644744666819879"
+  },
+  {
+    "user": "U70QDFN82",
+    "text": "7年前くらいにターミナルのタブ機能使ってる人に「tmux使えよ！便利だぜ！」って言ってた自分を恥じたい",
+    "client_msg_id": "596baa6e-bc90-41b4-a879-1522f36c1507",
+    "name": "yutakatay",
+    "img": "https://avatars.slack-edge.com/2020-08-16/1302143736069_0baa468f7bea68e827d9_24.png",
+    "time": "2022/02/13 19:16:36",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1644744661024939"
+  },
+  {
+    "user": "U0GFBAM8U",
+    "text": "terminalのキーバインド、全く覚えられないんだよね...",
+    "client_msg_id": "8b939320-6b99-467d-baf2-caccede495f7",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2022/02/13 19:16:36",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1644744652895869"
+  },
+  {
+    "user": "UGA29R3FH",
+    "text": "特定のターミナルにロックインされることへの恐れがまだある",
+    "client_msg_id": "10a940d4-8012-4b12-9859-2deea674f2a4",
+    "name": "znmxodq1",
+    "img": "https://avatars.slack-edge.com/2019-03-08/570571829091_2ca91fb0cc1ed2341fe0_24.png",
+    "time": "2022/02/13 19:16:36",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1644744651155879"
+  },
+  {
+    "user": "U0GFBAM8U",
+    "text": "確かに、terminalのキーバインド、機能を使いこなすと、tmuxは必要なくなってきますよね。",
+    "client_msg_id": "8794be54-ff34-4fa9-97a1-7134d3ed4f60",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2022/02/13 19:16:37",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1644744598663119"
+  },
+  {
+    "user": "U70QDFN82",
+    "text": "私はtab機能とかないターミナルしか使ってなかったからtmux(screen)使ってただけ（あとかっこよかったから）なんで、今だとあんまりメリットないんですよね",
+    "client_msg_id": "b3bc8b24-4b5b-47ad-9150-9234fbd58fa2",
+    "name": "yutakatay",
+    "img": "https://avatars.slack-edge.com/2020-08-16/1302143736069_0baa468f7bea68e827d9_24.png",
+    "time": "2022/02/13 19:16:37",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1644744577760619"
+  },
+  {
+    "user": "U0GFBAM8U",
+    "text": "私の場合、terminalのキーバインドや機能はほとんど使わないので、tmux使うしかないって感じですね。",
+    "client_msg_id": "2adc376c-677f-4f50-9746-55865799c6bf",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2022/02/13 19:16:37",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1644744560454949"
+  },
+  {
+    "user": "UGA29R3FH",
+    "text": "私がtmux使いだしたのはsshでぷつぷつ切れるのをなんとかするためでした、最初からセッション目当て",
+    "client_msg_id": "f8d98929-d077-4623-8666-e806779f4f0c",
+    "name": "znmxodq1",
+    "img": "https://avatars.slack-edge.com/2019-03-08/570571829091_2ca91fb0cc1ed2341fe0_24.png",
+    "time": "2022/02/13 19:16:38",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1644744543404699"
+  },
+  {
+    "user": "U8T8KB5M4",
+    "text": "その頃Linux、macOSどちらでも使えて品質良かったのがalacrittyだったからってのもありますが。",
+    "client_msg_id": "e768a089-4470-4f4a-8bcc-8ad337d3aad6",
+    "name": "h.hata.ai.t",
+    "img": "https://avatars.slack-edge.com/2019-08-19/732537331990_536f34e28226326cb4e8_24.png",
+    "time": "2022/02/13 19:16:38",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1644744517296169"
+  },
+  {
+    "user": "U70QDFN82",
+    "text": "マルチOS使う人はそうですよね。まぁ最近はクロスプラットホームも増えてるから行けそうな気もしますが",
+    "client_msg_id": "bf655ab9-1ea3-4aef-b8e1-315e53aa2735",
+    "name": "yutakatay",
+    "img": "https://avatars.slack-edge.com/2020-08-16/1302143736069_0baa468f7bea68e827d9_24.png",
+    "time": "2022/02/13 19:16:38",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1644744497788639"
+  },
+  {
+    "user": "U8T8KB5M4",
+    "text": "iTermに依存した生活しててLinux使い始めて苦労したときでしたね。",
+    "client_msg_id": "be62275b-d544-45bb-83ef-d888f9971976",
+    "name": "h.hata.ai.t",
+    "img": "https://avatars.slack-edge.com/2019-08-19/732537331990_536f34e28226326cb4e8_24.png",
+    "time": "2022/02/13 19:16:39",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1644744470128099"
+  },
+  {
+    "user": "U8T8KB5M4",
+    "text": "自分は逆でterminalの機能に依存したくなかったからtmux使い始めた口でした。",
+    "client_msg_id": "d3d4702f-7414-4f6e-a64b-7b763484e4e6",
+    "name": "h.hata.ai.t",
+    "img": "https://avatars.slack-edge.com/2019-08-19/732537331990_536f34e28226326cb4e8_24.png",
+    "time": "2022/02/13 19:16:39",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1644744447372289"
+  },
+  {
+    "user": "UGA29R3FH",
+    "text": "WMの層でありとあらゆるものを仮想デスクトップから切り離して操作できればセッション管理いらん気がするんだけど夢物語だなあ",
+    "client_msg_id": "69df3bbe-10d3-4b10-9ecf-26debbdd0631",
+    "name": "znmxodq1",
+    "img": "https://avatars.slack-edge.com/2019-03-08/570571829091_2ca91fb0cc1ed2341fe0_24.png",
+    "time": "2022/02/13 19:16:39",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1644744415131549"
+  },
+  {
+    "user": "U70QDFN82",
+    "text": "たぶん私はだいぶ矯正進んだんでたぶん脱tmuxできる気がする",
+    "client_msg_id": "d5757a36-dcac-4171-9686-c62c3aa264f5",
+    "name": "yutakatay",
+    "img": "https://avatars.slack-edge.com/2020-08-16/1302143736069_0baa468f7bea68e827d9_24.png",
+    "time": "2022/02/13 19:16:40",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1644744373851599"
+  },
+  {
+    "user": "UGA29R3FH",
+    "text": "先日これに感化されて脱tmux試みたんですが1敗しました <https://zenn.dev/kyoh86/articles/b81c401cecc91c|https://zenn.dev/kyoh86/articles/b81c401cecc91c>",
+    "client_msg_id": "edcd49b7-867d-4bc0-960d-430175ec56c3",
+    "name": "znmxodq1",
+    "img": "https://avatars.slack-edge.com/2019-03-08/570571829091_2ca91fb0cc1ed2341fe0_24.png",
+    "time": "2022/02/13 19:16:40",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1644744332513869"
+  },
+  {
+    "user": "U0GFBAM8U",
+    "text": "考えられるのは、tmuxを分割で使用してると、それはterminalにまとめられるので、そっちのがシンプルとかかなあ",
+    "client_msg_id": "47dca8eb-b5e7-4a6f-a8d9-fd6a6b04b6fc",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2022/02/13 19:16:40",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1644744319790339"
+  },
+  {
+    "user": "U70QDFN82",
+    "text": "ターミナルで生活してると一枚レイヤー噛んでるといろいろめんどくさくないですかね？？私は何度かハマったことあるしターミナル側のpane,window,scrollbackが使えるならそっちでも問題ないんですよね",
+    "client_msg_id": "1ba75dd2-a025-4de9-b5cd-7bb69b3279a5",
+    "name": "yutakatay",
+    "img": "https://avatars.slack-edge.com/2020-08-16/1302143736069_0baa468f7bea68e827d9_24.png",
+    "time": "2022/02/13 19:16:41",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1644744269196049"
+  },
+  {
+    "user": "U8T8KB5M4",
+    "text": "tmux脱したいモチベーションってなんですか？",
+    "client_msg_id": "ba7c69d1-4ade-4db2-9d59-4bb1ef16b0ed",
+    "name": "h.hata.ai.t",
+    "img": "https://avatars.slack-edge.com/2019-08-19/732537331990_536f34e28226326cb4e8_24.png",
+    "time": "2022/02/13 19:16:41",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1644744170431509"
+  },
+  {
+    "user": "U70QDFN82",
+    "text": "けど意外とfzf-tmuxとか便利に使ってる・・・",
+    "client_msg_id": "bcbf78ad-115f-401a-90ad-5f01bbe895a9",
+    "name": "yutakatay",
+    "img": "https://avatars.slack-edge.com/2020-08-16/1302143736069_0baa468f7bea68e827d9_24.png",
+    "time": "2022/02/13 19:16:42",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1644744168848299"
+  },
+  {
+    "user": "U70QDFN82",
+    "text": "次の大きな開発環境の刷新はやっぱり脱tmuxだな・・・",
+    "client_msg_id": "79800cd4-27f2-42cc-9b7d-dcc170248aaa",
+    "name": "yutakatay",
+    "img": "https://avatars.slack-edge.com/2020-08-16/1302143736069_0baa468f7bea68e827d9_24.png",
+    "time": "2022/02/13 19:16:42",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1644744138248539"
+  },
+  {
+    "user": "U8T8KB5M4",
+    "text": "このコメントに対する\n<https://github.com/alacritty/alacritty/pull/1147#issuecomment-422855871>\nこのreplyがとっても好き\n<https://github.com/alacritty/alacritty/pull/1147#issuecomment-422915275>",
+    "client_msg_id": "6dde569f-7ee7-4b46-be98-7166c160ca29",
+    "name": "h.hata.ai.t",
+    "img": "https://avatars.slack-edge.com/2019-08-19/732537331990_536f34e28226326cb4e8_24.png",
+    "time": "2022/02/13 19:16:42",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1644743929271949"
+  },
+  {
+    "user": "U70QDFN82",
+    "text": "まあ設定は個人的にはどっちでもいいんですけど、Luaなんでxxxサーバーに入ったとき背景色変えるとかは楽にできますね",
+    "client_msg_id": "e4e380a4-698d-4d53-b917-cb40f4d62283",
+    "name": "yutakatay",
+    "img": "https://avatars.slack-edge.com/2020-08-16/1302143736069_0baa468f7bea68e827d9_24.png",
+    "time": "2022/02/13 19:16:43",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1644743785167649"
+  },
+  {
+    "user": "UGA29R3FH",
+    "text": "あー、まあセッション保持はabducoとか使えばできるけど",
+    "client_msg_id": "d1a5eda0-9b66-4854-8af9-920bacaeb9a9",
+    "name": "znmxodq1",
+    "img": "https://avatars.slack-edge.com/2019-03-08/570571829091_2ca91fb0cc1ed2341fe0_24.png",
+    "time": "2022/02/13 19:16:43",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1644743763544999"
+  },
+  {
     "user": "UGA29R3FH",
     "text": "YAMLつらいのでLuaに移行したい",
     "client_msg_id": "797d326b-995a-4f62-b775-0762a1508a6b",
     "name": "znmxodq1",
     "img": "https://avatars.slack-edge.com/2019-03-08/570571829091_2ca91fb0cc1ed2341fe0_24.png",
-    "time": "2022/02/13 18:15:54",
+    "time": "2022/02/13 19:16:43",
     "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1644743729258279"
   },
   {
