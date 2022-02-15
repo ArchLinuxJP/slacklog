@@ -1,11 +1,38 @@
 [
   {
+    "user": "U020M0ZLKND",
+    "text": "24時近くにAlienwareのゲーミングなスピーカーから最大音声で繰り返し流されたので軽く固まりました...",
+    "client_msg_id": "6653ed31-0124-4530-8a6a-a0cef596d8d2",
+    "name": "qryxip",
+    "img": "https://secure.gravatar.com/avatar/29cf965ea58c70dba203a10ec39fe4cd.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0002-24.png",
+    "time": "2022/02/16 02:14:49",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1644944599142859"
+  },
+  {
+    "user": "U020M0ZLKND",
+    "text": "他に問題と言えば、数年使ってなかったGnome3を入れたところ、*WMに関わらず*どこかをクリックしたりするたびに(おそらくは)以下の音声が大きめの音量で流されるようになったので、`sudo pacman -R orca`しました\n&gt; This is the dummy output module. It seems your speech dispatcher is working, but none of it's output modules, except me. Please check out your log file to see what is the problem. You can find it in /var/log/speech-dispatcher/speech.log, or in your home in .speech-dispatcher/logs/speech.log.",
+    "client_msg_id": "91fcdb75-2d39-4194-9b6c-abd282441a20",
+    "name": "qryxip",
+    "img": "https://secure.gravatar.com/avatar/29cf965ea58c70dba203a10ec39fe4cd.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0002-24.png",
+    "time": "2022/02/16 02:14:49",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1644944521556189"
+  },
+  {
+    "user": "U020M0ZLKND",
+    "text": "ようやくGUIをまともに起動できた...NVIDIA Optimus (内蔵GPUとのハイブリッドにする機能らしい)下で起動することは叶わなかったのでBIOSで切ったらnvidiaだけで何事も無かったかのように起動しました。今のところ動画の再生もできますし、むしろ内蔵GPUの動作が怪しいような気がする...",
+    "client_msg_id": "88b64b46-931c-446d-8e30-9986fa771ce1",
+    "name": "qryxip",
+    "img": "https://secure.gravatar.com/avatar/29cf965ea58c70dba203a10ec39fe4cd.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0002-24.png",
+    "time": "2022/02/16 02:14:49",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1644942288725719"
+  },
+  {
     "user": "U0PM6EYR1",
     "text": "cuda で クダクダになりますか？",
     "client_msg_id": "8a0abf8a-c4d3-444b-b3de-f7cc3a7669b5",
     "name": "raa0121",
     "img": "https://secure.gravatar.com/avatar/35b032d7b2d4182b0c2de1ef85ba91f2.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0009-24.png",
-    "time": "2022/02/15 21:26:15",
+    "time": "2022/02/16 02:14:50",
     "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1644927755720699"
   },
   {
