@@ -1,11 +1,92 @@
 [
   {
+    "user": "UGA29R3FH",
+    "text": "ddにはUSR1シグナルを投げられると進捗を出す機能が昔からある(はず)ので",
+    "client_msg_id": "b8c855b6-8095-49b6-bfe3-d4dc4e783cae",
+    "name": "znmxodq1",
+    "img": "https://avatars.slack-edge.com/2019-03-08/570571829091_2ca91fb0cc1ed2341fe0_24.png",
+    "time": "2022/02/15 15:19:26",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1644905914012049"
+  },
+  {
+    "user": "UGA29R3FH",
+    "text": "PIDを特定して定期的にUSR1投げるやつを横で書いて走らせるという手もある",
+    "client_msg_id": "62a1e666-6360-42e1-afd1-61870ee95804",
+    "name": "znmxodq1",
+    "img": "https://avatars.slack-edge.com/2019-03-08/570571829091_2ca91fb0cc1ed2341fe0_24.png",
+    "time": "2022/02/15 15:19:26",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1644905854667679"
+  },
+  {
+    "user": "UVB7L4CKH",
+    "text": "今さら中断する勇気もないのでddコマンド早く終われの舞をするしかない",
+    "client_msg_id": "39a73427-9801-42d3-bff7-286d17c0424f",
+    "name": "tatsumigamou",
+    "img": "https://avatars.slack-edge.com/2020-03-12/985313571153_203fee630d3a4a1053a1_24.jpg",
+    "time": "2022/02/15 15:19:26",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1644905826237219"
+  },
+  {
+    "user": "UVB7L4CKH",
+    "text": "調べた感じ数年前にはすでに存在してそう\n知らなかった……",
+    "client_msg_id": "6176f474-34a3-4ce8-9092-2ec493f593f1",
+    "name": "tatsumigamou",
+    "img": "https://avatars.slack-edge.com/2020-03-12/985313571153_203fee630d3a4a1053a1_24.jpg",
+    "time": "2022/02/15 15:19:26",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1644905771599879"
+  },
+  {
+    "user": "UGA29R3FH",
+    "text": "比較的最近生えたんじゃなかったっけ",
+    "client_msg_id": "c6b23f4d-28e2-4bd0-a26a-b0892fbcca42",
+    "name": "znmxodq1",
+    "img": "https://avatars.slack-edge.com/2019-03-08/570571829091_2ca91fb0cc1ed2341fe0_24.png",
+    "time": "2022/02/15 15:19:27",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1644905739497239"
+  },
+  {
+    "user": "UGA29R3FH",
+    "text": "`status=progress` か",
+    "client_msg_id": "e634875b-8f3d-4448-848e-6093a8ebc812",
+    "name": "znmxodq1",
+    "img": "https://avatars.slack-edge.com/2019-03-08/570571829091_2ca91fb0cc1ed2341fe0_24.png",
+    "time": "2022/02/15 15:19:27",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1644905716255979"
+  },
+  {
+    "user": "UVB7L4CKH",
+    "text": "あれ、ありましたっけ\n外部コマンドに依存するしかないとばかり",
+    "client_msg_id": "0e22665e-1e09-4d28-aadb-ef831d2b2c76",
+    "name": "tatsumigamou",
+    "img": "https://avatars.slack-edge.com/2020-03-12/985313571153_203fee630d3a4a1053a1_24.jpg",
+    "time": "2022/02/15 15:19:27",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1644905691421149"
+  },
+  {
+    "user": "UGA29R3FH",
+    "text": "進捗表示するオプションあったはず",
+    "client_msg_id": "c8386dbe-e90b-4b17-9e4a-cfac6b893975",
+    "name": "znmxodq1",
+    "img": "https://avatars.slack-edge.com/2019-03-08/570571829091_2ca91fb0cc1ed2341fe0_24.png",
+    "time": "2022/02/15 15:19:28",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1644905675058449"
+  },
+  {
+    "user": "UVB7L4CKH",
+    "text": "ThinkPadが届いたので引越し作業のためにn年ぶりのフルディスクddを行ってる\n相変わらず進捗が見えなくて遅い",
+    "client_msg_id": "604b37d2-8b7e-4493-b950-d14bd7907aea",
+    "name": "tatsumigamou",
+    "img": "https://avatars.slack-edge.com/2020-03-12/985313571153_203fee630d3a4a1053a1_24.jpg",
+    "time": "2022/02/15 15:19:28",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1644905643387889"
+  },
+  {
     "user": "U02BLTTQEL9",
     "text": "直してもらったけど、新しいリリースが出るまで暫くは fcitx5-git を使う事になってしまった。\nmutter が悪いんだけどワークアラウンド入れたよとの事。",
     "client_msg_id": "d25bbe98-8dbe-4711-b111-b4678677ef1b",
     "name": "buzz.taiki",
     "img": "https://avatars.slack-edge.com/2021-08-15/2388525195124_53543ae8a9c6189fc784_24.jpg",
-    "time": "2022/02/15 13:20:55",
+    "time": "2022/02/15 15:19:28",
     "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1644898610303959"
   },
   {
