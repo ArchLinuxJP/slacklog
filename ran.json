@@ -1,11 +1,65 @@
 [
   {
+    "user": "UGA29R3FH",
+    "text": "xmodmapがお手軽でよかったなあ、あのDSLはよくわからないままだけど",
+    "client_msg_id": "403b5b66-d762-4b8c-a387-f6c866613ff7",
+    "name": "znmxodq1",
+    "img": "https://avatars.slack-edge.com/2019-03-08/570571829091_2ca91fb0cc1ed2341fe0_24.png",
+    "time": "2022/02/19 19:17:13",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1645265339294389"
+  },
+  {
+    "user": "U0GFBAM8U",
+    "text": "今はswayなので、swayで無理やりリマップしてて、どれがいいのか模索中です\n```input type:keyboard {\n     xkb_options caps:ctrl_modifier\n}```",
+    "client_msg_id": "1f0c8ebb-2b7e-442c-a677-ff35f07064d0",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2022/02/19 19:17:14",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1645264968422159"
+  },
+  {
+    "user": "U0GFBAM8U",
+    "text": "私は、xbindkeys, xmodmap, xdotoolあたりを使ってました",
+    "client_msg_id": "801f715b-9bf8-4d5a-b189-b2112a7c67c3",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2022/02/19 19:17:14",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1645264882552379"
+  },
+  {
+    "user": "U020M0ZLKND",
+    "text": "軽く調べたのですが、keydやKMonadも色々便利そうな機能がありますね。まあ`'_'`をShiftなしで打ちたいだけならhwdbの変更でいいとは思いますが。(多分JISキーボードですよね?)",
+    "client_msg_id": "2a8752b2-fb9d-4fc3-8d1d-6cb68c0b653b",
+    "name": "qryxip",
+    "img": "https://secure.gravatar.com/avatar/29cf965ea58c70dba203a10ec39fe4cd.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0002-24.png",
+    "time": "2022/02/19 19:17:14",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1645264757547349"
+  },
+  {
+    "user": "U020M0ZLKND",
+    "text": "私はxkeysnailを使っていましたが、(xkeysnailのメンテが止まっているというのもあり)最近環境を移すときついでに<https://github.com/k0kubun/xremap|xremap>に移行しました。`--device`も`--watch`もありますし大体同じことができます。\nxremap/xkeysnailのようなツールの利点としてはキーバインドの設定の自由が無いブラウザやVSCodeやIntelliJでCtrl,- Alt-系のキーバインドを丸ごと乗っ取れる点ですね。反面設定が少しばかり面倒ですが。(私はxremap用のユーザーを作成して`sudo -u xremap xremap ...`するsystemd unitを作って起動するという方法を取っています)",
+    "client_msg_id": "6df1b051-6557-42b6-8409-a8b057e9b1db",
+    "name": "qryxip",
+    "img": "https://secure.gravatar.com/avatar/29cf965ea58c70dba203a10ec39fe4cd.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0002-24.png",
+    "time": "2022/02/19 19:17:15",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1645263813330349"
+  },
+  {
+    "user": "U8T8KB5M4",
+    "text": "ここらあたりから見てもらうといいかも\n<https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1644661450625409|https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1644661450625409>",
+    "client_msg_id": "73d09ddc-b7d7-4345-8e4f-a8d9a6e738b7",
+    "name": "h.hata.ai.t",
+    "img": "https://avatars.slack-edge.com/2019-08-19/732537331990_536f34e28226326cb4e8_24.png",
+    "time": "2022/02/19 19:17:15",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1645263669897529"
+  },
+  {
     "user": "U70QDFN82",
     "text": "以前も同じような話をしたような・・・\n<https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1635381932050900>",
     "client_msg_id": "af6eb5f9-3d8d-4aee-9210-4cbc02a3efdf",
     "name": "yutakatay",
     "img": "https://avatars.slack-edge.com/2020-08-16/1302143736069_0baa468f7bea68e827d9_24.png",
-    "time": "2022/02/19 16:14:41",
+    "time": "2022/02/19 19:17:15",
     "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1645254405232349"
   },
   {
