@@ -1,11 +1,416 @@
 [
   {
     "user": "U70QDFN82",
+    "text": "gnu-systemd-linux",
+    "client_msg_id": "42a87941-4d52-495d-a7db-81e4632387c0",
+    "name": "yutakatay",
+    "img": "https://avatars.slack-edge.com/2020-08-16/1302143736069_0baa468f7bea68e827d9_24.png",
+    "time": "2022/02/23 00:22:06",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1645542676194439"
+  },
+  {
+    "user": "U70QDFN82",
+    "text": "いつのまにかできることすごく増えててビビるますよね",
+    "client_msg_id": "cae99cc1-49e7-43e0-8f92-d35352b8fbbb",
+    "name": "yutakatay",
+    "img": "https://avatars.slack-edge.com/2020-08-16/1302143736069_0baa468f7bea68e827d9_24.png",
+    "time": "2022/02/23 00:22:07",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1645542667021939"
+  },
+  {
+    "user": "U02BLTTQEL9",
+    "text": "大きすぎて本当になにもわからん。",
+    "client_msg_id": "7a80b20f-d5c7-447c-92da-14987cda623e",
+    "name": "buzz.taiki",
+    "img": "https://avatars.slack-edge.com/2021-08-15/2388525195124_53543ae8a9c6189fc784_24.jpg",
+    "time": "2022/02/23 00:22:07",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1645542660657579"
+  },
+  {
+    "user": "U02BLTTQEL9",
+    "text": "init だけじゃなくて何でも systemd に統合される時代になるとは思わなかった。",
+    "client_msg_id": "b56e2f76-d172-40e2-bc8b-95f6df573ee3",
+    "name": "buzz.taiki",
+    "img": "https://avatars.slack-edge.com/2021-08-15/2388525195124_53543ae8a9c6189fc784_24.jpg",
+    "time": "2022/02/23 00:22:07",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1645542637719609"
+  },
+  {
+    "user": "U02BLTTQEL9",
+    "text": "僕もわからんです。おとなになった。",
+    "client_msg_id": "cd4838b1-b661-4dec-a607-3989858d8697",
+    "name": "buzz.taiki",
+    "img": "https://avatars.slack-edge.com/2021-08-15/2388525195124_53543ae8a9c6189fc784_24.jpg",
+    "time": "2022/02/23 00:22:08",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1645542541948039"
+  },
+  {
+    "user": "U70QDFN82",
+    "text": "私は今でもよくわからんですけど、よくわからんことを許容できるようになりましたw",
+    "client_msg_id": "392b69ec-4d08-4ee2-89bc-0336c7af427a",
+    "name": "yutakatay",
+    "img": "https://avatars.slack-edge.com/2020-08-16/1302143736069_0baa468f7bea68e827d9_24.png",
+    "time": "2022/02/23 00:22:08",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1645542522426749"
+  },
+  {
+    "user": "U02BLTTQEL9",
+    "text": "udev 使ったイベントドリブンなシステムなんですよね多分あれ。",
+    "client_msg_id": "bc599e7b-7b86-4433-8c27-a76d39d75064",
+    "name": "buzz.taiki",
+    "img": "https://avatars.slack-edge.com/2021-08-15/2388525195124_53543ae8a9c6189fc784_24.jpg",
+    "time": "2022/02/23 00:22:08",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1645542512504109"
+  },
+  {
+    "user": "U02BLTTQEL9",
+    "text": "僕も最初の頃はすごいけど良く分からんなーて感じでしたけど、慣れましたね。",
+    "client_msg_id": "dd746ade-e8c4-4ed7-8e78-1faf8d378b36",
+    "name": "buzz.taiki",
+    "img": "https://avatars.slack-edge.com/2021-08-15/2388525195124_53543ae8a9c6189fc784_24.jpg",
+    "time": "2022/02/23 00:22:09",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1645542483460049"
+  },
+  {
+    "user": "U70QDFN82",
+    "text": "私も最初はsystemd嫌いでしたけど慣れてきちゃいましたね。まぁ私はブラックボックスでもそんなに気にしないタイプですけど",
+    "client_msg_id": "633d344f-7c87-4d24-86b5-57c40835fe9d",
+    "name": "yutakatay",
+    "img": "https://avatars.slack-edge.com/2020-08-16/1302143736069_0baa468f7bea68e827d9_24.png",
+    "time": "2022/02/23 00:22:09",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1645542347762199"
+  },
+  {
+    "user": "U02BLTTQEL9",
+    "text": "rc.conf のとき滅茶苦茶シンプルだった。",
+    "client_msg_id": "c3d35c1c-99e7-41d0-bb29-f4cc58d3a17e",
+    "name": "buzz.taiki",
+    "img": "https://avatars.slack-edge.com/2021-08-15/2388525195124_53543ae8a9c6189fc784_24.jpg",
+    "time": "2022/02/23 00:22:10",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1645542273350219"
+  },
+  {
+    "user": "U02BLTTQEL9",
+    "text": "でも systemd になってブラックボックス増えたなーって感じはします。",
+    "client_msg_id": "3c443ede-c630-4714-bd9e-62cb1ce132c9",
+    "name": "buzz.taiki",
+    "img": "https://avatars.slack-edge.com/2021-08-15/2388525195124_53543ae8a9c6189fc784_24.jpg",
+    "time": "2022/02/23 00:22:10",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1645542132221279"
+  },
+  {
+    "user": "U0PM6EYR1",
+    "text": "Windows はゲームOSですからねー…",
+    "client_msg_id": "564d5c8d-549c-4555-bef9-dbc2a0f92212",
+    "name": "raa0121",
+    "img": "https://secure.gravatar.com/avatar/35b032d7b2d4182b0c2de1ef85ba91f2.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0009-24.png",
+    "time": "2022/02/23 00:22:10",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1645542132063179"
+  },
+  {
+    "user": "U02BLTTQEL9",
+    "text": "それ。",
+    "client_msg_id": "c032d26d-11ab-44cc-b0fc-09d1130982f3",
+    "name": "buzz.taiki",
+    "img": "https://avatars.slack-edge.com/2021-08-15/2388525195124_53543ae8a9c6189fc784_24.jpg",
+    "time": "2022/02/23 00:22:11",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1645542104236029"
+  },
+  {
+    "user": "U70QDFN82",
+    "text": "逆に言うと自分がやったことしかしてくれないw",
+    "client_msg_id": "947726f4-c5b0-45a9-9ff3-853596aa75ee",
+    "name": "yutakatay",
+    "img": "https://avatars.slack-edge.com/2020-08-16/1302143736069_0baa468f7bea68e827d9_24.png",
+    "time": "2022/02/23 00:22:11",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1645542098753389"
+  },
+  {
+    "user": "U02BLTTQEL9",
+    "text": "ArchLinux は大体自分がやった通りに動いてくれる。",
+    "client_msg_id": "f527de46-c9cc-4034-b6e4-0a612629546c",
+    "name": "buzz.taiki",
+    "img": "https://avatars.slack-edge.com/2021-08-15/2388525195124_53543ae8a9c6189fc784_24.jpg",
+    "time": "2022/02/23 00:22:11",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1645542079470239"
+  },
+  {
+    "user": "U02BLTTQEL9",
+    "text": "自分の予想の範囲内ってのは本当にそう。",
+    "client_msg_id": "a612accf-e599-468f-bac1-66e5ba316422",
+    "name": "buzz.taiki",
+    "img": "https://avatars.slack-edge.com/2021-08-15/2388525195124_53543ae8a9c6189fc784_24.jpg",
+    "time": "2022/02/23 00:22:12",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1645542047998039"
+  },
+  {
+    "user": "U70QDFN82",
+    "text": "あ、あと自分の予想の範囲内で作業して欲しいってのはありますね。Windowsってアップデートが何故かやたらと遅いしあと使っていくと遅くなるし・・・",
+    "client_msg_id": "f404a2b6-1366-4639-bc22-3238ca44b4da",
+    "name": "yutakatay",
+    "img": "https://avatars.slack-edge.com/2020-08-16/1302143736069_0baa468f7bea68e827d9_24.png",
+    "time": "2022/02/23 00:22:12",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1645542025688439"
+  },
+  {
+    "user": "U70QDFN82",
+    "text": "Linuxも何度かトラブルあったことあるけどさすがにソースまで追ったことはないですね。。。エディタレベルならやることもあるけど。\nせめてフォーラムやらチャットに投げて終了しちゃう・・・",
+    "client_msg_id": "fe48377a-36f2-4f25-9587-9797cf010de8",
+    "name": "yutakatay",
+    "img": "https://avatars.slack-edge.com/2020-08-16/1302143736069_0baa468f7bea68e827d9_24.png",
+    "time": "2022/02/23 00:22:13",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1645541941456509"
+  },
+  {
+    "user": "U70QDFN82",
+    "text": "私はどちらかというとトラブったときとか設定追加したくなったときにうまくカスタマイズできるかですかね。\nWindowsだとデバイスマネージャーとかイベントなんちゃらとかレジストリとかわけわからんのばっかりイジらされる上に自動化もしにくいのがやっぱり嫌いな理由なんだと思いますね",
+    "client_msg_id": "033c1b9f-eb90-4421-ba06-bf3e5d90d087",
+    "name": "yutakatay",
+    "img": "https://avatars.slack-edge.com/2020-08-16/1302143736069_0baa468f7bea68e827d9_24.png",
+    "time": "2022/02/23 00:22:13",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1645541865588399"
+  },
+  {
+    "user": "U02BLTTQEL9",
+    "text": "Linux も Emacs も、困ったときに原因調べたり何とかしたりが出来そうな気がするっていうのが、使ってる理由として強いかも 。駄目だったときも原因が分かるとあきらめもつく。そういう気がするだけでそうじゃないときも多いんだけど。",
+    "client_msg_id": "2ec81978-78f1-49b7-ab8c-b9b63c994cb4",
+    "name": "buzz.taiki",
+    "img": "https://avatars.slack-edge.com/2021-08-15/2388525195124_53543ae8a9c6189fc784_24.jpg",
+    "time": "2022/02/23 00:22:13",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1645541760006489"
+  },
+  {
+    "user": "U70QDFN82",
+    "text": "MSこういうcommunity drivenなの苦手だったけど、割とこなれて来ましたよね",
+    "client_msg_id": "c387262b-92fa-4a27-a746-6f9babc108c7",
+    "name": "yutakatay",
+    "img": "https://avatars.slack-edge.com/2020-08-16/1302143736069_0baa468f7bea68e827d9_24.png",
+    "time": "2022/02/23 00:22:14",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1645541022322589"
+  },
+  {
+    "user": "U02BLTTQEL9",
+    "text": "community driven な感じなのかすごい。",
+    "client_msg_id": "9b7818f2-b7ed-458b-bfc4-d21f1ae5ba09",
+    "name": "buzz.taiki",
+    "img": "https://avatars.slack-edge.com/2021-08-15/2388525195124_53543ae8a9c6189fc784_24.jpg",
+    "time": "2022/02/23 00:22:14",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1645540930241919"
+  },
+  {
+    "user": "U02BLTTQEL9",
+    "text": "manifests の中にいっぱいある。",
+    "client_msg_id": "687003d9-ddd7-48a6-b6b3-64978ca173f4",
+    "name": "buzz.taiki",
+    "img": "https://avatars.slack-edge.com/2021-08-15/2388525195124_53543ae8a9c6189fc784_24.jpg",
+    "time": "2022/02/23 00:22:15",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1645540897558319"
+  },
+  {
+    "user": "U70QDFN82",
+    "text": "へー",
+    "client_msg_id": "d35ba2e8-5344-4bb0-b8bc-5ed7c9f7f299",
+    "name": "yutakatay",
+    "img": "https://avatars.slack-edge.com/2020-08-16/1302143736069_0baa468f7bea68e827d9_24.png",
+    "time": "2022/02/23 00:22:15",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1645540889635569"
+  },
+  {
+    "user": "UGA29R3FH",
+    "text": "これ？ <https://github.com/microsoft/winget-pkgs>",
+    "client_msg_id": "edfcadef-d273-4091-9448-2efd913ee55f",
+    "name": "znmxodq1",
+    "img": "https://avatars.slack-edge.com/2019-03-08/570571829091_2ca91fb0cc1ed2341fe0_24.png",
+    "time": "2022/02/23 00:22:15",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1645540851173809"
+  },
+  {
+    "user": "U70QDFN82",
+    "text": "chocoはダーティーな部分頑張ってる感半端なかった。なんかインストール中にウィンドウ出ては消え繰り返すしw",
+    "client_msg_id": "1b842214-4517-493b-b6ea-8f9163b548b4",
+    "name": "yutakatay",
+    "img": "https://avatars.slack-edge.com/2020-08-16/1302143736069_0baa468f7bea68e827d9_24.png",
+    "time": "2022/02/23 00:22:16",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1645540819731589"
+  },
+  {
+    "user": "U02BLTTQEL9",
+    "text": "なるほど。",
+    "client_msg_id": "176bd499-a1d7-4614-ab3b-0bbd142d0244",
+    "name": "buzz.taiki",
+    "img": "https://avatars.slack-edge.com/2021-08-15/2388525195124_53543ae8a9c6189fc784_24.jpg",
+    "time": "2022/02/23 00:22:16",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1645540811110119"
+  },
+  {
+    "user": "U70QDFN82",
+    "text": "公式chocoって感じですね",
+    "client_msg_id": "45872e82-0824-4800-8741-bdc2e647187d",
+    "name": "yutakatay",
+    "img": "https://avatars.slack-edge.com/2020-08-16/1302143736069_0baa468f7bea68e827d9_24.png",
+    "time": "2022/02/23 00:22:17",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1645540756446279"
+  },
+  {
+    "user": "U02BLTTQEL9",
+    "text": "レジストリ？リポジトリ？",
+    "client_msg_id": "4f3d8f65-882e-4663-845d-309e69387c21",
+    "name": "buzz.taiki",
+    "img": "https://avatars.slack-edge.com/2021-08-15/2388525195124_53543ae8a9c6189fc784_24.jpg",
+    "time": "2022/02/23 00:22:17",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1645540751116299"
+  },
+  {
+    "user": "U02BLTTQEL9",
+    "text": "winget ってどこかにレジストリみたいなのが存在してるんです？choco はそういうのあったよな確か。",
+    "client_msg_id": "4c9ad2cc-1d9b-4289-8316-812a7031eeaf",
+    "name": "buzz.taiki",
+    "img": "https://avatars.slack-edge.com/2021-08-15/2388525195124_53543ae8a9c6189fc784_24.jpg",
+    "time": "2022/02/23 00:22:18",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1645540730329729"
+  },
+  {
+    "user": "UGA29R3FH",
+    "text": "Windows10になってからだいぶまともになったらしい(私はWindows10のインストールに失敗してWindowsが消えました)",
+    "client_msg_id": "bdcc442c-e58e-4991-a2d9-d48aa9a62359",
+    "name": "znmxodq1",
+    "img": "https://avatars.slack-edge.com/2019-03-08/570571829091_2ca91fb0cc1ed2341fe0_24.png",
+    "time": "2022/02/23 00:22:18",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1645540704298299"
+  },
+  {
+    "user": "UGA29R3FH",
+    "text": "インストーラーの規格自体バラバラで、ソフトごとに全く違って、それはそれで楽しかったのはあるけど微妙",
+    "client_msg_id": "aaca8642-5cd5-4015-860e-d258df84467e",
+    "name": "znmxodq1",
+    "img": "https://avatars.slack-edge.com/2019-03-08/570571829091_2ca91fb0cc1ed2341fe0_24.png",
+    "time": "2022/02/23 00:22:18",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1645540683697609"
+  },
+  {
+    "user": "U02BLTTQEL9",
+    "text": "Windowsここ10年くらいまともに触ってなくて、今のWindows全然わからない。",
+    "client_msg_id": "8b7e4182-28c2-4646-95d3-51c60f9e38a5",
+    "name": "buzz.taiki",
+    "img": "https://avatars.slack-edge.com/2021-08-15/2388525195124_53543ae8a9c6189fc784_24.jpg",
+    "time": "2022/02/23 00:22:19",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1645540669978119"
+  },
+  {
+    "user": "U70QDFN82",
+    "text": "ですよね。WindowsXP時代のどっかのサイトからダウンロード、インストール、次へ次へ完了をやるのまじで意味わからん",
+    "client_msg_id": "57254ce2-a0f2-40ab-85fc-c12f6652e9cb",
+    "name": "yutakatay",
+    "img": "https://avatars.slack-edge.com/2020-08-16/1302143736069_0baa468f7bea68e827d9_24.png",
+    "time": "2022/02/23 00:22:19",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1645540558275039"
+  },
+  {
+    "user": "UGA29R3FH",
+    "text": "msiとか、パッケージングの仕組みは前からあったけど微妙ですし",
+    "client_msg_id": "4d5ce792-5e02-4a73-b31c-2b07d7d816bf",
+    "name": "znmxodq1",
+    "img": "https://avatars.slack-edge.com/2019-03-08/570571829091_2ca91fb0cc1ed2341fe0_24.png",
+    "time": "2022/02/23 00:22:19",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1645540548852099"
+  },
+  {
+    "user": "UGA29R3FH",
+    "text": "MSが本気出していたら前から作れたと思う",
+    "client_msg_id": "16882aee-efd5-48f9-9f8b-9f33a6b84f0c",
+    "name": "znmxodq1",
+    "img": "https://avatars.slack-edge.com/2019-03-08/570571829091_2ca91fb0cc1ed2341fe0_24.png",
+    "time": "2022/02/23 00:22:20",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1645540517996459"
+  },
+  {
+    "user": "UGA29R3FH",
+    "text": "Linuxだと普通にできていたしな、統一パッケージマネージャー",
+    "client_msg_id": "57ad196c-b0af-403f-a3a2-600ab2ff889f",
+    "name": "znmxodq1",
+    "img": "https://avatars.slack-edge.com/2019-03-08/570571829091_2ca91fb0cc1ed2341fe0_24.png",
+    "time": "2022/02/23 00:22:20",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1645540505975119"
+  },
+  {
+    "user": "U70QDFN82",
+    "text": "正直wingetとかPowershellとか15年はおせぇよって気分ですけどね・・・",
+    "client_msg_id": "4aae2dd9-16c7-45c2-98bb-4d67b5148d3e",
+    "name": "yutakatay",
+    "img": "https://avatars.slack-edge.com/2020-08-16/1302143736069_0baa468f7bea68e827d9_24.png",
+    "time": "2022/02/23 00:22:21",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1645540434051849"
+  },
+  {
+    "user": "UGA29R3FH",
+    "text": "最近は比較的マシではあるけど独占禁止法に引っ掛かるような会社だからなぁ(マシだけど体質変わってないと思う)",
+    "client_msg_id": "514573cb-45cb-43b5-90b7-0d3027e3ab1a",
+    "name": "znmxodq1",
+    "img": "https://avatars.slack-edge.com/2019-03-08/570571829091_2ca91fb0cc1ed2341fe0_24.png",
+    "time": "2022/02/23 00:22:21",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1645540385355009"
+  },
+  {
+    "user": "U70QDFN82",
+    "text": "独走しようと頑張るトップ企業は好きだけど殿様商売するところ好きになれないんだよな・・・",
+    "client_msg_id": "796d9f60-46a3-42e7-8b9a-b955dbf4dbe1",
+    "name": "yutakatay",
+    "img": "https://avatars.slack-edge.com/2020-08-16/1302143736069_0baa468f7bea68e827d9_24.png",
+    "time": "2022/02/23 00:22:21",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1645540346807009"
+  },
+  {
+    "user": "U70QDFN82",
+    "text": "イケてないのにあぐらをかいていた姿勢も嫌い",
+    "client_msg_id": "ce5a4ae5-3101-4409-b2d9-1af26a8b87a5",
+    "name": "yutakatay",
+    "img": "https://avatars.slack-edge.com/2020-08-16/1302143736069_0baa468f7bea68e827d9_24.png",
+    "time": "2022/02/23 00:22:22",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1645540303394619"
+  },
+  {
+    "user": "UGA29R3FH",
+    "text": "イケてないのもわかる…",
+    "client_msg_id": "0894d865-d277-426b-8110-07739c4bba91",
+    "name": "znmxodq1",
+    "img": "https://avatars.slack-edge.com/2019-03-08/570571829091_2ca91fb0cc1ed2341fe0_24.png",
+    "time": "2022/02/23 00:22:22",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1645540281454509"
+  },
+  {
+    "user": "U70QDFN82",
+    "text": "私はそこまでプロプラに嫌悪感はないですけど、まあWindowsのあれこれを覚えたくはないですね・・・\nWindowsがもう少しイケてたら覚える気にもなりそうだけど・・・",
+    "client_msg_id": "3168ce24-5bba-451b-a925-4cd9a0f5930c",
+    "name": "yutakatay",
+    "img": "https://avatars.slack-edge.com/2020-08-16/1302143736069_0baa468f7bea68e827d9_24.png",
+    "time": "2022/02/23 00:22:23",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1645540242032139"
+  },
+  {
+    "user": "UGA29R3FH",
+    "text": "バッドノウハウの塊という印象、根源から修正できない以上場当たりになるし",
+    "client_msg_id": "87ccddc8-2304-4afd-bcad-c4ca8e6308e2",
+    "name": "znmxodq1",
+    "img": "https://avatars.slack-edge.com/2019-03-08/570571829091_2ca91fb0cc1ed2341fe0_24.png",
+    "time": "2022/02/23 00:22:23",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1645540121572109"
+  },
+  {
+    "user": "UGA29R3FH",
+    "text": "別の場所で話してて気付いたんですけど、根源の感情が「プロプラ覚えたくねぇ…」なんですよね、私の場合",
+    "client_msg_id": "f8b15a71-d1fd-492f-a72a-326205b63d92",
+    "name": "znmxodq1",
+    "img": "https://avatars.slack-edge.com/2019-03-08/570571829091_2ca91fb0cc1ed2341fe0_24.png",
+    "time": "2022/02/23 00:22:23",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1645540102229309"
+  },
+  {
+    "user": "U70QDFN82",
     "text": "言い換えるとLinuxは最初に苦しみの投資をすればあとはなだらかだけど、Windowsは最初の苦しみほぼないけどいきなりどでかいのが来る印象",
     "client_msg_id": "7ebc3989-bbcf-45b1-816c-e8f557e879fc",
     "name": "yutakatay",
     "img": "https://avatars.slack-edge.com/2020-08-16/1302143736069_0baa468f7bea68e827d9_24.png",
-    "time": "2022/02/22 23:19:20",
+    "time": "2022/02/23 00:22:24",
     "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1645537600240789"
   },
   {
