@@ -1,11 +1,137 @@
 [
   {
+    "user": "UVB7L4CKH",
+    "text": "ちなみにgitが死ぬといってもあまり大きくないリポジトリなら通るんですよね\n`vim/vim` と `neovim/neovim` は `--depth=1` にしてもダメでした",
+    "client_msg_id": "293b3479-472a-41aa-91f7-a582d7fc28b1",
+    "name": "tatsumigamou",
+    "img": "https://avatars.slack-edge.com/2020-03-12/985313571153_203fee630d3a4a1053a1_24.jpg",
+    "time": "2022/02/23 16:15:21",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1645598368516719"
+  },
+  {
+    "user": "UVB7L4CKH",
+    "text": "まあどちらも同じカードに載ってるのでIntelカードになる運命ですが",
+    "client_msg_id": "e49c2bf9-2cda-40e2-8f11-92f600e12ecf",
+    "name": "tatsumigamou",
+    "img": "https://avatars.slack-edge.com/2020-03-12/985313571153_203fee630d3a4a1053a1_24.jpg",
+    "time": "2022/02/23 16:15:21",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1645598291765939"
+  },
+  {
+    "user": "UVB7L4CKH",
+    "text": "ちなみにBluetoothの方はちゃんと動くんですよね\nLDACで動画見ても感じるほどの遅延すらない",
+    "client_msg_id": "129da588-19f4-4dcd-b899-ee9edea5a000",
+    "name": "tatsumigamou",
+    "img": "https://avatars.slack-edge.com/2020-03-12/985313571153_203fee630d3a4a1053a1_24.jpg",
+    "time": "2022/02/23 16:15:21",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1645598240822289"
+  },
+  {
+    "user": "UVB7L4CKH",
+    "text": "AMDが原因で死ぬならまだ分かっていて買ったしむしろそれを楽しみにしてた節があるので良かったんですが、ネットワークカードは伏兵すぎた",
+    "client_msg_id": "f52382fd-4f30-4bcc-9016-7d7e46d78378",
+    "name": "tatsumigamou",
+    "img": "https://avatars.slack-edge.com/2020-03-12/985313571153_203fee630d3a4a1053a1_24.jpg",
+    "time": "2022/02/23 16:15:22",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1645598148967849"
+  },
+  {
+    "user": "UGA29R3FH",
+    "text": "以前、クソ回線使っていた時はぷつぷつ切れるだけだったのでrsyncの差分転送で凌いでいたが、そうなると死ぬしかない",
+    "client_msg_id": "51ce9cba-79e4-4b94-8dc4-1b9b8f133c2a",
+    "name": "znmxodq1",
+    "img": "https://avatars.slack-edge.com/2019-03-08/570571829091_2ca91fb0cc1ed2341fe0_24.png",
+    "time": "2022/02/23 16:15:22",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1645598060282489"
+  },
+  {
+    "user": "UGA29R3FH",
+    "text": "動きすらしないのは厳しい…",
+    "client_msg_id": "549e45ea-22bf-4080-948d-6b0db3f66ad7",
+    "name": "znmxodq1",
+    "img": "https://avatars.slack-edge.com/2019-03-08/570571829091_2ca91fb0cc1ed2341fe0_24.png",
+    "time": "2022/02/23 16:15:22",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1645598003775269"
+  },
+  {
+    "user": "UVB7L4CKH",
+    "text": "git cloneが死ぬというよりTCPの維持が死んでる気配があるのでワンチャンrsyncも死にそう",
+    "client_msg_id": "a8db78c8-bfc6-44cc-80f7-5fc844ee0414",
+    "name": "tatsumigamou",
+    "img": "https://avatars.slack-edge.com/2020-03-12/985313571153_203fee630d3a4a1053a1_24.jpg",
+    "time": "2022/02/23 16:15:22",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1645597986805869"
+  },
+  {
+    "user": "UVB7L4CKH",
+    "text": "ドライバはカーネルパニックに関してはパッチがあるのを確認してるんですが、引っ張ってくるのも面倒だしgit cloneが死ぬのは直ってる確証がないしで投げました",
+    "client_msg_id": "9d8c96fe-6ecd-4f88-a26a-803f6326e88b",
+    "name": "tatsumigamou",
+    "img": "https://avatars.slack-edge.com/2020-03-12/985313571153_203fee630d3a4a1053a1_24.jpg",
+    "time": "2022/02/23 16:15:23",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1645597933265529"
+  },
+  {
+    "user": "UGA29R3FH",
+    "text": "毎回毎回鯖機でgit cloneしてrsyncする思いをしたら3kくらい出せるなあ",
+    "client_msg_id": "2415e0c5-698b-4c65-b9ee-b7f786bcf68e",
+    "name": "znmxodq1",
+    "img": "https://avatars.slack-edge.com/2019-03-08/570571829091_2ca91fb0cc1ed2341fe0_24.png",
+    "time": "2022/02/23 16:15:23",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1645597932250059"
+  },
+  {
+    "user": "U70QDFN82",
+    "text": "つらい",
+    "client_msg_id": "d777258f-9079-457a-b50e-5d1be847ddc3",
+    "name": "yutakatay",
+    "img": "https://avatars.slack-edge.com/2020-08-16/1302143736069_0baa468f7bea68e827d9_24.png",
+    "time": "2022/02/23 16:15:23",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1645597890689799"
+  },
+  {
+    "user": "UVB7L4CKH",
+    "text": "ファームウェアはHEADまで取ってきましたが無理でしたね",
+    "client_msg_id": "cf288d00-950e-46b5-b2ad-b4324fdaf82c",
+    "name": "tatsumigamou",
+    "img": "https://avatars.slack-edge.com/2020-03-12/985313571153_203fee630d3a4a1053a1_24.jpg",
+    "time": "2022/02/23 16:15:24",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1645597885331319"
+  },
+  {
+    "user": "U70QDFN82",
+    "text": "ファームウェア・ドライバ更新したら直ったり？",
+    "client_msg_id": "99c5afc8-f61e-4fd3-8245-2196707c60ff",
+    "name": "yutakatay",
+    "img": "https://avatars.slack-edge.com/2020-08-16/1302143736069_0baa468f7bea68e827d9_24.png",
+    "time": "2022/02/23 16:15:24",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1645597862094549"
+  },
+  {
+    "user": "UVB7L4CKH",
+    "text": "そもそもカーネルドライバの出来が悪く、Rebootすると初期化に失敗してカーネルパニックまで起こしてたし……",
+    "client_msg_id": "3ebcc662-67dc-46d9-98cc-2bf204c79c72",
+    "name": "tatsumigamou",
+    "img": "https://avatars.slack-edge.com/2020-03-12/985313571153_203fee630d3a4a1053a1_24.jpg",
+    "time": "2022/02/23 16:15:24",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1645597740898579"
+  },
+  {
+    "user": "UVB7L4CKH",
+    "text": "ThinkPadのMediaTek製Wi-Fiカードが死ぬほど不安定だったのでIntelのカードポチる事にしました\n動くには動くからもったいない気もしたけど、git cloneが死ぬのはいただけないしどうせ3000円程度なので誤差という事で",
+    "client_msg_id": "c13a6b83-6c8d-4015-909c-32b45903badb",
+    "name": "tatsumigamou",
+    "img": "https://avatars.slack-edge.com/2020-03-12/985313571153_203fee630d3a4a1053a1_24.jpg",
+    "time": "2022/02/23 16:15:24",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1645597687916609"
+  },
+  {
     "user": "U70QDFN82",
     "text": "ゲーム全然やらない（ようにしてる）から知らないけどchromebookも進出するっぽいですね。\nPCゲームってとりあえずStreamさえ動けばOK？？\n<https://www.gizmodo.jp/2022/02/gaming-chromebook.html>",
     "client_msg_id": "e3ba13b4-6945-4c11-876b-4dd12a0728fe",
     "name": "yutakatay",
     "img": "https://avatars.slack-edge.com/2020-08-16/1302143736069_0baa468f7bea68e827d9_24.png",
-    "time": "2022/02/23 15:20:23",
+    "time": "2022/02/23 16:15:25",
     "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1645596271122209"
   },
   {
