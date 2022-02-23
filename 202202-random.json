@@ -1,11 +1,65 @@
 [
   {
+    "user": "U017BNGTHT3",
+    "text": "homectlのコマンド意外と直感的なので機会があったらhomed使ってみようかな…",
+    "client_msg_id": "88d642fd-b55b-4d56-ba91-f042d6b8208d",
+    "name": "s5is",
+    "img": "https://avatars.slack-edge.com/2020-11-29/1531495219589_cf6a2f80ce7bb820ba38_24.png",
+    "time": "2022/02/23 11:33:05",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1645580518378129"
+  },
+  {
+    "user": "UGA29R3FH",
+    "text": "resolvedなら使ってるけどそっちはどうだっけな",
+    "client_msg_id": "9ef041fb-b5a7-4a4f-aec9-ca82cf408967",
+    "name": "znmxodq1",
+    "img": "https://avatars.slack-edge.com/2019-03-08/570571829091_2ca91fb0cc1ed2341fe0_24.png",
+    "time": "2022/02/23 11:33:06",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1645580133801659"
+  },
+  {
+    "user": "U017BNGTHT3",
+    "text": "デスクトップ用途ならnetworkdも…NetworkManager使ってるので使ってないですね。\n(ラズパイで使うならnetworkdは便利)",
+    "client_msg_id": "c2c77f4b-dfc9-47d2-b55c-3f6ac5b66fd0",
+    "name": "s5is",
+    "img": "https://avatars.slack-edge.com/2020-11-29/1531495219589_cf6a2f80ce7bb820ba38_24.png",
+    "time": "2022/02/23 11:33:06",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1645580084539999"
+  },
+  {
+    "user": "UGA29R3FH",
+    "text": "not for meだった、そこはお前の領分じゃない的な",
+    "client_msg_id": "56a7225d-d264-481d-85aa-66a1efdf014d",
+    "name": "znmxodq1",
+    "img": "https://avatars.slack-edge.com/2019-03-08/570571829091_2ca91fb0cc1ed2341fe0_24.png",
+    "time": "2022/02/23 11:33:07",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1645580068751779"
+  },
+  {
+    "user": "UGA29R3FH",
+    "text": "homed結局使ってないなー",
+    "client_msg_id": "069f45cf-cf5b-482f-b9e5-ac8232facee4",
+    "name": "znmxodq1",
+    "img": "https://avatars.slack-edge.com/2019-03-08/570571829091_2ca91fb0cc1ed2341fe0_24.png",
+    "time": "2022/02/23 11:33:07",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1645580031937099"
+  },
+  {
+    "user": "U017BNGTHT3",
+    "text": "Systemd-networkとかSystemd-nspawnまでは「なるほど」って言ってたけどSystemd-Homed最初に聞いたときは「なんで？」ってなった",
+    "client_msg_id": "33ce784d-259b-4ef3-bb5d-31ba14520941",
+    "name": "s5is",
+    "img": "https://avatars.slack-edge.com/2020-11-29/1531495219589_cf6a2f80ce7bb820ba38_24.png",
+    "time": "2022/02/23 11:33:07",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1645579986002129"
+  },
+  {
     "user": "U70QDFN82",
     "text": "gnu-systemd-linux",
     "client_msg_id": "42a87941-4d52-495d-a7db-81e4632387c0",
     "name": "yutakatay",
     "img": "https://avatars.slack-edge.com/2020-08-16/1302143736069_0baa468f7bea68e827d9_24.png",
-    "time": "2022/02/23 00:22:06",
+    "time": "2022/02/23 11:33:08",
     "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1645542676194439"
   },
   {
