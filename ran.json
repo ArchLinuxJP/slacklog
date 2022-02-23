@@ -1,11 +1,92 @@
 [
   {
+    "user": "U02BLTTQEL9",
+    "text": "ねます。",
+    "client_msg_id": "0e9863c6-ffbf-44b1-89ea-79856a5324a8",
+    "name": "buzz.taiki",
+    "img": "https://avatars.slack-edge.com/2021-08-15/2388525195124_53543ae8a9c6189fc784_24.jpg",
+    "time": "2022/02/24 04:13:32",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1645643408552669"
+  },
+  {
+    "user": "U02BLTTQEL9",
+    "text": "↓この動画シリーズかっこいいです。\n<https://www.nicovideo.jp/user/4801556/mylist/34610498>",
+    "client_msg_id": "337fb4a4-b552-4406-8397-beebcdfa47c5",
+    "name": "buzz.taiki",
+    "img": "https://avatars.slack-edge.com/2021-08-15/2388525195124_53543ae8a9c6189fc784_24.jpg",
+    "time": "2022/02/24 04:13:32",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1645643400492189"
+  },
+  {
+    "user": "UGA29R3FH",
+    "text": "定期的にフルシステム再構築しているのでpacstrapには日常的にお世話になってる",
+    "client_msg_id": "896eeb01-c5aa-44dc-a46a-37e183b02995",
+    "name": "znmxodq1",
+    "img": "https://avatars.slack-edge.com/2019-03-08/570571829091_2ca91fb0cc1ed2341fe0_24.png",
+    "time": "2022/02/24 04:13:33",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1645643296413789"
+  },
+  {
+    "user": "U02ASPM0A6T",
+    "text": "生死が拮抗しがちと思いきや例外的に無限に規則的に増えるものがあったってのがグライダーがハッカブルに感じられるってところなのかなあ\n<https://upload.wikimedia.org/wikipedia/commons/e/e5/Gospers_glider_gun.gif>",
+    "client_msg_id": "bfb0e1e6-d1e1-48c9-b45b-57ce65fe3335",
+    "name": "yozigen",
+    "img": "https://avatars.slack-edge.com/2021-08-15/2405164316960_50d7f6e8be23e5b2a0eb_24.jpg",
+    "time": "2022/02/24 04:13:33",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1645643289019069"
+  },
+  {
+    "user": "U02ASPM0A6T",
+    "text": "pacstrap便利ですねえ",
+    "client_msg_id": "3d649697-220e-45b3-a0ff-7fac3626dd76",
+    "name": "yozigen",
+    "img": "https://avatars.slack-edge.com/2021-08-15/2405164316960_50d7f6e8be23e5b2a0eb_24.jpg",
+    "time": "2022/02/24 04:13:34",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1645643250535919"
+  },
+  {
+    "user": "UGA29R3FH",
+    "text": "ライフゲームすこ",
+    "client_msg_id": "348ad0f3-7576-488f-b6ab-d2a14fe497eb",
+    "name": "znmxodq1",
+    "img": "https://avatars.slack-edge.com/2019-03-08/570571829091_2ca91fb0cc1ed2341fe0_24.png",
+    "time": "2022/02/24 04:13:34",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1645643245514329"
+  },
+  {
+    "user": "U02BLTTQEL9",
+    "text": "pacstrap 便利だった。\n```pacstrap -M -U -C /mnt/etc/pacman.conf glibc lib32-glibc```",
+    "client_msg_id": "26938a3d-3176-45f0-86d5-399e3a426097",
+    "name": "buzz.taiki",
+    "img": "https://avatars.slack-edge.com/2021-08-15/2388525195124_53543ae8a9c6189fc784_24.jpg",
+    "time": "2022/02/24 04:13:34",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1645643187884759"
+  },
+  {
+    "user": "U02BLTTQEL9",
+    "text": "glibc のメジャーバージョン下げたら何もできなくなって復旧作業してました。",
+    "client_msg_id": "fa3a9dac-c028-42a1-8e03-5856a41fbfa9",
+    "name": "buzz.taiki",
+    "img": "https://avatars.slack-edge.com/2021-08-15/2388525195124_53543ae8a9c6189fc784_24.jpg",
+    "time": "2022/02/24 04:13:35",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1645643101059899"
+  },
+  {
+    "user": "U02BLTTQEL9",
+    "text": "<https://ja.wikipedia.org/wiki/%E3%82%B7%E3%83%A5%E3%82%B7%E3%83%A5%E3%83%9D%E3%83%83%E3%83%9D%E5%88%97%E8%BB%8A>",
+    "client_msg_id": "0c2539d0-f298-4f85-8563-6d54783dd888",
+    "name": "buzz.taiki",
+    "img": "https://avatars.slack-edge.com/2021-08-15/2388525195124_53543ae8a9c6189fc784_24.jpg",
+    "time": "2022/02/24 04:13:35",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1645643053830009"
+  },
+  {
     "user": "U034C51EP9Q",
     "text": "<https://ja.wikipedia.org/?curid=1336023>",
     "client_msg_id": "69f99c52-6404-414b-970f-9fbd5268201b",
     "name": "ts.glider.1967",
     "img": "https://avatars.slack-edge.com/2022-02-23/3160785123057_b0449bd7510605ea1ace_24.png",
-    "time": "2022/02/24 03:21:45",
+    "time": "2022/02/24 04:13:35",
     "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1645639963352539"
   },
   {
