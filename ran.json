@@ -1,11 +1,200 @@
 [
   {
+    "user": "U015CDRQDD0",
+    "text": "ありがとうございました",
+    "client_msg_id": "C4E9E1C3-0637-40BE-B9BE-1783D56C9D52",
+    "name": "v3rn3j",
+    "img": "https://secure.gravatar.com/avatar/245992ad0221e323c1397758868d2138.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0002-24.png",
+    "time": "2022/02/28 18:17:02",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1646039488575429"
+  },
+  {
+    "user": "U015CDRQDD0",
+    "text": "なるほど 概ね理解できました‼︎ \nyaurtやyayと漠然と使っていてブラックボックス状態だったので:sweat_smile:",
+    "client_msg_id": "245D9C58-340B-4F7E-9134-BBCF67C0236B",
+    "name": "v3rn3j",
+    "img": "https://secure.gravatar.com/avatar/245992ad0221e323c1397758868d2138.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0002-24.png",
+    "time": "2022/02/28 18:17:02",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1646039473589429"
+  },
+  {
+    "user": "UGA29R3FH",
+    "text": "実際にはパッケージのサイズですが",
+    "client_msg_id": "64489c85-dcae-4cfe-9a98-9a6a38b1b0e0",
+    "name": "znmxodq1",
+    "img": "https://avatars.slack-edge.com/2019-03-08/570571829091_2ca91fb0cc1ed2341fe0_24.png",
+    "time": "2022/02/28 18:17:03",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1646039187009299"
+  },
+  {
+    "user": "UGA29R3FH",
+    "text": "そうなりますね",
+    "client_msg_id": "ef0c93ec-5344-44b8-b0d7-95da95174e01",
+    "name": "znmxodq1",
+    "img": "https://avatars.slack-edge.com/2019-03-08/570571829091_2ca91fb0cc1ed2341fe0_24.png",
+    "time": "2022/02/28 18:17:03",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1646039175093179"
+  },
+  {
+    "user": "U015CDRQDD0",
+    "text": "なるほど つまり仮にアプリケーションで1gbあるものをビルドしてパッケージ化したものを現在のと一つ古いものをローカルリポジトリに保管していた場合大体2GBくらい食うという感じなんですかね？",
+    "client_msg_id": "9EE3DB63-B7AE-4084-95C3-F850AC15A062",
+    "name": "v3rn3j",
+    "img": "https://secure.gravatar.com/avatar/245992ad0221e323c1397758868d2138.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0002-24.png",
+    "time": "2022/02/28 18:17:03",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1646039154593409"
+  },
+  {
+    "user": "U01J1GGMHDJ",
+    "text": "でかいけれど、壊れた時にバージョンを戻せるという安心感には変えられないのでしょうがないですね…",
+    "client_msg_id": "34232e0f-e76b-4bda-b2be-87f0de9bdc69",
+    "name": "naokihirokitomoki",
+    "img": "https://avatars.slack-edge.com/2021-01-01/1607396797362_a9967cc229f49d114f8a_24.jpg",
+    "time": "2022/02/28 18:17:04",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1646039045890829"
+  },
+  {
+    "user": "UGA29R3FH",
+    "text": "実際chromiumはでかい…",
+    "client_msg_id": "a6d94e93-0392-4cd8-a51a-fb7dffe6273c",
+    "name": "znmxodq1",
+    "img": "https://avatars.slack-edge.com/2019-03-08/570571829091_2ca91fb0cc1ed2341fe0_24.png",
+    "time": "2022/02/28 18:17:04",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1646038965472449"
+  },
+  {
+    "user": "U015CDRQDD0",
+    "text": "つまりslackやdiscordのようなプロプライエタリでなくchromium(binじゃない方)のようなコンパイルするものもmakepkgでアプリケーションにしたものをパッケージにするのでしょうか? その場合zstd等で圧縮したとてパッケージサイズが大きくなる気がするのですがどうなんでしょうか？",
+    "client_msg_id": "2890BF7D-EA2F-4E91-B924-A326A05F412A",
+    "name": "v3rn3j",
+    "img": "https://secure.gravatar.com/avatar/245992ad0221e323c1397758868d2138.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0002-24.png",
+    "time": "2022/02/28 18:17:04",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1646038942640589"
+  },
+  {
+    "user": "U0PM6EYR1",
+    "text": "特に Arch 使いはそういうの好きな印象",
+    "client_msg_id": "106ae1de-54b8-473c-89f9-37efe0b71570",
+    "name": "raa0121",
+    "img": "https://secure.gravatar.com/avatar/35b032d7b2d4182b0c2de1ef85ba91f2.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0009-24.png",
+    "time": "2022/02/28 18:17:05",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1646038786170279"
+  },
+  {
+    "user": "U0PM6EYR1",
+    "text": "ほぼほぼぬーぶさんが書いてることに間違いはなかったですね\nツールを使うにしても、仕組みを知っていたほうが、安心できますしね",
+    "client_msg_id": "7f119708-721a-4c65-b1fd-89b398f18883",
+    "name": "raa0121",
+    "img": "https://secure.gravatar.com/avatar/35b032d7b2d4182b0c2de1ef85ba91f2.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0009-24.png",
+    "time": "2022/02/28 18:17:05",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1646038733216639"
+  },
+  {
+    "user": "UGA29R3FH",
+    "text": "yayは今書いた作業を全部やってくれるツールなのでyay使ってるなら任せるのが一番楽じゃないですかね",
+    "client_msg_id": "c0eefed2-7e5b-46e6-b877-0740e99e5fd3",
+    "name": "znmxodq1",
+    "img": "https://avatars.slack-edge.com/2019-03-08/570571829091_2ca91fb0cc1ed2341fe0_24.png",
+    "time": "2022/02/28 18:17:06",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1646038677295259"
+  },
+  {
+    "user": "UGA29R3FH",
+    "text": "あざます！",
+    "client_msg_id": "8ab3a881-2a3a-4ed7-aabf-52f6e89d65db",
+    "name": "znmxodq1",
+    "img": "https://avatars.slack-edge.com/2019-03-08/570571829091_2ca91fb0cc1ed2341fe0_24.png",
+    "time": "2022/02/28 18:17:06",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1646038645711179"
+  },
+  {
+    "user": "U0PM6EYR1",
+    "text": "(kuu さんに全部説明任せようと思ったけど、一部補足できそうだったので書いてみた)",
+    "client_msg_id": "a2adfa28-5c9a-4a28-af31-eddcd69ce627",
+    "name": "raa0121",
+    "img": "https://secure.gravatar.com/avatar/35b032d7b2d4182b0c2de1ef85ba91f2.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0009-24.png",
+    "time": "2022/02/28 18:17:06",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1646038628409699"
+  },
+  {
+    "user": "U0PM6EYR1",
+    "text": "同じく",
+    "client_msg_id": "6690db3e-fc7a-474d-9bf2-990ae62efe39",
+    "name": "raa0121",
+    "img": "https://secure.gravatar.com/avatar/35b032d7b2d4182b0c2de1ef85ba91f2.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0009-24.png",
+    "time": "2022/02/28 18:17:07",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1646038576024599"
+  },
+  {
+    "user": "UGA29R3FH",
+    "text": "yayのキャッシュに突っ込んで使えるかは試したことないのでわからないですね",
+    "client_msg_id": "ed5f3109-ce3b-4fdf-b75b-b806cb53a2ba",
+    "name": "znmxodq1",
+    "img": "https://avatars.slack-edge.com/2019-03-08/570571829091_2ca91fb0cc1ed2341fe0_24.png",
+    "time": "2022/02/28 18:17:07",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1646038547597469"
+  },
+  {
+    "user": "UGA29R3FH",
+    "text": "`repo-add`を使うとデータベースが生成されるので、それを`pacman.conf`に記述すると`pacman -Syu`できるようになります",
+    "client_msg_id": "b955b0d6-4028-4810-92e8-57ed07fe8264",
+    "name": "znmxodq1",
+    "img": "https://avatars.slack-edge.com/2019-03-08/570571829091_2ca91fb0cc1ed2341fe0_24.png",
+    "time": "2022/02/28 18:17:07",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1646038525144349"
+  },
+  {
+    "user": "U0PM6EYR1",
+    "text": "makepkg の時点で、アプリケーションがビルドされます。\n最も Slack はプロプライエタリ なので、ビルド済みバイナリを落として、指定の場所に入れるだけですが",
+    "client_msg_id": "1453c8a9-6bc2-4f21-9f7d-443b892b21b1",
+    "name": "raa0121",
+    "img": "https://secure.gravatar.com/avatar/35b032d7b2d4182b0c2de1ef85ba91f2.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0009-24.png",
+    "time": "2022/02/28 18:17:08",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1646038454608309"
+  },
+  {
+    "user": "UGA29R3FH",
+    "text": "これはmakepkgのオプションに`-i`立てるか`sudo pacman -U {pkgfile}`でインストールできます",
+    "client_msg_id": "393ea06a-0fbe-4829-b22c-ab82642b9da2",
+    "name": "znmxodq1",
+    "img": "https://avatars.slack-edge.com/2019-03-08/570571829091_2ca91fb0cc1ed2341fe0_24.png",
+    "time": "2022/02/28 18:17:08",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1646038439690369"
+  },
+  {
+    "user": "UGA29R3FH",
+    "text": "git管理されたPKGBUILDの最新(これがスナップショット)を落としてきて、その記述を元にパッケージを作る",
+    "client_msg_id": "de3f2c4a-8b11-43e8-bde3-abb2c755e83f",
+    "name": "znmxodq1",
+    "img": "https://avatars.slack-edge.com/2019-03-08/570571829091_2ca91fb0cc1ed2341fe0_24.png",
+    "time": "2022/02/28 18:17:08",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1646038326336819"
+  },
+  {
+    "user": "UGA29R3FH",
+    "text": "makepkgの所はその通りですね",
+    "client_msg_id": "c83a8dba-1e81-4ead-912c-e15e33420fd6",
+    "name": "znmxodq1",
+    "img": "https://avatars.slack-edge.com/2019-03-08/570571829091_2ca91fb0cc1ed2341fe0_24.png",
+    "time": "2022/02/28 18:17:09",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1646038285232569"
+  },
+  {
+    "user": "U015CDRQDD0",
+    "text": "すみません質問です。\n`aur`等に置ける\"ビルド\"の認識が正しいかまた私の`aur`の流れは合っているかを伺いたく質問させてもらいます\n\n`aur`から`PKGBUILD`を含む`snapshot`を取得し、`makepkg`によりパッケージファイル(tarアーカイブ)の作成をすることがビルドという認識で正しいでしょうか?(`snapshot`とパッケージファイルの認識が曖昧です)\n\nまたパッケージファイルを`repo-add`で追加したローカルリポジトリ乃至`pacman`ラッパーの`yay`の`cache`下に配置し、`pacman -Syu`によりインストールされるのでしょうか?\n\n上記考えに従って<https://aur.archlinux.org/packages/slack-desktop|slack-desktop>を例に挙げるならば、`snapshot`の取得後`tar`を解凍し、内包されている`PKGBUILD`に従って`makepkg`がパッケージファイルを作成(ここではまだslackのアプリは作られていない?という認識)し、既定の位置にパッケージファイルを配置後`pacman -Syu`でインストール(ここでslackのアプリがインストール？作成?という認識)\n\nもしかしたら頓珍漢なことを質問してしまっていたらすみません 自分なりにwikiを見たりしたつもりですがあんまりよくわからなかったので質問させて頂きます",
+    "client_msg_id": "EF23652B-9F75-45DC-B6AB-2F5DAA62951C",
+    "name": "v3rn3j",
+    "img": "https://secure.gravatar.com/avatar/245992ad0221e323c1397758868d2138.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0002-24.png",
+    "time": "2022/02/28 18:17:09",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1646038202306269"
+  },
+  {
     "user": "U70QDFN82",
     "text": "`sudo mkinitcpio -P`\nしたら直ったくさいです。よかった",
     "client_msg_id": "6610c3c6-c8d4-49a1-9af2-4914af0f0ef5",
     "name": "yutakatay",
     "img": "https://avatars.slack-edge.com/2020-08-16/1302143736069_0baa468f7bea68e827d9_24.png",
-    "time": "2022/02/28 16:16:09",
+    "time": "2022/02/28 18:17:09",
     "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1646031920494359"
   },
   {
