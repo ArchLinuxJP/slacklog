@@ -1,11 +1,92 @@
 [
   {
     "user": "U70QDFN82",
+    "text": "",
+    "client_msg_id": "dad92c29-8c24-4606-8472-b484fe3a00b3",
+    "name": "yutakatay",
+    "img": "https://avatars.slack-edge.com/2020-08-16/1302143736069_0baa468f7bea68e827d9_24.png",
+    "time": "2022/03/02 16:20:34",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1646205546608429"
+  },
+  {
+    "user": "U01J1GGMHDJ",
+    "text": "compgen初知りだった。（補完について弄ろうと考えたことも無かった）",
+    "client_msg_id": "d4cec5f0-c178-4eec-8b9a-5f041800a598",
+    "name": "naokihirokitomoki",
+    "img": "https://avatars.slack-edge.com/2021-01-01/1607396797362_a9967cc229f49d114f8a_24.jpg",
+    "time": "2022/03/02 16:20:34",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1646204623925199"
+  },
+  {
+    "user": "U0H9QUFA5",
+    "text": "tldr も最近は選ぶだけで実行できるのも、覚えらない原因かも。",
+    "client_msg_id": "1d34d3f0-3862-45ef-b160-c8832f1418b3",
+    "name": "kusanaginoturugi",
+    "img": "https://secure.gravatar.com/avatar/28ac5c93589cd3a73bc60a824e462913.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0016-24.png",
+    "time": "2022/03/02 16:20:34",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1646204549192839"
+  },
+  {
+    "user": "U70QDFN82",
+    "text": "まあマジレスするとaliasよりも `compgen -c`  からの `command -V` がいいですね。わからなくなったとき。これfzfとかでプレビューさせるともしかして便利？",
+    "client_msg_id": "d0025d7f-a5cc-4b01-90ba-c82cf1c400b4",
+    "name": "yutakatay",
+    "img": "https://avatars.slack-edge.com/2020-08-16/1302143736069_0baa468f7bea68e827d9_24.png",
+    "time": "2022/03/02 16:20:34",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1646204385744229"
+  },
+  {
+    "user": "U0PM6EYR1",
+    "text": "type する癖を付けないとですね…",
+    "client_msg_id": "60e8216d-7837-4a4a-beed-aa59392c962c",
+    "name": "raa0121",
+    "img": "https://secure.gravatar.com/avatar/35b032d7b2d4182b0c2de1ef85ba91f2.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0009-24.png",
+    "time": "2022/03/02 16:20:35",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1646204276566169"
+  },
+  {
+    "user": "U70QDFN82",
+    "text": "あれ？aliasにないな？追加しておこうと思ったらfunctionにしてたってところまでがあるあるですね",
+    "client_msg_id": "1006d96e-1b5c-4406-be06-42868695aff6",
+    "name": "yutakatay",
+    "img": "https://avatars.slack-edge.com/2020-08-16/1302143736069_0baa468f7bea68e827d9_24.png",
+    "time": "2022/03/02 16:20:35",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1646203850259779"
+  },
+  {
+    "user": "U0H9QUFA5",
+    "text": "alias わすれて alias | grep yay したとこでしたわ。",
+    "client_msg_id": "1b61fcf2-1950-4b6a-ad8b-d5f577530e06",
+    "name": "kusanaginoturugi",
+    "img": "https://secure.gravatar.com/avatar/28ac5c93589cd3a73bc60a824e462913.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0016-24.png",
+    "time": "2022/03/02 16:20:35",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1646203779521889"
+  },
+  {
+    "user": "U70QDFN82",
+    "text": "私これ入れて月イチくらいで叩いてますね。(yayでも同じはず)\n`alias paru-clean='paru -Sc'`",
+    "client_msg_id": "9680b7f3-0ca7-4adc-9387-c43d6152ec02",
+    "name": "yutakatay",
+    "img": "https://avatars.slack-edge.com/2020-08-16/1302143736069_0baa468f7bea68e827d9_24.png",
+    "time": "2022/03/02 16:20:36",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1646203667523499"
+  },
+  {
+    "user": "U0H9QUFA5",
+    "text": "上記のスレを見てて、あれ、そういや、yay はどこにファイルを展開してんのやろと思ったら、~/.cache/yay なのね。放置してたおかげで、android-studio だけで 10GB もキャッシュが残ってましたわ。",
+    "client_msg_id": "bbd758b8-8c1d-4ac2-a789-cf05561e31d8",
+    "name": "kusanaginoturugi",
+    "img": "https://secure.gravatar.com/avatar/28ac5c93589cd3a73bc60a824e462913.jpg?s=24&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0016-24.png",
+    "time": "2022/03/02 16:20:36",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1646203523795139"
+  },
+  {
+    "user": "U70QDFN82",
     "text": "ChromeOSから抜かれそう\n<https://www.reddit.com/r/linux/comments/t2z4ee/how_the_hell_does_unknown_have_more_marketshare/>",
     "client_msg_id": "676590dd-7699-4052-8afe-e11cf6577aa7",
     "name": "yutakatay",
     "img": "https://avatars.slack-edge.com/2020-08-16/1302143736069_0baa468f7bea68e827d9_24.png",
-    "time": "2022/02/28,09:24:33",
+    "time": "2022/03/02 16:20:36",
     "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1646040273393519"
   },
   {
