@@ -1,11 +1,200 @@
 [
   {
     "user": "U70QDFN82",
+    "text": "マニュアルざーっと通してみたけど、やっぱこれもう書けるなって気しかしないんですよね。\nなんか動く問題形式のやつとかあったらもう少しわかるかな・・・\n<https://ziglang.org/documentation/0.9.1/>",
+    "client_msg_id": "631cf7b5-e484-4994-b67d-117e138541e9",
+    "name": "yutakatay",
+    "img": "https://avatars.slack-edge.com/2020-08-16/1302143736069_0baa468f7bea68e827d9_24.png",
+    "time": "2022/03/03 14:20:19",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1646284701452969"
+  },
+  {
+    "user": "UGA29R3FH",
+    "text": "これだ <https://github.com/ziglang/zig/issues/358#issuecomment-408867822|https://github.com/ziglang/zig/issues/358#issuecomment-408867822>",
+    "client_msg_id": "24c14542-bb81-44f7-9eb2-c322bb6dfc38",
+    "name": "znmxodq1",
+    "img": "https://avatars.slack-edge.com/2019-03-08/570571829091_2ca91fb0cc1ed2341fe0_24.png",
+    "time": "2022/03/03 14:20:19",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1646284684974939"
+  },
+  {
+    "user": "U017BNGTHT3",
+    "text": "最近の言語でRange loop無いのは辛い。",
+    "client_msg_id": "7f54a02e-9946-43e4-aaaa-3f6b3b9f30b9",
+    "name": "s5is",
+    "img": "https://avatars.slack-edge.com/2020-11-29/1531495219589_cf6a2f80ce7bb820ba38_24.png",
+    "time": "2022/03/03 14:20:20",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1646284454134559"
+  },
+  {
+    "user": "U0GFBAM8U",
+    "text": "while、まじか、つらそうだ",
+    "client_msg_id": "ec3f14dd-a0d3-48bb-9390-84d208a48195",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2022/03/03 14:20:20",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1646284412853419"
+  },
+  {
+    "user": "U0GFBAM8U",
+    "text": "やっぱり動かないこと多いのかな(もちろん環境によるだろうけど",
+    "client_msg_id": "ca756f81-71c1-4d30-a9af-6dc9ca192fa2",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2022/03/03 14:20:20",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1646284383289449"
+  },
+  {
+    "user": "U70QDFN82",
+    "text": "撃沈",
+    "client_msg_id": "886bd51c-efed-4e77-a5e9-9dbf94f3e48b",
+    "name": "yutakatay",
+    "img": "https://avatars.slack-edge.com/2020-08-16/1302143736069_0baa468f7bea68e827d9_24.png",
+    "time": "2022/03/03 14:20:21",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1646284349654689"
+  },
+  {
+    "user": "U70QDFN82",
+    "text": "river私も今入れました",
+    "client_msg_id": "5f6641d0-0db4-42f7-a1fe-7925a1ff1fb4",
+    "name": "yutakatay",
+    "img": "https://avatars.slack-edge.com/2020-08-16/1302143736069_0baa468f7bea68e827d9_24.png",
+    "time": "2022/03/03 14:20:21",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1646284346815339"
+  },
+  {
+    "user": "U0GFBAM8U",
+    "text": "これ動かなかったんですよね...他の人はどうなんだろう、使ってる人いたら教えてほしい",
+    "client_msg_id": "1a443e5d-8b66-4c0e-9fde-e76fbbc3a2b3",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2022/03/03 14:20:22",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1646284333539089"
+  },
+  {
+    "user": "UGA29R3FH",
+    "text": "for rangeがなくて、issue漁ったらそんなのいらんやろ、while回せwhileって作者が書いててあーうんってなった",
+    "client_msg_id": "e0106c20-661d-4701-bde6-a02e21975ceb",
+    "name": "znmxodq1",
+    "img": "https://avatars.slack-edge.com/2019-03-08/570571829091_2ca91fb0cc1ed2341fe0_24.png",
+    "time": "2022/03/03 14:20:22",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1646284302234839"
+  },
+  {
+    "user": "U70QDFN82",
+    "text": "zig私もほんとさわりしかやってない。そろそろちゃんと入門したほうがいいかな・・・",
+    "client_msg_id": "20c6dded-d151-4c02-81ec-5aee6f01be6f",
+    "name": "yutakatay",
+    "img": "https://avatars.slack-edge.com/2020-08-16/1302143736069_0baa468f7bea68e827d9_24.png",
+    "time": "2022/03/03 14:20:22",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1646284231047449"
+  },
+  {
+    "user": "U0GFBAM8U",
+    "text": "rustと比較される事が多い言語っていう印象",
+    "client_msg_id": "ce96c375-740f-43e1-95e8-167e857af420",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2022/03/03 14:20:23",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1646284004053899"
+  },
+  {
+    "user": "U70QDFN82",
+    "text": "<https://github.com/riverwm/river>",
+    "client_msg_id": "ececf7f2-89d8-4ca5-85fb-278827d89a46",
+    "name": "yutakatay",
+    "img": "https://avatars.slack-edge.com/2020-08-16/1302143736069_0baa468f7bea68e827d9_24.png",
+    "time": "2022/03/03 14:20:23",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1646283999960069"
+  },
+  {
+    "user": "U70QDFN82",
+    "text": "5年前のRustと同じフェーズ",
+    "client_msg_id": "c39fc227-cc19-4790-be8b-110ae5076fce",
+    "name": "yutakatay",
+    "img": "https://avatars.slack-edge.com/2020-08-16/1302143736069_0baa468f7bea68e827d9_24.png",
+    "time": "2022/03/03 14:20:24",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1646283977625649"
+  },
+  {
+    "user": "U70QDFN82",
+    "text": "流行ってきているが正しいですね。",
+    "client_msg_id": "fda34567-fbf7-46e3-a2ac-bdf69d241085",
+    "name": "yutakatay",
+    "img": "https://avatars.slack-edge.com/2020-08-16/1302143736069_0baa468f7bea68e827d9_24.png",
+    "time": "2022/03/03 14:20:24",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1646283962137109"
+  },
+  {
+    "user": "U0GFBAM8U",
+    "text": "一部では",
+    "client_msg_id": "f72d9de4-5e01-44c6-a12e-32e9c486d23b",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2022/03/03 14:20:24",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1646283960718669"
+  },
+  {
+    "user": "UGA29R3FH",
+    "text": "趣味じゃなかったので触ってないけど流行ってる？",
+    "client_msg_id": "86993afd-3a85-4019-89f7-9bb1098c89a3",
+    "name": "znmxodq1",
+    "img": "https://avatars.slack-edge.com/2019-03-08/570571829091_2ca91fb0cc1ed2341fe0_24.png",
+    "time": "2022/03/03 14:20:25",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1646283939665349"
+  },
+  {
+    "user": "U0GFBAM8U",
+    "text": "rustで書いてたやつzigで書き直したらうまくいったみたいな記事読むと、よさそうに思ったり",
+    "client_msg_id": "66b4dd56-c04c-483c-90c2-468afceca340",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2022/03/03 14:20:25",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1646283921898879"
+  },
+  {
+    "user": "U0GFBAM8U",
+    "text": "ですね、トレンド早い",
+    "client_msg_id": "61daf9a5-bdf9-4c12-b2fa-e7d92b5e677b",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2022/03/03 14:20:26",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1646283873910319"
+  },
+  {
+    "user": "U8T8KB5M4",
+    "text": "zigの採用増えてきましたね。",
+    "client_msg_id": "7ac34423-101d-45c9-aca8-8b5044d84a96",
+    "name": "h.hata.ai.t",
+    "img": "https://avatars.slack-edge.com/2019-08-19/732537331990_536f34e28226326cb4e8_24.png",
+    "time": "2022/03/03 14:20:26",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1646283104097609"
+  },
+  {
+    "user": "U0GFBAM8U",
+    "text": "残念ながらriver、私の環境ではうまく動作しなかった",
+    "client_msg_id": "97BB027C-764C-4FB4-9F3F-01C984040FF1",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2022/03/03 14:20:26",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1646282465491629"
+  },
+  {
+    "user": "U0GFBAM8U",
+    "text": "waylandのriverがたしかfoot使ってたはず\nriverはzigで書かれてたのでyutkatさん好きそうだなって思ったんだけど",
+    "client_msg_id": "c412fd69-0611-4ad5-93f4-f59de85b874f",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2022/03/03 14:20:27",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1646281921363499"
+  },
+  {
+    "user": "U70QDFN82",
     "text": "シンプルターミナルよりだとfoot, alacritty, urxvtあたりが主力なのかな〜",
     "client_msg_id": "c3e59a91-6d8d-428b-8720-00f518eefad8",
     "name": "yutakatay",
     "img": "https://avatars.slack-edge.com/2020-08-16/1302143736069_0baa468f7bea68e827d9_24.png",
-    "time": "2022/03/03 11:46:21",
+    "time": "2022/03/03 14:20:27",
     "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1646275280532589"
   },
   {
