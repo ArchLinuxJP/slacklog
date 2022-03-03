@@ -1,11 +1,236 @@
 [
   {
+    "user": "UGA29R3FH",
+    "text": "DenoじゃないTSにはそれがあるのか、全く思い至ってなかった",
+    "client_msg_id": "36debcc1-cbd6-477c-a58c-630a819398a9",
+    "name": "znmxodq1",
+    "img": "https://avatars.slack-edge.com/2019-03-08/570571829091_2ca91fb0cc1ed2341fe0_24.png",
+    "time": "2022/03/03 15:25:21",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1646288462972699"
+  },
+  {
+    "user": "U017BNGTHT3",
+    "text": "Typeはclassとかinterfaceのなにかだったり。\n\nあ、tsconfigでstrictしてないかもです、情報ありがとうございます。",
+    "client_msg_id": "19c580f4-7cfc-4023-98b2-9dd465d02e01",
+    "name": "s5is",
+    "img": "https://avatars.slack-edge.com/2020-11-29/1531495219589_cf6a2f80ce7bb820ba38_24.png",
+    "time": "2022/03/03 15:25:22",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1646288424140249"
+  },
+  {
+    "user": "U0J2VATJA",
+    "text": "strict: false だと undefined とかがラフに消えますね",
+    "client_msg_id": "8f86c303-bc06-4b30-ab5d-5bfc3bf363c0",
+    "name": "atnanasi",
+    "img": "https://avatars.slack-edge.com/2019-12-06/854879587169_f400d770c326c0b89e03_24.jpg",
+    "time": "2022/03/03 15:25:22",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1646288363077839"
+  },
+  {
+    "user": "UGA29R3FH",
+    "text": "Type具体的に何になってるんだろう",
+    "client_msg_id": "b2dd551e-94a7-41c3-a55e-2e4ce1fcb8e8",
+    "name": "znmxodq1",
+    "img": "https://avatars.slack-edge.com/2019-03-08/570571829091_2ca91fb0cc1ed2341fe0_24.png",
+    "time": "2022/03/03 15:25:22",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1646288255092419"
+  },
+  {
+    "user": "U017BNGTHT3",
+    "text": "私の環境の問題かもですが、Promise&lt;Type|undefined&gt;からundefinedが消滅したりして「おいおーい！」ってツッコミ入れながら書いてます。\n(最近始めたところなのでNullableの表現がよく分かってない)",
+    "client_msg_id": "214f2f10-b997-4d83-8d81-7c2d64577c20",
+    "name": "s5is",
+    "img": "https://avatars.slack-edge.com/2020-11-29/1531495219589_cf6a2f80ce7bb820ba38_24.png",
+    "time": "2022/03/03 15:25:23",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1646288112164579"
+  },
+  {
+    "user": "U70QDFN82",
+    "text": "Typescript自体には不満ないけど周りがな・・・未だに仕様もツールも混沌としてる",
+    "client_msg_id": "210a84b0-10e9-4089-98d8-5741efa21ae3",
+    "name": "yutakatay",
+    "img": "https://avatars.slack-edge.com/2020-08-16/1302143736069_0baa468f7bea68e827d9_24.png",
+    "time": "2022/03/03 15:25:23",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1646288104258399"
+  },
+  {
+    "user": "UGA29R3FH",
+    "text": "validationしっかりしないと容赦無く予期せぬ実行時エラーになるのはつらい所(まあ他の言語でもそうなんだけど)",
+    "client_msg_id": "cc9e8986-1aab-4fb2-9ad1-c7f705e198c9",
+    "name": "znmxodq1",
+    "img": "https://avatars.slack-edge.com/2019-03-08/570571829091_2ca91fb0cc1ed2341fe0_24.png",
+    "time": "2022/03/03 15:25:24",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1646287937779269"
+  },
+  {
+    "user": "U017BNGTHT3",
+    "text": "TypeScriptは(たまに型が上手く追えなかったり、結局JSになるのでランタイムでサーバーから持ってきたデータが思ってたのと違う型になってて絶望したりする以外は)結構好き。",
+    "client_msg_id": "4c04f2c2-8c2c-4045-b375-5cdf81d93d62",
+    "name": "s5is",
+    "img": "https://avatars.slack-edge.com/2020-11-29/1531495219589_cf6a2f80ce7bb820ba38_24.png",
+    "time": "2022/03/03 15:25:24",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1646287835573849"
+  },
+  {
+    "user": "U70QDFN82",
+    "text": "あ、denoもそういや触ってた。意外とちゃんとやってる。私えらい",
+    "client_msg_id": "45786222-c424-4e6a-bae1-19e54a77f37f",
+    "name": "yutakatay",
+    "img": "https://avatars.slack-edge.com/2020-08-16/1302143736069_0baa468f7bea68e827d9_24.png",
+    "time": "2022/03/03 15:25:24",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1646287583665829"
+  },
+  {
+    "user": "UGA29R3FH",
+    "text": "(NodeアレルギーがひどかったけどDeno触ってたら治った)",
+    "client_msg_id": "88b1fd29-ddfc-447b-be01-f0ac80cc24a3",
+    "name": "znmxodq1",
+    "img": "https://avatars.slack-edge.com/2019-03-08/570571829091_2ca91fb0cc1ed2341fe0_24.png",
+    "time": "2022/03/03 15:25:25",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1646287501090329"
+  },
+  {
+    "user": "UGA29R3FH",
+    "text": "私はTypeScriptがそうかな、Deno出てくるまで一切触ってなかったので",
+    "client_msg_id": "7454ec7c-ce05-49f3-b818-78b0dd112dd5",
+    "name": "znmxodq1",
+    "img": "https://avatars.slack-edge.com/2019-03-08/570571829091_2ca91fb0cc1ed2341fe0_24.png",
+    "time": "2022/03/03 15:25:25",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1646287482650989"
+  },
+  {
+    "user": "U70QDFN82",
+    "text": "ここ３年くらいで書けるようになった言語ってそういえばないな・・・言語じゃないとようやくSvelteは入門したけど\n5年まで範囲を広げるとRustとか入るんだけど・・・せめて３年で１つくらいは新しいものに触れたい",
+    "client_msg_id": "f33fafb6-742d-4ecf-81ce-70ae51e8e98c",
+    "name": "yutakatay",
+    "img": "https://avatars.slack-edge.com/2020-08-16/1302143736069_0baa468f7bea68e827d9_24.png",
+    "time": "2022/03/03 15:25:26",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1646286786341629"
+  },
+  {
+    "user": "U0GFBAM8U",
+    "text": "最近の言語、コンパイラがほんと良く出来てるからわかりやすいのと、rustのようにちょっとした固さがあるとめちゃめちゃにならずに済むのありがたいですね",
+    "client_msg_id": "41850695-4d7e-4218-837c-a05158ff471e",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2022/03/03 15:25:26",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1646285672474079"
+  },
+  {
+    "user": "UGA29R3FH",
+    "text": "んで原因が分かりにくい",
+    "client_msg_id": "4b7b20e1-dd6e-4dc8-9b34-7c3bbe769af8",
+    "name": "znmxodq1",
+    "img": "https://avatars.slack-edge.com/2019-03-08/570571829091_2ca91fb0cc1ed2341fe0_24.png",
+    "time": "2022/03/03 15:25:27",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1646285601793879"
+  },
+  {
+    "user": "UGA29R3FH",
+    "text": "全体がunsafeなので手が滑ると文字通り落ちる",
+    "client_msg_id": "9a24b6f4-d31c-4723-a78b-f0f6df59cf10",
+    "name": "znmxodq1",
+    "img": "https://avatars.slack-edge.com/2019-03-08/570571829091_2ca91fb0cc1ed2341fe0_24.png",
+    "time": "2022/03/03 15:25:27",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1646285587090059"
+  },
+  {
+    "user": "U70QDFN82",
+    "text": "敵「ってことはLispでいうとこういうことですよね？」\n私「そうですね（全然わかってない）」",
+    "client_msg_id": "528de150-10c8-4414-b733-c0d2cd1fa4ac",
+    "name": "yutakatay",
+    "img": "https://avatars.slack-edge.com/2020-08-16/1302143736069_0baa468f7bea68e827d9_24.png",
+    "time": "2022/03/03 15:25:27",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1646285561572329"
+  },
+  {
+    "user": "U0GFBAM8U",
+    "text": "たいへんそう",
+    "client_msg_id": "4f261282-45d8-44a4-96b7-bb42b9e8e1bb",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2022/03/03 15:25:28",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1646285546825189"
+  },
+  {
+    "user": "UGA29R3FH",
+    "text": "VimとかVimとかVimとか(Vimの話はしてない)",
+    "client_msg_id": "87a234de-c0a3-4acb-89a5-464d871ac76c",
+    "name": "znmxodq1",
+    "img": "https://avatars.slack-edge.com/2019-03-08/570571829091_2ca91fb0cc1ed2341fe0_24.png",
+    "time": "2022/03/03 15:25:28",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1646285523243559"
+  },
+  {
+    "user": "UGA29R3FH",
+    "text": "現代でCは書きたくないのだけどコントリしようとするとCが実によく出てくる",
+    "client_msg_id": "b8838930-e760-4a89-9dc9-87337fa7a90b",
+    "name": "znmxodq1",
+    "img": "https://avatars.slack-edge.com/2019-03-08/570571829091_2ca91fb0cc1ed2341fe0_24.png",
+    "time": "2022/03/03 15:25:29",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1646285502511199"
+  },
+  {
+    "user": "U0GFBAM8U",
+    "text": "そういえば、cは書いたことないのでわかんないや\n私もlisp系はあまり馴染みがありません",
+    "client_msg_id": "76f919da-8f35-472b-9de7-6eab3ae88267",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2022/03/03 15:25:29",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1646285468081979"
+  },
+  {
+    "user": "U70QDFN82",
+    "text": "まじで言語多すぎる・・・結局やろうと思ってやってない言語\n• Elixir\n• Lisp\n• zig :new: ",
+    "client_msg_id": "6162473a-2137-46b5-b6ac-e0ec8db3eed4",
+    "name": "yutakatay",
+    "img": "https://avatars.slack-edge.com/2020-08-16/1302143736069_0baa468f7bea68e827d9_24.png",
+    "time": "2022/03/03 15:25:30",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1646285385493809"
+  },
+  {
+    "user": "U0GFBAM8U",
+    "text": "ぱっと見、rustっぽい気がするなあと思ったけど、よく見るとshellscriptっぽさもある気がした",
+    "client_msg_id": "fa5ba540-0fd2-4dee-8112-5533b5967d80",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2022/03/03 15:25:30",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1646285200478809"
+  },
+  {
+    "user": "U70QDFN82",
+    "text": "けどやっぱりこれXXといっしょじゃね？って思っちゃいますよね。。。",
+    "client_msg_id": "5131e264-31ed-4185-a422-14d2429e190d",
+    "name": "yutakatay",
+    "img": "https://avatars.slack-edge.com/2020-08-16/1302143736069_0baa468f7bea68e827d9_24.png",
+    "time": "2022/03/03 15:25:30",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1646285069481599"
+  },
+  {
+    "user": "U0GFBAM8U",
+    "text": "なんでもやってみると楽しそう",
+    "client_msg_id": "ee1822e6-6ad4-4679-b3d4-019583f5da0e",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2022/03/03 15:25:31",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1646285031990749"
+  },
+  {
+    "user": "U70QDFN82",
+    "text": "ちなみにこういうふうに先読みして飛び込めないの老化の証拠だと思ってるのでとりあえず飛び込むようにはしてる",
+    "client_msg_id": "5f85afe2-ed37-44d7-bd9d-94843319d60a",
+    "name": "yutakatay",
+    "img": "https://avatars.slack-edge.com/2020-08-16/1302143736069_0baa468f7bea68e827d9_24.png",
+    "time": "2022/03/03 15:25:31",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1646284898831709"
+  },
+  {
     "user": "U70QDFN82",
     "text": "マニュアルざーっと通してみたけど、やっぱこれもう書けるなって気しかしないんですよね。\nなんか動く問題形式のやつとかあったらもう少しわかるかな・・・\n<https://ziglang.org/documentation/0.9.1/>",
     "client_msg_id": "631cf7b5-e484-4994-b67d-117e138541e9",
     "name": "yutakatay",
     "img": "https://avatars.slack-edge.com/2020-08-16/1302143736069_0baa468f7bea68e827d9_24.png",
-    "time": "2022/03/03 14:20:19",
+    "time": "2022/03/03 15:25:32",
     "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1646284701452969"
   },
   {
