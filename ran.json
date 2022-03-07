@@ -1,11 +1,20 @@
 [
   {
+    "user": "U02ASPM0A6T",
+    "text": "sway や wayland 使いの方に朗報です。\nsway 上で動かない kdenlive のためにまたあてどない検索の旅をしていて、QT が wayland を使えない時にフォールバックしてX側を使ってくれる環境変数`QT_QPA_PLATFORM=\"wayland;xcb\"`を見つけました。本家ArchWikiにも記述がなかったため、多分助かる人そこそこいるだろうと思い英語版・日本語版の Wayland の記事へ該当情報を追記しました。少し楽になるかもしれません。\n他の変数でもこんな感じの方法が使えたら、GUIライブラリ関連の問題で sway 等でアプリが起動せずに手間取るケースを相当削減できそう\n&gt; Qt 5.11 では QPA にフォールバックの指定が可能になり、QT_QPA_PLATFORM=\"wayland;xcb\" とすることで Wayland が利用不可能な場合に xcb(X11) のプラグインを利用することになります。\n<https://www.qt.io/ja-jp/blog/2018/10/30/whats-new-in-qt-5-11-for-the-wayland-platform-plugin>",
+    "client_msg_id": "2333faa1-ef38-40bf-ab99-890ba0e84086",
+    "name": "yozigen",
+    "img": "https://avatars.slack-edge.com/2021-08-15/2405164316960_50d7f6e8be23e5b2a0eb_24.jpg",
+    "time": "2022/03/08 08:16:34",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1646694950656999"
+  },
+  {
     "user": "U70QDFN82",
     "text": "Linuxで個人的に困ってるのはHHKBのキーマップ書き換えツールだけだけど来年には解決する予定（Kinesis360に乗り換えてるはずだから）",
     "client_msg_id": "6b1ef784-7b4f-4064-b833-3e56903ace97",
     "name": "yutakatay",
     "img": "https://avatars.slack-edge.com/2022-03-03/3184293114882_be67d2adfd8032e58911_24.png",
-    "time": "2022/03/07 23:15:41",
+    "time": "2022/03/08 08:16:35",
     "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1646661130008659"
   },
   {
