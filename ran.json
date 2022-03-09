@@ -1,11 +1,236 @@
 [
   {
+    "user": "U0GFBAM8U",
+    "text": "gentooもarchに似てよっぽどですからね、笑\nただ、archのほうがbuildに時間がかからない(一般的なpackage)ので、その点はいいですよね",
+    "client_msg_id": "25b5f9d8-026d-4cbd-a771-4ce6ba4317ba",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2022/03/09 22:21:12",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1646832069995619"
+  },
+  {
+    "user": "U70QDFN82",
+    "text": "あとmanjaroってまだ需要あるんですかね？Archにインストーラー（簡易）が追加されたから役目を終えつつあるのかなって推測してますけど。\nmanjaro一回も触ったことないんでよくわかってないですけど",
+    "client_msg_id": "4ac64e93-0fd0-4f9a-83ee-71a6715d28c1",
+    "name": "yutakatay",
+    "img": "https://avatars.slack-edge.com/2022-03-03/3184293114882_be67d2adfd8032e58911_24.png",
+    "time": "2022/03/09 22:21:12",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1646831604392679"
+  },
+  {
+    "user": "UGA29R3FH",
+    "text": "Archで十分結果が得られるのでそこまでしたくない的な話",
+    "client_msg_id": "a078b479-d539-4198-aae3-3538ea6b9ef3",
+    "name": "znmxodq1",
+    "img": "https://avatars.slack-edge.com/2019-03-08/570571829091_2ca91fb0cc1ed2341fe0_24.png",
+    "time": "2022/03/09 22:21:13",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1646831043075019"
+  },
+  {
+    "user": "UGA29R3FH",
+    "text": "gentoo徒労みたいなイメージが…",
+    "client_msg_id": "4732fcce-f3ca-4079-916d-6f3b127b5802",
+    "name": "znmxodq1",
+    "img": "https://avatars.slack-edge.com/2019-03-08/570571829091_2ca91fb0cc1ed2341fe0_24.png",
+    "time": "2022/03/09 22:21:13",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1646831015778649"
+  },
+  {
+    "user": "U0GFBAM8U",
+    "text": "gentooからarchに乗り換えて、そのままarchに移住した人、ちらほら見かけてる",
+    "client_msg_id": "b330dc6f-7617-4dc6-9d8a-ad2d30d30513",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2022/03/09 22:21:13",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1646830609113399"
+  },
+  {
+    "user": "U0GFBAM8U",
+    "text": "話変わりますが、この前、archがredditで1位とってたのよかったですねー",
+    "client_msg_id": "b6b8d945-1a21-4d0b-afde-c8c8633de40e",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2022/03/09 22:21:14",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1646830482035519"
+  },
+  {
+    "user": "U70QDFN82",
+    "text": "マイナーなものも支えられるのはいいことですけど、Elementaryくらい思想がはっきりしてるとまだわかるんですけど、XXとなにが違うんだみたいなやつも結構ありますよね・・・リソースが無駄に消費されている感がちょっとある。",
+    "client_msg_id": "f93db13a-b72c-423b-a277-f183d048010d",
+    "name": "yutakatay",
+    "img": "https://avatars.slack-edge.com/2022-03-03/3184293114882_be67d2adfd8032e58911_24.png",
+    "time": "2022/03/09 22:21:14",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1646830213165849"
+  },
+  {
+    "user": "U0GFBAM8U",
+    "text": "海外とかだと割とそういったものに寄付する文化があるっぽい",
+    "client_msg_id": "c405bd09-228e-4a9f-9de6-ac31ce116265",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2022/03/09 22:21:14",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1646830059072719"
+  },
+  {
+    "user": "U70QDFN82",
+    "text": "正直マイナーディストリのメンテでよく食べていけてるなとも思いますね・・・",
+    "client_msg_id": "47950d34-21f6-4843-aaa2-10c9045bdd7c",
+    "name": "yutakatay",
+    "img": "https://avatars.slack-edge.com/2022-03-03/3184293114882_be67d2adfd8032e58911_24.png",
+    "time": "2022/03/09 22:21:14",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1646829827730939"
+  },
+  {
+    "user": "U0GFBAM8U",
+    "text": "なかなか新しいのも難しそう",
+    "client_msg_id": "0e178ba4-3118-439c-9973-fd86bae44aaf",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2022/03/09 22:21:15",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1646829780706549"
+  },
+  {
+    "user": "U70QDFN82",
+    "text": "top10って言ってもUbuntu, fedora, Arch, OpenSUSE, Debianあたりはもうほぼ確定ですからねー残り５席しかない。そしてLinux内でのシェアたぶん残り5席で5%もなさそう",
+    "client_msg_id": "94b723e3-6ba9-4b72-9dce-2fd83f865e84",
+    "name": "yutakatay",
+    "img": "https://avatars.slack-edge.com/2022-03-03/3184293114882_be67d2adfd8032e58911_24.png",
+    "time": "2022/03/09 22:21:15",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1646829710379829"
+  },
+  {
+    "user": "U0GFBAM8U",
+    "text": "top10でもきついのか",
+    "client_msg_id": "1c445d37-25d5-435e-910b-3920fcfa45ce",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2022/03/09 22:21:15",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1646829594284019"
+  },
+  {
+    "user": "U70QDFN82",
+    "text": "あーみたことある",
+    "client_msg_id": "9b036401-2670-4cda-8f9a-002e8ba03dff",
+    "name": "yutakatay",
+    "img": "https://avatars.slack-edge.com/2022-03-03/3184293114882_be67d2adfd8032e58911_24.png",
+    "time": "2022/03/09 22:21:16",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1646829562036949"
+  },
+  {
+    "user": "UGA29R3FH",
+    "text": "めっちゃmacOSっぽいやつ",
+    "client_msg_id": "33474b22-49c9-4b3e-94ee-3860363db438",
+    "name": "znmxodq1",
+    "img": "https://avatars.slack-edge.com/2019-03-08/570571829091_2ca91fb0cc1ed2341fe0_24.png",
+    "time": "2022/03/09 22:21:16",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1646829520565279"
+  },
+  {
+    "user": "U0GFBAM8U",
+    "text": "確かに名前はここでもでてましたね",
+    "client_msg_id": "85cd61fa-a8c4-4427-8242-674e3f3a561e",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2022/03/09 22:21:16",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1646829518352079"
+  },
+  {
+    "user": "U70QDFN82",
+    "text": "elementary名前しか知らない",
+    "client_msg_id": "8c561c3c-95b3-4ff7-b4c0-07f992d42e52",
+    "name": "yutakatay",
+    "img": "https://avatars.slack-edge.com/2022-03-03/3184293114882_be67d2adfd8032e58911_24.png",
+    "time": "2022/03/09 22:21:17",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1646829504799439"
+  },
+  {
+    "user": "UGA29R3FH",
+    "text": "elementaryOS、大っぴらに寄付求めてた印象がある",
+    "client_msg_id": "4aee4885-78ab-4e04-8cbc-8dff71b7a936",
+    "name": "znmxodq1",
+    "img": "https://avatars.slack-edge.com/2019-03-08/570571829091_2ca91fb0cc1ed2341fe0_24.png",
+    "time": "2022/03/09 22:21:17",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1646829473513339"
+  },
+  {
+    "user": "U0GFBAM8U",
+    "text": "これだといける\n<https://twitter.com/mootastic/status/1501529092725751812>",
+    "client_msg_id": "cfa2dfe1-cdc9-41f4-b891-fc8416d9960d",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2022/03/09 22:21:17",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1646829464642029"
+  },
+  {
+    "user": "U70QDFN82",
+    "text": "t=のところが違う・・・普通にURLコピーしただけなのに",
+    "client_msg_id": "bc987af6-cdad-4243-aec2-97483e2de849",
+    "name": "yutakatay",
+    "img": "https://avatars.slack-edge.com/2022-03-03/3184293114882_be67d2adfd8032e58911_24.png",
+    "time": "2022/03/09 22:21:17",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1646829445087959"
+  },
+  {
+    "user": "U70QDFN82",
+    "text": "あ、表示された",
+    "client_msg_id": "27bc0274-33bf-4d9e-b16f-db4377966920",
+    "name": "yutakatay",
+    "img": "https://avatars.slack-edge.com/2022-03-03/3184293114882_be67d2adfd8032e58911_24.png",
+    "time": "2022/03/09 22:21:18",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1646829410530709"
+  },
+  {
+    "user": "U70QDFN82",
+    "text": "<https://twitter.com/mootastic/status/1501529092725751812?s=20&amp;t=0CqpDp_Sgs8UYC1ihIUG4A>",
+    "client_msg_id": "5297b2a2-c942-4d45-b22d-484fa90699d7",
+    "name": "yutakatay",
+    "img": "https://avatars.slack-edge.com/2022-03-03/3184293114882_be67d2adfd8032e58911_24.png",
+    "time": "2022/03/09 22:21:18",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1646829404797909"
+  },
+  {
+    "user": "U70QDFN82",
+    "text": "あってると思います",
+    "client_msg_id": "a4652043-6b61-45d1-867b-b0c53234ad56",
+    "name": "yutakatay",
+    "img": "https://avatars.slack-edge.com/2022-03-03/3184293114882_be67d2adfd8032e58911_24.png",
+    "time": "2022/03/09 22:21:18",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1646829399059619"
+  },
+  {
+    "user": "U0GFBAM8U",
+    "text": "ブラウザからだとなんか表示されない",
+    "client_msg_id": "b9c91f5d-5c65-4267-ac07-5d82041b8c75",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2022/03/09 22:21:19",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1646829397296219"
+  },
+  {
+    "user": "U0GFBAM8U",
+    "text": "リンク先って合ってます?",
+    "client_msg_id": "0a343cd6-d2bc-45bc-9ccd-d97d3f766a09",
+    "name": "syui",
+    "img": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_24.png",
+    "time": "2022/03/09 22:21:19",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1646829362525669"
+  },
+  {
+    "user": "U70QDFN82",
+    "text": "Twitter app入ってないんだ・・・プレビューされない",
+    "client_msg_id": "b85e2446-ac01-40de-b6db-f8e1a7cb3428",
+    "name": "yutakatay",
+    "img": "https://avatars.slack-edge.com/2022-03-03/3184293114882_be67d2adfd8032e58911_24.png",
+    "time": "2022/03/09 22:21:19",
+    "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1646829044920469"
+  },
+  {
     "user": "U70QDFN82",
     "text": "<https://twitter.com/mootastic/status/1501529092725751812?s=20&amp;t=ouByGfKXqhLIGGcCtdqFbQ>",
     "client_msg_id": "c0261f36-3072-4c34-bd70-0be92d62f295",
     "name": "yutakatay",
     "img": "https://avatars.slack-edge.com/2022-03-03/3184293114882_be67d2adfd8032e58911_24.png",
-    "time": "2022/03/09 21:28:29",
+    "time": "2022/03/09 22:21:19",
     "link": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1646828867796429"
   },
   {
