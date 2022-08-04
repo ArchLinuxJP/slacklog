@@ -10,3 +10,4 @@
 
 - channel idはとっておく
 
+- conversations.historyのuserが通常のnameではなく、users.listから取得して書き換える必要がある
