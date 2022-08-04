@@ -1,0 +1,2628 @@
+{
+  "ok": true,
+  "latest": "1596283848.000000",
+  "oldest": "1593605448.000000",
+  "messages": [
+    {
+      "type": "message",
+      "subtype": "bot_message",
+      "text": "<https://www.archlinux.org/news/aur-migration-new-ssh-hostkeys>\nAUR Migration: New SSH HostKeys\nDue to the fact that the AUR has been migrated to a new server, the SSH HostKeys used to connect to the host have changed. These are the new keys fingerprints:Ed25519: SHA256:RFzBCUItH9LZS0cKB5UE6ceAYhBD5C8GeOBip8Z11+4ECDSA: SHA256:uTa/0PndEgPZTf76e1DFqXKJEXKsn7m9ivhLQtzGOCIRSA: SHA256:5s5cIyReIfNNVGRFdDbe3hdYiI5OelHGpw2rOUud3Q8The fingerprints above can also be found on the AUR home page when not logged in.\nAURの移行：新しいSSH HostKeys\nAURが新しいサーバーに移行されたことにより、ホストへの接続に使用されるSSH HostKeysが変更されました。 Ed25519：SHA256：RFzBCUItH9LZS0cKB5UE6ceAYhBD5C8GeOBip8Z11 + 4ECDSA：SHA256：UTA / 0PndEgPZTf76e1DFqXKJEXKsn7m9ivhLQtzGOCIRSA：これらは、新しいキーのフィンガープリントをしているSHA256：ログインしていないときAURのホームページでも見ることができる上記5s5cIyReIfNNVGRFdDbe3hdYiI5OelHGpw2rOUud3Q8The指紋。",
+      "ts": "1595898088.425100",
+      "username": "webhookbot",
+      "icons": {
+        "emoji": ":arch:"
+      },
+      "bot_id": "BRB5N3W2W",
+      "thread_ts": "1595898088.425100",
+      "reply_count": 2,
+      "reply_users_count": 2,
+      "latest_reply": "1595945287.429100",
+      "reply_users": [
+        "UUWBU08TU",
+        "U0GFBAM8U"
+      ],
+      "is_locked": false,
+      "subscribed": true,
+      "last_read": "1595945287.429100",
+      "reactions": [
+        {
+          "name": "astonished",
+          "users": [
+            "U53RAQBCP",
+            "UUWBU08TU",
+            "UJ7P75WB1"
+          ],
+          "count": 3
+        }
+      ]
+    },
+    {
+      "client_msg_id": "2048bdb5-82bf-414d-bd65-1aab14c60f86",
+      "type": "message",
+      "text": "Xのモニター設定、学校とかでプロジェクターつないだりするので僕は `arandr` とか使ってますね\n(シェルスクリプトとして保存できるので普通に便利)",
+      "user": "U017BNGTHT3",
+      "ts": "1595754625.425000",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "Uuk",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "Xのモニター設定、学校とかでプロジェクターつないだりするので僕は "
+                },
+                {
+                  "type": "text",
+                  "text": "arandr",
+                  "style": {
+                    "code": true
+                  }
+                },
+                {
+                  "type": "text",
+                  "text": " とか使ってますね\n(シェルスクリプトとして保存できるので普通に便利)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "c63bea9d-1691-4e6a-a54f-e61be6e6bebe",
+      "type": "message",
+      "text": "ありがとうございます! 完璧に設定できました!",
+      "user": "U8L82PBGR",
+      "ts": "1595747044.423000",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "4xZT",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "ありがとうございます! 完璧に設定できました!"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "a3298e3d-05d0-40ed-890b-8191d85f9b22",
+      "type": "message",
+      "text": "ただ、以下のような感じで `LeftOf` とかではなく数値で指定する必要があった気がします。\n\n```Section \"Device\"\n        Identifier \"NVIDIA card\"\n        Driver     \"nvidia\"\n        Option     \"MetaModes\" \"DP-3: 1920x1080 +0+0, DP-1: 1920x1080 +1920+0\"\nEndSection```",
+      "user": "U257W41DW",
+      "ts": "1595746767.422500",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "5Lop9",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "ただ、以下のような感じで "
+                },
+                {
+                  "type": "text",
+                  "text": "LeftOf",
+                  "style": {
+                    "code": true
+                  }
+                },
+                {
+                  "type": "text",
+                  "text": " とかではなく数値で指定する必要があった気がします。\n\n"
+                }
+              ]
+            },
+            {
+              "type": "rich_text_preformatted",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "Section \"Device\"\n        Identifier \"NVIDIA card\"\n        Driver     \"nvidia\"\n        Option     \"MetaModes\" \"DP-3: 1920x1080 +0+0, DP-1: 1920x1080 +1920+0\"\nEndSection"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "14f9139f-7b5e-4921-9f90-f91d1f836d7c",
+      "type": "message",
+      "text": "あー、たぶんそれですね。試してみます。",
+      "user": "U8L82PBGR",
+      "ts": "1595746529.421800",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "NV8qc",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "あー、たぶんそれですね。試してみます。"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "b4ca941d-116e-4048-a097-017f3c3bca45",
+      "type": "message",
+      "text": "Nvidia のプロプライエタリドライバを使ってますか？その場合は多分 MetaModes で指定する必要があります。",
+      "user": "U257W41DW",
+      "ts": "1595746495.421400",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "bA4",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "Nvidia のプロプライエタリドライバを使ってますか？その場合は多分 MetaModes で指定する必要があります。"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "b0caa4fb-1710-4ddb-ad1a-7bf7cf5b70b0",
+      "type": "message",
+      "text": "私は、Xorg.confよく設定ミスってブラックアウトさせちゃうんであんまりいじらないですね。\nxrandrとudevで設定してます。",
+      "user": "U70QDFN82",
+      "ts": "1595744277.420700",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "uBUJA",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "私は、Xorg.confよく設定ミスってブラックアウトさせちゃうんであんまりいじらないですね。\nxrandrとudevで設定してます。"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "f66ef5a5-aaaa-4229-9446-af367bfb6a2b",
+      "type": "message",
+      "text": "マルチモニター環境で運用していて、モニターの位置がおかしくなってしまうのでXorg.confで設定したんですが、モニターの位置が反映されません。対処方法ご存知の方、いらっしゃったら教えてほしいです。\n```Section \"Monitor\"\n\tIdentifier\t\"DP-1\"\n\tOption\t\t\"Primary\"\t\"true\"\nEndSection\n\nSection \"Monitor\"\n\tIdentifier\t\"DP-3\"\n\tOption\t\t\"LeftOf\"\t\"DP-1\"\nEndSection```",
+      "user": "U8L82PBGR",
+      "ts": "1595743519.419400",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "DRII",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "マルチモニター環境で運用していて、モニターの位置がおかしくなってしまうのでXorg.confで設定したんですが、モニターの位置が反映されません。対処方法ご存知の方、いらっしゃったら教えてほしいです。\n"
+                }
+              ]
+            },
+            {
+              "type": "rich_text_preformatted",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "Section \"Monitor\"\n\tIdentifier\t\"DP-1\"\n\tOption\t\t\"Primary\"\t\"true\"\nEndSection\n\nSection \"Monitor\"\n\tIdentifier\t\"DP-3\"\n\tOption\t\t\"LeftOf\"\t\"DP-1\"\nEndSection"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "f945cfbb-1cad-414a-8b4e-47cec7785b23",
+      "type": "message",
+      "text": "昔からArchのKDEはところどころポンコツだったイメージがあります、気のせいかな……",
+      "user": "U01792411FA",
+      "ts": "1595489067.418100",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "+3A",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "昔からArchのKDEはところどころポンコツだったイメージがあります、気のせいかな……"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "ee67cce5-57f2-49da-b78b-33a45703b22d",
+      "type": "message",
+      "text": "ポンコツわかる、コアダンプを吐くプログラムを久々に見た",
+      "user": "UGA29R3FH",
+      "ts": "1595477515.417200",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "Mf0f",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "ポンコツわかる、コアダンプを吐くプログラムを久々に見た"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "a043c54a-8421-40c2-bee1-16b7493b3142",
+      "type": "message",
+      "text": "KDEのウィジェット自分も使っているんですが、こう言っては失礼だけど若干ポンコツな感じはしますね…。",
+      "user": "UJ7P75WB1",
+      "ts": "1595472461.416700",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "/Pj",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "KDEのウィジェット自分も使っているんですが、こう言っては失礼だけど若干ポンコツな感じはしますね…。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "reactions": [
+        {
+          "name": "sweat_smile",
+          "users": [
+            "U2YNMHCTV"
+          ],
+          "count": 1
+        }
+      ]
+    },
+    {
+      "client_msg_id": "54877e79-3b5f-4115-800f-fed05edb2e8e",
+      "type": "message",
+      "text": "いえいえ。ありがとうございます。設定触ってるとよく落ちる印象はあります。。。",
+      "user": "U2YNMHCTV",
+      "ts": "1595402255.414500",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "9XrI",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "いえいえ。ありがとうございます。設定触ってるとよく落ちる印象はあります。。。"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "480e6e6b-dcf7-4929-bea9-3f9bd2ae6cfc",
+      "type": "message",
+      "text": "これ検証している間に何度も落ちたので何かしらバグ持ってそうな気はする",
+      "user": "UGA29R3FH",
+      "ts": "1595402196.414100",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "KjZW2",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "これ検証している間に何度も落ちたので何かしらバグ持ってそうな気はする"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "b7068f3b-af41-48d2-bf42-c5f0b3d95a30",
+      "type": "message",
+      "text": "うーん、これ以上は力になれそうにないです、すみません",
+      "user": "UGA29R3FH",
+      "ts": "1595402128.413300",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "lY+1",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "うーん、これ以上は力になれそうにないです、すみません"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "bd260c5f-6b16-460c-b526-e74ca6c4ad0c",
+      "type": "message",
+      "text": "入れ直してみたら、一瞬直ったんですが、やっぱり元に戻ります。",
+      "user": "U2YNMHCTV",
+      "ts": "1595402078.413000",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "CK8i",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "入れ直してみたら、一瞬直ったんですが、やっぱり元に戻ります。"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "7907db96-b0ba-4acc-ac19-61e80bb9061f",
+      "type": "message",
+      "text": "ざっと調べた感じlibksysguardとplasma-workspaceに実体があるっぽいので、これらの入れ直ししたらよさそう？",
+      "user": "UGA29R3FH",
+      "ts": "1595401881.412600",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "fLD",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "ざっと調べた感じlibksysguardとplasma-workspaceに実体があるっぽいので、これらの入れ直ししたらよさそう？"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "b0ee19e6-91fb-4099-9dce-93cedd99e800",
+      "type": "message",
+      "text": "要らないのが出ているというよりは、ラベルが化けているような風に見えます。",
+      "user": "U2YNMHCTV",
+      "ts": "1595401560.411000",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "+o1",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "要らないのが出ているというよりは、ラベルが化けているような風に見えます。"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "d62b99f5-4984-4a88-8ffd-a321f03625fa",
+      "type": "message",
+      "text": "要らないの消すと、空になりますね。。。",
+      "user": "U2YNMHCTV",
+      "ts": "1595401527.410600",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "FLwgQ",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "要らないの消すと、空になりますね。。。"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "8e402199-beb4-4677-90a3-6e2418384b6a",
+      "type": "message",
+      "text": "Nice Loadとかはこちらにもあったりするけど勝手に有効化はされないなー",
+      "user": "UGA29R3FH",
+      "ts": "1595401169.410100",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "5bhZT",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "Nice Loadとかはこちらにもあったりするけど勝手に有効化はされないなー"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "message",
+      "subtype": "thread_broadcast",
+      "text": "Chart Sensorsから要らないの消してもこうなります？",
+      "user": "UGA29R3FH",
+      "ts": "1595401141.409400",
+      "thread_ts": "1595398321.403700",
+      "root": {
+        "client_msg_id": "e7c8a442-356d-4b9f-b34e-8ec320513760",
+        "type": "message",
+        "text": "環境次第なのかな、設定飛ばしても治らないならSensors Detailsからカスタマイズするしかなさそうな気がしますね",
+        "user": "UGA29R3FH",
+        "ts": "1595398321.403700",
+        "team": "T0GFBAM8C",
+        "blocks": [
+          {
+            "type": "rich_text",
+            "block_id": "WTIqS",
+            "elements": [
+              {
+                "type": "rich_text_section",
+                "elements": [
+                  {
+                    "type": "text",
+                    "text": "環境次第なのかな、設定飛ばしても治らないならSensors Detailsからカスタマイズするしかなさそうな気がしますね"
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "thread_ts": "1595398321.403700",
+        "reply_count": 6,
+        "reply_users_count": 2,
+        "latest_reply": "1595401141.409400",
+        "reply_users": [
+          "U2YNMHCTV",
+          "UGA29R3FH"
+        ],
+        "is_locked": false,
+        "subscribed": false
+      },
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "PHLDm",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "Chart Sensorsから要らないの消してもこうなります？"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "client_msg_id": "f283d34e-1dd4-4140-8f3d-113ddc0dcb78"
+    },
+    {
+      "client_msg_id": "a76c49b5-b9c0-437e-b5dc-5bb1bb45e7f6",
+      "type": "message",
+      "text": "~Individual Core UsageのPrefsいじってるとデスクトップ巻き込んで落ちるのつらい~",
+      "user": "UGA29R3FH",
+      "ts": "1595401052.409100",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "dZ6tC",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "Individual Core UsageのPrefsいじってるとデスクトップ巻き込んで落ちるのつらい",
+                  "style": {
+                    "strike": true
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "message",
+      "subtype": "thread_broadcast",
+      "text": "一度直ったのに、気づいたらまた同じ現象が発生していました。表示されている項目も全部、前と同じです。",
+      "user": "U2YNMHCTV",
+      "ts": "1595400940.408400",
+      "thread_ts": "1595398321.403700",
+      "root": {
+        "client_msg_id": "e7c8a442-356d-4b9f-b34e-8ec320513760",
+        "type": "message",
+        "text": "環境次第なのかな、設定飛ばしても治らないならSensors Detailsからカスタマイズするしかなさそうな気がしますね",
+        "user": "UGA29R3FH",
+        "ts": "1595398321.403700",
+        "team": "T0GFBAM8C",
+        "blocks": [
+          {
+            "type": "rich_text",
+            "block_id": "WTIqS",
+            "elements": [
+              {
+                "type": "rich_text_section",
+                "elements": [
+                  {
+                    "type": "text",
+                    "text": "環境次第なのかな、設定飛ばしても治らないならSensors Detailsからカスタマイズするしかなさそうな気がしますね"
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "thread_ts": "1595398321.403700",
+        "reply_count": 6,
+        "reply_users_count": 2,
+        "latest_reply": "1595401141.409400",
+        "reply_users": [
+          "U2YNMHCTV",
+          "UGA29R3FH"
+        ],
+        "is_locked": false,
+        "subscribed": false
+      },
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "3LyLR",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "一度直ったのに、気づいたらまた同じ現象が発生していました。表示されている項目も全部、前と同じです。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "client_msg_id": "d1f1b38c-72c4-41a3-ba4a-967e984efde1"
+    },
+    {
+      "type": "message",
+      "subtype": "thread_broadcast",
+      "text": "どうやら設定飛ばしたら直ったようです。ありがとうございます。",
+      "user": "U2YNMHCTV",
+      "ts": "1595400416.407900",
+      "thread_ts": "1595398321.403700",
+      "root": {
+        "client_msg_id": "e7c8a442-356d-4b9f-b34e-8ec320513760",
+        "type": "message",
+        "text": "環境次第なのかな、設定飛ばしても治らないならSensors Detailsからカスタマイズするしかなさそうな気がしますね",
+        "user": "UGA29R3FH",
+        "ts": "1595398321.403700",
+        "team": "T0GFBAM8C",
+        "blocks": [
+          {
+            "type": "rich_text",
+            "block_id": "WTIqS",
+            "elements": [
+              {
+                "type": "rich_text_section",
+                "elements": [
+                  {
+                    "type": "text",
+                    "text": "環境次第なのかな、設定飛ばしても治らないならSensors Detailsからカスタマイズするしかなさそうな気がしますね"
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "thread_ts": "1595398321.403700",
+        "reply_count": 6,
+        "reply_users_count": 2,
+        "latest_reply": "1595401141.409400",
+        "reply_users": [
+          "U2YNMHCTV",
+          "UGA29R3FH"
+        ],
+        "is_locked": false,
+        "subscribed": false
+      },
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "6gYCO",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "どうやら設定飛ばしたら直ったようです。ありがとうございます。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "client_msg_id": "a883dd77-ad53-4760-ba46-0c478723face",
+      "reactions": [
+        {
+          "name": "tada",
+          "users": [
+            "UGA29R3FH",
+            "U0PM6EYR1",
+            "UJ7P75WB1"
+          ],
+          "count": 3
+        }
+      ]
+    },
+    {
+      "type": "message",
+      "text": "どうやら、Sensors Detailsのところから変になってるっぽくて、例えばAll Sensors -> CPU 1がこのようになっています。何かファイル飛ばせば治るような気はしますが、Plasmaが何をどこに保存しているのかあまり把握できていなくて、手を出せてないです。",
+      "files": [
+        {
+          "id": "F017HH7JQTC",
+          "created": 1595398765,
+          "timestamp": 1595398765,
+          "name": "Screenshot_20200722_152130.png",
+          "title": "Screenshot_20200722_152130.png",
+          "mimetype": "image/png",
+          "filetype": "png",
+          "pretty_type": "PNG",
+          "user": "U2YNMHCTV",
+          "editable": false,
+          "size": 10387,
+          "mode": "hosted",
+          "is_external": false,
+          "external_type": "",
+          "is_public": true,
+          "public_url_shared": false,
+          "display_as_bot": false,
+          "username": "",
+          "url_private": "https://files.slack.com/files-pri/T0GFBAM8C-F017HH7JQTC/screenshot_20200722_152130.png",
+          "url_private_download": "https://files.slack.com/files-pri/T0GFBAM8C-F017HH7JQTC/download/screenshot_20200722_152130.png",
+          "media_display_type": "unknown",
+          "thumb_64": "https://files.slack.com/files-tmb/T0GFBAM8C-F017HH7JQTC-f724537b7f/screenshot_20200722_152130_64.png",
+          "thumb_80": "https://files.slack.com/files-tmb/T0GFBAM8C-F017HH7JQTC-f724537b7f/screenshot_20200722_152130_80.png",
+          "thumb_360": "https://files.slack.com/files-tmb/T0GFBAM8C-F017HH7JQTC-f724537b7f/screenshot_20200722_152130_360.png",
+          "thumb_360_w": 256,
+          "thumb_360_h": 260,
+          "thumb_160": "https://files.slack.com/files-tmb/T0GFBAM8C-F017HH7JQTC-f724537b7f/screenshot_20200722_152130_160.png",
+          "original_w": 256,
+          "original_h": 260,
+          "thumb_tiny": "AwAwAC/Rpp3ZOCKcTjvigMPWgBvzeo/KnUbhRuFABRRuFG4UAIyg9Rmm7B/c/Wnn6E89qQ49G/CgBvlj+5+tLt/2T+dLx6PTgMevPrQAm0UbBTqKAGn6kfSkJH94j8KXB7HFGDnr+lACEj+8fypw6UtFABRRRQB//9k=",
+          "permalink": "https://archlinuxjp.slack.com/files/U2YNMHCTV/F017HH7JQTC/screenshot_20200722_152130.png",
+          "permalink_public": "https://slack-files.com/T0GFBAM8C-F017HH7JQTC-08a973624c",
+          "is_starred": false,
+          "has_rich_preview": false
+        }
+      ],
+      "upload": false,
+      "user": "U2YNMHCTV",
+      "display_as_bot": false,
+      "ts": "1595398969.406500",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "TEP",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "どうやら、Sensors Detailsのところから変になってるっぽくて、例えばAll Sensors -> CPU 1がこのようになっています。何かファイル飛ばせば治るような気はしますが、Plasmaが何をどこに保存しているのかあまり把握できていなくて、手を出せてないです。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "thread_ts": "1595398321.403700",
+      "parent_user_id": "UGA29R3FH",
+      "subtype": "thread_broadcast",
+      "root": {
+        "client_msg_id": "e7c8a442-356d-4b9f-b34e-8ec320513760",
+        "type": "message",
+        "text": "環境次第なのかな、設定飛ばしても治らないならSensors Detailsからカスタマイズするしかなさそうな気がしますね",
+        "user": "UGA29R3FH",
+        "ts": "1595398321.403700",
+        "team": "T0GFBAM8C",
+        "blocks": [
+          {
+            "type": "rich_text",
+            "block_id": "WTIqS",
+            "elements": [
+              {
+                "type": "rich_text_section",
+                "elements": [
+                  {
+                    "type": "text",
+                    "text": "環境次第なのかな、設定飛ばしても治らないならSensors Detailsからカスタマイズするしかなさそうな気がしますね"
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "thread_ts": "1595398321.403700",
+        "reply_count": 6,
+        "reply_users_count": 2,
+        "latest_reply": "1595401141.409400",
+        "reply_users": [
+          "U2YNMHCTV",
+          "UGA29R3FH"
+        ],
+        "is_locked": false,
+        "subscribed": false
+      }
+    },
+    {
+      "client_msg_id": "933b45ae-494a-46ef-a5f9-bf7937764a01",
+      "type": "message",
+      "text": "デフォルトでは名前順なんでしょうか?",
+      "user": "U0GFBAM8U",
+      "ts": "1595398950.406300",
+      "team": "T0GFBAM8C",
+      "edited": {
+        "user": "U0GFBAM8U",
+        "ts": "1595398958.000000"
+      },
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "YNS",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "デフォルトでは名前順なんでしょうか?"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "thread_ts": "1595398950.406300",
+      "reply_count": 2,
+      "reply_users_count": 2,
+      "latest_reply": "1595399387.407300",
+      "reply_users": [
+        "U2YNMHCTV",
+        "U0GFBAM8U"
+      ],
+      "is_locked": false,
+      "subscribed": true,
+      "last_read": "1595399387.407300"
+    },
+    {
+      "client_msg_id": "316e0455-25b2-4c99-a1a7-72f170674530",
+      "type": "message",
+      "text": "ですね。名前順でもないみたいですし",
+      "user": "U0GFBAM8U",
+      "ts": "1595398934.406000",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "uyGq/",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "ですね。名前順でもないみたいですし"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "1c23f0aa-6d58-42fd-89e8-df9f09f6573e",
+      "type": "message",
+      "text": "特に変わった感じはないです。\n```$ ls /sys/devices/system/cpu\ncpu0/   cpu11/  cpu14/  cpu3/  cpu6/  cpu9/     hotplug/    microcode/  online    present  vulnerabilities/\ncpu1/   cpu12/  cpu15/  cpu4/  cpu7/  cpufreq/  isolated    modalias    possible  smt/\ncpu10/  cpu13/  cpu2/   cpu5/  cpu8/  cpuidle/  kernel_max  offline     power/    uevent\n$ ls /sys/devices/system/cpu/cpu0\nacpi_cppc/  cpufreq@  crash_notes       driver@         hotplug/    node0@  subsystem@  uevent\ncache/      cpuidle/  crash_notes_size  firmware_node@  microcode/  power/  topology/```\n",
+      "user": "U2YNMHCTV",
+      "ts": "1595398705.405200",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "sgP",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "特に変わった感じはないです。\n"
+                }
+              ]
+            },
+            {
+              "type": "rich_text_preformatted",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "$ ls /sys/devices/system/cpu\ncpu0/   cpu11/  cpu14/  cpu3/  cpu6/  cpu9/     hotplug/    microcode/  online    present  vulnerabilities/\ncpu1/   cpu12/  cpu15/  cpu4/  cpu7/  cpufreq/  isolated    modalias    possible  smt/\ncpu10/  cpu13/  cpu2/   cpu5/  cpu8/  cpuidle/  kernel_max  offline     power/    uevent\n$ ls /sys/devices/system/cpu/cpu0\nacpi_cppc/  cpufreq@  crash_notes       driver@         hotplug/    node0@  subsystem@  uevent\ncache/      cpuidle/  crash_notes_size  firmware_node@  microcode/  power/  topology/"
+                }
+              ]
+            },
+            {
+              "type": "rich_text_section",
+              "elements": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "d9773063-393e-45ec-bb88-17c164f4b393",
+      "type": "message",
+      "text": "カーネルから値をとってきてるのかな\n`/sys/devices/system/cpu/` 以下ってどんな感じですか?",
+      "user": "U0GFBAM8U",
+      "ts": "1595398609.404400",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "lKO9E",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "カーネルから値をとってきてるのかな\n"
+                },
+                {
+                  "type": "text",
+                  "text": "/sys/devices/system/cpu/",
+                  "style": {
+                    "code": true
+                  }
+                },
+                {
+                  "type": "text",
+                  "text": " 以下ってどんな感じですか?"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "e7c8a442-356d-4b9f-b34e-8ec320513760",
+      "type": "message",
+      "text": "環境次第なのかな、設定飛ばしても治らないならSensors Detailsからカスタマイズするしかなさそうな気がしますね",
+      "user": "UGA29R3FH",
+      "ts": "1595398321.403700",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "WTIqS",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "環境次第なのかな、設定飛ばしても治らないならSensors Detailsからカスタマイズするしかなさそうな気がしますね"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "thread_ts": "1595398321.403700",
+      "reply_count": 6,
+      "reply_users_count": 2,
+      "latest_reply": "1595401141.409400",
+      "reply_users": [
+        "U2YNMHCTV",
+        "UGA29R3FH"
+      ],
+      "is_locked": false,
+      "subscribed": false
+    },
+    {
+      "type": "message",
+      "text": "何も設定せずに見た目だけ変えたらこんな感じですね",
+      "files": [
+        {
+          "id": "F0187C86K5E",
+          "created": 1595398246,
+          "timestamp": 1595398246,
+          "name": "hoge.png",
+          "title": "hoge.png",
+          "mimetype": "image/png",
+          "filetype": "png",
+          "pretty_type": "PNG",
+          "user": "UGA29R3FH",
+          "editable": false,
+          "size": 104215,
+          "mode": "hosted",
+          "is_external": false,
+          "external_type": "",
+          "is_public": true,
+          "public_url_shared": false,
+          "display_as_bot": false,
+          "username": "",
+          "url_private": "https://files.slack.com/files-pri/T0GFBAM8C-F0187C86K5E/hoge.png",
+          "url_private_download": "https://files.slack.com/files-pri/T0GFBAM8C-F0187C86K5E/download/hoge.png",
+          "media_display_type": "unknown",
+          "thumb_64": "https://files.slack.com/files-tmb/T0GFBAM8C-F0187C86K5E-8d8340c7ea/hoge_64.png",
+          "thumb_80": "https://files.slack.com/files-tmb/T0GFBAM8C-F0187C86K5E-8d8340c7ea/hoge_80.png",
+          "thumb_360": "https://files.slack.com/files-tmb/T0GFBAM8C-F0187C86K5E-8d8340c7ea/hoge_360.png",
+          "thumb_360_w": 224,
+          "thumb_360_h": 360,
+          "thumb_480": "https://files.slack.com/files-tmb/T0GFBAM8C-F0187C86K5E-8d8340c7ea/hoge_480.png",
+          "thumb_480_w": 299,
+          "thumb_480_h": 480,
+          "thumb_160": "https://files.slack.com/files-tmb/T0GFBAM8C-F0187C86K5E-8d8340c7ea/hoge_160.png",
+          "original_w": 368,
+          "original_h": 591,
+          "thumb_tiny": "AwAwAB2/SY9z+dGaBzQAY9zQO9LSDqaYDCefpTkPBqI9TSq2FNADt2KchzmoakjPWgAwKdtHoKKdSAbgegpQB6UUUAf/2Q==",
+          "permalink": "https://archlinuxjp.slack.com/files/UGA29R3FH/F0187C86K5E/hoge.png",
+          "permalink_public": "https://slack-files.com/T0GFBAM8C-F0187C86K5E-50503b400b",
+          "is_starred": false,
+          "has_rich_preview": false
+        }
+      ],
+      "upload": false,
+      "user": "UGA29R3FH",
+      "display_as_bot": false,
+      "ts": "1595398271.402500",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "C42B",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "何も設定せずに見た目だけ変えたらこんな感じですね"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "message",
+      "text": "KDE使ってるのですが、Individual Core Usageというウィジェットを表示すると、各CPUコアの使用率を表示してほしいのですが、こういうのが表示されます。System Monitor Sensorsウィジェットの設定を見てると、センサー自体が項目がめちゃくちゃっぽいです。(ラベルや単位が変なだけで、値はCPU使用率のような感じはしなくもないです)\n1〜2ヶ月?前からで、ほっといたらアップデートで直るかと思ったけど、直らないようです。\n・もし対処法ご存知の方、いらっしゃいましたら教えて下さい。\n・そもそもこれ、他のKDE利用者の環境でも再現しますか?",
+      "files": [
+        {
+          "id": "F0172PWPGHM",
+          "created": 1595397186,
+          "timestamp": 1595397186,
+          "name": "Screenshot_20200722_145542.png",
+          "title": "Screenshot_20200722_145542.png",
+          "mimetype": "image/png",
+          "filetype": "png",
+          "pretty_type": "PNG",
+          "user": "U2YNMHCTV",
+          "editable": false,
+          "size": 93750,
+          "mode": "hosted",
+          "is_external": false,
+          "external_type": "",
+          "is_public": true,
+          "public_url_shared": false,
+          "display_as_bot": false,
+          "username": "",
+          "url_private": "https://files.slack.com/files-pri/T0GFBAM8C-F0172PWPGHM/screenshot_20200722_145542.png",
+          "url_private_download": "https://files.slack.com/files-pri/T0GFBAM8C-F0172PWPGHM/download/screenshot_20200722_145542.png",
+          "media_display_type": "unknown",
+          "thumb_64": "https://files.slack.com/files-tmb/T0GFBAM8C-F0172PWPGHM-7dca60b57e/screenshot_20200722_145542_64.png",
+          "thumb_80": "https://files.slack.com/files-tmb/T0GFBAM8C-F0172PWPGHM-7dca60b57e/screenshot_20200722_145542_80.png",
+          "thumb_360": "https://files.slack.com/files-tmb/T0GFBAM8C-F0172PWPGHM-7dca60b57e/screenshot_20200722_145542_360.png",
+          "thumb_360_w": 172,
+          "thumb_360_h": 360,
+          "thumb_480": "https://files.slack.com/files-tmb/T0GFBAM8C-F0172PWPGHM-7dca60b57e/screenshot_20200722_145542_480.png",
+          "thumb_480_w": 230,
+          "thumb_480_h": 480,
+          "thumb_160": "https://files.slack.com/files-tmb/T0GFBAM8C-F0172PWPGHM-7dca60b57e/screenshot_20200722_145542_160.png",
+          "original_w": 282,
+          "original_h": 589,
+          "thumb_tiny": "AwAwABa8aMfX86aTS96AFooooAh2tjqMU7D8dKWlGaYAC2ecfnS5NHelpANxTsYpBwaWgBD1oyaO9LQB/9k=",
+          "permalink": "https://archlinuxjp.slack.com/files/U2YNMHCTV/F0172PWPGHM/screenshot_20200722_145542.png",
+          "permalink_public": "https://slack-files.com/T0GFBAM8C-F0172PWPGHM-f2d9e54d32",
+          "is_starred": false,
+          "has_rich_preview": false
+        }
+      ],
+      "upload": false,
+      "user": "U2YNMHCTV",
+      "display_as_bot": false,
+      "ts": "1595397426.402000",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "upE",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "KDE使ってるのですが、Individual Core Usageというウィジェットを表示すると、各CPUコアの使用率を表示してほしいのですが、こういうのが表示されます。System Monitor Sensorsウィジェットの設定を見てると、センサー自体が項目がめちゃくちゃっぽいです。(ラベルや単位が変なだけで、値はCPU使用率のような感じはしなくもないです)\n1〜2ヶ月?前からで、ほっといたらアップデートで直るかと思ったけど、直らないようです。\n・もし対処法ご存知の方、いらっしゃいましたら教えて下さい。\n・そもそもこれ、他のKDE利用者の環境でも再現しますか?"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "message",
+      "subtype": "channel_join",
+      "ts": "1595153371.398600",
+      "user": "U016X56MZGF",
+      "text": "<@U016X56MZGF>さんがチャンネルに参加しました"
+    },
+    {
+      "type": "message",
+      "subtype": "channel_join",
+      "ts": "1594624250.397500",
+      "user": "U017BNGTHT3",
+      "text": "<@U017BNGTHT3>さんがチャンネルに参加しました"
+    },
+    {
+      "client_msg_id": "12c1215f-0111-4338-9f7b-0f529d5759e2",
+      "type": "message",
+      "text": "ArchWiki で最近一番多く更新している <https://wiki.archlinux.org/index.php/User:Blackteahamburger|Blackteahamburger >さんが日本のArchWikiにアカウント登録してますね。なんとなくうれしかったのでメモしました。あと、最近、登録する人が増えたのもうれしいですね。",
+      "user": "U0H9QUFA5",
+      "ts": "1594517277.395700",
+      "team": "T0GFBAM8C",
+      "edited": {
+        "user": "U0H9QUFA5",
+        "ts": "1594517493.000000"
+      },
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "+URq5",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "ArchWiki で最近一番多く更新している "
+                },
+                {
+                  "type": "link",
+                  "url": "https://wiki.archlinux.org/index.php/User:Blackteahamburger",
+                  "text": "Blackteahamburger "
+                },
+                {
+                  "type": "text",
+                  "text": "さんが日本のArchWikiにアカウント登録してますね。なんとなくうれしかったのでメモしました。あと、最近、登録する人が増えたのもうれしいですね。",
+                  "style": {
+                    "unlink": true
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "reactions": [
+        {
+          "name": "archjp",
+          "users": [
+            "U257W41DW",
+            "UGA29R3FH",
+            "U01235G2K26",
+            "U3FJYR7MG",
+            "U01792411FA",
+            "U53RAQBCP",
+            "U5W6QDSHZ",
+            "U0GFBAM8U",
+            "UJ7P75WB1",
+            "USJ9Q3WSH",
+            "UUWBU08TU",
+            "UGKM5728M"
+          ],
+          "count": 12
+        }
+      ]
+    },
+    {
+      "type": "message",
+      "subtype": "channel_join",
+      "ts": "1594355543.394500",
+      "user": "U016U3Q3MHT",
+      "text": "<@U016U3Q3MHT>さんがチャンネルに参加しました"
+    },
+    {
+      "type": "message",
+      "subtype": "channel_join",
+      "ts": "1594287814.394200",
+      "user": "U016CLFGHQX",
+      "text": "<@U016CLFGHQX>さんがチャンネルに参加しました"
+    },
+    {
+      "client_msg_id": "5ed4ea5f-b79c-4aa1-b764-a84e31b28072",
+      "type": "message",
+      "text": "遅レスですが、EFIになってデュアルブートはかなり楽になったように思えます\nブートローダーが複数置けるようになって、ブートローダー同士でブートを奪い合う不毛な争いからサヨナラできたので......",
+      "user": "UCA1NQM5K",
+      "ts": "1594074956.394000",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "0b/7",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "遅レスですが、EFIになってデュアルブートはかなり楽になったように思えます\nブートローダーが複数置けるようになって、ブートローダー同士でブートを奪い合う不毛な争いからサヨナラできたので......"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "37714E04-A0D1-458B-ADA3-F3A8A16912EF",
+      "type": "message",
+      "text": "お、情報ありがとうございます",
+      "user": "U0GFBAM8U",
+      "ts": "1594071802.391400",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "9nLtq",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "お、情報ありがとうございます"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "reactions": [
+        {
+          "name": "+1",
+          "users": [
+            "U015CDRQDD0"
+          ],
+          "count": 1
+        }
+      ]
+    },
+    {
+      "client_msg_id": "00c52760-b360-4872-8f2f-bc36b1bdabf2",
+      "type": "message",
+      "text": "<@U0GFBAM8U> 夜中にすみません　自分はこうしました\n```pacman -Syu --ignore=xorg-fonts-alias-100dpi --ignore=xorg-fonts-alias-75dpi --ignore=xorg-fonts-alias-misc\n\npacman -R xorg-fonts-alias xorg-fonts-100dpi xorg-fonts-75dpi xorg-fonts-misc xorg-xcalc\n\npacman -S xorg-fonts-alias-100dpi xorg-fonts-100dpi xorg-fonts-75dpi xorg-fonts-misc xorg-xcalc```\n<https://bbs.archlinux.org/viewtopic.php?pid=1913145#p1913145>",
+      "user": "U015CDRQDD0",
+      "ts": "1594056564.390800",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "LJ6",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "user",
+                  "user_id": "U0GFBAM8U"
+                },
+                {
+                  "type": "text",
+                  "text": " 夜中にすみません　自分はこうしました\n"
+                }
+              ]
+            },
+            {
+              "type": "rich_text_preformatted",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "pacman -Syu --ignore=xorg-fonts-alias-100dpi --ignore=xorg-fonts-alias-75dpi --ignore=xorg-fonts-alias-misc\n\npacman -R xorg-fonts-alias xorg-fonts-100dpi xorg-fonts-75dpi xorg-fonts-misc xorg-xcalc\n\npacman -S xorg-fonts-alias-100dpi xorg-fonts-100dpi xorg-fonts-75dpi xorg-fonts-misc xorg-xcalc"
+                }
+              ]
+            },
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "link",
+                  "url": "https://bbs.archlinux.org/viewtopic.php?pid=1913145#p1913145"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "reactions": [
+        {
+          "name": "eyes",
+          "users": [
+            "UGA29R3FH",
+            "U0GFBAM8U"
+          ],
+          "count": 2
+        }
+      ]
+    },
+    {
+      "client_msg_id": "ca5b3959-6f0c-464a-b1bd-888910a56c64",
+      "type": "message",
+      "text": "たまにおかしくなることありますよね、なんもしてないのに　Grub情報消えてるし",
+      "user": "U01792411FA",
+      "ts": "1594045733.390200",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "BJleX",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "たまにおかしくなることありますよね、なんもしてないのに　Grub情報消えてるし"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "5adc52e5-6086-42b2-a12f-183df988e652",
+      "type": "message",
+      "text": "Win10の大型アップデートで書き換えてる説信憑性ある",
+      "user": "U01792411FA",
+      "ts": "1594045639.389600",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "KX6",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "Win10の大型アップデートで書き換えてる説信憑性ある"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "06B84AB6-7571-406E-A4F2-AEAA95B064E1",
+      "type": "message",
+      "text": "UEFIになってそのへんマシになってるはず\n(もうデュアルブートやってないので試してませんが)",
+      "user": "U6DL9D3AB",
+      "ts": "1594045540.388800",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "suA=",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "UEFIになってそのへんマシになってるはず\n(もうデュアルブートやってないので試してませんが)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "c04c752f-d8a9-400c-8f2b-ba119187e6cc",
+      "type": "message",
+      "text": "正誤：ディスクでブートローダ",
+      "user": "U01792411FA",
+      "ts": "1594045402.386600",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "RTV6l",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "正誤：ディスクでブートローダ"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "3a76649e-e032-4889-aa91-6842b7553331",
+      "type": "message",
+      "text": "デスクトップPCならディスクとブートローダ分けて、BIOSの機能で呼び分けるのがいいきがする～",
+      "user": "U01792411FA",
+      "ts": "1594045370.386200",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "T+CG",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "デスクトップPCならディスクとブートローダ分けて、BIOSの機能で呼び分けるのがいいきがする～"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "fb316a14-8bae-4594-9764-fd520863c647",
+      "type": "message",
+      "text": "わかる...",
+      "user": "U0HJ7EB9T",
+      "ts": "1594045280.385200",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "uHc",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "わかる..."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "f4a1d16e-b89c-4da5-8f52-e55109c259c8",
+      "type": "message",
+      "text": "だいたいどっちかのクリーンインストール作業のときに間違ったHDDなりSSDをfdiskすることで悲劇が起きるｗ",
+      "user": "U01792411FA",
+      "ts": "1594045267.385000",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "rzdN",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "だいたいどっちかのクリーンインストール作業のときに間違ったHDDなりSSDをfdiskすることで悲劇が起きるｗ"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "7dac6022-d558-4bbf-97c5-b1e59313eba4",
+      "type": "message",
+      "text": "さすがにこっちまで壊しに来たりはしなかったので",
+      "user": "UGA29R3FH",
+      "ts": "1594041625.384300",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "0rjr",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "さすがにこっちまで壊しに来たりはしなかったので"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "c2d50461-f318-4927-b1e1-80f9ef6cf945",
+      "type": "message",
+      "text": "Windows使ってた頃はLinux用ブートローダーはUSBメモリに書き込んでましたね",
+      "user": "UGA29R3FH",
+      "ts": "1594041617.384000",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "PiSs",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "Windows使ってた頃はLinux用ブートローダーはUSBメモリに書き込んでましたね"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "32960b49-7873-40c9-8b58-9b71e874dcda",
+      "type": "message",
+      "text": "そういう意味で言うとブートローダーはWin側に支配させた方が安全なのかもと思ったりもするのですが、正直なところベストプラクティスが分からないところです...",
+      "user": "U0HJ7EB9T",
+      "ts": "1594041579.383500",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "yPJW",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "そういう意味で言うとブートローダーはWin側に支配させた方が安全なのかもと思ったりもするのですが、正直なところベストプラクティスが分からないところです..."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "bae85836-a059-471d-afba-1015edfe2823",
+      "type": "message",
+      "text": "Windowsのbuild確認用にできればもう一度チャレンジしたい",
+      "user": "U8T8KB5M4",
+      "ts": "1594041526.382600",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "GsP5",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "Windowsのbuild確認用にできればもう一度チャレンジしたい"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "3b096fa6-9658-42e0-8c24-0d3723848062",
+      "type": "message",
+      "text": "Windows10の大型アップデートが来るときにどうもブートローダーを書き換えている気がするんですよね",
+      "user": "U0HJ7EB9T",
+      "ts": "1594041520.382400",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "/pA7",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "Windows10の大型アップデートが来るときにどうもブートローダーを書き換えている気がするんですよね"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "8644d4e5-56c9-46c9-982f-cf9e632e542c",
+      "type": "message",
+      "text": "WindowsUpdateとかいつもどきどきですw",
+      "user": "U70QDFN82",
+      "ts": "1594041513.382200",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "o+e4",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "WindowsUpdateとかいつもどきどきですw"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "32faefe5-0e45-499e-833f-4f1cfffee8cd",
+      "type": "message",
+      "text": "なんで消し飛んだかもわかってないからもう怖くて",
+      "user": "U8T8KB5M4",
+      "ts": "1594041488.380900",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "7zyAa",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "なんで消し飛んだかもわかってないからもう怖くて"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "99da2b3e-e912-4f6d-aaa1-b8414671f665",
+      "type": "message",
+      "text": "まだ消し飛んだことはないですw",
+      "user": "U70QDFN82",
+      "ts": "1594041481.380600",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "j4J/t",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "まだ消し飛んだことはないですw"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "aba5fc37-ad10-4f34-8365-c46e99bee791",
+      "type": "message",
+      "text": "私は普通にノートPCなんで同じディスクでやってます",
+      "user": "U70QDFN82",
+      "ts": "1594041472.380000",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "fjg",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "私は普通にノートPCなんで同じディスクでやってます"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "597f815d-a7e8-4bf2-bbdc-3ac20913ee7b",
+      "type": "message",
+      "text": "あー",
+      "user": "U0HJ7EB9T",
+      "ts": "1594041469.379800",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "TrH",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "あー"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "8638f583-72c5-4e35-9c53-8f32ec87d03e",
+      "type": "message",
+      "text": "ノートなんですよねー",
+      "user": "U8T8KB5M4",
+      "ts": "1594041465.379500",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "TcP",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "ノートなんですよねー"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "13df1027-bb57-48a0-960d-a1269aa0df49",
+      "type": "message",
+      "text": "僕の場合ディスクを分けてますね。ブートローダーもそれぞれのディスクに入れています。デフォルトではWinが起動するように設定されていますが、Linuxを起動したいときはブートメニューを表示させて、起動ディスクをその都度変更してますねー。",
+      "user": "U0HJ7EB9T",
+      "ts": "1594041387.378900",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "V82",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "僕の場合ディスクを分けてますね。ブートローダーもそれぞれのディスクに入れています。デフォルトではWinが起動するように設定されていますが、Linuxを起動したいときはブートメニューを表示させて、起動ディスクをその都度変更してますねー。"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "f6b39de6-863c-4138-b9c8-6087456303d6",
+      "type": "message",
+      "text": "みんなデュアルブートどうしてるのか気になる。\n一度Windowsのブート領域がいつの間にか消し飛んでてそれ以来トラウマでできてない。",
+      "user": "U8T8KB5M4",
+      "ts": "1594041289.377500",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "4lTEr",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "みんなデュアルブートどうしてるのか気になる。\n一度Windowsのブート領域がいつの間にか消し飛んでてそれ以来トラウマでできてない。"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "ae4b9f17-5d69-4321-9180-cc5feecc97e2",
+      "type": "message",
+      "text": "2とか3の頃よりは相当楽だと思う &gt; カーネル",
+      "user": "UGA29R3FH",
+      "ts": "1594031935.374200",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "vb7AY",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "2とか3の頃よりは相当楽だと思う > カーネル"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "b2afe380-cdea-4beb-82a6-dddb5218a8cb",
+      "type": "message",
+      "text": "XPS13といえばLinusが絶賛してたな",
+      "user": "UGA29R3FH",
+      "ts": "1594031918.373400",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "bqPHm",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "XPS13といえばLinusが絶賛してたな"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "dcb1d460-e249-4184-893d-63b7f4b062c6",
+      "type": "message",
+      "text": "最近はカーネル周り楽になってるのかな",
+      "user": "U01792411FA",
+      "ts": "1594031881.373300",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "f17t",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "最近はカーネル周り楽になってるのかな"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "7875681d-5b82-41df-8007-b4d45c3ff478",
+      "type": "message",
+      "text": "バックライト制御がモデルによって違ったりしたくらいですか...",
+      "user": "U6DL9D3AB",
+      "ts": "1594031853.372800",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "Wwo7W",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "バックライト制御がモデルによって違ったりしたくらいですか..."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "26f9cc5d-a4fc-4fc1-b520-de45fd3c5d1b",
+      "type": "message",
+      "text": "XPS13を3世代ほど使ってきてますが、メディアキー・無線LAN・BTとかタッチスクリーンは面倒なことしなくても動きましたよ",
+      "user": "U6DL9D3AB",
+      "ts": "1594031827.371800",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "EII/C",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "XPS13を3世代ほど使ってきてますが、メディアキー・無線LAN・BTとかタッチスクリーンは面倒なことしなくても動きましたよ"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "5b1d3e4a-f227-47e7-a84e-ccad31a5f274",
+      "type": "message",
+      "text": "ArchWikiをランダムで眺めていると結構ノートマシンの個別記事があるので便利そうだなーって思ってる",
+      "user": "UGA29R3FH",
+      "ts": "1594031627.369000",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "uA9",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "ArchWikiをランダムで眺めていると結構ノートマシンの個別記事があるので便利そうだなーって思ってる"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "84ef6b4b-3fca-473f-9e53-6bef13f42e95",
+      "type": "message",
+      "text": "ノートPCといえば、インストールして動くかどうかって話が前にでてた気がしますが、おそらく無線LANとファンクションキーや特殊キーの動作に関してまともに動くファームウェアやドライバがあるかどうかかなぁ、そこらへんは場合によってはカーネル再構築する必要があるかも、とは思いました",
+      "user": "U01792411FA",
+      "ts": "1594031560.367700",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "BbhR/",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "ノートPCといえば、インストールして動くかどうかって話が前にでてた気がしますが、おそらく無線LANとファンクションキーや特殊キーの動作に関してまともに動くファームウェアやドライバがあるかどうかかなぁ、そこらへんは場合によってはカーネル再構築する必要があるかも、とは思いました"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "eadeb39d-c74c-4c41-8db1-2467fc66bb59",
+      "type": "message",
+      "text": "ノートPCだとそうは行かないと思いますが・・・難点",
+      "user": "U01792411FA",
+      "ts": "1594031182.365300",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "oaNn",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "ノートPCだとそうは行かないと思いますが・・・難点"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "3442b75d-96e4-4e66-9963-d827184ca64e",
+      "type": "message",
+      "text": "お手軽ですよ＞ディスクごと",
+      "user": "U01792411FA",
+      "ts": "1594031147.364900",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "WajM0",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "お手軽ですよ＞ディスクごと"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "2d0da142-4e42-4a71-a19a-075eeb61b64c",
+      "type": "message",
+      "text": "ディスク分けてしまうのよさそうだな",
+      "user": "UGA29R3FH",
+      "ts": "1594031066.364500",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "Qzfk",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "ディスク分けてしまうのよさそうだな"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "c2f6d8bf-672d-44e5-8bf5-ddddeeeab57b",
+      "type": "message",
+      "text": "ASUSのマザーボード使ってるから、ディスクごとにブートローダ書き込んで（GRUB OS-Proberとか使わずに）F8押しながらブート選択でいいやってなった\n最初の頃はよく両方のデータがきれいに消し飛んだものです",
+      "user": "U01792411FA",
+      "ts": "1594031018.364000",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "tSmk",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "ASUSのマザーボード使ってるから、ディスクごとにブートローダ書き込んで（GRUB OS-Proberとか使わずに）F8押しながらブート選択でいいやってなった\n最初の頃はよく両方のデータがきれいに消し飛んだものです"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "80ff1203-b239-47c3-a102-f814a40132d7",
+      "type": "message",
+      "text": "何度復旧メディアのお世話になったことか",
+      "user": "UGA29R3FH",
+      "ts": "1594030925.361500",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "ALDsC",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "何度復旧メディアのお世話になったことか"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "410ee101-0c8b-4b4b-81a7-47f60d92815e",
+      "type": "message",
+      "text": "デュアルブートを安全にやるのは人類には難しすぎるんだよなぁ",
+      "user": "UGA29R3FH",
+      "ts": "1594030915.361000",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "dmQ",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "デュアルブートを安全にやるのは人類には難しすぎるんだよなぁ"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "57cc6fc4-f732-44d9-9792-4e4edbfdbc04",
+      "type": "message",
+      "text": "バックアップしたデータとLinux入ったディスク外してWindows10クリーンインストールが安全\nデュアルブート環境だとWindowsがおせっかいしてEFI領域いじっちゃうことがあるから……",
+      "user": "U01792411FA",
+      "ts": "1594030845.359700",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "=U5",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "バックアップしたデータとLinux入ったディスク外してWindows10クリーンインストールが安全\nデュアルブート環境だとWindowsがおせっかいしてEFI領域いじっちゃうことがあるから……"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "fba0de72-b387-4e65-bec2-5e045d15296c",
+      "type": "message",
+      "text": "Windowsのシステムイメージのバックアップとか言う機能ついてるけどまともに機能してない",
+      "user": "U01792411FA",
+      "ts": "1594030756.358300",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "+ZJ",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "Windowsのシステムイメージのバックアップとか言う機能ついてるけどまともに機能してない"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "4cc25435-ccf6-4721-8607-b64060b8bcd0",
+      "type": "message",
+      "text": "吹き飛ばす前に一応Windowsパーティションのイメージ保管してるんだけど、復元した試しがない",
+      "user": "UGA29R3FH",
+      "ts": "1594030706.357600",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "COtN",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "吹き飛ばす前に一応Windowsパーティションのイメージ保管してるんだけど、復元した試しがない"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "9926B3A1-B112-4E4A-A9E9-9CC373D9A2CB",
+      "type": "message",
+      "text": "windowsの初期化は...うっ、思い出したくない",
+      "user": "U0GFBAM8U",
+      "ts": "1594030667.357100",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "Z9sf",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "windowsの初期化は...うっ、思い出したくない"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "e4d7c30f-6d44-428c-940e-4ae9d766ea92",
+      "type": "message",
+      "text": "確かpacmanの指示通りに削除してもらった記憶が……",
+      "user": "U01792411FA",
+      "ts": "1594030602.356500",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "OIfsH",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "確かpacmanの指示通りに削除してもらった記憶が……"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "e74b31c4-41b3-4f5e-ab86-4b748a0c771e",
+      "type": "message",
+      "text": "実機もインストールしてるけど、面倒になるとクリーンインストール（往年のWindows初期化と一緒の所業",
+      "user": "U01792411FA",
+      "ts": "1594030526.356000",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "5GJwX",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "実機もインストールしてるけど、面倒になるとクリーンインストール（往年のWindows初期化と一緒の所業"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "1272cd75-e783-46f3-96cf-715401a67b0e",
+      "type": "message",
+      "text": "pacman -Rccもかなりやばいやつ(マネしちゃダメですよ",
+      "user": "U0GFBAM8U",
+      "ts": "1594030075.354300",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "yyx7",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "pacman -Rccもかなりやばいやつ(マネしちゃダメですよ"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "cd1578ff-f1a6-42c9-97db-7dca3b9caf68",
+      "type": "message",
+      "text": "一度壊れちゃうと、クリーンインストールのほうが早い場合がありますよね",
+      "user": "U0GFBAM8U",
+      "ts": "1594030038.353800",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "cwEMM",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "一度壊れちゃうと、クリーンインストールのほうが早い場合がありますよね"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "fe6fbc6b-a739-4b9f-ae97-4a0a6ebc03d6",
+      "type": "message",
+      "text": "クリーンインストール無駄が多いしどうやって対処したらいいのか知りたい",
+      "user": "UGA29R3FH",
+      "ts": "1594029946.353300",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "BNQD",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "クリーンインストール無駄が多いしどうやって対処したらいいのか知りたい"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "99a357c5-8b3c-49b2-99d3-e60ce36ab061",
+      "type": "message",
+      "text": "丸ごとスクリプトでクリーンインストール（一番参考にならないやつ）",
+      "user": "UGA29R3FH",
+      "ts": "1594029843.352800",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "HshP",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "丸ごとスクリプトでクリーンインストール（一番参考にならないやつ）"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "2ce9d6bf-d1ae-4460-b0c0-22475a43d26a",
+      "type": "message",
+      "text": "多分、これ。過去ログでも言及された\n<https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1593750358121600>",
+      "user": "U0GFBAM8U",
+      "ts": "1594029570.352300",
+      "team": "T0GFBAM8C",
+      "attachments": [
+        {
+          "from_url": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1593750358121600",
+          "fallback": "[July 2nd, 2020 9:25 PM] aruneko99: あれ、 `xorg-font-utils` が無くなって依存関係が解決できないせいでもろもろのフォントがインストールできなくなってる...",
+          "ts": "1593750358.121600",
+          "author_id": "U0HJ7EB9T",
+          "author_subname": "aruneko99",
+          "channel_id": "C0GFH3RHU",
+          "channel_name": "random",
+          "is_msg_unfurl": true,
+          "text": "あれ、 `xorg-font-utils` が無くなって依存関係が解決できないせいでもろもろのフォントがインストールできなくなってる...",
+          "author_name": "aruneko99",
+          "author_link": "https://archlinuxjp.slack.com/team/U0HJ7EB9T",
+          "author_icon": "https://avatars.slack-edge.com/2017-08-23/229932114416_ca48bb36d6cfe3d998ac_48.png",
+          "mrkdwn_in": [
+            "text"
+          ],
+          "id": 1,
+          "original_url": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1593750358121600",
+          "footer": "#random に投稿"
+        }
+      ],
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "Az6oc",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "多分、これ。過去ログでも言及された\n"
+                },
+                {
+                  "type": "link",
+                  "url": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1593750358121600"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "26e352ce-5128-4fa9-ade3-36cefaa245f0",
+      "type": "message",
+      "text": "最近、xorg-fonts関連で依存がどうのこうの言われたので\n```$ pacman -Rcc xorg-fonts-alias```\nしました。(これでいいのかはわからない\n皆さんはどのような感じで対応されましたか?",
+      "user": "U0GFBAM8U",
+      "ts": "1594029477.351700",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "4nVN",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "最近、xorg-fonts関連で依存がどうのこうの言われたので\n"
+                }
+              ]
+            },
+            {
+              "type": "rich_text_preformatted",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "$ pacman -Rcc xorg-fonts-alias"
+                }
+              ]
+            },
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "しました。(これでいいのかはわからない\n皆さんはどのような感じで対応されましたか?"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "DFA0A573-5004-4C19-867F-E82C078912B3",
+      "type": "message",
+      "text": "こんにちはー",
+      "user": "U0GFBAM8U",
+      "ts": "1594027537.350000",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "+t/o",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "こんにちはー"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "392a5130-3453-4d1c-9a39-6d899c69ce58",
+      "type": "message",
+      "text": "こんにちはー、なんとなく参加してみました",
+      "user": "U01792411FA",
+      "ts": "1594006743.348300",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "1Alf",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "こんにちはー、なんとなく参加してみました"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "reactions": [
+        {
+          "name": "archjp",
+          "users": [
+            "UUWBU08TU",
+            "U0PM6EYR1",
+            "U6DL9D3AB",
+            "U3FJYR7MG",
+            "U0HJ7EB9T",
+            "UGA29R3FH",
+            "UCA1NQM5K",
+            "U0125GT9MNX",
+            "UL3J5T649",
+            "URZFHALTT",
+            "UKT90HXU0",
+            "UPL8M8KPT",
+            "U53RAQBCP",
+            "U0GFBAM8U",
+            "U0H9QUFA5",
+            "UJ7P75WB1"
+          ],
+          "count": 16
+        }
+      ]
+    },
+    {
+      "type": "message",
+      "subtype": "channel_join",
+      "ts": "1593971207.347200",
+      "user": "U01792411FA",
+      "text": "<@U01792411FA>さんがチャンネルに参加しました"
+    }
+  ],
+  "has_more": false,
+  "is_limited": true,
+  "pin_count": 16,
+  "channel_actions_ts": null,
+  "channel_actions_count": 0
+}

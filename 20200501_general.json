@@ -1,0 +1,995 @@
+{
+  "ok": true,
+  "latest": "1591013447.000000",
+  "oldest": "1588335047.000000",
+  "messages": [
+    {
+      "client_msg_id": "32c292f8-9b74-4549-ad9e-157fc03dbbec",
+      "type": "message",
+      "text": "VMとかでありがちなのが、resolve.conf が書き換わって、DNSが引けないとかですかね",
+      "user": "U0PM6EYR1",
+      "ts": "1591010840.296100",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "HVTpG",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "VMとかでありがちなのが、resolve.conf が書き換わって、DNSが引けないとかですかね"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "d45efd41-58af-4c5d-9ca2-2e992e49bbc5",
+      "type": "message",
+      "text": "リポジトリも git clone できましたね",
+      "user": "U0PM6EYR1",
+      "ts": "1591010796.295400",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "is/3S",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "リポジトリも git clone できましたね"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "reactions": [
+        {
+          "name": "man-bowing",
+          "users": [
+            "UUD5R0W8G"
+          ],
+          "count": 1
+        }
+      ]
+    },
+    {
+      "client_msg_id": "B6AA0CD5-C580-4760-8D98-77C22098AC38",
+      "type": "message",
+      "text": "本当ですか… 教えて頂き有難う御座います　調べてみます",
+      "user": "UUD5R0W8G",
+      "ts": "1591010379.294800",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "YEKW",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "本当ですか… 教えて頂き有難う御座います　調べてみます"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "cbdfbfcc-220d-483a-9a9d-3f1aa06e4925",
+      "type": "message",
+      "text": "僕のところも繋がります",
+      "user": "USSBNDE68",
+      "ts": "1591010343.294000",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "U3E",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "僕のところも繋がります"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "reactions": [
+        {
+          "name": "man-bowing",
+          "users": [
+            "UUD5R0W8G"
+          ],
+          "count": 1
+        }
+      ]
+    },
+    {
+      "client_msg_id": "e11c2bd5-7fc1-4eeb-afce-1484da48bb4b",
+      "type": "message",
+      "text": "つながりますね",
+      "user": "UUWBU08TU",
+      "ts": "1591010329.293500",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "vWk",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "つながりますね"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "reactions": [
+        {
+          "name": "man-bowing",
+          "users": [
+            "UUD5R0W8G"
+          ],
+          "count": 1
+        }
+      ]
+    },
+    {
+      "client_msg_id": "759B5B33-1201-4969-A76C-2D2869B3328F",
+      "type": "message",
+      "text": "<http://aur.archlinux.org|aur.archlinux.org>にタイムアウトして繋げないのは自分だけでしょうか？",
+      "user": "UUD5R0W8G",
+      "ts": "1591010274.293100",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "xGf",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "link",
+                  "url": "http://aur.archlinux.org",
+                  "text": "aur.archlinux.org"
+                },
+                {
+                  "type": "text",
+                  "text": "にタイムアウトして繋げないのは自分だけでしょうか？"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "53ffc040-aca9-4db5-9096-0cc7b2395da1",
+      "type": "message",
+      "text": "まぁ、根本を修正するなら、configure のタイミングで gcc のバージョンを確認して、fcommon つけるようにするのが正しいのかな",
+      "user": "U0PM6EYR1",
+      "ts": "1590715862.289600",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "FWjQ",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "まぁ、根本を修正するなら、configure のタイミングで gcc のバージョンを確認して、fcommon つけるようにするのが正しいのかな"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "0d44c186-6d3f-4343-8004-b0c554f87f88",
+      "type": "message",
+      "text": ":wakarite:",
+      "user": "U3FJYR7MG",
+      "ts": "1590715581.288500",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "RyMUl",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": ":wakarite:"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "ce0b4d83-7c48-440f-ad10-381eeed27aad",
+      "type": "message",
+      "text": "あと別の人があげた修正例をまんまPRするのって倫理的に気が引けるんですよね・・・",
+      "user": "U70QDFN82",
+      "ts": "1590715484.288300",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "81ylq",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "あと別の人があげた修正例をまんまPRするのって倫理的に気が引けるんですよね・・・"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "0cfba7a2-73d2-477b-ae3f-d31fe0f1b7fe",
+      "type": "message",
+      "text": "PRくれよな!!(このプロジェクトそんなに面倒見てないけど)\nって言ってるけどちゃんとマージしてくれるかすら微妙に心配ですね",
+      "user": "U3FJYR7MG",
+      "ts": "1590715417.287200",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "1oA",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "PRくれよな!!(このプロジェクトそんなに面倒見てないけど)\nって言ってるけどちゃんとマージしてくれるかすら微妙に心配ですね"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "b962afd0-1e94-4b4e-8f22-8d5c791e80b1",
+      "type": "message",
+      "text": "あ、そうですね。それでコンパイルは通るようになります。\nただそれだけなのにupstream側が対応してくれないって話しでした。わかりにくくてすみません。。。",
+      "user": "U70QDFN82",
+      "ts": "1590715253.285900",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "b1jPP",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "あ、そうですね。それでコンパイルは通るようになります。\nただそれだけなのにupstream側が対応してくれないって話しでした。わかりにくくてすみません。。。"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "96b55a2f-f1c1-4d1c-a725-1cb12209c6bb",
+      "type": "message",
+      "text": "実行時マクロ定義ですね",
+      "user": "U0PM6EYR1",
+      "ts": "1590715030.284200",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "se2MT",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "実行時マクロ定義ですね"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "9d639686-b41e-4946-9086-f831c800d139",
+      "type": "message",
+      "text": "<@U70QDFN82> 今手元に arch環境無いから、テストできてないけど、 make install してるところの引数 に `CFLAGS=-fcommon` 足したらどうでしょう\n<https://aur.archlinux.org/cgit/aur.git/tree/PKGBUILD?h=light-git#n31>",
+      "user": "U0PM6EYR1",
+      "ts": "1590714985.283900",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "5WnBA",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "user",
+                  "user_id": "U70QDFN82"
+                },
+                {
+                  "type": "text",
+                  "text": " 今手元に arch環境無いから、テストできてないけど、 make install してるところの引数 に "
+                },
+                {
+                  "type": "text",
+                  "text": "CFLAGS=-fcommon",
+                  "style": {
+                    "code": true
+                  }
+                },
+                {
+                  "type": "text",
+                  "text": " 足したらどうでしょう\n"
+                },
+                {
+                  "type": "link",
+                  "url": "https://aur.archlinux.org/cgit/aur.git/tree/PKGBUILD?h=light-git#n31"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "bda0949d-fcc6-4191-a7b1-121aef0d3e63",
+      "type": "message",
+      "text": "これが原因でAURのlight-gitがここ１週間ずっとビルドエラーになるのつらい・・・\n<https://github.com/haikarainen/light/issues/107>",
+      "user": "U70QDFN82",
+      "ts": "1590713207.281800",
+      "team": "T0GFBAM8C",
+      "attachments": [
+        {
+          "service_name": "GitHub",
+          "title": "gcc 10 fails with - multiple definition of `light_loglevel' · Issue #107 · haikarainen/light",
+          "title_link": "https://github.com/haikarainen/light/issues/107",
+          "text": "There is a problem with building light using gcc 10. make[2]: Leaving directory &amp;#39;/builddir/build/BUILD/light-1.2.1/src&amp;#39; /usr/bin/ld: light-light.o:/builddir/build/BUILD/light-1.2.1/src/help...",
+          "fallback": "GitHub: gcc 10 fails with - multiple definition of `light_loglevel' · Issue #107 · haikarainen/light",
+          "thumb_url": "https://avatars1.githubusercontent.com/u/850310?s=400&v=4",
+          "from_url": "https://github.com/haikarainen/light/issues/107",
+          "thumb_width": 420,
+          "thumb_height": 420,
+          "service_icon": "https://a.slack-edge.com/80588/img/unfurl_icons/github.png",
+          "id": 1,
+          "original_url": "https://github.com/haikarainen/light/issues/107"
+        }
+      ],
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "rSsy",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "これが原因でAURのlight-gitがここ１週間ずっとビルドエラーになるのつらい・・・\n"
+                },
+                {
+                  "type": "link",
+                  "url": "https://github.com/haikarainen/light/issues/107"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "c17cbd50-16d0-4fc2-869f-e3be9c7156d7",
+      "type": "message",
+      "text": "Gitlab構築中の皆様へ\n日本語Wikiの更新が遅れているのでUnicornからPumaに変更についての情報が欠けています。\nおそらく日本語Wikiを参照しても構築は難しいと思います。\nよろしくおねがいします。",
+      "user": "U7NBCFT1S",
+      "ts": "1590542315.280500",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "Kk3i",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "Gitlab構築中の皆様へ\n日本語Wikiの更新が遅れているのでUnicornからPumaに変更についての情報が欠けています。\nおそらく日本語Wikiを参照しても構築は難しいと思います。\nよろしくおねがいします。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "reactions": [
+        {
+          "name": "eyes",
+          "users": [
+            "U53RAQBCP"
+          ],
+          "count": 1
+        },
+        {
+          "name": "bow",
+          "users": [
+            "UUWBU08TU"
+          ],
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "message",
+      "subtype": "channel_join",
+      "ts": "1590109541.278000",
+      "user": "U014G414FLZ",
+      "text": "<@U014G414FLZ>さんがチャンネルに参加しました"
+    },
+    {
+      "type": "message",
+      "subtype": "channel_join",
+      "ts": "1589696783.277600",
+      "user": "U013L1JQ0J2",
+      "text": "<@U013L1JQ0J2>さんがチャンネルに参加しました"
+    },
+    {
+      "type": "message",
+      "subtype": "channel_join",
+      "ts": "1589642324.277400",
+      "user": "U013KL91BV4",
+      "text": "<@U013KL91BV4>さんがチャンネルに参加しました",
+      "reactions": [
+        {
+          "name": "muscle",
+          "users": [
+            "UHBE4FUJV"
+          ],
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "message",
+      "subtype": "thread_broadcast",
+      "text": "なんかまた頻発かつ長距離移動するようになってきた。。。つらい・・・",
+      "user": "U70QDFN82",
+      "ts": "1589201278.272300",
+      "thread_ts": "1587613691.203000",
+      "root": {
+        "client_msg_id": "865ec75b-0816-44de-a4c9-071cdd1fe55b",
+        "type": "message",
+        "text": "カーソルがある地点を目指して自動で進んでいくんですよねw そこに到達するまでカーソルのコントロールができなくなりますw\n\nさっきカーネルの更新したら今のところ発生しなくなりましたね。",
+        "user": "U70QDFN82",
+        "ts": "1587613691.203000",
+        "team": "T0GFBAM8C",
+        "blocks": [
+          {
+            "type": "rich_text",
+            "block_id": "zb1T",
+            "elements": [
+              {
+                "type": "rich_text_section",
+                "elements": [
+                  {
+                    "type": "text",
+                    "text": "カーソルがある地点を目指して自動で進んでいくんですよねw そこに到達するまでカーソルのコントロールができなくなりますw\n\nさっきカーネルの更新したら今のところ発生しなくなりましたね。"
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "thread_ts": "1587613691.203000",
+        "reply_count": 12,
+        "reply_users_count": 2,
+        "latest_reply": "1589336698.276700",
+        "reply_users": [
+          "U70QDFN82",
+          "U6Y9PK6DB"
+        ],
+        "is_locked": false,
+        "subscribed": false
+      },
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "7R4",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "なんかまた頻発かつ長距離移動するようになってきた。。。つらい・・・"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "client_msg_id": "99159451-473b-4be9-b299-f04691a5497a",
+      "reactions": [
+        {
+          "name": "eyes",
+          "users": [
+            "U53RAQBCP"
+          ],
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "message",
+      "subtype": "channel_join",
+      "ts": "1589196271.272200",
+      "user": "U01370MAHLN",
+      "text": "<@U01370MAHLN>さんがチャンネルに参加しました"
+    },
+    {
+      "type": "message",
+      "subtype": "channel_join",
+      "ts": "1589004406.272000",
+      "user": "U013AD25ULD",
+      "text": "<@U013AD25ULD>さんがチャンネルに参加しました"
+    },
+    {
+      "client_msg_id": "222cd28c-9290-4439-b72f-a4a63e788047",
+      "type": "message",
+      "text": "ベンチ取ったことはないので正確には分かりませんが\n<https://liquorix.net>\nを見る限りハードウェア制御周りは結構チューニングされているようです\n少なくとも重くなった感じはありませんね",
+      "user": "UVB7L4CKH",
+      "ts": "1588994509.271600",
+      "team": "T0GFBAM8C",
+      "attachments": [
+        {
+          "title": "Liquorix Kernel",
+          "title_link": "https://liquorix.net/",
+          "text": "Kernel package optimized for Debian Unstable",
+          "fallback": "Liquorix Kernel",
+          "from_url": "https://liquorix.net/",
+          "service_icon": "https://liquorix.net/images/xapple-touch-icon-57x57.png.pagespeed.ic.kV9coEkIf2.png",
+          "service_name": "liquorix.net",
+          "id": 1,
+          "original_url": "https://liquorix.net"
+        }
+      ],
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "/JCz",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "ベンチ取ったことはないので正確には分かりませんが\n"
+                },
+                {
+                  "type": "link",
+                  "url": "https://liquorix.net"
+                },
+                {
+                  "type": "text",
+                  "text": "\nを見る限りハードウェア制御周りは結構チューニングされているようです\n少なくとも重くなった感じはありませんね"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "reactions": [
+        {
+          "name": "man-bowing",
+          "users": [
+            "U70QDFN82"
+          ],
+          "count": 1
+        }
+      ]
+    },
+    {
+      "client_msg_id": "8d029858-a6ba-4845-bfef-9429089abba4",
+      "type": "message",
+      "text": "zen前から興味あるんですが体感で結構パフォーマンス違うものですか？？",
+      "user": "U70QDFN82",
+      "ts": "1588994208.270700",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "Od7",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "zen前から興味あるんですが体感で結構パフォーマンス違うものですか？？"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "a57e470e-a405-46db-a5ff-c63bb8efad50",
+      "type": "message",
+      "text": "今まさにするの忘れてて焦ってたんですけど、ちゃんと起動してくれました",
+      "user": "U0108ASA482",
+      "ts": "1588992894.270000",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "s+jG",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "今まさにするの忘れてて焦ってたんですけど、ちゃんと起動してくれました"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "b7f1598c-4e37-4244-ab43-cd4328c515d1",
+      "type": "message",
+      "text": "bootctl updateも特にやらなくて大丈夫かと\n起動時にentries配下勝手に読んでくれる(はず)ので",
+      "user": "U3FJYR7MG",
+      "ts": "1588991764.269100",
+      "team": "T0GFBAM8C",
+      "edited": {
+        "user": "U3FJYR7MG",
+        "ts": "1588991784.000000"
+      },
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "Exyo",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "bootctl updateも特にやらなくて大丈夫かと\n起動時にentries配下勝手に読んでくれる(はず)ので"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "ffb599ae-8151-48e1-a41a-b1882c9f1b8e",
+      "type": "message",
+      "text": "カーネルを追加されるならついでにLTSカーネルも入れておくとカーネル依存の不具合があった時に便利ですよ\n最新カーネルは時々起動しなくなったりしますから",
+      "user": "UVB7L4CKH",
+      "ts": "1588990981.267000",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "a9gi",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "カーネルを追加されるならついでにLTSカーネルも入れておくとカーネル依存の不具合があった時に便利ですよ\n最新カーネルは時々起動しなくなったりしますから"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "7026fa2e-04f0-4b45-acbf-36903b59e294",
+      "type": "message",
+      "text": "ありがとうございます！早速インストールしてみます",
+      "user": "U0108ASA482",
+      "ts": "1588990558.265500",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "03J3",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "ありがとうございます！早速インストールしてみます"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "cae29dd5-d12b-47ed-9b0b-ea3090f48ea9",
+      "type": "message",
+      "text": "確か自動でHookが設定されているのでいらなかったはずです",
+      "user": "UVB7L4CKH",
+      "ts": "1588990476.265100",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "DghY7",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "確か自動でHookが設定されているのでいらなかったはずです"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "a38e406e-84fd-44ac-8b27-013675f3d00a",
+      "type": "message",
+      "text": "あ、`mkinitcpio -p linux-zen`　も要るんでしょうか",
+      "user": "U0108ASA482",
+      "ts": "1588990360.264400",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "itZZ",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "あ、"
+                },
+                {
+                  "type": "text",
+                  "text": "mkinitcpio -p linux-zen",
+                  "style": {
+                    "code": true
+                  }
+                },
+                {
+                  "type": "text",
+                  "text": "　も要るんでしょうか"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "812a1501-3702-466d-8a56-e58c95b7ad9a",
+      "type": "message",
+      "text": "ありがとうございます。PARTUUID指定で今動いてるのでやってみます。",
+      "user": "U0108ASA482",
+      "ts": "1588990209.261900",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "SJ8Nw",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "ありがとうございます。PARTUUID指定で今動いてるのでやってみます。"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "87c6f0eb-b935-4949-8b3a-043b3bba8c7b",
+      "type": "message",
+      "text": "デフォルトのカーネルを消さない限り全く起動しなくなるという事はないはずなので、とりあえずそれで試してみると良いかと",
+      "user": "UVB7L4CKH",
+      "ts": "1588990192.261800",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "RM5=",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "デフォルトのカーネルを消さない限り全く起動しなくなるという事はないはずなので、とりあえずそれで試してみると良いかと"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "25c7bce7-dc70-4c63-8f98-493c9f0f0ac2",
+      "type": "message",
+      "text": "optionsの書き方だけ自分と違うのでなんとも言えませんが、他は僕と同じ設定なので、そのoptionsで今のカーネルが動いていればちゃんと動くはずです",
+      "user": "UVB7L4CKH",
+      "ts": "1588990065.259600",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "mCE",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "optionsの書き方だけ自分と違うのでなんとも言えませんが、他は僕と同じ設定なので、そのoptionsで今のカーネルが動いていればちゃんと動くはずです"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "de210654-a123-441c-90ae-0f693146bd2d",
+      "type": "message",
+      "text": "初歩的な質問で申し訳ないのですが…\nzenカーネルを試したいなと思ってます。\n現在systemd-bootを使っているのですが、linux-zenをインストール後に以下のようなローダーを作成して、\n\n`title   arch linux (zen)`\n`linux   /vmlinuz-linux-zen`\n`initrd  /intel-ucode.img\ninitrd  /initramfs-linux-zen.img\noptions root=PARTUUID=xxxx rw`\n\nその後\n`sudo bootctl update`\n\nをすれば使えるようになりますか？\nよろしくお願いします。",
+      "user": "U0108ASA482",
+      "ts": "1588989613.258300",
+      "team": "T0GFBAM8C",
+      "edited": {
+        "user": "U0108ASA482",
+        "ts": "1588990150.000000"
+      },
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "uCrC",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "初歩的な質問で申し訳ないのですが…\nzenカーネルを試したいなと思ってます。\n現在systemd-bootを使っているのですが、linux-zenをインストール後に以下のようなローダーを作成して、\n\n"
+                },
+                {
+                  "type": "text",
+                  "text": "title   arch linux (zen)",
+                  "style": {
+                    "code": true
+                  }
+                },
+                {
+                  "type": "text",
+                  "text": "\n"
+                },
+                {
+                  "type": "text",
+                  "text": "linux   /vmlinuz-linux-zen",
+                  "style": {
+                    "code": true
+                  }
+                },
+                {
+                  "type": "text",
+                  "text": "\n"
+                },
+                {
+                  "type": "text",
+                  "text": "initrd  /intel-ucode.img\n",
+                  "style": {
+                    "code": true
+                  }
+                },
+                {
+                  "type": "text",
+                  "text": "initrd  /initramfs-linux-zen.img\n",
+                  "style": {
+                    "code": true
+                  }
+                },
+                {
+                  "type": "text",
+                  "text": "options root=PARTUUID=xxxx rw\n",
+                  "style": {
+                    "code": true
+                  }
+                },
+                {
+                  "type": "text",
+                  "text": "\nその後\n"
+                },
+                {
+                  "type": "text",
+                  "text": "sudo bootctl update\n",
+                  "style": {
+                    "code": true
+                  }
+                },
+                {
+                  "type": "text",
+                  "text": "\nをすれば使えるようになりますか？\nよろしくお願いします。"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "has_more": false,
+  "is_limited": true,
+  "pin_count": 16,
+  "channel_actions_ts": null,
+  "channel_actions_count": 0
+}

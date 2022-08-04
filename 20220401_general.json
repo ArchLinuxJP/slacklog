@@ -1,0 +1,3588 @@
+{
+  "ok": true,
+  "latest": "1651407074.000000",
+  "oldest": "1648815074.000000",
+  "messages": [
+    {
+      "client_msg_id": "f422997c-faf5-4255-abbe-d6085b279cf8",
+      "type": "message",
+      "text": "ですね。`nvim-qt`ではインライン入力できたので用途によっては代用になるかもしれません",
+      "user": "U02ASPM0A6T",
+      "ts": "1651390012.935999",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "tfTB",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "ですね。"
+                },
+                {
+                  "type": "text",
+                  "text": "nvim-qt",
+                  "style": {
+                    "code": true
+                  }
+                },
+                {
+                  "type": "text",
+                  "text": "ではインライン入力できたので用途によっては代用になるかもしれません"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "56cb4936-0bcf-47ca-b41e-d3b870458e41",
+      "type": "message",
+      "text": "fcitx5側でできないようになってるのですね",
+      "user": "U019C7VLZ4G",
+      "ts": "1651387342.320049",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "RBt+u",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "fcitx5側でできないようになってるのですね"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "message",
+      "subtype": "thread_broadcast",
+      "text": "<@U019C7VLZ4G> どうでしょう？これで解決しました？\n<https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1650325453370199>",
+      "user": "U02ASPM0A6T",
+      "ts": "1651384227.841509",
+      "thread_ts": "1650294340.859539",
+      "root": {
+        "client_msg_id": "3e160d45-14c6-4a36-b882-acac75580d91",
+        "type": "message",
+        "text": "すいません、\n写真では変換キーを押していないだけで変換候補のダイアログはきちんと出ます。\n\n日本語のインライン入力はgvimはバグのせいでできないということでしょうか?",
+        "user": "U019C7VLZ4G",
+        "ts": "1650294340.859539",
+        "team": "T0GFBAM8C",
+        "blocks": [
+          {
+            "type": "rich_text",
+            "block_id": "XZhl",
+            "elements": [
+              {
+                "type": "rich_text_section",
+                "elements": [
+                  {
+                    "type": "text",
+                    "text": "すいません、\n写真では変換キーを押していないだけで変換候補のダイアログはきちんと出ます。\n\n日本語のインライン入力はgvimはバグのせいでできないということでしょうか?"
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "thread_ts": "1650294340.859539",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1651384227.841509",
+        "reply_users": [
+          "U02ASPM0A6T"
+        ],
+        "is_locked": false,
+        "subscribed": false
+      },
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "9n9QQ",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "user",
+                  "user_id": "U019C7VLZ4G"
+                },
+                {
+                  "type": "text",
+                  "text": " どうでしょう？これで解決しました？\n"
+                },
+                {
+                  "type": "link",
+                  "url": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1650325453370199"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "client_msg_id": "aba8a7d0-e9e0-4b1f-9e0f-6fa5c2d22a90"
+    },
+    {
+      "type": "message",
+      "subtype": "channel_join",
+      "ts": "1651347166.203679",
+      "user": "U03EBB8U924",
+      "text": "<@U03EBB8U924>さんがチャンネルに参加しました",
+      "reactions": [
+        {
+          "name": "archjp-joy",
+          "users": [
+            "U02ASPM0A6T",
+            "U0GFBAM8U",
+            "U02HC93TJEP",
+            "U01HE1ENNJZ"
+          ],
+          "count": 4
+        }
+      ]
+    },
+    {
+      "client_msg_id": "a3bd0512-72b4-48f1-a56a-8cc07995c9c9",
+      "type": "message",
+      "text": "知る限りないですね。自分用に作ろうとは思っていますが。",
+      "user": "UUWBU08TU",
+      "ts": "1651239119.434439",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "x3SD",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "知る限りないですね。自分用に作ろうとは思っていますが。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "reactions": [
+        {
+          "name": "+1",
+          "users": [
+            "U015CDRQDD0"
+          ],
+          "count": 1
+        }
+      ]
+    },
+    {
+      "client_msg_id": "2A11F7A9-1C95-4A28-88D1-7857F9E74517",
+      "type": "message",
+      "text": "質問なんですがarchlinuxcnみたいに非公式のリポジトリってacrchlinuxjpで運用されてたりするのでしょうか？",
+      "user": "U015CDRQDD0",
+      "ts": "1651239073.613479",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "iHcO8",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "質問なんですがarchlinuxcnみたいに非公式のリポジトリってacrchlinuxjpで運用されてたりするのでしょうか？"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "message",
+      "subtype": "channel_join",
+      "ts": "1650809883.737049",
+      "user": "U03D2HTU60H",
+      "text": "<@U03D2HTU60H>さんがチャンネルに参加しました",
+      "reactions": [
+        {
+          "name": "archjp-joy",
+          "users": [
+            "U02ASPM0A6T",
+            "U0GFBAM8U",
+            "UGA29R3FH",
+            "U01HE1ENNJZ"
+          ],
+          "count": 4
+        }
+      ]
+    },
+    {
+      "client_msg_id": "b055285a-15eb-412d-812b-7aef2e82b3fa",
+      "type": "message",
+      "text": "<https://forums.debian.net/viewtopic.php?p=753391>\n<https://www.virtualbox.org/ticket/20904>\nVirtualbox、起動しなくなってますね。",
+      "user": "U0H9QUFA5",
+      "ts": "1650523247.710049",
+      "team": "T0GFBAM8C",
+      "edited": {
+        "user": "U0H9QUFA5",
+        "ts": "1650523275.000000"
+      },
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "nV=",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "link",
+                  "url": "https://forums.debian.net/viewtopic.php?p=753391"
+                },
+                {
+                  "type": "text",
+                  "text": "\n"
+                },
+                {
+                  "type": "link",
+                  "url": "https://www.virtualbox.org/ticket/20904"
+                },
+                {
+                  "type": "text",
+                  "text": "\nVirtualbox、起動しなくなってますね。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "thread_ts": "1650523247.710049",
+      "reply_count": 1,
+      "reply_users_count": 1,
+      "latest_reply": "1650939279.784129",
+      "reply_users": [
+        "U0H9QUFA5"
+      ],
+      "is_locked": false,
+      "subscribed": false,
+      "reactions": [
+        {
+          "name": "scream",
+          "users": [
+            "UGA29R3FH"
+          ],
+          "count": 1
+        }
+      ]
+    },
+    {
+      "client_msg_id": "f27173b5-dc1d-410a-bcc7-0788bfadb1ff",
+      "type": "message",
+      "text": "uimでできたよなーとか思ってたけどそういうことか(うっすらハードコードされてたと聞いた記憶もあった)",
+      "user": "UGA29R3FH",
+      "ts": "1650329506.651249",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "LBM",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "uimでできたよなーとか思ってたけどそういうことか(うっすらハードコードされてたと聞いた記憶もあった)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "28cfb41d-c3a2-453c-90cf-9803576ea397",
+      "type": "message",
+      "text": "メモリリーク起こすからgvimでは使えないようにした ってことみたいですね",
+      "user": "U02ASPM0A6T",
+      "ts": "1650325859.287649",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "kiv",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "メモリリーク起こすからgvimでは使えないようにした ってことみたいですね"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "4ab3c13f-0069-43f9-b539-9b9ddaad0306",
+      "type": "message",
+      "text": "ああなるほど。元々のカーソル部分で入力表示が続行されないってことですね。それはこちらでもそうでした\nなんかgvim名指しして明示的にできないようにしているような\n• <https://github.com/fcitx/fcitx/blob/289b2f674d95651d4e0d0c77a48e3a2f0da40efe/CMakeLists.txt#L55>\n• <https://github.com/fcitx/fcitx/issues/364>",
+      "user": "U02ASPM0A6T",
+      "ts": "1650325453.370199",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "4SD",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "ああなるほど。元々のカーソル部分で入力表示が続行されないってことですね。それはこちらでもそうでした\nなんかgvim名指しして明示的にできないようにしているような\n"
+                }
+              ]
+            },
+            {
+              "type": "rich_text_list",
+              "elements": [
+                {
+                  "type": "rich_text_section",
+                  "elements": [
+                    {
+                      "type": "link",
+                      "url": "https://github.com/fcitx/fcitx/blob/289b2f674d95651d4e0d0c77a48e3a2f0da40efe/CMakeLists.txt#L55"
+                    }
+                  ]
+                },
+                {
+                  "type": "rich_text_section",
+                  "elements": [
+                    {
+                      "type": "link",
+                      "url": "https://github.com/fcitx/fcitx/issues/364"
+                    }
+                  ]
+                }
+              ],
+              "style": "bullet",
+              "indent": 0,
+              "border": 0
+            }
+          ]
+        }
+      ],
+      "reactions": [
+        {
+          "name": "+1",
+          "users": [
+            "U0H9QUFA5"
+          ],
+          "count": 1
+        }
+      ]
+    },
+    {
+      "client_msg_id": "3e160d45-14c6-4a36-b882-acac75580d91",
+      "type": "message",
+      "text": "すいません、\n写真では変換キーを押していないだけで変換候補のダイアログはきちんと出ます。\n\n日本語のインライン入力はgvimはバグのせいでできないということでしょうか?",
+      "user": "U019C7VLZ4G",
+      "ts": "1650294340.859539",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "XZhl",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "すいません、\n写真では変換キーを押していないだけで変換候補のダイアログはきちんと出ます。\n\n日本語のインライン入力はgvimはバグのせいでできないということでしょうか?"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "thread_ts": "1650294340.859539",
+      "reply_count": 1,
+      "reply_users_count": 1,
+      "latest_reply": "1651384227.841509",
+      "reply_users": [
+        "U02ASPM0A6T"
+      ],
+      "is_locked": false,
+      "subscribed": false
+    },
+    {
+      "type": "message",
+      "text": "何でしょうね。こちらのsway環境では変換候補表示できています\n`pacman -Syyuu fcitx5-im`で入れ直してもだめですかね？",
+      "files": [
+        {
+          "id": "F03C5BSD8TT",
+          "created": 1650198730,
+          "timestamp": 1650198730,
+          "name": "image.png",
+          "title": "image.png",
+          "mimetype": "image/png",
+          "filetype": "png",
+          "pretty_type": "PNG",
+          "user": "U02ASPM0A6T",
+          "editable": false,
+          "size": 54631,
+          "mode": "hosted",
+          "is_external": false,
+          "external_type": "",
+          "is_public": true,
+          "public_url_shared": false,
+          "display_as_bot": false,
+          "username": "",
+          "url_private": "https://files.slack.com/files-pri/T0GFBAM8C-F03C5BSD8TT/image.png",
+          "url_private_download": "https://files.slack.com/files-pri/T0GFBAM8C-F03C5BSD8TT/download/image.png",
+          "media_display_type": "unknown",
+          "thumb_64": "https://files.slack.com/files-tmb/T0GFBAM8C-F03C5BSD8TT-270a994306/image_64.png",
+          "thumb_80": "https://files.slack.com/files-tmb/T0GFBAM8C-F03C5BSD8TT-270a994306/image_80.png",
+          "thumb_360": "https://files.slack.com/files-tmb/T0GFBAM8C-F03C5BSD8TT-270a994306/image_360.png",
+          "thumb_360_w": 342,
+          "thumb_360_h": 360,
+          "thumb_160": "https://files.slack.com/files-tmb/T0GFBAM8C-F03C5BSD8TT-270a994306/image_160.png",
+          "original_w": 442,
+          "original_h": 465,
+          "thumb_tiny": "AwAwAC24yRxoZGztHWoftFtn+P8A75qW6/483+lZWfdqVkO5o/abb/a/75qBxZu5YmTJOeBVM9eM0UWsIvRwWkrhFMmffipTp8H+1+dVrDP2pTnsa1GpgQXX/Hm/0rKz/tGta6ybN8elZWH56/lQAyin7WPUH8qMMOx/KgCbT/8Aj7X6GtVqy7AN9qBII4PatRqABfuilpiuu0fMv50u9P7y/nQA6im70/vL+dG9P7y/nQA6kak3p/eX86RnX+8v50Af/9k=",
+          "permalink": "https://archlinuxjp.slack.com/files/U02ASPM0A6T/F03C5BSD8TT/image.png",
+          "permalink_public": "https://slack-files.com/T0GFBAM8C-F03C5BSD8TT-119018509f",
+          "is_starred": false,
+          "has_rich_preview": false
+        }
+      ],
+      "upload": false,
+      "user": "U02ASPM0A6T",
+      "display_as_bot": false,
+      "ts": "1650198848.306199",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "RyqqJ",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "何でしょうね。こちらのsway環境では変換候補表示できています\n"
+                },
+                {
+                  "type": "text",
+                  "text": "pacman -Syyuu fcitx5-im",
+                  "style": {
+                    "code": true
+                  }
+                },
+                {
+                  "type": "text",
+                  "text": "で入れ直してもだめですかね？"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "client_msg_id": "92924d2f-1014-43e9-9d63-22fe829faefa"
+    },
+    {
+      "type": "message",
+      "text": "インライン入力できないのでこんな状態です",
+      "files": [
+        {
+          "id": "F03BBRXSVNK",
+          "created": 1650176361,
+          "timestamp": 1650176361,
+          "name": "image.png",
+          "title": "image.png",
+          "mimetype": "image/png",
+          "filetype": "png",
+          "pretty_type": "PNG",
+          "user": "U019C7VLZ4G",
+          "editable": false,
+          "size": 15721,
+          "mode": "hosted",
+          "is_external": false,
+          "external_type": "",
+          "is_public": true,
+          "public_url_shared": false,
+          "display_as_bot": false,
+          "username": "",
+          "url_private": "https://files.slack.com/files-pri/T0GFBAM8C-F03BBRXSVNK/image.png",
+          "url_private_download": "https://files.slack.com/files-pri/T0GFBAM8C-F03BBRXSVNK/download/image.png",
+          "media_display_type": "unknown",
+          "thumb_64": "https://files.slack.com/files-tmb/T0GFBAM8C-F03BBRXSVNK-1b2454bf4f/image_64.png",
+          "thumb_80": "https://files.slack.com/files-tmb/T0GFBAM8C-F03BBRXSVNK-1b2454bf4f/image_80.png",
+          "thumb_360": "https://files.slack.com/files-tmb/T0GFBAM8C-F03BBRXSVNK-1b2454bf4f/image_360.png",
+          "thumb_360_w": 360,
+          "thumb_360_h": 243,
+          "thumb_480": "https://files.slack.com/files-tmb/T0GFBAM8C-F03BBRXSVNK-1b2454bf4f/image_480.png",
+          "thumb_480_w": 480,
+          "thumb_480_h": 323,
+          "thumb_160": "https://files.slack.com/files-tmb/T0GFBAM8C-F03BBRXSVNK-1b2454bf4f/image_160.png",
+          "original_w": 604,
+          "original_h": 407,
+          "thumb_tiny": "AwAgADCptH+TRtH59Oa3Ng7BfyoCDHIGfpQBh4X3/OjaP8mt3av90flRtX+6PyoAwcUbf85re2r/AHR+VG1f7o/KgBaKKKACiiigAooooA//2Q==",
+          "permalink": "https://archlinuxjp.slack.com/files/U019C7VLZ4G/F03BBRXSVNK/image.png",
+          "permalink_public": "https://slack-files.com/T0GFBAM8C-F03BBRXSVNK-4087a67528",
+          "is_starred": false,
+          "has_rich_preview": false
+        }
+      ],
+      "upload": false,
+      "user": "U019C7VLZ4G",
+      "display_as_bot": false,
+      "ts": "1650176384.245709",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "wN56",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "インライン入力できないのでこんな状態です"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "client_msg_id": "652b0550-9b4a-4c72-a911-c26b5deedb3e",
+      "reactions": [
+        {
+          "name": "thinking_face",
+          "users": [
+            "U02ASPM0A6T"
+          ],
+          "count": 1
+        }
+      ]
+    },
+    {
+      "client_msg_id": "9b817c42-423a-4ea4-80dd-b3cddfcac9a5",
+      "type": "message",
+      "text": "`fcitx5-diagnose` で出てくるgvimに関連しそうな問題はほとんどないですが強いていうと\ngtk2/gtk4のところの\n**Cannot find immodules cache for gtk 2**\nCannot find fcitx5 im module for gtk 2 in cache.**\nぐらいでしょうか",
+      "user": "U019C7VLZ4G",
+      "ts": "1650176275.345979",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "p0HA",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "fcitx5-diagnose",
+                  "style": {
+                    "code": true
+                  }
+                },
+                {
+                  "type": "text",
+                  "text": " で出てくるgvimに関連しそうな問題はほとんどないですが強いていうと\ngtk2/gtk4のところの\n**Cannot find immodules cache for gtk 2**\nCannot find fcitx5 im module for gtk 2 in cache.**\nぐらいでしょうか"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "983178ab-d151-496b-97cb-65c02ec62d55",
+      "type": "message",
+      "text": "ローカル環境のgvimではgtkの挙動が変でウィンドウを移動しないとテキストエリアが見えないようなことになってはいますが、変換候補を表示して入力はできます\n`fcitx5-diagnose`で出てくる問題らしきものは一通りクリアーしました？",
+      "user": "U02ASPM0A6T",
+      "ts": "1650159641.711669",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "UFjg1",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "ローカル環境のgvimではgtkの挙動が変でウィンドウを移動しないとテキストエリアが見えないようなことになってはいますが、変換候補を表示して入力はできます\n"
+                },
+                {
+                  "type": "text",
+                  "text": "fcitx5-diagnose",
+                  "style": {
+                    "code": true
+                  }
+                },
+                {
+                  "type": "text",
+                  "text": "で出てくる問題らしきものは一通りクリアーしました？"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "aa4890df-8092-43f0-b56f-a39a07aa464c",
+      "type": "message",
+      "text": "waylandを使っています",
+      "user": "U019C7VLZ4G",
+      "ts": "1650156113.450649",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "YYJSL",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "waylandを使っています"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "c6e2ea03-d9c3-43b3-b83f-8000d3ceb7eb",
+      "type": "message",
+      "text": "fcitx5でgvimでインライン入力ができないのですが解決方法はないでしょうか?\nvim -gfで起動してもインラインできない状況です",
+      "user": "U019C7VLZ4G",
+      "ts": "1650155549.963749",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "rNJB",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "fcitx5でgvimでインライン入力ができないのですが解決方法はないでしょうか?\nvim -gfで起動してもインラインできない状況です"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "3525e409-8916-4d51-bfd5-632e9ca36f53",
+      "type": "message",
+      "text": "VirtualboxにOpenSUSE / KDE入れてみましたが、同様の現象は再現して、Linux Mint / xfce入れても再現しました。やっぱ、サンドボックスだと復元難しいのかもしれないですね。。。",
+      "user": "U2YNMHCTV",
+      "ts": "1650086313.871639",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "XH6Ii",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "VirtualboxにOpenSUSE / KDE入れてみましたが、同様の現象は再現して、Linux Mint / xfce入れても再現しました。やっぱ、サンドボックスだと復元難しいのかもしれないですね。。。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "reactions": [
+        {
+          "name": "naruhodo",
+          "users": [
+            "U02ASPM0A6T"
+          ],
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "message",
+      "text": "あ、すみません。pacman とかの discord でも復元されないと読み間違えてました……",
+      "user": "U257W41DW",
+      "ts": "1650074986.402409",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "s99N",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "あ、すみません。pacman とかの discord でも復元されないと読み間違えてました……"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "93ff7a95-1712-4d1f-8687-47dd5ad2cb59",
+      "type": "message",
+      "text": "情報ありがとうございます。pacmanで入れたDiscordや、公式からダウンロードしたtar.gzを展開したDiscordでは、セッション復元ができていたので、Electronが悪いというよりは、flatpakが怪しい気がしています。",
+      "user": "U2YNMHCTV",
+      "ts": "1650074892.986759",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "f=16",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "情報ありがとうございます。pacmanで入れたDiscordや、公式からダウンロードしたtar.gzを展開したDiscordでは、セッション復元ができていたので、Electronが悪いというよりは、flatpakが怪しい気がしています。"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "message",
+      "text": "<https://github.com/electron/electron/issues/20822>\nこれを見るに electron 製アプリは基本的にセッション復元サポートしてないのかも",
+      "user": "U257W41DW",
+      "ts": "1650074417.365499",
+      "team": "T0GFBAM8C",
+      "attachments": [
+        {
+          "from_url": "https://github.com/electron/electron/issues/20822",
+          "image_url": "https://opengraph.githubassets.com/a4e353c9a5fa19b65beb63f835e31c62c2c0d656698fccdf7d802978124f79d4/electron/electron/issues/20822",
+          "image_width": 500,
+          "image_height": 250,
+          "image_bytes": 78629,
+          "service_icon": "https://a.slack-edge.com/80588/img/unfurl_icons/github.png",
+          "id": 1,
+          "original_url": "https://github.com/electron/electron/issues/20822",
+          "fallback": "GitHub: Electron app is not brought back on X11 session restore · Issue #20822 · electron/electron",
+          "text": "Tested on: Electron version: 6.0.1 and up (edit: last checked 7.1.1) Operating system: Ubuntu 18.04.1 Expected behavior Electron based applications are brought back on X11 session restore Actual be...",
+          "title": "Electron app is not brought back on X11 session restore · Issue #20822 · electron/electron",
+          "title_link": "https://github.com/electron/electron/issues/20822",
+          "service_name": "GitHub"
+        }
+      ],
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "2gjtS",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "link",
+                  "url": "https://github.com/electron/electron/issues/20822"
+                },
+                {
+                  "type": "text",
+                  "text": "\nこれを見るに electron 製アプリは基本的にセッション復元サポートしてないのかも"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "message",
+      "text": "X11 環境の場合 ICCCM か XSMP によるセッション管理をしてるらしいので、アプリが対応してない場合はセッション復元できない気がする。",
+      "user": "U257W41DW",
+      "ts": "1650073837.001499",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "3RS",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "X11 環境の場合 ICCCM か XSMP によるセッション管理をしてるらしいので、アプリが対応してない場合はセッション復元できない気がする。"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "c67a67b7-3407-4a68-a803-5e6d801a4ede",
+      "type": "message",
+      "text": "&gt;  AURとかでないんですか\nあるかもしれないけど、そもそもrootでシステムに入れなくていいものでは、と思って、pacman/AUR以外のパッケージシステムを探しました。\n\n&gt;  サンドボックスですから\nそこらへんが悪さをしているような予感はします(なので、KDE特有の問題なのか、一体どこを探れば解決しそうなのかを知りたいです)",
+      "user": "U2YNMHCTV",
+      "ts": "1650073296.853349",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "ZxmG",
+          "elements": [
+            {
+              "type": "rich_text_quote",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": " AURとかでないんですか"
+                }
+              ]
+            },
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "あるかもしれないけど、そもそもrootでシステムに入れなくていいものでは、と思って、pacman/AUR以外のパッケージシステムを探しました。\n\n"
+                }
+              ]
+            },
+            {
+              "type": "rich_text_quote",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": " サンドボックスですから"
+                }
+              ]
+            },
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "そこらへんが悪さをしているような予感はします(なので、KDE特有の問題なのか、一体どこを探れば解決しそうなのかを知りたいです)"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "reactions": [
+        {
+          "name": "eyes",
+          "users": [
+            "UUWBU08TU"
+          ],
+          "count": 1
+        }
+      ]
+    },
+    {
+      "client_msg_id": "04b1d1fa-d21a-417b-8fee-68cef70cc573",
+      "type": "message",
+      "text": "ちなみに僕もその一回で盛大に泣きを見たので渋々flatpak使ってます",
+      "user": "UVB7L4CKH",
+      "ts": "1650073153.323739",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "hcMyO",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "ちなみに僕もその一回で盛大に泣きを見たので渋々flatpak使ってます"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "eb59e4e0-424f-4f0c-b371-793cf3340126",
+      "type": "message",
+      "text": "なるほどー。AURとかでないんですかね？と思ったけどcommunityに入ってるからちょうどよさそうなのはないか……",
+      "user": "UUWBU08TU",
+      "ts": "1650073117.124579",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "Z0t",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "なるほどー。AURとかでないんですかね？と思ったけどcommunityに入ってるからちょうどよさそうなのはないか……"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "6eca9cc9-83b4-404b-85a4-f616dbdfcd25",
+      "type": "message",
+      "text": "flatpak、サンドボックスですからね、ホストのセッションからは見えてないんじゃないでしょうか",
+      "user": "UVB7L4CKH",
+      "ts": "1650073100.537259",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "nbJap",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "flatpak、サンドボックスですからね、ホストのセッションからは見えてないんじゃないでしょうか"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "5c7e38e2-711d-4d54-9c65-98a88579bf44",
+      "type": "message",
+      "text": "&gt; 公式のアップデートに追従しきれなくて繋がらない事が時々ある\nまさにその理由で、pacmanじゃないユーザサイドで入れられる方法がほしくてflatpakを導入しました。\npacmanで入れたDiscordや、zipだかtar.gzだかを展開してホームディレクトリに自分で置いたDiscordでは復元されない問題が発生しないことは確認済みです。",
+      "user": "U2YNMHCTV",
+      "ts": "1650073062.443849",
+      "team": "T0GFBAM8C",
+      "edited": {
+        "user": "U2YNMHCTV",
+        "ts": "1650073077.000000"
+      },
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "Z7iE",
+          "elements": [
+            {
+              "type": "rich_text_quote",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "公式のアップデートに追従しきれなくて繋がらない事が時々ある"
+                }
+              ]
+            },
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "まさにその理由で、pacmanじゃないユーザサイドで入れられる方法がほしくてflatpakを導入しました。\npacmanで入れたDiscordや、zipだかtar.gzだかを展開してホームディレクトリに自分で置いたDiscordでは復元されない問題が発生しないことは確認済みです。"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "6548468c-9681-478e-93e8-ca8e501cffe2",
+      "type": "message",
+      "text": "あれとは別です\nクライアントのメジャーアプデが入ると多分ダメなんですよね、まあ僕も一回しかそれ食らってないので気にするほどでもないと言えばそうなんですが",
+      "user": "UVB7L4CKH",
+      "ts": "1650073007.303979",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "sYO8",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "あれとは別です\nクライアントのメジャーアプデが入ると多分ダメなんですよね、まあ僕も一回しかそれ食らってないので気にするほどでもないと言えばそうなんですが"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "be8d5c50-3eaf-4095-a79a-41ea085a8e44",
+      "type": "message",
+      "text": "なんか起動時に勝手にダウンロード走りませんか？あれとは別？",
+      "user": "UUWBU08TU",
+      "ts": "1650072966.135319",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "LvP9",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "なんか起動時に勝手にダウンロード走りませんか？あれとは別？"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "4d3d32dd-8a09-4981-b956-9b60ecb22046",
+      "type": "message",
+      "text": "公式リポジトリのdiscord、公式のアップデートに追従しきれなくて繋がらない事が時々ある気がするんですよね",
+      "user": "UVB7L4CKH",
+      "ts": "1650072942.113299",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "URB",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "公式リポジトリのdiscord、公式のアップデートに追従しきれなくて繋がらない事が時々ある気がするんですよね"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "0d35b82e-663e-4473-8ecb-ea1fb848eb72",
+      "type": "message",
+      "text": "Discordは公式リポジトリに入っている気がするので試してみては……？\n(私はセッションの復元をしようと思ったことがない: 誰かが言っていましたがKNOPPIXから入ったので再起動で全て戻る方がいいと思っている、ので分かりませんが……)",
+      "user": "UUWBU08TU",
+      "ts": "1650072868.959669",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "Vkv",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "Discordは公式リポジトリに入っている気がするので試してみては……？\n(私はセッションの復元をしようと思ったことがない: 誰かが言っていましたがKNOPPIXから入ったので再起動で全て戻る方がいいと思っている、ので分かりませんが……)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "d38e32bc-d249-42d1-8954-c85d42226031",
+      "type": "message",
+      "text": "ちなみに、KDE以外のセッションマネージャでは再現しない現象なのですか? (KDEの問題なのかX11の何かのライブラリの問題なのかflatpakの問題なのか、問題というよりも仕様レベルでどうしようもないものなのか、という切り分けがまだできていなくて)",
+      "user": "U2YNMHCTV",
+      "ts": "1650072607.341289",
+      "team": "T0GFBAM8C",
+      "edited": {
+        "user": "U2YNMHCTV",
+        "ts": "1650072761.000000"
+      },
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "w7v",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "ちなみに、KDE以外のセッションマネージャでは再現しない現象なのですか? (KDEの問題なのかX11の何かのライブラリの問題なのかflatpakの問題なのか、問題というよりも仕様レベルでどうしようもないものなのか、という切り分けがまだできていなくて)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "a462e581-4176-498b-9262-b98e77ada8a7",
+      "type": "message",
+      "text": "ここKDE勢だいぶ少ないですからね・・・もしかしたら回答出ないかもです・・・",
+      "user": "U70QDFN82",
+      "ts": "1650039561.995469",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "/KFTl",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "ここKDE勢だいぶ少ないですからね・・・もしかしたら回答出ないかもです・・・"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "reactions": [
+        {
+          "name": "totemoturai",
+          "users": [
+            "U2YNMHCTV"
+          ],
+          "count": 1
+        }
+      ]
+    },
+    {
+      "client_msg_id": "68b271a3-1326-4dc9-8f8a-6ba2e0715c02",
+      "type": "message",
+      "text": "KDEとflatpak環境についての質問です。KDEのデスクトップセッションの設定をログイン時にRestore previous saved sessionにしているのですが、flatpakで入れたアプリに関してはログイン時に復元されていないように見えます。\nKDEとflatpakはpacmanで入れ、具体的に復元されないアプリは、flathubで--userでインストールしたcom.discordapp.Discord と com.spotify.Client です(他は試していません)\n問題の回避方法があれば教えて下さい。",
+      "user": "U2YNMHCTV",
+      "ts": "1650036824.347949",
+      "team": "T0GFBAM8C",
+      "edited": {
+        "user": "U2YNMHCTV",
+        "ts": "1650036904.000000"
+      },
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "oWcMS",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "KDEとflatpak環境についての質問です。KDEのデスクトップセッションの設定をログイン時にRestore previous saved sessionにしているのですが、flatpakで入れたアプリに関してはログイン時に復元されていないように見えます。\nKDEとflatpakはpacmanで入れ、具体的に復元されないアプリは、flathubで--userでインストールしたcom.discordapp.Discord と com.spotify.Client です(他は試していません)\n問題の回避方法があれば教えて下さい。"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "07200f47-215f-409c-8ad6-d7dca4a12ee0",
+      "type": "message",
+      "text": "それかupstreamの更新のタイミングを狙って `pkgrel` を1に戻すか、ですかね…… :thinking_face:",
+      "user": "UUWBU08TU",
+      "ts": "1649404085.419139",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "jDzZI",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "それかupstreamの更新のタイミングを狙って "
+                },
+                {
+                  "type": "text",
+                  "text": "pkgrel",
+                  "style": {
+                    "code": true
+                  }
+                },
+                {
+                  "type": "text",
+                  "text": " を1に戻すか、ですかね…… "
+                },
+                {
+                  "type": "emoji",
+                  "name": "thinking_face",
+                  "unicode": "1f914"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "reactions": [
+        {
+          "name": "thinking_face",
+          "users": [
+            "U02BLTTQEL9"
+          ],
+          "count": 1
+        }
+      ]
+    },
+    {
+      "client_msg_id": "df1ad754-b66d-4c21-9790-05f44f68e3df",
+      "type": "message",
+      "text": "リリースされてないやつをパッケージにしようとすると `-git` を使いがち。",
+      "user": "U02BLTTQEL9",
+      "ts": "1649403853.251389",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "vALb6",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "リリースされてないやつをパッケージにしようとすると "
+                },
+                {
+                  "type": "text",
+                  "text": "-git",
+                  "style": {
+                    "code": true
+                  }
+                },
+                {
+                  "type": "text",
+                  "text": " を使いがち。"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "f5bac757-fc6f-49ea-9d44-9fe22df864e3",
+      "type": "message",
+      "text": "upstream の更新頻度が高ければそこまで気にしなくてもいいし、そうでもないなら `pkgrel` を更新し続けるか、`pkgver` に管理できる値を入れるか、`-git` にしない。\n\nってとこですかね。",
+      "user": "U02BLTTQEL9",
+      "ts": "1649403784.447999",
+      "team": "T0GFBAM8C",
+      "edited": {
+        "user": "U02BLTTQEL9",
+        "ts": "1649403798.000000"
+      },
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "mZk",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "upstream の更新頻度が高ければそこまで気にしなくてもいいし、そうでもないなら "
+                },
+                {
+                  "type": "text",
+                  "text": "pkgrel",
+                  "style": {
+                    "code": true
+                  }
+                },
+                {
+                  "type": "text",
+                  "text": " を更新し続けるか、"
+                },
+                {
+                  "type": "text",
+                  "text": "pkgver",
+                  "style": {
+                    "code": true
+                  }
+                },
+                {
+                  "type": "text",
+                  "text": " に管理できる値を入れるか、"
+                },
+                {
+                  "type": "text",
+                  "text": "-git",
+                  "style": {
+                    "code": true
+                  }
+                },
+                {
+                  "type": "text",
+                  "text": " にしない。\n\nってとこですかね。"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "58971afd-830a-4258-8c86-b675175863f8",
+      "type": "message",
+      "text": "話ぶった切るのですが(threadとかの方がよい？)、皆さんAURで何入れてますか？ (`pacman -Qqm` とかで一覧が出ます)",
+      "user": "UUWBU08TU",
+      "ts": "1649402437.288159",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "VCTK",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "話ぶった切るのですが(threadとかの方がよい？)、皆さんAURで何入れてますか？ ("
+                },
+                {
+                  "type": "text",
+                  "text": "pacman -Qqm",
+                  "style": {
+                    "code": true
+                  }
+                },
+                {
+                  "type": "text",
+                  "text": " とかで一覧が出ます)"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "thread_ts": "1649402437.288159",
+      "reply_count": 13,
+      "reply_users_count": 7,
+      "latest_reply": "1649448709.485339",
+      "reply_users": [
+        "UUWBU08TU",
+        "U0H9QUFA5",
+        "U02BLTTQEL9",
+        "U017BNGTHT3",
+        "U257W41DW",
+        "UVB7L4CKH",
+        "U02ASPM0A6T"
+      ],
+      "is_locked": false,
+      "subscribed": false
+    },
+    {
+      "type": "message",
+      "text": "なので `-git` はローカルバージョンよりも高いバージョンの .SRCINFO が公開されている場合にだけ自動更新される",
+      "user": "U257W41DW",
+      "ts": "1649402409.394819",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "qF6",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "なので "
+                },
+                {
+                  "type": "text",
+                  "text": "-git",
+                  "style": {
+                    "code": true
+                  }
+                },
+                {
+                  "type": "text",
+                  "text": " はローカルバージョンよりも高いバージョンの .SRCINFO が公開されている場合にだけ自動更新される"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "afbadd21-8f79-4038-aaf1-a1f0acd0c8d9",
+      "type": "message",
+      "text": "ですね。ローカルの SRCINFO と API から取れるのを比較してるはず。",
+      "user": "U02BLTTQEL9",
+      "ts": "1649402327.777469",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "15OIn",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "ですね。ローカルの SRCINFO と API から取れるのを比較してるはず。"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "message",
+      "text": "ヘルパーは AUR の API 叩いてバージョン取得して、ローカルのバージョンと比較して更新するものが多いと思う",
+      "user": "U257W41DW",
+      "ts": "1649402289.798209",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "7CO",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "ヘルパーは AUR の API 叩いてバージョン取得して、ローカルのバージョンと比較して更新するものが多いと思う"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "ac05fc99-d265-4500-8ec6-228f27dce2da",
+      "type": "message",
+      "text": "（一度yayが死んだ頃にparuに避難して、またyayにしがみついてしまった人間なのでparuの挙動を全然知らない……）",
+      "user": "UVB7L4CKH",
+      "ts": "1649402250.304449",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "eZax",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "（一度yayが死んだ頃にparuに避難して、またyayにしがみついてしまった人間なのでparuの挙動を全然知らない……）"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "c7b0e208-9a62-4d73-87fd-11461db7630e",
+      "type": "message",
+      "text": "あ、ごめんなさい。PKGBUILD じゃなくて SRCINFO です。",
+      "user": "U02BLTTQEL9",
+      "ts": "1649402232.407499",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "jlr",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "あ、ごめんなさい。PKGBUILD じゃなくて SRCINFO です。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "reactions": [
+        {
+          "name": "+1",
+          "users": [
+            "UUWBU08TU"
+          ],
+          "count": 1
+        }
+      ]
+    },
+    {
+      "client_msg_id": "c09e5e7f-4f88-4bc7-a8b3-85fd67e1d138",
+      "type": "message",
+      "text": "(aur-webは.SRCINFOを見て更新検知しているはずですが、よく考えたらAUR helperの実装は知りません。。。)",
+      "user": "UUWBU08TU",
+      "ts": "1649402209.326449",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "Eny",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "(aur-webは.SRCINFOを見て更新検知しているはずですが、よく考えたらAUR helperの実装は知りません。。。)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "5bbf6acf-ed23-434e-ba39-b8ed8094d3ae",
+      "type": "message",
+      "text": "paru とかは upstream の変更と PKGBUILD の変更の両方をトリガにしてる。多分。",
+      "user": "U02BLTTQEL9",
+      "ts": "1649402152.353649",
+      "team": "T0GFBAM8C",
+      "edited": {
+        "user": "U02BLTTQEL9",
+        "ts": "1649402163.000000"
+      },
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "95yt8",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "paru とかは upstream の変更と PKGBUILD の変更の両方をトリガにしてる。多分。"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "028c28a5-5937-4079-a77b-148dde6d835a",
+      "type": "message",
+      "text": "多分\n&gt; この手のパッケージ\nは `-git` な(`pkgver()` が最新commitを含むバージョンを生成する)タイプのパッケージのことを指していると認識して喋っています\n(なので、この場合はAURのPKGBUILD、より正確には.SRCINFOが更新されない)",
+      "user": "UUWBU08TU",
+      "ts": "1649402072.795969",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "n3Wl/",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "多分\n"
+                }
+              ]
+            },
+            {
+              "type": "rich_text_quote",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "この手のパッケージ"
+                }
+              ]
+            },
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "は "
+                },
+                {
+                  "type": "text",
+                  "text": "-git",
+                  "style": {
+                    "code": true
+                  }
+                },
+                {
+                  "type": "text",
+                  "text": " な("
+                },
+                {
+                  "type": "text",
+                  "text": "pkgver()",
+                  "style": {
+                    "code": true
+                  }
+                },
+                {
+                  "type": "text",
+                  "text": " が最新commitを含むバージョンを生成する)タイプのパッケージのことを指していると認識して喋っています\n(なので、この場合はAURのPKGBUILD、より正確には.SRCINFOが更新されない)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "1beac606-9448-40ed-8b45-6c7a6001b29f",
+      "type": "message",
+      "text": "paru は `paru --gendb`  の魔法を叩くと、なにかうまい事なってうまい事になります。",
+      "user": "U02BLTTQEL9",
+      "ts": "1649402028.033759",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "oL5=s",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "paru は "
+                },
+                {
+                  "type": "text",
+                  "text": "paru --gendb",
+                  "style": {
+                    "code": true
+                  }
+                },
+                {
+                  "type": "text",
+                  "text": "  の魔法を叩くと、なにかうまい事なってうまい事になります。"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "message",
+      "text": "ヘルパーによるかもしれないけど",
+      "user": "U257W41DW",
+      "ts": "1649402006.413649",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "Vdc",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "ヘルパーによるかもしれないけど"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "message",
+      "text": "AUR に自分がインストールしてるバージョン以降の PKGBUILD が公開されてると更新されるはず",
+      "user": "U257W41DW",
+      "ts": "1649401985.928419",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "RG5",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "AUR に自分がインストールしてるバージョン以降の PKGBUILD が公開されてると更新されるはず"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "bd868c5c-3e9a-40fc-8262-c35850ed0890",
+      "type": "message",
+      "text": "いわれてみればそうかも。",
+      "user": "U0H9QUFA5",
+      "ts": "1649401968.733969",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "goyqe",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "いわれてみればそうかも。"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "ba4baf09-61d7-4c01-9e88-ecdcd9b0f7b5",
+      "type": "message",
+      "text": "gitバッケージって基本的に自動更新されない物だと思ってるので手動で叩いてますけど、そういう話ではない？",
+      "user": "UVB7L4CKH",
+      "ts": "1649401928.007389",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "2jdHt",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "gitバッケージって基本的に自動更新されない物だと思ってるので手動で叩いてますけど、そういう話ではない？"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "reactions": [
+        {
+          "name": "eyes",
+          "users": [
+            "UUWBU08TU"
+          ],
+          "count": 1
+        }
+      ]
+    },
+    {
+      "client_msg_id": "072a8574-2778-42a0-859d-1a248d00248e",
+      "type": "message",
+      "text": "makepkg がソースを落としてきたあとに pkgver() を呼ぶみたいです",
+      "user": "U0J2VATJA",
+      "ts": "1649401866.027699",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "wvfx",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "makepkg がソースを落としてきたあとに pkgver() を呼ぶみたいです"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "reactions": [
+        {
+          "name": "eyes",
+          "users": [
+            "UUWBU08TU"
+          ],
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "message",
+      "text": "AUR に公開されてるバージョンと手元のインストールされてるバージョンの差異じゃないですかね？",
+      "user": "U257W41DW",
+      "ts": "1649401827.328679",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "t6dY",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "AUR に公開されてるバージョンと手元のインストールされてるバージョンの差異じゃないですかね？"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "405e9149-a675-4c09-a5e1-681d341d3b70",
+      "type": "message",
+      "text": "`pkgver()` を毎回実行してるんですかね？私は極力AUR使わないようにしているので分かりません……",
+      "user": "UUWBU08TU",
+      "ts": "1649401814.296189",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "CAdb",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "pkgver()",
+                  "style": {
+                    "code": true
+                  }
+                },
+                {
+                  "type": "text",
+                  "text": " を毎回実行してるんですかね？私は極力AUR使わないようにしているので分かりません……"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "48726e7d-e59e-42d2-9aa0-7d05408c0ff3",
+      "type": "message",
+      "text": "yay とかはどうやって、この手のパッケージのアップデートを確認してんだろう？",
+      "user": "U0H9QUFA5",
+      "ts": "1649401782.055539",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "7l=rd",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "yay とかはどうやって、この手のパッケージのアップデートを確認してんだろう？"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "90efdcec-319c-49fe-a7a1-110f61f3b008",
+      "type": "message",
+      "text": "ユーザーが好きにバージョン上げれちゃうのでそうなりますね",
+      "user": "U0J2VATJA",
+      "ts": "1649401706.910179",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "VOIC9",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "ユーザーが好きにバージョン上げれちゃうのでそうなりますね"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "message",
+      "text": "勘違いしてた。確かに最新版に更新する直前にインストールしてるユーザとかは更新検知されないのか……",
+      "user": "U257W41DW",
+      "ts": "1649401683.722989",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "N4jSj",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "勘違いしてた。確かに最新版に更新する直前にインストールしてるユーザとかは更新検知されないのか……"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "9371a6c4-e730-4a7e-bed9-55348f1f1575",
+      "type": "message",
+      "text": "~あとは、`pkgver()` を使わないで自分でcommitの固定バージョンを都度AURに投げるとかもできますね。~\n~`-git` パッケージが `pkgver()` を使わなければならないというルールはないはずなので。~(と打っていたので供養)",
+      "user": "UUWBU08TU",
+      "ts": "1649401583.306559",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "15N",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "あとは、",
+                  "style": {
+                    "strike": true
+                  }
+                },
+                {
+                  "type": "text",
+                  "text": "pkgver()",
+                  "style": {
+                    "strike": true,
+                    "code": true
+                  }
+                },
+                {
+                  "type": "text",
+                  "text": " を使わないで自分でcommitの固定バージョンを都度AURに投げるとかもできますね。",
+                  "style": {
+                    "strike": true
+                  }
+                },
+                {
+                  "type": "text",
+                  "text": "\n"
+                },
+                {
+                  "type": "text",
+                  "text": "-git",
+                  "style": {
+                    "strike": true,
+                    "code": true
+                  }
+                },
+                {
+                  "type": "text",
+                  "text": " パッケージが ",
+                  "style": {
+                    "strike": true
+                  }
+                },
+                {
+                  "type": "text",
+                  "text": "pkgver()",
+                  "style": {
+                    "strike": true,
+                    "code": true
+                  }
+                },
+                {
+                  "type": "text",
+                  "text": " を使わなければならないというルールはないはずなので。",
+                  "style": {
+                    "strike": true
+                  }
+                },
+                {
+                  "type": "text",
+                  "text": "(と打っていたので供養)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "3d3a3430-e37c-486f-88fd-3f219ebec838",
+      "type": "message",
+      "text": "コミットハッシュだけだとどっちが新しいか比較できないので",
+      "user": "U0J2VATJA",
+      "ts": "1649401574.345399",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "rMc",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "コミットハッシュだけだとどっちが新しいか比較できないので"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "cdedea8f-39d5-4888-a06f-9741cc91e1ad",
+      "type": "message",
+      "text": "`pkgver()` の自動更新をせず `r0.&lt;hash&gt;` の形でやるのが良さそうですね",
+      "user": "U0J2VATJA",
+      "ts": "1649401560.169539",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "t3W",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "pkgver()",
+                  "style": {
+                    "code": true
+                  }
+                },
+                {
+                  "type": "text",
+                  "text": " の自動更新をせず "
+                },
+                {
+                  "type": "text",
+                  "text": "r0.<hash>",
+                  "style": {
+                    "code": true
+                  }
+                },
+                {
+                  "type": "text",
+                  "text": " の形でやるのが良さそうですね"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "0e3dd755-3528-4f78-8ba8-dc0f47cb0608",
+      "type": "message",
+      "text": "日付とかをバージョン番号にするやつだ。",
+      "user": "U02BLTTQEL9",
+      "ts": "1649401503.197899",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "R75pc",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "日付とかをバージョン番号にするやつだ。"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "9c2f86d3-68f9-4b58-9e2f-fa0af9ad76e8",
+      "type": "message",
+      "text": "upstreamの更新頻度が低ければ-gitである必要そこまでないかな？とかは思いますね",
+      "user": "UUWBU08TU",
+      "ts": "1649401479.066009",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "s5N",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "upstreamの更新頻度が低ければ-gitである必要そこまでないかな？とかは思いますね"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "1e5c1bc4-f909-4d4b-8ca2-30c650c34bea",
+      "type": "message",
+      "text": "upstream の更新頻度が高いの前提なのですよね多分。",
+      "user": "U02BLTTQEL9",
+      "ts": "1649401458.472689",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "2pkM",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "upstream の更新頻度が高いの前提なのですよね多分。"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "a43ebecf-06a4-4814-8e48-aa9b89dbb824",
+      "type": "message",
+      "text": "パッケージ投稿者と一般ユーザーがそれぞれ `pkgver` を上げられるので AUR なりなんなりで共有した時にバージョンの一貫性が取れなくなるので壊れるのは仕方がない感じあります",
+      "user": "U0J2VATJA",
+      "ts": "1649401436.226059",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "vSR",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "パッケージ投稿者と一般ユーザーがそれぞれ "
+                },
+                {
+                  "type": "text",
+                  "text": "pkgver",
+                  "style": {
+                    "code": true
+                  }
+                },
+                {
+                  "type": "text",
+                  "text": " を上げられるので AUR なりなんなりで共有した時にバージョンの一貫性が取れなくなるので壊れるのは仕方がない感じあります"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "5be1166f-e347-4805-83ef-7190cb5ce77e",
+      "type": "message",
+      "text": "PKGBUILD の変更を入れつつ upstream を更新した場合は `pkgrel` がそもそも上がらないですね",
+      "user": "U0J2VATJA",
+      "ts": "1649401397.772949",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "fJiA",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "PKGBUILD の変更を入れつつ upstream を更新した場合は "
+                },
+                {
+                  "type": "text",
+                  "text": "pkgrel",
+                  "style": {
+                    "code": true
+                  }
+                },
+                {
+                  "type": "text",
+                  "text": " がそもそも上がらないですね"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "reactions": [
+        {
+          "name": "yes",
+          "users": [
+            "U02BLTTQEL9"
+          ],
+          "count": 1
+        }
+      ]
+    },
+    {
+      "client_msg_id": "a6a62250-91ba-410b-b16f-c7f6ee38adf7",
+      "type": "message",
+      "text": "私だったら、アップロードするときに手元の.SRCINFOの `pkgver` が上がっていたら `pkgrel` は1に戻しますね。ユーザーの更新タイミングでその更新が即時反映されない可能性はありますが、次のupstreamのリリースで反映されるはず&amp;&amp; `-git` なAURパッケージ使っているユーザーはその辺りの知識を求められると思っているので問題ないかと。",
+      "user": "UUWBU08TU",
+      "ts": "1649401388.554109",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "o7o",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "私だったら、アップロードするときに手元の.SRCINFOの "
+                },
+                {
+                  "type": "text",
+                  "text": "pkgver",
+                  "style": {
+                    "code": true
+                  }
+                },
+                {
+                  "type": "text",
+                  "text": " が上がっていたら "
+                },
+                {
+                  "type": "text",
+                  "text": "pkgrel",
+                  "style": {
+                    "code": true
+                  }
+                },
+                {
+                  "type": "text",
+                  "text": " は1に戻しますね。ユーザーの更新タイミングでその更新が即時反映されない可能性はありますが、次のupstreamのリリースで反映されるはず&& "
+                },
+                {
+                  "type": "text",
+                  "text": "-git",
+                  "style": {
+                    "code": true
+                  }
+                },
+                {
+                  "type": "text",
+                  "text": " なAURパッケージ使っているユーザーはその辺りの知識を求められると思っているので問題ないかと。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "thread_ts": "1649401388.554109",
+      "reply_count": 1,
+      "reply_users_count": 1,
+      "latest_reply": "1649401433.737409",
+      "reply_users": [
+        "UUWBU08TU"
+      ],
+      "is_locked": false,
+      "subscribed": false
+    },
+    {
+      "type": "message",
+      "text": "`pkgver` が変わったら `pkgrel` は 1 に戻しますよね？",
+      "user": "U257W41DW",
+      "ts": "1649401250.594359",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "ArRw",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "pkgver",
+                  "style": {
+                    "code": true
+                  }
+                },
+                {
+                  "type": "text",
+                  "text": " が変わったら "
+                },
+                {
+                  "type": "text",
+                  "text": "pkgrel",
+                  "style": {
+                    "code": true
+                  }
+                },
+                {
+                  "type": "text",
+                  "text": " は 1 に戻しますよね？"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "063f94db-cb3d-47b9-ad16-122d09451b68",
+      "type": "message",
+      "text": "図が必要な気がしてきた。",
+      "user": "U02BLTTQEL9",
+      "ts": "1649401241.468869",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "ZW1Y",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "図が必要な気がしてきた。"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "942b542b-e273-4757-b2f7-711c51c103e4",
+      "type": "message",
+      "text": "新しくアップロードするまでは AUR の `PKGBUILD` は `r1` のままなので、`pkgver` が変わったら `pkgrel` は変えないのルールだと、ダメじゃありません？",
+      "user": "U02BLTTQEL9",
+      "ts": "1649401164.629129",
+      "team": "T0GFBAM8C",
+      "edited": {
+        "user": "U02BLTTQEL9",
+        "ts": "1649401187.000000"
+      },
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "wMK",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "新しくアップロードするまでは AUR の "
+                },
+                {
+                  "type": "text",
+                  "text": "PKGBUILD",
+                  "style": {
+                    "code": true
+                  }
+                },
+                {
+                  "type": "text",
+                  "text": " は "
+                },
+                {
+                  "type": "text",
+                  "text": "r1",
+                  "style": {
+                    "code": true
+                  }
+                },
+                {
+                  "type": "text",
+                  "text": " のままなので、"
+                },
+                {
+                  "type": "text",
+                  "text": "pkgver",
+                  "style": {
+                    "code": true
+                  }
+                },
+                {
+                  "type": "text",
+                  "text": " が変わったら "
+                },
+                {
+                  "type": "text",
+                  "text": "pkgrel",
+                  "style": {
+                    "code": true
+                  }
+                },
+                {
+                  "type": "text",
+                  "text": " は変えないのルールだと、ダメじゃありません？"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "message",
+      "text": "`makepkg` 後の PKGBUILD と AUR 側が `r5` のままで、PKGBUILD に手を入れた時は `pkgrel` を増やして AUR にアップロードする形でユーザー側も更新が検知されると思う",
+      "user": "U257W41DW",
+      "ts": "1649400863.697129",
+      "team": "T0GFBAM8C",
+      "edited": {
+        "user": "U257W41DW",
+        "ts": "1649401017.000000"
+      },
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "ptT",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "makepkg",
+                  "style": {
+                    "code": true
+                  }
+                },
+                {
+                  "type": "text",
+                  "text": " 後の PKGBUILD と AUR 側が "
+                },
+                {
+                  "type": "text",
+                  "text": "r5",
+                  "style": {
+                    "code": true
+                  }
+                },
+                {
+                  "type": "text",
+                  "text": " のままで、PKGBUILD に手を入れた時は "
+                },
+                {
+                  "type": "text",
+                  "text": "pkgrel",
+                  "style": {
+                    "code": true
+                  }
+                },
+                {
+                  "type": "text",
+                  "text": " を増やして AUR にアップロードする形でユーザー側も更新が検知されると思う"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "8f06ff3f-bc5f-4598-bf12-6609a03b2324",
+      "type": "message",
+      "text": "`-git` パッケージの仕組みがあまり好きじゃないというか勝手にパッケージバージョン上げると容易に破綻するのでよくないんですよね、この場合だと多分 pkgver と pkgrel が一緒なので更新されない気がします",
+      "user": "U0J2VATJA",
+      "ts": "1649400859.324269",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "EEdo",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "-git",
+                  "style": {
+                    "code": true
+                  }
+                },
+                {
+                  "type": "text",
+                  "text": " パッケージの仕組みがあまり好きじゃないというか勝手にパッケージバージョン上げると容易に破綻するのでよくないんですよね、この場合だと多分 pkgver と pkgrel が一緒なので更新されない気がします"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "c748ff24-9da0-480f-829d-6c1d4e7ba860",
+      "type": "message",
+      "text": "なのかな？",
+      "user": "U02BLTTQEL9",
+      "ts": "1649400726.756379",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "3Ynwh",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "なのかな？"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "3996899a-df92-4fe4-9489-58dd33cc4f88",
+      "type": "message",
+      "text": "あー、`makepkg -i` したときに同じバージョンで上書きになるだけだから別に構わないのか。",
+      "user": "U02BLTTQEL9",
+      "ts": "1649400698.513859",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "EC5T7",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "あー、"
+                },
+                {
+                  "type": "text",
+                  "text": "makepkg -i",
+                  "style": {
+                    "code": true
+                  }
+                },
+                {
+                  "type": "text",
+                  "text": " したときに同じバージョンで上書きになるだけだから別に構わないのか。"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "315c3c1c-ed0e-4fcf-8663-edb38b67900c",
+      "type": "message",
+      "text": "はい。",
+      "user": "U02BLTTQEL9",
+      "ts": "1649400661.633419",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "2X3",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "はい。"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "2c7ca977-b2ca-4fe7-aafc-66c91edfade7",
+      "type": "message",
+      "text": "`pkgver()` で自動更新してる奴ですか",
+      "user": "U0J2VATJA",
+      "ts": "1649400654.753369",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "kIV",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "pkgver()",
+                  "style": {
+                    "code": true
+                  }
+                },
+                {
+                  "type": "text",
+                  "text": " で自動更新してる奴ですか"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "message",
+      "text": "前半の間に AUR にアップロードしてなければ困らないような？",
+      "user": "U257W41DW",
+      "ts": "1649400629.073629",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "mHSy",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "前半の間に AUR にアップロードしてなければ困らないような？"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "246fa2f0-e50f-472a-9e4c-d84f4fae4526",
+      "type": "message",
+      "text": "-git ってユーザーがインストールするときも pkgver が変わるので",
+      "user": "U02BLTTQEL9",
+      "ts": "1649400568.954949",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "YzY",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "-git ってユーザーがインストールするときも pkgver が変わるので"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "27adcfd1-dee9-490f-9ff8-a31a1dc7b958",
+      "type": "message",
+      "text": "手元で勝手に上げられたらどうしようもないのは `-git` なパッケージに限らないと思います",
+      "user": "U0J2VATJA",
+      "ts": "1649400542.876399",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "oRNGM",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "手元で勝手に上げられたらどうしようもないのは "
+                },
+                {
+                  "type": "text",
+                  "text": "-git",
+                  "style": {
+                    "code": true
+                  }
+                },
+                {
+                  "type": "text",
+                  "text": " なパッケージに限らないと思います"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "9e22ba69-ac75-44c9-8f5b-227953d156fa",
+      "type": "message",
+      "text": "&gt; AUR 検索しても基本 pkgrel は 1 なので、\nそうなんですよね。。",
+      "user": "U02BLTTQEL9",
+      "ts": "1649400475.862109",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "AKHR",
+          "elements": [
+            {
+              "type": "rich_text_quote",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "AUR 検索しても基本 pkgrel は 1 なので、"
+                }
+              ]
+            },
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "\nそうなんですよね。。"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "6c441bc2-f9b7-448d-a100-32fba4a8500b",
+      "type": "message",
+      "text": "ってならないかな。",
+      "user": "U02BLTTQEL9",
+      "ts": "1649400442.036529",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "E3y",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "ってならないかな。"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "a2c6564f-1e78-4386-9ec1-25c6e88f7890",
+      "type": "message",
+      "text": "AUR Helper を使わない場合を考えると\n\nまずメンテナが AUR にパッケージを公開する\n• このときの pkgver は r1 とする\n次にユーザーがこれを使う\n• `-git` な PKGBUILD をダウンロード\n• makepkg した結果 pkgver が r1 になる。\n• AUR から都度ダウンロードしつつ手元で何度か更新する\n• 結果 r5 になった。\nこの間 AUR 側の PKGBUILD の更新がなかったとする。\n\nで、その後メンテナが PKGBUILD に手を入れた\n• この時の upstream のバージョンは r5 だったとする\n• AUR にアップロードされる pkgver は r5 になる\nその後またユーザーが更新しようとする、\n• AUR から新しい PKGBUILD を取ってくる\n• pkgver が変わってないから更新されない",
+      "user": "U02BLTTQEL9",
+      "ts": "1649400430.692149",
+      "team": "T0GFBAM8C",
+      "edited": {
+        "user": "U02BLTTQEL9",
+        "ts": "1649400534.000000"
+      },
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "fuC",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "AUR Helper を使わない場合を考えると\n\nまずメンテナが AUR にパッケージを公開する\n"
+                }
+              ]
+            },
+            {
+              "type": "rich_text_list",
+              "elements": [
+                {
+                  "type": "rich_text_section",
+                  "elements": [
+                    {
+                      "type": "text",
+                      "text": "このときの pkgver は r1 とする"
+                    }
+                  ]
+                }
+              ],
+              "style": "bullet",
+              "indent": 0,
+              "border": 0
+            },
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "\n次にユーザーがこれを使う\n"
+                }
+              ]
+            },
+            {
+              "type": "rich_text_list",
+              "elements": [
+                {
+                  "type": "rich_text_section",
+                  "elements": [
+                    {
+                      "type": "text",
+                      "text": "-git",
+                      "style": {
+                        "code": true
+                      }
+                    },
+                    {
+                      "type": "text",
+                      "text": " な PKGBUILD をダウンロード"
+                    }
+                  ]
+                },
+                {
+                  "type": "rich_text_section",
+                  "elements": [
+                    {
+                      "type": "text",
+                      "text": "makepkg した結果 pkgver が r1 になる。"
+                    }
+                  ]
+                },
+                {
+                  "type": "rich_text_section",
+                  "elements": [
+                    {
+                      "type": "text",
+                      "text": "AUR から都度ダウンロードしつつ手元で何度か更新する"
+                    }
+                  ]
+                },
+                {
+                  "type": "rich_text_section",
+                  "elements": [
+                    {
+                      "type": "text",
+                      "text": "結果 r5 になった。"
+                    }
+                  ]
+                }
+              ],
+              "style": "bullet",
+              "indent": 0,
+              "border": 0
+            },
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "この間 AUR 側の PKGBUILD の更新がなかったとする。\n\nで、その後メンテナが PKGBUILD に手を入れた\n"
+                }
+              ]
+            },
+            {
+              "type": "rich_text_list",
+              "elements": [
+                {
+                  "type": "rich_text_section",
+                  "elements": [
+                    {
+                      "type": "text",
+                      "text": "この時の upstream のバージョンは r5 だったとする"
+                    }
+                  ]
+                },
+                {
+                  "type": "rich_text_section",
+                  "elements": [
+                    {
+                      "type": "text",
+                      "text": "AUR にアップロードされる pkgver は r5 になる"
+                    }
+                  ]
+                }
+              ],
+              "style": "bullet",
+              "indent": 0,
+              "border": 0
+            },
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "\nその後またユーザーが更新しようとする、\n"
+                }
+              ]
+            },
+            {
+              "type": "rich_text_list",
+              "elements": [
+                {
+                  "type": "rich_text_section",
+                  "elements": [
+                    {
+                      "type": "text",
+                      "text": "AUR から新しい PKGBUILD を取ってくる"
+                    }
+                  ]
+                },
+                {
+                  "type": "rich_text_section",
+                  "elements": [
+                    {
+                      "type": "text",
+                      "text": "pkgver が変わってないから更新されない"
+                    }
+                  ]
+                }
+              ],
+              "style": "bullet",
+              "indent": 0,
+              "border": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "224f6f40-d1c5-42c6-977f-8f76d369d42b",
+      "type": "message",
+      "text": "そうですね、こちら都合のバージョンアップは pkgrel 上げるのが良いと思います",
+      "user": "U0J2VATJA",
+      "ts": "1649400310.194349",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "crlTT",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "そうですね、こちら都合のバージョンアップは pkgrel 上げるのが良いと思います"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "message",
+      "text": "AUR 検索しても基本 pkgrel は 1 なので、 `pkgver` が変わらなかったら `pkgrel` 上げるのでよさそう",
+      "user": "U257W41DW",
+      "ts": "1649400255.764319",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "jFV",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "AUR 検索しても基本 pkgrel は 1 なので、 "
+                },
+                {
+                  "type": "text",
+                  "text": "pkgver",
+                  "style": {
+                    "code": true
+                  }
+                },
+                {
+                  "type": "text",
+                  "text": " が変わらなかったら "
+                },
+                {
+                  "type": "text",
+                  "text": "pkgrel",
+                  "style": {
+                    "code": true
+                  }
+                },
+                {
+                  "type": "text",
+                  "text": " 上げるのでよさそう"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "b22fa0d2-fdcd-4872-a7cd-a9e475483f3d",
+      "type": "message",
+      "text": "upstream の変更は pkgver を上げて対応、PKGBUILD などこちら側の変更は pkgrel を上げて対応、pkgver を上げたら pkgrel は1に戻す、のが基本だと思います",
+      "user": "U0J2VATJA",
+      "ts": "1649400206.207049",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "UP/jJ",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "upstream の変更は pkgver を上げて対応、PKGBUILD などこちら側の変更は pkgrel を上げて対応、pkgver を上げたら pkgrel は1に戻す、のが基本だと思います"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "message",
+      "text": "AUR に PKGBUILD を push したタイミングで更新されてることが確認できる形であればいいので、上げ続ける必要はないはず。\nただ、上げ続けても別に不都合はないとは思います。",
+      "user": "U257W41DW",
+      "ts": "1649400143.806369",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "IdyK",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "AUR に PKGBUILD を push したタイミングで更新されてることが確認できる形であればいいので、上げ続ける必要はないはず。\nただ、上げ続けても別に不都合はないとは思います。"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "fb3c75e1-47f4-4ef8-95fd-0253251987aa",
+      "type": "message",
+      "text": "pkgver についてはそれで正しいはず。",
+      "user": "U02BLTTQEL9",
+      "ts": "1649400069.655429",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "jKNnS",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "pkgver についてはそれで正しいはず。"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "feed539f-7f4d-4831-b5f0-355f10df7424",
+      "type": "message",
+      "text": "<https://aur.archlinux.org/cgit/aur.git/tree/PKGBUILD?h=aur-auto-vote-git#n22>\npkgver は git から都度生成するのが正しいのかな",
+      "user": "U0PM6EYR1",
+      "ts": "1649400040.939869",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "tpn",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "link",
+                  "url": "https://aur.archlinux.org/cgit/aur.git/tree/PKGBUILD?h=aur-auto-vote-git#n22"
+                },
+                {
+                  "type": "text",
+                  "text": "\npkgver は git から都度生成するのが正しいのかな"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "reactions": [
+        {
+          "name": "+1",
+          "users": [
+            "U70QDFN82"
+          ],
+          "count": 1
+        }
+      ]
+    },
+    {
+      "client_msg_id": "faf8d410-2b5d-44ab-9604-8e775b88c92d",
+      "type": "message",
+      "text": "うーん、そういう事なのかな。",
+      "user": "U02BLTTQEL9",
+      "ts": "1649399906.166619",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "Xrnel",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "うーん、そういう事なのかな。"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "9deb595b-4d5f-41c4-83d9-35fe60d23042",
+      "type": "message",
+      "text": "super_unko-git の場合だと、pkgver が埋め込んであるから、この場合は、pkgverを変更して、aur リポジトリに入れる場合は pkgrel=1 で、pkgver の変更がなく、(たとえば conflicts を入れるなど)他の変更の場合は、pkgrel=2 にするってことでしょう。",
+      "user": "U0H9QUFA5",
+      "ts": "1649399822.240839",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "4nWR",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "super_unko-git の場合だと、pkgver が埋め込んであるから、この場合は、pkgverを変更して、aur リポジトリに入れる場合は pkgrel=1 で、pkgver の変更がなく、(たとえば conflicts を入れるなど)他の変更の場合は、pkgrel=2 にするってことでしょう。"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "bd7bf2ca-d870-4408-bedb-086c12ac9217",
+      "type": "message",
+      "text": "なので、やはり `pkgrel` は上げるでよい気してきた。",
+      "user": "U02BLTTQEL9",
+      "ts": "1649399807.127069",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "/img",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "なので、やはり "
+                },
+                {
+                  "type": "text",
+                  "text": "pkgrel",
+                  "style": {
+                    "code": true
+                  }
+                },
+                {
+                  "type": "text",
+                  "text": " は上げるでよい気してきた。"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "a3573cce-bb55-4ff6-a229-77612d764cf7",
+      "type": "message",
+      "text": "&gt; 依存関係, URL, ソースなどの変更を行なったことで作られるパッケージが異なるようになった時は `pkgrel` の値を増やして下さい。`pkgver` を変える必要はありません。\n",
+      "user": "U02BLTTQEL9",
+      "ts": "1649399680.013419",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "QKH",
+          "elements": [
+            {
+              "type": "rich_text_quote",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "依存関係, URL, ソースなどの変更を行なったことで作られるパッケージが異なるようになった時は "
+                },
+                {
+                  "type": "text",
+                  "text": "pkgrel",
+                  "style": {
+                    "code": true
+                  }
+                },
+                {
+                  "type": "text",
+                  "text": " の値を増やして下さい。"
+                },
+                {
+                  "type": "text",
+                  "text": "pkgver",
+                  "style": {
+                    "code": true
+                  }
+                },
+                {
+                  "type": "text",
+                  "text": " を変える必要はありません。"
+                }
+              ]
+            },
+            {
+              "type": "rich_text_section",
+              "elements": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "e2f80c9c-dd51-421e-843f-b59427193385",
+      "type": "message",
+      "text": "あれ、でもユーザーの手元の PKGBUILD の pkgverが makepkg した結果上がって、 更新された AUR 側の PKGBUILD の pkgver と衝突した場合困らないのかな。",
+      "user": "U02BLTTQEL9",
+      "ts": "1649399238.875159",
+      "team": "T0GFBAM8C",
+      "edited": {
+        "user": "U02BLTTQEL9",
+        "ts": "1649399522.000000"
+      },
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "8C8",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "あれ、でもユーザーの手元の PKGBUILD の pkgverが makepkg した結果上がって、 更新された AUR 側の PKGBUILD の pkgver と衝突した場合困らないのかな。"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "message",
+      "text": "<https://wiki.archlinux.jp/index.php/VCS_%E3%83%91%E3%83%83%E3%82%B1%E3%83%BC%E3%82%B8%E3%82%AC%E3%82%A4%E3%83%89%E3%83%A9%E3%82%A4%E3%83%B3>",
+      "user": "U257W41DW",
+      "ts": "1649399156.446259",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "M8BI",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "link",
+                  "url": "https://wiki.archlinux.jp/index.php/VCS_%E3%83%91%E3%83%83%E3%82%B1%E3%83%BC%E3%82%B8%E3%82%AC%E3%82%A4%E3%83%89%E3%83%A9%E3%82%A4%E3%83%B3"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "message",
+      "text": "なので基本 1 固定になりそう",
+      "user": "U257W41DW",
+      "ts": "1649399133.614689",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "tfItK",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "なので基本 1 固定になりそう"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "649f2a40-577e-4a9e-ac84-43d74ba507f2",
+      "type": "message",
+      "text": "なるほど。それでいいのか。",
+      "user": "U02BLTTQEL9",
+      "ts": "1649399115.844299",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "cOTV",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "なるほど。それでいいのか。"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "62166545-ab4d-406b-a6a6-291d6c8647e5",
+      "type": "message",
+      "text": "-git  を makepkg すると PKGBULID の pkgver が変わりますよね。",
+      "user": "U02BLTTQEL9",
+      "ts": "1649399097.947069",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "9PVAu",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "-git  を makepkg すると PKGBULID の pkgver が変わりますよね。"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "message",
+      "text": "`makepkg` 時に自動で `pkgver` 書き変わるので、その時作られるパッケージが変わるのに `pkgver` が同じな時に増やすイメージ",
+      "user": "U257W41DW",
+      "ts": "1649399094.005609",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "slF",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "makepkg",
+                  "style": {
+                    "code": true
+                  }
+                },
+                {
+                  "type": "text",
+                  "text": " 時に自動で "
+                },
+                {
+                  "type": "text",
+                  "text": "pkgver",
+                  "style": {
+                    "code": true
+                  }
+                },
+                {
+                  "type": "text",
+                  "text": " 書き変わるので、その時作られるパッケージが変わるのに "
+                },
+                {
+                  "type": "text",
+                  "text": "pkgver",
+                  "style": {
+                    "code": true
+                  }
+                },
+                {
+                  "type": "text",
+                  "text": " が同じな時に増やすイメージ"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "d8bf4ab8-ae41-44e8-be6d-2463deac8cc1",
+      "type": "message",
+      "text": "バージョンがかわったら1に戻すと思うけど、-git だとバージョンかわらないのかなと思った。バージョンがかわるなら 1 に戻しますね。",
+      "user": "U0H9QUFA5",
+      "ts": "1649398999.136089",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "UVDsj",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "バージョンがかわったら1に戻すと思うけど、-git だとバージョンかわらないのかなと思った。バージョンがかわるなら 1 に戻しますね。"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "885c34b5-66c7-4bf9-b90f-8023e89eed46",
+      "type": "message",
+      "text": "SRCINFO を見ている？",
+      "user": "U02BLTTQEL9",
+      "ts": "1649398978.659389",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "s73Sh",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "SRCINFO を見ている？"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "has_more": true,
+  "is_limited": false,
+  "pin_count": 16,
+  "channel_actions_ts": null,
+  "channel_actions_count": 0,
+  "response_metadata": {
+    "next_cursor": "bmV4dF90czoxNjQ5Mzk4ODgyNjAwNzc5"
+  }
+}

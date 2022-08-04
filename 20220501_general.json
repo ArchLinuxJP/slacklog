@@ -1,0 +1,3554 @@
+{
+  "ok": true,
+  "latest": "1654085476.000000",
+  "oldest": "1651407076.000000",
+  "messages": [
+    {
+      "type": "message",
+      "subtype": "thread_broadcast",
+      "text": "• ArchISOはOSインストーラーではない\n• なぜAURパッケージのインストールは自己責任なのか？\n• 検証可能性を（なるべく）高める\n• バイナリブロブをユーザーの自己責任で導入する\n• シェアの拡大、新規ユーザーの参入が重要ではない理由\n• オープンソースの基軸通貨は貢献・尊敬・感謝（とお金）\n• 英語ができなくても英語のインターネットを泳ぐ方法\n• I use Arch btw.",
+      "user": "U02ASPM0A6T",
+      "ts": "1654072122.020179",
+      "thread_ts": "1654072039.253329",
+      "root": {
+        "client_msg_id": "2cda75b8-a23d-4903-b9ef-561e9d0f6fd1",
+        "type": "message",
+        "text": "*Arch Linux記事についてのブレーンストーミング。こんなのあればいいかも：*",
+        "user": "U02ASPM0A6T",
+        "ts": "1654072039.253329",
+        "team": "T0GFBAM8C",
+        "edited": {
+          "user": "U02ASPM0A6T",
+          "ts": "1654168374.000000"
+        },
+        "blocks": [
+          {
+            "type": "rich_text",
+            "block_id": "L0Q",
+            "elements": [
+              {
+                "type": "rich_text_section",
+                "elements": [
+                  {
+                    "type": "text",
+                    "text": "Arch Linux記事についてのブレーンストーミング。こんなのあればいいかも：",
+                    "style": {
+                      "bold": true
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "thread_ts": "1654072039.253329",
+        "reply_count": 83,
+        "reply_users_count": 5,
+        "latest_reply": "1654173542.594839",
+        "reply_users": [
+          "U02ASPM0A6T",
+          "U70QDFN82",
+          "U0H9QUFA5",
+          "U0GFBAM8U",
+          "UUWBU08TU"
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1654173542.594839"
+      },
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "GLe",
+          "elements": [
+            {
+              "type": "rich_text_list",
+              "elements": [
+                {
+                  "type": "rich_text_section",
+                  "elements": [
+                    {
+                      "type": "text",
+                      "text": "ArchISOはOSインストーラーではない"
+                    }
+                  ]
+                },
+                {
+                  "type": "rich_text_section",
+                  "elements": [
+                    {
+                      "type": "text",
+                      "text": "なぜAURパッケージのインストールは自己責任なのか？"
+                    }
+                  ]
+                },
+                {
+                  "type": "rich_text_section",
+                  "elements": [
+                    {
+                      "type": "text",
+                      "text": "検証可能性を（なるべく）高める"
+                    }
+                  ]
+                },
+                {
+                  "type": "rich_text_section",
+                  "elements": [
+                    {
+                      "type": "text",
+                      "text": "バイナリブロブをユーザーの自己責任で導入する"
+                    }
+                  ]
+                },
+                {
+                  "type": "rich_text_section",
+                  "elements": [
+                    {
+                      "type": "text",
+                      "text": "シェアの拡大、新規ユーザーの参入が重要ではない理由"
+                    }
+                  ]
+                },
+                {
+                  "type": "rich_text_section",
+                  "elements": [
+                    {
+                      "type": "text",
+                      "text": "オープンソースの基軸通貨は貢献・尊敬・感謝（とお金）"
+                    }
+                  ]
+                },
+                {
+                  "type": "rich_text_section",
+                  "elements": [
+                    {
+                      "type": "text",
+                      "text": "英語ができなくても英語のインターネットを泳ぐ方法"
+                    }
+                  ]
+                },
+                {
+                  "type": "rich_text_section",
+                  "elements": [
+                    {
+                      "type": "text",
+                      "text": "I use Arch btw."
+                    }
+                  ]
+                }
+              ],
+              "style": "bullet",
+              "indent": 0,
+              "border": 0
+            }
+          ]
+        }
+      ],
+      "client_msg_id": "f9a4cb63-3824-453c-8c4d-23eaa16f477c"
+    },
+    {
+      "client_msg_id": "2cda75b8-a23d-4903-b9ef-561e9d0f6fd1",
+      "type": "message",
+      "text": "*Arch Linux記事についてのブレーンストーミング。こんなのあればいいかも：*",
+      "user": "U02ASPM0A6T",
+      "ts": "1654072039.253329",
+      "team": "T0GFBAM8C",
+      "edited": {
+        "user": "U02ASPM0A6T",
+        "ts": "1654168374.000000"
+      },
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "L0Q",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "Arch Linux記事についてのブレーンストーミング。こんなのあればいいかも：",
+                  "style": {
+                    "bold": true
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "thread_ts": "1654072039.253329",
+      "reply_count": 83,
+      "reply_users_count": 5,
+      "latest_reply": "1654173542.594839",
+      "reply_users": [
+        "U02ASPM0A6T",
+        "U70QDFN82",
+        "U0H9QUFA5",
+        "U0GFBAM8U",
+        "UUWBU08TU"
+      ],
+      "is_locked": false,
+      "subscribed": true,
+      "last_read": "1654173542.594839",
+      "pinned_to": [
+        "C0GFH3RHC"
+      ],
+      "pinned_info": {
+        "channel": "C0GFH3RHC",
+        "pinned_by": "U02ASPM0A6T",
+        "pinned_ts": 1654168381
+      }
+    },
+    {
+      "client_msg_id": "7bf63c55-ba4f-48d8-8012-5ba2eefefcd8",
+      "type": "message",
+      "text": "~Archは最高~なぜArchを使っているのかというのは確かに行けそう",
+      "user": "UGA29R3FH",
+      "ts": "1654070412.559499",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "t3dJx",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "Archは最高",
+                  "style": {
+                    "strike": true
+                  }
+                },
+                {
+                  "type": "text",
+                  "text": "なぜArchを使っているのかというのは確かに行けそう"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "bd3a2bf5-4bf7-4ccc-a150-8e23eaa173da",
+      "type": "message",
+      "text": "<https://wiki.archlinux.jp/index.php/ArchWiki%E3%83%BB%E3%83%88%E3%83%BC%E3%82%AF:%E7%BF%BB%E8%A8%B3%E3%83%81%E3%83%BC%E3%83%A0>\nキター。大歓迎。大歓喜。",
+      "user": "U0H9QUFA5",
+      "ts": "1654066073.769389",
+      "team": "T0GFBAM8C",
+      "edited": {
+        "user": "U0H9QUFA5",
+        "ts": "1654066279.000000"
+      },
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "beHG",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "link",
+                  "url": "https://wiki.archlinux.jp/index.php/ArchWiki%E3%83%BB%E3%83%88%E3%83%BC%E3%82%AF:%E7%BF%BB%E8%A8%B3%E3%83%81%E3%83%BC%E3%83%A0"
+                },
+                {
+                  "type": "text",
+                  "text": "\nキター。大歓迎。大歓喜。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "reactions": [
+        {
+          "name": "sugee",
+          "users": [
+            "U02ASPM0A6T",
+            "UGA29R3FH",
+            "UJ7P75WB1"
+          ],
+          "count": 3
+        },
+        {
+          "name": "archjp-joy",
+          "users": [
+            "U02ASPM0A6T",
+            "U02BLTTQEL9",
+            "U6DL9D3AB",
+            "UGA29R3FH",
+            "UJ7P75WB1",
+            "U0GFBAM8U"
+          ],
+          "count": 6
+        },
+        {
+          "name": "arch-joy",
+          "users": [
+            "U02ASPM0A6T",
+            "U70QDFN82",
+            "U02BLTTQEL9",
+            "U01J1GGMHDJ",
+            "U6DL9D3AB",
+            "UGA29R3FH",
+            "UPYQ3CUJ1",
+            "UJ7P75WB1",
+            "U031Y1JFXM2"
+          ],
+          "count": 9
+        }
+      ]
+    },
+    {
+      "client_msg_id": "4837CE71-8147-4B85-83C0-EBFC58306930",
+      "type": "message",
+      "text": "執筆ならやっぱり PKGBUILD あたりが書いてみたい筆頭ですがウケが悪そうですよね",
+      "user": "U0J2VATJA",
+      "ts": "1654061564.742779",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "LFXk",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "執筆ならやっぱり "
+                },
+                {
+                  "type": "text",
+                  "text": "PKGBUILD"
+                },
+                {
+                  "type": "text",
+                  "text": " あたりが書いてみたい筆頭ですがウケが悪そうですよね"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "reactions": [
+        {
+          "name": "sorena",
+          "users": [
+            "U6DL9D3AB"
+          ],
+          "count": 1
+        }
+      ]
+    },
+    {
+      "client_msg_id": "4673f096-df7b-46bd-8962-103edd1776c5",
+      "type": "message",
+      "text": "非 Arch ユーザ、非 Linux ユーザに向けた導入の話から、他の OS やディストロとの代替可能性（仕事に使えるとか趣味に使えるとか）を初心者向けに色々書いてあるものがあったら良いんじゃないんですかね？\nその上で、インストールもめんどくさい反面色々詳しくなれる（ならざるを得ない）メリットデメリットの話とか、そもそも ubuntu みたいにユーザの多いディストロと比べた時の話とか。\n個人的には、最初は Arch を使わざるを得ない状況から使い始めてハマったので、裾野が広がるような本とかあれば良いなぁって思っています。",
+      "user": "U01ADLWR9CM",
+      "ts": "1654060956.454559",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "ZzU",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "非 Arch ユーザ、非 Linux ユーザに向けた導入の話から、他の OS やディストロとの代替可能性（仕事に使えるとか趣味に使えるとか）を初心者向けに色々書いてあるものがあったら良いんじゃないんですかね？\nその上で、インストールもめんどくさい反面色々詳しくなれる（ならざるを得ない）メリットデメリットの話とか、そもそも ubuntu みたいにユーザの多いディストロと比べた時の話とか。\n個人的には、最初は Arch を使わざるを得ない状況から使い始めてハマったので、裾野が広がるような本とかあれば良いなぁって思っています。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "reactions": [
+        {
+          "name": "naruhodo",
+          "users": [
+            "U0H9QUFA5",
+            "UGA29R3FH"
+          ],
+          "count": 2
+        }
+      ]
+    },
+    {
+      "client_msg_id": "ca97b08b-ce07-489e-9809-ff69d33f4661",
+      "type": "message",
+      "text": "ちょっとした小ネタみたいなものなら書いてみたいななんて思っています",
+      "user": "UJ7P75WB1",
+      "ts": "1654060513.113109",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "3F7",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "ちょっとした小ネタみたいなものなら書いてみたいななんて思っています"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "reactions": [
+        {
+          "name": "hugging_face",
+          "users": [
+            "U0H9QUFA5"
+          ],
+          "count": 1
+        }
+      ]
+    },
+    {
+      "client_msg_id": "d964f471-82c7-4c3a-ae88-01fced88adac",
+      "type": "message",
+      "text": "記事の話、全く把握してませんでした…。面白そう(小学生並みの感想)",
+      "user": "UJ7P75WB1",
+      "ts": "1654060383.967559",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "k=So",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "記事の話、全く把握してませんでした…。面白そう(小学生並みの感想)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "a7eaa1ec-e696-4fe0-b7a6-65b64ca508f9",
+      "type": "message",
+      "text": "Arch、ディストリビューション固有のものが薄すぎて没個性なんですよね",
+      "user": "U0PM6EYR1",
+      "ts": "1654060317.842539",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "us3q",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "Arch、ディストリビューション固有のものが薄すぎて没個性なんですよね"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "reactions": [
+        {
+          "name": "wakaru",
+          "users": [
+            "U70QDFN82",
+            "U0H9QUFA5",
+            "U6DL9D3AB",
+            "U02BLTTQEL9",
+            "UGA29R3FH",
+            "U01HE1ENNJZ"
+          ],
+          "count": 6
+        }
+      ]
+    },
+    {
+      "client_msg_id": "f20e00a5-3ce7-4c88-94ec-1f1bef7295ec",
+      "type": "message",
+      "text": "<https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1654000524961629>\n私も流れに乗れなかったんですが、これは同感でした",
+      "user": "U0PM6EYR1",
+      "ts": "1654060269.324969",
+      "team": "T0GFBAM8C",
+      "attachments": [
+        {
+          "from_url": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1654000524961629",
+          "ts": "1654000524.961629",
+          "author_id": "U70QDFN82",
+          "channel_team": "T0GFBAM8C",
+          "channel_id": "C0GFH3RHC",
+          "channel_name": "general",
+          "is_msg_unfurl": true,
+          "is_thread_root_unfurl": true,
+          "message_blocks": [
+            {
+              "team": "T0GFBAM8C",
+              "channel": "C0GFH3RHC",
+              "ts": "1654000524.961629",
+              "message": {
+                "blocks": [
+                  {
+                    "type": "rich_text",
+                    "block_id": "Pe9",
+                    "elements": [
+                      {
+                        "type": "rich_text_list",
+                        "elements": [
+                          {
+                            "type": "rich_text_section",
+                            "elements": [
+                              {
+                                "type": "text",
+                                "text": "ArchLinuxの連載とか激アツじゃん"
+                              }
+                            ]
+                          },
+                          {
+                            "type": "rich_text_section",
+                            "elements": [
+                              {
+                                "type": "text",
+                                "text": "けど書くならなにを書くのがいいんだろう・・・？"
+                              }
+                            ]
+                          },
+                          {
+                            "type": "rich_text_section",
+                            "elements": [
+                              {
+                                "type": "text",
+                                "text": "つかArchLinuxのメリットってなんだっけ？？"
+                              }
+                            ]
+                          },
+                          {
+                            "type": "rich_text_section",
+                            "elements": [
+                              {
+                                "type": "text",
+                                "text": "いくつか思いつくけど、もしかしてArchだからってわけじゃない？"
+                              }
+                            ]
+                          },
+                          {
+                            "type": "rich_text_section",
+                            "elements": [
+                              {
+                                "type": "text",
+                                "text": "というか私はLinuxをうまく使ってるだけ？ <- イマココ"
+                              }
+                            ]
+                          }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                      }
+                    ]
+                  }
+                ]
+              }
+            }
+          ],
+          "id": 1,
+          "original_url": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1654000524961629",
+          "fallback": "[May 31st, 2022 5:35 AM] yutakatay: • ArchLinuxの連載とか激アツじゃん\n• けど書くならなにを書くのがいいんだろう・・・？\n• つかArchLinuxのメリットってなんだっけ？？\n• いくつか思いつくけど、もしかしてArchだからってわけじゃない？\n• というか私はLinuxをうまく使ってるだけ？ &lt;- イマココ",
+          "text": "• ArchLinuxの連載とか激アツじゃん\n• けど書くならなにを書くのがいいんだろう・・・？\n• つかArchLinuxのメリットってなんだっけ？？\n• いくつか思いつくけど、もしかしてArchだからってわけじゃない？\n• というか私はLinuxをうまく使ってるだけ？ &lt;- イマココ",
+          "author_name": "yutkat",
+          "author_link": "https://archlinuxjp.slack.com/team/U70QDFN82",
+          "author_icon": "https://avatars.slack-edge.com/2022-03-03/3184293114882_be67d2adfd8032e58911_48.png",
+          "author_subname": "yutkat",
+          "mrkdwn_in": [
+            "text"
+          ],
+          "footer": "#general のスレッド"
+        }
+      ],
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "SE5Qx",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "link",
+                  "url": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1654000524961629"
+                },
+                {
+                  "type": "text",
+                  "text": "\n私も流れに乗れなかったんですが、これは同感でした"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "e036f14c-1497-497e-b317-2ec268c4ecd5",
+      "type": "message",
+      "text": "趣味・趣向が分断されすぎていて、みんなバラバラにいろんなのが好きだし、一般向けは書きにくいよねー。",
+      "user": "U0H9QUFA5",
+      "ts": "1654058620.924669",
+      "team": "T0GFBAM8C",
+      "edited": {
+        "user": "U0H9QUFA5",
+        "ts": "1654058641.000000"
+      },
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "D2Rm",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "趣味・趣向が分断されすぎていて、みんなバラバラにいろんなのが好きだし、一般向けは書きにくいよねー。"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "9c3fd7a4-19d3-4c4c-879a-1763cf041ec1",
+      "type": "message",
+      "text": "ま、雑誌に乗りたい気持ちはわかる。",
+      "user": "U0H9QUFA5",
+      "ts": "1654058489.017939",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "O9RR",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "ま、雑誌に乗りたい気持ちはわかる。"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "43b13d77-59a5-4566-b20a-3b68458e72aa",
+      "type": "message",
+      "text": "半分ぐらいunixpornな気が",
+      "user": "UVB7L4CKH",
+      "ts": "1654058472.345739",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "=0JI",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "半分ぐらいunixpornな気が"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "reactions": [
+        {
+          "name": "wakaru",
+          "users": [
+            "U70QDFN82",
+            "U6DL9D3AB",
+            "U0H9QUFA5",
+            "U01HE1ENNJZ"
+          ],
+          "count": 4
+        }
+      ]
+    },
+    {
+      "client_msg_id": "e6e67fb0-3fb4-44a4-a075-3791ca426114",
+      "type": "message",
+      "text": "もうちょいpublicなところで……",
+      "user": "UUWBU08TU",
+      "ts": "1654058466.274709",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "Iyt",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "もうちょいpublicなところで……"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "301c15dd-1312-4b85-bf59-0be16a580e1d",
+      "type": "message",
+      "text": "そのネタ、ここでやれば十分じゃね？",
+      "user": "U0H9QUFA5",
+      "ts": "1654058456.824649",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "Sdn",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "そのネタ、ここでやれば十分じゃね？"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "b2f3cf7a-f54d-4cf9-ba4f-a09215a1f9f2",
+      "type": "message",
+      "text": "突撃！オタクのArch Linuxはなんか別のところでやると面白そうですね",
+      "user": "UUWBU08TU",
+      "ts": "1654058451.438179",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "LXt=D",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "突撃！オタクのArch Linuxはなんか別のところでやると面白そうですね"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "61f15ab2-e2f9-439f-a55e-005ed9f2f156",
+      "type": "message",
+      "text": "突撃！オタクのArch Linuxなら参加したかったんですが",
+      "user": "UVB7L4CKH",
+      "ts": "1654058426.702429",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "PR0",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "突撃！オタクのArch Linuxなら参加したかったんですが"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "reactions": [
+        {
+          "name": "wakaru",
+          "users": [
+            "U70QDFN82",
+            "U0H9QUFA5",
+            "U01HE1ENNJZ"
+          ],
+          "count": 3
+        }
+      ]
+    },
+    {
+      "client_msg_id": "0c0b7e21-182b-4c8d-af6b-211cdb184874",
+      "type": "message",
+      "text": "最初はこっちが本題だったはずなんですけどね・・・なぜか寄付の方で活動してる・・・",
+      "user": "U70QDFN82",
+      "ts": "1654058423.070099",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "VfvL",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "最初はこっちが本題だったはずなんですけどね・・・なぜか寄付の方で活動してる・・・"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "684ef6a0-57e2-435b-960a-d381c85a8f32",
+      "type": "message",
+      "text": "単純に盛り上がりに乗り損ねたので残念だなと\n書けるほどArchについて知ってる訳でもないですし……",
+      "user": "UVB7L4CKH",
+      "ts": "1654058395.677659",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "4uH",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "単純に盛り上がりに乗り損ねたので残念だなと\n書けるほどArchについて知ってる訳でもないですし……"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "715c9aee-fa6f-4b36-a0b4-4a5ef2effb3b",
+      "type": "message",
+      "text": "お、執筆希望？",
+      "user": "U70QDFN82",
+      "ts": "1654058362.948029",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "8wT",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "お、執筆希望？"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "38f64176-bbe0-48cd-92fd-b9dd79f21a9f",
+      "type": "message",
+      "text": "昨日からずっとJupyterコンテナ弄ってたら昨日の話に乗り損ねた",
+      "user": "UVB7L4CKH",
+      "ts": "1654058313.366139",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "8D/W",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "昨日からずっとJupyterコンテナ弄ってたら昨日の話に乗り損ねた"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "reactions": [
+        {
+          "name": "eyes",
+          "users": [
+            "UUWBU08TU"
+          ],
+          "count": 1
+        }
+      ]
+    },
+    {
+      "client_msg_id": "650878b0-9f6a-4f9d-a3c7-14f1e84b1a13",
+      "type": "message",
+      "text": "ですね",
+      "user": "U70QDFN82",
+      "ts": "1654057239.093559",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "vAhc3",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "ですね"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "3931358c-d472-4438-a362-0f663027eaf9",
+      "type": "message",
+      "text": "ここの <@U3FJYR7MG> さんの可能性",
+      "user": "U0GFBAM8U",
+      "ts": "1654057230.231199",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "5K6k",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "ここの "
+                },
+                {
+                  "type": "user",
+                  "user_id": "U3FJYR7MG"
+                },
+                {
+                  "type": "text",
+                  "text": " さんの可能性"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "18090f10-6b77-40d9-9d30-2d2a36ef2844",
+      "type": "message",
+      "text": "そういえば、こっちのコメントすばらしかった。githubスポンサーするとprofileにアイコン載るのでかっこいい\n<https://www.reddit.com/r/archlinux/comments/v1rlnh/petition_to_add_github_sponsors_as_a_way_to/iao34tv/>",
+      "user": "U0GFBAM8U",
+      "ts": "1654057094.646149",
+      "team": "T0GFBAM8C",
+      "attachments": [
+        {
+          "from_url": "https://www.reddit.com/r/archlinux/comments/v1rlnh/petition_to_add_github_sponsors_as_a_way_to/iao34tv/",
+          "thumb_url": "https://www.redditstatic.com/new-icon.png",
+          "thumb_width": 256,
+          "thumb_height": 256,
+          "service_icon": "http://www.redditstatic.com/desktop2x/img/favicon/apple-icon-57x57.png",
+          "id": 1,
+          "original_url": "https://www.reddit.com/r/archlinux/comments/v1rlnh/petition_to_add_github_sponsors_as_a_way_to/iao34tv/",
+          "fallback": "reddit: Petition to add GitHub Sponsors as a way to donate to Arch Linux project",
+          "text": "I agree with this too. I'd like to have one means of donation. Also, it is lovely to be listed on Github Sponsoring!",
+          "title": "Petition to add GitHub Sponsors as a way to donate to Arch Linux project",
+          "title_link": "https://www.reddit.com/r/archlinux/comments/v1rlnh/petition_to_add_github_sponsors_as_a_way_to/iao34tv/",
+          "service_name": "reddit"
+        }
+      ],
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "F2G",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "そういえば、こっちのコメントすばらしかった。githubスポンサーするとprofileにアイコン載るのでかっこいい\n"
+                },
+                {
+                  "type": "link",
+                  "url": "https://www.reddit.com/r/archlinux/comments/v1rlnh/petition_to_add_github_sponsors_as_a_way_to/iao34tv/"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "5f703975-30ec-4d2c-8ba1-56ec121b18b7",
+      "type": "message",
+      "text": "実は私は英語でFワードを書かれているのを見ても、全く何も感じなくて「ふーん、github嫌いな人もいるんだなあ」くらいにしか思わなかったりするだけど、母国語じゃないからなのか、似たような感覚の人がいれば教えてほしい...これ英語全くできないからなのかも",
+      "user": "U0GFBAM8U",
+      "ts": "1654056994.708159",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "WNP1v",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "実は私は英語でFワードを書かれているのを見ても、全く何も感じなくて「ふーん、github嫌いな人もいるんだなあ」くらいにしか思わなかったりするだけど、母国語じゃないからなのか、似たような感覚の人がいれば教えてほしい...これ英語全くできないからなのかも"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "46bd3e07-dc8b-4a98-9a0b-efadc8ac9733",
+      "type": "message",
+      "text": "down voteされてるクソリプチェーンがおもしろい\n<https://www.reddit.com/r/archlinux/comments/v1rlnh/comment/iaoxdnf/?utm_source=share&amp;utm_medium=web2x&amp;context=3>",
+      "user": "U70QDFN82",
+      "ts": "1654056327.021709",
+      "team": "T0GFBAM8C",
+      "attachments": [
+        {
+          "from_url": "https://www.reddit.com/r/archlinux/comments/v1rlnh/comment/iaoxdnf/?utm_source=share&utm_medium=web2x&context=3",
+          "thumb_url": "https://www.redditstatic.com/new-icon.png",
+          "thumb_width": 256,
+          "thumb_height": 256,
+          "service_icon": "http://www.redditstatic.com/desktop2x/img/favicon/apple-icon-57x57.png",
+          "id": 1,
+          "original_url": "https://www.reddit.com/r/archlinux/comments/v1rlnh/comment/iaoxdnf/?utm_source=share&amp;utm_medium=web2x&amp;context=3",
+          "fallback": "reddit: Petition to add GitHub Sponsors as a way to donate to Arch Linux project",
+          "text": "petition to let github die in a fire",
+          "title": "Petition to add GitHub Sponsors as a way to donate to Arch Linux project",
+          "title_link": "https://www.reddit.com/r/archlinux/comments/v1rlnh/comment/iaoxdnf/?utm_source=share&utm_medium=web2x&context=3",
+          "service_name": "reddit"
+        }
+      ],
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "PH/X0",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "down voteされてるクソリプチェーンがおもしろい\n"
+                },
+                {
+                  "type": "link",
+                  "url": "https://www.reddit.com/r/archlinux/comments/v1rlnh/comment/iaoxdnf/?utm_source=share&utm_medium=web2x&context=3"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "07958644-85b6-4b7d-be14-2c32d4a22743",
+      "type": "message",
+      "text": "ちゃんと盛り上がってた。いいことだ",
+      "user": "U70QDFN82",
+      "ts": "1654045567.149869",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "AGH5b",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "ちゃんと盛り上がってた。いいことだ"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "reactions": [
+        {
+          "name": "archjp-joy",
+          "users": [
+            "U02BLTTQEL9",
+            "U0GFBAM8U",
+            "U6DL9D3AB",
+            "UJ7P75WB1",
+            "U01HE1ENNJZ"
+          ],
+          "count": 5
+        }
+      ]
+    },
+    {
+      "client_msg_id": "656108dd-38d0-4ca2-a206-bd49a005dc3c",
+      "type": "message",
+      "text": "&gt; Arch Linux does not manage their own finances. That is very important to know. Our Fiscial Sponsor is Software in the Public Interest. They essentially do our taxes, manages the bank account and has a little bit of discretion around how we spend our funds.\n&gt; \nなるほど、SPIが管理している",
+      "user": "UUWBU08TU",
+      "ts": "1654015269.828269",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "tHZ",
+          "elements": [
+            {
+              "type": "rich_text_quote",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "Arch Linux does not manage their own finances. That is very important to know. Our Fiscial Sponsor is Software in the Public Interest. They essentially do our taxes, manages the bank account and has a little bit of discretion around how we spend our funds.\n"
+                }
+              ],
+              "border": 0
+            },
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "なるほど、SPIが管理している"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "reactions": [
+        {
+          "name": "hee",
+          "users": [
+            "U02ASPM0A6T"
+          ],
+          "count": 1
+        }
+      ]
+    },
+    {
+      "client_msg_id": "c6ab8666-1397-4f07-9198-ec8c88cb9a7f",
+      "type": "message",
+      "text": "体感2時間くらい出ないイメージ",
+      "user": "U70QDFN82",
+      "ts": "1654014893.474289",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "Caij",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "体感2時間くらい出ないイメージ"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "18b95a21-ba8c-475f-87c4-97ff87308848",
+      "type": "message",
+      "text": "よくわからんですけど最初ちょっとの間は出ないんですよね。voteが落ち着くまでupかdownか判別つかないからとか？",
+      "user": "U70QDFN82",
+      "ts": "1654014851.897379",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "OCnuW",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "よくわからんですけど最初ちょっとの間は出ないんですよね。voteが落ち着くまでupかdownか判別つかないからとか？"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "reactions": [
+        {
+          "name": "naruhodo",
+          "users": [
+            "U02BLTTQEL9"
+          ],
+          "count": 1
+        }
+      ]
+    },
+    {
+      "client_msg_id": "a113e104-3c08-4f90-a2ff-17fb4aab1bff",
+      "type": "message",
+      "text": "Postのvote数が出てこないのって数が少ないからですか？Reddit民じゃないのであまりよくわからない。",
+      "user": "U02BLTTQEL9",
+      "ts": "1654010879.839229",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "JhxKc",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "Postのvote数が出てこないのって数が少ないからですか？Reddit民じゃないのであまりよくわからない。"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "676a8048-6d2f-41bf-9b59-4954af8e0594",
+      "type": "message",
+      "text": "Redditアカウントある人はup voteだけでもお願いします :bow: Hotに入ったら勝ち",
+      "user": "U70QDFN82",
+      "ts": "1654007858.561059",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "oJhoB",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "Redditアカウントある人はup voteだけでもお願いします "
+                },
+                {
+                  "type": "emoji",
+                  "name": "bow",
+                  "unicode": "1f647"
+                },
+                {
+                  "type": "text",
+                  "text": " Hotに入ったら勝ち"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "reactions": [
+        {
+          "name": "nyancat",
+          "users": [
+            "U0GFBAM8U",
+            "U3FJYR7MG",
+            "U02BLTTQEL9",
+            "U01HE1ENNJZ"
+          ],
+          "count": 4
+        }
+      ]
+    },
+    {
+      "client_msg_id": "460d1124-9fb8-424c-b3e7-adfdbcf0771b",
+      "type": "message",
+      "text": "Petition知らなかった、勉強になる",
+      "user": "UUWBU08TU",
+      "ts": "1654007601.669839",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "KMH8",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "Petition知らなかった、勉強になる"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "236c753e-cac5-4c10-ad94-1c88568030e4",
+      "type": "message",
+      "text": "投げようとしたときにRedditは探しましたがMLとかは見てませんでした、ありがとうございます:pray:",
+      "user": "UJ7P75WB1",
+      "ts": "1654007584.119949",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "=jq",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "投げようとしたときにRedditは探しましたがMLとかは見てませんでした、ありがとうございます"
+                },
+                {
+                  "type": "emoji",
+                  "name": "pray",
+                  "unicode": "1f64f"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "84fadbaf-c972-492a-a282-af468e4552e2",
+      "type": "message",
+      "text": "とりあえずメーリングリストとかフォーラムは漁りましたけどなさそうでしたね",
+      "user": "U70QDFN82",
+      "ts": "1654007552.641179",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "u79Lg",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "とりあえずメーリングリストとかフォーラムは漁りましたけどなさそうでしたね"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "reactions": [
+        {
+          "name": "bow",
+          "users": [
+            "UJ7P75WB1"
+          ],
+          "count": 1
+        }
+      ]
+    },
+    {
+      "client_msg_id": "9f01a811-8c37-4d93-b4a6-dd659ba3ba9d",
+      "type": "message",
+      "text": "だいじょうぶ",
+      "user": "U0GFBAM8U",
+      "ts": "1654007550.759109",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "O65",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "だいじょうぶ"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "41ef143a-eb42-43b6-982a-c8ebd1343e36",
+      "type": "message",
+      "text": "(英弱なのでもっと怖い)",
+      "user": "UJ7P75WB1",
+      "ts": "1654007549.828529",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "gE4",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "(英弱なのでもっと怖い)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "b4987a47-3b12-4f38-b4c3-8258fe009bd3",
+      "type": "message",
+      "text": "<https://www.reddit.com/r/archlinux/comments/v1rlnh/petition_to_add_github_sponsors_as_a_way_to|https://www.reddit.com/r/archlinux/comments/v1rlnh/petition_to_add_github_sponsors_as_a_way_to>\nとりあえず投げました、ちょっと怖い…",
+      "user": "UJ7P75WB1",
+      "ts": "1654007521.809279",
+      "team": "T0GFBAM8C",
+      "attachments": [
+        {
+          "from_url": "https://www.reddit.com/r/archlinux/comments/v1rlnh/petition_to_add_github_sponsors_as_a_way_to",
+          "thumb_url": "https://www.redditstatic.com/new-icon.png",
+          "thumb_width": 256,
+          "thumb_height": 256,
+          "service_icon": "http://www.redditstatic.com/desktop2x/img/favicon/apple-icon-57x57.png",
+          "id": 1,
+          "original_url": "https://www.reddit.com/r/archlinux/comments/v1rlnh/petition_to_add_github_sponsors_as_a_way_to",
+          "fallback": "reddit: Petition to add GitHub Sponsors as a way to donate to Arch Linux project",
+          "text": "As the title says, is there any possibilities for Arch devs to start GitHub Sponsors? Background: here in Japan it's impossible to donate via...",
+          "title": "Petition to add GitHub Sponsors as a way to donate to Arch Linux project",
+          "title_link": "https://www.reddit.com/r/archlinux/comments/v1rlnh/petition_to_add_github_sponsors_as_a_way_to",
+          "service_name": "reddit"
+        }
+      ],
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "0zA",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "link",
+                  "url": "https://www.reddit.com/r/archlinux/comments/v1rlnh/petition_to_add_github_sponsors_as_a_way_to",
+                  "text": "https://www.reddit.com/r/archlinux/comments/v1rlnh/petition_to_add_github_sponsors_as_a_way_to"
+                },
+                {
+                  "type": "text",
+                  "text": "\nとりあえず投げました、ちょっと怖い…"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "thread_ts": "1654007521.809279",
+      "reply_count": 5,
+      "reply_users_count": 2,
+      "latest_reply": "1654008945.122109",
+      "reply_users": [
+        "UUWBU08TU",
+        "UJ7P75WB1"
+      ],
+      "is_locked": false,
+      "subscribed": false,
+      "reactions": [
+        {
+          "name": "+1",
+          "users": [
+            "U70QDFN82",
+            "UUWBU08TU",
+            "U02BLTTQEL9",
+            "U03921SFM3L",
+            "U0H9QUFA5",
+            "U01HE1ENNJZ"
+          ],
+          "count": 6
+        },
+        {
+          "name": "github",
+          "users": [
+            "U0GFBAM8U"
+          ],
+          "count": 1
+        }
+      ]
+    },
+    {
+      "client_msg_id": "363db0dc-f25c-41b3-b74c-bc1a16396b9d",
+      "type": "message",
+      "text": "us/eu どちら発祥かという視点、面白そう",
+      "user": "U0GFBAM8U",
+      "ts": "1654007469.708209",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "g/Q",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "us/eu どちら発祥かという視点、面白そう"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "message",
+      "text": "これまじいらつくからやめてほしい・・・",
+      "files": [
+        {
+          "id": "F03HG1KC894",
+          "created": 1654007251,
+          "timestamp": 1654007251,
+          "name": "2022-05-31_23-27.png",
+          "title": "2022-05-31_23-27.png",
+          "mimetype": "image/png",
+          "filetype": "png",
+          "pretty_type": "PNG",
+          "user": "U70QDFN82",
+          "editable": false,
+          "size": 22064,
+          "mode": "hosted",
+          "is_external": false,
+          "external_type": "",
+          "is_public": true,
+          "public_url_shared": false,
+          "display_as_bot": false,
+          "username": "",
+          "url_private": "https://files.slack.com/files-pri/T0GFBAM8C-F03HG1KC894/2022-05-31_23-27.png",
+          "url_private_download": "https://files.slack.com/files-pri/T0GFBAM8C-F03HG1KC894/download/2022-05-31_23-27.png",
+          "media_display_type": "unknown",
+          "thumb_64": "https://files.slack.com/files-tmb/T0GFBAM8C-F03HG1KC894-a150cdced8/2022-05-31_23-27_64.png",
+          "thumb_80": "https://files.slack.com/files-tmb/T0GFBAM8C-F03HG1KC894-a150cdced8/2022-05-31_23-27_80.png",
+          "thumb_360": "https://files.slack.com/files-tmb/T0GFBAM8C-F03HG1KC894-a150cdced8/2022-05-31_23-27_360.png",
+          "thumb_360_w": 360,
+          "thumb_360_h": 157,
+          "thumb_480": "https://files.slack.com/files-tmb/T0GFBAM8C-F03HG1KC894-a150cdced8/2022-05-31_23-27_480.png",
+          "thumb_480_w": 480,
+          "thumb_480_h": 209,
+          "thumb_160": "https://files.slack.com/files-tmb/T0GFBAM8C-F03HG1KC894-a150cdced8/2022-05-31_23-27_160.png",
+          "original_w": 715,
+          "original_h": 312,
+          "thumb_tiny": "AwAUADCoJMD7q/iKbn2pKPwoEGfY0ZFJ+FH4UDFyKNwpPwo/CgBRRgUCigAwKMCiigAwKMUUUAf/2Q==",
+          "permalink": "https://archlinuxjp.slack.com/files/U70QDFN82/F03HG1KC894/2022-05-31_23-27.png",
+          "permalink_public": "https://slack-files.com/T0GFBAM8C-F03HG1KC894-bef6fb6942",
+          "is_starred": false,
+          "has_rich_preview": false
+        }
+      ],
+      "upload": false,
+      "user": "U70QDFN82",
+      "display_as_bot": false,
+      "ts": "1654007263.795809",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "5Pn6Y",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "これまじいらつくからやめてほしい・・・"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "client_msg_id": "99f97edd-ec27-450e-9273-9dffb72a2171"
+    },
+    {
+      "client_msg_id": "1dfb2c28-4874-4a79-86f6-8338d0a8fad4",
+      "type": "message",
+      "text": "まあ訴えてみて散るならそれはそれでOKな気がします。チャレンジしないと。つかもう誰かしてたり？",
+      "user": "U70QDFN82",
+      "ts": "1654007179.926359",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "Q9U+",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "まあ訴えてみて散るならそれはそれでOKな気がします。チャレンジしないと。つかもう誰かしてたり？"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "998c74a6-c3c2-45dd-b9e1-ae173acb1c4f",
+      "type": "message",
+      "text": "日付見たら1年前くらいからだった(おそらく",
+      "user": "U0GFBAM8U",
+      "ts": "1654007153.209669",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "YYrD3",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "日付見たら1年前くらいからだった(おそらく"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "013e5ae0-2e89-4c5f-9402-3a6042b863e1",
+      "type": "message",
+      "text": "ArchってUSのOrganizationなイメージあんまりないんですが(EUあたりだったような)、収入の扱いが面倒そうというのはあります(個人だと ~W8-BEN~ W-8BEN とか書かないといけないですが団体だとどうなるのか分かってない)",
+      "user": "UUWBU08TU",
+      "ts": "1654007129.305309",
+      "team": "T0GFBAM8C",
+      "edited": {
+        "user": "UUWBU08TU",
+        "ts": "1654007214.000000"
+      },
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "ZPP",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "ArchってUSのOrganizationなイメージあんまりないんですが(EUあたりだったような)、収入の扱いが面倒そうというのはあります(個人だと "
+                },
+                {
+                  "type": "text",
+                  "text": "W8-BEN",
+                  "style": {
+                    "strike": true
+                  }
+                },
+                {
+                  "type": "text",
+                  "text": " W-8BEN とか書かないといけないですが団体だとどうなるのか分かってない)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "5eb5aa38-5734-45d2-8965-65953a4aef81",
+      "type": "message",
+      "text": "ArchConfでもGitHubじゃなくてGitLabの方にしたいっての言ってましたし",
+      "user": "U70QDFN82",
+      "ts": "1654007074.219289",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "6GOd",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "ArchConfでもGitHubじゃなくてGitLabの方にしたいっての言ってましたし"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "472ac3f1-7498-4cb8-b42f-6949e842ec41",
+      "type": "message",
+      "text": "そういえば、最近、git serverがgitlabで立ってる\n<https://gitlab.archlinux.org/>",
+      "user": "U0GFBAM8U",
+      "ts": "1654007073.311119",
+      "team": "T0GFBAM8C",
+      "attachments": [
+        {
+          "from_url": "https://gitlab.archlinux.org/",
+          "thumb_url": "https://gitlab.archlinux.org/assets/twitter_card-570ddb06edf56a2312253c5872489847a0f385112ddbcd71ccfa1570febab5d2.jpg",
+          "thumb_width": 1024,
+          "thumb_height": 1024,
+          "service_icon": "https://gitlab.archlinux.org/assets/apple-touch-icon-b049d4bc0dd9626f31db825d61880737befc7835982586d015bded10b4435460.png",
+          "id": 1,
+          "original_url": "https://gitlab.archlinux.org/",
+          "fallback": "GitLab: Groups · Explore · GitLab",
+          "text": "GitLab Enterprise Edition",
+          "title": "Groups · Explore · GitLab",
+          "title_link": "https://gitlab.archlinux.org/",
+          "service_name": "GitLab"
+        }
+      ],
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "0le",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "そういえば、最近、git serverがgitlabで立ってる\n"
+                },
+                {
+                  "type": "link",
+                  "url": "https://gitlab.archlinux.org/"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "08eb75ec-e340-4176-9dbf-9bf7fdfde02f",
+      "type": "message",
+      "text": "それはありますね",
+      "user": "U70QDFN82",
+      "ts": "1654007045.371199",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "ODc",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "それはありますね"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "a2fe0299-8c98-4f64-90ea-52f1a197ef4a",
+      "type": "message",
+      "text": "何らかのこだわりがある可能性も(githubを使いたがらない",
+      "user": "U0GFBAM8U",
+      "ts": "1654007035.192149",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "Hvj+x",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "何らかのこだわりがある可能性も(githubを使いたがらない"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "018bffda-059d-476e-9ed3-7c914e8bbcf3",
+      "type": "message",
+      "text": "援護します",
+      "user": "U70QDFN82",
+      "ts": "1654006949.773909",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "0Y4xJ",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "援護します"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "fca1bd18-a6fe-4e7c-8b94-939fc03562c6",
+      "type": "message",
+      "text": "今からでも立てたほうがいいですかね？なんか自分だけじゃないとわかったので心強くなってしまいました",
+      "user": "UJ7P75WB1",
+      "ts": "1654006931.878629",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "zV7k",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "今からでも立てたほうがいいですかね？なんか自分だけじゃないとわかったので心強くなってしまいました"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "reactions": [
+        {
+          "name": "+1",
+          "users": [
+            "U70QDFN82",
+            "UUWBU08TU",
+            "U0H9QUFA5",
+            "U01HE1ENNJZ"
+          ],
+          "count": 4
+        }
+      ]
+    },
+    {
+      "client_msg_id": "9f428a59-3734-405b-96f9-139d91706b38",
+      "type": "message",
+      "text": "解除するの忘れちゃいそうだから、寄付する場所できるだけ一箇所にしときたいですよね・・・（しかもよく見るところ）",
+      "user": "U70QDFN82",
+      "ts": "1654006920.297439",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "1uY",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "解除するの忘れちゃいそうだから、寄付する場所できるだけ一箇所にしときたいですよね・・・（しかもよく見るところ）"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "47264bfd-ed2e-42de-8be2-2df826cb93ce",
+      "type": "message",
+      "text": "GitHub Sponsorsで寄付受け付けてよ〜ってスレをRedditで立てようと一瞬思ったことがあるんですが、なんでPaypalとか使わないの？って言われそうで躊躇ってやめました…",
+      "user": "UJ7P75WB1",
+      "ts": "1654006842.833139",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "V7L",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "GitHub Sponsorsで寄付受け付けてよ〜ってスレをRedditで立てようと一瞬思ったことがあるんですが、なんでPaypalとか使わないの？って言われそうで躊躇ってやめました…"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "reactions": [
+        {
+          "name": "majika",
+          "users": [
+            "U70QDFN82",
+            "U01HE1ENNJZ"
+          ],
+          "count": 2
+        }
+      ]
+    },
+    {
+      "type": "message",
+      "subtype": "thread_broadcast",
+      "text": "ArchInstallBattleよさらば!!実はお手軽Archinstallとかですか?",
+      "user": "U019C7VLZ4G",
+      "ts": "1654006576.339239",
+      "thread_ts": "1654000524.961629",
+      "root": {
+        "client_msg_id": "9ab62dd7-eeb6-49b2-89a0-957a1cc8262c",
+        "type": "message",
+        "text": "• ArchLinuxの連載とか激アツじゃん\n• けど書くならなにを書くのがいいんだろう・・・？\n• つかArchLinuxのメリットってなんだっけ？？\n• いくつか思いつくけど、もしかしてArchだからってわけじゃない？\n• というか私はLinuxをうまく使ってるだけ？ &lt;- イマココ",
+        "user": "U70QDFN82",
+        "ts": "1654000524.961629",
+        "team": "T0GFBAM8C",
+        "blocks": [
+          {
+            "type": "rich_text",
+            "block_id": "Pe9",
+            "elements": [
+              {
+                "type": "rich_text_list",
+                "elements": [
+                  {
+                    "type": "rich_text_section",
+                    "elements": [
+                      {
+                        "type": "text",
+                        "text": "ArchLinuxの連載とか激アツじゃん"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "rich_text_section",
+                    "elements": [
+                      {
+                        "type": "text",
+                        "text": "けど書くならなにを書くのがいいんだろう・・・？"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "rich_text_section",
+                    "elements": [
+                      {
+                        "type": "text",
+                        "text": "つかArchLinuxのメリットってなんだっけ？？"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "rich_text_section",
+                    "elements": [
+                      {
+                        "type": "text",
+                        "text": "いくつか思いつくけど、もしかしてArchだからってわけじゃない？"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "rich_text_section",
+                    "elements": [
+                      {
+                        "type": "text",
+                        "text": "というか私はLinuxをうまく使ってるだけ？ <- イマココ"
+                      }
+                    ]
+                  }
+                ],
+                "style": "bullet",
+                "indent": 0,
+                "border": 0
+              }
+            ]
+          }
+        ],
+        "thread_ts": "1654000524.961629",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1654006829.473109",
+        "reply_users": [
+          "U019C7VLZ4G",
+          "U70QDFN82"
+        ],
+        "is_locked": false,
+        "subscribed": false
+      },
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "z4+F7",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "ArchInstallBattleよさらば!!実はお手軽Archinstallとかですか?"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "client_msg_id": "1b64ab00-0384-44f1-8551-51dab73e654c"
+    },
+    {
+      "client_msg_id": "a981ac1b-2b86-4ae5-af06-d0755eb0ede6",
+      "type": "message",
+      "text": "ほんとここでSponsor申請してよ・・・\n<https://github.com/archlinux/archweb>",
+      "user": "U70QDFN82",
+      "ts": "1654005326.936699",
+      "team": "T0GFBAM8C",
+      "attachments": [
+        {
+          "from_url": "https://github.com/archlinux/archweb",
+          "image_url": "https://opengraph.githubassets.com/88823fd5a1f2cb17c2833878b9ff3278f4fabae676227d697176e463b9b7cc02/archlinux/archweb",
+          "image_width": 500,
+          "image_height": 250,
+          "image_bytes": 50255,
+          "service_icon": "https://a.slack-edge.com/80588/img/unfurl_icons/github.png",
+          "id": 1,
+          "original_url": "https://github.com/archlinux/archweb",
+          "fallback": "GitHub: GitHub - archlinux/archweb: Arch Linux website code",
+          "text": "Arch Linux website code. Contribute to archlinux/archweb development by creating an account on GitHub.",
+          "title": "GitHub - archlinux/archweb: Arch Linux website code",
+          "title_link": "https://github.com/archlinux/archweb",
+          "service_name": "GitHub"
+        }
+      ],
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "ZQ6",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "ほんとここでSponsor申請してよ・・・\n"
+                },
+                {
+                  "type": "link",
+                  "url": "https://github.com/archlinux/archweb"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "reactions": [
+        {
+          "name": "sorena",
+          "users": [
+            "U0H9QUFA5",
+            "UUWBU08TU"
+          ],
+          "count": 2
+        }
+      ]
+    },
+    {
+      "client_msg_id": "ce60f786-f701-4852-8459-1967f9fed196",
+      "type": "message",
+      "text": "クレカ払いで　donation してきた。でも、なんか成功した感じがしない。ほんとに払えたのか？",
+      "user": "U0H9QUFA5",
+      "ts": "1654005211.232759",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "HOnz",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "クレカ払いで　donation してきた。でも、なんか成功した感じがしない。ほんとに払えたのか？"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "reactions": [
+        {
+          "name": "archjp-joy",
+          "users": [
+            "U70QDFN82",
+            "U0GFBAM8U",
+            "UGA29R3FH",
+            "UUWBU08TU"
+          ],
+          "count": 4
+        }
+      ]
+    },
+    {
+      "client_msg_id": "43634068-C20F-4551-BE90-CC2B197FFA12",
+      "type": "message",
+      "text": "そうですねー(私もちょっと思ってた",
+      "user": "U0GFBAM8U",
+      "ts": "1654004809.047129",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "RAd5J",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "そうですねー"
+                },
+                {
+                  "type": "text",
+                  "text": "("
+                },
+                {
+                  "type": "text",
+                  "text": "私もちょっと思ってた"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "7fd1a6e9-a9b8-4061-8928-8c7cb7dd20dc",
+      "type": "message",
+      "text": "ちなみにログって観点だと <#C0H9P6W1K|rss> は私はまったく見てないんで止めてもいいんじゃ？ってのは同意ですね。\nリンク貼って話題にも出てきたことないし・・・",
+      "user": "U70QDFN82",
+      "ts": "1654004737.014899",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "dODPb",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "ちなみにログって観点だと "
+                },
+                {
+                  "type": "channel",
+                  "channel_id": "C0H9P6W1K"
+                },
+                {
+                  "type": "text",
+                  "text": " は私はまったく見てないんで止めてもいいんじゃ？ってのは同意ですね。\nリンク貼って話題にも出てきたことないし・・・"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "DD736056-01CE-43F9-AE9E-7E1C1847D11B",
+      "type": "message",
+      "text": "botは昔いた気がするんだけど停止してる",
+      "user": "U0GFBAM8U",
+      "ts": "1654004643.918069",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "4J4A",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "bot"
+                },
+                {
+                  "type": "text",
+                  "text": "は昔いた気がするんだけど停止してる"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "58666306-f214-41cb-a2eb-8868ca6f7e6d",
+      "type": "message",
+      "text": "私はDiscord派ですね。海外コミュニティはそっちが多い。（日本はなぜかSlackが多い・・・）",
+      "user": "U70QDFN82",
+      "ts": "1654004592.453389",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "pAsj/",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "私はDiscord派ですね。海外コミュニティはそっちが多い。（日本はなぜかSlackが多い・・・）"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "34DC3403-4B88-41F2-B8D1-5AAA65AF3C5A",
+      "type": "message",
+      "text": "rssとtwitter、実はslackが提供してる公式アプリ",
+      "user": "U0GFBAM8U",
+      "ts": "1654004565.035249",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "LuZ/",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "rss"
+                },
+                {
+                  "type": "text",
+                  "text": "と"
+                },
+                {
+                  "type": "text",
+                  "text": "twitter"
+                },
+                {
+                  "type": "text",
+                  "text": "、実は"
+                },
+                {
+                  "type": "text",
+                  "text": "slack"
+                },
+                {
+                  "type": "text",
+                  "text": "が提供してる公式アプリ"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "f1a11d05-d0d8-4969-b852-2c927f6f4fbd",
+      "type": "message",
+      "text": "あ、いや、10000メッセージがすぐ流れてしまったりしてつらいなと思ったり(まあメッセージを人質に取って商売するSlackがキツいというのはそうですが)(と思ったけどここは割と昔まで遡れるから大丈夫そう)",
+      "user": "UUWBU08TU",
+      "ts": "1654004540.467029",
+      "team": "T0GFBAM8C",
+      "edited": {
+        "user": "UUWBU08TU",
+        "ts": "1654004573.000000"
+      },
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "PDOXi",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "あ、いや、10000メッセージがすぐ流れてしまったりしてつらいなと思ったり(まあメッセージを人質に取って商売するSlackがキツいというのはそうですが)(と思ったけどここは割と昔まで遡れるから大丈夫そう)"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "reactions": [
+        {
+          "name": "wakaru",
+          "users": [
+            "U70QDFN82"
+          ],
+          "count": 1
+        }
+      ]
+    },
+    {
+      "client_msg_id": "7f059cc6-1349-4123-8a50-50864799d622",
+      "type": "message",
+      "text": "アプリ５つくらいまでは無料範囲内だったのでそれは問題ないんじゃないですかね？？",
+      "user": "U70QDFN82",
+      "ts": "1654004492.867939",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "DEvI",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "アプリ５つくらいまでは無料範囲内だったのでそれは問題ないんじゃないですかね？？"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "a2fdfaa7-fdec-4a44-9120-c900f27254df",
+      "type": "message",
+      "text": "いい機会なんで言いますが、Slack free planでtwitter feedとかrss流すのどうなんだろうと思ったり思わなかったりします(思います",
+      "user": "UUWBU08TU",
+      "ts": "1654004211.871179",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "e+Z/",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "いい機会なんで言いますが、Slack free planでtwitter feedとかrss流すのどうなんだろうと思ったり思わなかったりします(思います"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "c7366275-7b63-4588-9f9e-af3890870397",
+      "type": "message",
+      "text": "日本のLinuxディストリビューションでSlackのコミュニティがあるのはめずらしいって言ってもよさそう（本当はDiscordがいいけど）",
+      "user": "U70QDFN82",
+      "ts": "1654004165.092139",
+      "team": "T0GFBAM8C",
+      "edited": {
+        "user": "U70QDFN82",
+        "ts": "1654004182.000000"
+      },
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "L2p9W",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "日本のLinuxディストリビューションでSlackのコミュニティがあるのはめずらしいって言ってもよさそう（本当はDiscordがいいけど）"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "message",
+      "subtype": "thread_broadcast",
+      "text": "ちなみに一応調べたので投下\nUbuntu, Debian: メーリス、IRC\nOpenSUSE: Archと同じ感じ。Slackあり。けど招待リンクがないから入れない。潜入しようと思ったのに・・・",
+      "user": "U70QDFN82",
+      "ts": "1654003994.511499",
+      "thread_ts": "1654002113.823599",
+      "root": {
+        "client_msg_id": "ee269d4d-9d64-4c83-96d9-682dec6f3419",
+        "type": "message",
+        "text": "コミュニティがあるのは知ってるんですけど入り方不明なんですよね。DebianとかSUSEもときどき見る",
+        "user": "U70QDFN82",
+        "ts": "1654002113.823599",
+        "team": "T0GFBAM8C",
+        "blocks": [
+          {
+            "type": "rich_text",
+            "block_id": "b2+h",
+            "elements": [
+              {
+                "type": "rich_text_section",
+                "elements": [
+                  {
+                    "type": "text",
+                    "text": "コミュニティがあるのは知ってるんですけど入り方不明なんですよね。DebianとかSUSEもときどき見る"
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "thread_ts": "1654002113.823599",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1654003994.511499",
+        "reply_users": [
+          "U70QDFN82"
+        ],
+        "is_locked": false,
+        "subscribed": false
+      },
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "awlQ6",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "ちなみに一応調べたので投下\nUbuntu, Debian: メーリス、IRC\nOpenSUSE: Archと同じ感じ。Slackあり。けど招待リンクがないから入れない。潜入しようと思ったのに・・・"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "client_msg_id": "9c37cc28-b82f-49b2-b74f-673876129899"
+    },
+    {
+      "client_msg_id": "eb64a522-5353-45cf-9be1-b7a5d1dd27d4",
+      "type": "message",
+      "text": "返せと言い続けると過剰に返ってきたりしますね",
+      "user": "UUWBU08TU",
+      "ts": "1654003636.165229",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "UHGI",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "返せと言い続けると過剰に返ってきたりしますね"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "reactions": [
+        {
+          "name": "wakaru",
+          "users": [
+            "U70QDFN82",
+            "U0J2VATJA"
+          ],
+          "count": 2
+        }
+      ]
+    },
+    {
+      "client_msg_id": "4A2FD242-4C78-4F9E-9645-47F3CD5A763E",
+      "type": "message",
+      "text": "海外サービスだと結構そういうの多いですよね",
+      "user": "U0GFBAM8U",
+      "ts": "1654003607.569699",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "xJ8",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "海外サービスだと結構そういうの多いですよね"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "reactions": [
+        {
+          "name": "sorena",
+          "users": [
+            "U0H9QUFA5"
+          ],
+          "count": 1
+        }
+      ]
+    },
+    {
+      "client_msg_id": "06d24f07-bafe-4c5b-a10a-4600ee99cbd7",
+      "type": "message",
+      "text": "つらい",
+      "user": "UUWBU08TU",
+      "ts": "1654003569.154759",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "Upb",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "つらい"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "7aab73aa-f35b-45e1-b915-de711f460001",
+      "type": "message",
+      "text": "VPNを契約して、解約しても引き落とされたことあるから、強制的に解約できるPayPalでないと怖い。",
+      "user": "U0H9QUFA5",
+      "ts": "1654003435.975469",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "b3uG",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "VPNを契約して、解約しても引き落とされたことあるから、強制的に解約できるPayPalでないと怖い。"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "77f7529e-4095-441a-9f3d-84fa83038e06",
+      "type": "message",
+      "text": "カード、不正利用されたらカード会社に泣きつくという覚悟で適当に入力しがち",
+      "user": "UUWBU08TU",
+      "ts": "1654003342.274819",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "AbH4",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "カード、不正利用されたらカード会社に泣きつくという覚悟で適当に入力しがち"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "0f90ee32-9309-4e47-89b4-52f27610b133",
+      "type": "message",
+      "text": "全てを理解",
+      "user": "UUWBU08TU",
+      "ts": "1654003280.818719",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "piy",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "全てを理解"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "315ed99d-d594-40e7-bad0-02e3b597e3a3",
+      "type": "message",
+      "text": "paypal: `Donations to this recipient aren't supported in this country`",
+      "user": "U8T8KB5M4",
+      "ts": "1654003270.909119",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "Ikt",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "paypal: "
+                },
+                {
+                  "type": "text",
+                  "text": "Donations to this recipient aren't supported in this country",
+                  "style": {
+                    "code": true
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "reactions": [
+        {
+          "name": "me-too",
+          "users": [
+            "U0H9QUFA5",
+            "UUKAMN0MU"
+          ],
+          "count": 2
+        }
+      ]
+    },
+    {
+      "client_msg_id": "ac805a34-f31f-4ba9-a020-6f6eb5d4dcfc",
+      "type": "message",
+      "text": "OpeCollective使えないんでしたっけ(見ます",
+      "user": "UUWBU08TU",
+      "ts": "1654003240.468689",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "xyT",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "OpeCollective使えないんでしたっけ(見ます"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "923d5ea4-34ec-4193-a829-0a6f60de27f7",
+      "type": "message",
+      "text": "GitHubSponsorがいいけど、それじゃなくてもせめてpatreonとかopencollectiveとかもうちょいメジャーなやつにしてくれ・・・",
+      "user": "U70QDFN82",
+      "ts": "1654003227.726649",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "Aitoc",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "GitHubSponsorがいいけど、それじゃなくてもせめてpatreonとかopencollectiveとかもうちょいメジャーなやつにしてくれ・・・"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "reactions": [
+        {
+          "name": "sorena",
+          "users": [
+            "U0H9QUFA5"
+          ],
+          "count": 1
+        }
+      ]
+    },
+    {
+      "client_msg_id": "9bfb7773-993e-4263-8199-3355fed578ac",
+      "type": "message",
+      "text": "PayPal使えたような。使えなくなったんでしたっけ(日本からの寄付はどうのこうのだった記憶もあるような)",
+      "user": "UUWBU08TU",
+      "ts": "1654003160.716609",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "N3lk",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "PayPal使えたような。使えなくなったんでしたっけ(日本からの寄付はどうのこうのだった記憶もあるような)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "bb053c2a-8920-4816-8059-8059c305c722",
+      "type": "message",
+      "text": "paypal　つかえんのなんでや？",
+      "user": "U0H9QUFA5",
+      "ts": "1654003144.932279",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "VXl5d",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "paypal　つかえんのなんでや？"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "48bd05ad-a617-4ad1-83c2-bfeec6be52d7",
+      "type": "message",
+      "text": "paypal使えたら喜んで押すんですが…",
+      "user": "U8T8KB5M4",
+      "ts": "1654003128.741159",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "wBBnt",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "paypal使えたら喜んで押すんですが…"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "e53b5b0c-4863-433f-9ace-aef3e9df7a3b",
+      "type": "message",
+      "text": "GitHub Sponsorは楽なので気軽に押してしまいがち(ArchもGitHub Sponsorあれば押すのにと思いました",
+      "user": "UUWBU08TU",
+      "ts": "1654003087.001029",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "GUO8W",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "GitHub Sponsorは楽なので気軽に押してしまいがち(ArchもGitHub Sponsorあれば押すのにと思いました"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "reactions": [
+        {
+          "name": "sorena",
+          "users": [
+            "U70QDFN82",
+            "U02BLTTQEL9",
+            "U01HE1ENNJZ"
+          ],
+          "count": 3
+        }
+      ]
+    },
+    {
+      "client_msg_id": "cfea674e-fc55-4217-836d-d81a678759d4",
+      "type": "message",
+      "text": "私Tシャツとパーカーしか買ってない",
+      "user": "U70QDFN82",
+      "ts": "1654003053.151419",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "XX7U",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "私Tシャツとパーカーしか買ってない"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "358f23f5-275b-44db-8b90-19f893d2cff0",
+      "type": "message",
+      "text": "実は私の名前が載っていますね、そこ",
+      "user": "UUWBU08TU",
+      "ts": "1654003000.566739",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "R08",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "実は私の名前が載っていますね、そこ"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "c0674429-b807-496e-a139-cd898ba64416",
+      "type": "message",
+      "text": "その気持ちでここをクリックだ！\n<https://archlinux.org/donate/>",
+      "user": "U70QDFN82",
+      "ts": "1654002981.504249",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "W=GD3",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "その気持ちでここをクリックだ！\n"
+                },
+                {
+                  "type": "link",
+                  "url": "https://archlinux.org/donate/"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "b1497568-f80c-4869-b790-b8e80e97aa39",
+      "type": "message",
+      "text": "開発チームには感謝と敬意しかない",
+      "user": "U01792411FA",
+      "ts": "1654002951.733109",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "A7iA",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "開発チームには感謝と敬意しかない"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "2c5e212b-c5bb-4001-b811-b9df0ee83cf5",
+      "type": "message",
+      "text": "背伸びしてやるもんじゃねえよね。TUって。",
+      "user": "U0H9QUFA5",
+      "ts": "1654002936.309349",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "A5W4w",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "背伸びしてやるもんじゃねえよね。TUって。"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "e8c1692b-2912-482a-b8aa-092d08ae6071",
+      "type": "message",
+      "text": "仕事になっちゃうと厳しいものがありそう",
+      "user": "U01792411FA",
+      "ts": "1654002913.414089",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "a4a",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "仕事になっちゃうと厳しいものがありそう"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "0237956e-c7fe-4a99-b03f-df4b3d15c56a",
+      "type": "message",
+      "text": "TUかなり大変そうですよね・・・コミュニティに入り浸って継続的に調査作業。。。正直あまり楽しそうには思えない",
+      "user": "U70QDFN82",
+      "ts": "1654002885.559539",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "osp",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "TUかなり大変そうですよね・・・コミュニティに入り浸って継続的に調査作業。。。正直あまり楽しそうには思えない"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "7f2e11ba-9843-48cf-9eee-b1de628ddff5",
+      "type": "message",
+      "text": "コツコツコンスタントになにかやるのにまーったく向いてない",
+      "user": "UGA29R3FH",
+      "ts": "1654002883.180379",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "eRI",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "コツコツコンスタントになにかやるのにまーったく向いてない"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "2e5cab08-fa44-47ff-9466-fbca88ffb316",
+      "type": "message",
+      "text": "AURは日本語フォント類とか補助ツール類が他のディストロより充実してるイメージがあるけどそうでもない？",
+      "user": "U01792411FA",
+      "ts": "1654002881.947109",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "lMH",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "AURは日本語フォント類とか補助ツール類が他のディストロより充実してるイメージがあるけどそうでもない？"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "40d4ead6-a80d-4006-9940-c64929a3ee53",
+      "type": "message",
+      "text": "仕事増やしすぎると破綻するのでどうしたものかと考えています(すでに破綻している可能性はありますが)",
+      "user": "UUWBU08TU",
+      "ts": "1654002868.873459",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "Wct",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "仕事増やしすぎると破綻するのでどうしたものかと考えています(すでに破綻している可能性はありますが)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "ebd7c4b0-83f3-48ce-b954-d08bd7c85e25",
+      "type": "message",
+      "text": "性格的にメンテナできないので頭が上がらん",
+      "user": "UGA29R3FH",
+      "ts": "1654002841.709279",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "Honhv",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "性格的にメンテナできないので頭が上がらん"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "ffdf5e8b-5a97-4282-a031-c530b69a3a1c",
+      "type": "message",
+      "text": "ny-a さんが TU になるまでをドキュメンタリーで連載。",
+      "user": "U0H9QUFA5",
+      "ts": "1654002840.940849",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "9fR",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "ny-a さんが TU になるまでをドキュメンタリーで連載。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "reactions": [
+        {
+          "name": "+1",
+          "users": [
+            "U70QDFN82",
+            "UGA29R3FH",
+            "U01HE1ENNJZ"
+          ],
+          "count": 3
+        }
+      ]
+    },
+    {
+      "client_msg_id": "F3FA875B-3FCD-4DF8-B268-5979BB12D478",
+      "type": "message",
+      "text": "gentoo、私もちょっとの間使ってたんですけど、gentooいいねってなった\n(でもarchに戻ったけど",
+      "user": "U0GFBAM8U",
+      "ts": "1654002840.868829",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "hGZfg",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "gentoo"
+                },
+                {
+                  "type": "text",
+                  "text": "、私もちょっとの間使ってたんですけど、"
+                },
+                {
+                  "type": "text",
+                  "text": "gentoo"
+                },
+                {
+                  "type": "text",
+                  "text": "いいねってなった\n"
+                },
+                {
+                  "type": "text",
+                  "text": "("
+                },
+                {
+                  "type": "text",
+                  "text": "でも"
+                },
+                {
+                  "type": "text",
+                  "text": "arch"
+                },
+                {
+                  "type": "text",
+                  "text": "に戻ったけど"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "f4e71f32-d9f8-469b-835a-06f575dee4b9",
+      "type": "message",
+      "text": "TUになりたい気持ちはあるが、AURのメンテがそこまでできてるかというと、全然",
+      "user": "UUWBU08TU",
+      "ts": "1654002822.200979",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "P8y",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "TUになりたい気持ちはあるが、AURのメンテがそこまでできてるかというと、全然"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "cfde3d15-e173-4506-a571-418f5f79a491",
+      "type": "message",
+      "text": "arch-devのこと詳しくないんですよね :thinking_face: TUになりたい気持ちはありますが",
+      "user": "UUWBU08TU",
+      "ts": "1654002785.388189",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "Tt6",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "arch-devのこと詳しくないんですよね "
+                },
+                {
+                  "type": "emoji",
+                  "name": "thinking_face",
+                  "unicode": "1f914"
+                },
+                {
+                  "type": "text",
+                  "text": " TUになりたい気持ちはありますが"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "575090a3-5f50-4492-8da7-9833d67b04fb",
+      "type": "message",
+      "text": "ディストロとしての個性が意図的に薄くしてあるので固有要素で連載するの厳しそう",
+      "user": "UGA29R3FH",
+      "ts": "1654002778.575009",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "wBhoU",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "ディストロとしての個性が意図的に薄くしてあるので固有要素で連載するの厳しそう"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "7db5eb10-912d-4c18-bfe9-33ac3918c549",
+      "type": "message",
+      "text": "Gentooはパッケージインストール・更新の手間がめんどくさすぎてArchに移ったよ、好きだったけど循環依存とかブロックの嵐とかが多すぎて……\nyay -Syu最高",
+      "user": "U01792411FA",
+      "ts": "1654002765.721399",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "28Wx",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "Gentooはパッケージインストール・更新の手間がめんどくさすぎてArchに移ったよ、好きだったけど循環依存とかブロックの嵐とかが多すぎて……\nyay -Syu最高"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "reactions": [
+        {
+          "name": "wakaru",
+          "users": [
+            "U6DL9D3AB",
+            "U0H9QUFA5"
+          ],
+          "count": 2
+        }
+      ]
+    },
+    {
+      "client_msg_id": "6F93AE95-8BF5-4169-8B2E-FAF2ABF3BAEA",
+      "type": "message",
+      "text": "pacman, aur, wiki, linuxあとarchの思想的なことあたり書けばよさそう\n思想とは例えばシンプルを保つのも長く運営してると大変そうなので、その辺どうやってるのかとか",
+      "user": "U0GFBAM8U",
+      "ts": "1654002750.549659",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "8jj",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "pacman,"
+                },
+                {
+                  "type": "text",
+                  "text": " "
+                },
+                {
+                  "type": "text",
+                  "text": "aur,"
+                },
+                {
+                  "type": "text",
+                  "text": " "
+                },
+                {
+                  "type": "text",
+                  "text": "wiki,"
+                },
+                {
+                  "type": "text",
+                  "text": " "
+                },
+                {
+                  "type": "text",
+                  "text": "linux"
+                },
+                {
+                  "type": "text",
+                  "text": "あと"
+                },
+                {
+                  "type": "text",
+                  "text": "arch"
+                },
+                {
+                  "type": "text",
+                  "text": "の思想的なことあたり書けばよさそう\n思想とは例えばシンプルを保つのも長く運営してると大変そうなので、その辺どうやってるのかとか"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "4190dbde-5651-4d20-b39e-684aa5485826",
+      "type": "message",
+      "text": "個人的にはやっぱり、突撃オタクのArchLinuxが読みたいけど、gihyoは求めてなさそう",
+      "user": "U70QDFN82",
+      "ts": "1654002709.201169",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "MNmsl",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "個人的にはやっぱり、突撃オタクのArchLinuxが読みたいけど、gihyoは求めてなさそう"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "965b9ce6-2ecd-4a15-80d3-a1790bb2d642",
+      "type": "message",
+      "text": "となると連載とは……となるんですよね、それはそう",
+      "user": "UUWBU08TU",
+      "ts": "1654002696.082069",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "1Ut",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "となると連載とは……となるんですよね、それはそう"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "9390b876-2bf9-4b75-b42b-2698e3fb4c71",
+      "type": "message",
+      "text": "深掘りはArchWikiとか他に書いた方がよく、メディアは万人向けの紹介が無難そうかなという思い",
+      "user": "UUWBU08TU",
+      "ts": "1654002670.632209",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "cgj",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "深掘りはArchWikiとか他に書いた方がよく、メディアは万人向けの紹介が無難そうかなという思い"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "reactions": [
+        {
+          "name": "wakaru",
+          "users": [
+            "UGA29R3FH",
+            "U0H9QUFA5",
+            "U0J2VATJA"
+          ],
+          "count": 3
+        }
+      ]
+    },
+    {
+      "client_msg_id": "b055a5da-9450-4487-aa58-99d7a6a56c11",
+      "type": "message",
+      "text": "(というか、あれシェルスクリプトなので読むだけなんすけどね)",
+      "user": "UGA29R3FH",
+      "ts": "1654002664.564049",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "vfw9Q",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "(というか、あれシェルスクリプトなので読むだけなんすけどね)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "c7dbceb1-7f01-4d67-8f28-091b7246dc5d",
+      "type": "message",
+      "text": "詳解archisoは読みたいけど多分ほとんどの人には需要がない",
+      "user": "UGA29R3FH",
+      "ts": "1654002621.113009",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "fZY",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "詳解archisoは読みたいけど多分ほとんどの人には需要がない"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "has_more": true,
+  "is_limited": false,
+  "pin_count": 16,
+  "channel_actions_ts": null,
+  "channel_actions_count": 0,
+  "response_metadata": {
+    "next_cursor": "bmV4dF90czoxNjU0MDAyNTk1NTczNjI5"
+  }
+}

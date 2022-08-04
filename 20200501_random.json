@@ -1,0 +1,3456 @@
+{
+  "ok": true,
+  "latest": "1591013447.000000",
+  "oldest": "1588335047.000000",
+  "messages": [
+    {
+      "client_msg_id": "0edd9bdd-f8c7-4aa0-92ef-66b8deda1204",
+      "type": "message",
+      "text": "entries書いたら動いただよ！！ありがとー。",
+      "user": "USLL50J1M",
+      "ts": "1590758122.083000",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "SPO",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "entries書いたら動いただよ！！ありがとー。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "reactions": [
+        {
+          "name": "tada",
+          "users": [
+            "UGA29R3FH",
+            "U3FJYR7MG"
+          ],
+          "count": 2
+        }
+      ]
+    },
+    {
+      "client_msg_id": "d50cc92d-c51e-4aa3-89c2-34dc6f3cbc30",
+      "type": "message",
+      "text": "loaderとentries必要なのか。了解です。",
+      "user": "USLL50J1M",
+      "ts": "1590755823.082200",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "uq2sg",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "loaderとentries必要なのか。了解です。"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "25108a77-b79a-4413-a41d-87aa1ad4f1fc",
+      "type": "message",
+      "text": "systemd-bootはroaderとentriesファイル書かないといけないです\n<https://wiki.archlinux.org/index.php/Systemd-boot#Installing_the_EFI_boot_manager>\nから順にやればよいかと",
+      "user": "U3FJYR7MG",
+      "ts": "1590755740.081600",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "Oph",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "systemd-bootはroaderとentriesファイル書かないといけないです\n"
+                },
+                {
+                  "type": "link",
+                  "url": "https://wiki.archlinux.org/index.php/Systemd-boot#Installing_the_EFI_boot_manager"
+                },
+                {
+                  "type": "text",
+                  "text": "\nから順にやればよいかと"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "be021055-e6f3-482c-a585-1a99d015755b",
+      "type": "message",
+      "text": "↑、usbでインストーラー起動して、arch-chrootした状態です。",
+      "user": "USLL50J1M",
+      "ts": "1590754455.078800",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "VTe",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "↑、usbでインストーラー起動して、arch-chrootした状態です。"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "fbb06c5f-b093-474a-b4d9-f0111c501390",
+      "type": "message",
+      "text": "systemd-bootでも、archさん見えない。\n```$ mount | grep sda2\n/dev/sda2 on /boot type vfat (rw,.......)```\nと、ebsは/bootにmountされている。\n\n```$ cd /boot\n$ ls\nUUIDっぽいの EFI initramfs-linux-fallback.img initramfs-linux.img loader 'System Volume Information' vmlinuz-linux```\n /bootにはlinux kernelさん達いる。\n\nだれかアドバイスお願いします。",
+      "user": "USLL50J1M",
+      "ts": "1590754355.078100",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "wPjyF",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "systemd-bootでも、archさん見えない。\n"
+                }
+              ]
+            },
+            {
+              "type": "rich_text_preformatted",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "$ mount | grep sda2\n/dev/sda2 on /boot type vfat (rw,.......)"
+                }
+              ]
+            },
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "と、ebsは/bootにmountされている。\n\n"
+                }
+              ]
+            },
+            {
+              "type": "rich_text_preformatted",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "$ cd /boot\n$ ls\nUUIDっぽいの EFI initramfs-linux-fallback.img initramfs-linux.img loader 'System Volume Information' vmlinuz-linux"
+                }
+              ]
+            },
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": " /bootにはlinux kernelさん達いる。\n\nだれかアドバイスお願いします。"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "0839e096-cfb6-4f8b-93bc-39dc1b2f8438",
+      "type": "message",
+      "text": "今日インストールしたばかりの新品なんで、アップデートはまだあててません。\nrefind-install、、、何回打った事か。。。",
+      "user": "USLL50J1M",
+      "ts": "1590751045.074000",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "N5RY",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "今日インストールしたばかりの新品なんで、アップデートはまだあててません。\nrefind-install、、、何回打った事か。。。"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "07f8fae5-d214-4d70-baa1-cb48e9ef535b",
+      "type": "message",
+      "text": "前ってbcdeditでWindowsBootManagerにLinuxエントリ追加するのが安牌みたいな気がしたけど今はそうでもないんかな",
+      "user": "U3FJYR7MG",
+      "ts": "1590749892.073000",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "LN+",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "前ってbcdeditでWindowsBootManagerにLinuxエントリ追加するのが安牌みたいな気がしたけど今はそうでもないんかな"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "c4e72426-8143-4b35-86e0-576f2c5fc9b7",
+      "type": "message",
+      "text": ":naruhodo:",
+      "user": "U3FJYR7MG",
+      "ts": "1590749764.071700",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "KVnim",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": ":naruhodo:"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "4f00e0f3-cfd6-499d-8d2d-88b9311d560e",
+      "type": "message",
+      "text": "Windowsの大型アップデートESPいじるときといじらないときがあるから分からない......\n今回のアプデで自分はESPは特に何も触られませんでした",
+      "user": "UCA1NQM5K",
+      "ts": "1590749703.071500",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "Odaz",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "Windowsの大型アップデートESPいじるときといじらないときがあるから分からない......\n今回のアプデで自分はESPは特に何も触られませんでした"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "88990652-d98c-4ed5-95f7-64425a52a6a6",
+      "type": "message",
+      "text": "んー自動で探してくれる筈なんですけどねぇ…\nそういや最近(今日？)windowsの大型アプデありましたよね。\nあれでESPパーティションいじくられたとか？\n(昔dualbootしてた時になんかそんなアレがあった気がしないでもない)\n`refind-install` でなんとかなったりして",
+      "user": "U3FJYR7MG",
+      "ts": "1590749622.070600",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "/EXtG",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "んー自動で探してくれる筈なんですけどねぇ…\nそういや最近(今日？)windowsの大型アプデありましたよね。\nあれでESPパーティションいじくられたとか？\n(昔dualbootしてた時になんかそんなアレがあった気がしないでもない)\n"
+                },
+                {
+                  "type": "text",
+                  "text": "refind-install",
+                  "style": {
+                    "code": true
+                  }
+                },
+                {
+                  "type": "text",
+                  "text": " でなんとかなったりして"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "message",
+      "text": "ESPのkernel削ったら、パチモンtux消えた。後はarchのkernel見えれば良いんだけど。",
+      "files": [
+        {
+          "id": "F014237GGKZ",
+          "created": 1590749174,
+          "timestamp": 1590749174,
+          "name": "IMG_20200529_194440.jpg",
+          "title": "Android からの画像",
+          "mimetype": "image/jpeg",
+          "filetype": "jpg",
+          "pretty_type": "JPEG",
+          "user": "USLL50J1M",
+          "editable": false,
+          "size": 871961,
+          "mode": "hosted",
+          "is_external": false,
+          "external_type": "",
+          "is_public": true,
+          "public_url_shared": false,
+          "display_as_bot": false,
+          "username": "",
+          "url_private": "https://files.slack.com/files-pri/T0GFBAM8C-F014237GGKZ/img_20200529_194440.jpg",
+          "url_private_download": "https://files.slack.com/files-pri/T0GFBAM8C-F014237GGKZ/download/img_20200529_194440.jpg",
+          "media_display_type": "unknown",
+          "thumb_64": "https://files.slack.com/files-tmb/T0GFBAM8C-F014237GGKZ-03d944ecd1/img_20200529_194440_64.jpg",
+          "thumb_80": "https://files.slack.com/files-tmb/T0GFBAM8C-F014237GGKZ-03d944ecd1/img_20200529_194440_80.jpg",
+          "thumb_360": "https://files.slack.com/files-tmb/T0GFBAM8C-F014237GGKZ-03d944ecd1/img_20200529_194440_360.jpg",
+          "thumb_360_w": 360,
+          "thumb_360_h": 270,
+          "thumb_480": "https://files.slack.com/files-tmb/T0GFBAM8C-F014237GGKZ-03d944ecd1/img_20200529_194440_480.jpg",
+          "thumb_480_w": 480,
+          "thumb_480_h": 360,
+          "thumb_160": "https://files.slack.com/files-tmb/T0GFBAM8C-F014237GGKZ-03d944ecd1/img_20200529_194440_160.jpg",
+          "thumb_720": "https://files.slack.com/files-tmb/T0GFBAM8C-F014237GGKZ-03d944ecd1/img_20200529_194440_720.jpg",
+          "thumb_720_w": 720,
+          "thumb_720_h": 540,
+          "thumb_800": "https://files.slack.com/files-tmb/T0GFBAM8C-F014237GGKZ-03d944ecd1/img_20200529_194440_800.jpg",
+          "thumb_800_w": 800,
+          "thumb_800_h": 600,
+          "thumb_960": "https://files.slack.com/files-tmb/T0GFBAM8C-F014237GGKZ-03d944ecd1/img_20200529_194440_960.jpg",
+          "thumb_960_w": 960,
+          "thumb_960_h": 720,
+          "thumb_1024": "https://files.slack.com/files-tmb/T0GFBAM8C-F014237GGKZ-03d944ecd1/img_20200529_194440_1024.jpg",
+          "thumb_1024_w": 1024,
+          "thumb_1024_h": 768,
+          "original_w": 3648,
+          "original_h": 2736,
+          "thumb_tiny": "AwAkADCuFqRY6eq1Kq0wIShHRc0iqxOCuPere2jbTArGOomjq6VqNlpAMQ1OlVkNTKaQDWUl247+lT8gjjimqSB1NLu4p3EkONRPSs+BULvSGQqalUmolqVaQEgJpSTSCg0AMcmoiakeozTA/9k=",
+          "permalink": "https://archlinuxjp.slack.com/files/USLL50J1M/F014237GGKZ/img_20200529_194440.jpg",
+          "permalink_public": "https://slack-files.com/T0GFBAM8C-F014237GGKZ-9862a3465e",
+          "is_starred": false,
+          "has_rich_preview": false
+        }
+      ],
+      "upload": true,
+      "user": "USLL50J1M",
+      "display_as_bot": false,
+      "ts": "1590749178.067800",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "aI0",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "ESPのkernel削ったら、パチモンtux消えた。後はarchのkernel見えれば良いんだけど。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "client_msg_id": "26b27209-2151-4355-87d0-526cd5dde0b7"
+    },
+    {
+      "client_msg_id": "34158c9e-f83d-4c30-9275-b941bc189a47",
+      "type": "message",
+      "text": "なんで、見えないんだろう。。。refindで。",
+      "user": "USLL50J1M",
+      "ts": "1590748803.067600",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "9GH",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "なんで、見えないんだろう。。。refindで。"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "71c82745-03c3-451a-a49b-cb1eaf6397d7",
+      "type": "message",
+      "text": "ごはんたべたら、systemd-bootやってみるか。",
+      "user": "USLL50J1M",
+      "ts": "1590748783.067300",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "Byv",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "ごはんたべたら、systemd-bootやってみるか。"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "54632a54-c47a-45c1-bef8-f9d04e8c1b3d",
+      "type": "message",
+      "text": "ファイル救出にはお世話になりました &gt; knoppix",
+      "user": "USLL50J1M",
+      "ts": "1590748754.066700",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "/khbG",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "ファイル救出にはお世話になりました > knoppix"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "ce1b7985-5c7b-4c66-b66d-7949442f918f",
+      "type": "message",
+      "text": "ﾜﾛｽ",
+      "user": "USLL50J1M",
+      "ts": "1590748730.066200",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "2czU",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "ﾜﾛｽ"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "ebfca605-fd48-42e4-bfd4-0ecf555ff2f1",
+      "type": "message",
+      "text": "knoppixなつい",
+      "user": "UGA29R3FH",
+      "ts": "1590748727.066100",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "/lkG",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "knoppixなつい"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "e5ef6fff-811e-4f8b-b249-953901eea296",
+      "type": "message",
+      "text": "溢れ出るknoppix感",
+      "user": "U3FJYR7MG",
+      "ts": "1590748714.065600",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "KJMs",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "溢れ出るknoppix感"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "00e912c2-b311-4886-aaf9-0a6326a74754",
+      "type": "message",
+      "text": "アイコンが妙なせいでパチモンみたいに見える",
+      "user": "UGA29R3FH",
+      "ts": "1590748696.065100",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "LG/q",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "アイコンが妙なせいでパチモンみたいに見える"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "ceb72c30-d1e1-412c-b353-24021acc7e40",
+      "type": "message",
+      "text": "すごいみんなバラバラだ",
+      "user": "U3FJYR7MG",
+      "ts": "1590748669.064400",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "6PhcD",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "すごいみんなバラバラだ"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "message",
+      "text": "archが見えてくれない。この真ん中のlinuxは何者ぞ？ESPにカーネル置いてるんだけど、そいつかな？",
+      "files": [
+        {
+          "id": "F014A33JZ9U",
+          "created": 1590748661,
+          "timestamp": 1590748661,
+          "name": "IMG_20200529_193055.jpg",
+          "title": "Android からの画像",
+          "mimetype": "image/jpeg",
+          "filetype": "jpg",
+          "pretty_type": "JPEG",
+          "user": "USLL50J1M",
+          "editable": false,
+          "size": 722234,
+          "mode": "hosted",
+          "is_external": false,
+          "external_type": "",
+          "is_public": true,
+          "public_url_shared": false,
+          "display_as_bot": false,
+          "username": "",
+          "url_private": "https://files.slack.com/files-pri/T0GFBAM8C-F014A33JZ9U/img_20200529_193055.jpg",
+          "url_private_download": "https://files.slack.com/files-pri/T0GFBAM8C-F014A33JZ9U/download/img_20200529_193055.jpg",
+          "media_display_type": "unknown",
+          "thumb_64": "https://files.slack.com/files-tmb/T0GFBAM8C-F014A33JZ9U-4e6bf82337/img_20200529_193055_64.jpg",
+          "thumb_80": "https://files.slack.com/files-tmb/T0GFBAM8C-F014A33JZ9U-4e6bf82337/img_20200529_193055_80.jpg",
+          "thumb_360": "https://files.slack.com/files-tmb/T0GFBAM8C-F014A33JZ9U-4e6bf82337/img_20200529_193055_360.jpg",
+          "thumb_360_w": 360,
+          "thumb_360_h": 270,
+          "thumb_480": "https://files.slack.com/files-tmb/T0GFBAM8C-F014A33JZ9U-4e6bf82337/img_20200529_193055_480.jpg",
+          "thumb_480_w": 480,
+          "thumb_480_h": 360,
+          "thumb_160": "https://files.slack.com/files-tmb/T0GFBAM8C-F014A33JZ9U-4e6bf82337/img_20200529_193055_160.jpg",
+          "thumb_720": "https://files.slack.com/files-tmb/T0GFBAM8C-F014A33JZ9U-4e6bf82337/img_20200529_193055_720.jpg",
+          "thumb_720_w": 720,
+          "thumb_720_h": 540,
+          "thumb_800": "https://files.slack.com/files-tmb/T0GFBAM8C-F014A33JZ9U-4e6bf82337/img_20200529_193055_800.jpg",
+          "thumb_800_w": 800,
+          "thumb_800_h": 600,
+          "thumb_960": "https://files.slack.com/files-tmb/T0GFBAM8C-F014A33JZ9U-4e6bf82337/img_20200529_193055_960.jpg",
+          "thumb_960_w": 960,
+          "thumb_960_h": 720,
+          "thumb_1024": "https://files.slack.com/files-tmb/T0GFBAM8C-F014A33JZ9U-4e6bf82337/img_20200529_193055_1024.jpg",
+          "thumb_1024_w": 1024,
+          "thumb_1024_h": 768,
+          "original_w": 3648,
+          "original_h": 2736,
+          "thumb_tiny": "AwAkADCoAacFJ7/pTlWpVSgCAx+9J5XvVooCMUgiAOcUwKhix3NIY6uMlRMlAD0qZRUCmpkNIAIbn6HFNiWRSdxJ47+tS55zRmncVhp6cionFSs3FQO1IY1TUimolqRaQD8mgsaKaaYDWY1GTTzTDQB//9k=",
+          "permalink": "https://archlinuxjp.slack.com/files/USLL50J1M/F014A33JZ9U/img_20200529_193055.jpg",
+          "permalink_public": "https://slack-files.com/T0GFBAM8C-F014A33JZ9U-1339881e79",
+          "is_starred": false,
+          "has_rich_preview": false
+        }
+      ],
+      "upload": true,
+      "user": "USLL50J1M",
+      "display_as_bot": false,
+      "ts": "1590748664.064100",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "Trmzx",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "archが見えてくれない。この真ん中のlinuxは何者ぞ？ESPにカーネル置いてるんだけど、そいつかな？"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "edited": {
+        "user": "USLL50J1M",
+        "ts": "1590749061.000000"
+      },
+      "client_msg_id": "ee1b4ddc-52ef-4e53-9dbc-a5ffad81c4df"
+    },
+    {
+      "client_msg_id": "bb3c3b5c-33c6-4cd4-b2b9-f5d854405b3b",
+      "type": "message",
+      "text": "systemd-bootにおまかせしてる…",
+      "user": "U3FJYR7MG",
+      "ts": "1590748657.063900",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "yhY",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "systemd-bootにおまかせしてる…"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "a1034700-96dd-4f67-a82c-44a9b6015ad6",
+      "type": "message",
+      "text": "シングルブートなのでGummibootで日和ってた…",
+      "user": "U53RAQBCP",
+      "ts": "1590748644.063600",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "NNfXg",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "シングルブートなのでGummibootで日和ってた…"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "78bfc465-556a-4a53-9697-c243d449d667",
+      "type": "message",
+      "text": "&gt; BIOS-GPT 設定では gdisk, cgdisk, GNU Parted などを使って、ディスクの最初にファイルシステムのない 1007 KiB のパーティションを作成してください。\nこの時点でgrub潰瘍が出来る。",
+      "user": "USLL50J1M",
+      "ts": "1590748126.062800",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "tEua",
+          "elements": [
+            {
+              "type": "rich_text_quote",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "BIOS-GPT 設定では gdisk, cgdisk, GNU Parted などを使って、ディスクの最初にファイルシステムのない 1007 KiB のパーティションを作成してください。"
+                }
+              ]
+            },
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "この時点でgrub潰瘍が出来る。"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "d567e40e-f613-42de-b34e-c473ab58992a",
+      "type": "message",
+      "text": "GRUBの設定が生え際後退するくらい面倒なのでsyslinux使ってる",
+      "user": "UGA29R3FH",
+      "ts": "1590748088.062300",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "+/Ubh",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "GRUBの設定が生え際後退するくらい面倒なのでsyslinux使ってる"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "910f2660-3ecc-41ba-b80c-1dc6cc4aae6e",
+      "type": "message",
+      "text": "わかる",
+      "user": "UGA29R3FH",
+      "ts": "1590748059.061500",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "hQdo",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "わかる"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "bfd6a2b8-a5ba-497e-aab2-6fe4a2932865",
+      "type": "message",
+      "text": "grubむずかしい",
+      "user": "USLL50J1M",
+      "ts": "1590748028.061200",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "MEG+=",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "grubむずかしい"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "ec5c6961-5a99-4847-be6f-6ed93b2e40ce",
+      "type": "message",
+      "text": "ブートローダーはいろいろ試して結局GRUBに戻ってきてしまった......",
+      "user": "UCA1NQM5K",
+      "ts": "1590747482.060800",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "vtNk",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "ブートローダーはいろいろ試して結局GRUBに戻ってきてしまった......"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "474916a1-b376-4da9-a078-2f213b3cd5b8",
+      "type": "message",
+      "text": "くそ。またrefindでハマッってる。おNewの中古PCに入れようとして、refindは起動するけど、linuxのkernelが見えてない。",
+      "user": "USLL50J1M",
+      "ts": "1590740120.059800",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "iKSJ",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "くそ。またrefindでハマッってる。おNewの中古PCに入れようとして、refindは起動するけど、linuxのkernelが見えてない。"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "1646247A-2EFF-4400-8CB9-AE3028B1C6F0",
+      "type": "message",
+      "text": "<@UCA1NQM5K> パナくまさんArchにいるの知らなかった",
+      "user": "U2U805XD4",
+      "ts": "1590574218.058700",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "F6Zq",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "user",
+                  "user_id": "UCA1NQM5K"
+                },
+                {
+                  "type": "text",
+                  "text": " パナくまさんArchにいるの知らなかった"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "reactions": [
+        {
+          "name": "eyes",
+          "users": [
+            "UCA1NQM5K",
+            "U0L2RG3U2"
+          ],
+          "count": 2
+        }
+      ]
+    },
+    {
+      "client_msg_id": "3a1a31d9-d14e-462c-94fb-1a975850c726",
+      "type": "message",
+      "text": "お、私が9割書き直した Dockerfile だ",
+      "user": "U0PM6EYR1",
+      "ts": "1590382112.055800",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "V/m4",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "お、私が9割書き直した Dockerfile だ"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "thread_ts": "1590382112.055800",
+      "reply_count": 1,
+      "reply_users_count": 1,
+      "latest_reply": "1590382623.056000",
+      "reply_users": [
+        "U0PM6EYR1"
+      ],
+      "is_locked": false,
+      "subscribed": false,
+      "reactions": [
+        {
+          "name": "interrobang",
+          "users": [
+            "U0HJ7EB9T",
+            "UCA1NQM5K",
+            "USSBNDE68",
+            "UJ7P75WB1"
+          ],
+          "count": 4
+        },
+        {
+          "name": "+1",
+          "users": [
+            "USSBNDE68"
+          ],
+          "count": 1
+        }
+      ]
+    },
+    {
+      "client_msg_id": "3cfaffd7-cc51-49a1-8963-a0de708dbbd3",
+      "type": "message",
+      "text": "なるほど <https://github.com/miiton/Cica/blob/master/Dockerfile>",
+      "user": "UGA29R3FH",
+      "ts": "1590380338.054600",
+      "team": "T0GFBAM8C",
+      "attachments": [
+        {
+          "service_name": "GitHub",
+          "title": "miiton/Cica",
+          "title_link": "https://github.com/miiton/Cica/blob/master/Dockerfile",
+          "text": "プログラミング用日本語等幅フォント Cica(シカ). Contribute to miiton/Cica development by creating an account on GitHub.",
+          "fallback": "GitHub: miiton/Cica",
+          "thumb_url": "https://avatars2.githubusercontent.com/u/468745?s=400&v=4",
+          "from_url": "https://github.com/miiton/Cica/blob/master/Dockerfile",
+          "thumb_width": 400,
+          "thumb_height": 400,
+          "service_icon": "https://a.slack-edge.com/80588/img/unfurl_icons/github.png",
+          "id": 1,
+          "original_url": "https://github.com/miiton/Cica/blob/master/Dockerfile"
+        }
+      ],
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "hgWjj",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "なるほど "
+                },
+                {
+                  "type": "link",
+                  "url": "https://github.com/miiton/Cica/blob/master/Dockerfile"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "a1fd5133-f6be-404f-8125-af334b5c9d9b",
+      "type": "message",
+      "text": "PKGBUILDにdocker-composeしか書いてないな &gt; ttf-cica-git",
+      "user": "UGA29R3FH",
+      "ts": "1590380239.054400",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "6kz",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "PKGBUILDにdocker-composeしか書いてないな > ttf-cica-git"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "4cda9180-89ed-4f14-8b02-06d905fbd980",
+      "type": "message",
+      "text": "`--chroot` すると systemd-nspawn の中でよしなにやってくれそう &gt;aurutils",
+      "user": "U6Y9PK6DB",
+      "ts": "1590380215.053800",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "iRfe",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "--chroot",
+                  "style": {
+                    "code": true
+                  }
+                },
+                {
+                  "type": "text",
+                  "text": " すると systemd-nspawn の中でよしなにやってくれそう >aurutils"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "thread_ts": "1590380215.053800",
+      "reply_count": 1,
+      "reply_users_count": 1,
+      "latest_reply": "1590382738.056400",
+      "reply_users": [
+        "UCA1NQM5K"
+      ],
+      "is_locked": false,
+      "subscribed": false
+    },
+    {
+      "client_msg_id": "3a20ba9c-d89f-4d6f-a9b8-c939712b6fc4",
+      "type": "message",
+      "text": "ARUにあるttf-cica-gitがDockerの中でビルドする方法を使っていたような…",
+      "user": "U0HJ7EB9T",
+      "ts": "1590380155.053300",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "55W+",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "ARUにあるttf-cica-gitがDockerの中でビルドする方法を使っていたような…"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "f4ebf4ec-bf87-4388-992f-ad9dc4320541",
+      "type": "message",
+      "text": "試したことないけど aurutils はできそうですね。",
+      "user": "U6Y9PK6DB",
+      "ts": "1590380152.053100",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "NBUO",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "試したことないけど aurutils はできそうですね。"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "08f340e5-d3b4-4b6a-8939-3743e127e33d",
+      "type": "message",
+      "text": "やっぱり手動でextra-x86_64-build叩くしかないですかね......",
+      "user": "UCA1NQM5K",
+      "ts": "1590379190.050700",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "BtJ",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "やっぱり手動でextra-x86_64-build叩くしかないですかね......"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "ce5207c3-e639-4385-85af-57c7d41af161",
+      "type": "message",
+      "text": "~docker の中で実行するのが早いっすね…~",
+      "user": "U0PM6EYR1",
+      "ts": "1590379150.050300",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "HjpRd",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "docker の中で実行するのが早いっすね…",
+                  "style": {
+                    "strike": true
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "25222279-ddf6-40f5-93b3-ce01f2de1aaa",
+      "type": "message",
+      "text": "そうなります......",
+      "user": "UCA1NQM5K",
+      "ts": "1590379138.050000",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "Ukg",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "そうなります......"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "3e967c98-dfa5-4d76-8a10-d346c3965cb0",
+      "type": "message",
+      "text": "yayだとbuild dependenciesをパッケージインストール後に削除するか指定出来ますがもっとクリーンにって事ですかね…?",
+      "user": "U3FJYR7MG",
+      "ts": "1590379108.049100",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "rAx",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "yayだとbuild dependenciesをパッケージインストール後に削除するか指定出来ますがもっとクリーンにって事ですかね…?"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "56d925e4-a330-489d-9116-a6c8f65ec573",
+      "type": "message",
+      "text": "ビルド時に依存関係で大量にパッケージが入って環境が汚れたりするのがあまり好きではないので、設定とかオプションでchrootでビルドしてくれるものがあればなぁと思った次第です......",
+      "user": "UCA1NQM5K",
+      "ts": "1590378982.047800",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "GC3x",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "ビルド時に依存関係で大量にパッケージが入って環境が汚れたりするのがあまり好きではないので、設定とかオプションでchrootでビルドしてくれるものがあればなぁと思った次第です......"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "13bd01a9-f434-4c63-ae42-28284786d91e",
+      "type": "message",
+      "text": "AURヘルパーでchroot環境でのビルドに対応したものってあったりしますか......?",
+      "user": "UCA1NQM5K",
+      "ts": "1590378804.046100",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "Pft",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "AURヘルパーでchroot環境でのビルドに対応したものってあったりしますか......?"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "5da03f44-abf3-4852-b826-48dd351fbed6",
+      "type": "message",
+      "text": "と、思ったら、違うエラーだった",
+      "user": "U0PM6EYR1",
+      "ts": "1590369138.045400",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "wox",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "と、思ったら、違うエラーだった"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "reactions": [
+        {
+          "name": "+1",
+          "users": [
+            "UKS3449NU"
+          ],
+          "count": 1
+        }
+      ]
+    },
+    {
+      "client_msg_id": "a392d4ff-c66f-4c78-a78a-7e1eaf397389",
+      "type": "message",
+      "text": "<https://stackoverflow.com/questions/43405720/unreal-engine-crashes-on-startup-on-linux>\nOpenGL が 4.3 じゃないといけないっぽいですね",
+      "user": "U0PM6EYR1",
+      "ts": "1590369088.045000",
+      "team": "T0GFBAM8C",
+      "attachments": [
+        {
+          "service_name": "Stack Overflow",
+          "title": "Unreal engine crashes on startup on Linux",
+          "title_link": "https://stackoverflow.com/questions/43405720/unreal-engine-crashes-on-startup-on-linux",
+          "text": "I have compiled Unreal Engine from source and everything is successful. But when I try to launch UE4Editor it crashes. The error on console is: [2017.04.14-05.25.55:381][ 0]LogExit: Exiting. Engine",
+          "fallback": "Stack Overflow: Unreal engine crashes on startup on Linux",
+          "thumb_url": "https://cdn.sstatic.net/Sites/stackoverflow/Img/apple-touch-icon@2.png?v=73d79a89bded",
+          "from_url": "https://stackoverflow.com/questions/43405720/unreal-engine-crashes-on-startup-on-linux",
+          "thumb_width": 316,
+          "thumb_height": 316,
+          "service_icon": "https://cdn.sstatic.net/Sites/stackoverflow/Img/apple-touch-icon.png?v=c78bd457575a",
+          "id": 1,
+          "original_url": "https://stackoverflow.com/questions/43405720/unreal-engine-crashes-on-startup-on-linux"
+        }
+      ],
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "eHN",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "link",
+                  "url": "https://stackoverflow.com/questions/43405720/unreal-engine-crashes-on-startup-on-linux"
+                },
+                {
+                  "type": "text",
+                  "text": "\nOpenGL が 4.3 じゃないといけないっぽいですね"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "message",
+      "text": "ありがとうございます｡DRI3を有効にしたところ以下のログのようにエラーが変わりました｡",
+      "files": [
+        {
+          "id": "F01472DPAUB",
+          "created": 1590368846,
+          "timestamp": 1590368846,
+          "name": "UE4.log",
+          "title": "UE4.log",
+          "mimetype": "text/plain",
+          "filetype": "text",
+          "pretty_type": "プレーンテキスト",
+          "user": "UKS3449NU",
+          "editable": true,
+          "size": 95883,
+          "mode": "snippet",
+          "is_external": false,
+          "external_type": "",
+          "is_public": true,
+          "public_url_shared": false,
+          "display_as_bot": false,
+          "username": "",
+          "url_private": "https://files.slack.com/files-pri/T0GFBAM8C-F01472DPAUB/ue4.log",
+          "url_private_download": "https://files.slack.com/files-pri/T0GFBAM8C-F01472DPAUB/download/ue4.log",
+          "permalink": "https://archlinuxjp.slack.com/files/UKS3449NU/F01472DPAUB/ue4.log",
+          "permalink_public": "https://slack-files.com/T0GFBAM8C-F01472DPAUB-5270897b7c",
+          "edit_link": "https://archlinuxjp.slack.com/files/UKS3449NU/F01472DPAUB/ue4.log/edit",
+          "preview": "Log file open, 05/25/20 09:49:29\r\nLogInit: Display: Running engine without a game\r\nLogPlatformFile: Not using cached read wrapper\r\nLogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.\r\nLogStats: Stats thread started at 6.735069\r",
+          "preview_highlight": "<div class=\"CodeMirror cm-s-default CodeMirrorServer\" oncopy=\"if(event.clipboardData){event.clipboardData.setData('text/plain',window.getSelection().toString().replace(/\\u200b/g,''));event.preventDefault();event.stopPropagation();}\">\n<div class=\"CodeMirror-code\">\n<div><pre>Log file open, 05/25/20 09:49:29</pre></div>\n<div><pre>LogInit: Display: Running engine without a game</pre></div>\n<div><pre>LogPlatformFile: Not using cached read wrapper</pre></div>\n<div><pre>LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.</pre></div>\n<div><pre>LogStats: Stats thread started at 6.735069</pre></div>\n<div><pre></pre></div>\n</div>\n</div>\n",
+          "lines": 967,
+          "lines_more": 962,
+          "preview_is_truncated": true,
+          "is_starred": false,
+          "has_rich_preview": false
+        },
+        {
+          "id": "F0145EHPJ3F",
+          "created": 1590368846,
+          "timestamp": 1590368846,
+          "name": "20-intel.conf",
+          "title": "20-intel.conf",
+          "mimetype": "text/plain",
+          "filetype": "text",
+          "pretty_type": "プレーンテキスト",
+          "user": "UKS3449NU",
+          "editable": true,
+          "size": 93,
+          "mode": "snippet",
+          "is_external": false,
+          "external_type": "",
+          "is_public": true,
+          "public_url_shared": false,
+          "display_as_bot": false,
+          "username": "",
+          "url_private": "https://files.slack.com/files-pri/T0GFBAM8C-F0145EHPJ3F/20-intel.conf",
+          "url_private_download": "https://files.slack.com/files-pri/T0GFBAM8C-F0145EHPJ3F/download/20-intel.conf",
+          "permalink": "https://archlinuxjp.slack.com/files/UKS3449NU/F0145EHPJ3F/20-intel.conf",
+          "permalink_public": "https://slack-files.com/T0GFBAM8C-F0145EHPJ3F-0fef8ae62a",
+          "edit_link": "https://archlinuxjp.slack.com/files/UKS3449NU/F0145EHPJ3F/20-intel.conf/edit",
+          "preview": "Section \"Device\"\n\tIdentifier\t\"Intel Craphics\"\n\tDriver\t\t\"intel\"\n\tOption\t\t\"DRI\" \"3\"\nEndSection",
+          "preview_highlight": "<div class=\"CodeMirror cm-s-default CodeMirrorServer\" oncopy=\"if(event.clipboardData){event.clipboardData.setData('text/plain',window.getSelection().toString().replace(/\\u200b/g,''));event.preventDefault();event.stopPropagation();}\">\n<div class=\"CodeMirror-code\">\n<div><pre>Section &quot;Device&quot;</pre></div>\n<div><pre>    Identifier  &quot;Intel Craphics&quot;</pre></div>\n<div><pre>    Driver      &quot;intel&quot;</pre></div>\n<div><pre>    Option      &quot;DRI&quot; &quot;3&quot;</pre></div>\n<div><pre>EndSection</pre></div>\n</div>\n</div>\n",
+          "lines": 6,
+          "lines_more": 1,
+          "preview_is_truncated": false,
+          "is_starred": false,
+          "has_rich_preview": false
+        }
+      ],
+      "upload": true,
+      "user": "UKS3449NU",
+      "ts": "1590368848.043900",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "uJJ7",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "ありがとうございます｡DRI3を有効にしたところ以下のログのようにエラーが変わりました｡"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "client_msg_id": "6907de2b-b235-46b2-be60-7828359bf579"
+    },
+    {
+      "client_msg_id": "781a4769-f03c-4e18-83df-3319b2968da4",
+      "type": "message",
+      "text": "ググると DRI3 が有効になってないとダメっぽいですね",
+      "user": "U257W41DW",
+      "ts": "1590324911.042800",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "Pvom",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "ググると DRI3 が有効になってないとダメっぽいですね"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "message",
+      "text": "ArchでUE4を起動しようとするとこういったエラーがでるのですが原因が分かる方いらっしゃいませんか",
+      "files": [
+        {
+          "id": "F014K3JVB3K",
+          "created": 1590319290,
+          "timestamp": 1590319290,
+          "name": "screenshot2005230802.jpg",
+          "title": "screenshot2005230802.jpg",
+          "mimetype": "image/jpeg",
+          "filetype": "jpg",
+          "pretty_type": "JPEG",
+          "user": "UKS3449NU",
+          "editable": false,
+          "size": 435809,
+          "mode": "hosted",
+          "is_external": false,
+          "external_type": "",
+          "is_public": true,
+          "public_url_shared": false,
+          "display_as_bot": false,
+          "username": "",
+          "url_private": "https://files.slack.com/files-pri/T0GFBAM8C-F014K3JVB3K/screenshot2005230802.jpg",
+          "url_private_download": "https://files.slack.com/files-pri/T0GFBAM8C-F014K3JVB3K/download/screenshot2005230802.jpg",
+          "media_display_type": "unknown",
+          "thumb_64": "https://files.slack.com/files-tmb/T0GFBAM8C-F014K3JVB3K-7102c25da5/screenshot2005230802_64.jpg",
+          "thumb_80": "https://files.slack.com/files-tmb/T0GFBAM8C-F014K3JVB3K-7102c25da5/screenshot2005230802_80.jpg",
+          "thumb_360": "https://files.slack.com/files-tmb/T0GFBAM8C-F014K3JVB3K-7102c25da5/screenshot2005230802_360.jpg",
+          "thumb_360_w": 360,
+          "thumb_360_h": 192,
+          "thumb_480": "https://files.slack.com/files-tmb/T0GFBAM8C-F014K3JVB3K-7102c25da5/screenshot2005230802_480.jpg",
+          "thumb_480_w": 480,
+          "thumb_480_h": 256,
+          "thumb_160": "https://files.slack.com/files-tmb/T0GFBAM8C-F014K3JVB3K-7102c25da5/screenshot2005230802_160.jpg",
+          "thumb_720": "https://files.slack.com/files-tmb/T0GFBAM8C-F014K3JVB3K-7102c25da5/screenshot2005230802_720.jpg",
+          "thumb_720_w": 720,
+          "thumb_720_h": 384,
+          "thumb_800": "https://files.slack.com/files-tmb/T0GFBAM8C-F014K3JVB3K-7102c25da5/screenshot2005230802_800.jpg",
+          "thumb_800_w": 800,
+          "thumb_800_h": 427,
+          "thumb_960": "https://files.slack.com/files-tmb/T0GFBAM8C-F014K3JVB3K-7102c25da5/screenshot2005230802_960.jpg",
+          "thumb_960_w": 960,
+          "thumb_960_h": 513,
+          "thumb_1024": "https://files.slack.com/files-tmb/T0GFBAM8C-F014K3JVB3K-7102c25da5/screenshot2005230802_1024.jpg",
+          "thumb_1024_w": 1024,
+          "thumb_1024_h": 547,
+          "original_w": 1916,
+          "original_h": 1023,
+          "thumb_tiny": "AwAZADCp5y+9J5qehqMrz0pNv0oAk81PQ0eanoaj2H2o2H2oAk81fQ0eavvUew0BfmAPTNAE/l46k/lSbB61K33KjoATYPWkK+hp1FADNp9RSiNwc+ntTh1FSmgD/9k=",
+          "permalink": "https://archlinuxjp.slack.com/files/UKS3449NU/F014K3JVB3K/screenshot2005230802.jpg",
+          "permalink_public": "https://slack-files.com/T0GFBAM8C-F014K3JVB3K-640c9804d1",
+          "is_starred": false,
+          "has_rich_preview": false
+        }
+      ],
+      "upload": true,
+      "user": "UKS3449NU",
+      "display_as_bot": false,
+      "ts": "1590319294.042000",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "j7uy",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "ArchでUE4を起動しようとするとこういったエラーがでるのですが原因が分かる方いらっしゃいませんか"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "client_msg_id": "898088b5-6c17-4da7-b1e1-94aa7f437389"
+    },
+    {
+      "client_msg_id": "c9b70222-26c9-4021-982d-8540cbb7e68d",
+      "type": "message",
+      "text": "ね",
+      "user": "URZFHALTT",
+      "ts": "1590268532.039900",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "5T1lL",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "ね"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "0a086252-0d59-4b81-a733-47c3d6494658",
+      "type": "message",
+      "text": "あああ\n理解できました\n\n/usr/lib/lLIBRARY.so は-lLIBRARYというgccのフラグになることです",
+      "user": "URZFHALTT",
+      "ts": "1590268530.039700",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "SVOy",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "あああ\n理解できました\n\n/usr/lib/lLIBRARY.so は-lLIBRARYというgccのフラグになることです"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "reactions": [
+        {
+          "name": "+1",
+          "users": [
+            "U53RAQBCP"
+          ],
+          "count": 1
+        }
+      ]
+    },
+    {
+      "client_msg_id": "9f05708f-1d44-415b-9dd2-fbb1114304ba",
+      "type": "message",
+      "text": "アーチと関係ない質問ですみませんでした、",
+      "user": "URZFHALTT",
+      "ts": "1590268149.038900",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "EsKU6",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "アーチと関係ない質問ですみませんでした、"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "5fca04bc-3a7c-4d94-bb9b-646a1219f4a0",
+      "type": "message",
+      "text": "g++でコンパイルするときに共有ライブラリとリンクしたかったら直接にやっちゃだめ？\n例えば\ng++ -o opengl_test opengl_test.cpp /usr/lib/libGL.so",
+      "user": "URZFHALTT",
+      "ts": "1590268109.038300",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "mHRwB",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "g++でコンパイルするときに共有ライブラリとリンクしたかったら直接にやっちゃだめ？\n例えば\ng++ -o opengl_test opengl_test.cpp /usr/lib/libGL.so"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "839c7b2d-3693-4620-960e-3466fb2e6008",
+      "type": "message",
+      "text": "<https://www.reddit.com/r/debian/comments/gftgvs/chromium_hardware_acceleration_issues/|https://www.reddit.com/r/debian/comments/gftgvs/chromium_hardware_acceleration_issues/>\nエラーメッセージで調べるとこんなのとか出てきますね(ちょっと違いそう)",
+      "user": "UUWBU08TU",
+      "ts": "1590203675.036700",
+      "team": "T0GFBAM8C",
+      "attachments": [
+        {
+          "service_name": "reddit",
+          "title": "Chromium Hardware Acceleration Issues",
+          "title_link": "https://www.reddit.com/r/debian/comments/gftgvs/chromium_hardware_acceleration_issues/",
+          "text": "Hi, I'm using Debian Sid on a Thinkpad X250 and I'm having a lot of issues to enable hardware acceleration on chromium. These messages related to...",
+          "fallback": "reddit: Chromium Hardware Acceleration Issues",
+          "thumb_url": "https://www.redditstatic.com/new-icon.png",
+          "from_url": "https://www.reddit.com/r/debian/comments/gftgvs/chromium_hardware_acceleration_issues/",
+          "thumb_width": 256,
+          "thumb_height": 256,
+          "service_icon": "http://www.redditstatic.com/desktop2x/img/favicon/apple-icon-57x57.png",
+          "id": 1,
+          "original_url": "https://www.reddit.com/r/debian/comments/gftgvs/chromium_hardware_acceleration_issues/"
+        }
+      ],
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "iX5",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "link",
+                  "url": "https://www.reddit.com/r/debian/comments/gftgvs/chromium_hardware_acceleration_issues/",
+                  "text": "https://www.reddit.com/r/debian/comments/gftgvs/chromium_hardware_acceleration_issues/"
+                },
+                {
+                  "type": "text",
+                  "text": "\nエラーメッセージで調べるとこんなのとか出てきますね(ちょっと違いそう)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "5a6d551a-a52c-4f84-9731-c335e9df2801",
+      "type": "message",
+      "text": "Chromium起動すると`.xsession-errors` に下記のようなエラーが大量に出るんですけど何が原因かわかりませんか…普通に起動して使えはするんですけどなんで出るのかわからないのが気持ち悪くて...\n`[8844:8896:0523/114040.410202:ERROR:<http://gbm_wrapper.cc|gbm_wrapper.cc>(271)] Failed to export buffer to dma_buf: そのようなファイルやディレクトリはありません (2)`",
+      "user": "U0108ASA482",
+      "ts": "1590201786.034700",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "1VlJ",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "Chromium起動すると"
+                },
+                {
+                  "type": "text",
+                  "text": ".xsession-errors",
+                  "style": {
+                    "code": true
+                  }
+                },
+                {
+                  "type": "text",
+                  "text": " に下記のようなエラーが大量に出るんですけど何が原因かわかりませんか…普通に起動して使えはするんですけどなんで出るのかわからないのが気持ち悪くて...\n"
+                },
+                {
+                  "type": "text",
+                  "text": "[8844:8896:0523/114040.410202:ERROR:gbm_wrapper.cc(271)] Failed to export buffer to dma_buf: そのようなファイルやディレクトリはありません (2)",
+                  "style": {
+                    "code": true
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "message",
+      "subtype": "channel_join",
+      "ts": "1590109541.032500",
+      "user": "U014G414FLZ",
+      "text": "<@U014G414FLZ>さんがチャンネルに参加しました"
+    },
+    {
+      "type": "message",
+      "subtype": "channel_join",
+      "ts": "1589696783.032200",
+      "user": "U013L1JQ0J2",
+      "text": "<@U013L1JQ0J2>さんがチャンネルに参加しました"
+    },
+    {
+      "client_msg_id": "541b0ca5-ced4-4472-b16a-23fe69164a6b",
+      "type": "message",
+      "text": "動画のコーデックライセンスってこんなしんどかったんか……",
+      "user": "UAPRYSVPS",
+      "ts": "1589688477.032000",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "2ek",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "動画のコーデックライセンスってこんなしんどかったんか……"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "message",
+      "subtype": "channel_join",
+      "ts": "1589642324.031100",
+      "user": "U013KL91BV4",
+      "text": "<@U013KL91BV4>さんがチャンネルに参加しました"
+    },
+    {
+      "client_msg_id": "ef1638eb-1a65-4128-9c40-d708715624b2",
+      "type": "message",
+      "text": "面倒なのでDiminished使ってた",
+      "user": "UGA29R3FH",
+      "ts": "1589637953.030900",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "KlF",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "面倒なのでDiminished使ってた"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "71bd0c98-f349-466e-923a-8ad3ef0b67dc",
+      "type": "message",
+      "text": "わかる。最初はなぜこんなめんどくさいビルドせなんのだ・・・と思ってましたね。",
+      "user": "U70QDFN82",
+      "ts": "1589634954.030100",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "xc+",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "わかる。最初はなぜこんなめんどくさいビルドせなんのだ・・・と思ってましたね。"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "f6e60c3b-1547-4bf2-8cee-71c32c70c2e8",
+      "type": "message",
+      "text": "fontとかもそういうの多いですよね、Rictyとか",
+      "user": "U8T8KB5M4",
+      "ts": "1589634226.028900",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "O2H6",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "fontとかもそういうの多いですよね、Rictyとか"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "582bc7bc-d114-4f76-aa7d-50d706b8ba5c",
+      "type": "message",
+      "text": "上の記事だと侵害してる扱いですが <https://qiita.com/yohhoy/items/c2579097a507b1fbdddb> では\n&gt; Fmpegという「ソフトウェア実装の使用権」と、そのソフトウェアが利用する「H.265/HEVCコーデック特許の使用権」は独立した権利です。FFmpegのライセンス条項には、特許使用料については同ソフトウェア利用者の責任で解決する 旨が明記されています。\nとありますね",
+      "user": "U0J2VATJA",
+      "ts": "1589634100.028300",
+      "team": "T0GFBAM8C",
+      "attachments": [
+        {
+          "service_name": "Qiita",
+          "title": "H.265/HEVC特許暗黒時代 - Qiita",
+          "title_link": "https://qiita.com/yohhoy/items/c2579097a507b1fbdddb",
+          "text": "TL;DR 暗黒時代。H.265/HEVCの未来はさほど明るくない。 免責事項 本記事ではH.265/HEVCに関する知的財産のみを取り上げるため、その技術論には一切言及しません。 H.265/HEVCコーデック特許問題をとり...",
+          "fallback": "Qiita: H.265/HEVC特許暗黒時代 - Qiita",
+          "image_url": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fcdn.qiita.com%2Fassets%2Fpublic%2Farticle-ogp-background-1150d8b18a7c15795b701a55ae908f94.png?ixlib=rb-1.2.2&w=1200&mark=https%3A%2F%2Fqiita-user-contents.imgix.net%2F~text%3Fixlib%3Drb-1.2.2%26w%3D840%26h%3D380%26txt%3DH.265%252FHEVC%25E7%2589%25B9%25E8%25A8%25B1%25E6%259A%2597%25E9%25BB%2592%25E6%2599%2582%25E4%25BB%25A3%26txt-color%3D%2523333%26txt-font%3DAvenir-Black%26txt-size%3D54%26txt-clip%3Dellipsis%26txt-align%3Dcenter%252Cmiddle%26s%3D2eb8962259b52afd0ac62facac31d7ab&mark-align=center%2Cmiddle&blend=https%3A%2F%2Fqiita-user-contents.imgix.net%2F~text%3Fixlib%3Drb-1.2.2%26w%3D840%26h%3D500%26txt%3D%2540yohhoy%26txt-color%3D%2523333%26txt-font%3DAvenir-Black%26txt-size%3D45%26txt-align%3Dright%252Cbottom%26s%3Dcbf7eab8aaae6429cc8a88ef1d45f195&blend-align=center%2Cmiddle&blend-mode=normal&s=d59db8f4d8da7c6860739660a120dbed",
+          "from_url": "https://qiita.com/yohhoy/items/c2579097a507b1fbdddb",
+          "image_width": 476,
+          "image_height": 250,
+          "image_bytes": 31819,
+          "service_icon": "https://cdn.qiita.com/assets/favicons/public/apple-touch-icon-ec5ba42a24ae923f16825592efdc356f.png",
+          "id": 1,
+          "original_url": "https://qiita.com/yohhoy/items/c2579097a507b1fbdddb"
+        }
+      ],
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "3bUQ7",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "上の記事だと侵害してる扱いですが "
+                },
+                {
+                  "type": "link",
+                  "url": "https://qiita.com/yohhoy/items/c2579097a507b1fbdddb"
+                },
+                {
+                  "type": "text",
+                  "text": " では\n"
+                }
+              ]
+            },
+            {
+              "type": "rich_text_quote",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "Fmpegという「ソフトウェア実装の使用権」と、そのソフトウェアが利用する「H.265/HEVCコーデック特許の使用権」は独立した権利です。FFmpegのライセンス条項には、特許使用料については同ソフトウェア利用者の責任で解決する 旨が明記されています。"
+                }
+              ]
+            },
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "とありますね"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "917bac6a-6639-48fa-80d6-1d7dcc47f867",
+      "type": "message",
+      "text": "ライセンス周りだと H.264 と ffmpeg とかもややこしいですね <https://blog.tai2.net/mpegla_and_ffmpeg.html>",
+      "user": "U0J2VATJA",
+      "ts": "1589634008.027300",
+      "team": "T0GFBAM8C",
+      "attachments": [
+        {
+          "service_name": "blog.tai2.net",
+          "title": "ffmpegをビジネスで利用したときに特許侵害になる可能性",
+          "title_link": "https://blog.tai2.net/mpegla_and_ffmpeg.html",
+          "fallback": "blog.tai2.net: ffmpegをビジネスで利用したときに特許侵害になる可能性",
+          "image_url": "https://blog.tai2.net/images/og/mpegla_and_ffmpeg.png",
+          "image_width": 476,
+          "image_height": 250,
+          "from_url": "https://blog.tai2.net/mpegla_and_ffmpeg.html",
+          "image_bytes": 107030,
+          "service_icon": "https://blog.tai2.net/favicon.ico",
+          "id": 1,
+          "original_url": "https://blog.tai2.net/mpegla_and_ffmpeg.html"
+        }
+      ],
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "QDxOJ",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "ライセンス周りだと H.264 と ffmpeg とかもややこしいですね "
+                },
+                {
+                  "type": "link",
+                  "url": "https://blog.tai2.net/mpegla_and_ffmpeg.html"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "09c738ee-4d91-4130-bb81-245ea7fca282",
+      "type": "message",
+      "text": "午後のこーだ懐かしい",
+      "user": "U70QDFN82",
+      "ts": "1589633975.026900",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "aY0",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "午後のこーだ懐かしい"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "fdaffcf2-bca9-41b0-ba61-d1807365136b",
+      "type": "message",
+      "text": "クソ古いソフトかつLinuxですらないけど午後のこーだがライセンス引っかかるからってコンパイラ同梱してたな",
+      "user": "UGA29R3FH",
+      "ts": "1589633943.026500",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "G1ow",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "クソ古いソフトかつLinuxですらないけど午後のこーだがライセンス引っかかるからってコンパイラ同梱してたな"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "def0b1bb-a881-4e60-9e13-05eaa6ff52ba",
+      "type": "message",
+      "text": "Oracle JDKもそんな感じですよね",
+      "user": "USSBNDE68",
+      "ts": "1589633874.025000",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "w0s",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "Oracle JDKもそんな感じですよね"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "cadd7bfa-963a-483b-a8ff-27d9b477be53",
+      "type": "message",
+      "text": "Packettracerなんかもそうですね。\n元バイナリは自分で取ってきてmakepkgしてくれよな！\nみたいな",
+      "user": "U3FJYR7MG",
+      "ts": "1589633810.023000",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "+w8y",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "Packettracerなんかもそうですね。\n元バイナリは自分で取ってきてmakepkgしてくれよな！\nみたいな"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "8c9794b9-8f61-4bbb-a7b5-5c5ec096a7be",
+      "type": "message",
+      "text": "AUR はあくまでパッケージを生成する手順書、つまり `PKGBUILD` やパッチなどバイナリ以外を公開するサービスであって、バイナリは再配布せず各自が手元でダウンロードする事にし、再配布の制限を気にせず実質的にパッケージを公開できるようになっています",
+      "user": "U0J2VATJA",
+      "ts": "1589633671.020400",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "1zqCx",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "AUR はあくまでパッケージを生成する手順書、つまり "
+                },
+                {
+                  "type": "text",
+                  "text": "PKGBUILD",
+                  "style": {
+                    "code": true
+                  }
+                },
+                {
+                  "type": "text",
+                  "text": " やパッチなどバイナリ以外を公開するサービスであって、バイナリは再配布せず各自が手元でダウンロードする事にし、再配布の制限を気にせず実質的にパッケージを公開できるようになっています"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "19c31c78-12cf-4ade-b333-17ac273a8305",
+      "type": "message",
+      "text": "なるほど",
+      "user": "U70QDFN82",
+      "ts": "1589633592.019000",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "UI6=n",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "なるほど"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "c8f03696-87e6-454c-b97f-a86d0287ee06",
+      "type": "message",
+      "text": "なので公式リポジトリに入らない人気ソフトウェアの大半は EULA の都合で再配布が出来ない物が多いですね、公式リポジトリはビルド済みのパッケージ、つまりバイナリが含まれたパッケージを提供するため、再配布が禁じられているソフトウェアは基本的にリポジトリに含められないんです",
+      "user": "U0J2VATJA",
+      "ts": "1589633546.018700",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "n9et+",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "なので公式リポジトリに入らない人気ソフトウェアの大半は EULA の都合で再配布が出来ない物が多いですね、公式リポジトリはビルド済みのパッケージ、つまりバイナリが含まれたパッケージを提供するため、再配布が禁じられているソフトウェアは基本的にリポジトリに含められないんです"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "reactions": [
+        {
+          "name": "+1",
+          "users": [
+            "UP795STQS",
+            "U5W6QDSHZ"
+          ],
+          "count": 2
+        }
+      ]
+    },
+    {
+      "client_msg_id": "38ed3595-bf58-4df8-b436-4a620022fea6",
+      "type": "message",
+      "text": "community には non-free なパッケージもありますね、たとえば `discord` は non-free ですが公式から特別な許諾 <https://git.archlinux.org/svntogit/community.git/tree/trunk/Permission_to_Distribute.mbox?h=packages/discord> を貰っている上で community リポジトリで配布されています",
+      "user": "U0J2VATJA",
+      "ts": "1589633425.016800",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "mGY",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "community には non-free なパッケージもありますね、たとえば "
+                },
+                {
+                  "type": "text",
+                  "text": "discord",
+                  "style": {
+                    "code": true
+                  }
+                },
+                {
+                  "type": "text",
+                  "text": " は non-free ですが公式から特別な許諾 "
+                },
+                {
+                  "type": "link",
+                  "url": "https://git.archlinux.org/svntogit/community.git/tree/trunk/Permission_to_Distribute.mbox?h=packages/discord"
+                },
+                {
+                  "type": "text",
+                  "text": " を貰っている上で community リポジトリで配布されています"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "2112a3c5-e9dc-48f7-ac13-67d1a55d47e5",
+      "type": "message",
+      "text": "ArchもnonfreeRepoとかあったら便利だなー",
+      "user": "UP795STQS",
+      "ts": "1589630774.014900",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "XPdRo",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "ArchもnonfreeRepoとかあったら便利だなー"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "7c6caec1-f2e0-4de4-8f4c-9625d6591170",
+      "type": "message",
+      "text": "google-chrome は EULA の都合で入れられなかったはずです",
+      "user": "U0J2VATJA",
+      "ts": "1589627189.013900",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "MHB",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "google-chrome は EULA の都合で入れられなかったはずです"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "reactions": [
+        {
+          "name": "cold_sweat",
+          "users": [
+            "UGA29R3FH",
+            "UP795STQS"
+          ],
+          "count": 2
+        },
+        {
+          "name": "cry",
+          "users": [
+            "U70QDFN82"
+          ],
+          "count": 1
+        }
+      ]
+    },
+    {
+      "client_msg_id": "509749f9-4236-43de-9316-bfbd94745be3",
+      "type": "message",
+      "text": "chromiumあるしいいやとか思われてそうな",
+      "user": "UGA29R3FH",
+      "ts": "1589621919.013400",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "MLL",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "chromiumあるしいいやとか思われてそうな"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "84083ec1-dd11-4865-a14a-3328021f8d30",
+      "type": "message",
+      "text": "google-chromeはさすがに脱AURしてほしい感はある・・・",
+      "user": "U70QDFN82",
+      "ts": "1589621754.012900",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "Z/k5w",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "google-chromeはさすがに脱AURしてほしい感はある・・・"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "message",
+      "subtype": "thread_broadcast",
+      "text": "あぁなるほど！確かに色々buildで入ってきますね！",
+      "user": "U8T8KB5M4",
+      "ts": "1589619677.012100",
+      "thread_ts": "1589614582.007600",
+      "root": {
+        "client_msg_id": "c255249d-5a04-42e9-ac24-0a85a9626c8c",
+        "type": "message",
+        "text": "結構voteあるのにaur抜けしないんですよね\n<https://aur.archlinux.org/packages/polybar/>",
+        "user": "U8T8KB5M4",
+        "ts": "1589614582.007600",
+        "team": "T0GFBAM8C",
+        "attachments": [
+          {
+            "title": "AUR (en) - polybar",
+            "title_link": "https://aur.archlinux.org/packages/polybar/",
+            "text": "A fast and easy-to-use status bar",
+            "fallback": "AUR (en) - polybar",
+            "from_url": "https://aur.archlinux.org/packages/polybar/",
+            "service_name": "aur.archlinux.org",
+            "id": 1,
+            "original_url": "https://aur.archlinux.org/packages/polybar/"
+          }
+        ],
+        "blocks": [
+          {
+            "type": "rich_text",
+            "block_id": "+f7R4",
+            "elements": [
+              {
+                "type": "rich_text_section",
+                "elements": [
+                  {
+                    "type": "text",
+                    "text": "結構voteあるのにaur抜けしないんですよね\n"
+                  },
+                  {
+                    "type": "link",
+                    "url": "https://aur.archlinux.org/packages/polybar/"
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "thread_ts": "1589614582.007600",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1589619677.012100",
+        "reply_users": [
+          "U257W41DW",
+          "U8T8KB5M4"
+        ],
+        "is_locked": false,
+        "subscribed": false
+      },
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "JZL",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "あぁなるほど！確かに色々buildで入ってきますね！"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "client_msg_id": "6620b201-a373-454e-a449-5c64abdc932b"
+    },
+    {
+      "type": "message",
+      "subtype": "thread_broadcast",
+      "text": "polybar はモジュールがプラグイン形式にならないと使わない機能のライブラリが必要になるので community に移行しないって話が出てた気がする",
+      "user": "U257W41DW",
+      "ts": "1589619231.011800",
+      "thread_ts": "1589614582.007600",
+      "root": {
+        "client_msg_id": "c255249d-5a04-42e9-ac24-0a85a9626c8c",
+        "type": "message",
+        "text": "結構voteあるのにaur抜けしないんですよね\n<https://aur.archlinux.org/packages/polybar/>",
+        "user": "U8T8KB5M4",
+        "ts": "1589614582.007600",
+        "team": "T0GFBAM8C",
+        "attachments": [
+          {
+            "title": "AUR (en) - polybar",
+            "title_link": "https://aur.archlinux.org/packages/polybar/",
+            "text": "A fast and easy-to-use status bar",
+            "fallback": "AUR (en) - polybar",
+            "from_url": "https://aur.archlinux.org/packages/polybar/",
+            "service_name": "aur.archlinux.org",
+            "id": 1,
+            "original_url": "https://aur.archlinux.org/packages/polybar/"
+          }
+        ],
+        "blocks": [
+          {
+            "type": "rich_text",
+            "block_id": "+f7R4",
+            "elements": [
+              {
+                "type": "rich_text_section",
+                "elements": [
+                  {
+                    "type": "text",
+                    "text": "結構voteあるのにaur抜けしないんですよね\n"
+                  },
+                  {
+                    "type": "link",
+                    "url": "https://aur.archlinux.org/packages/polybar/"
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "thread_ts": "1589614582.007600",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1589619677.012100",
+        "reply_users": [
+          "U257W41DW",
+          "U8T8KB5M4"
+        ],
+        "is_locked": false,
+        "subscribed": false
+      },
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "S2w",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "polybar はモジュールがプラグイン形式にならないと使わない機能のライブラリが必要になるので community に移行しないって話が出てた気がする"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "client_msg_id": "6d454ed9-aa11-494e-a82f-98e877ddce17"
+    },
+    {
+      "client_msg_id": "883335c2-c099-4d5d-a557-5a026893aacf",
+      "type": "message",
+      "text": "引き継ごうと思ったpackage自体にpatch出してるのでそれが取り込まれたらお願いします！",
+      "user": "U8T8KB5M4",
+      "ts": "1589615781.011600",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "GIT",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "引き継ごうと思ったpackage自体にpatch出してるのでそれが取り込まれたらお願いします！"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "reactions": [
+        {
+          "name": "+1",
+          "users": [
+            "UUWBU08TU"
+          ],
+          "count": 1
+        }
+      ]
+    },
+    {
+      "client_msg_id": "6da24e66-9c75-4539-8c6f-001a840c2b04",
+      "type": "message",
+      "text": "今でもやりたいならお手伝いできますよー",
+      "user": "UUWBU08TU",
+      "ts": "1589615281.010900",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "Lhbr",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "今でもやりたいならお手伝いできますよー"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "1d0b7090-8652-4a0a-9ffc-250b8c570a24",
+      "type": "message",
+      "text": "一度メンテ止まったaurのpackageを引き継ごうとしたことがありましたが、いまいち手順がわからずやめてしまったのを思い出した。",
+      "user": "U8T8KB5M4",
+      "ts": "1589614890.010200",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "7+YAz",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "一度メンテ止まったaurのpackageを引き継ごうとしたことがありましたが、いまいち手順がわからずやめてしまったのを思い出した。"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "ff9514e5-ee4f-4f62-802d-44e1338df867",
+      "type": "message",
+      "text": "なるほど",
+      "user": "U8T8KB5M4",
+      "ts": "1589614720.009400",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "UDjH",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "なるほど"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "ee198065-09c0-4cce-a4d6-d1836aaffbe7",
+      "type": "message",
+      "text": "メンテナンスしてくれるTUさんがいないとcommunityには入らないので……",
+      "user": "UUWBU08TU",
+      "ts": "1589614654.009200",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "QBh",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "メンテナンスしてくれるTUさんがいないとcommunityには入らないので……"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "8190220b-7594-4984-bc3c-e6ad1022245d",
+      "type": "message",
+      "text": "aurvoteなどのパッケージでも投票できますね",
+      "user": "UUWBU08TU",
+      "ts": "1589614628.008400",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "T7K",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "aurvoteなどのパッケージでも投票できますね"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "beffd002-1eed-4c33-96df-987abbe5d5a3",
+      "type": "message",
+      "text": "お気持ちのほうが強そう",
+      "user": "U8T8KB5M4",
+      "ts": "1589614588.007900",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "DOqU+",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "お気持ちのほうが強そう"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "c255249d-5a04-42e9-ac24-0a85a9626c8c",
+      "type": "message",
+      "text": "結構voteあるのにaur抜けしないんですよね\n<https://aur.archlinux.org/packages/polybar/>",
+      "user": "U8T8KB5M4",
+      "ts": "1589614582.007600",
+      "team": "T0GFBAM8C",
+      "attachments": [
+        {
+          "title": "AUR (en) - polybar",
+          "title_link": "https://aur.archlinux.org/packages/polybar/",
+          "text": "A fast and easy-to-use status bar",
+          "fallback": "AUR (en) - polybar",
+          "from_url": "https://aur.archlinux.org/packages/polybar/",
+          "service_name": "aur.archlinux.org",
+          "id": 1,
+          "original_url": "https://aur.archlinux.org/packages/polybar/"
+        }
+      ],
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "+f7R4",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "結構voteあるのにaur抜けしないんですよね\n"
+                },
+                {
+                  "type": "link",
+                  "url": "https://aur.archlinux.org/packages/polybar/"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "thread_ts": "1589614582.007600",
+      "reply_count": 2,
+      "reply_users_count": 2,
+      "latest_reply": "1589619677.012100",
+      "reply_users": [
+        "U257W41DW",
+        "U8T8KB5M4"
+      ],
+      "is_locked": false,
+      "subscribed": false
+    },
+    {
+      "client_msg_id": "6c40129a-ee82-4854-9e79-d7ff1ef5a490",
+      "type": "message",
+      "text": "たまにvoteぽちぽちしてる",
+      "user": "U8T8KB5M4",
+      "ts": "1589614561.007000",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "2Y=+",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "たまにvoteぽちぽちしてる"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "ea9136e3-fb49-4e9e-92e5-21f2648caa7a",
+      "type": "message",
+      "text": "お気持ち",
+      "user": "UGA29R3FH",
+      "ts": "1589614533.006700",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "kLPX5",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "お気持ち"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "791fb608-7117-436f-b885-de5d55933189",
+      "type": "message",
+      "text": "10以上のvoteが目安ですが、TUがメンテナンスしたければ投票数に関係なく入ったりするようです",
+      "user": "UUWBU08TU",
+      "ts": "1589614511.006500",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "qQg6B",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "10以上のvoteが目安ですが、TUがメンテナンスしたければ投票数に関係なく入ったりするようです"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "8a6cbc8a-7647-4f6f-a7c8-9daeefa44219",
+      "type": "message",
+      "text": "メンテナのお気持ちだと思ってたけどそういう仕組みなんだ、なるほど",
+      "user": "UGA29R3FH",
+      "ts": "1589614376.004400",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "B/5d=",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "メンテナのお気持ちだと思ってたけどそういう仕組みなんだ、なるほど"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "c7837397-16f0-49ab-93a4-bc52efa42046",
+      "type": "message",
+      "text": "<https://wiki.archlinux.jp/index.php/Arch_User_Repository|引用>ですが､\n\nArch User Repository (AUR) はコミュニティによって運営されている Arch ユーザーのためのリポジトリです。パッケージのビルド方法が書かれたファイル (*<https://wiki.archlinux.jp/index.php/PKGBUILD|PKGBUILD>*) がまとめて置かれており、*<https://wiki.archlinux.jp/index.php/Makepkg|makepkg>* を使ってソースからパッケージを作り、生成したパッケージを *<https://wiki.archlinux.jp/index.php/Pacman|pacman>* でインストールすることができます。人気のあるパッケージが *<https://wiki.archlinux.jp/index.php/%E5%85%AC%E5%BC%8F%E3%83%AA%E3%83%9D%E3%82%B8%E3%83%88%E3%83%AA#.5Bcommunity.5D|[community]>* リポジトリに取り込まれるように、コミュニティの手で新しいパッケージを共有することを目的に AUR は作られました。このページでは AUR の使用方法を説明します。\nAUR に投稿された新しいパッケージの一部は公式リポジトリに取り込まれています。AUR では、ユーザーはパッケージビルド (PKGBUILD と関連ファイル) を投稿することができます。AUR コミュニティには AUR に存在するパッケージに対して投票する機能があります。投票が十分に集まると — ライセンスに問題がなくきちんとパッケージ化されているならば — [community] リポジトリに取り込まれます (*<https://wiki.archlinux.jp/index.php/Pacman|pacman>* や *<https://wiki.archlinux.jp/index.php/Arch_Build_System|abs>* で直接入手できるようになります)。",
+      "user": "UP795STQS",
+      "ts": "1589614319.003800",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "wWlXm",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "link",
+                  "url": "https://wiki.archlinux.jp/index.php/Arch_User_Repository",
+                  "text": "引用"
+                },
+                {
+                  "type": "text",
+                  "text": "ですが､\n\nArch User Repository (AUR) はコミュニティによって運営されている Arch ユーザーのためのリポジトリです。パッケージのビルド方法が書かれたファイル ("
+                },
+                {
+                  "type": "link",
+                  "url": "https://wiki.archlinux.jp/index.php/PKGBUILD",
+                  "text": "PKGBUILD",
+                  "style": {
+                    "bold": true
+                  }
+                },
+                {
+                  "type": "text",
+                  "text": ") がまとめて置かれており、"
+                },
+                {
+                  "type": "link",
+                  "url": "https://wiki.archlinux.jp/index.php/Makepkg",
+                  "text": "makepkg",
+                  "style": {
+                    "bold": true
+                  }
+                },
+                {
+                  "type": "text",
+                  "text": " を使ってソースからパッケージを作り、生成したパッケージを "
+                },
+                {
+                  "type": "link",
+                  "url": "https://wiki.archlinux.jp/index.php/Pacman",
+                  "text": "pacman",
+                  "style": {
+                    "bold": true
+                  }
+                },
+                {
+                  "type": "text",
+                  "text": " でインストールすることができます。人気のあるパッケージが "
+                },
+                {
+                  "type": "link",
+                  "url": "https://wiki.archlinux.jp/index.php/%E5%85%AC%E5%BC%8F%E3%83%AA%E3%83%9D%E3%82%B8%E3%83%88%E3%83%AA#.5Bcommunity.5D",
+                  "text": "[community]",
+                  "style": {
+                    "bold": true
+                  }
+                },
+                {
+                  "type": "text",
+                  "text": " リポジトリに取り込まれるように、コミュニティの手で新しいパッケージを共有することを目的に AUR は作られました。このページでは AUR の使用方法を説明します。\nAUR に投稿された新しいパッケージの一部は公式リポジトリに取り込まれています。AUR では、ユーザーはパッケージビルド (PKGBUILD と関連ファイル) を投稿することができます。AUR コミュニティには AUR に存在するパッケージに対して投票する機能があります。投票が十分に集まると — ライセンスに問題がなくきちんとパッケージ化されているならば — [community] リポジトリに取り込まれます ("
+                },
+                {
+                  "type": "link",
+                  "url": "https://wiki.archlinux.jp/index.php/Pacman",
+                  "text": "pacman",
+                  "style": {
+                    "bold": true
+                  }
+                },
+                {
+                  "type": "text",
+                  "text": " や "
+                },
+                {
+                  "type": "link",
+                  "url": "https://wiki.archlinux.jp/index.php/Arch_Build_System",
+                  "text": "abs",
+                  "style": {
+                    "bold": true
+                  }
+                },
+                {
+                  "type": "text",
+                  "text": " で直接入手できるようになります)。"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "message",
+      "subtype": "thread_broadcast",
+      "text": "そのへんってどういうルールで昇格するんですかね？",
+      "user": "U8T8KB5M4",
+      "ts": "1589599072.003000",
+      "thread_ts": "1589548795.002600",
+      "root": {
+        "client_msg_id": "a2dee777-c7f7-4a1a-8672-923100f2d592",
+        "type": "message",
+        "text": "<https://www.archlinux.org/packages/community/x86_64/rust-analyzer/>\nがAURから昇格してる",
+        "user": "U70QDFN82",
+        "ts": "1589548795.002600",
+        "team": "T0GFBAM8C",
+        "blocks": [
+          {
+            "type": "rich_text",
+            "block_id": "5KD",
+            "elements": [
+              {
+                "type": "rich_text_section",
+                "elements": [
+                  {
+                    "type": "link",
+                    "url": "https://www.archlinux.org/packages/community/x86_64/rust-analyzer/"
+                  },
+                  {
+                    "type": "text",
+                    "text": "\nがAURから昇格してる"
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "thread_ts": "1589548795.002600",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1589599072.003000",
+        "reply_users": [
+          "U8T8KB5M4"
+        ],
+        "is_locked": false,
+        "subscribed": false
+      },
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "Vwg",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "そのへんってどういうルールで昇格するんですかね？"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "client_msg_id": "084ea530-85bf-460d-8b22-21603baf4e1a"
+    },
+    {
+      "client_msg_id": "a2dee777-c7f7-4a1a-8672-923100f2d592",
+      "type": "message",
+      "text": "<https://www.archlinux.org/packages/community/x86_64/rust-analyzer/>\nがAURから昇格してる",
+      "user": "U70QDFN82",
+      "ts": "1589548795.002600",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "5KD",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "link",
+                  "url": "https://www.archlinux.org/packages/community/x86_64/rust-analyzer/"
+                },
+                {
+                  "type": "text",
+                  "text": "\nがAURから昇格してる"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "thread_ts": "1589548795.002600",
+      "reply_count": 1,
+      "reply_users_count": 1,
+      "latest_reply": "1589599072.003000",
+      "reply_users": [
+        "U8T8KB5M4"
+      ],
+      "is_locked": false,
+      "subscribed": false,
+      "reactions": [
+        {
+          "name": "tada",
+          "users": [
+            "UGA29R3FH",
+            "U53RAQBCP",
+            "U5W6QDSHZ"
+          ],
+          "count": 3
+        }
+      ]
+    },
+    {
+      "client_msg_id": "4f055168-cd3f-4fd8-a4b0-c37383accde7",
+      "type": "message",
+      "text": "だと思いますね！応援してますw",
+      "user": "U53RAQBCP",
+      "ts": "1589536806.002200",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "CS/j",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "だと思いますね！応援してますw"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "de385590-2f47-4015-ae40-dda4f76fce6b",
+      "type": "message",
+      "text": "ということは、Postgresqlの設定で、わざわざそれぞれのサービス用にソケットファイルを量産しなくても良いということなでしょうか。\nまぁ、試せばはやいのでしょうけどもなんとなく怖くて＾＾；\n\nありがとうございます。",
+      "user": "U7NBCFT1S",
+      "ts": "1589526103.001500",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "rPM2",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "ということは、Postgresqlの設定で、わざわざそれぞれのサービス用にソケットファイルを量産しなくても良いということなでしょうか。\nまぁ、試せばはやいのでしょうけどもなんとなく怖くて＾＾；\n\nありがとうございます。"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "99dcd991-3668-4f79-b321-943a21d6d9a9",
+      "type": "message",
+      "text": "1:nというのはこういうことですよね？できます\n<https://stackoverflow.com/questions/670891/is-there-a-way-for-multiple-processes-to-share-a-listening-socket|https://stackoverflow.com/questions/670891/is-there-a-way-for-multiple-processes-to-share-a-listening-socket>",
+      "user": "U53RAQBCP",
+      "ts": "1589524861.499800",
+      "team": "T0GFBAM8C",
+      "attachments": [
+        {
+          "service_name": "Stack Overflow",
+          "title": "Is there a way for multiple processes to share a listening socket?",
+          "title_link": "https://stackoverflow.com/questions/670891/is-there-a-way-for-multiple-processes-to-share-a-listening-socket",
+          "text": "In socket programming, you create a listening socket and then for each client that connects, you get a normal stream socket that you can use to handle the client's request. The OS manages the queue...",
+          "fallback": "Stack Overflow: Is there a way for multiple processes to share a listening socket?",
+          "thumb_url": "https://cdn.sstatic.net/Sites/stackoverflow/Img/apple-touch-icon@2.png?v=73d79a89bded",
+          "from_url": "https://stackoverflow.com/questions/670891/is-there-a-way-for-multiple-processes-to-share-a-listening-socket",
+          "thumb_width": 316,
+          "thumb_height": 316,
+          "service_icon": "https://cdn.sstatic.net/Sites/stackoverflow/Img/apple-touch-icon.png?v=c78bd457575a",
+          "id": 1,
+          "original_url": "https://stackoverflow.com/questions/670891/is-there-a-way-for-multiple-processes-to-share-a-listening-socket"
+        }
+      ],
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "izGzn",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "1:nというのはこういうことですよね？できます\n"
+                },
+                {
+                  "type": "link",
+                  "url": "https://stackoverflow.com/questions/670891/is-there-a-way-for-multiple-processes-to-share-a-listening-socket",
+                  "text": "https://stackoverflow.com/questions/670891/is-there-a-way-for-multiple-processes-to-share-a-listening-socket"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "300715df-ae0b-4d34-bb5b-fe873e5559a4",
+      "type": "message",
+      "text": "どなたか、Unixソケットについて教えていただけないでしょうか？\nUnixソケットは１：ｎに対応してますか？\n\n例\nPosgreUnixソケット：Redmine,PowerDNS,Gitlab\n\n一つのUnixソケットに対して複数のサービスアプリが共用できるのでしょうか？",
+      "user": "U7NBCFT1S",
+      "ts": "1589435185.497500",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "H=q",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "どなたか、Unixソケットについて教えていただけないでしょうか？\nUnixソケットは１：ｎに対応してますか？\n\n例\nPosgreUnixソケット：Redmine,PowerDNS,Gitlab\n\n一つのUnixソケットに対して複数のサービスアプリが共用できるのでしょうか？"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "message",
+      "subtype": "channel_join",
+      "ts": "1589196271.493100",
+      "user": "U01370MAHLN",
+      "text": "<@U01370MAHLN>さんがチャンネルに参加しました"
+    },
+    {
+      "type": "message",
+      "text": "今の様子",
+      "files": [
+        {
+          "id": "F013DJ86ZGA",
+          "created": 1589191260,
+          "timestamp": 1589191260,
+          "name": "image.png",
+          "title": "image.png",
+          "mimetype": "image/png",
+          "filetype": "png",
+          "pretty_type": "PNG",
+          "user": "URZFHALTT",
+          "editable": false,
+          "size": 234301,
+          "mode": "hosted",
+          "is_external": false,
+          "external_type": "",
+          "is_public": true,
+          "public_url_shared": false,
+          "display_as_bot": false,
+          "username": "",
+          "url_private": "https://files.slack.com/files-pri/T0GFBAM8C-F013DJ86ZGA/image.png",
+          "url_private_download": "https://files.slack.com/files-pri/T0GFBAM8C-F013DJ86ZGA/download/image.png",
+          "media_display_type": "unknown",
+          "thumb_64": "https://files.slack.com/files-tmb/T0GFBAM8C-F013DJ86ZGA-b4dab331a8/image_64.png",
+          "thumb_80": "https://files.slack.com/files-tmb/T0GFBAM8C-F013DJ86ZGA-b4dab331a8/image_80.png",
+          "thumb_360": "https://files.slack.com/files-tmb/T0GFBAM8C-F013DJ86ZGA-b4dab331a8/image_360.png",
+          "thumb_360_w": 360,
+          "thumb_360_h": 203,
+          "thumb_480": "https://files.slack.com/files-tmb/T0GFBAM8C-F013DJ86ZGA-b4dab331a8/image_480.png",
+          "thumb_480_w": 480,
+          "thumb_480_h": 271,
+          "thumb_160": "https://files.slack.com/files-tmb/T0GFBAM8C-F013DJ86ZGA-b4dab331a8/image_160.png",
+          "thumb_720": "https://files.slack.com/files-tmb/T0GFBAM8C-F013DJ86ZGA-b4dab331a8/image_720.png",
+          "thumb_720_w": 720,
+          "thumb_720_h": 406,
+          "thumb_800": "https://files.slack.com/files-tmb/T0GFBAM8C-F013DJ86ZGA-b4dab331a8/image_800.png",
+          "thumb_800_w": 800,
+          "thumb_800_h": 451,
+          "thumb_960": "https://files.slack.com/files-tmb/T0GFBAM8C-F013DJ86ZGA-b4dab331a8/image_960.png",
+          "thumb_960_w": 960,
+          "thumb_960_h": 542,
+          "thumb_1024": "https://files.slack.com/files-tmb/T0GFBAM8C-F013DJ86ZGA-b4dab331a8/image_1024.png",
+          "thumb_1024_w": 1024,
+          "thumb_1024_h": 578,
+          "original_w": 1912,
+          "original_h": 1079,
+          "thumb_tiny": "AwAbADChjilYY7YpKOT1JoASnIQDzSYFLQA/evv+VJvHv+lMIoosO7F3UZpKBQIXNFJSigBKSnYoAFAH/9k=",
+          "permalink": "https://archlinuxjp.slack.com/files/URZFHALTT/F013DJ86ZGA/image.png",
+          "permalink_public": "https://slack-files.com/T0GFBAM8C-F013DJ86ZGA-b73df0a82f",
+          "is_starred": false,
+          "has_rich_preview": false
+        }
+      ],
+      "upload": true,
+      "user": "URZFHALTT",
+      "display_as_bot": false,
+      "ts": "1589191264.492700",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "hYmZ",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "今の様子"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "client_msg_id": "533918f3-b23f-4d69-b502-9bd6c02c21ac"
+    },
+    {
+      "type": "message",
+      "subtype": "thread_broadcast",
+      "text": "インストールしたのは５回目かもしれないので忘れてしまいました、、許してください",
+      "user": "URZFHALTT",
+      "ts": "1589190831.492100",
+      "thread_ts": "1589190756.491200",
+      "root": {
+        "client_msg_id": "e330963a-d355-4ec4-b517-d3a494147faf",
+        "type": "message",
+        "text": "Installation guide に従ってくださいね :crying_cat_face: \n/etc/locale.conf に書けます",
+        "user": "UUWBU08TU",
+        "ts": "1589190756.491200",
+        "team": "T0GFBAM8C",
+        "blocks": [
+          {
+            "type": "rich_text",
+            "block_id": "8zxQI",
+            "elements": [
+              {
+                "type": "rich_text_section",
+                "elements": [
+                  {
+                    "type": "text",
+                    "text": "Installation guide に従ってくださいね "
+                  },
+                  {
+                    "type": "emoji",
+                    "name": "crying_cat_face",
+                    "unicode": "1f63f"
+                  },
+                  {
+                    "type": "text",
+                    "text": " \n/etc/locale.conf に書けます"
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "thread_ts": "1589190756.491200",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1589190831.492100",
+        "reply_users": [
+          "URZFHALTT"
+        ],
+        "is_locked": false,
+        "subscribed": false
+      },
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "H=PhN",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "インストールしたのは５回目かもしれないので忘れてしまいました、、許してください"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "client_msg_id": "7ba3c192-fe90-4639-8b0f-4cdd988023ec",
+      "reactions": [
+        {
+          "name": "ok_hand",
+          "users": [
+            "UUWBU08TU"
+          ],
+          "count": 1
+        }
+      ]
+    },
+    {
+      "client_msg_id": "2efd3a58-d61e-4334-9cad-6a0611c6e502",
+      "type": "message",
+      "text": "X使わないときに日本語が出てこないんですね　<@U0PM6EYR1>",
+      "user": "URZFHALTT",
+      "ts": "1589190781.491800",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "H=wxl",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "X使わないときに日本語が出てこないんですね　"
+                },
+                {
+                  "type": "user",
+                  "user_id": "U0PM6EYR1"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "e330963a-d355-4ec4-b517-d3a494147faf",
+      "type": "message",
+      "text": "Installation guide に従ってくださいね :crying_cat_face: \n/etc/locale.conf に書けます",
+      "user": "UUWBU08TU",
+      "ts": "1589190756.491200",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "8zxQI",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "Installation guide に従ってくださいね "
+                },
+                {
+                  "type": "emoji",
+                  "name": "crying_cat_face",
+                  "unicode": "1f63f"
+                },
+                {
+                  "type": "text",
+                  "text": " \n/etc/locale.conf に書けます"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "thread_ts": "1589190756.491200",
+      "reply_count": 1,
+      "reply_users_count": 1,
+      "latest_reply": "1589190831.492100",
+      "reply_users": [
+        "URZFHALTT"
+      ],
+      "is_locked": false,
+      "subscribed": false
+    },
+    {
+      "client_msg_id": "38e15de5-1ee8-433a-b65b-e70657aae383",
+      "type": "message",
+      "text": ".zshrc と .bash_profileにexport LANG=\"en_US.UTF-8\"と追加したのです",
+      "user": "URZFHALTT",
+      "ts": "1589190727.490500",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "UKU2",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": ".zshrc と .bash_profileにexport LANG=\"en_US.UTF-8\"と追加したのです"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "has_more": true,
+  "is_limited": false,
+  "pin_count": 0,
+  "channel_actions_ts": null,
+  "channel_actions_count": 0,
+  "response_metadata": {
+    "next_cursor": "bmV4dF90czoxNTg5MTkwNzIyNDkwMzAw"
+  }
+}

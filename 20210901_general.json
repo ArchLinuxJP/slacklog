@@ -1,0 +1,4273 @@
+{
+  "ok": true,
+  "latest": "1633090262.000000",
+  "oldest": "1630498262.000000",
+  "messages": [
+    {
+      "client_msg_id": "5f33b505-dc0f-4549-9b86-e80f42b0f11a",
+      "type": "message",
+      "text": "どういったToDoを管理したいですか？",
+      "user": "UUWBU08TU",
+      "ts": "1633089176.354500",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "=Hd",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "どういったToDoを管理したいですか？"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "d3199e77-97ee-4255-8934-11302c2bcda5",
+      "type": "message",
+      "text": "強いていえば\n<https://wiki.archlinux.jp/index.php/ArchWiki%E3%83%BB%E3%83%88%E3%83%BC%E3%82%AF:%E3%83%AA%E3%82%AF%E3%82%A8%E3%82%B9%E3%83%88>\nですかね？",
+      "user": "UUWBU08TU",
+      "ts": "1633089168.354200",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "emCX",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "強いていえば\n"
+                },
+                {
+                  "type": "link",
+                  "url": "https://wiki.archlinux.jp/index.php/ArchWiki%E3%83%BB%E3%83%88%E3%83%BC%E3%82%AF:%E3%83%AA%E3%82%AF%E3%82%A8%E3%82%B9%E3%83%88"
+                },
+                {
+                  "type": "text",
+                  "text": "\nですかね？"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "ee0a4d11-d0fd-43a8-b89e-7e01e1ba19f9",
+      "type": "message",
+      "text": "<@UUWBU08TU> ArchWikiのTodoみたいなものとかを管理する場所ってありますか？",
+      "user": "UP57VNN6T",
+      "ts": "1633088995.353500",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "MVZj",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "user",
+                  "user_id": "UUWBU08TU"
+                },
+                {
+                  "type": "text",
+                  "text": " ArchWikiのTodoみたいなものとかを管理する場所ってありますか？"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "704b8326-cf3c-471b-99c1-b0b13df8c9e2",
+      "type": "message",
+      "text": "ネットワーク周り特に難しいですよね…\nディストリによってはResolv.conf勝手に書き換わったりする…",
+      "user": "U017BNGTHT3",
+      "ts": "1632910246.310500",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "mrCc",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "ネットワーク周り特に難しいですよね…\nディストリによってはResolv.conf勝手に書き換わったりする…"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "reactions": [
+        {
+          "name": "bow",
+          "users": [
+            "U02GQTCTTFA"
+          ],
+          "count": 1
+        },
+        {
+          "name": "raised_hands",
+          "users": [
+            "U02GQTCTTFA"
+          ],
+          "count": 1
+        },
+        {
+          "name": "nyancat",
+          "users": [
+            "U0GFBAM8U",
+            "U02ASPM0A6T",
+            "U01HE1ENNJZ"
+          ],
+          "count": 3
+        }
+      ]
+    },
+    {
+      "client_msg_id": "160F07DA-2A97-4ADF-9689-9B73291C60A3",
+      "type": "message",
+      "text": "無線LANの接続ができないので、質問させていただきます。この問題について知ってる方、助けてくださると嬉しいです。\n\n自分はNetworkmanagerを使ってきたのですが、突然使えなくなりました。おそらく自分が意味を理解してなく、色々弄ったせいです。\n\nネットワーク障害の始まりは、毎回dhcpcdを動かさないと動かなかったところから始まります。\n\nそこで、それを自動化したり、archwikiを見て色々設定を変えたりしました。\n\nこれで動くだろうと思い、再起動してみると、dhcpcdを使ってもネットワークに繋げなくなりました。\n\n自分はnmtuiを使っており、nmtuiの方で確認するとアクティベートになっており、接続が出来ているようです。\n\n今のところ確認できているところを下記に書きます。\n1. ip アドレスの取得は出来ている(ip aを使って確認)\n2. DNS周りは生きている。正引き、逆引きが出来ている（dig,nslookupを使って確認)\n3. NetWorkmanager.serviceは動いてる(systemctl statusで確認)\n4. ネットワークインタフェースは立ち上がってる( ip linkで確認\n##環境\nManjaro arch 5.10.63-1 x86-64\n\n詳細はスレッドに書きます。\n\n",
+      "user": "U02GQTCTTFA",
+      "ts": "1632908163.273300",
+      "team": "T0GFBAM8C",
+      "edited": {
+        "user": "U02GQTCTTFA",
+        "ts": "1632908216.000000"
+      },
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "OocO",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "無線LANの接続ができないので、質問させていただきます。この問題について知ってる方、助けてくださると嬉しいです。\n\n自分はNetworkmanagerを使ってきたのですが、突然使えなくなりました。おそらく自分が意味を理解してなく、色々弄ったせいです。\n\nネットワーク障害の始まりは、毎回dhcpcdを動かさないと動かなかったところから始まります。\n\nそこで、それを自動化したり、archwikiを見て色々設定を変えたりしました。\n\nこれで動くだろうと思い、再起動してみると、dhcpcdを使ってもネットワークに繋げなくなりました。\n\n自分はnmtuiを使っており、nmtuiの方で確認するとアクティベートになっており、接続が出来ているようです。\n\n今のところ確認できているところを下記に書きます。\n"
+                }
+              ]
+            },
+            {
+              "type": "rich_text_list",
+              "elements": [
+                {
+                  "type": "rich_text_section",
+                  "elements": [
+                    {
+                      "type": "text",
+                      "text": "ip アドレスの取得は出来ている(ip aを使って確認)"
+                    }
+                  ]
+                },
+                {
+                  "type": "rich_text_section",
+                  "elements": [
+                    {
+                      "type": "text",
+                      "text": "DNS周りは生きている。正引き、逆引きが出来ている（dig,nslookupを使って確認)"
+                    }
+                  ]
+                },
+                {
+                  "type": "rich_text_section",
+                  "elements": [
+                    {
+                      "type": "text",
+                      "text": "NetWorkmanager.serviceは動いてる(systemctl statusで確認)"
+                    }
+                  ]
+                },
+                {
+                  "type": "rich_text_section",
+                  "elements": [
+                    {
+                      "type": "text",
+                      "text": "ネットワークインタフェースは立ち上がってる( ip linkで確認"
+                    }
+                  ]
+                }
+              ],
+              "style": "ordered",
+              "indent": 0,
+              "offset": 0,
+              "border": 0
+            },
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "\n##環境\nManjaro arch 5.10.63-1 x86-64\n\n詳細はスレッドに書きます。\n\n"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "thread_ts": "1632908163.273300",
+      "reply_count": 94,
+      "reply_users_count": 4,
+      "latest_reply": "1632914754.351600",
+      "reply_users": [
+        "U02GQTCTTFA",
+        "U0GFBAM8U",
+        "UUWBU08TU",
+        "U017BNGTHT3"
+      ],
+      "is_locked": false,
+      "subscribed": true,
+      "last_read": "1632914754.351600"
+    },
+    {
+      "type": "message",
+      "subtype": "channel_join",
+      "ts": "1632906717.258200",
+      "user": "U02GQTCTTFA",
+      "text": "<@U02GQTCTTFA>さんがチャンネルに参加しました"
+    },
+    {
+      "type": "message",
+      "subtype": "channel_join",
+      "ts": "1632902782.258000",
+      "user": "U02FU8SPE30",
+      "text": "<@U02FU8SPE30>さんがチャンネルに参加しました"
+    },
+    {
+      "type": "message",
+      "subtype": "channel_join",
+      "ts": "1632385926.256300",
+      "user": "U02FD7FM5GA",
+      "text": "<@U02FD7FM5GA>さんがチャンネルに参加しました",
+      "reactions": [
+        {
+          "name": "+1",
+          "users": [
+            "U02ASPM0A6T"
+          ],
+          "count": 1
+        },
+        {
+          "name": "archjp",
+          "users": [
+            "U01HE1ENNJZ",
+            "U017BNGTHT3",
+            "UGA29R3FH",
+            "U0GFBAM8U",
+            "U02E11SNF0T"
+          ],
+          "count": 5
+        }
+      ]
+    },
+    {
+      "client_msg_id": "65e816b5-09ec-4230-8a27-9c698aa11a1a",
+      "type": "message",
+      "text": "`sudo dmesg -l err,warn`\n```...\n[    0.417847] ACPI BIOS Error (bug): Could not resolve symbol [\\_SB.IPPF._STA.POS1], AE_NOT_FOUND (20200925/psargs-330)\n[    0.417857] ACPI Error: Aborting method \\_SB.IPPF._STA due to previous error (AE_NOT_FOUND) (20200925/psparse-529)\n[    0.476726] ACPI BIOS Error (bug): Could not resolve symbol [\\_SB.IPPF._STA.POS1], AE_NOT_FOUND (20200925/psargs-330)\n[    0.476735] ACPI Error: Aborting method \\_SB.IPPF._STA due to previous error (AE_NOT_FOUND) (20200925/psparse-529)\n[    0.551489] ACPI BIOS Error (bug): Could not resolve symbol [\\_SB.IPPF._STA.POS1], AE_NOT_FOUND (20200925/psargs-330)\n[    0.551499] ACPI Error: Aborting method \\_SB.IPPF._STA due to previous error (AE_NOT_FOUND) (20200925/psparse-529)\n[    0.795876] [Firmware Bug]: Invalid critical threshold (0)\n[   14.254527] acpi PNP0C14:01: duplicate WMI GUID 05901221-D566-11D1-B2F0-00A0C9062910 (first instance was on PNP0C14:00)\n[   14.254640] acpi PNP0C14:02: duplicate WMI GUID 05901221-D566-11D1-B2F0-00A0C9062910 (first instance was on PNP0C14:00)\n[   14.254643] wmi_bus wmi_bus-PNP0C14:02: WQBC data block query control method not found\n[   14.254671] wmi_bus wmi_bus-PNP0C14:02: WQBJ data block query control method not found\n[   14.285108] ACPI BIOS Error (bug): Could not resolve symbol [\\_SB.IPPF._STA.POS1], AE_NOT_FOUND (20200925/psargs-330)\n[   14.285114] ACPI Error: Aborting method \\_SB.IPPF._STA due to previous error (AE_NOT_FOUND) (20200925/psparse-529)\n[   14.294835] ACPI BIOS Error (bug): Could not resolve symbol [\\_SB.IPPF._STA.POS1], AE_NOT_FOUND (20200925/psargs-330)\n[   14.294845] ACPI Error: Aborting method \\_SB.IPPF._STA due to previous error (AE_NOT_FOUND) (20200925/psparse-529)\n...\n[   15.551107] ACPI BIOS Error (bug): Could not resolve symbol [\\_SB.IPPF._STA.POS1], AE_NOT_FOUND (20200925/psargs-330)\n[   15.551117] ACPI Error: Aborting method \\_SB.IPPF._STA due to previous error (AE_NOT_FOUND) (20200925/psparse-529)\n...```\ndmesgに謎のエラーまみれなので\n誰か分かる人いらっしゃったら教えてください",
+      "user": "U01HE1ENNJZ",
+      "ts": "1632267802.250900",
+      "team": "T0GFBAM8C",
+      "edited": {
+        "user": "U01HE1ENNJZ",
+        "ts": "1632270210.000000"
+      },
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "d//U",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "sudo dmesg -l err,warn",
+                  "style": {
+                    "code": true
+                  }
+                },
+                {
+                  "type": "text",
+                  "text": "\n"
+                }
+              ]
+            },
+            {
+              "type": "rich_text_preformatted",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "...\n[    0.417847] ACPI BIOS Error (bug): Could not resolve symbol [\\_SB.IPPF._STA.POS1], AE_NOT_FOUND (20200925/psargs-330)\n[    0.417857] ACPI Error: Aborting method \\_SB.IPPF._STA due to previous error (AE_NOT_FOUND) (20200925/psparse-529)\n[    0.476726] ACPI BIOS Error (bug): Could not resolve symbol [\\_SB.IPPF._STA.POS1], AE_NOT_FOUND (20200925/psargs-330)\n[    0.476735] ACPI Error: Aborting method \\_SB.IPPF._STA due to previous error (AE_NOT_FOUND) (20200925/psparse-529)\n[    0.551489] ACPI BIOS Error (bug): Could not resolve symbol [\\_SB.IPPF._STA.POS1], AE_NOT_FOUND (20200925/psargs-330)\n[    0.551499] ACPI Error: Aborting method \\_SB.IPPF._STA due to previous error (AE_NOT_FOUND) (20200925/psparse-529)\n[    0.795876] [Firmware Bug]: Invalid critical threshold (0)\n[   14.254527] acpi PNP0C14:01: duplicate WMI GUID 05901221-D566-11D1-B2F0-00A0C9062910 (first instance was on PNP0C14:00)\n[   14.254640] acpi PNP0C14:02: duplicate WMI GUID 05901221-D566-11D1-B2F0-00A0C9062910 (first instance was on PNP0C14:00)\n[   14.254643] wmi_bus wmi_bus-PNP0C14:02: WQBC data block query control method not found\n[   14.254671] wmi_bus wmi_bus-PNP0C14:02: WQBJ data block query control method not found\n[   14.285108] ACPI BIOS Error (bug): Could not resolve symbol [\\_SB.IPPF._STA.POS1], AE_NOT_FOUND (20200925/psargs-330)\n[   14.285114] ACPI Error: Aborting method \\_SB.IPPF._STA due to previous error (AE_NOT_FOUND) (20200925/psparse-529)\n[   14.294835] ACPI BIOS Error (bug): Could not resolve symbol [\\_SB.IPPF._STA.POS1], AE_NOT_FOUND (20200925/psargs-330)\n[   14.294845] ACPI Error: Aborting method \\_SB.IPPF._STA due to previous error (AE_NOT_FOUND) (20200925/psparse-529)\n...\n[   15.551107] ACPI BIOS Error (bug): Could not resolve symbol [\\_SB.IPPF._STA.POS1], AE_NOT_FOUND (20200925/psargs-330)\n[   15.551117] ACPI Error: Aborting method \\_SB.IPPF._STA due to previous error (AE_NOT_FOUND) (20200925/psparse-529)\n..."
+                }
+              ]
+            },
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "dmesgに謎のエラーまみれなので\n誰か分かる人いらっしゃったら教えてください"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "thread_ts": "1632267802.250900",
+      "reply_count": 8,
+      "reply_users_count": 2,
+      "latest_reply": "1632294246.255600",
+      "reply_users": [
+        "U01HE1ENNJZ",
+        "U0H9QUFA5"
+      ],
+      "is_locked": false,
+      "subscribed": false,
+      "reactions": [
+        {
+          "name": "eyes",
+          "users": [
+            "U02ASPM0A6T"
+          ],
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "message",
+      "subtype": "channel_join",
+      "ts": "1631955990.246400",
+      "user": "U02EFSEG8HM",
+      "text": "<@U02EFSEG8HM>さんがチャンネルに参加しました",
+      "reactions": [
+        {
+          "name": "archjp",
+          "users": [
+            "U01HE1ENNJZ",
+            "U02ASPM0A6T",
+            "U0GFBAM8U",
+            "U02E11SNF0T",
+            "UGA29R3FH"
+          ],
+          "count": 5
+        }
+      ]
+    },
+    {
+      "client_msg_id": "F0A1C4EA-1A47-4AB8-A333-15B2271BEF3D",
+      "type": "message",
+      "text": "気になっていた azik との併用設定事例も充実しているようなので、近々導入検討してみます。ありがとうございます\n<http://coexe.web.fc2.com/skkrule_azik.html|http://coexe.web.fc2.com/skkrule_azik.html>",
+      "user": "U02ASPM0A6T",
+      "ts": "1631897641.244900",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "K5Uw",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "気になっていた azik との併用設定事例も充実しているようなので、近々導入検討してみます。ありがとうございます\n"
+                },
+                {
+                  "type": "link",
+                  "url": "http://coexe.web.fc2.com/skkrule_azik.html",
+                  "text": "http://coexe.web.fc2.com/skkrule_azik.html"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "reactions": [
+        {
+          "name": "+1",
+          "users": [
+            "UGA29R3FH",
+            "U0GFBAM8U",
+            "U0H9QUFA5"
+          ],
+          "count": 3
+        }
+      ]
+    },
+    {
+      "client_msg_id": "4BBB19E7-02BB-4AB3-A630-92EFC3234DEE",
+      "type": "message",
+      "text": "これ素晴らしいですね\n&gt; 文章を頭から流れるように書くことができる\n&gt; \n&gt; MS-IMEやATOKといった日本語入力システムで文章を書くときは、ひらがなで書いてから、それを一気に文字に変換して、（文章を遡って）誤変換を順々に直していく。しかし、普通人間が紙とペンの手書きで文章を書くとしたら、文章を上から下へ流れるように書くのが普通である。一度全部ひらながで書いてから、必要な単語だけ消しゴムで消して漢字に書き直す、なんてそんな馬鹿な文章の書き方をする人はいないはずである（多分）。そういった意味では、SKKは必要時に適宜漢字変換を行い、また一度に一語しか変換できないため、SKKで文章を書くということは人間本来の文章の書き方に非常に良く似ている。",
+      "user": "U02ASPM0A6T",
+      "ts": "1631897303.241600",
+      "team": "T0GFBAM8C",
+      "edited": {
+        "user": "U02ASPM0A6T",
+        "ts": "1631897438.000000"
+      },
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "8QEPk",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "これ素晴らしいですね\n"
+                }
+              ]
+            },
+            {
+              "type": "rich_text_quote",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "文章を頭から流れるように書くことができる\n\nMS-IMEやATOKといった日本語入力システムで文章を書くときは、ひらがなで書いてから、それを一気に文字に変換して、（文章を遡って）誤変換を順々に直していく。しかし、普通人間が紙とペンの手書きで文章を書くとしたら、文章を上から下へ流れるように書くのが普通である。一度全部ひらながで書いてから、必要な単語だけ消しゴムで消して漢字に書き直す、なんてそんな馬鹿な文章の書き方をする人はいないはずである（多分）。そういった意味では、SKKは必要時に適宜漢字変換を行い、また一度に一語しか変換できないため、SKKで文章を書くということは人間本来の文章の書き方に非常に良く似ている。"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "9d5026dc-d915-4fcc-a1e7-b54f2fba21c6",
+      "type": "message",
+      "text": "ここ読むと分かりやすいかも\n<https://dic.nicovideo.jp/a/skk>",
+      "user": "UGA29R3FH",
+      "ts": "1631892503.240500",
+      "team": "T0GFBAM8C",
+      "attachments": [
+        {
+          "service_name": "ニコニコ大百科",
+          "title": "SKKとは (エスケイケイとは) [単語記事] - ニコニコ大百科",
+          "title_link": "https://dic.nicovideo.jp/a/skk",
+          "text": "SKK（エスケイケイ、Simple Kana to Kanji conversion program）とは、オープンソースで開発されている日本語入力システム（日本語入力メソッド）である。...",
+          "fallback": "ニコニコ大百科: SKKとは (エスケイケイとは) [単語記事] - ニコニコ大百科",
+          "image_url": "https://dic.nicovideo.jp/img/og_b.jpg",
+          "from_url": "https://dic.nicovideo.jp/a/skk",
+          "image_width": 476,
+          "image_height": 250,
+          "image_bytes": 75021,
+          "service_icon": "https://dic.nicovideo.jp/favicon.ico",
+          "id": 1,
+          "original_url": "https://dic.nicovideo.jp/a/skk"
+        }
+      ],
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "VBsv",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "ここ読むと分かりやすいかも\n"
+                },
+                {
+                  "type": "link",
+                  "url": "https://dic.nicovideo.jp/a/skk"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "reactions": [
+        {
+          "name": "smiley_cat",
+          "users": [
+            "U02ASPM0A6T"
+          ],
+          "count": 1
+        },
+        {
+          "name": "eyes",
+          "users": [
+            "U01K1P68HFA"
+          ],
+          "count": 1
+        }
+      ]
+    },
+    {
+      "client_msg_id": "501241cf-abe6-4a20-8697-a4505f768f2d",
+      "type": "message",
+      "text": "ここが漢字という情報を人間が全部打ち込むので正確に動かせて便利です",
+      "user": "UGA29R3FH",
+      "ts": "1631892403.240300",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "GlW",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "ここが漢字という情報を人間が全部打ち込むので正確に動かせて便利です"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "892b0ead-ff54-48f3-9fa2-8e4340ad2d59",
+      "type": "message",
+      "text": "機械みたいにかっちり動く所ですね",
+      "user": "UGA29R3FH",
+      "ts": "1631892377.239800",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "gIv=",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "機械みたいにかっちり動く所ですね"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "45653FF6-968E-4B5A-8BEB-12F55A7CC8A9",
+      "type": "message",
+      "text": "SKK 興味あります。換えが効かない特徴的なポイントはどんなところでしょう？",
+      "user": "U02ASPM0A6T",
+      "ts": "1631887598.239500",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "BTOA",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "SKK 興味あります。換えが効かない特徴的なポイントはどんなところでしょう？"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "140a2686-aa5f-4326-b965-afd28ce7104b",
+      "type": "message",
+      "text": "SKKは使いますが基本的にsticky keyばかりなのでシフト全然使わないですね、ここも人と違うポイントだ",
+      "user": "UGA29R3FH",
+      "ts": "1631887262.236200",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "zXn",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "SKKは使いますが基本的にsticky keyばかりなのでシフト全然使わないですね、ここも人と違うポイントだ"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "e614800a-4132-4840-ac95-6fa29c5d32d6",
+      "type": "message",
+      "text": "タイル型ウィンドウマネージャー、vim，tmux辺りは自分向けにカスタマイズするために存在しているみたいな所があるので…\n他人の設定したタイル型ウィンドウマネージャーとか触れる気がしない:face_with_rolling_eyes:",
+      "user": "U01J1GGMHDJ",
+      "ts": "1631874956.234600",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "Eic",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "タイル型ウィンドウマネージャー、vim，tmux辺りは自分向けにカスタマイズするために存在しているみたいな所があるので…\n他人の設定したタイル型ウィンドウマネージャーとか触れる気がしない"
+                },
+                {
+                  "type": "emoji",
+                  "name": "face_with_rolling_eyes",
+                  "unicode": "1f644"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "reactions": [
+        {
+          "name": "sorena",
+          "users": [
+            "U3FJYR7MG",
+            "U01GL4MB9KR",
+            "U6DL9D3AB",
+            "UGA29R3FH",
+            "U01HE1ENNJZ",
+            "U0H9QUFA5"
+          ],
+          "count": 6
+        }
+      ]
+    },
+    {
+      "client_msg_id": "60dc14a0-37ef-4a2f-af80-94506fcaf76f",
+      "type": "message",
+      "text": "なんか、みんな見事にやっていることがバラバラで良いですね。わたしは SKK を使うので右シフトは絶対に使うし、ターミナルにいることが多いので、`mod` キーは `Windows`  ですね。自作キーボードでもだいたい同じです。",
+      "user": "U0H9QUFA5",
+      "ts": "1631874145.230800",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "svDf",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "なんか、みんな見事にやっていることがバラバラで良いですね。わたしは SKK を使うので右シフトは絶対に使うし、ターミナルにいることが多いので、"
+                },
+                {
+                  "type": "text",
+                  "text": "mod",
+                  "style": {
+                    "code": true
+                  }
+                },
+                {
+                  "type": "text",
+                  "text": " キーは "
+                },
+                {
+                  "type": "text",
+                  "text": "Windows",
+                  "style": {
+                    "code": true
+                  }
+                },
+                {
+                  "type": "text",
+                  "text": "  ですね。自作キーボードでもだいたい同じです。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "reactions": [
+        {
+          "name": "smile",
+          "users": [
+            "U02ASPM0A6T"
+          ],
+          "count": 1
+        }
+      ]
+    },
+    {
+      "client_msg_id": "694BDB3E-F788-4E7B-B4B9-4C8E4BECAEF3",
+      "type": "message",
+      "text": "<@U0PM6EYR1> ある程度どんなキーボードでも使えるように、考え方とソフトウェアだけでなんとかならないかと足掻いてます。皆さんの事例教えていただいてありがたいです",
+      "user": "U02ASPM0A6T",
+      "ts": "1631855418.222800",
+      "team": "T0GFBAM8C",
+      "edited": {
+        "user": "U02ASPM0A6T",
+        "ts": "1631887213.000000"
+      },
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "ZaK",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "user",
+                  "user_id": "U0PM6EYR1"
+                },
+                {
+                  "type": "text",
+                  "text": " ある程度どんなキーボードでも使えるように、考え方とソフトウェアだけでなんとかならないかと足掻いてます。皆さんの事例教えていただいてありがたいです"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "reactions": [
+        {
+          "name": "wakaru",
+          "users": [
+            "UUWBU08TU"
+          ],
+          "count": 1
+        }
+      ]
+    },
+    {
+      "client_msg_id": "F949044A-3297-4AF6-9BE6-F75BD3BF7489",
+      "type": "message",
+      "text": "<@U02ASPM0A6T> なるほど 有難う御座います",
+      "user": "U015CDRQDD0",
+      "ts": "1631855318.220500",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "dygm",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "user",
+                  "user_id": "U02ASPM0A6T"
+                },
+                {
+                  "type": "text",
+                  "text": " なるほど 有難う御座います"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "59025d77-2869-4b65-a8a0-c02dca2fc843",
+      "type": "message",
+      "text": "無理ですね &gt; 押したまま",
+      "user": "UGA29R3FH",
+      "ts": "1631853804.213900",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "nK7a",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "無理ですね > 押したまま"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "reactions": [
+        {
+          "name": "+1",
+          "users": [
+            "U02ASPM0A6T"
+          ],
+          "count": 1
+        }
+      ]
+    },
+    {
+      "client_msg_id": "727D1D3A-9BE7-4F79-8E39-D9B9B070976B",
+      "type": "message",
+      "text": "<@U015CDRQDD0> Spaceです。vimのリーダーキーって押したまま修飾キー的に使えましたっけ？もしそう使っているようであれば他に割り当てる必要があるかもしれません",
+      "user": "U02ASPM0A6T",
+      "ts": "1631853769.213700",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "Kgthx",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "user",
+                  "user_id": "U015CDRQDD0"
+                },
+                {
+                  "type": "text",
+                  "text": " Spaceです。vimのリーダーキーって押したまま修飾キー的に使えましたっけ？もしそう使っているようであれば他に割り当てる必要があるかもしれません"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "d0df005c-1022-4d45-8689-dd4788f9d1fa",
+      "type": "message",
+      "text": "ちなみに私はSpace関係なしにリーダーキーは`'`にしてます",
+      "user": "UGA29R3FH",
+      "ts": "1631853562.211400",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "x0T",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "ちなみに私はSpace関係なしにリーダーキーは"
+                },
+                {
+                  "type": "text",
+                  "text": "'",
+                  "style": {
+                    "code": true
+                  }
+                },
+                {
+                  "type": "text",
+                  "text": "にしてます"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "reactions": [
+        {
+          "name": "+1",
+          "users": [
+            "U015CDRQDD0"
+          ],
+          "count": 1
+        }
+      ]
+    },
+    {
+      "client_msg_id": "ddf4c0a9-cf63-4056-9e7d-514e471ba947",
+      "type": "message",
+      "text": "Spaceはまあ無理だと思う(IMEのキーをShift+Spaceにしただけで誤爆しまくってたので)",
+      "user": "UGA29R3FH",
+      "ts": "1631853479.211000",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "pgi=X",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "Spaceはまあ無理だと思う(IMEのキーをShift+Spaceにしただけで誤爆しまくってたので)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "98c27798-f379-4d94-812a-f0880491ae4b",
+      "type": "message",
+      "text": "Tab and Winはいいかもな",
+      "user": "UGA29R3FH",
+      "ts": "1631853435.210400",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "Ecg",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "Tab and Winはいいかもな"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "reactions": [
+        {
+          "name": "+1",
+          "users": [
+            "U02ASPM0A6T"
+          ],
+          "count": 1
+        }
+      ]
+    },
+    {
+      "client_msg_id": "7E9DA368-F677-4E42-AF12-EDBE5E9B0CBD",
+      "type": "message",
+      "text": "因みにSpaceをmodキーにした際vimのリーダーキー何にしてるのでしょうか？",
+      "user": "U015CDRQDD0",
+      "ts": "1631853375.210100",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "cOEl",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "因みにSpaceをmodキーにした際vimのリーダーキー何にしてるのでしょうか？"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "message",
+      "subtype": "thread_broadcast",
+      "text": "自分もWinですねー（thinkpad USキーボード）",
+      "user": "U8T8KB5M4",
+      "ts": "1631851889.207500",
+      "thread_ts": "1631798144.149400",
+      "root": {
+        "client_msg_id": "c384c43b-5fc2-4b3d-82c5-c2dff2c2bc95",
+        "type": "message",
+        "text": "私はWinにしてますね。左手親指で押してます（HHKB）",
+        "user": "U70QDFN82",
+        "ts": "1631798144.149400",
+        "team": "T0GFBAM8C",
+        "blocks": [
+          {
+            "type": "rich_text",
+            "block_id": "C5h",
+            "elements": [
+              {
+                "type": "rich_text_section",
+                "elements": [
+                  {
+                    "type": "text",
+                    "text": "私はWinにしてますね。左手親指で押してます（HHKB）"
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "thread_ts": "1631798144.149400",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1631853752.213500",
+        "reply_users": [
+          "U8T8KB5M4",
+          "U020M0ZLKND"
+        ],
+        "is_locked": false,
+        "subscribed": false
+      },
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "gYK",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "自分もWinですねー（thinkpad USキーボード）"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "client_msg_id": "be2c5643-79d2-45ae-bb9c-5fadbc8dfb67"
+    },
+    {
+      "client_msg_id": "7F54FE1C-AE3B-4EBC-A61E-635D6F5F8437",
+      "type": "message",
+      "text": "普通の `f`とかも修飾キーになるので手頃なところから選ぶといいと思います",
+      "user": "U02ASPM0A6T",
+      "ts": "1631851682.207400",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "iIqy",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "普通の "
+                },
+                {
+                  "type": "text",
+                  "text": "f",
+                  "style": {
+                    "code": true
+                  }
+                },
+                {
+                  "type": "text",
+                  "text": "とかも修飾キーになるので手頃なところから選ぶといいと思います"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "D79717AB-EE97-4786-B4F9-91AA93E0FCF8",
+      "type": "message",
+      "text": "ああなるほど。コード書きまくる場合それはあるかもしれないですね",
+      "user": "U02ASPM0A6T",
+      "ts": "1631851538.206000",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "pCB",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "ああなるほど。コード書きまくる場合それはあるかもしれないですね"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "ce564fc2-90e4-45ca-a839-84bffd24f3ac",
+      "type": "message",
+      "text": "今Tab and Winにしてみました。Tabくらいの利用頻度だと大丈夫そう。\nスペースはやっぱりひっかかりとかいろいろ気になりますね・・・利用頻度多すぎるんでタイプクセによってはまじで誤爆しまくる・・・",
+      "user": "U70QDFN82",
+      "ts": "1631849495.202300",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "mTvI2",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "今Tab and Winにしてみました。Tabくらいの利用頻度だと大丈夫そう。\nスペースはやっぱりひっかかりとかいろいろ気になりますね・・・利用頻度多すぎるんでタイプクセによってはまじで誤爆しまくる・・・"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "reactions": [
+        {
+          "name": "eyes",
+          "users": [
+            "UGA29R3FH"
+          ],
+          "count": 1
+        },
+        {
+          "name": "sparkles",
+          "users": [
+            "U02ASPM0A6T"
+          ],
+          "count": 1
+        }
+      ]
+    },
+    {
+      "client_msg_id": "255d87bf-3b29-49cc-93c6-4d6faad72746",
+      "type": "message",
+      "text": "`/etc/X11/xorg.conf.d`で`Option \"XkbOptions\" \"caps:super\"` とかは動きますか?\nもし動かないようなら`setxkbmap` で実行してみたりとか",
+      "user": "U0GFBAM8U",
+      "ts": "1631849302.200800",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "CkUw",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "/etc/X11/xorg.conf.d",
+                  "style": {
+                    "code": true
+                  }
+                },
+                {
+                  "type": "text",
+                  "text": "で"
+                },
+                {
+                  "type": "text",
+                  "text": "Option \"XkbOptions\" \"caps:super\"",
+                  "style": {
+                    "code": true
+                  }
+                },
+                {
+                  "type": "text",
+                  "text": " とかは動きますか?\nもし動かないようなら"
+                },
+                {
+                  "type": "text",
+                  "text": "setxkbmap",
+                  "style": {
+                    "code": true
+                  }
+                },
+                {
+                  "type": "text",
+                  "text": " で実行してみたりとか"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "thread_ts": "1631849302.200800",
+      "reply_count": 3,
+      "reply_users_count": 2,
+      "latest_reply": "1631859910.227400",
+      "reply_users": [
+        "U015CDRQDD0",
+        "U0GFBAM8U"
+      ],
+      "is_locked": false,
+      "subscribed": true,
+      "last_read": "1631859910.227400"
+    },
+    {
+      "client_msg_id": "5177aa51-60a1-4a68-b0c0-4e69560ad891",
+      "type": "message",
+      "text": "キーの押しづらい問題、最終荒業は自作キーボードで、自分の押しやすい位置に mod を持ってくる という方法が…",
+      "user": "U0PM6EYR1",
+      "ts": "1631849170.200700",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "Gbqz",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "キーの押しづらい問題、最終荒業は自作キーボードで、自分の押しやすい位置に mod を持ってくる という方法が…"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "reactions": [
+        {
+          "name": "wakaru",
+          "users": [
+            "U70QDFN82",
+            "UUWBU08TU",
+            "U02E11SNF0T",
+            "U02ASPM0A6T",
+            "U0H9QUFA5"
+          ],
+          "count": 5
+        }
+      ]
+    },
+    {
+      "client_msg_id": "c2f4a01c-e826-4f72-9b3a-7db9310a8d83",
+      "type": "message",
+      "text": "dual-function-keys試してみました。Space and WinかなりいいけどやっぱりSpaceの使用感がだいぶ下がる・・・誤爆もする・・・\nパラメーターもうすこし調整してみよう・・・",
+      "user": "U70QDFN82",
+      "ts": "1631847617.199400",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "TWp",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "dual-function-keys試してみました。Space and WinかなりいいけどやっぱりSpaceの使用感がだいぶ下がる・・・誤爆もする・・・\nパラメーターもうすこし調整してみよう・・・"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "message",
+      "subtype": "thread_broadcast",
+      "text": "単押し系誤爆多いイメージで使ってなかったんですけどこれはどうですか？？\n誤爆少ないならSpace-&gt;Win私もやってみようかな・・・便利そう",
+      "user": "U70QDFN82",
+      "ts": "1631842591.197400",
+      "thread_ts": "1631814329.191400",
+      "root": {
+        "client_msg_id": "c5dea390-f63f-4499-bec6-fd874ed15b2a",
+        "type": "message",
+        "text": "自分なりに熟考した結果、`mod` キーは `Space` にしました。\n単独押しした場合は元通りのキーが使えます。\n今のところ下記のように割り当てています。\n• `Space`  -&gt; `Win(mod)`\n• `無変換` -&gt; `Ctrl`\n• `変換`   -&gt; `Shift`\n`Ctrl` と `Shift` に関しては、下記理由で親指の位置にしました。\n1. 一番使用頻度の高い修飾キーなのに遠い\n2. Q列・W列のキー押下時にフォームが崩れるのが嫌\nあと、`Ctrl` の単独押しは `Esc` に割り当てました。近くて楽です。\nマクロ的な修飾キーは使用頻度が高くないので他（`カナ`キーなど）に割り当てればいいかなと思っています。\n実現にはパッケージ `interception-dual-function-keys` を使っています。低レベルで動作し wayland でも使えます。\n1. `/etc/interception/udevmon.d/udevmon.yml`\n2. `/etc/interception/dual-function-keys/hhkb-jp.yml`\n3. `systemctl enable --now udevmon.service`\n作業概要としては上記の 1. で各種キーボードデバイス別の設定ファイル振り分けをして 2. でキー割当して 3.で有効化すればよいです。\n<https://gitlab.com/interception/linux/plugins/dual-function-keys>",
+        "user": "U02ASPM0A6T",
+        "ts": "1631814329.191400",
+        "team": "T0GFBAM8C",
+        "edited": {
+          "user": "U02ASPM0A6T",
+          "ts": "1631815347.000000"
+        },
+        "attachments": [
+          {
+            "service_name": "GitLab",
+            "title": "interception / linux / plugins / Dual Function Keys",
+            "title_link": "https://gitlab.com/interception/linux/plugins/dual-function-keys",
+            "text": "<http://GitLab.com|GitLab.com>",
+            "fallback": "GitLab: interception / linux / plugins / Dual Function Keys",
+            "thumb_url": "https://gitlab.com/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png",
+            "from_url": "https://gitlab.com/interception/linux/plugins/dual-function-keys",
+            "thumb_width": 128,
+            "thumb_height": 128,
+            "service_icon": "https://gitlab.com/assets/touch-icon-iphone-5a9cee0e8a51212e70b90c87c12f382c428870c0ff67d1eb034d884b78d2dae7.png",
+            "id": 1,
+            "original_url": "https://gitlab.com/interception/linux/plugins/dual-function-keys"
+          }
+        ],
+        "blocks": [
+          {
+            "type": "rich_text",
+            "block_id": "I4=8",
+            "elements": [
+              {
+                "type": "rich_text_section",
+                "elements": [
+                  {
+                    "type": "text",
+                    "text": "自分なりに熟考した結果、"
+                  },
+                  {
+                    "type": "text",
+                    "text": "mod",
+                    "style": {
+                      "code": true
+                    }
+                  },
+                  {
+                    "type": "text",
+                    "text": " キーは "
+                  },
+                  {
+                    "type": "text",
+                    "text": "Space",
+                    "style": {
+                      "code": true
+                    }
+                  },
+                  {
+                    "type": "text",
+                    "text": " にしました。\n単独押しした場合は元通りのキーが使えます。\n今のところ下記のように割り当てています。\n"
+                  }
+                ]
+              },
+              {
+                "type": "rich_text_list",
+                "elements": [
+                  {
+                    "type": "rich_text_section",
+                    "elements": [
+                      {
+                        "type": "text",
+                        "text": "Space",
+                        "style": {
+                          "code": true
+                        }
+                      },
+                      {
+                        "type": "text",
+                        "text": "  -> "
+                      },
+                      {
+                        "type": "text",
+                        "text": "Win(mod)",
+                        "style": {
+                          "code": true
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "type": "rich_text_section",
+                    "elements": [
+                      {
+                        "type": "text",
+                        "text": "無変換",
+                        "style": {
+                          "code": true
+                        }
+                      },
+                      {
+                        "type": "text",
+                        "text": " -> "
+                      },
+                      {
+                        "type": "text",
+                        "text": "Ctrl",
+                        "style": {
+                          "code": true
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "type": "rich_text_section",
+                    "elements": [
+                      {
+                        "type": "text",
+                        "text": "変換",
+                        "style": {
+                          "code": true
+                        }
+                      },
+                      {
+                        "type": "text",
+                        "text": "   -> "
+                      },
+                      {
+                        "type": "text",
+                        "text": "Shift",
+                        "style": {
+                          "code": true
+                        }
+                      }
+                    ]
+                  }
+                ],
+                "style": "bullet",
+                "indent": 0,
+                "border": 0
+              },
+              {
+                "type": "rich_text_section",
+                "elements": [
+                  {
+                    "type": "text",
+                    "text": "Ctrl",
+                    "style": {
+                      "code": true
+                    }
+                  },
+                  {
+                    "type": "text",
+                    "text": " と "
+                  },
+                  {
+                    "type": "text",
+                    "text": "Shift",
+                    "style": {
+                      "code": true
+                    }
+                  },
+                  {
+                    "type": "text",
+                    "text": " に関しては、下記理由で親指の位置にしました。\n"
+                  }
+                ]
+              },
+              {
+                "type": "rich_text_list",
+                "elements": [
+                  {
+                    "type": "rich_text_section",
+                    "elements": [
+                      {
+                        "type": "text",
+                        "text": "一番使用頻度の高い修飾キーなのに遠い"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "rich_text_section",
+                    "elements": [
+                      {
+                        "type": "text",
+                        "text": "Q列・W列のキー押下時にフォームが崩れるのが嫌"
+                      }
+                    ]
+                  }
+                ],
+                "style": "ordered",
+                "indent": 0,
+                "border": 0
+              },
+              {
+                "type": "rich_text_section",
+                "elements": [
+                  {
+                    "type": "text",
+                    "text": "あと、"
+                  },
+                  {
+                    "type": "text",
+                    "text": "Ctrl",
+                    "style": {
+                      "code": true
+                    }
+                  },
+                  {
+                    "type": "text",
+                    "text": " の単独押しは "
+                  },
+                  {
+                    "type": "text",
+                    "text": "Esc",
+                    "style": {
+                      "code": true
+                    }
+                  },
+                  {
+                    "type": "text",
+                    "text": " に割り当てました。近くて楽です。\nマクロ的な修飾キーは使用頻度が高くないので他（"
+                  },
+                  {
+                    "type": "text",
+                    "text": "カナ",
+                    "style": {
+                      "code": true
+                    }
+                  },
+                  {
+                    "type": "text",
+                    "text": "キーなど）に割り当てればいいかなと思っています。\n実現にはパッケージ "
+                  },
+                  {
+                    "type": "text",
+                    "text": "interception-dual-function-keys",
+                    "style": {
+                      "code": true
+                    }
+                  },
+                  {
+                    "type": "text",
+                    "text": " を使っています。低レベルで動作し wayland でも使えます。\n"
+                  }
+                ]
+              },
+              {
+                "type": "rich_text_list",
+                "elements": [
+                  {
+                    "type": "rich_text_section",
+                    "elements": [
+                      {
+                        "type": "text",
+                        "text": "/etc/interception/udevmon.d/udevmon.yml",
+                        "style": {
+                          "code": true
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "type": "rich_text_section",
+                    "elements": [
+                      {
+                        "type": "text",
+                        "text": "/etc/interception/dual-function-keys/hhkb-jp.yml",
+                        "style": {
+                          "code": true
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "type": "rich_text_section",
+                    "elements": [
+                      {
+                        "type": "text",
+                        "text": "systemctl enable --now udevmon.service",
+                        "style": {
+                          "code": true
+                        }
+                      }
+                    ]
+                  }
+                ],
+                "style": "ordered",
+                "indent": 0,
+                "border": 0
+              },
+              {
+                "type": "rich_text_section",
+                "elements": [
+                  {
+                    "type": "text",
+                    "text": "作業概要としては上記の 1. で各種キーボードデバイス別の設定ファイル振り分けをして 2. でキー割当して 3.で有効化すればよいです。\n"
+                  },
+                  {
+                    "type": "link",
+                    "url": "https://gitlab.com/interception/linux/plugins/dual-function-keys"
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "thread_ts": "1631814329.191400",
+        "reply_count": 6,
+        "reply_users_count": 2,
+        "latest_reply": "1631907302.245100",
+        "reply_users": [
+          "U70QDFN82",
+          "U02ASPM0A6T"
+        ],
+        "is_locked": false,
+        "subscribed": false
+      },
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "i4Ix",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "単押し系誤爆多いイメージで使ってなかったんですけどこれはどうですか？？\n誤爆少ないならSpace->Win私もやってみようかな・・・便利そう"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "client_msg_id": "54fdcd1d-1e8e-4984-b8b3-971abf597d60",
+      "edited": {
+        "user": "U70QDFN82",
+        "ts": "1631844288.000000"
+      }
+    },
+    {
+      "client_msg_id": "067cd060-5a01-4089-a179-a48f97068ea5",
+      "type": "message",
+      "text": "皆さん有り難うございます　xmodmap等使わないのはwayland,sway非対応なのでxkbを利用しようとしている次第です。\n割当先など参考にさせてもらいます",
+      "user": "U015CDRQDD0",
+      "ts": "1631840333.197200",
+      "team": "T0GFBAM8C",
+      "edited": {
+        "user": "U015CDRQDD0",
+        "ts": "1631840357.000000"
+      },
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "M+qve",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "皆さん有り難うございます　xmodmap等使わないのはwayland,sway非対応なのでxkbを利用しようとしている次第です。\n割当先など参考にさせてもらいます"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "reactions": [
+        {
+          "name": "+1",
+          "users": [
+            "U02ASPM0A6T"
+          ],
+          "count": 1
+        }
+      ]
+    },
+    {
+      "client_msg_id": "55993390-999b-4677-a522-689d3b4f75ef",
+      "type": "message",
+      "text": "awesome/xmonadでmod4(win)をそのまま使っています。(\nSKKを使っているので、英語キーボードだとスペースを長押ししたときはShiftになるように(SandS)していて、xcapeを使っています。\n日本語キーボードだと無変換にShift、変換でひらがなモードになるようにしています。\n前はキーボードを自作してmodキーx5の位置を工夫していましたが、結局ノートPCのキーボードもそんなに悪くない気がしてきて、最近ではあまり使っていないです。",
+      "user": "UUWBU08TU",
+      "ts": "1631837271.194700",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "Wg6",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "awesome/xmonadでmod4(win)をそのまま使っています。(\nSKKを使っているので、英語キーボードだとスペースを長押ししたときはShiftになるように(SandS)していて、xcapeを使っています。\n日本語キーボードだと無変換にShift、変換でひらがなモードになるようにしています。\n前はキーボードを自作してmodキーx5の位置を工夫していましたが、結局ノートPCのキーボードもそんなに悪くない気がしてきて、最近ではあまり使っていないです。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "reactions": [
+        {
+          "name": "+1",
+          "users": [
+            "U02ASPM0A6T"
+          ],
+          "count": 1
+        }
+      ]
+    },
+    {
+      "client_msg_id": "c5dea390-f63f-4499-bec6-fd874ed15b2a",
+      "type": "message",
+      "text": "自分なりに熟考した結果、`mod` キーは `Space` にしました。\n単独押しした場合は元通りのキーが使えます。\n今のところ下記のように割り当てています。\n• `Space`  -&gt; `Win(mod)`\n• `無変換` -&gt; `Ctrl`\n• `変換`   -&gt; `Shift`\n`Ctrl` と `Shift` に関しては、下記理由で親指の位置にしました。\n1. 一番使用頻度の高い修飾キーなのに遠い\n2. Q列・W列のキー押下時にフォームが崩れるのが嫌\nあと、`Ctrl` の単独押しは `Esc` に割り当てました。近くて楽です。\nマクロ的な修飾キーは使用頻度が高くないので他（`カナ`キーなど）に割り当てればいいかなと思っています。\n実現にはパッケージ `interception-dual-function-keys` を使っています。低レベルで動作し wayland でも使えます。\n1. `/etc/interception/udevmon.d/udevmon.yml`\n2. `/etc/interception/dual-function-keys/hhkb-jp.yml`\n3. `systemctl enable --now udevmon.service`\n作業概要としては上記の 1. で各種キーボードデバイス別の設定ファイル振り分けをして 2. でキー割当して 3.で有効化すればよいです。\n<https://gitlab.com/interception/linux/plugins/dual-function-keys>",
+      "user": "U02ASPM0A6T",
+      "ts": "1631814329.191400",
+      "team": "T0GFBAM8C",
+      "edited": {
+        "user": "U02ASPM0A6T",
+        "ts": "1631815347.000000"
+      },
+      "attachments": [
+        {
+          "service_name": "GitLab",
+          "title": "interception / linux / plugins / Dual Function Keys",
+          "title_link": "https://gitlab.com/interception/linux/plugins/dual-function-keys",
+          "text": "<http://GitLab.com|GitLab.com>",
+          "fallback": "GitLab: interception / linux / plugins / Dual Function Keys",
+          "thumb_url": "https://gitlab.com/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png",
+          "from_url": "https://gitlab.com/interception/linux/plugins/dual-function-keys",
+          "thumb_width": 128,
+          "thumb_height": 128,
+          "service_icon": "https://gitlab.com/assets/touch-icon-iphone-5a9cee0e8a51212e70b90c87c12f382c428870c0ff67d1eb034d884b78d2dae7.png",
+          "id": 1,
+          "original_url": "https://gitlab.com/interception/linux/plugins/dual-function-keys"
+        }
+      ],
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "I4=8",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "自分なりに熟考した結果、"
+                },
+                {
+                  "type": "text",
+                  "text": "mod",
+                  "style": {
+                    "code": true
+                  }
+                },
+                {
+                  "type": "text",
+                  "text": " キーは "
+                },
+                {
+                  "type": "text",
+                  "text": "Space",
+                  "style": {
+                    "code": true
+                  }
+                },
+                {
+                  "type": "text",
+                  "text": " にしました。\n単独押しした場合は元通りのキーが使えます。\n今のところ下記のように割り当てています。\n"
+                }
+              ]
+            },
+            {
+              "type": "rich_text_list",
+              "elements": [
+                {
+                  "type": "rich_text_section",
+                  "elements": [
+                    {
+                      "type": "text",
+                      "text": "Space",
+                      "style": {
+                        "code": true
+                      }
+                    },
+                    {
+                      "type": "text",
+                      "text": "  -> "
+                    },
+                    {
+                      "type": "text",
+                      "text": "Win(mod)",
+                      "style": {
+                        "code": true
+                      }
+                    }
+                  ]
+                },
+                {
+                  "type": "rich_text_section",
+                  "elements": [
+                    {
+                      "type": "text",
+                      "text": "無変換",
+                      "style": {
+                        "code": true
+                      }
+                    },
+                    {
+                      "type": "text",
+                      "text": " -> "
+                    },
+                    {
+                      "type": "text",
+                      "text": "Ctrl",
+                      "style": {
+                        "code": true
+                      }
+                    }
+                  ]
+                },
+                {
+                  "type": "rich_text_section",
+                  "elements": [
+                    {
+                      "type": "text",
+                      "text": "変換",
+                      "style": {
+                        "code": true
+                      }
+                    },
+                    {
+                      "type": "text",
+                      "text": "   -> "
+                    },
+                    {
+                      "type": "text",
+                      "text": "Shift",
+                      "style": {
+                        "code": true
+                      }
+                    }
+                  ]
+                }
+              ],
+              "style": "bullet",
+              "indent": 0,
+              "border": 0
+            },
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "Ctrl",
+                  "style": {
+                    "code": true
+                  }
+                },
+                {
+                  "type": "text",
+                  "text": " と "
+                },
+                {
+                  "type": "text",
+                  "text": "Shift",
+                  "style": {
+                    "code": true
+                  }
+                },
+                {
+                  "type": "text",
+                  "text": " に関しては、下記理由で親指の位置にしました。\n"
+                }
+              ]
+            },
+            {
+              "type": "rich_text_list",
+              "elements": [
+                {
+                  "type": "rich_text_section",
+                  "elements": [
+                    {
+                      "type": "text",
+                      "text": "一番使用頻度の高い修飾キーなのに遠い"
+                    }
+                  ]
+                },
+                {
+                  "type": "rich_text_section",
+                  "elements": [
+                    {
+                      "type": "text",
+                      "text": "Q列・W列のキー押下時にフォームが崩れるのが嫌"
+                    }
+                  ]
+                }
+              ],
+              "style": "ordered",
+              "indent": 0,
+              "border": 0
+            },
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "あと、"
+                },
+                {
+                  "type": "text",
+                  "text": "Ctrl",
+                  "style": {
+                    "code": true
+                  }
+                },
+                {
+                  "type": "text",
+                  "text": " の単独押しは "
+                },
+                {
+                  "type": "text",
+                  "text": "Esc",
+                  "style": {
+                    "code": true
+                  }
+                },
+                {
+                  "type": "text",
+                  "text": " に割り当てました。近くて楽です。\nマクロ的な修飾キーは使用頻度が高くないので他（"
+                },
+                {
+                  "type": "text",
+                  "text": "カナ",
+                  "style": {
+                    "code": true
+                  }
+                },
+                {
+                  "type": "text",
+                  "text": "キーなど）に割り当てればいいかなと思っています。\n実現にはパッケージ "
+                },
+                {
+                  "type": "text",
+                  "text": "interception-dual-function-keys",
+                  "style": {
+                    "code": true
+                  }
+                },
+                {
+                  "type": "text",
+                  "text": " を使っています。低レベルで動作し wayland でも使えます。\n"
+                }
+              ]
+            },
+            {
+              "type": "rich_text_list",
+              "elements": [
+                {
+                  "type": "rich_text_section",
+                  "elements": [
+                    {
+                      "type": "text",
+                      "text": "/etc/interception/udevmon.d/udevmon.yml",
+                      "style": {
+                        "code": true
+                      }
+                    }
+                  ]
+                },
+                {
+                  "type": "rich_text_section",
+                  "elements": [
+                    {
+                      "type": "text",
+                      "text": "/etc/interception/dual-function-keys/hhkb-jp.yml",
+                      "style": {
+                        "code": true
+                      }
+                    }
+                  ]
+                },
+                {
+                  "type": "rich_text_section",
+                  "elements": [
+                    {
+                      "type": "text",
+                      "text": "systemctl enable --now udevmon.service",
+                      "style": {
+                        "code": true
+                      }
+                    }
+                  ]
+                }
+              ],
+              "style": "ordered",
+              "indent": 0,
+              "border": 0
+            },
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "作業概要としては上記の 1. で各種キーボードデバイス別の設定ファイル振り分けをして 2. でキー割当して 3.で有効化すればよいです。\n"
+                },
+                {
+                  "type": "link",
+                  "url": "https://gitlab.com/interception/linux/plugins/dual-function-keys"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "thread_ts": "1631814329.191400",
+      "reply_count": 6,
+      "reply_users_count": 2,
+      "latest_reply": "1631907302.245100",
+      "reply_users": [
+        "U70QDFN82",
+        "U02ASPM0A6T"
+      ],
+      "is_locked": false,
+      "subscribed": false,
+      "reactions": [
+        {
+          "name": "eyes",
+          "users": [
+            "U70QDFN82"
+          ],
+          "count": 1
+        }
+      ]
+    },
+    {
+      "client_msg_id": "47AA132F-2008-4F4D-A77D-10B37D57EDA1",
+      "type": "message",
+      "text": "xbindkeysは組み合わせで使ってる感じで、xmodmapはキー変更に使ってる感じなので、xmodmapが正解ですね\nxmodmapでやるほうがいいかも",
+      "user": "U0GFBAM8U",
+      "ts": "1631803638.179100",
+      "team": "T0GFBAM8C",
+      "edited": {
+        "user": "U0GFBAM8U",
+        "ts": "1631803981.000000"
+      },
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "TuGg",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "xbindkeysは組み合わせで使ってる感じで、xmodmapはキー変更に使ってる感じなので、xmodmapが正解ですね\nxmodmapでやるほうがいいかも"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "reactions": [
+        {
+          "name": "naruhodo",
+          "users": [
+            "UGA29R3FH"
+          ],
+          "count": 1
+        }
+      ]
+    },
+    {
+      "client_msg_id": "6DAF92F4-38E4-4290-8F44-BC29C1195C1B",
+      "type": "message",
+      "text": "あー、xmodmapだったかも\n確かどっちも使ってた気がする(どっちだったかわかんなくなるんですよね...",
+      "user": "U0GFBAM8U",
+      "ts": "1631803415.177000",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "1Uhf9",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "あー、xmodmapだったかも\n確かどっちも使ってた気がする(どっちだったかわかんなくなるんですよね..."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "ceda1806-e258-4d65-bc7d-bf3e9d078c2e",
+      "type": "message",
+      "text": "xbinskeys知らなかったな、xmodmapを使っていた",
+      "user": "UGA29R3FH",
+      "ts": "1631803149.175400",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "Akpx",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "xbinskeys知らなかったな、xmodmapを使っていた"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "reactions": [
+        {
+          "name": "+1",
+          "users": [
+            "U0GFBAM8U"
+          ],
+          "count": 1
+        }
+      ]
+    },
+    {
+      "client_msg_id": "a83dd846-8bec-4538-806f-4e12f574858e",
+      "type": "message",
+      "text": "最近はそうでもないですけど昔はaltってターミナル上のTUIによってはEsc(^[)に解釈されたりして不安定だったんですよね・・・\nだから私も使ってなかったんですけど、tmuxは結構ちゃんと解釈してくれるんで割り当てるって人が多いんじゃないかなって気がしてます",
+      "user": "U70QDFN82",
+      "ts": "1631800879.174500",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "w1m",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "最近はそうでもないですけど昔はaltってターミナル上のTUIによってはEsc(^[)に解釈されたりして不安定だったんですよね・・・\nだから私も使ってなかったんですけど、tmuxは結構ちゃんと解釈してくれるんで割り当てるって人が多いんじゃないかなって気がしてます"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "reactions": [
+        {
+          "name": "naruhodo",
+          "users": [
+            "U0GFBAM8U",
+            "UBEFL3YLE"
+          ],
+          "count": 2
+        }
+      ]
+    },
+    {
+      "client_msg_id": "db960a80-a92c-4158-a919-8fa351241774",
+      "type": "message",
+      "text": "以前は両立を目指していましたが諦めました。",
+      "user": "UBEFL3YLE",
+      "ts": "1631800735.172100",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "iyycf",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "以前は両立を目指していましたが諦めました。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "reactions": [
+        {
+          "name": "naruhodo",
+          "users": [
+            "U0GFBAM8U"
+          ],
+          "count": 1
+        }
+      ]
+    },
+    {
+      "client_msg_id": "85269dd5-d699-4afd-9f46-f9fc7a920142",
+      "type": "message",
+      "text": "VimでCtrlを専有したいのでやむを得なく、という感じですけどね。",
+      "user": "UBEFL3YLE",
+      "ts": "1631800706.171300",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "Gdn5l",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "VimでCtrlを専有したいのでやむを得なく、という感じですけどね。"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "A7496251-FAFF-4F93-B8A0-90DE3CE49D61",
+      "type": "message",
+      "text": "altをtmuxで使ってる人多いのか",
+      "user": "U0GFBAM8U",
+      "ts": "1631800555.170300",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "L6LL",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "altをtmuxで使ってる人多いのか"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "62C4C137-6E1A-4964-9352-62F9E31ECBC1",
+      "type": "message",
+      "text": "わかりやすくていいですね",
+      "user": "U0GFBAM8U",
+      "ts": "1631800521.169700",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "pOJtn",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "わかりやすくていいですね"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "932137c6-628a-4c14-99a0-4d7e5260405a",
+      "type": "message",
+      "text": "Winキーをi3、CtrlキーをVim、Altキーをtmuxに捧げています。",
+      "user": "UBEFL3YLE",
+      "ts": "1631799865.169300",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "lFx",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "Winキーをi3、CtrlキーをVim、Altキーをtmuxに捧げています。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "reactions": [
+        {
+          "name": "+1",
+          "users": [
+            "U02ASPM0A6T"
+          ],
+          "count": 1
+        }
+      ]
+    },
+    {
+      "client_msg_id": "8410775d-66b3-446a-981d-bd303c3eb186",
+      "type": "message",
+      "text": "右Shiftどのキーボードにも同じ場所にあるしEscにしようかな・・・",
+      "user": "U70QDFN82",
+      "ts": "1631799424.168500",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "=55JC",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "右Shiftどのキーボードにも同じ場所にあるしEscにしようかな・・・"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "reactions": [
+        {
+          "name": "naruhodo",
+          "users": [
+            "U0GFBAM8U"
+          ],
+          "count": 1
+        }
+      ]
+    },
+    {
+      "client_msg_id": "B63A23D7-F1FE-4475-A17F-3CA9290BC8F1",
+      "type": "message",
+      "text": "不便",
+      "user": "U0GFBAM8U",
+      "ts": "1631799365.168000",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "G9Run",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "不便"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "0B683A65-9D38-4409-A4F2-23CA6B8301A5",
+      "type": "message",
+      "text": "私はdeleteキーないので割り当ててるけど、普通はありますよね\n(macbookはdeleteなくてbackspaceだけしかない",
+      "user": "U0GFBAM8U",
+      "ts": "1631799218.167800",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "ECkD",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "私はdeleteキーないので割り当ててるけど、普通はありますよね\n(macbookはdeleteなくてbackspaceだけしかない"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "29D6E4A4-8681-48E1-AF76-73538FB73E6E",
+      "type": "message",
+      "text": "ノートパソコンのキーボード、jあたりからダメになっていく",
+      "user": "U0GFBAM8U",
+      "ts": "1631799103.166000",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "XJ3Hg",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "ノートパソコンのキーボード、jあたりからダメになっていく"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "reactions": [
+        {
+          "name": "wakaru",
+          "users": [
+            "U70QDFN82"
+          ],
+          "count": 1
+        }
+      ]
+    },
+    {
+      "client_msg_id": "d375c232-3b0c-4698-a5e7-9cffb6dcc693",
+      "type": "message",
+      "text": "右Shiftなにかに変えようかな・・・利用用途少なすぎるんで。\nなんとなくすべてのキーを満遍なくヘタらせたい欲求がある",
+      "user": "U70QDFN82",
+      "ts": "1631799051.165300",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "ao7",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "右Shiftなにかに変えようかな・・・利用用途少なすぎるんで。\nなんとなくすべてのキーを満遍なくヘタらせたい欲求がある"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "B73B862E-4E05-4FA4-92D4-7419B48A5F59",
+      "type": "message",
+      "text": "windowsとかだと使うんですけど、linuxだと使ってなかったalt",
+      "user": "U0GFBAM8U",
+      "ts": "1631799035.165000",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "zBqNW",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "windowsとかだと使うんですけど、linuxだと使ってなかったalt"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "72DDBC17-49C4-4AD8-B699-5B694CF545C1",
+      "type": "message",
+      "text": ":benri: ",
+      "user": "U0GFBAM8U",
+      "ts": "1631798965.162900",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "ttfD",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "emoji",
+                  "name": "benri"
+                },
+                {
+                  "type": "text",
+                  "text": " "
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "603713ff-eb84-43a6-8b5a-903c2ba7fad2",
+      "type": "message",
+      "text": "私はtmuxのプレフィックスなしのキーにしてますね。ウィンドウ切り替えとかよく使うやつに使ってます",
+      "user": "U70QDFN82",
+      "ts": "1631798915.162400",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "=UIb",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "私はtmuxのプレフィックスなしのキーにしてますね。ウィンドウ切り替えとかよく使うやつに使ってます"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "58755E99-1EE6-488B-A5A5-CE3B502F2E0E",
+      "type": "message",
+      "text": "altの使い所むずい、皆さん何に使われてますか?",
+      "user": "U0GFBAM8U",
+      "ts": "1631798868.161400",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "yF5n",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "altの使い所むずい、皆さん何に使われてますか?"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "CF9DCD25-351C-47B7-B24A-8DB5B11A3E5C",
+      "type": "message",
+      "text": "覚えてる\n",
+      "user": "U0GFBAM8U",
+      "ts": "1631798776.160000",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "MZy",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "覚えてる\n"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "reactions": [
+        {
+          "name": "subara",
+          "users": [
+            "U70QDFN82"
+          ],
+          "count": 1
+        }
+      ]
+    },
+    {
+      "client_msg_id": "520aadff-2fb2-4d47-afac-ef57d29478fd",
+      "type": "message",
+      "text": "なるほど",
+      "user": "U70QDFN82",
+      "ts": "1631798759.159700",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "mHnaM",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "なるほど"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "F01DF58B-917A-4959-AF33-D56FFE2957D7",
+      "type": "message",
+      "text": "だからちょこちょこ使う機会あったり",
+      "user": "U0GFBAM8U",
+      "ts": "1631798759.159600",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "9F18k",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "だからちょこちょこ使う機会あったり"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "AA0AD0E4-13FF-48A6-BF49-A96A6CED0886",
+      "type": "message",
+      "text": "ですね\n右shiftはdeleteにしてます",
+      "user": "U0GFBAM8U",
+      "ts": "1631798740.158900",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "Kdlhm",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "ですね\n右shiftはdeleteにしてます"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "7e1a63bd-1a63-4336-a950-a7669c015c23",
+      "type": "message",
+      "text": "Altは左が多いですけど右も稀に使う",
+      "user": "U70QDFN82",
+      "ts": "1631798731.158600",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "WYO",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "Altは左が多いですけど右も稀に使う"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "45e73b39-ad70-4026-9703-b6988059f659",
+      "type": "message",
+      "text": "私はあと右Shiftもほとんど使わないんですよね・・・・",
+      "user": "U70QDFN82",
+      "ts": "1631798702.157700",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "onOJj",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "私はあと右Shiftもほとんど使わないんですよね・・・・"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "D489BA22-6358-4222-9226-951179AC6368",
+      "type": "message",
+      "text": "右winは全く使わないので他のキーにしてた気がするのですが、使わないので何に割り当てたのか忘れてる",
+      "user": "U0GFBAM8U",
+      "ts": "1631798662.157100",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "UYA",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "右winは全く使わないので他のキーにしてた気がするのですが、使わないので何に割り当てたのか忘れてる"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "reactions": [
+        {
+          "name": "wakaru",
+          "users": [
+            "U70QDFN82"
+          ],
+          "count": 1
+        }
+      ]
+    },
+    {
+      "client_msg_id": "98CB0A8C-AD2D-4D0C-BDB6-1F0EA41945D3",
+      "type": "message",
+      "text": "あとkeylayoutはxbindkeysを使うのが楽でした\n<https://wiki.archlinux.jp/index.php/Xbindkeys|https://wiki.archlinux.jp/index.php/Xbindkeys>",
+      "user": "U0GFBAM8U",
+      "ts": "1631798575.155600",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "h52",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "あとkeylayoutはxbindkeysを使うのが楽でした\n"
+                },
+                {
+                  "type": "link",
+                  "url": "https://wiki.archlinux.jp/index.php/Xbindkeys",
+                  "text": "https://wiki.archlinux.jp/index.php/Xbindkeys"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "b9c64b4d-c59b-42d2-ad35-d943cd0957e4",
+      "type": "message",
+      "text": "一回右Winを使おうとしたんですけどもう手が覚えていて誤爆しまくってましたね・・・\nよく使う修飾キーは変更難しいんですよね・・・単発だといけたりしますけどWin+Shift+とかの場合が特に",
+      "user": "U70QDFN82",
+      "ts": "1631798523.154800",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "sgxIY",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "一回右Winを使おうとしたんですけどもう手が覚えていて誤爆しまくってましたね・・・\nよく使う修飾キーは変更難しいんですよね・・・単発だといけたりしますけどWin+Shift+とかの場合が特に"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "C50E15B5-41CE-4960-961B-084B45C9E70B",
+      "type": "message",
+      "text": "その際、xevなどでcapslockの割り当てを調べる必要あるかもです",
+      "user": "U0GFBAM8U",
+      "ts": "1631798337.153300",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "dLuc",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "その際、xevなどでcapslockの割り当てを調べる必要あるかもです"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "229818D4-DEBE-4920-8512-2720EE676729",
+      "type": "message",
+      "text": "私はwinです\nもし設定、特にcapslockがmodに指定して動かないようなら、keylayoutを変更しcapalockをwinなどに変えた後、i3などでwinにmodをあてればいけるかもしれません",
+      "user": "U0GFBAM8U",
+      "ts": "1631798282.152000",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "cGdbU",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "私はwinです\nもし設定、特にcapslockがmodに指定して動かないようなら、keylayoutを変更しcapalockをwinなどに変えた後、i3などでwinにmodをあてればいけるかもしれません"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "c384c43b-5fc2-4b3d-82c5-c2dff2c2bc95",
+      "type": "message",
+      "text": "私はWinにしてますね。左手親指で押してます（HHKB）",
+      "user": "U70QDFN82",
+      "ts": "1631798144.149400",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "C5h",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "私はWinにしてますね。左手親指で押してます（HHKB）"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "thread_ts": "1631798144.149400",
+      "reply_count": 2,
+      "reply_users_count": 2,
+      "latest_reply": "1631853752.213500",
+      "reply_users": [
+        "U8T8KB5M4",
+        "U020M0ZLKND"
+      ],
+      "is_locked": false,
+      "subscribed": false
+    },
+    {
+      "client_msg_id": "476E3EAA-73F8-418F-9733-3933F334C530",
+      "type": "message",
+      "text": "因みにlaptopはxps13です",
+      "user": "U015CDRQDD0",
+      "ts": "1631797951.148900",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "c5xDj",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "因みにlaptopはxps13です"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "1F067DA8-49F1-439B-96E1-14A1308D5FA3",
+      "type": "message",
+      "text": "i3然りsway然りwmのmodキー皆さん何を利用されていますか?\nwinキーがデフォルトで多いかと思いますが正直左手を離さないと届かないのでcapslockをmodキーにしたいなと考えています\nそれか変換無変換をmod3,mod4で運用しようかなとも\nxkbのドキュメントを見てもいまいちうまく行かないのですがxkbで設定弄ったり乃至modキー変えてる方いれば.xkb以下やdotfileを見せて頂きたいです",
+      "user": "U015CDRQDD0",
+      "ts": "1631797885.148500",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "MIR",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "i3然りsway然りwmのmodキー皆さん何を利用されていますか?\nwinキーがデフォルトで多いかと思いますが正直左手を離さないと届かないのでcapslockをmodキーにしたいなと考えています\nそれか変換無変換をmod3,mod4で運用しようかなとも\nxkbのドキュメントを見てもいまいちうまく行かないのですがxkbで設定弄ったり乃至modキー変えてる方いれば.xkb以下やdotfileを見せて頂きたいです"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "950bec59-ef3f-482f-85f7-b5fc10a89944",
+      "type": "message",
+      "text": "journalファイルってどのくらい前の分まで残していますか？\n容量削減のために減らそうとしてるんですが、どこまで減らして良いのかで悩んでいます。\n私は、アップデート後のエラーを探るためにその日分のjournalを読む程度でしか使わないので1週間分もあれば十分な気はするのですが、残しておいた方が良いこともあるのかな...?と気になっています。",
+      "user": "UQDJXPHJ9",
+      "ts": "1631716209.142300",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "0ost",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "journalファイルってどのくらい前の分まで残していますか？\n容量削減のために減らそうとしてるんですが、どこまで減らして良いのかで悩んでいます。\n私は、アップデート後のエラーを探るためにその日分のjournalを読む程度でしか使わないので1週間分もあれば十分な気はするのですが、残しておいた方が良いこともあるのかな...?と気になっています。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "thread_ts": "1631716209.142300",
+      "reply_count": 2,
+      "reply_users_count": 2,
+      "latest_reply": "1631764159.143300",
+      "reply_users": [
+        "U6DL9D3AB",
+        "UQDJXPHJ9"
+      ],
+      "is_locked": false,
+      "subscribed": false,
+      "reactions": [
+        {
+          "name": "eyes",
+          "users": [
+            "U02ASPM0A6T"
+          ],
+          "count": 1
+        }
+      ]
+    },
+    {
+      "client_msg_id": "c5532378-90c0-4671-9687-62398eb821da",
+      "type": "message",
+      "text": "GUIで解決できるツールを作るしかないのだけど我々の場合CLIに慣れすぎていてな",
+      "user": "UGA29R3FH",
+      "ts": "1631546278.136200",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "pn0In",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "GUIで解決できるツールを作るしかないのだけど我々の場合CLIに慣れすぎていてな"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "reactions": [
+        {
+          "name": "sparkles",
+          "users": [
+            "U02ASPM0A6T",
+            "U0H9QUFA5",
+            "U02E11SNF0T"
+          ],
+          "count": 3
+        }
+      ]
+    },
+    {
+      "client_msg_id": "3f56d17f-d719-4337-ad96-d6cb8bb25342",
+      "type": "message",
+      "text": "どんなOSを使おうが深掘りすると知識は必要なもんだが、Linuxはその領域に到達するのが早い感じがしている",
+      "user": "UGA29R3FH",
+      "ts": "1631546253.136100",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "kU1",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "どんなOSを使おうが深掘りすると知識は必要なもんだが、Linuxはその領域に到達するのが早い感じがしている"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "eecdd97b-3520-4d55-abfd-6232dfd0c383",
+      "type": "message",
+      "text": "&gt; PulseAudio や JACK と同様に PipeWire をオーディオサーバーとして使用できます。 PulseAudio サーバーの互換実装と JACK クライアント用の ABI 互換ライブラリを提供することで PulseAudio と JACK の両方を置き換えることを目的としています。詳細についてはこの記事を参照してください。 \nはえー…",
+      "user": "U0PM6EYR1",
+      "ts": "1631528703.135900",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "TDvF4",
+          "elements": [
+            {
+              "type": "rich_text_quote",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "PulseAudio や JACK と同様に PipeWire をオーディオサーバーとして使用できます。 PulseAudio サーバーの互換実装と JACK クライアント用の ABI 互換ライブラリを提供することで PulseAudio と JACK の両方を置き換えることを目的としています。詳細についてはこの記事を参照してください。 "
+                }
+              ]
+            },
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "はえー…"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "reactions": [
+        {
+          "name": "nyancat",
+          "users": [
+            "U02ASPM0A6T",
+            "U6MEQDP08"
+          ],
+          "count": 2
+        }
+      ]
+    },
+    {
+      "client_msg_id": "723B5C4C-13EA-4FA6-84C8-50EDEC870417",
+      "type": "message",
+      "text": "<@U257W41DW> 各サウンド・ビデオのサーバーのギャップを埋めて統合するという発想と実装がすごいですね。Linuxデスクトップの「素人にはお勧めできない」的な問題はこんな形で解決に向かっていくんでしょうか\n<https://wiki.archlinux.jp/index.php/PipeWire|https://wiki.archlinux.jp/index.php/PipeWire>",
+      "user": "U02ASPM0A6T",
+      "ts": "1631528196.135600",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "/Uwo",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "user",
+                  "user_id": "U257W41DW"
+                },
+                {
+                  "type": "text",
+                  "text": " 各サウンド・ビデオのサーバーのギャップを埋めて統合するという発想と実装がすごいですね。Linuxデスクトップの「素人にはお勧めできない」的な問題はこんな形で解決に向かっていくんでしょうか\n"
+                },
+                {
+                  "type": "link",
+                  "url": "https://wiki.archlinux.jp/index.php/PipeWire",
+                  "text": "https://wiki.archlinux.jp/index.php/PipeWire"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "9ce932a5-f2b6-4fbd-99d3-c8ddc6b6a94a",
+      "type": "message",
+      "text": "ピュアオーディオ目的でJACKを使ってる僕みたいなのでも関係あるのかな……あとで調べてみよう。",
+      "user": "UBEFL3YLE",
+      "ts": "1631489453.129400",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "+f+L1",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "ピュアオーディオ目的でJACKを使ってる僕みたいなのでも関係あるのかな……あとで調べてみよう。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "reactions": [
+        {
+          "name": "tada",
+          "users": [
+            "UEED0BQ4A"
+          ],
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "message",
+      "text": "今後サウンドサーバは ALSA/PulseAudio/JACK それぞれのインターフェイスを実装してる PipeWire が主流になっていくはずなので、\nPulseAudio や JACK などの環境構築の煩わしさからは解放されるはず。",
+      "user": "U257W41DW",
+      "ts": "1631485593.128600",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "GuQ",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "今後サウンドサーバは ALSA/PulseAudio/JACK それぞれのインターフェイスを実装してる PipeWire が主流になっていくはずなので、\nPulseAudio や JACK などの環境構築の煩わしさからは解放されるはず。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "reactions": [
+        {
+          "name": "tada",
+          "users": [
+            "UEED0BQ4A",
+            "U02ASPM0A6T",
+            "UFT4ASC3F",
+            "UAPRYSVPS",
+            "UAGGQQLQY"
+          ],
+          "count": 5
+        },
+        {
+          "name": "hee",
+          "users": [
+            "UBEFL3YLE",
+            "UGA29R3FH",
+            "U70QDFN82",
+            "U02ASPM0A6T",
+            "UFT4ASC3F",
+            "UAPRYSVPS",
+            "U01M9EK1L9Z"
+          ],
+          "count": 7
+        }
+      ]
+    },
+    {
+      "client_msg_id": "897885a1-48d4-4330-93a9-2af3b4b1bb7e",
+      "type": "message",
+      "text": "こんにちは、supercollliderやfoxdotというソフトがあるのを初めて知りました。普段はjack環境上でardourを中心に音楽作成したりしています。jack環境の構築は随分苦労した覚えがありますのでお力になれれば幸いです。当方はPC起動時に以下のスクリプトを走らせてjack audio環境にしています。\n```#!/bin/bash\n\nkernel=$(uname -r)\n\njack_control ds alsa # alsaドライバを指定\njack_control dps device hw:PCH # デバイス名を指定\njack_control dps capture hw:PCH # 入力デバイス名\njack_control dps playback hw:PCH # 出力デバイス名\njack_control dps rate 44100 # サンプルレート\njack_control dps nperiods 2 # ピリオド／バッファー\n\n#リアルタイムカーネル判別\ncase \"$kernel\" in\n    *-rt*)\n        jack_control dps period 256 # フレーム／ピリオド\n        ;;\n    *)\n        jack_control dps period 1024\n        ;;\nesac\n\njack_control dps midi-driver seq # MIDIドライバー\njack_control dps duplex true # オーディオ入出力\njack_control eps realtime True # リアルタイムモード\njack_control start # jackdサーバースタート\n```\nインストールしてあるのはjack2の方です。デバイス名のところにはそれぞれのオーディオデバイス名を記述します。サンプルレート、ピリオド／バッファ、フレーム／ピリオドなどの数値も環境に合わせて設定します。なおqjackctlは設定が反映されているのかどうかがなんとなく分かりづらく普段は使っていません。jackサーバーを手動で停止する際はターミナルで\n```jack_control stop\njack_control exit\n```\nと入力すればもとのalsaとかpulseaudioの状態に戻れます。",
+      "user": "UEED0BQ4A",
+      "ts": "1631479521.127900",
+      "team": "T0GFBAM8C",
+      "edited": {
+        "user": "UEED0BQ4A",
+        "ts": "1631485100.000000"
+      },
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "/W=a",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "こんにちは、supercollliderやfoxdotというソフトがあるのを初めて知りました。普段はjack環境上でardourを中心に音楽作成したりしています。jack環境の構築は随分苦労した覚えがありますのでお力になれれば幸いです。当方はPC起動時に以下のスクリプトを走らせてjack audio環境にしています。\n"
+                }
+              ]
+            },
+            {
+              "type": "rich_text_preformatted",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "#!/bin/bash\n\nkernel=$(uname -r)\n\njack_control ds alsa # alsaドライバを指定\njack_control dps device hw:PCH # デバイス名を指定\njack_control dps capture hw:PCH # 入力デバイス名\njack_control dps playback hw:PCH # 出力デバイス名\njack_control dps rate 44100 # サンプルレート\njack_control dps nperiods 2 # ピリオド／バッファー\n\n#リアルタイムカーネル判別\ncase \"$kernel\" in\n    *-rt*)\n        jack_control dps period 256 # フレーム／ピリオド\n        ;;\n    *)\n        jack_control dps period 1024\n        ;;\nesac\n\njack_control dps midi-driver seq # MIDIドライバー\njack_control dps duplex true # オーディオ入出力\njack_control eps realtime True # リアルタイムモード\njack_control start # jackdサーバースタート\n"
+                }
+              ],
+              "border": 0
+            },
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "インストールしてあるのはjack2の方です。デバイス名のところにはそれぞれのオーディオデバイス名を記述します。サンプルレート、ピリオド／バッファ、フレーム／ピリオドなどの数値も環境に合わせて設定します。なおqjackctlは設定が反映されているのかどうかがなんとなく分かりづらく普段は使っていません。jackサーバーを手動で停止する際はターミナルで\n"
+                }
+              ]
+            },
+            {
+              "type": "rich_text_preformatted",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "jack_control stop\njack_control exit\n"
+                }
+              ],
+              "border": 0
+            },
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "と入力すればもとのalsaとかpulseaudioの状態に戻れます。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "reactions": [
+        {
+          "name": "pray",
+          "users": [
+            "U02ASPM0A6T"
+          ],
+          "count": 1
+        },
+        {
+          "name": "+1",
+          "users": [
+            "U02ASPM0A6T"
+          ],
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "message",
+      "text": "オーディオが初期化できません、と言われただけじゃ何すればいいかわからないですよね。。\n対応するの大変だったりなにか理由があるのかもしれませんが、どちらかというとsupercollider側が素っ気なさすぎな気がします。\njack側はある程度詳しく出てるように見えますが、supercolliderのこのエラーだけでは多少なりともjackやdbusへの知識がないと、ほとんどの人は途方に暮れてしまいそう",
+      "files": [
+        {
+          "id": "F02DQME4M8X",
+          "created": 1631457560,
+          "timestamp": 1631457560,
+          "name": "image.png",
+          "title": "image.png",
+          "mimetype": "image/png",
+          "filetype": "png",
+          "pretty_type": "PNG",
+          "user": "U02ASPM0A6T",
+          "editable": false,
+          "size": 56835,
+          "mode": "hosted",
+          "is_external": false,
+          "external_type": "",
+          "is_public": true,
+          "public_url_shared": false,
+          "display_as_bot": false,
+          "username": "",
+          "url_private": "https://files.slack.com/files-pri/T0GFBAM8C-F02DQME4M8X/image.png",
+          "url_private_download": "https://files.slack.com/files-pri/T0GFBAM8C-F02DQME4M8X/download/image.png",
+          "media_display_type": "unknown",
+          "thumb_64": "https://files.slack.com/files-tmb/T0GFBAM8C-F02DQME4M8X-5f1721044b/image_64.png",
+          "thumb_80": "https://files.slack.com/files-tmb/T0GFBAM8C-F02DQME4M8X-5f1721044b/image_80.png",
+          "thumb_360": "https://files.slack.com/files-tmb/T0GFBAM8C-F02DQME4M8X-5f1721044b/image_360.png",
+          "thumb_360_w": 360,
+          "thumb_360_h": 110,
+          "thumb_480": "https://files.slack.com/files-tmb/T0GFBAM8C-F02DQME4M8X-5f1721044b/image_480.png",
+          "thumb_480_w": 480,
+          "thumb_480_h": 146,
+          "thumb_160": "https://files.slack.com/files-tmb/T0GFBAM8C-F02DQME4M8X-5f1721044b/image_160.png",
+          "thumb_720": "https://files.slack.com/files-tmb/T0GFBAM8C-F02DQME4M8X-5f1721044b/image_720.png",
+          "thumb_720_w": 720,
+          "thumb_720_h": 219,
+          "thumb_800": "https://files.slack.com/files-tmb/T0GFBAM8C-F02DQME4M8X-5f1721044b/image_800.png",
+          "thumb_800_w": 800,
+          "thumb_800_h": 244,
+          "thumb_960": "https://files.slack.com/files-tmb/T0GFBAM8C-F02DQME4M8X-5f1721044b/image_960.png",
+          "thumb_960_w": 960,
+          "thumb_960_h": 292,
+          "thumb_1024": "https://files.slack.com/files-tmb/T0GFBAM8C-F02DQME4M8X-5f1721044b/image_1024.png",
+          "thumb_1024_w": 1024,
+          "thumb_1024_h": 312,
+          "original_w": 1044,
+          "original_h": 318,
+          "thumb_tiny": "AwAOADC93pQB6mjBzTgcDp+tACj6ilpN3PSlzQAUc0ZpM0Af/9k=",
+          "permalink": "https://archlinuxjp.slack.com/files/U02ASPM0A6T/F02DQME4M8X/image.png",
+          "permalink_public": "https://slack-files.com/T0GFBAM8C-F02DQME4M8X-a675ff599e",
+          "is_starred": false,
+          "has_rich_preview": false
+        },
+        {
+          "id": "F02E5D422UB",
+          "created": 1631457611,
+          "timestamp": 1631457611,
+          "name": "image.png",
+          "title": "image.png",
+          "mimetype": "image/png",
+          "filetype": "png",
+          "pretty_type": "PNG",
+          "user": "U02ASPM0A6T",
+          "editable": false,
+          "size": 19175,
+          "mode": "hosted",
+          "is_external": false,
+          "external_type": "",
+          "is_public": true,
+          "public_url_shared": false,
+          "display_as_bot": false,
+          "username": "",
+          "url_private": "https://files.slack.com/files-pri/T0GFBAM8C-F02E5D422UB/image.png",
+          "url_private_download": "https://files.slack.com/files-pri/T0GFBAM8C-F02E5D422UB/download/image.png",
+          "media_display_type": "unknown",
+          "thumb_64": "https://files.slack.com/files-tmb/T0GFBAM8C-F02E5D422UB-3df99008db/image_64.png",
+          "thumb_80": "https://files.slack.com/files-tmb/T0GFBAM8C-F02E5D422UB-3df99008db/image_80.png",
+          "thumb_360": "https://files.slack.com/files-tmb/T0GFBAM8C-F02E5D422UB-3df99008db/image_360.png",
+          "thumb_360_w": 360,
+          "thumb_360_h": 132,
+          "thumb_160": "https://files.slack.com/files-tmb/T0GFBAM8C-F02E5D422UB-3df99008db/image_160.png",
+          "original_w": 465,
+          "original_h": 171,
+          "thumb_tiny": "AwARADC7MSAMVGZDntUsqlgMdqjMT56frQAisxPA59hTwZSehH1poicHpx9aeEx/AT9WoAcA+OWGfpT6RRgdMe1LQAnelpO9LQAUUUUAFFFFAH//2Q==",
+          "permalink": "https://archlinuxjp.slack.com/files/U02ASPM0A6T/F02E5D422UB/image.png",
+          "permalink_public": "https://slack-files.com/T0GFBAM8C-F02E5D422UB-69f9e79f34",
+          "is_starred": false,
+          "has_rich_preview": false
+        }
+      ],
+      "upload": false,
+      "user": "U02ASPM0A6T",
+      "ts": "1631458091.116700",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "/g0",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "オーディオが初期化できません、と言われただけじゃ何すればいいかわからないですよね。。\n対応するの大変だったりなにか理由があるのかもしれませんが、どちらかというとsupercollider側が素っ気なさすぎな気がします。\njack側はある程度詳しく出てるように見えますが、supercolliderのこのエラーだけでは多少なりともjackやdbusへの知識がないと、ほとんどの人は途方に暮れてしまいそう"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "edited": {
+        "user": "U02ASPM0A6T",
+        "ts": "1631458400.000000"
+      }
+    },
+    {
+      "client_msg_id": "74573479-8495-4302-af47-9aa44041a17f",
+      "type": "message",
+      "text": "<https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1631444420093000>\nこれ、もう少し強調してエラーとして出してほしいですね…\njackd コマンドでも同じ文が特にエラー扱いされずに出たので、jack側に言うしかないんですかね…",
+      "user": "U0PM6EYR1",
+      "ts": "1631456308.108500",
+      "team": "T0GFBAM8C",
+      "attachments": [
+        {
+          "from_url": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1631444420093000",
+          "fallback": "[September 12th, 2021 4:00 AM] raa0121: 手元だと、SuperCollider の boot server で、 could not initialize audio. が出てますね",
+          "ts": "1631444420.093000",
+          "author_id": "U0PM6EYR1",
+          "author_subname": "raa0121",
+          "channel_id": "C0GFH3RHC",
+          "channel_name": "general",
+          "is_msg_unfurl": true,
+          "text": "手元だと、SuperCollider の boot server で、 could not initialize audio. が出てますね",
+          "message_blocks": [
+            {
+              "team": "T0GFBAM8C",
+              "channel": "C0GFH3RHC",
+              "ts": "1631444420.093000",
+              "message": {
+                "blocks": [
+                  {
+                    "type": "rich_text",
+                    "block_id": "c1V",
+                    "elements": [
+                      {
+                        "type": "rich_text_section",
+                        "elements": [
+                          {
+                            "type": "text",
+                            "text": "手元だと、SuperCollider の boot server で、 could not initialize audio. が出てますね"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            }
+          ],
+          "author_name": "raa0121",
+          "author_link": "https://archlinuxjp.slack.com/team/U0PM6EYR1",
+          "author_icon": "https://secure.gravatar.com/avatar/35b032d7b2d4182b0c2de1ef85ba91f2.jpg?s=48&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0009-48.png",
+          "mrkdwn_in": [
+            "text"
+          ],
+          "id": 1,
+          "original_url": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1631444420093000",
+          "footer": "#general に投稿"
+        }
+      ],
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "rJ9lE",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "link",
+                  "url": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1631444420093000"
+                },
+                {
+                  "type": "text",
+                  "text": "\nこれ、もう少し強調してエラーとして出してほしいですね…\njackd コマンドでも同じ文が特にエラー扱いされずに出たので、jack側に言うしかないんですかね…"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "reactions": [
+        {
+          "name": "thinking_face",
+          "users": [
+            "U02ASPM0A6T"
+          ],
+          "count": 1
+        }
+      ]
+    },
+    {
+      "client_msg_id": "bf3d0cb9-532d-4485-936c-69a64ed08cba",
+      "type": "message",
+      "text": "jack 設定は地味に資料参照してやった方がいいっぽいですね。。\nsway の問題じゃなかったです。失礼しました:man-bowing:",
+      "user": "U02ASPM0A6T",
+      "ts": "1631454053.106100",
+      "team": "T0GFBAM8C",
+      "edited": {
+        "user": "U02ASPM0A6T",
+        "ts": "1631455952.000000"
+      },
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "5H24O",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "jack 設定は地味に資料参照してやった方がいいっぽいですね。。\nsway の問題じゃなかったです。失礼しました"
+                },
+                {
+                  "type": "emoji",
+                  "name": "man-bowing",
+                  "unicode": "1f647-200d-2642-fe0f"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "C5EB9EEE-F342-437B-A56E-76F4A01C9B5C",
+      "type": "message",
+      "text": "すごい",
+      "user": "U0GFBAM8U",
+      "ts": "1631453808.103700",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "OKcBa",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "すごい"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "reactions": [
+        {
+          "name": "archjp",
+          "users": [
+            "U02ASPM0A6T"
+          ],
+          "count": 1
+        }
+      ]
+    },
+    {
+      "client_msg_id": "4f3481fe-6093-4f4a-a067-955792800b49",
+      "type": "message",
+      "text": "<@U0PM6EYR1> 下記参照して qjackctl で汎用USBオーディオインターフェースを指定して「D-Busインターフェースの有効化」をしたら音が出るようになりました:bow:\n<https://wiki.archlinux.jp/index.php/JACK_Audio_Connection_Kit#GUI_.E3.82.92.E4.BD.BF.E3.81.A3.E3.81.9F.E8.A8.AD.E5.AE.9A.E3.81.AE.E4.BE.8B>",
+      "user": "U02ASPM0A6T",
+      "ts": "1631453754.103400",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "iBF",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "user",
+                  "user_id": "U0PM6EYR1"
+                },
+                {
+                  "type": "text",
+                  "text": " 下記参照して qjackctl で汎用USBオーディオインターフェースを指定して「D-Busインターフェースの有効化」をしたら音が出るようになりました"
+                },
+                {
+                  "type": "emoji",
+                  "name": "bow",
+                  "unicode": "1f647"
+                },
+                {
+                  "type": "text",
+                  "text": "\n"
+                },
+                {
+                  "type": "link",
+                  "url": "https://wiki.archlinux.jp/index.php/JACK_Audio_Connection_Kit#GUI_.E3.82.92.E4.BD.BF.E3.81.A3.E3.81.9F.E8.A8.AD.E5.AE.9A.E3.81.AE.E4.BE.8B"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "reactions": [
+        {
+          "name": "+1",
+          "users": [
+            "U0PM6EYR1"
+          ],
+          "count": 1
+        }
+      ]
+    },
+    {
+      "client_msg_id": "3baa5f65-876d-4663-b69b-9df0177cfc08",
+      "type": "message",
+      "text": "ありがとうございます。jack素朴にデバイス指定しただけではできないようで、一見しても構成等何がどうなってるのかよくわからないので基本の部分から参照してみます",
+      "user": "U02ASPM0A6T",
+      "ts": "1631446813.099900",
+      "team": "T0GFBAM8C",
+      "edited": {
+        "user": "U02ASPM0A6T",
+        "ts": "1631446858.000000"
+      },
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "ILto",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "ありがとうございます。jack素朴にデバイス指定しただけではできないようで、一見しても構成等何がどうなってるのかよくわからないので基本の部分から参照してみます"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "ee43287d-9a2d-4108-a427-27749b550414",
+      "type": "message",
+      "text": "この問題は X/Wayland には関係ないっぽいです",
+      "user": "U0PM6EYR1",
+      "ts": "1631445057.095700",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "mgJ1",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "この問題は X/Wayland には関係ないっぽいです"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "4860512c-99cb-4c22-96fa-675efb787c24",
+      "type": "message",
+      "text": "Qjackctl から、使いたいデバイスを選んで、default のプロファイルを上書きすれば、行けそうです",
+      "user": "U0PM6EYR1",
+      "ts": "1631444868.095200",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "9xm",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "Qjackctl から、使いたいデバイスを選んで、default のプロファイルを上書きすれば、行けそうです"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "reactions": [
+        {
+          "name": "sparkles",
+          "users": [
+            "U02ASPM0A6T"
+          ],
+          "count": 1
+        }
+      ]
+    },
+    {
+      "client_msg_id": "2eda9ed3-8529-4543-98c1-b6da381eaf18",
+      "type": "message",
+      "text": "これは jack 側の問題っぽいです",
+      "user": "U0PM6EYR1",
+      "ts": "1631444840.094500",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "FS3hM",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "これは jack 側の問題っぽいです"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "cbad2c24-4bd7-4d9a-9869-3a6ecb8e8235",
+      "type": "message",
+      "text": "`could not initialize audio.`同じですねえ\nWayland か X かは関係ないんですかね\nちょっとissue漁ってみます\n<https://github.com/supercollider/supercollider/issues?q=is%3Aissue++%22could+not+initialize+audio.%22+>",
+      "user": "U02ASPM0A6T",
+      "ts": "1631444753.094000",
+      "team": "T0GFBAM8C",
+      "attachments": [
+        {
+          "service_name": "GitHub",
+          "title": "Issues · supercollider/supercollider",
+          "title_link": "https://github.com/supercollider/supercollider/issues?q=is%3Aissue++%22could+not+initialize+audio.%22+",
+          "text": "An audio server, programming language, and IDE for sound synthesis and algorithmic composition. - Issues · supercollider/supercollider",
+          "fallback": "GitHub: Issues · supercollider/supercollider",
+          "image_url": "https://opengraph.githubassets.com/b1a551200391f0b0034406095a178cc39ba75839d8628bec9fdca4a6954765b0/supercollider/supercollider",
+          "image_width": 500,
+          "image_height": 250,
+          "from_url": "https://github.com/supercollider/supercollider/issues?q=is%3Aissue++%22could+not+initialize+audio.%22+",
+          "image_bytes": 53154,
+          "service_icon": "https://a.slack-edge.com/80588/img/unfurl_icons/github.png",
+          "id": 1,
+          "original_url": "https://github.com/supercollider/supercollider/issues?q=is%3Aissue++%22could+not+initialize+audio.%22+"
+        }
+      ],
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "YdhFw",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "could not initialize audio.",
+                  "style": {
+                    "code": true
+                  }
+                },
+                {
+                  "type": "text",
+                  "text": "同じですねえ\nWayland か X かは関係ないんですかね\nちょっとissue漁ってみます\n"
+                },
+                {
+                  "type": "link",
+                  "url": "https://github.com/supercollider/supercollider/issues?q=is%3Aissue++%22could+not+initialize+audio.%22+"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "a093a2e1-aaf2-4118-9681-9bcf80535405",
+      "type": "message",
+      "text": "手元だと、SuperCollider の boot server で、 could not initialize audio. が出てますね",
+      "user": "U0PM6EYR1",
+      "ts": "1631444420.093000",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "c1V",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "手元だと、SuperCollider の boot server で、 could not initialize audio. が出てますね"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "1c9a3877-435d-43ff-8b9e-30a9f8a66548",
+      "type": "message",
+      "text": "Ubuntu Mate で FoxDot やってみましたが、確かに、supercollider から音が出ないですね",
+      "user": "U0PM6EYR1",
+      "ts": "1631444065.091900",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "lOoaS",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "Ubuntu Mate で FoxDot やってみましたが、確かに、supercollider から音が出ないですね"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "reactions": [
+        {
+          "name": "cry",
+          "users": [
+            "U02ASPM0A6T"
+          ],
+          "count": 1
+        }
+      ]
+    },
+    {
+      "client_msg_id": "cecddcef-f68f-4936-bcf1-1020e2889cb3",
+      "type": "message",
+      "text": "ちなみに私はsway環境においてはまだ構築できていません。開発者がWindows使いのせいかWindowsでの構築が一番楽で、次点がmacOSです。確認していないのでわかりませんが、うまくいけば意外とarchのX環境が一番楽だったりするかもしれません",
+      "user": "U02ASPM0A6T",
+      "ts": "1631442902.090100",
+      "team": "T0GFBAM8C",
+      "edited": {
+        "user": "U02ASPM0A6T",
+        "ts": "1631442953.000000"
+      },
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "8L+g",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "ちなみに私はsway環境においてはまだ構築できていません。開発者がWindows使いのせいかWindowsでの構築が一番楽で、次点がmacOSです。確認していないのでわかりませんが、うまくいけば意外とarchのX環境が一番楽だったりするかもしれません"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "reactions": [
+        {
+          "name": "naruhodo",
+          "users": [
+            "U0GFBAM8U"
+          ],
+          "count": 1
+        }
+      ]
+    },
+    {
+      "client_msg_id": "400AF6CC-79D0-4AAB-9915-8E242FD1D591",
+      "type": "message",
+      "text": "ありがとうございます",
+      "user": "U0GFBAM8U",
+      "ts": "1631442681.087500",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "zldIQ",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "ありがとうございます"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "3EB741DC-6AC0-4B15-A745-DE6BEC75A142",
+      "type": "message",
+      "text": "おお、なんか面白そうですね",
+      "user": "U0GFBAM8U",
+      "ts": "1631442675.087200",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "Fl7oX",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "おお、なんか面白そうですね"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "reactions": [
+        {
+          "name": "+1",
+          "users": [
+            "U02ASPM0A6T"
+          ],
+          "count": 1
+        }
+      ]
+    },
+    {
+      "client_msg_id": "b9707578-f9ad-4e4d-b996-1dda7aa4af09",
+      "type": "message",
+      "text": "もし興味があったら、`foxdot` が公式パッケージにあるので環境構築挑戦してみてください\n• <https://youtu.be/Tjf-NJNfOP4?t=1560>\n• <https://github.com/Qirky/FoxDot>\n```pacman -S foxdot sc3-plugins```\nパッケージ自体は上記で入ります\nあとはトラブルなければ下記でできると思います\n• supercollider 上で foxdot.quark を入れて `FoxDot.start` する\n• `python -m FoxDot`\nただ意外とトラブルの結節点みたいなものが多く、けっこう手こずる可能性は*大*です",
+      "user": "U02ASPM0A6T",
+      "ts": "1631442582.086700",
+      "team": "T0GFBAM8C",
+      "edited": {
+        "user": "U02ASPM0A6T",
+        "ts": "1631444245.000000"
+      },
+      "attachments": [
+        {
+          "service_name": "YouTube",
+          "service_url": "https://www.youtube.com/",
+          "title": "DOMMUNE Tokyo - live coding performances - algorave tokyo x yorkshire",
+          "title_link": "https://youtu.be/Tjf-NJNfOP4?t=1560",
+          "author_name": "Eulerroom",
+          "author_link": "https://www.youtube.com/c/Eulerroom",
+          "thumb_url": "https://i.ytimg.com/vi/Tjf-NJNfOP4/hqdefault.jpg",
+          "thumb_width": 480,
+          "thumb_height": 360,
+          "fallback": "YouTube Video: DOMMUNE Tokyo - live coding performances - algorave tokyo x yorkshire",
+          "video_html": "<iframe width=\"400\" height=\"225\" src=\"https://www.youtube.com/embed/Tjf-NJNfOP4?start=1560&feature=oembed&start=1560&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+          "video_html_width": 400,
+          "video_html_height": 225,
+          "from_url": "https://youtu.be/Tjf-NJNfOP4?t=1560",
+          "service_icon": "https://a.slack-edge.com/80588/img/unfurl_icons/youtube.png",
+          "id": 1,
+          "original_url": "https://youtu.be/Tjf-NJNfOP4?t=1560"
+        },
+        {
+          "service_name": "GitHub",
+          "title": "GitHub - Qirky/FoxDot: Python driven environment for Live Coding",
+          "title_link": "https://github.com/Qirky/FoxDot",
+          "text": "Python driven environment for Live Coding. Contribute to Qirky/FoxDot development by creating an account on GitHub.",
+          "fallback": "GitHub: GitHub - Qirky/FoxDot: Python driven environment for Live Coding",
+          "image_url": "https://opengraph.githubassets.com/a78b48f8d1235a49b29fb1676a45b802688275dc0f000780ae2767d8a52c6933/Qirky/FoxDot",
+          "image_width": 500,
+          "image_height": 250,
+          "from_url": "https://github.com/Qirky/FoxDot",
+          "image_bytes": 104412,
+          "service_icon": "https://a.slack-edge.com/80588/img/unfurl_icons/github.png",
+          "id": 2,
+          "original_url": "https://github.com/Qirky/FoxDot"
+        }
+      ],
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "fej",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "もし興味があったら、"
+                },
+                {
+                  "type": "text",
+                  "text": "foxdot",
+                  "style": {
+                    "code": true
+                  }
+                },
+                {
+                  "type": "text",
+                  "text": " が公式パッケージにあるので環境構築挑戦してみてください\n"
+                }
+              ]
+            },
+            {
+              "type": "rich_text_list",
+              "elements": [
+                {
+                  "type": "rich_text_section",
+                  "elements": [
+                    {
+                      "type": "link",
+                      "url": "https://youtu.be/Tjf-NJNfOP4?t=1560"
+                    }
+                  ]
+                },
+                {
+                  "type": "rich_text_section",
+                  "elements": [
+                    {
+                      "type": "link",
+                      "url": "https://github.com/Qirky/FoxDot"
+                    }
+                  ]
+                }
+              ],
+              "style": "bullet",
+              "indent": 0,
+              "border": 0
+            },
+            {
+              "type": "rich_text_preformatted",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "pacman -S foxdot sc3-plugins"
+                }
+              ]
+            },
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "パッケージ自体は上記で入ります\nあとはトラブルなければ下記でできると思います\n"
+                }
+              ]
+            },
+            {
+              "type": "rich_text_list",
+              "elements": [
+                {
+                  "type": "rich_text_section",
+                  "elements": [
+                    {
+                      "type": "text",
+                      "text": "supercollider 上で foxdot.quark を入れて "
+                    },
+                    {
+                      "type": "text",
+                      "text": "FoxDot.start",
+                      "style": {
+                        "code": true
+                      }
+                    },
+                    {
+                      "type": "text",
+                      "text": " する"
+                    }
+                  ]
+                },
+                {
+                  "type": "rich_text_section",
+                  "elements": [
+                    {
+                      "type": "text",
+                      "text": "python -m FoxDot",
+                      "style": {
+                        "code": true
+                      }
+                    }
+                  ]
+                }
+              ],
+              "style": "bullet",
+              "indent": 0,
+              "border": 0
+            },
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "ただ意外とトラブルの結節点みたいなものが多く、けっこう手こずる可能性は"
+                },
+                {
+                  "type": "text",
+                  "text": "大",
+                  "style": {
+                    "bold": true
+                  }
+                },
+                {
+                  "type": "text",
+                  "text": "です"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "reactions": [
+        {
+          "name": "raised_hands",
+          "users": [
+            "U0H9QUFA5"
+          ],
+          "count": 1
+        }
+      ]
+    },
+    {
+      "client_msg_id": "C168F391-C881-4A99-BA64-099B5C15AB77",
+      "type": "message",
+      "text": "最近、Synthesizer Vというツールよさそうだなと思ったくらいで時が止まってる...",
+      "user": "U0GFBAM8U",
+      "ts": "1631442066.083000",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "oPX",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "最近、Synthesizer Vというツールよさそうだなと思ったくらいで時が止まってる..."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "A0C7DBC5-C342-4491-9C2C-3157BF91F22A",
+      "type": "message",
+      "text": "いいですね\n音楽関連、なんか良さそうなツールってありますか?\nあまり知らなくて",
+      "user": "U0GFBAM8U",
+      "ts": "1631441786.081000",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "kUp",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "いいですね\n音楽関連、なんか良さそうなツールってありますか?\nあまり知らなくて"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "3a4b9f55-bd6e-4dce-84c4-a02031d31ec0",
+      "type": "message",
+      "text": "<@U0GFBAM8U> 音楽はやっていて、それとは別に「ライブコーディング」というコードでMIDIや音源、OSCなどを制御して音楽作成していこうというツールやムーブメントのジャンルがあって、それを学習・環境構築して楽して複雑なかっこええ作品を色々作りたいと思っています",
+      "user": "U02ASPM0A6T",
+      "ts": "1631441683.079200",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "Mgd9q",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "user",
+                  "user_id": "U0GFBAM8U"
+                },
+                {
+                  "type": "text",
+                  "text": " 音楽はやっていて、それとは別に「ライブコーディング」というコードでMIDIや音源、OSCなどを制御して音楽作成していこうというツールやムーブメントのジャンルがあって、それを学習・環境構築して楽して複雑なかっこええ作品を色々作りたいと思っています"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "d9dcf863-0c88-4083-866a-ad41243fd9c6",
+      "type": "message",
+      "text": "&gt; GUIライブラリの種類 x バージョン x 環境変数 x それでもうまくいかない場合は環境変数付きの直接起動って感じで、トラブった時に考慮必要なことが多い\nLinux をデスクトップ環境として使うには、そういうトラブルを直すのを好んでるような人じゃないと使いにくいのは確かかも…",
+      "user": "U0PM6EYR1",
+      "ts": "1631441553.077800",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "7PI",
+          "elements": [
+            {
+              "type": "rich_text_quote",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "GUIライブラリの種類 x バージョン x 環境変数 x それでもうまくいかない場合は環境変数付きの直接起動って感じで、トラブった時に考慮必要なことが多い"
+                }
+              ]
+            },
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "Linux をデスクトップ環境として使うには、そういうトラブルを直すのを好んでるような人じゃないと使いにくいのは確かかも…"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "d203515d-be46-4798-b5d6-36be575e82e5",
+      "type": "message",
+      "text": "今もリリースされてるな",
+      "user": "U0PM6EYR1",
+      "ts": "1631441495.076300",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "NNRFi",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "今もリリースされてるな"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "4ef843ab-764c-4fb8-ae67-b64d9079685b",
+      "type": "message",
+      "text": "マルチメディア系なら、昔は Ubuntu Studio とかあったけど、今はどうなんだろう",
+      "user": "U0PM6EYR1",
+      "ts": "1631441451.075600",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "EZLY+",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "マルチメディア系なら、昔は Ubuntu Studio とかあったけど、今はどうなんだろう"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "has_more": true,
+  "is_limited": false,
+  "pin_count": 16,
+  "channel_actions_ts": null,
+  "channel_actions_count": 0,
+  "response_metadata": {
+    "next_cursor": "bmV4dF90czoxNjMxNDQxMzkyMDc0MTAw"
+  }
+}

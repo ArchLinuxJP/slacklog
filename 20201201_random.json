@@ -1,0 +1,2995 @@
+{
+  "ok": true,
+  "latest": "1609503053.000000",
+  "oldest": "1606824653.000000",
+  "messages": [
+    {
+      "type": "message",
+      "subtype": "channel_join",
+      "ts": "1609497890.233800",
+      "user": "U01J1GGMHDJ",
+      "text": "<@U01J1GGMHDJ>さんがチャンネルに参加しました"
+    },
+    {
+      "client_msg_id": "3f6e1bf0-8c01-49aa-a831-f9dc05adf7f3",
+      "type": "message",
+      "text": "環境依存かもしれません",
+      "user": "U01HE1ENNJZ",
+      "ts": "1609425887.233200",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "Ia/Pz",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "環境依存かもしれません"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "ab7eda8e-89f8-46be-a67a-aa823fc851e3",
+      "type": "message",
+      "text": "zenじゃないけど特に問題ないですね",
+      "user": "U70QDFN82",
+      "ts": "1609414918.232500",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "qmQ9",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "zenじゃないけど特に問題ないですね"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "8163be1f-1b8e-40a4-9c73-b68def56d626",
+      "type": "message",
+      "text": "5.10.x-zenを試してみましたが時折フリーズします",
+      "user": "U01HE1ENNJZ",
+      "ts": "1609411565.232100",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "n9L",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "5.10.x-zenを試してみましたが時折フリーズします"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "2f6c96ca-d90c-4264-afc7-8a22ccbba0b8",
+      "type": "message",
+      "text": "5.10(stable)来ましたね！",
+      "user": "U01HE1ENNJZ",
+      "ts": "1609393548.230200",
+      "team": "T0GFBAM8C",
+      "edited": {
+        "user": "U01HE1ENNJZ",
+        "ts": "1609401230.000000"
+      },
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "dzY21",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "5.10(stable)来ましたね！"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "reactions": [
+        {
+          "name": "tada",
+          "users": [
+            "U9DM2RA93",
+            "USJ9Q3WSH",
+            "U6DL9D3AB",
+            "UEED0BQ4A",
+            "UGA29R3FH",
+            "UHFMRMPM5",
+            "UJ7P75WB1",
+            "U53RAQBCP"
+          ],
+          "count": 8
+        }
+      ]
+    },
+    {
+      "client_msg_id": "377a5280-729f-4313-999d-b651b0e896b5",
+      "type": "message",
+      "text": "大体いつも時間かかってる気がする\n検証のためかな",
+      "user": "UGA29R3FH",
+      "ts": "1609237026.229800",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "5=rC",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "大体いつも時間かかってる気がする\n検証のためかな"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "2bc22f79-af1a-411e-8866-27792954ef06",
+      "type": "message",
+      "text": "testingにはすでにあるのですが降ってきてないのです",
+      "user": "U019C7VLZ4G",
+      "ts": "1609236865.229300",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "mm5uk",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "testingにはすでにあるのですが降ってきてないのです"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "message",
+      "text": "git verはすでにあるのですがね\nまだ降ってきないですね",
+      "files": [
+        {
+          "id": "F01HJ2N3KFG",
+          "created": 1609231648,
+          "timestamp": 1609231648,
+          "name": "Screenshot_20201229-174719.png",
+          "title": "Screenshot_20201229-174719.png",
+          "mimetype": "image/png",
+          "filetype": "png",
+          "pretty_type": "PNG",
+          "user": "U01HE1ENNJZ",
+          "editable": false,
+          "size": 221598,
+          "mode": "hosted",
+          "is_external": false,
+          "external_type": "",
+          "is_public": true,
+          "public_url_shared": false,
+          "display_as_bot": false,
+          "username": "",
+          "url_private": "https://files.slack.com/files-pri/T0GFBAM8C-F01HJ2N3KFG/screenshot_20201229-174719.png",
+          "url_private_download": "https://files.slack.com/files-pri/T0GFBAM8C-F01HJ2N3KFG/download/screenshot_20201229-174719.png",
+          "media_display_type": "unknown",
+          "thumb_64": "https://files.slack.com/files-tmb/T0GFBAM8C-F01HJ2N3KFG-4c3e4d2c80/screenshot_20201229-174719_64.png",
+          "thumb_80": "https://files.slack.com/files-tmb/T0GFBAM8C-F01HJ2N3KFG-4c3e4d2c80/screenshot_20201229-174719_80.png",
+          "thumb_360": "https://files.slack.com/files-tmb/T0GFBAM8C-F01HJ2N3KFG-4c3e4d2c80/screenshot_20201229-174719_360.png",
+          "thumb_360_w": 203,
+          "thumb_360_h": 360,
+          "thumb_480": "https://files.slack.com/files-tmb/T0GFBAM8C-F01HJ2N3KFG-4c3e4d2c80/screenshot_20201229-174719_480.png",
+          "thumb_480_w": 270,
+          "thumb_480_h": 480,
+          "thumb_160": "https://files.slack.com/files-tmb/T0GFBAM8C-F01HJ2N3KFG-4c3e4d2c80/screenshot_20201229-174719_160.png",
+          "thumb_720": "https://files.slack.com/files-tmb/T0GFBAM8C-F01HJ2N3KFG-4c3e4d2c80/screenshot_20201229-174719_720.png",
+          "thumb_720_w": 405,
+          "thumb_720_h": 720,
+          "thumb_800": "https://files.slack.com/files-tmb/T0GFBAM8C-F01HJ2N3KFG-4c3e4d2c80/screenshot_20201229-174719_800.png",
+          "thumb_800_w": 450,
+          "thumb_800_h": 800,
+          "thumb_960": "https://files.slack.com/files-tmb/T0GFBAM8C-F01HJ2N3KFG-4c3e4d2c80/screenshot_20201229-174719_960.png",
+          "thumb_960_w": 540,
+          "thumb_960_h": 960,
+          "thumb_1024": "https://files.slack.com/files-tmb/T0GFBAM8C-F01HJ2N3KFG-4c3e4d2c80/screenshot_20201229-174719_1024.png",
+          "thumb_1024_w": 576,
+          "thumb_1024_h": 1024,
+          "original_w": 720,
+          "original_h": 1280,
+          "thumb_tiny": "AwAwABut5kZ5JOMUeZD6n8qrcY6mkz70rE8pcWROACf/AK9BYZ7/AJVBbf69Mdc96t4f+6lFg5Sjzt60n4UvbpTeKZRLBzMmfmHpVjCf882/MVXg4mTPyj1FWS3P+ub9aQFLjHU0fjQCTxR1z0pgSW/+vTHX36Vaw/8AdSqkT7GDk5A4xnmpDPETkxt+YoA//9k=",
+          "permalink": "https://archlinuxjp.slack.com/files/U01HE1ENNJZ/F01HJ2N3KFG/screenshot_20201229-174719.png",
+          "permalink_public": "https://slack-files.com/T0GFBAM8C-F01HJ2N3KFG-643403a4af",
+          "is_starred": false,
+          "has_rich_preview": false
+        }
+      ],
+      "upload": false,
+      "user": "U01HE1ENNJZ",
+      "display_as_bot": false,
+      "ts": "1609231676.228000",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "1l1",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "git verはすでにあるのですがね\nまだ降ってきないですね"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "client_msg_id": "00e45f41-25a7-498c-8dec-b4c73e7b8c21"
+    },
+    {
+      "client_msg_id": "62AA91AC-3EFF-4DD0-A5E5-FA771EF38E6E",
+      "type": "message",
+      "text": "fcitx4-&gt;5に入れ替えました。\nバージョン間でパッケージコンフリクトするわりには実行バイナリは `fcitx` でなく `fcitx5` として入るんですね。",
+      "user": "U6DL9D3AB",
+      "ts": "1609220242.227100",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "4cu",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "fcitx4->5に入れ替えました。\nバージョン間でパッケージコンフリクトするわりには実行バイナリは "
+                },
+                {
+                  "type": "text",
+                  "text": "fcitx",
+                  "style": {
+                    "code": true
+                  }
+                },
+                {
+                  "type": "text",
+                  "text": " でなく "
+                },
+                {
+                  "type": "text",
+                  "text": "fcitx5",
+                  "style": {
+                    "code": true
+                  }
+                },
+                {
+                  "type": "text",
+                  "text": " として入るんですね。"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "b756128e-5251-414d-bbd8-395f42c222bc",
+      "type": "message",
+      "text": "Linux 5.10こないですね。\n年明けかな",
+      "user": "U019C7VLZ4G",
+      "ts": "1609215738.223800",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "Abbd",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "Linux 5.10こないですね。\n年明けかな"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "500f1d66-55cd-4354-a47e-3c0201fb5a35",
+      "type": "message",
+      "text": "あとは、fcitx5-config-qt  を立ちあげて、グローバルオプションタブの挙動「アプリケーションにプリエディットを表示」にチェックくらいですかね。",
+      "user": "U0H9QUFA5",
+      "ts": "1609115468.222900",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "eOZar",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "あとは、fcitx5-config-qt  を立ちあげて、グローバルオプションタブの挙動「アプリケーションにプリエディットを表示」にチェックくらいですかね。"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "4badf5bd-e083-441d-9709-1b78887776b8",
+      "type": "message",
+      "text": "調べてみましたが、fcitx4にあった「候補とプレエディットに1つの候補しか表示されていない場合は入力ウィンドウを表示しない」の設定がfcitx5にはないので、基本的にはできない気がします。\n`GTK_IM_MODULE=xim` でできているように見えたのは、おそらく、ウィンドウ表示位置が狂い、見えないようになっていただけっぽい。これだと補完候補がわからない。\n<https://kledgeb.blogspot.com/2013/12/ubuntu-fcitx-16-fcitx.html>",
+      "user": "U0GFBAM8U",
+      "ts": "1608986105.221000",
+      "team": "T0GFBAM8C",
+      "attachments": [
+        {
+          "service_name": "kledgeb",
+          "title": "Ubuntu Fcitx その16 - Fcitxの動作設定を行う（全体の設定の拡張オプション・外観）",
+          "title_link": "https://kledgeb.blogspot.com/2013/12/ubuntu-fcitx-16-fcitx.html",
+          "text": "Ubuntuのインストール方法やアプリの使い方、Ubuntuの最新情報を紹介しています。",
+          "fallback": "kledgeb: Ubuntu Fcitx その16 - Fcitxの動作設定を行う（全体の設定の拡張オプション・外観）",
+          "image_url": "https://3.bp.blogspot.com/-T9V4yVeKk5c/Ur5D26HYuEI/AAAAAAAAmks/HQ3FoiTszYo/w1200-h630-p-k-no-nu/fcitx-config-gtk3_GlobalConfig_AdvanceOption_Appearance.jpg",
+          "from_url": "https://kledgeb.blogspot.com/2013/12/ubuntu-fcitx-16-fcitx.html",
+          "image_width": 477,
+          "image_height": 250,
+          "image_bytes": 33423,
+          "service_icon": "https://kledgeb.blogspot.com/favicon.ico",
+          "id": 1,
+          "original_url": "https://kledgeb.blogspot.com/2013/12/ubuntu-fcitx-16-fcitx.html"
+        }
+      ],
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "bvyE",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "調べてみましたが、fcitx4にあった「候補とプレエディットに1つの候補しか表示されていない場合は入力ウィンドウを表示しない」の設定がfcitx5にはないので、基本的にはできない気がします。\n"
+                },
+                {
+                  "type": "text",
+                  "text": "GTK_IM_MODULE=xim",
+                  "style": {
+                    "code": true
+                  }
+                },
+                {
+                  "type": "text",
+                  "text": " でできているように見えたのは、おそらく、ウィンドウ表示位置が狂い、見えないようになっていただけっぽい。これだと補完候補がわからない。\n"
+                },
+                {
+                  "type": "link",
+                  "url": "https://kledgeb.blogspot.com/2013/12/ubuntu-fcitx-16-fcitx.html"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "1e47111e-d267-46ae-aa0a-ca59041c6f24",
+      "type": "message",
+      "text": "そうです!\n`アプリケーションにプリエディット`でインラインにはなるのですが、下にウィンドウ的なやつがどうしても出てしまうのです。",
+      "user": "U019C7VLZ4G",
+      "ts": "1608980301.214800",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "ECG",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "そうです!\n`アプリケーションにプリエディット`でインラインにはなるのですが、下にウィンドウ的なやつがどうしても出てしまうのです。"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "81ad5a24-0d4a-4322-99dc-499d67255b73",
+      "type": "message",
+      "text": "自分のところではそんな感じです。また、mozcのサジェストウィンドウっぽいのがどうしても出てきてしまって、これがないとインライン入力できない感じ。",
+      "user": "U0GFBAM8U",
+      "ts": "1608977293.211700",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "vrpb",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "自分のところではそんな感じです。また、mozcのサジェストウィンドウっぽいのがどうしても出てきてしまって、これがないとインライン入力できない感じ。"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "0d768a7c-cd88-4d11-bd62-fafe62c59d36",
+      "type": "message",
+      "text": "<@U019C7VLZ4G> さんのところでは、`アプリケーションにプリエディットを表示` でインライン入力できるようになり、オフだとできない感じですか?",
+      "user": "U0GFBAM8U",
+      "ts": "1608977169.210500",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "/Tbnp",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "user",
+                  "user_id": "U019C7VLZ4G"
+                },
+                {
+                  "type": "text",
+                  "text": " さんのところでは、"
+                },
+                {
+                  "type": "text",
+                  "text": "アプリケーションにプリエディットを表示",
+                  "style": {
+                    "code": true
+                  }
+                },
+                {
+                  "type": "text",
+                  "text": " でインライン入力できるようになり、オフだとできない感じですか?"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "9f98ef3d-1e37-462a-a0c5-f0d870d3d66b",
+      "type": "message",
+      "text": "waylandの場合はおそらくできませんね、fcitxの設定で別の項目だったので",
+      "user": "U0GFBAM8U",
+      "ts": "1608976964.209000",
+      "team": "T0GFBAM8C",
+      "edited": {
+        "user": "U0GFBAM8U",
+        "ts": "1608976995.000000"
+      },
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "rrij",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "waylandの場合はおそらくできませんね、fcitxの設定で別の項目だったので"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "88d7afc8-714b-43f6-991f-87fbb678553b",
+      "type": "message",
+      "text": "Wayland(Xwayland)でもこの設定は有効でしょうか?\n(GnomeをWayland上で動かしています)",
+      "user": "U019C7VLZ4G",
+      "ts": "1608976891.208400",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "J=Cg",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "Wayland(Xwayland)でもこの設定は有効でしょうか?\n(GnomeをWayland上で動かしています)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "4d4b195b-afcf-4b8f-a9d4-96f2aa5af3b5",
+      "type": "message",
+      "text": "xinitrcで\n```export GTK_IM_MODULE=xim\nexport QT_IM_MODULE=xim```",
+      "user": "U0GFBAM8U",
+      "ts": "1608973925.205900",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "kqk",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "xinitrcで\n"
+                }
+              ]
+            },
+            {
+              "type": "rich_text_preformatted",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "export GTK_IM_MODULE=xim\nexport QT_IM_MODULE=xim"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "message",
+      "text": "一応できましたが、これじゃないかもしれない...",
+      "files": [
+        {
+          "id": "F01H6RN43SB",
+          "created": 1608973853,
+          "timestamp": 1608973853,
+          "name": "fcitx5.png",
+          "title": "fcitx5.png",
+          "mimetype": "image/png",
+          "filetype": "png",
+          "pretty_type": "PNG",
+          "user": "U0GFBAM8U",
+          "editable": false,
+          "size": 23460,
+          "mode": "hosted",
+          "is_external": false,
+          "external_type": "",
+          "is_public": true,
+          "public_url_shared": false,
+          "display_as_bot": false,
+          "username": "",
+          "url_private": "https://files.slack.com/files-pri/T0GFBAM8C-F01H6RN43SB/fcitx5.png",
+          "url_private_download": "https://files.slack.com/files-pri/T0GFBAM8C-F01H6RN43SB/download/fcitx5.png",
+          "media_display_type": "unknown",
+          "thumb_64": "https://files.slack.com/files-tmb/T0GFBAM8C-F01H6RN43SB-d1a757e973/fcitx5_64.png",
+          "thumb_80": "https://files.slack.com/files-tmb/T0GFBAM8C-F01H6RN43SB-d1a757e973/fcitx5_80.png",
+          "thumb_360": "https://files.slack.com/files-tmb/T0GFBAM8C-F01H6RN43SB-d1a757e973/fcitx5_360.png",
+          "thumb_360_w": 360,
+          "thumb_360_h": 33,
+          "thumb_480": "https://files.slack.com/files-tmb/T0GFBAM8C-F01H6RN43SB-d1a757e973/fcitx5_480.png",
+          "thumb_480_w": 480,
+          "thumb_480_h": 45,
+          "thumb_160": "https://files.slack.com/files-tmb/T0GFBAM8C-F01H6RN43SB-d1a757e973/fcitx5_160.png",
+          "thumb_720": "https://files.slack.com/files-tmb/T0GFBAM8C-F01H6RN43SB-d1a757e973/fcitx5_720.png",
+          "thumb_720_w": 720,
+          "thumb_720_h": 67,
+          "thumb_800": "https://files.slack.com/files-tmb/T0GFBAM8C-F01H6RN43SB-d1a757e973/fcitx5_800.png",
+          "thumb_800_w": 800,
+          "thumb_800_h": 74,
+          "thumb_960": "https://files.slack.com/files-tmb/T0GFBAM8C-F01H6RN43SB-d1a757e973/fcitx5_960.png",
+          "thumb_960_w": 960,
+          "thumb_960_h": 89,
+          "thumb_1024": "https://files.slack.com/files-tmb/T0GFBAM8C-F01H6RN43SB-d1a757e973/fcitx5_1024.png",
+          "thumb_1024_w": 1024,
+          "thumb_1024_h": 95,
+          "original_w": 1186,
+          "original_h": 110,
+          "thumb_tiny": "AwAEADCpSEClooATAowKKKADAoAGQKKUfeH1oA//2Q==",
+          "permalink": "https://archlinuxjp.slack.com/files/U0GFBAM8U/F01H6RN43SB/fcitx5.png",
+          "permalink_public": "https://slack-files.com/T0GFBAM8C-F01H6RN43SB-8c472b7142",
+          "is_starred": false,
+          "has_rich_preview": false
+        }
+      ],
+      "upload": false,
+      "user": "U0GFBAM8U",
+      "display_as_bot": false,
+      "ts": "1608973860.205400",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "hlF/g",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "一応できましたが、これじゃないかもしれない..."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "d8cbdeb7-68f9-4aa4-b342-ba4f5a383a18",
+      "type": "message",
+      "text": "すみません、勘違いしてました。自分とこでもインライン入力できませんね...\nfcitxアドオンでXIM(on the spot)はオンにしてます",
+      "user": "U0GFBAM8U",
+      "ts": "1608972562.205000",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "3vOAr",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "すみません、勘違いしてました。自分とこでもインライン入力できませんね...\nfcitxアドオンでXIM(on the spot)はオンにしてます"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "5e52fb21-04ad-4713-8b5a-95ca3eb0aefd",
+      "type": "message",
+      "text": "環境は設定=デフォルト, mozc, i3です。xinitrcは\n```export GTK_IM_MODULE=fcitx\nexport QT_IM_MODULE=fcitx\nexport XMODIFIERS=\"@im=fcitx\"\nexec fcitx5 &amp;```\n$ yay -Qs fcitx\n```local/fcitx5 5.0.3-2 (fcitx5-im)\n    Next generation of fcitx\nlocal/fcitx5-configtool 5.0.1-1 (fcitx5-im)\n    Configuration Tool for Fcitx5\nlocal/fcitx5-gtk 5.0.1-1 (fcitx5-im)\n    Fcitx5 gtk im module and glib based dbus client library\nlocal/fcitx5-mozc 2.26.4220.102.g1882e33-1\n    Fcitx5 Module of A Japanese Input Method for Chromium OS, Windows, Mac and Linux (the Open Source Edition of Google Japanese Input)\nlocal/fcitx5-qt 5.0.1-1 (fcitx5-im)\n    Fcitx5 Qt Library```",
+      "user": "U0GFBAM8U",
+      "ts": "1608971152.203900",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "K9N9g",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "環境は設定=デフォルト, mozc, i3です。xinitrcは\n"
+                }
+              ]
+            },
+            {
+              "type": "rich_text_preformatted",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "export GTK_IM_MODULE=fcitx\nexport QT_IM_MODULE=fcitx\nexport XMODIFIERS=\"@im=fcitx\"\nexec fcitx5 &"
+                }
+              ]
+            },
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "$ yay -Qs fcitx\n"
+                }
+              ]
+            },
+            {
+              "type": "rich_text_preformatted",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "local/fcitx5 5.0.3-2 (fcitx5-im)\n    Next generation of fcitx\nlocal/fcitx5-configtool 5.0.1-1 (fcitx5-im)\n    Configuration Tool for Fcitx5\nlocal/fcitx5-gtk 5.0.1-1 (fcitx5-im)\n    Fcitx5 gtk im module and glib based dbus client library\nlocal/fcitx5-mozc 2.26.4220.102.g1882e33-1\n    Fcitx5 Module of A Japanese Input Method for Chromium OS, Windows, Mac and Linux (the Open Source Edition of Google Japanese Input)\nlocal/fcitx5-qt 5.0.1-1 (fcitx5-im)\n    Fcitx5 Qt Library"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "message",
+      "text": "自分のところでは問題ない感じでした",
+      "files": [
+        {
+          "id": "F01HMJDKQRG",
+          "created": 1608971026,
+          "timestamp": 1608971026,
+          "name": "fcitx5.png",
+          "title": "fcitx5.png",
+          "mimetype": "image/png",
+          "filetype": "png",
+          "pretty_type": "PNG",
+          "user": "U0GFBAM8U",
+          "editable": false,
+          "size": 37368,
+          "mode": "hosted",
+          "is_external": false,
+          "external_type": "",
+          "is_public": true,
+          "public_url_shared": false,
+          "display_as_bot": false,
+          "username": "",
+          "url_private": "https://files.slack.com/files-pri/T0GFBAM8C-F01HMJDKQRG/fcitx5.png",
+          "url_private_download": "https://files.slack.com/files-pri/T0GFBAM8C-F01HMJDKQRG/download/fcitx5.png",
+          "media_display_type": "unknown",
+          "thumb_64": "https://files.slack.com/files-tmb/T0GFBAM8C-F01HMJDKQRG-64ecee8903/fcitx5_64.png",
+          "thumb_80": "https://files.slack.com/files-tmb/T0GFBAM8C-F01HMJDKQRG-64ecee8903/fcitx5_80.png",
+          "thumb_360": "https://files.slack.com/files-tmb/T0GFBAM8C-F01HMJDKQRG-64ecee8903/fcitx5_360.png",
+          "thumb_360_w": 360,
+          "thumb_360_h": 50,
+          "thumb_480": "https://files.slack.com/files-tmb/T0GFBAM8C-F01HMJDKQRG-64ecee8903/fcitx5_480.png",
+          "thumb_480_w": 480,
+          "thumb_480_h": 67,
+          "thumb_160": "https://files.slack.com/files-tmb/T0GFBAM8C-F01HMJDKQRG-64ecee8903/fcitx5_160.png",
+          "thumb_720": "https://files.slack.com/files-tmb/T0GFBAM8C-F01HMJDKQRG-64ecee8903/fcitx5_720.png",
+          "thumb_720_w": 720,
+          "thumb_720_h": 101,
+          "thumb_800": "https://files.slack.com/files-tmb/T0GFBAM8C-F01HMJDKQRG-64ecee8903/fcitx5_800.png",
+          "thumb_800_w": 800,
+          "thumb_800_h": 112,
+          "thumb_960": "https://files.slack.com/files-tmb/T0GFBAM8C-F01HMJDKQRG-64ecee8903/fcitx5_960.png",
+          "thumb_960_w": 960,
+          "thumb_960_h": 135,
+          "thumb_1024": "https://files.slack.com/files-tmb/T0GFBAM8C-F01HMJDKQRG-64ecee8903/fcitx5_1024.png",
+          "thumb_1024_w": 1024,
+          "thumb_1024_h": 144,
+          "original_w": 1184,
+          "original_h": 166,
+          "thumb_tiny": "AwAGADCpn2rR+y23eM/nWaOtatAGWyjzGCjjJApuB6VIf9cf96mnqaAG4HpSqAWA96KVPvr9RQB//9k=",
+          "permalink": "https://archlinuxjp.slack.com/files/U0GFBAM8U/F01HMJDKQRG/fcitx5.png",
+          "permalink_public": "https://slack-files.com/T0GFBAM8C-F01HMJDKQRG-a19408d722",
+          "is_starred": false,
+          "has_rich_preview": false
+        }
+      ],
+      "upload": false,
+      "user": "U0GFBAM8U",
+      "display_as_bot": false,
+      "ts": "1608971045.202600",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "s62e3",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "自分のところでは問題ない感じでした"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "cdfcfdfb-078a-4916-b0c2-b96f3dea74a4",
+      "type": "message",
+      "text": "xinitrcはどんな感じです?",
+      "user": "U0GFBAM8U",
+      "ts": "1608970064.202100",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "ZzL",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "xinitrcはどんな感じです?"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "message",
+      "text": "日本語入力すると\"こんなかんじ\"のところみたいに白いやつが下に表示されてしまうのです",
+      "files": [
+        {
+          "id": "F01H6QHGL9M",
+          "mode": "tombstone"
+        }
+      ],
+      "upload": false,
+      "user": "U019C7VLZ4G",
+      "display_as_bot": false,
+      "ts": "1608968410.201400",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "3h0",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "日本語入力すると\"こんなかんじ\"のところみたいに白いやつが下に表示されてしまうのです"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "13e1338f-542d-4320-8a1c-b7b5bb021a62",
+      "type": "message",
+      "text": "インライン入力はできてはいるのですが、なぜか非インライン入力じに表示されるようなプリインプット画面のようなものが表示されてしまうのです",
+      "user": "U019C7VLZ4G",
+      "ts": "1608967813.200700",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "CPm6K",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "インライン入力はできてはいるのですが、なぜか非インライン入力じに表示されるようなプリインプット画面のようなものが表示されてしまうのです"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "82401c12-9eee-4737-b403-e7f49d907509",
+      "type": "message",
+      "text": "再起動しても変わりませんね…",
+      "user": "U019C7VLZ4G",
+      "ts": "1608967628.197100",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "ycxY5",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "再起動しても変わりませんね…"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "6a9aee5e-a8fe-4f45-878e-98e6afa4f1ea",
+      "type": "message",
+      "text": "```(*'-') &lt; yay -Qs fcitx\nlocal/fcitx5 5.0.3-2 (fcitx5-im)\n    Next generation of fcitx\nlocal/fcitx5-configtool 5.0.1-1 (fcitx5-im)\n    Configuration Tool for Fcitx5\nlocal/fcitx5-gtk 5.0.1-1 (fcitx5-im)\n    Fcitx5 gtk im module and glib based dbus client library\nlocal/fcitx5-qt 5.0.1-1 (fcitx5-im)\n    Fcitx5 Qt Library\nlocal/fcitx5-skk 5.0.2-1\n    libskk wrapper for Fcitx5```\nfcitx5関連パッケージはこれしか入ってないですがchrome/vivaldi他でインライン入力出来てますね…\n私はmozc使ってないので、違いあるとするとmozcの設定があれなのかな\nPC(X or Wayland) 再起動しても変わらずですか？",
+      "user": "U3FJYR7MG",
+      "ts": "1608965019.195500",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "+ZYA",
+          "elements": [
+            {
+              "type": "rich_text_preformatted",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "(*'-') < yay -Qs fcitx\nlocal/fcitx5 5.0.3-2 (fcitx5-im)\n    Next generation of fcitx\nlocal/fcitx5-configtool 5.0.1-1 (fcitx5-im)\n    Configuration Tool for Fcitx5\nlocal/fcitx5-gtk 5.0.1-1 (fcitx5-im)\n    Fcitx5 gtk im module and glib based dbus client library\nlocal/fcitx5-qt 5.0.1-1 (fcitx5-im)\n    Fcitx5 Qt Library\nlocal/fcitx5-skk 5.0.2-1\n    libskk wrapper for Fcitx5"
+                }
+              ]
+            },
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "fcitx5関連パッケージはこれしか入ってないですがchrome/vivaldi他でインライン入力出来てますね…\n私はmozc使ってないので、違いあるとするとmozcの設定があれなのかな\nPC(X or Wayland) 再起動しても変わらずですか？"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "b108b1c9-ac00-460c-9fae-1fe78df62a3d",
+      "type": "message",
+      "text": "この設定を触ってみましたが変わりませんでした",
+      "user": "U019C7VLZ4G",
+      "ts": "1608964241.192700",
+      "team": "T0GFBAM8C",
+      "edited": {
+        "user": "U019C7VLZ4G",
+        "ts": "1608964729.000000"
+      },
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "oMxc",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "この設定を触ってみましたが変わりませんでした"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "message",
+      "text": "これがspotになってないとか…？\n自分は特になったことないな…",
+      "files": [
+        {
+          "id": "F01JBC9010Q",
+          "created": 1608963509,
+          "timestamp": 1608963509,
+          "name": "image.png",
+          "title": "image.png",
+          "mimetype": "image/png",
+          "filetype": "png",
+          "pretty_type": "PNG",
+          "user": "U3FJYR7MG",
+          "editable": false,
+          "size": 18725,
+          "mode": "hosted",
+          "is_external": false,
+          "external_type": "",
+          "is_public": true,
+          "public_url_shared": false,
+          "display_as_bot": false,
+          "username": "",
+          "url_private": "https://files.slack.com/files-pri/T0GFBAM8C-F01JBC9010Q/image.png",
+          "url_private_download": "https://files.slack.com/files-pri/T0GFBAM8C-F01JBC9010Q/download/image.png",
+          "media_display_type": "unknown",
+          "thumb_64": "https://files.slack.com/files-tmb/T0GFBAM8C-F01JBC9010Q-f058c8c3e0/image_64.png",
+          "thumb_80": "https://files.slack.com/files-tmb/T0GFBAM8C-F01JBC9010Q-f058c8c3e0/image_80.png",
+          "thumb_360": "https://files.slack.com/files-tmb/T0GFBAM8C-F01JBC9010Q-f058c8c3e0/image_360.png",
+          "thumb_360_w": 360,
+          "thumb_360_h": 53,
+          "thumb_480": "https://files.slack.com/files-tmb/T0GFBAM8C-F01JBC9010Q-f058c8c3e0/image_480.png",
+          "thumb_480_w": 480,
+          "thumb_480_h": 71,
+          "thumb_160": "https://files.slack.com/files-tmb/T0GFBAM8C-F01JBC9010Q-f058c8c3e0/image_160.png",
+          "thumb_720": "https://files.slack.com/files-tmb/T0GFBAM8C-F01JBC9010Q-f058c8c3e0/image_720.png",
+          "thumb_720_w": 720,
+          "thumb_720_h": 107,
+          "thumb_800": "https://files.slack.com/files-tmb/T0GFBAM8C-F01JBC9010Q-f058c8c3e0/image_800.png",
+          "thumb_800_w": 800,
+          "thumb_800_h": 119,
+          "thumb_960": "https://files.slack.com/files-tmb/T0GFBAM8C-F01JBC9010Q-f058c8c3e0/image_960.png",
+          "thumb_960_w": 960,
+          "thumb_960_h": 143,
+          "thumb_1024": "https://files.slack.com/files-tmb/T0GFBAM8C-F01JBC9010Q-f058c8c3e0/image_1024.png",
+          "thumb_1024_w": 1024,
+          "thumb_1024_h": 152,
+          "original_w": 1246,
+          "original_h": 185,
+          "thumb_tiny": "AwAHADC35Mfofzo8mLuP1p460h607sVkKIIsD5BS+RF/cFPX7opaLsLIj8iL+4KUQxjogFPoouFkf//Z",
+          "permalink": "https://archlinuxjp.slack.com/files/U3FJYR7MG/F01JBC9010Q/image.png",
+          "permalink_public": "https://slack-files.com/T0GFBAM8C-F01JBC9010Q-439b74a20a",
+          "is_starred": false,
+          "has_rich_preview": false
+        }
+      ],
+      "upload": false,
+      "user": "U3FJYR7MG",
+      "display_as_bot": false,
+      "ts": "1608963579.191200",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "7sX",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "これがspotになってないとか…？\n自分は特になったことないな…"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "7d2460e8-abe5-43cf-bd90-1ad2dbb2e941",
+      "type": "message",
+      "text": "fcitx5-imで入れました。imeはfcitx5-mozcを使っています",
+      "user": "U019C7VLZ4G",
+      "ts": "1608963005.190500",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "SZ4b",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "fcitx5-imで入れました。imeはfcitx5-mozcを使っています"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "5eccac65-cd2d-4d5c-89c7-b8f307ba7415",
+      "type": "message",
+      "text": "ちなみにIMEなんですかね？？",
+      "user": "U70QDFN82",
+      "ts": "1608962017.187700",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "E0FVf",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "ちなみにIMEなんですかね？？"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "1765dd5b-c635-4f17-b50a-b7b7622b87da",
+      "type": "message",
+      "text": "忘れ物がないようにこっちで入れたほうがいいです\n`sudo pacman -S fcitx5-im`",
+      "user": "U70QDFN82",
+      "ts": "1608961914.187100",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "pc6nj",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "忘れ物がないようにこっちで入れたほうがいいです\n"
+                },
+                {
+                  "type": "text",
+                  "text": "sudo pacman -S fcitx5-im",
+                  "style": {
+                    "code": true
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "7db24550-6a36-4e45-b969-c47074580da1",
+      "type": "message",
+      "text": "fcitx5-gtkとfcitx5-qtが入っていないからとかですかね？",
+      "user": "U70QDFN82",
+      "ts": "1608961863.186600",
+      "team": "T0GFBAM8C",
+      "edited": {
+        "user": "U70QDFN82",
+        "ts": "1608961956.000000"
+      },
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "R=2q",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "fcitx5-gtkとfcitx5-qtが入っていないからとかですかね？"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "message",
+      "text": "fcitx5にあげたのですがなぜかインライン入力をオンにしているのに、プリエディットの入力画面が表示されてしまうのはなぜなのでしょうか?",
+      "files": [
+        {
+          "id": "F01HMNKUBS7",
+          "mode": "tombstone"
+        }
+      ],
+      "upload": false,
+      "user": "U019C7VLZ4G",
+      "display_as_bot": false,
+      "ts": "1608961610.185600",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "EP/0Q",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "fcitx5にあげたのですがなぜかインライン入力をオンにしているのに、プリエディットの入力画面が表示されてしまうのはなぜなのでしょうか?"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "edited": {
+        "user": "U019C7VLZ4G",
+        "ts": "1608961678.000000"
+      }
+    },
+    {
+      "type": "message",
+      "text": "かなりxfce変わっちゃいましたね",
+      "files": [
+        {
+          "id": "F01HTK65PRS",
+          "created": 1608950370,
+          "timestamp": 1608950370,
+          "name": "image.png",
+          "title": "image.png",
+          "mimetype": "image/png",
+          "filetype": "png",
+          "pretty_type": "PNG",
+          "user": "U01HE1ENNJZ",
+          "editable": false,
+          "size": 422341,
+          "mode": "hosted",
+          "is_external": false,
+          "external_type": "",
+          "is_public": true,
+          "public_url_shared": false,
+          "display_as_bot": false,
+          "username": "",
+          "url_private": "https://files.slack.com/files-pri/T0GFBAM8C-F01HTK65PRS/image.png",
+          "url_private_download": "https://files.slack.com/files-pri/T0GFBAM8C-F01HTK65PRS/download/image.png",
+          "media_display_type": "unknown",
+          "thumb_64": "https://files.slack.com/files-tmb/T0GFBAM8C-F01HTK65PRS-428f89653b/image_64.png",
+          "thumb_80": "https://files.slack.com/files-tmb/T0GFBAM8C-F01HTK65PRS-428f89653b/image_80.png",
+          "thumb_360": "https://files.slack.com/files-tmb/T0GFBAM8C-F01HTK65PRS-428f89653b/image_360.png",
+          "thumb_360_w": 360,
+          "thumb_360_h": 203,
+          "thumb_480": "https://files.slack.com/files-tmb/T0GFBAM8C-F01HTK65PRS-428f89653b/image_480.png",
+          "thumb_480_w": 480,
+          "thumb_480_h": 270,
+          "thumb_160": "https://files.slack.com/files-tmb/T0GFBAM8C-F01HTK65PRS-428f89653b/image_160.png",
+          "thumb_720": "https://files.slack.com/files-tmb/T0GFBAM8C-F01HTK65PRS-428f89653b/image_720.png",
+          "thumb_720_w": 720,
+          "thumb_720_h": 405,
+          "thumb_800": "https://files.slack.com/files-tmb/T0GFBAM8C-F01HTK65PRS-428f89653b/image_800.png",
+          "thumb_800_w": 800,
+          "thumb_800_h": 450,
+          "thumb_960": "https://files.slack.com/files-tmb/T0GFBAM8C-F01HTK65PRS-428f89653b/image_960.png",
+          "thumb_960_w": 960,
+          "thumb_960_h": 540,
+          "thumb_1024": "https://files.slack.com/files-tmb/T0GFBAM8C-F01HTK65PRS-428f89653b/image_1024.png",
+          "thumb_1024_w": 1024,
+          "thumb_1024_h": 576,
+          "original_w": 1920,
+          "original_h": 1080,
+          "thumb_tiny": "AwAbADCpSUtGOKYhKVF3NzwOpPpQVPPTirCSb4ZgVAwowR/KgZV5prZ61J3prdKAHGlH3fxphJzQP60CHnq1IGIyASM8GmtwaTJoAdmkY8Uh6ClYDNAz/9k=",
+          "permalink": "https://archlinuxjp.slack.com/files/U01HE1ENNJZ/F01HTK65PRS/image.png",
+          "permalink_public": "https://slack-files.com/T0GFBAM8C-F01HTK65PRS-277875aa57",
+          "is_starred": false,
+          "has_rich_preview": false
+        }
+      ],
+      "upload": false,
+      "user": "U01HE1ENNJZ",
+      "display_as_bot": false,
+      "ts": "1608950384.183900",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "0cg+8",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "かなりxfce変わっちゃいましたね"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "thread_ts": "1608950384.183900",
+      "reply_count": 2,
+      "reply_users_count": 2,
+      "latest_reply": "1608963474.190600",
+      "reply_users": [
+        "U0GFBAM8U",
+        "U01HE1ENNJZ"
+      ],
+      "is_locked": false,
+      "subscribed": true,
+      "last_read": "1608963474.190600"
+    },
+    {
+      "type": "message",
+      "subtype": "thread_broadcast",
+      "text": "<@U0H9QUFA5> さん（メンションすみません。。。）\nalacrittyの日本語入力に嫌気がさしたんでurxvtに戻ってきたんですけど、urxvt+fcitx5-mozcで変換候補のウィンドウちゃんとカーソルの下に表示されますか？？\n今私は画面の左下に表示されていて・・・",
+      "user": "U70QDFN82",
+      "ts": "1608735488.183000",
+      "thread_ts": "1606705694.024400",
+      "root": {
+        "client_msg_id": "ef500e26-94e2-417b-bfcc-d53dcf3769ea",
+        "type": "message",
+        "text": "まじで！",
+        "user": "U70QDFN82",
+        "ts": "1606705694.024400",
+        "team": "T0GFBAM8C",
+        "blocks": [
+          {
+            "type": "rich_text",
+            "block_id": "wx5WS",
+            "elements": [
+              {
+                "type": "rich_text_section",
+                "elements": [
+                  {
+                    "type": "text",
+                    "text": "まじで！"
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "thread_ts": "1606705694.024400",
+        "reply_count": 33,
+        "reply_users_count": 3,
+        "latest_reply": "1608982803.217400",
+        "reply_users": [
+          "U0H9QUFA5",
+          "U70QDFN82",
+          "U0GFBAM8U"
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1608982803.217400"
+      },
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "DVn",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "user",
+                  "user_id": "U0H9QUFA5"
+                },
+                {
+                  "type": "text",
+                  "text": " さん（メンションすみません。。。）\nalacrittyの日本語入力に嫌気がさしたんでurxvtに戻ってきたんですけど、urxvt+fcitx5-mozcで変換候補のウィンドウちゃんとカーソルの下に表示されますか？？\n今私は画面の左下に表示されていて・・・"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "client_msg_id": "57810f12-9f51-4fa1-ab83-4d429014b13a"
+    },
+    {
+      "type": "message",
+      "subtype": "channel_join",
+      "ts": "1608700625.182900",
+      "user": "U01HE1ENNJZ",
+      "text": "<@U01HE1ENNJZ>さんがチャンネルに参加しました"
+    },
+    {
+      "type": "message",
+      "subtype": "channel_join",
+      "ts": "1608618615.182700",
+      "user": "U01J4CS20TS",
+      "text": "<@U01J4CS20TS>さんがチャンネルに参加しました"
+    },
+    {
+      "type": "message",
+      "subtype": "channel_join",
+      "ts": "1608446199.182500",
+      "user": "U01GW3U59MM",
+      "text": "<@U01GW3U59MM>さんがチャンネルに参加しました"
+    },
+    {
+      "type": "message",
+      "subtype": "channel_join",
+      "ts": "1608381874.182300",
+      "user": "U01GVG16UDV",
+      "text": "<@U01GVG16UDV>さんがチャンネルに参加しました"
+    },
+    {
+      "type": "message",
+      "subtype": "channel_join",
+      "ts": "1608366044.182100",
+      "user": "U01HGA8S2DS",
+      "text": "<@U01HGA8S2DS>さんがチャンネルに参加しました"
+    },
+    {
+      "client_msg_id": "5d773cc7-d12a-4c0f-885f-5fab5e3eb3ab",
+      "type": "message",
+      "text": "svn が頑なにエラー内容を開示しようとしないのが悪い",
+      "user": "U019Y32GS5S",
+      "ts": "1608302590.181900",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "IzW",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "svn が頑なにエラー内容を開示しようとしないのが悪い"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "37945e49-04b6-4c6a-8bba-a0b9dc69acb9",
+      "type": "message",
+      "text": "まあたしかに",
+      "user": "UGA29R3FH",
+      "ts": "1608302564.181400",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "63f",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "まあたしかに"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "28cd9339-b478-49e5-bfad-8ab8393d6ba9",
+      "type": "message",
+      "text": "svn の格闘するのつらくなってきたので、あまり気が進まないけど別マシンで取ってきたリポジトリを丸ごと .cache/yay の該当のところに放り込んだ。進んでるっぽい",
+      "user": "U019Y32GS5S",
+      "ts": "1608302550.181200",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "MwV",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "svn の格闘するのつらくなってきたので、あまり気が進まないけど別マシンで取ってきたリポジトリを丸ごと .cache/yay の該当のところに放り込んだ。進んでるっぽい"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "reactions": [
+        {
+          "name": "tada",
+          "users": [
+            "UGA29R3FH",
+            "U6DL9D3AB"
+          ],
+          "count": 2
+        }
+      ]
+    },
+    {
+      "client_msg_id": "d5aecd3c-a99e-4ca5-9d1f-cc1c9387d2d2",
+      "type": "message",
+      "text": "しなくても困らないと思う",
+      "user": "U019Y32GS5S",
+      "ts": "1608302467.180000",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "zedq",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "しなくても困らないと思う"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "a9fc4d16-c5bb-40e2-b1c6-60c9eeaa03fb",
+      "type": "message",
+      "text": "Subversion、Gitがこいつの正反対を目指したという話を聞いてnot for meだなと思って試してないのだけど一度くらい体験しておいたほうがいいのかしら",
+      "user": "UGA29R3FH",
+      "ts": "1608301698.177200",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "kurFy",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "Subversion、Gitがこいつの正反対を目指したという話を聞いてnot for meだなと思って試してないのだけど一度くらい体験しておいたほうがいいのかしら"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "fff80499-de76-46c3-8726-0711fb7627f7",
+      "type": "message",
+      "text": "ろくにエラーを報告しない Subversion がクソという結論になりそう",
+      "user": "U019Y32GS5S",
+      "ts": "1608301324.176600",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "Kb08",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "ろくにエラーを報告しない Subversion がクソという結論になりそう"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "d3fd05c9-5f73-46fc-81c4-ce8af3140a6c",
+      "type": "message",
+      "text": "ネットワークあたり、ほんと謎現象が発生することありますよね",
+      "user": "U0GFBAM8U",
+      "ts": "1608301255.176200",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "HbT",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "ネットワークあたり、ほんと謎現象が発生することありますよね"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "41861315-e4a3-4270-9b3b-588386f75ee3",
+      "type": "message",
+      "text": "全然関係ないけどVPSでAURパッケージをビルドして手元にパッケージだけ持ってくるというのはたまにやる",
+      "user": "UGA29R3FH",
+      "ts": "1608300395.175300",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "=Rt",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "全然関係ないけどVPSでAURパッケージをビルドして手元にパッケージだけ持ってくるというのはたまにやる"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "b8c72b3f-cda7-41e0-b670-cd683b52cbc0",
+      "type": "message",
+      "text": "せめて svn がもっと詳細なエラーログを吐いてくれれば…",
+      "user": "U019Y32GS5S",
+      "ts": "1608300178.174700",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "7Dcj",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "せめて svn がもっと詳細なエラーログを吐いてくれれば…"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "a27068da-24a1-44d5-9541-5d64f29c7606",
+      "type": "message",
+      "text": "ネットワーク設定あたりのような気がします",
+      "user": "U0GFBAM8U",
+      "ts": "1608300138.174400",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "DcnB",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "ネットワーク設定あたりのような気がします"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "45435968-40ab-4602-9e95-0d68f0840ff9",
+      "type": "message",
+      "text": "Linux マシンでうまく動かない理由がまだ結局わかってない",
+      "user": "U019Y32GS5S",
+      "ts": "1608299936.172900",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "qhDb",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "Linux マシンでうまく動かない理由がまだ結局わかってない"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "9d02239e-6fc1-4e53-8e15-ae8675081776",
+      "type": "message",
+      "text": "お、よかったですねー",
+      "user": "U0GFBAM8U",
+      "ts": "1608299799.172300",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "4YD1C",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "お、よかったですねー"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "d80e6233-c14d-4dc0-9b40-1f519e39264d",
+      "type": "message",
+      "text": "別のマシン(Mac)だとできた…",
+      "user": "U019Y32GS5S",
+      "ts": "1608299042.171900",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "eY4wl",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "別のマシン(Mac)だとできた…"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "reactions": [
+        {
+          "name": "+1",
+          "users": [
+            "U0GFBAM8U",
+            "UGA29R3FH"
+          ],
+          "count": 2
+        }
+      ]
+    },
+    {
+      "client_msg_id": "04778C42-4A37-4218-8072-6455669DFD85",
+      "type": "message",
+      "text": "できたらscpとかすればいいので",
+      "user": "U0GFBAM8U",
+      "ts": "1608298670.171500",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "uvT2",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "できたらscpとかすればいいので"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "2CA28B30-08F1-4B3D-968B-BCDA383128FC",
+      "type": "message",
+      "text": "他のマシンでもサーバーでも試してみてもよさそう",
+      "user": "U0GFBAM8U",
+      "ts": "1608298567.171000",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "90s",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "他のマシンでもサーバーでも試してみてもよさそう"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "16e603d0-4897-4ab8-ac96-030d8198d196",
+      "type": "message",
+      "text": "何度か非力なマシンでビルドできなくてパッケージだけ移して `sudo pacman -U` で問題は起きてないですね、一応（ちゃんとバージョンを追跡してくれる）\nまあ面倒なのは確かですけど",
+      "user": "UVB7L4CKH",
+      "ts": "1608298179.168000",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "SPQ",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "何度か非力なマシンでビルドできなくてパッケージだけ移して "
+                },
+                {
+                  "type": "text",
+                  "text": "sudo pacman -U",
+                  "style": {
+                    "code": true
+                  }
+                },
+                {
+                  "type": "text",
+                  "text": " で問題は起きてないですね、一応（ちゃんとバージョンを追跡してくれる）\nまあ面倒なのは確かですけど"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "9458700a-4316-4268-9b73-af50b9583c5f",
+      "type": "message",
+      "text": "そこまでするなら ffmpeg のバイナリ取ってくるとかもあるので",
+      "user": "U019Y32GS5S",
+      "ts": "1608298131.167100",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "NL1O",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "そこまでするなら ffmpeg のバイナリ取ってくるとかもあるので"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "6126bd8d-0b33-42b6-87cf-63d17613202c",
+      "type": "message",
+      "text": "後々面倒になるので野良インストールは避けたい",
+      "user": "U019Y32GS5S",
+      "ts": "1608298096.166200",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "QyAH",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "後々面倒になるので野良インストールは避けたい"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "5e891b5a-0efb-48c9-a248-507b9deeeafc",
+      "type": "message",
+      "text": "環境ごとの差異はそこまでなさそうだし",
+      "user": "UGA29R3FH",
+      "ts": "1608298087.166000",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "rKet",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "環境ごとの差異はそこまでなさそうだし"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "ec59af39-9f06-4918-b4f6-48625c69d735",
+      "type": "message",
+      "text": "ほかの　svn　はいってる　マシーン",
+      "user": "U019Y32GS5S",
+      "ts": "1608298067.165500",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "m+xB",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "ほかの　svn　はいってる　マシーン"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "8ef140c2-74d0-4d1a-96c6-fe7ab90c3ccf",
+      "type": "message",
+      "text": "というかライセンス問題なければそのビルドしたパッケージをここに上げるという手がありそげ",
+      "user": "UGA29R3FH",
+      "ts": "1608298050.165000",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "D=E2/",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "というかライセンス問題なければそのビルドしたパッケージをここに上げるという手がありそげ"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "87A89ECB-63A5-476C-81B4-1E3F1E995090",
+      "type": "message",
+      "text": "他のマシンとかではどうでしょう\nダメだったらルーターあたり疑わしいかも",
+      "user": "U0GFBAM8U",
+      "ts": "1608298039.164700",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "5tC",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "他のマシンとかではどうでしょう\nダメだったらルーターあたり疑わしいかも"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "b05e79a5-1330-45b2-bdcb-f499793a810e",
+      "type": "message",
+      "text": "コワイ",
+      "user": "U019Y32GS5S",
+      "ts": "1608298029.164500",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "oPW=",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "コワイ"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "9409701f-6300-452e-a34f-a9398aaaae30",
+      "type": "message",
+      "text": "~svn付いてないパッケージを手でsvn付きに変名してインストールするという手を思い付いた~",
+      "user": "UGA29R3FH",
+      "ts": "1608298018.164000",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "HW8",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "svn付いてないパッケージを手でsvn付きに変名してインストールするという手を思い付いた",
+                  "style": {
+                    "strike": true
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "24f68437-2937-482d-b90f-e326ed4f8e7c",
+      "type": "message",
+      "text": "svn クライアントは問題なく動いているように見える",
+      "user": "U019Y32GS5S",
+      "ts": "1608297989.163000",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "3B8ab",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "svn クライアントは問題なく動いているように見える"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "c91546cf-12bc-49f8-885c-da64ca0e0925",
+      "type": "message",
+      "text": "アウトバウンド塞がってる回線に慣れちゃってるので……\n80と443と53にしか出られない回線",
+      "user": "UVB7L4CKH",
+      "ts": "1608297981.162500",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "VbA",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "アウトバウンド塞がってる回線に慣れちゃってるので……\n80と443と53にしか出られない回線"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "reactions": [
+        {
+          "name": "naruhodo",
+          "users": [
+            "UGA29R3FH"
+          ],
+          "count": 1
+        }
+      ]
+    },
+    {
+      "client_msg_id": "b0cd40f5-a13f-4e7f-a775-9020198b9aae",
+      "type": "message",
+      "text": "GitHubそんな機能あったのか",
+      "user": "UGA29R3FH",
+      "ts": "1608297934.161300",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "sV/o",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "GitHubそんな機能あったのか"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "bed4715b-352d-4405-b9da-adf28b43ee36",
+      "type": "message",
+      "text": "それは鯖のポートであってクライアントは別だと思うけど",
+      "user": "UGA29R3FH",
+      "ts": "1608297914.160300",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "6+o",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "それは鯖のポートであってクライアントは別だと思うけど"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "c844e918-d80c-4ca5-8557-5588c662522c",
+      "type": "message",
+      "text": "GitHub の任意のリポジトリが実は svn でアクセスできるのだった。で、ちゃんと checkout できました",
+      "user": "U019Y32GS5S",
+      "ts": "1608297913.160200",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "E8R",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "GitHub の任意のリポジトリが実は svn でアクセスできるのだった。で、ちゃんと checkout できました"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "8abc3ecc-bbd5-4fa8-b952-37268c5c2c88",
+      "type": "message",
+      "text": "```$ grep svn /etc/services\nsvnetworks       2973/tcp\nsvnetworks       2973/udp\nsvnet            3413/tcp\nsvnet            3413/udp\nsvn              3690/tcp\nsvn              3690/udp\nml-svnet         4171/tcp```\nなるほど……",
+      "user": "UVB7L4CKH",
+      "ts": "1608297883.159400",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "a3x",
+          "elements": [
+            {
+              "type": "rich_text_preformatted",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "$ grep svn /etc/services\nsvnetworks       2973/tcp\nsvnetworks       2973/udp\nsvnet            3413/tcp\nsvnet            3413/udp\nsvn              3690/tcp\nsvn              3690/udp\nml-svnet         4171/tcp"
+                }
+              ]
+            },
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "なるほど……"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "9a7e3e3c-f79d-4311-a7b7-dca2f128bae8",
+      "type": "message",
+      "text": "svn自体はsvnなのではって思った <https://svn.apache.org/repos/asf/subversion/>",
+      "user": "UGA29R3FH",
+      "ts": "1608297847.158600",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "Mhek",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "svn自体はsvnなのではって思った "
+                },
+                {
+                  "type": "link",
+                  "url": "https://svn.apache.org/repos/asf/subversion/"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "af2add8d-291c-4875-b986-b1762da7de42",
+      "type": "message",
+      "text": "僕はsvnで落とせてビルドも通ってパッケージが手元に生成されましたね",
+      "user": "UVB7L4CKH",
+      "ts": "1608297749.157500",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "0qbw4",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "僕はsvnで落とせてビルドも通ってパッケージが手元に生成されましたね"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "1b6c48de-fee4-4520-89ff-c05845e7b412",
+      "type": "message",
+      "text": "なんかいい感じのリポジトリあるかな",
+      "user": "U019Y32GS5S",
+      "ts": "1608297719.157000",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "Gy=bC",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "なんかいい感じのリポジトリあるかな"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "2F833573-3279-4B92-8E25-18D814F902D8",
+      "type": "message",
+      "text": "例えば、別のサーバーとかでsvn coとか試してみてはどうでしょう。これによりそのコンピュータの問題かネットワーク全体の問題か判断材料になるかも",
+      "user": "U0GFBAM8U",
+      "ts": "1608297688.156700",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "dH7o0",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "例えば、別のサーバーとかでsvn coとか試してみてはどうでしょう。これによりそのコンピュータの問題かネットワーク全体の問題か判断材料になるかも"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "1e551eb1-3bdb-490c-ab41-9cef5fcfdeb6",
+      "type": "message",
+      "text": ":thinking_face:",
+      "user": "UGA29R3FH",
+      "ts": "1608297674.156200",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "nmo",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "emoji",
+                  "name": "thinking_face",
+                  "unicode": "1f914"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "c2b95c63-8bd3-4dc2-b92d-2f152fee2edc",
+      "type": "message",
+      "text": "`svn -v co` したけどないって言われましたね…",
+      "user": "U019Y32GS5S",
+      "ts": "1608297662.155700",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "Q6s",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "svn -v co",
+                  "style": {
+                    "code": true
+                  }
+                },
+                {
+                  "type": "text",
+                  "text": " したけどないって言われましたね…"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "b5588d0c-4959-40c1-b9a2-45985dc6c732",
+      "type": "message",
+      "text": "verboseもしくはdebugみたいなオプション",
+      "user": "UGA29R3FH",
+      "ts": "1608297657.155300",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "9Yx/",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "verboseもしくはdebugみたいなオプション"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "97ba7cc8-6b34-429a-8ad9-2cdd540a76ce",
+      "type": "message",
+      "text": "svnってverbose的なのってないんでしたっけ",
+      "user": "UGA29R3FH",
+      "ts": "1608297641.154300",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "6KW",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "svnってverbose的なのってないんでしたっけ"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "2e0fb86e-a9f7-496d-bc70-d7cf08829cd4",
+      "type": "message",
+      "text": "DNS は引けてる…はず…少なくとも dig では引けてるし curl も通る",
+      "user": "U019Y32GS5S",
+      "ts": "1608297634.154100",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "kTb",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "DNS は引けてる…はず…少なくとも dig では引けてるし curl も通る"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "5c0c05eb-7269-4ffb-a814-c4732918b6d8",
+      "type": "message",
+      "text": "ですね。メッセージの通りです。",
+      "user": "U019Y32GS5S",
+      "ts": "1608297608.153000",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "Jm8V",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "ですね。メッセージの通りです。"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "E5AD54B3-B2D3-4DB1-8EAD-0B63B708B91B",
+      "type": "message",
+      "text": "接続拒否される感じです?",
+      "user": "U0GFBAM8U",
+      "ts": "1608297497.152700",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "xUBB",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "接続拒否される感じです?"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "993f8e2a-36ab-4834-9082-380a7ee45e7b",
+      "type": "message",
+      "text": "色々調べたけど何もわからないですね…。お手上げ。",
+      "user": "U019Y32GS5S",
+      "ts": "1608297459.152200",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "Vbto",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "色々調べたけど何もわからないですね…。お手上げ。"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "f23fda0e-01ae-4cdf-8592-54edb09f08de",
+      "type": "message",
+      "text": "Tatsumiさんもmakepkgできたと言われてるので、おそらくダウンロード(clone)は成功してるっぽいのかな",
+      "user": "U0GFBAM8U",
+      "ts": "1608296362.151800",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "eA7AY",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "Tatsumiさんもmakepkgできたと言われてるので、おそらくダウンロード(clone)は成功してるっぽいのかな"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "e2bf3841-c443-4d91-b62b-f8fc0bde78a7",
+      "type": "message",
+      "text": "curl でもちゃんとアクセスできるんですけど、curl も何か違ったりしますかね…",
+      "user": "U019Y32GS5S",
+      "ts": "1608296237.150900",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "+jlc",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "curl でもちゃんとアクセスできるんですけど、curl も何か違ったりしますかね…"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "797c33ee-670c-4d09-98c6-5283e3715974",
+      "type": "message",
+      "text": "前にブラウザでは見れるのにgitとかsvnとかのリポジトリ、cloneできないときがあって、resolvでnameserver変えたらいけたような記憶があった気がする",
+      "user": "U0GFBAM8U",
+      "ts": "1608296183.149900",
+      "team": "T0GFBAM8C",
+      "edited": {
+        "user": "U0GFBAM8U",
+        "ts": "1608296232.000000"
+      },
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "8D7+3",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "前にブラウザでは見れるのにgitとかsvnとかのリポジトリ、cloneできないときがあって、resolvでnameserver変えたらいけたような記憶があった気がする"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "c583b8c6-f510-4119-8dca-7080a50bbb82",
+      "type": "message",
+      "text": "なんと。では私の環境か…何がいけなんだろう",
+      "user": "U019Y32GS5S",
+      "ts": "1608296095.148700",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "P/BR",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "なんと。では私の環境か…何がいけなんだろう"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "c0772827-0390-4a83-9ca9-a928c106e858",
+      "type": "message",
+      "text": "私の場合は動きますね",
+      "user": "U0GFBAM8U",
+      "ts": "1608296069.148300",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "RUuuA",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "私の場合は動きますね"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "74279646-cf70-4d9d-98b0-6109a8f0831a",
+      "type": "message",
+      "text": "`svn co <https://source.openmpt.org/svn/openmpt/trunk/OpenMPT>` これちゃんと動く人います?",
+      "user": "U019Y32GS5S",
+      "ts": "1608296002.148100",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "pDc8",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "svn co ",
+                  "style": {
+                    "code": true
+                  }
+                },
+                {
+                  "type": "link",
+                  "url": "https://source.openmpt.org/svn/openmpt/trunk/OpenMPT",
+                  "style": {
+                    "code": true
+                  }
+                },
+                {
+                  "type": "text",
+                  "text": " これちゃんと動く人います?"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "908c58db-74f2-485d-8dcd-a1fea33a168f",
+      "type": "message",
+      "text": "他の人も接続拒否されるんだろうか。されてないなら個人環境ぽい気がする",
+      "user": "U0GFBAM8U",
+      "ts": "1608295952.147700",
+      "team": "T0GFBAM8C",
+      "edited": {
+        "user": "U0GFBAM8U",
+        "ts": "1608295963.000000"
+      },
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "JHJ",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "他の人も接続拒否されるんだろうか。されてないなら個人環境ぽい気がする"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "ac1954f3-6348-4770-b156-02b9a81ae391",
+      "type": "message",
+      "text": "ていうか必要な機能だけ有効にして入れたい。Portage なら簡単にできるのに",
+      "user": "U019Y32GS5S",
+      "ts": "1608295901.147000",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "ko84",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "ていうか必要な機能だけ有効にして入れたい。Portage なら簡単にできるのに"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "71c61be4-309d-4600-b318-0db5ec5b63f0",
+      "type": "message",
+      "text": "パッケージマネージャで入れたい",
+      "user": "U019Y32GS5S",
+      "ts": "1608295840.146500",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "XSxoW",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "パッケージマネージャで入れたい"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "a7c94283-657e-4589-a208-2c1636c82822",
+      "type": "message",
+      "text": "アドレス違うけど公式からリンクされてるやつ",
+      "user": "UGA29R3FH",
+      "ts": "1608295786.146200",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "7PN",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "アドレス違うけど公式からリンクされてるやつ"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "6c03aff9-06be-43ad-bf42-2f5848a03029",
+      "type": "message",
+      "text": "自分はビルドなどしたくないのでしばらくこれ使ってたことがある <https://johnvansickle.com/ffmpeg/|https://johnvansickle.com/ffmpeg/>",
+      "user": "UGA29R3FH",
+      "ts": "1608295758.145600",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "xII",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "自分はビルドなどしたくないのでしばらくこれ使ってたことがある "
+                },
+                {
+                  "type": "link",
+                  "url": "https://johnvansickle.com/ffmpeg/",
+                  "text": "https://johnvansickle.com/ffmpeg/"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "857fc64a-28d8-4c98-b68b-b607e1690521",
+      "type": "message",
+      "text": "なんで head 的なのに依存させてるんだろうなぁ",
+      "user": "U019Y32GS5S",
+      "ts": "1608295744.145100",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "=Qo",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "なんで head 的なのに依存させてるんだろうなぁ"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "93fe2853-9f86-4779-9872-60726ae5a965",
+      "type": "message",
+      "text": "絶対管理できなくなるのでやりたくない…",
+      "user": "U019Y32GS5S",
+      "ts": "1608295714.144500",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "oy9o",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "絶対管理できなくなるのでやりたくない…"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "reactions": [
+        {
+          "name": "sorena",
+          "users": [
+            "UGA29R3FH"
+          ],
+          "count": 1
+        }
+      ]
+    },
+    {
+      "client_msg_id": "50bc19b5-1d14-4201-b114-1cf461259719",
+      "type": "message",
+      "text": "libopenmpt-svnを引っ張ってこようとしているパッケージを手で書き換えるという手もある(つらいやつ)",
+      "user": "UGA29R3FH",
+      "ts": "1608295690.144200",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "W0ts+",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "libopenmpt-svnを引っ張ってこようとしているパッケージを手で書き換えるという手もある(つらいやつ)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "3011f962-90a6-41d4-b4a5-043aada0df90",
+      "type": "message",
+      "text": "svn リポジトリが存在しているのに svn で接続できないのが謎すぎるんだよな",
+      "user": "U019Y32GS5S",
+      "ts": "1608295593.142700",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "MY=",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "svn リポジトリが存在しているのに svn で接続できないのが謎すぎるんだよな"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "fddf4d7e-e525-44cf-9d64-994c82403362",
+      "type": "message",
+      "text": "人が作ってるからどうしてもそんなのがある",
+      "user": "UGA29R3FH",
+      "ts": "1608295545.142300",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "pzaM",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "人が作ってるからどうしてもそんなのがある"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "16742637-9706-4a2d-8eec-3ce140e34bbd",
+      "type": "message",
+      "text": "aur/ffmpeg-full を入れようとしています",
+      "user": "U019Y32GS5S",
+      "ts": "1608295544.142200",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "FXBM",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "aur/ffmpeg-full を入れようとしています"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "has_more": true,
+  "is_limited": false,
+  "pin_count": 0,
+  "channel_actions_ts": null,
+  "channel_actions_count": 0,
+  "response_metadata": {
+    "next_cursor": "bmV4dF90czoxNjA4Mjk1NTI4MTQxNDAw"
+  }
+}

@@ -1,0 +1,2696 @@
+{
+  "ok": true,
+  "latest": "1622549457.000000",
+  "oldest": "1619871057.000000",
+  "messages": [
+    {
+      "client_msg_id": "1b81b949-3c3f-476c-a810-1781d1ac07f0",
+      "type": "message",
+      "text": "yayはlibalpm直接叩いてますからね…\n私はpacmanの更新でバージョン変わると動かなくなる場合があるので予備にTrizenとかも入れてます。",
+      "user": "U017BNGTHT3",
+      "ts": "1622516179.035700",
+      "team": "T0GFBAM8C",
+      "edited": {
+        "user": "U017BNGTHT3",
+        "ts": "1622520527.000000"
+      },
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "/Yq7",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "yayはlibalpm直接叩いてますからね…\n私はpacmanの更新でバージョン変わると動かなくなる場合があるので予備にTrizenとかも入れてます。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "reactions": [
+        {
+          "name": "naruhodo",
+          "users": [
+            "U70QDFN82"
+          ],
+          "count": 1
+        }
+      ]
+    },
+    {
+      "client_msg_id": "08b3e478-975c-44b6-99d4-a9e7cadb133a",
+      "type": "message",
+      "text": "今アップデートすると\n&gt; yay-bin and pacman are in conflict (libalpm.so). \nとかでyay-binが削除されますね。（pacman6対応らしい）\nすでに対応は決まってるみたいなんでちょっとしたらyay-binの方もコンパイルされてアップデートされるっぽいですけど",
+      "user": "U70QDFN82",
+      "ts": "1622515892.034500",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "o5VRp",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "今アップデートすると\n"
+                }
+              ]
+            },
+            {
+              "type": "rich_text_quote",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "yay-bin and pacman are in conflict (libalpm.so). "
+                }
+              ]
+            },
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "とかでyay-binが削除されますね。（pacman6対応らしい）\nすでに対応は決まってるみたいなんでちょっとしたらyay-binの方もコンパイルされてアップデートされるっぽいですけど"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "message",
+      "subtype": "channel_join",
+      "ts": "1622011453.032200",
+      "user": "U022MDL5X1D",
+      "text": "<@U022MDL5X1D>さんがチャンネルに参加しました",
+      "reactions": [
+        {
+          "name": "archjp",
+          "users": [
+            "U01HE1ENNJZ",
+            "U02042L9G10",
+            "U0GFBAM8U",
+            "UGA29R3FH"
+          ],
+          "count": 4
+        }
+      ]
+    },
+    {
+      "type": "message",
+      "subtype": "bot_message",
+      "text": "<https://www.archlinux.jp/news/move-of-official-irc-channels-to-liberachat/|公式 IRC チャンネルの libera.chat への移動>\nここ最近で読んだことのある人もいるかもしれませんが、<https://freenode.net/|freenode.net> ネットワークで所有権に関する論争があります。この IRC ネットワークは Arch Linux と他のたくさんのプロジェクトにより、過去何十年もの間議論とサポートのためのプラットフォームとして使用されてきました。\n論争はほとんどの freenode スタッフのネットワークからの流出を招き、新しいネットワークを立ち上げました: <https://libera.chat/|libera.chat>。\n今日から、Arch Linux とその姉妹プロジェクト <https://archlinuxarm.org/|Arch Linux ARM> と <https://archlinux32.org/|Arch Linux 32> は公式 IRC チャンネルを <http://freenode.net|freenode.net> から libera.chat...",
+      "ts": "1621921064.031600",
+      "username": "Arch Linux: 最近のニュース",
+      "icons": {
+        "image_36": "https://a.slack-edge.com/80588/img/services/rss_36.png",
+        "image_48": "https://a.slack-edge.com/80588/img/services/rss_48.png",
+        "image_72": "https://a.slack-edge.com/80588/img/services/rss_72.png"
+      },
+      "bot_id": "B3WNLSQ4W",
+      "attachments": [
+        {
+          "title": "freenode",
+          "title_link": "https://freenode.net/",
+          "text": "<http://freenode.net|freenode.net> - Supporting Free and Open Source Software Communities since 1998",
+          "fallback": "freenode",
+          "from_url": "https://freenode.net/",
+          "service_icon": "https://freenode.net/static/img/logos/coloured-alphabg-sq-120.png",
+          "service_name": "freenode.net",
+          "id": 1,
+          "original_url": "https://freenode.net/"
+        },
+        {
+          "title": "Libera Chat",
+          "title_link": "https://libera.chat/",
+          "text": "A next-generation IRC network for FOSS projects collaboration!",
+          "fallback": "Libera Chat",
+          "from_url": "https://libera.chat/",
+          "service_icon": "https://libera.chat/favicon.ico",
+          "service_name": "libera.chat",
+          "id": 2,
+          "original_url": "https://libera.chat/"
+        }
+      ],
+      "edited": {
+        "user": "B3WNLSQ4W",
+        "ts": "1621921064.000000"
+      }
+    },
+    {
+      "type": "message",
+      "subtype": "bot_message",
+      "text": "",
+      "ts": "1621920382.031500",
+      "bot_id": "B021YB9R1EG",
+      "attachments": [
+        {
+          "fallback": "<https://twitter.com/archlinux_jp|@archlinux_jp>: 公式 IRC チャンネルの <http://libera.chat> への移動 <https://www.archlinux.jp/news/move-of-official-irc-channels-to-liberachat/>",
+          "ts": 1621920376,
+          "author_name": "Arch Linux JP",
+          "author_link": "https://twitter.com/archlinux_jp/status/1397061434316525573",
+          "author_icon": "https://pbs.twimg.com/profile_images/678900104678342656/2w2dw7Fp_normal.png",
+          "author_subname": "@archlinux_jp",
+          "pretext": "<https://twitter.com/archlinux_jp/status/1397061434316525573>",
+          "text": "公式 IRC チャンネルの <http://libera.chat> への移動 <https://www.archlinux.jp/news/move-of-official-irc-channels-to-liberachat/>",
+          "service_name": "twitter",
+          "service_url": "https://twitter.com/",
+          "from_url": "https://twitter.com/archlinux_jp/status/1397061434316525573",
+          "id": 1,
+          "footer": "Twitter",
+          "footer_icon": "https://a.slack-edge.com/80588/img/services/twitter_pixel_snapped_32.png"
+        }
+      ]
+    },
+    {
+      "type": "message",
+      "subtype": "bot_message",
+      "text": "<https://archlinux.org/news/move-of-official-irc-channels-to-liberachat>\nMove of official IRC channels to libera.chat\nAs some of you may have read over the past days, there has been an ownership dispute over the <http://freenode.net|freenode.net> network. The IRC network has been used by Arch Linux and many other projects over the past decades as a platform for discussion and support.The dispute led to the exodus of most former freenode staff from the network and the founding of a new network: libera.chatStarting today, Arch Linux and its sister projects Arch Linux ARM and Arch Linux 32 will begin migrating the official IRC channels from <http://freenode.net|freenode.net> to libera.chat. Please bear with us as this can take some time to be fully settled in.We thank the freenode community for the many years of great service and collaboration.\n公式IRCチャンネルのlibera.chatへの移動\n過去数日間読んだことがあるかもしれませんが、freenode.netネットワーク上で所有権の争いがありました。 IRCネットワークは、過去数十年にわたってArch Linuxや他の多くのプロジェクトで、ディスカッションとサポートのプラットフォームとして使用されてきました。この論争は、ネットワークからのほとんどの元freenodeスタッフの流出と、新しいネットワークlibera.chatStartingの設立につながりました。本日、ArchLinuxとその姉妹プロジェクトであるArchLinuxARMとArchLinux 32は、公式IRCチャネルをfreenode.netからlibera.chatに移行し始めます。これが完全に解決するまでには時間がかかる場合がありますので、ご容赦ください。長年にわたる素晴らしいサービスとコラボレーションを提供してくれたfreenodeコミュニティに感謝します。",
+      "ts": "1621893657.031000",
+      "username": "webhookbot",
+      "icons": {
+        "emoji": ":arch:"
+      },
+      "bot_id": "BRB5N3W2W"
+    },
+    {
+      "type": "message",
+      "subtype": "bot_message",
+      "text": "<https://archlinux.org/news/move-of-official-irc-channels-to-liberachat/|Move of official IRC channels to libera.chat>\nAs some of you may have read over the past days, there has been an ownership dispute over the <https://freenode.net/|freenode.net> network. The IRC network has been used by Arch Linux and many other projects over the past decades as a platform for discussion and support.\nThe dispute led to the exodus of most former freenode staff from the network and the founding of a new network: <https://libera.chat/|libera.chat>\nStarting today, Arch Linux and its sister projects &lt;a...",
+      "ts": "1621888182.030800",
+      "username": "Arch Linux: Recent news updates",
+      "icons": {
+        "image_36": "https://a.slack-edge.com/80588/img/services/rss_36.png",
+        "image_48": "https://a.slack-edge.com/80588/img/services/rss_48.png",
+        "image_72": "https://a.slack-edge.com/80588/img/services/rss_72.png"
+      },
+      "bot_id": "B3WNLSQ4W",
+      "attachments": [
+        {
+          "title": "freenode",
+          "title_link": "https://freenode.net/",
+          "text": "<http://freenode.net|freenode.net> - Supporting Free and Open Source Software Communities since 1998",
+          "fallback": "freenode",
+          "from_url": "https://freenode.net/",
+          "service_icon": "https://freenode.net/static/img/logos/coloured-alphabg-sq-120.png",
+          "service_name": "freenode.net",
+          "id": 1,
+          "original_url": "https://freenode.net/"
+        },
+        {
+          "title": "Libera Chat",
+          "title_link": "https://libera.chat/",
+          "text": "A next-generation IRC network for FOSS projects collaboration!",
+          "fallback": "Libera Chat",
+          "from_url": "https://libera.chat/",
+          "service_icon": "https://libera.chat/favicon.ico",
+          "service_name": "libera.chat",
+          "id": 2,
+          "original_url": "https://libera.chat/"
+        }
+      ],
+      "edited": {
+        "user": "B3WNLSQ4W",
+        "ts": "1621888183.000000"
+      }
+    },
+    {
+      "client_msg_id": "fae4024d-62f3-4db1-8a4b-78b5354d3e9c",
+      "type": "message",
+      "text": "私ももう次はデュアルブートしないですね。ここ３年でWindowsが必要になったのはClusterってアプリで勉強会があったときの１回くらいなんで。",
+      "user": "U70QDFN82",
+      "ts": "1621872720.030700",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "kMA",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "私ももう次はデュアルブートしないですね。ここ３年でWindowsが必要になったのはClusterってアプリで勉強会があったときの１回くらいなんで。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "reactions": [
+        {
+          "name": "naruhodo",
+          "users": [
+            "UGA29R3FH"
+          ],
+          "count": 1
+        },
+        {
+          "name": "slightly_smiling_face",
+          "users": [
+            "U4V5UCWT0"
+          ],
+          "count": 1
+        }
+      ]
+    },
+    {
+      "client_msg_id": "dc8aa0e3-609d-4814-b299-9e9e009ee15d",
+      "type": "message",
+      "text": "これでデュアルブートという本質でない部分で悩まなくて済む",
+      "user": "UGA29R3FH",
+      "ts": "1621869914.029600",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "kTHL",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "これでデュアルブートという本質でない部分で悩まなくて済む"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "reactions": [
+        {
+          "name": "sorena",
+          "users": [
+            "U53RAQBCP",
+            "U01HE1ENNJZ"
+          ],
+          "count": 2
+        },
+        {
+          "name": "wakaru",
+          "users": [
+            "U70QDFN82",
+            "U53RAQBCP",
+            "U01HE1ENNJZ",
+            "U5W6QDSHZ"
+          ],
+          "count": 4
+        }
+      ]
+    },
+    {
+      "client_msg_id": "e49e87a9-a948-4407-a3c4-1e88461095f0",
+      "type": "message",
+      "text": "もし実Windowsが必要になったら新しいマシン買おうかと思ってるので全部飛ばしたな",
+      "user": "UGA29R3FH",
+      "ts": "1621869850.029000",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "xUw",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "もし実Windowsが必要になったら新しいマシン買おうかと思ってるので全部飛ばしたな"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "message",
+      "subtype": "channel_join",
+      "ts": "1621850074.028200",
+      "user": "U022D4QD18F",
+      "text": "<@U022D4QD18F>さんがチャンネルに参加しました",
+      "reactions": [
+        {
+          "name": "archjp",
+          "users": [
+            "U017BNGTHT3",
+            "U53RAQBCP",
+            "U01HE1ENNJZ"
+          ],
+          "count": 3
+        }
+      ]
+    },
+    {
+      "client_msg_id": "6d43ae69-b30a-4214-a43b-d54fc3bfefaa",
+      "type": "message",
+      "text": "容量とかどうしても切迫しているならlinux側から生のディスクイメージを作って保管してパーティーションは飛ばしちゃおうとかでもありだと思います(Windows8.1以来触ってない顔)",
+      "user": "U53RAQBCP",
+      "ts": "1621842361.028000",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "HDhH",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "容量とかどうしても切迫しているならlinux側から生のディスクイメージを作って保管してパーティーションは飛ばしちゃおうとかでもありだと思います(Windows8.1以来触ってない顔)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "771504bb-bab9-4ce7-aa46-8f06e144e3e8",
+      "type": "message",
+      "text": "Surfaceならドライバの入手とかに困難はないとは思いますけどデフォルトの壁紙とかアプリのセットまで復元できるようにしたければ残したほうがいい感じでしょうね",
+      "user": "U53RAQBCP",
+      "ts": "1621842277.026500",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "o+nRk",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "Surfaceならドライバの入手とかに困難はないとは思いますけどデフォルトの壁紙とかアプリのセットまで復元できるようにしたければ残したほうがいい感じでしょうね"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "a7c070f6-8355-429b-9adf-947d5c3d4b7e",
+      "type": "message",
+      "text": "windows入れてるところにarch入れるとなると、考えなきゃいけないことが多い...",
+      "user": "U0GFBAM8U",
+      "ts": "1621840821.025000",
+      "team": "T0GFBAM8C",
+      "edited": {
+        "user": "U0GFBAM8U",
+        "ts": "1621840842.000000"
+      },
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "E418",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "windows入れてるところにarch入れるとなると、考えなきゃいけないことが多い..."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "b68d3a70-0aec-4eb7-a66a-a1b4cef14b58",
+      "type": "message",
+      "text": "arch入れてからwindows入れるのはいいかもしれませんね。windowsのインストーラーは割と勝手に自動でやってくれますので",
+      "user": "U0GFBAM8U",
+      "ts": "1621840288.024600",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "pW6",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "arch入れてからwindows入れるのはいいかもしれませんね。windowsのインストーラーは割と勝手に自動でやってくれますので"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "7de41de0-c40c-4b57-a56b-92e8c7e382eb",
+      "type": "message",
+      "text": "復元パーティション、そもそもあまり知らないのでとりあえず残しておいてたんですよね。必要性含めて考えてみます。\n\nWindowsはほぼ使ってないのですが、たまに使うAdobe製品のために残してるんですよね..\nノートPC(Surface Laptop2)なのでWineだと高負荷すぎる気がしてWinのままにしています\nデュアルブートにも色々違いがあるんだなぁ...",
+      "user": "UQDJXPHJ9",
+      "ts": "1621837911.023800",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "dyNW5",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "復元パーティション、そもそもあまり知らないのでとりあえず残しておいてたんですよね。必要性含めて考えてみます。\n\nWindowsはほぼ使ってないのですが、たまに使うAdobe製品のために残してるんですよね..\nノートPC(Surface Laptop2)なのでWineだと高負荷すぎる気がしてWinのままにしています\nデュアルブートにも色々違いがあるんだなぁ..."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "53409f32-b367-4b3e-b1b8-3e7ac210aa1f",
+      "type": "message",
+      "text": "最近はsystemd-bootでArch側に管理投げればWindowsのことは何も考えなくて良くなってるらしくデュアルブートには便利になってるみたいですね。友人談",
+      "user": "U53RAQBCP",
+      "ts": "1621821070.018800",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "Sum",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "最近はsystemd-bootでArch側に管理投げればWindowsのことは何も考えなくて良くなってるらしくデュアルブートには便利になってるみたいですね。友人談"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "dc0ff329-5ace-4f63-b139-99e173b58041",
+      "type": "message",
+      "text": "意外とWindows10は大暴れしないのでなんとかなってますね…\n環境によってはなにかまずいのかもしれない。",
+      "user": "U017BNGTHT3",
+      "ts": "1621821063.018600",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "B4Oei",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "意外とWindows10は大暴れしないのでなんとかなってますね…\n環境によってはなにかまずいのかもしれない。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "reactions": [
+        {
+          "name": "naruhodo",
+          "users": [
+            "UPLFHSQ2V",
+            "U01HE1ENNJZ"
+          ],
+          "count": 2
+        }
+      ]
+    },
+    {
+      "client_msg_id": "0dcc0dba-c5c0-497e-8ddd-8429aebb9af0",
+      "type": "message",
+      "text": "へー、なるほど。\n私はArch wikiのこれを見ながらやったので、Windowsを先に入れるのが安牌なのだと思ってました。\n<https://wiki.archlinux.jp/index.php/Windows_%E3%81%A8_Arch_%E3%81%AE%E3%83%87%E3%83%A5%E3%82%A2%E3%83%AB%E3%83%96%E3%83%BC%E3%83%88#.E3.82.A4.E3.83.B3.E3.82.B9.E3.83.88.E3.83.BC.E3.83.AB>",
+      "user": "UPLFHSQ2V",
+      "ts": "1621820967.016500",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "sC3",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "へー、なるほど。\n私はArch wikiのこれを見ながらやったので、Windowsを先に入れるのが安牌なのだと思ってました。\n"
+                },
+                {
+                  "type": "link",
+                  "url": "https://wiki.archlinux.jp/index.php/Windows_%E3%81%A8_Arch_%E3%81%AE%E3%83%87%E3%83%A5%E3%82%A2%E3%83%AB%E3%83%96%E3%83%BC%E3%83%88#.E3.82.A4.E3.83.B3.E3.82.B9.E3.83.88.E3.83.BC.E3.83.AB"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "b971d9b1-42c8-4bf5-bdaa-d374d6d1df05",
+      "type": "message",
+      "text": "うちはArch先に入れてWindows後で突っ込んでますね…\nWindows入れ直しやすい。",
+      "user": "U017BNGTHT3",
+      "ts": "1621820847.016100",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "x67",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "うちはArch先に入れてWindows後で突っ込んでますね…\nWindows入れ直しやすい。"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "37c32661-391d-4879-bade-6620658e05e6",
+      "type": "message",
+      "text": "パーティションまわりめんどくさいので長いことデュアルブートはやめてVMにしてますね...",
+      "user": "U53RAQBCP",
+      "ts": "1621820645.015300",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "vObY",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "パーティションまわりめんどくさいので長いことデュアルブートはやめてVMにしてますね..."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "284217c4-cdc0-4fcf-85aa-2388d04ba0b3",
+      "type": "message",
+      "text": "質問の意図とは外れますが、windowsのインストールディスクとPCメーカーからのドライバがあればクリーンインストールができるので、そもそも復元パーティションの必要性があるのか（？）ということも考えていみてもよいかもしれないですね。特にデュアルブートしていたらなおのこと、復元パーティションを使うと予期せぬことが起きそう。",
+      "user": "UPYQ3CUJ1",
+      "ts": "1621815565.014100",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "jukrJ",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "質問の意図とは外れますが、windowsのインストールディスクとPCメーカーからのドライバがあればクリーンインストールができるので、そもそも復元パーティションの必要性があるのか（？）ということも考えていみてもよいかもしれないですね。特にデュアルブートしていたらなおのこと、復元パーティションを使うと予期せぬことが起きそう。"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "459bc013-06f4-4940-9078-1b32c460b180",
+      "type": "message",
+      "text": "多分それだけです",
+      "user": "U01HE1ENNJZ",
+      "ts": "1621812999.010600",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "A2s0",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "多分それだけです"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "180dc709-7bb2-460e-9227-0a5dc3b2ca76",
+      "type": "message",
+      "text": "前パーティションいじったらwindows側でchkdsk走りました",
+      "user": "U01HE1ENNJZ",
+      "ts": "1621812919.010400",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "0kbw",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "前パーティションいじったらwindows側でchkdsk走りました"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "95a5dabb-e7ef-4adb-931b-4bdd00ae54c3",
+      "type": "message",
+      "text": "上手くいった事例が聞けるのは有り難いです...!(これでも可能なのだなというのが分かったので)\nとりあえず明日フルバックアップ取ってから作業してみます!",
+      "user": "UQDJXPHJ9",
+      "ts": "1621784387.009700",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "lCNId",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "上手くいった事例が聞けるのは有り難いです...!(これでも可能なのだなというのが分かったので)\nとりあえず明日フルバックアップ取ってから作業してみます!"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "reactions": [
+        {
+          "name": "+1",
+          "users": [
+            "U70QDFN82"
+          ],
+          "count": 1
+        }
+      ]
+    },
+    {
+      "client_msg_id": "42239c04-36bc-49f8-b4f7-378a091cd8af",
+      "type": "message",
+      "text": "私はその状況でまさに同じことをやったとこありますけど（Windowsの領域を予想よりも使わなかったので領域を狭めて、移動させて、Linux側にくっつける処理）、そのときはうまく行きました。\nまあ重要なデータあるなら退避してからやったほうが無難ですね・・・",
+      "user": "U70QDFN82",
+      "ts": "1621784201.008500",
+      "team": "T0GFBAM8C",
+      "edited": {
+        "user": "U70QDFN82",
+        "ts": "1621784326.000000"
+      },
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "TLrq",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "私はその状況でまさに同じことをやったとこありますけど（Windowsの領域を予想よりも使わなかったので領域を狭めて、移動させて、Linux側にくっつける処理）、そのときはうまく行きました。\nまあ重要なデータあるなら退避してからやったほうが無難ですね・・・"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "message",
+      "text": "【質問】\nTl;Dr; gpartedで、Windowsとのデュアルブート環境下のArchlinuxから「WIndowsの復元パーティション」を移動することは安全でしょうか？(危険になることがありますでしょうか？)\n---\nWindowsとのデュアルブートをしています。ディスクのパーティションを元々複数に分けていたのですが、この度いくつかのパーティションをgpartedでリサイズ・削除してパーティション数を減らそうとしています。\nですが、一つのパーティションにしてしまいたい二つのパーティションの間に「Windows復元パーティション」が位置してしまってい、くっつけることが出来なくなっています。\n一つにしようとしてた二つのうち、片方のパーティションを空にしてみたところ、gpartedで移動が出来そうな所まで来ました。\nですが、Windowsのシステムが使うパーティションなので迂闊に動かして怖してしまわないかが怖い状況です。",
+      "files": [
+        {
+          "id": "F022SCW69MG",
+          "created": 1621784027,
+          "timestamp": 1621784027,
+          "name": "20210524003313.png",
+          "title": "20210524003313.png",
+          "mimetype": "image/png",
+          "filetype": "png",
+          "pretty_type": "PNG",
+          "user": "UQDJXPHJ9",
+          "editable": false,
+          "size": 6135,
+          "mode": "hosted",
+          "is_external": false,
+          "external_type": "",
+          "is_public": true,
+          "public_url_shared": false,
+          "display_as_bot": false,
+          "username": "",
+          "url_private": "https://files.slack.com/files-pri/T0GFBAM8C-F022SCW69MG/20210524003313.png",
+          "url_private_download": "https://files.slack.com/files-pri/T0GFBAM8C-F022SCW69MG/download/20210524003313.png",
+          "media_display_type": "unknown",
+          "thumb_64": "https://files.slack.com/files-tmb/T0GFBAM8C-F022SCW69MG-dcd198c7c3/20210524003313_64.png",
+          "thumb_80": "https://files.slack.com/files-tmb/T0GFBAM8C-F022SCW69MG-dcd198c7c3/20210524003313_80.png",
+          "thumb_360": "https://files.slack.com/files-tmb/T0GFBAM8C-F022SCW69MG-dcd198c7c3/20210524003313_360.png",
+          "thumb_360_w": 360,
+          "thumb_360_h": 48,
+          "thumb_480": "https://files.slack.com/files-tmb/T0GFBAM8C-F022SCW69MG-dcd198c7c3/20210524003313_480.png",
+          "thumb_480_w": 480,
+          "thumb_480_h": 64,
+          "thumb_160": "https://files.slack.com/files-tmb/T0GFBAM8C-F022SCW69MG-dcd198c7c3/20210524003313_160.png",
+          "original_w": 608,
+          "original_h": 81,
+          "thumb_tiny": "AwAGADC4GTA+Wgsp6DH4UztS1NgHhkHYn8KQspUgDBplFNIBHDEnBxQobPJpx+8aB1pgf//Z",
+          "permalink": "https://archlinuxjp.slack.com/files/UQDJXPHJ9/F022SCW69MG/20210524003313.png",
+          "permalink_public": "https://slack-files.com/T0GFBAM8C-F022SCW69MG-fcd8fb1c01",
+          "is_starred": false,
+          "has_rich_preview": false
+        }
+      ],
+      "upload": false,
+      "user": "UQDJXPHJ9",
+      "display_as_bot": false,
+      "ts": "1621784033.007600",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "3y74o",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "【質問】\nTl;Dr; gpartedで、Windowsとのデュアルブート環境下のArchlinuxから「WIndowsの復元パーティション」を移動することは安全でしょうか？(危険になることがありますでしょうか？)\n---\nWindowsとのデュアルブートをしています。ディスクのパーティションを元々複数に分けていたのですが、この度いくつかのパーティションをgpartedでリサイズ・削除してパーティション数を減らそうとしています。\nですが、一つのパーティションにしてしまいたい二つのパーティションの間に「Windows復元パーティション」が位置してしまってい、くっつけることが出来なくなっています。\n一つにしようとしてた二つのうち、片方のパーティションを空にしてみたところ、gpartedで移動が出来そうな所まで来ました。\nですが、Windowsのシステムが使うパーティションなので迂闊に動かして怖してしまわないかが怖い状況です。"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "message",
+      "subtype": "channel_join",
+      "ts": "1621534062.000700",
+      "user": "U0239ASAFEC",
+      "text": "<@U0239ASAFEC>さんがチャンネルに参加しました"
+    },
+    {
+      "type": "message",
+      "subtype": "channel_join",
+      "ts": "1621381273.000500",
+      "user": "U022BCGBW1Z",
+      "text": "<@U022BCGBW1Z>さんがチャンネルに参加しました"
+    },
+    {
+      "type": "message",
+      "subtype": "channel_join",
+      "ts": "1621314579.000200",
+      "user": "U022WQLA2BA",
+      "text": "<@U022WQLA2BA>さんがチャンネルに参加しました"
+    },
+    {
+      "type": "message",
+      "subtype": "channel_join",
+      "ts": "1621287713.178700",
+      "user": "U021ZBPEPQE",
+      "text": "<@U021ZBPEPQE>さんがチャンネルに参加しました"
+    },
+    {
+      "type": "message",
+      "subtype": "channel_join",
+      "ts": "1621287540.178500",
+      "user": "U021RBMEEET",
+      "text": "<@U021RBMEEET>さんがチャンネルに参加しました"
+    },
+    {
+      "type": "message",
+      "subtype": "channel_join",
+      "ts": "1621260148.178200",
+      "user": "U022AA9JS04",
+      "text": "<@U022AA9JS04>さんがチャンネルに参加しました"
+    },
+    {
+      "client_msg_id": "1c11aef4-9c87-492f-afe1-cff029e62041",
+      "type": "message",
+      "text": "パーミッションが `550` になっているが、(少なくとも最新の)パッケージでは `750` になってますよ、(意図せず変更されていたりしたら)もしかしたら変更しておいた方がいいかもしれません、くらいの話ですね\nまあ一般的にちゃんと動いてたら放置でもいいとは思いますが、warningは出ないようにしておくのがベターではあります",
+      "user": "UUWBU08TU",
+      "ts": "1621157350.177700",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "SE3f",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "パーミッションが "
+                },
+                {
+                  "type": "text",
+                  "text": "550",
+                  "style": {
+                    "code": true
+                  }
+                },
+                {
+                  "type": "text",
+                  "text": " になっているが、(少なくとも最新の)パッケージでは "
+                },
+                {
+                  "type": "text",
+                  "text": "750",
+                  "style": {
+                    "code": true
+                  }
+                },
+                {
+                  "type": "text",
+                  "text": " になってますよ、(意図せず変更されていたりしたら)もしかしたら変更しておいた方がいいかもしれません、くらいの話ですね\nまあ一般的にちゃんと動いてたら放置でもいいとは思いますが、warningは出ないようにしておくのがベターではあります"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "reactions": [
+        {
+          "name": "+1",
+          "users": [
+            "U020MDKG448"
+          ],
+          "count": 1
+        }
+      ]
+    },
+    {
+      "client_msg_id": "7084aec2-a079-439f-a2c5-d2ab4bb020da",
+      "type": "message",
+      "text": "libalpmはパーミッション変更しないですね",
+      "user": "UUWBU08TU",
+      "ts": "1621157194.177500",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "mkJY",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "libalpmはパーミッション変更しないですね"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "30cd3021-19a4-40c7-a178-78d00f916d09",
+      "type": "message",
+      "text": "いいえ: まだ`dr-xr-x---`の通りです",
+      "user": "U020MDKG448",
+      "ts": "1621156892.177300",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "ftuXp",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "いいえ: まだ`dr-xr-x---`の通りです"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "message",
+      "text": "メッセージ的にパッケージによって `/etc/sudoers.d/` のパーミッションが `750` に変更されたってことじゃないですかね。",
+      "user": "U257W41DW",
+      "ts": "1621154446.176100",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "0tU",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "メッセージ的にパッケージによって "
+                },
+                {
+                  "type": "text",
+                  "text": "/etc/sudoers.d/",
+                  "style": {
+                    "code": true
+                  }
+                },
+                {
+                  "type": "text",
+                  "text": " のパーミッションが "
+                },
+                {
+                  "type": "text",
+                  "text": "750",
+                  "style": {
+                    "code": true
+                  }
+                },
+                {
+                  "type": "text",
+                  "text": " に変更されたってことじゃないですかね。"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "cae63be3-21fe-474b-a724-c787321e17db",
+      "type": "message",
+      "text": "話題変更失礼します\n\n```[2021-05-16T15:59:25+0900] [ALPM] warning: directory permissions differ on /etc/sudoers.d/\nfilesystem: 550  package: 750\n[2021-05-16T15:59:25+0900] [ALPM] upgraded sudo (1.9.6.p1-1 -&gt; 1.9.7-1)\n```\nこのwarningはどうすればよろしいのでしょうか?\n文字通りディレクトリのパーミッション変更ですか?\n\n参考\n<https://bbs.archlinux.org/viewtopic.php?id=218133|https://bbs.archlinux.org/viewtopic.php?id=218133>",
+      "user": "U020MDKG448",
+      "ts": "1621153813.175200",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "/igrv",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "話題変更失礼します\n\n"
+                }
+              ]
+            },
+            {
+              "type": "rich_text_preformatted",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "[2021-05-16T15:59:25+0900] [ALPM] warning: directory permissions differ on /etc/sudoers.d/\nfilesystem: 550  package: 750\n[2021-05-16T15:59:25+0900] [ALPM] upgraded sudo (1.9.6.p1-1 -> 1.9.7-1)\n"
+                }
+              ]
+            },
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "\nこのwarningはどうすればよろしいのでしょうか?\n文字通りディレクトリのパーミッション変更ですか?\n\n参考\n"
+                },
+                {
+                  "type": "link",
+                  "url": "https://bbs.archlinux.org/viewtopic.php?id=218133",
+                  "text": "https://bbs.archlinux.org/viewtopic.php?id=218133"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "3C7DF9B9-9E46-4A45-AB8B-09083B170405",
+      "type": "message",
+      "text": "私も今bspwm上のFirefoxでニコニコを日常的に見ているのですが、不安定と感じたことはあまり無いですね。PiPが勝手に起動したという現象もないです。\nただ回線自体が不安定な時は割とモロにその影響を受けた気がします",
+      "user": "U020M0ZLKND",
+      "ts": "1620987918.174800",
+      "team": "T0GFBAM8C",
+      "edited": {
+        "user": "U020M0ZLKND",
+        "ts": "1620988176.000000"
+      },
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "uXm6v",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "私も今bspwm上のFirefoxでニコニコを日常的に見ているのですが、不安定と感じたことはあまり無いですね。PiPが勝手に起動したという現象もないです。\nただ回線自体が不安定な時は割とモロにその影響を受けた気がします"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "0a1e89dd-c22e-4db9-8304-6531d8441a75",
+      "type": "message",
+      "text": "一応、設定は、プライバシーのところでcookie:on,tracking:on,cryptominers:on,fingerprinters:onと全部をonにして、about:configでjavascriptを大体trueにしてます。あと、拡張機能は入れていません。",
+      "user": "U0GFBAM8U",
+      "ts": "1620985904.171100",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "T=oy",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "一応、設定は、プライバシーのところでcookie:on,tracking:on,cryptominers:on,fingerprinters:onと全部をonにして、about:configでjavascriptを大体trueにしてます。あと、拡張機能は入れていません。"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "08ae0a1c-2c21-4bb3-9efc-a714ad380370",
+      "type": "message",
+      "text": "あと、再生したときピクチャインピクチャモードみたいなのが出てきて、i3のウィンドウが新しく立ち上がったのはびっくりした",
+      "user": "U0GFBAM8U",
+      "ts": "1620985675.169900",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "Nt9",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "あと、再生したときピクチャインピクチャモードみたいなのが出てきて、i3のウィンドウが新しく立ち上がったのはびっくりした"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "c16ce4a0-e12f-4762-8ef7-4c9955ae72f5",
+      "type": "message",
+      "text": "ちょっとfirefoxでニコニコを再生してみましたが、今の所は安定してる気がします。\n開発者ツールのnetworkで.tsファイルを追ってみるといいかもしれません。",
+      "user": "U0GFBAM8U",
+      "ts": "1620985555.169000",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "LMh",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "ちょっとfirefoxでニコニコを再生してみましたが、今の所は安定してる気がします。\n開発者ツールのnetworkで.tsファイルを追ってみるといいかもしれません。"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "97f1e0a0-5516-473f-81ec-5df270037cba",
+      "type": "message",
+      "text": "ないです\nchromiumだと上手く再生されます",
+      "user": "U01HE1ENNJZ",
+      "ts": "1620983346.167600",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "0Us",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "ないです\nchromiumだと上手く再生されます"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "1E6C57EC-C353-43A0-AC3D-0036DC1903B1",
+      "type": "message",
+      "text": "そういえばログインしてる時としてない時、不安定さには差はありますか?",
+      "user": "U0GFBAM8U",
+      "ts": "1620965076.166700",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "IDm",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "そういえばログインしてる時としてない時、不安定さには差はありますか?"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "9BACA835-8B40-48BD-B92C-DF0206656574",
+      "type": "message",
+      "text": "(chromiumもあまり自信ないけど",
+      "user": "U0GFBAM8U",
+      "ts": "1620964908.165900",
+      "team": "T0GFBAM8C",
+      "edited": {
+        "user": "U0GFBAM8U",
+        "ts": "1620965246.000000"
+      },
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "De3j",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "(chromiumもあまり自信ないけど"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "779784B2-70E2-40E4-AD61-8B9D4EE62239",
+      "type": "message",
+      "text": "私、firefoxは使ってなくて、chromiunなので、あまりアドバイスできなくて",
+      "user": "U0GFBAM8U",
+      "ts": "1620964854.165200",
+      "team": "T0GFBAM8C",
+      "edited": {
+        "user": "U0GFBAM8U",
+        "ts": "1620965231.000000"
+      },
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "ZNMQ",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "私、firefoxは使ってなくて、chromiunなので、あまりアドバイスできなくて"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "0c68583b-a365-44e9-8bb7-b89e9f9226f9",
+      "type": "message",
+      "text": "<#C0GFH3RHU|random> でfirefoxの話題があったのですがfirefoxでニコ動再生すると不安定なんですが解決策知りませんか？",
+      "user": "U01HE1ENNJZ",
+      "ts": "1620964779.164200",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "W+uxQ",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "channel",
+                  "channel_id": "C0GFH3RHU"
+                },
+                {
+                  "type": "text",
+                  "text": " でfirefoxの話題があったのですがfirefoxでニコ動再生すると不安定なんですが解決策知りませんか？"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "DAF8EDE8-6ADE-4937-8FE8-5BC61AA5D0A9",
+      "type": "message",
+      "text": "最近updateでvirtualbox-guest-utils-noxに置き換えますか、みたいなの出てる人います?",
+      "user": "U0GFBAM8U",
+      "ts": "1620960835.163300",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "YSY",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "最近updateでvirtualbox-guest-utils-noxに置き換えますか、みたいなの出てる人います?"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "message",
+      "subtype": "bot_remove",
+      "text": "このチャンネルのインテグレーションを削除しました : <https://archlinuxjp.slack.com/services/B0Z8Y723Z|twitter>",
+      "user": "U0GFBAM8U",
+      "bot_id": "B0Z8Y723Z",
+      "bot_link": "<https://archlinuxjp.slack.com/services/B0Z8Y723Z|twitter>",
+      "ts": "1620955015.161900"
+    },
+    {
+      "type": "message",
+      "subtype": "bot_remove",
+      "text": "このチャンネルのインテグレーションを削除しました : <https://archlinuxjp.slack.com/services/B01VC2CPWAV|twitter>",
+      "user": "U0GFBAM8U",
+      "bot_id": "B01VC2CPWAV",
+      "bot_link": "<https://archlinuxjp.slack.com/services/B01VC2CPWAV|twitter>",
+      "ts": "1620954750.161800"
+    },
+    {
+      "type": "message",
+      "subtype": "bot_disable",
+      "text": "このチャンネルの以下のインテグレーションを解除しました : <https://archlinuxjp.slack.com/services/B01VC2CPWAV|twitter>",
+      "user": "U0GFBAM8U",
+      "bot_id": "B01VC2CPWAV",
+      "bot_link": "<https://archlinuxjp.slack.com/services/B01VC2CPWAV|twitter>",
+      "ts": "1620954644.161700"
+    },
+    {
+      "type": "message",
+      "subtype": "channel_join",
+      "ts": "1620712633.160400",
+      "user": "U0226V27KA4",
+      "text": "<@U0226V27KA4>さんがチャンネルに参加しました",
+      "reactions": [
+        {
+          "name": "archjp",
+          "users": [
+            "UJ7P75WB1",
+            "U0GFBAM8U",
+            "UGA29R3FH"
+          ],
+          "count": 3
+        }
+      ]
+    },
+    {
+      "type": "message",
+      "subtype": "channel_join",
+      "ts": "1620456526.159800",
+      "user": "U021AN4D6TV",
+      "text": "<@U021AN4D6TV>さんがチャンネルに参加しました",
+      "reactions": [
+        {
+          "name": "archjp",
+          "users": [
+            "U017BNGTHT3",
+            "UGA29R3FH",
+            "UJ7P75WB1",
+            "U0GFBAM8U"
+          ],
+          "count": 4
+        }
+      ]
+    },
+    {
+      "client_msg_id": "ffcde4a7-38c6-49a6-acf2-6e0944a5192f",
+      "type": "message",
+      "text": "現在「後ろの100Gをそのまま残し、前の500G以上でパーティションを作成しそこで再びインストールする」ことを考えています",
+      "user": "U020MDKG448",
+      "ts": "1620358902.159200",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "gyC",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "現在「後ろの100Gをそのまま残し、前の500G以上でパーティションを作成しそこで再びインストールする」ことを考えています"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "d6bc909e-4b37-48ff-9092-6da7f0990aae",
+      "type": "message",
+      "text": "上記のページのコメント欄などで何をしたかを示しました\n現在の状況: sdaの後ろの方に/を移動（100G）、前の500G以上が空いている、移動の際に/usr/binや/usr/libをなくした、他に何かなくしたかもしれない",
+      "user": "U020MDKG448",
+      "ts": "1620358832.159100",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "EU51Y",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "上記のページのコメント欄などで何をしたかを示しました\n現在の状況: sdaの後ろの方に/を移動（100G）、前の500G以上が空いている、移動の際に/usr/binや/usr/libをなくした、他に何かなくしたかもしれない"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "thread_ts": "1620358832.159100",
+      "reply_count": 3,
+      "reply_users_count": 1,
+      "latest_reply": "1620522824.159900",
+      "reply_users": [
+        "U020MDKG448"
+      ],
+      "is_locked": false,
+      "subscribed": false
+    },
+    {
+      "client_msg_id": "6e5824f9-539d-44cf-8704-f821f3a187d9",
+      "type": "message",
+      "text": "その為sda4を元のサイズに戻しました",
+      "user": "U020MDKG448",
+      "ts": "1620345991.159000",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "pAU",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "その為sda4を元のサイズに戻しました"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "4a3c927b-1d2e-4881-b5e2-317de6667169",
+      "type": "message",
+      "text": "が、extensionにしないとそれ以上パーティションは作れないということで、以降これに従おうと: <https://unix.stackexchange.com/a/648429/451199|https://unix.stackexchange.com/a/648429/451199>",
+      "user": "U020MDKG448",
+      "ts": "1620345688.158800",
+      "team": "T0GFBAM8C",
+      "attachments": [
+        {
+          "service_name": "Unix &amp; Linux Stack Exchange",
+          "title": "Is it possible to integrate existing partitions with filesystem?",
+          "title_link": "https://unix.stackexchange.com/a/648429/451199",
+          "text": "# parted /dev/sda print Model: ATA WDC WD7500BPVT-2 (scsi) Disk /dev/sda: 750GB Sector size (logical/physical): 512B/4096B Partition Table: msdos Disk Flags: Number Start End Size Type",
+          "fallback": "Unix &amp; Linux Stack Exchange: Is it possible to integrate existing partitions with filesystem?",
+          "thumb_url": "https://cdn.sstatic.net/Sites/unix/Img/apple-touch-icon@2.png?v=32fb07f7ce26",
+          "from_url": "https://unix.stackexchange.com/a/648429/451199",
+          "thumb_width": 316,
+          "thumb_height": 316,
+          "service_icon": "https://cdn.sstatic.net/Sites/unix/Img/apple-touch-icon.png?v=5cf7fe716a89",
+          "id": 1,
+          "original_url": "https://unix.stackexchange.com/a/648429/451199"
+        }
+      ],
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "/k/VB",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "が、extensionにしないとそれ以上パーティションは作れないということで、以降これに従おうと: "
+                },
+                {
+                  "type": "link",
+                  "url": "https://unix.stackexchange.com/a/648429/451199",
+                  "text": "https://unix.stackexchange.com/a/648429/451199"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "e600832d-8320-4d9f-9d26-45e03aa0f2e3",
+      "type": "message",
+      "text": "今fdiskでsda4のサイズを適切に直しました",
+      "user": "U020MDKG448",
+      "ts": "1620345507.158700",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "hnxD",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "今fdiskでsda4のサイズを適切に直しました"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "9d7ec991-5d23-4813-882b-010f5f8bcf91",
+      "type": "message",
+      "text": "4kブロックなのでx8したサイズにしてみては。",
+      "user": "UUWBU08TU",
+      "ts": "1620313461.158600",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "t5nII",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "4kブロックなのでx8したサイズにしてみては。"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "97883442-9c47-4a26-b1ea-04779a9e32ed",
+      "type": "message",
+      "text": "セクターって512Bだったような",
+      "user": "UUWBU08TU",
+      "ts": "1620313400.158500",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "qBo/",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "セクターって512Bだったような"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "f915fba8-e141-4e59-be8c-f30c14152524",
+      "type": "message",
+      "text": "fsck かけると直るかも。",
+      "user": "UN1SFMNU8",
+      "ts": "1620313397.158400",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "qg0d",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "fsck かけると直るかも。"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "e03901ab-7d41-42fa-8062-e70d48d24ab6",
+      "type": "message",
+      "text": "メタデータ見えてなさそうなので、バックアップがあるならそれを頼ったほうが良さそうですね…。\nグッドラックです。",
+      "user": "U017BNGTHT3",
+      "ts": "1620308548.158000",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "Kqbz",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "メタデータ見えてなさそうなので、バックアップがあるならそれを頼ったほうが良さそうですね…。\nグッドラックです。"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "fcb8d8bf-95f0-4c73-b3ce-23ba7f6512a4",
+      "type": "message",
+      "text": "明日に続きをします",
+      "user": "U020MDKG448",
+      "ts": "1620308380.156900",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "aRn",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "明日に続きをします"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "d0fa0416-6871-4c6c-a5ae-3feefdac6cac",
+      "type": "message",
+      "text": "wrong fs type, bad option, bad superblock on /dev/sda4, missing codepage or helper program, or other error.",
+      "user": "U020MDKG448",
+      "ts": "1620308354.156800",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "6JlKy",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "wrong fs type, bad option, bad superblock on /dev/sda4, missing codepage or helper program, or other error."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "512244a0-b986-4de2-b365-dc866f43231e",
+      "type": "message",
+      "text": "マウントできない場合、エラーメッセージとかって出ましたか？",
+      "user": "U017BNGTHT3",
+      "ts": "1620308067.155700",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "lREk",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "マウントできない場合、エラーメッセージとかって出ましたか？"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "0e3ef996-d6de-4d7a-b0c0-7065f7ce4d8c",
+      "type": "message",
+      "text": "でも、セクター数がぴったり18722376になるようにsda4のパーティションを減らしてもマウントできません",
+      "user": "U020MDKG448",
+      "ts": "1620307335.155100",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "Z1ejO",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "でも、セクター数がぴったり18722376になるようにsda4のパーティションを減らしてもマウントできません"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "cfce95b0-7499-49f7-9232-c084e9833ded",
+      "type": "message",
+      "text": "The filesyste on /dev/sda4 is now 18722376 (4k) blocks long.",
+      "user": "U020MDKG448",
+      "ts": "1620307041.155000",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "cGGEQ",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "The filesyste on /dev/sda4 is now 18722376 (4k) blocks long."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "47bab328-517d-4318-bd0d-9f343d822ffb",
+      "type": "message",
+      "text": "ようやく-Mが完了しました",
+      "user": "U020MDKG448",
+      "ts": "1620307004.154900",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "5A8V",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "ようやく-Mが完了しました"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "c58d7308-2b1b-431e-af6a-50f16656bfa4",
+      "type": "message",
+      "text": "現在: # resize2fs -M /dev/sda4",
+      "user": "U020MDKG448",
+      "ts": "1620304637.153000",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "pMsZ",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "現在: # resize2fs -M /dev/sda4"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "EB58CF68-58E1-43CB-BC33-2CC5BC8105B6",
+      "type": "message",
+      "text": "統合したいパーティションの後ろに続くものをバックアップ後に削除し、統合したいパーティションを拡張する感じ",
+      "user": "U0GFBAM8U",
+      "ts": "1620303991.152900",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "DNU",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "統合したいパーティションの後ろに続くものをバックアップ後に削除し、統合したいパーティションを拡張する感じ"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "c31d9138-3626-43ce-aec2-970e35b66ece",
+      "type": "message",
+      "text": "大事なデータはバックアップとっておくことを忘れずにね。",
+      "user": "UN1SFMNU8",
+      "ts": "1620303990.152800",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "RdUu",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "大事なデータはバックアップとっておくことを忘れずにね。"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "AF93356A-872D-4C42-9370-31C1F2E67580",
+      "type": "message",
+      "text": "gpartedのほうが事故る可能性は低いと思います。\nまた、 <@UN1SFMNU8> さんの手順がパーティション統合する際の一般的な手順だと思います。",
+      "user": "U0GFBAM8U",
+      "ts": "1620303732.150500",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "WNZw",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "gpartedのほうが事故る可能性は低いと思います。\n"
+                },
+                {
+                  "type": "text",
+                  "text": "また、 "
+                },
+                {
+                  "type": "user",
+                  "user_id": "UN1SFMNU8"
+                },
+                {
+                  "type": "text",
+                  "text": " さんの手順がパーティション統合する際の一般的な手順だと思います。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "reactions": [
+        {
+          "name": "+1",
+          "users": [
+            "U020MDKG448"
+          ],
+          "count": 1
+        }
+      ]
+    },
+    {
+      "client_msg_id": "1ffbf602-17f7-49e3-9a6e-c54e287d4375",
+      "type": "message",
+      "text": "まあそれはともかく現在 <@UN1SFMNU8> さんの手順で行おうとしています",
+      "user": "U020MDKG448",
+      "ts": "1620303593.148500",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "gzoLD",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "まあそれはともかく現在 "
+                },
+                {
+                  "type": "user",
+                  "user_id": "UN1SFMNU8"
+                },
+                {
+                  "type": "text",
+                  "text": " さんの手順で行おうとしています"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "7b60383a-86f9-49c4-8a01-f2e06a1a9755",
+      "type": "message",
+      "text": "よく見たらもともとセクター単位でやっていたのにGB単位で丸められ",
+      "user": "U020MDKG448",
+      "ts": "1620303560.148200",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "S3xSf",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "よく見たらもともとセクター単位でやっていたのにGB単位で丸められ"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "aa8e3f23-56cc-46e0-83e6-5862f4b16cc2",
+      "type": "message",
+      "text": "結果sda4がマウントできなくなり",
+      "user": "U020MDKG448",
+      "ts": "1620303414.148100",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "dbJ0+",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "結果sda4がマウントできなくなり"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "1bbc8b6c-1c89-4969-a68f-cbc261a6bfef",
+      "type": "message",
+      "text": "今partedでresizepart 4 650GBとした後ですが",
+      "user": "U020MDKG448",
+      "ts": "1620303221.148000",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "WEI0",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "今partedでresizepart 4 650GBとした後ですが"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "B67809DC-3E8A-487C-A6BC-4AFD7FE3045F",
+      "type": "message",
+      "text": "なので自信ある場合、partedは確かdiskにも入ってたので、そのコマンドで",
+      "user": "U0GFBAM8U",
+      "ts": "1620303122.147900",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "9HYS",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "なので自信ある場合、partedは確かdiskにも入ってたので、そのコマンドで"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "650975DE-26CF-47D8-A04E-F4380E518FED",
+      "type": "message",
+      "text": "まあ操作が簡単ということであって、cliならpartedコマンドとか使えばいけると思います",
+      "user": "U0GFBAM8U",
+      "ts": "1620303056.146800",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "a6iLF",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "まあ操作が簡単ということであって、cliならpartedコマンドとか使えばいけると思います"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "7226ac64-bd78-4f6d-87bb-5b98662c3715",
+      "type": "message",
+      "text": "わざわざネット繋いでXとGParted入れることを面道臭く感じたらダメですか?",
+      "user": "U020MDKG448",
+      "ts": "1620302977.145700",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "JdB",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "わざわざネット繋いでXとGParted入れることを面道臭く感じたらダメですか?"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "9052B1E0-3890-4921-BA03-DAD095CBA8CC",
+      "type": "message",
+      "text": "gpartedならいけそう",
+      "user": "U0GFBAM8U",
+      "ts": "1620302915.145600",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "vNd5",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "gpartedならいけそう"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "a52dc9cf-1fe0-4a9f-9365-a8b12693b558",
+      "type": "message",
+      "text": "MBRで、かつ全てprimaryです。",
+      "user": "U020MDKG448",
+      "ts": "1620302761.145200",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "Dv62",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "MBRで、かつ全てprimaryです。"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "243c9392-ad10-446c-b085-1607734cc78e",
+      "type": "message",
+      "text": "gparted 使うんだったら、\n\n/home を限界まで縮小\n最後尾に 100G のパーティションを作成してフォーマット、 /var, /home をバックアップコピー\n/var, /home を削除、/ を拡張\n/var,/home のバックアップを / へコピー\n最後尾を削除\n/ を拡張\n\nという手順でやることになりますね。",
+      "user": "UN1SFMNU8",
+      "ts": "1620302479.145100",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "ANdSx",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "gparted 使うんだったら、\n\n/home を限界まで縮小\n最後尾に 100G のパーティションを作成してフォーマット、 /var, /home をバックアップコピー\n/var, /home を削除、/ を拡張\n/var,/home のバックアップを / へコピー\n最後尾を削除\n/ を拡張\n\nという手順でやることになりますね。"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "8D7579B3-D6DD-41F3-BAE2-7274E4EA676A",
+      "type": "message",
+      "text": "あと、こういうのも便利かも\n<https://wiki.archlinux.jp/index.php/Systemd-nspawn|https://wiki.archlinux.jp/index.php/Systemd-nspawn>",
+      "user": "U0GFBAM8U",
+      "ts": "1620302382.144700",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "trc",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "あと、こういうのも便利かも\n"
+                },
+                {
+                  "type": "link",
+                  "url": "https://wiki.archlinux.jp/index.php/Systemd-nspawn",
+                  "text": "https://wiki.archlinux.jp/index.php/Systemd-nspawn"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "BE380ACF-BC7B-4074-94CB-22B1D88293F3",
+      "type": "message",
+      "text": "新しいユーザー作って",
+      "user": "U0GFBAM8U",
+      "ts": "1620302036.144200",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "qzq",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "新しいユーザー作って"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "thread_ts": "1620302036.144200",
+      "reply_count": 3,
+      "reply_users_count": 2,
+      "latest_reply": "1620305280.154700",
+      "reply_users": [
+        "UUWBU08TU",
+        "U0GFBAM8U"
+      ],
+      "is_locked": false,
+      "subscribed": true,
+      "last_read": "1620305280.154700"
+    },
+    {
+      "client_msg_id": "6141A583-153A-4011-A785-447F26C2FA0A",
+      "type": "message",
+      "text": "ああ、そういえばそうですね",
+      "user": "U0GFBAM8U",
+      "ts": "1620302016.143900",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "T5uwT",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "ああ、そういえばそうですね"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "3508db0c-a09d-4a46-bcd0-c670e8a9f589",
+      "type": "message",
+      "text": "パーティションいじらずに、全部/homeに入れちゃうのが一番楽かなとは思います",
+      "user": "UUWBU08TU",
+      "ts": "1620301932.143400",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "yGqY",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "パーティションいじらずに、全部/homeに入れちゃうのが一番楽かなとは思います"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "09C487D5-EF72-49EE-8435-A374D8A95226",
+      "type": "message",
+      "text": "この辺り参考になりそう\n<https://wiki.archlinux.jp/index.php/%E6%96%B0%E3%81%97%E3%81%84%E3%83%8F%E3%83%BC%E3%83%89%E3%82%A6%E3%82%A7%E3%82%A2%E3%81%AB%E7%A7%BB%E8%A1%8C%E3%81%99%E3%82%8B%23.E3.83.95.E3.82.A1.E3.82.A4.E3.83.AB.E3.81.AE.E3.82.B3.E3.83.94.E3.83.BC|https://wiki.archlinux.jp/index.php/新しいハードウェアに移行する#.E3.83.95.E3.82.A1.E3.82.A4.E3.83.AB.E3.81.AE.E3.82.B3.E3.83.94.E3.83.BC>",
+      "user": "U0GFBAM8U",
+      "ts": "1620301737.143300",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "fCa",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "この辺り参考になりそう\n"
+                },
+                {
+                  "type": "link",
+                  "url": "https://wiki.archlinux.jp/index.php/%E6%96%B0%E3%81%97%E3%81%84%E3%83%8F%E3%83%BC%E3%83%89%E3%82%A6%E3%82%A7%E3%82%A2%E3%81%AB%E7%A7%BB%E8%A1%8C%E3%81%99%E3%82%8B%23.E3.83.95.E3.82.A1.E3.82.A4.E3.83.AB.E3.81.AE.E3.82.B3.E3.83.94.E3.83.BC",
+                  "text": "https://wiki.archlinux.jp/index.php/新しいハードウェアに移行する#.E3.83.95.E3.82.A1.E3.82.A4.E3.83.AB.E3.81.AE.E3.82.B3.E3.83.94.E3.83.BC"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "28D89002-9508-411F-8F7D-ABB1F9364829",
+      "type": "message",
+      "text": "としてもddでisoにして、コピーすればいけると思う",
+      "user": "U0GFBAM8U",
+      "ts": "1620301558.142900",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "==xQV",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "としてもddでisoにして、コピーすればいけると思う"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "E603BAA1-FD27-43F0-913B-0A93D762F643",
+      "type": "message",
+      "text": "パーティションが分かれてるんです?",
+      "user": "U0GFBAM8U",
+      "ts": "1620301456.142000",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "z8KrO",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "パーティションが分かれてるんです?"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "B3533FE1-D425-401C-BA97-BB74891E4DF4",
+      "type": "message",
+      "text": "原理的には可能です\n権限あたりでめんどくさいことになるかもですが",
+      "user": "U0GFBAM8U",
+      "ts": "1620301409.141400",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "iSZ",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "原理的には可能です\n権限あたりでめんどくさいことになるかもですが"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "53208b32-4b52-4a7e-8ea0-dfa643c891c0",
+      "type": "message",
+      "text": "今Archのならあるしそれで十分じゃないかと考えてはいます\n\nところで「/varと/homeを/に統合する」ことは可能ですか?既にあるデータを残しながらで",
+      "user": "U020MDKG448",
+      "ts": "1620301218.140600",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "syxTo",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "今Archのならあるしそれで十分じゃないかと考えてはいます\n\nところで「/varと/homeを/に統合する」ことは可能ですか?既にあるデータを残しながらで"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "A81BE448-204D-4187-943D-00C1864FA985",
+      "type": "message",
+      "text": "環境がネットにつながりにくいなら、自宅でlive作って持ってけばいいし",
+      "user": "U0GFBAM8U",
+      "ts": "1620300992.140500",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "uScVl",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "環境がネットにつながりにくいなら、自宅でlive作って持ってけばいいし"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "EF19DAA1-585F-4725-AFFE-E46F81C8592B",
+      "type": "message",
+      "text": "<@U017BNGTHT3> さんが言われてるようにgpartedが入ったlive osを使うのも手っ取り早くていいかもしれませんね",
+      "user": "U0GFBAM8U",
+      "ts": "1620300935.139600",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "zLiW",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "user",
+                  "user_id": "U017BNGTHT3"
+                },
+                {
+                  "type": "text",
+                  "text": " さんが言われてるようにgpartedが入ったlive osを使うのも手っ取り早くていいかもしれませんね"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "4067FF96-5AA2-49E2-8913-35BA3767978E",
+      "type": "message",
+      "text": "いや、不適切ではありません。\npacmanもgpartedもどちらも使えますよ。gparはxの構築とインストール必要ですが",
+      "user": "U0GFBAM8U",
+      "ts": "1620300858.138000",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "rl8+",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "いや、不適切ではありません。\npacmanもgpartedもどちらも使えますよ。gparはxの構築とインストール必要ですが"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "8fbff831-f74d-4274-b914-c6385bbebb9f",
+      "type": "message",
+      "text": "ArchのLive環境では不適切なのでしょうか?",
+      "user": "U020MDKG448",
+      "ts": "1620300576.136400",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "xvr",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "ArchのLive環境では不適切なのでしょうか?"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "ab97f46f-5a10-411a-80e5-0041aff77bff",
+      "type": "message",
+      "text": "翌日に",
+      "user": "U020MDKG448",
+      "ts": "1620300153.136300",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "FH1fT",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "翌日に"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "b04bf984-f1f6-4eaf-a9c5-3d8e174f86bc",
+      "type": "message",
+      "text": "301ってリダイレクトだった気が？ `curl` じゃなくて `curl -L` にしてみたらどうでしょう",
+      "user": "UUWBU08TU",
+      "ts": "1620299753.136200",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "42q2K",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "301ってリダイレクトだった気が？ "
+                },
+                {
+                  "type": "text",
+                  "text": "curl",
+                  "style": {
+                    "code": true
+                  }
+                },
+                {
+                  "type": "text",
+                  "text": " じゃなくて "
+                },
+                {
+                  "type": "text",
+                  "text": "curl -L",
+                  "style": {
+                    "code": true
+                  }
+                },
+                {
+                  "type": "text",
+                  "text": " にしてみたらどうでしょう"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "d0c4379c-49a3-4418-9156-a59bc959e1a6",
+      "type": "message",
+      "text": "家庭では-Syuも-Sもできます",
+      "user": "U020MDKG448",
+      "ts": "1620299591.136100",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "OODb",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "家庭では-Syuも-Sもできます"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "38493433-3fef-4c5f-9d0f-67ed1800b2fa",
+      "type": "message",
+      "text": "&gt; gparted\nLiveDVD/LiveUSB環境持ってると何かあった時に便利かもです。\nもしパッケージ入れられないけどGparted LiveだけDLできる状態ならその手もありですね。\n見た感じだと単にネット遅いだけ説が濃厚ですが…",
+      "user": "U017BNGTHT3",
+      "ts": "1620299299.136000",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "VBI7",
+          "elements": [
+            {
+              "type": "rich_text_quote",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "gparted"
+                }
+              ]
+            },
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "LiveDVD/LiveUSB環境持ってると何かあった時に便利かもです。\nもしパッケージ入れられないけどGparted LiveだけDLできる状態ならその手もありですね。\n見た感じだと単にネット遅いだけ説が濃厚ですが…"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "cb0b17e9-b50d-4f3a-91ad-2bd77db55ed2",
+      "type": "message",
+      "text": "どこかの研究室などの環境でやっているのであれば、プロキシ設定やルーターのファイヤーウォール等も確認してみるといいかもしれません。",
+      "user": "U01QTK2CP3K",
+      "ts": "1620297456.134000",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "oq0",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "どこかの研究室などの環境でやっているのであれば、プロキシ設定やルーターのファイヤーウォール等も確認してみるといいかもしれません。"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "has_more": true,
+  "is_limited": false,
+  "pin_count": 16,
+  "channel_actions_ts": null,
+  "channel_actions_count": 0,
+  "response_metadata": {
+    "next_cursor": "bmV4dF90czoxNjIwMjY0NjM0MTI4MzAw"
+  }
+}

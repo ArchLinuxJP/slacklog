@@ -1,0 +1,1229 @@
+{
+  "ok": true,
+  "latest": "1593605448.000000",
+  "oldest": "1591013448.000000",
+  "messages": [
+    {
+      "type": "message",
+      "subtype": "channel_join",
+      "ts": "1593002796.346000",
+      "user": "U015XHP3NPP",
+      "text": "<@U015XHP3NPP>さんがチャンネルに参加しました"
+    },
+    {
+      "client_msg_id": "9b596ebb-83a4-446d-8248-b977b79df11d",
+      "type": "message",
+      "text": "ダウングレードは伝統的な解決策なので問題ない(?) <https://wiki.archlinux.jp/index.php/%E3%83%91%E3%83%83%E3%82%B1%E3%83%BC%E3%82%B8%E3%81%AE%E3%83%80%E3%82%A6%E3%83%B3%E3%82%B0%E3%83%AC%E3%83%BC%E3%83%89>",
+      "user": "UGA29R3FH",
+      "ts": "1592982087.345600",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "Yylo",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "ダウングレードは伝統的な解決策なので問題ない(?) "
+                },
+                {
+                  "type": "link",
+                  "url": "https://wiki.archlinux.jp/index.php/%E3%83%91%E3%83%83%E3%82%B1%E3%83%BC%E3%82%B8%E3%81%AE%E3%83%80%E3%82%A6%E3%83%B3%E3%82%B0%E3%83%AC%E3%83%BC%E3%83%89"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "reactions": [
+        {
+          "name": "u5408",
+          "users": [
+            "UAPRYSVPS",
+            "UGMP1THLJ"
+          ],
+          "count": 2
+        }
+      ]
+    },
+    {
+      "client_msg_id": "fac787b4-190e-47f9-ad16-5b929e319409",
+      "type": "message",
+      "text": "Windowsマシン上でvmware workstation playerにてArchを動かしていますが、カーネル5.7.4にするとマルチディスプレイ時に画面が真っ黒になるという現象が出ました。open-vm-toolsのissueに報告が有り、カーネルを5.6まで落とすと解決(と言って良いのか)すると教えて頂き、確かに回避出来ました。ご参考まで〜\n<https://github.com/vmware/open-vm-tools/issues/439#issuecomment-648330534|Black Screen when using multible monitors. · Issue #439 · vmware/open-vm-tools>",
+      "user": "UFH97AR3Q",
+      "ts": "1592981749.345000",
+      "team": "T0GFBAM8C",
+      "attachments": [
+        {
+          "service_name": "GitHub",
+          "title": "Black Screen when using multible monitors.  · Issue #439 · vmware/open-vm-tools",
+          "title_link": "https://github.com/vmware/open-vm-tools/issues/439#issuecomment-648330534",
+          "text": "I can no longer use multiple monitors. Autofit works for one screen, but If I select &amp;quot;choose a monitor layout&amp;quot; -&gt; &amp;quot;layout &lt;2 or 3&gt;&amp;quot; to use more than one monitor the scr...",
+          "fallback": "GitHub: Black Screen when using multible monitors.  · Issue #439 · vmware/open-vm-tools",
+          "thumb_url": "https://avatars2.githubusercontent.com/u/473334?s=400&v=4",
+          "from_url": "https://github.com/vmware/open-vm-tools/issues/439#issuecomment-648330534",
+          "thumb_width": 400,
+          "thumb_height": 400,
+          "service_icon": "https://a.slack-edge.com/80588/img/unfurl_icons/github.png",
+          "id": 1,
+          "original_url": "https://github.com/vmware/open-vm-tools/issues/439#issuecomment-648330534"
+        }
+      ],
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "Epe",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "Windowsマシン上でvmware workstation playerにてArchを動かしていますが、カーネル5.7.4にするとマルチディスプレイ時に画面が真っ黒になるという現象が出ました。open-vm-toolsのissueに報告が有り、カーネルを5.6まで落とすと解決(と言って良いのか)すると教えて頂き、確かに回避出来ました。ご参考まで〜\n"
+                },
+                {
+                  "type": "link",
+                  "url": "https://github.com/vmware/open-vm-tools/issues/439#issuecomment-648330534",
+                  "text": "Black Screen when using multible monitors. · Issue #439 · vmware/open-vm-tools"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "reactions": [
+        {
+          "name": "+1",
+          "users": [
+            "UGA29R3FH",
+            "U3FJYR7MG",
+            "UJ7P75WB1",
+            "U5W6QDSHZ"
+          ],
+          "count": 4
+        }
+      ]
+    },
+    {
+      "type": "message",
+      "subtype": "channel_join",
+      "ts": "1592496478.341400",
+      "user": "U0157SGD26B",
+      "text": "<@U0157SGD26B>さんがチャンネルに参加しました"
+    },
+    {
+      "client_msg_id": "c1418d87-9a2a-4da5-9399-5c96041ddf25",
+      "type": "message",
+      "text": "設定とかによるかもしれないのでわかりませんが……。",
+      "user": "UUWBU08TU",
+      "ts": "1592470743.340300",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "viM",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "設定とかによるかもしれないのでわかりませんが……。"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "715bb7e9-a54a-4ec7-babf-a1d7951b929c",
+      "type": "message",
+      "text": "↑bash で試したら展開されなかったのでー、ということでした",
+      "user": "UUWBU08TU",
+      "ts": "1592470720.339700",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "axYa",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "↑bash で試したら展開されなかったのでー、ということでした"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "reactions": [
+        {
+          "name": "astonished",
+          "users": [
+            "U53RAQBCP"
+          ],
+          "count": 1
+        }
+      ]
+    },
+    {
+      "client_msg_id": "51744CF6-6693-46B8-BAB7-3295869372B1",
+      "type": "message",
+      "text": "当てずっぽうで言ってしまった",
+      "user": "U53RAQBCP",
+      "ts": "1592470670.338800",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "Bie",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "当てずっぽうで言ってしまった"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "93F84AA6-A9D5-4D34-A485-771C362294C2",
+      "type": "message",
+      "text": "あー、たしかに…",
+      "user": "U53RAQBCP",
+      "ts": "1592470649.338400",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "snSyN",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "あー、たしかに…"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "9f7c1846-07e4-4d29-9f7b-85b090d3878b",
+      "type": "message",
+      "text": "`\"*\"` って展開されないんですね、ダブルクオートなので展開されるイメージがありました……",
+      "user": "UUWBU08TU",
+      "ts": "1592465464.338100",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "5J3TG",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "\"*\"",
+                  "style": {
+                    "code": true
+                  }
+                },
+                {
+                  "type": "text",
+                  "text": " って展開されないんですね、ダブルクオートなので展開されるイメージがありました……"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "198d17dd-563d-4773-9c80-1aec645702bf",
+      "type": "message",
+      "text": "`\\*` で `*` をエスケープしてるから `\"*\"`  と同値になるだけな気がしますね",
+      "user": "U53RAQBCP",
+      "ts": "1592438289.337100",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "GQzUa",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "\\*",
+                  "style": {
+                    "code": true
+                  }
+                },
+                {
+                  "type": "text",
+                  "text": " で "
+                },
+                {
+                  "type": "text",
+                  "text": "*",
+                  "style": {
+                    "code": true
+                  }
+                },
+                {
+                  "type": "text",
+                  "text": " をエスケープしてるから "
+                },
+                {
+                  "type": "text",
+                  "text": "\"*\"",
+                  "style": {
+                    "code": true
+                  }
+                },
+                {
+                  "type": "text",
+                  "text": "  と同値になるだけな気がしますね"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "F42E489C-DB21-4BCE-9AE0-6A6C99C22FE6",
+      "type": "message",
+      "text": "なるほど",
+      "user": "U0GFBAM8U",
+      "ts": "1592187903.334300",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "1Z9X",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "なるほど"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "d8facb6c-f380-49ae-9006-76a44e158692",
+      "type": "message",
+      "text": "そうです～\nただいつも特定のディレクトリ以下(`/usr/lib/\\*` とか)なので、`/\\*` とかが正しいのかもしれないですね",
+      "user": "UUWBU08TU",
+      "ts": "1592187860.334100",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "fqc",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "そうです～\nただいつも特定のディレクトリ以下("
+                },
+                {
+                  "type": "text",
+                  "text": "/usr/lib/\\*",
+                  "style": {
+                    "code": true
+                  }
+                },
+                {
+                  "type": "text",
+                  "text": " とか)なので、"
+                },
+                {
+                  "type": "text",
+                  "text": "/\\*",
+                  "style": {
+                    "code": true
+                  }
+                },
+                {
+                  "type": "text",
+                  "text": " とかが正しいのかもしれないですね"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "07B2AEE2-9DE6-4806-A93F-AB0627B36050",
+      "type": "message",
+      "text": "バックスラッシュだけというのは、\n--overwrite \\*\nこれです?",
+      "user": "U0GFBAM8U",
+      "ts": "1592187759.331900",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "YM3/",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "バックスラッシュだけというのは、\n"
+                },
+                {
+                  "type": "text",
+                  "text": "--overwrite \\*\n"
+                },
+                {
+                  "type": "text",
+                  "text": "これです?"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "C04FBA7D-874B-4696-A730-AC3FA62C3A26",
+      "type": "message",
+      "text": "<@UUWBU08TU> さんの情報、ニュースに的確すぎて自然に出てくる説",
+      "user": "U0GFBAM8U",
+      "ts": "1592187636.330800",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "dVIhJ",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "user",
+                  "user_id": "UUWBU08TU"
+                },
+                {
+                  "type": "text",
+                  "text": " さんの情報、ニュースに的確すぎて自然に出てくる説"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "39b93b05-c56c-4a22-8b94-472a868df851",
+      "type": "message",
+      "text": "Archのニュースでそうなってたと思うので……と思ったら、あちらはクオートなしでバックスラッシュでした",
+      "user": "UUWBU08TU",
+      "ts": "1592187446.329700",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "b225v",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "Archのニュースでそうなってたと思うので……と思ったら、あちらはクオートなしでバックスラッシュでした"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "94592ACD-F880-410F-946A-E61698D48D7B",
+      "type": "message",
+      "text": "あ、そうだったんですか\nありがとうございます！",
+      "user": "U0GFBAM8U",
+      "ts": "1592187114.328200",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "RmQ",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "あ、そうだったんですか\nありがとうございます！"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "796f4499-08f2-42be-93c4-844d8f3ce781",
+      "type": "message",
+      "text": "シングルクォートで囲めば展開されないですね",
+      "user": "U0J2VATJA",
+      "ts": "1592187051.327700",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "L/aDF",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "シングルクォートで囲めば展開されないですね"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "51333678-1344-4d90-89a0-d6e338c90b5a",
+      "type": "message",
+      "text": "`\"\\*\"` じゃないといけないような気がします……(それだとカレントディレクトリの内容がシェルに展開されていそうなので)",
+      "user": "UUWBU08TU",
+      "ts": "1592186929.327300",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "eSpft",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "\"\\*\"",
+                  "style": {
+                    "code": true
+                  }
+                },
+                {
+                  "type": "text",
+                  "text": " じゃないといけないような気がします……(それだとカレントディレクトリの内容がシェルに展開されていそうなので)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "e4ae7f35-ceb5-478e-86ed-3649d3a2d1e5",
+      "type": "message",
+      "text": "そういえば、この前、archが壊れたんですが、原因は、ffmpegで入ってるライブラリが原因で、いくつかのライブラリファイルは存在しているけど0バイトだったんですよね。\nで、インストールし直そうと思ったんですけど、pacmanで既にファイルがあるとか言われちゃって、こういったとき、手軽に上書きする方法ってありますかね\n`--overwrite \"*\"` とかも試したんですが、どうもうまく行かなかったようで、手動でファイルを削除して再インストールしたんですけど、流石にいつも手動でやるのめんどくさくて",
+      "user": "U0GFBAM8U",
+      "ts": "1592186607.325400",
+      "team": "T0GFBAM8C",
+      "edited": {
+        "user": "U0GFBAM8U",
+        "ts": "1592186711.000000"
+      },
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "nE58=",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "そういえば、この前、archが壊れたんですが、原因は、ffmpegで入ってるライブラリが原因で、いくつかのライブラリファイルは存在しているけど0バイトだったんですよね。\nで、インストールし直そうと思ったんですけど、pacmanで既にファイルがあるとか言われちゃって、こういったとき、手軽に上書きする方法ってありますかね\n"
+                },
+                {
+                  "type": "text",
+                  "text": "--overwrite \"*\"",
+                  "style": {
+                    "code": true
+                  }
+                },
+                {
+                  "type": "text",
+                  "text": " とかも試したんですが、どうもうまく行かなかったようで、手動でファイルを削除して再インストールしたんですけど、流石にいつも手動でやるのめんどくさくて"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "326D71DE-2DF5-482D-8E19-3565CCB5DAA2",
+      "type": "message",
+      "text": "nvidiaパッケージは重要",
+      "user": "U0GFBAM8U",
+      "ts": "1592185874.322600",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "4ik",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "nvidiaパッケージは重要"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "82B0D66A-7DED-4184-B3A4-A6C565DDC0A3",
+      "type": "message",
+      "text": "たぶん`nvidia` パッケージを入れれば万事解決なします &gt; グラボについて",
+      "user": "U0HJ7EB9T",
+      "ts": "1592185831.322000",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "a0dW",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "たぶん"
+                },
+                {
+                  "type": "text",
+                  "text": "`nvidia` パッケージを"
+                },
+                {
+                  "type": "text",
+                  "text": "入れれば万事解決なします"
+                },
+                {
+                  "type": "text",
+                  "text": " > "
+                },
+                {
+                  "type": "text",
+                  "text": "グラボについて"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "f1c5caa4-d0f4-41c5-a06c-752109bed814",
+      "type": "message",
+      "text": "わかりました、ありがとうございます！",
+      "user": "UFZJ1RH3Q",
+      "ts": "1592185775.321200",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "R3a+J",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "わかりました、ありがとうございます！"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "reactions": [
+        {
+          "name": "+1",
+          "users": [
+            "U0GFBAM8U"
+          ],
+          "count": 1
+        }
+      ]
+    },
+    {
+      "client_msg_id": "158E9BA7-3428-45AA-BADB-03EB170955BC",
+      "type": "message",
+      "text": "ただ、linux全般がわりとそうなんですが、トラブル、これが動かないとかは結構出てくると思います。\nこう言ったトラブルを含めてやってみるとたまに詳しくなっちったりで悪いことばかりでもないと思います。\nということでやってみるのも楽しいかも",
+      "user": "U0GFBAM8U",
+      "ts": "1592185743.320800",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "pn7lI",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "ただ、linux全般がわりとそうなんですが、トラブル、これが動かないとかは結構出てくると思います。\nこう言ったトラブルを含めてやってみるとたまに詳しくなっちったりで悪いことばかりでもないと思います。\nということでやってみるのも楽しいかも"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "3771a909-42d9-42dc-bb92-8a8c1fab8af6",
+      "type": "message",
+      "text": "正直、入ってるグラボが鬼門っぽいと思う以外は普通に動きそうですね ＞ゲーミングノート",
+      "user": "U0PM6EYR1",
+      "ts": "1592185726.320200",
+      "team": "T0GFBAM8C",
+      "edited": {
+        "user": "U0PM6EYR1",
+        "ts": "1592185734.000000"
+      },
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "BZzT",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "正直、入ってるグラボが鬼門っぽいと思う以外は普通に動きそうですね ＞ゲーミングノート"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "76ec9d88-2b5e-4496-b1be-63cdade7e204",
+      "type": "message",
+      "text": "最近は他用途があるならだいぶLinuxオンリーな環境って必要がなくなってきている感はありますよね。（まあ私はWindowsが一枚噛んでるのが嫌なんで絶対Linuxにしますが・・・）",
+      "user": "U70QDFN82",
+      "ts": "1592185616.317600",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "OCNf",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "最近は他用途があるならだいぶLinuxオンリーな環境って必要がなくなってきている感はありますよね。（まあ私はWindowsが一枚噛んでるのが嫌なんで絶対Linuxにしますが・・・）"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "1231ABF0-B01E-4E06-B056-AA26EDBC2E71",
+      "type": "message",
+      "text": "個人的にはよくわからないマシンに試行錯誤してArch入れるのも面白い経験だとは思いますけどね！",
+      "user": "U0HJ7EB9T",
+      "ts": "1592185511.314700",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "ZGXEz",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "個人的にはよくわからないマシンに試行錯誤して"
+                },
+                {
+                  "type": "text",
+                  "text": "Arch"
+                },
+                {
+                  "type": "text",
+                  "text": "入れるのも面白い経験だとは思いますけどね！"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "fd14b078-270e-4f95-bf03-2866b6fb65ca",
+      "type": "message",
+      "text": "巷の噂を聞くとWSL2とかでも十分な感じしますね。",
+      "user": "U70QDFN82",
+      "ts": "1592185482.313300",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "cvO/",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "巷の噂を聞くとWSL2とかでも十分な感じしますね。"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "4737DCE1-AF8F-4D98-BC4B-49556C046E2A",
+      "type": "message",
+      "text": "なるほど\nまずはvirtualboxとかで動かしてみるといいかもです。とはいえ本番とは結構違いますけど、どんな感じかは掴めるかも。\n",
+      "user": "U0GFBAM8U",
+      "ts": "1592185482.313200",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "2xW",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "なるほど\nまずはvirtualboxとかで動かしてみるといいかもです。とはいえ本番とは結構違いますけど、どんな感じかは掴めるかも。\n"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "d9275305-7d40-46c8-8618-fb72075556c1",
+      "type": "message",
+      "text": "ゲームやるならLinuxはおすすめしないですが・・・ゲーム依存を脱却したいならおすすめできますw",
+      "user": "U70QDFN82",
+      "ts": "1592185447.311800",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "M4n",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "ゲームやるならLinuxはおすすめしないですが・・・ゲーム依存を脱却したいならおすすめできますw"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "5b17cb37-d4be-4dbc-8415-2966f3cb6608",
+      "type": "message",
+      "text": "今はWindows10で動かしていますね",
+      "user": "UFZJ1RH3Q",
+      "ts": "1592185419.310500",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "iKRd",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "今はWindows10で動かしていますね"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "326C86E3-1112-4F33-A934-C9FB67E5B55F",
+      "type": "message",
+      "text": "今はwindowsとかで動いてる感じですか?",
+      "user": "U0GFBAM8U",
+      "ts": "1592185386.309400",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "Pzk",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "今はwindowsとかで動いてる感じですか?"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "d35753d8-d565-46ed-9dd3-3b53a37c50a6",
+      "type": "message",
+      "text": "なるほど。まあ害はない？ですしやってみたら案外すんなり入ったりしますよ。\n私も何個かメジャーじゃないノートにインストールしたけど動かなかったことはないですね。",
+      "user": "U70QDFN82",
+      "ts": "1592185376.309100",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "BTXdq",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "なるほど。まあ害はない？ですしやってみたら案外すんなり入ったりしますよ。\n私も何個かメジャーじゃないノートにインストールしたけど動かなかったことはないですね。"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "f0c7d4a0-7609-49bb-bf9a-b79055fe93ac",
+      "type": "message",
+      "text": "・今から入れようとしていて先に動作確認できているか知りたい\nです",
+      "user": "UFZJ1RH3Q",
+      "ts": "1592185259.306900",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "q8/Cn",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "・今から入れようとしていて先に動作確認できているか知りたい\nです"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "6aba4774-83e4-4f1d-b68a-41f3b1d6f6eb",
+      "type": "message",
+      "text": "この質問の背景って\n・今から入れようとしていて先に動作確認できているか知りたい\n・今インストールしていてつまっている\n・今インストールして使っていてなにかおかしい\nだとどれに当たるんですかね？？",
+      "user": "U70QDFN82",
+      "ts": "1592185237.306700",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "Xzmio",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "この質問の背景って\n・今から入れようとしていて先に動作確認できているか知りたい\n・今インストールしていてつまっている\n・今インストールして使っていてなにかおかしい\nだとどれに当たるんですかね？？"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "7683d594-ab16-46e6-8cae-9142970c4262",
+      "type": "message",
+      "text": "なるほど...",
+      "user": "UFZJ1RH3Q",
+      "ts": "1592184894.304900",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "QiVoS",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "なるほど..."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "b4084106-afc5-4188-a724-3c8374373025",
+      "type": "message",
+      "text": "Lenovo、VAIO、旧世代Macbook は人が多いですが、それ以外は皆無なので、探し当てるのは難しいですね…",
+      "user": "U0PM6EYR1",
+      "ts": "1592184881.304700",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "EArUn",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "Lenovo、VAIO、旧世代Macbook は人が多いですが、それ以外は皆無なので、探し当てるのは難しいですね…"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "80613609-340f-4a36-ab79-4513676e7ae9",
+      "type": "message",
+      "text": "Arch に限らず、どのLinux でも、ほとんどのハードは誰も使ってないと考えるくらいで良いと思います。",
+      "user": "U0PM6EYR1",
+      "ts": "1592184828.303800",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "oICuh",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "Arch に限らず、どのLinux でも、ほとんどのハードは誰も使ってないと考えるくらいで良いと思います。"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "c178c66b-9a21-46fa-bb3f-821a98a0bf03",
+      "type": "message",
+      "text": "そうですね、ドスパラのゲーミングノートです",
+      "user": "UFZJ1RH3Q",
+      "ts": "1592184360.303000",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "bx2",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "そうですね、ドスパラのゲーミングノートです"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "992e5a6b-d287-4ef1-98f4-39425d179291",
+      "type": "message",
+      "text": "ゲーミングノートですかね?\n結構ニッチかも…",
+      "user": "U3FJYR7MG",
+      "ts": "1592184334.302700",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "Kc8cW",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "ゲーミングノートですかね?\n結構ニッチかも…"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "ff43adf2-f50c-4707-bf02-0b4bdab8b959",
+      "type": "message",
+      "text": "GCR2070RGF-QCでArch使っておられる方っています？",
+      "user": "UFZJ1RH3Q",
+      "ts": "1592177512.302300",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "Ati",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "GCR2070RGF-QCでArch使っておられる方っています？"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "message",
+      "subtype": "channel_join",
+      "ts": "1592172564.301700",
+      "user": "U015BTHTYCD",
+      "text": "<@U015BTHTYCD>さんがチャンネルに参加しました"
+    },
+    {
+      "type": "message",
+      "subtype": "channel_join",
+      "ts": "1592053761.301300",
+      "user": "U015CDRQDD0",
+      "text": "<@U015CDRQDD0>さんがチャンネルに参加しました"
+    },
+    {
+      "client_msg_id": "fdb6428d-938a-43cd-968e-179c358582ce",
+      "type": "message",
+      "text": "いえいえ 解決したようで何より",
+      "user": "U0PM6EYR1",
+      "ts": "1591334244.300900",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "nmdtj",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "いえいえ 解決したようで何より"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "9132B5FC-E138-4F97-A62B-AA8D6DA7DA33",
+      "type": "message",
+      "text": "<@U0PM6EYR1>\n見てませんでした…すみません\n\n問題は多分polybarでAURの自作スクリプトを書いたんのですが、intervalが短かったからだと思われます…\n",
+      "user": "UUD5R0W8G",
+      "ts": "1591333073.300600",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "ZdH/",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "user",
+                  "user_id": "U0PM6EYR1"
+                },
+                {
+                  "type": "text",
+                  "text": "\n見てませんでした…すみません\n\n問題は多分polybarでAURの自作スクリプトを書いたんのですが、intervalが短かったからだと思われます…\n"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "has_more": false,
+  "is_limited": true,
+  "pin_count": 16,
+  "channel_actions_ts": null,
+  "channel_actions_count": 0
+}

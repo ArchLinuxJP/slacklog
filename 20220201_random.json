@@ -1,0 +1,3355 @@
+{
+  "ok": true,
+  "latest": "1646136672.000000",
+  "oldest": "1643717472.000000",
+  "messages": [
+    {
+      "client_msg_id": "676590dd-7699-4052-8afe-e11cf6577aa7",
+      "type": "message",
+      "text": "ChromeOSから抜かれそう\n<https://www.reddit.com/r/linux/comments/t2z4ee/how_the_hell_does_unknown_have_more_marketshare/>",
+      "user": "U70QDFN82",
+      "ts": "1646040273.393519",
+      "team": "T0GFBAM8C",
+      "attachments": [
+        {
+          "from_url": "https://www.reddit.com/r/linux/comments/t2z4ee/how_the_hell_does_unknown_have_more_marketshare/",
+          "thumb_url": "https://a.thumbs.redditmedia.com/mhoqDr7Knw2YROKkqCeY6cwQ1pa1gKFQvI3e5K-L6W4.jpg",
+          "thumb_width": 140,
+          "thumb_height": 140,
+          "service_icon": "http://www.redditstatic.com/desktop2x/img/favicon/apple-icon-57x57.png",
+          "id": 1,
+          "original_url": "https://www.reddit.com/r/linux/comments/t2z4ee/how_the_hell_does_unknown_have_more_marketshare/",
+          "fallback": "reddit: How the hell does unknown have more marketshare then linux",
+          "text": "Posted in r/linux by u/Linux_user592 • 1,000 points and 159 comments",
+          "title": "How the hell does unknown have more marketshare then linux",
+          "title_link": "https://www.reddit.com/r/linux/comments/t2z4ee/how_the_hell_does_unknown_have_more_marketshare/",
+          "service_name": "reddit"
+        }
+      ],
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "I/x",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "ChromeOSから抜かれそう\n"
+                },
+                {
+                  "type": "link",
+                  "url": "https://www.reddit.com/r/linux/comments/t2z4ee/how_the_hell_does_unknown_have_more_marketshare/"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "C4E9E1C3-0637-40BE-B9BE-1783D56C9D52",
+      "type": "message",
+      "text": "ありがとうございました",
+      "user": "U015CDRQDD0",
+      "ts": "1646039488.575429",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "Hyz",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "ありがとうございました"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "245D9C58-340B-4F7E-9134-BBCF67C0236B",
+      "type": "message",
+      "text": "なるほど 概ね理解できました‼︎ \nyaurtやyayと漠然と使っていてブラックボックス状態だったので:sweat_smile:",
+      "user": "U015CDRQDD0",
+      "ts": "1646039473.589429",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "A4Q",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "なるほど 概ね理解できました‼︎ \nyaurtやyayと漠然と使っていてブラックボックス状態だったので"
+                },
+                {
+                  "type": "emoji",
+                  "name": "sweat_smile",
+                  "unicode": "1f605"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "reactions": [
+        {
+          "name": "+1",
+          "users": [
+            "UGA29R3FH",
+            "U01HE1ENNJZ"
+          ],
+          "count": 2
+        }
+      ]
+    },
+    {
+      "client_msg_id": "64489c85-dcae-4cfe-9a98-9a6a38b1b0e0",
+      "type": "message",
+      "text": "実際にはパッケージのサイズですが",
+      "user": "UGA29R3FH",
+      "ts": "1646039187.009299",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "RLo",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "実際にはパッケージのサイズですが"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "ef0c93ec-5344-44b8-b0d7-95da95174e01",
+      "type": "message",
+      "text": "そうなりますね",
+      "user": "UGA29R3FH",
+      "ts": "1646039175.093179",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "IlMY7",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "そうなりますね"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "9EE3DB63-B7AE-4084-95C3-F850AC15A062",
+      "type": "message",
+      "text": "なるほど つまり仮にアプリケーションで1gbあるものをビルドしてパッケージ化したものを現在のと一つ古いものをローカルリポジトリに保管していた場合大体2GBくらい食うという感じなんですかね？",
+      "user": "U015CDRQDD0",
+      "ts": "1646039154.593409",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "YPQy2",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "なるほど つまり仮にアプリケーションで1gbあるものをビルドしてパッケージ化したものを現在のと一つ古いものをローカルリポジトリに保管していた場合大体2GBくらい食うという感じなんですかね？"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "34232e0f-e76b-4bda-b2be-87f0de9bdc69",
+      "type": "message",
+      "text": "でかいけれど、壊れた時にバージョンを戻せるという安心感には変えられないのでしょうがないですね…",
+      "user": "U01J1GGMHDJ",
+      "ts": "1646039045.890829",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "aAXA",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "でかいけれど、壊れた時にバージョンを戻せるという安心感には変えられないのでしょうがないですね…"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "a6d94e93-0392-4cd8-a51a-fb7dffe6273c",
+      "type": "message",
+      "text": "実際chromiumはでかい…",
+      "user": "UGA29R3FH",
+      "ts": "1646038965.472449",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "6FYaG",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "実際chromiumはでかい…"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "2890BF7D-EA2F-4E91-B924-A326A05F412A",
+      "type": "message",
+      "text": "つまりslackやdiscordのようなプロプライエタリでなくchromium(binじゃない方)のようなコンパイルするものもmakepkgでアプリケーションにしたものをパッケージにするのでしょうか? その場合zstd等で圧縮したとてパッケージサイズが大きくなる気がするのですがどうなんでしょうか？",
+      "user": "U015CDRQDD0",
+      "ts": "1646038942.640589",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "Qzse",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "つまりslackやdiscordのようなプロプライエタリでなくchromium(binじゃない方)のようなコンパイルするものもmakepkgでアプリケーションにしたものをパッケージにするのでしょうか? その場合zstd等で圧縮したとてパッケージサイズが大きくなる気がするのですがどうなんでしょうか？"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "106ae1de-54b8-473c-89f9-37efe0b71570",
+      "type": "message",
+      "text": "特に Arch 使いはそういうの好きな印象",
+      "user": "U0PM6EYR1",
+      "ts": "1646038786.170279",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "StehW",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "特に Arch 使いはそういうの好きな印象"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "7f119708-721a-4c65-b1fd-89b398f18883",
+      "type": "message",
+      "text": "ほぼほぼぬーぶさんが書いてることに間違いはなかったですね\nツールを使うにしても、仕組みを知っていたほうが、安心できますしね",
+      "user": "U0PM6EYR1",
+      "ts": "1646038733.216639",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "d2Vr",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "ほぼほぼぬーぶさんが書いてることに間違いはなかったですね\nツールを使うにしても、仕組みを知っていたほうが、安心できますしね"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "reactions": [
+        {
+          "name": "wakaru",
+          "users": [
+            "UGA29R3FH"
+          ],
+          "count": 1
+        }
+      ]
+    },
+    {
+      "client_msg_id": "c0eefed2-7e5b-46e6-b877-0740e99e5fd3",
+      "type": "message",
+      "text": "yayは今書いた作業を全部やってくれるツールなのでyay使ってるなら任せるのが一番楽じゃないですかね",
+      "user": "UGA29R3FH",
+      "ts": "1646038677.295259",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "mky",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "yayは今書いた作業を全部やってくれるツールなのでyay使ってるなら任せるのが一番楽じゃないですかね"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "8ab3a881-2a3a-4ed7-aabf-52f6e89d65db",
+      "type": "message",
+      "text": "あざます！",
+      "user": "UGA29R3FH",
+      "ts": "1646038645.711179",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "E7Q",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "あざます！"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "a2adfa28-5c9a-4a28-af31-eddcd69ce627",
+      "type": "message",
+      "text": "(kuu さんに全部説明任せようと思ったけど、一部補足できそうだったので書いてみた)",
+      "user": "U0PM6EYR1",
+      "ts": "1646038628.409699",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "=MTH",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "(kuu さんに全部説明任せようと思ったけど、一部補足できそうだったので書いてみた)"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "reactions": [
+        {
+          "name": "+1",
+          "users": [
+            "UGA29R3FH"
+          ],
+          "count": 1
+        }
+      ]
+    },
+    {
+      "client_msg_id": "6690db3e-fc7a-474d-9bf2-990ae62efe39",
+      "type": "message",
+      "text": "同じく",
+      "user": "U0PM6EYR1",
+      "ts": "1646038576.024599",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "wfb",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "同じく"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "ed5f3109-ce3b-4fdf-b75b-b806cb53a2ba",
+      "type": "message",
+      "text": "yayのキャッシュに突っ込んで使えるかは試したことないのでわからないですね",
+      "user": "UGA29R3FH",
+      "ts": "1646038547.597469",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "cL3p",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "yayのキャッシュに突っ込んで使えるかは試したことないのでわからないですね"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "b955b0d6-4028-4810-92e8-57ed07fe8264",
+      "type": "message",
+      "text": "`repo-add`を使うとデータベースが生成されるので、それを`pacman.conf`に記述すると`pacman -Syu`できるようになります",
+      "user": "UGA29R3FH",
+      "ts": "1646038525.144349",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "tyV",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "repo-add",
+                  "style": {
+                    "code": true
+                  }
+                },
+                {
+                  "type": "text",
+                  "text": "を使うとデータベースが生成されるので、それを"
+                },
+                {
+                  "type": "text",
+                  "text": "pacman.conf",
+                  "style": {
+                    "code": true
+                  }
+                },
+                {
+                  "type": "text",
+                  "text": "に記述すると"
+                },
+                {
+                  "type": "text",
+                  "text": "pacman -Syu",
+                  "style": {
+                    "code": true
+                  }
+                },
+                {
+                  "type": "text",
+                  "text": "できるようになります"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "1453c8a9-6bc2-4f21-9f7d-443b892b21b1",
+      "type": "message",
+      "text": "makepkg の時点で、アプリケーションがビルドされます。\n最も Slack はプロプライエタリ なので、ビルド済みバイナリを落として、指定の場所に入れるだけですが",
+      "user": "U0PM6EYR1",
+      "ts": "1646038454.608309",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "OVsr",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "makepkg の時点で、アプリケーションがビルドされます。\n最も Slack はプロプライエタリ なので、ビルド済みバイナリを落として、指定の場所に入れるだけですが"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "reactions": [
+        {
+          "name": "sorena",
+          "users": [
+            "UGA29R3FH"
+          ],
+          "count": 1
+        }
+      ]
+    },
+    {
+      "client_msg_id": "393ea06a-0fbe-4829-b22c-ab82642b9da2",
+      "type": "message",
+      "text": "これはmakepkgのオプションに`-i`立てるか`sudo pacman -U {pkgfile}`でインストールできます",
+      "user": "UGA29R3FH",
+      "ts": "1646038439.690369",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "=hFG",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "これはmakepkgのオプションに"
+                },
+                {
+                  "type": "text",
+                  "text": "-i",
+                  "style": {
+                    "code": true
+                  }
+                },
+                {
+                  "type": "text",
+                  "text": "立てるか"
+                },
+                {
+                  "type": "text",
+                  "text": "sudo pacman -U {pkgfile}",
+                  "style": {
+                    "code": true
+                  }
+                },
+                {
+                  "type": "text",
+                  "text": "でインストールできます"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "de3f2c4a-8b11-43e8-bde3-abb2c755e83f",
+      "type": "message",
+      "text": "git管理されたPKGBUILDの最新(これがスナップショット)を落としてきて、その記述を元にパッケージを作る",
+      "user": "UGA29R3FH",
+      "ts": "1646038326.336819",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "Q5xi",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "git管理されたPKGBUILDの最新(これがスナップショット)を落としてきて、その記述を元にパッケージを作る"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "c83a8dba-1e81-4ead-912c-e15e33420fd6",
+      "type": "message",
+      "text": "makepkgの所はその通りですね",
+      "user": "UGA29R3FH",
+      "ts": "1646038285.232569",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "byyXu",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "makepkgの所はその通りですね"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "EF23652B-9F75-45DC-B6AB-2F5DAA62951C",
+      "type": "message",
+      "text": "すみません質問です。\n`aur`等に置ける\"ビルド\"の認識が正しいかまた私の`aur`の流れは合っているかを伺いたく質問させてもらいます\n\n`aur`から`PKGBUILD`を含む`snapshot`を取得し、`makepkg`によりパッケージファイル(tarアーカイブ)の作成をすることがビルドという認識で正しいでしょうか?(`snapshot`とパッケージファイルの認識が曖昧です)\n\nまたパッケージファイルを`repo-add`で追加したローカルリポジトリ乃至`pacman`ラッパーの`yay`の`cache`下に配置し、`pacman -Syu`によりインストールされるのでしょうか?\n\n上記考えに従って<https://aur.archlinux.org/packages/slack-desktop|slack-desktop>を例に挙げるならば、`snapshot`の取得後`tar`を解凍し、内包されている`PKGBUILD`に従って`makepkg`がパッケージファイルを作成(ここではまだslackのアプリは作られていない?という認識)し、既定の位置にパッケージファイルを配置後`pacman -Syu`でインストール(ここでslackのアプリがインストール？作成?という認識)\n\nもしかしたら頓珍漢なことを質問してしまっていたらすみません 自分なりにwikiを見たりしたつもりですがあんまりよくわからなかったので質問させて頂きます",
+      "user": "U015CDRQDD0",
+      "ts": "1646038202.306269",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "u+DKh",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "すみません質問です。\n"
+                },
+                {
+                  "type": "text",
+                  "text": "aur",
+                  "style": {
+                    "code": true
+                  }
+                },
+                {
+                  "type": "text",
+                  "text": "等に置ける\"ビルド\"の認識が正しいかまた私の"
+                },
+                {
+                  "type": "text",
+                  "text": "aur",
+                  "style": {
+                    "code": true
+                  }
+                },
+                {
+                  "type": "text",
+                  "text": "の流れは合っているかを伺いたく質問させてもらいます\n\n"
+                },
+                {
+                  "type": "text",
+                  "text": "aur",
+                  "style": {
+                    "code": true
+                  }
+                },
+                {
+                  "type": "text",
+                  "text": "から"
+                },
+                {
+                  "type": "text",
+                  "text": "PKGBUILD",
+                  "style": {
+                    "code": true
+                  }
+                },
+                {
+                  "type": "text",
+                  "text": "を含む"
+                },
+                {
+                  "type": "text",
+                  "text": "snapshot",
+                  "style": {
+                    "code": true
+                  }
+                },
+                {
+                  "type": "text",
+                  "text": "を取得し、"
+                },
+                {
+                  "type": "text",
+                  "text": "makepkg",
+                  "style": {
+                    "code": true
+                  }
+                },
+                {
+                  "type": "text",
+                  "text": "によりパッケージファイル(tarアーカイブ)の作成をすることがビルドという認識で正しいでしょうか?("
+                },
+                {
+                  "type": "text",
+                  "text": "snapshot",
+                  "style": {
+                    "code": true
+                  }
+                },
+                {
+                  "type": "text",
+                  "text": "とパッケージファイルの認識が曖昧です)\n\nまたパッケージファイルを"
+                },
+                {
+                  "type": "text",
+                  "text": "repo-add",
+                  "style": {
+                    "code": true
+                  }
+                },
+                {
+                  "type": "text",
+                  "text": "で追加したローカルリポジトリ乃至"
+                },
+                {
+                  "type": "text",
+                  "text": "pacman",
+                  "style": {
+                    "code": true
+                  }
+                },
+                {
+                  "type": "text",
+                  "text": "ラッパーの"
+                },
+                {
+                  "type": "text",
+                  "text": "yay",
+                  "style": {
+                    "code": true
+                  }
+                },
+                {
+                  "type": "text",
+                  "text": "の"
+                },
+                {
+                  "type": "text",
+                  "text": "cache",
+                  "style": {
+                    "code": true
+                  }
+                },
+                {
+                  "type": "text",
+                  "text": "下に配置し、"
+                },
+                {
+                  "type": "text",
+                  "text": "pacman -Syu",
+                  "style": {
+                    "code": true
+                  }
+                },
+                {
+                  "type": "text",
+                  "text": "によりインストールされるのでしょうか?\n\n上記考えに従って"
+                },
+                {
+                  "type": "link",
+                  "url": "https://aur.archlinux.org/packages/slack-desktop",
+                  "text": "slack-desktop"
+                },
+                {
+                  "type": "text",
+                  "text": "を例に挙げるならば、"
+                },
+                {
+                  "type": "text",
+                  "text": "snapshot",
+                  "style": {
+                    "code": true
+                  }
+                },
+                {
+                  "type": "text",
+                  "text": "の取得後"
+                },
+                {
+                  "type": "text",
+                  "text": "tar",
+                  "style": {
+                    "code": true
+                  }
+                },
+                {
+                  "type": "text",
+                  "text": "を解凍し、内包されている"
+                },
+                {
+                  "type": "text",
+                  "text": "PKGBUILD",
+                  "style": {
+                    "code": true
+                  }
+                },
+                {
+                  "type": "text",
+                  "text": "に従って"
+                },
+                {
+                  "type": "text",
+                  "text": "makepkg",
+                  "style": {
+                    "code": true
+                  }
+                },
+                {
+                  "type": "text",
+                  "text": "がパッケージファイルを作成(ここではまだslackのアプリは作られていない?という認識)し、既定の位置にパッケージファイルを配置後"
+                },
+                {
+                  "type": "text",
+                  "text": "pacman -Syu",
+                  "style": {
+                    "code": true
+                  }
+                },
+                {
+                  "type": "text",
+                  "text": "でインストール(ここでslackのアプリがインストール？作成?という認識)\n\nもしかしたら頓珍漢なことを質問してしまっていたらすみません 自分なりにwikiを見たりしたつもりですがあんまりよくわからなかったので質問させて頂きます"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "6610c3c6-c8d4-49a1-9af2-4914af0f0ef5",
+      "type": "message",
+      "text": "`sudo mkinitcpio -P`\nしたら直ったくさいです。よかった",
+      "user": "U70QDFN82",
+      "ts": "1646031920.494359",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "yTg/",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "sudo mkinitcpio -P",
+                  "style": {
+                    "code": true
+                  }
+                },
+                {
+                  "type": "text",
+                  "text": "\nしたら直ったくさいです。よかった"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "reactions": [
+        {
+          "name": "+1",
+          "users": [
+            "U0PM6EYR1",
+            "U0GFBAM8U",
+            "UUWBU08TU",
+            "U01J1GGMHDJ",
+            "U6DL9D3AB",
+            "U02ASPM0A6T"
+          ],
+          "count": 6
+        },
+        {
+          "name": "tada",
+          "users": [
+            "U01792411FA"
+          ],
+          "count": 1
+        }
+      ]
+    },
+    {
+      "client_msg_id": "11e3e70d-8016-400c-8a9c-31756e547fb7",
+      "type": "message",
+      "text": "一応別のPCにもつないで見ましたけどちゃんと映りますね・・・やっぱりカーネル関係のなにかっぽいです・・・",
+      "user": "U70QDFN82",
+      "ts": "1646020887.550469",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "zpoay",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "一応別のPCにもつないで見ましたけどちゃんと映りますね・・・やっぱりカーネル関係のなにかっぽいです・・・"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "reactions": [
+        {
+          "name": "naruhodo",
+          "users": [
+            "U0GFBAM8U",
+            "U01HE1ENNJZ"
+          ],
+          "count": 2
+        }
+      ]
+    },
+    {
+      "client_msg_id": "2D461D09-7E8E-4492-99B9-6BAEDDAE1249",
+      "type": "message",
+      "text": "ディスプレイが壊れてるって可能性は...ないか(いきなり壊れる可能性低そう",
+      "user": "U0GFBAM8U",
+      "ts": "1646019277.808059",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "D3E",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "ディスプレイが壊れてるって可能性は...ないか(いきなり壊れる可能性低そう"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "7c841fe6-4850-408f-b4c6-ca5b1fd9dd11",
+      "type": "message",
+      "text": "ですねぇ・・・いろいろ検索してみたんですが困ってる人見つからず・・・（nvidiaの人はいました。が、いつも困ってるイメージなので除外）",
+      "user": "U70QDFN82",
+      "ts": "1646018880.159679",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "pZJ",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "ですねぇ・・・いろいろ検索してみたんですが困ってる人見つからず・・・（nvidiaの人はいました。が、いつも困ってるイメージなので除外）"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "3E83AB47-18B3-45AF-BBD8-C99BDE0373E7",
+      "type": "message",
+      "text": "起動からかあ\nカーネルのアップデートとかの可能性が高そうですね",
+      "user": "U0GFBAM8U",
+      "ts": "1646017795.331719",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "rPHp",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "起動からかあ\nカーネルのアップデートとかの可能性が高そうですね"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "646f47db-66a1-4c8f-8ceb-0214826f5e62",
+      "type": "message",
+      "text": "なんか起動時からついてないんですよね・・・なんとなくmkinitcpio周りな気がしてます。失敗したらディスプレイマネージャー切ってみます。ありがとうございます。",
+      "user": "U70QDFN82",
+      "ts": "1646014805.174709",
+      "team": "T0GFBAM8C",
+      "edited": {
+        "user": "U70QDFN82",
+        "ts": "1646014819.000000"
+      },
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "sLCh3",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "なんか起動時からついてないんですよね・・・なんとなくmkinitcpio周りな気がしてます。失敗したらディスプレイマネージャー切ってみます。ありがとうございます。"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "A81956C6-6FA8-4953-9E62-90521D8D1D19",
+      "type": "message",
+      "text": "関係ないかもしれませんが、swayに移行した時、ディスプレイがおかしかったのディスプレイマネージャーとの相性の問題だったみたい。\nディスプレイマネージャー切ってみるとどうなります?",
+      "user": "U0GFBAM8U",
+      "ts": "1646014573.312559",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "4+ox",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "関係ないかもしれませんが、swayに移行した時、ディスプレイがおかしかったのディスプレイマネージャーとの相性の問題だったみたい。\nディスプレイマネージャー切ってみるとどうなります?"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "B084110D-04CF-46AF-A54C-E27A67E78EA0",
+      "type": "message",
+      "text": "つらい",
+      "user": "U0GFBAM8U",
+      "ts": "1646014471.830889",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "nBT",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "つらい"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "7f00fe77-a3e8-4780-a2a2-5e319e515259",
+      "type": "message",
+      "text": "なんか昨日から外部モニターがうまく認識されない不具合に出くわしてる・・・ :cry:",
+      "user": "U70QDFN82",
+      "ts": "1646013598.757089",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "/Ov+q",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "なんか昨日から外部モニターがうまく認識されない不具合に出くわしてる・・・ "
+                },
+                {
+                  "type": "emoji",
+                  "name": "cry",
+                  "unicode": "1f622"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "8a6086d7-2053-4b76-a107-4a7142a19836",
+      "type": "message",
+      "text": "Premiumでないサポートでしたが、日本語話者と思われる人間の人に即座につながって丁寧に応対してくれました(電話を選んだらまた違うかもしれませんが)。後は修理が早ければ言うことはないのですが、どうなるか...",
+      "user": "U020M0ZLKND",
+      "ts": "1645763736.355419",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "qwgm/",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "Premiumでないサポートでしたが、日本語話者と思われる人間の人に即座につながって丁寧に応対してくれました(電話を選んだらまた違うかもしれませんが)。後は修理が早ければ言うことはないのですが、どうなるか..."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "reactions": [
+        {
+          "name": "+1",
+          "users": [
+            "U02ASPM0A6T",
+            "U0H9QUFA5",
+            "U02HC93TJEP",
+            "U01HE1ENNJZ"
+          ],
+          "count": 4
+        }
+      ]
+    },
+    {
+      "client_msg_id": "23ecea1a-40eb-4c1f-a8f4-b7c1f57a0195",
+      "type": "message",
+      "text": "はい、LINEでのチャットサービスというのがあったのでコンタクトを取ったところ、引き取り修理となりました。",
+      "user": "U020M0ZLKND",
+      "ts": "1645763592.248789",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "ZFES",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "はい、LINEでのチャットサービスというのがあったのでコンタクトを取ったところ、引き取り修理となりました。"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "31e16b11-0136-4e33-bc3f-b47d81746f0f",
+      "type": "message",
+      "text": "何らかのサポートは受けられそうですが既に相談して可能なアクションを検討済ですか？\n<https://www.dell.com/ja-jp/shop/fix-your-pc-or-tablet/ab/fix-your-pc-or-tablet>",
+      "user": "U02ASPM0A6T",
+      "ts": "1645743162.278249",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "iLFjs",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "何らかのサポートは受けられそうですが既に相談して可能なアクションを検討済ですか？\n"
+                },
+                {
+                  "type": "link",
+                  "url": "https://www.dell.com/ja-jp/shop/fix-your-pc-or-tablet/ab/fix-your-pc-or-tablet"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "message",
+      "subtype": "thread_broadcast",
+      "text": "2週間前(≩返品期間)に届いたAlienware、何やっても給電されなくなり24万円の文鎮と化した... Premium Supportケチるんじゃなかった (DellのPremium Supportではないサポートは評判がよくないらしいです)",
+      "user": "U020M0ZLKND",
+      "ts": "1645728243.609169",
+      "thread_ts": "1644920944.453239",
+      "root": {
+        "client_msg_id": "ef885dd4-227c-4cab-920a-43e6cc7cc3f2",
+        "type": "message",
+        "text": "私もThinkpadではありませんがちょうどAlienware m15 Ryzen Editionを買って、今セットアップ中(まだGUIを起動してない)です。人生で初めてnvidia(というよりIntel以外のCPUとIntel Graphics以外のGPU)に触れるのでちゃんと動かせるか不安ではありますが、ようやくプログラマらしいPCが手に入ったかんじがする...",
+        "user": "U020M0ZLKND",
+        "ts": "1644920944.453239",
+        "team": "T0GFBAM8C",
+        "edited": {
+          "user": "U020M0ZLKND",
+          "ts": "1644921194.000000"
+        },
+        "blocks": [
+          {
+            "type": "rich_text",
+            "block_id": "m8ry",
+            "elements": [
+              {
+                "type": "rich_text_section",
+                "elements": [
+                  {
+                    "type": "text",
+                    "text": "私もThinkpadではありませんがちょうどAlienware m15 Ryzen Editionを買って、今セットアップ中(まだGUIを起動してない)です。人生で初めてnvidia(というよりIntel以外のCPUとIntel Graphics以外のGPU)に触れるのでちゃんと動かせるか不安ではありますが、ようやくプログラマらしいPCが手に入ったかんじがする..."
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "thread_ts": "1644920944.453239",
+        "reply_count": 3,
+        "reply_users_count": 1,
+        "latest_reply": "1646445903.475349",
+        "reply_users": [
+          "U020M0ZLKND"
+        ],
+        "is_locked": false,
+        "subscribed": false
+      },
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "ZFe",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "2週間前(≩返品期間)に届いたAlienware、何やっても給電されなくなり24万円の文鎮と化した... Premium Supportケチるんじゃなかった (DellのPremium Supportではないサポートは評判がよくないらしいです)"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "client_msg_id": "7421af99-b8db-4899-b1af-b4b1443f032d",
+      "reactions": [
+        {
+          "name": "sob",
+          "users": [
+            "U02R6AP6H0C",
+            "U02BLTTQEL9",
+            "U02HC93TJEP",
+            "U01HE1ENNJZ"
+          ],
+          "count": 4
+        }
+      ]
+    },
+    {
+      "client_msg_id": "4c43e937-9e80-442a-89bf-967185a29ed2",
+      "type": "message",
+      "text": "１人１つまでで名前は重複しても良さそうですね。誰かが取りまとめないといくつもできちゃうパターンか・・・",
+      "user": "U70QDFN82",
+      "ts": "1645697309.145879",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "zHXh",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "１人１つまでで名前は重複しても良さそうですね。誰かが取りまとめないといくつもできちゃうパターンか・・・"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "6fd7084a-55d5-4fb3-9280-cb7bdb8f471c",
+      "type": "message",
+      "text": "あ、作れるようになった。これって名前空間どうなってるんだろうか・・・？",
+      "user": "U70QDFN82",
+      "ts": "1645696490.125929",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "fG7/O",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "あ、作れるようになった。これって名前空間どうなってるんだろうか・・・？"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "b35bcf28-5738-41c4-ba7d-863205ae0cad",
+      "type": "message",
+      "text": "もしかしてLinuxすらない？",
+      "user": "U70QDFN82",
+      "ts": "1645696324.655579",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "qV08",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "もしかしてLinuxすらない？"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "9129b56b-b1a7-446f-bcfa-82491b8f93b2",
+      "type": "message",
+      "text": "Twitterコミュニティとやらが利用できるようになったらしいですね。Archないかな？",
+      "user": "U70QDFN82",
+      "ts": "1645696276.660119",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "oO62Z",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "Twitterコミュニティとやらが利用できるようになったらしいですね。Archないかな？"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "ea70ca5d-adda-4f5f-9b72-32f031b67481",
+      "type": "message",
+      "text": "むしろ銃刀法に引っかかりかねないので普段はさすがに持ち歩かないですね……\nラッキング作業とかある時も現地にドライバーありますし",
+      "user": "UVB7L4CKH",
+      "ts": "1645678601.734659",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "saH",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "むしろ銃刀法に引っかかりかねないので普段はさすがに持ち歩かないですね……\nラッキング作業とかある時も現地にドライバーありますし"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "reactions": [
+        {
+          "name": "wakaru",
+          "users": [
+            "U017BNGTHT3",
+            "UGA29R3FH",
+            "U01HE1ENNJZ"
+          ],
+          "count": 3
+        }
+      ]
+    },
+    {
+      "client_msg_id": "90e84e32-36e4-4b7d-b3c8-63d284e6751b",
+      "type": "message",
+      "text": "&gt; 学校でThinkPadの裏蓋開けてたら不審者\n分解用の工具を普段から持ち歩いている時点で世間的には既に不審者なのでは？ボブは訝しんだ…",
+      "user": "U017BNGTHT3",
+      "ts": "1645678146.100859",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "oG3Ed",
+          "elements": [
+            {
+              "type": "rich_text_quote",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "学校でThinkPadの裏蓋開けてたら不審者"
+                }
+              ]
+            },
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "分解用の工具を普段から持ち歩いている時点で世間的には既に不審者なのでは？ボブは訝しんだ…"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "1441f575-a817-4c37-85f4-fceca4c64c1b",
+      "type": "message",
+      "text": ":totemoturai:",
+      "user": "U70QDFN82",
+      "ts": "1645675841.907799",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "zNIe",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "emoji",
+                  "name": "totemoturai"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "8d0ebb68-79b7-456c-bf5a-3807559ac18a",
+      "type": "message",
+      "text": "どちらかというとWebとかモバイル開発イケイケ系が多いです",
+      "user": "UVB7L4CKH",
+      "ts": "1645675832.879329",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "4Dgb0",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "どちらかというとWebとかモバイル開発イケイケ系が多いです"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "9e7602d8-9003-4cbd-941d-6a06b81b298b",
+      "type": "message",
+      "text": "まじか",
+      "user": "U70QDFN82",
+      "ts": "1645675808.775149",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "NDf=",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "まじか"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "e4b7b03a-cae0-4728-91f3-694f4510e7a6",
+      "type": "message",
+      "text": "だいたい学校支給のDynabook使ってるぐらいで、他もmacとかが多いのでThinkPadの蓋開けてるのは不審者の部類に入りますね",
+      "user": "UVB7L4CKH",
+      "ts": "1645675791.256939",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "vblON",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "だいたい学校支給のDynabook使ってるぐらいで、他もmacとかが多いのでThinkPadの蓋開けてるのは不審者の部類に入りますね"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "reactions": [
+        {
+          "name": "warau",
+          "users": [
+            "U02HC93TJEP"
+          ],
+          "count": 1
+        }
+      ]
+    },
+    {
+      "client_msg_id": "a5fc69bd-a10a-4b8a-8812-72807ae0e2e8",
+      "type": "message",
+      "text": "裏スケルトンのやつとか",
+      "user": "U70QDFN82",
+      "ts": "1645675757.123219",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "g9HZ",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "裏スケルトンのやつとか"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "486be3eb-47a3-467a-af6a-28e834dbe2bd",
+      "type": "message",
+      "text": "あれ？そんな感じなんだ。情報系はみんな開けてるのかと思ってた",
+      "user": "U70QDFN82",
+      "ts": "1645675744.675469",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "u9BRY",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "あれ？そんな感じなんだ。情報系はみんな開けてるのかと思ってた"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "10ccab10-3581-41b1-87c6-996838c7b8ce",
+      "type": "message",
+      "text": "w",
+      "user": "U02BLTTQEL9",
+      "ts": "1645675729.786649",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "/j8Qm",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "w"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "9ba33e2b-7b75-4965-b73a-83d5b7543499",
+      "type": "message",
+      "text": "（そもそも学校でThinkPadの裏蓋開けてたら不審者すぎる……）",
+      "user": "UVB7L4CKH",
+      "ts": "1645675718.984569",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "Q+QSa",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "（そもそも学校でThinkPadの裏蓋開けてたら不審者すぎる……）"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "6b1e37ee-cc16-485d-b55b-0a925818ae48",
+      "type": "message",
+      "text": "なる",
+      "user": "U70QDFN82",
+      "ts": "1645675709.522489",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "Mh2da",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "なる"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "53a12d9a-6d42-4a73-aa61-956414fa9fe1",
+      "type": "message",
+      "text": "あ、これは自宅ですね\n学校はそんな出ないはず",
+      "user": "UVB7L4CKH",
+      "ts": "1645675704.780249",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "hJqE",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "あ、これは自宅ですね\n学校はそんな出ないはず"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "808a8151-3325-408e-a23e-b51e78aef2f0",
+      "type": "message",
+      "text": "はやい。学校でそんなに出るんだ・・・",
+      "user": "U70QDFN82",
+      "ts": "1645675689.601149",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "aJS/B",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "はやい。学校でそんなに出るんだ・・・"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "message",
+      "subtype": "thread_broadcast",
+      "text": "<https://www.speedtest.net/result/12808269472.png>\n無事に11acフルで使えるように",
+      "user": "UVB7L4CKH",
+      "ts": "1645675554.484199",
+      "thread_ts": "1645674784.809449",
+      "root": {
+        "client_msg_id": "2b1a8a0e-07db-4d04-bb33-e6a03cdf7d6c",
+        "type": "message",
+        "text": "↑のままだとアンテナの都合でBluetoothが使えない事に気付き、必死で嵌め直したら繋がったのでやはり筋肉は全てを解決する\n英語も筋肉ですよ :muscle:",
+        "user": "UVB7L4CKH",
+        "ts": "1645674784.809449",
+        "team": "T0GFBAM8C",
+        "blocks": [
+          {
+            "type": "rich_text",
+            "block_id": "ihS",
+            "elements": [
+              {
+                "type": "rich_text_section",
+                "elements": [
+                  {
+                    "type": "text",
+                    "text": "↑のままだとアンテナの都合でBluetoothが使えない事に気付き、必死で嵌め直したら繋がったのでやはり筋肉は全てを解決する\n英語も筋肉ですよ "
+                  },
+                  {
+                    "type": "emoji",
+                    "name": "muscle",
+                    "unicode": "1f4aa"
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "thread_ts": "1645674784.809449",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1645675554.484199",
+        "reply_users": [
+          "UVB7L4CKH"
+        ],
+        "is_locked": false,
+        "subscribed": false
+      },
+      "attachments": [
+        {
+          "from_url": "https://www.speedtest.net/result/12808269472.png",
+          "image_url": "https://www.speedtest.net/result/12808269472.png",
+          "image_width": 750,
+          "image_height": 400,
+          "image_bytes": 46473,
+          "id": 1,
+          "original_url": "https://www.speedtest.net/result/12808269472.png",
+          "fallback": "750x400px image"
+        }
+      ],
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "5LX",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "link",
+                  "url": "https://www.speedtest.net/result/12808269472.png"
+                },
+                {
+                  "type": "text",
+                  "text": "\n無事に11acフルで使えるように"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "client_msg_id": "01e08ccc-b57c-4f16-b3c7-c8bb222296f5",
+      "reactions": [
+        {
+          "name": "archjp-joy",
+          "users": [
+            "U02BLTTQEL9",
+            "UUWBU08TU",
+            "UGA29R3FH",
+            "UD124KPDJ",
+            "U01J1GGMHDJ",
+            "U01HE1ENNJZ"
+          ],
+          "count": 6
+        }
+      ]
+    },
+    {
+      "client_msg_id": "65130acf-2efb-4450-8c91-30772488de01",
+      "type": "message",
+      "text": "これですね",
+      "user": "U0PM6EYR1",
+      "ts": "1645675190.503019",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "R2OI",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "これですね"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "ca891c55-17d4-4600-9147-117ff45c5f37",
+      "type": "message",
+      "text": "&gt; ```こんちには みさなん おんげき ですか？　わしたは げんき です。\n&gt; この ぶんょしう は いりぎす の ケブンッリジ だがいく の けゅきんう の けっか\n&gt; にんんげ は もじ を にしんき する とき その さしいょ と さいご の もさじえ あいてっれば\n&gt; じばんゅん は めくちちゃゃ でも ちんゃと よめる という けゅきんう に もづいとて\n&gt; わざと もじの じんばゅん を いかれえて あまりす。\n&gt; どでうす？　ちんゃと よゃちめう でしょ？\n&gt; ちんゃと よためら はのんう よしろく```",
+      "user": "U0PM6EYR1",
+      "ts": "1645675186.615459",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "=mMU",
+          "elements": [
+            {
+              "type": "rich_text_preformatted",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "こんちには みさなん おんげき ですか？　わしたは げんき です。\nこの ぶんょしう は いりぎす の ケブンッリジ だがいく の けゅきんう の けっか\nにんんげ は もじ を にしんき する とき その さしいょ と さいご の もさじえ あいてっれば\nじばんゅん は めくちちゃゃ でも ちんゃと よめる という けゅきんう に もづいとて\nわざと もじの じんばゅん を いかれえて あまりす。\nどでうす？　ちんゃと よゃちめう でしょ？\nちんゃと よためら はのんう よしろく"
+                }
+              ],
+              "border": 1
+            }
+          ]
+        }
+      ],
+      "reactions": [
+        {
+          "name": "sorena",
+          "users": [
+            "UGA29R3FH",
+            "U02BLTTQEL9",
+            "U01HE1ENNJZ",
+            "U8T8KB5M4",
+            "U034896PAJV"
+          ],
+          "count": 5
+        }
+      ]
+    },
+    {
+      "client_msg_id": "3e8aa52a-43f7-4969-ab7b-8aee1e93dd13",
+      "type": "message",
+      "text": "認識能力が追いついてないので誤り訂正走らせるしかないのかもしれない",
+      "user": "UGA29R3FH",
+      "ts": "1645674837.695719",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "1yGM1",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "認識能力が追いついてないので誤り訂正走らせるしかないのかもしれない"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "ff83ef0a-af5a-4cd9-9463-5505bfc1d53d",
+      "type": "message",
+      "text": "脳の誤り訂正能力が強すぎて誤爆するの、人体のバグの1つだと思う",
+      "user": "UGA29R3FH",
+      "ts": "1645674819.081249",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "4e/pl",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "脳の誤り訂正能力が強すぎて誤爆するの、人体のバグの1つだと思う"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "2b1a8a0e-07db-4d04-bb33-e6a03cdf7d6c",
+      "type": "message",
+      "text": "↑のままだとアンテナの都合でBluetoothが使えない事に気付き、必死で嵌め直したら繋がったのでやはり筋肉は全てを解決する\n英語も筋肉ですよ :muscle:",
+      "user": "UVB7L4CKH",
+      "ts": "1645674784.809449",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "ihS",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "↑のままだとアンテナの都合でBluetoothが使えない事に気付き、必死で嵌め直したら繋がったのでやはり筋肉は全てを解決する\n英語も筋肉ですよ "
+                },
+                {
+                  "type": "emoji",
+                  "name": "muscle",
+                  "unicode": "1f4aa"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "thread_ts": "1645674784.809449",
+      "reply_count": 1,
+      "reply_users_count": 1,
+      "latest_reply": "1645675554.484199",
+      "reply_users": [
+        "UVB7L4CKH"
+      ],
+      "is_locked": false,
+      "subscribed": false,
+      "reactions": [
+        {
+          "name": "muscle",
+          "users": [
+            "UGA29R3FH",
+            "U0PM6EYR1",
+            "U01J1GGMHDJ",
+            "U01HE1ENNJZ"
+          ],
+          "count": 4
+        }
+      ]
+    },
+    {
+      "client_msg_id": "c294da81-a5f9-40e1-b905-d275191c5ecf",
+      "type": "message",
+      "text": "こういうの言語化すると、脳がなにか読むときにコンテキストから投機的に処理してるんだなって思いますね・・・",
+      "user": "U70QDFN82",
+      "ts": "1645674762.149899",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "xvZk",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "こういうの言語化すると、脳がなにか読むときにコンテキストから投機的に処理してるんだなって思いますね・・・"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "6a4b3a26-f421-4df2-bc5a-0449fd0c134e",
+      "type": "message",
+      "text": "Arch Linux Loader Electron Results",
+      "user": "U0PM6EYR1",
+      "ts": "1645674322.244919",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "lBbx",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "Arch Linux Loader Electron Results"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "9e34845e-4450-4ce4-8c26-e36516f0bd8d",
+      "type": "message",
+      "text": "あと、日本語になってからもArchLinuxリーダーをArchLinuxReaderに空目しましたね",
+      "user": "U70QDFN82",
+      "ts": "1645674285.972369",
+      "team": "T0GFBAM8C",
+      "edited": {
+        "user": "U70QDFN82",
+        "ts": "1645674319.000000"
+      },
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "zWDQ",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "あと、日本語になってからもArchLinuxリーダーをArchLinuxReaderに空目しましたね"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "e90023aa-44e2-45e9-9922-7dfc9cc78e1e",
+      "type": "message",
+      "text": "私はLeaderもLoaderに空目しましたね",
+      "user": "U70QDFN82",
+      "ts": "1645674246.376079",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "+d2p",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "私はLeaderもLoaderに空目しましたね"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "3c224c11-08ed-4fbe-a836-8531f7354df6",
+      "type": "message",
+      "text": "ニュアンスは違うけどVoteの方が馴染みがある感",
+      "user": "U017BNGTHT3",
+      "ts": "1645673545.392759",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "z=f",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "ニュアンスは違うけどVoteの方が馴染みがある感"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "04cdd210-2551-45fd-b330-6b8ad2884bb6",
+      "type": "message",
+      "text": "Election が日本では馴染みがない単語なのが問題ですよね",
+      "user": "U0PM6EYR1",
+      "ts": "1645673375.583129",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "PO+3",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "Election が日本では馴染みがない単語なのが問題ですよね"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "6cec03f8-e213-467f-b3ac-3a1c47dd94da",
+      "type": "message",
+      "text": "&gt; Electron\n一瞬私も空目しました。",
+      "user": "U017BNGTHT3",
+      "ts": "1645673344.530349",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "y2bl",
+          "elements": [
+            {
+              "type": "rich_text_quote",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "Electron"
+                }
+              ]
+            },
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "一瞬私も空目しました。"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "48aa5d5c-a00e-4709-a23b-4e2cf5f6c8ab",
+      "type": "message",
+      "text": "`Arch Linux Leader Election Results` を\n`Arch Linux Leader Electron Results` に空目したのは私だけかしら",
+      "user": "U0PM6EYR1",
+      "ts": "1645673286.370789",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "Codx",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "Arch Linux Leader Election Results",
+                  "style": {
+                    "code": true
+                  }
+                },
+                {
+                  "type": "text",
+                  "text": " を\n"
+                },
+                {
+                  "type": "text",
+                  "text": "Arch Linux Leader Electron Results",
+                  "style": {
+                    "code": true
+                  }
+                },
+                {
+                  "type": "text",
+                  "text": " に空目したのは私だけかしら"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "reactions": [
+        {
+          "name": "wakaru",
+          "users": [
+            "U70QDFN82",
+            "U01J1GGMHDJ",
+            "U8T8KB5M4"
+          ],
+          "count": 3
+        }
+      ]
+    },
+    {
+      "client_msg_id": "1b9aab60-b051-468c-9c62-0b3a020d6801",
+      "type": "message",
+      "text": "学校の無線、5Mbpsとかしか出なくて休憩時間にArchInstallBattle出来なかった思い出。",
+      "user": "U017BNGTHT3",
+      "ts": "1645673043.238459",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "Zgh/A",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "学校の無線、5Mbpsとかしか出なくて休憩時間にArchInstallBattle出来なかった思い出。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "reactions": [
+        {
+          "name": "warau",
+          "users": [
+            "U01J1GGMHDJ"
+          ],
+          "count": 1
+        }
+      ]
+    },
+    {
+      "client_msg_id": "b0c5a287-a2bc-41b9-adfd-cada33e77a3a",
+      "type": "message",
+      "text": "なるほど。まあ研究室とかじゃなくて授業とかの教室だと仕方ないか・・・",
+      "user": "U70QDFN82",
+      "ts": "1645672777.847239",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "zoB",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "なるほど。まあ研究室とかじゃなくて授業とかの教室だと仕方ないか・・・"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "fd1219d3-ddc5-4450-90c7-6df13b85a9f5",
+      "type": "message",
+      "text": "学校が有線提供してない部屋があったりするんですよね\n家ならなるべく有線使うで解決なんですが",
+      "user": "UVB7L4CKH",
+      "ts": "1645672679.615929",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "RIzu3",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "学校が有線提供してない部屋があったりするんですよね\n家ならなるべく有線使うで解決なんですが"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "75f681c9-ac84-49ed-a348-e09466cab3db",
+      "type": "message",
+      "text": "私はほぼ有線派ですけどね。自宅内も作業スペースまでLANケーブルはい回す",
+      "user": "U70QDFN82",
+      "ts": "1645672642.066069",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "sSZ",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "私はほぼ有線派ですけどね。自宅内も作業スペースまでLANケーブルはい回す"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "8c87a084-2043-44c7-9a09-f1ce329201e2",
+      "type": "message",
+      "text": "ちなみに元は300出てましたが、前述の通りgitもまともに動かない縛りプレイだったので",
+      "user": "UVB7L4CKH",
+      "ts": "1645672630.499389",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "FPB",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "ちなみに元は300出てましたが、前述の通りgitもまともに動かない縛りプレイだったので"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "12392b7c-b876-466b-b588-edab9b5c8591",
+      "type": "message",
+      "text": "まあ11axまでフルで使う訳もないし、acでも150Mbps出てるなら及第点なので割り切ろうかなと",
+      "user": "UVB7L4CKH",
+      "ts": "1645672584.339629",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "Osl9",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "まあ11axまでフルで使う訳もないし、acでも150Mbps出てるなら及第点なので割り切ろうかなと"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "ed8d4ce4-9a10-430a-b612-156461e54cfa",
+      "type": "message",
+      "text": "そうですね、完全に物理ダメージっぽいです",
+      "user": "UVB7L4CKH",
+      "ts": "1645672560.546919",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "qgA",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "そうですね、完全に物理ダメージっぽいです"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "ee19b87e-2fad-4e28-b8eb-a41c796d4c5e",
+      "type": "message",
+      "text": "静電気とかかと思ったら物理的にパキっていったパターンか",
+      "user": "U70QDFN82",
+      "ts": "1645672529.542899",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "Ffxz",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "静電気とかかと思ったら物理的にパキっていったパターンか"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "06f1e7ea-5c3e-40b0-8d3c-921fdf6b933f",
+      "type": "message",
+      "text": "元あったカードの端子部分の芯が中で折れたっぽい感触でした",
+      "user": "UVB7L4CKH",
+      "ts": "1645672271.354479",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "p6nc",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "元あったカードの端子部分の芯が中で折れたっぽい感触でした"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "reactions": [
+        {
+          "name": "majika",
+          "users": [
+            "U70QDFN82"
+          ],
+          "count": 1
+        },
+        {
+          "name": "scream",
+          "users": [
+            "U02BLTTQEL9"
+          ],
+          "count": 1
+        }
+      ]
+    },
+    {
+      "client_msg_id": "cb47cb6c-4444-4bd0-a499-28bc0783f572",
+      "type": "message",
+      "text": "どうやったら潰れるんですか？？",
+      "user": "U70QDFN82",
+      "ts": "1645670484.786249",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "=UYy+",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "どうやったら潰れるんですか？？"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "1015d9a0-6b20-41ee-9415-3b8d27154cd1",
+      "type": "message",
+      "text": "割と本気でやらかしてアンテナ線を片方潰してしまった……\nそれでも150Mbpsは出てるしgitも安定したというのを慰めにしていいものか……\n<https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1645597687916609>",
+      "user": "UVB7L4CKH",
+      "ts": "1645670028.068429",
+      "team": "T0GFBAM8C",
+      "edited": {
+        "user": "UVB7L4CKH",
+        "ts": "1645670035.000000"
+      },
+      "attachments": [
+        {
+          "from_url": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1645597687916609",
+          "ts": "1645597687.916609",
+          "author_id": "UVB7L4CKH",
+          "channel_team": "T0GFBAM8C",
+          "channel_id": "C0GFH3RHU",
+          "channel_name": "random",
+          "is_msg_unfurl": true,
+          "message_blocks": [
+            {
+              "team": "T0GFBAM8C",
+              "channel": "C0GFH3RHU",
+              "ts": "1645597687.916609",
+              "message": {
+                "blocks": [
+                  {
+                    "type": "rich_text",
+                    "block_id": "5iG=Q",
+                    "elements": [
+                      {
+                        "type": "rich_text_section",
+                        "elements": [
+                          {
+                            "type": "text",
+                            "text": "ThinkPadのMediaTek製Wi-Fiカードが死ぬほど不安定だったのでIntelのカードポチる事にしました\n動くには動くからもったいない気もしたけど、git cloneが死ぬのはいただけないしどうせ3000円程度なので誤差という事で"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            }
+          ],
+          "id": 1,
+          "original_url": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1645597687916609",
+          "fallback": "[February 22nd, 2022 10:28 PM] tatsumigamou: ThinkPadのMediaTek製Wi-Fiカードが死ぬほど不安定だったのでIntelのカードポチる事にしました\n動くには動くからもったいない気もしたけど、git cloneが死ぬのはいただけないしどうせ3000円程度なので誤差という事で",
+          "text": "ThinkPadのMediaTek製Wi-Fiカードが死ぬほど不安定だったのでIntelのカードポチる事にしました\n動くには動くからもったいない気もしたけど、git cloneが死ぬのはいただけないしどうせ3000円程度なので誤差という事で",
+          "author_name": "Tatsumi",
+          "author_link": "https://archlinuxjp.slack.com/team/UVB7L4CKH",
+          "author_icon": "https://avatars.slack-edge.com/2020-03-12/985313571153_203fee630d3a4a1053a1_48.jpg",
+          "author_subname": "Tatsumi",
+          "mrkdwn_in": [
+            "text"
+          ],
+          "footer": "#random に投稿"
+        }
+      ],
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "Y4h",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "割と本気でやらかしてアンテナ線を片方潰してしまった……\nそれでも150Mbpsは出てるしgitも安定したというのを慰めにしていいものか……\n"
+                },
+                {
+                  "type": "link",
+                  "url": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1645597687916609"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "0e9863c6-ffbf-44b1-89ea-79856a5324a8",
+      "type": "message",
+      "text": "ねます。",
+      "user": "U02BLTTQEL9",
+      "ts": "1645643408.552669",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "P3g",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "ねます。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "reactions": [
+        {
+          "name": "mantelpiece_clock",
+          "users": [
+            "U02ASPM0A6T"
+          ],
+          "count": 1
+        },
+        {
+          "name": "+1",
+          "users": [
+            "U034C51EP9Q"
+          ],
+          "count": 1
+        }
+      ]
+    },
+    {
+      "client_msg_id": "337fb4a4-b552-4406-8397-beebcdfa47c5",
+      "type": "message",
+      "text": "↓この動画シリーズかっこいいです。\n<https://www.nicovideo.jp/user/4801556/mylist/34610498>",
+      "user": "U02BLTTQEL9",
+      "ts": "1645643400.492189",
+      "team": "T0GFBAM8C",
+      "attachments": [
+        {
+          "from_url": "https://www.nicovideo.jp/user/4801556/mylist/34610498",
+          "thumb_url": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/480/4801556.jpg?1607929067",
+          "thumb_width": 150,
+          "thumb_height": 150,
+          "service_icon": "https://nicovideo.cdn.nimg.jp/uni/images/favicon/favicon.ico?re",
+          "id": 1,
+          "original_url": "https://www.nicovideo.jp/user/4801556/mylist/34610498",
+          "fallback": "ニコニコ: 「ライフゲームの世界」 せがわ（旧はむくん）さんの公開マイリスト - ニコニコ",
+          "text": "複雑系コミュニティ動画 ライフゲーム特集",
+          "title": "「ライフゲームの世界」 せがわ（旧はむくん）さんの公開マイリスト - ニコニコ",
+          "title_link": "https://www.nicovideo.jp/user/4801556/mylist/34610498",
+          "service_name": "ニコニコ"
+        }
+      ],
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "EOJ",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "↓この動画シリーズかっこいいです。\n"
+                },
+                {
+                  "type": "link",
+                  "url": "https://www.nicovideo.jp/user/4801556/mylist/34610498"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "896eeb01-c5aa-44dc-a46a-37e183b02995",
+      "type": "message",
+      "text": "定期的にフルシステム再構築しているのでpacstrapには日常的にお世話になってる",
+      "user": "UGA29R3FH",
+      "ts": "1645643296.413789",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "43TWY",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "定期的にフルシステム再構築しているのでpacstrapには日常的にお世話になってる"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "bfb0e1e6-d1e1-48c9-b45b-57ce65fe3335",
+      "type": "message",
+      "text": "生死が拮抗しがちと思いきや例外的に無限に規則的に増えるものがあったってのがグライダーがハッカブルに感じられるってところなのかなあ\n<https://upload.wikimedia.org/wikipedia/commons/e/e5/Gospers_glider_gun.gif>",
+      "user": "U02ASPM0A6T",
+      "ts": "1645643289.019069",
+      "team": "T0GFBAM8C",
+      "attachments": [
+        {
+          "from_url": "https://upload.wikimedia.org/wikipedia/commons/e/e5/Gospers_glider_gun.gif",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e5/Gospers_glider_gun.gif",
+          "image_width": 250,
+          "image_height": 180,
+          "image_bytes": 21272,
+          "id": 1,
+          "original_url": "https://upload.wikimedia.org/wikipedia/commons/e/e5/Gospers_glider_gun.gif",
+          "fallback": "250x180px image"
+        }
+      ],
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "G3S",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "生死が拮抗しがちと思いきや例外的に無限に規則的に増えるものがあったってのがグライダーがハッカブルに感じられるってところなのかなあ\n"
+                },
+                {
+                  "type": "link",
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/e/e5/Gospers_glider_gun.gif"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "3d649697-220e-45b3-a0ff-7fac3626dd76",
+      "type": "message",
+      "text": "pacstrap便利ですねえ",
+      "user": "U02ASPM0A6T",
+      "ts": "1645643250.535919",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "lKU",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "pacstrap便利ですねえ"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "348ad0f3-7576-488f-b6ab-d2a14fe497eb",
+      "type": "message",
+      "text": "ライフゲームすこ",
+      "user": "UGA29R3FH",
+      "ts": "1645643245.514329",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "uuza",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "ライフゲームすこ"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "26938a3d-3176-45f0-86d5-399e3a426097",
+      "type": "message",
+      "text": "pacstrap 便利だった。\n```pacstrap -M -U -C /mnt/etc/pacman.conf glibc lib32-glibc```",
+      "user": "U02BLTTQEL9",
+      "ts": "1645643187.884759",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "kg2n1",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "pacstrap 便利だった。\n"
+                }
+              ]
+            },
+            {
+              "type": "rich_text_preformatted",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "pacstrap -M -U -C /mnt/etc/pacman.conf glibc lib32-glibc"
+                }
+              ],
+              "border": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "fa3a9dac-c028-42a1-8e03-5856a41fbfa9",
+      "type": "message",
+      "text": "glibc のメジャーバージョン下げたら何もできなくなって復旧作業してました。",
+      "user": "U02BLTTQEL9",
+      "ts": "1645643101.059899",
+      "team": "T0GFBAM8C",
+      "edited": {
+        "user": "U02BLTTQEL9",
+        "ts": "1645643151.000000"
+      },
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "AtTHS",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "glibc のメジャーバージョン下げたら何もできなくなって復旧作業してました。"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "0c2539d0-f298-4f85-8563-6d54783dd888",
+      "type": "message",
+      "text": "<https://ja.wikipedia.org/wiki/%E3%82%B7%E3%83%A5%E3%82%B7%E3%83%A5%E3%83%9D%E3%83%83%E3%83%9D%E5%88%97%E8%BB%8A>",
+      "user": "U02BLTTQEL9",
+      "ts": "1645643053.830009",
+      "team": "T0GFBAM8C",
+      "attachments": [
+        {
+          "from_url": "https://ja.wikipedia.org/wiki/%E3%82%B7%E3%83%A5%E3%82%B7%E3%83%A5%E3%83%9D%E3%83%83%E3%83%9D%E5%88%97%E8%BB%8A",
+          "service_icon": "https://a.slack-edge.com/80588/img/unfurl_icons/wikipedia.png",
+          "id": 1,
+          "original_url": "https://ja.wikipedia.org/wiki/%E3%82%B7%E3%83%A5%E3%82%B7%E3%83%A5%E3%83%9D%E3%83%83%E3%83%9D%E5%88%97%E8%BB%8A",
+          "fallback": "wikipedia: シュシュポッポ列車",
+          "text": "シュシュポッポ列車 (puffer train) は、ライフゲームに出てくる繁殖型のパターンの1つ。移動するときに煙のように物体を残して自分自身は進んでいく。複数形では単にpuffersとも言う。\n狭義では、最初に見つけられた、Bヘプトミノを軽量級宇宙船で護衛する形の機関車 (engine) によるパターン（後述）のことを指す。広義には、ライフゲームおよびセル・オートマトンにおいて一般に、物体を残しながら動くパターンをこう呼ぶ。\nコンウェイが、際限なく成長するパターンが存在するならこのようなものであろう、とした3タイプのうちの1つで、もう1つはグライダー銃であり、最後の1つはその両方である「グライダーを打ち出すシュシュポッポ列車」ないしは「移動する銃」のようなものである。\n日本語では、「汽車ポッポ」と呼ぶ場合もある。",
+          "title": "シュシュポッポ列車",
+          "title_link": "https://ja.wikipedia.org/wiki/%E3%82%B7%E3%83%A5%E3%82%B7%E3%83%A5%E3%83%9D%E3%83%83%E3%83%9D%E5%88%97%E8%BB%8A",
+          "author_name": "Wikipedia",
+          "author_link": "https://ja.wikipedia.org/"
+        }
+      ],
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "zrlw",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "link",
+                  "url": "https://ja.wikipedia.org/wiki/%E3%82%B7%E3%83%A5%E3%82%B7%E3%83%A5%E3%83%9D%E3%83%83%E3%83%9D%E5%88%97%E8%BB%8A"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "69f99c52-6404-414b-970f-9fbd5268201b",
+      "type": "message",
+      "text": "<https://ja.wikipedia.org/?curid=1336023>",
+      "user": "U034C51EP9Q",
+      "ts": "1645639963.352539",
+      "team": "T0GFBAM8C",
+      "attachments": [
+        {
+          "from_url": "https://ja.wikipedia.org/?curid=1336023",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/96/Animated_glider_emblem.gif",
+          "image_width": 121,
+          "image_height": 121,
+          "image_bytes": 20825,
+          "service_icon": "https://ja.wikipedia.org/static/apple-touch/wikipedia.png",
+          "id": 1,
+          "original_url": "https://ja.wikipedia.org/?curid=1336023",
+          "fallback": "グライダー (ライフゲーム) - Wikipedia",
+          "title": "グライダー (ライフゲーム) - Wikipedia",
+          "title_link": "https://ja.wikipedia.org/?curid=1336023",
+          "service_name": "ja.wikipedia.org"
+        }
+      ],
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "raiy",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "link",
+                  "url": "https://ja.wikipedia.org/?curid=1336023"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "reactions": [
+        {
+          "name": "wakaranai",
+          "users": [
+            "U02ASPM0A6T",
+            "U02NQFJQ7A9"
+          ],
+          "count": 2
+        }
+      ]
+    },
+    {
+      "client_msg_id": "6098c763-2045-4990-91f4-abba97d94865",
+      "type": "message",
+      "text": "グライダー。意味は知らないけどそういうのがあると聞いたことはある\n• <https://cruel.org/freeware/hacker.html>\n• <http://www.catb.org/~esr/hacker-emblem/>",
+      "user": "U02ASPM0A6T",
+      "ts": "1645639629.069289",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "fZqCq",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "グライダー。意味は知らないけどそういうのがあると聞いたことはある\n"
+                }
+              ]
+            },
+            {
+              "type": "rich_text_list",
+              "elements": [
+                {
+                  "type": "rich_text_section",
+                  "elements": [
+                    {
+                      "type": "link",
+                      "url": "https://cruel.org/freeware/hacker.html"
+                    }
+                  ]
+                },
+                {
+                  "type": "rich_text_section",
+                  "elements": [
+                    {
+                      "type": "link",
+                      "url": "http://www.catb.org/~esr/hacker-emblem/"
+                    }
+                  ]
+                }
+              ],
+              "style": "bullet",
+              "indent": 0,
+              "border": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "message",
+      "subtype": "channel_join",
+      "ts": "1645638310.906169",
+      "user": "U034C643SQ2",
+      "text": "<@U034C643SQ2>さんがチャンネルに参加しました"
+    },
+    {
+      "type": "message",
+      "subtype": "channel_join",
+      "ts": "1645637945.413359",
+      "user": "U034C51EP9Q",
+      "text": "<@U034C51EP9Q>さんがチャンネルに参加しました",
+      "reactions": [
+        {
+          "name": "archjp-joy",
+          "users": [
+            "U02ASPM0A6T",
+            "U02BLTTQEL9",
+            "UJ7P75WB1"
+          ],
+          "count": 3
+        }
+      ]
+    },
+    {
+      "client_msg_id": "293b3479-472a-41aa-91f7-a582d7fc28b1",
+      "type": "message",
+      "text": "ちなみにgitが死ぬといってもあまり大きくないリポジトリなら通るんですよね\n`vim/vim` と `neovim/neovim` は `--depth=1` にしてもダメでした",
+      "user": "UVB7L4CKH",
+      "ts": "1645598368.516719",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "LB4",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "ちなみにgitが死ぬといってもあまり大きくないリポジトリなら通るんですよね\n"
+                },
+                {
+                  "type": "text",
+                  "text": "vim/vim",
+                  "style": {
+                    "code": true
+                  }
+                },
+                {
+                  "type": "text",
+                  "text": " と "
+                },
+                {
+                  "type": "text",
+                  "text": "neovim/neovim",
+                  "style": {
+                    "code": true
+                  }
+                },
+                {
+                  "type": "text",
+                  "text": " は "
+                },
+                {
+                  "type": "text",
+                  "text": "--depth=1",
+                  "style": {
+                    "code": true
+                  }
+                },
+                {
+                  "type": "text",
+                  "text": " にしてもダメでした"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "e49c2bf9-2cda-40e2-8f11-92f600e12ecf",
+      "type": "message",
+      "text": "まあどちらも同じカードに載ってるのでIntelカードになる運命ですが",
+      "user": "UVB7L4CKH",
+      "ts": "1645598291.765939",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "xOgWc",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "まあどちらも同じカードに載ってるのでIntelカードになる運命ですが"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "129da588-19f4-4dcd-b899-ee9edea5a000",
+      "type": "message",
+      "text": "ちなみにBluetoothの方はちゃんと動くんですよね\nLDACで動画見ても感じるほどの遅延すらない",
+      "user": "UVB7L4CKH",
+      "ts": "1645598240.822289",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "I5R",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "ちなみにBluetoothの方はちゃんと動くんですよね\nLDACで動画見ても感じるほどの遅延すらない"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "f52382fd-4f30-4bcc-9016-7d7e46d78378",
+      "type": "message",
+      "text": "AMDが原因で死ぬならまだ分かっていて買ったしむしろそれを楽しみにしてた節があるので良かったんですが、ネットワークカードは伏兵すぎた",
+      "user": "UVB7L4CKH",
+      "ts": "1645598148.967849",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "d=Hlo",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "AMDが原因で死ぬならまだ分かっていて買ったしむしろそれを楽しみにしてた節があるので良かったんですが、ネットワークカードは伏兵すぎた"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "reactions": [
+        {
+          "name": "warau",
+          "users": [
+            "UGA29R3FH",
+            "U70QDFN82",
+            "U7VDHKJHM",
+            "U017BNGTHT3",
+            "U02BLTTQEL9",
+            "U01J1GGMHDJ"
+          ],
+          "count": 6
+        }
+      ]
+    },
+    {
+      "client_msg_id": "51ce9cba-79e4-4b94-8dc4-1b9b8f133c2a",
+      "type": "message",
+      "text": "以前、クソ回線使っていた時はぷつぷつ切れるだけだったのでrsyncの差分転送で凌いでいたが、そうなると死ぬしかない",
+      "user": "UGA29R3FH",
+      "ts": "1645598060.282489",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "VLzl0",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "以前、クソ回線使っていた時はぷつぷつ切れるだけだったのでrsyncの差分転送で凌いでいたが、そうなると死ぬしかない"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "549e45ea-22bf-4080-948d-6b0db3f66ad7",
+      "type": "message",
+      "text": "動きすらしないのは厳しい…",
+      "user": "UGA29R3FH",
+      "ts": "1645598003.775269",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "5w1",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "動きすらしないのは厳しい…"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "a8db78c8-bfc6-44cc-80f7-5fc844ee0414",
+      "type": "message",
+      "text": "git cloneが死ぬというよりTCPの維持が死んでる気配があるのでワンチャンrsyncも死にそう",
+      "user": "UVB7L4CKH",
+      "ts": "1645597986.805869",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "aJyg",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "git cloneが死ぬというよりTCPの維持が死んでる気配があるのでワンチャンrsyncも死にそう"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "9d8c96fe-6ecd-4f88-a26a-803f6326e88b",
+      "type": "message",
+      "text": "ドライバはカーネルパニックに関してはパッチがあるのを確認してるんですが、引っ張ってくるのも面倒だしgit cloneが死ぬのは直ってる確証がないしで投げました",
+      "user": "UVB7L4CKH",
+      "ts": "1645597933.265529",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "PIuV1",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "ドライバはカーネルパニックに関してはパッチがあるのを確認してるんですが、引っ張ってくるのも面倒だしgit cloneが死ぬのは直ってる確証がないしで投げました"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "2415e0c5-698b-4c65-b9ee-b7f786bcf68e",
+      "type": "message",
+      "text": "毎回毎回鯖機でgit cloneしてrsyncする思いをしたら3kくらい出せるなあ",
+      "user": "UGA29R3FH",
+      "ts": "1645597932.250059",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "kQx",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "毎回毎回鯖機でgit cloneしてrsyncする思いをしたら3kくらい出せるなあ"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "d777258f-9079-457a-b50e-5d1be847ddc3",
+      "type": "message",
+      "text": "つらい",
+      "user": "U70QDFN82",
+      "ts": "1645597890.689799",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "UVEvX",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "つらい"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "has_more": true,
+  "is_limited": false,
+  "pin_count": 0,
+  "channel_actions_ts": null,
+  "channel_actions_count": 0,
+  "response_metadata": {
+    "next_cursor": "bmV4dF90czoxNjQ1NTk3ODg1MzMxMzE5"
+  }
+}

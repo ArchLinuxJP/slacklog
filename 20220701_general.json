@@ -1,0 +1,3442 @@
+{
+  "ok": true,
+  "latest": "1659355877.000000",
+  "oldest": "1656677477.000000",
+  "messages": [
+    {
+      "type": "message",
+      "subtype": "channel_join",
+      "ts": "1659263757.883629",
+      "user": "U03RQCREF8S",
+      "text": "<@U03RQCREF8S>さんがチャンネルに参加しました",
+      "reactions": [
+        {
+          "name": "archjp-joy",
+          "users": [
+            "U02HC93TJEP",
+            "U0H9QUFA5",
+            "U0GFBAM8U"
+          ],
+          "count": 3
+        }
+      ]
+    },
+    {
+      "client_msg_id": "45903148-eaaf-4fe3-9f53-cc5fb2d59066",
+      "type": "message",
+      "text": "<#C0GFH3RHU|random> 的な話題になっちゃうけどdiscordにLINEを倒してほしいと思ってる",
+      "user": "U70QDFN82",
+      "ts": "1658994760.291649",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "WnL",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "channel",
+                  "channel_id": "C0GFH3RHU"
+                },
+                {
+                  "type": "text",
+                  "text": " 的な話題になっちゃうけどdiscordにLINEを倒してほしいと思ってる"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "reactions": [
+        {
+          "name": "wakaru",
+          "users": [
+            "U03921SFM3L",
+            "U0H9QUFA5",
+            "U351X6PNX",
+            "U01HE1ENNJZ"
+          ],
+          "count": 4
+        }
+      ]
+    },
+    {
+      "client_msg_id": "14d10442-6a44-4b68-b4e3-eaa5912a8e67",
+      "type": "message",
+      "text": "まだ30台前半なので中年にはなってないと信じたい…",
+      "user": "U0PM6EYR1",
+      "ts": "1658994619.666379",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "l5aJ",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "まだ30台前半なので中年にはなってないと信じたい…"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "D38F20FB-A58D-4131-850C-15874F0E562F",
+      "type": "message",
+      "text": "しろあちゃん",
+      "user": "U0GFBAM8U",
+      "ts": "1658994586.215359",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "NyTq",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "しろあちゃん"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "0b6ee692-d849-4d72-89bc-a3f7f59b86c6",
+      "type": "message",
+      "text": "オタクな中高年",
+      "user": "U70QDFN82",
+      "ts": "1658994525.520749",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "FwzEI",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "オタクな中高年"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "reactions": [
+        {
+          "name": "scream",
+          "users": [
+            "U0PM6EYR1",
+            "U01J1GGMHDJ",
+            "UCA1NQM5K",
+            "U3FJYR7MG",
+            "U01HE1ENNJZ",
+            "U02BLTTQEL9",
+            "UJ7P75WB1"
+          ],
+          "count": 7
+        }
+      ]
+    },
+    {
+      "client_msg_id": "1057ec52-0c9e-4055-9ab9-b2a8408e0fe6",
+      "type": "message",
+      "text": "どっちにも生息している私は…",
+      "user": "U0PM6EYR1",
+      "ts": "1658994482.602449",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "x4Ir",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "どっちにも生息している私は…"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "967510bd-08d9-44e3-89f9-b3fde95b55af",
+      "type": "message",
+      "text": "slack は中高年が多め、discord は中高生が多め、な印象があります。",
+      "user": "UN1SFMNU8",
+      "ts": "1658994319.111869",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "QThR1",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "slack は中高年が多め、discord は中高生が多め、な印象があります。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "reactions": [
+        {
+          "name": "wakaru",
+          "users": [
+            "U70QDFN82",
+            "U01J1GGMHDJ",
+            "U6DL9D3AB",
+            "UCA1NQM5K",
+            "U01HE1ENNJZ",
+            "UGA29R3FH"
+          ],
+          "count": 6
+        }
+      ]
+    },
+    {
+      "client_msg_id": "ffc7a81c-43c9-4d10-81b1-428227358e59",
+      "type": "message",
+      "text": "（Archの）初心者ウェルカムって観点だとやっぱちょっとElementは厳しいですね。入口が全く知らないサービスだったら私でも入るの躊躇する\nここに常駐してる人でもElementかなり認知度低かったし",
+      "user": "U70QDFN82",
+      "ts": "1658993404.502009",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "NQO2",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "（Archの）初心者ウェルカムって観点だとやっぱちょっとElementは厳しいですね。入口が全く知らないサービスだったら私でも入るの躊躇する\nここに常駐してる人でもElementかなり認知度低かったし"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "reactions": [
+        {
+          "name": "wakaru",
+          "users": [
+            "U6DL9D3AB"
+          ],
+          "count": 1
+        }
+      ]
+    },
+    {
+      "client_msg_id": "5F59A8C9-E282-4055-B367-68052A1B5633",
+      "type": "message",
+      "text": "関係ないけど、matrixは面白そうなので触ってみよう",
+      "user": "U0GFBAM8U",
+      "ts": "1658993158.540769",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "jSlu5",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "関係ないけど、matrixは面白そうなので触ってみよう"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "CBD68612-2BE0-4379-8094-15CDCE0CB75D",
+      "type": "message",
+      "text": "候補としてdiscordが一番よさそう",
+      "user": "U0GFBAM8U",
+      "ts": "1658993051.174559",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "T+Y+",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "候補としてdiscordが一番よさそう"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "2B2628C2-18FB-4D00-A6B2-0C32938723B3",
+      "type": "message",
+      "text": "なるほど",
+      "user": "U0GFBAM8U",
+      "ts": "1658992996.460219",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "2qeb3",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "なるほど"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "7d8d4e65-427d-4157-8522-a6f86e5ceca5",
+      "type": "message",
+      "text": "Matrix は少し使ってますし思想的に好きではあるのですが，今までと変わらない快適さを担保できるのは Discord じゃないかなと思います。",
+      "user": "U031Y1JFXM2",
+      "ts": "1658992386.404379",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "1Lp",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "Matrix は少し使ってますし思想的に好きではあるのですが，今までと変わらない快適さを担保できるのは Discord じゃないかなと思います。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "thread_ts": "1658992386.404379",
+      "reply_count": 4,
+      "reply_users_count": 3,
+      "latest_reply": "1659017370.718969",
+      "reply_users": [
+        "U031Y1JFXM2",
+        "U0GFBAM8U",
+        "U70QDFN82"
+      ],
+      "is_locked": false,
+      "subscribed": true,
+      "last_read": "1659017370.718969",
+      "reactions": [
+        {
+          "name": "sorena",
+          "users": [
+            "U70QDFN82",
+            "U3FJYR7MG",
+            "UBEFL3YLE",
+            "U6Y9PK6DB",
+            "U01HE1ENNJZ"
+          ],
+          "count": 5
+        }
+      ]
+    },
+    {
+      "client_msg_id": "cab88843-fa00-4b21-8b46-d0a6555e42be",
+      "type": "message",
+      "text": "確かに。さすがにいきなり訴訟・損害賠償とかはないでしょう。警告がないうちは、規約に解釈の余地がある方が問題ではないですかという捉え方でいい気がします",
+      "user": "U02ASPM0A6T",
+      "ts": "1658981787.933909",
+      "team": "T0GFBAM8C",
+      "edited": {
+        "user": "U02ASPM0A6T",
+        "ts": "1658981872.000000"
+      },
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "liJcP",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "確かに。さすがにいきなり訴訟・損害賠償とかはないでしょう。警告がないうちは、規約に解釈の余地がある方が問題ではないですかという捉え方でいい気がします"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "296149D4-246D-4206-B5F8-A2D88A06135C",
+      "type": "message",
+      "text": "ログに関しては残す方向でちょっと考えてます。slack側から警告されたら停止させれば良さそう",
+      "user": "U0GFBAM8U",
+      "ts": "1658981528.808329",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "V4v",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "ログに関しては残す方向でちょっと考えてます。slack側から警告されたら停止させれば良さそう"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "reactions": [
+        {
+          "name": "+1",
+          "users": [
+            "U02ASPM0A6T",
+            "U0H9QUFA5",
+            "U70QDFN82",
+            "U01J1GGMHDJ",
+            "U01HE1ENNJZ",
+            "U02BLTTQEL9"
+          ],
+          "count": 6
+        }
+      ]
+    },
+    {
+      "client_msg_id": "8d4495d4-75e7-42b2-94d8-ea9876a64295",
+      "type": "message",
+      "text": "まあ、実際移行しなくてもチャンネル共有できればいいですよね。実際にどんな形でできるのかはやってみないとわかりませんが、Slackは残り続けるでしょう",
+      "user": "U02ASPM0A6T",
+      "ts": "1658981464.793179",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "htDk",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "まあ、実際移行しなくてもチャンネル共有できればいいですよね。実際にどんな形でできるのかはやってみないとわかりませんが、Slackは残り続けるでしょう"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "c1d216c4-f7f1-49e3-825b-53413913ca2f",
+      "type": "message",
+      "text": "個人的にはある程度色々議論した後でkusakataさんに決めてもらえれば内容によらず異議なしです。しかしMatrixを熱く推したい",
+      "user": "U02ASPM0A6T",
+      "ts": "1658981435.861939",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "J5Fi",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "個人的にはある程度色々議論した後でkusakataさんに決めてもらえれば内容によらず異議なしです。しかしMatrixを熱く推したい"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "c4e92f93-b4db-40e9-b2cd-1e9800ba09f0",
+      "type": "message",
+      "text": "移行するかはともかくMatrixプロトコルは興味ある。\n普通に候補に上げるならDiscordが無難そう。",
+      "user": "U017BNGTHT3",
+      "ts": "1658981356.074569",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "1EJpu",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "移行するかはともかくMatrixプロトコルは興味ある。\n普通に候補に上げるならDiscordが無難そう。"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "9404A7EB-7234-4A09-902E-2FE6ACB0B70F",
+      "type": "message",
+      "text": "あくまで個人意見ですが、今回のslackの改定は移行まで考える事情ではないと思っています",
+      "user": "U0GFBAM8U",
+      "ts": "1658981340.407799",
+      "team": "T0GFBAM8C",
+      "edited": {
+        "user": "U0GFBAM8U",
+        "ts": "1658981781.000000"
+      },
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "Fy6=R",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "あくまで個人意見ですが、今回のslackの改定は移行まで考える事情ではないと思っています"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "9ba94e23-6653-48a8-bfef-ed45a4dff9bc",
+      "type": "message",
+      "text": "私はログ消えるの嫌なので移行は推進派で\nDiscord &gt;&gt;&gt;&gt;&gt; Element &gt;&gt; Zulip &gt;&gt;&gt; Slack\nですね",
+      "user": "U70QDFN82",
+      "ts": "1658981324.625639",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "X=p",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "私はログ消えるの嫌なので移行は推進派で\nDiscord >>>>> Element >> Zulip >>> Slack\nですね"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "message",
+      "text": "個人的には移行には反対ですね。真面目に検討するなら幅広い層のユーザに普及してる Discord くらいだと思う。",
+      "user": "U257W41DW",
+      "ts": "1658981204.299509",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "zx7",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "個人的には移行には反対ですね。真面目に検討するなら幅広い層のユーザに普及してる Discord くらいだと思う。"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "994963b6-6b36-41cb-9a2e-06beda5eebe5",
+      "type": "message",
+      "text": "ちなみにrust-jpは1を取りました",
+      "user": "U70QDFN82",
+      "ts": "1658980954.411239",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "/uy",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "ちなみにrust-jpは1を取りました"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "7bcee409-27ee-46f9-8c41-990348ef3b8a",
+      "type": "message",
+      "text": "とりあえず、どうします？\n個人的には９月までには残るにしろ移行するにしろなんらかの意思決定が欲しいですが・・・\n1. 管理人だけでクローズドに決める\n2. 議論や投票はオープンにやるが決定権は管理人が持つ\n3. 完全に投票結果で決める\nなど決め方もいろいろあると思いますが・・・",
+      "user": "U70QDFN82",
+      "ts": "1658980903.367889",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "F4OZ",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "とりあえず、どうします？\n個人的には９月までには残るにしろ移行するにしろなんらかの意思決定が欲しいですが・・・\n"
+                }
+              ]
+            },
+            {
+              "type": "rich_text_list",
+              "elements": [
+                {
+                  "type": "rich_text_section",
+                  "elements": [
+                    {
+                      "type": "text",
+                      "text": "管理人だけでクローズドに決める"
+                    }
+                  ]
+                },
+                {
+                  "type": "rich_text_section",
+                  "elements": [
+                    {
+                      "type": "text",
+                      "text": "議論や投票はオープンにやるが決定権は管理人が持つ"
+                    }
+                  ]
+                },
+                {
+                  "type": "rich_text_section",
+                  "elements": [
+                    {
+                      "type": "text",
+                      "text": "完全に投票結果で決める"
+                    }
+                  ]
+                }
+              ],
+              "style": "ordered",
+              "indent": 0,
+              "border": 0
+            },
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "など決め方もいろいろあると思いますが・・・"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "message",
+      "text": "URL検索できないですね。確かにこれはちょっとやだなあ",
+      "files": [
+        {
+          "id": "F03RDRUM8RJ",
+          "created": 1658980878,
+          "timestamp": 1658980878,
+          "name": "20220728-130016_screencast.mp4",
+          "title": "20220728-130016_screencast.mp4",
+          "mimetype": "video/mp4",
+          "filetype": "mp4",
+          "pretty_type": "MPEG 4ビデオ",
+          "user": "U02ASPM0A6T",
+          "editable": false,
+          "size": 315675,
+          "mode": "hosted",
+          "is_external": false,
+          "external_type": "",
+          "is_public": true,
+          "public_url_shared": false,
+          "display_as_bot": false,
+          "username": "",
+          "transcription": {
+            "status": "none"
+          },
+          "mp4": "https://files.slack.com/files-tmb/T0GFBAM8C-F03RDRUM8RJ-c35cf4dfb5/20220728-130016_screencast.mp4",
+          "url_private": "https://files.slack.com/files-tmb/T0GFBAM8C-F03RDRUM8RJ-c35cf4dfb5/20220728-130016_screencast.mp4",
+          "url_private_download": "https://files.slack.com/files-pri/T0GFBAM8C-F03RDRUM8RJ/download/20220728-130016_screencast.mp4",
+          "mp4_low": "https://files.slack.com/files-tmb/T0GFBAM8C-F03RDRUM8RJ-c35cf4dfb5/20220728-130016_screencast_trans.mp4",
+          "media_display_type": "video",
+          "thumb_video": "https://files.slack.com/files-tmb/T0GFBAM8C-F03RDRUM8RJ-c35cf4dfb5/20220728-130016_screencast_thumb_video.jpeg",
+          "thumb_video_w": 1578,
+          "thumb_video_h": 886,
+          "permalink": "https://archlinuxjp.slack.com/files/U02ASPM0A6T/F03RDRUM8RJ/20220728-130016_screencast.mp4",
+          "permalink_public": "https://slack-files.com/T0GFBAM8C-F03RDRUM8RJ-051390cc07",
+          "is_starred": false,
+          "has_rich_preview": false
+        }
+      ],
+      "upload": false,
+      "user": "U02ASPM0A6T",
+      "display_as_bot": false,
+      "ts": "1658980894.007089",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "2XuH+",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "URL検索できないですね。確かにこれはちょっとやだなあ"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "client_msg_id": "d0a8ce7c-cf86-46c0-b8d3-76e8f0284ee7"
+    },
+    {
+      "client_msg_id": "986fb1e4-7cc0-417b-acc5-0440b0a314ad",
+      "type": "message",
+      "text": "slack の移行先の事はおいておいて、matrix は私 好みな思想をもってそうですね。(あそんでみようかな)",
+      "user": "UPYQ3CUJ1",
+      "ts": "1658980643.997619",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "Z8Qw",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "slack の移行先の事はおいておいて、matrix は私 好みな思想をもってそうですね。(あそんでみようかな)"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "reactions": [
+        {
+          "name": "me-too",
+          "users": [
+            "U0H9QUFA5",
+            "U01HE1ENNJZ"
+          ],
+          "count": 2
+        }
+      ]
+    },
+    {
+      "client_msg_id": "01054b34-94b0-46e9-9a5e-ade0920711c4",
+      "type": "message",
+      "text": "matrixはオープンソースかつ分散型であるというのがいいですね。メールサーバーのように個人でも使えて企業や国によってロックされる心配もない。可用性や持続可能性から見ればベストに近い。かつ公式でも普通に使いやすい\n<https://wired.jp/2021/07/14/matrix-encrypted-messaging-app-governments/>",
+      "user": "U02ASPM0A6T",
+      "ts": "1658980614.048769",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "XhbI",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "matrixはオープンソースかつ分散型であるというのがいいですね。メールサーバーのように個人でも使えて企業や国によってロックされる心配もない。可用性や持続可能性から見ればベストに近い。かつ公式でも普通に使いやすい\n"
+                },
+                {
+                  "type": "link",
+                  "url": "https://wired.jp/2021/07/14/matrix-encrypted-messaging-app-governments/"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "2496bea7-c666-4305-ba27-52e4edd71698",
+      "type": "message",
+      "text": "&gt; なし\nなるほど、はい。",
+      "user": "UUWBU08TU",
+      "ts": "1658980553.917209",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "dPtX5",
+          "elements": [
+            {
+              "type": "rich_text_quote",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "なし"
+                }
+              ]
+            },
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "なるほど、はい。"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "d88cede5-1f44-4d49-9e98-4d0d2838c4f8",
+      "type": "message",
+      "text": "あと地味に嫌なのがURLで検索できないところだったり・・・",
+      "user": "U70QDFN82",
+      "ts": "1658980540.175199",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "aZbK/",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "あと地味に嫌なのがURLで検索できないところだったり・・・"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "reactions": [
+        {
+          "name": "humuhumu",
+          "users": [
+            "U02ASPM0A6T",
+            "U02Q7PAJYT1",
+            "U01HE1ENNJZ"
+          ],
+          "count": 3
+        },
+        {
+          "name": "naruhodo",
+          "users": [
+            "U0GFBAM8U",
+            "U0H9QUFA5"
+          ],
+          "count": 2
+        }
+      ]
+    },
+    {
+      "client_msg_id": "de8096e4-0969-43e3-be52-58d7548f73d0",
+      "type": "message",
+      "text": "あとElementは未読の処理がおかしいんでたくさんメッセージがあると変なところまで飛ばされるのが結構問題ですね。",
+      "user": "U70QDFN82",
+      "ts": "1658980518.314279",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "oNS",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "あとElementは未読の処理がおかしいんでたくさんメッセージがあると変なところまで飛ばされるのが結構問題ですね。"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "64104404-abeb-48b5-9484-336cb5389860",
+      "type": "message",
+      "text": "gitterはかなり下火なんでなしですね・・・",
+      "user": "U70QDFN82",
+      "ts": "1658980467.353739",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "Lj7y",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "gitterはかなり下火なんでなしですね・・・"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "reactions": [
+        {
+          "name": "naruhodo",
+          "users": [
+            "U017BNGTHT3"
+          ],
+          "count": 1
+        }
+      ]
+    },
+    {
+      "client_msg_id": "0CB21D9F-82EA-4CA4-A533-54F724CDC832",
+      "type": "message",
+      "text": "便利",
+      "user": "U0GFBAM8U",
+      "ts": "1658980428.996719",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "rd6cX",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "便利"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "19af72fe-a77e-411b-a258-a7c75004eb9c",
+      "type": "message",
+      "text": "デフォルトでブリッジして使えます。gitterのチャットをElement上で見ることができますね",
+      "user": "U70QDFN82",
+      "ts": "1658980394.421669",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "6cV",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "デフォルトでブリッジして使えます。gitterのチャットをElement上で見ることができますね"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "691AE507-0602-41D1-AFC0-306B4DD2D94E",
+      "type": "message",
+      "text": "gitterのアカウント、matrixで使えたりするのかな",
+      "user": "U0GFBAM8U",
+      "ts": "1658980360.057419",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "0fbo",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "gitterのアカウント、matrixで使えたりするのかな"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "a0b3ad37-4321-4c90-b80c-d2feb9d5bd68",
+      "type": "message",
+      "text": "まあでもそれはそれで残っていくんですね、matrixに飲み込まれるとしても日常は変わらない--",
+      "user": "U02ASPM0A6T",
+      "ts": "1658980311.931959",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "DqQl",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "まあでもそれはそれで残っていくんですね、matrixに飲み込まれるとしても日常は変わらない--"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "reactions": [
+        {
+          "name": "sunglasses",
+          "users": [
+            "U02ASPM0A6T"
+          ],
+          "count": 1
+        }
+      ]
+    },
+    {
+      "client_msg_id": "121D391B-C72D-4D7E-B108-06DA572940C1",
+      "type": "message",
+      "text": "ええ、初耳です",
+      "user": "U0GFBAM8U",
+      "ts": "1658980182.546489",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "tIU1",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "ええ、初耳です"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "862d1139-3a99-43ff-b7c7-6cae66731da0",
+      "type": "message",
+      "text": "gitterはmatrixエコシステムの一部になるそうです <https://blog.gitter.im/2020/09/30/gitter-element-acquisition/>",
+      "user": "U02ASPM0A6T",
+      "ts": "1658980138.845529",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "Xb65",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "gitterはmatrixエコシステムの一部になるそうです "
+                },
+                {
+                  "type": "link",
+                  "url": "https://blog.gitter.im/2020/09/30/gitter-element-acquisition/"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "reactions": [
+        {
+          "name": "eyes",
+          "users": [
+            "UUWBU08TU",
+            "U0H9QUFA5",
+            "U01HE1ENNJZ",
+            "U02BLTTQEL9",
+            "UH7SC74AE"
+          ],
+          "count": 5
+        }
+      ]
+    },
+    {
+      "client_msg_id": "0D4A2C77-7D91-4054-ABE9-9396D1E05302",
+      "type": "message",
+      "text": "良さそうな感じはするんだけど",
+      "user": "U0GFBAM8U",
+      "ts": "1658980080.100639",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "nQ2dS",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "良さそうな感じはするんだけど"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "DC94AEC6-67E6-4E8C-A6C6-73A41F2C0145",
+      "type": "message",
+      "text": "gitterなんで人気ないんだろ",
+      "user": "U0GFBAM8U",
+      "ts": "1658980042.839739",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "zNxYM",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "gitterなんで人気ないんだろ"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "518b9b99-d9c0-4927-b98c-ad1085534a5c",
+      "type": "message",
+      "text": "私は90日で消えても別にいいかなという思いはあります。\nまた、Slackはクローズドな使われ方を想定している、というのもそうだと思っていて、ArchLinux初心者のサポートにどれだけ有用かというのは悩ましいと思っています(プロの方は好きなところで好きに会話されればいいと思うので……)。\nオープンな技術コミュニティという点では、 <http://gitter.im|gitter.im> とかはpublicにログを見られるっぽい？というのと、GitHubのアカウントでログインできるようなので、そういうのがあってもいいのかなーとは思いました。(pricingとか全く見ずに適当に発言しています)",
+      "user": "UUWBU08TU",
+      "ts": "1658979832.360979",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "ewG+K",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "私は90日で消えても別にいいかなという思いはあります。\nまた、Slackはクローズドな使われ方を想定している、というのもそうだと思っていて、ArchLinux初心者のサポートにどれだけ有用かというのは悩ましいと思っています(プロの方は好きなところで好きに会話されればいいと思うので……)。\nオープンな技術コミュニティという点では、 "
+                },
+                {
+                  "type": "link",
+                  "url": "http://gitter.im",
+                  "text": "gitter.im"
+                },
+                {
+                  "type": "text",
+                  "text": " とかはpublicにログを見られるっぽい？というのと、GitHubのアカウントでログインできるようなので、そういうのがあってもいいのかなーとは思いました。(pricingとか全く見ずに適当に発言しています)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "B776659D-5048-43C0-BE80-F4278E561AD8",
+      "type": "message",
+      "text": "mastodonに似てる、matrix\\.orgはmastodon\\.sosialみたいなものだと推測しますが、上のルーム検索で#がついてるのとついてないのがありますが、自サーバーがつかなくて、orgで作成されたのがシャープつくんでしょうか?あるいはその逆",
+      "user": "U0GFBAM8U",
+      "ts": "1658979673.034439",
+      "team": "T0GFBAM8C",
+      "edited": {
+        "user": "U0GFBAM8U",
+        "ts": "1658979837.000000"
+      },
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "/ai",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "mastodonに似てる、matrix\\.orgはmastodon\\.sosialみたいなものだと推測しますが、上のルーム検索で#がついてるのとついてないのがありますが、自サーバーがつかなくて、orgで作成されたのがシャープつくんでしょうか?あるいはその逆"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "301F0097-7B2F-4C37-B81C-886EC4F7E71E",
+      "type": "message",
+      "text": "matrixいいですねー\noss文化、ギーク文化に馴染みがある感じします\n特に良さそうなのが、ユーザーを共通して使えること、サーバーを立て連合できることの2点かな",
+      "user": "U0GFBAM8U",
+      "ts": "1658979460.051959",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "xRjzC",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "matrixいいですねー"
+                },
+                {
+                  "type": "text",
+                  "text": "\n"
+                },
+                {
+                  "type": "text",
+                  "text": "oss文化、ギーク文化に馴染みがある感じします"
+                },
+                {
+                  "type": "text",
+                  "text": "\n"
+                },
+                {
+                  "type": "text",
+                  "text": "特に良さそうなのが、ユーザーを共通して使えること、サーバーを立て連合できることの2点かな"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "d8ed97cf-0999-4d14-b59b-ab449e931597",
+      "type": "message",
+      "text": "アメリカの法律が変わったり戦争状態になっても遮断されたりしにくいんじゃないですかね。自前でサーバー立ててログインポートできれば復活もできるし",
+      "user": "U02ASPM0A6T",
+      "ts": "1658978860.005629",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "xWyg",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "アメリカの法律が変わったり戦争状態になっても遮断されたりしにくいんじゃないですかね。自前でサーバー立ててログインポートできれば復活もできるし"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "reactions": [
+        {
+          "name": "tashikani",
+          "users": [
+            "UPYQ3CUJ1",
+            "U01HE1ENNJZ"
+          ],
+          "count": 2
+        }
+      ]
+    },
+    {
+      "client_msg_id": "6f99c765-e588-4bc7-8609-ee01d8d666b3",
+      "type": "message",
+      "text": "Arch の思想もあって (jp ではなく) 公式には IRC (しか) つかっていないのかと思いますが、IRC ってArch に限らず日本ではまったく使われていないんでしたっけ。フランスとか他の国だと telegram がよくつかわれているみたいですね (何なのかはしらないですが)。中国は Matrix を使ってるみたいですね （<https://wiki.archlinux.org/title/International_communities>）。",
+      "user": "UPYQ3CUJ1",
+      "ts": "1658978680.553429",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "8vcwh",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "Arch の思想もあって (jp ではなく) 公式には IRC (しか) つかっていないのかと思いますが、IRC ってArch に限らず日本ではまったく使われていないんでしたっけ。フランスとか他の国だと telegram がよくつかわれているみたいですね (何なのかはしらないですが)。中国は Matrix を使ってるみたいですね （"
+                },
+                {
+                  "type": "link",
+                  "url": "https://wiki.archlinux.org/title/International_communities"
+                },
+                {
+                  "type": "text",
+                  "text": "）。"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "message",
+      "text": "私はMatrixはArch Linuxとの親和性は高い気がします。クライアントはブラウザやElementだけではないし、極端に軽さだけ求めるのであればWeeChatなどのコンソールプログラムという手もある。ブラウザとコンソールの間で機能と軽さで妥協できるポイントも見つかるように思います。ブラウザもDiscordよりも重い感じはしないし、チャンネルも探しやすい\n<https://matrix.org/clients/>",
+      "files": [
+        {
+          "id": "F03QWNGH1QF",
+          "created": 1658977922,
+          "timestamp": 1658977922,
+          "name": "image.png",
+          "title": "image.png",
+          "mimetype": "image/png",
+          "filetype": "png",
+          "pretty_type": "PNG",
+          "user": "U02ASPM0A6T",
+          "editable": false,
+          "size": 89921,
+          "mode": "hosted",
+          "is_external": false,
+          "external_type": "",
+          "is_public": true,
+          "public_url_shared": false,
+          "display_as_bot": false,
+          "username": "",
+          "url_private": "https://files.slack.com/files-pri/T0GFBAM8C-F03QWNGH1QF/image.png",
+          "url_private_download": "https://files.slack.com/files-pri/T0GFBAM8C-F03QWNGH1QF/download/image.png",
+          "media_display_type": "unknown",
+          "thumb_64": "https://files.slack.com/files-tmb/T0GFBAM8C-F03QWNGH1QF-dee3c4b8fd/image_64.png",
+          "thumb_80": "https://files.slack.com/files-tmb/T0GFBAM8C-F03QWNGH1QF-dee3c4b8fd/image_80.png",
+          "thumb_360": "https://files.slack.com/files-tmb/T0GFBAM8C-F03QWNGH1QF-dee3c4b8fd/image_360.png",
+          "thumb_360_w": 256,
+          "thumb_360_h": 360,
+          "thumb_480": "https://files.slack.com/files-tmb/T0GFBAM8C-F03QWNGH1QF-dee3c4b8fd/image_480.png",
+          "thumb_480_w": 341,
+          "thumb_480_h": 480,
+          "thumb_160": "https://files.slack.com/files-tmb/T0GFBAM8C-F03QWNGH1QF-dee3c4b8fd/image_160.png",
+          "original_w": 508,
+          "original_h": 715,
+          "thumb_tiny": "AwAwACKoD6Z4pCQTnk0qgY5FIdtACZHp+tJS9OhozQAlFFFAEi5A6jn3o564BpF6d6U57HFADWPtilj3bvlQMcdCM009etOjBLcOE9ycUAMPU54o/Gg9T3o/CgCReR91aaw54FKuMdcUHGPvUAN/CnRA7/8AV7+OlN/GnRjLffCe5oAYep7e1H40Hqe9H4UAf//Z",
+          "permalink": "https://archlinuxjp.slack.com/files/U02ASPM0A6T/F03QWNGH1QF/image.png",
+          "permalink_public": "https://slack-files.com/T0GFBAM8C-F03QWNGH1QF-e100bca291",
+          "is_starred": false,
+          "has_rich_preview": false
+        }
+      ],
+      "upload": false,
+      "user": "U02ASPM0A6T",
+      "display_as_bot": false,
+      "ts": "1658978652.479199",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "D+/7",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "私はMatrixはArch Linuxとの親和性は高い気がします。クライアントはブラウザやElementだけではないし、極端に軽さだけ求めるのであればWeeChatなどのコンソールプログラムという手もある。ブラウザとコンソールの間で機能と軽さで妥協できるポイントも見つかるように思います。ブラウザもDiscordよりも重い感じはしないし、チャンネルも探しやすい\n"
+                },
+                {
+                  "type": "link",
+                  "url": "https://matrix.org/clients/"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "edited": {
+        "user": "U02ASPM0A6T",
+        "ts": "1658978696.000000"
+      },
+      "client_msg_id": "067a21c4-567c-4cea-8fb8-247c5c0e75cc",
+      "attachments": [
+        {
+          "from_url": "https://matrix.org/clients/",
+          "thumb_url": "https://matrix.org/blog/img/splash.jpg",
+          "thumb_width": 911,
+          "thumb_height": 467,
+          "service_icon": "https://matrix.org/icons/icon-48x48.png?v=9c73e3e9f08bfca2a260df81aabb2fd4",
+          "id": 1,
+          "original_url": "https://matrix.org/clients/",
+          "fallback": "Matrix.org: Clients | Matrix.org",
+          "text": "Clients for Matrix, decentralised communications",
+          "title": "Clients | Matrix.org",
+          "title_link": "https://matrix.org/clients/",
+          "service_name": "Matrix.org"
+        }
+      ]
+    },
+    {
+      "client_msg_id": "14917a3f-2777-42f9-a6d3-7e66c7a9bbba",
+      "type": "message",
+      "text": "まあ今までのふるまいからの印象ですが、Matrixよりは仕様変更や方針変更はされやすいんじゃないですかね。フリーミアム文化前提でやってるでしょうから簡単にはそんなことはしないでしょうが、方針と戦略によっては何かガラっと変えてくることはありそう",
+      "user": "U02ASPM0A6T",
+      "ts": "1658976881.258419",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "8OAz",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "まあ今までのふるまいからの印象ですが、Matrixよりは仕様変更や方針変更はされやすいんじゃないですかね。フリーミアム文化前提でやってるでしょうから簡単にはそんなことはしないでしょうが、方針と戦略によっては何かガラっと変えてくることはありそう"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "31649753-7eff-4125-aca1-c41e3f1b34bf",
+      "type": "message",
+      "text": "まぁそれはありますね。直近の使いやすさを取るか、未来の危機を取るかになると思います",
+      "user": "U70QDFN82",
+      "ts": "1658976840.139479",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "sCJmU",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "まぁそれはありますね。直近の使いやすさを取るか、未来の危機を取るかになると思います"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "74ec84c0-2fc4-4a1a-a867-1e526b873d61",
+      "type": "message",
+      "text": "Matrix 使うとベンダロックインされる危険性が少ない？Discord だとまた今回のような事態にならない？(Discord使ったことないからよくわからん)",
+      "user": "U0H9QUFA5",
+      "ts": "1658976714.460809",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "K2GO9",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "Matrix 使うとベンダロックインされる危険性が少ない？Discord だとまた今回のような事態にならない？(Discord使ったことないからよくわからん)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "95269973-155e-4565-8ca0-7c5f75656103",
+      "type": "message",
+      "text": "Discodeは慣れてるってのは大きいですね。個人的には既に参加済みのチャンネルも多いから使わないということはないし",
+      "user": "U02ASPM0A6T",
+      "ts": "1658976396.048669",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "qezA",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "Discodeは慣れてるってのは大きいですね。個人的には既に参加済みのチャンネルも多いから使わないということはないし"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "f4a07b4a-1950-430a-9ea7-6c7168c34ae5",
+      "type": "message",
+      "text": "まあ可用性を見込んだ仕様から言えば排除したほうがいいんでしょうが、:arch-joy: ができないのは痛いなあ。。",
+      "user": "U02ASPM0A6T",
+      "ts": "1658976223.525989",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "Vk6I",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "まあ可用性を見込んだ仕様から言えば排除したほうがいいんでしょうが、"
+                },
+                {
+                  "type": "emoji",
+                  "name": "arch-joy"
+                },
+                {
+                  "type": "text",
+                  "text": " ができないのは痛いなあ。。"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "0354852a-f3c9-4da1-bcf3-9595750c5765",
+      "type": "message",
+      "text": "どこらへんでそんなにElement推しなのかわからないですけど、私は普通にDiscordの方が良いように思います・・・",
+      "user": "U70QDFN82",
+      "ts": "1658976189.457549",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "eeG",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "どこらへんでそんなにElement推しなのかわからないですけど、私は普通にDiscordの方が良いように思います・・・"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "9e126c86-8d6f-4cf1-98d5-f68f8bbf1e7f",
+      "type": "message",
+      "text": "あるといいですができないんですかね",
+      "user": "U02ASPM0A6T",
+      "ts": "1658975889.704289",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "RNP",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "あるといいですができないんですかね"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "471b5d85-c9cb-4a29-876d-d21a89986df0",
+      "type": "message",
+      "text": "カスタム絵文字が登録できるかどうかって重視しますか？",
+      "user": "U03921SFM3L",
+      "ts": "1658975854.097999",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "dbfJv",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "カスタム絵文字が登録できるかどうかって重視しますか？"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "message",
+      "text": "マークダウンも普通に使える。日本語化もされている。使い勝手だけで言えばこれほとんど問題ないように感じます。ログやアカウントがmatrix.orgに紐付けられているのならベンダロック等の危険も少なそうだし、普通に使いたい部分がしっかりしていて、とりあえず「日本人ユーザーが少ない」「まだ入ったばかりで慣れてない」など以外には文句のつけようがない印象ですね",
+      "files": [
+        {
+          "id": "F03RDKRJRQC",
+          "created": 1658975387,
+          "timestamp": 1658975387,
+          "name": "image.png",
+          "title": "image.png",
+          "mimetype": "image/png",
+          "filetype": "png",
+          "pretty_type": "PNG",
+          "user": "U02ASPM0A6T",
+          "editable": false,
+          "size": 140959,
+          "mode": "hosted",
+          "is_external": false,
+          "external_type": "",
+          "is_public": true,
+          "public_url_shared": false,
+          "display_as_bot": false,
+          "username": "",
+          "url_private": "https://files.slack.com/files-pri/T0GFBAM8C-F03RDKRJRQC/image.png",
+          "url_private_download": "https://files.slack.com/files-pri/T0GFBAM8C-F03RDKRJRQC/download/image.png",
+          "media_display_type": "unknown",
+          "thumb_64": "https://files.slack.com/files-tmb/T0GFBAM8C-F03RDKRJRQC-b65d4525fc/image_64.png",
+          "thumb_80": "https://files.slack.com/files-tmb/T0GFBAM8C-F03RDKRJRQC-b65d4525fc/image_80.png",
+          "thumb_360": "https://files.slack.com/files-tmb/T0GFBAM8C-F03RDKRJRQC-b65d4525fc/image_360.png",
+          "thumb_360_w": 357,
+          "thumb_360_h": 360,
+          "thumb_480": "https://files.slack.com/files-tmb/T0GFBAM8C-F03RDKRJRQC-b65d4525fc/image_480.png",
+          "thumb_480_w": 476,
+          "thumb_480_h": 480,
+          "thumb_160": "https://files.slack.com/files-tmb/T0GFBAM8C-F03RDKRJRQC-b65d4525fc/image_160.png",
+          "thumb_720": "https://files.slack.com/files-tmb/T0GFBAM8C-F03RDKRJRQC-b65d4525fc/image_720.png",
+          "thumb_720_w": 713,
+          "thumb_720_h": 720,
+          "thumb_800": "https://files.slack.com/files-tmb/T0GFBAM8C-F03RDKRJRQC-b65d4525fc/image_800.png",
+          "thumb_800_w": 800,
+          "thumb_800_h": 807,
+          "original_w": 866,
+          "original_h": 874,
+          "thumb_tiny": "AwAwAC+r64pCTThjHNNfGOKAEyQB0pKUdO1JzQAUUZozQA8HApp6UUHpQMOig+tJx6UoJA9aTJNAhKKKKAHUHpQaD0oAVeR16UYpv50u4e9AC4FIRzxRuNJuNAH/2Q==",
+          "permalink": "https://archlinuxjp.slack.com/files/U02ASPM0A6T/F03RDKRJRQC/image.png",
+          "permalink_public": "https://slack-files.com/T0GFBAM8C-F03RDKRJRQC-d98484e506",
+          "is_starred": false,
+          "has_rich_preview": false
+        }
+      ],
+      "upload": false,
+      "user": "U02ASPM0A6T",
+      "display_as_bot": false,
+      "ts": "1658975845.430439",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "fKf4p",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "マークダウンも普通に使える。日本語化もされている。使い勝手だけで言えばこれほとんど問題ないように感じます。ログやアカウントがmatrix.orgに紐付けられているのならベンダロック等の危険も少なそうだし、普通に使いたい部分がしっかりしていて、とりあえず「日本人ユーザーが少ない」「まだ入ったばかりで慣れてない」など以外には文句のつけようがない印象ですね"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "client_msg_id": "77bccd28-026d-43bd-81a8-f6c7475415c4"
+    },
+    {
+      "client_msg_id": "3268acb7-2275-40af-b67d-701d2d693f74",
+      "type": "message",
+      "text": "これはいいものだ。githubアカウントで使うとギーク文化の文脈でアイデンティティーが共通していていいかもしれません",
+      "user": "U02ASPM0A6T",
+      "ts": "1658940765.097389",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "9wiK",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "これはいいものだ。githubアカウントで使うとギーク文化の文脈でアイデンティティーが共通していていいかもしれません"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "da3834e8-174a-473b-9a37-9e6a0a0e9b74",
+      "type": "message",
+      "text": "とりあえずテスト用にチャンネル作りました <https://matrix.to/#/#arch-jp-test:matrix.org>",
+      "user": "U02ASPM0A6T",
+      "ts": "1658939168.563019",
+      "team": "T0GFBAM8C",
+      "attachments": [
+        {
+          "from_url": "https://matrix.to/#/#arch-jp-test:matrix.org",
+          "id": 1,
+          "original_url": "https://matrix.to/#/#arch-jp-test:matrix.org",
+          "fallback": "You're invited to talk on Matrix",
+          "text": "You're invited to talk on Matrix",
+          "title": "You're invited to talk on Matrix",
+          "title_link": "https://matrix.to/#/#arch-jp-test:matrix.org",
+          "service_name": "matrix.to"
+        }
+      ],
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "q9SN",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "とりあえずテスト用にチャンネル作りました "
+                },
+                {
+                  "type": "link",
+                  "url": "https://matrix.to/#/#arch-jp-test:matrix.org"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "thread_ts": "1658939168.563019",
+      "reply_count": 4,
+      "reply_users_count": 2,
+      "latest_reply": "1658974235.190089",
+      "reply_users": [
+        "U0H9QUFA5",
+        "U02ASPM0A6T"
+      ],
+      "is_locked": false,
+      "subscribed": false
+    },
+    {
+      "type": "message",
+      "text": "入ってみました。第一印象的には使い勝手はDiscodeとあまり変わらなそうです <https://element.io/get-started>",
+      "files": [
+        {
+          "id": "F03QU20TDTR",
+          "created": 1658938710,
+          "timestamp": 1658938710,
+          "name": "image.png",
+          "title": "image.png",
+          "mimetype": "image/png",
+          "filetype": "png",
+          "pretty_type": "PNG",
+          "user": "U02ASPM0A6T",
+          "editable": false,
+          "size": 128491,
+          "mode": "hosted",
+          "is_external": false,
+          "external_type": "",
+          "is_public": true,
+          "public_url_shared": false,
+          "display_as_bot": false,
+          "username": "",
+          "url_private": "https://files.slack.com/files-pri/T0GFBAM8C-F03QU20TDTR/image.png",
+          "url_private_download": "https://files.slack.com/files-pri/T0GFBAM8C-F03QU20TDTR/download/image.png",
+          "media_display_type": "unknown",
+          "thumb_64": "https://files.slack.com/files-tmb/T0GFBAM8C-F03QU20TDTR-b5824a467f/image_64.png",
+          "thumb_80": "https://files.slack.com/files-tmb/T0GFBAM8C-F03QU20TDTR-b5824a467f/image_80.png",
+          "thumb_360": "https://files.slack.com/files-tmb/T0GFBAM8C-F03QU20TDTR-b5824a467f/image_360.png",
+          "thumb_360_w": 360,
+          "thumb_360_h": 253,
+          "thumb_480": "https://files.slack.com/files-tmb/T0GFBAM8C-F03QU20TDTR-b5824a467f/image_480.png",
+          "thumb_480_w": 480,
+          "thumb_480_h": 337,
+          "thumb_160": "https://files.slack.com/files-tmb/T0GFBAM8C-F03QU20TDTR-b5824a467f/image_160.png",
+          "thumb_720": "https://files.slack.com/files-tmb/T0GFBAM8C-F03QU20TDTR-b5824a467f/image_720.png",
+          "thumb_720_w": 720,
+          "thumb_720_h": 506,
+          "thumb_800": "https://files.slack.com/files-tmb/T0GFBAM8C-F03QU20TDTR-b5824a467f/image_800.png",
+          "thumb_800_w": 800,
+          "thumb_800_h": 562,
+          "thumb_960": "https://files.slack.com/files-tmb/T0GFBAM8C-F03QU20TDTR-b5824a467f/image_960.png",
+          "thumb_960_w": 960,
+          "thumb_960_h": 674,
+          "thumb_1024": "https://files.slack.com/files-tmb/T0GFBAM8C-F03QU20TDTR-b5824a467f/image_1024.png",
+          "thumb_1024_w": 1024,
+          "thumb_1024_h": 719,
+          "original_w": 1365,
+          "original_h": 959,
+          "thumb_tiny": "AwAhADCqcnmm845oNIaAF7dqM/SgZx0FGfYUAJ+VH40fgKPwFACmkNKaKADIwBj8aOPSjIxzRxQAn4UUUUAKetBoPWg0AJSUtJQAUUUUAf/Z",
+          "permalink": "https://archlinuxjp.slack.com/files/U02ASPM0A6T/F03QU20TDTR/image.png",
+          "permalink_public": "https://slack-files.com/T0GFBAM8C-F03QU20TDTR-b7b7de8bee",
+          "is_starred": false,
+          "has_rich_preview": false
+        }
+      ],
+      "upload": false,
+      "user": "U02ASPM0A6T",
+      "display_as_bot": false,
+      "ts": "1658938758.776759",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "61F",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "入ってみました。第一印象的には使い勝手はDiscodeとあまり変わらなそうです "
+                },
+                {
+                  "type": "link",
+                  "url": "https://element.io/get-started"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "client_msg_id": "a56e65aa-80e9-4fe2-826c-19a411435835"
+    },
+    {
+      "client_msg_id": "537415e6-b994-4358-945a-2c0fff4e46f6",
+      "type": "message",
+      "text": "IRCで使ったことないからわからんですね・・・ブラウザでは画像も動画もコードハイライトも動きます。ほぼSlack",
+      "user": "U70QDFN82",
+      "ts": "1658938310.060199",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "INdj",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "IRCで使ったことないからわからんですね・・・ブラウザでは画像も動画もコードハイライトも動きます。ほぼSlack"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "0d631fce-6cc8-4195-8ce5-c3e8012d703b",
+      "type": "message",
+      "text": "ブラウザでアクセスしても画像とかは表示できるんですよね？matrixプロトコル全体が画像に対応してはいるのかな、IRCではURLで・ブラウザでは画像でって感じになってるんだろうか",
+      "user": "U02ASPM0A6T",
+      "ts": "1658938221.339839",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "gmMJ",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "ブラウザでアクセスしても画像とかは表示できるんですよね？matrixプロトコル全体が画像に対応してはいるのかな、IRCではURLで・ブラウザでは画像でって感じになってるんだろうか"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "387f754a-7ea4-4cba-a3af-daa8d26a92ad",
+      "type": "message",
+      "text": "あと登録が若干アブノーマルな感じなんで初めての人は面食らうかもですね",
+      "user": "U70QDFN82",
+      "ts": "1658938159.709549",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "rZC",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "あと登録が若干アブノーマルな感じなんで初めての人は面食らうかもですね"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "8f1613aa-6bfa-4b16-ac68-75b3d1094d87",
+      "type": "message",
+      "text": "アプリは使ったことないのでわからないです",
+      "user": "U70QDFN82",
+      "ts": "1658938090.537039",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "/pSG",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "アプリは使ったことないのでわからないです"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "f573ce62-bfd8-4bc2-be7b-03f2e1995064",
+      "type": "message",
+      "text": "あ、私はブラウザ上ですね。あとスマホにも一応入れてるか",
+      "user": "U70QDFN82",
+      "ts": "1658938076.505939",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "NMd/",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "あ、私はブラウザ上ですね。あとスマホにも一応入れてるか"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "009a3413-291b-47fa-b0b3-3e72aa578355",
+      "type": "message",
+      "text": "全然使ったことないので知らないのですが、ChromeやFirefoxなどのブラウザをクライアントにした時の使い勝手はどうなんでしょうね",
+      "user": "U02ASPM0A6T",
+      "ts": "1658938050.701079",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "IAnD",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "全然使ったことないので知らないのですが、ChromeやFirefoxなどのブラウザをクライアントにした時の使い勝手はどうなんでしょうね"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "98f25197-a5fd-4cc5-bf1c-fca7fcbb6eff",
+      "type": "message",
+      "text": "正直UI的にはあんまり使いやすくはないです、Element。ちょい重いし\nブリッジやらおれおれクライアント作れるところが利点ではありますがやる人がいるのかという疑問もあり・・・\nけど一応最近Webミーティングみたいなこともできるようになりました。",
+      "user": "U70QDFN82",
+      "ts": "1658937934.616109",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "LtfWo",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "正直UI的にはあんまり使いやすくはないです、Element。ちょい重いし\nブリッジやらおれおれクライアント作れるところが利点ではありますがやる人がいるのかという疑問もあり・・・\nけど一応最近Webミーティングみたいなこともできるようになりました。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "reactions": [
+        {
+          "name": "humuhumu",
+          "users": [
+            "U02ASPM0A6T"
+          ],
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "message",
+      "text": "ElementでブリッジすればSlackとの併用も比較的楽にできるかもしれませんね <https://ja.wikipedia.org/wiki/Element_(%E3%82%BD%E3%83%95%E3%83%88%E3%82%A6%E3%82%A7%E3%82%A2)>",
+      "files": [
+        {
+          "id": "F03R8EMMK42",
+          "created": 1658937448,
+          "timestamp": 1658937448,
+          "name": "image.png",
+          "title": "image.png",
+          "mimetype": "image/png",
+          "filetype": "png",
+          "pretty_type": "PNG",
+          "user": "U02ASPM0A6T",
+          "editable": false,
+          "size": 84851,
+          "mode": "hosted",
+          "is_external": false,
+          "external_type": "",
+          "is_public": true,
+          "public_url_shared": false,
+          "display_as_bot": false,
+          "username": "",
+          "url_private": "https://files.slack.com/files-pri/T0GFBAM8C-F03R8EMMK42/image.png",
+          "url_private_download": "https://files.slack.com/files-pri/T0GFBAM8C-F03R8EMMK42/download/image.png",
+          "media_display_type": "unknown",
+          "thumb_64": "https://files.slack.com/files-tmb/T0GFBAM8C-F03R8EMMK42-2b6f9b16f8/image_64.png",
+          "thumb_80": "https://files.slack.com/files-tmb/T0GFBAM8C-F03R8EMMK42-2b6f9b16f8/image_80.png",
+          "thumb_360": "https://files.slack.com/files-tmb/T0GFBAM8C-F03R8EMMK42-2b6f9b16f8/image_360.png",
+          "thumb_360_w": 360,
+          "thumb_360_h": 132,
+          "thumb_480": "https://files.slack.com/files-tmb/T0GFBAM8C-F03R8EMMK42-2b6f9b16f8/image_480.png",
+          "thumb_480_w": 480,
+          "thumb_480_h": 177,
+          "thumb_160": "https://files.slack.com/files-tmb/T0GFBAM8C-F03R8EMMK42-2b6f9b16f8/image_160.png",
+          "thumb_720": "https://files.slack.com/files-tmb/T0GFBAM8C-F03R8EMMK42-2b6f9b16f8/image_720.png",
+          "thumb_720_w": 720,
+          "thumb_720_h": 265,
+          "thumb_800": "https://files.slack.com/files-tmb/T0GFBAM8C-F03R8EMMK42-2b6f9b16f8/image_800.png",
+          "thumb_800_w": 800,
+          "thumb_800_h": 294,
+          "thumb_960": "https://files.slack.com/files-tmb/T0GFBAM8C-F03R8EMMK42-2b6f9b16f8/image_960.png",
+          "thumb_960_w": 960,
+          "thumb_960_h": 353,
+          "original_w": 1011,
+          "original_h": 372,
+          "thumb_tiny": "AwARADCnwQOBx7U3aKOccUu1vb8qB3E2CjYMdaCD6ijDH0/KgLhtXPJpMdcU7DD0/KkyVzQIZRRRQAUUUUAFFFFAH//Z",
+          "permalink": "https://archlinuxjp.slack.com/files/U02ASPM0A6T/F03R8EMMK42/image.png",
+          "permalink_public": "https://slack-files.com/T0GFBAM8C-F03R8EMMK42-2460e46f60",
+          "is_starred": false,
+          "has_rich_preview": false
+        }
+      ],
+      "upload": false,
+      "user": "U02ASPM0A6T",
+      "display_as_bot": false,
+      "ts": "1658937767.905699",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "3CZ",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "ElementでブリッジすればSlackとの併用も比較的楽にできるかもしれませんね "
+                },
+                {
+                  "type": "link",
+                  "url": "https://ja.wikipedia.org/wiki/Element_(%E3%82%BD%E3%83%95%E3%83%88%E3%82%A6%E3%82%A7%E3%82%A2)"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "client_msg_id": "2b04766f-7455-491b-a76f-4b7a246f9597"
+    },
+    {
+      "client_msg_id": "0e32eb36-3c2a-40b8-9293-59605387f212",
+      "type": "message",
+      "text": "ですね。だからチャンネル複数作るならワークスペース作ってspaceってのでまとめる（一覧にする）感じです",
+      "user": "U70QDFN82",
+      "ts": "1658937276.159399",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "sp/",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "ですね。だからチャンネル複数作るならワークスペース作ってspaceってのでまとめる（一覧にする）感じです"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "reactions": [
+        {
+          "name": "naruhodo",
+          "users": [
+            "U02BLTTQEL9"
+          ],
+          "count": 1
+        }
+      ]
+    },
+    {
+      "client_msg_id": "b41e4548-a4db-450b-a8c7-b0786adb9fcd",
+      "type": "message",
+      "text": "Matrix 今ちょっと触ってみたけど、IRC っぽい感じ。ドキュメントとか読んでないけどワークスペースって概念はないかも。",
+      "user": "U02BLTTQEL9",
+      "ts": "1658937211.398379",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "d9uG",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "Matrix 今ちょっと触ってみたけど、IRC っぽい感じ。ドキュメントとか読んでないけどワークスペースって概念はないかも。"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "message",
+      "text": "ワークスペースのオーナーが発言データのエクスポートと公開をするのは問題ないかも\n<https://slack.com/intl/ja-jp/trust/data-management>",
+      "files": [
+        {
+          "id": "F03R1QW98GN",
+          "created": 1658937050,
+          "timestamp": 1658937050,
+          "name": "image.png",
+          "title": "image.png",
+          "mimetype": "image/png",
+          "filetype": "png",
+          "pretty_type": "PNG",
+          "user": "U02ASPM0A6T",
+          "editable": false,
+          "size": 45203,
+          "mode": "hosted",
+          "is_external": false,
+          "external_type": "",
+          "is_public": true,
+          "public_url_shared": false,
+          "display_as_bot": false,
+          "username": "",
+          "url_private": "https://files.slack.com/files-pri/T0GFBAM8C-F03R1QW98GN/image.png",
+          "url_private_download": "https://files.slack.com/files-pri/T0GFBAM8C-F03R1QW98GN/download/image.png",
+          "media_display_type": "unknown",
+          "thumb_64": "https://files.slack.com/files-tmb/T0GFBAM8C-F03R1QW98GN-1b99373e82/image_64.png",
+          "thumb_80": "https://files.slack.com/files-tmb/T0GFBAM8C-F03R1QW98GN-1b99373e82/image_80.png",
+          "thumb_360": "https://files.slack.com/files-tmb/T0GFBAM8C-F03R1QW98GN-1b99373e82/image_360.png",
+          "thumb_360_w": 360,
+          "thumb_360_h": 97,
+          "thumb_480": "https://files.slack.com/files-tmb/T0GFBAM8C-F03R1QW98GN-1b99373e82/image_480.png",
+          "thumb_480_w": 480,
+          "thumb_480_h": 130,
+          "thumb_160": "https://files.slack.com/files-tmb/T0GFBAM8C-F03R1QW98GN-1b99373e82/image_160.png",
+          "thumb_720": "https://files.slack.com/files-tmb/T0GFBAM8C-F03R1QW98GN-1b99373e82/image_720.png",
+          "thumb_720_w": 720,
+          "thumb_720_h": 194,
+          "thumb_800": "https://files.slack.com/files-tmb/T0GFBAM8C-F03R1QW98GN-1b99373e82/image_800.png",
+          "thumb_800_w": 800,
+          "thumb_800_h": 216,
+          "thumb_960": "https://files.slack.com/files-tmb/T0GFBAM8C-F03R1QW98GN-1b99373e82/image_960.png",
+          "thumb_960_w": 960,
+          "thumb_960_h": 259,
+          "original_w": 997,
+          "original_h": 269,
+          "thumb_tiny": "AwAMADCooTZksMjtg0uE9R/3yaj3HGKXeaAH7kUcIrfUGm7h/wA81pu40ZPqaAHBsdUU/UUM4KkeWo9xTcn1NGT6mgD/2Q==",
+          "permalink": "https://archlinuxjp.slack.com/files/U02ASPM0A6T/F03R1QW98GN/image.png",
+          "permalink_public": "https://slack-files.com/T0GFBAM8C-F03R1QW98GN-b89d0f99d5",
+          "is_starred": false,
+          "has_rich_preview": false
+        }
+      ],
+      "upload": false,
+      "user": "U02ASPM0A6T",
+      "display_as_bot": false,
+      "ts": "1658937119.410939",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "a+Zj",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "ワークスペースのオーナーが発言データのエクスポートと公開をするのは問題ないかも\n"
+                },
+                {
+                  "type": "link",
+                  "url": "https://slack.com/intl/ja-jp/trust/data-management"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "client_msg_id": "608f0e15-fcee-4554-b21b-3ea46cbeab5b",
+      "thread_ts": "1658937119.410939",
+      "reply_count": 2,
+      "reply_users_count": 1,
+      "latest_reply": "1658937494.577659",
+      "reply_users": [
+        "U70QDFN82"
+      ],
+      "is_locked": false,
+      "subscribed": false,
+      "reactions": [
+        {
+          "name": "eyes",
+          "users": [
+            "U02BLTTQEL9"
+          ],
+          "count": 1
+        }
+      ]
+    },
+    {
+      "client_msg_id": "4d0266a8-960c-4fc3-a84c-4f41ec648328",
+      "type": "message",
+      "text": "ここくらい小規模ならDiscord がよさそうです",
+      "user": "U0PM6EYR1",
+      "ts": "1658936978.554649",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "4y0aN",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "ここくらい小規模ならDiscord がよさそうです"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "reactions": [
+        {
+          "name": "wakaru",
+          "users": [
+            "U70QDFN82",
+            "U01HE1ENNJZ"
+          ],
+          "count": 2
+        }
+      ]
+    },
+    {
+      "client_msg_id": "c6d503af-ac0f-4593-9cb0-37bc70056225",
+      "type": "message",
+      "text": "なんだかんだDiscordが考える(気にする)事少なくてまるい気がしますねぇ",
+      "user": "U3FJYR7MG",
+      "ts": "1658936931.345269",
+      "team": "T0GFBAM8C",
+      "edited": {
+        "user": "U3FJYR7MG",
+        "ts": "1658936947.000000"
+      },
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "aUn",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "なんだかんだDiscordが考える(気にする)事少なくてまるい気がしますねぇ"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "reactions": [
+        {
+          "name": "wakaru",
+          "users": [
+            "U70QDFN82",
+            "U6Y9PK6DB",
+            "U01HE1ENNJZ"
+          ],
+          "count": 3
+        }
+      ]
+    },
+    {
+      "client_msg_id": "2d5f6d26-ba25-4d32-9e0b-1e66ff790326",
+      "type": "message",
+      "text": "そもそもSlackのログを全部公開できる場所にエスクポートするのがグレーかと",
+      "user": "U70QDFN82",
+      "ts": "1658936614.560269",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "lLL",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "そもそもSlackのログを全部公開できる場所にエスクポートするのがグレーかと"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "3078a83c-156f-498c-8c87-f425b70ba30e",
+      "type": "message",
+      "text": "画像はわかりませんが、mattermostへインポートはできるんじゃないかな。mattermostもマークダウンやシンタックスハイライト使えて便利ですが、自前サーバーか有料になるのが問題ですねえ",
+      "user": "U02ASPM0A6T",
+      "ts": "1658936505.782169",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "Vs3Q",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "画像はわかりませんが、mattermostへインポートはできるんじゃないかな。mattermostもマークダウンやシンタックスハイライト使えて便利ですが、自前サーバーか有料になるのが問題ですねえ"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "c742ff11-aac0-4867-97e2-fcd3a7ac7269",
+      "type": "message",
+      "text": "どちらにしろ過去ログは消えるんですよね。。",
+      "user": "U02BLTTQEL9",
+      "ts": "1658936372.400329",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "Qn=",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "どちらにしろ過去ログは消えるんですよね。。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "reactions": [
+        {
+          "name": "sorena",
+          "users": [
+            "U70QDFN82",
+            "U3FJYR7MG"
+          ],
+          "count": 2
+        }
+      ]
+    },
+    {
+      "client_msg_id": "37dd60e3-d009-45bc-8ae2-b6708bb6ea76",
+      "type": "message",
+      "text": "あと自前サーバーに移るって選択肢はあまり現実的じゃない気がしますね・・・",
+      "user": "U70QDFN82",
+      "ts": "1658936330.200889",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "DNzG",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "あと自前サーバーに移るって選択肢はあまり現実的じゃない気がしますね・・・"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "50119dde-ba8b-4c9d-856d-a2e005f5a1e7",
+      "type": "message",
+      "text": "個人的には過去ログ移行考え出すと動けなくなるんで移行しないでいい気がしますね",
+      "user": "U70QDFN82",
+      "ts": "1658936263.832409",
+      "team": "T0GFBAM8C",
+      "edited": {
+        "user": "U70QDFN82",
+        "ts": "1658936279.000000"
+      },
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "YwrK",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "個人的には過去ログ移行考え出すと動けなくなるんで移行しないでいい気がしますね"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "reactions": [
+        {
+          "name": "+1",
+          "users": [
+            "U6Y9PK6DB",
+            "U0H9QUFA5"
+          ],
+          "count": 2
+        }
+      ]
+    },
+    {
+      "client_msg_id": "69b4f267-5d1a-46ac-b5b1-f19c97544cad",
+      "type": "message",
+      "text": "• 自前サーバーが必要なものは誰かがやる、コミュニティで議論してやり方を決めるなどが必要そう\n• 多分今までとこれからの過去ログへのアクセスをどうするかが肝？チャット機能だけなら一応今のSlackのままでも満たせはする。移行以外に方法はあるかもしれない\n• 過去ログ移行できるのはmattermostだけ？\n• 今年3月までのようにjsonでログを取っておいて、Discordなどに新しく移行するのもすっきりしていいかも？\nけっこう考える軸が多い",
+      "user": "U02ASPM0A6T",
+      "ts": "1658936195.585229",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "EoV7i",
+          "elements": [
+            {
+              "type": "rich_text_list",
+              "elements": [
+                {
+                  "type": "rich_text_section",
+                  "elements": [
+                    {
+                      "type": "text",
+                      "text": "自前サーバーが必要なものは誰かがやる、コミュニティで議論してやり方を決めるなどが必要そう"
+                    }
+                  ]
+                },
+                {
+                  "type": "rich_text_section",
+                  "elements": [
+                    {
+                      "type": "text",
+                      "text": "多分今までとこれからの過去ログへのアクセスをどうするかが肝？チャット機能だけなら一応今のSlackのままでも満たせはする。移行以外に方法はあるかもしれない"
+                    }
+                  ]
+                },
+                {
+                  "type": "rich_text_section",
+                  "elements": [
+                    {
+                      "type": "text",
+                      "text": "過去ログ移行できるのはmattermostだけ？"
+                    }
+                  ]
+                },
+                {
+                  "type": "rich_text_section",
+                  "elements": [
+                    {
+                      "type": "text",
+                      "text": "今年3月までのようにjsonでログを取っておいて、Discordなどに新しく移行するのもすっきりしていいかも？"
+                    }
+                  ]
+                }
+              ],
+              "style": "bullet",
+              "indent": 0,
+              "border": 0
+            },
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "けっこう考える軸が多い"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "d33ad9ab-2c8a-4983-abd3-7abbb3505a3c",
+      "type": "message",
+      "text": "楽なのはDiscordなんでしょうが、matrixでできれば可用性高そうでカッコいいですね。クライアントやブリッジ？もたくさんある。これ使えばSlackとチャンネル共用できるのかなあ\n• <https://matrix.org/clients/>\n• <https://matrix.org/bridges/>",
+      "user": "U02ASPM0A6T",
+      "ts": "1658935866.797339",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "qrY",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "楽なのはDiscordなんでしょうが、matrixでできれば可用性高そうでカッコいいですね。クライアントやブリッジ？もたくさんある。これ使えばSlackとチャンネル共用できるのかなあ\n"
+                }
+              ]
+            },
+            {
+              "type": "rich_text_list",
+              "elements": [
+                {
+                  "type": "rich_text_section",
+                  "elements": [
+                    {
+                      "type": "link",
+                      "url": "https://matrix.org/clients/"
+                    }
+                  ]
+                },
+                {
+                  "type": "rich_text_section",
+                  "elements": [
+                    {
+                      "type": "link",
+                      "url": "https://matrix.org/bridges/"
+                    }
+                  ]
+                }
+              ],
+              "style": "bullet",
+              "indent": 0,
+              "border": 0
+            }
+          ]
+        }
+      ],
+      "reactions": [
+        {
+          "name": "hee",
+          "users": [
+            "U02BLTTQEL9"
+          ],
+          "count": 1
+        }
+      ]
+    },
+    {
+      "client_msg_id": "350b2d67-7c27-4cde-82cf-93d068a08972",
+      "type": "message",
+      "text": "移るなら間口の広さも含めて Discord かなぁ。",
+      "user": "U02BLTTQEL9",
+      "ts": "1658935411.564579",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "pbU",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "移るなら間口の広さも含めて Discord かなぁ。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "reactions": [
+        {
+          "name": "desune",
+          "users": [
+            "U3FJYR7MG"
+          ],
+          "count": 1
+        },
+        {
+          "name": "wakaru",
+          "users": [
+            "U70QDFN82",
+            "U6Y9PK6DB"
+          ],
+          "count": 2
+        }
+      ]
+    },
+    {
+      "client_msg_id": "3609ce7e-81df-4d2b-8ca0-5f75ac4444c8",
+      "type": "message",
+      "text": "zulipは強制スレッド型なんでどっちかというとTeamsに近い感じになりますね。Slackでスレッドあまり切らない使い方の我々とはちょっと使い勝手に差が生じるかも？",
+      "user": "U70QDFN82",
+      "ts": "1658933528.401499",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "Aux",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "zulipは強制スレッド型なんでどっちかというとTeamsに近い感じになりますね。Slackでスレッドあまり切らない使い方の我々とはちょっと使い勝手に差が生じるかも？"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "reactions": [
+        {
+          "name": "naruhodo",
+          "users": [
+            "U03921SFM3L"
+          ],
+          "count": 1
+        }
+      ]
+    },
+    {
+      "client_msg_id": "108585eb-3cca-481e-bc9f-61d4dbde12fb",
+      "type": "message",
+      "text": "Element(Matrix)はワークスペース増やしてチャンネル増やす形式なんでこっちのほうが多いとめんどいんですよね・・・そういう意味でこれもarchlinux-jp向きではある",
+      "user": "U70QDFN82",
+      "ts": "1658933474.569909",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "vx1q",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "Element(Matrix)はワークスペース増やしてチャンネル増やす形式なんでこっちのほうが多いとめんどいんですよね・・・そういう意味でこれもarchlinux-jp向きではある"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "b478b496-3335-4eb8-943c-7ab5eca2cb34",
+      "type": "message",
+      "text": "archlinuxjp だと2つしかチャンネルないので良さそう",
+      "user": "U03921SFM3L",
+      "ts": "1658933272.607689",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "GL7C",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "archlinuxjp だと2つしかチャンネルないので良さそう"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "reactions": [
+        {
+          "name": "wakaru",
+          "users": [
+            "U70QDFN82"
+          ],
+          "count": 1
+        }
+      ]
+    },
+    {
+      "client_msg_id": "c7cbd8f7-7b09-4091-a436-59c0ab93d9a6",
+      "type": "message",
+      "text": "Discord, 全然悪くないんですけどslack みたいにチャンネルを選択できるようにしてほしい。\nデフォで色々なチャンネルに入ってる状態からスタートすると通知管理が少し面倒で...",
+      "user": "U03921SFM3L",
+      "ts": "1658933237.324449",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "TgF3",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "Discord, 全然悪くないんですけどslack みたいにチャンネルを選択できるようにしてほしい。\nデフォで色々なチャンネルに入ってる状態からスタートすると通知管理が少し面倒で..."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "067f7a1a-4b1e-4d31-b680-f2a911a50726",
+      "type": "message",
+      "text": "現状選択肢はこんな感じになるかと\n1. Slack継続：ログは90日で消える\n2. Discord: 海外のOSSコミュニティとかは多いイメージ\n3. Element(Matrix): 海外のLinuxディストリビューションとかOpenな仕様にこだわりがあるギークの利用が多いイメージ\n4. Zulip: Rustが使ってるイメージ",
+      "user": "U70QDFN82",
+      "ts": "1658933144.900239",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "oMn",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "現状選択肢はこんな感じになるかと\n"
+                }
+              ]
+            },
+            {
+              "type": "rich_text_list",
+              "elements": [
+                {
+                  "type": "rich_text_section",
+                  "elements": [
+                    {
+                      "type": "text",
+                      "text": "Slack継続：ログは90日で消える"
+                    }
+                  ]
+                },
+                {
+                  "type": "rich_text_section",
+                  "elements": [
+                    {
+                      "type": "text",
+                      "text": "Discord: 海外のOSSコミュニティとかは多いイメージ"
+                    }
+                  ]
+                },
+                {
+                  "type": "rich_text_section",
+                  "elements": [
+                    {
+                      "type": "text",
+                      "text": "Element(Matrix): 海外のLinuxディストリビューションとかOpenな仕様にこだわりがあるギークの利用が多いイメージ"
+                    }
+                  ]
+                },
+                {
+                  "type": "rich_text_section",
+                  "elements": [
+                    {
+                      "type": "text",
+                      "text": "Zulip: Rustが使ってるイメージ"
+                    }
+                  ]
+                }
+              ],
+              "style": "ordered",
+              "indent": 0,
+              "border": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "ee6555fb-11da-4f34-90de-189cd8848f99",
+      "type": "message",
+      "text": "英語圏のUnofficial chat roomはDiscordとElement(Matrix)にありますね",
+      "user": "U70QDFN82",
+      "ts": "1658933104.346649",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "NNVMM",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "英語圏のUnofficial chat roomはDiscordとElement(Matrix)にありますね"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "67800c00-0cbd-41e0-9519-d470c0f7fb1e",
+      "type": "message",
+      "text": "vim-jp も規約的に駄目なんじゃないかってことで、slacklog の運用やめましたね…",
+      "user": "U0PM6EYR1",
+      "ts": "1658929978.220959",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "8Cycy",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "vim-jp も規約的に駄目なんじゃないかってことで、slacklog の運用やめましたね…"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "reactions": [
+        {
+          "name": "naruhodo",
+          "users": [
+            "U02ASPM0A6T",
+            "U0H9QUFA5"
+          ],
+          "count": 2
+        }
+      ]
+    },
+    {
+      "type": "message",
+      "text": "ログ記録あるからそれを使って云々して留まることもできる？かとも思いましたが、今年の4月からログ記録が止まっているような\nあとSlackに留まってログ記録するという方法が規約上問題ないかどうかが気になりますね。よくわかりませんが、多分だめな気がする\n<https://github.com/ArchLinuxJP/slacklog>",
+      "files": [
+        {
+          "id": "F03RXA66D5W",
+          "created": 1658929785,
+          "timestamp": 1658929785,
+          "name": "20220727-224618_screenshot.png",
+          "title": "20220727-224618_screenshot.png",
+          "mimetype": "image/png",
+          "filetype": "png",
+          "pretty_type": "PNG",
+          "user": "U02ASPM0A6T",
+          "editable": false,
+          "size": 59223,
+          "mode": "hosted",
+          "is_external": false,
+          "external_type": "",
+          "is_public": true,
+          "public_url_shared": false,
+          "display_as_bot": false,
+          "username": "",
+          "url_private": "https://files.slack.com/files-pri/T0GFBAM8C-F03RXA66D5W/20220727-224618_screenshot.png",
+          "url_private_download": "https://files.slack.com/files-pri/T0GFBAM8C-F03RXA66D5W/download/20220727-224618_screenshot.png",
+          "media_display_type": "unknown",
+          "thumb_64": "https://files.slack.com/files-tmb/T0GFBAM8C-F03RXA66D5W-43470465dc/20220727-224618_screenshot_64.png",
+          "thumb_80": "https://files.slack.com/files-tmb/T0GFBAM8C-F03RXA66D5W-43470465dc/20220727-224618_screenshot_80.png",
+          "thumb_360": "https://files.slack.com/files-tmb/T0GFBAM8C-F03RXA66D5W-43470465dc/20220727-224618_screenshot_360.png",
+          "thumb_360_w": 360,
+          "thumb_360_h": 285,
+          "thumb_480": "https://files.slack.com/files-tmb/T0GFBAM8C-F03RXA66D5W-43470465dc/20220727-224618_screenshot_480.png",
+          "thumb_480_w": 480,
+          "thumb_480_h": 380,
+          "thumb_160": "https://files.slack.com/files-tmb/T0GFBAM8C-F03RXA66D5W-43470465dc/20220727-224618_screenshot_160.png",
+          "original_w": 655,
+          "original_h": 518,
+          "thumb_tiny": "AwAlADDPFOx7L/31TRTuP9igBG+gH0OaSlb8PwpKAFHToPzpKUdP4aSgAFOyP7w/75poNP3f7TflQA1j7g/QU2lJJ75pKAHA8dR+VJS5OOM0lAAKc3TqfxNIOtK/SgBlFFFADwOOppp604dBTT1oA//Z",
+          "permalink": "https://archlinuxjp.slack.com/files/U02ASPM0A6T/F03RXA66D5W/20220727-224618_screenshot.png",
+          "permalink_public": "https://slack-files.com/T0GFBAM8C-F03RXA66D5W-1ed2c81403",
+          "is_starred": false,
+          "has_rich_preview": false
+        }
+      ],
+      "upload": false,
+      "user": "U02ASPM0A6T",
+      "display_as_bot": false,
+      "ts": "1658929912.643059",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "4Bgh",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "ログ記録あるからそれを使って云々して留まることもできる？かとも思いましたが、今年の4月からログ記録が止まっているような\nあとSlackに留まってログ記録するという方法が規約上問題ないかどうかが気になりますね。よくわかりませんが、多分だめな気がする\n"
+                },
+                {
+                  "type": "link",
+                  "url": "https://github.com/ArchLinuxJP/slacklog"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "client_msg_id": "4dd19e5a-c526-4e19-83bc-ac4df7f7428f",
+      "attachments": [
+        {
+          "id": 1,
+          "color": "24292f",
+          "bot_id": "B03JFQRLYDD",
+          "app_unfurl_url": "https://github.com/ArchLinuxJP/slacklog",
+          "is_app_unfurl": true,
+          "app_id": "A01BP7R4KNY",
+          "fallback": "ArchLinuxJP/slacklog",
+          "title": "ArchLinuxJP/slacklog",
+          "fields": [
+            {
+              "value": "<https://archlinuxjp.github.io/slacklog>",
+              "title": "Website",
+              "short": true
+            },
+            {
+              "value": "2",
+              "title": "Stars",
+              "short": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "11a3f658-1469-4652-93aa-fee8ae09f790",
+      "type": "message",
+      "text": "vim-jpの方は今回の変更で制限が緩和されたらしいね。",
+      "user": "U02Q7PAJYT1",
+      "ts": "1658928815.082299",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "iuv",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "vim-jpの方は今回の変更で制限が緩和されたらしいね。"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "1e345198-9c49-4e8a-b3f8-b57af9513d99",
+      "type": "message",
+      "text": "<https://zulip.com/for/open-source/>\nこういうのもあるっぽいです",
+      "user": "U0PM6EYR1",
+      "ts": "1658923039.510019",
+      "team": "T0GFBAM8C",
+      "attachments": [
+        {
+          "from_url": "https://zulip.com/for/open-source/",
+          "thumb_url": "https://zulipchat.com/static/images/logo/zulip-icon-128x128.png",
+          "thumb_width": 128,
+          "thumb_height": 128,
+          "id": 1,
+          "original_url": "https://zulip.com/for/open-source/",
+          "fallback": "Zulip: Chat for distributed teams",
+          "text": "Zulip combines the immediacy of real-time chat with an email threading model. With Zulip, you can catch up on important conversations while ignoring irrelevant ones.",
+          "title": "Chat for distributed teams",
+          "title_link": "https://zulip.com/for/open-source/",
+          "service_name": "Zulip"
+        }
+      ],
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "d0pU1",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "link",
+                  "url": "https://zulip.com/for/open-source/"
+                },
+                {
+                  "type": "text",
+                  "text": "\nこういうのもあるっぽいです"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "3ba0cf03-5f78-41c8-8d05-79ab6387b9bb",
+      "type": "message",
+      "text": "<https://wiki.archlinux.jp/index.php/Mattermost|https://wiki.archlinux.jp/index.php/Mattermost> って、誰がメンテするねん。",
+      "user": "U0H9QUFA5",
+      "ts": "1658921455.347879",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "VvgBl",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "link",
+                  "url": "https://wiki.archlinux.jp/index.php/Mattermost",
+                  "text": "https://wiki.archlinux.jp/index.php/Mattermost"
+                },
+                {
+                  "type": "text",
+                  "text": " って、誰がメンテするねん。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "reactions": [
+        {
+          "name": "sorena",
+          "users": [
+            "U02BLTTQEL9"
+          ],
+          "count": 1
+        }
+      ]
+    },
+    {
+      "client_msg_id": "24697903-aabf-4ef4-8604-a3792d884dc8",
+      "type": "message",
+      "text": "Slackの無料ワークスペースの規約変更の件で他のコミュニティはワークスペース移動してたりしますが我々はどうしますか？？\n<https://slack.com/intl/ja-jp/blog/news/pricing-and-plan-updates>",
+      "user": "U70QDFN82",
+      "ts": "1658921347.230529",
+      "team": "T0GFBAM8C",
+      "edited": {
+        "user": "U70QDFN82",
+        "ts": "1658921368.000000"
+      },
+      "attachments": [
+        {
+          "from_url": "https://slack.com/intl/ja-jp/blog/news/pricing-and-plan-updates",
+          "image_url": "https://d34u8crftukxnk.cloudfront.net/slackpress/prod/sites/6/2022-07-plan-price-increase-unfurl.jpg",
+          "image_width": 478,
+          "image_height": 250,
+          "image_bytes": 58048,
+          "service_icon": "https://a.slack-edge.com/5f35cf0/img/icons/favicon-32-ua.png",
+          "id": 1,
+          "original_url": "https://slack.com/intl/ja-jp/blog/news/pricing-and-plan-updates",
+          "fallback": "Slack: Slack 初の料金改定とフリープランの内容変更のお知らせ",
+          "text": "2014 年のサービス開始以降、初めてとなる料金改定についてまとめました。",
+          "title": "Slack 初の料金改定とフリープランの内容変更のお知らせ",
+          "title_link": "https://slack.com/intl/ja-jp/blog/news/pricing-and-plan-updates",
+          "service_name": "Slack"
+        }
+      ],
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "AIE",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "Slackの無料ワークスペースの規約変更の件で他のコミュニティはワークスペース移動してたりしますが我々はどうしますか？？\n"
+                },
+                {
+                  "type": "link",
+                  "url": "https://slack.com/intl/ja-jp/blog/news/pricing-and-plan-updates"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "message",
+      "subtype": "channel_join",
+      "ts": "1658709433.086119",
+      "user": "U03QSM40L5R",
+      "text": "<@U03QSM40L5R>さんがチャンネルに参加しました"
+    },
+    {
+      "type": "message",
+      "subtype": "channel_join",
+      "ts": "1658608506.351309",
+      "user": "U03R3U46HUZ",
+      "text": "<@U03R3U46HUZ>さんがチャンネルに参加しました",
+      "reactions": [
+        {
+          "name": "archjp",
+          "users": [
+            "U0GFBAM8U"
+          ],
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "message",
+      "subtype": "channel_join",
+      "ts": "1658141426.612459",
+      "user": "U03Q8JE0L2V",
+      "text": "<@U03Q8JE0L2V>さんがチャンネルに参加しました",
+      "reactions": [
+        {
+          "name": "archjp-joy",
+          "users": [
+            "U03JYF13SQP",
+            "U01HE1ENNJZ",
+            "U02HC93TJEP",
+            "U0GFBAM8U",
+            "U0H9QUFA5"
+          ],
+          "count": 5
+        }
+      ]
+    },
+    {
+      "type": "message",
+      "subtype": "bot_message",
+      "text": "",
+      "ts": "1657898017.973809",
+      "bot_id": "B021YB9R1EG",
+      "attachments": [
+        {
+          "from_url": "https://twitter.com/archlinux_jp/status/1547962575996223489",
+          "ts": 1657898012,
+          "id": 1,
+          "fallback": "<https://twitter.com/archlinux_jp|@archlinux_jp>: wxWidgets 3.2 への更新は対応作業が必要です <https://www.archlinux.jp/news/wxwidgets-32-update-may-need-manual-intervention/>",
+          "text": "wxWidgets 3.2 への更新は対応作業が必要です <https://www.archlinux.jp/news/wxwidgets-32-update-may-need-manual-intervention/>",
+          "pretext": "<https://twitter.com/archlinux_jp/status/1547962575996223489>",
+          "author_name": "Arch Linux JP",
+          "author_link": "https://twitter.com/archlinux_jp/status/1547962575996223489",
+          "author_icon": "https://pbs.twimg.com/profile_images/678900104678342656/2w2dw7Fp_normal.png",
+          "author_subname": "@archlinux_jp",
+          "service_name": "twitter",
+          "service_url": "https://twitter.com/",
+          "footer": "Twitter",
+          "footer_icon": "https://a.slack-edge.com/80588/img/services/twitter_pixel_snapped_32.png"
+        }
+      ]
+    },
+    {
+      "type": "message",
+      "subtype": "bot_message",
+      "text": "<https://archlinux.org/news/wxwidgets-32-update-may-need-manual-intervention/|wxWidgets 3.2 update may need manual intervention>\nwxWidgets 3.2 provides a Qt frontend in addition to the GTK3 one, so packages have been renamed from wxgtk- to wxwidgets-.\nThe GTK2 frontend is no longer provided. If you have wxgtk2 installed, the upgrade will fail with\nerror: failed to prepare transaction (could not satisfy dependencies)\n:: removing wxgtk-common breaks dependency 'wxgtk-common' required by wxgtk2\nIn such case, uninstall wxgtk2 first and then proceed with the upgrade.",
+      "ts": "1657827574.924809",
+      "username": "Arch Linux: Recent news updates",
+      "icons": {
+        "image_36": "https://a.slack-edge.com/80588/img/services/rss_36.png",
+        "image_48": "https://a.slack-edge.com/80588/img/services/rss_48.png",
+        "image_72": "https://a.slack-edge.com/80588/img/services/rss_72.png"
+      },
+      "bot_id": "B3WNLSQ4W",
+      "reactions": [
+        {
+          "name": "white_check_mark",
+          "users": [
+            "UUWBU08TU",
+            "U0H9QUFA5",
+            "U01HE1ENNJZ"
+          ],
+          "count": 3
+        }
+      ]
+    },
+    {
+      "type": "message",
+      "subtype": "channel_join",
+      "ts": "1657786398.165959",
+      "user": "U03Q63ZLFCG",
+      "text": "<@U03Q63ZLFCG>さんがチャンネルに参加しました"
+    },
+    {
+      "type": "message",
+      "subtype": "channel_join",
+      "ts": "1657782680.219519",
+      "user": "U03P1FMTSGP",
+      "text": "<@U03P1FMTSGP>さんがチャンネルに参加しました"
+    },
+    {
+      "type": "message",
+      "subtype": "channel_join",
+      "ts": "1657063636.058199",
+      "user": "U03MZUHMFNK",
+      "text": "<@U03MZUHMFNK>さんがチャンネルに参加しました"
+    },
+    {
+      "type": "message",
+      "subtype": "channel_join",
+      "ts": "1656997676.310359",
+      "user": "U03N3E42JBG",
+      "text": "<@U03N3E42JBG>さんがチャンネルに参加しました",
+      "reactions": [
+        {
+          "name": "archjp-joy",
+          "users": [
+            "U03JYF13SQP",
+            "U70QDFN82",
+            "U02HC93TJEP",
+            "U02BLTTQEL9",
+            "U0GFBAM8U",
+            "U7VDHKJHM",
+            "U01HE1ENNJZ",
+            "U017BNGTHT3",
+            "U02ASPM0A6T",
+            "U0H9QUFA5"
+          ],
+          "count": 10
+        }
+      ]
+    },
+    {
+      "client_msg_id": "8ccd4ff2-58a4-4a82-a9c8-65947adf1821",
+      "type": "message",
+      "text": "若い人ってオリジナルプロダクトかでかいプロダクトにこだわる感じあるけど、むっちゃニッチなところを攻めてて好感が持てる",
+      "user": "U70QDFN82",
+      "ts": "1656988813.810429",
+      "team": "T0GFBAM8C",
+      "edited": {
+        "user": "U70QDFN82",
+        "ts": "1656989299.000000"
+      },
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "f/P++",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "若い人ってオリジナルプロダクトかでかいプロダクトにこだわる感じあるけど、むっちゃニッチなところを攻めてて好感が持てる"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "547f5500-2152-474b-813a-b6ac008d039f",
+      "type": "message",
+      "text": "<https://wiki.ubuntu.com/rs2009#:~:text=I%20plan%20to%20complete%20my%20own%20Unix%2Dlike%20kernel.%20It%20is%20in%20the%20works>.\n強すぎる",
+      "user": "U017BNGTHT3",
+      "ts": "1656988627.581629",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "Grsz",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "link",
+                  "url": "https://wiki.ubuntu.com/rs2009#:~:text=I%20plan%20to%20complete%20my%20own%20Unix%2Dlike%20kernel.%20It%20is%20in%20the%20works"
+                },
+                {
+                  "type": "text",
+                  "text": ".\n強すぎる"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "34eb29e6-a0b9-42d6-99bf-9d2a6041033e",
+      "type": "message",
+      "text": "2009の響きがやばい",
+      "user": "U70QDFN82",
+      "ts": "1656988432.589549",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "By7rt",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "2009の響きがやばい"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "reactions": [
+        {
+          "name": "tashikani",
+          "users": [
+            "U03JYF13SQP",
+            "U017BNGTHT3"
+          ],
+          "count": 2
+        }
+      ]
+    }
+  ],
+  "has_more": true,
+  "is_limited": false,
+  "pin_count": 16,
+  "channel_actions_ts": null,
+  "channel_actions_count": 0,
+  "response_metadata": {
+    "next_cursor": "bmV4dF90czoxNjU2OTg4NDI1MTMyMjE5"
+  }
+}

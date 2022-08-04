@@ -1,0 +1,1327 @@
+{
+  "ok": true,
+  "latest": "1604232651.000000",
+  "oldest": "1601554251.000000",
+  "messages": [
+    {
+      "client_msg_id": "7f6fa95d-2f25-4049-86bf-68a960255e3d",
+      "type": "message",
+      "text": "python-testsも3.8.6だしなぁ",
+      "user": "U019C7VLZ4G",
+      "ts": "1604224431.052100",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "fmU",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "python-testsも3.8.6だしなぁ"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "96c53fb1-b67a-4f68-a159-3757e5afbfc0",
+      "type": "message",
+      "text": "パッケージのテストがどれだけ進んでいるかみたいなのってどこかでわかったりしないのでしょうか?",
+      "user": "U019C7VLZ4G",
+      "ts": "1604145851.051800",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "Klj5L",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "パッケージのテストがどれだけ進んでいるかみたいなのってどこかでわかったりしないのでしょうか?"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "4835e118-b5d5-4b30-9267-51001a465b33",
+      "type": "message",
+      "text": "はやくきてほしい3.9",
+      "user": "U019C7VLZ4G",
+      "ts": "1604105759.050600",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "MUE",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "はやくきてほしい3.9"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "reactions": [
+        {
+          "name": "sorena",
+          "users": [
+            "U70QDFN82"
+          ],
+          "count": 1
+        }
+      ]
+    },
+    {
+      "client_msg_id": "f079605e-7c72-4790-a98c-88d417a6394d",
+      "type": "message",
+      "text": "pyenvを使うと......",
+      "user": "UCA1NQM5K",
+      "ts": "1604094404.050000",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "BoOJ",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "pyenvを使うと......"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "reactions": [
+        {
+          "name": "face_vomiting",
+          "users": [
+            "UD124KPDJ",
+            "U019C7VLZ4G"
+          ],
+          "count": 2
+        }
+      ]
+    },
+    {
+      "client_msg_id": "11b59176-d51b-4fc7-8f93-af7a406ce4d6",
+      "type": "message",
+      "text": "そこはもうソースビルドするしか(めんどい",
+      "user": "UD124KPDJ",
+      "ts": "1604076128.049600",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "2yPDO",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "そこはもうソースビルドするしか(めんどい"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "ea4a4dfc-d644-49d0-8593-406218325faa",
+      "type": "message",
+      "text": "python3.9がなかなか落ちてこなくて時代から取り残されてる感じがする・・・\n他のOSの人がPython3.9の話しをしてるときとかに・・・・",
+      "user": "U70QDFN82",
+      "ts": "1604068191.048400",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "xrOOJ",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "python3.9がなかなか落ちてこなくて時代から取り残されてる感じがする・・・\n他のOSの人がPython3.9の話しをしてるときとかに・・・・"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "reactions": [
+        {
+          "name": "wakaru",
+          "users": [
+            "U019C7VLZ4G",
+            "URCKFB3SB"
+          ],
+          "count": 2
+        }
+      ]
+    },
+    {
+      "type": "message",
+      "subtype": "channel_join",
+      "ts": "1604008510.047400",
+      "user": "U01DU81DFUL",
+      "text": "<@U01DU81DFUL>さんがチャンネルに参加しました"
+    },
+    {
+      "client_msg_id": "dbab7301-fb63-4e0c-8544-80f4b1c6de5d",
+      "type": "message",
+      "text": "初めてarchをインストールしようとしている者なのですがwifi-menuのコマンドが見つからず困っています。自分なりに対策方法を調べたのですがわかりません。どのコマンドを打ち込めば良いでしょうか？",
+      "user": "U01E023EYTS",
+      "ts": "1603702457.044800",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "Wlpu",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "初めてarchをインストールしようとしている者なのですがwifi-menuのコマンドが見つからず困っています。自分なりに対策方法を調べたのですがわかりません。どのコマンドを打ち込めば良いでしょうか？"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "thread_ts": "1603702457.044800",
+      "reply_count": 9,
+      "reply_users_count": 2,
+      "latest_reply": "1603705683.047000",
+      "reply_users": [
+        "U0PM6EYR1",
+        "U01E023EYTS"
+      ],
+      "is_locked": false,
+      "subscribed": false
+    },
+    {
+      "client_msg_id": "686a04c5-e38d-46f8-ae1b-23c981ad9313",
+      "type": "message",
+      "text": "筑波のサーバ、いつの間にかレコード返ってくるようになってますね",
+      "user": "UVB7L4CKH",
+      "ts": "1603676700.042400",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "gWX2",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "筑波のサーバ、いつの間にかレコード返ってくるようになってますね"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "reactions": [
+        {
+          "name": "eyes",
+          "users": [
+            "U53RAQBCP",
+            "UKT90HXU0"
+          ],
+          "count": 2
+        }
+      ]
+    },
+    {
+      "type": "message",
+      "subtype": "channel_join",
+      "ts": "1603675681.041800",
+      "user": "U01E023EYTS",
+      "text": "<@U01E023EYTS>さんがチャンネルに参加しました"
+    },
+    {
+      "client_msg_id": "5962ed11-3a24-4617-9a55-383d0ad72cdd",
+      "type": "message",
+      "text": "ひょっとして破損のあれ、自動でできたのか",
+      "user": "UGA29R3FH",
+      "ts": "1603631355.041500",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "33sXa",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "ひょっとして破損のあれ、自動でできたのか"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "ba81f68b-aae2-41ae-8063-3cd553f01e8b",
+      "type": "message",
+      "text": "今pacmanで更新しようとしたら、python-pytzとかの更新に失敗しましたね。。。\n`--overwrite \"*\"` 　して回避しました。",
+      "user": "U70QDFN82",
+      "ts": "1603630606.040900",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "imv5",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "今pacmanで更新しようとしたら、python-pytzとかの更新に失敗しましたね。。。\n"
+                },
+                {
+                  "type": "text",
+                  "text": "--overwrite \"*\"",
+                  "style": {
+                    "code": true
+                  }
+                },
+                {
+                  "type": "text",
+                  "text": " 　して回避しました。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "reactions": [
+        {
+          "name": "eyes",
+          "users": [
+            "UGA29R3FH",
+            "U53RAQBCP"
+          ],
+          "count": 2
+        }
+      ]
+    },
+    {
+      "client_msg_id": "e6c1b589-0010-44d6-8e4f-04205ae8a81a",
+      "type": "message",
+      "text": "そうなんですね、かなしい",
+      "user": "U53RAQBCP",
+      "ts": "1603603621.039500",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "Myn5o",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "そうなんですね、かなしい"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "ab3250dc-7abe-4ddd-98ae-e2b7367c9e97",
+      "type": "message",
+      "text": "距離だけなら筑波なんですけどねえ",
+      "user": "UVB7L4CKH",
+      "ts": "1603601831.038600",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "gPwta",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "距離だけなら筑波なんですけどねえ"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "d615b945-d4c1-49f7-9459-4ac3f164c410",
+      "type": "message",
+      "text": "最初は筑波の方が距離的に近そうだと思って使ってたけど、結構落ちる。jaistはほんと数回しか落ちた記憶がない",
+      "user": "U70QDFN82",
+      "ts": "1603601763.038000",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "+a06",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "最初は筑波の方が距離的に近そうだと思って使ってたけど、結構落ちる。jaistはほんと数回しか落ちた記憶がない"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "7eccf395-3fd1-40a0-8993-d1cbe606c66d",
+      "type": "message",
+      "text": "筑波は落ちていることが稀によくある",
+      "user": "UGA29R3FH",
+      "ts": "1603601660.036800",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "KLcz",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "筑波は落ちていることが稀によくある"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "reactions": [
+        {
+          "name": "sorena",
+          "users": [
+            "U70QDFN82",
+            "UVB7L4CKH",
+            "U017BNGTHT3"
+          ],
+          "count": 3
+        },
+        {
+          "name": "totemoturai",
+          "users": [
+            "U53RAQBCP",
+            "U017BNGTHT3",
+            "U01235G2K26"
+          ],
+          "count": 3
+        }
+      ]
+    },
+    {
+      "client_msg_id": "288a7b14-e312-4782-897d-979b8421e75e",
+      "type": "message",
+      "text": "jaistに使わせてもらってますね",
+      "user": "UGA29R3FH",
+      "ts": "1603601652.036400",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "csfZ",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "jaistに使わせてもらってますね"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "4a1c7160-1838-4eaa-a769-8d9542471148",
+      "type": "message",
+      "text": "いや、さすがにないかな\n入構規制の影響で上手く情報交換ができてない説はなくもなさそうですけど",
+      "user": "UVB7L4CKH",
+      "ts": "1603601637.036100",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "F/b",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "いや、さすがにないかな\n入構規制の影響で上手く情報交換ができてない説はなくもなさそうですけど"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "2e63219f-f5c0-40f3-b376-8d4d808d1716",
+      "type": "message",
+      "text": "結構前から筑波のサーバは安定してなかった記憶が\nざっとTwitterとか見た感じコロナの影響もありそうですね",
+      "user": "UVB7L4CKH",
+      "ts": "1603601548.035200",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "D51pK",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "結構前から筑波のサーバは安定してなかった記憶が\nざっとTwitterとか見た感じコロナの影響もありそうですね"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "05499757-714a-475f-9f45-b98561ba8327",
+      "type": "message",
+      "text": "`<http://ftp.tsukuba.wide.ad.jp|ftp.tsukuba.wide.ad.jp>` がNXDOMAINになってますね...",
+      "user": "U53RAQBCP",
+      "ts": "1603598577.033000",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "yjb",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "link",
+                  "url": "http://ftp.tsukuba.wide.ad.jp",
+                  "text": "ftp.tsukuba.wide.ad.jp",
+                  "style": {
+                    "code": true
+                  }
+                },
+                {
+                  "type": "text",
+                  "text": " がNXDOMAINになってますね..."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "e86875af-73ed-4160-aa7f-cc8d1d554fdd",
+      "type": "message",
+      "text": "`cuda`が`linux&gt;=5.9`で動かなくなったので、`linux-lts`に切り替えました…",
+      "user": "U565T848Y",
+      "ts": "1603524880.030100",
+      "team": "T0GFBAM8C",
+      "edited": {
+        "user": "U565T848Y",
+        "ts": "1603525005.000000"
+      },
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "3QcR",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "cuda",
+                  "style": {
+                    "code": true
+                  }
+                },
+                {
+                  "type": "text",
+                  "text": "が"
+                },
+                {
+                  "type": "text",
+                  "text": "linux>=5.9",
+                  "style": {
+                    "code": true
+                  }
+                },
+                {
+                  "type": "text",
+                  "text": "で動かなくなったので、"
+                },
+                {
+                  "type": "text",
+                  "text": "linux-lts",
+                  "style": {
+                    "code": true
+                  }
+                },
+                {
+                  "type": "text",
+                  "text": "に切り替えました…"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "reactions": [
+        {
+          "name": "+1",
+          "users": [
+            "U0GFBAM8U",
+            "UJ7P75WB1",
+            "U53RAQBCP"
+          ],
+          "count": 3
+        }
+      ]
+    },
+    {
+      "type": "message",
+      "subtype": "bot_message",
+      "text": "This is a StatusCake Test, If you saw this then all has worked!",
+      "ts": "1603509255.025800",
+      "username": "StatusCake-Bot",
+      "icons": {
+        "emoji": ":cake:",
+        "image_64": "https://a.slack-edge.com/80588/img/emoji_2017_12_06/apple/1f370.png"
+      },
+      "bot_id": "B01D8NVEY1G",
+      "reactions": [
+        {
+          "name": "cake",
+          "users": [
+            "U70QDFN82",
+            "U8T8KB5M4",
+            "U3FJYR7MG",
+            "U9F3AH6RL",
+            "UD124KPDJ",
+            "UFH97AR3Q",
+            "UGKM5728M",
+            "UGA29R3FH",
+            "UJ7P75WB1",
+            "U53RAQBCP"
+          ],
+          "count": 10
+        }
+      ]
+    },
+    {
+      "client_msg_id": "0C83634C-C18A-4D2A-BB51-C8716657B26A",
+      "type": "message",
+      "text": "そういえば、ステータスケーキっていう監視アプリ動いてないかも...",
+      "user": "U0GFBAM8U",
+      "ts": "1603507648.024600",
+      "team": "T0GFBAM8C",
+      "edited": {
+        "user": "U0GFBAM8U",
+        "ts": "1603507672.000000"
+      },
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "bvK/d",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "そういえば、ステータスケーキっていう監視アプリ動いてないかも..."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "EC6AB313-A26D-4600-A339-CABE40705652",
+      "type": "message",
+      "text": "お、ありがとうございます",
+      "user": "U0GFBAM8U",
+      "ts": "1603507522.023000",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "BGiK",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "お、ありがとうございます"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "52128962-0a3d-4983-b990-376fdd800bc3",
+      "type": "message",
+      "text": "<https://www.archlinux.jp>\narchlinux.jpが落ちているみたいですね。",
+      "user": "UFH97AR3Q",
+      "ts": "1603507482.022700",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "snxB",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "link",
+                  "url": "https://www.archlinux.jp"
+                },
+                {
+                  "type": "text",
+                  "text": "\narchlinux.jpが落ちているみたいですね。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "thread_ts": "1603507482.022700",
+      "reply_count": 1,
+      "reply_users_count": 1,
+      "latest_reply": "1603507529.023100",
+      "reply_users": [
+        "UFH97AR3Q"
+      ],
+      "is_locked": false,
+      "subscribed": false
+    },
+    {
+      "type": "message",
+      "subtype": "bot_message",
+      "text": "<https://www.archlinux.org/news/libtraceevent59-1-update-requires-manual-intervention>\nlibtraceevent&gt;=5.9-1 update requires manual intervention\nThe libtraceevent package prior to version 5.9-1 was missing a soname link. This has been fixed in 5.9-1, so the upgrade will need to overwrite the untracked files created by ldconfig. If you get anyof these errorslibtraceevent: /usr/lib/libtraceevent.so.1 exists in filesystemwhen updating, usepacman -Syu --overwrite usr/lib/libtraceevent.so.1to perform the upgrade.\nlibtraceevent&gt; = 5.9-1の更新には手動による介入が必要\nバージョン5.9-1より前のlibtraceeventパッケージには、sonameリンクがありませんでした。これは5.9-1で修正されているため、アップグレードでは、ldconfigによって作成された追跡されていないファイルを上書きする必要があります。これらのエラーのいずれかが発生した場合libtraceevent：/usr/lib/libtraceevent.so.1は、更新時にファイルシステムに存在します。アップグレードを実行するには、pacman -Syu --overwrite usr / lib /libtraceevent.so.1を使用します。",
+      "ts": "1603490498.021900",
+      "username": "webhookbot",
+      "icons": {
+        "emoji": ":arch:"
+      },
+      "bot_id": "BRB5N3W2W"
+    },
+    {
+      "client_msg_id": "37af9984-c46e-4952-8a2f-74e93ed2a923",
+      "type": "message",
+      "text": "こんにちはおひさしぶりです　chromiumですが私のPCでは最新版ver86からyoutubeの全画面表示がうまく表示されなくなりました ちなみにdowngradeをつかってver85にすると不具合がでません　ドライバはxf86-video-nouveauです　一応報告まで失礼いたします",
+      "user": "U34HVP2HH",
+      "ts": "1603355873.019700",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "RXA",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "こんにちはおひさしぶりです　chromiumですが私のPCでは最新版ver86からyoutubeの全画面表示がうまく表示されなくなりました ちなみにdowngradeをつかってver85にすると不具合がでません　ドライバはxf86-video-nouveauです　一応報告まで失礼いたします"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "reactions": [
+        {
+          "name": "+1",
+          "users": [
+            "U70QDFN82",
+            "U0GFBAM8U",
+            "UEED0BQ4A",
+            "U9F3AH6RL",
+            "U4V5UCWT0"
+          ],
+          "count": 5
+        }
+      ]
+    },
+    {
+      "client_msg_id": "87948b22-5fba-4ee4-a358-6a12b172006e",
+      "type": "message",
+      "text": "あぁ、`no longer available` だったのか",
+      "user": "U0PM6EYR1",
+      "ts": "1603267220.016500",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "SPE",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "あぁ、"
+                },
+                {
+                  "type": "text",
+                  "text": "no longer available",
+                  "style": {
+                    "code": true
+                  }
+                },
+                {
+                  "type": "text",
+                  "text": " だったのか"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "26c23dbe-27ed-4e0b-8046-bdf71ed05b25",
+      "type": "message",
+      "text": "<https://aur.archlinux.org/packages/i3lock-color/> aur に10/18 にパッケージができてるから、その日に何かありましたね",
+      "user": "U0PM6EYR1",
+      "ts": "1603267182.016000",
+      "team": "T0GFBAM8C",
+      "attachments": [
+        {
+          "title": "AUR (en) - i3lock-color",
+          "title_link": "https://aur.archlinux.org/packages/i3lock-color/",
+          "text": "An improved screenlocker based upon XCB and PAM with color configuration support",
+          "fallback": "AUR (en) - i3lock-color",
+          "from_url": "https://aur.archlinux.org/packages/i3lock-color/",
+          "service_name": "aur.archlinux.org",
+          "id": 1,
+          "original_url": "https://aur.archlinux.org/packages/i3lock-color/"
+        }
+      ],
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "4uunS",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "link",
+                  "url": "https://aur.archlinux.org/packages/i3lock-color/"
+                },
+                {
+                  "type": "text",
+                  "text": " aur に10/18 にパッケージができてるから、その日に何かありましたね"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "reactions": [
+        {
+          "name": "cry",
+          "users": [
+            "U70QDFN82"
+          ],
+          "count": 1
+        }
+      ]
+    },
+    {
+      "client_msg_id": "38e04dbf-ff28-4f96-aadf-b74dba0c4d7c",
+      "type": "message",
+      "text": "<https://www.archlinux.org/packages/community/x86_64/i3lock-color/>\nこれか",
+      "user": "U70QDFN82",
+      "ts": "1603266276.015400",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "lzX",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "link",
+                  "url": "https://www.archlinux.org/packages/community/x86_64/i3lock-color/"
+                },
+                {
+                  "type": "text",
+                  "text": "\nこれか"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "e3240857-8d65-4018-a3ca-5fba6ee17065",
+      "type": "message",
+      "text": "pacmanの公式パッケージからi3lock-colorが消えとる・・・",
+      "user": "U70QDFN82",
+      "ts": "1603266230.015200",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "W=8M",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "pacmanの公式パッケージからi3lock-colorが消えとる・・・"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "reactions": [
+        {
+          "name": "eyes",
+          "users": [
+            "U017BNGTHT3"
+          ],
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "message",
+      "subtype": "bot_message",
+      "text": "<https://www.archlinux.org/news/nvidia-45528-is-incompatible-with-linux-59>\nnvidia 455.28 is incompatible with linux &gt;= 5.9\nnvidia is currently partially incompatible with linux &gt;= 5.9 [1] [2].While graphics should work fine, CUDA, OpenCL, and likely other features are broken. Userswho've already upgraded and need those features are advised to switch tothe linux-lts kernel for the time being until a fix for nvidia is available.\nnvidia455.28はlinux&gt; = 5.9と互換性がありません\nnvidiaは現在、linux&gt; = 5.9 [1] [2]と部分的に互換性がありません。グラフィックスは正常に機能するはずですが、CUDA、OpenCL、およびその他の機能が壊れている可能性があります。すでにアップグレードしていて、これらの機能が必要なユーザーは、nvidiaの修正が利用可能になるまで、当面はlinux-ltsカーネルに切り替えることをお勧めします。",
+      "ts": "1603245680.014000",
+      "username": "webhookbot",
+      "icons": {
+        "emoji": ":arch:"
+      },
+      "bot_id": "BRB5N3W2W",
+      "reactions": [
+        {
+          "name": "open_mouth",
+          "users": [
+            "U70QDFN82",
+            "U53RAQBCP",
+            "U017BNGTHT3",
+            "UJ7P75WB1",
+            "U565T848Y"
+          ],
+          "count": 5
+        }
+      ]
+    },
+    {
+      "type": "message",
+      "subtype": "bot_message",
+      "text": "<https://www.archlinux.org/news/nvidia-45528-is-incompatible-with-linux-59>\nnvidia 455.28 is incompatible with linux &gt;= 5.9\nnvidia is currently partially incompatible with linux &gt;= 5.9 [1] [2].While graphics should work fine, CUDA, OpenCL, and likely other features are broken. Userswho've already upgraded and need those features are advised to switch tothe linux-lts kernel for the time being until a fix for nvidia is available.\nnvidia455.28はlinux&gt; = 5.9と互換性がありません\nnvidiaは現在、linux&gt; = 5.9 [1] [2]と部分的に互換性がありません。グラフィックスは正常に機能するはずですが、CUDA、OpenCL、およびその他の機能が壊れている可能性があります。すでにアップグレードしていて、これらの機能が必要なユーザーは、nvidiaの修正が利用可能になるまで、当面はlinux-ltsカーネルに切り替えることをお勧めします。",
+      "ts": "1603243436.013700",
+      "username": "webhookbot",
+      "icons": {
+        "emoji": ":arch:"
+      },
+      "bot_id": "BRB5N3W2W",
+      "reactions": [
+        {
+          "name": "open_mouth",
+          "users": [
+            "U70QDFN82",
+            "U0GFBAM8U",
+            "UD124KPDJ",
+            "U017BNGTHT3",
+            "UJ7P75WB1"
+          ],
+          "count": 5
+        }
+      ]
+    },
+    {
+      "client_msg_id": "e5b6b039-1ae4-4cd0-b017-4e0ff9acec92",
+      "type": "message",
+      "text": "なるほど",
+      "user": "UGA29R3FH",
+      "ts": "1603119151.013500",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "rRx+9",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "なるほど"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "0CCD79C2-4B25-4C26-A460-52A42FDE0BEC",
+      "type": "message",
+      "text": "刺す系のイヤホン",
+      "user": "U0GFBAM8U",
+      "ts": "1603119085.013300",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "P5=pk",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "刺す系のイヤホン"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "BACDD794-A396-4F4D-84A8-81B9227276FD",
+      "type": "message",
+      "text": "ちなみに、bluetoothイヤホンなら問題ない",
+      "user": "U0GFBAM8U",
+      "ts": "1603119049.012800",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "X1kU",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "ちなみに、bluetoothイヤホンなら問題ない"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "71242533-FF4E-40D8-B03F-77F454DDD411",
+      "type": "message",
+      "text": "ですね。これもう数年経っても直ってないので",
+      "user": "U0GFBAM8U",
+      "ts": "1603119016.012100",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "utf",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "ですね。これもう数年経っても直ってないので"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "252d1dda-bd16-4641-a4ce-72edb01a2ba8",
+      "type": "message",
+      "text": "こちらでは普通に聴けてるのでハードバグっぽい",
+      "user": "UGA29R3FH",
+      "ts": "1603118983.011500",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "71u",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "こちらでは普通に聴けてるのでハードバグっぽい"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "4E4418AF-C3A4-46C4-9764-686561D60B95",
+      "type": "message",
+      "text": "こういう報告はありがたいので、どんどん書き込んでもらえるとうれしいです\nちなみに、私のarch、イヤホン時のみ音がキンキンになって、どう調整しても直らない現象があって、alsaのtuiでも無理で、ハード故障かドライバの問題かなと思って諦めてる",
+      "user": "U0GFBAM8U",
+      "ts": "1603118925.011200",
+      "team": "T0GFBAM8C",
+      "edited": {
+        "user": "U0GFBAM8U",
+        "ts": "1603119899.000000"
+      },
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "puc",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "こういう報告はありがたいので、どんどん書き込んでもらえるとうれしいです\nちなみに、私のarch、イヤホン時のみ音がキンキンになって、どう調整しても直らない現象があって、alsaのtuiでも無理で、ハード故障かドライバの問題かなと思って諦めてる"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "8DFE7171-94A2-4D6F-BE6C-44B01AD1B52C",
+      "type": "message",
+      "text": "ハードや設定によって同じ環境でも発生の有無とかも変わってきそうなのでなんとも言えませんが",
+      "user": "U0GFBAM8U",
+      "ts": "1603107604.007300",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "rP9",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "ハードや設定によって同じ環境でも発生の有無とかも変わってきそうなのでなんとも言えませんが"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "CF89CD81-3408-4A1C-8614-8A66033881BE",
+      "type": "message",
+      "text": "環境はchromium,i3,kernelともに最新です",
+      "user": "U0GFBAM8U",
+      "ts": "1603107233.006100",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "To=f",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "環境はchromium,i3,kernelともに最新です"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "06FAD721-89A4-47DD-9D38-87B666871EB5",
+      "type": "message",
+      "text": "自分とこは大丈夫ですね",
+      "user": "U0GFBAM8U",
+      "ts": "1603106973.005000",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "ByljC",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "自分とこは大丈夫ですね"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "reactions": [
+        {
+          "name": "naruhodo",
+          "users": [
+            "U70QDFN82"
+          ],
+          "count": 1
+        }
+      ]
+    },
+    {
+      "client_msg_id": "c123ef4e-61d6-4858-b9d0-03281da36ba0",
+      "type": "message",
+      "text": "なんか最新のArchのChromiumが変？戻ってもページが表示されない。F5でもだめ。別のタブを開いてから開くと表示される。",
+      "user": "U70QDFN82",
+      "ts": "1603104724.004600",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "Kkr",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "なんか最新のArchのChromiumが変？戻ってもページが表示されない。F5でもだめ。別のタブを開いてから開くと表示される。"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "message",
+      "subtype": "channel_join",
+      "ts": "1603079756.003300",
+      "user": "U01D0N3KW76",
+      "text": "<@U01D0N3KW76>さんがチャンネルに参加しました"
+    },
+    {
+      "type": "message",
+      "subtype": "channel_join",
+      "ts": "1602900048.003100",
+      "user": "U01CPU98Q05",
+      "text": "<@U01CPU98Q05>さんがチャンネルに参加しました"
+    },
+    {
+      "type": "message",
+      "subtype": "channel_join",
+      "ts": "1602418225.002900",
+      "user": "U01CRENUS57",
+      "text": "<@U01CRENUS57>さんがチャンネルに参加しました"
+    },
+    {
+      "type": "message",
+      "subtype": "channel_join",
+      "ts": "1601728032.002100",
+      "user": "U01C9EE40KB",
+      "text": "<@U01C9EE40KB>さんがチャンネルに参加しました"
+    },
+    {
+      "type": "message",
+      "subtype": "channel_join",
+      "ts": "1601725174.001900",
+      "user": "U01CLKWQHME",
+      "text": "<@U01CLKWQHME>さんがチャンネルに参加しました"
+    },
+    {
+      "type": "message",
+      "subtype": "channel_join",
+      "ts": "1601608512.001700",
+      "user": "U01BMDG2Y6A",
+      "text": "<@U01BMDG2Y6A>さんがチャンネルに参加しました"
+    },
+    {
+      "type": "message",
+      "subtype": "bot_message",
+      "text": "<https://www.archlinux.org/news/ghostpcl9532-2-and-ghostxps9532-2-updates-require-manual-intervention>\nghostpcl&gt;=9.53.2-2 and ghostxps&gt;=9.53.2-2 updates require manual intervention\nThe ghostpcl and ghostxps packages prior to version 9.53.2-2 were missinga soname link each. This has been fixed in 9.53.2-2, so the upgrade willneed to overwrite the untracked files created by ldconfig. If you get anyof these errorsghostpcl: /usr/lib/libgpcl6.so.9 exists in filesystemghostxps: /usr/lib/libgxps.so.9 exists in filesystemwhen updating, usepacman -Syu --overwrite /usr/lib/libgpcl6.so.9,/usr/lib/libgxps.so.9to perform the upgrade.\nghostpcl&gt; = 9.53.2-2およびghostxps&gt; = 9.53.2-2の更新には手動による介入が必要です\nバージョン9.53.2-2より前のghostpclおよびghostxpsパッケージには、それぞれsonameリンクがありませんでした。これは9.53.2-2で修正されているため、アップグレードでは、ldconfigによって作成された追跡されていないファイルを上書きする必要があります。これらのエラーのいずれかが発生した場合ghostpcl：/usr/lib/libgpcl6.so.9がfilesystemghostxpsに存在します：/usr/lib/libgxps.so.9が更新時にファイルシステムに存在します、usepacman -Syu --overwrite /usr/lib/libgpcl6.so .9、/ usr / lib /libgxps.so.9アップグレードを実行します。",
+      "ts": "1601575297.001500",
+      "username": "webhookbot",
+      "icons": {
+        "emoji": ":arch:"
+      },
+      "bot_id": "BRB5N3W2W"
+    }
+  ],
+  "has_more": false,
+  "is_limited": true,
+  "pin_count": 16,
+  "channel_actions_ts": null,
+  "channel_actions_count": 0
+}

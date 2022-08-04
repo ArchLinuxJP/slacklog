@@ -1,0 +1,548 @@
+{
+  "ok": true,
+  "latest": "1585743045.000000",
+  "oldest": "1583064645.000000",
+  "messages": [
+    {
+      "client_msg_id": "bcf1a29f-20f4-4c32-bd7a-cf1db46d884c",
+      "type": "message",
+      "text": "gnome3使ってるんだけど、通知ウィンドウ? が大きくて超邪魔。メールとか受信する度に画面の上半分とは言わないけど、かなりを締める。これってなんとかならないんですかね?",
+      "user": "USLL50J1M",
+      "ts": "1585620084.046600",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "qdv",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "gnome3使ってるんだけど、通知ウィンドウ? が大きくて超邪魔。メールとか受信する度に画面の上半分とは言わないけど、かなりを締める。これってなんとかならないんですかね?"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "ab4cf153-c569-465f-8751-f08a74bb0a88",
+      "type": "message",
+      "text": "あ、確かにpacmanがAURに関与するわけはないのか（遅レス",
+      "user": "UAPRYSVPS",
+      "ts": "1585315927.043300",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "PQv",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "あ、確かにpacmanがAURに関与するわけはないのか（遅レス"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "5ac56be2-dc05-4c2e-be45-ab3daca845c0",
+      "type": "message",
+      "text": "つまりARCHのGitは使いづらいと｡｡\n<https://gitea.io/en-us/|こんな感じ>にホストしてくれたらー",
+      "user": "UP795STQS",
+      "ts": "1585314601.041600",
+      "team": "T0GFBAM8C",
+      "attachments": [
+        {
+          "title": "Gitea",
+          "title_link": "https://gitea.io/en-us/",
+          "fallback": "Gitea",
+          "image_url": "https://docs.gitea.io/images/gitea.png",
+          "from_url": "https://gitea.io/en-us/",
+          "image_width": 250,
+          "image_height": 250,
+          "image_bytes": 13863,
+          "service_icon": "https://gitea.io/images/favicon.png",
+          "service_name": "gitea.io",
+          "id": 1,
+          "original_url": "https://gitea.io/en-us/"
+        }
+      ],
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "tkN",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "つまりARCHのGitは使いづらいと｡｡\n"
+                },
+                {
+                  "type": "link",
+                  "url": "https://gitea.io/en-us/",
+                  "text": "こんな感じ"
+                },
+                {
+                  "type": "text",
+                  "text": "にホストしてくれたらー"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "3dc9d5d6-af06-4890-9f15-3cd9b56a2d8f",
+      "type": "message",
+      "text": "一応AURにpushするときにGitHubにもpushする、みたいな方法は取れると思いますが、GitHub/GitLabを使いたい動機があまり分かっていません……(CI連携、PR/MRなんかが使えるのはメリットですが)",
+      "user": "UUWBU08TU",
+      "ts": "1585314324.039900",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "NMhs",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "一応AURにpushするときにGitHubにもpushする、みたいな方法は取れると思いますが、GitHub/GitLabを使いたい動機があまり分かっていません……(CI連携、PR/MRなんかが使えるのはメリットですが)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "4062f164-b57e-478c-aeaa-a7f93d17e65a",
+      "type": "message",
+      "text": "一応 AUR は cgit を同梱してるので <https://aur.archlinux.org/cgit/aur.git/?h=yay> みたいにリポジトリの中身を見る事はできるんですよね",
+      "user": "U0J2VATJA",
+      "ts": "1585313790.034300",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "Njdl",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "一応 AUR は cgit を同梱してるので "
+                },
+                {
+                  "type": "link",
+                  "url": "https://aur.archlinux.org/cgit/aur.git/?h=yay"
+                },
+                {
+                  "type": "text",
+                  "text": " みたいにリポジトリの中身を見る事はできるんですよね"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "18c84a5e-bc8f-4ee9-9dc9-76de5f91d4b8",
+      "type": "message",
+      "text": "まあ AUR はあくまでコミュニティによって運営されてるので makepkg が Git から落としてくれる機能を実装する事は今後もないでしょうね…",
+      "user": "U0J2VATJA",
+      "ts": "1585313746.033600",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "8yLr",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "まあ AUR はあくまでコミュニティによって運営されてるので makepkg が Git から落としてくれる機能を実装する事は今後もないでしょうね…"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "8e8d260c-41df-4d2f-a68e-14a658368d59",
+      "type": "message",
+      "text": "github, gitlabとかが企業によって運営されているから避けてるのかな。将来、policyの変更があってもおかしくないわけですし。。。Archの哲学にのっとって、自分たちで保守しているものを使っていくのでしょうね。",
+      "user": "UPYQ3CUJ1",
+      "ts": "1585306894.030900",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "WxE",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "github, gitlabとかが企業によって運営されているから避けてるのかな。将来、policyの変更があってもおかしくないわけですし。。。Archの哲学にのっとって、自分たちで保守しているものを使っていくのでしょうね。"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "439030d6-bfdb-46e6-9e74-17627bd6b7ac",
+      "type": "message",
+      "text": "ですね。。archlinux.orgとかに立たないかな",
+      "user": "U53RAQBCP",
+      "ts": "1585303961.027700",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "DNV",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "ですね。。archlinux.orgとかに立たないかな"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "17a217cc-7f41-49e8-b15a-8037e707863f",
+      "type": "message",
+      "text": "そういう意味でもメインリポジトリをGitHub（or GitLab）に持ってきてくれたらすごくうれしいですよね・・・",
+      "user": "U70QDFN82",
+      "ts": "1585301078.027000",
+      "team": "T0GFBAM8C",
+      "edited": {
+        "user": "U70QDFN82",
+        "ts": "1585301091.000000"
+      },
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "/4vII",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "そういう意味でもメインリポジトリをGitHub（or GitLab）に持ってきてくれたらすごくうれしいですよね・・・"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "e1fc19dd-3612-487d-ae86-4aa35b857263",
+      "type": "message",
+      "text": "たしかに",
+      "user": "U53RAQBCP",
+      "ts": "1585300582.025700",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "y4+p",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "たしかに"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "f4a54d1c-18d5-4202-aacc-0d2dfa65cba0",
+      "type": "message",
+      "text": "バージョン指定せずにバグってたら修正あげて、masterを成長させるのがArcherっぽい気がしますが・・・",
+      "user": "U70QDFN82",
+      "ts": "1585300249.025500",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "1pG1n",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "バージョン指定せずにバグってたら修正あげて、masterを成長させるのがArcherっぽい気がしますが・・・"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "0030a455-b0cb-4d29-970c-b19b91378c8d",
+      "type": "message",
+      "text": "`makepkg` にコミット指定してビルドみたいなの出来ないのかな…作れば良さそう",
+      "user": "U53RAQBCP",
+      "ts": "1585299768.024500",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "Cvr",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "makepkg",
+                  "style": {
+                    "code": true
+                  }
+                },
+                {
+                  "type": "text",
+                  "text": " にコミット指定してビルドみたいなの出来ないのかな…作れば良さそう"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "0a8a7bc8-a66c-4f56-8f9d-e59f1642e039",
+      "type": "message",
+      "text": ".SRCINFO の履歴を解析してバージョンの変化を取り出すとかはできそうかなと思いました",
+      "user": "UUWBU08TU",
+      "ts": "1585282007.023300",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "SPc",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": ".SRCINFO の履歴を解析してバージョンの変化を取り出すとかはできそうかなと思いました"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "26bed308-2c04-403a-985c-f74bf1b6ca38",
+      "type": "message",
+      "text": "でも時々 .SRCINFO を更新していなかったりで2コミットに跨いだりもするので難しい",
+      "user": "U0J2VATJA",
+      "ts": "1585281668.021500",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "0SC",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "でも時々 .SRCINFO を更新していなかったりで2コミットに跨いだりもするので難しい"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "765e5bcc-8353-4380-ae51-0f7bdf9a9a80",
+      "type": "message",
+      "text": "今だとたいてい1コミットごとにバージョンが変わっているだろう、ぐらいの温度感なので…",
+      "user": "U0J2VATJA",
+      "ts": "1585281631.020600",
+      "team": "T0GFBAM8C",
+      "edited": {
+        "user": "U0J2VATJA",
+        "ts": "1585281632.000000"
+      },
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "EWpGw",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "今だとたいてい1コミットごとにバージョンが変わっているだろう、ぐらいの温度感なので…"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "f1083575-a1c9-446d-98b2-93e228b5d25d",
+      "type": "message",
+      "text": "本当はテストスイートとか CI を提供してパッケージが正しく作られているか確認できるようにしつつ、パッケージのバージョンアップやリリースごとにタグを切らせるようにすれば古いバージョンに下げるのも少し楽になりそうなんですが…",
+      "user": "U0J2VATJA",
+      "ts": "1585281577.019800",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "ghonG",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "本当はテストスイートとか CI を提供してパッケージが正しく作られているか確認できるようにしつつ、パッケージのバージョンアップやリリースごとにタグを切らせるようにすれば古いバージョンに下げるのも少し楽になりそうなんですが…"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "8e4246ab-a854-428b-bdc4-755f2e79bad2",
+      "type": "message",
+      "text": "AUR でバージョン指定するのって難しいんですよね、ちゃんとバージョン上げる度に tag 打つとかしないと難しいかと",
+      "user": "U0J2VATJA",
+      "ts": "1585281455.018000",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "kc2",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "AUR でバージョン指定するのって難しいんですよね、ちゃんとバージョン上げる度に tag 打つとかしないと難しいかと"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "8ead983c-68be-48bc-a41e-fdbd7b3e0b59",
+      "type": "message",
+      "text": "公式リポジトリにはArch Linux Archiveがありますね。それを使ったダウングレーダーはAURにあります。\npacmanがAURを直接管理することはないはずです。yayなどのAURヘルパーなら機能追加されるかもしれませんが、(古さにもよりますが)依存パッケージのバージョンが新しすぎてビルドできないみたいな問題も起きそうだと思いました。",
+      "user": "UUWBU08TU",
+      "ts": "1585270078.016800",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "l=grv",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "公式リポジトリにはArch Linux Archiveがありますね。それを使ったダウングレーダーはAURにあります。\npacmanがAURを直接管理することはないはずです。yayなどのAURヘルパーなら機能追加されるかもしれませんが、(古さにもよりますが)依存パッケージのバージョンが新しすぎてビルドできないみたいな問題も起きそうだと思いました。"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "82be5f05-8600-4872-9489-fa5d461ce1c0",
+      "type": "message",
+      "text": "<https://wiki.archlinux.org/index.php/Downgrading_packages>\n見ましたがバージョン指定､､はできない....？ 確かに<https://jpn.mirror.pkgbuild.com/community/os/x86_64/|公式リポジトリ>には最新のものだけですね｡\n容量の問題なんでしょうかね､､｡\nでもダウングレードラッパー的なものはありそう､､｡？",
+      "user": "UP795STQS",
+      "ts": "1585269299.011700",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "jE3FL",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "link",
+                  "url": "https://wiki.archlinux.org/index.php/Downgrading_packages"
+                },
+                {
+                  "type": "text",
+                  "text": "\n見ましたがバージョン指定､､はできない....？ 確かに"
+                },
+                {
+                  "type": "link",
+                  "url": "https://jpn.mirror.pkgbuild.com/community/os/x86_64/",
+                  "text": "公式リポジトリ"
+                },
+                {
+                  "type": "text",
+                  "text": "には最新のものだけですね｡\n容量の問題なんでしょうかね､､｡\nでもダウングレードラッパー的なものはありそう､､｡？"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "has_more": false,
+  "is_limited": true,
+  "pin_count": 0,
+  "channel_actions_ts": null,
+  "channel_actions_count": 0
+}

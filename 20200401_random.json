@@ -1,0 +1,2876 @@
+{
+  "ok": true,
+  "latest": "1588335045.000000",
+  "oldest": "1585743045.000000",
+  "messages": [
+    {
+      "client_msg_id": "8b095043-c81b-4582-a958-b50cfd1341b4",
+      "type": "message",
+      "text": "ありがとうございました",
+      "user": "UCA1NQM5K",
+      "ts": "1588304588.469800",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "bmk7H",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "ありがとうございました"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "9b1ff9e0-a801-4aa6-9956-4583612fd210",
+      "type": "message",
+      "text": "関係ないとのことなので、上書きして更新しました\n(そもそもpt_BRな時点で察しろ案件でした......)",
+      "user": "UCA1NQM5K",
+      "ts": "1588304580.469500",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "bLhNv",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "関係ないとのことなので、上書きして更新しました\n(そもそもpt_BRな時点で察しろ案件でした......)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "ec98f71f-77dc-445e-96de-04b59b754c82",
+      "type": "message",
+      "text": "<https://bugs.archlinux.org/task66444|https://bugs.archlinux.org/tas>k/66444/ ですかね",
+      "user": "UUWBU08TU",
+      "ts": "1588304403.467300",
+      "team": "T0GFBAM8C",
+      "edited": {
+        "user": "UUWBU08TU",
+        "ts": "1588304581.000000"
+      },
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "0jr=3",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "link",
+                  "url": "https://bugs.archlinux.org/task66444",
+                  "text": "https://bugs.archlinux.org/tas"
+                },
+                {
+                  "type": "text",
+                  "text": "k/66444/ ですかね"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "4d225995-2702-41d5-adf7-c9617f45f85d",
+      "type": "message",
+      "text": "ありがとうございます",
+      "user": "UCA1NQM5K",
+      "ts": "1588304387.466900",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "j7Lj",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "ありがとうございます"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "9170fa06-0ca0-4361-bf49-dcaa0ffc42d7",
+      "type": "message",
+      "text": "日本人には関係のないファイル",
+      "user": "UGA29R3FH",
+      "ts": "1588304374.466700",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "0kMW",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "日本人には関係のないファイル"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "1c70d70d-6d43-4b32-ae88-62e823fc6545",
+      "type": "message",
+      "text": "(2週間近く更新を放置していて、どのパッケージでコンフリクトしてるのかさえ定かではない......)",
+      "user": "UCA1NQM5K",
+      "ts": "1588304373.466600",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "VXyoF",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "(2週間近く更新を放置していて、どのパッケージでコンフリクトしてるのかさえ定かではない......)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "638f6fc0-96e5-4e86-9bc1-63b5e95aea02",
+      "type": "message",
+      "text": "```エラー: 処理を完了できませんでした (衝突しているファイル)\n/usr/share/locale/pt_BR/LC_MESSAGES/zbar.mo が 'zbar' と 'zbar-gtk' の両方に存在しています\nエラーが発生したため、パッケージは更新されませんでした。\nError installing repo packages```\nパッケージ更新しようとしたら、このようなエラーが出たのですがこれは上書きしてしまって問題ないですかね......?",
+      "user": "UCA1NQM5K",
+      "ts": "1588304338.465600",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "S89P",
+          "elements": [
+            {
+              "type": "rich_text_preformatted",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "エラー: 処理を完了できませんでした (衝突しているファイル)\n/usr/share/locale/pt_BR/LC_MESSAGES/zbar.mo が 'zbar' と 'zbar-gtk' の両方に存在しています\nエラーが発生したため、パッケージは更新されませんでした。\nError installing repo packages"
+                }
+              ]
+            },
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "パッケージ更新しようとしたら、このようなエラーが出たのですがこれは上書きしてしまって問題ないですかね......?"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "6d8fe7b0-37a7-42b4-ae82-332d5be3b7f7",
+      "type": "message",
+      "text": "ZFSと一言だけ言わせてください",
+      "user": "U7NBCFT1S",
+      "ts": "1588250995.464300",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "g7U",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "ZFSと一言だけ言わせてください"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "reactions": [
+        {
+          "name": "+1",
+          "users": [
+            "UN1SFMNU8",
+            "UCA1NQM5K",
+            "UJ7P75WB1",
+            "U010H0W5B7E",
+            "URZFHALTT"
+          ],
+          "count": 5
+        }
+      ]
+    },
+    {
+      "type": "message",
+      "subtype": "channel_join",
+      "ts": "1588250805.463900",
+      "user": "U013J0VJXSL",
+      "text": "<@U013J0VJXSL>さんがチャンネルに参加しました"
+    },
+    {
+      "client_msg_id": "20621d9e-8e6d-413a-9aca-03835e04b907",
+      "type": "message",
+      "text": "multilib。。。なるほど。",
+      "user": "USLL50J1M",
+      "ts": "1588211618.463200",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "HVZ",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "multilib。。。なるほど。"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "e125b080-cf49-4fcf-9629-b966b0ef2581",
+      "type": "message",
+      "text": "multilibのリポジトリを有効化して、wineとwinetricksを入れてるだけです......",
+      "user": "UCA1NQM5K",
+      "ts": "1588211605.462900",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "ic7wI",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "multilibのリポジトリを有効化して、wineとwinetricksを入れてるだけです......"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "df856ea3-fcda-4975-ac6e-bc7705d4fe63",
+      "type": "message",
+      "text": "multilibをpacman.confに突っ込んでsyncしたらいい感じに動いてくれる",
+      "user": "UGA29R3FH",
+      "ts": "1588211599.462700",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "ub9",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "multilibをpacman.confに突っ込んでsyncしたらいい感じに動いてくれる"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "e8efe87e-525f-4b87-925f-a5f05dc35f1f",
+      "type": "message",
+      "text": "wiki通りにやって失敗したことないですね......",
+      "user": "UCA1NQM5K",
+      "ts": "1588211547.460700",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "6D7r",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "wiki通りにやって失敗したことないですね......"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "0b45ed58-a394-4b80-8dcc-90912187c26d",
+      "type": "message",
+      "text": "Archのwineインストール、凄い難しくないですか? ライブラリの選択がよくわからず、毎回最後にエラーになる。",
+      "user": "USLL50J1M",
+      "ts": "1588211515.460000",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "cGHe",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "Archのwineインストール、凄い難しくないですか? ライブラリの選択がよくわからず、毎回最後にエラーになる。"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "399f99ce-6ac1-4f88-b5b7-a5c244f42a17",
+      "type": "message",
+      "text": "ｴﾛｹﾞはWineでやるものでは？\n←(最新ｴﾛｹﾞをWineでやろうとして消耗してる人)",
+      "user": "UCA1NQM5K",
+      "ts": "1588211434.459200",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "VCOK/",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "ｴﾛｹﾞはWineでやるものでは？\n←(最新ｴﾛｹﾞをWineでやろうとして消耗してる人)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "3688d902-8c42-46bf-a549-e76beadbefe7",
+      "type": "message",
+      "text": "VirtualBoxの調子が悪い。起動した後、マウスとかキー入力とか効かなくなる。ALT-TABで別アプリにしてもクリックが効かない。最新のextension-packは入れている。\nこれではｴﾛｹﾞｰ出来ないではないか。",
+      "user": "USLL50J1M",
+      "ts": "1588210656.458500",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "gLaXa",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "VirtualBoxの調子が悪い。起動した後、マウスとかキー入力とか効かなくなる。ALT-TABで別アプリにしてもクリックが効かない。最新のextension-packは入れている。\nこれではｴﾛｹﾞｰ出来ないではないか。"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "df57ac61-b193-4d03-951b-734296228270",
+      "type": "message",
+      "text": "僕は/と/homeはxfsで、/var/lib/dockerだけext4にしてる。",
+      "user": "USLL50J1M",
+      "ts": "1588210319.456600",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "omuiX",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "僕は/と/homeはxfsで、/var/lib/dockerだけext4にしてる。"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "0db248f7-a3c4-4ba2-a81a-cee6cea407d7",
+      "type": "message",
+      "text": "これ試してみたけど爆速で再起動ができてとてもいいな <https://wiki.archlinux.jp/index.php/Kexec>",
+      "user": "UGA29R3FH",
+      "ts": "1588154188.455200",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "AqDI",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "これ試してみたけど爆速で再起動ができてとてもいいな "
+                },
+                {
+                  "type": "link",
+                  "url": "https://wiki.archlinux.jp/index.php/Kexec"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "reactions": [
+        {
+          "name": "face_with_rolling_eyes",
+          "users": [
+            "UUWBU08TU",
+            "UCA1NQM5K"
+          ],
+          "count": 2
+        },
+        {
+          "name": "eyes",
+          "users": [
+            "U70QDFN82",
+            "UJ7P75WB1",
+            "UPL8M8KPT"
+          ],
+          "count": 3
+        }
+      ]
+    },
+    {
+      "client_msg_id": "bbf045b0-b1b7-4857-8dc8-149cdae0e8e3",
+      "type": "message",
+      "text": "なるほど、復旧が面倒なのは厳しいですね…\nbtrfsにすることにしました、ありがとうございます:bow:",
+      "user": "UJ7P75WB1",
+      "ts": "1588143423.454600",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "jvdIy",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "なるほど、復旧が面倒なのは厳しいですね…\nbtrfsにすることにしました、ありがとうございます"
+                },
+                {
+                  "type": "emoji",
+                  "name": "bow",
+                  "unicode": "1f647"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "reactions": [
+        {
+          "name": "+1",
+          "users": [
+            "UCA1NQM5K"
+          ],
+          "count": 1
+        }
+      ]
+    },
+    {
+      "client_msg_id": "dcd5cd7f-802e-40e1-b7a9-7407846afabf",
+      "type": "message",
+      "text": "あとxfsとdocker地味に相性悪いので無難なのはext4ですかね。\nbtrfsも体感できるほど遅さ感じたことないですね",
+      "user": "U3FJYR7MG",
+      "ts": "1588139603.452700",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "dyQ",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "あとxfsとdocker地味に相性悪いので無難なのはext4ですかね。\nbtrfsも体感できるほど遅さ感じたことないですね"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "8ac9815f-1035-499c-80d4-f5dc0766d0c8",
+      "type": "message",
+      "text": "手持ちのラップトップをbtrfsのlzo圧縮で使ってますが、体感できるほどの遅さを感じたことはなかったです。\n(sataのSSDなのでそっちがネックになってる可能性はありますが......)\n\nxfsは障害が発生したときの復旧がめちゃくちゃ面倒だったので、あまり人にお勧めしたくない気はします......",
+      "user": "UCA1NQM5K",
+      "ts": "1588137096.450400",
+      "team": "T0GFBAM8C",
+      "edited": {
+        "user": "UCA1NQM5K",
+        "ts": "1588140007.000000"
+      },
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "zgr",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "手持ちのラップトップをbtrfsのlzo圧縮で使ってますが、体感できるほどの遅さを感じたことはなかったです。\n(sataのSSDなのでそっちがネックになってる可能性はありますが......)\n\nxfsは障害が発生したときの復旧がめちゃくちゃ面倒だったので、あまり人にお勧めしたくない気はします......"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "22a70beb-0f3a-434c-bf78-74c21d17d613",
+      "type": "message",
+      "text": "仰られる通り無難なのはext4なんですが、ちょっと面白みがない(?)\nbtrfsの圧縮はとても魅力的なんですが、phoronixのベンチマーク(btrfs/ext4/f2fs/xfs)の結果だと突き抜けて遅いんですよね……",
+      "user": "UJ7P75WB1",
+      "ts": "1588127228.447000",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "7yo",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "仰られる通り無難なのはext4なんですが、ちょっと面白みがない(?)\nbtrfsの圧縮はとても魅力的なんですが、phoronixのベンチマーク(btrfs/ext4/f2fs/xfs)の結果だと突き抜けて遅いんですよね……"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "57ba5435-7936-4c27-a92e-a79ac8802b82",
+      "type": "message",
+      "text": "個人的なオススメはbtrfsで透過圧縮かけることですが、いろいろ楽なのはext4ですかね......?",
+      "user": "UCA1NQM5K",
+      "ts": "1588126820.443300",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "/It",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "個人的なオススメはbtrfsで透過圧縮かけることですが、いろいろ楽なのはext4ですかね......?"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "c72583eb-4f51-47d8-b7b7-509123349d61",
+      "type": "message",
+      "text": "NVMe SSDを購入したので/を移そうと思っているんですが、\n・ext4\n・btrfs\n・xfs\nのどれがいいでしょうか…\nxfsにしてみようかと思っているんですが、ArchWikiの記載が短くてちょっと不安です",
+      "user": "UJ7P75WB1",
+      "ts": "1588124811.442200",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "Q9g",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "NVMe SSDを購入したので/を移そうと思っているんですが、\n・ext4\n・btrfs\n・xfs\nのどれがいいでしょうか…\nxfsにしてみようかと思っているんですが、ArchWikiの記載が短くてちょっと不安です"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "message",
+      "subtype": "thread_broadcast",
+      "text": "systemdはxxxdなに知ってれば最低限の教養があると言えるのだろうか・・・",
+      "user": "U70QDFN82",
+      "ts": "1588063597.436900",
+      "thread_ts": "1588063310.433200",
+      "root": {
+        "client_msg_id": "878462b7-2a72-440a-8569-1931df8a87ee",
+        "type": "message",
+        "text": "systemdなにもわからん",
+        "user": "U70QDFN82",
+        "ts": "1588063310.433200",
+        "team": "T0GFBAM8C",
+        "blocks": [
+          {
+            "type": "rich_text",
+            "block_id": "TYL5",
+            "elements": [
+              {
+                "type": "rich_text_section",
+                "elements": [
+                  {
+                    "type": "text",
+                    "text": "systemdなにもわからん"
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "thread_ts": "1588063310.433200",
+        "reply_count": 5,
+        "reply_users_count": 3,
+        "latest_reply": "1588064072.437700",
+        "reply_users": [
+          "URZFHALTT",
+          "U70QDFN82",
+          "U0HJ7EB9T"
+        ],
+        "is_locked": false,
+        "subscribed": false
+      },
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "Oizv",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "systemdはxxxdなに知ってれば最低限の教養があると言えるのだろうか・・・"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "client_msg_id": "da346506-42ea-4afd-ae12-46ed83ff78ea"
+    },
+    {
+      "client_msg_id": "42f9b81d-32ae-4d83-8557-26bc8d9e928f",
+      "type": "message",
+      "text": "というかタッチパネルのついたPCだなこれw",
+      "user": "UGA29R3FH",
+      "ts": "1588063462.436700",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "cWSk",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "というかタッチパネルのついたPCだなこれw"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "message",
+      "subtype": "thread_broadcast",
+      "text": "artixにしよう:heart:",
+      "user": "URZFHALTT",
+      "ts": "1588063451.436200",
+      "thread_ts": "1588063310.433200",
+      "root": {
+        "client_msg_id": "878462b7-2a72-440a-8569-1931df8a87ee",
+        "type": "message",
+        "text": "systemdなにもわからん",
+        "user": "U70QDFN82",
+        "ts": "1588063310.433200",
+        "team": "T0GFBAM8C",
+        "blocks": [
+          {
+            "type": "rich_text",
+            "block_id": "TYL5",
+            "elements": [
+              {
+                "type": "rich_text_section",
+                "elements": [
+                  {
+                    "type": "text",
+                    "text": "systemdなにもわからん"
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "thread_ts": "1588063310.433200",
+        "reply_count": 5,
+        "reply_users_count": 3,
+        "latest_reply": "1588064072.437700",
+        "reply_users": [
+          "URZFHALTT",
+          "U70QDFN82",
+          "U0HJ7EB9T"
+        ],
+        "is_locked": false,
+        "subscribed": false
+      },
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "60l=",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "artixにしよう"
+                },
+                {
+                  "type": "emoji",
+                  "name": "heart",
+                  "unicode": "2764-fe0f"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "client_msg_id": "9a32c44f-b079-4b38-bd93-44cb93223b17"
+    },
+    {
+      "client_msg_id": "706b7ca5-d8b4-416a-8076-106db7b01f4d",
+      "type": "message",
+      "text": "ここで取り上げられるということはLinuxが動くということか",
+      "user": "UGA29R3FH",
+      "ts": "1588063419.436100",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "rG2+1",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "ここで取り上げられるということはLinuxが動くということか"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "94b130c7-fd5a-4a84-b3b3-085552b5bd10",
+      "type": "message",
+      "text": "スマホはキーボードとかはないからきつい、、一方このパソコンは物体キーボードあるからすごく楽だよ",
+      "user": "URZFHALTT",
+      "ts": "1588063413.435900",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "MFi",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "スマホはキーボードとかはないからきつい、、一方このパソコンは物体キーボードあるからすごく楽だよ"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "b71c79a3-d68b-42a5-96fa-e277c5b9989e",
+      "type": "message",
+      "text": "手前味噌ですが、nspawnについて色々試したときの記事を貼ってみますね。\n<https://qiita.com/Aruneko/items/ddf4581ab33d658854c4>",
+      "user": "U0HJ7EB9T",
+      "ts": "1588063394.435100",
+      "team": "T0GFBAM8C",
+      "attachments": [
+        {
+          "service_name": "Qiita",
+          "title": "[Arch Linux] systemd-nspawnで軽量コンテナを建てよう！ - Qiita",
+          "title_link": "https://qiita.com/Aruneko/items/ddf4581ab33d658854c4",
+          "text": "はじめに Systemdには軽量コンテナ(というよりはすごいchroot)を建てる機能がなぜか備わっています。 Dockerをわざわざ入れるまでもないような場面で活躍してくれるかもしれません。 それでは早速Arch Linuxに...",
+          "fallback": "Qiita: [Arch Linux] systemd-nspawnで軽量コンテナを建てよう！ - Qiita",
+          "image_url": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fcdn.qiita.com%2Fassets%2Fpublic%2Farticle-ogp-background-1150d8b18a7c15795b701a55ae908f94.png?ixlib=rb-1.2.2&w=1200&mark=https%3A%2F%2Fqiita-user-contents.imgix.net%2F~text%3Fixlib%3Drb-1.2.2%26w%3D840%26h%3D380%26txt%3D%255BArch%2520Linux%255D%2520systemd-nspawn%25E3%2581%25A7%25E8%25BB%25BD%25E9%2587%258F%25E3%2582%25B3%25E3%2583%25B3%25E3%2583%2586%25E3%2583%258A%25E3%2582%2592%25E5%25BB%25BA%25E3%2581%25A6%25E3%2582%2588%25E3%2581%2586%25EF%25BC%2581%26txt-color%3D%2523333%26txt-font%3DAvenir-Black%26txt-size%3D54%26txt-clip%3Dellipsis%26txt-align%3Dcenter%252Cmiddle%26s%3Dd52813584d2e5f0c47e8fe4338690b1a&mark-align=center%2Cmiddle&blend=https%3A%2F%2Fqiita-user-contents.imgix.net%2F~text%3Fixlib%3Drb-1.2.2%26w%3D840%26h%3D500%26txt%3D%2540Aruneko%26txt-color%3D%2523333%26txt-font%3DAvenir-Black%26txt-size%3D45%26txt-align%3Dright%252Cbottom%26s%3D1e774997f0a4829c16c7c91776c7828d&blend-align=center%2Cmiddle&blend-mode=normal&s=47f18c3b18b07e6f6a78392d65848bb9",
+          "from_url": "https://qiita.com/Aruneko/items/ddf4581ab33d658854c4",
+          "image_width": 476,
+          "image_height": 250,
+          "image_bytes": 44728,
+          "service_icon": "https://cdn.qiita.com/assets/favicons/public/apple-touch-icon-ec5ba42a24ae923f16825592efdc356f.png",
+          "id": 1,
+          "original_url": "https://qiita.com/Aruneko/items/ddf4581ab33d658854c4"
+        }
+      ],
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "p5f",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "手前味噌ですが、nspawnについて色々試したときの記事を貼ってみますね。\n"
+                },
+                {
+                  "type": "link",
+                  "url": "https://qiita.com/Aruneko/items/ddf4581ab33d658854c4"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "thread_ts": "1588063394.435100",
+      "reply_count": 5,
+      "reply_users_count": 3,
+      "latest_reply": "1589455557.498100",
+      "reply_users": [
+        "USLL50J1M",
+        "U0HJ7EB9T",
+        "U0H9QUFA5"
+      ],
+      "is_locked": false,
+      "subscribed": false,
+      "reactions": [
+        {
+          "name": "+1",
+          "users": [
+            "U70QDFN82",
+            "USSBNDE68",
+            "US19N5ARJ",
+            "U0H9QUFA5"
+          ],
+          "count": 4
+        }
+      ]
+    },
+    {
+      "client_msg_id": "cd10581c-681b-4ce3-a9f3-aa91f89d3548",
+      "type": "message",
+      "text": "thinkpad x220T買ったけど意外とタッチスクリーンを好きになった、、、子供の頃からニンテンドーDSみたいな懐かしみ",
+      "user": "URZFHALTT",
+      "ts": "1588063339.433800",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "25LMC",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "thinkpad x220T買ったけど意外とタッチスクリーンを好きになった、、、子供の頃からニンテンドーDSみたいな懐かしみ"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "878462b7-2a72-440a-8569-1931df8a87ee",
+      "type": "message",
+      "text": "systemdなにもわからん",
+      "user": "U70QDFN82",
+      "ts": "1588063310.433200",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "TYL5",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "systemdなにもわからん"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "thread_ts": "1588063310.433200",
+      "reply_count": 5,
+      "reply_users_count": 3,
+      "latest_reply": "1588064072.437700",
+      "reply_users": [
+        "URZFHALTT",
+        "U70QDFN82",
+        "U0HJ7EB9T"
+      ],
+      "is_locked": false,
+      "subscribed": false
+    },
+    {
+      "client_msg_id": "404cfd5a-32de-48f3-a7f2-827bc5fa5d2e",
+      "type": "message",
+      "text": "nspawn知らなかった・・・",
+      "user": "U70QDFN82",
+      "ts": "1588063299.432900",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "2Q4",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "nspawn知らなかった・・・"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "73520bc8-16ce-4233-85c2-87effd79eebb",
+      "type": "message",
+      "text": "そういうときは systemd-nspawn で隔離環境を作ってテストしてみると良いかもしれないですね",
+      "user": "U0HJ7EB9T",
+      "ts": "1588062453.430900",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "rjewW",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "そういうときは systemd-nspawn で隔離環境を作ってテストしてみると良いかもしれないですね"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "9dae2329-2bf3-4549-a648-330a67a162ae",
+      "type": "message",
+      "text": "というか、どの依存ライブラリ使ったら良いかなんか、わからんよー。",
+      "user": "USLL50J1M",
+      "ts": "1588061522.430100",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "kt5",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "というか、どの依存ライブラリ使ったら良いかなんか、わからんよー。"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "f998513c-d8d7-4626-9616-52b277a03ae6",
+      "type": "message",
+      "text": "`yay -S wine-staging-git` すると、依存ライブラリ多くて、適当にエンター押してると最後に失敗する。つらい。",
+      "user": "USLL50J1M",
+      "ts": "1588061495.429700",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "s5cp",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "yay -S wine-staging-git",
+                  "style": {
+                    "code": true
+                  }
+                },
+                {
+                  "type": "text",
+                  "text": " すると、依存ライブラリ多くて、適当にエンター押してると最後に失敗する。つらい。"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "e28fcf53-210c-4c0b-825f-50442b8f8e47",
+      "type": "message",
+      "text": "また、何かあれば協力したいですね。",
+      "user": "U7NBCFT1S",
+      "ts": "1587964731.428000",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "HpVDW",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "また、何かあれば協力したいですね。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "reactions": [
+        {
+          "name": "clap",
+          "users": [
+            "UUWBU08TU",
+            "U01235G2K26",
+            "U0GFBAM8U"
+          ],
+          "count": 3
+        }
+      ]
+    },
+    {
+      "client_msg_id": "7f349ba9-de69-4625-9b17-61071a8ff97a",
+      "type": "message",
+      "text": "とりあえず、海外募金は済ませてきましたけど",
+      "user": "U7NBCFT1S",
+      "ts": "1587964596.427300",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "4yp",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "とりあえず、海外募金は済ませてきましたけど"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "5db2c17c-1dca-4165-9393-852541ec4c5a",
+      "type": "message",
+      "text": "他の(特にArchWiki, ArchWikiJPの)メンテナさん？については詳しくないですが、ArchLinuxJPメンバーのsyuiさんはGitHubでスポンサー募集されてたりもしますね、メンテナさんと言ってもいろいろあるので……",
+      "user": "UUWBU08TU",
+      "ts": "1587964474.426900",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "tqG",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "他の(特にArchWiki, ArchWikiJPの)メンテナさん？については詳しくないですが、ArchLinuxJPメンバーのsyuiさんはGitHubでスポンサー募集されてたりもしますね、メンテナさんと言ってもいろいろあるので……"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "reactions": [
+        {
+          "name": "blush",
+          "users": [
+            "U7NBCFT1S",
+            "U0GFBAM8U"
+          ],
+          "count": 2
+        },
+        {
+          "name": "moneybag",
+          "users": [
+            "UAPRYSVPS"
+          ],
+          "count": 1
+        }
+      ]
+    },
+    {
+      "client_msg_id": "13053fee-c55b-470c-b106-ac95b32b39b0",
+      "type": "message",
+      "text": "なるほどｗ",
+      "user": "U7NBCFT1S",
+      "ts": "1587964371.424100",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "AV7",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "なるほどｗ"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "c9e1aff5-ada3-41d1-865a-a4d06192c869",
+      "type": "message",
+      "text": "<https://www.archlinux.jp/donate/|https://www.archlinux.jp/donate/>\nBTCか、あるいはSlackで連絡してーって書いてあるので、ここで <@U0H026YUR> さんを呼ぶといいのかもしれないです",
+      "user": "UUWBU08TU",
+      "ts": "1587964327.423900",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "y1CKp",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "link",
+                  "url": "https://www.archlinux.jp/donate/",
+                  "text": "https://www.archlinux.jp/donate/"
+                },
+                {
+                  "type": "text",
+                  "text": "\nBTCか、あるいはSlackで連絡してーって書いてあるので、ここで "
+                },
+                {
+                  "type": "user",
+                  "user_id": "U0H026YUR"
+                },
+                {
+                  "type": "text",
+                  "text": " さんを呼ぶといいのかもしれないです"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "6716a7eb-227d-44d1-8ed8-ba9f21bf8d8a",
+      "type": "message",
+      "text": "ビットコインわかんない＾＾；",
+      "user": "U7NBCFT1S",
+      "ts": "1587964290.423300",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "=MWK",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "ビットコインわかんない＾＾；"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "3a470737-81c8-4731-8f74-81e6ef845c81",
+      "type": "message",
+      "text": "archweb-jp 落ちてるので今は見れないですが……",
+      "user": "UUWBU08TU",
+      "ts": "1587964058.421900",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "bRsB9",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "archweb-jp 落ちてるので今は見れないですが……"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "2cb0a7ec-0586-410a-bf41-67a87aa108cd",
+      "type": "message",
+      "text": "一応kusakataさんに(？)BTCで投げ銭することはできそうです(私もしたいけどそれ以外の方法は直接連絡かな？と思っています)",
+      "user": "UUWBU08TU",
+      "ts": "1587964027.421400",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "t96",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "一応kusakataさんに(？)BTCで投げ銭することはできそうです(私もしたいけどそれ以外の方法は直接連絡かな？と思っています)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "43897595-0c56-4069-b87f-3097e7d5e70a",
+      "type": "message",
+      "text": "メンテナに直接という話ならわからないけど、Arch自体のはこれかな <https://www.archlinux.org/donate/>",
+      "user": "UGA29R3FH",
+      "ts": "1587962769.419900",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "sDUH",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "メンテナに直接という話ならわからないけど、Arch自体のはこれかな "
+                },
+                {
+                  "type": "link",
+                  "url": "https://www.archlinux.org/donate/"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "reactions": [
+        {
+          "name": "+1",
+          "users": [
+            "U7NBCFT1S"
+          ],
+          "count": 1
+        }
+      ]
+    },
+    {
+      "client_msg_id": "b964d07f-8bd6-440f-946c-36168137b8f7",
+      "type": "message",
+      "text": "ところで、一般的な話なのですが、Archメンテナに投げ銭したいときってどうすればよいのです？",
+      "user": "U7NBCFT1S",
+      "ts": "1587962678.419400",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "+bfl",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "ところで、一般的な話なのですが、Archメンテナに投げ銭したいときってどうすればよいのです？"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "47f907a3-55cb-4f61-9b09-c215d75668f7",
+      "type": "message",
+      "text": "secretsの設定をしてあげる必要がありました。",
+      "user": "U7NBCFT1S",
+      "ts": "1587962625.418800",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "ASc1",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "secretsの設定をしてあげる必要がありました。"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "fb5b6e69-15c0-4045-b045-77bcdce3fa00",
+      "type": "message",
+      "text": "<@UUWBU08TU> Gitlabのデータマイグレートうまく行きました。ありがとうございます",
+      "user": "U7NBCFT1S",
+      "ts": "1587962534.418100",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "TwB",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "user",
+                  "user_id": "UUWBU08TU"
+                },
+                {
+                  "type": "text",
+                  "text": " Gitlabのデータマイグレートうまく行きました。ありがとうございます"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "reactions": [
+        {
+          "name": "raised_hands",
+          "users": [
+            "UUWBU08TU"
+          ],
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "message",
+      "subtype": "channel_join",
+      "ts": "1587719037.416600",
+      "user": "U01294B2SMC",
+      "text": "<@U01294B2SMC>さんがチャンネルに参加しました"
+    },
+    {
+      "client_msg_id": "5dbcbef8-6bc3-433c-8904-5aa1514bd454",
+      "type": "message",
+      "text": "*ca-certificates",
+      "user": "UQNGQLVH8",
+      "ts": "1587704998.416200",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "w4ZB",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "*ca-certificates"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "e0ecb360-98a8-4240-beda-3928be5cd93b",
+      "type": "message",
+      "text": "お ca-certificate 再インストールしたら動きました！ ありがとうございます！",
+      "user": "UQNGQLVH8",
+      "ts": "1587704918.415800",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "PcsBS",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "お ca-certificate 再インストールしたら動きました！ ありがとうございます！"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "reactions": [
+        {
+          "name": "tada",
+          "users": [
+            "U3FJYR7MG",
+            "UUWBU08TU",
+            "U8D8C6B0C",
+            "U01235G2K26",
+            "UEED0BQ4A"
+          ],
+          "count": 5
+        }
+      ]
+    },
+    {
+      "client_msg_id": "0a63e2cb-9e0f-46ed-8739-4840454d2d8f",
+      "type": "message",
+      "text": "多分できてると思います、そしたら p11-kit とか ca-certificate とかありそうなパッケージも再インストールしてみるといいかもしれないです……",
+      "user": "UUWBU08TU",
+      "ts": "1587704858.415200",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "mu316",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "多分できてると思います、そしたら p11-kit とか ca-certificate とかありそうなパッケージも再インストールしてみるといいかもしれないです……"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "8ed5aeb3-572a-4537-8db9-0bccf4ba2819",
+      "type": "message",
+      "text": "pacman -S ca-certificates-utils してみましたけど変わりませんでした (これで再インストールできてる?)",
+      "user": "UQNGQLVH8",
+      "ts": "1587704805.413900",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "2vW4x",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "pacman -S ca-certificates-utils してみましたけど変わりませんでした (これで再インストールできてる?)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "e2d284a8-e89a-4c01-bbbf-e77e20ab74b7",
+      "type": "message",
+      "text": "一旦ca-certificates-utilsパッケージ再インストールしてみたほうがよさそうですね…",
+      "user": "U3FJYR7MG",
+      "ts": "1587704789.413500",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "4U=ds",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "一旦ca-certificates-utilsパッケージ再インストールしてみたほうがよさそうですね…"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "b605260c-a2e2-4b84-9fe5-bee933e3b1dc",
+      "type": "message",
+      "text": "`/etc/ca-certificates/extracted/tls-ca-bundle.pem` 空になってます…",
+      "user": "UQNGQLVH8",
+      "ts": "1587704716.412300",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "YHuRV",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "/etc/ca-certificates/extracted/tls-ca-bundle.pem",
+                  "style": {
+                    "code": true
+                  }
+                },
+                {
+                  "type": "text",
+                  "text": " 空になってます…"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "de22691d-42fd-4596-8cfb-b50f7e0c721c",
+      "type": "message",
+      "text": "あー違うこっちかも\n`/etc/ca-certificates/extracted/tls-ca-bundle.pem`",
+      "user": "U3FJYR7MG",
+      "ts": "1587704676.411800",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "X/l",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "あー違うこっちかも\n"
+                },
+                {
+                  "type": "text",
+                  "text": "/etc/ca-certificates/extracted/tls-ca-bundle.pem",
+                  "style": {
+                    "code": true
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "62e7f212-0c96-407c-bb11-2e907d27f8d8",
+      "type": "message",
+      "text": "```/etc/ca-certificates/extracted/ca-bundle.trust.crt```\nはありますか?",
+      "user": "U3FJYR7MG",
+      "ts": "1587704651.411400",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "o=LF",
+          "elements": [
+            {
+              "type": "rich_text_preformatted",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "/etc/ca-certificates/extracted/ca-bundle.trust.crt"
+                }
+              ]
+            },
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "はありますか?"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "75880b86-afd4-4146-88b0-02419a563df4",
+      "type": "message",
+      "text": "ca-certificates-utils パッケージを再インストールしてみるといいかもしれないですね",
+      "user": "UUWBU08TU",
+      "ts": "1587704637.411200",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "4IN",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "ca-certificates-utils パッケージを再インストールしてみるといいかもしれないですね"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "c1ca1c3a-1fd6-4a14-beca-656ef6800b4e",
+      "type": "message",
+      "text": "少し前に出た`p11-kit`のアップデートで手動で対処しないといけないときになにか変なことをしたかもしれません…",
+      "user": "UQNGQLVH8",
+      "ts": "1587704400.410000",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "NOxy",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "少し前に出た`p11-kit`のアップデートで手動で対処しないといけないときになにか変なことをしたかもしれません…"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "fc411149-b665-4a91-8a6b-0e934babd7e7",
+      "type": "message",
+      "text": "数週間前は普通に動いたのでそれはないかと",
+      "user": "UQNGQLVH8",
+      "ts": "1587704364.409400",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "z4uPt",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "数週間前は普通に動いたのでそれはないかと"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "f524bbad-08b3-479c-ab72-baa1c9333769",
+      "type": "message",
+      "text": "`/etc/ssl/certs/ca-certificates.crt` が空になってます",
+      "user": "UQNGQLVH8",
+      "ts": "1587704348.409000",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "YNlsl",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "/etc/ssl/certs/ca-certificates.crt",
+                  "style": {
+                    "code": true
+                  }
+                },
+                {
+                  "type": "text",
+                  "text": " が空になってます"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "40dc3bbf-e164-47c6-a722-300f16e5a93b",
+      "type": "message",
+      "text": "となります",
+      "user": "UQNGQLVH8",
+      "ts": "1587704332.408700",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "Av9L",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "となります"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "878a701b-71f8-4702-8f4b-588eb4638e6d",
+      "type": "message",
+      "text": "ca-certificatesがめっちゃ古いとか…?",
+      "user": "U3FJYR7MG",
+      "ts": "1587704330.408600",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "7Cu",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "ca-certificatesがめっちゃ古いとか…?"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "11bd9389-9ac3-495b-a20e-4b0be67351fa",
+      "type": "message",
+      "text": "curl した場合どのホストを叩いた場合でも\n```curl: (77) error setting certificate verify locations:\n  CAfile: /etc/ssl/certs/ca-certificates.crt\n  CApath: none```",
+      "user": "UQNGQLVH8",
+      "ts": "1587704327.408200",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "RxO",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "curl した場合どのホストを叩いた場合でも\n"
+                }
+              ]
+            },
+            {
+              "type": "rich_text_preformatted",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "curl: (77) error setting certificate verify locations:\n  CAfile: /etc/ssl/certs/ca-certificates.crt\n  CApath: none"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "f129f03d-48db-4e70-9234-37c387afb90f",
+      "type": "message",
+      "text": "`journalctl -f` しながら curl してみましたが特に何も出ませんでした",
+      "user": "UQNGQLVH8",
+      "ts": "1587704286.407200",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "DysI",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "journalctl -f",
+                  "style": {
+                    "code": true
+                  }
+                },
+                {
+                  "type": "text",
+                  "text": " しながら curl してみましたが特に何も出ませんでした"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "028ed787-2ddd-48ca-b629-a7e89572de37",
+      "type": "message",
+      "text": "`journalctl -xe` などにエラーは出ていますか？",
+      "user": "UUWBU08TU",
+      "ts": "1587704104.406700",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "pTr",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "journalctl -xe",
+                  "style": {
+                    "code": true
+                  }
+                },
+                {
+                  "type": "text",
+                  "text": " などにエラーは出ていますか？"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "684c9075-9afb-4d40-ada5-952b6fdad1b0",
+      "type": "message",
+      "text": "いつの間にかすべてのSSL通信ができなくなってしまったのですが、どなたか助けていただけないですか?",
+      "user": "UQNGQLVH8",
+      "ts": "1587703798.405800",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "DaQH",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "いつの間にかすべてのSSL通信ができなくなってしまったのですが、どなたか助けていただけないですか?"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "d56bd200-93b7-493d-9fc9-5c00b39d1c28",
+      "type": "message",
+      "text": "わかりました。",
+      "user": "U7NBCFT1S",
+      "ts": "1587631482.404800",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "6IjDe",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "わかりました。"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "3b6e3d7d-7e4b-4359-932d-3859a9b5558a",
+      "type": "message",
+      "text": "日本語版が間違ってるってわけではないと思います、古くなってはいますが……(手が回らずすいません……可能であれば英語版も確認するようにお願いします :man-bowing: )",
+      "user": "UUWBU08TU",
+      "ts": "1587631077.404600",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "JEHL",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "日本語版が間違ってるってわけではないと思います、古くなってはいますが……(手が回らずすいません……可能であれば英語版も確認するようにお願いします "
+                },
+                {
+                  "type": "emoji",
+                  "name": "man-bowing",
+                  "unicode": "1f647-200d-2642-fe0f"
+                },
+                {
+                  "type": "text",
+                  "text": " )"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "0db9bd2e-0b3f-41d7-970b-d5b19ee9db87",
+      "type": "message",
+      "text": "了解です。\n英語版Wikiのほうがなんか正しそうなので、もう一度見直してきます。",
+      "user": "U7NBCFT1S",
+      "ts": "1587630949.402100",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "kH3X",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "了解です。\n英語版Wikiのほうがなんか正しそうなので、もう一度見直してきます。"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "deb84afd-a53d-48d0-ae47-ef3fa2c9349c",
+      "type": "message",
+      "text": "rake task だと rake aborted! の直後に一番重要なエラーが出るはずです",
+      "user": "UUWBU08TU",
+      "ts": "1587630867.400700",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "rEH",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "rake task だと rake aborted! の直後に一番重要なエラーが出るはずです"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "4db26696-3d21-4847-aa44-ddad234ca70b",
+      "type": "message",
+      "text": "少し、粘ってみます。",
+      "user": "U7NBCFT1S",
+      "ts": "1587630835.399900",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "1G8g",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "少し、粘ってみます。"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "68ad7449-d067-4a60-b0cd-b378bfa47176",
+      "type": "message",
+      "text": "別のエラーが出るのは素晴らしいことです(げんなりはしますが……)",
+      "user": "UUWBU08TU",
+      "ts": "1587630823.399500",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "+mn",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "別のエラーが出るのは素晴らしいことです(げんなりはしますが……)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "0623a379-ccbe-4581-84e8-f087a7965b3a",
+      "type": "message",
+      "text": "別のエラーが出てきました。",
+      "user": "U7NBCFT1S",
+      "ts": "1587630783.398600",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "2sy",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "別のエラーが出てきました。"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "d2c325e9-dc47-4a0f-9e8f-a69fc38a6817",
+      "type": "message",
+      "text": "だめっぽいですね＾ー＾；",
+      "user": "U7NBCFT1S",
+      "ts": "1587630776.398400",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "z1vkO",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "だめっぽいですね＾ー＾；"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "4f36fa74-9bac-416b-9d06-cf70275e8fa4",
+      "type": "message",
+      "text": "了解です。とりあえずテスト建てなので、今はこのままで。。",
+      "user": "U7NBCFT1S",
+      "ts": "1587630476.398200",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "JyGO+",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "了解です。とりあえずテスト建てなので、今はこのままで。。"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "5c7a96b2-bc56-49d1-b632-7f20057cdb2e",
+      "type": "message",
+      "text": "(`secret` は乱数に変えた方がよさそう、英語版からコピーしました)",
+      "user": "UUWBU08TU",
+      "ts": "1587630349.397700",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "4MT",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "(`secret` は乱数に変えた方がよさそう、英語版からコピーしました)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "f55cfc29-35cb-4cc2-847c-915e01a126ff",
+      "type": "message",
+      "text": "上記ファイルが空なら、以下の内容をコピーしてみてください\n<https://gist.github.com/ny-a/16a4bbd84cef80f9cf96baa7b46bbf77|https://gist.github.com/ny-a/16a4bbd84cef80f9cf96baa7b46bbf77>",
+      "user": "UUWBU08TU",
+      "ts": "1587630320.396700",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "998p",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "上記ファイルが空なら、以下の内容をコピーしてみてください\n"
+                },
+                {
+                  "type": "link",
+                  "url": "https://gist.github.com/ny-a/16a4bbd84cef80f9cf96baa7b46bbf77",
+                  "text": "https://gist.github.com/ny-a/16a4bbd84cef80f9cf96baa7b46bbf77"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "00e7f70d-03fe-453a-93e4-4197d6a48deb",
+      "type": "message",
+      "text": "それはシンボリックリンクです。",
+      "user": "U7NBCFT1S",
+      "ts": "1587630260.395800",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "9RqDt",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "それはシンボリックリンクです。"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "a5aed99e-746d-45c5-b680-d565de18e351",
+      "type": "message",
+      "text": "たぶん `/etc/webapps/gitlab/secrets.yml` のことですね",
+      "user": "UUWBU08TU",
+      "ts": "1587630226.395200",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "sYWn",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "たぶん `/etc/webapps/gitlab/secrets.yml` のことですね"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "ab44577b-9c84-42f0-94ed-08d3b1ad486f",
+      "type": "message",
+      "text": "`/usr/share/webapps/gitlab/config/secrets.yml`  がシンボリックリンクだけど、リンク先の実態のファイルがないって怒られてますね。",
+      "user": "U0HJ7EB9T",
+      "ts": "1587630192.394500",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "DhirI",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "/usr/share/webapps/gitlab/config/secrets.yml",
+                  "style": {
+                    "code": true
+                  }
+                },
+                {
+                  "type": "text",
+                  "text": "  がシンボリックリンクだけど、リンク先の実態のファイルがないって怒られてますね。"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "f3f85a27-f86f-4fcb-939f-d645a8417d27",
+      "type": "message",
+      "text": "違うか",
+      "user": "UUWBU08TU",
+      "ts": "1587630136.394300",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "6WEp6",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "違うか"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "38378e7c-9d85-4418-a544-112c5e07a92e",
+      "type": "message",
+      "text": "<https://wiki.archlinux.jp/index.php/GitLab#.2Fetc.2Fwebapps.2Fgitlab.2Fsecret_.E3.81.8C.E7.A9.BA|https://wiki.archlinux.jp/index.php/GitLab#.2Fetc.2Fwebapps.2Fgitlab.2Fsecret_.E3.81.8C.E7.A9.BA>\nこれをみてみてください",
+      "user": "UUWBU08TU",
+      "ts": "1587630074.394100",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "4tMx7",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "link",
+                  "url": "https://wiki.archlinux.jp/index.php/GitLab#.2Fetc.2Fwebapps.2Fgitlab.2Fsecret_.E3.81.8C.E7.A9.BA",
+                  "text": "https://wiki.archlinux.jp/index.php/GitLab#.2Fetc.2Fwebapps.2Fgitlab.2Fsecret_.E3.81.8C.E7.A9.BA"
+                },
+                {
+                  "type": "text",
+                  "text": "\nこれをみてみてください"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "c2b0ace1-c7fd-4f6d-aac6-2c3aa2bd3274",
+      "type": "message",
+      "text": "日本語版一番下にあるかも？",
+      "user": "UUWBU08TU",
+      "ts": "1587630014.393700",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "/uD0/",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "日本語版一番下にあるかも？"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "08673f82-337c-401d-ae26-1266595970fd",
+      "type": "message",
+      "text": "英語版の #Secret_strings かなあ",
+      "user": "UUWBU08TU",
+      "ts": "1587629947.393200",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "Al3fS",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "英語版の #Secret_strings かなあ"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "5872f08c-b5b6-4388-ba7d-48e04e4d4a84",
+      "type": "message",
+      "text": "secretの設定が必要ぽいですね",
+      "user": "UUWBU08TU",
+      "ts": "1587629915.392500",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "iceBO",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "secretの設定が必要ぽいですね"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "7543f4fb-5a1a-4321-a409-1221125b2fef",
+      "type": "message",
+      "text": "```usr/share/webapps/gitlab/vendor/bundle/ruby/2.7.0/gems/faraday-0.15.4/lib/faraday/options.rb:166: warning: Capturing the given block using Proc.new is deprecated; use `&amp;block` instead\n/usr/share/webapps/gitlab/vendor/bundle/ruby/2.7.0/gems/faraday-0.15.4/lib/faraday/options.rb:166: warning: Capturing the given block using Proc.new is deprecated; use `&amp;block` instead\n/usr/share/webapps/gitlab/vendor/bundle/ruby/2.7.0/gems/faraday-0.15.4/lib/faraday/options.rb:166: warning: Capturing the given block using Proc.new is deprecated; use `&amp;block` instead\n/usr/share/webapps/gitlab/vendor/bundle/ruby/2.7.0/gems/faraday-0.15.4/lib/faraday/options.rb:166: warning: Capturing the given block using Proc.new is deprecated; use `&amp;block` instead\n/usr/share/webapps/gitlab/vendor/bundle/ruby/2.7.0/gems/faraday-0.15.4/lib/faraday/options.rb:166: warning: Capturing the given block using Proc.new is deprecated; use `&amp;block` instead\n/usr/share/webapps/gitlab/vendor/bundle/ruby/2.7.0/gems/mime-types-3.2.2/lib/mime/types/logger.rb:30: warning: `_1' is reserved for numbered parameter; consider another name\n/usr/share/webapps/gitlab/vendor/bundle/ruby/2.7.0/gems/mime-types-3.2.2/lib/mime/types/logger.rb:30: warning: `_2' is reserved for numbered parameter; consider another name\n/usr/share/webapps/gitlab/vendor/bundle/ruby/2.7.0/gems/mime-types-3.2.2/lib/mime/types/logger.rb:30: warning: `_3' is reserved for numbered parameter; consider another name\n/usr/share/webapps/gitlab/vendor/bundle/ruby/2.7.0/gems/json-1.8.6/lib/json/common.rb:155: warning: Using the last argument as keyword parameters is deprecated\n/usr/share/webapps/gitlab/vendor/bundle/ruby/2.7.0/gems/faraday-0.15.4/lib/faraday/rack_builder.rb:55: warning: Capturing the given block using Proc.new is deprecated; use `&amp;block` instead\n/usr/share/webapps/gitlab/vendor/bundle/ruby/2.7.0/gems/activesupport-6.0.2/lib/active_support/cache.rb:60: warning: Using the last argument as keyword parameters is deprecated; maybe ** should be added to the call\n/usr/share/webapps/gitlab/vendor/bundle/ruby/2.7.0/gems/activesupport-6.0.2/lib/active_support/cache/redis_cache_store.rb:180: warning: The called method `initialize' is defined here\n/usr/share/webapps/gitlab/vendor/bundle/ruby/2.7.0/gems/activerecord-6.0.2/lib/active_record/type.rb:27: warning: Using the last argument as keyword parameters is deprecated; maybe ** should be added to the call\n/usr/share/webapps/gitlab/vendor/bundle/ruby/2.7.0/gems/activerecord-6.0.2/lib/active_record/type/adapter_specific_registry.rb:9: warning: The called method `add_modifier' is defined here\nrake aborted!\nFile \"/usr/share/webapps/gitlab/config/secrets.yml\" is a symlink that does not point to a valid file\n/usr/share/webapps/gitlab/vendor/bundle/ruby/2.7.0/gems/railties-6.0.2/lib/rails/paths.rb:213:in `block in existent'\n/usr/share/webapps/gitlab/vendor/bundle/ruby/2.7.0/gems/railties-6.0.2/lib/rails/paths.rb:209:in `select'\n/usr/share/webapps/gitlab/vendor/bundle/ruby/2.7.0/gems/railties-6.0.2/lib/rails/paths.rb:209:in `existent'\n/usr/share/webapps/gitlab/vendor/bundle/ruby/2.7.0/gems/railties-6.0.2/lib/rails/application.rb:397:in `secrets'\n/usr/share/webapps/gitlab/config/initializers/01_secret_token.rb:69:in `block in set_missing_keys'\n/usr/share/webapps/gitlab/config/initializers/01_secret_token.rb:68:in `each'\n/usr/share/webapps/gitlab/config/initializers/01_secret_token.rb:68:in `each_with_object'\n/usr/share/webapps/gitlab/config/initializers/01_secret_token.rb:68:in `set_missing_keys'\n/usr/share/webapps/gitlab/config/initializers/01_secret_token.rb:45:in `create_tokens'\n/usr/share/webapps/gitlab/config/initializers/01_secret_token.rb:106:in `&lt;top (required)&gt;'\n/usr/share/webapps/gitlab/vendor/bundle/ruby/2.7.0/gems/activesupport-6.0.2/lib/active_support/dependencies.rb:319:in `load'\n/usr/share/webapps/gitlab/vendor/bundle/ruby/2.7.0/gems/activesupport-6.0.2/lib/active_support/dependencies.rb:319:in `block in load'\n/usr/share/webapps/gitlab/vendor/bundle/ruby/2.7.0/gems/activesupport-6.0.2/lib/active_support/dependencies.rb:291:in `load_dependency'\n/usr/share/webapps/gitlab/vendor/bundle/ruby/2.7.0/gems/activesupport-6.0.2/lib/active_support/dependencies.rb:319:in `load'\n/usr/share/webapps/gitlab/vendor/bundle/ruby/2.7.0/gems/railties-6.0.2/lib/rails/engine.rb:667:in `block in load_config_initializer'\n/usr/share/webapps/gitlab/vendor/bundle/ruby/2.7.0/gems/activesupport-6.0.2/lib/active_support/notifications.rb:182:in `instrument'\n/usr/share/webapps/gitlab/vendor/bundle/ruby/2.7.0/gems/railties-6.0.2/lib/rails/engine.rb:666:in `load_config_initializer'\n/usr/share/webapps/gitlab/vendor/bundle/ruby/2.7.0/gems/railties-6.0.2/lib/rails/engine.rb:624:in `block (2 levels) in &lt;class:Engine&gt;'\n/usr/share/webapps/gitlab/vendor/bundle/ruby/2.7.0/gems/railties-6.0.2/lib/rails/engine.rb:623:in `each'\n/usr/share/webapps/gitlab/vendor/bundle/ruby/2.7.0/gems/railties-6.0.2/lib/rails/engine.rb:623:in `block in &lt;class:Engine&gt;'\n/usr/share/webapps/gitlab/vendor/bundle/ruby/2.7.0/gems/railties-6.0.2/lib/rails/initializable.rb:32:in `instance_exec'\n/usr/share/webapps/gitlab/vendor/bundle/ruby/2.7.0/gems/railties-6.0.2/lib/rails/initializable.rb:32:in `run'\n/usr/share/webapps/gitlab/vendor/bundle/ruby/2.7.0/gems/railties-6.0.2/lib/rails/initializable.rb:61:in `block in run_initializers'\n/usr/share/webapps/gitlab/vendor/bundle/ruby/2.7.0/gems/railties-6.0.2/lib/rails/initializable.rb:50:in `each'\n/usr/share/webapps/gitlab/vendor/bundle/ruby/2.7.0/gems/railties-6.0.2/lib/rails/initializable.rb:50:in `tsort_each_child'\n/usr/share/webapps/gitlab/vendor/bundle/ruby/2.7.0/gems/railties-6.0.2/lib/rails/initializable.rb:60:in `run_initializers'\n/usr/share/webapps/gitlab/vendor/bundle/ruby/2.7.0/gems/railties-6.0.2/lib/rails/application.rb:363:in `initialize!'\n/usr/share/webapps/gitlab/config/environment.rb:5:in `&lt;top (required)&gt;'\n/usr/share/webapps/gitlab/vendor/bundle/ruby/2.7.0/gems/activesupport-6.0.2/lib/active_support/dependencies.rb:325:in `require'\n/usr/share/webapps/gitlab/vendor/bundle/ruby/2.7.0/gems/activesupport-6.0.2/lib/active_support/dependencies.rb:325:in `block in require'\n/usr/share/webapps/gitlab/vendor/bundle/ruby/2.7.0/gems/activesupport-6.0.2/lib/active_support/dependencies.rb:291:in `load_dependency'\n/usr/share/webapps/gitlab/vendor/bundle/ruby/2.7.0/gems/activesupport-6.0.2/lib/active_support/dependencies.rb:325:in `require'\n/usr/share/webapps/gitlab/vendor/bundle/ruby/2.7.0/gems/railties-6.0.2/lib/rails/application.rb:339:in `require_environment!'\n/usr/share/webapps/gitlab/vendor/bundle/ruby/2.7.0/gems/railties-6.0.2/lib/rails/application.rb:515:in `block in run_tasks_blocks'\n/usr/share/webapps/gitlab/vendor/bundle/ruby/2.7.0/gems/rake-12.3.3/exe/rake:27:in `&lt;top (required)&gt;'\n/usr/bin/bundle:23:in `load'\n/usr/bin/bundle:23:in `&lt;main&gt;'\nTasks: TOP =&gt; gitlab:setup =&gt; gitlab_environment =&gt; environment\n(See full trace by running task with --trace)\nEXECJS_RUNTIME=Disabled bundle exec rake gitlab:setup RAILS_ENV=production  7.17s user 3.27s system 97% cpu 10.658 total```",
+      "user": "U7NBCFT1S",
+      "ts": "1587629885.392000",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "ex7-Nw/S7",
+          "elements": [
+            {
+              "type": "rich_text_preformatted",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "usr/share/webapps/gitlab/vendor/bundle/ruby/2.7.0/gems/faraday-0.15.4/lib/faraday/options.rb:166: warning: Capturing the given block using Proc.new is deprecated; use `&block` instead\n/usr/share/webapps/gitlab/vendor/bundle/ruby/2.7.0/gems/faraday-0.15.4/lib/faraday/options.rb:166: warning: Capturing the given block using Proc.new is deprecated; use `&block` instead\n/usr/share/webapps/gitlab/vendor/bundle/ruby/2.7.0/gems/faraday-0.15.4/lib/faraday/options.rb:166: warning: Capturing the given block using Proc.new is deprecated; use `&block` instead\n/usr/share/webapps/gitlab/vendor/bundle/ruby/2.7.0/gems/faraday-0.15.4/lib/faraday/options.rb:166: warning: Capturing the given block using Proc.new is deprecated; use `&block` instead\n/usr/share/webapps/gitlab/vendor/bundle/ruby/2.7.0/gems/faraday-0.15.4/lib/faraday/options.rb:166: warning: Capturing the given block using Proc.new is deprecated; use `&block` instead\n/usr/share/webapps/gitlab/vendor/bundle/ruby/2.7.0/gems/mime-types-3.2.2/lib/mime/types/logger.rb:30: warning: `_1' is reserved for numbered parameter; consider another name\n/usr/share/webapps/gitlab/vendor/bundle/ruby/2.7.0/gems/mime-types-3.2.2/lib/mime/types/logger.rb:30: warning: `_2' is reserved for numbered parameter; consider another name\n/usr/share/webapps/gitlab/vendor/bundle/ruby/2.7.0/gems/mime-types-3.2.2/lib/mime/types/logger.rb:30: warning: `_3' is reserved for numbered parameter; consider another name\n/usr/share/webapps/gitlab/vendor/bundle/ruby/2.7.0/gems/json-1.8.6/lib/json/common.rb:155: warning: Using the last argument as keyword parameters is deprecated\n/usr/share/webapps/gitlab/vendor/bundle/ruby/2.7.0/gems/faraday-0.15.4/lib/faraday/rack_builder.rb:55: warning: Capturing the given block using Proc.new is deprecated; use `&block` instead\n/usr/share/webapps/gitlab/vendor/bundle/ruby/2.7.0/gems/activesupport-6.0.2/lib/active_support/cache.rb:60: warning: Using the last argument as keyword parameters is deprecated; maybe ** should be added to the call\n/usr/share/webapps/gitlab/vendor/bundle/ruby/2.7.0/gems/activesupport-6.0.2/lib/active_support/cache/redis_cache_store.rb:180: warning: The called method `initialize' is defined here\n/usr/share/webapps/gitlab/vendor/bundle/ruby/2.7.0/gems/activerecord-6.0.2/lib/active_record/type.rb:27: warning: Using the last argument as keyword parameters is deprecated; maybe ** should be added to the call\n/usr/share/webapps/gitlab/vendor/bundle/ruby/2.7.0/gems/activerecord-6.0.2/lib/active_record/type/adapter_specific_registry.rb:9: warning: The called method `add_modifier' is defined here\nrake aborted!\nFile \"/usr/share/webapps/gitlab/config/secrets.yml\" is a symlink that does not point to a valid file\n/usr/share/webapps/gitlab/vendor/bundle/ruby/2.7.0/gems/railties-6.0.2/lib/rails/paths.rb:213:in `block in existent'\n/usr/share/webapps/gitlab/vendor/bundle/ruby/2.7.0/gems/railties-6.0.2/lib/rails/paths.rb:209:in `select'\n/usr/share/webapps/gitlab/vendor/bundle/ruby/2.7.0/gems/railties-6.0.2/lib/rails/paths.rb:209:in `existent'\n/usr/share/webapps/gitlab/vendor/bundle/ruby/2.7.0/gems/railties-6.0.2/lib/rails/application.rb:397:in `secrets'\n/usr/share/webapps/gitlab/config/initializers/01_secret_token.rb:69:in `block in set_missing_keys'\n/usr/share/webapps/gitlab/config/initializers/01_secret_token.rb:68:in `each'\n/usr/share/webapps/gitlab/config/initializers/01_secret_token.rb:68:in `each_with_object'\n/usr/share/webapps/gitlab/config/initializers/01_secret_token.rb:68:in `set_missing_keys'\n/usr/share/webapps/gitlab/config/initializers/01_secret_token.rb:45:in `create_tokens'\n/usr/share/webapps/gitlab/config/initializers/01_secret_token.rb:106:in `<top (required)>'\n/usr/share/webapps/gitlab/vendor/bundle/ruby/2.7.0/gems/activesupport-6.0.2/lib/active_support/dependencies.rb:319:in `load'\n/usr/share/webapps/gitlab/vendor/bundle/ruby/2.7.0/gems/activesupport-6.0.2/lib/active_support/dependencies.rb:319:in `block in load'\n/usr/share/webapps/gitlab/vendor/bundle/ruby/2.7.0/gems/activesupport-6.0.2/lib/active_support/dependencies.rb:291:in `load_dependency'\n/usr/share/webapps/gitlab/vendor/bundle/ruby/2.7.0/gems/activesupport-6.0.2/lib/active_support/dependencies.rb:319:in `load'\n/usr/share/webapps/gitlab/vendor/bundle/ruby/2.7.0/gems/railties-6.0.2/lib/rails/engine.rb:667:in `block in load_config_initializer'\n/usr/share/webapps/gitlab/vendor/bundle/ruby/2.7.0/gems/activesupport-6.0.2/lib/active_support/notifications.rb:182:in `instrument'\n/usr/share/webapps/gitlab/vendor/bundle/ruby/2.7.0/gems/railties-6.0.2/lib/rails/engine.rb:666:in `load_config_initializer'\n/usr/share/webapps/gitlab/vendor/bundle/ruby/2.7.0/gems/railties-6.0.2/lib/rails/engine.rb:624:in `block (2 levels) in <class:Engine>'\n/usr/share/webapps/gitlab/vendor/bundle/ruby/2.7.0/gems/railties-6.0.2/lib/rails/engine.rb:623:in `each'\n/usr/share/webapps/gitlab/vendor/bundle/ruby/2.7.0/gems/railties-6.0.2/lib/rails/engine.rb:623:in `block in <class:Engine>'\n/usr/share/webapps/gitlab/vendor/bundle/ruby/2.7.0/gems/railties-6.0.2/lib/rails/initializable.rb:32:in `instance_exec'\n/usr/share/webapps/gitlab/vendor/bundle/ruby/2.7.0/gems/railties-6.0.2/lib/rails/initializable.rb:32:in `run'\n/usr/share/webapps/gitlab/vendor/bundle/ruby/2.7.0/gems/railties-6.0.2/lib/rails/initializable.rb:61:in `block in run_initializers'\n/usr/share/webapps/gitlab/vendor/bundle/ruby/2.7.0/gems/railties-6.0.2/lib/rails/initializable.rb:50:in `each'\n/usr/share/webapps/gitlab/vendor/bundle/ruby/2.7.0/gems/railties-6.0.2/lib/rails/initializable.rb:50:in `tsort_each_child'\n/usr/share/webapps/gitlab/vendor/bundle/ruby/2.7.0/gems/railties-6.0.2/lib/rails/initializable.rb:60:in `run_initializers'\n/usr/share/webapps/gitlab/vendor/bundle/ruby/2.7.0/gems/railties-6.0.2/lib/rails/application.rb:363:in `initialize!'\n/usr/share/webapps/gitlab/config/environment.rb:5:in `<top (required)>'\n/usr/share/webapps/gitlab/vendor/bundle/ruby/2.7.0/gems/activesupport-6.0.2/lib/active_support/dependencies.rb:325:in `require'\n/usr/share/webapps/gitlab/vendor/bundle/ruby/2.7.0/gems/activesupport-6.0.2/lib/active_support/dependencies.rb:325:in `block in require'\n/usr/share/webapps/gitlab/vendor/bundle/ruby/2.7.0/gems/activesupport-6.0.2/lib/active_support/dependencies.rb:291:in `load_dependency'\n/usr/share/webapps/gitlab/vendor/bundle/ruby/2.7.0/gems/activesupport-6.0.2/lib/active_support/dependencies.rb:325:in `require'\n/usr/share/webapps/gitlab/vendor/bundle/ruby/2.7.0/gems/railties-6.0.2/lib/rails/application.rb:339:in `require_environment!'\n/usr/share/webapps/gitlab/vendor/bundle/ruby/2.7.0/gems/railties-6.0.2/lib/rails/application.rb:515:in `block in run_tasks_blocks'\n/usr/share/webapps/gitlab/vendor/bundle/ruby/2.7.0/gems/rake-12.3.3/exe/rake:27:in `<top (required)>'\n/usr/bin/bundle:23:in `load'\n/usr/bin/bundle:23:in `<main>'\nTasks: TOP => gitlab:setup => gitlab_environment => environment\n(See full trace by running task with --trace)\nEXECJS_RUNTIME=Disabled bundle exec rake gitlab:setup RAILS_ENV=production  7.17s user 3.27s system 97% cpu 10.658 total"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "7543f4fb-5a1a-4321-a409-1221125b2fef",
+      "type": "message",
+      "text": "全文がこちら\n",
+      "user": "U7NBCFT1S",
+      "ts": "1587629885.391900",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "ex7",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "全文がこちら\n"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "1c525014-1dad-4143-b586-583e99ad164d",
+      "type": "message",
+      "text": "それはライブラリ関係なので(warningなので大丈夫そうなのは同意ですが)止まってるならつらいですね",
+      "user": "UUWBU08TU",
+      "ts": "1587629883.391800",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "OjqA",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "それはライブラリ関係なので(warningなので大丈夫そうなのは同意ですが)止まってるならつらいですね"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "0cc09a1a-9a44-481b-a758-e12dd1bc2755",
+      "type": "message",
+      "text": "`warning` なので大丈夫な気がするのですけれども",
+      "user": "U0HJ7EB9T",
+      "ts": "1587629857.390700",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "K=O",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "warning",
+                  "style": {
+                    "code": true
+                  }
+                },
+                {
+                  "type": "text",
+                  "text": " なので大丈夫な気がするのですけれども"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "64cd83f7-2d25-4405-b02a-8e85cecf8417",
+      "type": "message",
+      "text": "```/usr/share/webapps/gitlab/vendor/bundle/ruby/2.7.0/gems/faraday-0.15.4/lib/faraday/options.rb:166: warning: Capturing the given block using Proc.new is deprecated; use `&amp;block` instead```\nって出てだめになりますね。",
+      "user": "U7NBCFT1S",
+      "ts": "1587629830.390100",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "vb920",
+          "elements": [
+            {
+              "type": "rich_text_preformatted",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "/usr/share/webapps/gitlab/vendor/bundle/ruby/2.7.0/gems/faraday-0.15.4/lib/faraday/options.rb:166: warning: Capturing the given block using Proc.new is deprecated; use `&block` instead"
+                }
+              ]
+            },
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "って出てだめになりますね。"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "10b350ac-7c2c-4635-aae7-599f8849e537",
+      "type": "message",
+      "text": "30行ぐらいDocker Compose書けばすぐデプロイできますねー。OmnibusパッケージはPostgreSQLまで同梱しているので、その善し悪しは微妙なところがありますが…",
+      "user": "U0HJ7EB9T",
+      "ts": "1587629795.390000",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "WZOq",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "30行ぐらいDocker Compose書けばすぐデプロイできますねー。OmnibusパッケージはPostgreSQLまで同梱しているので、その善し悪しは微妙なところがありますが…"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "a2ffa366-e514-43df-b7e0-f191dca5cee4",
+      "type": "message",
+      "text": "Lvあげしたい人なのです。課金装備よりは経験値上げて物理で殴りたいです",
+      "user": "U7NBCFT1S",
+      "ts": "1587629563.388500",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "l7Bz",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "Lvあげしたい人なのです。課金装備よりは経験値上げて物理で殴りたいです"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "307455b9-f51b-47ac-b2ff-5bbeef7a0628",
+      "type": "message",
+      "text": "経験値がほしいというやつか",
+      "user": "UGA29R3FH",
+      "ts": "1587629511.387700",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "W4er",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "経験値がほしいというやつか"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "122c40d8-e58b-485d-ba54-0148b70930e5",
+      "type": "message",
+      "text": "ともあれ、ありがとうございます",
+      "user": "U7NBCFT1S",
+      "ts": "1587629497.387500",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "P57",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "ともあれ、ありがとうございます"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "b9a8d0a9-826f-434c-bb98-67b03c9cc215",
+      "type": "message",
+      "text": "あとPostgresがいろいろと多目的に使われるので",
+      "user": "U7NBCFT1S",
+      "ts": "1587629489.387300",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "31tQo",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "あとPostgresがいろいろと多目的に使われるので"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "f9270e15-225b-41cb-8101-c8137b737f15",
+      "type": "message",
+      "text": "なるべく直接インストール等をして、コントロールできるようになっておきたいのです。",
+      "user": "U7NBCFT1S",
+      "ts": "1587629430.386700",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "tky",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "なるべく直接インストール等をして、コントロールできるようになっておきたいのです。"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "e2afafcd-6f37-4846-ae4a-2f96e2a5da6f",
+      "type": "message",
+      "text": "(Dockerでのセットアップもちょっと面倒だった気がするので、直接インストールはかなり面倒くさそうとは思います)",
+      "user": "UUWBU08TU",
+      "ts": "1587629366.386100",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "zmedU",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "(Dockerでのセットアップもちょっと面倒だった気がするので、直接インストールはかなり面倒くさそうとは思います)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "be1c7170-d3db-4722-85b3-5a26c75f6d8f",
+      "type": "message",
+      "text": "ぁーやっぱり、そこら辺ですか；；；",
+      "user": "U7NBCFT1S",
+      "ts": "1587629348.385600",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "vi6x",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "ぁーやっぱり、そこら辺ですか；；；"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "a9a0b9f2-8608-45fc-8fca-3e36bc79e9a0",
+      "type": "message",
+      "text": "`bundle-2.3` を `EXECJS_RUNTIME=Disabled bundle` に置き換えるといけるかもしれません",
+      "user": "UUWBU08TU",
+      "ts": "1587629300.384200",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "71Y5z",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "`bundle-2.3` を `EXECJS_RUNTIME=Disabled bundle` に置き換えるといけるかもしれません"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "reactions": [
+        {
+          "name": "confounded",
+          "users": [
+            "U7NBCFT1S"
+          ],
+          "count": 1
+        }
+      ]
+    }
+  ],
+  "has_more": true,
+  "is_limited": false,
+  "pin_count": 0,
+  "channel_actions_ts": null,
+  "channel_actions_count": 0,
+  "response_metadata": {
+    "next_cursor": "bmV4dF90czoxNTg3NjI5Mjk4MzgzOTAw"
+  }
+}

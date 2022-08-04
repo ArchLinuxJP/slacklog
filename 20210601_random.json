@@ -1,0 +1,2963 @@
+{
+  "ok": true,
+  "latest": "1625141459.000000",
+  "oldest": "1622549459.000000",
+  "messages": [
+    {
+      "client_msg_id": "081ecbfa-5d74-4638-b520-574de4ec6031",
+      "type": "message",
+      "text": "systemd-homedご使用の方でfido2デバイスとの連携に成功した方っていますか？\n自分の環境ではyubikey(5.2.3)を使ってあれこれ試しているのですが、うまくいきません :sob:",
+      "user": "U0HA90BFG",
+      "ts": "1624956172.326500",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "6GrY",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "systemd-homedご使用の方でfido2デバイスとの連携に成功した方っていますか？\n自分の環境ではyubikey(5.2.3)を使ってあれこれ試しているのですが、うまくいきません "
+                },
+                {
+                  "type": "emoji",
+                  "name": "sob",
+                  "unicode": "1f62d"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "thread_ts": "1624956172.326500",
+      "reply_count": 8,
+      "reply_users_count": 3,
+      "latest_reply": "1625533779.330700",
+      "reply_users": [
+        "U0HA90BFG",
+        "U0GFBAM8U",
+        "U257W41DW"
+      ],
+      "is_locked": false,
+      "subscribed": true,
+      "last_read": "1625533779.330700"
+    },
+    {
+      "type": "message",
+      "subtype": "channel_join",
+      "ts": "1624943917.325800",
+      "user": "U026DAJC7NH",
+      "text": "<@U026DAJC7NH>さんがチャンネルに参加しました"
+    },
+    {
+      "type": "message",
+      "subtype": "channel_join",
+      "ts": "1624906483.325300",
+      "user": "U026BRNHB4M",
+      "text": "<@U026BRNHB4M>さんがチャンネルに参加しました"
+    },
+    {
+      "client_msg_id": "D7AD64AA-AF7F-49A2-840C-0A3F3D7D1D5F",
+      "type": "message",
+      "text": "ありがとうございます！",
+      "user": "U0211KDBJJX",
+      "ts": "1624896682.325100",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "rax21",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "ありがとうございます！"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "message",
+      "subtype": "thread_broadcast",
+      "text": "これ、やはり5.12.13のせいだったっぽい\n<https://bbs.archlinux.org/viewtopic.php?id=267503>",
+      "user": "U019C7VLZ4G",
+      "ts": "1624895432.324400",
+      "thread_ts": "1624762230.306900",
+      "root": {
+        "client_msg_id": "04566859-b88a-4f86-ab2c-1229bc4f2ce6",
+        "type": "message",
+        "text": "なんかカーネルを5.12.13に上げたあたりからPCの温度が50度切らなくてずっとファン回ってる",
+        "user": "U019C7VLZ4G",
+        "ts": "1624762230.306900",
+        "team": "T0GFBAM8C",
+        "blocks": [
+          {
+            "type": "rich_text",
+            "block_id": "cb3=j",
+            "elements": [
+              {
+                "type": "rich_text_section",
+                "elements": [
+                  {
+                    "type": "text",
+                    "text": "なんかカーネルを5.12.13に上げたあたりからPCの温度が50度切らなくてずっとファン回ってる"
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "thread_ts": "1624762230.306900",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1624895432.324400",
+        "reply_users": [
+          "U019C7VLZ4G"
+        ],
+        "is_locked": false,
+        "subscribed": false
+      },
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "FZY",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "これ、やはり5.12.13のせいだったっぽい\n"
+                },
+                {
+                  "type": "link",
+                  "url": "https://bbs.archlinux.org/viewtopic.php?id=267503"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "client_msg_id": "f3c85e0f-282e-4c1d-905e-0c3ab2fe2da6"
+    },
+    {
+      "client_msg_id": "b5f46496-b143-4010-b462-cda60dd65a55",
+      "type": "message",
+      "text": "i3の場合だと、タスクスイッチャーではないですがRofiとかのウィンドウ選択モード使えば似たようなことが出来るはず。",
+      "user": "U017BNGTHT3",
+      "ts": "1624889590.323600",
+      "team": "T0GFBAM8C",
+      "edited": {
+        "user": "U017BNGTHT3",
+        "ts": "1624889624.000000"
+      },
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "JsA",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "i3の場合だと、タスクスイッチャーではないですがRofiとかのウィンドウ選択モード使えば似たようなことが出来るはず。"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "3e12309f-dd6d-480b-a3b3-ae4632d416a5",
+      "type": "message",
+      "text": "固定されたワークスペース間を移動するのが快適すぎてAlt+Tab欲しいと思ったことがなかった",
+      "user": "UGA29R3FH",
+      "ts": "1624889533.322500",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "m=GuX",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "固定されたワークスペース間を移動するのが快適すぎてAlt+Tab欲しいと思ったことがなかった"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "00b22d0a-f0f8-440a-805c-da05170cbd5d",
+      "type": "message",
+      "text": "ワーススペースの遷移が事実上のタスクスイッチャーになってしまっている。",
+      "user": "UBEFL3YLE",
+      "ts": "1624889093.321400",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "M/Y2",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "ワーススペースの遷移が事実上のタスクスイッチャーになってしまっている。"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "c5d41507-b051-40c4-8bb5-a2d9ceb869ae",
+      "type": "message",
+      "text": "言われてみれば確かにi3でタスクスイッチャーをやる方法を知らないかも",
+      "user": "UBEFL3YLE",
+      "ts": "1624889039.320400",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "Uhc",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "言われてみれば確かにi3でタスクスイッチャーをやる方法を知らないかも"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "cbadb279-cea5-477b-ba68-4ba17e8261ed",
+      "type": "message",
+      "text": "alt+tabをi3でやりたいだと途端に難易度あがりますけどKDEなら設定だけでいけて便利ですよね",
+      "user": "U70QDFN82",
+      "ts": "1624887690.319600",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "Z93",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "alt+tabをi3でやりたいだと途端に難易度あがりますけどKDEなら設定だけでいけて便利ですよね"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "32a4378d-e8b0-4445-8df4-feacb0be882d",
+      "type": "message",
+      "text": "ショートカットをalt+tabにして、お好みのフォーカスアニメーションを選べばよいと思います。",
+      "user": "UBEFL3YLE",
+      "ts": "1624887301.318900",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "KpQ",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "ショートカットをalt+tabにして、お好みのフォーカスアニメーションを選べばよいと思います。"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "1477ed87-8c93-471d-b169-ea9ba746619e",
+      "type": "message",
+      "text": "でしたら「KDE システム設定」を開いて「ワークスペース」→「ウインドウマネジメント」からタスクスイッチャーの設定に入れますので",
+      "user": "UBEFL3YLE",
+      "ts": "1624887233.318000",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "e6c",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "でしたら「KDE システム設定」を開いて「ワークスペース」→「ウインドウマネジメント」からタスクスイッチャーの設定に入れますので"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "53ceb9ea-dc2d-4e24-a5fa-52b96c882f38",
+      "type": "message",
+      "text": "archlinuxでデスクトップ環境がKDEなんですよね？",
+      "user": "UBEFL3YLE",
+      "ts": "1624887089.316900",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "EVTD",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "archlinuxでデスクトップ環境がKDEなんですよね？"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "reactions": [
+        {
+          "name": "heart",
+          "users": [
+            "U0211KDBJJX"
+          ],
+          "count": 1
+        }
+      ]
+    },
+    {
+      "client_msg_id": "C4D0FD02-23E1-40D7-BB1E-0EEA0E75DC3C",
+      "type": "message",
+      "text": "初心的な質問ですみません、\nkdeを使用しているのですが、Windowsでいうalt+tabでフォーカスするウィンドウを切り替えるような操作をarch linuxでも行いたいです\n\nご存知の方いらっしゃいますか",
+      "user": "U0211KDBJJX",
+      "ts": "1624886523.316500",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "Z6zj",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "初心的な質問ですみません、\nkdeを使用しているのですが、Windowsでいうalt+tabでフォーカスするウィンドウを切り替えるような操作をarch linuxでも行いたいです\n\nご存知の方いらっしゃいますか"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "message",
+      "subtype": "channel_join",
+      "ts": "1624852835.313800",
+      "user": "U0264UKPQQN",
+      "text": "<@U0264UKPQQN>さんがチャンネルに参加しました"
+    },
+    {
+      "client_msg_id": "d380b0dd-70e1-439a-af2a-8e918f250b58",
+      "type": "message",
+      "text": "僕のlap-topはzen-kernelですが、更新しても大丈夫ですね。lm-sensorsも一応正常に動いてはいるみたいです。",
+      "user": "U01QTK2CP3K",
+      "ts": "1624777096.313600",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "5nhqL",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "僕のlap-topはzen-kernelですが、更新しても大丈夫ですね。lm-sensorsも一応正常に動いてはいるみたいです。"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "message",
+      "text": "Win11に備えてWindowsとArchをデュアルブートしてるマシンをセキュアブート+TPM2有効化したけど、なんだかんだ1時間くらいかかってしまった。\n何度かセットアップしてるけど未だにすんなりできたことがない。",
+      "user": "U257W41DW",
+      "ts": "1624771879.311600",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "luJm9",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "Win11に備えてWindowsとArchをデュアルブートしてるマシンをセキュアブート+TPM2有効化したけど、なんだかんだ1時間くらいかかってしまった。\n何度かセットアップしてるけど未だにすんなりできたことがない。"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "d74e1547-a62b-4df2-b076-7af60cdc2b88",
+      "type": "message",
+      "text": "試しにlinux kernel更新してみたけどdellの私は大丈夫そう。（ファン制御周りのモジュール吹っ飛んでそう）",
+      "user": "U01J1GGMHDJ",
+      "ts": "1624768476.309000",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "4/Q",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "試しにlinux kernel更新してみたけどdellの私は大丈夫そう。（ファン制御周りのモジュール吹っ飛んでそう）"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "04566859-b88a-4f86-ab2c-1229bc4f2ce6",
+      "type": "message",
+      "text": "なんかカーネルを5.12.13に上げたあたりからPCの温度が50度切らなくてずっとファン回ってる",
+      "user": "U019C7VLZ4G",
+      "ts": "1624762230.306900",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "cb3=j",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "なんかカーネルを5.12.13に上げたあたりからPCの温度が50度切らなくてずっとファン回ってる"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "thread_ts": "1624762230.306900",
+      "reply_count": 1,
+      "reply_users_count": 1,
+      "latest_reply": "1624895432.324400",
+      "reply_users": [
+        "U019C7VLZ4G"
+      ],
+      "is_locked": false,
+      "subscribed": false
+    },
+    {
+      "client_msg_id": "c24e3d6d-efd2-47a6-b342-e327c4c7f8a8",
+      "type": "message",
+      "text": "とはいえ、あまりおすすめできる感じでもなく、壊れたりする可能性とかもあるので、あまりおすすめできない...",
+      "user": "U0GFBAM8U",
+      "ts": "1624716843.305200",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "VSEVv",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "とはいえ、あまりおすすめできる感じでもなく、壊れたりする可能性とかもあるので、あまりおすすめできない..."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "2d4ba03b-4558-41fd-b5eb-4a40a4d9234a",
+      "type": "message",
+      "text": "そんな感じです。bootloader unlockできるとsupersuとか通しやすくなりそうだったと思います",
+      "user": "U0GFBAM8U",
+      "ts": "1624716577.304500",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "Zwg",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "そんな感じです。bootloader unlockできるとsupersuとか通しやすくなりそうだったと思います"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "0e7285d2-3583-4b15-b251-9a6a40fa7888",
+      "type": "message",
+      "text": "まず頑張ってbootloader unlockがいる感じですか?",
+      "user": "U019C7VLZ4G",
+      "ts": "1624716464.303500",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "YPrz6",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "まず頑張ってbootloader unlockがいる感じですか?"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "b82c37ff-9959-48d2-a7e9-94b70f7954d2",
+      "type": "message",
+      "text": "よさそう、うまくいくとandroid端末にsshとかもできるし便利ですよ",
+      "user": "U0GFBAM8U",
+      "ts": "1624716385.302500",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "tD4Gy",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "よさそう、うまくいくとandroid端末にsshとかもできるし便利ですよ"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "d6a3e2ea-3652-49d3-a013-7b42b549fd03",
+      "type": "message",
+      "text": "Kindle Fire HD 10買ったので、Arch Tabletとして使ってみたいという野望がある",
+      "user": "U019C7VLZ4G",
+      "ts": "1624716323.302100",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "6hw2",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "Kindle Fire HD 10買ったので、Arch Tabletとして使ってみたいという野望がある"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "8f6275f7-6b2c-4309-8da5-e7f42e1f43f7",
+      "type": "message",
+      "text": "実はnexus7、chrootでarchのimgを読み込んで使ってるので、実質archlinuxだったりする(違う",
+      "user": "U0GFBAM8U",
+      "ts": "1624715097.298500",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "y=a",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "実はnexus7、chrootでarchのimgを読み込んで使ってるので、実質archlinuxだったりする(違う"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "d9471348-1c64-4440-a9ed-5eff67845ec2",
+      "type": "message",
+      "text": "ありがとうございます！",
+      "user": "U01HE1ENNJZ",
+      "ts": "1624715090.298300",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "hOl/O",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "ありがとうございます！"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "41153537-1abd-40c5-8932-06aa93f2e5b9",
+      "type": "message",
+      "text": "Anroidコア部分がLinuxなので、Termuxみたいなアプリを使えばそこそこLinuxとして使えるのが魅力的な部分だったりする(ニッチそう)",
+      "user": "UGA29R3FH",
+      "ts": "1624714810.297200",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "=LDwz",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "Anroidコア部分がLinuxなので、Termuxみたいなアプリを使えばそこそこLinuxとして使えるのが魅力的な部分だったりする(ニッチそう)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "5f24ddee-0e79-476c-9379-3d585a2c4cb3",
+      "type": "message",
+      "text": "<@U0GFBAM8U> メンション失礼します\nsyuiさんのブログrss登録したいのですが直リンありますか？\nあったらほしいです",
+      "user": "U01HE1ENNJZ",
+      "ts": "1624714558.295900",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "Ils6",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "user",
+                  "user_id": "U0GFBAM8U"
+                },
+                {
+                  "type": "text",
+                  "text": " メンション失礼します\nsyuiさんのブログrss登録したいのですが直リンありますか？\nあったらほしいです"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "0abfd389-595c-4c11-b64e-9dfba6ada8da",
+      "type": "message",
+      "text": "某-jp の方には、tech-android 部屋があるな",
+      "user": "U0PM6EYR1",
+      "ts": "1624713422.294600",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "GFcp",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "某-jp の方には、tech-android 部屋があるな"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "900a77e2-8a8e-4f3b-a52a-45db98c9e34c",
+      "type": "message",
+      "text": "Nexus7懐かしいな。5の方とセットで使ってた",
+      "user": "UBEFL3YLE",
+      "ts": "1624713350.294100",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "1Nr4F",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "Nexus7懐かしいな。5の方とセットで使ってた"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "41303325-4B9E-444B-AC89-B4353BD2B87F",
+      "type": "message",
+      "text": "nexus7での体験も十分良かった気がします",
+      "user": "U0GFBAM8U",
+      "ts": "1624713289.293500",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "WaQe",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "nexus7での体験も十分良かった気がします"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "74699CC9-7C5D-48F4-9389-25A14DB375B3",
+      "type": "message",
+      "text": "えーandroidの話、聞きたい",
+      "user": "U0GFBAM8U",
+      "ts": "1624713251.292800",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "0bWJ",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "えーandroidの話、聞きたい"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "90ad5ce3-40bb-42d9-8bea-7633bf82c070",
+      "type": "message",
+      "text": "ってここで話すことではないなw",
+      "user": "UGA29R3FH",
+      "ts": "1624713205.292200",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "yfQ5",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "ってここで話すことではないなw"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "174b1670-f4a1-4139-9649-30e967bf0458",
+      "type": "message",
+      "text": "今のAndroid割とよくなってる",
+      "user": "UGA29R3FH",
+      "ts": "1624713200.291900",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "5RLn",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "今のAndroid割とよくなってる"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "3fc9e571-ce25-47e2-9dda-7818de98d16f",
+      "type": "message",
+      "text": "はい\nキャリア版xperia xz1 compactですね",
+      "user": "U01HE1ENNJZ",
+      "ts": "1624712906.291600",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "=2mv",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "はい\nキャリア版xperia xz1 compactですね"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "9162AF75-5737-42E8-9119-A41900251402",
+      "type": "message",
+      "text": "<@U01HE1ENNJZ> さんはxperiaですか?",
+      "user": "U0GFBAM8U",
+      "ts": "1624712743.291100",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "Q1s0M",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "user",
+                  "user_id": "U01HE1ENNJZ"
+                },
+                {
+                  "type": "text",
+                  "text": " さんはxperiaですか?"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "4176213C-F079-46D8-905F-70C793F32FD5",
+      "type": "message",
+      "text": "はい\nスマホはずっとですね。androidも経験しとかなきゃと思ってnexus7買って、今でも稀に使ってます。なんというか色々できたので好き",
+      "user": "U0GFBAM8U",
+      "ts": "1624712659.290200",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "pEbwr",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "はい\nスマホはずっとですね。androidも経験しとかなきゃと思ってnexus7買って、今でも稀に使ってます。なんというか色々できたので好き"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "77a1ffd0-0fc3-4289-af7e-21d5632df304",
+      "type": "message",
+      "text": "今はiphoneですか？",
+      "user": "U01HE1ENNJZ",
+      "ts": "1624712519.287900",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "T3tVb",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "今はiphoneですか？"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "0FB77350-85EC-446D-B915-F5AB5341FBA6",
+      "type": "message",
+      "text": "android、随分と昔のnexus7で体験しただけなので、あまり詳しくなかったりします",
+      "user": "U0GFBAM8U",
+      "ts": "1624712429.287500",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "a4bK",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "android、随分と昔のnexus7で体験しただけなので、あまり詳しくなかったりします"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "2ba7649f-aa67-4827-8c05-f5cc2591aa1e",
+      "type": "message",
+      "text": "リロードしたら行けましたすみません",
+      "user": "U01HE1ENNJZ",
+      "ts": "1624712364.286100",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "8++12",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "リロードしたら行けましたすみません"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "82F588D0-BD85-44C1-B4B8-16E14065E83E",
+      "type": "message",
+      "text": "あれqiitaこちらではアクセスできる",
+      "user": "U0GFBAM8U",
+      "ts": "1624712321.285800",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "8ZZl",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "あれqiitaこちらではアクセスできる"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "0805d60e-ddfa-4b10-92d3-6f8bb2423aa6",
+      "type": "message",
+      "text": "なるほど\n割と前の話ですね",
+      "user": "U01HE1ENNJZ",
+      "ts": "1624712106.284000",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "fBm",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "なるほど\n割と前の話ですね"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "85E905DC-C9DA-46EE-8A21-98B791140DA8",
+      "type": "message",
+      "text": "これもexploitを実行したあとに処理される感じだったと思う",
+      "user": "U0GFBAM8U",
+      "ts": "1624712078.283500",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "ix9",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "これもexploitを実行したあとに処理される感じだったと思う"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "815C8673-92AB-4047-A53B-750649336A4C",
+      "type": "message",
+      "text": "root化のついでにというのはchainfireさんのcf-auto-rootみたいなツールを想定してます",
+      "user": "U0GFBAM8U",
+      "ts": "1624711893.282600",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "+fw",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "root化のついでにというのはchainfireさんのcf-auto-rootみたいなツールを想定してます"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "a5c7cc64-3830-4a3e-b928-fb32f683c9d6",
+      "type": "message",
+      "text": "ちなみにキャリアのxperiaはそもそもブートローダーアンロックが許可されてません\nroot権限とbootloader unlockは結構違います\nroot権限はバイナリエクスプロイトなんかしたら取れますが、bootloader unlockは原則メーカーによる許可が必要です",
+      "user": "U01HE1ENNJZ",
+      "ts": "1624711605.281200",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "IhpU",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "ちなみにキャリアのxperiaはそもそもブートローダーアンロックが許可されてません\nroot権限とbootloader unlockは結構違います\nroot権限はバイナリエクスプロイトなんかしたら取れますが、bootloader unlockは原則メーカーによる許可が必要です"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "a5abe979-200e-4c87-8a55-f28110e07252",
+      "type": "message",
+      "text": "これに関してもあまり詳しくないですが",
+      "user": "U0GFBAM8U",
+      "ts": "1624710633.278800",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "33E",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "これに関してもあまり詳しくないですが"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "917e0cb4-9426-4929-9e06-ca819b43f1fc",
+      "type": "message",
+      "text": "ちなみに、root化の類は、個人でやるぶんには法的に問題ないらしい。なぜなら、自分の所有物をどのように使おうと、その自由は原理原則に従って基本的に保障されているからです\nただし、それを販売したり、他人に譲ったりと、第三者が絡んでくると法的にアウトっぽい",
+      "user": "U0GFBAM8U",
+      "ts": "1624710504.278300",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "kbnN",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "ちなみに、root化の類は、個人でやるぶんには法的に問題ないらしい。なぜなら、自分の所有物をどのように使おうと、その自由は原理原則に従って基本的に保障されているからです\nただし、それを販売したり、他人に譲ったりと、第三者が絡んでくると法的にアウトっぽい"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "CB6B4A8E-1973-4FF8-B919-2462020E6397",
+      "type": "message",
+      "text": "exploitから実行する感じのものが多いのかな",
+      "user": "U0GFBAM8U",
+      "ts": "1624710126.276400",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "RKu",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "exploitから実行する感じのものが多いのかな"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "thread_ts": "1624710126.276400",
+      "reply_count": 2,
+      "reply_users_count": 2,
+      "latest_reply": "1624921517.325500",
+      "reply_users": [
+        "U019C7VLZ4G",
+        "U0GFBAM8U"
+      ],
+      "is_locked": false,
+      "subscribed": true,
+      "last_read": "1624921517.325500"
+    },
+    {
+      "client_msg_id": "FE7029ED-9370-406B-86CC-310D1FB1573D",
+      "type": "message",
+      "text": "androidはroot化のついでに外れるの多い印象\nios端末はcheckm8で外せた記憶があるんですけど、どちらもあまり詳しくないですね",
+      "user": "U0GFBAM8U",
+      "ts": "1624710018.275700",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "phSE",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "androidはroot化のついでに外れるの多い印象\n"
+                },
+                {
+                  "type": "text",
+                  "text": "ios端末はcheckm8で外せた記憶があるんですけど、どちらもあまり詳しくないですね"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "message",
+      "subtype": "thread_broadcast",
+      "text": "話が逸れますが、スマホのブートローダーロックは外れないやつはどうしようもないのですか?\n(Pixelとかだと簡単に外せるけどメーカーによっては完全に無理?)",
+      "user": "U019C7VLZ4G",
+      "ts": "1624709699.273400",
+      "thread_ts": "1624702311.266800",
+      "root": {
+        "client_msg_id": "b4383951-2481-41c2-81cb-8eba52d22461",
+        "type": "message",
+        "text": "ただ、ブートロックみたいなことをしていいのかは法的な問題も絡んできそう。自分の所有物を自由に扱えないということになり、そこに不自由が生じるので、その意味で、無効化できないPCとか増えたら反対運動とかおこりそう",
+        "user": "U0GFBAM8U",
+        "ts": "1624702311.266800",
+        "team": "T0GFBAM8C",
+        "blocks": [
+          {
+            "type": "rich_text",
+            "block_id": "7P2T=",
+            "elements": [
+              {
+                "type": "rich_text_section",
+                "elements": [
+                  {
+                    "type": "text",
+                    "text": "ただ、ブートロックみたいなことをしていいのかは法的な問題も絡んできそう。自分の所有物を自由に扱えないということになり、そこに不自由が生じるので、その意味で、無効化できないPCとか増えたら反対運動とかおこりそう"
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "thread_ts": "1624702311.266800",
+        "reply_count": 3,
+        "reply_users_count": 3,
+        "latest_reply": "1624709699.273400",
+        "reply_users": [
+          "U01J1GGMHDJ",
+          "U0GFBAM8U",
+          "U019C7VLZ4G"
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1624709699.273400"
+      },
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "GrN",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "話が逸れますが、スマホのブートローダーロックは外れないやつはどうしようもないのですか?\n(Pixelとかだと簡単に外せるけどメーカーによっては完全に無理?)"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "client_msg_id": "80f442db-8480-424b-aff7-8a91c9d39938"
+    },
+    {
+      "type": "message",
+      "subtype": "thread_broadcast",
+      "text": "スマホのブートローダーロックでそこまで騒がれていない現状を見ると反対運動は厳しそうですね（linus辺りの有名な人がお気持ち表明してどうなるのかなという感じ？）",
+      "user": "U01J1GGMHDJ",
+      "ts": "1624708111.272400",
+      "thread_ts": "1624702311.266800",
+      "root": {
+        "client_msg_id": "b4383951-2481-41c2-81cb-8eba52d22461",
+        "type": "message",
+        "text": "ただ、ブートロックみたいなことをしていいのかは法的な問題も絡んできそう。自分の所有物を自由に扱えないということになり、そこに不自由が生じるので、その意味で、無効化できないPCとか増えたら反対運動とかおこりそう",
+        "user": "U0GFBAM8U",
+        "ts": "1624702311.266800",
+        "team": "T0GFBAM8C",
+        "blocks": [
+          {
+            "type": "rich_text",
+            "block_id": "7P2T=",
+            "elements": [
+              {
+                "type": "rich_text_section",
+                "elements": [
+                  {
+                    "type": "text",
+                    "text": "ただ、ブートロックみたいなことをしていいのかは法的な問題も絡んできそう。自分の所有物を自由に扱えないということになり、そこに不自由が生じるので、その意味で、無効化できないPCとか増えたら反対運動とかおこりそう"
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "thread_ts": "1624702311.266800",
+        "reply_count": 3,
+        "reply_users_count": 3,
+        "latest_reply": "1624709699.273400",
+        "reply_users": [
+          "U01J1GGMHDJ",
+          "U0GFBAM8U",
+          "U019C7VLZ4G"
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1624709699.273400"
+      },
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "CYB+",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "スマホのブートローダーロックでそこまで騒がれていない現状を見ると反対運動は厳しそうですね（linus辺りの有名な人がお気持ち表明してどうなるのかなという感じ？）"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "client_msg_id": "2c49cd79-55c9-4d2c-a8be-d2da41f7bda6"
+    },
+    {
+      "client_msg_id": "f04503db-3cef-4ef2-9a0b-8845d669cac0",
+      "type": "message",
+      "text": "TPM対応しててもCPUが対応してないのでwin11インストール出来ないkabylake勢が通りまーす…（泣）（そもそもセキュアブートも面倒なので有効化したくない）",
+      "user": "U01J1GGMHDJ",
+      "ts": "1624707957.272300",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "PjB",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "TPM対応しててもCPUが対応してないのでwin11インストール出来ないkabylake勢が通りまーす…（泣）（そもそもセキュアブートも面倒なので有効化したくない）"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "0b13028c-dff2-493f-b3d7-3b9099f26de4",
+      "type": "message",
+      "text": "今回はTPMさえオンになってたら突破できるような話聞きましたが",
+      "user": "U01HE1ENNJZ",
+      "ts": "1624707806.269500",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "sXRR8",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "今回はTPMさえオンになってたら突破できるような話聞きましたが"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "9E3E6C25-72CC-4110-B0F4-CAA6732CCF50",
+      "type": "message",
+      "text": "うん",
+      "user": "U0GFBAM8U",
+      "ts": "1624704391.268400",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "pLp",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "うん"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "a0fc02d7-71cf-4d95-bcc7-39202c9808a7",
+      "type": "message",
+      "text": "とりあえず不自由なハードウェアが普及しないことを祈っておこう",
+      "user": "UGA29R3FH",
+      "ts": "1624704161.268200",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "4C/",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "とりあえず不自由なハードウェアが普及しないことを祈っておこう"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "763ca64c-954c-4760-83a5-e7705ab33684",
+      "type": "message",
+      "text": "ノートの場合は自作とか難しそうですしね",
+      "user": "U0GFBAM8U",
+      "ts": "1624704009.267800",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "ymm",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "ノートの場合は自作とか難しそうですしね"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "reactions": [
+        {
+          "name": "sorena",
+          "users": [
+            "UGA29R3FH",
+            "U019C7VLZ4G",
+            "U7VDHKJHM",
+            "U013L1JQ0J2"
+          ],
+          "count": 4
+        }
+      ]
+    },
+    {
+      "client_msg_id": "7a5b710b-c82e-40aa-b541-fa1773f7db7c",
+      "type": "message",
+      "text": "私はWindows捨ててるので関係ないけど捨てられない人多いだろうし",
+      "user": "UGA29R3FH",
+      "ts": "1624703982.267500",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "lkyZf",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "私はWindows捨ててるので関係ないけど捨てられない人多いだろうし"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "d972f577-eba7-470f-87f6-961e16f8a96e",
+      "type": "message",
+      "text": "Secure Boot自体は理解できるけど必須というのはクソだと思う",
+      "user": "UGA29R3FH",
+      "ts": "1624703934.267200",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "SjP8m",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "Secure Boot自体は理解できるけど必須というのはクソだと思う"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "b4383951-2481-41c2-81cb-8eba52d22461",
+      "type": "message",
+      "text": "ただ、ブートロックみたいなことをしていいのかは法的な問題も絡んできそう。自分の所有物を自由に扱えないということになり、そこに不自由が生じるので、その意味で、無効化できないPCとか増えたら反対運動とかおこりそう",
+      "user": "U0GFBAM8U",
+      "ts": "1624702311.266800",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "7P2T=",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "ただ、ブートロックみたいなことをしていいのかは法的な問題も絡んできそう。自分の所有物を自由に扱えないということになり、そこに不自由が生じるので、その意味で、無効化できないPCとか増えたら反対運動とかおこりそう"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "thread_ts": "1624702311.266800",
+      "reply_count": 3,
+      "reply_users_count": 3,
+      "latest_reply": "1624709699.273400",
+      "reply_users": [
+        "U01J1GGMHDJ",
+        "U0GFBAM8U",
+        "U019C7VLZ4G"
+      ],
+      "is_locked": false,
+      "subscribed": true,
+      "last_read": "1624709699.273400"
+    },
+    {
+      "client_msg_id": "b9ccc897-5eec-4ef2-9c49-22541f305ba6",
+      "type": "message",
+      "text": "その場合、linux勢はwindows機も買いづらくなりそうで、つらい",
+      "user": "U0GFBAM8U",
+      "ts": "1624702063.264900",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "0G+",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "その場合、linux勢はwindows機も買いづらくなりそうで、つらい"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "7b00ca35-d007-4935-9b7e-21fb2e9d7408",
+      "type": "message",
+      "text": "Windows11でSecure Boot必須になるとSecure Bootを無効化できないPCとかが増えそう",
+      "user": "U019C7VLZ4G",
+      "ts": "1624701908.264300",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "+dfz1",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "Windows11でSecure Boot必須になるとSecure Bootを無効化できないPCとかが増えそう"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "message",
+      "subtype": "channel_join",
+      "ts": "1624503751.263100",
+      "user": "U025LDT56G7",
+      "text": "<@U025LDT56G7>さんがチャンネルに参加しました"
+    },
+    {
+      "type": "message",
+      "subtype": "channel_join",
+      "ts": "1624298693.262700",
+      "user": "U0259L40DC7",
+      "text": "<@U0259L40DC7>さんがチャンネルに参加しました"
+    },
+    {
+      "client_msg_id": "b6448dd2-11c1-49c3-af6d-a37577003bee",
+      "type": "message",
+      "text": "(結合スクリプトの配布はともかく、結合したものの再配布はどういう許諾になってるのか把握してない)",
+      "user": "UPLFHSQ2V",
+      "ts": "1624286467.262500",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "T/svW",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "(結合スクリプトの配布はともかく、結合したものの再配布はどういう許諾になってるのか把握してない)"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "reactions": [
+        {
+          "name": "+1",
+          "users": [
+            "U0H9QUFA5",
+            "U0GFBAM8U",
+            "U019C7VLZ4G"
+          ],
+          "count": 3
+        }
+      ]
+    },
+    {
+      "client_msg_id": "9aad44eb-82cd-4d9b-b167-92ef71974dc2",
+      "type": "message",
+      "text": "<https://github.com/jr4qpv/GNU_Make_3rd_jp/blob/master/GNU_Make_3rd_jp.pdf>\nそれを結合したものです。(某-jp情報)",
+      "user": "UPLFHSQ2V",
+      "ts": "1624286411.262200",
+      "team": "T0GFBAM8C",
+      "attachments": [
+        {
+          "service_name": "GitHub",
+          "title": "jr4qpv/GNU_Make_3rd_jp",
+          "title_link": "https://github.com/jr4qpv/GNU_Make_3rd_jp/blob/master/GNU_Make_3rd_jp.pdf",
+          "text": "The GNU Make 3rd edition PDF of Japanese. Contribute to jr4qpv/GNU_Make_3rd_jp development by creating an account on GitHub.",
+          "fallback": "GitHub: jr4qpv/GNU_Make_3rd_jp",
+          "image_url": "https://opengraph.githubassets.com/b63ac820ef478d6be232660f596261551fddd2a3d4e58414be50efb5000dbe22/jr4qpv/GNU_Make_3rd_jp",
+          "image_width": 500,
+          "image_height": 250,
+          "from_url": "https://github.com/jr4qpv/GNU_Make_3rd_jp/blob/master/GNU_Make_3rd_jp.pdf",
+          "image_bytes": 100926,
+          "service_icon": "https://a.slack-edge.com/80588/img/unfurl_icons/github.png",
+          "id": 1,
+          "original_url": "https://github.com/jr4qpv/GNU_Make_3rd_jp/blob/master/GNU_Make_3rd_jp.pdf"
+        }
+      ],
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "ZkP",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "link",
+                  "url": "https://github.com/jr4qpv/GNU_Make_3rd_jp/blob/master/GNU_Make_3rd_jp.pdf"
+                },
+                {
+                  "type": "text",
+                  "text": "\nそれを結合したものです。(某-jp情報)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "cd5ab975-42d7-4bf5-9adf-48c85f6d470b",
+      "type": "message",
+      "text": "オライリーのGNU Make 3版(日本語版)が公式で無料公開されてる!!\n<https://www.oreilly.co.jp/library/4873112699/>",
+      "user": "U019C7VLZ4G",
+      "ts": "1624281424.262000",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "DF4",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "オライリーのGNU Make 3版(日本語版)が公式で無料公開されてる!!\n"
+                },
+                {
+                  "type": "link",
+                  "url": "https://www.oreilly.co.jp/library/4873112699/"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "message",
+      "subtype": "channel_join",
+      "ts": "1624235051.260800",
+      "user": "U0256E9F431",
+      "text": "<@U0256E9F431>さんがチャンネルに参加しました"
+    },
+    {
+      "client_msg_id": "56888c48-e5ed-46c5-a51d-512c445683c4",
+      "type": "message",
+      "text": "(makemkvは公認を通した状態にしておいてください)",
+      "user": "UCA1NQM5K",
+      "ts": "1624175817.260300",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "A5d",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "(makemkvは公認を通した状態にしておいてください)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "15256ce1-73af-4a22-b78b-d8257d64c360",
+      "type": "message",
+      "text": "makemkvとmakemkv-libaacsを入れてVLCでBlu-ray再生できますよ",
+      "user": "UCA1NQM5K",
+      "ts": "1624175800.259900",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "HqlI",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "makemkvとmakemkv-libaacsを入れてVLCでBlu-ray再生できますよ"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "A3D3E069-CB56-4721-9686-F13EFF786B45",
+      "type": "message",
+      "text": "再生できないこともありそう",
+      "user": "U0GFBAM8U",
+      "ts": "1624153999.259300",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "m4oG",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "再生できないこともありそう"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "E0BEB9B9-83BB-4999-BB64-AA0748F0DAB1",
+      "type": "message",
+      "text": "makemkvを使った記憶があり、とてつもなく苦労した記憶があります\n<https://www.thefastcode.com/ja-jpy/article/how-to-play-dvds-and-blu-rays-on-linux|https://www.thefastcode.com/ja-jpy/article/how-to-play-dvds-and-blu-rays-on-linux>",
+      "user": "U0GFBAM8U",
+      "ts": "1624153891.258800",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "78mW",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "makemkvを使った記憶があり、とてつもなく苦労した記憶があります\n"
+                },
+                {
+                  "type": "link",
+                  "url": "https://www.thefastcode.com/ja-jpy/article/how-to-play-dvds-and-blu-rays-on-linux",
+                  "text": "https://www.thefastcode.com/ja-jpy/article/how-to-play-dvds-and-blu-rays-on-linux"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "b8d597ab-5bbb-4c78-8e20-a7e1d124cc94",
+      "type": "message",
+      "text": "たぶんあと数ヶ月でシンエヴァBDが発売されるのでLinuxでシンエヴァBD見れる環境を整えたいのだけど結構大変ですか?\nこのあたり見てやればだいたい再生できる感じでしょうか?\n<https://wiki.archlinux.org/title/Blu-ray>",
+      "user": "U019C7VLZ4G",
+      "ts": "1624152952.257600",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "Wmf",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "たぶんあと数ヶ月でシンエヴァBDが発売されるのでLinuxでシンエヴァBD見れる環境を整えたいのだけど結構大変ですか?\nこのあたり見てやればだいたい再生できる感じでしょうか?\n"
+                },
+                {
+                  "type": "link",
+                  "url": "https://wiki.archlinux.org/title/Blu-ray"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "message",
+      "text": "kvadapta-darkだとこんな感じになります",
+      "files": [
+        {
+          "id": "F025GNJMKHT",
+          "created": 1624101657,
+          "timestamp": 1624101657,
+          "name": "image.png",
+          "title": "image.png",
+          "mimetype": "image/png",
+          "filetype": "png",
+          "pretty_type": "PNG",
+          "user": "U01HE1ENNJZ",
+          "editable": false,
+          "size": 99437,
+          "mode": "hosted",
+          "is_external": false,
+          "external_type": "",
+          "is_public": true,
+          "public_url_shared": false,
+          "display_as_bot": false,
+          "username": "",
+          "url_private": "https://files.slack.com/files-pri/T0GFBAM8C-F025GNJMKHT/image.png",
+          "url_private_download": "https://files.slack.com/files-pri/T0GFBAM8C-F025GNJMKHT/download/image.png",
+          "media_display_type": "unknown",
+          "thumb_64": "https://files.slack.com/files-tmb/T0GFBAM8C-F025GNJMKHT-f6c4504e3d/image_64.png",
+          "thumb_80": "https://files.slack.com/files-tmb/T0GFBAM8C-F025GNJMKHT-f6c4504e3d/image_80.png",
+          "thumb_360": "https://files.slack.com/files-tmb/T0GFBAM8C-F025GNJMKHT-f6c4504e3d/image_360.png",
+          "thumb_360_w": 360,
+          "thumb_360_h": 268,
+          "thumb_480": "https://files.slack.com/files-tmb/T0GFBAM8C-F025GNJMKHT-f6c4504e3d/image_480.png",
+          "thumb_480_w": 480,
+          "thumb_480_h": 357,
+          "thumb_160": "https://files.slack.com/files-tmb/T0GFBAM8C-F025GNJMKHT-f6c4504e3d/image_160.png",
+          "thumb_720": "https://files.slack.com/files-tmb/T0GFBAM8C-F025GNJMKHT-f6c4504e3d/image_720.png",
+          "thumb_720_w": 720,
+          "thumb_720_h": 536,
+          "thumb_800": "https://files.slack.com/files-tmb/T0GFBAM8C-F025GNJMKHT-f6c4504e3d/image_800.png",
+          "thumb_800_w": 800,
+          "thumb_800_h": 595,
+          "original_w": 820,
+          "original_h": 610,
+          "thumb_tiny": "AwAjADCrxikozxQTnrTEFGB60lO7CgBpFFKQewNJQAUUoxjqKXj1FADacKCBjqKMj2/KgB2OvH6UwjnjvRx9PwpVIDA56GgBuaNx9aSigBaKKKADJFKOlJSigD//2Q==",
+          "permalink": "https://archlinuxjp.slack.com/files/U01HE1ENNJZ/F025GNJMKHT/image.png",
+          "permalink_public": "https://slack-files.com/T0GFBAM8C-F025GNJMKHT-87a7787ffc",
+          "is_starred": false,
+          "has_rich_preview": false
+        }
+      ],
+      "upload": false,
+      "user": "U01HE1ENNJZ",
+      "display_as_bot": false,
+      "ts": "1624101664.255300",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "Nv=",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "kvadapta-darkだとこんな感じになります"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "message",
+      "subtype": "thread_broadcast",
+      "text": "qt5のテーマ変えると見えるようになります\nkvantum-qt5, qt5ct入れて設定すればきれいになります",
+      "user": "U01HE1ENNJZ",
+      "ts": "1624101613.254600",
+      "thread_ts": "1624030825.249500",
+      "root": {
+        "client_msg_id": "36dcfbd0-37d0-40d9-8c35-c40f9d8d4672",
+        "type": "message",
+        "text": "<@U7F8FQF6W> ダメみたいです　変更してみましたが... fcitx5利用してましたがconfigtoolの→の画像？が読み込んでくれず４使ってます",
+        "user": "U015CDRQDD0",
+        "ts": "1624030825.249500",
+        "team": "T0GFBAM8C",
+        "blocks": [
+          {
+            "type": "rich_text",
+            "block_id": "4lgx7",
+            "elements": [
+              {
+                "type": "rich_text_section",
+                "elements": [
+                  {
+                    "type": "user",
+                    "user_id": "U7F8FQF6W"
+                  },
+                  {
+                    "type": "text",
+                    "text": " ダメみたいです　変更してみましたが... fcitx5利用してましたがconfigtoolの→の画像？が読み込んでくれず４使ってます"
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "thread_ts": "1624030825.249500",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1624181561.260500",
+        "reply_users": [
+          "U01HE1ENNJZ",
+          "U015CDRQDD0"
+        ],
+        "is_locked": false,
+        "subscribed": false
+      },
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "lyrpj",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "qt5のテーマ変えると見えるようになります\nkvantum-qt5, qt5ct入れて設定すればきれいになります"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "client_msg_id": "0900e9e2-3357-4e31-9976-f9d4fc9ba1f6"
+    },
+    {
+      "client_msg_id": "9ac79f3a-fc18-4f05-9240-f0efe36ea9b6",
+      "type": "message",
+      "text": "xevで調べてみてはどうでしょう、usとmozc時\n私はレイアウトの書き換えにxmodmapを使用してます",
+      "user": "U0GFBAM8U",
+      "ts": "1624072954.250700",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "0bJba",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "xevで調べてみてはどうでしょう、usとmozc時\n私はレイアウトの書き換えにxmodmapを使用してます"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "message",
+      "text": "",
+      "files": [
+        {
+          "id": "F025WRRHSJV",
+          "created": 1624032880,
+          "timestamp": 1624032880,
+          "name": "スクリーンショット_2021-06-19_01-12-44.png",
+          "title": "スクリーンショット_2021-06-19_01-12-44.png",
+          "mimetype": "image/png",
+          "filetype": "png",
+          "pretty_type": "PNG",
+          "user": "U015CDRQDD0",
+          "editable": false,
+          "size": 50013,
+          "mode": "hosted",
+          "is_external": false,
+          "external_type": "",
+          "is_public": true,
+          "public_url_shared": false,
+          "display_as_bot": false,
+          "username": "",
+          "url_private": "https://files.slack.com/files-pri/T0GFBAM8C-F025WRRHSJV/____________________________2021-06-19_01-12-44.png",
+          "url_private_download": "https://files.slack.com/files-pri/T0GFBAM8C-F025WRRHSJV/download/____________________________2021-06-19_01-12-44.png",
+          "media_display_type": "unknown",
+          "thumb_64": "https://files.slack.com/files-tmb/T0GFBAM8C-F025WRRHSJV-4de26ddaec/____________________________2021-06-19_01-12-44_64.png",
+          "thumb_80": "https://files.slack.com/files-tmb/T0GFBAM8C-F025WRRHSJV-4de26ddaec/____________________________2021-06-19_01-12-44_80.png",
+          "thumb_360": "https://files.slack.com/files-tmb/T0GFBAM8C-F025WRRHSJV-4de26ddaec/____________________________2021-06-19_01-12-44_360.png",
+          "thumb_360_w": 360,
+          "thumb_360_h": 116,
+          "thumb_480": "https://files.slack.com/files-tmb/T0GFBAM8C-F025WRRHSJV-4de26ddaec/____________________________2021-06-19_01-12-44_480.png",
+          "thumb_480_w": 480,
+          "thumb_480_h": 154,
+          "thumb_160": "https://files.slack.com/files-tmb/T0GFBAM8C-F025WRRHSJV-4de26ddaec/____________________________2021-06-19_01-12-44_160.png",
+          "thumb_720": "https://files.slack.com/files-tmb/T0GFBAM8C-F025WRRHSJV-4de26ddaec/____________________________2021-06-19_01-12-44_720.png",
+          "thumb_720_w": 720,
+          "thumb_720_h": 231,
+          "thumb_800": "https://files.slack.com/files-tmb/T0GFBAM8C-F025WRRHSJV-4de26ddaec/____________________________2021-06-19_01-12-44_800.png",
+          "thumb_800_w": 800,
+          "thumb_800_h": 257,
+          "thumb_960": "https://files.slack.com/files-tmb/T0GFBAM8C-F025WRRHSJV-4de26ddaec/____________________________2021-06-19_01-12-44_960.png",
+          "thumb_960_w": 960,
+          "thumb_960_h": 308,
+          "thumb_1024": "https://files.slack.com/files-tmb/T0GFBAM8C-F025WRRHSJV-4de26ddaec/____________________________2021-06-19_01-12-44_1024.png",
+          "thumb_1024_w": 1024,
+          "thumb_1024_h": 329,
+          "image_exif_rotation": 1,
+          "original_w": 1868,
+          "original_h": 600,
+          "thumb_tiny": "AwAPADDTwKMUUUABFNGc9OKUilHSgAooooA//9k=",
+          "permalink": "https://archlinuxjp.slack.com/files/U015CDRQDD0/F025WRRHSJV/____________________________2021-06-19_01-12-44.png",
+          "permalink_public": "https://slack-files.com/T0GFBAM8C-F025WRRHSJV-6b49859ee4",
+          "is_starred": false,
+          "has_rich_preview": false
+        }
+      ],
+      "upload": false,
+      "user": "U015CDRQDD0",
+      "display_as_bot": false,
+      "ts": "1624033255.249900"
+    },
+    {
+      "client_msg_id": "36dcfbd0-37d0-40d9-8c35-c40f9d8d4672",
+      "type": "message",
+      "text": "<@U7F8FQF6W> ダメみたいです　変更してみましたが... fcitx5利用してましたがconfigtoolの→の画像？が読み込んでくれず４使ってます",
+      "user": "U015CDRQDD0",
+      "ts": "1624030825.249500",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "4lgx7",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "user",
+                  "user_id": "U7F8FQF6W"
+                },
+                {
+                  "type": "text",
+                  "text": " ダメみたいです　変更してみましたが... fcitx5利用してましたがconfigtoolの→の画像？が読み込んでくれず４使ってます"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "thread_ts": "1624030825.249500",
+      "reply_count": 2,
+      "reply_users_count": 2,
+      "latest_reply": "1624181561.260500",
+      "reply_users": [
+        "U01HE1ENNJZ",
+        "U015CDRQDD0"
+      ],
+      "is_locked": false,
+      "subscribed": false
+    },
+    {
+      "client_msg_id": "e2ebd326-263b-4f99-b505-866cde2eecb1",
+      "type": "message",
+      "text": "（因みに私は fcitx-mozc のパッケージャをやっていますが、２年ぐらい前から fcitx5-mozc のほうに転換して、 fcitx 4 をテスト以外あんまり触らないようになってきました）",
+      "user": "U7F8FQF6W",
+      "ts": "1624029152.247900",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "TvqJR",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "（因みに私は fcitx-mozc のパッケージャをやっていますが、２年ぐらい前から fcitx5-mozc のほうに転換して、 fcitx 4 をテスト以外あんまり触らないようになってきました）"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "420aadef-8912-425b-9676-8bbe035a90f4",
+      "type": "message",
+      "text": "設定画面カスタム切り替えキー「Zenkakuhankaku」は `英数キー` と思います、そこを変えてみますか？（大文字入力になるのは怪しいと思いますが）",
+      "user": "U7F8FQF6W",
+      "ts": "1624028962.245900",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "jkw",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "設定画面カスタム切り替えキー「Zenkakuhankaku」は "
+                },
+                {
+                  "type": "text",
+                  "text": "英数キー",
+                  "style": {
+                    "code": true
+                  }
+                },
+                {
+                  "type": "text",
+                  "text": " と思います、そこを変えてみますか？（大文字入力になるのは怪しいと思いますが）"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "message",
+      "text": "fcitx+mozcを利用しているのですが、`英数キー`を押すと入力メソッドが変更し(mozc→英語キー)、且つ大文字入力になるんですがこれって初期設定でしょうか?windowsのように`shift+英数キー`では無いのでしょうか?\nまた<https://wiki.archlinux.jp/index.php/Xorg_%E3%81%A7%E3%81%AE%E3%82%AD%E3%83%BC%E3%83%9C%E3%83%BC%E3%83%89%E8%A8%AD%E5%AE%9A#Caps_Lock_.E3.81.A8.E5.B7.A6_Control_.E3.82.92.E4.BA.A4.E6.8F.9B.E3.81.99.E3.82.8B|英数キーの利用を左ctrlと入れ替える方法>を試したのですがうまく動作せず今に至ります。\nこのsetxkbmap乃至設定ファイルの書き換えは、英語キーボードのレイアウト時のみ変更されて日本語キーボード(mozc)時には反映されないのでしょうか?\nつまり英語キーボード時の`capslock`のみ変更されて日本語キーボードでの`英数キー`は変更されていない状態なのか？ということです。(日英キーボードは物理ではなくメソッドのことです)\n因みにfcitx-configtoolでの設定はこんな感じです。",
+      "files": [
+        {
+          "id": "F025DP9JB2R",
+          "created": 1624009089,
+          "timestamp": 1624009089,
+          "name": "err.png",
+          "title": "err.png",
+          "mimetype": "image/png",
+          "filetype": "png",
+          "pretty_type": "PNG",
+          "user": "U015CDRQDD0",
+          "editable": false,
+          "size": 103420,
+          "mode": "hosted",
+          "is_external": false,
+          "external_type": "",
+          "is_public": true,
+          "public_url_shared": false,
+          "display_as_bot": false,
+          "username": "",
+          "url_private": "https://files.slack.com/files-pri/T0GFBAM8C-F025DP9JB2R/err.png",
+          "url_private_download": "https://files.slack.com/files-pri/T0GFBAM8C-F025DP9JB2R/download/err.png",
+          "media_display_type": "unknown",
+          "thumb_64": "https://files.slack.com/files-tmb/T0GFBAM8C-F025DP9JB2R-d1bebcba30/err_64.png",
+          "thumb_80": "https://files.slack.com/files-tmb/T0GFBAM8C-F025DP9JB2R-d1bebcba30/err_80.png",
+          "thumb_360": "https://files.slack.com/files-tmb/T0GFBAM8C-F025DP9JB2R-d1bebcba30/err_360.png",
+          "thumb_360_w": 360,
+          "thumb_360_h": 166,
+          "thumb_480": "https://files.slack.com/files-tmb/T0GFBAM8C-F025DP9JB2R-d1bebcba30/err_480.png",
+          "thumb_480_w": 480,
+          "thumb_480_h": 221,
+          "thumb_160": "https://files.slack.com/files-tmb/T0GFBAM8C-F025DP9JB2R-d1bebcba30/err_160.png",
+          "thumb_720": "https://files.slack.com/files-tmb/T0GFBAM8C-F025DP9JB2R-d1bebcba30/err_720.png",
+          "thumb_720_w": 720,
+          "thumb_720_h": 332,
+          "thumb_800": "https://files.slack.com/files-tmb/T0GFBAM8C-F025DP9JB2R-d1bebcba30/err_800.png",
+          "thumb_800_w": 800,
+          "thumb_800_h": 369,
+          "thumb_960": "https://files.slack.com/files-tmb/T0GFBAM8C-F025DP9JB2R-d1bebcba30/err_960.png",
+          "thumb_960_w": 960,
+          "thumb_960_h": 443,
+          "thumb_1024": "https://files.slack.com/files-tmb/T0GFBAM8C-F025DP9JB2R-d1bebcba30/err_1024.png",
+          "thumb_1024_w": 1024,
+          "thumb_1024_h": 472,
+          "original_w": 1887,
+          "original_h": 870,
+          "thumb_tiny": "AwAWADCA/Sk/ClNJQAcUUUUAFFFFACmkpT1pKACiiigAooooA//Z",
+          "permalink": "https://archlinuxjp.slack.com/files/U015CDRQDD0/F025DP9JB2R/err.png",
+          "permalink_public": "https://slack-files.com/T0GFBAM8C-F025DP9JB2R-995b5ee153",
+          "is_starred": false,
+          "has_rich_preview": false
+        }
+      ],
+      "upload": false,
+      "user": "U015CDRQDD0",
+      "display_as_bot": false,
+      "ts": "1624010255.244300",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "kg3",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "fcitx+mozcを利用しているのですが、"
+                },
+                {
+                  "type": "text",
+                  "text": "英数キー",
+                  "style": {
+                    "code": true
+                  }
+                },
+                {
+                  "type": "text",
+                  "text": "を押すと入力メソッドが変更し(mozc→英語キー)、且つ大文字入力になるんですがこれって初期設定でしょうか?windowsのように"
+                },
+                {
+                  "type": "text",
+                  "text": "shift+英数キー",
+                  "style": {
+                    "code": true
+                  }
+                },
+                {
+                  "type": "text",
+                  "text": "では無いのでしょうか?\nまた"
+                },
+                {
+                  "type": "link",
+                  "url": "https://wiki.archlinux.jp/index.php/Xorg_%E3%81%A7%E3%81%AE%E3%82%AD%E3%83%BC%E3%83%9C%E3%83%BC%E3%83%89%E8%A8%AD%E5%AE%9A#Caps_Lock_.E3.81.A8.E5.B7.A6_Control_.E3.82.92.E4.BA.A4.E6.8F.9B.E3.81.99.E3.82.8B",
+                  "text": "英数キーの利用を左ctrlと入れ替える方法"
+                },
+                {
+                  "type": "text",
+                  "text": "を試したのですがうまく動作せず今に至ります。\nこのsetxkbmap乃至設定ファイルの書き換えは、英語キーボードのレイアウト時のみ変更されて日本語キーボード(mozc)時には反映されないのでしょうか?\nつまり英語キーボード時の"
+                },
+                {
+                  "type": "text",
+                  "text": "capslock",
+                  "style": {
+                    "code": true
+                  }
+                },
+                {
+                  "type": "text",
+                  "text": "のみ変更されて日本語キーボードでの"
+                },
+                {
+                  "type": "text",
+                  "text": "英数キー",
+                  "style": {
+                    "code": true
+                  }
+                },
+                {
+                  "type": "text",
+                  "text": "は変更されていない状態なのか？ということです。(日英キーボードは物理ではなくメソッドのことです)\n因みにfcitx-configtoolでの設定はこんな感じです。"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "633339A3-6A47-4B4A-B078-E75746B4531C",
+      "type": "message",
+      "text": ":goodpoem: ",
+      "user": "U53RAQBCP",
+      "ts": "1623906119.218900",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "OuZ",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "emoji",
+                  "name": "goodpoem"
+                },
+                {
+                  "type": "text",
+                  "text": " "
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "dafa8e46-3d8c-4512-a3df-019dd0eefb60",
+      "type": "message",
+      "text": "<https://www.phoronix.com/scan.php?page=news_item&amp;px=Lenovo-Think-LMI-Driver|https://www.phoronix.com/scan.php?page=news_item&amp;px=Lenovo-Think-LMI-Driver>\nThinkPadがまたLinuxと親和性高くなった",
+      "user": "U019C7VLZ4G",
+      "ts": "1623901722.218000",
+      "team": "T0GFBAM8C",
+      "attachments": [
+        {
+          "title": "Lenovo To Support Configuring ThinkPad BIOS From Within Linux - Phoronix",
+          "title_link": "https://www.phoronix.com/scan.php?page=news_item&px=Lenovo-Think-LMI-Driver",
+          "text": "Phoronix is the leading technology website for Linux hardware reviews, open-source news, Linux benchmarks, open-source benchmarks, and computer hardware tests.",
+          "fallback": "Lenovo To Support Configuring ThinkPad BIOS From Within Linux - Phoronix",
+          "from_url": "https://www.phoronix.com/scan.php?page=news_item&px=Lenovo-Think-LMI-Driver",
+          "service_icon": "https://www.phoronix.com/apple-touch-icon-57x57.png",
+          "service_name": "phoronix.com",
+          "id": 1,
+          "original_url": "https://www.phoronix.com/scan.php?page=news_item&amp;px=Lenovo-Think-LMI-Driver"
+        }
+      ],
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "ju13",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "link",
+                  "url": "https://www.phoronix.com/scan.php?page=news_item&px=Lenovo-Think-LMI-Driver",
+                  "text": "https://www.phoronix.com/scan.php?page=news_item&px=Lenovo-Think-LMI-Driver"
+                },
+                {
+                  "type": "text",
+                  "text": "\nThinkPadがまたLinuxと親和性高くなった"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "reactions": [
+        {
+          "name": "tada",
+          "users": [
+            "U7VDHKJHM",
+            "UJ7P75WB1",
+            "U53RAQBCP",
+            "U70QDFN82",
+            "U0H9QUFA5",
+            "UGA29R3FH",
+            "U01HE1ENNJZ",
+            "U5W6QDSHZ"
+          ],
+          "count": 8
+        }
+      ]
+    },
+    {
+      "client_msg_id": "9fb769bf-be5a-4125-b934-f50e09c50a23",
+      "type": "message",
+      "text": "AMD Ryzen ThinkPad X1 CarbonとかThinkPad X1 NanoのThinkPadフラッグシップで出てほしい",
+      "user": "U019C7VLZ4G",
+      "ts": "1623841420.216800",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "mkNq",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "AMD Ryzen ThinkPad X1 CarbonとかThinkPad X1 NanoのThinkPadフラッグシップで出てほしい"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "reactions": [
+        {
+          "name": "wakaru",
+          "users": [
+            "U7VDHKJHM",
+            "U3FJYR7MG",
+            "UJ7P75WB1"
+          ],
+          "count": 3
+        }
+      ]
+    },
+    {
+      "client_msg_id": "9328f4c5-f534-4780-8705-ba77c9bfcccd",
+      "type": "message",
+      "text": "お得でうらやましさ",
+      "user": "U0GFBAM8U",
+      "ts": "1623811192.213100",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "N9Nb",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "お得でうらやましさ"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "fab576ae-2a10-4631-baeb-ea0fd50cc933",
+      "type": "message",
+      "text": "Thinkpad T480sを買ってすぐにArchを入れたけど、SSDの初期不良やらなにやらトラブル続きで結局手放してしまった。今は1万円で買ったT440pが超安定しているので愛用中。速度もほとんど変わんないんだよなあ。なんにせよ新しいものはいろいろとトラブルあるよねえ。(それが楽しい場合もあるけど)",
+      "user": "U0H9QUFA5",
+      "ts": "1623807741.212800",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "HT+W",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "Thinkpad T480sを買ってすぐにArchを入れたけど、SSDの初期不良やらなにやらトラブル続きで結局手放してしまった。今は1万円で買ったT440pが超安定しているので愛用中。速度もほとんど変わんないんだよなあ。なんにせよ新しいものはいろいろとトラブルあるよねえ。(それが楽しい場合もあるけど)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "message",
+      "subtype": "channel_join",
+      "ts": "1623741101.207900",
+      "user": "U024V6GE5RC",
+      "text": "<@U024V6GE5RC>さんがチャンネルに参加しました"
+    },
+    {
+      "type": "message",
+      "subtype": "channel_join",
+      "ts": "1623732096.207700",
+      "user": "U024LS20X2T",
+      "text": "<@U024LS20X2T>さんがチャンネルに参加しました"
+    },
+    {
+      "client_msg_id": "57de54a6-51ba-4c10-a68c-36d5e7a66e5f",
+      "type": "message",
+      "text": "主にThink(Pad|Centre)がRyzenでコスパ良くなってるので、Linuxユーザーが新しいPC買うときの選択肢の上位に入ってそうな気がする。",
+      "user": "U017BNGTHT3",
+      "ts": "1623398960.204700",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "480O",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "主にThink(Pad|Centre)がRyzenでコスパ良くなってるので、Linuxユーザーが新しいPC買うときの選択肢の上位に入ってそうな気がする。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "reactions": [
+        {
+          "name": "sorena",
+          "users": [
+            "U53RAQBCP",
+            "U01HE1ENNJZ",
+            "UJ7P75WB1"
+          ],
+          "count": 3
+        }
+      ]
+    },
+    {
+      "client_msg_id": "e973b9cc-6f07-4023-bac4-acfa8540cada",
+      "type": "message",
+      "text": "私のM75q Tiny (Gen1)もRyzen5 3500G, zenカーネルだけど安定してます。",
+      "user": "UD124KPDJ",
+      "ts": "1623398171.202800",
+      "team": "T0GFBAM8C",
+      "edited": {
+        "user": "UD124KPDJ",
+        "ts": "1623399480.000000"
+      },
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "zX1X",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "私のM75q Tiny (Gen1)もRyzen5 3500G, zenカーネルだけど安定してます。"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "3834ef5f-cbaa-4157-82d5-9057876f3114",
+      "type": "message",
+      "text": "E495普通に使えてたような……\nm75q-1は動かしっぱなしですが安定してます",
+      "user": "UUWBU08TU",
+      "ts": "1623389347.201300",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "2=iI",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "E495普通に使えてたような……\nm75q-1は動かしっぱなしですが安定してます"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "reactions": [
+        {
+          "name": "eyes",
+          "users": [
+            "UPLFHSQ2V"
+          ],
+          "count": 1
+        }
+      ]
+    },
+    {
+      "client_msg_id": "0516e595-195f-4842-b0e8-34baa40c3f09",
+      "type": "message",
+      "text": "(Linuxユーザーはひねくれ者が多い印象。さらにArchとなると・・・あとはわかるよな)",
+      "user": "U70QDFN82",
+      "ts": "1623388957.199500",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "frp",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "(Linuxユーザーはひねくれ者が多い印象。さらにArchとなると・・・あとはわかるよな)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "b6d93958-073b-49e7-a744-989dfda60da0",
+      "type": "message",
+      "text": "Ryzenでも拍子抜けするぐらいあっさり普通に動いてくれるのですばらしいですね",
+      "user": "U0HJ7EB9T",
+      "ts": "1623388442.198500",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "Okks0",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "Ryzenでも拍子抜けするぐらいあっさり普通に動いてくれるのですばらしいですね"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "8d88d364-6276-4a16-8eef-32ee6fe93bfe",
+      "type": "message",
+      "text": "Ryzen意外とLinuxユーザーにも人気でびっくり",
+      "user": "U53RAQBCP",
+      "ts": "1623388288.197800",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "c1GEv",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "Ryzen意外とLinuxユーザーにも人気でびっくり"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "a88a7ac9-9016-4e57-a78c-3653be2aaa22",
+      "type": "message",
+      "text": "&gt; リーナスのお墨付き強力\nこのあたりの話がちょうど去年の5月ぐらいなので、ここ1年あたりで結構Ryzen系のサポートは強くなってるはず…",
+      "user": "U017BNGTHT3",
+      "ts": "1623379443.196700",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "PHB",
+          "elements": [
+            {
+              "type": "rich_text_quote",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "リーナスのお墨付き強力"
+                }
+              ]
+            },
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "このあたりの話がちょうど去年の5月ぐらいなので、ここ1年あたりで結構Ryzen系のサポートは強くなってるはず…"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "877df73f-9294-4d70-9ff7-fe6b206057ff",
+      "type": "message",
+      "text": "私の場合その後Ubuntuを入れても突然死が起こったんですよね。。今のカーネルだと上手く行くのかな。その現象は1年弱前なので。",
+      "user": "UPLFHSQ2V",
+      "ts": "1623375110.194700",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "Dm1",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "私の場合その後Ubuntuを入れても突然死が起こったんですよね。。今のカーネルだと上手く行くのかな。その現象は1年弱前なので。"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "5b2fffa6-2b09-4f2c-9816-ebded6aca8cd",
+      "type": "message",
+      "text": "うちも自作PCのRyzen(3600)は普通にArch動いた気がする(ゲーム用なのでWindowsメインですが…)\nRyzenの場合は世代によって動く動かないありそう。",
+      "user": "U017BNGTHT3",
+      "ts": "1623374971.194500",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "soH",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "うちも自作PCのRyzen(3600)は普通にArch動いた気がする(ゲーム用なのでWindowsメインですが…)\nRyzenの場合は世代によって動く動かないありそう。"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "dc72f857-25bb-436f-9b78-5068e0e77a74",
+      "type": "message",
+      "text": "私は4月に自作PCを買って、AMD CPU+GPU にしました。 5.11.x まだ amdgpu で問題があったが 5.12 になってからとても安定で安心した",
+      "user": "U7F8FQF6W",
+      "ts": "1623373612.190000",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "uwu",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "私は4月に自作PCを買って、AMD CPU+GPU にしました。 5.11.x まだ amdgpu で問題があったが 5.12 になってからとても安定で安心した"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "904b55bb-8b35-41eb-8d9d-2e7ec65e80a4",
+      "type": "message",
+      "text": "私はRyzenのThinkpad e495を買いましたが、起動して30分~1時間経つと突然シャットダウンするという問題が解決できなくて、最終的に金で解決しました。(Intel CPUのThinkpad e490を買い直しました。)\nノート用の低電力Ryzenだからかなーとは思いますが、私が次PCを買うならまだIntelを選ぶと思います。",
+      "user": "UPLFHSQ2V",
+      "ts": "1623372519.188100",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "692",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "私はRyzenのThinkpad e495を買いましたが、起動して30分~1時間経つと突然シャットダウンするという問題が解決できなくて、最終的に金で解決しました。(Intel CPUのThinkpad e490を買い直しました。)\nノート用の低電力Ryzenだからかなーとは思いますが、私が次PCを買うならまだIntelを選ぶと思います。"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "cd2ff882-9c8a-4775-b3a7-62d0ec468186",
+      "type": "message",
+      "text": "リーナスのお墨付き強力",
+      "user": "UGA29R3FH",
+      "ts": "1623336812.187300",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "uoZVS",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "リーナスのお墨付き強力"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "16fe9871-b84d-4fee-86b2-13e6298fcc10",
+      "type": "message",
+      "text": "今すぐならIntelのほうが安定してそうですよね。ここから３年くらいだとRyzenの方がよさそうなイメージです。なんせリーナスが使ってるんで",
+      "user": "U70QDFN82",
+      "ts": "1623336728.186700",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "vYF",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "今すぐならIntelのほうが安定してそうですよね。ここから３年くらいだとRyzenの方がよさそうなイメージです。なんせリーナスが使ってるんで"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "reactions": [
+        {
+          "name": "sorena",
+          "users": [
+            "UGA29R3FH",
+            "U01HE1ENNJZ"
+          ],
+          "count": 2
+        }
+      ]
+    }
+  ],
+  "has_more": true,
+  "is_limited": false,
+  "pin_count": 0,
+  "channel_actions_ts": null,
+  "channel_actions_count": 0,
+  "response_metadata": {
+    "next_cursor": "bmV4dF90czoxNjIzMzM2NjQwMTg1NjAw"
+  }
+}
