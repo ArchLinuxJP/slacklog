@@ -1,0 +1,1110 @@
+{
+  "ok": true,
+  "latest": "1654054032.000000",
+  "oldest": "1651375632.000000",
+  "messages": [
+    {
+      "client_msg_id": "075f3d21-baa2-4629-96cf-d15617abcee5",
+      "type": "message",
+      "text": "へー\n<https://www.publickey1.jp/blog/22/dockersysboxnestybox.html>",
+      "user": "U70QDFN82",
+      "ts": "1652317313.713339",
+      "team": "T0GFBAM8C",
+      "attachments": [
+        {
+          "from_url": "https://www.publickey1.jp/blog/22/dockersysboxnestybox.html",
+          "image_url": "https://www.publickey1.jp/2022/docker_nestybox01.gif",
+          "image_width": 499,
+          "image_height": 250,
+          "image_bytes": 22816,
+          "service_icon": "https://www.publickey1.jp/favicon.ico",
+          "id": 1,
+          "original_url": "https://www.publickey1.jp/blog/22/dockersysboxnestybox.html",
+          "fallback": "Docker、分離レベルの高いコンテナランタイム「Sysbox」の開発元Nestyboxの買収を発表",
+          "text": "Docker社は、5月10日（日本時間5月11日未明）に開催したイベント「DockerCon 2022」で、Nestybox社の買収を発表しました。 Nestyboxは、現在一般的に使われているコンテナランタイムであるruncよりも高い分離...",
+          "title": "Docker、分離レベルの高いコンテナランタイム「Sysbox」の開発元Nestyboxの買収を発表",
+          "title_link": "https://www.publickey1.jp/blog/22/dockersysboxnestybox.html",
+          "service_name": "publickey1.jp"
+        }
+      ],
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "8JO",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "へー\n"
+                },
+                {
+                  "type": "link",
+                  "url": "https://www.publickey1.jp/blog/22/dockersysboxnestybox.html"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "reactions": [
+        {
+          "name": "hee",
+          "users": [
+            "U8T8KB5M4"
+          ],
+          "count": 1
+        }
+      ]
+    },
+    {
+      "client_msg_id": "282eedf8-771c-43c5-9c4d-66d97d807020",
+      "type": "message",
+      "text": ":da-ja-re:",
+      "user": "U0PM6EYR1",
+      "ts": "1652252619.522929",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "hMq",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": ":da-ja-re:"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "0b4e1f3c-0845-4f39-9949-fb42185cc193",
+      "type": "message",
+      "text": "術中にハマってしまった・・・\n<https://twitter.com/mattn_jp/status/1524261912472866816?s=20&amp;t=3dL0KA9RSw5crmEr69M-JA>",
+      "user": "U70QDFN82",
+      "ts": "1652252463.301509",
+      "team": "T0GFBAM8C",
+      "attachments": [
+        {
+          "from_url": "https://twitter.com/mattn_jp/status/1524261912472866816?s=20&amp;t=3dL0KA9RSw5crmEr69M-JA",
+          "ts": 1652247334,
+          "id": 1,
+          "original_url": "https://twitter.com/mattn_jp/status/1524261912472866816?s=20&amp;t=3dL0KA9RSw5crmEr69M-JA",
+          "fallback": "<https://twitter.com/mattn_jp|@mattn_jp>: Docker Desktop を Linux で使う意味が分からない、という意見が多数みられますが、コマンドラインで全て解決しようとしている我々の方が認識がズレているのであって、世の中の多くの人達はオシャンティーに GUI をグイグイと操作したいと思っているのですよ。",
+          "text": "Docker Desktop を Linux で使う意味が分からない、という意見が多数みられますが、コマンドラインで全て解決しようとしている我々の方が認識がズレているのであって、世の中の多くの人達はオシャンティーに GUI をグイグイと操作したいと思っているのですよ。",
+          "author_name": "mattn",
+          "author_link": "https://twitter.com/mattn_jp/status/1524261912472866816",
+          "author_icon": "https://pbs.twimg.com/profile_images/1361128357698572292/61_qdnll_normal.jpg",
+          "author_subname": "@mattn_jp",
+          "service_name": "twitter",
+          "service_url": "https://twitter.com/",
+          "footer": "Twitter",
+          "footer_icon": "https://a.slack-edge.com/80588/img/services/twitter_pixel_snapped_32.png"
+        }
+      ],
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "iJ/",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "術中にハマってしまった・・・\n"
+                },
+                {
+                  "type": "link",
+                  "url": "https://twitter.com/mattn_jp/status/1524261912472866816?s=20&t=3dL0KA9RSw5crmEr69M-JA"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "1184646e-d014-4110-848a-53653eca3315",
+      "type": "message",
+      "text": "nerdctlってBuildKit使えるんですね。\n<https://github.com/containerd/nerdctl/blob/master/docs/build.md>",
+      "user": "U8T8KB5M4",
+      "ts": "1652242707.306929",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "rsK",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "nerdctlってBuildKit使えるんですね。\n"
+                },
+                {
+                  "type": "link",
+                  "url": "https://github.com/containerd/nerdctl/blob/master/docs/build.md"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "reactions": [
+        {
+          "name": "hee",
+          "users": [
+            "U70QDFN82",
+            "UGA29R3FH"
+          ],
+          "count": 2
+        }
+      ]
+    },
+    {
+      "client_msg_id": "2d5a682e-7e41-4f04-834b-c5920d4ab301",
+      "type": "message",
+      "text": "つらい",
+      "user": "UGA29R3FH",
+      "ts": "1652242658.360999",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "waTFT",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "つらい"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "517a8a4b-20ca-420f-aef3-a03e51af7410",
+      "type": "message",
+      "text": "なんかよくわからないけどvolumeうまくいかない（ホスト側とリンクされない）ときがあるんですよね・・・Issueにもなってた",
+      "user": "U70QDFN82",
+      "ts": "1652242516.492899",
+      "team": "T0GFBAM8C",
+      "edited": {
+        "user": "U70QDFN82",
+        "ts": "1652242558.000000"
+      },
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "7hC=",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "なんかよくわからないけどvolumeうまくいかない（ホスト側とリンクされない）ときがあるんですよね・・・Issueにもなってた"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "a3c393ce-62aa-48ed-89e6-0896cdbdadde",
+      "type": "message",
+      "text": "volume結構使ってる",
+      "user": "UGA29R3FH",
+      "ts": "1652242436.021169",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "1YBP",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "volume結構使ってる"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "7b31959b-900c-4068-968b-a7cff5803a76",
+      "type": "message",
+      "text": "後発に潰されるのは見ていて悲しいけど、なんか迷走してる気しかしないというね",
+      "user": "UGA29R3FH",
+      "ts": "1652242411.230009",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "4O+2",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "後発に潰されるのは見ていて悲しいけど、なんか迷走してる気しかしないというね"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "reactions": [
+        {
+          "name": "wakaru",
+          "users": [
+            "U70QDFN82"
+          ],
+          "count": 1
+        }
+      ]
+    },
+    {
+      "client_msg_id": "e55b4296-e558-4ef0-b510-44ef3dab67a5",
+      "type": "message",
+      "text": "nerdctlまだ実装されてない機能(docker cpとか)とか動きがなんか変なところ（volumeの処理）あるんで注意したほうがいいですね・・・",
+      "user": "U70QDFN82",
+      "ts": "1652242400.827509",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "Alz=C",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "nerdctlまだ実装されてない機能(docker cpとか)とか動きがなんか変なところ（volumeの処理）あるんで注意したほうがいいですね・・・"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "reactions": [
+        {
+          "name": "naruhodo",
+          "users": [
+            "UGA29R3FH"
+          ],
+          "count": 1
+        }
+      ]
+    },
+    {
+      "client_msg_id": "6f484d43-9111-460a-a096-271f7027035d",
+      "type": "message",
+      "text": "そもそもnerdctl辺りに乗り換えた方がいいんちゃう？と思ってるし",
+      "user": "UGA29R3FH",
+      "ts": "1652242341.857729",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "jWiLT",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "そもそもnerdctl辺りに乗り換えた方がいいんちゃう？と思ってるし"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "3d3ab244-3f82-44c7-b821-2e6ac84babed",
+      "type": "message",
+      "text": "完全にCLIに慣れてしまってるので今更なんよなぁ…",
+      "user": "UGA29R3FH",
+      "ts": "1652242323.057559",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "qSY",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "完全にCLIに慣れてしまってるので今更なんよなぁ…"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "reactions": [
+        {
+          "name": "sorena",
+          "users": [
+            "U70QDFN82",
+            "U6DL9D3AB",
+            "U01HE1ENNJZ"
+          ],
+          "count": 3
+        }
+      ]
+    },
+    {
+      "client_msg_id": "8dce366c-935d-4955-aaa1-6cc910f0ddfa",
+      "type": "message",
+      "text": "dockerがちでそろそろ潰れそう・・・",
+      "user": "U70QDFN82",
+      "ts": "1652240820.758429",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "HIezP",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "dockerがちでそろそろ潰れそう・・・"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "reactions": [
+        {
+          "name": "sorena",
+          "users": [
+            "UGA29R3FH",
+            "U01HE1ENNJZ"
+          ],
+          "count": 2
+        }
+      ]
+    },
+    {
+      "client_msg_id": "2acefe51-d916-44ee-a4bc-4b5d848c81f8",
+      "type": "message",
+      "text": "Mac の Docker Desktop は Electron なので多分 Linux 版も Electron な気がします",
+      "user": "U0J2VATJA",
+      "ts": "1652240499.355619",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "eheOh",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "Mac の Docker Desktop は Electron なので多分 Linux 版も Electron な気がします"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "reactions": [
+        {
+          "name": "hee",
+          "users": [
+            "U70QDFN82"
+          ],
+          "count": 1
+        },
+        {
+          "name": "benri",
+          "users": [
+            "U0GFBAM8U"
+          ],
+          "count": 1
+        }
+      ]
+    },
+    {
+      "client_msg_id": "0d89dd71-2cf5-4efc-b766-eb6734bab3b6",
+      "type": "message",
+      "text": "CLI に慣れてれば、不要ですね…",
+      "user": "U0PM6EYR1",
+      "ts": "1652240301.861419",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "so6q",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "CLI に慣れてれば、不要ですね…"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "reactions": [
+        {
+          "name": "wakaru",
+          "users": [
+            "U70QDFN82",
+            "UGA29R3FH",
+            "U02BLTTQEL9",
+            "U01HE1ENNJZ"
+          ],
+          "count": 4
+        }
+      ]
+    },
+    {
+      "client_msg_id": "1ee66bfb-e696-486d-b18f-8493a7079547",
+      "type": "message",
+      "text": "Docker Desktopのよさがよくわからない・・・",
+      "user": "U70QDFN82",
+      "ts": "1652240062.126489",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "1mOM",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "Docker Desktopのよさがよくわからない・・・"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "085df9d9-14de-4bc7-abe0-86f8aeceb981",
+      "type": "message",
+      "text": "ただ、archlinuxて言っても難しいですよね...gtkとかになるんだろうか",
+      "user": "U0GFBAM8U",
+      "ts": "1652230508.708039",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "qlsaC",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "ただ、archlinuxて言っても難しいですよね...gtkとかになるんだろうか"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "reactions": [
+        {
+          "name": "wakaru",
+          "users": [
+            "U70QDFN82",
+            "U01HE1ENNJZ"
+          ],
+          "count": 2
+        }
+      ]
+    },
+    {
+      "client_msg_id": "838ec935-450e-48c3-bcc8-d3ad97be637d",
+      "type": "message",
+      "text": "archlinuxにも対応されるっぽくて、便利",
+      "user": "U0GFBAM8U",
+      "ts": "1652230479.386599",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "RPu",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "archlinuxにも対応されるっぽくて、便利"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "8309f7ce-d0a5-4f97-a83e-b74749d43a5b",
+      "type": "message",
+      "text": "<https://www.publickey1.jp/blog/22/docker_desktop_for_linuxwindowsmacraspberry_pi_os.html>",
+      "user": "U0GFBAM8U",
+      "ts": "1652230450.596979",
+      "team": "T0GFBAM8C",
+      "attachments": [
+        {
+          "from_url": "https://www.publickey1.jp/blog/22/docker_desktop_for_linuxwindowsmacraspberry_pi_os.html",
+          "image_url": "https://www.publickey1.jp/2022/dockercon202208.gif",
+          "image_width": 445,
+          "image_height": 250,
+          "image_bytes": 53854,
+          "service_icon": "https://www.publickey1.jp/favicon.ico",
+          "id": 1,
+          "original_url": "https://www.publickey1.jp/blog/22/docker_desktop_for_linuxwindowsmacraspberry_pi_os.html",
+          "fallback": "［速報］「Docker Desktop for Linux」が登場、WindowsやMac版と同じ機能や操作を提供、Raspberry Pi OSにも対応",
+          "text": "Docker社は開催中のイベント「DockerCon 2022」で、Linux版のDocker Desktop「Docker Desktop for Linux」を発表しました。 Docker Desktop for Linuxを発表するD...",
+          "title": "［速報］「Docker Desktop for Linux」が登場、WindowsやMac版と同じ機能や操作を提供、Raspberry Pi OSにも対応",
+          "title_link": "https://www.publickey1.jp/blog/22/docker_desktop_for_linuxwindowsmacraspberry_pi_os.html",
+          "service_name": "publickey1.jp"
+        }
+      ],
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "7nBds",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "link",
+                  "url": "https://www.publickey1.jp/blog/22/docker_desktop_for_linuxwindowsmacraspberry_pi_os.html"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "message",
+      "subtype": "bot_message",
+      "text": "<https://www.archlinux.jp/news/qemu-700-changes-split-package-setup/|QEMU &gt;= 7.0.0 は分割パッケージのセットアップを変更します>\nqemu 7.0.0 へのアップデートで、パッケージはメタパッケージを利用した\nより細かい分割パッケージに変更されました。\nqemu パッケージは qemu-base と qemu-desktop、\n  qemu-full メタパッケージにより仮想的に提供されます。\nqemu 7.0.0 までの機能は\n  qemu-desktop に置き換えられます\nqemu-headless の機能は\n  qemu-base に置き換えられます\nqemu-arch-extra と qemu-headless-arch-extra\n  の機能は qemu-emulators-full に置き換えられます\nqemu-full メタパッケージは全ての QEMU 関連の\n  パッケージ (qemu-guest-agent 以外) を提供します",
+      "ts": "1652114235.954699",
+      "username": "Arch Linux: 最近のニュース",
+      "icons": {
+        "image_36": "https://a.slack-edge.com/80588/img/services/rss_36.png",
+        "image_48": "https://a.slack-edge.com/80588/img/services/rss_48.png",
+        "image_72": "https://a.slack-edge.com/80588/img/services/rss_72.png"
+      },
+      "bot_id": "B3WNLSQ4W",
+      "attachments": [
+        {
+          "from_url": "https://www.archlinux.jp/news/qemu-700-changes-split-package-setup/",
+          "thumb_url": "https://www.archlinux.jp/images/amplogo.png",
+          "thumb_width": 1024,
+          "thumb_height": 1024,
+          "service_icon": "https://www.archlinux.jp/images/apple-touch-icon-57x57.png",
+          "id": 1,
+          "original_url": "https://www.archlinux.jp/news/qemu-700-changes-split-package-setup/",
+          "fallback": "ニュース: QEMU &gt;= 7.0.0 は分割パッケージのセットアップを変更します",
+          "text": "qemu 7.0.0 へのアップデートで、パッケージはメタパッケージを利用したより細かい分割パッケージに変更されました。qemu パッケージは qemu-base と qemu-desktop、 qemu-full メタパッケージにより仮想的に提供されます。",
+          "title": "ニュース: QEMU &gt;= 7.0.0 は分割パッケージのセットアップを変更します",
+          "title_link": "https://www.archlinux.jp/news/qemu-700-changes-split-package-setup/",
+          "service_name": "archlinux.jp"
+        }
+      ],
+      "edited": {
+        "user": "B3WNLSQ4W",
+        "ts": "1652114236.000000"
+      }
+    },
+    {
+      "type": "message",
+      "subtype": "bot_message",
+      "text": "",
+      "ts": "1652113590.856019",
+      "bot_id": "B021YB9R1EG",
+      "attachments": [
+        {
+          "from_url": "https://twitter.com/archlinux_jp/status/1523700930788483072",
+          "ts": 1652113585,
+          "id": 1,
+          "fallback": "<https://twitter.com/archlinux_jp|@archlinux_jp>: QEMU &gt;= 7.0.0 は分割パッケージのセットアップを変更します <https://www.archlinux.jp/news/qemu-700-changes-split-package-setup/>",
+          "text": "QEMU &gt;= 7.0.0 は分割パッケージのセットアップを変更します <https://www.archlinux.jp/news/qemu-700-changes-split-package-setup/>",
+          "pretext": "<https://twitter.com/archlinux_jp/status/1523700930788483072>",
+          "author_name": "Arch Linux JP",
+          "author_link": "https://twitter.com/archlinux_jp/status/1523700930788483072",
+          "author_icon": "https://pbs.twimg.com/profile_images/678900104678342656/2w2dw7Fp_normal.png",
+          "author_subname": "@archlinux_jp",
+          "service_name": "twitter",
+          "service_url": "https://twitter.com/",
+          "footer": "Twitter",
+          "footer_icon": "https://a.slack-edge.com/80588/img/services/twitter_pixel_snapped_32.png"
+        }
+      ]
+    },
+    {
+      "client_msg_id": "84602c72-8eb6-4445-95ad-46dff94ad7c5",
+      "type": "message",
+      "text": "それはそうと、コードネームでパッケージ名付けられると、どのバージョンか全然分からない。",
+      "user": "U02BLTTQEL9",
+      "ts": "1652097615.652189",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "QKEg9",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "それはそうと、コードネームでパッケージ名付けられると、どのバージョンか全然分からない。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "reactions": [
+        {
+          "name": "sorena",
+          "users": [
+            "U70QDFN82"
+          ],
+          "count": 1
+        }
+      ]
+    },
+    {
+      "client_msg_id": "738c3eb6-0ea9-4d11-9704-e98e35f15d49",
+      "type": "message",
+      "text": "へぇぇ。\n<https://github.com/bash-lsp/bash-language-server/issues/353>",
+      "user": "U02BLTTQEL9",
+      "ts": "1652097440.447819",
+      "team": "T0GFBAM8C",
+      "attachments": [
+        {
+          "from_url": "https://github.com/bash-lsp/bash-language-server/issues/353",
+          "image_url": "https://opengraph.githubassets.com/ade304067284d15b958be61a732f323f4613b960af816342392a4cfddc8eeb5e/bash-lsp/bash-language-server/issues/353",
+          "image_width": 500,
+          "image_height": 250,
+          "image_bytes": 95520,
+          "service_icon": "https://a.slack-edge.com/80588/img/unfurl_icons/github.png",
+          "id": 1,
+          "original_url": "https://github.com/bash-lsp/bash-language-server/issues/353",
+          "fallback": "GitHub: The \"languageserver.bash\" server crashed 4 times in the last 3 minutes. The server will not be restarted · Issue #353 · bash-lsp/bash-language-server",
+          "text": "Opening a .sh file in neovim and waiting around 4 seconds leads to this issue. The language server crashes and doesn&amp;#39;t work whatsoever. I have tried reinstalling node, bash-language-server and ...",
+          "title": "The \"languageserver.bash\" server crashed 4 times in the last 3 minutes. The server will not be restarted · Issue #353 · bash-lsp/bash-language-server",
+          "title_link": "https://github.com/bash-lsp/bash-language-server/issues/353",
+          "service_name": "GitHub"
+        }
+      ],
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "Y3H",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "へぇぇ。\n"
+                },
+                {
+                  "type": "link",
+                  "url": "https://github.com/bash-lsp/bash-language-server/issues/353"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "message",
+      "subtype": "bot_message",
+      "text": "<https://archlinux.org/news/qemu-700-changes-split-package-setup/|QEMU &gt;= 7.0.0 changes split package setup>\nWith the update to qemu 7.0.0 the package has been turned into a more\nfine grained split package utilizing meta packages.\nThe qemu package is now virtually provided by the meta packages\n  qemu-base, qemu-desktop and qemu-full.\nThe functionality of qemu prior to 7.0.0 is replaced by\n  qemu-desktop\nThe functionality of qemu-headless is replaced by\n  qemu-base\nThe functionality of qemu-arch-extra and qemu-headless-arch-extra\n  is replaced by qemu-emulators-full\nThe meta package qemu-full...",
+      "ts": "1652093354.642479",
+      "username": "Arch Linux: Recent news updates",
+      "icons": {
+        "image_36": "https://a.slack-edge.com/80588/img/services/rss_36.png",
+        "image_48": "https://a.slack-edge.com/80588/img/services/rss_48.png",
+        "image_72": "https://a.slack-edge.com/80588/img/services/rss_72.png"
+      },
+      "bot_id": "B3WNLSQ4W",
+      "reactions": [
+        {
+          "name": "white_check_mark",
+          "users": [
+            "UUWBU08TU",
+            "U01J1GGMHDJ"
+          ],
+          "count": 2
+        }
+      ]
+    },
+    {
+      "type": "message",
+      "text": "bash-language-server入れてるとこれが発生しますね。。。nodeを18以上にしたい場合は削除するしかなさそう・・・",
+      "files": [
+        {
+          "id": "F03ECFT49E2",
+          "created": 1652057075,
+          "timestamp": 1652057075,
+          "name": "2022-05-09_09-44.png",
+          "title": "2022-05-09_09-44.png",
+          "mimetype": "image/png",
+          "filetype": "png",
+          "pretty_type": "PNG",
+          "user": "U70QDFN82",
+          "editable": false,
+          "size": 37528,
+          "mode": "hosted",
+          "is_external": false,
+          "external_type": "",
+          "is_public": true,
+          "public_url_shared": false,
+          "display_as_bot": false,
+          "username": "",
+          "url_private": "https://files.slack.com/files-pri/T0GFBAM8C-F03ECFT49E2/2022-05-09_09-44.png",
+          "url_private_download": "https://files.slack.com/files-pri/T0GFBAM8C-F03ECFT49E2/download/2022-05-09_09-44.png",
+          "media_display_type": "unknown",
+          "thumb_64": "https://files.slack.com/files-tmb/T0GFBAM8C-F03ECFT49E2-9ec7061ff3/2022-05-09_09-44_64.png",
+          "thumb_80": "https://files.slack.com/files-tmb/T0GFBAM8C-F03ECFT49E2-9ec7061ff3/2022-05-09_09-44_80.png",
+          "thumb_360": "https://files.slack.com/files-tmb/T0GFBAM8C-F03ECFT49E2-9ec7061ff3/2022-05-09_09-44_360.png",
+          "thumb_360_w": 360,
+          "thumb_360_h": 167,
+          "thumb_480": "https://files.slack.com/files-tmb/T0GFBAM8C-F03ECFT49E2-9ec7061ff3/2022-05-09_09-44_480.png",
+          "thumb_480_w": 480,
+          "thumb_480_h": 223,
+          "thumb_160": "https://files.slack.com/files-tmb/T0GFBAM8C-F03ECFT49E2-9ec7061ff3/2022-05-09_09-44_160.png",
+          "original_w": 662,
+          "original_h": 307,
+          "thumb_tiny": "AwAWADCrigjHal7dKD9KYhtFHFHFABRRRQAu6jdTaKAHbh6UmaSloAKKKKAP/9k=",
+          "permalink": "https://archlinuxjp.slack.com/files/U70QDFN82/F03ECFT49E2/2022-05-09_09-44.png",
+          "permalink_public": "https://slack-files.com/T0GFBAM8C-F03ECFT49E2-5d759390de",
+          "is_starred": false,
+          "has_rich_preview": false
+        }
+      ],
+      "upload": false,
+      "user": "U70QDFN82",
+      "display_as_bot": false,
+      "ts": "1652057109.510499",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "RRn",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "bash-language-server入れてるとこれが発生しますね。。。nodeを18以上にしたい場合は削除するしかなさそう・・・"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "client_msg_id": "d3d1a662-4709-44ba-9e1b-944b9cd1e402"
+    },
+    {
+      "type": "message",
+      "subtype": "channel_join",
+      "ts": "1651942774.403539",
+      "user": "U03EW2ATK1P",
+      "text": "<@U03EW2ATK1P>さんがチャンネルに参加しました",
+      "reactions": [
+        {
+          "name": "archjp-joy",
+          "users": [
+            "U02ASPM0A6T",
+            "U0GFBAM8U",
+            "U01HE1ENNJZ"
+          ],
+          "count": 3
+        }
+      ]
+    },
+    {
+      "client_msg_id": "59027B8E-58DB-420C-8614-1A6218953F8E",
+      "type": "message",
+      "text": "こんにちはー",
+      "user": "U0GFBAM8U",
+      "ts": "1651737228.026819",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "UjRY",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "こん"
+                },
+                {
+                  "type": "text",
+                  "text": "にちはー"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "2d80e981-574a-4b66-9253-add0fdf57526",
+      "type": "message",
+      "text": "はじめまして。よろしくおねがいします。",
+      "user": "U03DZGJRCBY",
+      "ts": "1651736226.646159",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "deI",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "はじめまして。よろしくおねがいします。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "reactions": [
+        {
+          "name": "arch",
+          "users": [
+            "UCA1NQM5K",
+            "U70QDFN82",
+            "U0GFBAM8U",
+            "U01370MAHLN",
+            "U02HC93TJEP",
+            "U0H9QUFA5",
+            "UGA29R3FH",
+            "UPYQ3CUJ1",
+            "U02BLTTQEL9",
+            "U03921SFM3L",
+            "UQDJXPHJ9",
+            "U02ASPM0A6T",
+            "U02R6AP6H0C",
+            "UBEFL3YLE",
+            "U01HE1ENNJZ"
+          ],
+          "count": 15
+        }
+      ]
+    },
+    {
+      "type": "message",
+      "subtype": "channel_join",
+      "ts": "1651735942.630019",
+      "user": "U03DZGJRCBY",
+      "text": "<@U03DZGJRCBY>さんがチャンネルに参加しました"
+    },
+    {
+      "type": "message",
+      "subtype": "channel_join",
+      "ts": "1651477922.598799",
+      "user": "U03DM2S3H5K",
+      "text": "<@U03DM2S3H5K>さんがチャンネルに参加しました"
+    },
+    {
+      "type": "message",
+      "subtype": "channel_join",
+      "ts": "1651425740.353059",
+      "user": "U03E1B5UT33",
+      "text": "<@U03E1B5UT33>さんがチャンネルに参加しました",
+      "reactions": [
+        {
+          "name": "archjp-joy",
+          "users": [
+            "U02HC93TJEP",
+            "U0GFBAM8U",
+            "U01HE1ENNJZ"
+          ],
+          "count": 3
+        }
+      ]
+    },
+    {
+      "client_msg_id": "f422997c-faf5-4255-abbe-d6085b279cf8",
+      "type": "message",
+      "text": "ですね。`nvim-qt`ではインライン入力できたので用途によっては代用になるかもしれません",
+      "user": "U02ASPM0A6T",
+      "ts": "1651390012.935999",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "tfTB",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "ですね。"
+                },
+                {
+                  "type": "text",
+                  "text": "nvim-qt",
+                  "style": {
+                    "code": true
+                  }
+                },
+                {
+                  "type": "text",
+                  "text": "ではインライン入力できたので用途によっては代用になるかもしれません"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "56cb4936-0bcf-47ca-b41e-d3b870458e41",
+      "type": "message",
+      "text": "fcitx5側でできないようになってるのですね",
+      "user": "U019C7VLZ4G",
+      "ts": "1651387342.320049",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "RBt+u",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "fcitx5側でできないようになってるのですね"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "message",
+      "subtype": "thread_broadcast",
+      "text": "<@U019C7VLZ4G> どうでしょう？これで解決しました？\n<https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1650325453370199>",
+      "user": "U02ASPM0A6T",
+      "ts": "1651384227.841509",
+      "thread_ts": "1650294340.859539",
+      "root": {
+        "client_msg_id": "3e160d45-14c6-4a36-b882-acac75580d91",
+        "type": "message",
+        "text": "すいません、\n写真では変換キーを押していないだけで変換候補のダイアログはきちんと出ます。\n\n日本語のインライン入力はgvimはバグのせいでできないということでしょうか?",
+        "user": "U019C7VLZ4G",
+        "ts": "1650294340.859539",
+        "team": "T0GFBAM8C",
+        "blocks": [
+          {
+            "type": "rich_text",
+            "block_id": "XZhl",
+            "elements": [
+              {
+                "type": "rich_text_section",
+                "elements": [
+                  {
+                    "type": "text",
+                    "text": "すいません、\n写真では変換キーを押していないだけで変換候補のダイアログはきちんと出ます。\n\n日本語のインライン入力はgvimはバグのせいでできないということでしょうか?"
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "thread_ts": "1650294340.859539",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1651384227.841509",
+        "reply_users": [
+          "U02ASPM0A6T"
+        ],
+        "is_locked": false,
+        "subscribed": false
+      },
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "9n9QQ",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "user",
+                  "user_id": "U019C7VLZ4G"
+                },
+                {
+                  "type": "text",
+                  "text": " どうでしょう？これで解決しました？\n"
+                },
+                {
+                  "type": "link",
+                  "url": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1650325453370199"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "client_msg_id": "aba8a7d0-e9e0-4b1f-9e0f-6fa5c2d22a90"
+    }
+  ],
+  "has_more": false,
+  "is_limited": true,
+  "pin_count": 16,
+  "channel_actions_ts": null,
+  "channel_actions_count": 0
+}

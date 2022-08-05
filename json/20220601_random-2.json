@@ -1,0 +1,2744 @@
+{
+  "ok": true,
+  "latest": "1656646034.000000",
+  "oldest": "1654054034.000000",
+  "messages": [
+    {
+      "type": "message",
+      "subtype": "channel_join",
+      "ts": "1655701331.759709",
+      "user": "U03L3TVBXRC",
+      "text": "<@U03L3TVBXRC>さんがチャンネルに参加しました"
+    },
+    {
+      "type": "message",
+      "subtype": "channel_join",
+      "ts": "1655644325.236709",
+      "user": "U03L6BKDC4D",
+      "text": "<@U03L6BKDC4D>さんがチャンネルに参加しました"
+    },
+    {
+      "type": "message",
+      "subtype": "channel_join",
+      "ts": "1655641685.518249",
+      "user": "U03LZ0PTRDW",
+      "text": "<@U03LZ0PTRDW>さんがチャンネルに参加しました",
+      "reactions": [
+        {
+          "name": "archjp",
+          "users": [
+            "U01HE1ENNJZ",
+            "U0GFBAM8U"
+          ],
+          "count": 2
+        },
+        {
+          "name": "archjp-joy",
+          "users": [
+            "U03JYF13SQP"
+          ],
+          "count": 1
+        }
+      ]
+    },
+    {
+      "client_msg_id": "02D12CCC-B258-4E1F-89A6-105642FC2734",
+      "type": "message",
+      "text": "よさそう",
+      "user": "U0GFBAM8U",
+      "ts": "1655447313.228969",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "kpx",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "よさそう"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "5ab2ecf4-662a-4ec2-bbfa-993cbde7b18c",
+      "type": "message",
+      "text": "bash製aurヘルパーらしい\n<https://github.com/zakariaGatter/baur>",
+      "user": "U70QDFN82",
+      "ts": "1655389156.808019",
+      "team": "T0GFBAM8C",
+      "attachments": [
+        {
+          "id": 1,
+          "color": "24292f",
+          "bot_id": "B03JFQRLYDD",
+          "app_unfurl_url": "https://github.com/zakariaGatter/baur",
+          "is_app_unfurl": true,
+          "app_id": "A01BP7R4KNY",
+          "fallback": "zakariaGatter/baur",
+          "text": "Bash Arch User Repository",
+          "title": "zakariaGatter/baur",
+          "fields": [
+            {
+              "value": "12",
+              "title": "Stars",
+              "short": true
+            },
+            {
+              "value": "Shell",
+              "title": "Language",
+              "short": true
+            }
+          ]
+        }
+      ],
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "oDGOj",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "bash製aurヘルパーらしい\n"
+                },
+                {
+                  "type": "link",
+                  "url": "https://github.com/zakariaGatter/baur"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "message",
+      "subtype": "channel_join",
+      "ts": "1655280879.241479",
+      "user": "U03KJ1TUEBG",
+      "text": "<@U03KJ1TUEBG>さんがチャンネルに参加しました",
+      "reactions": [
+        {
+          "name": "archjp-joy",
+          "users": [
+            "U02R6AP6H0C"
+          ],
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "message",
+      "subtype": "channel_join",
+      "ts": "1655220328.555279",
+      "user": "U03KLEZJGQK",
+      "text": "<@U03KLEZJGQK>さんがチャンネルに参加しました",
+      "reactions": [
+        {
+          "name": "archjp-joy",
+          "users": [
+            "U02HC93TJEP",
+            "U02R6AP6H0C",
+            "U0GFBAM8U",
+            "U01HE1ENNJZ",
+            "U03JYF13SQP"
+          ],
+          "count": 5
+        }
+      ]
+    },
+    {
+      "client_msg_id": "160b283a-f413-4b50-ad8d-e26be66c6a98",
+      "type": "message",
+      "text": "lightdmってcanonicalがメンテしてるのか…",
+      "user": "U02Q7PAJYT1",
+      "ts": "1655174153.548129",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "=ob",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "lightdmってcanonicalがメンテしてるのか…"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "reactions": [
+        {
+          "name": "hee",
+          "users": [
+            "UBEFL3YLE",
+            "U02R6AP6H0C",
+            "U01HE1ENNJZ"
+          ],
+          "count": 3
+        }
+      ]
+    },
+    {
+      "client_msg_id": "fdba0d16-22f9-400e-90b2-4d94fda596b7",
+      "type": "message",
+      "text": "GDMでも問題起きないので、とうぶんGDMで運用します。",
+      "user": "U02Q7PAJYT1",
+      "ts": "1655128385.556059",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "qPNf7",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "GDMでも問題起きないので、とうぶんGDMで運用します。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "reactions": [
+        {
+          "name": "+1",
+          "users": [
+            "U70QDFN82"
+          ],
+          "count": 1
+        }
+      ]
+    },
+    {
+      "client_msg_id": "ab837bf9-a41e-4ac7-ab5b-16e25fcd3960",
+      "type": "message",
+      "text": "そうなるとログから調べていくか、代替できるなら諦めるかしかないと思われます。\nなんとなく勘では認証系で詰まってる気がしなくもないですがわからないですね",
+      "user": "U70QDFN82",
+      "ts": "1655128011.699349",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "n6K5",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "そうなるとログから調べていくか、代替できるなら諦めるかしかないと思われます。\nなんとなく勘では認証系で詰まってる気がしなくもないですがわからないですね"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "message",
+      "subtype": "channel_join",
+      "ts": "1655123208.362259",
+      "user": "U03JYF13SQP",
+      "text": "<@U03JYF13SQP>さんがチャンネルに参加しました",
+      "reactions": [
+        {
+          "name": "archjp-joy",
+          "users": [
+            "U03JYF13SQP",
+            "UCA1NQM5K",
+            "U02R6AP6H0C",
+            "U01HE1ENNJZ"
+          ],
+          "count": 4
+        }
+      ]
+    },
+    {
+      "client_msg_id": "7af6ae91-15ac-4d74-99ec-c8a25e7ea70b",
+      "type": "message",
+      "text": "```greeter-session```\nをコメントアウトすると、lightDMの起動に失敗。`lightdm-gtk-greeter` をpacmanつかってインストールして、再起動。その後にSwayセッションにログインしてみたが、やはり5から10秒くらい時間がかかる。",
+      "user": "U02Q7PAJYT1",
+      "ts": "1655116223.973499",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "ojO",
+          "elements": [
+            {
+              "type": "rich_text_preformatted",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "greeter-session"
+                }
+              ],
+              "border": 0
+            },
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "をコメントアウトすると、lightDMの起動に失敗。"
+                },
+                {
+                  "type": "text",
+                  "text": "lightdm-gtk-greeter",
+                  "style": {
+                    "code": true
+                  }
+                },
+                {
+                  "type": "text",
+                  "text": " をpacmanつかってインストールして、再起動。その後にSwayセッションにログインしてみたが、やはり5から10秒くらい時間がかかる。"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "bca871ab-3ff4-4a6d-8835-49c733fc2b69",
+      "type": "message",
+      "text": "とりあえず、今から用事ででかけるから、帰宅したらつづきやってみる。",
+      "user": "U02Q7PAJYT1",
+      "ts": "1655095067.097249",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "HAGR",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "とりあえず、今から用事ででかけるから、帰宅したらつづきやってみる。"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "58660302-6b8d-4136-bf8e-ded4b77f9d17",
+      "type": "message",
+      "text": "```greeter-session```\nをコメントアウトすればいいです",
+      "user": "U70QDFN82",
+      "ts": "1655094354.853299",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "gbqgn",
+          "elements": [
+            {
+              "type": "rich_text_preformatted",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "greeter-session"
+                }
+              ],
+              "border": 0
+            },
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "をコメントアウトすればいいです"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "message",
+      "text": "lightdm には乱数用のエントロピーが溜まるまで応答しない不具合みたいなのがあった気がするけど、まだ直ってないんですかね。",
+      "user": "U257W41DW",
+      "ts": "1655094317.806169",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "OVKu9",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "lightdm には乱数用のエントロピーが溜まるまで応答しない不具合みたいなのがあった気がするけど、まだ直ってないんですかね。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "reactions": [
+        {
+          "name": "hee",
+          "users": [
+            "U02BLTTQEL9"
+          ],
+          "count": 1
+        }
+      ]
+    },
+    {
+      "client_msg_id": "dbea9005-9011-4d66-806d-fb51ca4f813c",
+      "type": "message",
+      "text": "オフにするってのは、gtk-greeterに切りかえるってことかな？最初gtk-greeterを設定していたのだが、それでも同じ現象がおきていた。",
+      "user": "U02Q7PAJYT1",
+      "ts": "1655094212.479169",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "E9K",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "オフにするってのは、gtk-greeterに切りかえるってことかな？最初gtk-greeterを設定していたのだが、それでも同じ現象がおきていた。"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "dd49420a-d8d3-4270-9c1e-ae852ee38e4a",
+      "type": "message",
+      "text": "あれ？webkit2-greeter使ってるんですね？じゃあそれをオフにするのが先かと",
+      "user": "U70QDFN82",
+      "ts": "1655093569.665829",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "I6p",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "あれ？webkit2-greeter使ってるんですね？じゃあそれをオフにするのが先かと"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "message",
+      "text": "GDMでもSwayセッションの起動は早い。\nLightDMに関する設定ファイルUPしておきます。何かアドバイスがあれば。",
+      "files": [
+        {
+          "id": "F03KDKY84JG",
+          "created": 1655093391,
+          "timestamp": 1655093391,
+          "name": "lightdm.conf",
+          "title": "lightdm.conf",
+          "mimetype": "text/plain",
+          "filetype": "text",
+          "pretty_type": "プレーンテキスト",
+          "user": "U02Q7PAJYT1",
+          "editable": true,
+          "size": 6754,
+          "mode": "snippet",
+          "is_external": false,
+          "external_type": "",
+          "is_public": true,
+          "public_url_shared": false,
+          "display_as_bot": false,
+          "username": "",
+          "url_private": "https://files.slack.com/files-pri/T0GFBAM8C-F03KDKY84JG/lightdm.conf",
+          "url_private_download": "https://files.slack.com/files-pri/T0GFBAM8C-F03KDKY84JG/download/lightdm.conf",
+          "permalink": "https://archlinuxjp.slack.com/files/U02Q7PAJYT1/F03KDKY84JG/lightdm.conf",
+          "permalink_public": "https://slack-files.com/T0GFBAM8C-F03KDKY84JG-a991f6b27e",
+          "edit_link": "https://archlinuxjp.slack.com/files/U02Q7PAJYT1/F03KDKY84JG/lightdm.conf/edit",
+          "preview": "#\n# General configuration\n#\n# start-default-seat = True to always start one seat if none are defined in the configuration\n# greeter-user = User to run greeter as",
+          "preview_highlight": "<div class=\"CodeMirror cm-s-default CodeMirrorServer\" oncopy=\"if(event.clipboardData){event.clipboardData.setData('text/plain',window.getSelection().toString().replace(/\\u200b/g,''));event.preventDefault();event.stopPropagation();}\">\n<div class=\"CodeMirror-code\">\n<div><pre>#</pre></div>\n<div><pre># General configuration</pre></div>\n<div><pre>#</pre></div>\n<div><pre># start-default-seat = True to always start one seat if none are defined in the configuration</pre></div>\n<div><pre># greeter-user = User to run greeter as</pre></div>\n</div>\n</div>\n",
+          "lines": 165,
+          "lines_more": 160,
+          "preview_is_truncated": true,
+          "is_starred": false,
+          "has_rich_preview": false
+        },
+        {
+          "id": "F03K4KPHNFQ",
+          "created": 1655093393,
+          "timestamp": 1655093393,
+          "name": "lightdm-webkit2-greeter.conf",
+          "title": "lightdm-webkit2-greeter.conf",
+          "mimetype": "text/plain",
+          "filetype": "text",
+          "pretty_type": "プレーンテキスト",
+          "user": "U02Q7PAJYT1",
+          "editable": true,
+          "size": 1451,
+          "mode": "snippet",
+          "is_external": false,
+          "external_type": "",
+          "is_public": true,
+          "public_url_shared": false,
+          "display_as_bot": false,
+          "username": "",
+          "url_private": "https://files.slack.com/files-pri/T0GFBAM8C-F03K4KPHNFQ/lightdm-webkit2-greeter.conf",
+          "url_private_download": "https://files.slack.com/files-pri/T0GFBAM8C-F03K4KPHNFQ/download/lightdm-webkit2-greeter.conf",
+          "permalink": "https://archlinuxjp.slack.com/files/U02Q7PAJYT1/F03K4KPHNFQ/lightdm-webkit2-greeter.conf",
+          "permalink_public": "https://slack-files.com/T0GFBAM8C-F03K4KPHNFQ-6b92e98853",
+          "edit_link": "https://archlinuxjp.slack.com/files/U02Q7PAJYT1/F03K4KPHNFQ/lightdm-webkit2-greeter.conf/edit",
+          "preview": "#\n# [greeter]\n# debug_mode          = Greeter theme debug mode.\n# detect_theme_errors = Provide an option to load a fallback theme when theme errors are detected.\n# screensaver_timeout = Blank the screen after this many seconds of inactivity.",
+          "preview_highlight": "<div class=\"CodeMirror cm-s-default CodeMirrorServer\" oncopy=\"if(event.clipboardData){event.clipboardData.setData('text/plain',window.getSelection().toString().replace(/\\u200b/g,''));event.preventDefault();event.stopPropagation();}\">\n<div class=\"CodeMirror-code\">\n<div><pre>#</pre></div>\n<div><pre># [greeter]</pre></div>\n<div><pre># debug_mode          = Greeter theme debug mode.</pre></div>\n<div><pre># detect_theme_errors = Provide an option to load a fallback theme when theme errors are detected.</pre></div>\n<div><pre># screensaver_timeout = Blank the screen after this many seconds of inactivity.</pre></div>\n</div>\n</div>\n",
+          "lines": 36,
+          "lines_more": 31,
+          "preview_is_truncated": true,
+          "is_starred": false,
+          "has_rich_preview": false
+        },
+        {
+          "id": "F03K8AXEPJ9",
+          "created": 1655093410,
+          "timestamp": 1655093410,
+          "name": "swayon",
+          "title": "swayon",
+          "mimetype": "text/plain",
+          "filetype": "text",
+          "pretty_type": "プレーンテキスト",
+          "user": "U02Q7PAJYT1",
+          "editable": true,
+          "size": 427,
+          "mode": "snippet",
+          "is_external": false,
+          "external_type": "",
+          "is_public": true,
+          "public_url_shared": false,
+          "display_as_bot": false,
+          "username": "",
+          "url_private": "https://files.slack.com/files-pri/T0GFBAM8C-F03K8AXEPJ9/swayon",
+          "url_private_download": "https://files.slack.com/files-pri/T0GFBAM8C-F03K8AXEPJ9/download/swayon",
+          "permalink": "https://archlinuxjp.slack.com/files/U02Q7PAJYT1/F03K8AXEPJ9/swayon",
+          "permalink_public": "https://slack-files.com/T0GFBAM8C-F03K8AXEPJ9-4ee7e4ba7e",
+          "edit_link": "https://archlinuxjp.slack.com/files/U02Q7PAJYT1/F03K8AXEPJ9/swayon/edit",
+          "preview": "XDG_SESSION_TYPE=wayland\nXDG_CURRENT_DESKTOP=sway\nXDG_CURRENT_SESSION=sway\nLIBSEAT_BACKEND=logind\nQT_QPA_PLATFORM=wayland",
+          "preview_highlight": "<div class=\"CodeMirror cm-s-default CodeMirrorServer\" oncopy=\"if(event.clipboardData){event.clipboardData.setData('text/plain',window.getSelection().toString().replace(/\\u200b/g,''));event.preventDefault();event.stopPropagation();}\">\n<div class=\"CodeMirror-code\">\n<div><pre>XDG_SESSION_TYPE=wayland</pre></div>\n<div><pre>XDG_CURRENT_DESKTOP=sway</pre></div>\n<div><pre>XDG_CURRENT_SESSION=sway</pre></div>\n<div><pre>LIBSEAT_BACKEND=logind</pre></div>\n<div><pre>QT_QPA_PLATFORM=wayland</pre></div>\n</div>\n</div>\n",
+          "lines": 17,
+          "lines_more": 12,
+          "preview_is_truncated": false,
+          "is_starred": false,
+          "has_rich_preview": false
+        }
+      ],
+      "upload": false,
+      "user": "U02Q7PAJYT1",
+      "ts": "1655093469.322219",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "zYg0W",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "GDMでもSwayセッションの起動は早い。\nLightDMに関する設定ファイルUPしておきます。何かアドバイスがあれば。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "client_msg_id": "9d1a7acd-8bfb-42f7-b2bc-657f693107a4"
+    },
+    {
+      "type": "message",
+      "subtype": "thread_broadcast",
+      "text": "lightdm側に原因はあるようなんだが、テーマではないみたい。\n\n試しにDisplayManagerをsddmに切り変えてみたら、一瞬でSway起動した。",
+      "user": "U02Q7PAJYT1",
+      "ts": "1655089812.126389",
+      "thread_ts": "1655088655.361219",
+      "root": {
+        "client_msg_id": "76460c98-fe54-451a-b2b0-29eab2c135b9",
+        "type": "message",
+        "text": "lightdmになにかテーマ使ってるならそれが原因とか？？",
+        "user": "U70QDFN82",
+        "ts": "1655088655.361219",
+        "team": "T0GFBAM8C",
+        "blocks": [
+          {
+            "type": "rich_text",
+            "block_id": "gXh5",
+            "elements": [
+              {
+                "type": "rich_text_section",
+                "elements": [
+                  {
+                    "type": "text",
+                    "text": "lightdmになにかテーマ使ってるならそれが原因とか？？"
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "thread_ts": "1655088655.361219",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1655089812.126389",
+        "reply_users": [
+          "U02Q7PAJYT1"
+        ],
+        "is_locked": false,
+        "subscribed": false
+      },
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "hSM7",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "lightdm側に原因はあるようなんだが、テーマではないみたい。\n\n試しにDisplayManagerをsddmに切り変えてみたら、一瞬でSway起動した。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "client_msg_id": "059ce710-0148-4ade-8ebe-1878532f31f4"
+    },
+    {
+      "client_msg_id": "76460c98-fe54-451a-b2b0-29eab2c135b9",
+      "type": "message",
+      "text": "lightdmになにかテーマ使ってるならそれが原因とか？？",
+      "user": "U70QDFN82",
+      "ts": "1655088655.361219",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "gXh5",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "lightdmになにかテーマ使ってるならそれが原因とか？？"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "thread_ts": "1655088655.361219",
+      "reply_count": 1,
+      "reply_users_count": 1,
+      "latest_reply": "1655089812.126389",
+      "reply_users": [
+        "U02Q7PAJYT1"
+      ],
+      "is_locked": false,
+      "subscribed": false
+    },
+    {
+      "client_msg_id": "09539884-40f0-4e56-807e-f65c12436c1e",
+      "type": "message",
+      "text": "ちなみに僕はshim-signedとsystemd-bootでセキュアブートできてます",
+      "user": "UVB7L4CKH",
+      "ts": "1655087569.082689",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "Tpy",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "ちなみに僕はshim-signedとsystemd-bootでセキュアブートできてます"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "9b5432fd-a87b-42f0-9aa6-fb575e181fa5",
+      "type": "message",
+      "text": "swayコマンドからだと、一瞬で起動する。lightdmをdisableにして、コンソールからのswayコマンドでも一瞬。\nlightdmからだけが、やけに時間かかるんですよ。",
+      "user": "U02Q7PAJYT1",
+      "ts": "1655086989.598299",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "5k9VJ",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "swayコマンドからだと、一瞬で起動する。lightdmをdisableにして、コンソールからのswayコマンドでも一瞬。\nlightdmからだけが、やけに時間かかるんですよ。"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "e356dc64-f340-45f3-baf3-76a8dcb47ed0",
+      "type": "message",
+      "text": "swayコマンド打てばsway内でもsway立ち上げられるのでそれでlightdmの問題かswayの問題か切り分けられそうです",
+      "user": "U70QDFN82",
+      "ts": "1655086732.686209",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "nTb",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "swayコマンド打てばsway内でもsway立ち上げられるのでそれでlightdmの問題かswayの問題か切り分けられそうです"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "1b31aba3-5a43-4d85-b27d-2d0e9581d46b",
+      "type": "message",
+      "text": "この記事参考にして、構築したんですが、Swayが起動するのに、5秒以上かかるんですよね。\n<https://zenn.dev/haxibami/articles/wayland-sway-install>",
+      "user": "U02Q7PAJYT1",
+      "ts": "1655086574.534889",
+      "team": "T0GFBAM8C",
+      "attachments": [
+        {
+          "from_url": "https://zenn.dev/haxibami/articles/wayland-sway-install",
+          "image_url": "https://res.cloudinary.com/zenn/image/upload/s--V3CCCO6X--/co_rgb:222%2Cg_south_west%2Cl_text:notosansjp-medium.otf_37_bold:haxibami%2Cx_203%2Cy_98/c_fit%2Cco_rgb:222%2Cg_north_west%2Cl_text:notosansjp-medium.otf_70_bold:Wayland%25E3%2581%25A7%25E5%258B%2595%25E3%2581%258F%25E3%2582%25BF%25E3%2582%25A4%25E3%2583%25AB%25E5%259E%258B%25E3%2582%25A6%25E3%2582%25A3%25E3%2583%25B3%25E3%2583%2589%25E3%2582%25A6%25E3%2583%259E%25E3%2583%258D%25E3%2583%25BC%25E3%2582%25B8%25E3%2583%25A3%25E3%2583%25BBsway%25E3%2582%2592%25E4%25BD%25BF%25E3%2581%2586%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EtL0FPaDE0R2d2eDRLeXh0NUxYeDBOS0JwYy10UzJlREZ4aFlQdzhzenR6NWhaPXM5Ni1j%2Cr_max%2Cw_90%2Cx_87%2Cy_72/v1627274783/default/og-base_z4sxah.png",
+          "image_width": 476,
+          "image_height": 250,
+          "image_bytes": 36489,
+          "service_icon": "https://zenn.dev/images/icon.png",
+          "id": 1,
+          "original_url": "https://zenn.dev/haxibami/articles/wayland-sway-install",
+          "fallback": "Zenn: Waylandで動くタイル型ウィンドウマネージャ・swayを使う",
+          "title": "Waylandで動くタイル型ウィンドウマネージャ・swayを使う",
+          "title_link": "https://zenn.dev/haxibami/articles/wayland-sway-install",
+          "service_name": "Zenn"
+        }
+      ],
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "Y3+",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "この記事参考にして、構築したんですが、Swayが起動するのに、5秒以上かかるんですよね。\n"
+                },
+                {
+                  "type": "link",
+                  "url": "https://zenn.dev/haxibami/articles/wayland-sway-install"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "fcab1b8f-bc9a-4cec-9ae4-fa627b1cbf29",
+      "type": "message",
+      "text": "私もその構成ですけど。かからないですね。1秒くらい？",
+      "user": "U70QDFN82",
+      "ts": "1655086279.932549",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "eiq",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "私もその構成ですけど。かからないですね。1秒くらい？"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "452f1509-b023-4c51-8ef8-3772a61676e2",
+      "type": "message",
+      "text": "話は変りますが、lightdmとSway使ってる方いたら聞きたいのですが、\nlightdmでログイン後、Swayが起動するまでに5秒以上かかる方っておられます？高速起動するために何か対策してたりしますか？",
+      "user": "U02Q7PAJYT1",
+      "ts": "1655085820.090479",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "532Z",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "話は変りますが、lightdmとSway使ってる方いたら聞きたいのですが、\nlightdmでログイン後、Swayが起動するまでに5秒以上かかる方っておられます？高速起動するために何か対策してたりしますか？"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "2578153d-bfa1-4225-bb15-9fdad1446684",
+      "type": "message",
+      "text": "PreLoaderを使う方法もダメだった…",
+      "user": "U02Q7PAJYT1",
+      "ts": "1655085674.167889",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "n6JRq",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "PreLoaderを使う方法もダメだった…"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "4d1ad2ad-7550-4c30-a769-5932c199a9ca",
+      "type": "message",
+      "text": "一応PreLoaderの方も試してみる。",
+      "user": "U02Q7PAJYT1",
+      "ts": "1655082924.847959",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "Ck2g",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "一応PreLoaderの方も試してみる。"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "fef8f836-0c30-44ad-b75f-0d9a5a003336",
+      "type": "message",
+      "text": "SecureBoot出自からしてMSだし私はあんまり好きじゃない・・・",
+      "user": "U70QDFN82",
+      "ts": "1655081058.235189",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "iFk",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "SecureBoot出自からしてMSだし私はあんまり好きじゃない・・・"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "119a01a5-9220-4105-a1fd-6cce986a9416",
+      "type": "message",
+      "text": "SecureBoot無効にするかぁ",
+      "user": "U02Q7PAJYT1",
+      "ts": "1655079302.311309",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "5ov",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "SecureBoot無効にするかぁ"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "1a51369d-c3db-4b38-b02d-e1400d76f0cb",
+      "type": "message",
+      "text": "shim-signedとgrubを使ったSecureBoot環境構築にてこずってる。\narchwikiの手順にしたがって、grubx64.efiとvmlinuz-linuxのEnroll hash と、MOK.cerのEnroll keyしてるんだが、violationとなってbootしない…",
+      "user": "U02Q7PAJYT1",
+      "ts": "1655077567.572699",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "pf7x",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "shim-signedとgrubを使ったSecureBoot環境構築にてこずってる。\narchwikiの手順にしたがって、grubx64.efiとvmlinuz-linuxのEnroll hash と、MOK.cerのEnroll keyしてるんだが、violationとなってbootしない…"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "490c791f-1439-4b2f-b22b-cd5ba60738f1",
+      "type": "message",
+      "text": "Swayで統一したいけど、HidpiなディスプレイでScalingを使ってるとXwaylandで動くアプリは表示が滲む(泣き",
+      "user": "U02Q7PAJYT1",
+      "ts": "1655041088.218909",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "GVz",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "Swayで統一したいけど、HidpiなディスプレイでScalingを使ってるとXwaylandで動くアプリは表示が滲む(泣き"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "reactions": [
+        {
+          "name": "sorena",
+          "users": [
+            "U02BLTTQEL9",
+            "UJ7P75WB1",
+            "U01HE1ENNJZ"
+          ],
+          "count": 3
+        }
+      ]
+    },
+    {
+      "client_msg_id": "1ffe1c17-e154-4209-8db6-6f90696cdf4c",
+      "type": "message",
+      "text": "archinstall のおかげでインストール自体はかなり楽だった。が、Swaywm(Wayland)+Fcitx5+chromium系ブラウザの日本語入力でハマった。",
+      "user": "U02Q7PAJYT1",
+      "ts": "1655040284.977169",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "5Td",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "archinstall のおかげでインストール自体はかなり楽だった。が、Swaywm(Wayland)+Fcitx5+chromium系ブラウザの日本語入力でハマった。"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "abd04a14-9a44-4ac9-9928-a528ba2ca073",
+      "type": "message",
+      "text": "やっとこさArch Linuxインストールした。Debian 11からの移行中。",
+      "user": "U02Q7PAJYT1",
+      "ts": "1655040156.879779",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "CJ0",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "やっとこさArch Linuxインストールした。Debian 11からの移行中。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "reactions": [
+        {
+          "name": "+1",
+          "users": [
+            "U0PM6EYR1"
+          ],
+          "count": 1
+        },
+        {
+          "name": "archjp",
+          "users": [
+            "U6DL9D3AB",
+            "U02BLTTQEL9",
+            "UBEFL3YLE",
+            "U0GFBAM8U",
+            "U01HE1ENNJZ"
+          ],
+          "count": 5
+        }
+      ]
+    },
+    {
+      "type": "message",
+      "subtype": "channel_join",
+      "ts": "1655033601.208439",
+      "user": "U03JVEMLYP9",
+      "text": "<@U03JVEMLYP9>さんがチャンネルに参加しました"
+    },
+    {
+      "type": "message",
+      "subtype": "channel_join",
+      "ts": "1655000260.403929",
+      "user": "U03K31GP4TG",
+      "text": "<@U03K31GP4TG>さんがチャンネルに参加しました"
+    },
+    {
+      "type": "message",
+      "subtype": "channel_join",
+      "ts": "1654965327.858669",
+      "user": "U03JUFS6LKH",
+      "text": "<@U03JUFS6LKH>さんがチャンネルに参加しました"
+    },
+    {
+      "type": "message",
+      "subtype": "channel_join",
+      "ts": "1654760378.239009",
+      "user": "U03JZQZ5N92",
+      "text": "<@U03JZQZ5N92>さんがチャンネルに参加しました",
+      "reactions": [
+        {
+          "name": "archjp-joy",
+          "users": [
+            "U02HC93TJEP",
+            "U0GFBAM8U",
+            "U01HE1ENNJZ"
+          ],
+          "count": 3
+        }
+      ]
+    },
+    {
+      "client_msg_id": "8aa07183-dcf7-4e55-b171-20c753fdf780",
+      "type": "message",
+      "text": "telegramの方のArchコミュニティ入ってる人います？普段telegram使ってないんでこれだけのために入れるか迷っていて・・・\nどんな感じですかね？Matrixとおんなじ感じだと入らなくてもいいかなとも思っており\n<https://wiki.archlinux.jp/index.php/Telegram>",
+      "user": "U70QDFN82",
+      "ts": "1654757540.890809",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "s7OEq",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "telegramの方のArchコミュニティ入ってる人います？普段telegram使ってないんでこれだけのために入れるか迷っていて・・・\nどんな感じですかね？Matrixとおんなじ感じだと入らなくてもいいかなとも思っており\n"
+                },
+                {
+                  "type": "link",
+                  "url": "https://wiki.archlinux.jp/index.php/Telegram"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "message",
+      "subtype": "channel_join",
+      "ts": "1654421452.558069",
+      "user": "U03JB4V5RKM",
+      "text": "<@U03JB4V5RKM>さんがチャンネルに参加しました",
+      "reactions": [
+        {
+          "name": "archjp-joy",
+          "users": [
+            "U02HC93TJEP",
+            "U0GFBAM8U",
+            "U01HE1ENNJZ"
+          ],
+          "count": 3
+        }
+      ]
+    },
+    {
+      "client_msg_id": "ea7a9d03-0705-4b42-987d-0bb843d4e0df",
+      "type": "message",
+      "text": "私も個人個人が書いた具体的なexampleがあると非常に助かってます",
+      "user": "U0GFBAM8U",
+      "ts": "1654164881.113749",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "YYGt",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "私も個人個人が書いた具体的なexampleがあると非常に助かってます"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "reactions": [
+        {
+          "name": "wakaru",
+          "users": [
+            "U01J1GGMHDJ"
+          ],
+          "count": 1
+        }
+      ]
+    },
+    {
+      "client_msg_id": "a4317a17-1d4f-4adc-b786-bab1ee535f44",
+      "type": "message",
+      "text": "普通にコマンドひとつひとつコマンド打ち込んでみるインストール方法しか知らなかったので、archinstallの日本語記事助かります。\n（英語の指示に従えばいいというのも分かるけど、他の人はどう選択したかも知れるのはありがたい）",
+      "user": "U01J1GGMHDJ",
+      "ts": "1654164794.067749",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "nFbu",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "普通にコマンドひとつひとつコマンド打ち込んでみるインストール方法しか知らなかったので、archinstallの日本語記事助かります。\n（英語の指示に従えばいいというのも分かるけど、他の人はどう選択したかも知れるのはありがたい）"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "7796394a-4d70-47b0-a18c-29ca70e5c054",
+      "type": "message",
+      "text": "光栄です:sunglasses:",
+      "user": "UBEFL3YLE",
+      "ts": "1654163800.619239",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "0EXI",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "光栄です"
+                },
+                {
+                  "type": "emoji",
+                  "name": "sunglasses",
+                  "unicode": "1f60e"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "reactions": [
+        {
+          "name": "+1",
+          "users": [
+            "U70QDFN82",
+            "U0H9QUFA5",
+            "U01HE1ENNJZ"
+          ],
+          "count": 3
+        }
+      ]
+    },
+    {
+      "client_msg_id": "d6baec81-615d-4a8c-9e97-18f2fd963e44",
+      "type": "message",
+      "text": "ちなみにちょっと前にTwitterで見つけましたけどArchinstallの記事はこれができがよかったです\n<https://riq0h.jp/2022/05/18/094517/>",
+      "user": "U70QDFN82",
+      "ts": "1654163700.526189",
+      "team": "T0GFBAM8C",
+      "attachments": [
+        {
+          "from_url": "https://riq0h.jp/2022/05/18/094517/",
+          "ts": 1652834717,
+          "thumb_url": "https://riq0h.jp/siteicon.png",
+          "thumb_width": 900,
+          "thumb_height": 900,
+          "service_icon": "https://riq0h.jp/apple-touch-icon.png",
+          "id": 1,
+          "original_url": "https://riq0h.jp/2022/05/18/094517/",
+          "fallback": "点と接線。: archinstallを利用したArch Linuxの導入手順 - 点と接線。",
+          "text": "本エントリではarchinstallを利用したArch Linuxの導入手順を説明する。今月1日にアップデートされたこの補助インストーラは以前と比べてインターフェイスが格段に簡便化されており、あとはちょっとした画像とテキストがあれば多くのユーザが導入に踏み出せると見込んだ次第である。したがってArch Linuxの魅力、美点については他のブログ等を参考にしてもらうこととして、ここではあくまで導入手順の",
+          "title": "archinstallを利用したArch Linuxの導入手順 - 点と接線。",
+          "title_link": "https://riq0h.jp/2022/05/18/094517/",
+          "service_name": "点と接線。"
+        }
+      ],
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "HqN8H",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "ちなみにちょっと前にTwitterで見つけましたけどArchinstallの記事はこれができがよかったです\n"
+                },
+                {
+                  "type": "link",
+                  "url": "https://riq0h.jp/2022/05/18/094517/"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "reactions": [
+        {
+          "name": "taskall",
+          "users": [
+            "U03D2HTU60H"
+          ],
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "message",
+      "subtype": "thread_broadcast",
+      "text": "個人のarchlinuxについて書いてくれる人を募集しています。気軽に投稿してみてください。\n<https://archlinuxjp.github.io/post/2022/06/02/readme/>",
+      "user": "U0GFBAM8U",
+      "ts": "1654147782.116639",
+      "thread_ts": "1654072039.253329",
+      "root": {
+        "client_msg_id": "2cda75b8-a23d-4903-b9ef-561e9d0f6fd1",
+        "type": "message",
+        "text": "*Arch Linux記事についてのブレーンストーミング。こんなのあればいいかも：*",
+        "user": "U02ASPM0A6T",
+        "ts": "1654072039.253329",
+        "team": "T0GFBAM8C",
+        "edited": {
+          "user": "U02ASPM0A6T",
+          "ts": "1654168374.000000"
+        },
+        "blocks": [
+          {
+            "type": "rich_text",
+            "block_id": "L0Q",
+            "elements": [
+              {
+                "type": "rich_text_section",
+                "elements": [
+                  {
+                    "type": "text",
+                    "text": "Arch Linux記事についてのブレーンストーミング。こんなのあればいいかも：",
+                    "style": {
+                      "bold": true
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "thread_ts": "1654072039.253329",
+        "reply_count": 83,
+        "reply_users_count": 5,
+        "latest_reply": "1654173542.594839",
+        "reply_users": [
+          "U02ASPM0A6T",
+          "U70QDFN82",
+          "U0H9QUFA5",
+          "U0GFBAM8U",
+          "UUWBU08TU"
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1654173542.594839"
+      },
+      "attachments": [
+        {
+          "from_url": "https://archlinuxjp.github.io/post/2022/06/02/readme/",
+          "service_icon": "https://archlinuxjp.github.io/apple-touch-icon.png",
+          "id": 1,
+          "original_url": "https://archlinuxjp.github.io/post/2022/06/02/readme/",
+          "fallback": "執筆者を募集します | archlinuxjp",
+          "text": "archlinuxjp",
+          "title": "執筆者を募集します | archlinuxjp",
+          "title_link": "https://archlinuxjp.github.io/post/2022/06/02/readme/",
+          "service_name": "archlinuxjp.github.io"
+        }
+      ],
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "RE0K",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "個人のarchlinuxについて書いてくれる人を募集しています。気軽に投稿してみてください。\n"
+                },
+                {
+                  "type": "link",
+                  "url": "https://archlinuxjp.github.io/post/2022/06/02/readme/"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "client_msg_id": "1c572a13-7d45-48c4-a117-b8b56997bdf6",
+      "reactions": [
+        {
+          "name": "ok",
+          "users": [
+            "UUWBU08TU",
+            "UVB7L4CKH",
+            "U0H9QUFA5",
+            "UPYQ3CUJ1",
+            "U01J1GGMHDJ",
+            "U01HE1ENNJZ"
+          ],
+          "count": 6
+        },
+        {
+          "name": "eyes",
+          "users": [
+            "U02ASPM0A6T",
+            "U8T8KB5M4",
+            "U70QDFN82",
+            "U01HE1ENNJZ"
+          ],
+          "count": 4
+        },
+        {
+          "name": "archjp-joy",
+          "users": [
+            "U8T8KB5M4",
+            "U02BLTTQEL9",
+            "U01HE1ENNJZ"
+          ],
+          "count": 3
+        }
+      ]
+    },
+    {
+      "type": "message",
+      "subtype": "thread_broadcast",
+      "text": "<@UUWBU08TU> このあたりどうでしょうかね？\n• <https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1654093459296269?thread_ts=1654072039.253329&amp;cid=C0GFH3RHC>\n• <https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1654093846734599?thread_ts=1654072039.253329&amp;cid=C0GFH3RHC>",
+      "user": "U02ASPM0A6T",
+      "ts": "1654094824.298819",
+      "thread_ts": "1654072039.253329",
+      "root": {
+        "client_msg_id": "2cda75b8-a23d-4903-b9ef-561e9d0f6fd1",
+        "type": "message",
+        "text": "*Arch Linux記事についてのブレーンストーミング。こんなのあればいいかも：*",
+        "user": "U02ASPM0A6T",
+        "ts": "1654072039.253329",
+        "team": "T0GFBAM8C",
+        "edited": {
+          "user": "U02ASPM0A6T",
+          "ts": "1654168374.000000"
+        },
+        "blocks": [
+          {
+            "type": "rich_text",
+            "block_id": "L0Q",
+            "elements": [
+              {
+                "type": "rich_text_section",
+                "elements": [
+                  {
+                    "type": "text",
+                    "text": "Arch Linux記事についてのブレーンストーミング。こんなのあればいいかも：",
+                    "style": {
+                      "bold": true
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "thread_ts": "1654072039.253329",
+        "reply_count": 83,
+        "reply_users_count": 5,
+        "latest_reply": "1654173542.594839",
+        "reply_users": [
+          "U02ASPM0A6T",
+          "U70QDFN82",
+          "U0H9QUFA5",
+          "U0GFBAM8U",
+          "UUWBU08TU"
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1654173542.594839"
+      },
+      "attachments": [
+        {
+          "from_url": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1654093459296269?thread_ts=1654072039.253329&amp;cid=C0GFH3RHC",
+          "ts": "1654093459.296269",
+          "author_id": "U02ASPM0A6T",
+          "channel_team": "T0GFBAM8C",
+          "channel_id": "C0GFH3RHC",
+          "channel_name": "general",
+          "is_msg_unfurl": true,
+          "is_reply_unfurl": true,
+          "message_blocks": [
+            {
+              "team": "T0GFBAM8C",
+              "channel": "C0GFH3RHC",
+              "ts": "1654093459.296269",
+              "message": {
+                "blocks": [
+                  {
+                    "type": "rich_text",
+                    "block_id": "9y9n",
+                    "elements": [
+                      {
+                        "type": "rich_text_section",
+                        "elements": [
+                          {
+                            "type": "user",
+                            "user_id": "UUWBU08TU"
+                          },
+                          {
+                            "type": "text",
+                            "text": " さんやgihyo.jpさんがどのような運用にしたいのか聞いたほうがいいような気もしますね"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            }
+          ],
+          "id": 1,
+          "original_url": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1654093459296269?thread_ts=1654072039.253329&amp;cid=C0GFH3RHC",
+          "fallback": "[June 1st, 2022 7:24 AM] yozigen: <@UUWBU08TU> さんやgihyo.jpさんがどのような運用にしたいのか聞いたほうがいいような気もしますね",
+          "text": "<@UUWBU08TU> さんやgihyo.jpさんがどのような運用にしたいのか聞いたほうがいいような気もしますね",
+          "author_name": "Takahashi, Naoki",
+          "author_link": "https://archlinuxjp.slack.com/team/U02ASPM0A6T",
+          "author_icon": "https://avatars.slack-edge.com/2022-05-02/3478210870657_2a16d101ff749ae4b7dd_48.jpg",
+          "author_subname": "Takahashi, Naoki",
+          "mrkdwn_in": [
+            "text"
+          ],
+          "footer": "#general のスレッドから"
+        },
+        {
+          "from_url": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1654093846734599?thread_ts=1654072039.253329&amp;cid=C0GFH3RHC",
+          "ts": "1654093846.734599",
+          "author_id": "U02ASPM0A6T",
+          "channel_team": "T0GFBAM8C",
+          "channel_id": "C0GFH3RHC",
+          "channel_name": "general",
+          "is_msg_unfurl": true,
+          "is_reply_unfurl": true,
+          "message_blocks": [
+            {
+              "team": "T0GFBAM8C",
+              "channel": "C0GFH3RHC",
+              "ts": "1654093846.734599",
+              "message": {
+                "blocks": [
+                  {
+                    "type": "rich_text",
+                    "block_id": "pAcb",
+                    "elements": [
+                      {
+                        "type": "rich_text_section",
+                        "elements": [
+                          {
+                            "type": "text",
+                            "text": "gihyo.jpさんの記事をgithubにオープンしつつ作っていくってのはいいんですかね？多分よさそうな気がするけどポリシーによってはだめだったりするかも"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            }
+          ],
+          "id": 2,
+          "original_url": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1654093846734599?thread_ts=1654072039.253329&amp;cid=C0GFH3RHC",
+          "fallback": "[June 1st, 2022 7:30 AM] yozigen: gihyo.jpさんの記事をgithubにオープンしつつ作っていくってのはいいんですかね？多分よさそうな気がするけどポリシーによってはだめだったりするかも",
+          "text": "gihyo.jpさんの記事をgithubにオープンしつつ作っていくってのはいいんですかね？多分よさそうな気がするけどポリシーによってはだめだったりするかも",
+          "author_name": "Takahashi, Naoki",
+          "author_link": "https://archlinuxjp.slack.com/team/U02ASPM0A6T",
+          "author_icon": "https://avatars.slack-edge.com/2022-05-02/3478210870657_2a16d101ff749ae4b7dd_48.jpg",
+          "author_subname": "Takahashi, Naoki",
+          "mrkdwn_in": [
+            "text"
+          ],
+          "footer": "#general のスレッドから"
+        }
+      ],
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "lH6",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "user",
+                  "user_id": "UUWBU08TU"
+                },
+                {
+                  "type": "text",
+                  "text": " このあたりどうでしょうかね？\n"
+                }
+              ]
+            },
+            {
+              "type": "rich_text_list",
+              "elements": [
+                {
+                  "type": "rich_text_section",
+                  "elements": [
+                    {
+                      "type": "link",
+                      "url": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1654093459296269?thread_ts=1654072039.253329&cid=C0GFH3RHC"
+                    }
+                  ]
+                },
+                {
+                  "type": "rich_text_section",
+                  "elements": [
+                    {
+                      "type": "link",
+                      "url": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1654093846734599?thread_ts=1654072039.253329&cid=C0GFH3RHC"
+                    }
+                  ]
+                }
+              ],
+              "style": "bullet",
+              "indent": 0,
+              "border": 0
+            }
+          ]
+        }
+      ],
+      "client_msg_id": "6e4c9aa1-2675-4b2f-8a2a-7e48509acd69",
+      "reactions": [
+        {
+          "name": "eyes",
+          "users": [
+            "UUWBU08TU"
+          ],
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "message",
+      "subtype": "thread_broadcast",
+      "text": "• ArchISOはOSインストーラーではない\n• なぜAURパッケージのインストールは自己責任なのか？\n• 検証可能性を（なるべく）高める\n• バイナリブロブをユーザーの自己責任で導入する\n• シェアの拡大、新規ユーザーの参入が重要ではない理由\n• オープンソースの基軸通貨は貢献・尊敬・感謝（とお金）\n• 英語ができなくても英語のインターネットを泳ぐ方法\n• I use Arch btw.",
+      "user": "U02ASPM0A6T",
+      "ts": "1654072122.020179",
+      "thread_ts": "1654072039.253329",
+      "root": {
+        "client_msg_id": "2cda75b8-a23d-4903-b9ef-561e9d0f6fd1",
+        "type": "message",
+        "text": "*Arch Linux記事についてのブレーンストーミング。こんなのあればいいかも：*",
+        "user": "U02ASPM0A6T",
+        "ts": "1654072039.253329",
+        "team": "T0GFBAM8C",
+        "edited": {
+          "user": "U02ASPM0A6T",
+          "ts": "1654168374.000000"
+        },
+        "blocks": [
+          {
+            "type": "rich_text",
+            "block_id": "L0Q",
+            "elements": [
+              {
+                "type": "rich_text_section",
+                "elements": [
+                  {
+                    "type": "text",
+                    "text": "Arch Linux記事についてのブレーンストーミング。こんなのあればいいかも：",
+                    "style": {
+                      "bold": true
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "thread_ts": "1654072039.253329",
+        "reply_count": 83,
+        "reply_users_count": 5,
+        "latest_reply": "1654173542.594839",
+        "reply_users": [
+          "U02ASPM0A6T",
+          "U70QDFN82",
+          "U0H9QUFA5",
+          "U0GFBAM8U",
+          "UUWBU08TU"
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1654173542.594839"
+      },
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "GLe",
+          "elements": [
+            {
+              "type": "rich_text_list",
+              "elements": [
+                {
+                  "type": "rich_text_section",
+                  "elements": [
+                    {
+                      "type": "text",
+                      "text": "ArchISOはOSインストーラーではない"
+                    }
+                  ]
+                },
+                {
+                  "type": "rich_text_section",
+                  "elements": [
+                    {
+                      "type": "text",
+                      "text": "なぜAURパッケージのインストールは自己責任なのか？"
+                    }
+                  ]
+                },
+                {
+                  "type": "rich_text_section",
+                  "elements": [
+                    {
+                      "type": "text",
+                      "text": "検証可能性を（なるべく）高める"
+                    }
+                  ]
+                },
+                {
+                  "type": "rich_text_section",
+                  "elements": [
+                    {
+                      "type": "text",
+                      "text": "バイナリブロブをユーザーの自己責任で導入する"
+                    }
+                  ]
+                },
+                {
+                  "type": "rich_text_section",
+                  "elements": [
+                    {
+                      "type": "text",
+                      "text": "シェアの拡大、新規ユーザーの参入が重要ではない理由"
+                    }
+                  ]
+                },
+                {
+                  "type": "rich_text_section",
+                  "elements": [
+                    {
+                      "type": "text",
+                      "text": "オープンソースの基軸通貨は貢献・尊敬・感謝（とお金）"
+                    }
+                  ]
+                },
+                {
+                  "type": "rich_text_section",
+                  "elements": [
+                    {
+                      "type": "text",
+                      "text": "英語ができなくても英語のインターネットを泳ぐ方法"
+                    }
+                  ]
+                },
+                {
+                  "type": "rich_text_section",
+                  "elements": [
+                    {
+                      "type": "text",
+                      "text": "I use Arch btw."
+                    }
+                  ]
+                }
+              ],
+              "style": "bullet",
+              "indent": 0,
+              "border": 0
+            }
+          ]
+        }
+      ],
+      "client_msg_id": "f9a4cb63-3824-453c-8c4d-23eaa16f477c"
+    },
+    {
+      "client_msg_id": "2cda75b8-a23d-4903-b9ef-561e9d0f6fd1",
+      "type": "message",
+      "text": "*Arch Linux記事についてのブレーンストーミング。こんなのあればいいかも：*",
+      "user": "U02ASPM0A6T",
+      "ts": "1654072039.253329",
+      "team": "T0GFBAM8C",
+      "edited": {
+        "user": "U02ASPM0A6T",
+        "ts": "1654168374.000000"
+      },
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "L0Q",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "Arch Linux記事についてのブレーンストーミング。こんなのあればいいかも：",
+                  "style": {
+                    "bold": true
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "thread_ts": "1654072039.253329",
+      "reply_count": 83,
+      "reply_users_count": 5,
+      "latest_reply": "1654173542.594839",
+      "reply_users": [
+        "U02ASPM0A6T",
+        "U70QDFN82",
+        "U0H9QUFA5",
+        "U0GFBAM8U",
+        "UUWBU08TU"
+      ],
+      "is_locked": false,
+      "subscribed": true,
+      "last_read": "1654173542.594839",
+      "pinned_to": [
+        "C0GFH3RHC"
+      ],
+      "pinned_info": {
+        "channel": "C0GFH3RHC",
+        "pinned_by": "U02ASPM0A6T",
+        "pinned_ts": 1654168381
+      }
+    },
+    {
+      "client_msg_id": "7bf63c55-ba4f-48d8-8012-5ba2eefefcd8",
+      "type": "message",
+      "text": "~Archは最高~なぜArchを使っているのかというのは確かに行けそう",
+      "user": "UGA29R3FH",
+      "ts": "1654070412.559499",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "t3dJx",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "Archは最高",
+                  "style": {
+                    "strike": true
+                  }
+                },
+                {
+                  "type": "text",
+                  "text": "なぜArchを使っているのかというのは確かに行けそう"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "bd3a2bf5-4bf7-4ccc-a150-8e23eaa173da",
+      "type": "message",
+      "text": "<https://wiki.archlinux.jp/index.php/ArchWiki%E3%83%BB%E3%83%88%E3%83%BC%E3%82%AF:%E7%BF%BB%E8%A8%B3%E3%83%81%E3%83%BC%E3%83%A0>\nキター。大歓迎。大歓喜。",
+      "user": "U0H9QUFA5",
+      "ts": "1654066073.769389",
+      "team": "T0GFBAM8C",
+      "edited": {
+        "user": "U0H9QUFA5",
+        "ts": "1654066279.000000"
+      },
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "beHG",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "link",
+                  "url": "https://wiki.archlinux.jp/index.php/ArchWiki%E3%83%BB%E3%83%88%E3%83%BC%E3%82%AF:%E7%BF%BB%E8%A8%B3%E3%83%81%E3%83%BC%E3%83%A0"
+                },
+                {
+                  "type": "text",
+                  "text": "\nキター。大歓迎。大歓喜。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "reactions": [
+        {
+          "name": "sugee",
+          "users": [
+            "U02ASPM0A6T",
+            "UGA29R3FH",
+            "UJ7P75WB1"
+          ],
+          "count": 3
+        },
+        {
+          "name": "archjp-joy",
+          "users": [
+            "U02ASPM0A6T",
+            "U02BLTTQEL9",
+            "U6DL9D3AB",
+            "UGA29R3FH",
+            "UJ7P75WB1",
+            "U0GFBAM8U"
+          ],
+          "count": 6
+        },
+        {
+          "name": "arch-joy",
+          "users": [
+            "U02ASPM0A6T",
+            "U70QDFN82",
+            "U02BLTTQEL9",
+            "U01J1GGMHDJ",
+            "U6DL9D3AB",
+            "UGA29R3FH",
+            "UPYQ3CUJ1",
+            "UJ7P75WB1",
+            "U031Y1JFXM2"
+          ],
+          "count": 9
+        }
+      ]
+    },
+    {
+      "client_msg_id": "4837CE71-8147-4B85-83C0-EBFC58306930",
+      "type": "message",
+      "text": "執筆ならやっぱり PKGBUILD あたりが書いてみたい筆頭ですがウケが悪そうですよね",
+      "user": "U0J2VATJA",
+      "ts": "1654061564.742779",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "LFXk",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "執筆ならやっぱり "
+                },
+                {
+                  "type": "text",
+                  "text": "PKGBUILD"
+                },
+                {
+                  "type": "text",
+                  "text": " あたりが書いてみたい筆頭ですがウケが悪そうですよね"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "reactions": [
+        {
+          "name": "sorena",
+          "users": [
+            "U6DL9D3AB"
+          ],
+          "count": 1
+        }
+      ]
+    },
+    {
+      "client_msg_id": "4673f096-df7b-46bd-8962-103edd1776c5",
+      "type": "message",
+      "text": "非 Arch ユーザ、非 Linux ユーザに向けた導入の話から、他の OS やディストロとの代替可能性（仕事に使えるとか趣味に使えるとか）を初心者向けに色々書いてあるものがあったら良いんじゃないんですかね？\nその上で、インストールもめんどくさい反面色々詳しくなれる（ならざるを得ない）メリットデメリットの話とか、そもそも ubuntu みたいにユーザの多いディストロと比べた時の話とか。\n個人的には、最初は Arch を使わざるを得ない状況から使い始めてハマったので、裾野が広がるような本とかあれば良いなぁって思っています。",
+      "user": "U01ADLWR9CM",
+      "ts": "1654060956.454559",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "ZzU",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "非 Arch ユーザ、非 Linux ユーザに向けた導入の話から、他の OS やディストロとの代替可能性（仕事に使えるとか趣味に使えるとか）を初心者向けに色々書いてあるものがあったら良いんじゃないんですかね？\nその上で、インストールもめんどくさい反面色々詳しくなれる（ならざるを得ない）メリットデメリットの話とか、そもそも ubuntu みたいにユーザの多いディストロと比べた時の話とか。\n個人的には、最初は Arch を使わざるを得ない状況から使い始めてハマったので、裾野が広がるような本とかあれば良いなぁって思っています。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "reactions": [
+        {
+          "name": "naruhodo",
+          "users": [
+            "U0H9QUFA5",
+            "UGA29R3FH"
+          ],
+          "count": 2
+        }
+      ]
+    },
+    {
+      "client_msg_id": "ca97b08b-ce07-489e-9809-ff69d33f4661",
+      "type": "message",
+      "text": "ちょっとした小ネタみたいなものなら書いてみたいななんて思っています",
+      "user": "UJ7P75WB1",
+      "ts": "1654060513.113109",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "3F7",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "ちょっとした小ネタみたいなものなら書いてみたいななんて思っています"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "reactions": [
+        {
+          "name": "hugging_face",
+          "users": [
+            "U0H9QUFA5"
+          ],
+          "count": 1
+        }
+      ]
+    },
+    {
+      "client_msg_id": "d964f471-82c7-4c3a-ae88-01fced88adac",
+      "type": "message",
+      "text": "記事の話、全く把握してませんでした…。面白そう(小学生並みの感想)",
+      "user": "UJ7P75WB1",
+      "ts": "1654060383.967559",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "k=So",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "記事の話、全く把握してませんでした…。面白そう(小学生並みの感想)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "a7eaa1ec-e696-4fe0-b7a6-65b64ca508f9",
+      "type": "message",
+      "text": "Arch、ディストリビューション固有のものが薄すぎて没個性なんですよね",
+      "user": "U0PM6EYR1",
+      "ts": "1654060317.842539",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "us3q",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "Arch、ディストリビューション固有のものが薄すぎて没個性なんですよね"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "reactions": [
+        {
+          "name": "wakaru",
+          "users": [
+            "U70QDFN82",
+            "U0H9QUFA5",
+            "U6DL9D3AB",
+            "U02BLTTQEL9",
+            "UGA29R3FH",
+            "U01HE1ENNJZ"
+          ],
+          "count": 6
+        }
+      ]
+    },
+    {
+      "client_msg_id": "f20e00a5-3ce7-4c88-94ec-1f1bef7295ec",
+      "type": "message",
+      "text": "<https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1654000524961629>\n私も流れに乗れなかったんですが、これは同感でした",
+      "user": "U0PM6EYR1",
+      "ts": "1654060269.324969",
+      "team": "T0GFBAM8C",
+      "attachments": [
+        {
+          "from_url": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1654000524961629",
+          "ts": "1654000524.961629",
+          "author_id": "U70QDFN82",
+          "channel_team": "T0GFBAM8C",
+          "channel_id": "C0GFH3RHC",
+          "channel_name": "general",
+          "is_msg_unfurl": true,
+          "is_thread_root_unfurl": true,
+          "message_blocks": [
+            {
+              "team": "T0GFBAM8C",
+              "channel": "C0GFH3RHC",
+              "ts": "1654000524.961629",
+              "message": {
+                "blocks": [
+                  {
+                    "type": "rich_text",
+                    "block_id": "Pe9",
+                    "elements": [
+                      {
+                        "type": "rich_text_list",
+                        "elements": [
+                          {
+                            "type": "rich_text_section",
+                            "elements": [
+                              {
+                                "type": "text",
+                                "text": "ArchLinuxの連載とか激アツじゃん"
+                              }
+                            ]
+                          },
+                          {
+                            "type": "rich_text_section",
+                            "elements": [
+                              {
+                                "type": "text",
+                                "text": "けど書くならなにを書くのがいいんだろう・・・？"
+                              }
+                            ]
+                          },
+                          {
+                            "type": "rich_text_section",
+                            "elements": [
+                              {
+                                "type": "text",
+                                "text": "つかArchLinuxのメリットってなんだっけ？？"
+                              }
+                            ]
+                          },
+                          {
+                            "type": "rich_text_section",
+                            "elements": [
+                              {
+                                "type": "text",
+                                "text": "いくつか思いつくけど、もしかしてArchだからってわけじゃない？"
+                              }
+                            ]
+                          },
+                          {
+                            "type": "rich_text_section",
+                            "elements": [
+                              {
+                                "type": "text",
+                                "text": "というか私はLinuxをうまく使ってるだけ？ <- イマココ"
+                              }
+                            ]
+                          }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                      }
+                    ]
+                  }
+                ]
+              }
+            }
+          ],
+          "id": 1,
+          "original_url": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1654000524961629",
+          "fallback": "[May 31st, 2022 5:35 AM] yutakatay: • ArchLinuxの連載とか激アツじゃん\n• けど書くならなにを書くのがいいんだろう・・・？\n• つかArchLinuxのメリットってなんだっけ？？\n• いくつか思いつくけど、もしかしてArchだからってわけじゃない？\n• というか私はLinuxをうまく使ってるだけ？ &lt;- イマココ",
+          "text": "• ArchLinuxの連載とか激アツじゃん\n• けど書くならなにを書くのがいいんだろう・・・？\n• つかArchLinuxのメリットってなんだっけ？？\n• いくつか思いつくけど、もしかしてArchだからってわけじゃない？\n• というか私はLinuxをうまく使ってるだけ？ &lt;- イマココ",
+          "author_name": "yutkat",
+          "author_link": "https://archlinuxjp.slack.com/team/U70QDFN82",
+          "author_icon": "https://avatars.slack-edge.com/2022-03-03/3184293114882_be67d2adfd8032e58911_48.png",
+          "author_subname": "yutkat",
+          "mrkdwn_in": [
+            "text"
+          ],
+          "footer": "#general のスレッド"
+        }
+      ],
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "SE5Qx",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "link",
+                  "url": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1654000524961629"
+                },
+                {
+                  "type": "text",
+                  "text": "\n私も流れに乗れなかったんですが、これは同感でした"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "e036f14c-1497-497e-b317-2ec268c4ecd5",
+      "type": "message",
+      "text": "趣味・趣向が分断されすぎていて、みんなバラバラにいろんなのが好きだし、一般向けは書きにくいよねー。",
+      "user": "U0H9QUFA5",
+      "ts": "1654058620.924669",
+      "team": "T0GFBAM8C",
+      "edited": {
+        "user": "U0H9QUFA5",
+        "ts": "1654058641.000000"
+      },
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "D2Rm",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "趣味・趣向が分断されすぎていて、みんなバラバラにいろんなのが好きだし、一般向けは書きにくいよねー。"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "9c3fd7a4-19d3-4c4c-879a-1763cf041ec1",
+      "type": "message",
+      "text": "ま、雑誌に乗りたい気持ちはわかる。",
+      "user": "U0H9QUFA5",
+      "ts": "1654058489.017939",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "O9RR",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "ま、雑誌に乗りたい気持ちはわかる。"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "43b13d77-59a5-4566-b20a-3b68458e72aa",
+      "type": "message",
+      "text": "半分ぐらいunixpornな気が",
+      "user": "UVB7L4CKH",
+      "ts": "1654058472.345739",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "=0JI",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "半分ぐらいunixpornな気が"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "reactions": [
+        {
+          "name": "wakaru",
+          "users": [
+            "U70QDFN82",
+            "U6DL9D3AB",
+            "U0H9QUFA5",
+            "U01HE1ENNJZ"
+          ],
+          "count": 4
+        }
+      ]
+    },
+    {
+      "client_msg_id": "e6e67fb0-3fb4-44a4-a075-3791ca426114",
+      "type": "message",
+      "text": "もうちょいpublicなところで……",
+      "user": "UUWBU08TU",
+      "ts": "1654058466.274709",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "Iyt",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "もうちょいpublicなところで……"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "301c15dd-1312-4b85-bf59-0be16a580e1d",
+      "type": "message",
+      "text": "そのネタ、ここでやれば十分じゃね？",
+      "user": "U0H9QUFA5",
+      "ts": "1654058456.824649",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "Sdn",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "そのネタ、ここでやれば十分じゃね？"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "b2f3cf7a-f54d-4cf9-ba4f-a09215a1f9f2",
+      "type": "message",
+      "text": "突撃！オタクのArch Linuxはなんか別のところでやると面白そうですね",
+      "user": "UUWBU08TU",
+      "ts": "1654058451.438179",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "LXt=D",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "突撃！オタクのArch Linuxはなんか別のところでやると面白そうですね"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "61f15ab2-e2f9-439f-a55e-005ed9f2f156",
+      "type": "message",
+      "text": "突撃！オタクのArch Linuxなら参加したかったんですが",
+      "user": "UVB7L4CKH",
+      "ts": "1654058426.702429",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "PR0",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "突撃！オタクのArch Linuxなら参加したかったんですが"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "reactions": [
+        {
+          "name": "wakaru",
+          "users": [
+            "U70QDFN82",
+            "U0H9QUFA5",
+            "U01HE1ENNJZ"
+          ],
+          "count": 3
+        }
+      ]
+    },
+    {
+      "client_msg_id": "0c0b7e21-182b-4c8d-af6b-211cdb184874",
+      "type": "message",
+      "text": "最初はこっちが本題だったはずなんですけどね・・・なぜか寄付の方で活動してる・・・",
+      "user": "U70QDFN82",
+      "ts": "1654058423.070099",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "VfvL",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "最初はこっちが本題だったはずなんですけどね・・・なぜか寄付の方で活動してる・・・"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "684ef6a0-57e2-435b-960a-d381c85a8f32",
+      "type": "message",
+      "text": "単純に盛り上がりに乗り損ねたので残念だなと\n書けるほどArchについて知ってる訳でもないですし……",
+      "user": "UVB7L4CKH",
+      "ts": "1654058395.677659",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "4uH",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "単純に盛り上がりに乗り損ねたので残念だなと\n書けるほどArchについて知ってる訳でもないですし……"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "715c9aee-fa6f-4b36-a0b4-4a5ef2effb3b",
+      "type": "message",
+      "text": "お、執筆希望？",
+      "user": "U70QDFN82",
+      "ts": "1654058362.948029",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "8wT",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "お、執筆希望？"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "38f64176-bbe0-48cd-92fd-b9dd79f21a9f",
+      "type": "message",
+      "text": "昨日からずっとJupyterコンテナ弄ってたら昨日の話に乗り損ねた",
+      "user": "UVB7L4CKH",
+      "ts": "1654058313.366139",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "8D/W",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "昨日からずっとJupyterコンテナ弄ってたら昨日の話に乗り損ねた"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "reactions": [
+        {
+          "name": "eyes",
+          "users": [
+            "UUWBU08TU"
+          ],
+          "count": 1
+        }
+      ]
+    },
+    {
+      "client_msg_id": "650878b0-9f6a-4f9d-a3c7-14f1e84b1a13",
+      "type": "message",
+      "text": "ですね",
+      "user": "U70QDFN82",
+      "ts": "1654057239.093559",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "vAhc3",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "ですね"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "3931358c-d472-4438-a362-0f663027eaf9",
+      "type": "message",
+      "text": "ここの <@U3FJYR7MG> さんの可能性",
+      "user": "U0GFBAM8U",
+      "ts": "1654057230.231199",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "5K6k",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "ここの "
+                },
+                {
+                  "type": "user",
+                  "user_id": "U3FJYR7MG"
+                },
+                {
+                  "type": "text",
+                  "text": " さんの可能性"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "18090f10-6b77-40d9-9d30-2d2a36ef2844",
+      "type": "message",
+      "text": "そういえば、こっちのコメントすばらしかった。githubスポンサーするとprofileにアイコン載るのでかっこいい\n<https://www.reddit.com/r/archlinux/comments/v1rlnh/petition_to_add_github_sponsors_as_a_way_to/iao34tv/>",
+      "user": "U0GFBAM8U",
+      "ts": "1654057094.646149",
+      "team": "T0GFBAM8C",
+      "attachments": [
+        {
+          "from_url": "https://www.reddit.com/r/archlinux/comments/v1rlnh/petition_to_add_github_sponsors_as_a_way_to/iao34tv/",
+          "thumb_url": "https://www.redditstatic.com/new-icon.png",
+          "thumb_width": 256,
+          "thumb_height": 256,
+          "service_icon": "http://www.redditstatic.com/desktop2x/img/favicon/apple-icon-57x57.png",
+          "id": 1,
+          "original_url": "https://www.reddit.com/r/archlinux/comments/v1rlnh/petition_to_add_github_sponsors_as_a_way_to/iao34tv/",
+          "fallback": "reddit: Petition to add GitHub Sponsors as a way to donate to Arch Linux project",
+          "text": "I agree with this too. I'd like to have one means of donation. Also, it is lovely to be listed on Github Sponsoring!",
+          "title": "Petition to add GitHub Sponsors as a way to donate to Arch Linux project",
+          "title_link": "https://www.reddit.com/r/archlinux/comments/v1rlnh/petition_to_add_github_sponsors_as_a_way_to/iao34tv/",
+          "service_name": "reddit"
+        }
+      ],
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "F2G",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "そういえば、こっちのコメントすばらしかった。githubスポンサーするとprofileにアイコン載るのでかっこいい\n"
+                },
+                {
+                  "type": "link",
+                  "url": "https://www.reddit.com/r/archlinux/comments/v1rlnh/petition_to_add_github_sponsors_as_a_way_to/iao34tv/"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "5f703975-30ec-4d2c-8ba1-56ec121b18b7",
+      "type": "message",
+      "text": "実は私は英語でFワードを書かれているのを見ても、全く何も感じなくて「ふーん、github嫌いな人もいるんだなあ」くらいにしか思わなかったりするだけど、母国語じゃないからなのか、似たような感覚の人がいれば教えてほしい...これ英語全くできないからなのかも",
+      "user": "U0GFBAM8U",
+      "ts": "1654056994.708159",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "WNP1v",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "実は私は英語でFワードを書かれているのを見ても、全く何も感じなくて「ふーん、github嫌いな人もいるんだなあ」くらいにしか思わなかったりするだけど、母国語じゃないからなのか、似たような感覚の人がいれば教えてほしい...これ英語全くできないからなのかも"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "46bd3e07-dc8b-4a98-9a0b-efadc8ac9733",
+      "type": "message",
+      "text": "down voteされてるクソリプチェーンがおもしろい\n<https://www.reddit.com/r/archlinux/comments/v1rlnh/comment/iaoxdnf/?utm_source=share&amp;utm_medium=web2x&amp;context=3>",
+      "user": "U70QDFN82",
+      "ts": "1654056327.021709",
+      "team": "T0GFBAM8C",
+      "attachments": [
+        {
+          "from_url": "https://www.reddit.com/r/archlinux/comments/v1rlnh/comment/iaoxdnf/?utm_source=share&utm_medium=web2x&context=3",
+          "thumb_url": "https://www.redditstatic.com/new-icon.png",
+          "thumb_width": 256,
+          "thumb_height": 256,
+          "service_icon": "http://www.redditstatic.com/desktop2x/img/favicon/apple-icon-57x57.png",
+          "id": 1,
+          "original_url": "https://www.reddit.com/r/archlinux/comments/v1rlnh/comment/iaoxdnf/?utm_source=share&amp;utm_medium=web2x&amp;context=3",
+          "fallback": "reddit: Petition to add GitHub Sponsors as a way to donate to Arch Linux project",
+          "text": "petition to let github die in a fire",
+          "title": "Petition to add GitHub Sponsors as a way to donate to Arch Linux project",
+          "title_link": "https://www.reddit.com/r/archlinux/comments/v1rlnh/comment/iaoxdnf/?utm_source=share&utm_medium=web2x&context=3",
+          "service_name": "reddit"
+        }
+      ],
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "PH/X0",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "down voteされてるクソリプチェーンがおもしろい\n"
+                },
+                {
+                  "type": "link",
+                  "url": "https://www.reddit.com/r/archlinux/comments/v1rlnh/comment/iaoxdnf/?utm_source=share&utm_medium=web2x&context=3"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "has_more": false,
+  "is_limited": true,
+  "pin_count": 16,
+  "channel_actions_ts": null,
+  "channel_actions_count": 0
+}

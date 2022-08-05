@@ -1,0 +1,2768 @@
+{
+  "ok": true,
+  "latest": "1641007627.000000",
+  "oldest": "1638329227.000000",
+  "messages": [
+    {
+      "type": "message",
+      "subtype": "channel_join",
+      "ts": "1640644900.147800",
+      "user": "U02RN03TY9M",
+      "text": "<@U02RN03TY9M>さんがチャンネルに参加しました",
+      "reactions": [
+        {
+          "name": "archjp",
+          "users": [
+            "U0H9QUFA5",
+            "UGA29R3FH",
+            "U0GFBAM8U",
+            "U02HC93TJEP",
+            "UBEFL3YLE",
+            "U01HE1ENNJZ",
+            "U02ASPM0A6T"
+          ],
+          "count": 7
+        }
+      ]
+    },
+    {
+      "type": "message",
+      "subtype": "bot_message",
+      "text": "<https://www.archlinux.jp/news/libxml22912-6-update-may-require-manual-intervention/|libxml2&gt;=2.9.12-6 への更新は対応作業が必要です>\nバージョン 2.9.12-6 以前の libxml2 パッケージは、コンパイルされた python モジュールが含まれていませんでした。この問題は 2.9.12-6 で修正され、自動作成された追跡されていない pyc ファイルを更新時に上書きする必要があります。更新時に以下のようなエラーが出た場合、\nlibxml2: /usr/lib/python3.10/site-packages/__pycache__/drv_libxml2.cpython-310.opt-1.pyc exists in filesystem\nlibxml2: /usr/lib/python3.10/site-packages/__pycache__/drv_libxml2.cpython-310.pyc exists in filesystem\nlibxml2: /usr/lib/python3.10/site-packages/__pycache__/libxml2.cpython-310.opt-1.pyc exists in filesystem\nlibxml2:...",
+      "ts": "1640620041.147500",
+      "username": "Arch Linux: 最近のニュース",
+      "icons": {
+        "image_36": "https://a.slack-edge.com/80588/img/services/rss_36.png",
+        "image_48": "https://a.slack-edge.com/80588/img/services/rss_48.png",
+        "image_72": "https://a.slack-edge.com/80588/img/services/rss_72.png"
+      },
+      "bot_id": "B3WNLSQ4W",
+      "attachments": [
+        {
+          "from_url": "https://www.archlinux.jp/news/libxml22912-6-update-may-require-manual-intervention/",
+          "thumb_url": "https://www.archlinux.jp/images/amplogo.png",
+          "thumb_width": 1024,
+          "thumb_height": 1024,
+          "service_icon": "https://www.archlinux.jp/images/apple-touch-icon-57x57.png",
+          "id": 1,
+          "original_url": "https://www.archlinux.jp/news/libxml22912-6-update-may-require-manual-intervention/",
+          "fallback": "ニュース: libxml2&gt;=2.9.12-6 への更新は対応作業が必要です",
+          "text": "バージョン 2.9.12-6 以前の libxml2 パッケージは、コンパイルされた python モジュールが含まれていませんでした。この問題は 2.9.12-6 で修正され、自動作成された追跡されていない pyc ファイルを更新時に上書きする必要があります。",
+          "title": "ニュース: libxml2&gt;=2.9.12-6 への更新は対応作業が必要です",
+          "title_link": "https://www.archlinux.jp/news/libxml22912-6-update-may-require-manual-intervention/",
+          "service_name": "archlinux.jp"
+        }
+      ],
+      "edited": {
+        "user": "B3WNLSQ4W",
+        "ts": "1640620041.000000"
+      },
+      "reactions": [
+        {
+          "name": "+1",
+          "users": [
+            "U0GFBAM8U",
+            "U02ASPM0A6T",
+            "U01HE1ENNJZ"
+          ],
+          "count": 3
+        }
+      ]
+    },
+    {
+      "type": "message",
+      "subtype": "bot_message",
+      "text": "",
+      "ts": "1640619449.147400",
+      "bot_id": "B021YB9R1EG",
+      "attachments": [
+        {
+          "from_url": "https://twitter.com/archlinux_jp/status/1475491009400569860",
+          "ts": 1640619444,
+          "id": 1,
+          "fallback": "<https://twitter.com/archlinux_jp|@archlinux_jp>: libxml2&gt;=2.9.12-6 への更新は対応作業が必要です <https://www.archlinux.jp/news/libxml22912-6-update-may-require-manual-intervention/>",
+          "text": "libxml2&gt;=2.9.12-6 への更新は対応作業が必要です <https://www.archlinux.jp/news/libxml22912-6-update-may-require-manual-intervention/>",
+          "pretext": "<https://twitter.com/archlinux_jp/status/1475491009400569860>",
+          "author_name": "Arch Linux JP",
+          "author_link": "https://twitter.com/archlinux_jp/status/1475491009400569860",
+          "author_icon": "https://pbs.twimg.com/profile_images/678900104678342656/2w2dw7Fp_normal.png",
+          "author_subname": "@archlinux_jp",
+          "service_name": "twitter",
+          "service_url": "https://twitter.com",
+          "footer": "Twitter",
+          "footer_icon": "https://a.slack-edge.com/80588/img/services/twitter_pixel_snapped_32.png"
+        }
+      ]
+    },
+    {
+      "type": "message",
+      "subtype": "bot_message",
+      "text": "<https://archlinux.org/news/libxml22912-6-update-may-require-manual-intervention/|libxml2&gt;=2.9.12-6 update may require manual intervention>\nThe libxml2 package prior to version 2.9.12-6 was missing the compiled python modules. This has been fixed in 2.9.12-6, so the upgrade may need to overwrite any untracked pyc files created. If you get errors like these\nlibxml2: /usr/lib/python3.10/site-packages/__pycache__/drv_libxml2.cpython-310.opt-1.pyc exists in filesystem\nlibxml2: /usr/lib/python3.10/site-packages/__pycache__/drv_libxml2.cpython-310.pyc exists in filesystem\nlibxml2:...",
+      "ts": "1640586556.145800",
+      "username": "Arch Linux: Recent news updates",
+      "icons": {
+        "image_36": "https://a.slack-edge.com/80588/img/services/rss_36.png",
+        "image_48": "https://a.slack-edge.com/80588/img/services/rss_48.png",
+        "image_72": "https://a.slack-edge.com/80588/img/services/rss_72.png"
+      },
+      "bot_id": "B3WNLSQ4W",
+      "reactions": [
+        {
+          "name": "+1",
+          "users": [
+            "U02ASPM0A6T",
+            "UJ7P75WB1",
+            "UUWBU08TU"
+          ],
+          "count": 3
+        }
+      ]
+    },
+    {
+      "client_msg_id": "06AC040B-8815-43C8-8CFB-808E749C9A76",
+      "type": "message",
+      "text": "よさそう",
+      "user": "U0GFBAM8U",
+      "ts": "1640479282.144900",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "aCs+r",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "よさそう"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "44241d91-fcab-416c-86f5-82006f07ec9e",
+      "type": "message",
+      "text": "誰かを褒めたくなった時用に:sugee:を作りました\n`:sugee:`",
+      "user": "U02ASPM0A6T",
+      "ts": "1640449852.143600",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "BfgeB",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "誰かを褒めたくなった時用に"
+                },
+                {
+                  "type": "emoji",
+                  "name": "sugee"
+                },
+                {
+                  "type": "text",
+                  "text": "を作りました\n"
+                },
+                {
+                  "type": "text",
+                  "text": ":sugee:",
+                  "style": {
+                    "code": true
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "reactions": [
+        {
+          "name": "sugee",
+          "users": [
+            "UGA29R3FH",
+            "U8T8KB5M4",
+            "U6DL9D3AB",
+            "UEED0BQ4A",
+            "UJ7P75WB1",
+            "U0GFBAM8U",
+            "U7VDHKJHM",
+            "U02HC93TJEP",
+            "U02LHT3R51N",
+            "U01792411FA",
+            "UD124KPDJ",
+            "U70QDFN82",
+            "U027WUR5Z25",
+            "U0H9QUFA5",
+            "U01HE1ENNJZ",
+            "U0239ASAFEC",
+            "U02BLTTQEL9"
+          ],
+          "count": 17
+        }
+      ]
+    },
+    {
+      "type": "message",
+      "subtype": "channel_join",
+      "ts": "1640417855.141200",
+      "user": "U02SAS3C4E5",
+      "text": "<@U02SAS3C4E5>さんがチャンネルに参加しました",
+      "reactions": [
+        {
+          "name": "archjp",
+          "users": [
+            "U02ASPM0A6T",
+            "UJ7P75WB1",
+            "U0GFBAM8U"
+          ],
+          "count": 3
+        }
+      ]
+    },
+    {
+      "type": "message",
+      "subtype": "channel_join",
+      "ts": "1640342662.140700",
+      "user": "U02RTU4D0UV",
+      "text": "<@U02RTU4D0UV>さんがチャンネルに参加しました",
+      "reactions": [
+        {
+          "name": "archjp",
+          "users": [
+            "U02ASPM0A6T",
+            "U0H9QUFA5",
+            "U0GFBAM8U",
+            "UBEFL3YLE",
+            "UJ7P75WB1"
+          ],
+          "count": 5
+        }
+      ]
+    },
+    {
+      "client_msg_id": "961B5061-3E42-4B14-8388-9C03CE0A87EC",
+      "type": "message",
+      "text": "よさそう",
+      "user": "U0GFBAM8U",
+      "ts": "1640324470.139200",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "WFHVi",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "よさそう"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "reactions": [
+        {
+          "name": "benri",
+          "users": [
+            "UGA29R3FH",
+            "U017BNGTHT3",
+            "UJ7P75WB1"
+          ],
+          "count": 3
+        },
+        {
+          "name": "tada",
+          "users": [
+            "U017BNGTHT3"
+          ],
+          "count": 1
+        }
+      ]
+    },
+    {
+      "client_msg_id": "e3fc4590-93af-4203-baa3-f073b66dfeda",
+      "type": "message",
+      "text": "vim-jpから輸入しました:warau:",
+      "user": "UGA29R3FH",
+      "ts": "1640324451.138900",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "oop",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "vim-jpから輸入しました"
+                },
+                {
+                  "type": "emoji",
+                  "name": "warau"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "reactions": [
+        {
+          "name": "warau",
+          "users": [
+            "UCA1NQM5K",
+            "U0GFBAM8U",
+            "UD124KPDJ",
+            "U017BNGTHT3",
+            "UJ7P75WB1",
+            "U3FJYR7MG",
+            "U01HE1ENNJZ"
+          ],
+          "count": 7
+        },
+        {
+          "name": "subara",
+          "users": [
+            "UD124KPDJ",
+            "U017BNGTHT3"
+          ],
+          "count": 2
+        }
+      ]
+    },
+    {
+      "client_msg_id": "EABD7CC6-B7EB-47B0-9AF5-F05F7DAC0AED",
+      "type": "message",
+      "text": "<@U02R6AP6H0C> よろしくです。以前は何を使われてたんですか?",
+      "user": "U0GFBAM8U",
+      "ts": "1639886466.134600",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "/Q3ah",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "user",
+                  "user_id": "U02R6AP6H0C"
+                },
+                {
+                  "type": "text",
+                  "text": " よろしくです。以前は何を使われてたんですか?"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "thread_ts": "1639886466.134600",
+      "reply_count": 5,
+      "reply_users_count": 2,
+      "latest_reply": "1639993501.137900",
+      "reply_users": [
+        "U02R6AP6H0C",
+        "U0GFBAM8U"
+      ],
+      "is_locked": false,
+      "subscribed": true,
+      "last_read": "1639993501.137900"
+    },
+    {
+      "client_msg_id": "4b168ec9-cc7a-46bf-83ff-f47b19daf610",
+      "type": "message",
+      "text": "はじめまして。半年ほど前から使っています。\nよろしくおねがいします〜。",
+      "user": "U02R6AP6H0C",
+      "ts": "1639712978.131800",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "O/A5Q",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "はじめまして。半年ほど前から使っています。\nよろしくおねがいします〜。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "reactions": [
+        {
+          "name": "archjp",
+          "users": [
+            "UGA29R3FH",
+            "UD124KPDJ",
+            "U0PM6EYR1",
+            "U70QDFN82",
+            "U017BNGTHT3",
+            "U02Q7PAJYT1",
+            "U02BLTTQEL9",
+            "UJ7P75WB1",
+            "UCA1NQM5K",
+            "U3FJYR7MG",
+            "U02ASPM0A6T",
+            "U02HC93TJEP",
+            "UQDJXPHJ9",
+            "U0H9QUFA5",
+            "U0GFBAM8U",
+            "UBEFL3YLE",
+            "U0H3FTBBJ"
+          ],
+          "count": 17
+        }
+      ]
+    },
+    {
+      "type": "message",
+      "subtype": "channel_join",
+      "ts": "1639711916.130000",
+      "user": "U02R6AP6H0C",
+      "text": "<@U02R6AP6H0C>さんがチャンネルに参加しました"
+    },
+    {
+      "client_msg_id": "326A03E9-72D9-4926-87A5-19C9DA9E53D0",
+      "type": "message",
+      "text": "こんにちはー",
+      "user": "U0GFBAM8U",
+      "ts": "1639631961.128200",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "yD7",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "こんにちはー"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "5c409356-67e9-474f-93ce-69165001bc0d",
+      "type": "message",
+      "text": "はじめまして、カナやんと言います。一時期ThinkPadでArchを使っていました。\n今はDebianとMacを主に利用していますが、ArchWikiにはいつもお世話になってます。",
+      "user": "U02Q7PAJYT1",
+      "ts": "1639629652.127400",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "Shnl",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "はじめまして、カナやんと言います。一時期ThinkPadでArchを使っていました。\n今はDebianとMacを主に利用していますが、ArchWikiにはいつもお世話になってます。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "thread_ts": "1639629652.127400",
+      "reply_count": 2,
+      "reply_users_count": 2,
+      "latest_reply": "1639699808.129600",
+      "reply_users": [
+        "U019C7VLZ4G",
+        "U02Q7PAJYT1"
+      ],
+      "is_locked": false,
+      "subscribed": false,
+      "reactions": [
+        {
+          "name": "arch",
+          "users": [
+            "U70QDFN82",
+            "UD124KPDJ",
+            "U0H9QUFA5",
+            "U0GFBAM8U",
+            "UGA29R3FH",
+            "U02BLTTQEL9",
+            "UQK4T373M",
+            "UBEFL3YLE",
+            "UCA1NQM5K",
+            "U01792411FA",
+            "U3FJYR7MG",
+            "U02ASPM0A6T",
+            "U017BNGTHT3",
+            "U019C7VLZ4G",
+            "UJ7P75WB1",
+            "UQDJXPHJ9",
+            "U01HE1ENNJZ"
+          ],
+          "count": 17
+        }
+      ]
+    },
+    {
+      "type": "message",
+      "subtype": "channel_join",
+      "ts": "1639480398.125400",
+      "user": "U02Q7PAJYT1",
+      "text": "<@U02Q7PAJYT1>さんがチャンネルに参加しました",
+      "reactions": [
+        {
+          "name": "archjp",
+          "users": [
+            "U02HC93TJEP",
+            "U01HE1ENNJZ",
+            "U0H9QUFA5",
+            "UJ7P75WB1"
+          ],
+          "count": 4
+        }
+      ]
+    },
+    {
+      "type": "message",
+      "subtype": "thread_broadcast",
+      "text": "フォーマットはどうすればいいのでしょうか",
+      "user": "U019C7VLZ4G",
+      "ts": "1639414452.123800",
+      "thread_ts": "1639412770.123300",
+      "root": {
+        "type": "message",
+        "text": "`/etc/fstab` にマウント元と先を ntfs3 で記述して `user` オプション付けとけば一般ユーザ権限でマウントできるはず",
+        "user": "U257W41DW",
+        "ts": "1639412770.123300",
+        "team": "T0GFBAM8C",
+        "blocks": [
+          {
+            "type": "rich_text",
+            "block_id": "9Zcc6",
+            "elements": [
+              {
+                "type": "rich_text_section",
+                "elements": [
+                  {
+                    "type": "text",
+                    "text": "/etc/fstab",
+                    "style": {
+                      "code": true
+                    }
+                  },
+                  {
+                    "type": "text",
+                    "text": " にマウント元と先を ntfs3 で記述して "
+                  },
+                  {
+                    "type": "text",
+                    "text": "user",
+                    "style": {
+                      "code": true
+                    }
+                  },
+                  {
+                    "type": "text",
+                    "text": " オプション付けとけば一般ユーザ権限でマウントできるはず"
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "thread_ts": "1639412770.123300",
+        "reply_count": 5,
+        "reply_users_count": 2,
+        "latest_reply": "1639475776.125100",
+        "reply_users": [
+          "U019C7VLZ4G",
+          "U257W41DW"
+        ],
+        "is_locked": false,
+        "subscribed": false
+      },
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "frQq3",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "フォーマットはどうすればいいのでしょうか"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "client_msg_id": "728a6462-50e3-4259-93b7-e809bbb87f79"
+    },
+    {
+      "type": "message",
+      "text": "`/etc/fstab` にマウント元と先を ntfs3 で記述して `user` オプション付けとけば一般ユーザ権限でマウントできるはず",
+      "user": "U257W41DW",
+      "ts": "1639412770.123300",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "wD2T",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "/etc/fstab",
+                  "style": {
+                    "code": true
+                  }
+                },
+                {
+                  "type": "text",
+                  "text": " にマウント元と先を ntfs3 で記述して "
+                },
+                {
+                  "type": "text",
+                  "text": "user",
+                  "style": {
+                    "code": true
+                  }
+                },
+                {
+                  "type": "text",
+                  "text": " オプション付けとけば一般ユーザ権限でマウントできるはず"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "thread_ts": "1639412770.123300",
+      "reply_count": 5,
+      "reply_users_count": 2,
+      "latest_reply": "1639475776.125100",
+      "reply_users": [
+        "U019C7VLZ4G",
+        "U257W41DW"
+      ],
+      "is_locked": false,
+      "subscribed": false
+    },
+    {
+      "client_msg_id": "03fecc78-8e0c-4f30-b763-ae51dc858d4a",
+      "type": "message",
+      "text": "ntfsのドライバがLinux 5.15で本体にマージされたと思うのですが、このドライバを使うコマンドラインツール(exfatprogsのようなもの)ってまだないのでしょうか?\nntfs-3gだとfuse使うので、このドライバを一般ユーザーが使うにはどうすればいいのだろうと思っている",
+      "user": "U019C7VLZ4G",
+      "ts": "1639412222.122400",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "ZbnJ",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "ntfsのドライバがLinux 5.15で本体にマージされたと思うのですが、このドライバを使うコマンドラインツール(exfatprogsのようなもの)ってまだないのでしょうか?\nntfs-3gだとfuse使うので、このドライバを一般ユーザーが使うにはどうすればいいのだろうと思っている"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "message",
+      "subtype": "channel_join",
+      "ts": "1639384600.115300",
+      "user": "U02QG6LQ3EW",
+      "text": "<@U02QG6LQ3EW>さんがチャンネルに参加しました",
+      "reactions": [
+        {
+          "name": "archjp",
+          "users": [
+            "U02ASPM0A6T",
+            "U02HC93TJEP",
+            "U01HE1ENNJZ",
+            "U0GFBAM8U",
+            "U0H9QUFA5"
+          ],
+          "count": 5
+        }
+      ]
+    },
+    {
+      "client_msg_id": "e8251aa7-57bd-436f-9d25-365dd987fb3a",
+      "type": "message",
+      "text": "更新の量多くてびっくりした",
+      "user": "UGA29R3FH",
+      "ts": "1639360440.114100",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "GyA",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "更新の量多くてびっくりした"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "e60c1313-82a8-48d0-b957-052c9f999d81",
+      "type": "message",
+      "text": "むっちゃ更新きたと思ったらついにPython3.10来ましたね :tada:",
+      "user": "U70QDFN82",
+      "ts": "1639358969.112800",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "cSkdD",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "むっちゃ更新きたと思ったらついにPython3.10来ましたね "
+                },
+                {
+                  "type": "emoji",
+                  "name": "tada",
+                  "unicode": "1f389"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "reactions": [
+        {
+          "name": "tada",
+          "users": [
+            "UPLFHSQ2V",
+            "UD124KPDJ",
+            "U019C7VLZ4G",
+            "U6DL9D3AB",
+            "UGA29R3FH",
+            "U02BLTTQEL9",
+            "U01J1GGMHDJ",
+            "U3FJYR7MG",
+            "U017BNGTHT3",
+            "U01HE1ENNJZ",
+            "U0259L40DC7",
+            "U02LHT3R51N",
+            "U0H9QUFA5"
+          ],
+          "count": 13
+        }
+      ]
+    },
+    {
+      "client_msg_id": "a6cd4b29-4f46-40ef-bd04-d9843c4887ac",
+      "type": "message",
+      "text": "3.5mmジャックにヘッドホンを差して音楽を聞いているのですがたまにパチパチと音が鳴ります\nオーディオ関連のログってどうやって見れますか？\n環境依存もりもりで多分大変なためです\npipewire + pipewire-pulse環境です\nカーネルの方ではsnd_hda_intelが使用されています\n今試すとpulseaudioでも発生しました\nプレイヤーとしてfirefox, mpvを使用しています\nmpvはalsa出力です\n<https://wiki.archlinux.org/title/Advanced_Linux_Sound_Architecture/Troubleshooting#Pops_when_starting_and_stopping_playback>\nこれを試しましたが変化なし\nオーディオ関連なにも分からないのでよろしくお願いします",
+      "user": "U01HE1ENNJZ",
+      "ts": "1639231332.101900",
+      "team": "T0GFBAM8C",
+      "edited": {
+        "user": "U01HE1ENNJZ",
+        "ts": "1639233221.000000"
+      },
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "sfH",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "3.5mmジャックにヘッドホンを差して音楽を聞いているのですがたまにパチパチと音が鳴ります\nオーディオ関連のログってどうやって見れますか？\n環境依存もりもりで多分大変なためです\npipewire + pipewire-pulse環境です\nカーネルの方ではsnd_hda_intelが使用されています\n今試すとpulseaudioでも発生しました\nプレイヤーとしてfirefox, mpvを使用しています\nmpvはalsa出力です\n"
+                },
+                {
+                  "type": "link",
+                  "url": "https://wiki.archlinux.org/title/Advanced_Linux_Sound_Architecture/Troubleshooting#Pops_when_starting_and_stopping_playback"
+                },
+                {
+                  "type": "text",
+                  "text": "\nこれを試しましたが変化なし\nオーディオ関連なにも分からないのでよろしくお願いします"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "thread_ts": "1639231332.101900",
+      "reply_count": 7,
+      "reply_users_count": 4,
+      "latest_reply": "1639400847.116000",
+      "reply_users": [
+        "U6DL9D3AB",
+        "UEED0BQ4A",
+        "U01HE1ENNJZ",
+        "U02ASPM0A6T"
+      ],
+      "is_locked": false,
+      "subscribed": false,
+      "reactions": [
+        {
+          "name": "wakaranai",
+          "users": [
+            "U02ASPM0A6T",
+            "U02BLTTQEL9",
+            "U0H9QUFA5",
+            "UQDJXPHJ9"
+          ],
+          "count": 4
+        }
+      ]
+    },
+    {
+      "client_msg_id": "001aeeec-6cbf-4e14-b8c2-db597cb98ad1",
+      "type": "message",
+      "text": "Piping server いいですね。さっそく自鯖にくみこんじゃおう。CLIﾊﾞﾝｻﾞｲ。",
+      "user": "U0H9QUFA5",
+      "ts": "1639227996.099500",
+      "team": "T0GFBAM8C",
+      "edited": {
+        "user": "U0H9QUFA5",
+        "ts": "1639228015.000000"
+      },
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "Qtx",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "Piping server",
+                  "style": {
+                    "unlink": true
+                  }
+                },
+                {
+                  "type": "text",
+                  "text": " いいですね。さっそく自鯖にくみこんじゃおう。CLIﾊﾞﾝｻﾞｲ。"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "0ca1f767-86ad-437b-bb85-6dfd414aed9a",
+      "type": "message",
+      "text": "単純なファイル共有に使えるソフト、という文脈の話だと<https://qiita.com/nwtgck/items/78309fc529da7776cba0|Piping server>とか使ったことがあります。\nCLIﾊﾞﾝｻﾞｲ民なのでshellから叩けるの面白くて使ってましたが、Web Interfaceもあるのでスマホから送る時はそちらからできます。\n家のPCに鯖建てれば、家の中での転送分はセキュリティ面も困らないのかな...?と素人的には思っています。(外だと困るかもだけれど)",
+      "user": "UQDJXPHJ9",
+      "ts": "1639189288.098100",
+      "team": "T0GFBAM8C",
+      "attachments": [
+        {
+          "from_url": "https://qiita.com/nwtgck/items/78309fc529da7776cba0",
+          "image_url": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-9f5428127621718a910c8b63951390ad.png%3Fixlib%3Drb-4.0.0%26w%3D1200%26mark64%3DaHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTkxNiZ0eHQ9JUUzJTgzJThEJUUzJTgzJTgzJUUzJTgzJTg4JUUzJTgzJUFGJUUzJTgzJUJDJUUzJTgyJUFGJUU4JUI2JThBJUUzJTgxJTk3JUUzJTgxJUE3JUUzJTgzJTkxJUUzJTgyJUE0JUUzJTgzJTk3JUUzJTgxJTk3JUUzJTgxJTlGJUUzJTgyJThBJUUzJTgwJTgxJUUzJTgxJTgyJUUzJTgyJTg5JUUzJTgyJTg2JUUzJTgyJThCJUUzJTgzJTg3JUUzJTgzJTkwJUUzJTgyJUE0JUUzJTgyJUI5JUU5JTk2JTkzJUUzJTgxJUE3JUUzJTgzJTg3JUUzJTgzJUJDJUUzJTgyJUJGJUU4JUJCJUEyJUU5JTgwJTgxJUUzJTgxJTk3JUUzJTgxJTlGJUUzJTgxJTg0JUVGJUJDJTgxJnR4dC1jb2xvcj0lMjMyMTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9NTYmdHh0LWNsaXA9ZWxsaXBzaXMmdHh0LWFsaWduPWxlZnQlMkN0b3Amcz1kOWZlNDY4NmRmMzNmYjdjMDYzYzRjN2YwOTFkNTA4NQ%26mark-x%3D142%26mark-y%3D112%26s%3Dd20bc3e5b5a43c5b6083c0adc3a8bb64?ixlib=rb-4.0.0&w=1200&mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTYxNiZ0eHQ9JTQwbnd0Z2NrJnR4dC1jb2xvcj0lMjMyMTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9MzYmdHh0LWFsaWduPWxlZnQlMkN0b3Amcz1lY2E5MDk2NDRjNWY4OTc1OGRkYTA3ZjRiYjJlYzE2OA&mark-x=142&mark-y=491&s=b383eed4b3a74b163fb8dbabd8aad7bf",
+          "image_width": 476,
+          "image_height": 250,
+          "image_bytes": 56993,
+          "service_icon": "https://cdn.qiita.com/assets/favicons/public/apple-touch-icon-ec5ba42a24ae923f16825592efdc356f.png",
+          "id": 1,
+          "original_url": "https://qiita.com/nwtgck/items/78309fc529da7776cba0",
+          "fallback": "Qiita: ネットワーク越しでパイプしたり、あらゆるデバイス間でデータ転送したい！ - Qiita",
+          "text": "何を解決したいか？ Mac, Windows, Linux, iPhoneやAndroidのスマホ・タブレットとかのデバイス間でデータの転送したいことがあります。 SlackとかLineとかSkypeとかAirDropとかあっ...",
+          "title": "ネットワーク越しでパイプしたり、あらゆるデバイス間でデータ転送したい！ - Qiita",
+          "title_link": "https://qiita.com/nwtgck/items/78309fc529da7776cba0",
+          "service_name": "Qiita"
+        }
+      ],
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "3+8gl",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "単純なファイル共有に使えるソフト、という文脈の話だと"
+                },
+                {
+                  "type": "link",
+                  "url": "https://qiita.com/nwtgck/items/78309fc529da7776cba0",
+                  "text": "Piping server"
+                },
+                {
+                  "type": "text",
+                  "text": "とか使ったことがあります。\nCLIﾊﾞﾝｻﾞｲ民なのでshellから叩けるの面白くて使ってましたが、Web Interfaceもあるのでスマホから送る時はそちらからできます。\n家のPCに鯖建てれば、家の中での転送分はセキュリティ面も困らないのかな...?と素人的には思っています。(外だと困るかもだけれど)"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "reactions": [
+        {
+          "name": "goodpoem",
+          "users": [
+            "U0H9QUFA5"
+          ],
+          "count": 1
+        },
+        {
+          "name": "hee",
+          "users": [
+            "U02ASPM0A6T"
+          ],
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "message",
+      "text": "`btrfs`のスナップショットを`borg`に送る`snapback`ってのがありました。これが使えれば安く多く速く確実にを比較的兼ねられるかもしれません\n<https://aur.archlinux.org/packages/snapback>\nかなりポテンシャル高いツールのはずだけどスター数が3とは。。\n<https://github.com/kbabioch/snapback/>",
+      "files": [
+        {
+          "id": "F02Q8S927QB",
+          "created": 1639126435,
+          "timestamp": 1639126435,
+          "name": "image.png",
+          "title": "image.png",
+          "mimetype": "image/png",
+          "filetype": "png",
+          "pretty_type": "PNG",
+          "user": "U02ASPM0A6T",
+          "editable": false,
+          "size": 19505,
+          "mode": "hosted",
+          "is_external": false,
+          "external_type": "",
+          "is_public": true,
+          "public_url_shared": false,
+          "display_as_bot": false,
+          "username": "",
+          "url_private": "https://files.slack.com/files-pri/T0GFBAM8C-F02Q8S927QB/image.png",
+          "url_private_download": "https://files.slack.com/files-pri/T0GFBAM8C-F02Q8S927QB/download/image.png",
+          "media_display_type": "unknown",
+          "thumb_64": "https://files.slack.com/files-tmb/T0GFBAM8C-F02Q8S927QB-d735500626/image_64.png",
+          "thumb_80": "https://files.slack.com/files-tmb/T0GFBAM8C-F02Q8S927QB-d735500626/image_80.png",
+          "thumb_360": "https://files.slack.com/files-tmb/T0GFBAM8C-F02Q8S927QB-d735500626/image_360.png",
+          "thumb_360_w": 360,
+          "thumb_360_h": 57,
+          "thumb_480": "https://files.slack.com/files-tmb/T0GFBAM8C-F02Q8S927QB-d735500626/image_480.png",
+          "thumb_480_w": 480,
+          "thumb_480_h": 76,
+          "thumb_160": "https://files.slack.com/files-tmb/T0GFBAM8C-F02Q8S927QB-d735500626/image_160.png",
+          "thumb_720": "https://files.slack.com/files-tmb/T0GFBAM8C-F02Q8S927QB-d735500626/image_720.png",
+          "thumb_720_w": 720,
+          "thumb_720_h": 113,
+          "thumb_800": "https://files.slack.com/files-tmb/T0GFBAM8C-F02Q8S927QB-d735500626/image_800.png",
+          "thumb_800_w": 800,
+          "thumb_800_h": 126,
+          "original_w": 958,
+          "original_h": 151,
+          "thumb_tiny": "AwAHADCkWJx04GOlJmkooAXNGfpSUUALn6UUlFAH/9k=",
+          "permalink": "https://archlinuxjp.slack.com/files/U02ASPM0A6T/F02Q8S927QB/image.png",
+          "permalink_public": "https://slack-files.com/T0GFBAM8C-F02Q8S927QB-e4beeb623a",
+          "is_starred": false,
+          "has_rich_preview": false
+        }
+      ],
+      "upload": false,
+      "user": "U02ASPM0A6T",
+      "display_as_bot": false,
+      "ts": "1639126724.094600",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "piB",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "btrfs",
+                  "style": {
+                    "code": true
+                  }
+                },
+                {
+                  "type": "text",
+                  "text": "のスナップショットを"
+                },
+                {
+                  "type": "text",
+                  "text": "borg",
+                  "style": {
+                    "code": true
+                  }
+                },
+                {
+                  "type": "text",
+                  "text": "に送る"
+                },
+                {
+                  "type": "text",
+                  "text": "snapback",
+                  "style": {
+                    "code": true
+                  }
+                },
+                {
+                  "type": "text",
+                  "text": "ってのがありました。これが使えれば安く多く速く確実にを比較的兼ねられるかもしれません\n"
+                },
+                {
+                  "type": "link",
+                  "url": "https://aur.archlinux.org/packages/snapback"
+                },
+                {
+                  "type": "text",
+                  "text": "\nかなりポテンシャル高いツールのはずだけどスター数が3とは。。\n"
+                },
+                {
+                  "type": "link",
+                  "url": "https://github.com/kbabioch/snapback/"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "client_msg_id": "f7ec360c-0a06-4730-9a8b-a99a58508af0",
+      "attachments": [
+        {
+          "from_url": "https://aur.archlinux.org/packages/snapback",
+          "service_icon": "https://aur.archlinux.org/images/favicon.ico",
+          "id": 1,
+          "original_url": "https://aur.archlinux.org/packages/snapback",
+          "fallback": "AUR (en) - snapback",
+          "text": "Set of scripts to glue together snapshot capabilities from btrfs and backup solutions from borg in a reliable and automated way.",
+          "title": "AUR (en) - snapback",
+          "title_link": "https://aur.archlinux.org/packages/snapback",
+          "service_name": "aur.archlinux.org"
+        },
+        {
+          "from_url": "https://github.com/kbabioch/snapback/",
+          "image_url": "https://opengraph.githubassets.com/0406369641fbab9785d491bd9b7669de074b22d087b1ca4bb8642281bb8377dd/kbabioch/snapback",
+          "image_width": 500,
+          "image_height": 250,
+          "image_bytes": 100159,
+          "service_icon": "https://a.slack-edge.com/80588/img/unfurl_icons/github.png",
+          "id": 2,
+          "original_url": "https://github.com/kbabioch/snapback/",
+          "fallback": "GitHub: GitHub - kbabioch/snapback: Set of scripts to glue together snapshot capabilities from btrfs and backup solutions from borg in a reliable and automated way.",
+          "text": "Set of scripts to glue together snapshot capabilities from btrfs and backup solutions from borg in a reliable and automated way. - GitHub - kbabioch/snapback: Set of scripts to glue together snapsh...",
+          "title": "GitHub - kbabioch/snapback: Set of scripts to glue together snapshot capabilities from btrfs and backup solutions from borg in a reliable and automated way.",
+          "title_link": "https://github.com/kbabioch/snapback/",
+          "service_name": "GitHub"
+        }
+      ],
+      "reactions": [
+        {
+          "name": "hee",
+          "users": [
+            "U70QDFN82",
+            "U01J1GGMHDJ",
+            "UGA29R3FH",
+            "U017BNGTHT3",
+            "U5W6QDSHZ"
+          ],
+          "count": 5
+        }
+      ]
+    },
+    {
+      "client_msg_id": "d7a535fa-3e85-4828-934b-69093354019b",
+      "type": "message",
+      "text": "マジで消えたらヤバいデータはMOとかM-DISCに突っ込みたい。",
+      "user": "U017BNGTHT3",
+      "ts": "1639120062.093400",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "zimR",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "マジで消えたらヤバいデータはMOとかM-DISCに突っ込みたい。"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "643e6213-7ffc-48cf-a66f-09eab0382e51",
+      "type": "message",
+      "text": "btrfs snapshotで防げるやろと思ってるマン(流石にそんなマイナーFS狙うランサムウェアがあるとは思えないw)",
+      "user": "UGA29R3FH",
+      "ts": "1639119639.091500",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "doS",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "btrfs snapshotで防げるやろと思ってるマン(流石にそんなマイナーFS狙うランサムウェアがあるとは思えないw)"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "reactions": [
+        {
+          "name": "wakaru",
+          "users": [
+            "U01J1GGMHDJ",
+            "U017BNGTHT3",
+            "U01HE1ENNJZ"
+          ],
+          "count": 3
+        },
+        {
+          "name": "sparkles",
+          "users": [
+            "U02ASPM0A6T"
+          ],
+          "count": 1
+        }
+      ]
+    },
+    {
+      "client_msg_id": "99c350c1-a0f5-45ef-b342-67c7e57ce023",
+      "type": "message",
+      "text": "baculaでランサムウェア耐性のあるバックアップシステム作りたいって100年ぐらい思ってる（ランサムウェア対策まで話を広げる）",
+      "user": "U01J1GGMHDJ",
+      "ts": "1639119585.090300",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "hkZhO",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "baculaでランサムウェア耐性のあるバックアップシステム作りたいって100年ぐらい思ってる（ランサムウェア対策まで話を広げる）"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "1df52aa8-d9c6-4e67-ab55-ed484d6ddd3c",
+      "type": "message",
+      "text": "多様性すごい",
+      "user": "UGA29R3FH",
+      "ts": "1639119528.088900",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "l/A",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "多様性すごい"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "b4d86363-00a7-4269-b67d-484be213da8c",
+      "type": "message",
+      "text": "同期とバックアップの話題でこれだけ振れ幅があるのがすごい(ローカルのちょっとしたファイルの交換からフルバックアップまで)。",
+      "user": "U0H9QUFA5",
+      "ts": "1639119266.087600",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "cEhcM",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "同期とバックアップの話題でこれだけ振れ幅があるのがすごい(ローカルのちょっとしたファイルの交換からフルバックアップまで)。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "reactions": [
+        {
+          "name": "wakaru",
+          "users": [
+            "UGA29R3FH"
+          ],
+          "count": 1
+        }
+      ]
+    },
+    {
+      "client_msg_id": "b1ed1f1b-43ca-420b-8785-442456b9b198",
+      "type": "message",
+      "text": "大量データを暗号化バックアップして安い倉庫や実家にしまって、そこからの差分バックアップ分だけをクラウドに上げていくってのができたらいいかもしれませんね",
+      "user": "U02ASPM0A6T",
+      "ts": "1639115533.086200",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "m4=H",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "大量データを暗号化バックアップして安い倉庫や実家にしまって、そこからの差分バックアップ分だけをクラウドに上げていくってのができたらいいかもしれませんね"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "d602ca3f-8ec7-45a5-9ba1-0244d0fd4ed1",
+      "type": "message",
+      "text": "結局NASからオブジェクトストレージに定期バックアップが一番堅牢な気はしている",
+      "user": "UVB7L4CKH",
+      "ts": "1639111372.085100",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "ob3",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "結局NASからオブジェクトストレージに定期バックアップが一番堅牢な気はしている"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "reactions": [
+        {
+          "name": "wakaru",
+          "users": [
+            "U70QDFN82",
+            "U6DL9D3AB",
+            "UGA29R3FH",
+            "U3FJYR7MG"
+          ],
+          "count": 4
+        }
+      ]
+    },
+    {
+      "client_msg_id": "8ab18a24-30d4-4aff-9a4d-3fc207b6b40e",
+      "type": "message",
+      "text": "結局一番怖いのは災害な気がしていて普通の自宅だとまあ回避不能ですからね・・・",
+      "user": "U70QDFN82",
+      "ts": "1639111331.084600",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "x5PO9",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "結局一番怖いのは災害な気がしていて普通の自宅だとまあ回避不能ですからね・・・"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "d39a7eac-489e-4a2a-97a5-6b7399892291",
+      "type": "message",
+      "text": "上等な :eggplant: を買ったらオンプレでも色々バックアップするかもしれませんが……",
+      "user": "UVB7L4CKH",
+      "ts": "1639111276.083700",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "T5XA",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "上等な "
+                },
+                {
+                  "type": "emoji",
+                  "name": "eggplant",
+                  "unicode": "1f346"
+                },
+                {
+                  "type": "text",
+                  "text": " を買ったらオンプレでも色々バックアップするかもしれませんが……"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "47a13632-070e-491f-9973-4b330b19cf43",
+      "type": "message",
+      "text": "私は自宅サーバーの管理めんどいし意外とコストかかるからクラウドにしちゃってますね・・・",
+      "user": "U70QDFN82",
+      "ts": "1639111243.083100",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "L7vs",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "私は自宅サーバーの管理めんどいし意外とコストかかるからクラウドにしちゃってますね・・・"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "8bbcf649-f53c-4f64-ba67-0c76b59e2965",
+      "type": "message",
+      "text": "クラウドストレージは一切信用できないので避けられる場面では絶対避けてる",
+      "user": "UGA29R3FH",
+      "ts": "1639111211.082400",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "46Oe",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "クラウドストレージは一切信用できないので避けられる場面では絶対避けてる"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "reactions": [
+        {
+          "name": "sorena",
+          "users": [
+            "U0H9QUFA5"
+          ],
+          "count": 1
+        }
+      ]
+    },
+    {
+      "client_msg_id": "408ece07-75e0-4db5-888f-ae6b651a38d5",
+      "type": "message",
+      "text": "あー、家で送るならマウントする手があったか",
+      "user": "UGA29R3FH",
+      "ts": "1639111191.081600",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "qmftW",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "あー、家で送るならマウントする手があったか"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "6e585c5c-a34b-475f-8ce2-a90576ee4a71",
+      "type": "message",
+      "text": "写真はAmazonとGoogleをそれぞれ信用する事にしている",
+      "user": "UVB7L4CKH",
+      "ts": "1639111174.081000",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "Npi",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "写真はAmazonとGoogleをそれぞれ信用する事にしている"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "2ca70366-b164-4d7e-bc9b-1d2800c98521",
+      "type": "message",
+      "text": "というか私の利用だと写真バックアップするとき以外であんまりPCとつなぐ用途がない・・・\n写真バックアップは有線でマウントするし",
+      "user": "U70QDFN82",
+      "ts": "1639111135.080600",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "t2AL",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "というか私の利用だと写真バックアップするとき以外であんまりPCとつなぐ用途がない・・・\n写真バックアップは有線でマウントするし"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "8d42bf77-945c-4e5b-964c-3b1c4dd01859",
+      "type": "message",
+      "text": "Syncthing、試した時Androidアプリがバグってて機能しなかったので諦めた記憶がある",
+      "user": "UGA29R3FH",
+      "ts": "1639111082.079600",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "3iV05",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "Syncthing、試した時Androidアプリがバグってて機能しなかったので諦めた記憶がある"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "9c72382b-016f-46da-ad09-50ea530308e5",
+      "type": "message",
+      "text": "syncthing で共有しているけど、何度やっても使いかたがピンとこない。いつも同期するのに躓く。",
+      "user": "U0H9QUFA5",
+      "ts": "1639111047.078100",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "W9+mp",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "syncthing で共有しているけど、何度やっても使いかたがピンとこない。いつも同期するのに躓く。"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "3739d87a-b5bc-439c-b1cb-3b2127a65b12",
+      "type": "message",
+      "text": "私はめんどくさいからGoogleDrive経由だ",
+      "user": "U70QDFN82",
+      "ts": "1639111035.077800",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "wUEMY",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "私はめんどくさいからGoogleDrive経由だ"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "reactions": [
+        {
+          "name": "sorena",
+          "users": [
+            "U0H9QUFA5"
+          ],
+          "count": 1
+        }
+      ]
+    },
+    {
+      "client_msg_id": "7faf600e-399b-40d3-8f41-bbc60a7cb59c",
+      "type": "message",
+      "text": "android to linux pcはpc側でwebdavサーバー立ち上げてなんとかしてしまっている（セキュリティアレだけど速い）",
+      "user": "U01J1GGMHDJ",
+      "ts": "1639109617.076800",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "PCQ",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "android to linux pcはpc側でwebdavサーバー立ち上げてなんとかしてしまっている（セキュリティアレだけど速い）"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "reactions": [
+        {
+          "name": "goodpoem",
+          "users": [
+            "U0H9QUFA5"
+          ],
+          "count": 1
+        }
+      ]
+    },
+    {
+      "client_msg_id": "67156582-f743-40b2-9398-9af6f480c71b",
+      "type": "message",
+      "text": "(面倒臭いけど速い)",
+      "user": "UGA29R3FH",
+      "ts": "1639106283.074500",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "sxc",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "(面倒臭いけど速い)"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "reactions": [
+        {
+          "name": "arch",
+          "users": [
+            "U02ASPM0A6T"
+          ],
+          "count": 1
+        }
+      ]
+    },
+    {
+      "client_msg_id": "2cd2bcb9-255d-4385-a346-09a5e69bf8db",
+      "type": "message",
+      "text": "(termuxでssh走らせてrsyncしてるマン、面倒臭い…)",
+      "user": "UGA29R3FH",
+      "ts": "1639106273.074100",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "o2sZ",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "(termuxでssh走らせてrsyncしてるマン、面倒臭い…)"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "reactions": [
+        {
+          "name": "goodpoem",
+          "users": [
+            "U0H9QUFA5",
+            "U01HE1ENNJZ"
+          ],
+          "count": 2
+        }
+      ]
+    },
+    {
+      "client_msg_id": "92c72afc-2e81-431a-be67-c30f620d1c70",
+      "type": "message",
+      "text": "Androidの間でワイヤレスでファイルを共有するnearby shareってLinuxでもつかえるのでしょうか?\nKDE Connectのファイル共有でこのプロトコルが使われている(実際Bluetoothファイル共有よりも速度が速い)ようなのですがAndroidのnearby shareからはLinux PCが見えないらしく\n(Android・PC間でのKDE Connectアプリでのファイル共有はできるが、Androidデバイスの「共有」メニューからnearby shareを選んでも宛先としてLinux PCが表示されない)\n見えるようにする方法はないのかなぁと探しています。",
+      "user": "U019C7VLZ4G",
+      "ts": "1639104940.073200",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "P/4",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "Androidの間でワイヤレスでファイルを共有するnearby shareってLinuxでもつかえるのでしょうか?\nKDE Connectのファイル共有でこのプロトコルが使われている(実際Bluetoothファイル共有よりも速度が速い)ようなのですがAndroidのnearby shareからはLinux PCが見えないらしく\n(Android・PC間でのKDE Connectアプリでのファイル共有はできるが、Androidデバイスの「共有」メニューからnearby shareを選んでも宛先としてLinux PCが表示されない)\n見えるようにする方法はないのかなぁと探しています。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "reactions": [
+        {
+          "name": "goodpoem",
+          "users": [
+            "U0H9QUFA5"
+          ],
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "message",
+      "text": "フォーラム登録者はそのくらいいるようですね\nトピック数と投稿数も相当なものです。\n- Total number of *registered users: 110,138*\n- Total number of *topics: 261,267*\n- Total number of *posts: 1,951,433*\n- Registered users online: 5\n- Guests online: 389\n<https://bbs.archlinux.org/>\nインターネット人口が世界人口80億人の半分の40億人と仮定すると、その中で英語版フォーラムに登録した人の比率は 36万人に1人 くらい\n```$ echo 40000000000/110000 | bc\n363636\n$```\n比率的には非常に僅かだとしても、母数がでかければその偏った特性あるものだけが膨大に集まって熱狂的なコミュニティとなるってことなんでしょうね",
+      "files": [
+        {
+          "id": "F02Q64T804T",
+          "created": 1639074040,
+          "timestamp": 1639074040,
+          "name": "image.png",
+          "title": "image.png",
+          "mimetype": "image/png",
+          "filetype": "png",
+          "pretty_type": "PNG",
+          "user": "U02ASPM0A6T",
+          "editable": false,
+          "size": 46281,
+          "mode": "hosted",
+          "is_external": false,
+          "external_type": "",
+          "is_public": true,
+          "public_url_shared": false,
+          "display_as_bot": false,
+          "username": "",
+          "url_private": "https://files.slack.com/files-pri/T0GFBAM8C-F02Q64T804T/image.png",
+          "url_private_download": "https://files.slack.com/files-pri/T0GFBAM8C-F02Q64T804T/download/image.png",
+          "media_display_type": "unknown",
+          "thumb_64": "https://files.slack.com/files-tmb/T0GFBAM8C-F02Q64T804T-4d6e7c7d97/image_64.png",
+          "thumb_80": "https://files.slack.com/files-tmb/T0GFBAM8C-F02Q64T804T-4d6e7c7d97/image_80.png",
+          "thumb_360": "https://files.slack.com/files-tmb/T0GFBAM8C-F02Q64T804T-4d6e7c7d97/image_360.png",
+          "thumb_360_w": 360,
+          "thumb_360_h": 157,
+          "thumb_480": "https://files.slack.com/files-tmb/T0GFBAM8C-F02Q64T804T-4d6e7c7d97/image_480.png",
+          "thumb_480_w": 480,
+          "thumb_480_h": 210,
+          "thumb_160": "https://files.slack.com/files-tmb/T0GFBAM8C-F02Q64T804T-4d6e7c7d97/image_160.png",
+          "thumb_720": "https://files.slack.com/files-tmb/T0GFBAM8C-F02Q64T804T-4d6e7c7d97/image_720.png",
+          "thumb_720_w": 720,
+          "thumb_720_h": 314,
+          "thumb_800": "https://files.slack.com/files-tmb/T0GFBAM8C-F02Q64T804T-4d6e7c7d97/image_800.png",
+          "thumb_800_w": 800,
+          "thumb_800_h": 349,
+          "thumb_960": "https://files.slack.com/files-tmb/T0GFBAM8C-F02Q64T804T-4d6e7c7d97/image_960.png",
+          "thumb_960_w": 960,
+          "thumb_960_h": 419,
+          "original_w": 971,
+          "original_h": 424,
+          "thumb_tiny": "AwAUADCjxRR26/rSUAFFFH+etAC8UcYo/GjFADMmjJpKKAFyaMmkooAcDRQOlFAH/9k=",
+          "permalink": "https://archlinuxjp.slack.com/files/U02ASPM0A6T/F02Q64T804T/image.png",
+          "permalink_public": "https://slack-files.com/T0GFBAM8C-F02Q64T804T-59258882f2",
+          "is_starred": false,
+          "has_rich_preview": false
+        }
+      ],
+      "upload": false,
+      "user": "U02ASPM0A6T",
+      "display_as_bot": false,
+      "ts": "1639074445.066500",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "/JUQy",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "フォーラム登録者はそのくらいいるようですね\nトピック数と投稿数も相当なものです。\n- Total number of "
+                },
+                {
+                  "type": "text",
+                  "text": "registered users: 110,138",
+                  "style": {
+                    "bold": true
+                  }
+                },
+                {
+                  "type": "text",
+                  "text": "\n- Total number of "
+                },
+                {
+                  "type": "text",
+                  "text": "topics: 261,267",
+                  "style": {
+                    "bold": true
+                  }
+                },
+                {
+                  "type": "text",
+                  "text": "\n- Total number of "
+                },
+                {
+                  "type": "text",
+                  "text": "posts: 1,951,433",
+                  "style": {
+                    "bold": true
+                  }
+                },
+                {
+                  "type": "text",
+                  "text": "\n- Registered users online: 5\n- Guests online: 389\n"
+                },
+                {
+                  "type": "link",
+                  "url": "https://bbs.archlinux.org/"
+                },
+                {
+                  "type": "text",
+                  "text": "\nインターネット人口が世界人口80億人の半分の40億人と仮定すると、その中で英語版フォーラムに登録した人の比率は 36万人に1人 くらい\n"
+                }
+              ]
+            },
+            {
+              "type": "rich_text_preformatted",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "$ echo 40000000000/110000 | bc\n363636\n$"
+                }
+              ]
+            },
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "比率的には非常に僅かだとしても、母数がでかければその偏った特性あるものだけが膨大に集まって熱狂的なコミュニティとなるってことなんでしょうね"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "client_msg_id": "838c24c4-0671-40aa-8abb-4e8cb7b15a4f",
+      "reactions": [
+        {
+          "name": "hee",
+          "users": [
+            "U70QDFN82",
+            "U017BNGTHT3",
+            "U0H9QUFA5"
+          ],
+          "count": 3
+        }
+      ]
+    },
+    {
+      "type": "message",
+      "text": "50人１ページだから110150\nで約11万人ってところかな？（登録してない人もいるだろうし逆に登録してたけどもう使ってない人もいるだろうし）",
+      "files": [
+        {
+          "id": "F02Q55181NE",
+          "created": 1639064278,
+          "timestamp": 1639064278,
+          "name": "2021-12-10_00-37.png",
+          "title": "2021-12-10_00-37.png",
+          "mimetype": "image/png",
+          "filetype": "png",
+          "pretty_type": "PNG",
+          "user": "U70QDFN82",
+          "editable": false,
+          "size": 16668,
+          "mode": "hosted",
+          "is_external": false,
+          "external_type": "",
+          "is_public": true,
+          "public_url_shared": false,
+          "display_as_bot": false,
+          "username": "",
+          "url_private": "https://files.slack.com/files-pri/T0GFBAM8C-F02Q55181NE/2021-12-10_00-37.png",
+          "url_private_download": "https://files.slack.com/files-pri/T0GFBAM8C-F02Q55181NE/download/2021-12-10_00-37.png",
+          "media_display_type": "unknown",
+          "thumb_64": "https://files.slack.com/files-tmb/T0GFBAM8C-F02Q55181NE-8060054f43/2021-12-10_00-37_64.png",
+          "thumb_80": "https://files.slack.com/files-tmb/T0GFBAM8C-F02Q55181NE-8060054f43/2021-12-10_00-37_80.png",
+          "thumb_360": "https://files.slack.com/files-tmb/T0GFBAM8C-F02Q55181NE-8060054f43/2021-12-10_00-37_360.png",
+          "thumb_360_w": 360,
+          "thumb_360_h": 84,
+          "thumb_480": "https://files.slack.com/files-tmb/T0GFBAM8C-F02Q55181NE-8060054f43/2021-12-10_00-37_480.png",
+          "thumb_480_w": 480,
+          "thumb_480_h": 112,
+          "thumb_160": "https://files.slack.com/files-tmb/T0GFBAM8C-F02Q55181NE-8060054f43/2021-12-10_00-37_160.png",
+          "thumb_720": "https://files.slack.com/files-tmb/T0GFBAM8C-F02Q55181NE-8060054f43/2021-12-10_00-37_720.png",
+          "thumb_720_w": 720,
+          "thumb_720_h": 167,
+          "thumb_800": "https://files.slack.com/files-tmb/T0GFBAM8C-F02Q55181NE-8060054f43/2021-12-10_00-37_800.png",
+          "thumb_800_w": 800,
+          "thumb_800_h": 186,
+          "original_w": 847,
+          "original_h": 197,
+          "thumb_tiny": "AwALADCj2pKO1FAC9qT8aO1FAC496T8aUUlAH//Z",
+          "permalink": "https://archlinuxjp.slack.com/files/U70QDFN82/F02Q55181NE/2021-12-10_00-37.png",
+          "permalink_public": "https://slack-files.com/T0GFBAM8C-F02Q55181NE-743e05f7f3",
+          "is_starred": false,
+          "has_rich_preview": false
+        }
+      ],
+      "upload": false,
+      "user": "U70QDFN82",
+      "display_as_bot": false,
+      "ts": "1639064340.057200",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "ESxK",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "50人１ページだから110150\nで約11万人ってところかな？（登録してない人もいるだろうし逆に登録してたけどもう使ってない人もいるだろうし）"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "edited": {
+        "user": "U70QDFN82",
+        "ts": "1639064602.000000"
+      },
+      "client_msg_id": "d1237c4d-5e25-41bf-a207-a35226c79478"
+    },
+    {
+      "client_msg_id": "2487c6ae-4184-4351-8be2-9fee35f6106d",
+      "type": "message",
+      "text": "Archの非公式Discordは1200人くらいだ。ここ日本だけなのにやたら人いるな・・・\nつか、archlinux.orgに登録してる人数見ればいいのかな？",
+      "user": "U70QDFN82",
+      "ts": "1639064127.056100",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "QBU",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "Archの非公式Discordは1200人くらいだ。ここ日本だけなのにやたら人いるな・・・\nつか、archlinux.orgに登録してる人数見ればいいのかな？"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "2206d333-205d-4e44-893c-1ee3dbf8a487",
+      "type": "message",
+      "text": "というか今までArchユーザーってリアルで１人しかあったことない・・・\nネット上にはゴロゴロいるのに・・・",
+      "user": "U70QDFN82",
+      "ts": "1639063904.054800",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "IGINI",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "というか今までArchユーザーってリアルで１人しかあったことない・・・\nネット上にはゴロゴロいるのに・・・"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "f7bd3b0b-61a4-40d9-9ecb-36ba16a8de6b",
+      "type": "message",
+      "text": "上のReddit4000人も投票しててビビってる。Archユーザーって世界に何人いるんだろう・・・\nLinuxディストリビューションの割合みたいなのはたまに見るけど人数換算されてるのあんまり見たことない。",
+      "user": "U70QDFN82",
+      "ts": "1639063870.054000",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "W1Ze",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "上のReddit4000人も投票しててビビってる。Archユーザーって世界に何人いるんだろう・・・\nLinuxディストリビューションの割合みたいなのはたまに見るけど人数換算されてるのあんまり見たことない。"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "62159e9c-1cf6-45ab-9e2e-bf4980a625bc",
+      "type": "message",
+      "text": "Redditで挙がってるTrizenも一時期使ってましたね。\npacmanをそのまま呼んでたはずなので、libalpmのバージョン不一致で動かなくなるということはない。",
+      "user": "U017BNGTHT3",
+      "ts": "1639014442.052000",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "EMVH",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "Redditで挙がってるTrizenも一時期使ってましたね。\npacmanをそのまま呼んでたはずなので、libalpmのバージョン不一致で動かなくなるということはない。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "reactions": [
+        {
+          "name": "hee",
+          "users": [
+            "U70QDFN82",
+            "U02ASPM0A6T",
+            "U02LCA8SU0M",
+            "U5W6QDSHZ"
+          ],
+          "count": 4
+        }
+      ]
+    },
+    {
+      "client_msg_id": "6ae2174a-2c6e-446f-8d52-03cfca022b08",
+      "type": "message",
+      "text": "ここらへんはメジャーで安定して動けばいい派だけど、↑のスレッドでみんないろいろ使ってて多様性すごい・・・",
+      "user": "U70QDFN82",
+      "ts": "1639013192.049300",
+      "team": "T0GFBAM8C",
+      "edited": {
+        "user": "U70QDFN82",
+        "ts": "1639013219.000000"
+      },
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "y6i",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "ここらへんはメジャーで安定して動けばいい派だけど、↑のスレッドでみんないろいろ使ってて多様性すごい・・・"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "2327ed48-b0ca-4cf9-a103-70db89175b97",
+      "type": "message",
+      "text": "paruはデフォルトでPKGBUILD見せてくれるのが好きですね\n逆にyayはなにもわからん",
+      "user": "U01HE1ENNJZ",
+      "ts": "1639012661.048400",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "RB3",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "paruはデフォルトでPKGBUILD見せてくれるのが好きですね\n逆にyayはなにもわからん"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "reactions": [
+        {
+          "name": "wakaru",
+          "users": [
+            "UGA29R3FH",
+            "U02ASPM0A6T",
+            "U5W6QDSHZ"
+          ],
+          "count": 3
+        }
+      ]
+    },
+    {
+      "client_msg_id": "3f221745-c03b-4eb0-8ccb-2c7a7e820362",
+      "type": "message",
+      "text": "なるほど、yayが死んだ時に一度使ってて、微妙に使い勝手が違ったのでyayが復活したら戻してしまった",
+      "user": "UVB7L4CKH",
+      "ts": "1639010031.047200",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "rL5",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "なるほど、yayが死んだ時に一度使ってて、微妙に使い勝手が違ったのでyayが復活したら戻してしまった"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "9bce057a-37cf-468b-a64c-9ed2151e5b90",
+      "type": "message",
+      "text": "できますね、確か",
+      "user": "UGA29R3FH",
+      "ts": "1639009987.046500",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "PXe",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "できますね、確か"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "df04f1b6-fc06-4b3e-a2b7-19f88de8ef33",
+      "type": "message",
+      "text": "paru、エンター連打でアップデートできましたっけ",
+      "user": "UVB7L4CKH",
+      "ts": "1639009951.046300",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "B9ZH",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "paru、エンター連打でアップデートできましたっけ"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "93e837d9-31eb-47e8-ad79-34b596aa704b",
+      "type": "message",
+      "text": "yayが一度死んだ時になんとなくparuに乗り換えてからそのまま",
+      "user": "UGA29R3FH",
+      "ts": "1639009925.046000",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "JUUg",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "yayが一度死んだ時になんとなくparuに乗り換えてからそのまま"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "reactions": [
+        {
+          "name": "me-too",
+          "users": [
+            "U70QDFN82",
+            "UBEFL3YLE",
+            "U5W6QDSHZ"
+          ],
+          "count": 3
+        }
+      ]
+    },
+    {
+      "client_msg_id": "0be9c257-9cb9-438d-b314-e6ee0f1a603f",
+      "type": "message",
+      "text": "<https://www.reddit.com/r/archlinux/comments/rbtnjt/paru_vs_yay_vs_other_please_specify_in_comments/>",
+      "user": "U70QDFN82",
+      "ts": "1639009746.045500",
+      "team": "T0GFBAM8C",
+      "attachments": [
+        {
+          "from_url": "https://www.reddit.com/r/archlinux/comments/rbtnjt/paru_vs_yay_vs_other_please_specify_in_comments/",
+          "thumb_url": "https://www.redditstatic.com/new-icon.png",
+          "thumb_width": 256,
+          "thumb_height": 256,
+          "service_icon": "http://www.redditstatic.com/desktop2x/img/favicon/apple-icon-57x57.png",
+          "id": 1,
+          "original_url": "https://www.reddit.com/r/archlinux/comments/rbtnjt/paru_vs_yay_vs_other_please_specify_in_comments/",
+          "fallback": "reddit: Paru vs Yay vs Other (please specify in comments)",
+          "text": "And why",
+          "title": "Paru vs Yay vs Other (please specify in comments)",
+          "title_link": "https://www.reddit.com/r/archlinux/comments/rbtnjt/paru_vs_yay_vs_other_please_specify_in_comments/",
+          "service_name": "reddit"
+        }
+      ],
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "kZRJ1",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "link",
+                  "url": "https://www.reddit.com/r/archlinux/comments/rbtnjt/paru_vs_yay_vs_other_please_specify_in_comments/"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "f54b8637-7d86-4600-977d-919a251fee67",
+      "type": "message",
+      "text": "`<https://wiki.archlinux.jp/?search=キーワード>`\nの形で検索用のツールに入れるのもいいと思います\n私は`qutebrowser`の config.py に下記を入れています\narch-wiki-jp は Shift+o`a キーワード`で検索できます\n```c.url.searchengines = {\n    \"DEFAULT\": \"<https://www.google.co.jp/search?q={}>\", \n    \"a\": \"<https://wiki.archlinux.jp/?search={}>\", \n    \"ae\": \"<https://wiki.archlinux.org/index.php?search={}>\", \n    \"aj\": \"<https://translate.google.com/translate?sl=en&amp;tl=ja&amp;u=https://wiki.archlinux.org/index.php?search={}>\", \n    \"me\": \"<https://man.archlinux.org/man/{}>\", \n    \"m\": \"<https://translate.google.com/translate?sl=en&amp;tl=ja&amp;u=https://man.archlinux.org/man/{}>\", \n    \"ap\": \"<https://archlinux.org/packages/?q={}>\", \n    \"gh\": \"<https://github.com/search?q={}>\", \n    \"mf\": \"<https://forum.manjaro.org/search?q={}>\", \n    \"w\": \"<https://ejje.weblio.jp/content/{}>\", \n    \"yt\": \"<https://www.youtube.com/results?search_query={}>\"\n}```",
+      "user": "U02ASPM0A6T",
+      "ts": "1638965321.045000",
+      "team": "T0GFBAM8C",
+      "edited": {
+        "user": "U02ASPM0A6T",
+        "ts": "1638986175.000000"
+      },
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "09RU7",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "link",
+                  "url": "https://wiki.archlinux.jp/?search=キーワード",
+                  "style": {
+                    "code": true
+                  }
+                },
+                {
+                  "type": "text",
+                  "text": "\nの形で検索用のツールに入れるのもいいと思います\n私は"
+                },
+                {
+                  "type": "text",
+                  "text": "qutebrowser",
+                  "style": {
+                    "code": true
+                  }
+                },
+                {
+                  "type": "text",
+                  "text": "の config.py に下記を入れています\narch-wiki-jp は Shift+o"
+                },
+                {
+                  "type": "text",
+                  "text": "a キーワード",
+                  "style": {
+                    "code": true
+                  }
+                },
+                {
+                  "type": "text",
+                  "text": "で検索できます\n"
+                }
+              ]
+            },
+            {
+              "type": "rich_text_preformatted",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "c.url.searchengines = {\n    \"DEFAULT\": \""
+                },
+                {
+                  "type": "link",
+                  "url": "https://www.google.co.jp/search?q={}"
+                },
+                {
+                  "type": "text",
+                  "text": "\", \n    \"a\": \""
+                },
+                {
+                  "type": "link",
+                  "url": "https://wiki.archlinux.jp/?search={}"
+                },
+                {
+                  "type": "text",
+                  "text": "\", \n    \"ae\": \""
+                },
+                {
+                  "type": "link",
+                  "url": "https://wiki.archlinux.org/index.php?search={}"
+                },
+                {
+                  "type": "text",
+                  "text": "\", \n    \"aj\": \""
+                },
+                {
+                  "type": "link",
+                  "url": "https://translate.google.com/translate?sl=en&tl=ja&u=https://wiki.archlinux.org/index.php?search={}"
+                },
+                {
+                  "type": "text",
+                  "text": "\", \n    \"me\": \""
+                },
+                {
+                  "type": "link",
+                  "url": "https://man.archlinux.org/man/{}"
+                },
+                {
+                  "type": "text",
+                  "text": "\", \n    \"m\": \""
+                },
+                {
+                  "type": "link",
+                  "url": "https://translate.google.com/translate?sl=en&tl=ja&u=https://man.archlinux.org/man/{}"
+                },
+                {
+                  "type": "text",
+                  "text": "\", \n    \"ap\": \""
+                },
+                {
+                  "type": "link",
+                  "url": "https://archlinux.org/packages/?q={}"
+                },
+                {
+                  "type": "text",
+                  "text": "\", \n    \"gh\": \""
+                },
+                {
+                  "type": "link",
+                  "url": "https://github.com/search?q={}"
+                },
+                {
+                  "type": "text",
+                  "text": "\", \n    \"mf\": \""
+                },
+                {
+                  "type": "link",
+                  "url": "https://forum.manjaro.org/search?q={}"
+                },
+                {
+                  "type": "text",
+                  "text": "\", \n    \"w\": \""
+                },
+                {
+                  "type": "link",
+                  "url": "https://ejje.weblio.jp/content/{}"
+                },
+                {
+                  "type": "text",
+                  "text": "\", \n    \"yt\": \""
+                },
+                {
+                  "type": "link",
+                  "url": "https://www.youtube.com/results?search_query={}"
+                },
+                {
+                  "type": "text",
+                  "text": "\"\n}"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "reactions": [
+        {
+          "name": "+1",
+          "users": [
+            "U0H9QUFA5"
+          ],
+          "count": 1
+        }
+      ]
+    },
+    {
+      "client_msg_id": "cabf814e-e3a8-4437-930d-a347f342ab75",
+      "type": "message",
+      "text": "<https://wiki.archlinux.jp/index.php/%E3%83%98%E3%83%AB%E3%83%97:%E9%96%B2%E8%A6%A7#DuckDuckGo_Bangs> duckduckgoを使うこの方法もなかなか良いですね。 `!aw xxx` もしくは `!archjp xxx`  (日本語版ちょっと長い)",
+      "user": "U0H9QUFA5",
+      "ts": "1638952143.044000",
+      "team": "T0GFBAM8C",
+      "edited": {
+        "user": "U0H9QUFA5",
+        "ts": "1638952438.000000"
+      },
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "z95Qz",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "link",
+                  "url": "https://wiki.archlinux.jp/index.php/%E3%83%98%E3%83%AB%E3%83%97:%E9%96%B2%E8%A6%A7#DuckDuckGo_Bangs"
+                },
+                {
+                  "type": "text",
+                  "text": " duckduckgoを使うこの方法もなかなか良いですね。 "
+                },
+                {
+                  "type": "text",
+                  "text": "!aw xxx",
+                  "style": {
+                    "code": true
+                  }
+                },
+                {
+                  "type": "text",
+                  "text": " もしくは "
+                },
+                {
+                  "type": "text",
+                  "text": "!archjp xxx ",
+                  "style": {
+                    "code": true
+                  }
+                },
+                {
+                  "type": "text",
+                  "text": " (日本語版ちょっと長い)"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "reactions": [
+        {
+          "name": "+1",
+          "users": [
+            "U02ASPM0A6T",
+            "U01HE1ENNJZ"
+          ],
+          "count": 2
+        }
+      ]
+    },
+    {
+      "client_msg_id": "228a9611-ed98-4443-b62b-8138bc0607f7",
+      "type": "message",
+      "text": "`arch-wiki-lite` パッケージでローカル arch-wiki-jp をテキスト・html検索したく少し見てみましたが難しくてよくわかりませんでした。。",
+      "user": "U02ASPM0A6T",
+      "ts": "1638869597.041600",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "lA9",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "arch-wiki-lite",
+                  "style": {
+                    "code": true
+                  }
+                },
+                {
+                  "type": "text",
+                  "text": " パッケージでローカル arch-wiki-jp をテキスト・html検索したく少し見てみましたが難しくてよくわかりませんでした。。"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "7c042ee5-559e-49c1-9168-d471ea2622e7",
+      "type": "message",
+      "text": "私はアドレスバーから `archwiki xxx`で検索できるようにしてますね\n<https://wiki.archlinux.org/index.php?search=%s&amp;title=Special%3ASearch&amp;go=Go>",
+      "user": "U70QDFN82",
+      "ts": "1638869129.040800",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "9I+",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "私はアドレスバーから "
+                },
+                {
+                  "type": "text",
+                  "text": "archwiki xxx",
+                  "style": {
+                    "code": true
+                  }
+                },
+                {
+                  "type": "text",
+                  "text": "で検索できるようにしてますね\n"
+                },
+                {
+                  "type": "link",
+                  "url": "https://wiki.archlinux.org/index.php?search=%s&title=Special%3ASearch&go=Go"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "reactions": [
+        {
+          "name": "+1",
+          "users": [
+            "U02ASPM0A6T",
+            "U027RN1LZT6",
+            "U02LCA8SU0M"
+          ],
+          "count": 3
+        }
+      ]
+    },
+    {
+      "client_msg_id": "efaea8de-dd91-49f6-bcac-fda5428b76d9",
+      "type": "message",
+      "text": "ブラウザの新規タブで下記を開くように設定しました\n閲覧速くて快適です\n```file:///usr/share/doc/arch-wiki-jp/html/ja/f468002119acb5f6f3a0229d6cfedabe.html```",
+      "user": "U02ASPM0A6T",
+      "ts": "1638864882.038800",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "RNf7s",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "ブラウザの新規タブで下記を開くように設定しました\n閲覧速くて快適です\n"
+                }
+              ]
+            },
+            {
+              "type": "rich_text_preformatted",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "file:///usr/share/doc/arch-wiki-jp/html/ja/f468002119acb5f6f3a0229d6cfedabe.html"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "b71dc26e-8f18-4cff-b35f-93af76e5845a",
+      "type": "message",
+      "text": "あ、GitHub Actionsで定期ビルドするつもりだったのですが、忙しく……年内にやります！",
+      "user": "UUWBU08TU",
+      "ts": "1638836256.037800",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "2/o",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "あ、GitHub Actionsで定期ビルドするつもりだったのですが、忙しく……年内にやります！"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "reactions": [
+        {
+          "name": "sparkles",
+          "users": [
+            "U02ASPM0A6T",
+            "U0H9QUFA5",
+            "U01HE1ENNJZ",
+            "UGA29R3FH"
+          ],
+          "count": 4
+        }
+      ]
+    },
+    {
+      "client_msg_id": "9b50a160-767e-4c63-9177-974dd2e58cd2",
+      "type": "message",
+      "text": "<@UUWBU08TU> `arch-wiki-docs-ja` パッケージに <http://wiki.archlinux.jp|wiki.archlinux.jp> のアーカイブをつけてくださったのですね。おかげでどこのオフライン環境からでも arch-wiki-jp を気軽に参照できるようになりました。ありがとうございます:relaxed:\n```$ ls -Fa ~/.cache/paru/clone/arch-wiki-docs-ja/\n./   .SRCINFO  PKGBUILD         arch-wiki-docs-ja-20211205-1-any.pkg.tar.zst  archwiki-jp.patch\n../  .git/     arch-wiki-docs/  arch-wiki-docs-ja-20211207-1-any.pkg.tar.zst  src/\n$```\n",
+      "user": "U02ASPM0A6T",
+      "ts": "1638831550.036900",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "82rfZ",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "user",
+                  "user_id": "UUWBU08TU"
+                },
+                {
+                  "type": "text",
+                  "text": " "
+                },
+                {
+                  "type": "text",
+                  "text": "arch-wiki-docs-ja",
+                  "style": {
+                    "code": true
+                  }
+                },
+                {
+                  "type": "text",
+                  "text": " パッケージに "
+                },
+                {
+                  "type": "link",
+                  "url": "http://wiki.archlinux.jp",
+                  "text": "wiki.archlinux.jp"
+                },
+                {
+                  "type": "text",
+                  "text": " のアーカイブをつけてくださったのですね。おかげでどこのオフライン環境からでも arch-wiki-jp を気軽に参照できるようになりました。ありがとうございます"
+                },
+                {
+                  "type": "emoji",
+                  "name": "relaxed",
+                  "unicode": "263a-fe0f"
+                },
+                {
+                  "type": "text",
+                  "text": "\n"
+                }
+              ]
+            },
+            {
+              "type": "rich_text_preformatted",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "$ ls -Fa ~/.cache/paru/clone/arch-wiki-docs-ja/\n./   .SRCINFO  PKGBUILD         arch-wiki-docs-ja-20211205-1-any.pkg.tar.zst  archwiki-jp.patch\n../  .git/     arch-wiki-docs/  arch-wiki-docs-ja-20211207-1-any.pkg.tar.zst  src/\n$"
+                }
+              ]
+            },
+            {
+              "type": "rich_text_section",
+              "elements": []
+            }
+          ]
+        }
+      ],
+      "reactions": [
+        {
+          "name": "+1",
+          "users": [
+            "UUWBU08TU",
+            "U0H9QUFA5",
+            "U01HE1ENNJZ",
+            "U027RN1LZT6",
+            "UGA29R3FH"
+          ],
+          "count": 5
+        }
+      ]
+    }
+  ],
+  "has_more": false,
+  "is_limited": true,
+  "pin_count": 16,
+  "channel_actions_ts": null,
+  "channel_actions_count": 0
+}

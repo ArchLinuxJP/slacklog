@@ -1,0 +1,6770 @@
+{
+  "ok": true,
+  "latest": "1643686028.000000",
+  "oldest": "1641007628.000000",
+  "messages": [
+    {
+      "client_msg_id": "9b974b1a-a67f-43b7-bec8-b895c8afcd13",
+      "type": "message",
+      "text": "あーいやCODEOWNERSでいけるか...？",
+      "user": "U5W6QDSHZ",
+      "ts": "1643445705.064609",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "6qeI3",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "あーいやCODEOWNERSでいけるか...？"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "367a6066-1ef3-4d11-8482-ddcd97199d16",
+      "type": "message",
+      "text": "server hookでやってるような最低限のチェックだけCIで走らせてそれさえ通ってれば自動でマージしちゃう，というのでできはしそう &gt; レビュー無しに投稿\nどちらかというとメンテナの識別が面倒っぽい気がする",
+      "user": "U5W6QDSHZ",
+      "ts": "1643445663.629919",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "doQVE",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "server hookでやってるような最低限のチェックだけCIで走らせてそれさえ通ってれば自動でマージしちゃう，というのでできはしそう > レビュー無しに投稿\nどちらかというとメンテナの識別が面倒っぽい気がする"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "message",
+      "text": "セルフホストだと GitLab 本体の管理コストがかかってしまうので、なんだかんだ今の状態が無難なのかもしれない",
+      "user": "U257W41DW",
+      "ts": "1643341517.397639",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "abr",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "セルフホストだと GitLab 本体の管理コストがかかってしまうので、なんだかんだ今の状態が無難なのかもしれない"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "reactions": [
+        {
+          "name": "wakaru",
+          "users": [
+            "U02BLTTQEL9",
+            "U5W6QDSHZ"
+          ],
+          "count": 2
+        },
+        {
+          "name": "cry",
+          "users": [
+            "U70QDFN82"
+          ],
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "message",
+      "subtype": "thread_broadcast",
+      "text": "Gitlab だとユーザー配下にリポジトリできるからだめそう。",
+      "user": "U02BLTTQEL9",
+      "ts": "1643341431.290889",
+      "thread_ts": "1643341331.611319",
+      "root": {
+        "client_msg_id": "5509b0db-d9a3-417e-95b8-f3b0a51e20a9",
+        "type": "message",
+        "text": "セルフホストの GItlab なら今の仕組みを踏襲しつつ何かってのがやれそうな気がしなくもない。",
+        "user": "U02BLTTQEL9",
+        "ts": "1643341331.611319",
+        "team": "T0GFBAM8C",
+        "blocks": [
+          {
+            "type": "rich_text",
+            "block_id": "pTHs",
+            "elements": [
+              {
+                "type": "rich_text_section",
+                "elements": [
+                  {
+                    "type": "text",
+                    "text": "セルフホストの GItlab なら今の仕組みを踏襲しつつ何かってのがやれそうな気がしなくもない。"
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "thread_ts": "1643341331.611319",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1643341431.290889",
+        "reply_users": [
+          "U02BLTTQEL9"
+        ],
+        "is_locked": false,
+        "subscribed": false
+      },
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "wZt1n",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "Gitlab だとユーザー配下にリポジトリできるからだめそう。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "client_msg_id": "65c9f656-05d4-460a-a111-2eb31beea6c7"
+    },
+    {
+      "client_msg_id": "dec518f8-b524-4369-82e4-169c132621e6",
+      "type": "message",
+      "text": "AUR はレビュー無しに投稿できるので、GitHub でそれを再現するのは難しいですよね",
+      "user": "U0J2VATJA",
+      "ts": "1643341347.237049",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "yIuV",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "AUR はレビュー無しに投稿できるので、GitHub でそれを再現するのは難しいですよね"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "reactions": [
+        {
+          "name": "sorena",
+          "users": [
+            "UGA29R3FH",
+            "U0H9QUFA5"
+          ],
+          "count": 2
+        }
+      ]
+    },
+    {
+      "client_msg_id": "5509b0db-d9a3-417e-95b8-f3b0a51e20a9",
+      "type": "message",
+      "text": "セルフホストの GItlab なら今の仕組みを踏襲しつつ何かってのがやれそうな気がしなくもない。",
+      "user": "U02BLTTQEL9",
+      "ts": "1643341331.611319",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "pTHs",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "セルフホストの GItlab なら今の仕組みを踏襲しつつ何かってのがやれそうな気がしなくもない。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "thread_ts": "1643341331.611319",
+      "reply_count": 1,
+      "reply_users_count": 1,
+      "latest_reply": "1643341431.290889",
+      "reply_users": [
+        "U02BLTTQEL9"
+      ],
+      "is_locked": false,
+      "subscribed": false
+    },
+    {
+      "client_msg_id": "114a7a3e-0e6f-44ff-8091-bea94104ac9a",
+      "type": "message",
+      "text": "msys2 のパッケージも1リポジトリでやってますね",
+      "user": "U0PM6EYR1",
+      "ts": "1643341128.143879",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "DlX4",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "msys2 のパッケージも1リポジトリでやってますね"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "28ef2a17-663d-4715-bea3-1e5eb13d2c60",
+      "type": "message",
+      "text": "AURの規模でそれをやるのはきつそう",
+      "user": "UGA29R3FH",
+      "ts": "1643341016.330849",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "r0Lts",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "AURの規模でそれをやるのはきつそう"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "b1fcd565-757d-41db-90be-6f4bc4739f61",
+      "type": "message",
+      "text": "管理できるならそれが一番楽な気はします、管理できるなら",
+      "user": "UGA29R3FH",
+      "ts": "1643341008.323239",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "llG",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "管理できるならそれが一番楽な気はします、管理できるなら"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "message",
+      "text": "そういえば Void Linux は一個のリポジトリで全パッケージ管理してた気がする。PR 送って追加してもらうタイプの運用だったような",
+      "user": "U257W41DW",
+      "ts": "1643340952.934049",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "YSV",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "そういえば Void Linux は一個のリポジトリで全パッケージ管理してた気がする。PR 送って追加してもらうタイプの運用だったような"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "45c6af5f-5299-41e0-b6c7-f7f08b4d03c4",
+      "type": "message",
+      "text": "AUR は PKGBUILD に何か問題があったときに差分を簡単にやりとりできないのがめんどいなーとか思いますね。",
+      "user": "U02BLTTQEL9",
+      "ts": "1643340758.411529",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "dDbD",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "AUR は PKGBUILD に何か問題があったときに差分を簡単にやりとりできないのがめんどいなーとか思いますね。"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "0b2938a5-745a-417c-88ec-e2d5050ebb2f",
+      "type": "message",
+      "text": "たしかこいつ\n<https://gitlab.archlinux.org/archlinux/aurweb/-/blob/master/aurweb/git/update.py>",
+      "user": "U02BLTTQEL9",
+      "ts": "1643340544.077509",
+      "team": "T0GFBAM8C",
+      "attachments": [
+        {
+          "from_url": "https://gitlab.archlinux.org/archlinux/aurweb/-/blob/master/aurweb/git/update.py",
+          "thumb_url": "https://gitlab.archlinux.org/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png",
+          "thumb_width": 128,
+          "thumb_height": 128,
+          "service_icon": "https://gitlab.archlinux.org/assets/touch-icon-iphone-5a9cee0e8a51212e70b90c87c12f382c428870c0ff67d1eb034d884b78d2dae7.png",
+          "id": 1,
+          "original_url": "https://gitlab.archlinux.org/archlinux/aurweb/-/blob/master/aurweb/git/update.py",
+          "fallback": "GitLab: aurweb/git/update.py · master · Arch Linux / aurweb",
+          "text": "Hosting platform for the Arch User Repository (AUR), a collection of packaging scripts created by the Arch Linux community",
+          "title": "aurweb/git/update.py · master · Arch Linux / aurweb",
+          "title_link": "https://gitlab.archlinux.org/archlinux/aurweb/-/blob/master/aurweb/git/update.py",
+          "service_name": "GitLab"
+        }
+      ],
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "84gS",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "たしかこいつ\n"
+                },
+                {
+                  "type": "link",
+                  "url": "https://gitlab.archlinux.org/archlinux/aurweb/-/blob/master/aurweb/git/update.py"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "870ac695-a773-4226-a1ea-8e8d3f30c0ae",
+      "type": "message",
+      "text": "あー、そういうのはありましたね",
+      "user": "UVB7L4CKH",
+      "ts": "1643340369.847049",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "kMV",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "あー、そういうのはありましたね"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "message",
+      "text": "メタ的なファイルを生成してコミットしてないと拒否られますね",
+      "user": "U257W41DW",
+      "ts": "1643340352.292029",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "8KE",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "メタ的なファイルを生成してコミットしてないと拒否られますね"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "bdf38257-9b45-4440-b666-d70978729344",
+      "type": "message",
+      "text": "git の server hook でいろいろやってて、そこでチェックかけたたりする。",
+      "user": "U02BLTTQEL9",
+      "ts": "1643340309.326119",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "IG0O",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "git の server hook でいろいろやってて、そこでチェックかけたたりする。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "reactions": [
+        {
+          "name": "hee",
+          "users": [
+            "UVB7L4CKH"
+          ],
+          "count": 1
+        }
+      ]
+    },
+    {
+      "client_msg_id": "a0fc8f34-69a0-4d90-a08b-0b2ca56179a5",
+      "type": "message",
+      "text": "まあ最悪squashしてもいい気はするけど",
+      "user": "UVB7L4CKH",
+      "ts": "1643340307.573959",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "o9yCP",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "まあ最悪squashしてもいい気はするけど"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "527e6b4a-50e7-4160-821f-eeea3b355e32",
+      "type": "message",
+      "text": "PKGBUILDをビルドするActionは見たことあるな",
+      "user": "UGA29R3FH",
+      "ts": "1643340301.903849",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "JzMy",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "PKGBUILDをビルドするActionは見たことあるな"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "cc4d3095-5386-416b-bf68-ec41d0b5e502",
+      "type": "message",
+      "text": "あれ、そういうポリシーとかあるんでしたっけ\n公開した事ないので知らなかった",
+      "user": "UVB7L4CKH",
+      "ts": "1643340275.844279",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "YQSL0",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "あれ、そういうポリシーとかあるんでしたっけ\n公開した事ないので知らなかった"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "ba56bc8f-3e56-4df3-a8d9-6f08722e1d5b",
+      "type": "message",
+      "text": "途中のコミットが AUR の都合に会ってないとpushできないのとかがわりとかなしい。",
+      "user": "U02BLTTQEL9",
+      "ts": "1643340253.848469",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "6rE",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "途中のコミットが AUR の都合に会ってないとpushできないのとかがわりとかなしい。"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "1ac24299-3e60-468b-8392-1348eb115f2d",
+      "type": "message",
+      "text": "裏はただの Git なので、 GitHub Actions とかで master に push されたら AUR 側にも push する、みたいな事をすれば、GitHub 側で PKGBUILD をメンテしつつ AUR で公開できそうですね",
+      "user": "U0J2VATJA",
+      "ts": "1643340220.213349",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "RHJFy",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "裏はただの Git なので、 GitHub Actions とかで master に push されたら AUR 側にも push する、みたいな事をすれば、GitHub 側で PKGBUILD をメンテしつつ AUR で公開できそうですね"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "9c947fb1-5676-47a7-8c7f-8d40fae3f5de",
+      "type": "message",
+      "text": "org使うよりは今の方が楽だって話ですよね\n野良PKGBUILD、使ってる本人ですら滅多にメンテナンスしない説もあり……",
+      "user": "UVB7L4CKH",
+      "ts": "1643339920.041449",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "Od862",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "org使うよりは今の方が楽だって話ですよね\n野良PKGBUILD、使ってる本人ですら滅多にメンテナンスしない説もあり……"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "message",
+      "text": "今風ではあるけど、管理が楽にはならないんじゃないですかね。各パッケージの権限管理とか。",
+      "user": "U257W41DW",
+      "ts": "1643339814.192109",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "BR7",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "今風ではあるけど、管理が楽にはならないんじゃないですかね。各パッケージの権限管理とか。"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "22e85891-bdb3-45cd-babb-bdbfc37bdd87",
+      "type": "message",
+      "text": "検索性とTUによる管理を捨てれば、野良リポジトリを作って、直接ビルドできるAURヘルパーを作ればまあなんとかできる気はしますが。。。\nAURの公式リポジトリ or organization を作って、そこにみんなでpushする形だと今の方が管理とか楽そうな気はします",
+      "user": "UUWBU08TU",
+      "ts": "1643339065.526659",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "vxi",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "検索性とTUによる管理を捨てれば、野良リポジトリを作って、直接ビルドできるAURヘルパーを作ればまあなんとかできる気はしますが。。。\nAURの公式リポジトリ or organization を作って、そこにみんなでpushする形だと今の方が管理とか楽そうな気はします"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "reactions": [
+        {
+          "name": "wakaru",
+          "users": [
+            "U70QDFN82",
+            "U5W6QDSHZ"
+          ],
+          "count": 2
+        }
+      ]
+    },
+    {
+      "type": "message",
+      "text": "仕組みを考えたら独自サイト以外でやりようがなさそうな気もしますね。AUR サイトの出来が悪いというのならまぁ、うん……。",
+      "user": "U257W41DW",
+      "ts": "1643338309.620209",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "BD9Yx",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "仕組みを考えたら独自サイト以外でやりようがなさそうな気もしますね。AUR サイトの出来が悪いというのならまぁ、うん……。"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "07973e35-dfb8-4150-8cf9-41e422095795",
+      "type": "message",
+      "text": "さっきAURのパッケージのバグ引いて思い出したけど、Archの不満はAURがGitHubでもGitLabでもなくて独自サイトってところがあることを思い出した",
+      "user": "U70QDFN82",
+      "ts": "1643337656.965429",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "pHZwR",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "さっきAURのパッケージのバグ引いて思い出したけど、Archの不満はAURがGitHubでもGitLabでもなくて独自サイトってところがあることを思い出した"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "reactions": [
+        {
+          "name": "wakaru",
+          "users": [
+            "U6DL9D3AB",
+            "UQDJXPHJ9"
+          ],
+          "count": 2
+        }
+      ]
+    },
+    {
+      "client_msg_id": "F252B31E-EB23-4FDE-84DA-961215C965B7",
+      "type": "message",
+      "text": "便利",
+      "user": "U0GFBAM8U",
+      "ts": "1643262569.744099",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "S9k",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "便利"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "1e9a8b14-2206-4061-ae7c-54675911ad81",
+      "type": "message",
+      "text": "Goだったらなんも考えずにscratchありがちな気がする．Goじゃなくてもalpine+muslで頑張るよりはdistrolessの方がべんり\n<https://github.com/GoogleContainerTools/distroless>",
+      "user": "U5W6QDSHZ",
+      "ts": "1643258341.911229",
+      "team": "T0GFBAM8C",
+      "attachments": [
+        {
+          "from_url": "https://github.com/GoogleContainerTools/distroless",
+          "image_url": "https://opengraph.githubassets.com/6db2ca5de0a591deb135489fdc3cfae47e3943ad0985e78b3a17dfb6721632ce/GoogleContainerTools/distroless",
+          "image_width": 500,
+          "image_height": 250,
+          "image_bytes": 64146,
+          "service_icon": "https://a.slack-edge.com/80588/img/unfurl_icons/github.png",
+          "id": 1,
+          "original_url": "https://github.com/GoogleContainerTools/distroless",
+          "fallback": "GitHub: GitHub - GoogleContainerTools/distroless: :avocado:  Language focused docker images, minus the operating system.",
+          "text": ":avocado: Language focused docker images, minus the operating system. - GitHub - GoogleContainerTools/distroless: :avocado: Language focused docker images, minus the operating system.",
+          "title": "GitHub - GoogleContainerTools/distroless: :avocado:  Language focused docker images, minus the operating system.",
+          "title_link": "https://github.com/GoogleContainerTools/distroless",
+          "service_name": "GitHub"
+        }
+      ],
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "KNQf",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "Goだったらなんも考えずにscratchありがちな気がする．Goじゃなくてもalpine+muslで頑張るよりはdistrolessの方がべんり\n"
+                },
+                {
+                  "type": "link",
+                  "url": "https://github.com/GoogleContainerTools/distroless"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "reactions": [
+        {
+          "name": "benri",
+          "users": [
+            "U02BLTTQEL9",
+            "U0GFBAM8U",
+            "U017BNGTHT3",
+            "UBE1K3M2R",
+            "U01HE1ENNJZ"
+          ],
+          "count": 5
+        }
+      ]
+    },
+    {
+      "client_msg_id": "649e7561-191a-45de-9d8d-d0ee1b89092e",
+      "type": "message",
+      "text": "go とかなら alpine より scratch の方がかえって簡単まである気もしてる。どうなんだろ。",
+      "user": "U02BLTTQEL9",
+      "ts": "1643253991.711429",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "n0nry",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "go とかなら alpine より scratch の方がかえって簡単まである気もしてる。どうなんだろ。"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "f03548a8-9376-4546-a5b8-f3d6b3d39f7d",
+      "type": "message",
+      "text": "alpine 面倒くさいし、よっぽどの事がなければマルチステージビルドして slim イメージに copy from でまぁいいかって感じになってる。",
+      "user": "U02BLTTQEL9",
+      "ts": "1643253904.378259",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "syn",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "alpine 面倒くさいし、よっぽどの事がなければマルチステージビルドして slim イメージに copy from でまぁいいかって感じになってる。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "reactions": [
+        {
+          "name": "wakaru",
+          "users": [
+            "U6DL9D3AB",
+            "UD124KPDJ",
+            "U7VDHKJHM",
+            "U70QDFN82"
+          ],
+          "count": 4
+        }
+      ]
+    },
+    {
+      "type": "message",
+      "text": "",
+      "files": [
+        {
+          "id": "F0306VCSK46",
+          "created": 1643252883,
+          "timestamp": 1643252883,
+          "name": "image.png",
+          "title": "image.png",
+          "mimetype": "image/png",
+          "filetype": "png",
+          "pretty_type": "PNG",
+          "user": "U0PM6EYR1",
+          "editable": false,
+          "size": 84405,
+          "mode": "hosted",
+          "is_external": false,
+          "external_type": "",
+          "is_public": true,
+          "public_url_shared": false,
+          "display_as_bot": false,
+          "username": "",
+          "url_private": "https://files.slack.com/files-pri/T0GFBAM8C-F0306VCSK46/image.png",
+          "url_private_download": "https://files.slack.com/files-pri/T0GFBAM8C-F0306VCSK46/download/image.png",
+          "media_display_type": "unknown",
+          "thumb_64": "https://files.slack.com/files-tmb/T0GFBAM8C-F0306VCSK46-13e459b464/image_64.png",
+          "thumb_80": "https://files.slack.com/files-tmb/T0GFBAM8C-F0306VCSK46-13e459b464/image_80.png",
+          "thumb_360": "https://files.slack.com/files-tmb/T0GFBAM8C-F0306VCSK46-13e459b464/image_360.png",
+          "thumb_360_w": 360,
+          "thumb_360_h": 189,
+          "thumb_160": "https://files.slack.com/files-tmb/T0GFBAM8C-F0306VCSK46-13e459b464/image_160.png",
+          "original_w": 405,
+          "original_h": 213,
+          "thumb_tiny": "AwAZADDQB4OaYWAIXGWIzTjkg4HNJIv8eOQMe/WgAB/AZx1pw5AOcZ6UMB8o9800sUXJXOO9ACqcgt6DijcxbHbv+tIjAowGc4/OlXGW+lADXBYrg4+b+lOC89xgDNNt/ut9aZL/AKxv89qAJVHGVJx780jDepB/Sqo+/L/ntSW/3T/vUASTP5KjzDvPPbBplvLLKGDA7Mccf5zUN39//gP9alh/1C/Q0Af/2Q==",
+          "permalink": "https://archlinuxjp.slack.com/files/U0PM6EYR1/F0306VCSK46/image.png",
+          "permalink_public": "https://slack-files.com/T0GFBAM8C-F0306VCSK46-5320621634",
+          "is_starred": false,
+          "has_rich_preview": false
+        }
+      ],
+      "upload": false,
+      "user": "U0PM6EYR1",
+      "display_as_bot": false,
+      "ts": "1643252885.927019",
+      "client_msg_id": "27ba3bcc-02c0-4945-89bf-6d38fbd05cdc",
+      "reactions": [
+        {
+          "name": "warau",
+          "users": [
+            "UGA29R3FH",
+            "UD124KPDJ",
+            "U017BNGTHT3",
+            "U02HC93TJEP",
+            "UJ7P75WB1",
+            "U01C9EE40KB"
+          ],
+          "count": 6
+        }
+      ]
+    },
+    {
+      "client_msg_id": "6f88e1c1-0b14-4380-9988-188ba65e1f36",
+      "type": "message",
+      "text": "terminfoが別個にいるけど一応動く",
+      "user": "UGA29R3FH",
+      "ts": "1643252346.021099",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "DIY",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "terminfoが別個にいるけど一応動く"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "e01f59d4-7a7e-487a-8b61-e0fa5c8fa76a",
+      "type": "message",
+      "text": "マルチステージビルドは割と癖になってる",
+      "user": "UVB7L4CKH",
+      "ts": "1643252335.558009",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "VO9",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "マルチステージビルドは割と癖になってる"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "4dd9a572-bc90-432f-9482-3578a6e317a1",
+      "type": "message",
+      "text": "staticビルドしたVimだけが入ったコンテナを作ったことがある",
+      "user": "UGA29R3FH",
+      "ts": "1643252326.426849",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "kjy",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "staticビルドしたVimだけが入ったコンテナを作ったことがある"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "246689d0-f55b-465a-8a81-f6ebf7648ea5",
+      "type": "message",
+      "text": "コンテナダイエット、ヤバい人はscratchイメージ使っちゃうので……",
+      "user": "UVB7L4CKH",
+      "ts": "1643252260.762819",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "gy4g4",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "コンテナダイエット、ヤバい人はscratchイメージ使っちゃうので……"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "6ebb1a67-004f-4039-bc24-ae2a7f87563c",
+      "type": "message",
+      "text": "alpine「お願い musl！めっちゃ(イメージサイズ)痩せたい！」",
+      "user": "U0PM6EYR1",
+      "ts": "1643251753.876559",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "IaBM",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "alpine「お願い musl！めっちゃ(イメージサイズ)痩せたい！」"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "reactions": [
+        {
+          "name": "warau",
+          "users": [
+            "U017BNGTHT3",
+            "U6DL9D3AB",
+            "U70QDFN82",
+            "U01J1GGMHDJ",
+            "UD124KPDJ",
+            "U5W6QDSHZ",
+            "UBE1K3M2R",
+            "U01HE1ENNJZ"
+          ],
+          "count": 8
+        }
+      ]
+    },
+    {
+      "client_msg_id": "7b6c3992-81e5-4ffa-ab0c-d195e80d0623",
+      "type": "message",
+      "text": "軽量でSystemdでglibcで癖が少ないのはArchぐらいか…",
+      "user": "U017BNGTHT3",
+      "ts": "1643251746.330409",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "VK=",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "軽量でSystemdでglibcで癖が少ないのはArchぐらいか…"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "9736fa5b-9c29-4a98-9944-2e48946c132f",
+      "type": "message",
+      "text": "最近のシングルバイナリ文化と何気に相性が悪い",
+      "user": "UGA29R3FH",
+      "ts": "1643251729.253769",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "==8Ip",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "最近のシングルバイナリ文化と何気に相性が悪い"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "reactions": [
+        {
+          "name": "tashikani",
+          "users": [
+            "U017BNGTHT3"
+          ],
+          "count": 1
+        },
+        {
+          "name": "wakaru",
+          "users": [
+            "U70QDFN82"
+          ],
+          "count": 1
+        }
+      ]
+    },
+    {
+      "client_msg_id": "99fefd06-ee7f-4101-b08c-e939d0eb7ae4",
+      "type": "message",
+      "text": "やつは軽さと引き換えに大切なものを奪っていきました\nあなたの時間です",
+      "user": "U70QDFN82",
+      "ts": "1643251723.313639",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "T4Tg",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "やつは軽さと引き換えに大切なものを奪っていきました\nあなたの時間です"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "reactions": [
+        {
+          "name": "warau",
+          "users": [
+            "UGA29R3FH",
+            "U0GFBAM8U",
+            "U017BNGTHT3",
+            "U01J1GGMHDJ"
+          ],
+          "count": 4
+        }
+      ]
+    },
+    {
+      "client_msg_id": "400b074a-3e54-4deb-9aa3-0ffef63c74a0",
+      "type": "message",
+      "text": "バイナリ配布されてると詰む(大抵glibcでビルドされてるので)",
+      "user": "UGA29R3FH",
+      "ts": "1643251699.137549",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "KtO",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "バイナリ配布されてると詰む(大抵glibcでビルドされてるので)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "7D7CBB4C-377B-4798-8FBD-E6E19DEB6507",
+      "type": "message",
+      "text": "パッケージ入れても動かないから依存解消して結局時間がかかっちゃう",
+      "user": "U0GFBAM8U",
+      "ts": "1643251670.809309",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "NoK",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "パッケージ入れても動かないから依存解消して結局時間がかかっちゃう"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "1b9d3f0d-f03a-4fb1-965b-e2c11a7c8907",
+      "type": "message",
+      "text": "musl, musl, alpineはmusl",
+      "user": "U6DL9D3AB",
+      "ts": "1643251660.810339",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "Pu2km",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "musl, musl, alpineはmusl"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "67AD7191-B4D5-4FF3-AE5A-BBE91C5AACB0",
+      "type": "message",
+      "text": "ほんとそうなんですよね、笑",
+      "user": "U0GFBAM8U",
+      "ts": "1643251628.939439",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "uzwGX",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "ほんとそうなんですよね、笑"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "9b4e0593-4d05-4f07-8420-2d1df8588ac5",
+      "type": "message",
+      "text": "Alpineを使う時はまっするまっすると頭の中で唱えながら依存をどうにかするというのをやりがち（個人の感想です）",
+      "user": "U6DL9D3AB",
+      "ts": "1643251593.335739",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "RJP",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "Alpineを使う時はまっするまっすると頭の中で唱えながら依存をどうにかするというのをやりがち（個人の感想です）"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "reactions": [
+        {
+          "name": "warau",
+          "users": [
+            "UGA29R3FH",
+            "U017BNGTHT3",
+            "U7VDHKJHM",
+            "U70QDFN82",
+            "UD124KPDJ",
+            "U3FJYR7MG"
+          ],
+          "count": 6
+        }
+      ]
+    },
+    {
+      "client_msg_id": "2ff4e5e0-38bc-4f69-97a6-923f33834601",
+      "type": "message",
+      "text": "おお、長年の疑問が解決された",
+      "user": "U70QDFN82",
+      "ts": "1643251504.144979",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "4JFE",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "おお、長年の疑問が解決された"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "424a35f1-e386-4854-87a4-166a1e2dfeec",
+      "type": "message",
+      "text": "pacmanも先にldconfig走らせておくと速い",
+      "user": "UGA29R3FH",
+      "ts": "1643251484.933879",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "dAgWo",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "pacmanも先にldconfig走らせておくと速い"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "4b3b8bca-2236-4843-9b7b-ce8bc3bfcc77",
+      "type": "message",
+      "text": "Alpine、パッケージのインストール速いのすげーとか思ってたけどldconfigすっ飛ばしてるからだということに最近気付いた",
+      "user": "UGA29R3FH",
+      "ts": "1643251463.569449",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "=LLda",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "Alpine、パッケージのインストール速いのすげーとか思ってたけどldconfigすっ飛ばしてるからだということに最近気付いた"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "reactions": [
+        {
+          "name": "hee",
+          "users": [
+            "U70QDFN82",
+            "U01J1GGMHDJ",
+            "U017BNGTHT3",
+            "U7VDHKJHM",
+            "U5W6QDSHZ"
+          ],
+          "count": 5
+        }
+      ]
+    },
+    {
+      "client_msg_id": "73F4581E-A720-4076-A2AD-6AE91BD7CE4A",
+      "type": "message",
+      "text": "archはなんだかんだパッケージ入れたら動きますからね(動くことが多いと感じてる",
+      "user": "U0GFBAM8U",
+      "ts": "1643251359.666809",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "+od",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "archはなんだかんだパッケージ入れたら動きますからね(動くことが多いと感じてる"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "reactions": [
+        {
+          "name": "wakaru",
+          "users": [
+            "UGA29R3FH"
+          ],
+          "count": 1
+        }
+      ]
+    },
+    {
+      "client_msg_id": "aa1d7810-241b-4ddd-b97d-300621b2b134",
+      "type": "message",
+      "text": "自前コンテナは全部Archだな、外に出す時は絶対Ubuntu",
+      "user": "UGA29R3FH",
+      "ts": "1643251320.643329",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "vAu",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "自前コンテナは全部Archだな、外に出す時は絶対Ubuntu"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "reactions": [
+        {
+          "name": "wakaru",
+          "users": [
+            "U70QDFN82"
+          ],
+          "count": 1
+        }
+      ]
+    },
+    {
+      "client_msg_id": "2fbb6a2e-3a85-4f69-98ea-697e53ef97a4",
+      "type": "message",
+      "text": "ラズパイ、うちのは結局全部ArchARMで動いてる。",
+      "user": "U017BNGTHT3",
+      "ts": "1643251313.780189",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "1e=9",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "ラズパイ、うちのは結局全部ArchARMで動いてる。"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "69E64506-E83D-4E1A-BCED-74A46E18DBA0",
+      "type": "message",
+      "text": "alpineはdockerでたまに使うけど、つまづく",
+      "user": "U0GFBAM8U",
+      "ts": "1643251287.115699",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "1Mey9",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "alpineはdockerでたまに使うけど、つまづく"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "reactions": [
+        {
+          "name": "sorena",
+          "users": [
+            "U70QDFN82",
+            "U017BNGTHT3",
+            "U6DL9D3AB"
+          ],
+          "count": 3
+        }
+      ]
+    },
+    {
+      "client_msg_id": "C489DF2D-4119-4B05-A6D5-9470DFE6C060",
+      "type": "message",
+      "text": "archベースのものも多いですし、pacmanやpacmanをベースにしたパッケージマネージャーも非常に多く、最近ではゲーム機もarchベースで入ってるみたいなものが出てきて、それって結局、シンプルでわかりやすい、使いやすいってことなんだと思う",
+      "user": "U0GFBAM8U",
+      "ts": "1643251256.172089",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "0A50",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "archベースのものも多いですし、pacmanやpacmanをベースにしたパッケージマネージャーも非常に多く、最近ではゲーム機もarchベースで入ってるみたいなものが出てきて、それって結局、シンプルでわかりやすい、使いやすいってことなんだと思う"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "reactions": [
+        {
+          "name": "goodpoem",
+          "users": [
+            "UGA29R3FH",
+            "U017BNGTHT3",
+            "U7VDHKJHM",
+            "U02BLTTQEL9"
+          ],
+          "count": 4
+        }
+      ]
+    },
+    {
+      "client_msg_id": "57aaf588-907b-4912-9549-d57294b040f4",
+      "type": "message",
+      "text": "alpineは嫌いだな",
+      "user": "U70QDFN82",
+      "ts": "1643251245.528269",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "A6mtz",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "alpineは嫌いだな"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "reactions": [
+        {
+          "name": "me-too",
+          "users": [
+            "UGA29R3FH",
+            "UCA1NQM5K",
+            "U01HE1ENNJZ"
+          ],
+          "count": 3
+        }
+      ]
+    },
+    {
+      "client_msg_id": "4d1d37e1-608f-4343-b7fa-5dffcdabdc34",
+      "type": "message",
+      "text": "無念",
+      "user": "UGA29R3FH",
+      "ts": "1643251223.368769",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "ohR",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "無念"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "98c5e1d0-3b6f-4316-9edc-37559836c428",
+      "type": "message",
+      "text": "そういえばOpenRCだから無理だ",
+      "user": "U017BNGTHT3",
+      "ts": "1643251216.054169",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "Rt8",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "そういえばOpenRCだから無理だ"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "abce5948-9ec2-4dac-9803-c60ae4ff8810",
+      "type": "message",
+      "text": "alpineってsystemdなんでしたっけ(単体で起動したことがない)",
+      "user": "UGA29R3FH",
+      "ts": "1643251206.045139",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "Bxj",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "alpineってsystemdなんでしたっけ(単体で起動したことがない)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "a239c82c-795a-4b31-a5c2-c3fd32532217",
+      "type": "message",
+      "text": "個人的にAlpineからNspawnとかでArch起動してX使うとか攻めた運用も試してみたい。",
+      "user": "U017BNGTHT3",
+      "ts": "1643251150.775399",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "LUt",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "個人的にAlpineからNspawnとかでArch起動してX使うとか攻めた運用も試してみたい。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "reactions": [
+        {
+          "name": "wakaru",
+          "users": [
+            "U01J1GGMHDJ"
+          ],
+          "count": 1
+        }
+      ]
+    },
+    {
+      "client_msg_id": "1c3f661b-089f-41e3-b8a1-5cfdf42c375a",
+      "type": "message",
+      "text": "環境構築も運用も楽なんだけど慣れるまでにArchの方が気軽だなって。",
+      "user": "U017BNGTHT3",
+      "ts": "1643251046.603059",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "8Rpvq",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "環境構築も運用も楽なんだけど慣れるまでにArchの方が気軽だなって。"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "0821AD2F-ED4E-41F2-BE4E-F523C118214C",
+      "type": "message",
+      "text": "それにarchの強みの一つに、さまざまなところのコアとして使われてるっていうのがあります\nこれがなくならない限り移行はなさそう",
+      "user": "U0GFBAM8U",
+      "ts": "1643251021.582899",
+      "team": "T0GFBAM8C",
+      "edited": {
+        "user": "U0GFBAM8U",
+        "ts": "1643251041.000000"
+      },
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "yIQB",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "それにarchの強みの一つに、さまざまなところのコアとして使われてるっていうのがあります\nこれがなくならない限り移行はなさそう"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "C2BEA295-8901-4AA6-B395-CA4605AAC874",
+      "type": "message",
+      "text": "運用が苦しくなりそうな(楽しくないと辛い",
+      "user": "U0GFBAM8U",
+      "ts": "1643250966.133959",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "SOP",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "運用が苦しくなりそうな(楽しくないと辛い"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "cbf14cd8-2003-4fe0-a3f6-28a4f904bdaf",
+      "type": "message",
+      "text": "ある程度雑に管理したいから私も無理だった",
+      "user": "U70QDFN82",
+      "ts": "1643250961.222769",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "bVbqC",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "ある程度雑に管理したいから私も無理だった"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "18C600D1-0290-4EE5-A86D-B6D62D354A63",
+      "type": "message",
+      "text": "nixは面白そうだけど、多分、使わないだろうなあ、あくまで個人的には",
+      "user": "U0GFBAM8U",
+      "ts": "1643250928.669989",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "OBeO6",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "nixは面白そうだけど、多分、使わないだろうなあ、あくまで個人的には"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "reactions": [
+        {
+          "name": "sorena",
+          "users": [
+            "UGA29R3FH"
+          ],
+          "count": 1
+        }
+      ]
+    },
+    {
+      "client_msg_id": "39f2c3c5-e264-4fa9-afd6-5f87edf5ee06",
+      "type": "message",
+      "text": "Nix OS、Arch感覚で使おうと思うと苦しかったので難しい。",
+      "user": "U017BNGTHT3",
+      "ts": "1643250914.935949",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "Nwtg",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "Nix OS、Arch感覚で使おうと思うと苦しかったので難しい。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "reactions": [
+        {
+          "name": "wakaru",
+          "users": [
+            "U70QDFN82",
+            "UGA29R3FH",
+            "U01HE1ENNJZ"
+          ],
+          "count": 3
+        }
+      ]
+    },
+    {
+      "client_msg_id": "3648c065-b515-4908-a33f-444d5bfedd59",
+      "type": "message",
+      "text": "後はQubesみたいに尖ってるやつ",
+      "user": "UGA29R3FH",
+      "ts": "1643250879.763409",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "hzcYL",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "後はQubesみたいに尖ってるやつ"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "19de32d8-4e8d-4fb2-99c6-ffe3e19b259a",
+      "type": "message",
+      "text": "Nixちょっと前まで興味あったけど最近なくなっちゃった・・・",
+      "user": "U70QDFN82",
+      "ts": "1643250851.764619",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "4MhVG",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "Nixちょっと前まで興味あったけど最近なくなっちゃった・・・"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "421EACBC-1F2E-430A-8217-C650996FCF23",
+      "type": "message",
+      "text": "環境構築が好きな人や突き詰める人、構築を苦だと思わない人はarchがあってると思います。",
+      "user": "U0GFBAM8U",
+      "ts": "1643250837.775089",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "xx8",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "環境構築が好きな人や突き詰める人、構築を苦だと思わない人はarchがあってると思います。"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "cadf7210-c79e-40a6-9d7a-f1d7759fc699",
+      "type": "message",
+      "text": "そもそも怠惰だしArch気に入ってるしで乗り換える気がない",
+      "user": "UGA29R3FH",
+      "ts": "1643250830.508699",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "RSWg",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "そもそも怠惰だしArch気に入ってるしで乗り換える気がない"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "5b2db8d5-0246-4770-9951-0ba1706f5c88",
+      "type": "message",
+      "text": "現時点での乗り換え候補を出すとしたらNixかGuixくらいだなー",
+      "user": "UGA29R3FH",
+      "ts": "1643250796.179699",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "ZXXT",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "現時点での乗り換え候補を出すとしたらNixかGuixくらいだなー"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "reactions": [
+        {
+          "name": "me-too",
+          "users": [
+            "U0H9QUFA5",
+            "U01HE1ENNJZ"
+          ],
+          "count": 2
+        }
+      ]
+    },
+    {
+      "client_msg_id": "8BB94B94-3D46-475E-996C-4300302B4378",
+      "type": "message",
+      "text": "archは使っててほとんど不満はありませんね",
+      "user": "U0GFBAM8U",
+      "ts": "1643250701.304289",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "XUxQP",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "archは使っててほとんど不満はありませんね"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "reactions": [
+        {
+          "name": "wakaru",
+          "users": [
+            "U70QDFN82",
+            "UBE1K3M2R"
+          ],
+          "count": 2
+        }
+      ]
+    },
+    {
+      "client_msg_id": "ef40d630-eab3-4920-a766-85d57e5e3c78",
+      "type": "message",
+      "text": "どういうの出たら乗り換えるかな〜？",
+      "user": "U70QDFN82",
+      "ts": "1643250692.679719",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "qT5X",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "どういうの出たら乗り換えるかな〜？"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "407d5864-c006-4e23-9aad-c38ee6267e0c",
+      "type": "message",
+      "text": "私はArchの不満ってpacmanの引数くらいになっちゃいましたね・・・\nインストーラーも簡易だけどできたし",
+      "user": "U70QDFN82",
+      "ts": "1643250656.342449",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "Moj",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "私はArchの不満ってpacmanの引数くらいになっちゃいましたね・・・\nインストーラーも簡易だけどできたし"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "D37FE51A-BCE8-4E26-B99D-5F955C10ACC7",
+      "type": "message",
+      "text": "私の感想だと、fedora使ってる人や移行した人ちらほら見てて、fedora人気出てきたのかなあと思ってる時だったので、この結果は印象的でした",
+      "user": "U0GFBAM8U",
+      "ts": "1643250539.325609",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "dIJcH",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "私の感想だと、fedora使ってる人や移行した人ちらほら見てて、fedora人気出てきたのかなあと思ってる時だったので、この結果は印象的でした"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "B05D088D-9D52-4564-8E07-C4CF0F2E6A3A",
+      "type": "message",
+      "text": "いろんな意見があって面白い",
+      "user": "U0GFBAM8U",
+      "ts": "1643250420.886129",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "4=/",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "いろんな意見があって面白い"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "38d10cf6-0ab9-4937-82fc-8eb905cd64f1",
+      "type": "message",
+      "text": "Manjaroと当たっていたらどちらが残ったんだろう",
+      "user": "U6DL9D3AB",
+      "ts": "1643250357.861939",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "o+N",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "Manjaroと当たっていたらどちらが残ったんだろう"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "7eddeaf6-d078-48d5-8606-8650104a771e",
+      "type": "message",
+      "text": "決勝だけ投票数多かった（注目度高かった）んでUbuntuとやってたらたぶん負けてた気がします。\nトーナメントだから勝てた",
+      "user": "U70QDFN82",
+      "ts": "1643250330.148759",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "itO6v",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "決勝だけ投票数多かった（注目度高かった）んでUbuntuとやってたらたぶん負けてた気がします。\nトーナメントだから勝てた"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "0e4cefba-418c-4a2f-85f5-c5bf0908bfb1",
+      "type": "message",
+      "text": "下ブロック弱いですからね。事実上の決勝は２回戦でやってた感あります",
+      "user": "U70QDFN82",
+      "ts": "1643250231.719599",
+      "team": "T0GFBAM8C",
+      "edited": {
+        "user": "U70QDFN82",
+        "ts": "1643250249.000000"
+      },
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "MQTCd",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "下ブロック弱いですからね。事実上の決勝は２回戦でやってた感あります"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "03F0733E-4773-4E3C-B485-8915A62DCCE4",
+      "type": "message",
+      "text": "しかも決勝がfedoraってのもなんかすごい",
+      "user": "U0GFBAM8U",
+      "ts": "1643250191.231539",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "wGZx",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "しかも決勝がfedoraってのもなんかすごい"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "d5a7b86e-9f9e-41f2-bf99-ddd124d1ee81",
+      "type": "message",
+      "text": "ただ熱狂的な人が多いから人気に見えるだけという説もなくはないw",
+      "user": "U70QDFN82",
+      "ts": "1643250176.007839",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "M0jOY",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "ただ熱狂的な人が多いから人気に見えるだけという説もなくはないw"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "919A2057-6B0B-427B-BEDF-843D6CB0F743",
+      "type": "message",
+      "text": "arch人気、いつの間に",
+      "user": "U0GFBAM8U",
+      "ts": "1643250110.039689",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "M66T",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "arch人気、いつの間に"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "539C640E-C958-4BC4-A6E8-9770FC251238",
+      "type": "message",
+      "text": "すごい",
+      "user": "U0GFBAM8U",
+      "ts": "1643250040.984459",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "gxU",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "すごい"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "e6c2dc0e-1f31-4c3e-a02a-836197d416f5",
+      "type": "message",
+      "text": "優勝してた\n<https://www.reddit.com/r/linuxmasterrace/comments/sdd3e0/arch_linux_crowned_as_champion_of_panic_at_the/>",
+      "user": "U70QDFN82",
+      "ts": "1643249802.671839",
+      "team": "T0GFBAM8C",
+      "attachments": [
+        {
+          "from_url": "https://www.reddit.com/r/linuxmasterrace/comments/sdd3e0/arch_linux_crowned_as_champion_of_panic_at_the/",
+          "image_url": "https://preview.redd.it/42z7b90tu2e81.gif?overlay-align=bottom,left&crop=690:361.256544503,smart&overlay-height=15p&overlay=%2Fwatermark%2Ft5_2ykcc.png%3Fs%3D38f7881b56c8d08d2394d931ca6bbf251dbab595&width=690&height=361.256544503&s=05eac8b0fc5ea4338ac384348180042df613837f",
+          "image_width": 478,
+          "image_height": 250,
+          "image_bytes": 490758,
+          "service_icon": "http://www.redditstatic.com/desktop2x/img/favicon/apple-icon-57x57.png",
+          "id": 1,
+          "original_url": "https://www.reddit.com/r/linuxmasterrace/comments/sdd3e0/arch_linux_crowned_as_champion_of_panic_at_the/",
+          "fallback": "reddit: Arch Linux Crowned as Champion of Panic! at the Distro!",
+          "text": "Posted in r/linuxmasterrace by u/Rebel_Ye11 • 651 points and 97 comments",
+          "title": "Arch Linux Crowned as Champion of Panic! at the Distro!",
+          "title_link": "https://www.reddit.com/r/linuxmasterrace/comments/sdd3e0/arch_linux_crowned_as_champion_of_panic_at_the/",
+          "service_name": "reddit"
+        }
+      ],
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "sdw",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "優勝してた\n"
+                },
+                {
+                  "type": "link",
+                  "url": "https://www.reddit.com/r/linuxmasterrace/comments/sdd3e0/arch_linux_crowned_as_champion_of_panic_at_the/"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "reactions": [
+        {
+          "name": "tada",
+          "users": [
+            "U0PM6EYR1",
+            "U6DL9D3AB",
+            "U0GFBAM8U",
+            "U017BNGTHT3",
+            "U7VDHKJHM",
+            "U01J1GGMHDJ",
+            "UD124KPDJ",
+            "U02BLTTQEL9",
+            "U02R6AP6H0C",
+            "U02ASPM0A6T"
+          ],
+          "count": 10
+        }
+      ]
+    },
+    {
+      "client_msg_id": "44725c74-67f4-4de1-8cbc-2ba806c8fac4",
+      "type": "message",
+      "text": "<https://twitter.com/jingbay/status/1486322414657044482?s=20>",
+      "user": "U70QDFN82",
+      "ts": "1643203162.940199",
+      "team": "T0GFBAM8C",
+      "attachments": [
+        {
+          "from_url": "https://twitter.com/jingbay/status/1486322414657044482?s=20",
+          "ts": 1643201852,
+          "id": 1,
+          "original_url": "https://twitter.com/jingbay/status/1486322414657044482?s=20",
+          "fallback": "<https://twitter.com/jingbay|@jingbay>: Linuxの全てのディストリにてPolkit、以前はPolicy Kitとして知られた、にSUIDされた pkexecが存在し、そいつにroot権限取得の脆弱性が含まれていたとして一斉に修正が配布された。12年も存在していたそう。argcがゼロでもargvの配列にアクセスするために環境変数に任意コードを埋めることが可能だった <https://twitter.com/TheRegister/status/1486142763322195972>",
+          "text": "Linuxの全てのディストリにてPolkit、以前はPolicy Kitとして知られた、にSUIDされた pkexecが存在し、そいつにroot権限取得の脆弱性が含まれていたとして一斉に修正が配布された。12年も存在していたそう。argcがゼロでもargvの配列にアクセスするために環境変数に任意コードを埋めることが可能だった <https://twitter.com/TheRegister/status/1486142763322195972>",
+          "author_name": "高梨陣平",
+          "author_link": "https://twitter.com/jingbay/status/1486322414657044482",
+          "author_icon": "https://pbs.twimg.com/profile_images/322602576/JinpeiTakanashi_normal.png",
+          "author_subname": "@jingbay",
+          "service_name": "twitter",
+          "service_url": "https://twitter.com/",
+          "footer": "Twitter",
+          "footer_icon": "https://a.slack-edge.com/80588/img/services/twitter_pixel_snapped_32.png"
+        },
+        {
+          "from_url": "https://twitter.com/TheRegister/status/1486142763322195972",
+          "ts": 1643159020,
+          "indent": true,
+          "color": "32BBF3",
+          "id": 2,
+          "fallback": "<https://twitter.com/TheRegister|@TheRegister>: Linux distros haunted by Polkit-geist for 12+ years: Bug grants root access to any user <https://reg.cx/42EG>",
+          "text": "Linux distros haunted by Polkit-geist for 12+ years: Bug grants root access to any user <https://reg.cx/42EG>",
+          "author_name": "The Register",
+          "author_link": "https://twitter.com/TheRegister/status/1486142763322195972",
+          "author_icon": "https://pbs.twimg.com/profile_images/378800000628331746/5f111cbaa05662491e9e2468a26fd364_normal.png",
+          "author_subname": "@TheRegister",
+          "service_name": "twitter",
+          "service_url": "https://twitter.com/",
+          "footer": "Twitter",
+          "footer_icon": "https://a.slack-edge.com/80588/img/services/twitter_pixel_snapped_32.png"
+        }
+      ],
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "Kp9",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "link",
+                  "url": "https://twitter.com/jingbay/status/1486322414657044482?s=20"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "3a4fec74-00c8-4338-aca5-5d82bb7c5e16",
+      "type": "message",
+      "text": "58 が 59 とかになっただけだったら、ln -s しておけば動くこともありますね。",
+      "user": "UN1SFMNU8",
+      "ts": "1643202664.208279",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "c+o4",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "58 が 59 とかになっただけだったら、ln -s しておけば動くこともありますね。"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "message",
+      "text": "archでは無いのですがffmpegのバージョンが上がっちゃって動かなくなったんですが\nこういう場合どうすれば良いでしょうか\nIgnorePkgに追加してみましたがchromiumアップグレード時にエラーでアップグレードできません\n修正待つしかないですか？",
+      "files": [
+        {
+          "id": "F03095MMPJN",
+          "created": 1643201827,
+          "timestamp": 1643201827,
+          "name": "image.png",
+          "title": "image.png",
+          "mimetype": "image/png",
+          "filetype": "png",
+          "pretty_type": "PNG",
+          "user": "U01HE1ENNJZ",
+          "editable": false,
+          "size": 12693,
+          "mode": "hosted",
+          "is_external": false,
+          "external_type": "",
+          "is_public": true,
+          "public_url_shared": false,
+          "display_as_bot": false,
+          "username": "",
+          "url_private": "https://files.slack.com/files-pri/T0GFBAM8C-F03095MMPJN/image.png",
+          "url_private_download": "https://files.slack.com/files-pri/T0GFBAM8C-F03095MMPJN/download/image.png",
+          "media_display_type": "unknown",
+          "thumb_64": "https://files.slack.com/files-tmb/T0GFBAM8C-F03095MMPJN-edf33dbfcc/image_64.png",
+          "thumb_80": "https://files.slack.com/files-tmb/T0GFBAM8C-F03095MMPJN-edf33dbfcc/image_80.png",
+          "thumb_360": "https://files.slack.com/files-tmb/T0GFBAM8C-F03095MMPJN-edf33dbfcc/image_360.png",
+          "thumb_360_w": 360,
+          "thumb_360_h": 28,
+          "thumb_480": "https://files.slack.com/files-tmb/T0GFBAM8C-F03095MMPJN-edf33dbfcc/image_480.png",
+          "thumb_480_w": 480,
+          "thumb_480_h": 38,
+          "thumb_160": "https://files.slack.com/files-tmb/T0GFBAM8C-F03095MMPJN-edf33dbfcc/image_160.png",
+          "thumb_720": "https://files.slack.com/files-tmb/T0GFBAM8C-F03095MMPJN-edf33dbfcc/image_720.png",
+          "thumb_720_w": 720,
+          "thumb_720_h": 57,
+          "thumb_800": "https://files.slack.com/files-tmb/T0GFBAM8C-F03095MMPJN-edf33dbfcc/image_800.png",
+          "thumb_800_w": 800,
+          "thumb_800_h": 63,
+          "thumb_960": "https://files.slack.com/files-tmb/T0GFBAM8C-F03095MMPJN-edf33dbfcc/image_960.png",
+          "thumb_960_w": 960,
+          "thumb_960_h": 75,
+          "thumb_1024": "https://files.slack.com/files-tmb/T0GFBAM8C-F03095MMPJN-edf33dbfcc/image_1024.png",
+          "thumb_1024_w": 1024,
+          "thumb_1024_h": 80,
+          "original_w": 1463,
+          "original_h": 115,
+          "thumb_tiny": "AwADADCoTzRmhuppKYhc0ZpKKAFzRSUUAf/Z",
+          "permalink": "https://archlinuxjp.slack.com/files/U01HE1ENNJZ/F03095MMPJN/image.png",
+          "permalink_public": "https://slack-files.com/T0GFBAM8C-F03095MMPJN-86350bd064",
+          "is_starred": false,
+          "has_rich_preview": false
+        }
+      ],
+      "upload": false,
+      "user": "U01HE1ENNJZ",
+      "display_as_bot": false,
+      "ts": "1643201957.707379",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "y+A",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "archでは無いのですがffmpegのバージョンが上がっちゃって動かなくなったんですが\nこういう場合どうすれば良いでしょうか\nIgnorePkgに追加してみましたがchromiumアップグレード時にエラーでアップグレードできません\n修正待つしかないですか？"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "client_msg_id": "1ca4718f-4534-4e93-a797-9405264c0f29"
+    },
+    {
+      "client_msg_id": "4542ca20-a809-4bf8-a5c0-630635e7c149",
+      "type": "message",
+      "text": "よさそう。表示するものないけど\n<https://twitter.com/oo_forward/status/1486171786144329730?s=20>",
+      "user": "U70QDFN82",
+      "ts": "1643201145.853499",
+      "team": "T0GFBAM8C",
+      "attachments": [
+        {
+          "from_url": "https://twitter.com/oo_forward/status/1486171786144329730?s=20",
+          "ts": 1643165940,
+          "image_url": "https://pbs.twimg.com/media/FJ_bX9vaQAEqF-I.jpg",
+          "image_width": 900,
+          "image_height": 1200,
+          "image_bytes": 295649,
+          "id": 1,
+          "original_url": "https://twitter.com/oo_forward/status/1486171786144329730?s=20",
+          "fallback": "<https://twitter.com/oo_forward|@oo_forward>: 不要になったスマホをLinuxサーバーにするだけではつまらないので、\n\nインテリアに馴染むように、DIYして写真立てに埋め込んでみました。\n\nこれで誰もサーバーだとは気づかないだろう。\n\nとりあえず、次はRailsを動かそう。\n\n #スマホサーバー化計画 #linux #Rails <https://pbs.twimg.com/media/FJ_bX9vaQAEqF-I.jpg>",
+          "text": "不要になったスマホをLinuxサーバーにするだけではつまらないので、\n\nインテリアに馴染むように、DIYして写真立てに埋め込んでみました。\n\nこれで誰もサーバーだとは気づかないだろう。\n\nとりあえず、次はRailsを動かそう。\n\n #スマホサーバー化計画 #linux #Rails <https://pbs.twimg.com/media/FJ_bX9vaQAEqF-I.jpg>",
+          "author_name": "YuKiO｜アプリ個人開発｜Flutter × Firebase | ブロックチェーン学習中|DX",
+          "author_link": "https://twitter.com/oo_forward/status/1486171786144329730",
+          "author_icon": "https://pbs.twimg.com/profile_images/1224157344327553024/y9mhmTDK_normal.png",
+          "author_subname": "@oo_forward",
+          "service_name": "twitter",
+          "service_url": "https://twitter.com/",
+          "footer": "Twitter",
+          "footer_icon": "https://a.slack-edge.com/80588/img/services/twitter_pixel_snapped_32.png"
+        },
+        {
+          "image_url": "https://pbs.twimg.com/media/FJ_bbyJaQAUZMxJ.jpg",
+          "image_width": 900,
+          "image_height": 1200,
+          "image_bytes": 101009,
+          "id": 2,
+          "fallback": "900x1200px image",
+          "text": "<https://pbs.twimg.com/media/FJ_bbyJaQAUZMxJ.jpg>"
+        },
+        {
+          "image_url": "https://pbs.twimg.com/media/FJ_bezfaUAE2rcI.jpg",
+          "image_width": 900,
+          "image_height": 1200,
+          "image_bytes": 137775,
+          "id": 3,
+          "fallback": "900x1200px image",
+          "text": "<https://pbs.twimg.com/media/FJ_bezfaUAE2rcI.jpg>"
+        }
+      ],
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "tuJO",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "よさそう。表示するものないけど\n"
+                },
+                {
+                  "type": "link",
+                  "url": "https://twitter.com/oo_forward/status/1486171786144329730?s=20"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "7e0a18d2-e521-4ea8-ae36-a526273cf31f",
+      "type": "message",
+      "text": "ChromeOSのオープンソース部分がChromiumOSで、ビルド済みのものとして配布されているCloudReadyが存在していて…という。\nそしてCloudReadyを配布しているNeverwareをGoogleが買収した。",
+      "user": "U017BNGTHT3",
+      "ts": "1643008722.137200",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "rza5R",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "ChromeOSのオープンソース部分がChromiumOSで、ビルド済みのものとして配布されているCloudReadyが存在していて…という。\nそしてCloudReadyを配布しているNeverwareをGoogleが買収した。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "reactions": [
+        {
+          "name": "naruhodo",
+          "users": [
+            "U0PM6EYR1",
+            "U70QDFN82",
+            "U02ASPM0A6T",
+            "U01J1GGMHDJ",
+            "U01HE1ENNJZ",
+            "U7VDHKJHM"
+          ],
+          "count": 6
+        }
+      ]
+    },
+    {
+      "client_msg_id": "2d36f0f5-9581-423c-8c5e-b5f65929abbe",
+      "type": "message",
+      "text": "ChromiumOS なんてあったんだ",
+      "user": "U0PM6EYR1",
+      "ts": "1643008561.135000",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "n5A",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "ChromiumOS なんてあったんだ"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "5fa0e16d-0cc6-4fa7-a1b5-35b518cb4903",
+      "type": "message",
+      "text": "確かにこれができる人はArchInstall使えば入れられそう。",
+      "user": "U017BNGTHT3",
+      "ts": "1643008397.133000",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "iVPc",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "確かにこれができる人はArchInstall使えば入れられそう。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "reactions": [
+        {
+          "name": "wakaru",
+          "users": [
+            "U70QDFN82",
+            "U01J1GGMHDJ"
+          ],
+          "count": 2
+        }
+      ]
+    },
+    {
+      "client_msg_id": "ece2c041-6507-473e-be02-87b7d29e1db8",
+      "type": "message",
+      "text": "これ入れられるならたぶんArch入れられる",
+      "user": "U70QDFN82",
+      "ts": "1643008312.132000",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "khmT",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "これ入れられるならたぶんArch入れられる"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "9f45b9f0-5fe5-42da-a05c-35172b6d2227",
+      "type": "message",
+      "text": "２ページ目見ましたけどインストーラーがやばい\nこれはChromeOSに軍配",
+      "user": "U70QDFN82",
+      "ts": "1643008289.131600",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "Y=CQe",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "２ページ目見ましたけどインストーラーがやばい\nこれはChromeOSに軍配"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "d23b11f2-2b49-49ec-ba8d-a3f606919c49",
+      "type": "message",
+      "text": "動かないアプリとかは多少あった気がしますが。",
+      "user": "U017BNGTHT3",
+      "ts": "1643008251.130900",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "m4aq",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "動かないアプリとかは多少あった気がしますが。"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "67348ebb-c025-47ef-a8b1-78e69d5d46c5",
+      "type": "message",
+      "text": "Android-x86は結構簡単だった気がしますね。",
+      "user": "U017BNGTHT3",
+      "ts": "1643008236.130500",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "0kk3",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "Android-x86は結構簡単だった気がしますね。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "reactions": [
+        {
+          "name": "wakaru",
+          "users": [
+            "U01J1GGMHDJ"
+          ],
+          "count": 1
+        }
+      ]
+    },
+    {
+      "client_msg_id": "2eada911-ceb1-4871-a4c5-95678ebbb80d",
+      "type": "message",
+      "text": "もしかして意外と簡単に入る？\n<https://atmarkit.itmedia.co.jp/ait/articles/1809/14/news024.html>",
+      "user": "U70QDFN82",
+      "ts": "1643008230.130300",
+      "team": "T0GFBAM8C",
+      "attachments": [
+        {
+          "from_url": "https://atmarkit.itmedia.co.jp/ait/articles/1809/14/news024.html",
+          "thumb_url": "https://image.itmedia.co.jp/ait/articles/1809/14/cover_news024.jpg",
+          "thumb_width": 589,
+          "thumb_height": 331,
+          "service_icon": "https://atmarkit.itmedia.co.jp/favicon.ico",
+          "id": 1,
+          "original_url": "https://atmarkit.itmedia.co.jp/ait/articles/1809/14/news024.html",
+          "fallback": "＠IT: Windows PCにAndroid-x86をインストールして再利用する",
+          "text": "中古PC活用の第6弾。今回は、Android OSをインストールしてみる。x86／x64プロセッサ向けにAndroid OSを移植したAndroid-x86を使い古しのPCにインストールして活用しよう。",
+          "title": "Windows PCにAndroid-x86をインストールして再利用する",
+          "title_link": "https://atmarkit.itmedia.co.jp/ait/articles/1809/14/news024.html",
+          "service_name": "＠IT"
+        }
+      ],
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "1xg",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "もしかして意外と簡単に入る？\n"
+                },
+                {
+                  "type": "link",
+                  "url": "https://atmarkit.itmedia.co.jp/ait/articles/1809/14/news024.html"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "fff71011-664c-4b36-8a3a-8e5c291dbbf4",
+      "type": "message",
+      "text": "Androidはインストールがむずそうなイメージがありますね（PCに入れたことがないから感覚）",
+      "user": "U70QDFN82",
+      "ts": "1643008130.129700",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "u+B0J",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "Androidはインストールがむずそうなイメージがありますね（PCに入れたことがないから感覚）"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "931a97a5-3d99-44fc-a09f-0e63d2155758",
+      "type": "message",
+      "text": "&gt; ChromeOS\nLinuxカーネルという意味ではAndroidも…",
+      "user": "U017BNGTHT3",
+      "ts": "1643008075.129000",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "CgYy",
+          "elements": [
+            {
+              "type": "rich_text_quote",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "ChromeOS"
+                }
+              ]
+            },
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "Linuxカーネルという意味ではAndroidも…"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "de500580-ceef-49e2-ac9f-550b90748e1a",
+      "type": "message",
+      "text": "石川さんごめんなさいしなきゃ",
+      "user": "UVB7L4CKH",
+      "ts": "1643008025.128400",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "JSfE",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "石川さんごめんなさいしなきゃ"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "6dd1755b-a368-4d2a-9ce7-0e9984a13179",
+      "type": "message",
+      "text": "たぶん初心者に使いやすいLinuxはChromeOS",
+      "user": "U70QDFN82",
+      "ts": "1643008009.128200",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "ZiDYl",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "たぶん初心者に使いやすいLinuxはChromeOS"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "reactions": [
+        {
+          "name": "wakaru",
+          "users": [
+            "U017BNGTHT3",
+            "UGA29R3FH",
+            "U01HE1ENNJZ"
+          ],
+          "count": 3
+        }
+      ]
+    },
+    {
+      "client_msg_id": "1560601b-2e02-474b-a4a0-41280358feba",
+      "type": "message",
+      "text": "~そしてよくわからないままrpmfusionを導入し、そしてよくわからないままWindowsが消えていることに気がついて絶望する。~",
+      "user": "U017BNGTHT3",
+      "ts": "1643007991.128000",
+      "team": "T0GFBAM8C",
+      "edited": {
+        "user": "U017BNGTHT3",
+        "ts": "1643008168.000000"
+      },
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "wHSyI",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "そしてよくわからないままrpmfusionを導入し、そしてよくわからないままWindowsが消えていることに気がついて絶望する。",
+                  "style": {
+                    "strike": true
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "f9255ee9-e457-4cb5-bebd-4f5de6aa0518",
+      "type": "message",
+      "text": "初心者がRHEL使うとSE Linuxでハマりそう。",
+      "user": "U017BNGTHT3",
+      "ts": "1643007871.126900",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "8gXnX",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "初心者がRHEL使うとSE Linuxでハマりそう。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "reactions": [
+        {
+          "name": "wakaru",
+          "users": [
+            "U70QDFN82",
+            "UD124KPDJ",
+            "U01HE1ENNJZ"
+          ],
+          "count": 3
+        }
+      ]
+    },
+    {
+      "client_msg_id": "9da8850e-76e3-4ce4-a7e5-49851adcd749",
+      "type": "message",
+      "text": "Archは固有のハマりどころが少ないのでむしろ簡単に感じるまである(バイアスマシマシ発言)",
+      "user": "UGA29R3FH",
+      "ts": "1643007796.125600",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "7CqJ",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "Archは固有のハマりどころが少ないのでむしろ簡単に感じるまである(バイアスマシマシ発言)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "2e5edca6-73f9-46a0-b8ef-38870f42279a",
+      "type": "message",
+      "text": "RHEL系統、逆に上級者向けみたいな印象がある",
+      "user": "UGA29R3FH",
+      "ts": "1643007752.124500",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "Ko6",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "RHEL系統、逆に上級者向けみたいな印象がある"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "9a16280a-d432-4e92-86c7-5e8eff0b2a3a",
+      "type": "message",
+      "text": "CentOSよりは初心者にも使いやすそうなイメージがありますね…(微妙な比較)",
+      "user": "U017BNGTHT3",
+      "ts": "1643007690.123700",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "m34",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "CentOSよりは初心者にも使いやすそうなイメージがありますね…(微妙な比較)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "90b8bc1b-4fc7-488a-b8c9-cf824f007b6d",
+      "type": "message",
+      "text": "個人的にはUbuntuのほうがって感じしますね・・・まずテーマが暗い",
+      "user": "U70QDFN82",
+      "ts": "1643007684.123600",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "UOCZv",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "個人的にはUbuntuのほうがって感じしますね・・・まずテーマが暗い"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "2229E355-B5AD-4153-9568-2BEC9BD2FB17",
+      "type": "message",
+      "text": "そういえば、fedoraって初心者にも使いやすそうな感じです?",
+      "user": "U0GFBAM8U",
+      "ts": "1643007627.121900",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "yFvj",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "そういえば、fedoraって初心者にも使いやすそうな感じです?"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "8970A9EC-C6FB-4622-B5A2-48974B4C0909",
+      "type": "message",
+      "text": "それはありそう\n普通にやってubuntu落ちる可能性もありますよね",
+      "user": "U0GFBAM8U",
+      "ts": "1643007465.120400",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "OGp",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "それはありそう\n普通にやってubuntu落ちる可能性もありますよね"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "7202a463-f600-4d1b-9edf-0f3d672b531f",
+      "type": "message",
+      "text": "Linux（オタク）\nArchLinux（オタクの中のオタク）",
+      "user": "U70QDFN82",
+      "ts": "1643007460.120200",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "rUd",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "Linux（オタク）\nArchLinux（オタクの中のオタク）"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "38fc4958-7ab3-46a6-b69c-89f289ab44a7",
+      "type": "message",
+      "text": "Reddit民はいわゆるオタクが多いからArchが強くなる傾向にありますね・・・残念ながら",
+      "user": "U70QDFN82",
+      "ts": "1643007419.119000",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "BhM",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "Reddit民はいわゆるオタクが多いからArchが強くなる傾向にありますね・・・残念ながら"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "FD9A0B63-2721-4E6F-A653-5E875237F45F",
+      "type": "message",
+      "text": "ubuntu早めに落ちてる(とはいえ投票者の偏りあってのことかもしれないのでわからないけど",
+      "user": "U0GFBAM8U",
+      "ts": "1643007379.118300",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "Um6",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "ubuntu早めに落ちてる(とはいえ投票者の偏りあってのことかもしれないのでわからないけど"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "143DA570-D998-4A58-93B7-1F66A8DC91A5",
+      "type": "message",
+      "text": "とすると、初心者が選んじゃダメなosランキングなのかなあ",
+      "user": "U0GFBAM8U",
+      "ts": "1643007298.117000",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "VwKFl",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "とすると、初心者が選んじゃダメなosランキングなのかなあ"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "33f08295-e93a-4d66-aefe-0945b6f19fd1",
+      "type": "message",
+      "text": "特にBritish Englishは難しい…",
+      "user": "UD124KPDJ",
+      "ts": "1643007288.116800",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "+qCM",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "特にBritish Englishは難しい…"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "5A5235A9-3E1E-42B5-87A7-53A1A0A82F36",
+      "type": "message",
+      "text": "英語圏の人、ジョーク効いてることもあって、よほど文化に馴染まないと、その辺のニュアンス読み取るの難しいですよね",
+      "user": "U0GFBAM8U",
+      "ts": "1643007167.115300",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "1Qt",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "英語圏の人、ジョーク効いてることもあって、よほど文化に馴染まないと、その辺のニュアンス読み取るの難しいですよね"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "reactions": [
+        {
+          "name": "sorena",
+          "users": [
+            "U70QDFN82",
+            "U017BNGTHT3",
+            "UD124KPDJ",
+            "U5W6QDSHZ"
+          ],
+          "count": 4
+        }
+      ]
+    },
+    {
+      "client_msg_id": "0b1e66f0-1f0d-4e68-bd27-02ca2a897c63",
+      "type": "message",
+      "text": "確かに",
+      "user": "U017BNGTHT3",
+      "ts": "1643007141.114400",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "mh5",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "確かに"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "722869ac-c4d9-4ea2-b3bc-f7165c2560a7",
+      "type": "message",
+      "text": "じゃあArchだめじゃんw",
+      "user": "U70QDFN82",
+      "ts": "1643007126.113700",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "oAei",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "じゃあArchだめじゃんw"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "5972eab0-2f96-436b-a893-0f97480c4009",
+      "type": "message",
+      "text": "<https://forums.linuxmint.com/viewtopic.php?t=56556>\nPanic! at the Distroでググったらこれが最初に出てきたので「初心者がどれを選んでいいか分からない(パニック)」みたいなニュアンスなのかなと。",
+      "user": "U017BNGTHT3",
+      "ts": "1643007098.113200",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "C+RE",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "link",
+                  "url": "https://forums.linuxmint.com/viewtopic.php?t=56556"
+                },
+                {
+                  "type": "text",
+                  "text": "\nPanic! at the Distroでググったらこれが最初に出てきたので「初心者がどれを選んでいいか分からない(パニック)」みたいなニュアンスなのかなと。"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "765a303f-6839-435b-8ebc-3e8f227363fe",
+      "type": "message",
+      "text": "日本人エンジニアはマンガ・アニメネタ使うのが多いですよね。けど英語になるとちゃんとわきまえてる感じがある。\nたまに向こう（海外のエンジニア）からマンガ・アニメネタ振られてビビる。なんのことかわからなくて。あぁ英語でそういうんだってなる。こっちに合わせてネタ振ってくれたのに反応できなくてごめんって",
+      "user": "U70QDFN82",
+      "ts": "1643007031.111900",
+      "team": "T0GFBAM8C",
+      "edited": {
+        "user": "U70QDFN82",
+        "ts": "1643007100.000000"
+      },
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "X8/",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "日本人エンジニアはマンガ・アニメネタ使うのが多いですよね。けど英語になるとちゃんとわきまえてる感じがある。\nたまに向こう（海外のエンジニア）からマンガ・アニメネタ振られてビビる。なんのことかわからなくて。あぁ英語でそういうんだってなる。こっちに合わせてネタ振ってくれたのに反応できなくてごめんって"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "4CB3F279-910D-4D7E-9409-C0EBE38FC51C",
+      "type": "message",
+      "text": "でもpanic...なんなんだ",
+      "user": "U0GFBAM8U",
+      "ts": "1643006984.110600",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "MEcU",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "でもpanic...なんなんだ"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "CE2DBBD1-4D17-46CA-AA09-21D41950B4BE",
+      "type": "message",
+      "text": "私もそんな感じで",
+      "user": "U0GFBAM8U",
+      "ts": "1643006974.110100",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "+7M",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "私もそんな感じで"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "90254b0f-fbbf-41da-98dc-1669b8a6034f",
+      "type": "message",
+      "text": "です。たしかに最初なんでPanicなんだ？って思ったけど下読んでいくうちに普通に忘れてましたね・・・",
+      "user": "U70QDFN82",
+      "ts": "1643006915.109400",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "69fh",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "です。たしかに最初なんでPanicなんだ？って思ったけど下読んでいくうちに普通に忘れてましたね・・・"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "553AEBE7-A762-41CA-A2B8-4052D40A1EED",
+      "type": "message",
+      "text": "コメント見る限りでは割と純粋に人気ランキングぽい気もする",
+      "user": "U0GFBAM8U",
+      "ts": "1643006868.108500",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "7bM",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "コメント見る限りでは割と純粋に人気ランキングぽい気もする"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "23CE8F5E-CE61-4749-8FF0-E393CBE0CA60",
+      "type": "message",
+      "text": "ロックバンド説もあるのか",
+      "user": "U0GFBAM8U",
+      "ts": "1643006791.107500",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "LFf5",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "ロックバンド説もあるのか"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "90a7a911-36d0-4dc3-947b-c6d6b0ed2456",
+      "type": "message",
+      "text": "なるほど&lt;バンド",
+      "user": "UD124KPDJ",
+      "ts": "1643006783.107000",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "+Lf",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "なるほど<バンド"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "7e2a3e2c-0d08-4e9a-9892-98d4910b59ac",
+      "type": "message",
+      "text": "こういうのが一番むずい",
+      "user": "U70QDFN82",
+      "ts": "1643006777.106700",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "+zNDF",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "こういうのが一番むずい"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "7f12b3f7-bce4-4888-aaa8-7e4d6fc71719",
+      "type": "message",
+      "text": "なるほど・・・",
+      "user": "U70QDFN82",
+      "ts": "1643006772.106400",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "Pazo",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "なるほど・・・"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "afe8ef1d-516b-47e1-a836-2a7a354311df",
+      "type": "message",
+      "text": "タイトルはPanic! at the Disco(ロックバンド)のオマージュなんですかね。",
+      "user": "U017BNGTHT3",
+      "ts": "1643006762.106200",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "8p=T",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "タイトルはPanic! at the Disco(ロックバンド)のオマージュなんですかね。"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "a8e40870-009e-4c8d-8673-7c3e9ada56a2",
+      "type": "message",
+      "text": "GitHub Englishというかスラングですかね。わからん",
+      "user": "UD124KPDJ",
+      "ts": "1643006729.105700",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "g8VpX",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "GitHub Englishというかスラングですかね。わからん"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "578ea8f3-2fdd-472e-a45b-056e57b0a57b",
+      "type": "message",
+      "text": "こういうところだとGitHub語としての英語を話して欲しい・・・",
+      "user": "U70QDFN82",
+      "ts": "1643006601.104400",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "wCNV",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "こういうところだとGitHub語としての英語を話して欲しい・・・"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "AE549620-CFA7-4406-9A97-6475BB4D8DB3",
+      "type": "message",
+      "text": "不安定ディストロ人気ランキング的な意味があるのか、わかんない",
+      "user": "U0GFBAM8U",
+      "ts": "1643006503.103400",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "8Sx",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "不安定ディストロ人気ランキング的な意味があるのか、わかんない"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "5d0e13d0-e491-4124-8a38-7ab6e3fa8dab",
+      "type": "message",
+      "text": "タイトルだと思ってました・・・どうなんでしょう・・・",
+      "user": "U70QDFN82",
+      "ts": "1643006457.102200",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "+dU",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "タイトルだと思ってました・・・どうなんでしょう・・・"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "BA2A7F74-35F8-4184-B350-AE6AF0419391",
+      "type": "message",
+      "text": "ちなみに、panicってタイトルなのか、カーネルパニックなどを揶揄して壊れやすいという意味なのか、良くわかってないんですけど、どうなんでしょう",
+      "user": "U0GFBAM8U",
+      "ts": "1643006329.101600",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "XLuY",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "ちなみに、panicってタイトルなのか、カーネルパニックなどを揶揄して壊れやすいという意味なのか、良くわかってないんですけど、どうなんでしょう"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "C1F840BE-145D-44B4-BF6D-CDF7086374AE",
+      "type": "message",
+      "text": "私はやっぱシンプルなarchの方が好きですね",
+      "user": "U0GFBAM8U",
+      "ts": "1643006218.099800",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "4Tirf",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "私はやっぱシンプルなarchの方が好きですね"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "6FF990B4-A922-4FEF-BE1F-1A11F862890C",
+      "type": "message",
+      "text": "あーそれでか\n全然趣向が違うのにって思ってた",
+      "user": "U0GFBAM8U",
+      "ts": "1643006191.099100",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "nBxK",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "あーそれでか\n全然趣向が違うのにって思ってた"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "message",
+      "text": "",
+      "files": [
+        {
+          "id": "F02UU6L3ZFZ",
+          "created": 1643006169,
+          "timestamp": 1643006169,
+          "name": "zdrmuld56bd81.jpg",
+          "title": "zdrmuld56bd81.jpg",
+          "mimetype": "image/jpeg",
+          "filetype": "jpg",
+          "pretty_type": "JPEG",
+          "user": "U70QDFN82",
+          "editable": false,
+          "size": 140835,
+          "mode": "hosted",
+          "is_external": false,
+          "external_type": "",
+          "is_public": true,
+          "public_url_shared": false,
+          "display_as_bot": false,
+          "username": "",
+          "url_private": "https://files.slack.com/files-pri/T0GFBAM8C-F02UU6L3ZFZ/zdrmuld56bd81.jpg",
+          "url_private_download": "https://files.slack.com/files-pri/T0GFBAM8C-F02UU6L3ZFZ/download/zdrmuld56bd81.jpg",
+          "media_display_type": "unknown",
+          "thumb_64": "https://files.slack.com/files-tmb/T0GFBAM8C-F02UU6L3ZFZ-3aa3f8671a/zdrmuld56bd81_64.jpg",
+          "thumb_80": "https://files.slack.com/files-tmb/T0GFBAM8C-F02UU6L3ZFZ-3aa3f8671a/zdrmuld56bd81_80.jpg",
+          "thumb_360": "https://files.slack.com/files-tmb/T0GFBAM8C-F02UU6L3ZFZ-3aa3f8671a/zdrmuld56bd81_360.jpg",
+          "thumb_360_w": 360,
+          "thumb_360_h": 185,
+          "thumb_480": "https://files.slack.com/files-tmb/T0GFBAM8C-F02UU6L3ZFZ-3aa3f8671a/zdrmuld56bd81_480.jpg",
+          "thumb_480_w": 480,
+          "thumb_480_h": 247,
+          "thumb_160": "https://files.slack.com/files-tmb/T0GFBAM8C-F02UU6L3ZFZ-3aa3f8671a/zdrmuld56bd81_160.jpg",
+          "thumb_720": "https://files.slack.com/files-tmb/T0GFBAM8C-F02UU6L3ZFZ-3aa3f8671a/zdrmuld56bd81_720.jpg",
+          "thumb_720_w": 720,
+          "thumb_720_h": 370,
+          "thumb_800": "https://files.slack.com/files-tmb/T0GFBAM8C-F02UU6L3ZFZ-3aa3f8671a/zdrmuld56bd81_800.jpg",
+          "thumb_800_w": 800,
+          "thumb_800_h": 412,
+          "thumb_960": "https://files.slack.com/files-tmb/T0GFBAM8C-F02UU6L3ZFZ-3aa3f8671a/zdrmuld56bd81_960.jpg",
+          "thumb_960_w": 960,
+          "thumb_960_h": 494,
+          "thumb_1024": "https://files.slack.com/files-tmb/T0GFBAM8C-F02UU6L3ZFZ-3aa3f8671a/zdrmuld56bd81_1024.jpg",
+          "thumb_1024_w": 1024,
+          "thumb_1024_h": 527,
+          "original_w": 2480,
+          "original_h": 1276,
+          "thumb_tiny": "AwAYADCuANo4HT0pG2gjI49qcPur06UhzuG3rTAZ8noaUKTkjGPelO/PQUw9eetAClSBnim5oFOOztuoAeD8o57etNbBxk/kabQaAFwn94/lQGxnABHvTaKAHFiR0FNoooA//9k=",
+          "permalink": "https://archlinuxjp.slack.com/files/U70QDFN82/F02UU6L3ZFZ/zdrmuld56bd81.jpg",
+          "permalink_public": "https://slack-files.com/T0GFBAM8C-F02UU6L3ZFZ-b14a3fa9c1",
+          "is_starred": false,
+          "has_rich_preview": false
+        }
+      ],
+      "upload": false,
+      "user": "U70QDFN82",
+      "display_as_bot": false,
+      "ts": "1643006173.098500",
+      "client_msg_id": "ad549df3-eaf1-4f23-bfd0-5accbe0c8cc3"
+    },
+    {
+      "client_msg_id": "7e18d36e-eafd-4a69-9f7d-f04fd784e597",
+      "type": "message",
+      "text": "ちなみに決勝がFedoraとなのはトーナメントの弊害ですね・・・\nArchがいる上ブロックがやたら強かった（Ubuntu,Debian,SUSE,Gentoo）",
+      "user": "U70QDFN82",
+      "ts": "1643006141.098300",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "a2e",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "ちなみに決勝がFedoraとなのはトーナメントの弊害ですね・・・\nArchがいる上ブロックがやたら強かった（Ubuntu,Debian,SUSE,Gentoo）"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "995f6081-152e-4bb8-97a7-3b3713aeaea8",
+      "type": "message",
+      "text": "CIで各種ディストリビューションからよくパッケージ更新してますけど、落ちるのだいたいFedoraかCent",
+      "user": "U70QDFN82",
+      "ts": "1643005950.097100",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "l7PJo",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "CIで各種ディストリビューションからよくパッケージ更新してますけど、落ちるのだいたいFedoraかCent"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "f38e3d1c-88c6-4c4a-a4d1-c05cca1d5c4a",
+      "type": "message",
+      "text": "そうなんですかね？個人的にはdnfが全然いいと思わないですけど・・・",
+      "user": "U70QDFN82",
+      "ts": "1643005905.096300",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "xyX",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "そうなんですかね？個人的にはdnfが全然いいと思わないですけど・・・"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "957C6423-6EFB-4EC5-8735-30FCFE9A812B",
+      "type": "message",
+      "text": "fedora、最近人気なんです?\n乗り換えた人がちらほら",
+      "user": "U0GFBAM8U",
+      "ts": "1643005725.095600",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "ogN",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "fedora、最近人気なんです?\n乗り換えた人がちらほら"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "b4230a64-2e94-476a-b80c-b035592f2e5b",
+      "type": "message",
+      "text": "こっちだった\n<https://www.reddit.com/r/linuxmasterrace/comments/sb0i45/arch_linux_vs_fedora_panic_at_the_distro/>",
+      "user": "U70QDFN82",
+      "ts": "1642997855.094000",
+      "team": "T0GFBAM8C",
+      "attachments": [
+        {
+          "from_url": "https://www.reddit.com/r/linuxmasterrace/comments/sb0i45/arch_linux_vs_fedora_panic_at_the_distro/",
+          "thumb_url": "https://www.redditstatic.com/new-icon.png",
+          "thumb_width": 256,
+          "thumb_height": 256,
+          "service_icon": "http://www.redditstatic.com/desktop2x/img/favicon/apple-icon-57x57.png",
+          "id": 1,
+          "original_url": "https://www.reddit.com/r/linuxmasterrace/comments/sb0i45/arch_linux_vs_fedora_panic_at_the_distro/",
+          "fallback": "reddit: Arch Linux Vs. Fedora (Panic! at the Distro Championship!)",
+          "text": "Who will be crowned as the Panic! at the Distro Champion? Obtaining the title of the most superior Linux flavor, either Arch or Fedora will take...",
+          "title": "Arch Linux Vs. Fedora (Panic! at the Distro Championship!)",
+          "title_link": "https://www.reddit.com/r/linuxmasterrace/comments/sb0i45/arch_linux_vs_fedora_panic_at_the_distro/",
+          "service_name": "reddit"
+        }
+      ],
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "q/W/Q",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "こっちだった\n"
+                },
+                {
+                  "type": "link",
+                  "url": "https://www.reddit.com/r/linuxmasterrace/comments/sb0i45/arch_linux_vs_fedora_panic_at_the_distro/"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "reactions": [
+        {
+          "name": "eyes",
+          "users": [
+            "U02ASPM0A6T",
+            "U017BNGTHT3"
+          ],
+          "count": 2
+        },
+        {
+          "name": "fedora",
+          "users": [
+            "U02ASPM0A6T"
+          ],
+          "count": 1
+        },
+        {
+          "name": "arch-joy",
+          "users": [
+            "U02ASPM0A6T",
+            "U01J1GGMHDJ",
+            "U02R6AP6H0C",
+            "UD124KPDJ",
+            "U0H9QUFA5",
+            "U01HE1ENNJZ",
+            "U0GFBAM8U",
+            "U01370MAHLN"
+          ],
+          "count": 8
+        }
+      ]
+    },
+    {
+      "client_msg_id": "a2b2e874-4c41-4702-8adf-41ff7b994b80",
+      "type": "message",
+      "text": "決勝戦やってる\n<https://www.reddit.com/r/linuxmasterrace/comments/s8vba6/arch_linux_vs_debian_winner_advances_to_the/>",
+      "user": "U70QDFN82",
+      "ts": "1642997617.093700",
+      "team": "T0GFBAM8C",
+      "attachments": [
+        {
+          "from_url": "https://www.reddit.com/r/linuxmasterrace/comments/s8vba6/arch_linux_vs_debian_winner_advances_to_the/",
+          "thumb_url": "https://www.redditstatic.com/new-icon.png",
+          "thumb_width": 256,
+          "thumb_height": 256,
+          "service_icon": "http://www.redditstatic.com/desktop2x/img/favicon/apple-icon-57x57.png",
+          "id": 1,
+          "original_url": "https://www.reddit.com/r/linuxmasterrace/comments/s8vba6/arch_linux_vs_debian_winner_advances_to_the/",
+          "fallback": "reddit: Arch Linux Vs. Debian (Winner Advances to the Championship)",
+          "text": "Will Arch continue to dominate each opponent in its path to the final, or will Debian apt-get in Arch's way? Who will advance to the championship...",
+          "title": "Arch Linux Vs. Debian (Winner Advances to the Championship)",
+          "title_link": "https://www.reddit.com/r/linuxmasterrace/comments/s8vba6/arch_linux_vs_debian_winner_advances_to_the/",
+          "service_name": "reddit"
+        }
+      ],
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "Y2T",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "決勝戦やってる\n"
+                },
+                {
+                  "type": "link",
+                  "url": "https://www.reddit.com/r/linuxmasterrace/comments/s8vba6/arch_linux_vs_debian_winner_advances_to_the/"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "message",
+      "subtype": "bot_message",
+      "text": "<https://www.archlinux.jp/news/linux-firmware-202201190c6a7b3-2-requires-kernel-53-and-package-splitting/|linux-firmware 20220119.0c6a7b3-2 は kernel &gt;=5.3 が必要になりパッケージが分割されます>\nlinux-firmware パッケージ 20220119.0c6a7b3-2 はカーネルファームウェア\n圧縮を実装しました。Linux kernel は 5.3 から xz で圧縮されたファームウェアの\n読み込みをサポートします。\nCONFIG_FW_LOADER_COMPRESS カーネルオプションを有効にする必要があります。全ての公式 Arch Linux カーネルはこのオプションを既に有効化済みです。[1]\nlinux-firmware パッケージは、必要とするディスクスペースをより減らすため、\nより小さいパッケージに分割されました。珍しいハードウェアのためのいくつかの\n大きなファームウェアファイルは別のパッケージに分割されました。\nこれは Mellanox Spectrum のスイッチ、Marvell のデバイス、\nQualcomm の SoC、Cavium LiquidIO のサーバーアダプタ、QLogic のデバイス、\nBroadcom NetXtreme II 10Gb ethernet アダプタのファームウェアに影響を与えます。...",
+      "ts": "1642808260.092300",
+      "username": "Arch Linux: 最近のニュース",
+      "icons": {
+        "image_36": "https://a.slack-edge.com/80588/img/services/rss_36.png",
+        "image_48": "https://a.slack-edge.com/80588/img/services/rss_48.png",
+        "image_72": "https://a.slack-edge.com/80588/img/services/rss_72.png"
+      },
+      "bot_id": "B3WNLSQ4W",
+      "attachments": [
+        {
+          "from_url": "https://www.archlinux.jp/news/linux-firmware-202201190c6a7b3-2-requires-kernel-53-and-package-splitting/",
+          "thumb_url": "https://www.archlinux.jp/images/amplogo.png",
+          "thumb_width": 1024,
+          "thumb_height": 1024,
+          "service_icon": "https://www.archlinux.jp/images/apple-touch-icon-57x57.png",
+          "id": 1,
+          "original_url": "https://www.archlinux.jp/news/linux-firmware-202201190c6a7b3-2-requires-kernel-53-and-package-splitting/",
+          "fallback": "ニュース: linux-firmware 20220119.0c6a7b3-2 は kernel &gt;=5.3 が必要になりパッケージが分割されます",
+          "text": "linux-firmware パッケージ 20220119.0c6a7b3-2 はカーネルファームウェア圧縮を実装しました。Linux kernel は 5.3 から xz で圧縮されたファームウェアの読み込みをサポートします。CONFIG_FW_LOADER_COMPRESS カーネルオプションを有効にする必要があります。",
+          "title": "ニュース: linux-firmware 20220119.0c6a7b3-2 は kernel &gt;=5.3 が必要になりパッケージが分割されます",
+          "title_link": "https://www.archlinux.jp/news/linux-firmware-202201190c6a7b3-2-requires-kernel-53-and-package-splitting/",
+          "service_name": "archlinux.jp"
+        }
+      ],
+      "edited": {
+        "user": "B3WNLSQ4W",
+        "ts": "1642808260.000000"
+      },
+      "reactions": [
+        {
+          "name": "+1",
+          "users": [
+            "U02ASPM0A6T",
+            "U3FJYR7MG",
+            "UAPRYSVPS"
+          ],
+          "count": 3
+        }
+      ]
+    },
+    {
+      "type": "message",
+      "subtype": "bot_message",
+      "text": "",
+      "ts": "1642807774.092200",
+      "bot_id": "B021YB9R1EG",
+      "attachments": [
+        {
+          "from_url": "https://twitter.com/archlinux_jp/status/1484669507444494340",
+          "ts": 1642807769,
+          "id": 1,
+          "fallback": "<https://twitter.com/archlinux_jp|@archlinux_jp>: linux-firmware 20220119.0c6a7b3-2 は kernel &gt;=5.3 が必要になりパッケージが分割されます <https://www.archlinux.jp/news/linux-firmware-202201190c6a7b3-2-requires-kernel-53-and-package-splitting/>",
+          "text": "linux-firmware 20220119.0c6a7b3-2 は kernel &gt;=5.3 が必要になりパッケージが分割されます <https://www.archlinux.jp/news/linux-firmware-202201190c6a7b3-2-requires-kernel-53-and-package-splitting/>",
+          "pretext": "<https://twitter.com/archlinux_jp/status/1484669507444494340>",
+          "author_name": "Arch Linux JP",
+          "author_link": "https://twitter.com/archlinux_jp/status/1484669507444494340",
+          "author_icon": "https://pbs.twimg.com/profile_images/678900104678342656/2w2dw7Fp_normal.png",
+          "author_subname": "@archlinux_jp",
+          "service_name": "twitter",
+          "service_url": "https://twitter.com/",
+          "footer": "Twitter",
+          "footer_icon": "https://a.slack-edge.com/80588/img/services/twitter_pixel_snapped_32.png"
+        }
+      ]
+    },
+    {
+      "type": "message",
+      "subtype": "bot_message",
+      "text": "<https://archlinux.org/news/linux-firmware-202201190c6a7b3-2-requires-kernel-53-and-package-splitting/|linux-firmware 20220119.0c6a7b3-2 requires kernel &gt;=5.3 and package splitting>\nThe linux-firmware package 20220119.0c6a7b3-2 implements kernel\nfirmware compression. Linux kernel from 5.3 on support loading\nfrom xz compressed firmware.\nCONFIG_FW_LOADER_COMPRESS kernel option must be enabled. All official Arch Linux kernel support this for a long time. [1]\nThe linux-firmware package has been split into smaller packages to\nfurther reduce required disk space. Some big firmware files of\nrarely used hardware have been split into separate packages.\nThis affects firmware for...",
+      "ts": "1642787358.092000",
+      "username": "Arch Linux: Recent news updates",
+      "icons": {
+        "image_36": "https://a.slack-edge.com/80588/img/services/rss_36.png",
+        "image_48": "https://a.slack-edge.com/80588/img/services/rss_48.png",
+        "image_72": "https://a.slack-edge.com/80588/img/services/rss_72.png"
+      },
+      "bot_id": "B3WNLSQ4W"
+    },
+    {
+      "type": "message",
+      "subtype": "channel_join",
+      "ts": "1642778290.091900",
+      "user": "U02V2BW2UFM",
+      "text": "<@U02V2BW2UFM>さんがチャンネルに参加しました",
+      "reactions": [
+        {
+          "name": "archjp",
+          "users": [
+            "U01HE1ENNJZ",
+            "U02HC93TJEP",
+            "U02ASPM0A6T",
+            "U0GFBAM8U"
+          ],
+          "count": 4
+        }
+      ]
+    },
+    {
+      "client_msg_id": "5d4c2b2c-0044-42db-9bba-5b9e59674dfe",
+      "type": "message",
+      "text": "<https://vim.fandom.com/wiki/Vi_key_bindings_in_gtk>",
+      "user": "U0H9QUFA5",
+      "ts": "1642669372.088100",
+      "team": "T0GFBAM8C",
+      "attachments": [
+        {
+          "from_url": "https://vim.fandom.com/wiki/Vi_key_bindings_in_gtk",
+          "thumb_url": "https://static.wikia.nocookie.net/vim/images/b/bc/Wiki.png/revision/latest/zoom-crop/width/200/height/200?cb=20070515145358",
+          "thumb_width": 200,
+          "thumb_height": 200,
+          "service_icon": "https://vim.fandom.com/skins-ucp/common/favicon.ico",
+          "id": 1,
+          "original_url": "https://vim.fandom.com/wiki/Vi_key_bindings_in_gtk",
+          "fallback": "Vim Tips Wiki: Vi key bindings in gtk | Vim Tips Wiki | Fandom",
+          "text": "There is a nifty feature for gtk 2.x and key bindings. Unfortunately the gtk authors didn't document how to append ours. But gtk2.x ships with emacs \"theme\", and why we don't start from it. Since...",
+          "title": "Vi key bindings in gtk | Vim Tips Wiki | Fandom",
+          "title_link": "https://vim.fandom.com/wiki/Vi_key_bindings_in_gtk",
+          "service_name": "Vim Tips Wiki"
+        }
+      ],
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "XOPr0",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "link",
+                  "url": "https://vim.fandom.com/wiki/Vi_key_bindings_in_gtk"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "reactions": [
+        {
+          "name": "hee",
+          "users": [
+            "U02ASPM0A6T",
+            "U02R6AP6H0C",
+            "U01J1GGMHDJ",
+            "U01K1P68HFA",
+            "U01HE1ENNJZ"
+          ],
+          "count": 5
+        }
+      ]
+    },
+    {
+      "client_msg_id": "71232479-5eb3-4ba2-b92e-ae9ec6ff5bfe",
+      "type": "message",
+      "text": "だと思うけど、違ったかな？",
+      "user": "U0H9QUFA5",
+      "ts": "1642669342.087900",
+      "team": "T0GFBAM8C",
+      "edited": {
+        "user": "U0H9QUFA5",
+        "ts": "1642669412.000000"
+      },
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "gv/U+",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "だと思うけど、違ったかな？"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "64c5d787-d7ce-49ea-9816-648d2279b338",
+      "type": "message",
+      "text": "いやその機能今日初めて知りました。vimキーバインドにもできるんですか？",
+      "user": "U02ASPM0A6T",
+      "ts": "1642669285.087500",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "TE6x",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "いやその機能今日初めて知りました。vimキーバインドにもできるんですか？"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "746eff99-c9d3-4bcb-9eb1-016b4aea4332",
+      "type": "message",
+      "text": "あ、すでに解決してた。",
+      "user": "U0H9QUFA5",
+      "ts": "1642669270.087100",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "rJps",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "あ、すでに解決してた。"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "message",
+      "subtype": "thread_broadcast",
+      "text": "~/.config/gtk-3.0/settings.ini\n[Settings]\ngtk-key-theme-name = Emacs\nchromium の場合、この設定を入れると、C-n がカーソル下移動になると思います。まあ、みなさん Vi に設定されてますよね〜。",
+      "user": "U0H9QUFA5",
+      "ts": "1642669227.086100",
+      "thread_ts": "1642649521.075200",
+      "root": {
+        "client_msg_id": "8cf8ef26-9b7f-4856-ba9b-f975e080a539",
+        "type": "message",
+        "text": "chromium上のテキストエリアでC-nしてみたら新規ウィンドウが開きました\nmacOSのようにデフォルトでemacsキーバインドにするための何かを使っていて、それがFirefox上で効かなくなっているという感じですかね？",
+        "user": "U02ASPM0A6T",
+        "ts": "1642649521.075200",
+        "team": "T0GFBAM8C",
+        "edited": {
+          "user": "U02ASPM0A6T",
+          "ts": "1642649592.000000"
+        },
+        "blocks": [
+          {
+            "type": "rich_text",
+            "block_id": "J2tv",
+            "elements": [
+              {
+                "type": "rich_text_section",
+                "elements": [
+                  {
+                    "type": "text",
+                    "text": "chromium上のテキストエリアでC-nしてみたら新規ウィンドウが開きました\nmacOSのようにデフォルトでemacsキーバインドにするための何かを使っていて、それがFirefox上で効かなくなっているという感じですかね？"
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "thread_ts": "1642649521.075200",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1642669227.086100",
+        "reply_users": [
+          "U0H9QUFA5"
+        ],
+        "is_locked": false,
+        "subscribed": false
+      },
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "hdEP",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "~/.config/gtk-3.0/settings.ini\n[Settings]\ngtk-key-theme-name = Emacs\nchromium の場合、この設定を入れると、C-n がカーソル下移動になると思います。まあ、みなさん Vi に設定されてますよね〜。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "client_msg_id": "c8d66c32-a315-461c-9698-3cc1c8703e90"
+    },
+    {
+      "type": "message",
+      "subtype": "channel_join",
+      "ts": "1642667702.085800",
+      "user": "U02V6BRLGDP",
+      "text": "<@U02V6BRLGDP>さんがチャンネルに参加しました",
+      "reactions": [
+        {
+          "name": "archjp",
+          "users": [
+            "U02ASPM0A6T",
+            "U0GFBAM8U",
+            "U02HC93TJEP",
+            "U01HE1ENNJZ"
+          ],
+          "count": 4
+        }
+      ]
+    },
+    {
+      "type": "message",
+      "subtype": "thread_broadcast",
+      "text": "`xremap`もいいですね。設定がすっきりしていてわかりやすそう\n• <https://github.com/k0kubun/xremap>\n`keyd`はSBC経由でのキーボードプロキシガジェット（USBtoUSBコンバーターボード）が作れるらしいというのが特に気になっています。これが使えれば、接続先がどんなOSのどんな状態であるかに関わらず全部共通で独自体系にカスタムしたキーボードを使えるようになる。最初のarchiso起動状態からフルカスタムのキー入力体系が使えると考えるとけっこう強い魅力であるように感じています\n• <https://github.com/rvaiya/keyd/blob/master/src/vkbd/usb-gadget.md>",
+      "user": "U02ASPM0A6T",
+      "ts": "1642665551.085300",
+      "thread_ts": "1642595149.035100",
+      "root": {
+        "client_msg_id": "fad881b9-78f0-49b9-980e-c535e18dd228",
+        "type": "message",
+        "text": "Linuxはudev関連のソフトでリマップなんとかなるので私はHKKB配列はデフォルトで使っています。現状`interception-dual-function-keys`を使っていますが、`keyd`が最終的な覇者になりそうな雰囲気なのでそのうち移行すると思います\n<https://github.com/rvaiya/keyd>",
+        "user": "U02ASPM0A6T",
+        "ts": "1642595149.035100",
+        "team": "T0GFBAM8C",
+        "blocks": [
+          {
+            "type": "rich_text",
+            "block_id": "w8g",
+            "elements": [
+              {
+                "type": "rich_text_section",
+                "elements": [
+                  {
+                    "type": "text",
+                    "text": "Linuxはudev関連のソフトでリマップなんとかなるので私はHKKB配列はデフォルトで使っています。現状"
+                  },
+                  {
+                    "type": "text",
+                    "text": "interception-dual-function-keys",
+                    "style": {
+                      "code": true
+                    }
+                  },
+                  {
+                    "type": "text",
+                    "text": "を使っていますが、"
+                  },
+                  {
+                    "type": "text",
+                    "text": "keyd",
+                    "style": {
+                      "code": true
+                    }
+                  },
+                  {
+                    "type": "text",
+                    "text": "が最終的な覇者になりそうな雰囲気なのでそのうち移行すると思います\n"
+                  },
+                  {
+                    "type": "link",
+                    "url": "https://github.com/rvaiya/keyd"
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "thread_ts": "1642595149.035100",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1642665551.085300",
+        "reply_users": [
+          "U0H9QUFA5",
+          "U02ASPM0A6T"
+        ],
+        "is_locked": false,
+        "subscribed": false
+      },
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "1TBt",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "xremap",
+                  "style": {
+                    "code": true
+                  }
+                },
+                {
+                  "type": "text",
+                  "text": "もいいですね。設定がすっきりしていてわかりやすそう\n"
+                }
+              ]
+            },
+            {
+              "type": "rich_text_list",
+              "elements": [
+                {
+                  "type": "rich_text_section",
+                  "elements": [
+                    {
+                      "type": "link",
+                      "url": "https://github.com/k0kubun/xremap"
+                    }
+                  ]
+                }
+              ],
+              "style": "bullet",
+              "indent": 0,
+              "border": 0
+            },
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "keyd",
+                  "style": {
+                    "code": true
+                  }
+                },
+                {
+                  "type": "text",
+                  "text": "はSBC経由でのキーボードプロキシガジェット（USBtoUSBコンバーターボード）が作れるらしいというのが特に気になっています。これが使えれば、接続先がどんなOSのどんな状態であるかに関わらず全部共通で独自体系にカスタムしたキーボードを使えるようになる。最初のarchiso起動状態からフルカスタムのキー入力体系が使えると考えるとけっこう強い魅力であるように感じています\n"
+                }
+              ]
+            },
+            {
+              "type": "rich_text_list",
+              "elements": [
+                {
+                  "type": "rich_text_section",
+                  "elements": [
+                    {
+                      "type": "link",
+                      "url": "https://github.com/rvaiya/keyd/blob/master/src/vkbd/usb-gadget.md"
+                    }
+                  ]
+                }
+              ],
+              "style": "bullet",
+              "indent": 0,
+              "border": 0
+            }
+          ]
+        }
+      ],
+      "client_msg_id": "6d80d5fd-13ae-42d5-adf4-1dbd44b20a90",
+      "edited": {
+        "user": "U02ASPM0A6T",
+        "ts": "1642689491.000000"
+      }
+    },
+    {
+      "client_msg_id": "a2cc7003-9b86-44e3-84d3-66f6a1e651c5",
+      "type": "message",
+      "text": "PDFの出力しかしたことない機能だ",
+      "user": "UGA29R3FH",
+      "ts": "1642664379.084900",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "UfJfW",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "PDFの出力しかしたことない機能だ"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "reactions": [
+        {
+          "name": "sorena",
+          "users": [
+            "U70QDFN82",
+            "U3FJYR7MG",
+            "U01HE1ENNJZ"
+          ],
+          "count": 3
+        }
+      ]
+    },
+    {
+      "client_msg_id": "ba319f16-ea98-4863-9701-c2fa40101721",
+      "type": "message",
+      "text": "&lt;C-pも&gt;プリンタ開いちゃいそうだけどそっちのほうが弱いんだな・・・",
+      "user": "U70QDFN82",
+      "ts": "1642662799.083800",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "LOTz",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "<C-pも>プリンタ開いちゃいそうだけどそっちのほうが弱いんだな・・・"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "reactions": [
+        {
+          "name": "tashikani",
+          "users": [
+            "U02ASPM0A6T"
+          ],
+          "count": 1
+        },
+        {
+          "name": "wakaru",
+          "users": [
+            "U01K1P68HFA"
+          ],
+          "count": 1
+        }
+      ]
+    },
+    {
+      "client_msg_id": "162bdd38-c65d-4805-ad77-e53397a8dd76",
+      "type": "message",
+      "text": "なんか定番の不具合みたいですね。ハードコードされていて書き換えられないということなのかな。（何か対応するとよりまずくなるような構造的な理由があるのかもしれませんが）\nmacではできる的な話があるけどそれはOSが全体的にEmacsキーバインドなだけなんでしょうね\n<https://blog.tmtms.net/entry/2017/11/15/xremap>",
+      "user": "U02ASPM0A6T",
+      "ts": "1642662560.083200",
+      "team": "T0GFBAM8C",
+      "edited": {
+        "user": "U02ASPM0A6T",
+        "ts": "1642662810.000000"
+      },
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "L7K",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "なんか定番の不具合みたいですね。ハードコードされていて書き換えられないということなのかな。（何か対応するとよりまずくなるような構造的な理由があるのかもしれませんが）\nmacではできる的な話があるけどそれはOSが全体的にEmacsキーバインドなだけなんでしょうね\n"
+                },
+                {
+                  "type": "link",
+                  "url": "https://blog.tmtms.net/entry/2017/11/15/xremap"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "reactions": [
+        {
+          "name": "eyes",
+          "users": [
+            "U02R6AP6H0C",
+            "U02NQFJQ7A9"
+          ],
+          "count": 2
+        }
+      ]
+    },
+    {
+      "client_msg_id": "ec5bb380-024d-40a4-9208-0dabbbb985e9",
+      "type": "message",
+      "text": "へー。なんでだろう・・・？",
+      "user": "U70QDFN82",
+      "ts": "1642661693.081300",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "dik",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "へー。なんでだろう・・・？"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "5610edea-9c38-4c58-91a6-bc6952ec8bbf",
+      "type": "message",
+      "text": "でも、Firefoxで見たら確かに C-p でカーソル上移動はできても C-n するとカーソル下移動ではなく、新規ウィンドウが開いちゃいますね。多分これのことなんだろうな",
+      "user": "U02ASPM0A6T",
+      "ts": "1642661658.080800",
+      "team": "T0GFBAM8C",
+      "edited": {
+        "user": "U02ASPM0A6T",
+        "ts": "1642661693.000000"
+      },
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "yYp/3",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "でも、Firefoxで見たら確かに C-p でカーソル上移動はできても C-n するとカーソル下移動ではなく、新規ウィンドウが開いちゃいますね。多分これのことなんだろうな"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "reactions": [
+        {
+          "name": "sorena",
+          "users": [
+            "U0H9QUFA5",
+            "U02NQFJQ7A9"
+          ],
+          "count": 2
+        }
+      ]
+    },
+    {
+      "client_msg_id": "cb6b96e9-bd45-426a-ad4d-87269f69f367",
+      "type": "message",
+      "text": "&gt; これでいけるかもです。(GTK)\n設定したら Chromium でEmacsキーバインドできました。快適です:grinning:",
+      "user": "U02ASPM0A6T",
+      "ts": "1642661285.079400",
+      "team": "T0GFBAM8C",
+      "edited": {
+        "user": "U02ASPM0A6T",
+        "ts": "1642661548.000000"
+      },
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "77O",
+          "elements": [
+            {
+              "type": "rich_text_quote",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "これでいけるかもです。(GTK)"
+                }
+              ]
+            },
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "設定したら Chromium でEmacsキーバインドできました。快適です"
+                },
+                {
+                  "type": "emoji",
+                  "name": "grinning",
+                  "unicode": "1f600"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "f6daa9e6-249b-4db7-bb49-3c5a9c367ab1",
+      "type": "message",
+      "text": "ぼくは下記の方法で emacs キーバインドにしたので、これでいけるかもです。(GTK)\n<https://wiki.archlinux.org/title/GTK#Emacs_key_bindings>",
+      "user": "U02R6AP6H0C",
+      "ts": "1642660039.077500",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "UqsH",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "ぼくは下記の方法で emacs キーバインドにしたので、これでいけるかもです。(GTK)\n"
+                },
+                {
+                  "type": "link",
+                  "url": "https://wiki.archlinux.org/title/GTK#Emacs_key_bindings"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "reactions": [
+        {
+          "name": "hee",
+          "users": [
+            "U02ASPM0A6T",
+            "UGA29R3FH"
+          ],
+          "count": 2
+        }
+      ]
+    },
+    {
+      "client_msg_id": "8cf8ef26-9b7f-4856-ba9b-f975e080a539",
+      "type": "message",
+      "text": "chromium上のテキストエリアでC-nしてみたら新規ウィンドウが開きました\nmacOSのようにデフォルトでemacsキーバインドにするための何かを使っていて、それがFirefox上で効かなくなっているという感じですかね？",
+      "user": "U02ASPM0A6T",
+      "ts": "1642649521.075200",
+      "team": "T0GFBAM8C",
+      "edited": {
+        "user": "U02ASPM0A6T",
+        "ts": "1642649592.000000"
+      },
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "J2tv",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "chromium上のテキストエリアでC-nしてみたら新規ウィンドウが開きました\nmacOSのようにデフォルトでemacsキーバインドにするための何かを使っていて、それがFirefox上で効かなくなっているという感じですかね？"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "thread_ts": "1642649521.075200",
+      "reply_count": 1,
+      "reply_users_count": 1,
+      "latest_reply": "1642669227.086100",
+      "reply_users": [
+        "U0H9QUFA5"
+      ],
+      "is_locked": false,
+      "subscribed": false
+    },
+    {
+      "type": "message",
+      "subtype": "thread_broadcast",
+      "text": "そうです。Google Chome(Choromium)だけがこの動作が正しく動いていて、それ以外のブラウザも殆ど対応できていません。いつか修正されるかと思っていますが、まったく修正されないので小手先で対応しています。",
+      "user": "U0H9QUFA5",
+      "ts": "1642644139.074400",
+      "thread_ts": "1642599731.051400",
+      "root": {
+        "client_msg_id": "fa42d3f6-e21e-486d-9d2c-fe11677479a1",
+        "type": "message",
+        "text": "&gt; テキストボックス上で control + n を押してウィンドウが開く\nん？C-nを下へのカーソル移動に変えたいとかですか？",
+        "user": "U02ASPM0A6T",
+        "ts": "1642599731.051400",
+        "team": "T0GFBAM8C",
+        "blocks": [
+          {
+            "type": "rich_text",
+            "block_id": "/Kx",
+            "elements": [
+              {
+                "type": "rich_text_quote",
+                "elements": [
+                  {
+                    "type": "text",
+                    "text": "テキストボックス上で control + n を押してウィンドウが開く"
+                  }
+                ]
+              },
+              {
+                "type": "rich_text_section",
+                "elements": [
+                  {
+                    "type": "text",
+                    "text": "ん？C-nを下へのカーソル移動に変えたいとかですか？"
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "thread_ts": "1642599731.051400",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1642644139.074400",
+        "reply_users": [
+          "U0H9QUFA5"
+        ],
+        "is_locked": false,
+        "subscribed": false
+      },
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "sCSB7",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "そうです。Google Chome(Choromium)だけがこの動作が正しく動いていて、それ以外のブラウザも殆ど対応できていません。いつか修正されるかと思っていますが、まったく修正されないので小手先で対応しています。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "client_msg_id": "34178d24-aa71-4d0b-a4bb-58c932aceac8",
+      "edited": {
+        "user": "U0H9QUFA5",
+        "ts": "1642644693.000000"
+      }
+    },
+    {
+      "client_msg_id": "bd018b23-9bb4-49c0-a5f5-b856826bc0ca",
+      "type": "message",
+      "text": "たぶん最初にはまるだいたいの落とし穴には落ちて死に覚えしたと思うので、何かに手こずったら教えていただければ手っ取り早い対応をお伝えできるかもしれません",
+      "user": "U02ASPM0A6T",
+      "ts": "1642602872.071500",
+      "team": "T0GFBAM8C",
+      "edited": {
+        "user": "U02ASPM0A6T",
+        "ts": "1642606083.000000"
+      },
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "b55",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "たぶん最初にはまるだいたいの落とし穴には落ちて死に覚えしたと思うので、何かに手こずったら教えていただければ手っ取り早い対応をお伝えできるかもしれません"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "reactions": [
+        {
+          "name": "+1",
+          "users": [
+            "U70QDFN82",
+            "U01J1GGMHDJ"
+          ],
+          "count": 2
+        }
+      ]
+    },
+    {
+      "client_msg_id": "9428492e-ee01-424a-b229-31dd9cd922b6",
+      "type": "message",
+      "text": "私が練り込んだ検索定義があるのでよかったら使ってください。`config.py`に入れれば`shift+o`後に `該当のプレフィックス 検索キーワード`で使えると思います\n```c.url.searchengines = {\n    \"DEFAULT\": \"<https://www.google.co.jp/search?num=100&amp;q={}>\",\n    \"a\": \"<https://wiki.archlinux.jp/?search={}>\",\n    \"ap\": \"<https://www.appimagehub.com/find?search={}>\",\n    \"ae\": \"<https://wiki.archlinux.org/index.php?search={}>\",\n    \"af\": \"<https://bbs.archlinux.org/search.php?action=search&amp;keywords={}>\",\n    \"afarm\": \"<https://archlinuxarm.org/forum/search.php?keywords={}>\",\n    \"aj\": \"<https://translate.google.com/translate?sl=en&amp;tl=ja&amp;u=https://wiki.archlinux.org/index.php?search={}>\",\n    \"am\": \"<https://www.amazon.co.jp/s?k={}>\",\n    \"me\": \"<https://man.archlinux.org/man/{}>\",\n    \"m\": \"<https://translate.google.com/translate?sl=en&amp;tl=ja&amp;u=https://man.archlinux.org/man/{}>\",\n    \"pkg\": \"<https://archlinux.org/packages/?q={}>\",\n    \"aur\": \"<https://aur.archlinux.org/packages/?K={}>\",\n    \"d\": \"<https://duckduckgo.com/?q={}>\",\n    \"g\": \"<https://www.google.co.jp/search?q={}>\",\n    \"gi\": \"<https://www.google.co.jp/search?tbm=isch&amp;q={}>\",\n    \"gh\": \"<https://github.com/search?q={}>\",\n    \"ka\": \"<https://kakaku.com/search_results/{}/>\",\n    \"mer\": \"<https://www.mercari.com/jp/search/?keyword={}>\",\n    \"mf\": \"<https://forum.manjaro.org/search?q={}>\",\n    \"qti\": \"<https://github.com/qutebrowser/qutebrowser/issues?q=is%3Aissue+{}>\",\n    \"rui\": \"<https://renso-ruigo.com/word/{}>\",\n    \"sy\": \"<https://www.thesaurus.com/browse/{}>\",\n    \"e\": \"<https://ejje.weblio.jp/content/{}>\",\n    \"j\": \"<https://www.weblio.jp/content/{}>\",\n    \"wp\": \"<https://ja.wikipedia.org/wiki/{}>\",\n    \"ya\": \"<https://auctions.yahoo.co.jp/search/search?va={}>\",\n    \"yodo\": \"<https://www.yodobashi.com/?word={}>\",\n    \"yt\": \"<https://www.youtube.com/results?search_query={}>\"\n}```",
+      "user": "U02ASPM0A6T",
+      "ts": "1642602087.069200",
+      "team": "T0GFBAM8C",
+      "edited": {
+        "user": "U02ASPM0A6T",
+        "ts": "1642602333.000000"
+      },
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "/wyI",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "私が練り込んだ検索定義があるのでよかったら使ってください。"
+                },
+                {
+                  "type": "text",
+                  "text": "config.py",
+                  "style": {
+                    "code": true
+                  }
+                },
+                {
+                  "type": "text",
+                  "text": "に入れれば"
+                },
+                {
+                  "type": "text",
+                  "text": "shift+o",
+                  "style": {
+                    "code": true
+                  }
+                },
+                {
+                  "type": "text",
+                  "text": "後に "
+                },
+                {
+                  "type": "text",
+                  "text": "該当のプレフィックス 検索キーワード",
+                  "style": {
+                    "code": true
+                  }
+                },
+                {
+                  "type": "text",
+                  "text": "で使えると思います\n"
+                }
+              ]
+            },
+            {
+              "type": "rich_text_preformatted",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "c.url.searchengines = {\n    \"DEFAULT\": \""
+                },
+                {
+                  "type": "link",
+                  "url": "https://www.google.co.jp/search?num=100&q={}"
+                },
+                {
+                  "type": "text",
+                  "text": "\",\n    \"a\": \""
+                },
+                {
+                  "type": "link",
+                  "url": "https://wiki.archlinux.jp/?search={}"
+                },
+                {
+                  "type": "text",
+                  "text": "\",\n    \"ap\": \""
+                },
+                {
+                  "type": "link",
+                  "url": "https://www.appimagehub.com/find?search={}"
+                },
+                {
+                  "type": "text",
+                  "text": "\",\n    \"ae\": \""
+                },
+                {
+                  "type": "link",
+                  "url": "https://wiki.archlinux.org/index.php?search={}"
+                },
+                {
+                  "type": "text",
+                  "text": "\",\n    \"af\": \""
+                },
+                {
+                  "type": "link",
+                  "url": "https://bbs.archlinux.org/search.php?action=search&keywords={}"
+                },
+                {
+                  "type": "text",
+                  "text": "\",\n    \"afarm\": \""
+                },
+                {
+                  "type": "link",
+                  "url": "https://archlinuxarm.org/forum/search.php?keywords={}"
+                },
+                {
+                  "type": "text",
+                  "text": "\",\n    \"aj\": \""
+                },
+                {
+                  "type": "link",
+                  "url": "https://translate.google.com/translate?sl=en&tl=ja&u=https://wiki.archlinux.org/index.php?search={}"
+                },
+                {
+                  "type": "text",
+                  "text": "\",\n    \"am\": \""
+                },
+                {
+                  "type": "link",
+                  "url": "https://www.amazon.co.jp/s?k={}"
+                },
+                {
+                  "type": "text",
+                  "text": "\",\n    \"me\": \""
+                },
+                {
+                  "type": "link",
+                  "url": "https://man.archlinux.org/man/{}"
+                },
+                {
+                  "type": "text",
+                  "text": "\",\n    \"m\": \""
+                },
+                {
+                  "type": "link",
+                  "url": "https://translate.google.com/translate?sl=en&tl=ja&u=https://man.archlinux.org/man/{}"
+                },
+                {
+                  "type": "text",
+                  "text": "\",\n    \"pkg\": \""
+                },
+                {
+                  "type": "link",
+                  "url": "https://archlinux.org/packages/?q={}"
+                },
+                {
+                  "type": "text",
+                  "text": "\",\n    \"aur\": \""
+                },
+                {
+                  "type": "link",
+                  "url": "https://aur.archlinux.org/packages/?K={}"
+                },
+                {
+                  "type": "text",
+                  "text": "\",\n    \"d\": \""
+                },
+                {
+                  "type": "link",
+                  "url": "https://duckduckgo.com/?q={}"
+                },
+                {
+                  "type": "text",
+                  "text": "\",\n    \"g\": \""
+                },
+                {
+                  "type": "link",
+                  "url": "https://www.google.co.jp/search?q={}"
+                },
+                {
+                  "type": "text",
+                  "text": "\",\n    \"gi\": \""
+                },
+                {
+                  "type": "link",
+                  "url": "https://www.google.co.jp/search?tbm=isch&q={}"
+                },
+                {
+                  "type": "text",
+                  "text": "\",\n    \"gh\": \""
+                },
+                {
+                  "type": "link",
+                  "url": "https://github.com/search?q={}"
+                },
+                {
+                  "type": "text",
+                  "text": "\",\n    \"ka\": \""
+                },
+                {
+                  "type": "link",
+                  "url": "https://kakaku.com/search_results/{}/"
+                },
+                {
+                  "type": "text",
+                  "text": "\",\n    \"mer\": \""
+                },
+                {
+                  "type": "link",
+                  "url": "https://www.mercari.com/jp/search/?keyword={}"
+                },
+                {
+                  "type": "text",
+                  "text": "\",\n    \"mf\": \""
+                },
+                {
+                  "type": "link",
+                  "url": "https://forum.manjaro.org/search?q={}"
+                },
+                {
+                  "type": "text",
+                  "text": "\",\n    \"qti\": \""
+                },
+                {
+                  "type": "link",
+                  "url": "https://github.com/qutebrowser/qutebrowser/issues?q=is%3Aissue+{}"
+                },
+                {
+                  "type": "text",
+                  "text": "\",\n    \"rui\": \""
+                },
+                {
+                  "type": "link",
+                  "url": "https://renso-ruigo.com/word/{}"
+                },
+                {
+                  "type": "text",
+                  "text": "\",\n    \"sy\": \""
+                },
+                {
+                  "type": "link",
+                  "url": "https://www.thesaurus.com/browse/{}"
+                },
+                {
+                  "type": "text",
+                  "text": "\",\n    \"e\": \""
+                },
+                {
+                  "type": "link",
+                  "url": "https://ejje.weblio.jp/content/{}"
+                },
+                {
+                  "type": "text",
+                  "text": "\",\n    \"j\": \""
+                },
+                {
+                  "type": "link",
+                  "url": "https://www.weblio.jp/content/{}"
+                },
+                {
+                  "type": "text",
+                  "text": "\",\n    \"wp\": \""
+                },
+                {
+                  "type": "link",
+                  "url": "https://ja.wikipedia.org/wiki/{}"
+                },
+                {
+                  "type": "text",
+                  "text": "\",\n    \"ya\": \""
+                },
+                {
+                  "type": "link",
+                  "url": "https://auctions.yahoo.co.jp/search/search?va={}"
+                },
+                {
+                  "type": "text",
+                  "text": "\",\n    \"yodo\": \""
+                },
+                {
+                  "type": "link",
+                  "url": "https://www.yodobashi.com/?word={}"
+                },
+                {
+                  "type": "text",
+                  "text": "\",\n    \"yt\": \""
+                },
+                {
+                  "type": "link",
+                  "url": "https://www.youtube.com/results?search_query={}"
+                },
+                {
+                  "type": "text",
+                  "text": "\"\n}"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "6498c4aa-f405-4527-b165-98c3df053747",
+      "type": "message",
+      "text": "徹底してる・・・",
+      "user": "U70QDFN82",
+      "ts": "1642601991.068200",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "Yj1I",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "徹底してる・・・"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "5d8f3e0f-9b69-4eb8-906b-60d9d3c2d06a",
+      "type": "message",
+      "text": "で、保存終了するとそれが元のテキストエリアに反映されるわけですね",
+      "user": "U02ASPM0A6T",
+      "ts": "1642601952.067900",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "fkMK",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "で、保存終了するとそれが元のテキストエリアに反映されるわけですね"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "f6321504-9e13-4067-9738-e218e4b36619",
+      "type": "message",
+      "text": "テキストエリアはCtrl+e押下でデフォルトではgvimで編集するようになっています",
+      "user": "U02ASPM0A6T",
+      "ts": "1642601897.067100",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "WvmNN",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "テキストエリアはCtrl+e押下でデフォルトではgvimで編集するようになっています"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "reactions": [
+        {
+          "name": "hee",
+          "users": [
+            "U70QDFN82"
+          ],
+          "count": 1
+        }
+      ]
+    },
+    {
+      "client_msg_id": "3fea13ed-db02-4cb6-afa6-d33fa0104475",
+      "type": "message",
+      "text": "ここまでやるならすべての入力フォームもデフォルトでVim化するとかやりそう",
+      "user": "U70QDFN82",
+      "ts": "1642601760.065600",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "byS5",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "ここまでやるならすべての入力フォームもデフォルトでVim化するとかやりそう"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "d275fd01-11dd-4796-8a80-2eb5038c33a8",
+      "type": "message",
+      "text": "デフォルトのキーバインドはこちらです <https://qutebrowser.org/img/cheatsheet-big.png>",
+      "user": "U02ASPM0A6T",
+      "ts": "1642601603.064400",
+      "team": "T0GFBAM8C",
+      "attachments": [
+        {
+          "image_url": "https://qutebrowser.org/img/cheatsheet-big.png",
+          "image_width": 3342,
+          "image_height": 2060,
+          "image_bytes": 965071,
+          "from_url": "https://qutebrowser.org/img/cheatsheet-big.png",
+          "id": 1,
+          "original_url": "https://qutebrowser.org/img/cheatsheet-big.png",
+          "fallback": "3342x2060px image"
+        }
+      ],
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "6Q56",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "デフォルトのキーバインドはこちらです "
+                },
+                {
+                  "type": "link",
+                  "url": "https://qutebrowser.org/img/cheatsheet-big.png"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "796d0f10-0d2f-45a7-bad5-224aee52870a",
+      "type": "message",
+      "text": "ダークモード表示で常用したい場合は、base16テーマ形式を`pybase16-builder`などで生成して使うのがおすすめです",
+      "user": "U02ASPM0A6T",
+      "ts": "1642601224.064000",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "kJ1",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "ダークモード表示で常用したい場合は、base16テーマ形式を"
+                },
+                {
+                  "type": "text",
+                  "text": "pybase16-builder",
+                  "style": {
+                    "code": true
+                  }
+                },
+                {
+                  "type": "text",
+                  "text": "などで生成して使うのがおすすめです"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "4d4f5906-915d-4bfa-9408-17bbcab58b10",
+      "type": "message",
+      "text": "ここのフレーズしびれます",
+      "user": "U02ASPM0A6T",
+      "ts": "1642601015.062400",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "qDo",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "ここのフレーズしびれます"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "reactions": [
+        {
+          "name": "wakaru",
+          "users": [
+            "U70QDFN82"
+          ],
+          "count": 1
+        }
+      ]
+    },
+    {
+      "client_msg_id": "3e10ba4a-3de3-4d21-8c57-bf46eb270177",
+      "type": "message",
+      "text": "&gt; 2. なぜ別のブラウザ？\n&gt; *信じられないかもしれませんが、満足できるブラウザが見つからなかったので、自分で書き始めました。*\n&gt; 4. TridactylやVimiumのようなFirefox / Chromiumアドオンとの違いは何ですか？\n&gt; WebExtensions APIは、プラグイン作成者に多くの自由を与えていないようです。その結果、Vimium / Tridactylは、適切な最小限のvimのようなブラウザーに期待するすべての機能を実際には備えていません。同じ理由で、これらのアドオンは非常に一貫性がありません。一部のページでは、キーボード入力を正しく実行およびインターセプトできません。Tridactylは、さまざまな手段（Pythonで記述されたネイティブメッセンジャーがアドオンから直接実行できない作業を実行するなど）でこれらの制限を回避しますが、実行できることは非常に限られています。\n<https://qutebrowser.org/doc/faq.html>",
+      "user": "U02ASPM0A6T",
+      "ts": "1642600941.062000",
+      "team": "T0GFBAM8C",
+      "edited": {
+        "user": "U02ASPM0A6T",
+        "ts": "1642601001.000000"
+      },
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "Bi0",
+          "elements": [
+            {
+              "type": "rich_text_quote",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "2. なぜ別のブラウザ？\n"
+                },
+                {
+                  "type": "text",
+                  "text": "信じられないかもしれませんが、満足できるブラウザが見つからなかったので、自分で書き始めました。",
+                  "style": {
+                    "bold": true
+                  }
+                },
+                {
+                  "type": "text",
+                  "text": "\n4. TridactylやVimiumのようなFirefox / Chromiumアドオンとの違いは何ですか？\nWebExtensions APIは、プラグイン作成者に多くの自由を与えていないようです。その結果、Vimium / Tridactylは、適切な最小限のvimのようなブラウザーに期待するすべての機能を実際には備えていません。同じ理由で、これらのアドオンは非常に一貫性がありません。一部のページでは、キーボード入力を正しく実行およびインターセプトできません。Tridactylは、さまざまな手段（Pythonで記述されたネイティブメッセンジャーがアドオンから直接実行できない作業を実行するなど）でこれらの制限を回避しますが、実行できることは非常に限られています。"
+                }
+              ]
+            },
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "link",
+                  "url": "https://qutebrowser.org/doc/faq.html"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "0c0001d7-0520-408a-80ed-0e306bc09f0d",
+      "type": "message",
+      "text": "一応Vimium入れてますけど、私そんなにヘビーユーザーじゃないんですよねー\njkページ移動と\nタブ移動と\nfでのリンク先移動\nくらいしか使ってない・・・",
+      "user": "U70QDFN82",
+      "ts": "1642600766.061100",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "i/zq",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "一応Vimium入れてますけど、私そんなにヘビーユーザーじゃないんですよねー\njkページ移動と\nタブ移動と\nfでのリンク先移動\nくらいしか使ってない・・・"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "50ef7bd6-affb-4830-8e7a-91ef995fc8cd",
+      "type": "message",
+      "text": "firefoxのtridactylとかchromiumのvimiumなどより全然いいです",
+      "user": "U02ASPM0A6T",
+      "ts": "1642600369.059000",
+      "team": "T0GFBAM8C",
+      "edited": {
+        "user": "U02ASPM0A6T",
+        "ts": "1642600601.000000"
+      },
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "niA4",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "firefoxのtridactylとかchromiumのvimiumなどより全然いいです"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "reactions": [
+        {
+          "name": "hee",
+          "users": [
+            "U70QDFN82",
+            "U01HE1ENNJZ"
+          ],
+          "count": 2
+        }
+      ]
+    },
+    {
+      "client_msg_id": "65acace8-8566-41d8-8cc2-e77a53ab5406",
+      "type": "message",
+      "text": "まじか。結構すごいVim拡張がデフォルトで入ってる感じなんすね",
+      "user": "U70QDFN82",
+      "ts": "1642600271.058100",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "huzrQ",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "まじか。結構すごいVim拡張がデフォルトで入ってる感じなんすね"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "a86e226a-860e-4dd1-abd9-5f63dd9d5988",
+      "type": "message",
+      "text": "すげえいいです。",
+      "user": "U02ASPM0A6T",
+      "ts": "1642600174.056800",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "3CHx",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "すげえいいです。"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "6cdca2ca-000f-4ce2-a3e3-a295e4a9b878",
+      "type": "message",
+      "text": "お、知らないやつだ",
+      "user": "U70QDFN82",
+      "ts": "1642600149.056400",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "sSJ",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "お、知らないやつだ"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "3c93226b-d1f0-442a-8025-3647476cb734",
+      "type": "message",
+      "text": "ブラウザ私はここ半年ほど`qutebrowser`命な感じになっています。ブラウザ開発大変だろうに活発親切にやってくれていてありがたみを感じたので、少額ですがオーナーのgithub sponsorsへサブスク形式の寄付登録してしまいました",
+      "user": "U02ASPM0A6T",
+      "ts": "1642600082.055400",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "kE=u",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "ブラウザ私はここ半年ほど"
+                },
+                {
+                  "type": "text",
+                  "text": "qutebrowser",
+                  "style": {
+                    "code": true
+                  }
+                },
+                {
+                  "type": "text",
+                  "text": "命な感じになっています。ブラウザ開発大変だろうに活発親切にやってくれていてありがたみを感じたので、少額ですがオーナーのgithub sponsorsへサブスク形式の寄付登録してしまいました"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "reactions": [
+        {
+          "name": "+1",
+          "users": [
+            "U0H9QUFA5",
+            "U01J1GGMHDJ",
+            "U01HE1ENNJZ"
+          ],
+          "count": 3
+        }
+      ]
+    },
+    {
+      "client_msg_id": "fa42d3f6-e21e-486d-9d2c-fe11677479a1",
+      "type": "message",
+      "text": "&gt; テキストボックス上で control + n を押してウィンドウが開く\nん？C-nを下へのカーソル移動に変えたいとかですか？",
+      "user": "U02ASPM0A6T",
+      "ts": "1642599731.051400",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "/Kx",
+          "elements": [
+            {
+              "type": "rich_text_quote",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "テキストボックス上で control + n を押してウィンドウが開く"
+                }
+              ]
+            },
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "ん？C-nを下へのカーソル移動に変えたいとかですか？"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "thread_ts": "1642599731.051400",
+      "reply_count": 1,
+      "reply_users_count": 1,
+      "latest_reply": "1642644139.074400",
+      "reply_users": [
+        "U0H9QUFA5"
+      ],
+      "is_locked": false,
+      "subscribed": false
+    },
+    {
+      "client_msg_id": "62ea200f-e271-4f28-8376-d9291e47af9b",
+      "type": "message",
+      "text": "ブラウザはショートカット変更のためにVivaldi使ってますね。カスタマイズいろいろできてとても便利",
+      "user": "U70QDFN82",
+      "ts": "1642599556.050100",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "phdg",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "ブラウザはショートカット変更のためにVivaldi使ってますね。カスタマイズいろいろできてとても便利"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "reactions": [
+        {
+          "name": "+1",
+          "users": [
+            "U0H9QUFA5"
+          ],
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "message",
+      "subtype": "thread_broadcast",
+      "text": "`keyd` 良いですね。念願の firefox のテキストボックス上で control + n を押してウィンドウが開くアホな挙動を回避できました。めっちゃうれしい。",
+      "user": "U0H9QUFA5",
+      "ts": "1642599357.049100",
+      "thread_ts": "1642595149.035100",
+      "root": {
+        "client_msg_id": "fad881b9-78f0-49b9-980e-c535e18dd228",
+        "type": "message",
+        "text": "Linuxはudev関連のソフトでリマップなんとかなるので私はHKKB配列はデフォルトで使っています。現状`interception-dual-function-keys`を使っていますが、`keyd`が最終的な覇者になりそうな雰囲気なのでそのうち移行すると思います\n<https://github.com/rvaiya/keyd>",
+        "user": "U02ASPM0A6T",
+        "ts": "1642595149.035100",
+        "team": "T0GFBAM8C",
+        "blocks": [
+          {
+            "type": "rich_text",
+            "block_id": "w8g",
+            "elements": [
+              {
+                "type": "rich_text_section",
+                "elements": [
+                  {
+                    "type": "text",
+                    "text": "Linuxはudev関連のソフトでリマップなんとかなるので私はHKKB配列はデフォルトで使っています。現状"
+                  },
+                  {
+                    "type": "text",
+                    "text": "interception-dual-function-keys",
+                    "style": {
+                      "code": true
+                    }
+                  },
+                  {
+                    "type": "text",
+                    "text": "を使っていますが、"
+                  },
+                  {
+                    "type": "text",
+                    "text": "keyd",
+                    "style": {
+                      "code": true
+                    }
+                  },
+                  {
+                    "type": "text",
+                    "text": "が最終的な覇者になりそうな雰囲気なのでそのうち移行すると思います\n"
+                  },
+                  {
+                    "type": "link",
+                    "url": "https://github.com/rvaiya/keyd"
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "thread_ts": "1642595149.035100",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1642665551.085300",
+        "reply_users": [
+          "U0H9QUFA5",
+          "U02ASPM0A6T"
+        ],
+        "is_locked": false,
+        "subscribed": false
+      },
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "4r42W",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "keyd",
+                  "style": {
+                    "code": true
+                  }
+                },
+                {
+                  "type": "text",
+                  "text": " 良いですね。念願の firefox のテキストボックス上で control + n を押してウィンドウが開くアホな挙動を回避できました。めっちゃうれしい。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "client_msg_id": "a48732f7-4c31-498f-92e0-e5a6755c51a6",
+      "reactions": [
+        {
+          "name": "+1",
+          "users": [
+            "U02ASPM0A6T"
+          ],
+          "count": 1
+        }
+      ]
+    },
+    {
+      "client_msg_id": "05637E94-D114-4720-8536-8DB0E8D4D24D",
+      "type": "message",
+      "text": "有料で買う人がいるのは純粋にすごい",
+      "user": "U0GFBAM8U",
+      "ts": "1642595747.046700",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "7gyNP",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "有料で買う人がいるのは純粋にすごい"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "reactions": [
+        {
+          "name": "wakaru",
+          "users": [
+            "U70QDFN82",
+            "UGA29R3FH",
+            "U02ASPM0A6T",
+            "U7VDHKJHM",
+            "U3FJYR7MG",
+            "U01HE1ENNJZ"
+          ],
+          "count": 6
+        }
+      ]
+    },
+    {
+      "client_msg_id": "d8bca7a8-e4d6-4f3a-9b38-fcf84c6d9339",
+      "type": "message",
+      "text": "今の所見たことないのは幸せだ",
+      "user": "UGA29R3FH",
+      "ts": "1642595745.046600",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "=YZ4",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "今の所見たことないのは幸せだ"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "c3a62f6c-140f-4fe8-b45b-6a7027bdf8d0",
+      "type": "message",
+      "text": "入力可能PDFやばそう",
+      "user": "UGA29R3FH",
+      "ts": "1642595735.046100",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "ZntIy",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "入力可能PDFやばそう"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "EC03D291-9ED5-4435-8B5C-92141DE95369",
+      "type": "message",
+      "text": "そういえばそうですね",
+      "user": "U0GFBAM8U",
+      "ts": "1642595726.045400",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "KoX",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "そういえばそうですね"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "3fce1495-f55c-4c22-8f7e-d5abc6a2803e",
+      "type": "message",
+      "text": "ソフトウェア販売系の会社って大体死に絶えていったかビジネスモデルを変更したイメージしかないので、Adobeがまだ最前線で頑張ってるところは評価したい",
+      "user": "U70QDFN82",
+      "ts": "1642595636.043800",
+      "team": "T0GFBAM8C",
+      "edited": {
+        "user": "U70QDFN82",
+        "ts": "1642595812.000000"
+      },
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "ybBxZ",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "ソフトウェア販売系の会社って大体死に絶えていったかビジネスモデルを変更したイメージしかないので、Adobeがまだ最前線で頑張ってるところは評価したい"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "c33bce3d-d18f-45e2-8ef9-9c97d2318e70",
+      "type": "message",
+      "text": "このところ入力可能なPDFの形式（最終的に印刷して提出しなきゃいけない）があって、それの文字化けとかがなんとかならないかとあがいてました。flatpakやappimageでbottleっていうwine環境引受けマネージャーみたいなものを起動しようとしてましたがどうもアクロバットリーダーのインストーラーファイルが渡せなくて泣きそうになってます。おとなしくmac起動しよう。。",
+      "user": "U02ASPM0A6T",
+      "ts": "1642595596.043200",
+      "team": "T0GFBAM8C",
+      "edited": {
+        "user": "U02ASPM0A6T",
+        "ts": "1642595645.000000"
+      },
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "zd4",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "このところ入力可能なPDFの形式（最終的に印刷して提出しなきゃいけない）があって、それの文字化けとかがなんとかならないかとあがいてました。flatpakやappimageでbottleっていうwine環境引受けマネージャーみたいなものを起動しようとしてましたがどうもアクロバットリーダーのインストーラーファイルが渡せなくて泣きそうになってます。おとなしくmac起動しよう。。"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "0131A661-CF8F-4F34-AC4B-AADAFEBC296D",
+      "type": "message",
+      "text": "adobeはflashのイメージが",
+      "user": "U0GFBAM8U",
+      "ts": "1642595487.041300",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "G2z",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "adobeはflashのイメージが"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "db56983a-4cc9-49e0-beb4-775c507bf465",
+      "type": "message",
+      "text": "Adobeとは距離を置きたい",
+      "user": "UGA29R3FH",
+      "ts": "1642595360.039000",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "7NFYe",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "Adobeとは距離を置きたい"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "reactions": [
+        {
+          "name": "wakaru",
+          "users": [
+            "U70QDFN82",
+            "U02ASPM0A6T",
+            "U6DL9D3AB",
+            "U017BNGTHT3",
+            "U0H9QUFA5"
+          ],
+          "count": 5
+        }
+      ]
+    },
+    {
+      "client_msg_id": "21baf9a9-8a96-4181-8f7d-7954f516e4ad",
+      "type": "message",
+      "text": "必要になったらxremapしようかなって思ってる",
+      "user": "UGA29R3FH",
+      "ts": "1642595307.037900",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "p7wyn",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "必要になったらxremapしようかなって思ってる"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "92559555-DDB1-4D31-BD8A-CE231A5CDE5D",
+      "type": "message",
+      "text": "確かにデザイン関連はlinuxでは厳しいかもしれませんね",
+      "user": "U0GFBAM8U",
+      "ts": "1642595277.037000",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "qDHE",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "確かにデザイン関連はlinuxでは厳しいかもしれませんね"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "reactions": [
+        {
+          "name": "totemoturai",
+          "users": [
+            "U70QDFN82"
+          ],
+          "count": 1
+        }
+      ]
+    },
+    {
+      "client_msg_id": "fad881b9-78f0-49b9-980e-c535e18dd228",
+      "type": "message",
+      "text": "Linuxはudev関連のソフトでリマップなんとかなるので私はHKKB配列はデフォルトで使っています。現状`interception-dual-function-keys`を使っていますが、`keyd`が最終的な覇者になりそうな雰囲気なのでそのうち移行すると思います\n<https://github.com/rvaiya/keyd>",
+      "user": "U02ASPM0A6T",
+      "ts": "1642595149.035100",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "w8g",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "Linuxはudev関連のソフトでリマップなんとかなるので私はHKKB配列はデフォルトで使っています。現状"
+                },
+                {
+                  "type": "text",
+                  "text": "interception-dual-function-keys",
+                  "style": {
+                    "code": true
+                  }
+                },
+                {
+                  "type": "text",
+                  "text": "を使っていますが、"
+                },
+                {
+                  "type": "text",
+                  "text": "keyd",
+                  "style": {
+                    "code": true
+                  }
+                },
+                {
+                  "type": "text",
+                  "text": "が最終的な覇者になりそうな雰囲気なのでそのうち移行すると思います\n"
+                },
+                {
+                  "type": "link",
+                  "url": "https://github.com/rvaiya/keyd"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "thread_ts": "1642595149.035100",
+      "reply_count": 2,
+      "reply_users_count": 2,
+      "latest_reply": "1642665551.085300",
+      "reply_users": [
+        "U0H9QUFA5",
+        "U02ASPM0A6T"
+      ],
+      "is_locked": false,
+      "subscribed": false
+    },
+    {
+      "client_msg_id": "857a2f2e-0374-4387-a37e-865cf9e301d0",
+      "type": "message",
+      "text": "最近Adobeが必要になってきてArchメインからmacOSメインになってしまった…",
+      "user": "UD124KPDJ",
+      "ts": "1642595087.034600",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "xoYa",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "最近Adobeが必要になってきてArchメインからmacOSメインになってしまった…"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "reactions": [
+        {
+          "name": "aruaru",
+          "users": [
+            "U02ASPM0A6T",
+            "U017BNGTHT3"
+          ],
+          "count": 2
+        }
+      ]
+    },
+    {
+      "client_msg_id": "dc485d4c-e23d-4735-9640-6f47bb3f2062",
+      "type": "message",
+      "text": "Steam系のゲームいくつかあるからまだWindows必要なんよなぁ…\nいまんとこlibvirtでどうにかなってますが",
+      "user": "U3FJYR7MG",
+      "ts": "1642594986.032700",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "CbcdG",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "Steam系のゲームいくつかあるからまだWindows必要なんよなぁ…\nいまんとこlibvirtでどうにかなってますが"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "reactions": [
+        {
+          "name": "naruhodo",
+          "users": [
+            "U70QDFN82"
+          ],
+          "count": 1
+        }
+      ]
+    },
+    {
+      "client_msg_id": "c2f3e485-c974-495c-81be-8d465bd36238",
+      "type": "message",
+      "text": "唯一まだだめなのがHHKBのマッピング書き換えアプリ・・・",
+      "user": "U70QDFN82",
+      "ts": "1642594797.030200",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "KDl3",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "唯一まだだめなのがHHKBのマッピング書き換えアプリ・・・"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "06f56e92-d811-4baf-af53-4a3b44752f76",
+      "type": "message",
+      "text": "最近Windows本当に必要なくなりましたね・・・Excel形式の申請書系のなにかもだいたいGoogleで大丈夫だし",
+      "user": "U70QDFN82",
+      "ts": "1642594772.029600",
+      "team": "T0GFBAM8C",
+      "edited": {
+        "user": "U70QDFN82",
+        "ts": "1642594815.000000"
+      },
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "N/OJ",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "最近Windows本当に必要なくなりましたね・・・Excel形式の申請書系のなにかもだいたいGoogleで大丈夫だし"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "F535EFAB-9520-4838-893B-1A9184F22686",
+      "type": "message",
+      "text": "確かこの前は10だった記憶",
+      "user": "U0GFBAM8U",
+      "ts": "1642594674.028700",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "pqO",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "確かこの前は10だった記憶"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "93ED932A-C46E-4C2B-A771-1DC6EF542FF6",
+      "type": "message",
+      "text": "笑\nyutkatさんもやられてたのか",
+      "user": "U0GFBAM8U",
+      "ts": "1642594578.027700",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "bDP",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "笑\nyutkatさんもやられてたのか"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "76547c92-cff6-4596-9d25-32463be4a142",
+      "type": "message",
+      "text": "私は最近デュアルブートのWindows消しましたね。ちょうど11のアップデートでESP消されてイラッとして殺ってしまった",
+      "user": "U70QDFN82",
+      "ts": "1642594496.026900",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "Qz+x",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "私は最近デュアルブートのWindows消しましたね。ちょうど11のアップデートでESP消されてイラッとして殺ってしまった"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "reactions": [
+        {
+          "name": "fearful",
+          "users": [
+            "U02ASPM0A6T",
+            "U7VDHKJHM",
+            "U3FJYR7MG",
+            "UGA29R3FH",
+            "UD124KPDJ",
+            "U6DL9D3AB",
+            "U017BNGTHT3",
+            "U01HE1ENNJZ"
+          ],
+          "count": 8
+        }
+      ]
+    },
+    {
+      "client_msg_id": "7f5ed0a9-f0c8-4921-8cda-aec69a7be445",
+      "type": "message",
+      "text": "macでもそういうのあって何回かトラブったので怖くてArchに流れてきたってのもあります。ファイルシステム変えるようなレベルのアップデートが裏で中途半端に準備されてたりするのが本当に怖い",
+      "user": "U02ASPM0A6T",
+      "ts": "1642594486.026700",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "GmIP",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "macでもそういうのあって何回かトラブったので怖くてArchに流れてきたってのもあります。ファイルシステム変えるようなレベルのアップデートが裏で中途半端に準備されてたりするのが本当に怖い"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "e83d94a2-89c7-490a-b023-fc83ea3624ad",
+      "type": "message",
+      "text": "Arch Linuxは毎回これ再起動フェーズでフリーズしないよね？起動してこないことないよね？と怯える心配が無いので再起動がそんなにストレスじゃないな",
+      "user": "UGA29R3FH",
+      "ts": "1642592971.024700",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "YBMls",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "Arch Linuxは毎回これ再起動フェーズでフリーズしないよね？起動してこないことないよね？と怯える心配が無いので再起動がそんなにストレスじゃないな"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "f61fead3-b214-4941-a997-e1cd4b03409f",
+      "type": "message",
+      "text": "Windows Updateは大概Flakyなのがなぁ",
+      "user": "UGA29R3FH",
+      "ts": "1642592936.023800",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "kiQ",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "Windows Updateは大概Flakyなのがなぁ"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "3b3528ec-3f3b-4b05-ace6-75dce7fa2cee",
+      "type": "message",
+      "text": "windowsは勝手にアップデートインストールして勝手に再起動がなぁ…\nこちらでやるから余計な事せんと!!!ってなる\n再起動必要なのは正直Linuxもそうなのでもうたいして気にしてないけど",
+      "user": "U3FJYR7MG",
+      "ts": "1642592896.023500",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "RVGd",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "windowsは勝手にアップデートインストールして勝手に再起動がなぁ…\nこちらでやるから余計な事せんと!!!ってなる\n再起動必要なのは正直Linuxもそうなのでもうたいして気にしてないけど"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "reactions": [
+        {
+          "name": "wakaru",
+          "users": [
+            "UGA29R3FH",
+            "UCA1NQM5K"
+          ],
+          "count": 2
+        }
+      ]
+    },
+    {
+      "client_msg_id": "ad1cb83b-ea1e-4e64-b9c6-f3581d152dff",
+      "type": "message",
+      "text": "やる場合はとりあえずESPを適宜バックアップする仕組みにしておけばよさそうですね。ありがとうございます。\nやはりWindowsUpdateは怖いですねえ",
+      "user": "U02ASPM0A6T",
+      "ts": "1642590973.021700",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "6Nb=",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "やる場合はとりあえずESPを適宜バックアップする仕組みにしておけばよさそうですね。ありがとうございます。\nやはりWindowsUpdateは怖いですねえ"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "dcdbc77c-05fd-4f26-8a4a-859db2a59886",
+      "type": "message",
+      "text": "Windows10の大型アップデートの時にESPをフォーマットされたことが......\n最近はそういうこともなくて、何事もなく共存できてる",
+      "user": "UCA1NQM5K",
+      "ts": "1642590377.019700",
+      "team": "T0GFBAM8C",
+      "edited": {
+        "user": "UCA1NQM5K",
+        "ts": "1642590387.000000"
+      },
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "st7",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "Windows10の大型アップデートの時にESPをフォーマットされたことが......\n最近はそういうこともなくて、何事もなく共存できてる"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "reactions": [
+        {
+          "name": "naruhodo",
+          "users": [
+            "U02ASPM0A6T"
+          ],
+          "count": 1
+        },
+        {
+          "name": "sorena",
+          "users": [
+            "U70QDFN82",
+            "U01M9EK1L9Z",
+            "U017BNGTHT3"
+          ],
+          "count": 3
+        }
+      ]
+    }
+  ],
+  "has_more": true,
+  "is_limited": false,
+  "pin_count": 16,
+  "channel_actions_ts": null,
+  "channel_actions_count": 0,
+  "response_metadata": {
+    "next_cursor": "bmV4dF90czoxNjQyNTkwMDA3MDE4MDAw"
+  }
+}

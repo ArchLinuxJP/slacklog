@@ -1,0 +1,1081 @@
+{
+  "ok": true,
+  "latest": "1635737226.000000",
+  "oldest": "1633058826.000000",
+  "messages": [
+    {
+      "type": "message",
+      "subtype": "channel_join",
+      "ts": "1634506524.401600",
+      "user": "U02J22NH9H8",
+      "text": "<@U02J22NH9H8>さんがチャンネルに参加しました",
+      "reactions": [
+        {
+          "name": "archjp",
+          "users": [
+            "U02E11SNF0T",
+            "U02HC93TJEP",
+            "U01HE1ENNJZ",
+            "UJ7P75WB1",
+            "U02ASPM0A6T"
+          ],
+          "count": 5
+        }
+      ]
+    },
+    {
+      "client_msg_id": "c08ed83f-762d-415c-ba35-aaaaac51c2ac",
+      "type": "message",
+      "text": "/usr/libの方にあるんですね!!",
+      "user": "U019C7VLZ4G",
+      "ts": "1634469757.401400",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "Ror4",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "/usr/libの方にあるんですね!!"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "83cc2959-56d0-4559-932d-58f17ce5504d",
+      "type": "message",
+      "text": "`linux-headers /usr/lib/modules/5.14.12-arch1-1/build/include/linux/device.h`\nのことですか？",
+      "user": "UUWBU08TU",
+      "ts": "1634465505.400500",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "Cml",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "linux-headers /usr/lib/modules/5.14.12-arch1-1/build/include/linux/device.h",
+                  "style": {
+                    "code": true
+                  }
+                },
+                {
+                  "type": "text",
+                  "text": "\nのことですか？"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "62a75f77-7ce6-485e-b310-33726beb608d",
+      "type": "message",
+      "text": "kernel moduleについてですがarchlinuxの`linux-headers`って`/usr/include/linux/device.h`含まれてないのでしょうか?",
+      "user": "U019C7VLZ4G",
+      "ts": "1634464857.400100",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "S5sE",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "kernel moduleについてですがarchlinuxの`linux-headers`って`/usr/include/linux/device.h`含まれてないのでしょうか?"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "message",
+      "subtype": "channel_join",
+      "ts": "1633960805.397700",
+      "user": "U02HC93TJEP",
+      "text": "<@U02HC93TJEP>さんがチャンネルに参加しました",
+      "reactions": [
+        {
+          "name": "archjp",
+          "users": [
+            "U01HE1ENNJZ",
+            "U027RN1LZT6",
+            "UJ7P75WB1",
+            "U02E11SNF0T",
+            "U0GFBAM8U",
+            "U0H9QUFA5",
+            "U70QDFN82"
+          ],
+          "count": 7
+        }
+      ]
+    },
+    {
+      "client_msg_id": "5316b6dc-f81c-430e-bef1-b9057b4f4425",
+      "type": "message",
+      "text": "とりあえずacpidに切り替えして様子見します\nありがとうございます",
+      "user": "U01HE1ENNJZ",
+      "ts": "1633949053.397400",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "NQL",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "とりあえずacpidに切り替えして様子見します\nありがとうございます"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "ecbfddca-7d8a-4dda-8970-47b6f54bc1eb",
+      "type": "message",
+      "text": "自分はサスペンド（というかハイブリッドスリープ）はこの通りやってるだけですね。\n<https://wiki.archlinux.jp/index.php/%E9%9B%BB%E6%BA%90%E7%AE%A1%E7%90%86#.E3.82.B5.E3.82.B9.E3.83.9A.E3.83.B3.E3.83.89.E3.81.A8.E3.83.8F.E3.82.A4.E3.83.90.E3.83.8D.E3.83.BC.E3.83.88>",
+      "user": "U8T8KB5M4",
+      "ts": "1633944776.396800",
+      "team": "T0GFBAM8C",
+      "edited": {
+        "user": "U8T8KB5M4",
+        "ts": "1633944934.000000"
+      },
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "oAncG",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "自分はサスペンド（というかハイブリッドスリープ）はこの通りやってるだけですね。\n"
+                },
+                {
+                  "type": "link",
+                  "url": "https://wiki.archlinux.jp/index.php/%E9%9B%BB%E6%BA%90%E7%AE%A1%E7%90%86#.E3.82.B5.E3.82.B9.E3.83.9A.E3.83.B3.E3.83.89.E3.81.A8.E3.83.8F.E3.82.A4.E3.83.90.E3.83.8D.E3.83.BC.E3.83.88"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "reactions": [
+        {
+          "name": "sorena",
+          "users": [
+            "U0H9QUFA5"
+          ],
+          "count": 1
+        }
+      ]
+    },
+    {
+      "client_msg_id": "b87f8806-13f9-4506-af0a-7b77269fc8ac",
+      "type": "message",
+      "text": "ロックはあまり気にしてないので大丈夫です\nサスペンドしてくれないとバッテリーが減っちゃうのでこまってます\n説明不足すみません",
+      "user": "U01HE1ENNJZ",
+      "ts": "1633943731.396300",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "3/OYC",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "ロックはあまり気にしてないので大丈夫です\nサスペンドしてくれないとバッテリーが減っちゃうのでこまってます\n説明不足すみません"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "921a13cc-d3de-4a8e-a1b3-1d20641b912d",
+      "type": "message",
+      "text": "状況を聞く限りではxss-lockが正しく動いてない…？\nxss-lock-gitで上手く行くか試してみては。",
+      "user": "U017BNGTHT3",
+      "ts": "1633943380.394900",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "4nxA",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "状況を聞く限りではxss-lockが正しく動いてない…？\nxss-lock-gitで上手く行くか試してみては。"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "e618327e-f1b7-4633-b9f7-fe82795d5d4a",
+      "type": "message",
+      "text": "なるほど、シャットダウンもありですね",
+      "user": "U01HE1ENNJZ",
+      "ts": "1633940429.390700",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "ATUYB",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "なるほど、シャットダウンもありですね"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "7ad990ec-2178-4ff6-8024-5ea1022fe3d9",
+      "type": "message",
+      "text": "私も２年くらい前サスペンドやったときうまくいかなかった（同じように安定しない感じ）んで、それからはロックだけにしてますね。\n長い持ち運びのときは仕方なくシャットダウンしてます。\nサスペンド後になんかおかしな状態になることも多々あり・・・",
+      "user": "U70QDFN82",
+      "ts": "1633939870.390400",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "Fx85/",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "私も２年くらい前サスペンドやったときうまくいかなかった（同じように安定しない感じ）んで、それからはロックだけにしてますね。\n長い持ち運びのときは仕方なくシャットダウンしてます。\nサスペンド後になんかおかしな状態になることも多々あり・・・"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "5f3e4958-75be-417c-b0d7-7c27967c1592",
+      "type": "message",
+      "text": "i3wmでsystemd-logind+xss-lockでフタ閉じた際のサスペンドをやってるのですが、正常にサスペンドするときとすぐ起きあがってきちゃう時があるのですが(手動で`systemctl suspend`をすると正常にサスペンドされます) 有識者の方、知ってる解決法あれば教えてください\n`journalctl | grep PM: suspend | tail -2`\n```Oct 11 16:59:16 archlinux kernel: PM: suspend entry (deep)\nOct 11 16:59:16 archlinux kernel: PM: suspend exit```\n`/etc/systemd/logind.conf`\n```#  This file is part of systemd.\n#\n#  systemd is free software; you can redistribute it and/or modify it under the\n#  terms of the GNU Lesser General Public License as published by the Free\n#  Software Foundation; either version 2.1 of the License, or (at your option)\n#  any later version.\n#\n# Entries in this file show the compile time defaults. Local configuration\n# should be created by either modifying this file, or by creating \"drop-ins\" in\n# the logind.conf.d/ subdirectory. The latter is generally recommended.\n# Defaults can be restored by simply deleting this file and all drop-ins.\n#\n# Use 'systemd-analyze cat-config systemd/logind.conf' to display the full config.\n#\n# See logind.conf(5) for details.\n\n[Login]\n#NAutoVTs=6\n#ReserveVT=6\n#KillUserProcesses=no\n#KillOnlyUsers=\n#KillExcludeUsers=root\n#InhibitDelayMaxSec=5\n#UserStopDelaySec=10\n#HandlePowerKey=poweroff\n#HandleSuspendKey=suspend\n#HandleHibernateKey=hibernate\nHandleLidSwitch=suspend\n#HandleLidSwitchExternalPower=suspend\n#HandleLidSwitchDocked=ignore\n#HandleRebootKey=reboot\n#PowerKeyIgnoreInhibited=no\n#SuspendKeyIgnoreInhibited=no\n#HibernateKeyIgnoreInhibited=no\n#LidSwitchIgnoreInhibited=yes\n#RebootKeyIgnoreInhibited=no\n#HoldoffTimeoutSec=30s\n#IdleAction=ignore\n#IdleActionSec=30min\n#RuntimeDirectorySize=10%\n#RuntimeDirectoryInodes=400k\n#RemoveIPC=yes\n#InhibitorsMax=8192\n#SessionsMax=8192 ```",
+      "user": "U01HE1ENNJZ",
+      "ts": "1633939537.387800",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "fA5Pt",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "i3wmでsystemd-logind+xss-lockでフタ閉じた際のサスペンドをやってるのですが、正常にサスペンドするときとすぐ起きあがってきちゃう時があるのですが(手動で`systemctl suspend`をすると正常にサスペンドされます) 有識者の方、知ってる解決法あれば教えてください\n"
+                },
+                {
+                  "type": "text",
+                  "text": "journalctl | grep PM: suspend | tail -2",
+                  "style": {
+                    "code": true
+                  }
+                },
+                {
+                  "type": "text",
+                  "text": "\n"
+                }
+              ]
+            },
+            {
+              "type": "rich_text_preformatted",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "Oct 11 16:59:16 archlinux kernel: PM: suspend entry (deep)\nOct 11 16:59:16 archlinux kernel: PM: suspend exit"
+                }
+              ]
+            },
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "/etc/systemd/logind.conf",
+                  "style": {
+                    "code": true
+                  }
+                },
+                {
+                  "type": "text",
+                  "text": "\n"
+                }
+              ]
+            },
+            {
+              "type": "rich_text_preformatted",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "#  This file is part of systemd.\n#\n#  systemd is free software; you can redistribute it and/or modify it under the\n#  terms of the GNU Lesser General Public License as published by the Free\n#  Software Foundation; either version 2.1 of the License, or (at your option)\n#  any later version.\n#\n# Entries in this file show the compile time defaults. Local configuration\n# should be created by either modifying this file, or by creating \"drop-ins\" in\n# the logind.conf.d/ subdirectory. The latter is generally recommended.\n# Defaults can be restored by simply deleting this file and all drop-ins.\n#\n# Use 'systemd-analyze cat-config systemd/logind.conf' to display the full config.\n#\n# See logind.conf(5) for details.\n\n[Login]\n#NAutoVTs=6\n#ReserveVT=6\n#KillUserProcesses=no\n#KillOnlyUsers=\n#KillExcludeUsers=root\n#InhibitDelayMaxSec=5\n#UserStopDelaySec=10\n#HandlePowerKey=poweroff\n#HandleSuspendKey=suspend\n#HandleHibernateKey=hibernate\nHandleLidSwitch=suspend\n#HandleLidSwitchExternalPower=suspend\n#HandleLidSwitchDocked=ignore\n#HandleRebootKey=reboot\n#PowerKeyIgnoreInhibited=no\n#SuspendKeyIgnoreInhibited=no\n#HibernateKeyIgnoreInhibited=no\n#LidSwitchIgnoreInhibited=yes\n#RebootKeyIgnoreInhibited=no\n#HoldoffTimeoutSec=30s\n#IdleAction=ignore\n#IdleActionSec=30min\n#RuntimeDirectorySize=10%\n#RuntimeDirectoryInodes=400k\n#RemoveIPC=yes\n#InhibitorsMax=8192\n#SessionsMax=8192 "
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "message",
+      "subtype": "channel_join",
+      "ts": "1633910853.384000",
+      "user": "U02HC905PKN",
+      "text": "<@U02HC905PKN>さんがチャンネルに参加しました"
+    },
+    {
+      "type": "message",
+      "subtype": "channel_join",
+      "ts": "1633587087.382900",
+      "user": "U02HBEV0R6V",
+      "text": "<@U02HBEV0R6V>さんがチャンネルに参加しました",
+      "reactions": [
+        {
+          "name": "archjp",
+          "users": [
+            "U02ASPM0A6T",
+            "U01HE1ENNJZ",
+            "U0GFBAM8U",
+            "U0H9QUFA5"
+          ],
+          "count": 4
+        }
+      ]
+    },
+    {
+      "client_msg_id": "23ec2332-4ed0-4451-8385-43b5efed526d",
+      "type": "message",
+      "text": "Nuxt.js やったことないからやってみたい。今のお仕事でも若干使える可能性があった(ことに今気付いた)けど、画面少ないから、express の上位互換的な fastify を使ってみた。",
+      "user": "U0H9QUFA5",
+      "ts": "1633485995.382200",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "huLE",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "Nuxt.js やったことないからやってみたい。今のお仕事でも若干使える可能性があった(ことに今気付いた)けど、画面少ないから、express の上位互換的な fastify を使ってみた。"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "b3c5907a-7dfb-430b-b4d5-3fc1b8a49145",
+      "type": "message",
+      "text": "わかるsvelte気になる",
+      "user": "U8T8KB5M4",
+      "ts": "1633435040.379300",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "xD0Q",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "わかるsvelte気になる"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "reactions": [
+        {
+          "name": "handshake",
+          "users": [
+            "U70QDFN82",
+            "U3FJYR7MG",
+            "U0H9QUFA5"
+          ],
+          "count": 3
+        }
+      ]
+    },
+    {
+      "client_msg_id": "56d6e2d0-646e-4ae6-94ae-522aca48e3c3",
+      "type": "message",
+      "text": "言ってもReactもシンプルな気はしますが",
+      "user": "UUWBU08TU",
+      "ts": "1633429174.378500",
+      "team": "T0GFBAM8C",
+      "edited": {
+        "user": "UUWBU08TU",
+        "ts": "1633429179.000000"
+      },
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "2Sw",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "言ってもReactもシンプルな気はしますが"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "7e887e61-2230-4418-a193-bca819075ea1",
+      "type": "message",
+      "text": "あんまり勢い(主観)がないのが悲しい所ですねー、ちょっと触ってみましたが~どんな感じか忘れてしまった~ 思い出しました",
+      "user": "UUWBU08TU",
+      "ts": "1633429168.378300",
+      "team": "T0GFBAM8C",
+      "edited": {
+        "user": "UUWBU08TU",
+        "ts": "1633429269.000000"
+      },
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "+ZqC",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "あんまり勢い(主観)がないのが悲しい所ですねー、ちょっと触ってみましたが"
+                },
+                {
+                  "type": "text",
+                  "text": "どんな感じか忘れてしまった",
+                  "style": {
+                    "strike": true
+                  }
+                },
+                {
+                  "type": "text",
+                  "text": " 思い出しました"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "ac192a10-e574-4cd0-b1e5-6f846e6b1132",
+      "type": "message",
+      "text": "本格フロント勢じゃないですがsvelteが最近好きです。シンプルでいい",
+      "user": "U70QDFN82",
+      "ts": "1633429143.377800",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "hpOI",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "本格フロント勢じゃないですがsvelteが最近好きです。シンプルでいい"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "reactions": [
+        {
+          "name": "wakaru",
+          "users": [
+            "U0H9QUFA5"
+          ],
+          "count": 1
+        }
+      ]
+    },
+    {
+      "client_msg_id": "d29739fb-a52c-43d7-b925-a1ab80b3ceb9",
+      "type": "message",
+      "text": "<https://wiki.archlinux.jp/index.php/%E5%88%A9%E7%94%A8%E8%80%85:Kusakata>\nVueというか、Nuxt.jsと書いてありますね。私は仕事でNuxt.js使っていますが、趣味ではNext.jsですね……",
+      "user": "UUWBU08TU",
+      "ts": "1633429095.377100",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "YrSu+",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "link",
+                  "url": "https://wiki.archlinux.jp/index.php/%E5%88%A9%E7%94%A8%E8%80%85:Kusakata"
+                },
+                {
+                  "type": "text",
+                  "text": "\nVueというか、Nuxt.jsと書いてありますね。私は仕事でNuxt.js使っていますが、趣味ではNext.jsですね……"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "reactions": [
+        {
+          "name": "naruhodo",
+          "users": [
+            "UGA29R3FH",
+            "U027RN1LZT6"
+          ],
+          "count": 2
+        }
+      ]
+    },
+    {
+      "client_msg_id": "6a5d62d5-7461-44a0-865a-64851edff52e",
+      "type": "message",
+      "text": "Vueなのか…",
+      "user": "UGA29R3FH",
+      "ts": "1633429014.376400",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "OE9Xs",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "Vueなのか…"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "reactions": [
+        {
+          "name": "sorena",
+          "users": [
+            "U70QDFN82"
+          ],
+          "count": 1
+        }
+      ]
+    },
+    {
+      "client_msg_id": "67de5302-398c-4b19-b277-5ef75570915f",
+      "type": "message",
+      "text": "<https://www.transifex.com/archlinuxjp/arch-package-description/language/ja/> これもありますね。文脈がわからんから、飜訳が難しい。",
+      "user": "U0H9QUFA5",
+      "ts": "1633408385.375800",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "AwDX",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "link",
+                  "url": "https://www.transifex.com/archlinuxjp/arch-package-description/language/ja/"
+                },
+                {
+                  "type": "text",
+                  "text": " これもありますね。文脈がわからんから、飜訳が難しい。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "reactions": [
+        {
+          "name": "persevere",
+          "users": [
+            "UUWBU08TU"
+          ],
+          "count": 1
+        }
+      ]
+    },
+    {
+      "client_msg_id": "d37f579c-6ef0-48ac-9be3-eef4fd87023d",
+      "type": "message",
+      "text": "ArchWebのVue化、手伝いたいところですね……",
+      "user": "UUWBU08TU",
+      "ts": "1633405038.374500",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "Avh=",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "ArchWebのVue化、手伝いたいところですね……"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "1fb719e1-b4e9-4540-92e4-8d4102b511a5",
+      "type": "message",
+      "text": "そういえば、@kusakata さんは以前、自分がやりたいことをバーっと自分のページに書いて、一つ一つ潰していってたような気がします。とても真似できませんが。",
+      "user": "U0H9QUFA5",
+      "ts": "1633404990.374100",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "pkyI",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "そういえば、@kusakata さんは以前、自分がやりたいことをバーっと自分のページに書いて、一つ一つ潰していってたような気がします。とても真似できませんが。"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "d39e4703-744d-46df-bbe8-90c3a291b6c1",
+      "type": "message",
+      "text": "はい、頑張りましょう！(ちょっと今月は忙しくてすいません……。)",
+      "user": "UUWBU08TU",
+      "ts": "1633400423.371900",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "2SL+",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "はい、頑張りましょう！(ちょっと今月は忙しくてすいません……。)"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "reactions": [
+        {
+          "name": "wakaru",
+          "users": [
+            "U0H9QUFA5"
+          ],
+          "count": 1
+        },
+        {
+          "name": "+1",
+          "users": [
+            "U01370MAHLN",
+            "U01HE1ENNJZ"
+          ],
+          "count": 2
+        }
+      ]
+    },
+    {
+      "client_msg_id": "9706f4d5-2da5-467c-bc22-6717f690827a",
+      "type": "message",
+      "text": "すべてのページに translationStatus がつくようになれば理想ですよね。",
+      "user": "U0H9QUFA5",
+      "ts": "1633400335.371500",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "8TB",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "すべてのページに translationStatus がつくようになれば理想ですよね。"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "message",
+      "subtype": "channel_join",
+      "ts": "1633230092.369800",
+      "user": "U02GCSP905B",
+      "text": "<@U02GCSP905B>さんがチャンネルに参加しました",
+      "reactions": [
+        {
+          "name": "arch",
+          "users": [
+            "UUWBU08TU",
+            "U02E11SNF0T",
+            "U01HE1ENNJZ",
+            "U0H9QUFA5"
+          ],
+          "count": 4
+        }
+      ]
+    },
+    {
+      "client_msg_id": "9699dcd1-e5ee-4ef1-9948-d9660c46ec2c",
+      "type": "message",
+      "text": "結局英語版の数千ページを同期するのがスタートであり、永遠に終わらないタスクなので、現時点で何かいい感じにするというのは効果が少ないかなと……",
+      "user": "UUWBU08TU",
+      "ts": "1633093988.359900",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "jtVdE",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "結局英語版の数千ページを同期するのがスタートであり、永遠に終わらないタスクなので、現時点で何かいい感じにするというのは効果が少ないかなと……"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "1f5834ac-4951-4ac4-9cb2-f481df13ad71",
+      "type": "message",
+      "text": "out_of_dateは微妙に意味が異なると思っていて、translatemeの方が適切かもしれません",
+      "user": "UUWBU08TU",
+      "ts": "1633093824.358800",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "jfvfy",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "out_of_dateは微妙に意味が異なると思っていて、translatemeの方が適切かもしれません"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "18734dfa-2ebe-4d5b-8b65-7ebbc068588e",
+      "type": "message",
+      "text": "Out of DateとTranslationsStatusで状態を管理するのがいいですかね...",
+      "user": "UP57VNN6T",
+      "ts": "1633093640.358200",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "u292",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "Out of DateとTranslationsStatusで状態を管理するのがいいですかね..."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "thread_ts": "1633093640.358200",
+      "reply_count": 1,
+      "reply_users_count": 1,
+      "latest_reply": "1633417873.376100",
+      "reply_users": [
+        "U0H9QUFA5"
+      ],
+      "is_locked": false,
+      "subscribed": false
+    },
+    {
+      "client_msg_id": "3915c9ec-0773-42bb-ab61-1d2c58934e0f",
+      "type": "message",
+      "text": "個人的な感覚としては、同期できているページの方が少ないので、そちらから分かりやすくしていくとよいかなと思っています(Template:TranslationStatusを末尾に貼る、など)",
+      "user": "UUWBU08TU",
+      "ts": "1633093426.357600",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "Pa2",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "個人的な感覚としては、同期できているページの方が少ないので、そちらから分かりやすくしていくとよいかなと思っています(Template:TranslationStatusを末尾に貼る、など)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "df4c12e5-85ab-4e2b-a11f-9e49f735d436",
+      "type": "message",
+      "text": "それを最初やろうと考えていたのですが、そうすると書かれた場所が結局ページごとで分散してしまうので、1箇所で管理できればなと考えていました",
+      "user": "UP57VNN6T",
+      "ts": "1633093051.356600",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "lmFGc",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "それを最初やろうと考えていたのですが、そうすると書かれた場所が結局ページごとで分散してしまうので、1箇所で管理できればなと考えていました"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "41a3653b-42ca-40bb-9451-a4c1ff8a6c5f",
+      "type": "message",
+      "text": "ベージごとの議論・トークページに書くのが良いのかな？",
+      "user": "U0PM6EYR1",
+      "ts": "1633093011.355800",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "DT=C",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "ベージごとの議論・トークページに書くのが良いのかな？"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "ce157060-1dce-420b-a2fe-f5e9e1b75d22",
+      "type": "message",
+      "text": "主に英語版と大きく内容が違うページをリストアップしたいですね。\nArchbootやArchISO、Gnomeはだいぶ情報が変化しています。",
+      "user": "UP57VNN6T",
+      "ts": "1633092928.355300",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "0fg+=",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "主に英語版と大きく内容が違うページをリストアップしたいですね。\nArchbootやArchISO、Gnomeはだいぶ情報が変化しています。"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "5f33b505-dc0f-4549-9b86-e80f42b0f11a",
+      "type": "message",
+      "text": "どういったToDoを管理したいですか？",
+      "user": "UUWBU08TU",
+      "ts": "1633089176.354500",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "=Hd",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "どういったToDoを管理したいですか？"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "d3199e77-97ee-4255-8934-11302c2bcda5",
+      "type": "message",
+      "text": "強いていえば\n<https://wiki.archlinux.jp/index.php/ArchWiki%E3%83%BB%E3%83%88%E3%83%BC%E3%82%AF:%E3%83%AA%E3%82%AF%E3%82%A8%E3%82%B9%E3%83%88>\nですかね？",
+      "user": "UUWBU08TU",
+      "ts": "1633089168.354200",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "emCX",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "強いていえば\n"
+                },
+                {
+                  "type": "link",
+                  "url": "https://wiki.archlinux.jp/index.php/ArchWiki%E3%83%BB%E3%83%88%E3%83%BC%E3%82%AF:%E3%83%AA%E3%82%AF%E3%82%A8%E3%82%B9%E3%83%88"
+                },
+                {
+                  "type": "text",
+                  "text": "\nですかね？"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "ee0a4d11-d0fd-43a8-b89e-7e01e1ba19f9",
+      "type": "message",
+      "text": "<@UUWBU08TU> ArchWikiのTodoみたいなものとかを管理する場所ってありますか？",
+      "user": "UP57VNN6T",
+      "ts": "1633088995.353500",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "MVZj",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "user",
+                  "user_id": "UUWBU08TU"
+                },
+                {
+                  "type": "text",
+                  "text": " ArchWikiのTodoみたいなものとかを管理する場所ってありますか？"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "has_more": false,
+  "is_limited": true,
+  "pin_count": 16,
+  "channel_actions_ts": null,
+  "channel_actions_count": 0
+}

@@ -1,0 +1,128 @@
+{
+  "ok": true,
+  "latest": "1601522820.000000",
+  "oldest": "1598930820.000000",
+  "messages": [
+    {
+      "type": "message",
+      "subtype": "channel_join",
+      "ts": "1599374825.009000",
+      "user": "U01A66TDY67",
+      "text": "<@U01A66TDY67>さんがチャンネルに参加しました",
+      "reactions": [
+        {
+          "name": "archjp",
+          "users": [
+            "U0H3FTBBJ",
+            "U01792411FA",
+            "UGA29R3FH",
+            "URCKFB3SB",
+            "UJ7P75WB1"
+          ],
+          "count": 5
+        }
+      ]
+    },
+    {
+      "client_msg_id": "9FFF4AAA-4495-4C98-9344-B065E4C481AB",
+      "type": "message",
+      "text": "すごい",
+      "user": "U0GFBAM8U",
+      "ts": "1599183868.008200",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "tRJKE",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "すごい"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "691ca674-c77b-467d-9880-5fb14f23b594",
+      "type": "message",
+      "text": "ArchisoをもとにGUIとCalamaresを搭載したディストリビューションを開発しています\nもしよければ使ってみて下さいm(_ _)m\n<https://github.com/FascodeNet/alterlinux>",
+      "user": "UP57VNN6T",
+      "ts": "1599183784.007700",
+      "team": "T0GFBAM8C",
+      "attachments": [
+        {
+          "service_name": "GitHub",
+          "title": "FascodeNet/alterlinux",
+          "title_link": "https://github.com/FascodeNet/alterlinux",
+          "text": "AlterLinux - ArchLinux-derived OS made in Japan aimed at being usable by anyone - FascodeNet/alterlinux",
+          "fallback": "GitHub: FascodeNet/alterlinux",
+          "from_url": "https://github.com/FascodeNet/alterlinux",
+          "thumb_url": "https://repository-images.githubusercontent.com/236157705/f0631100-69db-11ea-8323-c81fdb40c3e8",
+          "thumb_width": 500,
+          "thumb_height": 250,
+          "service_icon": "https://a.slack-edge.com/80588/img/unfurl_icons/github.png",
+          "id": 1,
+          "original_url": "https://github.com/FascodeNet/alterlinux"
+        }
+      ],
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "eLny",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "ArchisoをもとにGUIとCalamaresを搭載したディストリビューションを開発しています\nもしよければ使ってみて下さいm(_ _)m\n"
+                },
+                {
+                  "type": "link",
+                  "url": "https://github.com/FascodeNet/alterlinux"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "reactions": [
+        {
+          "name": "arch",
+          "users": [
+            "U0GFBAM8U",
+            "UGA29R3FH",
+            "U01235G2K26",
+            "UJ7P75WB1",
+            "UU9BLM0TA",
+            "U0125GT9MNX",
+            "U01792411FA",
+            "U017BNGTHT3",
+            "UAPRYSVPS",
+            "UPC5V2L10"
+          ],
+          "count": 10
+        },
+        {
+          "name": "archjp",
+          "users": [
+            "U0H9QUFA5",
+            "UPC5V2L10"
+          ],
+          "count": 2
+        }
+      ]
+    }
+  ],
+  "has_more": false,
+  "is_limited": true,
+  "pin_count": 16,
+  "channel_actions_ts": null,
+  "channel_actions_count": 0
+}
