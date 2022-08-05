@@ -11,3 +11,5 @@
 - channel idはとっておく
 
 - conversations.historyのuserが通常のnameではなく、users.listから取得して書き換える必要がある
+
+- userのavator-imgも同様に追加する必要がある
