@@ -7,11 +7,11 @@
       "client_msg_id": "784524b0-fc52-4b82-9792-2b7b82211426",
       "type": "message",
       "text": "ええ、なんかまだそんな印象がありますね。GUIライブラリの種類 x バージョン x 環境変数 x それでもうまくいかない場合は別の環境変数付きの直接起動って感じで、トラブった時に考慮必要なことが多いです。firefox と vim と Emacs とかスタンダードなツールだけ使うならいいと思うんですが、マルチメディア系やらIMEやらの別のレイヤーがコンポジタと絡んでくると調査してるだけでどんどん時間なくなってしまう",
-      "user": "U02ASPM0A6T",
+      "user": "yozigen",
       "ts": "1631441392.074100",
       "team": "T0GFBAM8C",
       "edited": {
-        "user": "U02ASPM0A6T",
+        "user": "yozigen",
         "ts": "1631441701.000000"
       },
       "blocks": [
@@ -36,7 +36,7 @@
       "client_msg_id": "DF25F126-04A7-43BF-9213-96EEE39E1F7D",
       "type": "message",
       "text": "シンセサイザーということは何か音楽されてるんですか?",
-      "user": "U0GFBAM8U",
+      "user": "syui",
       "ts": "1631441363.073700",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -61,7 +61,7 @@
       "client_msg_id": "80BB89A5-2E4F-4652-A977-2B6FB4EF6551",
       "type": "message",
       "text": "問題の切り分け等、必要な場面だとwayland、ない方が良さそう",
-      "user": "U0GFBAM8U",
+      "user": "syui",
       "ts": "1631441115.069600",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -86,11 +86,11 @@
       "client_msg_id": "2878bc40-526c-498d-989e-e8989b1ad765",
       "type": "message",
       "text": "実際、swayならではの強力なメリットというのもそんなに無かったと思うので、なるだけ環境要因を排したいならi3の方が良いんじゃないかと思います。",
-      "user": "UBEFL3YLE",
+      "user": "mail",
       "ts": "1631441074.068300",
       "team": "T0GFBAM8C",
       "edited": {
-        "user": "UBEFL3YLE",
+        "user": "mail",
         "ts": "1631441079.000000"
       },
       "blocks": [
@@ -114,7 +114,7 @@
         {
           "name": "sparkles",
           "users": [
-            "U02ASPM0A6T"
+            "yozigen"
           ],
           "count": 1
         }
@@ -123,8 +123,8 @@
     {
       "client_msg_id": "f320aff5-f605-47e0-b0b2-1d51dd00b6c8",
       "type": "message",
-      "text": "<@UBEFL3YLE>\n&gt; せっかく入れるならフォーク版のi3-gapsの方がいいですね。\nありがとうございます。もうちょっとあがいて諦めたら移行しようかと思います。。",
-      "user": "U02ASPM0A6T",
+      "text": "<@mail>\n&gt; せっかく入れるならフォーク版のi3-gapsの方がいいですね。\nありがとうございます。もうちょっとあがいて諦めたら移行しようかと思います。。",
+      "user": "yozigen",
       "ts": "1631440979.066200",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -137,7 +137,7 @@
               "elements": [
                 {
                   "type": "user",
-                  "user_id": "UBEFL3YLE"
+                  "user_id": "mail"
                 },
                 {
                   "type": "text",
@@ -170,8 +170,8 @@
     {
       "client_msg_id": "9dce9480-2a5e-4e35-aa93-d43b20fd4668",
       "type": "message",
-      "text": "<@U01SAL8K6P5> 特に問題なく使えているんですね。supercollider というコードでシンセサイザーを動かすソフトの音が出なくて何に問題があるのか切り分けがかなり難儀しています。\nsway関係ないのかもしれないんですが、場合により環境変数付き起動とか必要になるとその度調査や設定が大変だなあと途方に暮れてきてます",
-      "user": "U02ASPM0A6T",
+      "text": "<@oyasumi60> 特に問題なく使えているんですね。supercollider というコードでシンセサイザーを動かすソフトの音が出なくて何に問題があるのか切り分けがかなり難儀しています。\nsway関係ないのかもしれないんですが、場合により環境変数付き起動とか必要になるとその度調査や設定が大変だなあと途方に暮れてきてます",
+      "user": "yozigen",
       "ts": "1631440861.065100",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -184,7 +184,7 @@
               "elements": [
                 {
                   "type": "user",
-                  "user_id": "U01SAL8K6P5"
+                  "user_id": "oyasumi60"
                 },
                 {
                   "type": "text",
@@ -200,7 +200,7 @@
       "client_msg_id": "426996a8-ad71-4e34-88b9-9720c4d9502a",
       "type": "message",
       "text": "sway は i3 に影響を受けて作られた(と思う)ので、i3 より、設定や関連ツールが少なくても使いやすいように作られたんじゃないですかね\n後発がそういう方向に行くのは正しいというか",
-      "user": "U0PM6EYR1",
+      "user": "raa0121",
       "ts": "1631440788.064300",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -224,7 +224,7 @@
         {
           "name": "sparkles",
           "users": [
-            "U02ASPM0A6T"
+            "yozigen"
           ],
           "count": 1
         }
@@ -234,7 +234,7 @@
       "client_msg_id": "F2314A67-E0FE-4FE1-A066-FF746DF473A7",
       "type": "message",
       "text": "お、試してみようかな",
-      "user": "U0GFBAM8U",
+      "user": "syui",
       "ts": "1631440728.062500",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -259,7 +259,7 @@
       "client_msg_id": "d02e58bc-9776-4dc3-a9a0-438b572a6c16",
       "type": "message",
       "text": "gaps圧迫感がなくなるので好き",
-      "user": "UGA29R3FH",
+      "user": "znmxodq1",
       "ts": "1631440698.061800",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -284,7 +284,7 @@
       "client_msg_id": "bd7b2344-672b-4308-aba3-28fd3940ead8",
       "type": "message",
       "text": "せっかく入れるならフォーク版のi3-gapsの方がいいですね。",
-      "user": "UBEFL3YLE",
+      "user": "mail",
       "ts": "1631440511.059900",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -308,7 +308,7 @@
         {
           "name": "sparkles",
           "users": [
-            "U02ASPM0A6T"
+            "yozigen"
           ],
           "count": 1
         }
@@ -318,7 +318,7 @@
       "client_msg_id": "f7ad8440-6e6f-4017-b0e7-1edd47f155ea",
       "type": "message",
       "text": "むしろi3の方がこなれてるんじゃないでしょうか。",
-      "user": "UBEFL3YLE",
+      "user": "mail",
       "ts": "1631440462.058200",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -343,7 +343,7 @@
       "client_msg_id": "376EE587-3B05-44B4-8549-E4FBA1662A9C",
       "type": "message",
       "text": "i3、あまり使ったことなかったら移行してみるのも楽しそうと思ったのですが、どうでしょう",
-      "user": "U0GFBAM8U",
+      "user": "syui",
       "ts": "1631440453.058000",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -368,7 +368,7 @@
       "client_msg_id": "F3D08AE5-A31A-4207-8E81-C3BBC5DF5EDB",
       "type": "message",
       "text": "うん、私のところでは問題なく使えてます",
-      "user": "U0GFBAM8U",
+      "user": "syui",
       "ts": "1631440340.055300",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -392,7 +392,7 @@
         {
           "name": "sparkles",
           "users": [
-            "U02ASPM0A6T"
+            "yozigen"
           ],
           "count": 1
         }
@@ -401,8 +401,8 @@
     {
       "client_msg_id": "7cb82407-ff95-49cf-a6ff-0e2dcbe0723b",
       "type": "message",
-      "text": "<@U0GFBAM8U> 軽く manjaro-i3 をインストールしたりはしましたが、swayに比べて設定ポイントや関連ツールが多いように感じてswayに戻ってました。i3 は諸々問題なく使える感じですか？",
-      "user": "U02ASPM0A6T",
+      "text": "<@syui> 軽く manjaro-i3 をインストールしたりはしましたが、swayに比べて設定ポイントや関連ツールが多いように感じてswayに戻ってました。i3 は諸々問題なく使える感じですか？",
+      "user": "yozigen",
       "ts": "1631440307.054300",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -415,7 +415,7 @@
               "elements": [
                 {
                   "type": "user",
-                  "user_id": "U0GFBAM8U"
+                  "user_id": "syui"
                 },
                 {
                   "type": "text",
@@ -431,7 +431,7 @@
       "client_msg_id": "c0962624-fa1d-40d1-9c03-fb5517073451",
       "type": "message",
       "text": "VimからNeovimに移行するくらいの変化があると便利そう",
-      "user": "UGA29R3FH",
+      "user": "znmxodq1",
       "ts": "1631440307.054200",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -456,7 +456,7 @@
       "client_msg_id": "FDE9D052-AF22-48F9-9E9B-B2B2315C846E",
       "type": "message",
       "text": "試してみた時点でいいねってなる",
-      "user": "U0GFBAM8U",
+      "user": "syui",
       "ts": "1631440196.052300",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -481,7 +481,7 @@
       "client_msg_id": "ad880ffd-790b-4159-abd6-62b22b6750ec",
       "type": "message",
       "text": "最近環境が固定されててよくないな",
-      "user": "UGA29R3FH",
+      "user": "znmxodq1",
       "ts": "1631440144.050700",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -506,7 +506,7 @@
       "client_msg_id": "4F4EACF5-0AC8-4EA4-B30E-9358224B8A0D",
       "type": "message",
       "text": "新しい環境、試してる人すごいよね",
-      "user": "U0GFBAM8U",
+      "user": "syui",
       "ts": "1631440096.049800",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -530,8 +530,8 @@
         {
           "name": "wakaru",
           "users": [
-            "UGA29R3FH",
-            "UBEFL3YLE"
+            "znmxodq1",
+            "mail"
           ],
           "count": 2
         }
@@ -541,7 +541,7 @@
       "client_msg_id": "b1d04cb3-085b-4c3e-99c4-e3548b16cb89",
       "type": "message",
       "text": "ほぼ同じだもんなw それがいい所でもあるけど",
-      "user": "UGA29R3FH",
+      "user": "znmxodq1",
       "ts": "1631440084.049600",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -565,7 +565,7 @@
         {
           "name": "wakaru",
           "users": [
-            "U70QDFN82"
+            "yutakatay"
           ],
           "count": 1
         }
@@ -575,7 +575,7 @@
       "client_msg_id": "e13c6408-5f2e-4831-9b83-7e034fd0641e",
       "type": "message",
       "text": "移行するからにはパフォーマンスが有利になるとか機能が増えるとかなんらかのわかりやすい優位性がほしい・・・",
-      "user": "U70QDFN82",
+      "user": "yutakatay",
       "ts": "1631439976.048300",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -599,7 +599,7 @@
         {
           "name": "sorena",
           "users": [
-            "UGA29R3FH"
+            "znmxodq1"
           ],
           "count": 1
         }
@@ -609,7 +609,7 @@
       "client_msg_id": "94a93857-5217-429f-b6a4-de3ae0f88ae7",
       "type": "message",
       "text": "(移行めんどくさいw)",
-      "user": "UGA29R3FH",
+      "user": "znmxodq1",
       "ts": "1631439918.047100",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -633,8 +633,8 @@
     {
       "client_msg_id": "B7DA90D1-9ECE-4C39-A5AA-B5FE118ACCB1",
       "type": "message",
-      "text": "<@U02ASPM0A6T> i3は使ってたことありますか?",
-      "user": "U0GFBAM8U",
+      "text": "<@yozigen> i3は使ってたことありますか?",
+      "user": "syui",
       "ts": "1631439917.047000",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -647,7 +647,7 @@
               "elements": [
                 {
                   "type": "user",
-                  "user_id": "U02ASPM0A6T"
+                  "user_id": "yozigen"
                 },
                 {
                   "type": "text",
@@ -663,7 +663,7 @@
       "client_msg_id": "1a8aab1c-7612-467b-87a6-6ef5e207baa4",
       "type": "message",
       "text": "ただ、i3に対する現時点での優位性が見出せなかったのが大きい",
-      "user": "UGA29R3FH",
+      "user": "znmxodq1",
       "ts": "1631439902.046500",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -688,7 +688,7 @@
       "client_msg_id": "808b42b4-fc99-461d-9fa4-e6d3f800a7c3",
       "type": "message",
       "text": "flameshotだったかな、うろ覚えだけど",
-      "user": "UGA29R3FH",
+      "user": "znmxodq1",
       "ts": "1631439861.046200",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -713,7 +713,7 @@
       "client_msg_id": "9ccba8ef-14b3-499a-be85-2b73fd1d5a6a",
       "type": "message",
       "text": "sway移行しようとした時に動かないツールを使っていたので諦めたという経緯がある",
-      "user": "UGA29R3FH",
+      "user": "znmxodq1",
       "ts": "1631439849.046100",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -738,7 +738,7 @@
       "client_msg_id": "5836B686-17EF-4D8C-8A01-9DC06D6F7324",
       "type": "message",
       "text": "半年程sway使ってますがGTKやQt等の環境変数を設定したくらいで動作しないアプリには出会ってないですね。\nxwaylandも入れているのでwaylandネイティブかはあまり意識していません。",
-      "user": "U01SAL8K6P5",
+      "user": "oyasumi60",
       "ts": "1631438166.046000",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -762,7 +762,7 @@
         {
           "name": "+1",
           "users": [
-            "U02ASPM0A6T"
+            "yozigen"
           ],
           "count": 1
         }
@@ -772,7 +772,7 @@
       "client_msg_id": "5a122184-83fe-4ef9-a650-7241e6e7d72b",
       "type": "message",
       "text": "sway（manjaro-sway） を使っています。\n基本的な動作はすっきりしていて快適なのですが、素直に動作しないアプリが多く大変に感じています。\nアプリの動作するしないを自分なりにざっと分類すると下記のようになります。\n\n1. デフォルトで動く\n2. テンプレ（ArchWiki, sway, アプリのドキュメントやFAQなど）の設定を入れれば動く\n3. インターネットの海で見つけた何かをしたり、issueを書いて対応してもらえば動く\n4. 何かをすると動く可能性がある が、まだ見つからない\n5. 今は動かないという確定めいた情報がある（アプリまたはコンポジタまたはWayland仕様にて未対応）\n特に、「まだ見つからないが、何かをすると動く可能性がある」類のものについては調査コスト・問い合わせコストが非常に高く、楽しい時間である反面、時間や精神力や体力も消耗するので、sway の常用は諦めて、i3 等に移行しようかなと迷っています。\n恐れ入りますが、sway・i3 やデスクトップ環境に詳しい方アドバイスのほどお願いできましたら幸いです。",
-      "user": "U02ASPM0A6T",
+      "user": "yozigen",
       "ts": "1631428146.042600",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -859,28 +859,28 @@
       "type": "message",
       "subtype": "channel_join",
       "ts": "1631271497.038900",
-      "user": "U02E11SNF0T",
-      "text": "<@U02E11SNF0T>さんがチャンネルに参加しました"
+      "user": "kocumaza--",
+      "text": "<@kocumaza-->さんがチャンネルに参加しました"
     },
     {
       "type": "message",
       "subtype": "channel_join",
       "ts": "1631093288.038700",
-      "user": "U02DR0Y0WFM",
-      "text": "<@U02DR0Y0WFM>さんがチャンネルに参加しました"
+      "user": "programmer2844",
+      "text": "<@programmer2844>さんがチャンネルに参加しました"
     },
     {
       "type": "message",
       "subtype": "channel_join",
       "ts": "1631002732.038000",
-      "user": "U02DS8F7M3N",
-      "text": "<@U02DS8F7M3N>さんがチャンネルに参加しました"
+      "user": "sugikimi",
+      "text": "<@sugikimi>さんがチャンネルに参加しました"
     },
     {
       "client_msg_id": "d2b89853-6d92-4fe1-a72e-22b34e4bda26",
       "type": "message",
       "text": "mtpで便利なやつだ",
-      "user": "U022AA9JS04",
+      "user": "peony.btn",
       "ts": "1630937494.036900",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -905,7 +905,7 @@
       "client_msg_id": "a9069dd1-6636-4a46-a40d-64b8413d0864",
       "type": "message",
       "text": "ntfs マウントするときに有効にしなきゃいけないやつだ",
-      "user": "U0PM6EYR1",
+      "user": "raa0121",
       "ts": "1630902418.036000",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -930,7 +930,7 @@
       "reply_users_count": 1,
       "latest_reply": "1631023365.038100",
       "reply_users": [
-        "U019C7VLZ4G"
+        "getalotofmail"
       ],
       "is_locked": false,
       "subscribed": false,
@@ -938,7 +938,7 @@
         {
           "name": "wakaru",
           "users": [
-            "U70QDFN82"
+            "yutakatay"
           ],
           "count": 1
         }
@@ -948,7 +948,7 @@
       "client_msg_id": "b7edbc3c-6f2a-40ad-8965-c40d17dae2fa",
       "type": "message",
       "text": "appimage使うときに有効にしなくちゃいけないやつだ",
-      "user": "U70QDFN82",
+      "user": "yutakatay",
       "ts": "1630900635.035500",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -973,11 +973,11 @@
       "client_msg_id": "64519914-6129-4260-99de-1f45c04ae47a",
       "type": "message",
       "text": "<https://github.com/libfuse/libfuse> fuse ってよく使われていると思っていた(自分も使ってるし)のですが、寄稿者がいないみたいですね。\n```The current maintainer continues to apply pull requests and makes regular releases, but unfortunately has no capacity to do any development beyond addressing high-impact issues. ```",
-      "user": "U0H9QUFA5",
+      "user": "kusanaginoturugi",
       "ts": "1630899461.035000",
       "team": "T0GFBAM8C",
       "edited": {
-        "user": "U0H9QUFA5",
+        "user": "kusanaginoturugi",
         "ts": "1630988122.000000"
       },
       "attachments": [
@@ -1032,7 +1032,7 @@
       "client_msg_id": "6b4489a1-a569-45fe-b9e5-da058ad29f48",
       "type": "message",
       "text": "ここに投げるべき話題でないかもしれないですが、\nFUSEでメールアドレス名のファイルしか受け付けないfilesytemを作っているのですが、lsでエラーが出ます\n理由がわかる方いますか?\n(いくつかの質問サイトに投稿してみたのですが全然回答がつきません:pleading_face:)\n<https://unix.stackexchange.com/questions/667413/why-input-output-error-occurs-when-use-ls-command-in-my-fuse-filesystem>",
-      "user": "U019C7VLZ4G",
+      "user": "getalotofmail",
       "ts": "1630828015.031500",
       "team": "T0GFBAM8C",
       "attachments": [

@@ -7,35 +7,35 @@
       "type": "message",
       "subtype": "channel_join",
       "ts": "1621314579.000200",
-      "user": "U022WQLA2BA",
-      "text": "<@U022WQLA2BA>さんがチャンネルに参加しました"
+      "user": "potfman",
+      "text": "<@potfman>さんがチャンネルに参加しました"
     },
     {
       "type": "message",
       "subtype": "channel_join",
       "ts": "1621287713.178700",
-      "user": "U021ZBPEPQE",
-      "text": "<@U021ZBPEPQE>さんがチャンネルに参加しました"
+      "user": "teketeke.f.heart",
+      "text": "<@teketeke.f.heart>さんがチャンネルに参加しました"
     },
     {
       "type": "message",
       "subtype": "channel_join",
       "ts": "1621287540.178500",
-      "user": "U021RBMEEET",
-      "text": "<@U021RBMEEET>さんがチャンネルに参加しました"
+      "user": "hshue83",
+      "text": "<@hshue83>さんがチャンネルに参加しました"
     },
     {
       "type": "message",
       "subtype": "channel_join",
       "ts": "1621260148.178200",
-      "user": "U022AA9JS04",
-      "text": "<@U022AA9JS04>さんがチャンネルに参加しました"
+      "user": "peony.btn",
+      "text": "<@peony.btn>さんがチャンネルに参加しました"
     },
     {
       "client_msg_id": "1c11aef4-9c87-492f-afe1-cff029e62041",
       "type": "message",
       "text": "パーミッションが `550` になっているが、(少なくとも最新の)パッケージでは `750` になってますよ、(意図せず変更されていたりしたら)もしかしたら変更しておいた方がいいかもしれません、くらいの話ですね\nまあ一般的にちゃんと動いてたら放置でもいいとは思いますが、warningは出ないようにしておくのがベターではあります",
-      "user": "UUWBU08TU",
+      "user": "nyaarch64",
       "ts": "1621157350.177700",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -81,7 +81,7 @@
         {
           "name": "+1",
           "users": [
-            "U020MDKG448"
+            "nine-k.960klo"
           ],
           "count": 1
         }
@@ -91,7 +91,7 @@
       "client_msg_id": "7084aec2-a079-439f-a2c5-d2ab4bb020da",
       "type": "message",
       "text": "libalpmはパーミッション変更しないですね",
-      "user": "UUWBU08TU",
+      "user": "nyaarch64",
       "ts": "1621157194.177500",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -116,7 +116,7 @@
       "client_msg_id": "30cd3021-19a4-40c7-a178-78d00f916d09",
       "type": "message",
       "text": "いいえ: まだ`dr-xr-x---`の通りです",
-      "user": "U020MDKG448",
+      "user": "nine-k.960klo",
       "ts": "1621156892.177300",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -140,7 +140,7 @@
     {
       "type": "message",
       "text": "メッセージ的にパッケージによって `/etc/sudoers.d/` のパーミッションが `750` に変更されたってことじゃないですかね。",
-      "user": "U257W41DW",
+      "user": "odknt",
       "ts": "1621154446.176100",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -187,7 +187,7 @@
       "client_msg_id": "cae63be3-21fe-474b-a724-c787321e17db",
       "type": "message",
       "text": "話題変更失礼します\n\n```[2021-05-16T15:59:25+0900] [ALPM] warning: directory permissions differ on /etc/sudoers.d/\nfilesystem: 550  package: 750\n[2021-05-16T15:59:25+0900] [ALPM] upgraded sudo (1.9.6.p1-1 -&gt; 1.9.7-1)\n```\nこのwarningはどうすればよろしいのでしょうか?\n文字通りディレクトリのパーミッション変更ですか?\n\n参考\n<https://bbs.archlinux.org/viewtopic.php?id=218133|https://bbs.archlinux.org/viewtopic.php?id=218133>",
-      "user": "U020MDKG448",
+      "user": "nine-k.960klo",
       "ts": "1621153813.175200",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -235,11 +235,11 @@
       "client_msg_id": "3C7DF9B9-9E46-4A45-AB8B-09083B170405",
       "type": "message",
       "text": "私も今bspwm上のFirefoxでニコニコを日常的に見ているのですが、不安定と感じたことはあまり無いですね。PiPが勝手に起動したという現象もないです。\nただ回線自体が不安定な時は割とモロにその影響を受けた気がします",
-      "user": "U020M0ZLKND",
+      "user": "qryxip",
       "ts": "1620987918.174800",
       "team": "T0GFBAM8C",
       "edited": {
-        "user": "U020M0ZLKND",
+        "user": "qryxip",
         "ts": "1620988176.000000"
       },
       "blocks": [
@@ -264,7 +264,7 @@
       "client_msg_id": "0a1e89dd-c22e-4db9-8304-6531d8441a75",
       "type": "message",
       "text": "一応、設定は、プライバシーのところでcookie:on,tracking:on,cryptominers:on,fingerprinters:onと全部をonにして、about:configでjavascriptを大体trueにしてます。あと、拡張機能は入れていません。",
-      "user": "U0GFBAM8U",
+      "user": "syui",
       "ts": "1620985904.171100",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -289,7 +289,7 @@
       "client_msg_id": "08ae0a1c-2c21-4bb3-9efc-a714ad380370",
       "type": "message",
       "text": "あと、再生したときピクチャインピクチャモードみたいなのが出てきて、i3のウィンドウが新しく立ち上がったのはびっくりした",
-      "user": "U0GFBAM8U",
+      "user": "syui",
       "ts": "1620985675.169900",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -314,7 +314,7 @@
       "client_msg_id": "c16ce4a0-e12f-4762-8ef7-4c9955ae72f5",
       "type": "message",
       "text": "ちょっとfirefoxでニコニコを再生してみましたが、今の所は安定してる気がします。\n開発者ツールのnetworkで.tsファイルを追ってみるといいかもしれません。",
-      "user": "U0GFBAM8U",
+      "user": "syui",
       "ts": "1620985555.169000",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -339,7 +339,7 @@
       "client_msg_id": "97f1e0a0-5516-473f-81ec-5df270037cba",
       "type": "message",
       "text": "ないです\nchromiumだと上手く再生されます",
-      "user": "U01HE1ENNJZ",
+      "user": "a3784197",
       "ts": "1620983346.167600",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -364,7 +364,7 @@
       "client_msg_id": "1E6C57EC-C353-43A0-AC3D-0036DC1903B1",
       "type": "message",
       "text": "そういえばログインしてる時としてない時、不安定さには差はありますか?",
-      "user": "U0GFBAM8U",
+      "user": "syui",
       "ts": "1620965076.166700",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -389,11 +389,11 @@
       "client_msg_id": "9BACA835-8B40-48BD-B92C-DF0206656574",
       "type": "message",
       "text": "(chromiumもあまり自信ないけど",
-      "user": "U0GFBAM8U",
+      "user": "syui",
       "ts": "1620964908.165900",
       "team": "T0GFBAM8C",
       "edited": {
-        "user": "U0GFBAM8U",
+        "user": "syui",
         "ts": "1620965246.000000"
       },
       "blocks": [
@@ -418,11 +418,11 @@
       "client_msg_id": "779784B2-70E2-40E4-AD61-8B9D4EE62239",
       "type": "message",
       "text": "私、firefoxは使ってなくて、chromiunなので、あまりアドバイスできなくて",
-      "user": "U0GFBAM8U",
+      "user": "syui",
       "ts": "1620964854.165200",
       "team": "T0GFBAM8C",
       "edited": {
-        "user": "U0GFBAM8U",
+        "user": "syui",
         "ts": "1620965231.000000"
       },
       "blocks": [
@@ -447,7 +447,7 @@
       "client_msg_id": "0c68583b-a365-44e9-8bb7-b89e9f9226f9",
       "type": "message",
       "text": "<#C0GFH3RHU|random> でfirefoxの話題があったのですがfirefoxでニコ動再生すると不安定なんですが解決策知りませんか？",
-      "user": "U01HE1ENNJZ",
+      "user": "a3784197",
       "ts": "1620964779.164200",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -476,7 +476,7 @@
       "client_msg_id": "DAF8EDE8-6ADE-4937-8FE8-5BC61AA5D0A9",
       "type": "message",
       "text": "最近updateでvirtualbox-guest-utils-noxに置き換えますか、みたいなの出てる人います?",
-      "user": "U0GFBAM8U",
+      "user": "syui",
       "ts": "1620960835.163300",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -501,7 +501,7 @@
       "type": "message",
       "subtype": "bot_remove",
       "text": "このチャンネルのインテグレーションを削除しました : <https://archlinuxjp.slack.com/services/B0Z8Y723Z|twitter>",
-      "user": "U0GFBAM8U",
+      "user": "syui",
       "bot_id": "B0Z8Y723Z",
       "bot_link": "<https://archlinuxjp.slack.com/services/B0Z8Y723Z|twitter>",
       "ts": "1620955015.161900"
@@ -510,7 +510,7 @@
       "type": "message",
       "subtype": "bot_remove",
       "text": "このチャンネルのインテグレーションを削除しました : <https://archlinuxjp.slack.com/services/B01VC2CPWAV|twitter>",
-      "user": "U0GFBAM8U",
+      "user": "syui",
       "bot_id": "B01VC2CPWAV",
       "bot_link": "<https://archlinuxjp.slack.com/services/B01VC2CPWAV|twitter>",
       "ts": "1620954750.161800"
@@ -519,7 +519,7 @@
       "type": "message",
       "subtype": "bot_disable",
       "text": "このチャンネルの以下のインテグレーションを解除しました : <https://archlinuxjp.slack.com/services/B01VC2CPWAV|twitter>",
-      "user": "U0GFBAM8U",
+      "user": "syui",
       "bot_id": "B01VC2CPWAV",
       "bot_link": "<https://archlinuxjp.slack.com/services/B01VC2CPWAV|twitter>",
       "ts": "1620954644.161700"
@@ -528,14 +528,14 @@
       "type": "message",
       "subtype": "channel_join",
       "ts": "1620712633.160400",
-      "user": "U0226V27KA4",
-      "text": "<@U0226V27KA4>さんがチャンネルに参加しました",
+      "user": "aavalthonaavanaa",
+      "text": "<@aavalthonaavanaa>さんがチャンネルに参加しました",
       "reactions": [
         {
           "name": "archjp",
           "users": [
             "UJ7P75WB1",
-            "U0GFBAM8U",
+            "syui",
             "UGA29R3FH"
           ],
           "count": 3
@@ -546,16 +546,16 @@
       "type": "message",
       "subtype": "channel_join",
       "ts": "1620456526.159800",
-      "user": "U021AN4D6TV",
-      "text": "<@U021AN4D6TV>さんがチャンネルに参加しました",
+      "user": "gariryo3",
+      "text": "<@gariryo3>さんがチャンネルに参加しました",
       "reactions": [
         {
           "name": "archjp",
           "users": [
-            "U017BNGTHT3",
+            "s5is",
             "UGA29R3FH",
             "UJ7P75WB1",
-            "U0GFBAM8U"
+            "syui"
           ],
           "count": 4
         }
@@ -565,7 +565,7 @@
       "client_msg_id": "ffcde4a7-38c6-49a6-acf2-6e0944a5192f",
       "type": "message",
       "text": "現在「後ろの100Gをそのまま残し、前の500G以上でパーティションを作成しそこで再びインストールする」ことを考えています",
-      "user": "U020MDKG448",
+      "user": "nine-k.960klo",
       "ts": "1620358902.159200",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -590,7 +590,7 @@
       "client_msg_id": "d6bc909e-4b37-48ff-9092-6da7f0990aae",
       "type": "message",
       "text": "上記のページのコメント欄などで何をしたかを示しました\n現在の状況: sdaの後ろの方に/を移動（100G）、前の500G以上が空いている、移動の際に/usr/binや/usr/libをなくした、他に何かなくしたかもしれない",
-      "user": "U020MDKG448",
+      "user": "nine-k.960klo",
       "ts": "1620358832.159100",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -615,7 +615,7 @@
       "reply_users_count": 1,
       "latest_reply": "1620522824.159900",
       "reply_users": [
-        "U020MDKG448"
+        "nine-k.960klo"
       ],
       "is_locked": false,
       "subscribed": false
@@ -624,7 +624,7 @@
       "client_msg_id": "6e5824f9-539d-44cf-8704-f821f3a187d9",
       "type": "message",
       "text": "その為sda4を元のサイズに戻しました",
-      "user": "U020MDKG448",
+      "user": "nine-k.960klo",
       "ts": "1620345991.159000",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -649,7 +649,7 @@
       "client_msg_id": "4a3c927b-1d2e-4881-b5e2-317de6667169",
       "type": "message",
       "text": "が、extensionにしないとそれ以上パーティションは作れないということで、以降これに従おうと: <https://unix.stackexchange.com/a/648429/451199|https://unix.stackexchange.com/a/648429/451199>",
-      "user": "U020MDKG448",
+      "user": "nine-k.960klo",
       "ts": "1620345688.158800",
       "team": "T0GFBAM8C",
       "attachments": [
@@ -695,7 +695,7 @@
       "client_msg_id": "e600832d-8320-4d9f-9d26-45e03aa0f2e3",
       "type": "message",
       "text": "今fdiskでsda4のサイズを適切に直しました",
-      "user": "U020MDKG448",
+      "user": "nine-k.960klo",
       "ts": "1620345507.158700",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -720,7 +720,7 @@
       "client_msg_id": "9d7ec991-5d23-4813-882b-010f5f8bcf91",
       "type": "message",
       "text": "4kブロックなのでx8したサイズにしてみては。",
-      "user": "UUWBU08TU",
+      "user": "nyaarch64",
       "ts": "1620313461.158600",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -745,7 +745,7 @@
       "client_msg_id": "97883442-9c47-4a26-b1ea-04779a9e32ed",
       "type": "message",
       "text": "セクターって512Bだったような",
-      "user": "UUWBU08TU",
+      "user": "nyaarch64",
       "ts": "1620313400.158500",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -770,7 +770,7 @@
       "client_msg_id": "f915fba8-e141-4e59-be8c-f30c14152524",
       "type": "message",
       "text": "fsck かけると直るかも。",
-      "user": "UN1SFMNU8",
+      "user": "addokoda",
       "ts": "1620313397.158400",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -795,7 +795,7 @@
       "client_msg_id": "e03901ab-7d41-42fa-8062-e70d48d24ab6",
       "type": "message",
       "text": "メタデータ見えてなさそうなので、バックアップがあるならそれを頼ったほうが良さそうですね…。\nグッドラックです。",
-      "user": "U017BNGTHT3",
+      "user": "s5is",
       "ts": "1620308548.158000",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -820,7 +820,7 @@
       "client_msg_id": "fcb8d8bf-95f0-4c73-b3ce-23ba7f6512a4",
       "type": "message",
       "text": "明日に続きをします",
-      "user": "U020MDKG448",
+      "user": "nine-k.960klo",
       "ts": "1620308380.156900",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -845,7 +845,7 @@
       "client_msg_id": "d0fa0416-6871-4c6c-a5ae-3feefdac6cac",
       "type": "message",
       "text": "wrong fs type, bad option, bad superblock on /dev/sda4, missing codepage or helper program, or other error.",
-      "user": "U020MDKG448",
+      "user": "nine-k.960klo",
       "ts": "1620308354.156800",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -870,7 +870,7 @@
       "client_msg_id": "512244a0-b986-4de2-b365-dc866f43231e",
       "type": "message",
       "text": "マウントできない場合、エラーメッセージとかって出ましたか？",
-      "user": "U017BNGTHT3",
+      "user": "s5is",
       "ts": "1620308067.155700",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -895,7 +895,7 @@
       "client_msg_id": "0e3ef996-d6de-4d7a-b0c0-7065f7ce4d8c",
       "type": "message",
       "text": "でも、セクター数がぴったり18722376になるようにsda4のパーティションを減らしてもマウントできません",
-      "user": "U020MDKG448",
+      "user": "nine-k.960klo",
       "ts": "1620307335.155100",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -920,7 +920,7 @@
       "client_msg_id": "cfce95b0-7499-49f7-9232-c084e9833ded",
       "type": "message",
       "text": "The filesyste on /dev/sda4 is now 18722376 (4k) blocks long.",
-      "user": "U020MDKG448",
+      "user": "nine-k.960klo",
       "ts": "1620307041.155000",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -945,7 +945,7 @@
       "client_msg_id": "47bab328-517d-4318-bd0d-9f343d822ffb",
       "type": "message",
       "text": "ようやく-Mが完了しました",
-      "user": "U020MDKG448",
+      "user": "nine-k.960klo",
       "ts": "1620307004.154900",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -970,7 +970,7 @@
       "client_msg_id": "c58d7308-2b1b-431e-af6a-50f16656bfa4",
       "type": "message",
       "text": "現在: # resize2fs -M /dev/sda4",
-      "user": "U020MDKG448",
+      "user": "nine-k.960klo",
       "ts": "1620304637.153000",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -995,7 +995,7 @@
       "client_msg_id": "EB58CF68-58E1-43CB-BC33-2CC5BC8105B6",
       "type": "message",
       "text": "統合したいパーティションの後ろに続くものをバックアップ後に削除し、統合したいパーティションを拡張する感じ",
-      "user": "U0GFBAM8U",
+      "user": "syui",
       "ts": "1620303991.152900",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -1020,7 +1020,7 @@
       "client_msg_id": "c31d9138-3626-43ce-aec2-970e35b66ece",
       "type": "message",
       "text": "大事なデータはバックアップとっておくことを忘れずにね。",
-      "user": "UN1SFMNU8",
+      "user": "addokoda",
       "ts": "1620303990.152800",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -1044,8 +1044,8 @@
     {
       "client_msg_id": "AF93356A-872D-4C42-9370-31C1F2E67580",
       "type": "message",
-      "text": "gpartedのほうが事故る可能性は低いと思います。\nまた、 <@UN1SFMNU8> さんの手順がパーティション統合する際の一般的な手順だと思います。",
-      "user": "U0GFBAM8U",
+      "text": "gpartedのほうが事故る可能性は低いと思います。\nまた、 <@addokoda> さんの手順がパーティション統合する際の一般的な手順だと思います。",
+      "user": "syui",
       "ts": "1620303732.150500",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -1066,7 +1066,7 @@
                 },
                 {
                   "type": "user",
-                  "user_id": "UN1SFMNU8"
+                  "user_id": "addokoda"
                 },
                 {
                   "type": "text",
@@ -1081,7 +1081,7 @@
         {
           "name": "+1",
           "users": [
-            "U020MDKG448"
+            "nine-k.960klo"
           ],
           "count": 1
         }
@@ -1090,8 +1090,8 @@
     {
       "client_msg_id": "1ffbf602-17f7-49e3-9a6e-c54e287d4375",
       "type": "message",
-      "text": "まあそれはともかく現在 <@UN1SFMNU8> さんの手順で行おうとしています",
-      "user": "U020MDKG448",
+      "text": "まあそれはともかく現在 <@addokoda> さんの手順で行おうとしています",
+      "user": "nine-k.960klo",
       "ts": "1620303593.148500",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -1108,7 +1108,7 @@
                 },
                 {
                   "type": "user",
-                  "user_id": "UN1SFMNU8"
+                  "user_id": "addokoda"
                 },
                 {
                   "type": "text",
@@ -1124,7 +1124,7 @@
       "client_msg_id": "7b60383a-86f9-49c4-8a01-f2e06a1a9755",
       "type": "message",
       "text": "よく見たらもともとセクター単位でやっていたのにGB単位で丸められ",
-      "user": "U020MDKG448",
+      "user": "nine-k.960klo",
       "ts": "1620303560.148200",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -1149,7 +1149,7 @@
       "client_msg_id": "aa8e3f23-56cc-46e0-83e6-5862f4b16cc2",
       "type": "message",
       "text": "結果sda4がマウントできなくなり",
-      "user": "U020MDKG448",
+      "user": "nine-k.960klo",
       "ts": "1620303414.148100",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -1174,7 +1174,7 @@
       "client_msg_id": "1bbc8b6c-1c89-4969-a68f-cbc261a6bfef",
       "type": "message",
       "text": "今partedでresizepart 4 650GBとした後ですが",
-      "user": "U020MDKG448",
+      "user": "nine-k.960klo",
       "ts": "1620303221.148000",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -1199,7 +1199,7 @@
       "client_msg_id": "B67809DC-3E8A-487C-A6BC-4AFD7FE3045F",
       "type": "message",
       "text": "なので自信ある場合、partedは確かdiskにも入ってたので、そのコマンドで",
-      "user": "U0GFBAM8U",
+      "user": "syui",
       "ts": "1620303122.147900",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -1224,7 +1224,7 @@
       "client_msg_id": "650975DE-26CF-47D8-A04E-F4380E518FED",
       "type": "message",
       "text": "まあ操作が簡単ということであって、cliならpartedコマンドとか使えばいけると思います",
-      "user": "U0GFBAM8U",
+      "user": "syui",
       "ts": "1620303056.146800",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -1249,7 +1249,7 @@
       "client_msg_id": "7226ac64-bd78-4f6d-87bb-5b98662c3715",
       "type": "message",
       "text": "わざわざネット繋いでXとGParted入れることを面道臭く感じたらダメですか?",
-      "user": "U020MDKG448",
+      "user": "nine-k.960klo",
       "ts": "1620302977.145700",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -1274,7 +1274,7 @@
       "client_msg_id": "9052B1E0-3890-4921-BA03-DAD095CBA8CC",
       "type": "message",
       "text": "gpartedならいけそう",
-      "user": "U0GFBAM8U",
+      "user": "syui",
       "ts": "1620302915.145600",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -1299,7 +1299,7 @@
       "client_msg_id": "a52dc9cf-1fe0-4a9f-9365-a8b12693b558",
       "type": "message",
       "text": "MBRで、かつ全てprimaryです。",
-      "user": "U020MDKG448",
+      "user": "nine-k.960klo",
       "ts": "1620302761.145200",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -1324,7 +1324,7 @@
       "client_msg_id": "243c9392-ad10-446c-b085-1607734cc78e",
       "type": "message",
       "text": "gparted 使うんだったら、\n\n/home を限界まで縮小\n最後尾に 100G のパーティションを作成してフォーマット、 /var, /home をバックアップコピー\n/var, /home を削除、/ を拡張\n/var,/home のバックアップを / へコピー\n最後尾を削除\n/ を拡張\n\nという手順でやることになりますね。",
-      "user": "UN1SFMNU8",
+      "user": "addokoda",
       "ts": "1620302479.145100",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -1349,7 +1349,7 @@
       "client_msg_id": "8D7579B3-D6DD-41F3-BAE2-7274E4EA676A",
       "type": "message",
       "text": "あと、こういうのも便利かも\n<https://wiki.archlinux.jp/index.php/Systemd-nspawn|https://wiki.archlinux.jp/index.php/Systemd-nspawn>",
-      "user": "U0GFBAM8U",
+      "user": "syui",
       "ts": "1620302382.144700",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -1379,7 +1379,7 @@
       "client_msg_id": "BE380ACF-BC7B-4074-94CB-22B1D88293F3",
       "type": "message",
       "text": "新しいユーザー作って",
-      "user": "U0GFBAM8U",
+      "user": "syui",
       "ts": "1620302036.144200",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -1404,8 +1404,8 @@
       "reply_users_count": 2,
       "latest_reply": "1620305280.154700",
       "reply_users": [
-        "UUWBU08TU",
-        "U0GFBAM8U"
+        "nyaarch64",
+        "syui"
       ],
       "is_locked": false,
       "subscribed": true,
@@ -1415,7 +1415,7 @@
       "client_msg_id": "6141A583-153A-4011-A785-447F26C2FA0A",
       "type": "message",
       "text": "ああ、そういえばそうですね",
-      "user": "U0GFBAM8U",
+      "user": "syui",
       "ts": "1620302016.143900",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -1440,7 +1440,7 @@
       "client_msg_id": "3508db0c-a09d-4a46-bcd0-c670e8a9f589",
       "type": "message",
       "text": "パーティションいじらずに、全部/homeに入れちゃうのが一番楽かなとは思います",
-      "user": "UUWBU08TU",
+      "user": "nyaarch64",
       "ts": "1620301932.143400",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -1465,7 +1465,7 @@
       "client_msg_id": "09C487D5-EF72-49EE-8435-A374D8A95226",
       "type": "message",
       "text": "この辺り参考になりそう\n<https://wiki.archlinux.jp/index.php/%E6%96%B0%E3%81%97%E3%81%84%E3%83%8F%E3%83%BC%E3%83%89%E3%82%A6%E3%82%A7%E3%82%A2%E3%81%AB%E7%A7%BB%E8%A1%8C%E3%81%99%E3%82%8B%23.E3.83.95.E3.82.A1.E3.82.A4.E3.83.AB.E3.81.AE.E3.82.B3.E3.83.94.E3.83.BC|https://wiki.archlinux.jp/index.php/新しいハードウェアに移行する#.E3.83.95.E3.82.A1.E3.82.A4.E3.83.AB.E3.81.AE.E3.82.B3.E3.83.94.E3.83.BC>",
-      "user": "U0GFBAM8U",
+      "user": "syui",
       "ts": "1620301737.143300",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -1495,7 +1495,7 @@
       "client_msg_id": "28D89002-9508-411F-8F7D-ABB1F9364829",
       "type": "message",
       "text": "としてもddでisoにして、コピーすればいけると思う",
-      "user": "U0GFBAM8U",
+      "user": "syui",
       "ts": "1620301558.142900",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -1520,7 +1520,7 @@
       "client_msg_id": "E603BAA1-FD27-43F0-913B-0A93D762F643",
       "type": "message",
       "text": "パーティションが分かれてるんです?",
-      "user": "U0GFBAM8U",
+      "user": "syui",
       "ts": "1620301456.142000",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -1545,7 +1545,7 @@
       "client_msg_id": "B3533FE1-D425-401C-BA97-BB74891E4DF4",
       "type": "message",
       "text": "原理的には可能です\n権限あたりでめんどくさいことになるかもですが",
-      "user": "U0GFBAM8U",
+      "user": "syui",
       "ts": "1620301409.141400",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -1570,7 +1570,7 @@
       "client_msg_id": "53208b32-4b52-4a7e-8ea0-dfa643c891c0",
       "type": "message",
       "text": "今Archのならあるしそれで十分じゃないかと考えてはいます\n\nところで「/varと/homeを/に統合する」ことは可能ですか?既にあるデータを残しながらで",
-      "user": "U020MDKG448",
+      "user": "nine-k.960klo",
       "ts": "1620301218.140600",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -1595,7 +1595,7 @@
       "client_msg_id": "A81BE448-204D-4187-943D-00C1864FA985",
       "type": "message",
       "text": "環境がネットにつながりにくいなら、自宅でlive作って持ってけばいいし",
-      "user": "U0GFBAM8U",
+      "user": "syui",
       "ts": "1620300992.140500",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -1619,8 +1619,8 @@
     {
       "client_msg_id": "EF19DAA1-585F-4725-AFFE-E46F81C8592B",
       "type": "message",
-      "text": "<@U017BNGTHT3> さんが言われてるようにgpartedが入ったlive osを使うのも手っ取り早くていいかもしれませんね",
-      "user": "U0GFBAM8U",
+      "text": "<@s5is> さんが言われてるようにgpartedが入ったlive osを使うのも手っ取り早くていいかもしれませんね",
+      "user": "syui",
       "ts": "1620300935.139600",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -1633,7 +1633,7 @@
               "elements": [
                 {
                   "type": "user",
-                  "user_id": "U017BNGTHT3"
+                  "user_id": "s5is"
                 },
                 {
                   "type": "text",
@@ -1649,7 +1649,7 @@
       "client_msg_id": "4067FF96-5AA2-49E2-8913-35BA3767978E",
       "type": "message",
       "text": "いや、不適切ではありません。\npacmanもgpartedもどちらも使えますよ。gparはxの構築とインストール必要ですが",
-      "user": "U0GFBAM8U",
+      "user": "syui",
       "ts": "1620300858.138000",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -1674,7 +1674,7 @@
       "client_msg_id": "8fbff831-f74d-4274-b914-c6385bbebb9f",
       "type": "message",
       "text": "ArchのLive環境では不適切なのでしょうか?",
-      "user": "U020MDKG448",
+      "user": "nine-k.960klo",
       "ts": "1620300576.136400",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -1699,7 +1699,7 @@
       "client_msg_id": "ab97f46f-5a10-411a-80e5-0041aff77bff",
       "type": "message",
       "text": "翌日に",
-      "user": "U020MDKG448",
+      "user": "nine-k.960klo",
       "ts": "1620300153.136300",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -1724,7 +1724,7 @@
       "client_msg_id": "b04bf984-f1f6-4eaf-a9c5-3d8e174f86bc",
       "type": "message",
       "text": "301ってリダイレクトだった気が？ `curl` じゃなくて `curl -L` にしてみたらどうでしょう",
-      "user": "UUWBU08TU",
+      "user": "nyaarch64",
       "ts": "1620299753.136200",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -1771,7 +1771,7 @@
       "client_msg_id": "d0c4379c-49a3-4418-9156-a59bc959e1a6",
       "type": "message",
       "text": "家庭では-Syuも-Sもできます",
-      "user": "U020MDKG448",
+      "user": "nine-k.960klo",
       "ts": "1620299591.136100",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -1796,7 +1796,7 @@
       "client_msg_id": "38493433-3fef-4c5f-9d0f-67ed1800b2fa",
       "type": "message",
       "text": "&gt; gparted\nLiveDVD/LiveUSB環境持ってると何かあった時に便利かもです。\nもしパッケージ入れられないけどGparted LiveだけDLできる状態ならその手もありですね。\n見た感じだと単にネット遅いだけ説が濃厚ですが…",
-      "user": "U017BNGTHT3",
+      "user": "s5is",
       "ts": "1620299299.136000",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -1830,7 +1830,7 @@
       "client_msg_id": "cb0b17e9-b50d-4f3a-91ad-2bd77db55ed2",
       "type": "message",
       "text": "どこかの研究室などの環境でやっているのであれば、プロキシ設定やルーターのファイヤーウォール等も確認してみるといいかもしれません。",
-      "user": "U01QTK2CP3K",
+      "user": "redohagi127",
       "ts": "1620297456.134000",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -1855,7 +1855,7 @@
       "client_msg_id": "884E6CD3-202E-47F8-A159-98D8790295E3",
       "type": "message",
       "text": "dhcpcd入れてるなら、それをstartさせてみるといいかもしれません",
-      "user": "U0GFBAM8U",
+      "user": "syui",
       "ts": "1620264634.128300",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -1880,7 +1880,7 @@
       "client_msg_id": "721FC319-BA30-4983-A23B-7FA93D294D48",
       "type": "message",
       "text": "回線が遅いのか、ネットワーク設定の問題なのか、どちらかの可能性が高そう",
-      "user": "U0GFBAM8U",
+      "user": "syui",
       "ts": "1620264570.127400",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -1905,7 +1905,7 @@
       "client_msg_id": "27178c0c-7d54-4738-9aeb-842eb48c30cf",
       "type": "message",
       "text": "しかしOperation too slowだのtimeoutだの",
-      "user": "U020MDKG448",
+      "user": "nine-k.960klo",
       "ts": "1620264011.126200",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -1930,7 +1930,7 @@
       "client_msg_id": "c713e895-9f32-4a10-b3c7-b9317daf0c7a",
       "type": "message",
       "text": "今-Syyuをしています",
-      "user": "U020MDKG448",
+      "user": "nine-k.960klo",
       "ts": "1620263999.126100",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -1955,7 +1955,7 @@
       "client_msg_id": "04675f49-4e59-45d1-baef-596334484887",
       "type": "message",
       "text": "mirrorlistもwiki通りに",
-      "user": "U020MDKG448",
+      "user": "nine-k.960klo",
       "ts": "1620263987.126000",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -1980,7 +1980,7 @@
       "client_msg_id": "1b7416ad-cfce-49f3-811a-addb1c459329",
       "type": "message",
       "text": "pingはできましたが",
-      "user": "U020MDKG448",
+      "user": "nine-k.960klo",
       "ts": "1620263964.125900",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -2005,7 +2005,7 @@
       "client_msg_id": "A7D3651F-84C4-41A5-A66D-D5E72DD10741",
       "type": "message",
       "text": "<http://github.com|github.com>とか",
-      "user": "U0GFBAM8U",
+      "user": "syui",
       "ts": "1620263794.125800",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -2035,7 +2035,7 @@
       "client_msg_id": "999C3F1D-9B56-4EFB-AD14-A928D1DCB1F3",
       "type": "message",
       "text": "適当なpingは通ります?",
-      "user": "U0GFBAM8U",
+      "user": "syui",
       "ts": "1620263784.125400",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -2060,7 +2060,7 @@
       "client_msg_id": "449a82c0-f1af-4a85-ac9d-631a4bd7ae1c",
       "type": "message",
       "text": "よく見たら最後に/を",
-      "user": "U020MDKG448",
+      "user": "nine-k.960klo",
       "ts": "1620263772.125200",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -2085,7 +2085,7 @@
       "client_msg_id": "a7c2ca12-b52f-46be-a9b4-8d0fbc914128",
       "type": "message",
       "text": "$ curl <https://mirrors.cat.net/archlinux/core/os|https://mirrors.cat.net/archlinux/core/os>\n結果301でした\n他、httpsのjaistとhttpのmirrors.cat.netも試した結果同様のようでした",
-      "user": "U020MDKG448",
+      "user": "nine-k.960klo",
       "ts": "1620263720.124800",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -2119,7 +2119,7 @@
       "client_msg_id": "F4904290-EF1C-49B3-B73B-F8E722CCD720",
       "type": "message",
       "text": "もしcliでやるならpartedを使います\nresizepartなどを駆使しながら進める感じかと思います",
-      "user": "U0GFBAM8U",
+      "user": "syui",
       "ts": "1620263522.124700",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -2144,7 +2144,7 @@
       "client_msg_id": "14BD1E52-BAA8-4359-A3C5-47BD2A882DB6",
       "type": "message",
       "text": "ダウンロードはできますか",
-      "user": "U0GFBAM8U",
+      "user": "syui",
       "ts": "1620263201.123200",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -2169,7 +2169,7 @@
       "client_msg_id": "ef558d38-a88f-4ef1-ab6d-a5c7bcb4ca6a",
       "type": "message",
       "text": "でもここでの無線LANの設定が不適切なのか、それとも何かなのか、インストールできない環境になっています",
-      "user": "U020MDKG448",
+      "user": "nine-k.960klo",
       "ts": "1620262909.122900",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -2194,7 +2194,7 @@
       "reply_users_count": 1,
       "latest_reply": "1620949962.161100",
       "reply_users": [
-        "U020MDKG448"
+        "nine-k.960klo"
       ],
       "is_locked": false,
       "subscribed": false
@@ -2203,7 +2203,7 @@
       "client_msg_id": "fdbadd3e-1514-45b0-aab7-19294e6b42ea",
       "type": "message",
       "text": "今からやってみます",
-      "user": "U020MDKG448",
+      "user": "nine-k.960klo",
       "ts": "1620262641.122800",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -2228,7 +2228,7 @@
       "client_msg_id": "022e7429-005b-4e29-acd9-993f9045d84f",
       "type": "message",
       "text": "助言ありがとうございます",
-      "user": "U020MDKG448",
+      "user": "nine-k.960klo",
       "ts": "1620262605.122700",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -2253,7 +2253,7 @@
       "client_msg_id": "9e4d8433-63d7-4887-8d10-e7e112a2adef",
       "type": "message",
       "text": "`df /dev/sda?`で、/に91%、/bootに36%、/varに100%、/homeに11%使用していることがわかり、実に勿体ない使い方だと改めて実感しました",
-      "user": "U020MDKG448",
+      "user": "nine-k.960klo",
       "ts": "1620262546.122600",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -2278,7 +2278,7 @@
       "client_msg_id": "BB3602BB-9992-4B5D-8DFF-817ECB518A9E",
       "type": "message",
       "text": "gpartedなら簡単にパーティションの統合できたと思うので、できればstartxして、なければxorg環境を入れて、gpartedでやるのがおすすめかと思います。事故る可能性が少ないので",
-      "user": "U0GFBAM8U",
+      "user": "syui",
       "ts": "1620262471.122500",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -2312,7 +2312,7 @@
           "mimetype": "image/jpeg",
           "filetype": "jpg",
           "pretty_type": "JPEG",
-          "user": "U020MDKG448",
+          "user": "nine-k.960klo",
           "editable": false,
           "size": 429085,
           "mode": "hosted",
@@ -2349,14 +2349,14 @@
           "original_w": 4128,
           "original_h": 1908,
           "thumb_tiny": "AwAWADCFiBjBqaKVBGySLkEcEdRUSjJIPY4p2z0pJDZA6biMcU0Qk9KtbcYpMcdKdhXK4BHBqRMFgCcD1pcANkjI9KR3LZJxx0FTYYu4I8gOetL5yD+E1HL/AK5/rTDQmBP56f3TS+cvoarilFPmYrE29T2NMLAt0pB0pP4qVxn/2Q==",
-          "permalink": "https://archlinuxjp.slack.com/files/U020MDKG448/F021E37TUHX/img_20210506_094939.jpg",
+          "permalink": "https://archlinuxjp.slack.com/files/nine-k.960klo/F021E37TUHX/img_20210506_094939.jpg",
           "permalink_public": "https://slack-files.com/T0GFBAM8C-F021E37TUHX-466e2dc321",
           "is_starred": false,
           "has_rich_preview": false
         }
       ],
       "upload": false,
-      "user": "U020MDKG448",
+      "user": "nine-k.960klo",
       "display_as_bot": false,
       "ts": "1620262295.119900",
       "blocks": [
@@ -2382,7 +2382,7 @@
       "client_msg_id": "91748CC5-9AEC-4E1E-827D-1D003E614940",
       "type": "message",
       "text": "普段はcfdisk使うのであまり使ったことないですが",
-      "user": "U0GFBAM8U",
+      "user": "syui",
       "ts": "1620261862.119800",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -2407,7 +2407,7 @@
       "client_msg_id": "9A838B20-CB33-4D45-B821-4D47056671D1",
       "type": "message",
       "text": "gpartedとか便利だったと思います",
-      "user": "U0GFBAM8U",
+      "user": "syui",
       "ts": "1620261798.119100",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -2432,7 +2432,7 @@
       "client_msg_id": "3d2b1000-a145-49b1-bf05-711532da7304",
       "type": "message",
       "text": "ずっと前からパーティションの個数を減らしたいと考えています\nsdaの1から4までは全てprimaryで以前通りのMBR構成になっています",
-      "user": "U020MDKG448",
+      "user": "nine-k.960klo",
       "ts": "1620261475.118500",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -2457,13 +2457,13 @@
       "type": "message",
       "subtype": "channel_join",
       "ts": "1620260656.118400",
-      "user": "U0211KDBJJX",
-      "text": "<@U0211KDBJJX>さんがチャンネルに参加しました"
+      "user": "murashun982",
+      "text": "<@murashun982>さんがチャンネルに参加しました"
     },
     {
       "type": "message",
       "text": "ありがとうございます。regular fileじゃなかった(無限ループになった)ので -c に変えてやってみましたが、音は出ないです。",
-      "user": "U2YNMHCTV",
+      "user": "takumi.kt",
       "ts": "1620206766.117500",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -2484,13 +2484,13 @@
         }
       ],
       "thread_ts": "1620206766.117500",
-      "parent_user_id": "U257W41DW",
+      "parent_user_id": "odknt",
       "reply_count": 4,
       "reply_users_count": 2,
       "latest_reply": "1620273700.128800",
       "reply_users": [
-        "U257W41DW",
-        "U2YNMHCTV"
+        "odknt",
+        "takumi.kt"
       ],
       "is_locked": false,
       "subscribed": false
@@ -2498,7 +2498,7 @@
     {
       "type": "message",
       "text": "そのコマンドは、多分サウンドカード使用前の初期化処理だと思います。\nもしコマンドの実行が速すぎるのが原因ならコマンドの前に `until [ -f /dev/snd/hwC0D0 ]; do sleep 1; done` とか入れて待つ必要があるかもしれません。",
-      "user": "U257W41DW",
+      "user": "odknt",
       "ts": "1620135136.114800",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -2534,7 +2534,7 @@
       "reply_users_count": 1,
       "latest_reply": "1620244782.117800",
       "reply_users": [
-        "U257W41DW"
+        "odknt"
       ],
       "is_locked": false,
       "subscribed": false
@@ -2543,7 +2543,7 @@
       "client_msg_id": "1f5e3d1f-a8eb-4baf-9c8b-4ca2aaf55488",
       "type": "message",
       "text": "<https://wiki.archlinux.jp/index.php/ASUS_Zenbook_UX430/UX530>\nこれも同じようなやつですか",
-      "user": "U01HE1ENNJZ",
+      "user": "a3784197",
       "ts": "1620131024.110900",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -2572,7 +2572,7 @@
       "client_msg_id": "99a22e4b-e2c0-4f3c-b383-d7aa8d68e0fa",
       "type": "message",
       "text": "<https://zenn.dev/jnuank/scraps/cb090b81b4403e>\nこんなの見つけたんですがどうですか？",
-      "user": "U01HE1ENNJZ",
+      "user": "a3784197",
       "ts": "1620130376.110500",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -2601,7 +2601,7 @@
       "reply_users_count": 1,
       "latest_reply": "1620205212.117200",
       "reply_users": [
-        "U2YNMHCTV"
+        "takumi.kt"
       ],
       "is_locked": false,
       "subscribed": false
@@ -2610,7 +2610,7 @@
       "client_msg_id": "53e9f893-bc3d-4340-a311-d35654d9ff7a",
       "type": "message",
       "text": "難しいですね",
-      "user": "U01HE1ENNJZ",
+      "user": "a3784197",
       "ts": "1620126825.110100",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -2635,7 +2635,7 @@
       "client_msg_id": "33498e99-0efa-433b-972d-a8a136dd4cca",
       "type": "message",
       "text": "私もsystemdを思いついたけど、セッションマネージャー起動時でも早すぎる？らしいので、微妙じゃないのかなと思ってしまいました…",
-      "user": "U01J1GGMHDJ",
+      "user": "naokihirokitomoki",
       "ts": "1620124698.109800",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -2660,7 +2660,7 @@
       "client_msg_id": "d4e9d693-f06e-4b69-b7be-ffff9fc7052b",
       "type": "message",
       "text": "systemdでどうですか？\ngraphical.targetでやって",
-      "user": "U01HE1ENNJZ",
+      "user": "a3784197",
       "ts": "1620124350.109700",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -2685,7 +2685,7 @@
       "client_msg_id": "ecf3eb65-8d0a-41b8-ae70-d633c2457a29",
       "type": "message",
       "text": "デフォルトでは全てのチャンネルがミュートとあるので、この辺の設定を変えればいけるかも",
-      "user": "U0GFBAM8U",
+      "user": "syui",
       "ts": "1620089526.108700",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -2710,11 +2710,11 @@
       "client_msg_id": "163d718c-62d1-43af-93b0-6a9281d5b9b6",
       "type": "message",
       "text": "起動時というとudevあたりかなと思って、検索してみると以下の記述があります。\n```ALSA はデフォルトの Arch カーネルにモジュールセットとして含まれているので、インストールは不要です。\n起動時に自動で udev があなたのハードウェアを調べて、オーディオカード用の適切なカーネルモジュールをロードします。したがって、サウンドはすでに鳴らせるはずです。ただ、デフォルトでは全てのチャンネルはミュートにされています。チャンネルのミュートを解除してください。```\n<https://wiki.archlinux.jp/index.php/Advanced_Linux_Sound_Architecture>",
-      "user": "U0GFBAM8U",
+      "user": "syui",
       "ts": "1620089505.108300",
       "team": "T0GFBAM8C",
       "edited": {
-        "user": "U0GFBAM8U",
+        "user": "syui",
         "ts": "1620089556.000000"
       },
       "blocks": [
@@ -2757,7 +2757,7 @@
       "client_msg_id": "a30cfbc8-3192-427e-8bdf-aa8b1e94bed8",
       "type": "message",
       "text": "原因として思ったのが、一つはインターフェイスの問題です。通常、ユーザーでログインしたとき、使用しているオーディオインターフェイスが起動し、保存されてる音量などが設定される気がしますが、起動時の音量と食い違う可能性。xsetupは読み込まれてオーディオモジュールかなんかは有効になるものの、そこで使用されるオーディオデバイスや音量などはインターフェイスやあるいはサウンドサーバーを通して読み込まれるため、ログイン前は音が出ないのかも",
-      "user": "U0GFBAM8U",
+      "user": "syui",
       "ts": "1620089287.107700",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -2782,7 +2782,7 @@
       "client_msg_id": "d305d71c-c9f7-4a8a-a46b-4a962ad0014d",
       "type": "message",
       "text": "`~/.xinitrc`に書いてみてはどうでしょう",
-      "user": "U0GFBAM8U",
+      "user": "syui",
       "ts": "1620088828.104100",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -2814,7 +2814,7 @@
       "reply_users_count": 1,
       "latest_reply": "1620105075.108900",
       "reply_users": [
-        "U2YNMHCTV"
+        "takumi.kt"
       ],
       "is_locked": false,
       "subscribed": true,
@@ -2824,7 +2824,7 @@
       "client_msg_id": "1dd32510-f36d-442a-8f07-3ee48936f90a",
       "type": "message",
       "text": "HD Audio詳しい人、教えてください。機種Spectre x360で起動時、音が出なくて <https://wiki.archlinux.org/title/HP_Spectre_x360_(2020)#Audio>\nに書かれているとおり、\n```sudo hda-verb /dev/snd/hwC0D0 0x01 SET_GPIO_DIR 0x01\nsudo hda-verb /dev/snd/hwC0D0 0x01 SET_GPIO_MASK 0x01\nsudo hda-verb /dev/snd/hwC0D0 0x01 SET_GPIO_DATA 0x01\nsudo hda-verb /dev/snd/hwC0D0 0x01 SET_GPIO_DATA 0x00```\nを毎回2回叩くと音が出るようになるのですが、手動はつらいので、X11のセッションマネージャの起動時に動くスクリプトである `/usr/share/sddm/scripts/Xsetup` に書いてもそれでは音は出ず、ユーザでログイン後手動で叩くと音が出る現象が起きています。(スクリプト自体が動いていることは、Xsetup中で `2&gt;&amp;1 &gt;/tmp/Xsetup.log` をして確認しています)\n• そもそもこのコマンドは何をしているものですか?\n• Xsetupのスクリプトから叩いても音が出ず、ログイン後に叩くと音が出るのはどういう理由からですか?\n• こういう場合のよい回避策を教えてください。",
-      "user": "U2YNMHCTV",
+      "user": "takumi.kt",
       "ts": "1620050226.103600",
       "team": "T0GFBAM8C",
       "blocks": [

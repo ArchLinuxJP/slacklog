@@ -7,7 +7,7 @@
       "client_msg_id": "d0276287-9fdc-46be-bc28-221968a8ba7c",
       "type": "message",
       "text": "ありがとうございます!!",
-      "user": "USLL50J1M",
+      "user": "vikke.bsd",
       "ts": "1593164950.120900",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -32,11 +32,11 @@
       "client_msg_id": "2c0f07d5-4f47-4ca2-a9da-f52bb764526e",
       "type": "message",
       "text": "大抵対象パッケージページのコメントかnewsあたりにあるのでそこから確認してくといいかもですね。\n特にパッケージのページはいろいろ書いてあって便利",
-      "user": "U3FJYR7MG",
+      "user": "dohq",
       "ts": "1593158017.120600",
       "team": "T0GFBAM8C",
       "edited": {
-        "user": "U3FJYR7MG",
+        "user": "dohq",
         "ts": "1593158032.000000"
       },
       "blocks": [
@@ -61,7 +61,7 @@
       "client_msg_id": "5F5E0217-F3F1-47BC-A8A7-46FB7373D803",
       "type": "message",
       "text": "`pacman -Rdd perl-gtk2-unique`\nで一旦削除してアプデ回してからインストールし直せばいいっぽい",
-      "user": "U53RAQBCP",
+      "user": "kokopis",
       "ts": "1593157549.119300",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -96,7 +96,7 @@
     {
       "type": "message",
       "text": "これっぽいですね: AUR (en) - perl-gtk2-unique\n<https://aur.archlinux.org/packages/perl-gtk2-unique#pinned-656931>",
-      "user": "U53RAQBCP",
+      "user": "kokopis",
       "ts": "1593157482.118200",
       "team": "T0GFBAM8C",
       "attachments": [
@@ -137,7 +137,7 @@
       "client_msg_id": "9ee21e22-93db-40f9-bdd4-5b256e02be07",
       "type": "message",
       "text": "yayをしてversion upしようとしたら、依存が壊れると言われて進められなくなってしまった。これ、どうしたら良いですか?\n```[feature/refund_csv]$ yay\n[sudo] vikke のパスワード:\n:: パッケージデータベースの同期中...\n core                                                                       134.6 KiB  2.35 MiB/s 00:00 [##############################################################] 100%\n extra                                                                     1704.2 KiB  7.67 MiB/s 00:00 [##############################################################] 100%\n community                                                                    5.0 MiB  8.04 MiB/s 00:01 [##############################################################] 100%\n:: システム全体の更新を開始...\n依存関係を解決しています...\n衝突するパッケージがないか確認しています...\nエラー: 処理の準備に失敗しました (依存関係を解決できませんでした)\n:: perl (5.32.0-1) をインストールすると 'perl&lt;5.31' が破壊され perl-gtk2-unique の依存関係が壊れます\nerror installing repo packages```",
-      "user": "USLL50J1M",
+      "user": "vikke.bsd",
       "ts": "1593155780.118100",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -171,7 +171,7 @@
       "client_msg_id": "a98d2592-5bc4-483f-be48-502fa2f0a733",
       "type": "message",
       "text": "あーそっか、えらい時間かかるな〜っていうAURは信頼できる野良リポ探すっていう手段を取ることもできるのか",
-      "user": "UAPRYSVPS",
+      "user": "vermilion928",
       "ts": "1593143688.116200",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -196,7 +196,7 @@
       "client_msg_id": "09b1bfd1-62ff-4b0e-8e35-33da04261913",
       "type": "message",
       "text": "ですです",
-      "user": "U3FJYR7MG",
+      "user": "dohq",
       "ts": "1593136559.114900",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -221,7 +221,7 @@
       "client_msg_id": "ece514e2-9ddf-4945-9777-44a63bf9fd35",
       "type": "message",
       "text": "<https://repo.herecura.be/>\nここかな",
-      "user": "U0PM6EYR1",
+      "user": "raa0121",
       "ts": "1593136228.114600",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -249,7 +249,7 @@
         {
           "name": "+1",
           "users": [
-            "U3FJYR7MG"
+            "dohq"
           ],
           "count": 1
         }
@@ -259,7 +259,7 @@
       "client_msg_id": "be275ae0-4061-4681-8fb3-a7363aef227a",
       "type": "message",
       "text": "`vivaldi-ffmpeg-codecs` がビルドにえらい時間掛かるので野良レポからビルド済みのもらってくるようにしてるな",
-      "user": "U3FJYR7MG",
+      "user": "dohq",
       "ts": "1593134070.114400",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -291,7 +291,7 @@
       "client_msg_id": "f5591446-6743-4712-8180-9d29e766a703",
       "type": "message",
       "text": "<https://wiki.archlinux.jp/index.php/%E9%9D%9E%E5%85%AC%E5%BC%8F%E3%83%A6%E3%83%BC%E3%82%B6%E3%83%BC%E3%83%AA%E3%83%9D%E3%82%B8%E3%83%88%E3%83%AA/ArchHaskell>",
-      "user": "U0PM6EYR1",
+      "user": "raa0121",
       "ts": "1593101149.113400",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -316,7 +316,7 @@
       "client_msg_id": "f93f7e48-c99d-4586-9ba6-1511355c6666",
       "type": "message",
       "text": "あと、Haskell とか、野良リポジトリで配ってる気がしますね",
-      "user": "U0PM6EYR1",
+      "user": "raa0121",
       "ts": "1593101030.113200",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -341,7 +341,7 @@
       "client_msg_id": "6380dce1-955c-4875-b054-b7f770539e4f",
       "type": "message",
       "text": "```[archlinuxfr]\nSigLevel = Never\nServer = <http://repo.archlinux.fr/$arch>```\n`/etc/pacman.conf` にこう書けば、インストールできましたね",
-      "user": "U0PM6EYR1",
+      "user": "raa0121",
       "ts": "1593101017.112800",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -386,7 +386,7 @@
       "client_msg_id": "a5478173-2fff-473e-bef4-0add638fdecc",
       "type": "message",
       "text": "yaourtはバイナリ配布してたのか",
-      "user": "UGA29R3FH",
+      "user": "znmxodq1",
       "ts": "1593097045.112100",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -411,7 +411,7 @@
       "client_msg_id": "67d91ff5-3097-484e-9859-8e2c14dd1a10",
       "type": "message",
       "text": "極論を言うと、 `makepkg` で作った、 `pkg.tar.xz` を他のArch のシステムにもっていって、 `pacman -U [package-name].pkg.tar.gz` でインストールできます。\nそれを、一般的に公開してるのが、野良リポジトリですね。\n昔は `yaourt` をそれで入れてましたね。",
-      "user": "U0PM6EYR1",
+      "user": "raa0121",
       "ts": "1593096763.111600",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -479,8 +479,8 @@
         {
           "name": "+1",
           "users": [
-            "UAPRYSVPS",
-            "UGA29R3FH"
+            "vermilion928",
+            "znmxodq1"
           ],
           "count": 2
         }
@@ -490,7 +490,7 @@
       "client_msg_id": "300b13e2-c0ca-47a3-9c03-f513b4337821",
       "type": "message",
       "text": "おーーーーなんか色々分かりはじめました！！！！こういうことか〜〜〜",
-      "user": "UAPRYSVPS",
+      "user": "vermilion928",
       "ts": "1593095817.108800",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -515,7 +515,7 @@
       "client_msg_id": "d01bb70a-5269-4cc6-8613-b89249dfa891",
       "type": "message",
       "text": "pacman.confに記載したらpacmanで落とせるようになるやつ",
-      "user": "UGA29R3FH",
+      "user": "znmxodq1",
       "ts": "1593095809.108600",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -540,7 +540,7 @@
       "client_msg_id": "dd4ad0af-d586-47bb-873d-d17e6769f860",
       "type": "message",
       "text": "ですね、作ったことないからよくわからないけど多分誰でも作れる",
-      "user": "UGA29R3FH",
+      "user": "znmxodq1",
       "ts": "1593095799.108200",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -565,7 +565,7 @@
       "client_msg_id": "8ea15b43-3c1f-4ce7-8cec-885a0d634867",
       "type": "message",
       "text": "ビルド後のバイナリをやりとりできるリポジトリとかですか？",
-      "user": "UAPRYSVPS",
+      "user": "vermilion928",
       "ts": "1593095758.107800",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -590,7 +590,7 @@
       "client_msg_id": "24257eda-f2c5-4a33-ad83-583753e449da",
       "type": "message",
       "text": "Powerpillの人のとか結構有名な気がする <https://xyne.archlinux.ca/repos/>",
-      "user": "UGA29R3FH",
+      "user": "znmxodq1",
       "ts": "1593095717.107200",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -619,7 +619,7 @@
       "client_msg_id": "fc97a8dd-1c38-46dc-83d1-d6d099111243",
       "type": "message",
       "text": "そんな人のための野良リポジトリ",
-      "user": "UGA29R3FH",
+      "user": "znmxodq1",
       "ts": "1593095684.106800",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -643,7 +643,7 @@
         {
           "name": "question",
           "users": [
-            "UAPRYSVPS"
+            "vermilion928"
           ],
           "count": 1
         }
@@ -653,7 +653,7 @@
       "client_msg_id": "b75abe04-2ce9-44e6-bfe9-977228f762e8",
       "type": "message",
       "text": "（「AURのパッケージって更新時にいっつもビルドしてるけど、AURじゃないパッケージはビルドしないよな〜。 ん？もしかしてAURでもビルド後のファイルをコミットしたら一部の環境でビルドしなくてよくなったりするのかな？」とかわけわかんないことボヤーッと考えてしまったのですがそんなわけないですね）",
-      "user": "UAPRYSVPS",
+      "user": "vermilion928",
       "ts": "1593095645.106500",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -678,7 +678,7 @@
       "client_msg_id": "d350e494-86a7-487b-b1e0-9246edbbe211",
       "type": "message",
       "text": "ありがとうございます！！",
-      "user": "UAPRYSVPS",
+      "user": "vermilion928",
       "ts": "1593095556.104800",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -703,7 +703,7 @@
       "client_msg_id": "418c56e0-4925-4d8e-85f2-c0bc86a2fac0",
       "type": "message",
       "text": "any以外は全部バイナリでは、というのは置いておいてコミットはしないという認識でOKです",
-      "user": "UGA29R3FH",
+      "user": "znmxodq1",
       "ts": "1593095522.104500",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -727,7 +727,7 @@
         {
           "name": "astonished",
           "users": [
-            "UAPRYSVPS",
+            "vermilion928",
             "UKT90HXU0"
           ],
           "count": 2
@@ -738,11 +738,11 @@
       "client_msg_id": "1312f4c8-5d59-442e-a1ec-d5fe7ddc6954",
       "type": "message",
       "text": "バイナリと言うかpkgファイルですね（バイナリも含まれてますかね？",
-      "user": "UAPRYSVPS",
+      "user": "vermilion928",
       "ts": "1593095451.103600",
       "team": "T0GFBAM8C",
       "edited": {
-        "user": "UAPRYSVPS",
+        "user": "vermilion928",
         "ts": "1593095477.000000"
       },
       "blocks": [
@@ -767,7 +767,7 @@
       "client_msg_id": "367c3cb7-22e3-4f3c-b33b-60ae6d0fba56",
       "type": "message",
       "text": "ローカルファイルってバイナリのことですよね、むしろコミットしちゃいかんはず",
-      "user": "UGA29R3FH",
+      "user": "znmxodq1",
       "ts": "1593095436.103100",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -792,11 +792,11 @@
       "client_msg_id": "83e9d20b-09b6-4471-a714-90eebe433fce",
       "type": "message",
       "text": "コミットするのはPKGBUILDと.SRCINFOのみという認識なのですが",
-      "user": "UAPRYSVPS",
+      "user": "vermilion928",
       "ts": "1593095395.102600",
       "team": "T0GFBAM8C",
       "edited": {
-        "user": "UAPRYSVPS",
+        "user": "vermilion928",
         "ts": "1593095413.000000"
       },
       "blocks": [
@@ -821,11 +821,11 @@
       "client_msg_id": "67ba374b-03fe-4d84-8e05-d86284f8ea77",
       "type": "message",
       "text": "<https://qiita.com/dseg/items/32807a9305801f2d430c> を見て、AURのパッケージ更新をしてみたのですが、\n\n`makepkg -s` したあとにできるローカルファイル（ソースを引っ張ってきてコンパイルしたやつらとか）ってコミットしてプッシュしたりしませんよね……？",
-      "user": "UAPRYSVPS",
+      "user": "vermilion928",
       "ts": "1593095347.101900",
       "team": "T0GFBAM8C",
       "edited": {
-        "user": "UAPRYSVPS",
+        "user": "vermilion928",
         "ts": "1593095438.000000"
       },
       "attachments": [
@@ -882,21 +882,21 @@
       "type": "message",
       "subtype": "channel_join",
       "ts": "1593002796.100900",
-      "user": "U015XHP3NPP",
-      "text": "<@U015XHP3NPP>さんがチャンネルに参加しました"
+      "user": "hyrodium",
+      "text": "<@hyrodium>さんがチャンネルに参加しました"
     },
     {
       "type": "message",
       "subtype": "channel_join",
       "ts": "1592496478.100700",
-      "user": "U0157SGD26B",
-      "text": "<@U0157SGD26B>さんがチャンネルに参加しました"
+      "user": "kurihara.hirokazu",
+      "text": "<@kurihara.hirokazu>さんがチャンネルに参加しました"
     },
     {
       "client_msg_id": "f0b841a5-2442-4760-b21e-53bf84a1616b",
       "type": "message",
       "text": "あー、なるほど。その手があった。",
-      "user": "USLL50J1M",
+      "user": "vikke.bsd",
       "ts": "1592299300.100500",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -921,7 +921,7 @@
       "client_msg_id": "440967a2-9f1d-412c-b14d-83e224d8a740",
       "type": "message",
       "text": "mysql5.7 を docker にするとかかな…",
-      "user": "U0PM6EYR1",
+      "user": "raa0121",
       "ts": "1592299284.100200",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -946,7 +946,7 @@
       "client_msg_id": "b1897d07-90df-4474-8d9e-f9e7ddca0d38",
       "type": "message",
       "text": "どうせ出し入れしているclientだし、server 5.7だけど、client, mariaにしちゃおうかしら。mysqldumpが確かwarning出るけど。",
-      "user": "USLL50J1M",
+      "user": "vikke.bsd",
       "ts": "1592299283.100100",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -971,7 +971,7 @@
       "client_msg_id": "448a0dd7-fa4a-400b-8efa-b6f71ab0b8db",
       "type": "message",
       "text": "<https://www.archlinux.org/packages/extra/x86_64/mysql-python/>\nこいつが依存してるのか…",
-      "user": "U0PM6EYR1",
+      "user": "raa0121",
       "ts": "1592299180.098300",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -1000,7 +1000,7 @@
       "client_msg_id": "8ce40577-e79f-482f-a474-e6b4731899fb",
       "type": "message",
       "text": "mysql5.7が使っているaur/libmysqlclient57 と、community/mysql-workbenchが使っているmariadb-libs が衝突しているのですが、これ、両方入れる方法って無いですかね?\nmysql5.7も使いたい。mysql workbenchも使いたい。",
-      "user": "USLL50J1M",
+      "user": "vikke.bsd",
       "ts": "1592298876.098000",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -1025,21 +1025,21 @@
       "type": "message",
       "subtype": "channel_join",
       "ts": "1592172564.096300",
-      "user": "U015BTHTYCD",
-      "text": "<@U015BTHTYCD>さんがチャンネルに参加しました"
+      "user": "shinsuke.kami",
+      "text": "<@shinsuke.kami>さんがチャンネルに参加しました"
     },
     {
       "type": "message",
       "subtype": "channel_join",
       "ts": "1592053761.096100",
-      "user": "U015CDRQDD0",
-      "text": "<@U015CDRQDD0>さんがチャンネルに参加しました"
+      "user": "v3rn3j",
+      "text": "<@v3rn3j>さんがチャンネルに参加しました"
     },
     {
       "client_msg_id": "b58c8656-eb9a-4866-8c1c-17994d8e68d4",
       "type": "message",
       "text": "`fcitx-mozc-neologd-ut` のビルドが通らないんですがこれ僕だけですかね……？\n今朝になってPC再起動したらいきなり日本語入力できなくなって焦りました\nとりあえず `fcitx-mozc` 入れて凌いでますが",
-      "user": "UVB7L4CKH",
+      "user": "tatsumigamou",
       "ts": "1591146370.095100",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -1082,7 +1082,7 @@
       "client_msg_id": "2a28c8b4-68be-4a13-9887-5bcb9c97ffe7",
       "type": "message",
       "text": "`yay -S networkmanager-l2tp libreswan` して、設定したら、サクッと動いた。この構成、さっきも試してだめだったのに、なんだったのか。",
-      "user": "USLL50J1M",
+      "user": "vikke.bsd",
       "ts": "1591096670.093200",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -1114,7 +1114,7 @@
       "client_msg_id": "cc88e425-00eb-45ce-8888-d4570ce44b63",
       "type": "message",
       "text": "もし実際のipだとすると、dhcpと相性最悪ですね",
-      "user": "USLL50J1M",
+      "user": "vikke.bsd",
       "ts": "1591094847.092100",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -1139,7 +1139,7 @@
       "client_msg_id": "42e45ffe-1cd9-4213-a79f-14c6244e837b",
       "type": "message",
       "text": "```vikke@ichiro:/var/run/xl2tpd\n$ systemctl start openswan\n\nvikke@ichiro:/var/run/xl2tpd\n$  systemctl start xl2tpd\n\nvikke@ichiro:/var/run/xl2tpd\n$ ipsec auto --up L2TP-PSK\nwhack: no right to communicate with pluto (access(\"/var/run/pluto/pluto.ctl\"))```\n",
-      "user": "USLL50J1M",
+      "user": "vikke.bsd",
       "ts": "1591094795.091700",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -1168,7 +1168,7 @@
       "client_msg_id": "a144ffa5-5f28-420a-ac68-8a3308c26a81",
       "type": "message",
       "text": "やっぱりそうなんですかねー。わかりづらい。",
-      "user": "USLL50J1M",
+      "user": "vikke.bsd",
       "ts": "1591094761.091300",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -1193,7 +1193,7 @@
       "client_msg_id": "200f4a24-04ab-4df1-bde6-15a3a7bae143",
       "type": "message",
       "text": "実際のipっぽいですねー",
-      "user": "UUWBU08TU",
+      "user": "nyaarch64",
       "ts": "1591094430.090600",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -1218,7 +1218,7 @@
       "client_msg_id": "548a4c36-0870-4520-9be2-9487d735930d",
       "type": "message",
       "text": "このドキュメント、ファイルのパーミッションを何にするかがあやふやでやりづらい。",
-      "user": "USLL50J1M",
+      "user": "vikke.bsd",
       "ts": "1591094153.090300",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -1243,7 +1243,7 @@
       "client_msg_id": "2adf2cc6-e9b8-4e1b-a388-22c0ba3d01ee",
       "type": "message",
       "text": "%anyは実際のipを入れるのか、%anyで良いのか。",
-      "user": "USLL50J1M",
+      "user": "vikke.bsd",
       "ts": "1591093743.089800",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -1268,7 +1268,7 @@
       "client_msg_id": "9ee829ee-b59b-4212-89b9-8f7f62b966b6",
       "type": "message",
       "text": "```$ ipsec verify\nChecking if IPsec got installed and started correctly:\n\nVersion check and ipsec on-path                         [OK]\nOpenswan U/K5.6.15-arch1-1 (netkey)\nSee `ipsec --copyright' for copyright information.\nChecking for IPsec support in kernel                    [OK]\n NETKEY: Testing XFRM related proc values\n         ICMP default/send_redirects                    [NOT DISABLED]\n\n  Disable /proc/sys/net/ipv4/conf/*/send_redirects or NETKEY will cause act on or cause sending of bogus ICMP redirects!\n\n         ICMP default/accept_redirects                  [NOT DISABLED]\n\n  Disable /proc/sys/net/ipv4/conf/*/accept_redirects or NETKEY will cause act on or cause sending of bogus ICMP redirects!\n\n         XFRM larval drop                               [OK]\nHardware random device check                            [N/A]\nTwo or more interfaces found, checking IP forwarding    [FAILED]\nChecking rp_filter                                      [OK]\nChecking that pluto is running                          [OK]\n Pluto listening for IKE on udp 500                     [OK]\n Pluto listening for IKE on tcp 500                     [NOT IMPLEMENTED]\n Pluto listening for IKE/NAT-T on udp 4500              [OK]\n Pluto listening for IKE/NAT-T on tcp 4500              [NOT IMPLEMENTED]\n Pluto listening for IKE on tcp 10000 (cisco)           [NOT IMPLEMENTED]\nChecking NAT and MASQUERADEing                          [TEST INCOMPLETE]\nChecking 'ip' command                                   [OK]\nChecking 'iptables' command                             [OK]\n\nipsec verify: encountered errors```\nこんなん出ました。\n`Two or more interfaces found, checking IP forwarding ` これか。",
-      "user": "USLL50J1M",
+      "user": "vikke.bsd",
       "ts": "1591093566.089300",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -1302,11 +1302,11 @@
       "client_msg_id": "f267b3ed-1738-4972-a35f-39a45d1e5c61",
       "type": "message",
       "text": "L2TP/IPsecのクライアントを作ろうとしているんだけど、詰まってます。\n<https://wiki.archlinux.jp/index.php/Openswan_L2TP/IPsec_VPN_%E3%82%AF%E3%83%A9%E3%82%A4%E3%82%A2%E3%83%B3%E3%83%88%E8%A8%AD%E5%AE%9A>\nに沿ってやってるのですが、\n```$ ipsec auto --add L2TP-PSK\nconnect(pluto_ctl) failed: Permission denied ```\nとなります。\n変更したのは、このページの `/etc/ipsec.conf` をベースに、%anyを自分のinterfaceに振られたipに変更。rightをVPNサーバーのipへ変更。\n```plutoopts=\"--interface=eth0```\nをwlp0s20f3へ変更。\nな感じです。\n\nこの状態で、\n```$ ipsec auto --add L2TP-PSK\nconnect(pluto_ctl) failed: Permission denied\n\n$ sudo ipsec auto --add L2TP-PSK\n[sudo] vikke のパスワード:\n002 \"L2TP-PSK\": deleting connection\n002 adding connection: \"L2TP-PSK\"```\nになります。\nドキュメントを見ると一般ユーザーで問題無さげなのにエラーが出ます。\n\nだれかアドバイスお願いします。",
-      "user": "USLL50J1M",
+      "user": "vikke.bsd",
       "ts": "1591093130.087400",
       "team": "T0GFBAM8C",
       "edited": {
-        "user": "USLL50J1M",
+        "user": "vikke.bsd",
         "ts": "1591093338.000000"
       },
       "blocks": [

@@ -7,7 +7,7 @@
       "client_msg_id": "d72e42c0-0c05-4322-af15-9dce02099d99",
       "type": "message",
       "text": "一応yayはAUR用って棲み分けでもしてるんじゃないかなって予想",
-      "user": "U017BNGTHT3",
+      "user": "s5is",
       "ts": "1605184997.106200",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -32,11 +32,11 @@
       "client_msg_id": "f19097e0-f9ea-4f6a-8704-7a34be665242",
       "type": "message",
       "text": "どうしてTUはAURでかなりの人気度を誇っている`yay`を`community`リポジトリに移動しないのでしょうか？\n何か特別な理由があるんでしょうか？日本人のTUがいたら他のTUに提案してほしいのですが",
-      "user": "UP57VNN6T",
+      "user": "shun819.mail",
       "ts": "1605184794.105100",
       "team": "T0GFBAM8C",
       "edited": {
-        "user": "UP57VNN6T",
+        "user": "shun819.mail",
         "ts": "1605184854.000000"
       },
       "blocks": [
@@ -82,7 +82,7 @@
         {
           "name": "wakaru",
           "users": [
-            "U70QDFN82",
+            "yutakatay",
             "U01HE1ENNJZ"
           ],
           "count": 2
@@ -93,14 +93,14 @@
       "type": "message",
       "subtype": "channel_join",
       "ts": "1605158246.104200",
-      "user": "U01F9A79ZEC",
-      "text": "<@U01F9A79ZEC>さんがチャンネルに参加しました"
+      "user": "takahashi",
+      "text": "<@takahashi>さんがチャンネルに参加しました"
     },
     {
       "client_msg_id": "65845801-eaba-4d19-8dae-f6c69f8d47a4",
       "type": "message",
       "text": "`journalctl -b`してみたら\ngdmに関係ありそうなエラーはこのようなものがありました\n`failed to set screen _ICC_PROFILE: ファイル\"/var/lib/gdm/.local/share/icc/edid-aafbbbf9007ec8a8f195510fb63e9c67.icc\"を開くのに失敗しました: 許可がありません`",
-      "user": "U019C7VLZ4G",
+      "user": "getalotofmail",
       "ts": "1605107570.104000",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -132,11 +132,11 @@
       "client_msg_id": "3c0071e8-2604-4562-9bc0-d37c10ba7e47",
       "type": "message",
       "text": "私も半年〜２ヶ月くらい前たまにその状態になってましたね。。。最近はそういえばなくなった？気がします。\njournalctlみたりとかしてああだこうだしましたけど原因はわからず・・・ちなみに私はlightdmでした。",
-      "user": "U70QDFN82",
+      "user": "yutakatay",
       "ts": "1605106603.102300",
       "team": "T0GFBAM8C",
       "edited": {
-        "user": "U70QDFN82",
+        "user": "yutakatay",
         "ts": "1605106694.000000"
       },
       "blocks": [
@@ -161,11 +161,11 @@
       "client_msg_id": "0f265efe-97be-47bf-bf93-5a318de7f1aa",
       "type": "message",
       "text": "この現象は「*たまに*」発生します(毎回ではない)\nただうまくgdmが起動するときは\nなぜかx11で起動しているようなので、waylandに何か問題があるような気がしています...",
-      "user": "U019C7VLZ4G",
+      "user": "getalotofmail",
       "ts": "1605105626.100700",
       "team": "T0GFBAM8C",
       "edited": {
-        "user": "U019C7VLZ4G",
+        "user": "getalotofmail",
         "ts": "1605105651.000000"
       },
       "blocks": [
@@ -201,11 +201,11 @@
       "client_msg_id": "c9ca31a7-e243-4832-92bb-035af058f3b0",
       "type": "message",
       "text": "前々から発生しているのですが\n*たまに*Archを起動してもgdmが起動せず、黒い画面の端にカーソルが点滅している画面になってしまいます。ctrl-alt-f1を押すとgdmが起動できるのですがいちいちそんなことをするのは面倒です\nどうすれば毎回きちんとgdmが起動するようにできるでしょうか?",
-      "user": "U019C7VLZ4G",
+      "user": "getalotofmail",
       "ts": "1605105370.097600",
       "team": "T0GFBAM8C",
       "edited": {
-        "user": "U019C7VLZ4G",
+        "user": "getalotofmail",
         "ts": "1605105414.000000"
       },
       "blocks": [
@@ -241,7 +241,7 @@
       "client_msg_id": "a210a57e-2354-4f91-b3ae-28719c9556c1",
       "type": "message",
       "text": "入れられないですね。入れ替えても元に戻せるので、設定（~/.config/fcitx）だけ一応退避して試すのがいいと思います。",
-      "user": "U70QDFN82",
+      "user": "yutakatay",
       "ts": "1605058694.094300",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -266,7 +266,7 @@
       "client_msg_id": "f83f3b8a-5892-4f72-bc8d-ff73a6ed936d",
       "type": "message",
       "text": "遊びたいけど既存のfcitx-mozcとconflictしちゃうからpacmanで両方同時には入れられない?",
-      "user": "U019C7VLZ4G",
+      "user": "getalotofmail",
       "ts": "1605058328.092800",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -291,7 +291,7 @@
       "client_msg_id": "34cc648f-7cda-430c-b6d1-8b39b574025d",
       "type": "message",
       "text": "Luaでかけるなら遊んでみたい",
-      "user": "U8T8KB5M4",
+      "user": "h.hata.ai.t",
       "ts": "1605011010.088700",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -316,7 +316,7 @@
       "client_msg_id": "2c969326-ebe7-4385-bcf6-9eed427ceb13",
       "type": "message",
       "text": "遊べそう？\n気が向いたら見てみようかな",
-      "user": "UGA29R3FH",
+      "user": "znmxodq1",
       "ts": "1605002667.088200",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -341,7 +341,7 @@
       "client_msg_id": "9e711845-f9c7-46de-9e40-aebc76f9de8f",
       "type": "message",
       "text": "fcitx5 の方には lua support が入ってて、気軽に自作の IME を作れるようになってる気配があります(IMEを作ることが気軽かは謎ですが)",
-      "user": "UUGUHGBFH",
+      "user": "tokuhirom",
       "ts": "1604999908.087600",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -365,9 +365,9 @@
         {
           "name": "benri",
           "users": [
-            "UGA29R3FH",
-            "U019C7VLZ4G",
-            "U53RAQBCP",
+            "znmxodq1",
+            "getalotofmail",
+            "kokopis",
             "U01C9EE40KB"
           ],
           "count": 4
@@ -378,7 +378,7 @@
       "client_msg_id": "0389d7bf-e1a9-4e68-b827-625478e36bc7",
       "type": "message",
       "text": "mozcの方も開発再開してからの新しいversionが使えるようになってますね",
-      "user": "U019C7VLZ4G",
+      "user": "getalotofmail",
       "ts": "1604998255.086700",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -403,14 +403,14 @@
       "type": "message",
       "subtype": "channel_join",
       "ts": "1604995690.085200",
-      "user": "U01E6NN1WRL",
-      "text": "<@U01E6NN1WRL>さんがチャンネルに参加しました"
+      "user": "tgw314",
+      "text": "<@tgw314>さんがチャンネルに参加しました"
     },
     {
       "client_msg_id": "da166118-216c-469a-a299-b1eb29ce9438",
       "type": "message",
       "text": "fcitx5 は結構、コードベースが違うっぽいですけど、利用者観点からだと違いはあんまわからないかも。。",
-      "user": "UUGUHGBFH",
+      "user": "tokuhirom",
       "ts": "1604994110.085000",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -435,7 +435,7 @@
       "client_msg_id": "bf0ac379-8bad-4ed4-a2fc-08599a467bd2",
       "type": "message",
       "text": "前に一回使ったときは普通に使えてたけど、特に新規ななにかとかなかったので戻りました",
-      "user": "U70QDFN82",
+      "user": "yutakatay",
       "ts": "1604992300.084300",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -460,7 +460,7 @@
       "client_msg_id": "58ab9345-8d59-43bc-a861-0982b235e294",
       "type": "message",
       "text": "なるほど",
-      "user": "U0GFBAM8U",
+      "user": "syui",
       "ts": "1604992282.083900",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -485,7 +485,7 @@
       "client_msg_id": "9cf66e77-8834-4f70-9ea4-ee4416581679",
       "type": "message",
       "text": "fcitx5はまだ正式リリースされてないやつですね。",
-      "user": "U70QDFN82",
+      "user": "yutakatay",
       "ts": "1604992255.083200",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -510,7 +510,7 @@
       "client_msg_id": "033cf5b6-d665-4ccd-85ab-901865318ecb",
       "type": "message",
       "text": "名前からしてバージョン違いとかかなあ",
-      "user": "U0GFBAM8U",
+      "user": "syui",
       "ts": "1604992100.082700",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -535,7 +535,7 @@
       "client_msg_id": "4881a612-e007-4a47-8bd1-f760e8be6ddf",
       "type": "message",
       "text": "わざわざパッケージが分かれてるということは別物の可能性",
-      "user": "U0GFBAM8U",
+      "user": "syui",
       "ts": "1604992068.082400",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -560,7 +560,7 @@
       "client_msg_id": "c6e1c8d6-ec58-48b2-81a6-42e0ab1e0ed6",
       "type": "message",
       "text": "fcitx5-mozcとfcitx-mozcは別物？",
-      "user": "U019C7VLZ4G",
+      "user": "getalotofmail",
       "ts": "1604992003.082000",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -585,7 +585,7 @@
       "client_msg_id": "59446d86-0b0f-4776-bc8b-22c9fa15d90b",
       "type": "message",
       "text": "くるかもPython3.9",
-      "user": "U019C7VLZ4G",
+      "user": "getalotofmail",
       "ts": "1604965186.080200",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -610,7 +610,7 @@
       "client_msg_id": "24ecd371-a063-482f-bc19-5468aff6f97d",
       "type": "message",
       "text": "お?\n<https://twitter.com/felixonmars/status/1325746001836040192?s=19|https://twitter.com/felixonmars/status/1325746001836040192?s=19>",
-      "user": "U019C7VLZ4G",
+      "user": "getalotofmail",
       "ts": "1604965165.079700",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -639,9 +639,9 @@
         {
           "name": "+1",
           "users": [
-            "U70QDFN82",
+            "yutakatay",
             "UD124KPDJ",
-            "U017BNGTHT3",
+            "s5is",
             "UDXN1QU2U"
           ],
           "count": 4
@@ -652,7 +652,7 @@
       "client_msg_id": "e5faa657-42c9-44b1-8b90-78e740e6b3a6",
       "type": "message",
       "text": "久し振りに見てみたら、forum とか bug-report を見る限りだと nVidia driver の linux5.9 への不整合性は nvidia 455.38 になって解消されたっぽいですね",
-      "user": "UPYQ3CUJ1",
+      "user": "shota.af083",
       "ts": "1604898918.077700",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -676,19 +676,19 @@
         {
           "name": "+1",
           "users": [
-            "U019C7VLZ4G",
-            "U53RAQBCP",
+            "getalotofmail",
+            "kokopis",
             "U01235G2K26",
-            "UGA29R3FH",
-            "UJ7P75WB1"
+            "znmxodq1",
+            "motoi.railgun"
           ],
           "count": 5
         },
         {
           "name": "heavy_check_mark",
           "users": [
-            "U53RAQBCP",
-            "UGA29R3FH"
+            "kokopis",
+            "znmxodq1"
           ],
           "count": 2
         }
@@ -698,11 +698,11 @@
       "client_msg_id": "6ae591ec-b5c9-47cf-b278-1d102f1169e4",
       "type": "message",
       "text": "上記ツイートのリプとか見てると\nわかってはいたけどローリングリリースって無理ゲーなのではと思わざるを得ない🥺🥺🥺",
-      "user": "U019C7VLZ4G",
+      "user": "getalotofmail",
       "ts": "1604714071.073600",
       "team": "T0GFBAM8C",
       "edited": {
-        "user": "U019C7VLZ4G",
+        "user": "getalotofmail",
         "ts": "1604714103.000000"
       },
       "blocks": [
@@ -727,11 +727,11 @@
       "client_msg_id": "1cfdcf28-4e94-49c7-9d5e-047e61ce5789",
       "type": "message",
       "text": "LLVMもいまだに10だし、\n本当にローリングリリース使いたかったらOpenSUSE Tumbleweedのほうが良さそう",
-      "user": "U019C7VLZ4G",
+      "user": "getalotofmail",
       "ts": "1604713349.072000",
       "team": "T0GFBAM8C",
       "edited": {
-        "user": "U019C7VLZ4G",
+        "user": "getalotofmail",
         "ts": "1604713488.000000"
       },
       "blocks": [
@@ -756,7 +756,7 @@
       "client_msg_id": "851b8514-88aa-4ba9-8acd-54f1716f10ac",
       "type": "message",
       "text": "Python3.9来ないかもｼﾚﾅｲ:sob: :sob: :sob: :sob: :sob:\n<https://twitter.com/felixonmars/status/1319551609865703430?s=19|https://twitter.com/felixonmars/status/1319551609865703430?s=19>",
-      "user": "U019C7VLZ4G",
+      "user": "getalotofmail",
       "ts": "1604710839.069900",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -830,9 +830,9 @@
         {
           "name": "open_mouth",
           "users": [
-            "U70QDFN82",
+            "yutakatay",
             "UD124KPDJ",
-            "U53RAQBCP"
+            "kokopis"
           ],
           "count": 3
         }
@@ -842,7 +842,7 @@
       "client_msg_id": "109807ba-46ff-45d5-a43e-d30d8004e906",
       "type": "message",
       "text": "やったね",
-      "user": "UGA29R3FH",
+      "user": "znmxodq1",
       "ts": "1604703447.068100",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -866,13 +866,13 @@
         {
           "name": "tada",
           "users": [
-            "U53RAQBCP",
-            "U0GFBAM8U",
+            "kokopis",
+            "syui",
             "UU9BLM0TA",
             "UD124KPDJ",
             "U0187SHUN1Z",
             "UVB7L4CKH",
-            "U70QDFN82",
+            "yutakatay",
             "U3FJYR7MG",
             "UUFDAQW1E",
             "UQK4T373M"
@@ -885,7 +885,7 @@
       "client_msg_id": "09ae511e-1ec5-406a-b39c-fd97ffd5598f",
       "type": "message",
       "text": "pacmanがエラー吐いてきて、よく見たらvivaldiが公式リポジトリに入ってた",
-      "user": "UGA29R3FH",
+      "user": "znmxodq1",
       "ts": "1604703440.067700",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -910,7 +910,7 @@
       "client_msg_id": "d5ffc503-cc55-472c-991c-674066e0d0de",
       "type": "message",
       "text": "まぁ、0と9はキーボード(not テンキー)で隣だから、仕方ないですね",
-      "user": "U0PM6EYR1",
+      "user": "raa0121",
       "ts": "1604587452.067300",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -935,7 +935,7 @@
       "client_msg_id": "3ad95a20-406f-4ad0-a10c-a21e4bcc3a0f",
       "type": "message",
       "text": "3.0じゃなくて3.9です(過去にタイムスリップしていたw:watch:",
-      "user": "U019C7VLZ4G",
+      "user": "getalotofmail",
       "ts": "1604585858.066700",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -965,7 +965,7 @@
       "client_msg_id": "3b880346-c692-44e6-9ba6-23af41629fa4",
       "type": "message",
       "text": "Windows9みたいな",
-      "user": "U017BNGTHT3",
+      "user": "s5is",
       "ts": "1604585110.064900",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -990,7 +990,7 @@
       "client_msg_id": "bb022f9a-ff5e-4390-baa8-07a6cff920eb",
       "type": "message",
       "text": "飛ぶパターンもありますしね。君のところの世界線ではPython4が存在したのか！ってやつ",
-      "user": "U70QDFN82",
+      "user": "yutakatay",
       "ts": "1604584986.064000",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -1015,11 +1015,11 @@
       "client_msg_id": "6FA70D5A-AAB8-4A6F-A50D-398B64FD6562",
       "type": "message",
       "text": "全てが4.xになるまでに2050年ぐらいになってそう",
-      "user": "U53RAQBCP",
+      "user": "kokopis",
       "ts": "1604584921.063200",
       "team": "T0GFBAM8C",
       "edited": {
-        "user": "U53RAQBCP",
+        "user": "kokopis",
         "ts": "1604584934.000000"
       },
       "blocks": [
@@ -1044,7 +1044,7 @@
       "client_msg_id": "5226a65f-29cc-477f-a989-cf5090c9f3b7",
       "type": "message",
       "text": "未来人来た",
-      "user": "U70QDFN82",
+      "user": "yutakatay",
       "ts": "1604584743.062700",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -1069,7 +1069,7 @@
       "client_msg_id": "20fd00e4-171c-48c8-bd76-5d2f41959b09",
       "type": "message",
       "text": "4.0 が来るかもしれない！(ぇ",
-      "user": "U0PM6EYR1",
+      "user": "raa0121",
       "ts": "1604584732.062400",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -1094,7 +1094,7 @@
       "client_msg_id": "24b7f901-70f5-4b04-b6c1-98b24c761079",
       "type": "message",
       "text": "3.9ですかねwそれともタイムリープしてる？",
-      "user": "U70QDFN82",
+      "user": "yutakatay",
       "ts": "1604584558.061800",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -1118,7 +1118,7 @@
         {
           "name": "boom",
           "users": [
-            "U53RAQBCP"
+            "kokopis"
           ],
           "count": 1
         }
@@ -1128,7 +1128,7 @@
       "client_msg_id": "0f474d1b-277f-4c7c-97a2-5a7f12ce7800",
       "type": "message",
       "text": "なんか最近Python関連のパッケージが軒並みUpdateされているのでそろそろ3.0がくるかと思っている",
-      "user": "U019C7VLZ4G",
+      "user": "getalotofmail",
       "ts": "1604584414.060000",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -1152,7 +1152,7 @@
         {
           "name": "eyes",
           "users": [
-            "U53RAQBCP"
+            "kokopis"
           ],
           "count": 1
         }
@@ -1162,11 +1162,11 @@
       "client_msg_id": "6e47fb2b-93eb-4c18-a33f-f47cc6b978d9",
       "type": "message",
       "text": "今日諸々のアップデートをしたらKDEのGUIが立ち上がらなくなりました。SDDMのパッケージをダウングレードしたら解決しましたので、もし似たようなトラブルに遭遇された方がいらっしゃったらお試しください。\nカーネルはlinux-zen(最新)、nvidiaプロプライエタリドライバーを使っていて、パスワード無しでログインする設定にしていました。カーネルをlinux-ltsにしても立ち上がらなかったので、恐らくですがnvidiaドライバーの問題では無いかと思います。",
-      "user": "UJ7P75WB1",
+      "user": "motoi.railgun",
       "ts": "1604485040.057300",
       "team": "T0GFBAM8C",
       "edited": {
-        "user": "UJ7P75WB1",
+        "user": "motoi.railgun",
         "ts": "1604583952.000000"
       },
       "blocks": [
@@ -1190,9 +1190,9 @@
         {
           "name": "+1",
           "users": [
-            "U0GFBAM8U",
-            "UGA29R3FH",
-            "U53RAQBCP"
+            "syui",
+            "znmxodq1",
+            "kokopis"
           ],
           "count": 3
         }
@@ -1212,9 +1212,9 @@
         {
           "name": "eyes",
           "users": [
-            "U53RAQBCP",
-            "U017BNGTHT3",
-            "UJ7P75WB1",
+            "kokopis",
+            "s5is",
+            "motoi.railgun",
             "URCKFB3SB"
           ],
           "count": 4
@@ -1225,7 +1225,7 @@
       "client_msg_id": "7f6fa95d-2f25-4049-86bf-68a960255e3d",
       "type": "message",
       "text": "python-testsも3.8.6だしなぁ",
-      "user": "U019C7VLZ4G",
+      "user": "getalotofmail",
       "ts": "1604224431.052100",
       "team": "T0GFBAM8C",
       "blocks": [

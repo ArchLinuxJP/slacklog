@@ -7,14 +7,14 @@
       "type": "message",
       "subtype": "channel_join",
       "ts": "1588250805.235300",
-      "user": "U013J0VJXSL",
-      "text": "<@U013J0VJXSL>さんがチャンネルに参加しました"
+      "user": "toshi",
+      "text": "<@toshi>さんがチャンネルに参加しました"
     },
     {
       "client_msg_id": "ba72bdd3-b206-455c-bf13-9e69f43eb325",
       "type": "message",
       "text": "あれ？そうなんですね。昨日初めて気がついた。ありがとうございます！",
-      "user": "U70QDFN82",
+      "user": "yutakatay",
       "ts": "1588110358.235000",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -39,7 +39,7 @@
       "client_msg_id": "e260e3a0-324d-4426-8f5c-0b9c85ca375a",
       "type": "message",
       "text": "なんか他に解決方法あったら知りたい",
-      "user": "U257W41DW",
+      "user": "odknt",
       "ts": "1588100030.234900",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -64,7 +64,7 @@
       "client_msg_id": "7eddf10f-4397-455e-8166-4f50ec543694",
       "type": "message",
       "text": "だいぶ前からありますね。私はこれで対処してます。\n```autocmd VimLeave * call system(\"xclip -sel c\", getreg('+'))```",
-      "user": "U257W41DW",
+      "user": "odknt",
       "ts": "1588100011.234500",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -98,7 +98,7 @@
       "client_msg_id": "55d44674-4b42-4790-ac24-ae8111322315",
       "type": "message",
       "text": "swayではおこってないのでXっぽい",
-      "user": "U70QDFN82",
+      "user": "yutakatay",
       "ts": "1588081996.234100",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -123,7 +123,7 @@
       "client_msg_id": "9aaaec35-9a09-46e3-a15e-4d3468370376",
       "type": "message",
       "text": "i3wmでvimに `set clipboard=unnamedplus,unnamed` を設定した状態でvimを終了するとOSのクリップボードに保存した結果がなぜかクリアされる事象に出くわしてます。。。おま環の可能性あるので誰か追試をお願いします :bow:\n\n1. `vim -u NONE README.md`\n2. `:set clipboard=unnamedplus,unnamed`\n3. `yy` で適当にコピー\n4. vimを閉じる\n5. コピーしたものがOSのクリップボードに保存されているはずだからそれをどこか別の場所にペースト\n6. ペーストできなければ再現 :tada:",
-      "user": "U70QDFN82",
+      "user": "yutakatay",
       "ts": "1588081979.233800",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -206,7 +206,7 @@
       "client_msg_id": "852ec29a-cedf-437e-b796-64609443b7c7",
       "type": "message",
       "text": "了解です",
-      "user": "U7NBCFT1S",
+      "user": "no97yuu",
       "ts": "1587962299.231600",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -231,7 +231,7 @@
       "client_msg_id": "b81a1554-474a-444a-863c-fb510ef069b9",
       "type": "message",
       "text": "wikiとフォーラムは生きてますがそれ以外が落ちてますね",
-      "user": "UUWBU08TU",
+      "user": "nyaarch64",
       "ts": "1587962246.231400",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -256,7 +256,7 @@
       "client_msg_id": "59fe5db5-7b1e-40fa-91bb-7fd7e17def40",
       "type": "message",
       "text": "Wiki落ちました？",
-      "user": "U7NBCFT1S",
+      "user": "no97yuu",
       "ts": "1587962161.230400",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -281,14 +281,14 @@
       "type": "message",
       "subtype": "thread_broadcast",
       "text": "これまだちょいちょい発生しますね。。。前よりも移動範囲がせまくなってますが。。。",
-      "user": "U70QDFN82",
+      "user": "yutakatay",
       "ts": "1587953140.229000",
       "thread_ts": "1587613691.203000",
       "root": {
         "client_msg_id": "865ec75b-0816-44de-a4c9-071cdd1fe55b",
         "type": "message",
         "text": "カーソルがある地点を目指して自動で進んでいくんですよねw そこに到達するまでカーソルのコントロールができなくなりますw\n\nさっきカーネルの更新したら今のところ発生しなくなりましたね。",
-        "user": "U70QDFN82",
+        "user": "yutakatay",
         "ts": "1587613691.203000",
         "team": "T0GFBAM8C",
         "blocks": [
@@ -313,7 +313,7 @@
         "reply_users_count": 2,
         "latest_reply": "1589336698.276700",
         "reply_users": [
-          "U70QDFN82",
+          "yutakatay",
           "U6Y9PK6DB"
         ],
         "is_locked": false,
@@ -342,7 +342,7 @@
       "client_msg_id": "250a3bb1-5b9c-4843-b0c9-b18818bdf890",
       "type": "message",
       "text": "気になってtcshを調べてみたらバグってる雰囲気ですね。sh.cの182行目でenのカタログを調べてますが、インストールされてません。Cからenにロケールをコピーするか、ソースをCに直して再コンパイルでしょうか。BSD系で動く理由を調べたらsend-prしとくかな。",
-      "user": "U010H0W5B7E",
+      "user": "kiyotakatheblack",
       "ts": "1587874334.228700",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -366,8 +366,8 @@
         {
           "name": "raised_hands",
           "users": [
-            "UUWBU08TU",
-            "U53RAQBCP"
+            "nyaarch64",
+            "kokopis"
           ],
           "count": 2
         }
@@ -377,14 +377,14 @@
       "type": "message",
       "subtype": "channel_join",
       "ts": "1587719037.223500",
-      "user": "U01294B2SMC",
-      "text": "<@U01294B2SMC>さんがチャンネルに参加しました"
+      "user": "sergioechigo5010",
+      "text": "<@sergioechigo5010>さんがチャンネルに参加しました"
     },
     {
       "client_msg_id": "3d3dae2c-89f3-4400-8b51-ee2d592c3d84",
       "type": "message",
       "text": "インストールは可能でしたが、なんとなく気持ち悪いので質問してみました。\nありがとうございます。",
-      "user": "U7NBCFT1S",
+      "user": "no97yuu",
       "ts": "1587703449.223200",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -408,7 +408,7 @@
         {
           "name": "raised_hands",
           "users": [
-            "UUWBU08TU"
+            "nyaarch64"
           ],
           "count": 1
         }
@@ -418,7 +418,7 @@
       "client_msg_id": "9d1a5665-6798-41d2-b5ee-ed80284fa767",
       "type": "message",
       "text": "あ、 <https://bugs.archlinux.org/task/62709|https://bugs.archlinux.org/task/62709> ですね default library を入れるという話のようです",
-      "user": "UUWBU08TU",
+      "user": "nyaarch64",
       "ts": "1587702986.222700",
       "team": "T0GFBAM8C",
       "attachments": [
@@ -465,7 +465,7 @@
       "client_msg_id": "69c51e36-3607-4482-a837-66f0398ea7c3",
       "type": "message",
       "text": "ruby-irb に依存してるのはちょっと謎……と思ったけどlog見ると過去にirb同梱してた(？)っぽいですね",
-      "user": "UUWBU08TU",
+      "user": "nyaarch64",
       "ts": "1587702899.221300",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -490,7 +490,7 @@
       "client_msg_id": "13339526-02e6-4e41-aa31-3b62d21f4e4d",
       "type": "message",
       "text": "同意見です(本当に循環した依存が必要か調べた方がいいのはそうなんでしょうけど)",
-      "user": "UUWBU08TU",
+      "user": "nyaarch64",
       "ts": "1587702728.220200",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -515,7 +515,7 @@
       "client_msg_id": "6fda3ae1-599c-436b-bd80-e7ea22c1c21e",
       "type": "message",
       "text": "インストール可能であれば問題ないと思う",
-      "user": "UGA29R3FH",
+      "user": "znmxodq1",
       "ts": "1587702520.217700",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -540,7 +540,7 @@
       "client_msg_id": "85dab133-58aa-4ded-bf27-62f0e8d6af4a",
       "type": "message",
       "text": "循環参照普通に出るような",
-      "user": "UGA29R3FH",
+      "user": "znmxodq1",
       "ts": "1587702491.216700",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -565,7 +565,7 @@
       "client_msg_id": "87544fc8-e0a1-40cd-a5ae-a63b6008bbd8",
       "type": "message",
       "text": "はい。\n```pacman　-S ruby ```\nです。",
-      "user": "U7NBCFT1S",
+      "user": "no97yuu",
       "ts": "1587702455.216100",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -608,7 +608,7 @@
       "client_msg_id": "4ad8f05b-4f9d-4de5-8ebb-8f5a989e9692",
       "type": "message",
       "text": "pacman での更新時ですか？",
-      "user": "UUWBU08TU",
+      "user": "nyaarch64",
       "ts": "1587696689.215400",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -633,7 +633,7 @@
       "client_msg_id": "98674f2e-41d2-4341-921b-7ce3b4197712",
       "type": "message",
       "text": "rubyのパッケージに循環参照が出てますけれども、これはバグですか？",
-      "user": "U7NBCFT1S",
+      "user": "no97yuu",
       "ts": "1587696658.214800",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -658,7 +658,7 @@
       "client_msg_id": "ffa2d671-9327-4df5-9ed5-bd585bb1b3e6",
       "type": "message",
       "text": "了解です",
-      "user": "ULLF46EL9",
+      "user": "tsubokuru_slack",
       "ts": "1587693553.214400",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -683,7 +683,7 @@
       "client_msg_id": "c41e05f0-a42f-4bb3-83d0-96f0095e7ceb",
       "type": "message",
       "text": "さすがにz/OSの話かな……と思ったらtcsh(1)のmanページにもkanjiってのを見かけてしまった……(Archのtcshパッケージにはjaロケール含まれてるので大丈夫だとは思いますが……)",
-      "user": "UUWBU08TU",
+      "user": "nyaarch64",
       "ts": "1587693407.214100",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -708,7 +708,7 @@
       "client_msg_id": "1f1bc8d7-4ee2-4b71-8f9b-329a9a7f0b80",
       "type": "message",
       "text": "わお",
-      "user": "ULLF46EL9",
+      "user": "tsubokuru_slack",
       "ts": "1587693308.211600",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -733,7 +733,7 @@
       "client_msg_id": "7cdb6259-f613-4edf-a7e2-899e665e984b",
       "type": "message",
       "text": "<https://www.ibm.com/support/knowledgecenter/en/SSLTBW_2.1.0/com.ibm.zos.v2r1.bpxa400/bpxug97.htm|https://www.ibm.com/support/knowledgecenter/en/SSLTBW_2.1.0/com.ibm.zos.v2r1.bpxa400/bpxug97.htm>\nこれ見てたんですが English, kanji, Simpified Chinese みたいなのを見た気がしてヒエッってなりました",
-      "user": "UUWBU08TU",
+      "user": "nyaarch64",
       "ts": "1587693106.211400",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -763,7 +763,7 @@
       "client_msg_id": "8d62e644-2047-43ce-a8a1-a3ca7222763a",
       "type": "message",
       "text": "やってみます！",
-      "user": "ULLF46EL9",
+      "user": "tsubokuru_slack",
       "ts": "1587692664.209100",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -788,11 +788,11 @@
       "client_msg_id": "f4a890fe-c1fb-4962-807e-b541989a316a",
       "type": "message",
       "text": "情報少なすぎてIBM z/OSのガイドが出てきた……\n`LC_ALL` もセットしてみたらどうでしょう",
-      "user": "UUWBU08TU",
+      "user": "nyaarch64",
       "ts": "1587692553.208500",
       "team": "T0GFBAM8C",
       "edited": {
-        "user": "UUWBU08TU",
+        "user": "nyaarch64",
         "ts": "1587692576.000000"
       },
       "blocks": [
@@ -828,7 +828,7 @@
       "client_msg_id": "47718e53-d7bb-4516-b255-e4b499b4e798",
       "type": "message",
       "text": "最近tcshにシェルを変えたのですが、なぜか言語が英語になっています。tcshだとlocale.confの記述方法が違うのでしょうか？\nWikiもないので困っています。なにか知っている方がいたら教えてください",
-      "user": "ULLF46EL9",
+      "user": "tsubokuru_slack",
       "ts": "1587692027.206300",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -853,8 +853,8 @@
       "reply_users_count": 2,
       "latest_reply": "1587802972.224100",
       "reply_users": [
-        "ULLF46EL9",
-        "UUWBU08TU"
+        "tsubokuru_slack",
+        "nyaarch64"
       ],
       "is_locked": false,
       "subscribed": false
@@ -863,7 +863,7 @@
       "client_msg_id": "50c9a732-4324-492a-a3f0-1cef6fab5778",
       "type": "message",
       "text": "なかまがいた",
-      "user": "U70QDFN82",
+      "user": "yutakatay",
       "ts": "1587634381.204200",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -888,11 +888,11 @@
       "client_msg_id": "949eb255-f2b3-41be-b4cb-ceceb79a2f45",
       "type": "message",
       "text": "それトラックポイントが壊れたんだと思ってた…",
-      "user": "U53RAQBCP",
+      "user": "kokopis",
       "ts": "1587634332.203400",
       "team": "T0GFBAM8C",
       "edited": {
-        "user": "U53RAQBCP",
+        "user": "kokopis",
         "ts": "1587634340.000000"
       },
       "blocks": [
@@ -917,7 +917,7 @@
       "client_msg_id": "865ec75b-0816-44de-a4c9-071cdd1fe55b",
       "type": "message",
       "text": "カーソルがある地点を目指して自動で進んでいくんですよねw そこに到達するまでカーソルのコントロールができなくなりますw\n\nさっきカーネルの更新したら今のところ発生しなくなりましたね。",
-      "user": "U70QDFN82",
+      "user": "yutakatay",
       "ts": "1587613691.203000",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -942,7 +942,7 @@
       "reply_users_count": 2,
       "latest_reply": "1589336698.276700",
       "reply_users": [
-        "U70QDFN82",
+        "yutakatay",
         "U6Y9PK6DB"
       ],
       "is_locked": false,
@@ -952,7 +952,7 @@
       "client_msg_id": "58a37aa8-bd53-4c53-9cb1-1635cdb3aa22",
       "type": "message",
       "text": "どういうことだってばよ",
-      "user": "U8T8KB5M4",
+      "user": "h.hata.ai.t",
       "ts": "1587613186.201100",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -977,11 +977,11 @@
       "client_msg_id": "dcf5117b-dfca-4d61-9273-72cdd890abbc",
       "type": "message",
       "text": "i3wm、Thinkpadですけど最近カーソルがある地点まで勝手にいく事象が発生してますね。。。そこに到達したら直る。左上だったり右下だったり。",
-      "user": "U70QDFN82",
+      "user": "yutakatay",
       "ts": "1587536606.200700",
       "team": "T0GFBAM8C",
       "edited": {
-        "user": "U70QDFN82",
+        "user": "yutakatay",
         "ts": "1587536710.000000"
       },
       "blocks": [
@@ -1005,8 +1005,8 @@
         {
           "name": "face_with_rolling_eyes",
           "users": [
-            "UUWBU08TU",
-            "U53RAQBCP"
+            "nyaarch64",
+            "kokopis"
           ],
           "count": 2
         }
@@ -1016,21 +1016,21 @@
       "type": "message",
       "subtype": "channel_join",
       "ts": "1587448086.200000",
-      "user": "U012DCCBXHA",
-      "text": "<@U012DCCBXHA>さんがチャンネルに参加しました"
+      "user": "okokada.takuya",
+      "text": "<@okokada.takuya>さんがチャンネルに参加しました"
     },
     {
       "type": "message",
       "subtype": "channel_join",
       "ts": "1587387313.199800",
-      "user": "U0125GT9MNX",
-      "text": "<@U0125GT9MNX>さんがチャンネルに参加しました"
+      "user": "naokitq",
+      "text": "<@naokitq>さんがチャンネルに参加しました"
     },
     {
       "client_msg_id": "9e5f4405-850e-48c1-acd2-5a86f160d0de",
       "type": "message",
       "text": "VPN、物理ハードだと3DESしかなかったのもちらほらいましたね…",
-      "user": "U565T848Y",
+      "user": "pasutisu",
       "ts": "1587335052.199400",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -1055,14 +1055,14 @@
       "type": "message",
       "subtype": "channel_join",
       "ts": "1587285022.196600",
-      "user": "U0122E1HMDK",
-      "text": "<@U0122E1HMDK>さんがチャンネルに参加しました"
+      "user": "yoguchi1996",
+      "text": "<@yoguchi1996>さんがチャンネルに参加しました"
     },
     {
       "client_msg_id": "DF098088-5FA4-4FD5-BFF1-246B1A6AB50B",
       "type": "message",
       "text": "こんにちはー",
-      "user": "U0GFBAM8U",
+      "user": "syui",
       "ts": "1587201446.195700",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -1087,7 +1087,7 @@
       "client_msg_id": "194102b0-eb02-4cfc-ae53-8ed0066ac9ea",
       "type": "message",
       "text": "はじめまして。Folding@homeのページの編集をキッカケにこちらにも参加させていただきます。よろしくお願いします。",
-      "user": "U01235G2K26",
+      "user": "kbonehobby",
       "ts": "1587197226.195100",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -1111,10 +1111,10 @@
         {
           "name": "archjp",
           "users": [
-            "UGA29R3FH",
-            "UUWBU08TU",
-            "U53RAQBCP",
-            "U0GFBAM8U",
+            "znmxodq1",
+            "nyaarch64",
+            "kokopis",
+            "syui",
             "U3FJYR7MG",
             "UP795STQS",
             "USJ9Q3WSH",
@@ -1127,14 +1127,14 @@
           "name": "mask",
           "users": [
             "USJ9Q3WSH",
-            "U53RAQBCP"
+            "kokopis"
           ],
           "count": 2
         },
         {
           "name": "microscope",
           "users": [
-            "U53RAQBCP"
+            "kokopis"
           ],
           "count": 1
         }
@@ -1144,28 +1144,28 @@
       "type": "message",
       "subtype": "channel_join",
       "ts": "1587196580.194000",
-      "user": "U01235G2K26",
-      "text": "<@U01235G2K26>さんがチャンネルに参加しました"
+      "user": "kbonehobby",
+      "text": "<@kbonehobby>さんがチャンネルに参加しました"
     },
     {
       "type": "message",
       "subtype": "channel_join",
       "ts": "1587193331.193800",
-      "user": "U012T060D3J",
-      "text": "<@U012T060D3J>さんがチャンネルに参加しました"
+      "user": "kawaemon",
+      "text": "<@kawaemon>さんがチャンネルに参加しました"
     },
     {
       "type": "message",
       "subtype": "channel_join",
       "ts": "1587043094.192900",
-      "user": "U0124TP9HTN",
-      "text": "<@U0124TP9HTN>さんがチャンネルに参加しました"
+      "user": "slimulv1",
+      "text": "<@slimulv1>さんがチャンネルに参加しました"
     },
     {
       "client_msg_id": "c7b917d0-3340-451d-829c-7a316bfc331a",
       "type": "message",
       "text": "昨日VPNで騒いだものです。相手先が古い？ルーターでphase2の使用可能アルゴリズムが古いものだらけだったというのが答えでした。（まあRemoteIDを指定しないといけないとかも有りましたが）。お騒がせしました。",
-      "user": "UGMP1THLJ",
+      "user": "muminn4",
       "ts": "1586977035.191400",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -1189,11 +1189,11 @@
         {
           "name": "tada",
           "users": [
-            "U53RAQBCP",
-            "UCA1NQM5K",
-            "UGA29R3FH",
-            "U8D8C6B0C",
-            "UPL8M8KPT",
+            "kokopis",
+            "angel.beats.kanade.yu",
+            "znmxodq1",
+            "toshiaki",
+            "shuhei.okamoto",
             "UEED0BQ4A",
             "UUD5R0W8G",
             "U4V5UCWT0",
@@ -1207,7 +1207,7 @@
       "client_msg_id": "26cff0c2-9faf-41a6-8352-6715baa62fa4",
       "type": "message",
       "text": "解決しました！ありがとうございます！",
-      "user": "U011WAK3WM8",
+      "user": "last.ryo0213",
       "ts": "1586969100.190200",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -1231,8 +1231,8 @@
         {
           "name": "tada",
           "users": [
-            "UGA29R3FH",
-            "U8D8C6B0C",
+            "znmxodq1",
+            "toshiaki",
             "UEED0BQ4A"
           ],
           "count": 3
@@ -1243,7 +1243,7 @@
       "client_msg_id": "040f752e-aa5f-4e92-994d-b81c509d5b43",
       "type": "message",
       "text": "bs指定してました……\nありがとうございます。外して試してみます",
-      "user": "U011WAK3WM8",
+      "user": "last.ryo0213",
       "ts": "1586967267.189700",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -1268,7 +1268,7 @@
       "client_msg_id": "ee6f7f7e-e9ba-42d3-83cb-252292ff35c0",
       "type": "message",
       "text": "指定する場合はイメージのサイズを元に計算する必要があったはず",
-      "user": "U0J2VATJA",
+      "user": "atnanasi",
       "ts": "1586966940.188900",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -1293,7 +1293,7 @@
       "client_msg_id": "373b5d55-d94c-42f4-ba6c-cb9bbce5ef18",
       "type": "message",
       "text": "もし bs とかを指定しているなら外して試してみてください、うまくいかない事があるので",
-      "user": "U0J2VATJA",
+      "user": "atnanasi",
       "ts": "1586966923.188500",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -1318,7 +1318,7 @@
       "client_msg_id": "2d555b85-9e00-4b45-9c7e-8af06b4ebaa0",
       "type": "message",
       "text": "dd のオプションが悪いかもしれないですね",
-      "user": "U0J2VATJA",
+      "user": "atnanasi",
       "ts": "1586966857.188000",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -1352,7 +1352,7 @@
           "mimetype": "image/jpeg",
           "filetype": "jpg",
           "pretty_type": "JPEG",
-          "user": "U011WAK3WM8",
+          "user": "last.ryo0213",
           "editable": false,
           "size": 721366,
           "mode": "hosted",
@@ -1389,14 +1389,14 @@
           "original_w": 4032,
           "original_h": 3024,
           "thumb_tiny": "AwAkADCulDsFPqaSI8kU8x7skdfWmBEWOMkUzfgjipTE2OSKjKUWAk87ccrEoX3qPPNFNzzSAejYJqZX46VHIojmdT2JoEiD1ppgyYZIpGHsKQTx+/5UGVSON35VV0SRMPYUwjnpUhdD3pvB6GpYzQuoo/MJKgnFQ4Q/8sk/KrN198/Sq1QUKI4z/wAsk/KlEMR/5ZigU8UAN+zxf3BSi2i/ufrTxThQB//Z",
-          "permalink": "https://archlinuxjp.slack.com/files/U011WAK3WM8/F011WKKP6QK/mvimg_20200415_170815.jpg",
+          "permalink": "https://archlinuxjp.slack.com/files/last.ryo0213/F011WKKP6QK/mvimg_20200415_170815.jpg",
           "permalink_public": "https://slack-files.com/T0GFBAM8C-F011WKKP6QK-28ad794dcf",
           "is_starred": false,
           "has_rich_preview": false
         }
       ],
       "upload": true,
-      "user": "U011WAK3WM8",
+      "user": "last.ryo0213",
       "display_as_bot": false,
       "ts": "1586965941.187500",
       "blocks": [
@@ -1422,7 +1422,7 @@
       "client_msg_id": "dc498c3f-0200-4568-b6ad-a17eb73ecc86",
       "type": "message",
       "text": "問題ないです",
-      "user": "UGA29R3FH",
+      "user": "znmxodq1",
       "ts": "1586965126.176300",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -1446,7 +1446,7 @@
         {
           "name": "+1",
           "users": [
-            "U011WAK3WM8"
+            "last.ryo0213"
           ],
           "count": 1
         }
@@ -1456,7 +1456,7 @@
       "client_msg_id": "f7a95370-b03e-45c2-abe9-e4598c76ec08",
       "type": "message",
       "text": "こちらで質問する際に画像を貼るのは大丈夫でしょうか？",
-      "user": "U011WAK3WM8",
+      "user": "last.ryo0213",
       "ts": "1586964619.175900",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -1480,7 +1480,7 @@
         {
           "name": "woman-gesturing-ok",
           "users": [
-            "UGA29R3FH"
+            "znmxodq1"
           ],
           "count": 1
         }
@@ -1490,7 +1490,7 @@
       "client_msg_id": "9df540cf-6c8c-4647-83d9-43c8ebee52c0",
       "type": "message",
       "text": "初めまして。Arch Linuxに興味があり参加させて頂きました。色々とわからないところも多いので質問させていただく事もあるかと思いますが、何卒よろしくお願いします。",
-      "user": "U011WAK3WM8",
+      "user": "last.ryo0213",
       "ts": "1586964342.175100",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -1514,8 +1514,8 @@
         {
           "name": "archjp",
           "users": [
-            "UGA29R3FH",
-            "UGMP1THLJ",
+            "znmxodq1",
+            "muminn4",
             "U3FJYR7MG",
             "UL3J5T649",
             "USJ9Q3WSH"
@@ -1528,14 +1528,14 @@
       "type": "message",
       "subtype": "channel_join",
       "ts": "1586963925.172000",
-      "user": "U011WAK3WM8",
-      "text": "<@U011WAK3WM8>さんがチャンネルに参加しました"
+      "user": "last.ryo0213",
+      "text": "<@last.ryo0213>さんがチャンネルに参加しました"
     },
     {
       "type": "message",
       "subtype": "thread_broadcast",
       "text": "zn_poly は sagemath の依存ですね。インストールされている場合、更新には以下のコマンドを使用してください。\n`pacman -Syu --overwrite usr/lib/libzn_poly-0.9.so`\n\nPR作成しました。(PRコメントもう少し何か書きたい気持ちがあります……)",
-      "user": "UUWBU08TU",
+      "user": "nyaarch64",
       "ts": "1586909016.171300",
       "thread_ts": "1586883665.171200",
       "root": {
@@ -1553,7 +1553,7 @@
         "reply_users_count": 1,
         "latest_reply": "1586909016.171300",
         "reply_users": [
-          "UUWBU08TU"
+          "nyaarch64"
         ],
         "is_locked": false,
         "subscribed": false
@@ -1592,7 +1592,7 @@
           "name": "+1",
           "users": [
             "U0H3FTBBJ",
-            "U0GFBAM8U"
+            "syui"
           ],
           "count": 2
         }
@@ -1613,7 +1613,7 @@
       "reply_users_count": 1,
       "latest_reply": "1586909016.171300",
       "reply_users": [
-        "UUWBU08TU"
+        "nyaarch64"
       ],
       "is_locked": false,
       "subscribed": false
@@ -1622,7 +1622,7 @@
       "client_msg_id": "bf8c621f-d75b-4f80-8e23-82733194ee92",
       "type": "message",
       "text": "このあたりが怪しい気がするんですけどねぇ……",
-      "user": "UGMP1THLJ",
+      "user": "muminn4",
       "ts": "1586881490.171100",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -1647,7 +1647,7 @@
       "client_msg_id": "ca145798-76c8-4cbe-970f-b60ac8ec14a8",
       "type": "message",
       "text": "```#1: ignoring informational payload INVALID_PROTOCOL_ID, msgid=00000000, length=47\nApr 15 01:10:35 hidra pluto[151606]: | ISAKMP Notification Payload\nApr 15 01:10:35 hidra pluto[151606]: |   00 00 00 2f  00 00 00 01  01 10 00 0a```",
-      "user": "UGMP1THLJ",
+      "user": "muminn4",
       "ts": "1586881474.170700",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -1672,7 +1672,7 @@
       "client_msg_id": "99ed824a-5559-4dd2-bb5b-97a50a568dbc",
       "type": "message",
       "text": "そしてわからない原因",
-      "user": "UGMP1THLJ",
+      "user": "muminn4",
       "ts": "1586881335.170300",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -1697,7 +1697,7 @@
       "client_msg_id": "3190898f-cd04-4933-beda-886d6594e2ae",
       "type": "message",
       "text": "その後IKA-scanいろんな組み合わせで走らせたらちゃんとAESも対応してました。安心……",
-      "user": "UGMP1THLJ",
+      "user": "muminn4",
       "ts": "1586881327.170100",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -1722,7 +1722,7 @@
       "client_msg_id": "94dad0c8-4b3d-4013-8aca-7b81dfa1549c",
       "type": "message",
       "text": "3DESしか対応してないサーバ どうなのよ......\n今時そんな鯖は無いと思って切ってしまった......",
-      "user": "UCA1NQM5K",
+      "user": "angel.beats.kanade.yu",
       "ts": "1586881103.169600",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -1747,7 +1747,7 @@
       "client_msg_id": "e43bb29c-5cf9-4aaf-a2b0-40a15608fc42",
       "type": "message",
       "text": "SA=(Enc=3DES Hash=SHA1 Auth=PSK Group=2:modp1024 LifeType=Seconds LifeDuration(4)=0x00007080) うわー……",
-      "user": "UGMP1THLJ",
+      "user": "muminn4",
       "ts": "1586878317.168800",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -1772,7 +1772,7 @@
       "client_msg_id": "b8db97fb-70c0-4cc6-9ab9-4598bdb490a5",
       "type": "message",
       "text": "xl2tpd.conf　の debug 項目は全て yes にして\n```debug avp = yes\ndebug network = yes\ndebug packet = yes\ndebug state = yes\ndebug tunnel = yes```\n```% journalctl --unit=xl2tpd --unit=openswan -f```\nをひたすら眺めてました。。。",
-      "user": "UPL8M8KPT",
+      "user": "shuhei.okamoto",
       "ts": "1586876641.168400",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -1833,7 +1833,7 @@
       "client_msg_id": "258d5b2e-d394-40ae-aec8-65406903828b",
       "type": "message",
       "text": "まさに ローカルIP が返されて云々のメッセージ\n`#1: we require peer to have ID '**.**.**.**', but peer declares '192.168.*.*'`\nみたいなのが出て、結局 ipsec.conf の rightid に指定して解決しました。",
-      "user": "UPL8M8KPT",
+      "user": "shuhei.okamoto",
       "ts": "1586875926.167900",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -1869,7 +1869,7 @@
       "client_msg_id": "d3463c86-805a-480f-ac97-4e45ec8c4acd",
       "type": "message",
       "text": "嫌な予感がする。すごく嫌な予感がする。3DESの予感がする……",
-      "user": "UGMP1THLJ",
+      "user": "muminn4",
       "ts": "1586875781.167700",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -1894,7 +1894,7 @@
       "client_msg_id": "92db6d7e-6eb8-4e89-8646-ab39d84fbe6f",
       "type": "message",
       "text": "私も strongswan で頑張ろうとしましたが断念して、ArchLinux公式と以下の記事を参考にして、OpenSwanにしました。\n<https://blog.myon.info/entry/2016/08/21/arch-linux-l2tp-ipsec/>",
-      "user": "UPL8M8KPT",
+      "user": "shuhei.okamoto",
       "ts": "1586875666.167000",
       "team": "T0GFBAM8C",
       "attachments": [
@@ -1939,7 +1939,7 @@
       "client_msg_id": "d4fe5328-a513-4467-bd80-a77e96e95185",
       "type": "message",
       "text": "うわぁ…向こうにあるマシンでどっかグローバルに張っといたほうがマシっぽい気がしてきました……\nグローバルIPで認証しようとしててローカルIP返されて怒ってる気がしたのでローカルIPをRemoteIDに指定する-&gt;IPSecコネクションの確立がタイムアウト！！\nとても楽しい……",
-      "user": "UGMP1THLJ",
+      "user": "muminn4",
       "ts": "1586873429.165900",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -1964,11 +1964,11 @@
       "client_msg_id": "3eca98d9-ee5b-42a5-a94f-2e3ffd69362e",
       "type": "message",
       "text": "よくある例としてスマホからは繋がるのにテザリングしたPCからは繋がらないとかですね......",
-      "user": "UCA1NQM5K",
+      "user": "angel.beats.kanade.yu",
       "ts": "1586872934.163500",
       "team": "T0GFBAM8C",
       "edited": {
-        "user": "UCA1NQM5K",
+        "user": "angel.beats.kanade.yu",
         "ts": "1586872944.000000"
       },
       "blocks": [
@@ -1993,7 +1993,7 @@
       "client_msg_id": "e2215eaf-012d-43d3-afd3-48d4faba060f",
       "type": "message",
       "text": "IPsecのNAT-TについてはNATが1段であればそんなに考えることないですが、多段NATされてると超えられないことがあるので注意が必要ですね......",
-      "user": "UCA1NQM5K",
+      "user": "angel.beats.kanade.yu",
       "ts": "1586872880.162700",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -2018,7 +2018,7 @@
       "client_msg_id": "08a9af1b-2850-469d-8159-7cf41896474f",
       "type": "message",
       "text": "L2TP/IPsec って NAT の事をちゃんと設定しないといけなくてそのあたりでうまくいかなかったのかなーと",
-      "user": "U0J2VATJA",
+      "user": "atnanasi",
       "ts": "1586871860.161000",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -2043,7 +2043,7 @@
       "client_msg_id": "3b10aa94-2885-4d50-87da-6d0972a26d08",
       "type": "message",
       "text": "え、やっぱり難易度高い……？",
-      "user": "UGMP1THLJ",
+      "user": "muminn4",
       "ts": "1586871814.160500",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -2068,7 +2068,7 @@
       "client_msg_id": "4a9464a4-a664-47eb-bacf-8d85099eee29",
       "type": "message",
       "text": "Looks like pppd didn't initialize our dbus module とか言われつつ、とりあえずstrongswanをlibreswanに置換してみてます。",
-      "user": "UGMP1THLJ",
+      "user": "muminn4",
       "ts": "1586871804.160200",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -2093,7 +2093,7 @@
       "client_msg_id": "35e94af5-8b62-4976-bea8-d2319e12c1c7",
       "type": "message",
       "text": "networkmanager-l2tp で L2TP/IPsec を繋げたことないですね、諦めて Libreswan と xl2tpd で繋いでました",
-      "user": "U0J2VATJA",
+      "user": "atnanasi",
       "ts": "1586871794.160100",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -2118,7 +2118,7 @@
       "client_msg_id": "97941fc8-2192-4f45-9a27-3bf996d2b1f1",
       "type": "message",
       "text": "<https://blog.tsurai.work/2020/04/375/>\n今日ちょうど記事書いたので、どうぞ(参考になるか分かりませんが)",
-      "user": "UCA1NQM5K",
+      "user": "angel.beats.kanade.yu",
       "ts": "1586870840.158800",
       "team": "T0GFBAM8C",
       "attachments": [
@@ -2163,11 +2163,11 @@
       "client_msg_id": "39e4a978-92d5-4f39-bba2-e588d8aab510",
       "type": "message",
       "text": "通常はvpnサーバーから取り出せる設定ファイルを読み込んで接続するパターンが多い気がしますので、設定ファイルがダウンロードできる場合は、設定ファイルをダウンロードして、それを読み込むといけるかもしれません",
-      "user": "U0GFBAM8U",
+      "user": "syui",
       "ts": "1586870405.158200",
       "team": "T0GFBAM8C",
       "edited": {
-        "user": "U0GFBAM8U",
+        "user": "syui",
         "ts": "1586870443.000000"
       },
       "blocks": [
@@ -2192,7 +2192,7 @@
       "client_msg_id": "e48eba34-30b3-4275-83c6-9fd875dbbdd5",
       "type": "message",
       "text": "<https://dev.classmethod.jp/articles/network-check-tools/>",
-      "user": "U0GFBAM8U",
+      "user": "syui",
       "ts": "1586870337.157300",
       "team": "T0GFBAM8C",
       "attachments": [
@@ -2233,7 +2233,7 @@
       "client_msg_id": "6e824dc7-7894-4c40-b4f5-90beae45755f",
       "type": "message",
       "text": "journalctlやネットワークを調べるコマンドを見てみるといいかも",
-      "user": "U0GFBAM8U",
+      "user": "syui",
       "ts": "1586870329.157100",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -2258,7 +2258,7 @@
       "client_msg_id": "ff41803e-d43d-4214-9cdc-9e47aada1da0",
       "type": "message",
       "text": "L2TP/IPSec のVPNにアクセスする必要がでました。\n現在NetworkManagerを使って管理していて、networkmanager-l2tpはインストール済みです。\nとりあえず共有キーやユーザ名、パスワード設定してつなごうとしたら毎回接続できずにいます。どのログ見たら問題がわかるかなど、なにかわかる方いらっしゃいますか？",
-      "user": "UGMP1THLJ",
+      "user": "muminn4",
       "ts": "1586869412.156500",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -2283,7 +2283,7 @@
       "client_msg_id": "0b99c8b5-0b5a-4f3e-9698-45ecde2c643f",
       "type": "message",
       "text": "(ちなみに僕はVPN詳しくないです、ごめんなさい)",
-      "user": "UGA29R3FH",
+      "user": "znmxodq1",
       "ts": "1586869305.154700",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -2308,7 +2308,7 @@
       "client_msg_id": "f23045a4-2445-4340-970c-675760a9e8ee",
       "type": "message",
       "text": "今回に限らずですが、答えられる方が答えてくれますので気軽にどうぞ",
-      "user": "UGA29R3FH",
+      "user": "znmxodq1",
       "ts": "1586869288.154000",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -2333,7 +2333,7 @@
       "client_msg_id": "8274b6cb-3935-400f-9edc-e650af429ea7",
       "type": "message",
       "text": "どうぞー",
-      "user": "UGA29R3FH",
+      "user": "znmxodq1",
       "ts": "1586869273.153400",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -2358,7 +2358,7 @@
       "client_msg_id": "6b56304e-5854-4e2e-9459-83dda52da62a",
       "type": "message",
       "text": "ネットワーク周り（VPN）の質問いいですか？",
-      "user": "UGMP1THLJ",
+      "user": "muminn4",
       "ts": "1586869182.153200",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -2383,7 +2383,7 @@
       "type": "message",
       "subtype": "thread_broadcast",
       "text": "nss 3.51.1-1 への更新には以下のコマンドを使用してください。\n(nss は firefox, chromium, electron, jdk などが依存しているので、デスクトップ環境だと大抵入っていそうです)\n\n`pacman -Syu --overwrite /usr/lib/p11-kit-trust.so`\n\n原文: <https://www.archlinux.org/news/nss3511-1-and-lib32-nss3511-1-updates-require-manual-intervention|https://www.archlinux.org/news/nss3511-1-and-lib32-nss3511-1-updates-require-manual-intervention>\n日本語訳: <https://www.archlinux.jp/news/nss3511-1-and-lib32-nss3511-1-updates-require-manual-intervention/|https://www.archlinux.jp/news/nss3511-1-and-lib32-nss3511-1-updates-require-manual-intervention/>",
-      "user": "UUWBU08TU",
+      "user": "nyaarch64",
       "ts": "1586787702.148900",
       "thread_ts": "1586739659.143000",
       "root": {
@@ -2401,7 +2401,7 @@
         "reply_users_count": 1,
         "latest_reply": "1586787702.148900",
         "reply_users": [
-          "UUWBU08TU"
+          "nyaarch64"
         ],
         "is_locked": false,
         "subscribed": false
@@ -2469,13 +2469,13 @@
         {
           "name": "+1",
           "users": [
-            "U70QDFN82",
+            "yutakatay",
             "U0H3FTBBJ",
-            "U53RAQBCP",
-            "U0GFBAM8U",
+            "kokopis",
+            "syui",
             "UDXN1QU2U",
             "UEED0BQ4A",
-            "UCA1NQM5K",
+            "angel.beats.kanade.yu",
             "U2YNMHCTV",
             "U4V5UCWT0"
           ],
@@ -2487,7 +2487,7 @@
       "client_msg_id": "d5f0259e-1bcd-4712-a83e-11e86b5b2e9e",
       "type": "message",
       "text": "やっぱりですか。",
-      "user": "U7NBCFT1S",
+      "user": "no97yuu",
       "ts": "1586767774.148400",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -2512,7 +2512,7 @@
       "client_msg_id": "736f7c60-32b2-40a2-90d0-69bc31287c33",
       "type": "message",
       "text": "日本語版は全文検索に失敗しているような気がしますね",
-      "user": "UUWBU08TU",
+      "user": "nyaarch64",
       "ts": "1586767197.148200",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -2536,9 +2536,9 @@
         {
           "name": "disappointed_relieved",
           "users": [
-            "U7NBCFT1S",
+            "no97yuu",
             "U0H3FTBBJ",
-            "U0108ASA482"
+            "watakushide.kakusanak"
           ],
           "count": 3
         }
@@ -2548,7 +2548,7 @@
       "client_msg_id": "9479bef5-dcf6-4813-9437-9e82b848f83b",
       "type": "message",
       "text": "お久しぶりです。皆様方。\nArchWikiの検索がしづらくなってる気がしますけど気の所為でしょうか？",
-      "user": "U7NBCFT1S",
+      "user": "no97yuu",
       "ts": "1586767097.147300",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -2573,7 +2573,7 @@
       "client_msg_id": "fd73b565-0bbd-4457-b8bb-f10faa62ac18",
       "type": "message",
       "text": "これも更新時に気付きますね、と思ったけどelectronとかjdkに依存されてて入ってる人が多いのか……\n翻訳してPR作成しました。",
-      "user": "UUWBU08TU",
+      "user": "nyaarch64",
       "ts": "1586745179.146100",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -2597,8 +2597,8 @@
         {
           "name": "+1",
           "users": [
-            "UGA29R3FH",
-            "U0GFBAM8U",
+            "znmxodq1",
+            "syui",
             "UJ7P75WB1"
           ],
           "count": 3
@@ -2609,7 +2609,7 @@
       "client_msg_id": "f2ee8018-7974-497b-a89a-f9aee0986a3a",
       "type": "message",
       "text": "直った",
-      "user": "U70QDFN82",
+      "user": "yutakatay",
       "ts": "1586743077.144200",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -2633,8 +2633,8 @@
         {
           "name": "heart",
           "users": [
-            "U0GFBAM8U",
-            "U53RAQBCP",
+            "syui",
+            "kokopis",
             "UJ7P75WB1"
           ],
           "count": 3
@@ -2645,7 +2645,7 @@
       "client_msg_id": "d8aa6a43-2b88-4616-9d63-06ab27150d20",
       "type": "message",
       "text": "↑ありがとうございます。今ひっかかった",
-      "user": "U70QDFN82",
+      "user": "yutakatay",
       "ts": "1586743019.143800",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -2681,7 +2681,7 @@
       "reply_users_count": 1,
       "latest_reply": "1586787702.148900",
       "reply_users": [
-        "UUWBU08TU"
+        "nyaarch64"
       ],
       "is_locked": false,
       "subscribed": false
@@ -2690,14 +2690,14 @@
       "type": "message",
       "subtype": "channel_join",
       "ts": "1586659451.142800",
-      "user": "U011PJVDWS1",
-      "text": "<@U011PJVDWS1>さんがチャンネルに参加しました"
+      "user": "tikuwakunn",
+      "text": "<@tikuwakunn>さんがチャンネルに参加しました"
     },
     {
       "client_msg_id": "a4a76118-20bd-4006-a4ae-cf0243183dd9",
       "type": "message",
       "text": "ただのでかい文鎮になる可能性もあるから。。。",
-      "user": "USLL50J1M",
+      "user": "vikke.bsd",
       "ts": "1586576496.142500",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -2722,7 +2722,7 @@
       "client_msg_id": "74cf7553-0d6a-4623-82ad-dbd2c57af982",
       "type": "message",
       "text": "やっぱりドキドキはするもんなんですねw",
-      "user": "U70QDFN82",
+      "user": "yutakatay",
       "ts": "1586572084.141800",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -2747,7 +2747,7 @@
       "client_msg_id": "ba24db48-7be0-4993-bcfd-ca441fd1c4e6",
       "type": "message",
       "text": "月イチくらいでドキドキしながら実行してますねｗ",
-      "user": "U8T8KB5M4",
+      "user": "h.hata.ai.t",
       "ts": "1586571791.141200",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -2771,7 +2771,7 @@
         {
           "name": "heart",
           "users": [
-            "U8D8C6B0C"
+            "toshiaki"
           ],
           "count": 1
         }
@@ -2781,7 +2781,7 @@
       "client_msg_id": "8eceb1f1-e88d-42f3-8e6d-7f493c815976",
       "type": "message",
       "text": "公式サイトとかはもっとローテクなやり方が載ってるんでそれでやってましたね。\nつかものすごいスペックアップとかセキュリティホールとかじゃない限り極力上げない選択をしてました。",
-      "user": "U70QDFN82",
+      "user": "yutakatay",
       "ts": "1586521969.140400",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -2806,7 +2806,7 @@
       "client_msg_id": "02da3802-0821-4d58-9111-bfd1874af375",
       "type": "message",
       "text": "むしろこれ無しでやる方法しらなかった",
-      "user": "U8T8KB5M4",
+      "user": "h.hata.ai.t",
       "ts": "1586521389.139000",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -2831,7 +2831,7 @@
       "client_msg_id": "eb5f613b-015c-40c3-b643-be813b06a685",
       "type": "message",
       "text": "これまじでちょっと未来が見えますね。Linuxでこんな時代が来るとは・・・\n普通にWindowsのアップデートよりもサクッとはいるし。",
-      "user": "U70QDFN82",
+      "user": "yutakatay",
       "ts": "1586484569.138100",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -2855,7 +2855,7 @@
         {
           "name": "+1",
           "users": [
-            "U8D8C6B0C",
+            "toshiaki",
             "UPYQ3CUJ1",
             "UP795STQS"
           ],
@@ -2867,7 +2867,7 @@
       "client_msg_id": "55fe1e35-2a7e-4c6c-a886-28f8f4dadced",
       "type": "message",
       "text": "更新がすごい楽ですよねー\n\nT495sで指紋リーダを使うためにtestingなファームウェア入れましたが、これも簡単でした\n<https://wiki.archlinux.jp/index.php/Lenovo_ThinkPad_T495s>",
-      "user": "U8D8C6B0C",
+      "user": "toshiaki",
       "ts": "1586484409.137000",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -2896,7 +2896,7 @@
       "client_msg_id": "834a72a8-3171-4356-a94b-0c3ac7729093",
       "type": "message",
       "text": "archのWikiいろいろ書いてあるけど\n`sudo fwupdmgr refresh`\n`sudo fwupdmgr update`\nでいける",
-      "user": "U70QDFN82",
+      "user": "yutakatay",
       "ts": "1586483938.136200",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -2943,7 +2943,7 @@
       "client_msg_id": "bc4c7aa7-9813-4557-919b-c266e1aec263",
       "type": "message",
       "text": "fwupd便利すぎて笑えるw",
-      "user": "U70QDFN82",
+      "user": "yutakatay",
       "ts": "1586483035.135400",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -2967,9 +2967,9 @@
         {
           "name": "tada",
           "users": [
-            "U8D8C6B0C",
-            "U53RAQBCP",
-            "UAPRYSVPS",
+            "toshiaki",
+            "kokopis",
+            "vermilion928",
             "UJ7P75WB1",
             "UKT90HXU0"
           ],
@@ -2981,7 +2981,7 @@
       "client_msg_id": "b7437c85-a00e-4977-a9ae-6f6bd65ac5b6",
       "type": "message",
       "text": "まじですか。知らないツールだ。ありがとうございます。",
-      "user": "U70QDFN82",
+      "user": "yutakatay",
       "ts": "1586439879.134900",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -3005,7 +3005,7 @@
         {
           "name": "relaxed",
           "users": [
-            "U8D8C6B0C"
+            "toshiaki"
           ],
           "count": 1
         }
@@ -3015,7 +3015,7 @@
       "client_msg_id": "d86713c6-adbb-415c-80a5-1ccabb233942",
       "type": "message",
       "text": "ThinkPad T495s使ってます",
-      "user": "U8D8C6B0C",
+      "user": "toshiaki",
       "ts": "1586439835.134300",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -3040,7 +3040,7 @@
       "client_msg_id": "e23a72fb-21c6-44d3-8699-cf67e493202f",
       "type": "message",
       "text": "ThinkPadのBIOS、`fwupd` でLinux上からアップデートできると思います（できているつもりになっている）",
-      "user": "U8D8C6B0C",
+      "user": "toshiaki",
       "ts": "1586439826.134000",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -3075,7 +3075,7 @@
         {
           "name": "eyes",
           "users": [
-            "U70QDFN82",
+            "yutakatay",
             "UD124KPDJ",
             "U351X6PNX",
             "UKT90HXU0"
@@ -3088,7 +3088,7 @@
       "client_msg_id": "645c0e7a-df9c-4f77-9bdb-d71dcaba4c04",
       "type": "message",
       "text": "thinkpadがんばればLinuxからでもいけます。。。普通にUSBにISOいれてブートしてアップデートみたいな感じなんで",
-      "user": "U70QDFN82",
+      "user": "yutakatay",
       "ts": "1586435049.133300",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -3113,7 +3113,7 @@
       "client_msg_id": "0e7bfa8a-fc60-4a9a-acfa-ded7866db335",
       "type": "message",
       "text": "Let'snoteはWindowsからじゃないとファーム更新できないのでうらやましい",
-      "user": "UCA1NQM5K",
+      "user": "angel.beats.kanade.yu",
       "ts": "1586432757.131400",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -3138,7 +3138,7 @@
       "client_msg_id": "0b536743-c00c-4149-bea1-ed32706712f0",
       "type": "message",
       "text": "thinkpad Linux上からファーム更新できるときいたことが......",
-      "user": "UCA1NQM5K",
+      "user": "angel.beats.kanade.yu",
       "ts": "1586432317.130900",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -3163,7 +3163,7 @@
       "client_msg_id": "0a5c38b5-384c-4daa-b989-cbb26ab225fb",
       "type": "message",
       "text": "ThinkpadのBIOSいまいちイケてないんだよな・・・なんか他社のやつとかはBIOSからBIOSアップデートできるらしいし",
-      "user": "U70QDFN82",
+      "user": "yutakatay",
       "ts": "1586397560.130100",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -3188,7 +3188,7 @@
       "client_msg_id": "fff6a3b8-c255-49c9-9970-6b78bc0e3775",
       "type": "message",
       "text": "うーんThinkpadだとFn、Ctrlは入れ替えられるみたいですけどCapsとはなさげですね。",
-      "user": "U70QDFN82",
+      "user": "yutakatay",
       "ts": "1586397528.129400",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -3213,7 +3213,7 @@
       "client_msg_id": "76eef5be-71b4-41d7-84ab-0df27b749f29",
       "type": "message",
       "text": "biosで変えられるだと・・・ちょっと調べてみます",
-      "user": "U70QDFN82",
+      "user": "yutakatay",
       "ts": "1586397370.128500",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -3238,7 +3238,7 @@
       "client_msg_id": "fb4c9100-c7ca-4982-be0f-d730994d333f",
       "type": "message",
       "text": "udevでなくてbiosでcapsをctrlに変えたらどうでしょうかね",
-      "user": "UAPRYSVPS",
+      "user": "vermilion928",
       "ts": "1586397275.128000",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -3263,7 +3263,7 @@
       "client_msg_id": "ee0e30e1-fe26-434e-8cac-b8e47eb109c8",
       "type": "message",
       "text": "あーこれか。ありますね。screenから乗り換えるときに一瞬検討しましたが、辞めました。\n結局いろいろカスタマイズすることになるので。",
-      "user": "U70QDFN82",
+      "user": "yutakatay",
       "ts": "1586316749.126000",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -3288,7 +3288,7 @@
       "client_msg_id": "f8ee5ce4-24ec-41da-99db-c2a558c0c820",
       "type": "message",
       "text": "<https://www.byobu.org/|https://www.byobu.org/>",
-      "user": "URZFHALTT",
+      "user": "sherwyn.sen",
       "ts": "1586316510.125100",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -3314,7 +3314,7 @@
       "client_msg_id": "eb67d1e8-8832-45a9-bf91-53ac815bcbab",
       "type": "message",
       "text": "それで行けそうだと思います",
-      "user": "URZFHALTT",
+      "user": "sherwyn.sen",
       "ts": "1586316454.124700",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -3339,7 +3339,7 @@
       "client_msg_id": "33eb9a4d-c91b-4ce8-9151-6327aa7650f5",
       "type": "message",
       "text": "tmuxといえばbyobu使ったことありますか？\nbyobuはより楽のキーバインドのtmuxというものですよ",
-      "user": "URZFHALTT",
+      "user": "sherwyn.sen",
       "ts": "1586316440.124400",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -3364,7 +3364,7 @@
       "client_msg_id": "c7478927-28d8-4920-8c1e-bff42a69c5a4",
       "type": "message",
       "text": "tmuxのほうのキーバーバインドと一致させたくて始めたんですが、ハードなら仕方ないですね。。。もとに戻そう・・・",
-      "user": "U70QDFN82",
+      "user": "yutakatay",
       "ts": "1586316252.122900",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -3389,7 +3389,7 @@
       "client_msg_id": "2dd4f52c-a114-49e6-b9f0-0f2ba2160bee",
       "type": "message",
       "text": "このキーボードの制限あったら2割のサイズはできない",
-      "user": "URZFHALTT",
+      "user": "sherwyn.sen",
       "ts": "1586316211.122800",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -3414,7 +3414,7 @@
       "client_msg_id": "34e01595-67d1-4f9e-ac4e-16505010dccf",
       "type": "message",
       "text": "bspwmならmod+ctrl+〇〇はウィンドーの大きさを決める機能らしい…知らなかったです",
-      "user": "URZFHALTT",
+      "user": "sherwyn.sen",
       "ts": "1586316143.122000",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -3439,7 +3439,7 @@
       "client_msg_id": "3ba16af9-16b0-4d9b-9a38-030d3e3ee7bf",
       "type": "message",
       "text": "どうせThinkpadなんてプログラマーしか使わないし、capsをctrlに物理的に入れ替えてくれればいいのに。。",
-      "user": "U70QDFN82",
+      "user": "yutakatay",
       "ts": "1586315984.120000",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -3463,7 +3463,7 @@
         {
           "name": "joy",
           "users": [
-            "URZFHALTT",
+            "sherwyn.sen",
             "UJ7P75WB1"
           ],
           "count": 2
@@ -3474,7 +3474,7 @@
       "client_msg_id": "b240d048-edf6-4af2-9d6f-b88c906b7c00",
       "type": "message",
       "text": "いいところあっても、苦手のところあっても\nあなたのことには別れない",
-      "user": "URZFHALTT",
+      "user": "sherwyn.sen",
       "ts": "1586315251.119900",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -3499,7 +3499,7 @@
       "client_msg_id": "b1b769ba-2145-439f-892a-ee36dca7adbd",
       "type": "message",
       "text": "thinkpadキーボード単体売りしてるの知った時に衝動買いしそうになったな",
-      "user": "UGA29R3FH",
+      "user": "znmxodq1",
       "ts": "1586315250.119800",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -3524,7 +3524,7 @@
       "client_msg_id": "ba33b160-5fc6-42d7-b316-7bf93a8ccea9",
       "type": "message",
       "text": "普段はHHKBだけど",
-      "user": "U70QDFN82",
+      "user": "yutakatay",
       "ts": "1586315235.119300",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -3549,7 +3549,7 @@
       "client_msg_id": "eea175ff-5af5-4198-8134-857c83ddeae6",
       "type": "message",
       "text": "Nキーロールオーバー知らなかったです。\n私もThinkpadのキーボード好きなんですよね。",
-      "user": "U70QDFN82",
+      "user": "yutakatay",
       "ts": "1586315229.118800",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -3574,7 +3574,7 @@
       "client_msg_id": "a311f122-e144-475b-8e88-5cddf5a0152e",
       "type": "message",
       "text": "それでもthinkpadのキーボード好きなんですげど、、",
-      "user": "URZFHALTT",
+      "user": "sherwyn.sen",
       "ts": "1586315207.118000",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -3599,7 +3599,7 @@
       "client_msg_id": "a2050190-da50-4020-8915-f1bf5004ea18",
       "type": "message",
       "text": "Nキーロールオーバーって書いてあるキーボードを用意すればいいんですが高いんですよねあいつら",
-      "user": "UGA29R3FH",
+      "user": "znmxodq1",
       "ts": "1586315174.117300",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -3624,7 +3624,7 @@
       "client_msg_id": "3493cb02-2b0c-4fdd-beb6-1cf108811dfa",
       "type": "message",
       "text": "xevで何も出てこないんだ",
-      "user": "URZFHALTT",
+      "user": "sherwyn.sen",
       "ts": "1586315171.117200",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -3649,7 +3649,7 @@
       "client_msg_id": "3613a95a-ae70-463f-b40c-a82ea15f2656",
       "type": "message",
       "text": "capsをctrlにしたらcaps+mod+2は動けない",
-      "user": "URZFHALTT",
+      "user": "sherwyn.sen",
       "ts": "1586315156.116500",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -3674,7 +3674,7 @@
       "client_msg_id": "75179a8f-b1bc-4912-ae31-6507e680aae7",
       "type": "message",
       "text": "ですね。せめてもう少し後ろのキーだとよかったのに。。。",
-      "user": "U70QDFN82",
+      "user": "yutakatay",
       "ts": "1586315126.115700",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -3699,7 +3699,7 @@
       "client_msg_id": "d1fb3d0b-25bf-454a-b24c-5b4a685f4397",
       "type": "message",
       "text": "sherwynさんがいうように配線っぽい気がしますね。Capsと2の組み合わせがなんかだめな感じ",
-      "user": "U70QDFN82",
+      "user": "yutakatay",
       "ts": "1586315110.115100",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -3724,7 +3724,7 @@
       "client_msg_id": "86abc591-d8bc-40fa-9aee-0511ac3be596",
       "type": "message",
       "text": "知らんかったですっ",
-      "user": "URZFHALTT",
+      "user": "sherwyn.sen",
       "ts": "1586315104.114900",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -3748,8 +3748,8 @@
     {
       "client_msg_id": "a14b7763-d5a3-4629-873f-982191afc1e1",
       "type": "message",
-      "text": "<@U70QDFN82>ええー、ぼくのthinkpadもそうみたいなんですよ",
-      "user": "URZFHALTT",
+      "text": "<@yutakatay>ええー、ぼくのthinkpadもそうみたいなんですよ",
+      "user": "sherwyn.sen",
       "ts": "1586315086.114300",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -3762,7 +3762,7 @@
               "elements": [
                 {
                   "type": "user",
-                  "user_id": "U70QDFN82"
+                  "user_id": "yutakatay"
                 },
                 {
                   "type": "text",
@@ -3778,7 +3778,7 @@
       "client_msg_id": "767125F2-FE48-42AF-8486-574E20C91FA0",
       "type": "message",
       "text": "キーボード関連のはつらいですね",
-      "user": "U0GFBAM8U",
+      "user": "syui",
       "ts": "1586314899.111600",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -3802,16 +3802,16 @@
         {
           "name": "keyboard",
           "users": [
-            "URZFHALTT",
-            "UGA29R3FH"
+            "sherwyn.sen",
+            "znmxodq1"
           ],
           "count": 2
         },
         {
           "name": "triumph",
           "users": [
-            "URZFHALTT",
-            "UGA29R3FH"
+            "sherwyn.sen",
+            "znmxodq1"
           ],
           "count": 2
         },
@@ -3819,16 +3819,16 @@
           "name": "sob",
           "users": [
             "UP795STQS",
-            "U70QDFN82",
-            "UGA29R3FH"
+            "yutakatay",
+            "znmxodq1"
           ],
           "count": 3
         },
         {
           "name": "put_litter_in_its_place",
           "users": [
-            "URZFHALTT",
-            "UGA29R3FH"
+            "sherwyn.sen",
+            "znmxodq1"
           ],
           "count": 2
         }
@@ -3838,7 +3838,7 @@
       "client_msg_id": "80890d8a-f6b9-461e-8c28-6ba692328525",
       "type": "message",
       "text": "つまりxevで行けないと何もできない流れなんですかね、",
-      "user": "URZFHALTT",
+      "user": "sherwyn.sen",
       "ts": "1586314843.110900",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -3863,7 +3863,7 @@
       "client_msg_id": "ffc2877e-709b-460a-9c96-696da1393ee1",
       "type": "message",
       "text": "それかショートカットの変更",
-      "user": "URZFHALTT",
+      "user": "sherwyn.sen",
       "ts": "1586314755.110100",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -3888,7 +3888,7 @@
       "client_msg_id": "f708dcf5-2ed1-4b6c-8d82-e9ee9e644ee1",
       "type": "message",
       "text": "Caps以外に振ってみるか",
-      "user": "U70QDFN82",
+      "user": "yutakatay",
       "ts": "1586314737.109600",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -3913,7 +3913,7 @@
       "client_msg_id": "fb6561ca-f8fa-40e0-8fb5-bf99f8cfe369",
       "type": "message",
       "text": "ある（ゲームで苦しんだ）",
-      "user": "UGA29R3FH",
+      "user": "znmxodq1",
       "ts": "1586314733.109500",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -3938,7 +3938,7 @@
       "client_msg_id": "740d240b-b900-405e-b775-aaf0ceb9cbbd",
       "type": "message",
       "text": "ですね。Capsと2があかんっぽい",
-      "user": "U70QDFN82",
+      "user": "yutakatay",
       "ts": "1586314724.109100",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -3963,7 +3963,7 @@
       "client_msg_id": "5c3bb2b2-3815-45b2-bf1f-3759596a7e60",
       "type": "message",
       "text": "キーボードの配線によって動けないキーボードショートカットがある可能性があります  と書いてある",
-      "user": "URZFHALTT",
+      "user": "sherwyn.sen",
       "ts": "1586314700.108500",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -3988,7 +3988,7 @@
       "client_msg_id": "b5f0e515-cd7b-49c0-a322-8d01e78a212b",
       "type": "message",
       "text": "こちらは最初からxevは出てました",
-      "user": "UGA29R3FH",
+      "user": "znmxodq1",
       "ts": "1586314675.107200",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -4013,7 +4013,7 @@
       "client_msg_id": "A3C5883A-FAC0-4FD4-9A15-E326A9DA48E9",
       "type": "message",
       "text": "多分xevが無反応",
-      "user": "U0GFBAM8U",
+      "user": "syui",
       "ts": "1586314665.106600",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -4038,7 +4038,7 @@
       "client_msg_id": "8c08d156-3a2d-4e69-a69f-9c689dc0822a",
       "type": "message",
       "text": "押してるのにキーが発行されない感じです",
-      "user": "U70QDFN82",
+      "user": "yutakatay",
       "ts": "1586314660.106300",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -4072,7 +4072,7 @@
           "mimetype": "image/png",
           "filetype": "png",
           "pretty_type": "PNG",
-          "user": "URZFHALTT",
+          "user": "sherwyn.sen",
           "editable": false,
           "size": 43247,
           "mode": "hosted",
@@ -4110,14 +4110,14 @@
           "original_w": 1376,
           "original_h": 174,
           "thumb_tiny": "AwAGADC26O7nkY7daTyW9R+Z/wAam/iNL6U7sViv5Leo/M/40NGUBZjkDrgn/Gp/SmT/AOof6U022JrQRY1ZQeefc09I9hyO/uaSP/Vr9Kl7Umxo/9k=",
-          "permalink": "https://archlinuxjp.slack.com/files/URZFHALTT/F011HS5RT0V/capture__2020-04-07-19-56-26.png",
+          "permalink": "https://archlinuxjp.slack.com/files/sherwyn.sen/F011HS5RT0V/capture__2020-04-07-19-56-26.png",
           "permalink_public": "https://slack-files.com/T0GFBAM8C-F011HS5RT0V-53ef8684cb",
           "is_starred": false,
           "has_rich_preview": false
         }
       ],
       "upload": true,
-      "user": "URZFHALTT",
+      "user": "sherwyn.sen",
       "display_as_bot": false,
       "ts": "1586314655.105800",
       "blocks": [
@@ -4143,7 +4143,7 @@
       "client_msg_id": "8abcf84a-100d-4ecb-946a-edf1818552a4",
       "type": "message",
       "text": "押されないというのはよくわからない（udevの入れ替えを解除する必要ある？）",
-      "user": "UGA29R3FH",
+      "user": "znmxodq1",
       "ts": "1586314645.105000",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -4168,7 +4168,7 @@
       "client_msg_id": "8D29D1CA-C7BE-4FAB-B6BB-BAF0F8FDD036",
       "type": "message",
       "text": "ドライバやハード、あるいはカーネルの問題かも",
-      "user": "U0GFBAM8U",
+      "user": "syui",
       "ts": "1586314634.104200",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -4193,7 +4193,7 @@
       "client_msg_id": "e711928b-60f1-452b-8408-289b14046a75",
       "type": "message",
       "text": "xevで確認するの一番",
-      "user": "URZFHALTT",
+      "user": "sherwyn.sen",
       "ts": "1586314619.103200",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -4218,7 +4218,7 @@
       "client_msg_id": "76bf5578-ec99-4ce4-b778-0248d9e23095",
       "type": "message",
       "text": "こちらの場合\n`setxkbmap us -option ctrl:swapcaps`（こちらはだめ）\nした上で\n`add control = Control_L`（こちらはいけた）\nが書かれたファイルをxmodmapで取り込んでます",
-      "user": "UGA29R3FH",
+      "user": "znmxodq1",
       "ts": "1586314608.102400",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -4264,7 +4264,7 @@
         {
           "name": "+1",
           "users": [
-            "U70QDFN82"
+            "yutakatay"
           ],
           "count": 1
         }
@@ -4274,7 +4274,7 @@
       "client_msg_id": "5abd106b-3600-4362-bee7-855f93f41cd2",
       "type": "message",
       "text": "押されないんですよね",
-      "user": "U70QDFN82",
+      "user": "yutakatay",
       "ts": "1586314607.102200",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -4299,7 +4299,7 @@
       "client_msg_id": "A266B5B7-4A84-4A9D-A07F-B424822B1F56",
       "type": "message",
       "text": "xevで何押されてるか調べられます？",
-      "user": "U0GFBAM8U",
+      "user": "syui",
       "ts": "1586314575.101000",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -4323,7 +4323,7 @@
         {
           "name": "+1",
           "users": [
-            "URZFHALTT"
+            "sherwyn.sen"
           ],
           "count": 1
         }
@@ -4333,7 +4333,7 @@
       "client_msg_id": "09f271dd-4b20-490e-87fa-14ffc07d1b68",
       "type": "message",
       "text": "setxkbmapは動かないんですかね？",
-      "user": "U70QDFN82",
+      "user": "yutakatay",
       "ts": "1586314563.100400",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -4358,7 +4358,7 @@
       "client_msg_id": "e4cb0ae2-2670-440b-b60f-f834d75a3863",
       "type": "message",
       "text": "ちょっとxmodmapしてみます",
-      "user": "U70QDFN82",
+      "user": "yutakatay",
       "ts": "1586314541.099800",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -4383,7 +4383,7 @@
       "client_msg_id": "490300cc-430d-48c6-a572-69f87295864f",
       "type": "message",
       "text": "ユタカケイさんの場合それやっても動かなさそうなんですが",
-      "user": "URZFHALTT",
+      "user": "sherwyn.sen",
       "ts": "1586314498.099000",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -4408,7 +4408,7 @@
       "client_msg_id": "441559ab-53ad-43af-8fcb-b711652a295d",
       "type": "message",
       "text": "setxkbmapで入れ替えてたの忘れてた",
-      "user": "UGA29R3FH",
+      "user": "znmxodq1",
       "ts": "1586314470.098300",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -4433,7 +4433,7 @@
       "client_msg_id": "4d8bab29-90ae-4755-82e4-d5c0488b78e0",
       "type": "message",
       "text": "あー",
-      "user": "URZFHALTT",
+      "user": "sherwyn.sen",
       "ts": "1586314465.098100",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -4458,7 +4458,7 @@
       "client_msg_id": "7216d705-96e1-4637-95c8-cc0dc9caafb1",
       "type": "message",
       "text": "xmodmapでadd control = Control_Lしたらいけた",
-      "user": "UGA29R3FH",
+      "user": "znmxodq1",
       "ts": "1586314459.097800",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -4482,7 +4482,7 @@
         {
           "name": "open_mouth",
           "users": [
-            "U70QDFN82"
+            "yutakatay"
           ],
           "count": 1
         }
@@ -4492,7 +4492,7 @@
       "client_msg_id": "489961bb-ad51-4b13-8e69-8fd5f9919a9b",
       "type": "message",
       "text": "ハードウェアの制限ですかね。キーボードの配線の",
-      "user": "URZFHALTT",
+      "user": "sherwyn.sen",
       "ts": "1586314457.097700",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -4517,7 +4517,7 @@
       "client_msg_id": "8b07e994-20eb-4732-929f-07fbc7fe8abc",
       "type": "message",
       "text": "あ、嘘言った",
-      "user": "UGA29R3FH",
+      "user": "znmxodq1",
       "ts": "1586314438.097100",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -4542,7 +4542,7 @@
       "client_msg_id": "35610daf-ab82-434f-801f-e3a957110507",
       "type": "message",
       "text": "つか普通のCtrlだと動くのになんの制限なのか・・・",
-      "user": "U70QDFN82",
+      "user": "yutakatay",
       "ts": "1586314372.096400",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -4567,7 +4567,7 @@
       "client_msg_id": "25b5c16a-dfa3-4c8c-9739-0d6f6aa27eea",
       "type": "message",
       "text": "使ってください",
-      "user": "URZFHALTT",
+      "user": "sherwyn.sen",
       "ts": "1586314361.096200",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -4591,7 +4591,7 @@
         {
           "name": "man-bowing",
           "users": [
-            "U70QDFN82"
+            "yutakatay"
           ],
           "count": 1
         }
@@ -4601,7 +4601,7 @@
       "client_msg_id": "31736545-3967-433a-b9b9-cb4667309fed",
       "type": "message",
       "text": "絵文字で送った",
-      "user": "URZFHALTT",
+      "user": "sherwyn.sen",
       "ts": "1586314354.095900",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -4626,7 +4626,7 @@
       "client_msg_id": "efa765f3-4325-4820-9f38-e7fc46d47293",
       "type": "message",
       "text": "ノートPCのやつだけ",
-      "user": "U70QDFN82",
+      "user": "yutakatay",
       "ts": "1586314320.095000",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -4651,7 +4651,7 @@
       "client_msg_id": "c185087a-5e4d-4bcd-8b74-7b00f49824bf",
       "type": "message",
       "text": "今手元にはキーボードないんですよね。。。すみません。",
-      "user": "U70QDFN82",
+      "user": "yutakatay",
       "ts": "1586314313.094800",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -4675,7 +4675,7 @@
         {
           "name": "keyboard",
           "users": [
-            "URZFHALTT",
+            "sherwyn.sen",
             "U0PM6EYR1"
           ],
           "count": 2
@@ -4686,7 +4686,7 @@
       "client_msg_id": "a16a2d51-6ac1-4f1c-be23-d6a7b1b97a39",
       "type": "message",
       "text": "ほかのキーボードを繋げたら動きますか？",
-      "user": "URZFHALTT",
+      "user": "sherwyn.sen",
       "ts": "1586314283.094000",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -4711,7 +4711,7 @@
       "client_msg_id": "16eb9421-94a2-4743-a6e2-bdc718a7f8f6",
       "type": "message",
       "text": "問題というか制限",
-      "user": "URZFHALTT",
+      "user": "sherwyn.sen",
       "ts": "1586314265.092700",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -4736,7 +4736,7 @@
       "client_msg_id": "07457b01-ef74-4eaa-9105-a25fe9b1c351",
       "type": "message",
       "text": "ですね・・・",
-      "user": "U70QDFN82",
+      "user": "yutakatay",
       "ts": "1586314245.092400",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -4761,7 +4761,7 @@
       "client_msg_id": "483725b5-af2e-48ec-b4a0-786c508fb964",
       "type": "message",
       "text": "その投稿読んだらハードウェアの問題だそうです……",
-      "user": "URZFHALTT",
+      "user": "sherwyn.sen",
       "ts": "1586314238.092000",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -4786,14 +4786,14 @@
       "type": "message",
       "subtype": "thread_broadcast",
       "text": "どっちもだめですね",
-      "user": "U70QDFN82",
+      "user": "yutakatay",
       "ts": "1586314197.090300",
       "thread_ts": "1586313918.084100",
       "root": {
         "client_msg_id": "fc5dad5b-38a6-4c42-9f3c-9be18765c8de",
         "type": "message",
         "text": "まずはswayかi3使ってますか？waylandのほうが違いますので",
-        "user": "URZFHALTT",
+        "user": "sherwyn.sen",
         "ts": "1586313918.084100",
         "team": "T0GFBAM8C",
         "blocks": [
@@ -4818,7 +4818,7 @@
         "reply_users_count": 1,
         "latest_reply": "1586314197.090300",
         "reply_users": [
-          "U70QDFN82"
+          "yutakatay"
         ],
         "is_locked": false,
         "subscribed": false
@@ -4846,7 +4846,7 @@
       "client_msg_id": "44ee06dc-89e0-4d92-99fa-b24191192db5",
       "type": "message",
       "text": "このへんからどうにかしないとだめそうな気がする <https://wiki.archlinux.jp/index.php/X_KeyBoard_extension>",
-      "user": "UGA29R3FH",
+      "user": "znmxodq1",
       "ts": "1586314142.089800",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -4875,7 +4875,7 @@
       "client_msg_id": "a5bfdfe0-21af-4ad8-9628-a40fd7760066",
       "type": "message",
       "text": "<https://bbs.archlinux.org/viewtopic.php?id=245326>\nここらへんが似てそう",
-      "user": "U70QDFN82",
+      "user": "yutakatay",
       "ts": "1586314109.089100",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -4904,7 +4904,7 @@
       "client_msg_id": "50cb3b0c-955f-408c-82a2-9bcc119650ab",
       "type": "message",
       "text": "1, 3-9はOK",
-      "user": "U70QDFN82",
+      "user": "yutakatay",
       "ts": "1586314090.088600",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -4929,7 +4929,7 @@
       "client_msg_id": "b346ab1d-6889-4687-b8f8-a0aacf6fc3f7",
       "type": "message",
       "text": "２だけ",
-      "user": "U70QDFN82",
+      "user": "yutakatay",
       "ts": "1586314082.088400",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -4953,7 +4953,7 @@
         {
           "name": "open_mouth",
           "users": [
-            "URZFHALTT"
+            "sherwyn.sen"
           ],
           "count": 1
         }
@@ -4963,7 +4963,7 @@
       "client_msg_id": "c7dbaeaf-611f-4d0e-b4d1-68615fcffe99",
       "type": "message",
       "text": "それなんですよね・・・キーコード出力されないんです。そこだけ",
-      "user": "U70QDFN82",
+      "user": "yutakatay",
       "ts": "1586314066.088100",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -4988,7 +4988,7 @@
       "client_msg_id": "7aca2bcd-c8bc-42c3-ae77-320a09c46675",
       "type": "message",
       "text": "udevでやってだめって厳しそう（というかこれどうやってキーコード拾ってるんだろう）",
-      "user": "UGA29R3FH",
+      "user": "znmxodq1",
       "ts": "1586314043.087200",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -5013,7 +5013,7 @@
       "client_msg_id": "fcba4d40-c676-41a8-a4c4-b6abd3af387a",
       "type": "message",
       "text": "まじですか・・・",
-      "user": "U70QDFN82",
+      "user": "yutakatay",
       "ts": "1586313990.086000",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -5038,7 +5038,7 @@
       "client_msg_id": "59837435-55d1-41d5-9b32-161ef5226a92",
       "type": "message",
       "text": "xmodmapはだめです",
-      "user": "UGA29R3FH",
+      "user": "znmxodq1",
       "ts": "1586313979.085600",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -5063,7 +5063,7 @@
       "client_msg_id": "c8818db3-c6ec-41b7-9abe-77d2c2577700",
       "type": "message",
       "text": "ですね。udevでやってるんで。xmodmapだとどうだろう。。。やってみます",
-      "user": "U70QDFN82",
+      "user": "yutakatay",
       "ts": "1586313969.085400",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -5088,7 +5088,7 @@
       "client_msg_id": "a838dc8a-91d9-4dbd-945f-afb6f407a8f4",
       "type": "message",
       "text": "上位じゃないや下層か",
-      "user": "UGA29R3FH",
+      "user": "znmxodq1",
       "ts": "1586313941.084700",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -5113,7 +5113,7 @@
       "client_msg_id": "fc5dad5b-38a6-4c42-9f3c-9be18765c8de",
       "type": "message",
       "text": "まずはswayかi3使ってますか？waylandのほうが違いますので",
-      "user": "URZFHALTT",
+      "user": "sherwyn.sen",
       "ts": "1586313918.084100",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -5138,7 +5138,7 @@
       "reply_users_count": 1,
       "latest_reply": "1586314197.090300",
       "reply_users": [
-        "U70QDFN82"
+        "yutakatay"
       ],
       "is_locked": false,
       "subscribed": false
@@ -5147,7 +5147,7 @@
       "client_msg_id": "e1a89bfb-949e-4793-acc1-925e75fd08ae",
       "type": "message",
       "text": "xmodmap等より上位の層でやってるんだろうなこれ",
-      "user": "UGA29R3FH",
+      "user": "znmxodq1",
       "ts": "1586313918.084000",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -5172,7 +5172,7 @@
       "client_msg_id": "cd96aa59-749b-41e2-9af4-29f7e0d6edaa",
       "type": "message",
       "text": "i3 or sway使っててcapsにctrl割り当ててる人で\n`bindsym $mod+Control+2 move container to workspace 2`\n動きますか？？（Ctrl+Win+2で今のウィンドウがワークスペース２に移動するはず）\n\n私Thinkpadですが動かないんですよね・・・",
-      "user": "U70QDFN82",
+      "user": "yutakatay",
       "ts": "1586313815.082000",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -5208,11 +5208,11 @@
       "client_msg_id": "f8692e64-1a39-4e1c-88a9-1712c2854751",
       "type": "message",
       "text": "udev hwdbでcapsをctrlで上書きしたctrlでctrl+win+2が動かない・・・普通のctrlだと動くのに。\nうーんなんでだろう。。。",
-      "user": "U70QDFN82",
+      "user": "yutakatay",
       "ts": "1586312844.079800",
       "team": "T0GFBAM8C",
       "edited": {
-        "user": "U70QDFN82",
+        "user": "yutakatay",
         "ts": "1586312857.000000"
       },
       "blocks": [
@@ -5237,7 +5237,7 @@
       "client_msg_id": "F0823D42-861D-40B7-AF35-8390A1E45700",
       "type": "message",
       "text": "私も最近、カーネルをダウングレードする機会、増えてる気がしますね、笑",
-      "user": "U0GFBAM8U",
+      "user": "syui",
       "ts": "1586257034.076600",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -5262,11 +5262,11 @@
       "client_msg_id": "074ED27E-4E22-4061-AF06-40885475B128",
       "type": "message",
       "text": "記憶による書き込みもよく参考になったりするので、どちらもありがたい",
-      "user": "U0GFBAM8U",
+      "user": "syui",
       "ts": "1586256790.075700",
       "team": "T0GFBAM8C",
       "edited": {
-        "user": "U0GFBAM8U",
+        "user": "syui",
         "ts": "1586256829.000000"
       },
       "blocks": [
@@ -5291,7 +5291,7 @@
       "client_msg_id": "b89933cd-14ca-4597-80dc-f7a923d2e6b1",
       "type": "message",
       "text": "記憶全くあてにならないな（確かにそのほうが正しい）",
-      "user": "UGA29R3FH",
+      "user": "znmxodq1",
       "ts": "1586256392.073700",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -5316,7 +5316,7 @@
       "client_msg_id": "65a819a3-b45c-44be-8a94-9a8ca6e0b224",
       "type": "message",
       "text": "ignorepkgに書いてたんですが、それ出てました",
-      "user": "U0108ASA482",
+      "user": "watakushide.kakusanak",
       "ts": "1586256382.073300",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -5341,7 +5341,7 @@
       "client_msg_id": "97ac4d89-3c54-42a5-84f2-5cf789018309",
       "type": "message",
       "text": "xrandrにset audio onとかあったんだ。知らなかった",
-      "user": "U70QDFN82",
+      "user": "yutakatay",
       "ts": "1586256382.073200",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -5366,7 +5366,7 @@
       "client_msg_id": "478e331d-61b7-44e6-b720-502f8ee8e955",
       "type": "message",
       "text": "まああれ止めたまんまやった。。。ってのがなくなるから正しい感じしますよね",
-      "user": "U70QDFN82",
+      "user": "yutakatay",
       "ts": "1586256345.071500",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -5391,7 +5391,7 @@
       "client_msg_id": "c681f2c1-7cba-4a93-8336-a00e0b213d86",
       "type": "message",
       "text": "更新を無視するだけか",
-      "user": "UGA29R3FH",
+      "user": "znmxodq1",
       "ts": "1586256345.071400",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -5416,7 +5416,7 @@
       "client_msg_id": "a3808b0d-dfa6-4dac-9e04-e1a02da36dac",
       "type": "message",
       "text": "まじか、すみません",
-      "user": "UGA29R3FH",
+      "user": "znmxodq1",
       "ts": "1586256306.070000",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -5441,7 +5441,7 @@
       "client_msg_id": "9c8d9124-44bf-4939-93e9-00ef030e9555",
       "type": "message",
       "text": "IgnorePkgに書いても警告はでますね。\n絶賛警告出され中\nwarning: mesa: ignoring package upgrade (19.3.4-2 =&gt; 20.0.4-1)",
-      "user": "U70QDFN82",
+      "user": "yutakatay",
       "ts": "1586256285.069700",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -5465,7 +5465,7 @@
         {
           "name": "scream",
           "users": [
-            "UGA29R3FH"
+            "znmxodq1"
           ],
           "count": 1
         }
@@ -5475,7 +5475,7 @@
       "client_msg_id": "05d0ad40-079a-4715-be2a-48e95848d9b8",
       "type": "message",
       "text": "更新に気づかないままなのも怖いし、直ってよかったですホントに",
-      "user": "U0108ASA482",
+      "user": "watakushide.kakusanak",
       "ts": "1586255769.068300",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -5500,11 +5500,11 @@
       "client_msg_id": "60c3f6fb-ee13-436e-acb0-29d84e8aa0dd",
       "type": "message",
       "text": "今更ですが、確か`pacman.conf`の`IgnorePkg`の欄に書けば警告出なかった気がします（ArchWayに反するし正しい更新来ても無視されるのでおすすめはしません）",
-      "user": "UGA29R3FH",
+      "user": "znmxodq1",
       "ts": "1586255557.065200",
       "team": "T0GFBAM8C",
       "edited": {
-        "user": "UGA29R3FH",
+        "user": "znmxodq1",
         "ts": "1586255823.000000"
       },
       "blocks": [
@@ -5551,7 +5551,7 @@
       "client_msg_id": "7a178344-61c4-40de-9ad5-880f94499a6c",
       "type": "message",
       "text": "5.6.2にしてからサウンドが出ない件ですが、sudo pacman -Syuするたびにアップグレードを無視します云々が出てきてなんか嫌だったので、なんとかできないかといろいろ試してみました。\n現在Awesomewmを使っているのですが、自動起動のスクリプトに\n```xrandr --output HDMI2 --set audio on　```\nを追加して再起動したところ、無事音が出るようになりました！\nありがとうございました。",
-      "user": "U0108ASA482",
+      "user": "watakushide.kakusanak",
       "ts": "1586255435.063600",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -5593,7 +5593,7 @@
         {
           "name": "clap",
           "users": [
-            "UGA29R3FH",
+            "znmxodq1",
             "UJ7P75WB1"
           ],
           "count": 2
@@ -5601,7 +5601,7 @@
         {
           "name": "tada",
           "users": [
-            "UUWBU08TU",
+            "nyaarch64",
             "UJ7P75WB1"
           ],
           "count": 2
@@ -5612,11 +5612,11 @@
       "client_msg_id": "65d936f2-dc8c-4354-85d2-c9471f9c4b92",
       "type": "message",
       "text": "プラウザを使ったりワークスペースを変えたりもできますが",
-      "user": "URZFHALTT",
+      "user": "sherwyn.sen",
       "ts": "1586228585.058500",
       "team": "T0GFBAM8C",
       "edited": {
-        "user": "URZFHALTT",
+        "user": "sherwyn.sen",
         "ts": "1586228605.000000"
       },
       "blocks": [
@@ -5641,7 +5641,7 @@
       "client_msg_id": "89414f4a-6f77-4758-ae73-97cac30eeee7",
       "type": "message",
       "text": "右側は何もないターミナル",
-      "user": "URZFHALTT",
+      "user": "sherwyn.sen",
       "ts": "1586228305.057000",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -5675,7 +5675,7 @@
           "mimetype": "image/jpeg",
           "filetype": "jpg",
           "pretty_type": "JPEG",
-          "user": "URZFHALTT",
+          "user": "sherwyn.sen",
           "editable": false,
           "size": 135534,
           "mode": "hosted",
@@ -5713,14 +5713,14 @@
           "original_w": 1280,
           "original_h": 720,
           "thumb_tiny": "AwAbADCtDbvKu4OBzjBqX7FL2dafYn5XHo39Ktg0gM9rOZFLF1wBmq/JGDWtP/x7yf7prKXmgYwr703GDUpGTTCMk0wLlkfnceoBq4CPUVjnpSqAe1AjUnYCCTn+E96zQfl49ajcYPFJQFyfI6ZqMdKQAelAPNANn//Z",
-          "permalink": "https://archlinuxjp.slack.com/files/URZFHALTT/F011FR5ETN1/img_20200405_141908_225_2.jpg",
+          "permalink": "https://archlinuxjp.slack.com/files/sherwyn.sen/F011FR5ETN1/img_20200405_141908_225_2.jpg",
           "permalink_public": "https://slack-files.com/T0GFBAM8C-F011FR5ETN1-ac3ce18056",
           "is_starred": false,
           "has_rich_preview": false
         }
       ],
       "upload": true,
-      "user": "URZFHALTT",
+      "user": "sherwyn.sen",
       "display_as_bot": false,
       "ts": "1586228286.056300",
       "blocks": [
@@ -5746,7 +5746,7 @@
       "client_msg_id": "dcf8ed63-879e-4bf4-8a42-539aec1322b0",
       "type": "message",
       "text": "「フリーズ」ということは\n開いてるアプリは使えますが、ターミナルをあけたらプロンプト出てこないんです",
-      "user": "URZFHALTT",
+      "user": "sherwyn.sen",
       "ts": "1586228183.055800",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -5771,7 +5771,7 @@
       "client_msg_id": "425f2234-5699-4c47-9866-c47a15c9f35b",
       "type": "message",
       "text": "でもなぜか4.19-rtは動けません……",
-      "user": "URZFHALTT",
+      "user": "sherwyn.sen",
       "ts": "1586228103.054100",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -5796,7 +5796,7 @@
       "client_msg_id": "1f6fa9b0-a741-4d92-9124-0eb05d94a9c2",
       "type": "message",
       "text": "4.19が一番！",
-      "user": "URZFHALTT",
+      "user": "sherwyn.sen",
       "ts": "1586228078.053400",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -5821,7 +5821,7 @@
       "client_msg_id": "717edead-500e-4cd6-86d0-2f61bf7434d7",
       "type": "message",
       "text": "5.4-rt使ってます",
-      "user": "URZFHALTT",
+      "user": "sherwyn.sen",
       "ts": "1586228049.053000",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -5846,7 +5846,7 @@
       "client_msg_id": "49385e5d-3abf-42e8-82a6-170c7995fc90",
       "type": "message",
       "text": "最近のカーネルでワシのコンピュータが色々壊れてると思う。\n例えば急にフリーズになってしまいます……Wi-Fiの接続は無効になって、ターミナルあけたらプロンプトは出てこないところがあります。やっと出たら、Wi-Fiも蘇るんです…なぜでしょうか",
-      "user": "URZFHALTT",
+      "user": "sherwyn.sen",
       "ts": "1586228039.052700",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -5871,7 +5871,7 @@
       "client_msg_id": "37422424-0f88-480c-8360-789fb0d314f8",
       "type": "message",
       "text": "カニさん、arch頑張って！",
-      "user": "URZFHALTT",
+      "user": "sherwyn.sen",
       "ts": "1586227610.047300",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -5895,8 +5895,8 @@
         {
           "name": "crab",
           "users": [
-            "UUWBU08TU",
-            "U0108ASA482",
+            "nyaarch64",
+            "watakushide.kakusanak",
             "USSBNDE68",
             "UJ7P75WB1"
           ],
@@ -5908,7 +5908,7 @@
       "client_msg_id": "3f8866fc-040b-4872-a2ad-3f0c8ba19627",
       "type": "message",
       "text": "ダウングレードできました！\n無事認識されるようになったので、やはりカーネルが悪さしていたみたいです\nしばらくは5.5.13で動かしてみます",
-      "user": "U0108ASA482",
+      "user": "watakushide.kakusanak",
       "ts": "1586222743.043700",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -5932,12 +5932,12 @@
         {
           "name": "tada",
           "users": [
-            "UGA29R3FH",
-            "UUWBU08TU",
-            "UAPRYSVPS",
-            "URZFHALTT",
+            "znmxodq1",
+            "nyaarch64",
+            "vermilion928",
+            "sherwyn.sen",
             "U3FJYR7MG",
-            "U0GFBAM8U",
+            "syui",
             "UJ7P75WB1"
           ],
           "count": 7

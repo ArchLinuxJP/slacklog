@@ -7,7 +7,7 @@
       "client_msg_id": "4b61792d-ecba-49d8-b2af-22d48fa656b3",
       "type": "message",
       "text": "なるほどありがとうござあいます",
-      "user": "U01HE1ENNJZ",
+      "user": "a3784197",
       "ts": "1617249127.023000",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -32,7 +32,7 @@
       "client_msg_id": "242886e5-9b67-471f-80c5-edaf1a552140",
       "type": "message",
       "text": "<https://wiki.archlinux.jp/index.php/Dm-crypt/%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0%E5%85%A8%E4%BD%93%E3%81%AE%E6%9A%97%E5%8F%B7%E5%8C%96#.E6.A6.82.E8.A6.81|システム全体の暗号化#概要> に載ってます。\nboot を暗号化してもブートローダーは露出するので、改竄のリスクを避けたいのであればセキュアブートが必要です。",
-      "user": "U257W41DW",
+      "user": "odknt",
       "ts": "1617148933.022300",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -62,7 +62,7 @@
       "client_msg_id": "9f8724b8-4a66-4d9d-b8db-a543d3d58c1c",
       "type": "message",
       "text": "上にある/bootを暗号化するメリットってなんですか？",
-      "user": "U01HE1ENNJZ",
+      "user": "a3784197",
       "ts": "1617108017.021500",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -87,14 +87,14 @@
       "type": "message",
       "subtype": "channel_join",
       "ts": "1617005060.020900",
-      "user": "U01T1LMHN9F",
-      "text": "<@U01T1LMHN9F>さんがチャンネルに参加しました"
+      "user": "moz190",
+      "text": "<@moz190>さんがチャンネルに参加しました"
     },
     {
       "client_msg_id": "535feb07-b9f2-4b4f-863f-7b8bb5ff2e02",
       "type": "message",
       "text": "すみません　今Archを入れようとしているのですが、いくつか質問があります。\narchを現在も利用していますが、他人のblogなどを軽く漁ってインストールした(`/boot`は暗号化せず`/`だけ暗号化)ので当方知識が浅く頓珍漢なこと聞いてるかも知れないですが\n答えて貰えると助かります。\n\n<https://wiki.archlinux.jp/index.php/Dm-crypt/%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0%E5%85%A8%E4%BD%93%E3%81%AE%E6%9A%97%E5%8F%B7%E5%8C%96#boot_.E3.83.91.E3.83.BC.E3.83.86.E3.82.A3.E3.82.B7.E3.83.A7.E3.83.B3.E3.81.AE.E6.9A.97.E5.8F.B7.E5.8C.96_.28GRUB.29|wikiにある方法(bootと/の暗号化但し/boot/efiは非暗号化)>で入れようとしているのですが、`/boot`と`/`が暗号化されている場合\n`/`→`/boot`の順番に暗号化解除されるのでしょうか？\nその続きの*fstab と crypttab の設定*に記述されている手順1→2→3は、`/`解除後`/boot`は自動解除する設定ということでしょうか?(つまりパスワード入力は`/`だけ行い`/boot`は一度で済ます)\nまた<https://wiki.archlinux.jp/index.php/Dm-crypt/%E7%89%B9%E8%A8%98%E4%BA%8B%E9%A0%85#.E3.83.AA.E3.83.A2.E3.83.BC.E3.83.88_LUKS_.E3.83.98.E3.83.83.E3.83.80.E3.83.BC.E3.82.92.E4.BD.BF.E3.81.A3.E3.81.A6.E3.82.B7.E3.82.B9.E3.83.86.E3.83.A0.E3.82.92.E6.9A.97.E5.8F.B7.E5.8C.96|wikiにあるluks headerを分離する方法>だと`/`のluks headerを`/boot/`に置く訳ですが、この場合`/boot`から解除しないと`/`解除出来なくないでしょうか？",
-      "user": "U015CDRQDD0",
+      "user": "v3rn3j",
       "ts": "1616730528.016700",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -302,8 +302,8 @@
       "reply_users_count": 2,
       "latest_reply": "1616842358.020600",
       "reply_users": [
-        "U257W41DW",
-        "U015CDRQDD0"
+        "odknt",
+        "v3rn3j"
       ],
       "is_locked": false,
       "subscribed": false
@@ -312,21 +312,21 @@
       "type": "message",
       "subtype": "channel_join",
       "ts": "1616600930.005000",
-      "user": "U01SAL8K6P5",
-      "text": "<@U01SAL8K6P5>さんがチャンネルに参加しました"
+      "user": "oyasumi60",
+      "text": "<@oyasumi60>さんがチャンネルに参加しました"
     },
     {
       "type": "message",
       "subtype": "channel_join",
       "ts": "1616230746.002700",
-      "user": "U01RR0PTG30",
-      "text": "<@U01RR0PTG30>さんがチャンネルに参加しました"
+      "user": "moto",
+      "text": "<@moto>さんがチャンネルに参加しました"
     },
     {
       "client_msg_id": "9bdea69b-6baa-4ca1-8fb9-92d0ed68a4aa",
       "type": "message",
       "text": "そういや/boot配下吹き飛ばしてgrub再インストールしたらなんか治ってました",
-      "user": "U01HE1ENNJZ",
+      "user": "a3784197",
       "ts": "1616200982.002500",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -360,7 +360,7 @@
       "client_msg_id": "00004b7c-e7ce-4821-9840-e4cf0a0f7293",
       "type": "message",
       "text": "そういえば昨日からsoft lockupではなく\nLoading initial ramdisk...で何も出ず止まってます",
-      "user": "U01HE1ENNJZ",
+      "user": "a3784197",
       "ts": "1615937920.001500",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -385,7 +385,7 @@
       "client_msg_id": "7d04a1ff-1027-4314-a2d7-e216890f00ba",
       "type": "message",
       "text": "根本的解決ではなさそうだけど、kernel parameterにnosoftlockup入れたら取り敢えずは起動しそう（未検証）",
-      "user": "U01J1GGMHDJ",
+      "user": "naokihirokitomoki",
       "ts": "1615900590.008000",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -410,7 +410,7 @@
       "client_msg_id": "4a990ac4-e529-43c6-aa38-adbef5ff5006",
       "type": "message",
       "text": "initramfs-linux.imgを削除しmkinitcpioしましたができないです",
-      "user": "U01HE1ENNJZ",
+      "user": "a3784197",
       "ts": "1615893650.006100",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -435,11 +435,11 @@
       "client_msg_id": "b0201d87-4c43-4b32-9c17-568dadc4b911",
       "type": "message",
       "text": "今linuxとheadersを再インストールしてみましたがメインでは起動しませんでした",
-      "user": "U01HE1ENNJZ",
+      "user": "a3784197",
       "ts": "1615893003.005100",
       "team": "T0GFBAM8C",
       "edited": {
-        "user": "U01HE1ENNJZ",
+        "user": "a3784197",
         "ts": "1615894080.000000"
       },
       "blocks": [
@@ -464,7 +464,7 @@
       "client_msg_id": "5cb5d70f-c0dd-4adc-9399-4c7f09881450",
       "type": "message",
       "text": "なぜかfallback initrdで起動しました",
-      "user": "U01HE1ENNJZ",
+      "user": "a3784197",
       "ts": "1615892960.003800",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -489,7 +489,7 @@
       "client_msg_id": "88c6454c-6a91-4d97-824f-c71cee6cd520",
       "type": "message",
       "text": "`➜ pacman -Q linux\nlinux 5.11.6.arch1-1`\nintel i5 8256u\nintel uhd graphics 620で最新版linuxカーネル(stable)を起動したら\n<https://twitter.com/a266_u0/status/1371766443151224832?s=20>\nこれが出て起動しませんでした`mkinitcpio -P`もしました\n前に正常に起動していたときには\n<https://twitter.com/a266_u0/status/1371765487563022336?s=20>\nこれが出ました\nlts切り替えで治りましたが同様の症状の人いますか？",
-      "user": "U01HE1ENNJZ",
+      "user": "a3784197",
       "ts": "1615890976.003200",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -530,7 +530,7 @@
       "client_msg_id": "cb03709b-9ead-4070-8058-97ca25a200b6",
       "type": "message",
       "text": "<https://www.reddit.com/r/archlinux/comments/m44cls/warning_systemdresolved_2474_testing_breaks_dns>\n:eyes:",
-      "user": "UPLFHSQ2V",
+      "user": "conao3",
       "ts": "1615683793.018700",
       "team": "T0GFBAM8C",
       "attachments": [
@@ -590,7 +590,7 @@
       "client_msg_id": "591be282-e48b-45fc-a1fa-3930f3c59348",
       "type": "message",
       "text": "windowsが定期的にファイルシステムいじくるの考えると、やはり面倒でもBIOSで逐一切り替えたほうがarchにも精神衛生上も良さそうですね…ありがとうございます",
-      "user": "U0108ASA482",
+      "user": "watakushide.kakusanak",
       "ts": "1615651970.018500",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -615,7 +615,7 @@
       "client_msg_id": "0B0D94A4-F5BD-43FF-A4BA-01BF18561B03",
       "type": "message",
       "text": "ただ、私もあまりよくわかってない",
-      "user": "U0GFBAM8U",
+      "user": "syui",
       "ts": "1615649377.015600",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -640,11 +640,11 @@
       "client_msg_id": "01D96149-8AD8-4CAB-8D29-0DE7119F6D7A",
       "type": "message",
       "text": "使用するブートローダーによるかもしれませんが、基本的にはwinのパーティションには触れない方が良さそうに思います",
-      "user": "U0GFBAM8U",
+      "user": "syui",
       "ts": "1615649144.015100",
       "team": "T0GFBAM8C",
       "edited": {
-        "user": "U0GFBAM8U",
+        "user": "syui",
         "ts": "1615649711.000000"
       },
       "blocks": [
@@ -669,11 +669,11 @@
       "client_msg_id": "47E1C70E-C9DB-4143-B326-C7F8182C2DE5",
       "type": "message",
       "text": "windows10とarchをそれぞれ別ディスクにインストールしてデュアルブートする場合について質問です。\narchの`/boot`は別ディスクのespパーティションをマウントしても大丈夫ですか？\n例えば\nwindows10が`/dev/sda`にインストールされ、ESPパーティションが`/dev/sda1`だとして\narchを`/dev/sdb`にインストールする際`mount　/dev/sda1　/boot`　とし、`bootctl　path=/boot　install`をする　みたいな",
-      "user": "U0108ASA482",
+      "user": "watakushide.kakusanak",
       "ts": "1615637980.012900",
       "team": "T0GFBAM8C",
       "edited": {
-        "user": "U0108ASA482",
+        "user": "watakushide.kakusanak",
         "ts": "1615641147.000000"
       },
       "blocks": [
@@ -764,39 +764,39 @@
       "type": "message",
       "subtype": "channel_join",
       "ts": "1615450575.001600",
-      "user": "U01R992BACR",
-      "text": "<@U01R992BACR>さんがチャンネルに参加しました"
+      "user": "hisatsune",
+      "text": "<@hisatsune>さんがチャンネルに参加しました"
     },
     {
       "type": "message",
       "subtype": "channel_join",
       "ts": "1615448061.001400",
-      "user": "U01RLBMJED6",
-      "text": "<@U01RLBMJED6>さんがチャンネルに参加しました"
+      "user": "yuma",
+      "text": "<@yuma>さんがチャンネルに参加しました"
     },
     {
       "type": "message",
       "subtype": "channel_join",
       "ts": "1615299101.000300",
-      "user": "U01R0QQC673",
-      "text": "<@U01R0QQC673>さんがチャンネルに参加しました"
+      "user": "kocumaza",
+      "text": "<@kocumaza>さんがチャンネルに参加しました"
     },
     {
       "type": "message",
       "subtype": "thread_broadcast",
       "text": "今はWindowsのbootパーティションをそのまま使っています。\nESPを `/boot/efi` 等に移す場合、このWindowsのbootパーティションとは他にパーティションを切るという理解であっていますか？\n又、rEFIndを使っているのですが、パーティションを分けた後は `refind-install`で問題ないですか？",
-      "user": "UQDJXPHJ9",
+      "user": "cj.bc-sd",
       "ts": "1615129846.044600",
       "thread_ts": "1614912984.030300",
       "root": {
         "client_msg_id": "d182a905-fd0c-40ed-a96f-ec0818087c1d",
         "type": "message",
         "text": "Windowsと共存する場合はEFI stubでブートしているので無ければESPを/bootにマウントするのは避けた方が賢明です\n(Windows10の場合半年に一度の大型アップデートでESPをいじくり回すため)\n自分は/boot/efiにマウントするようにしてます",
-        "user": "UCA1NQM5K",
+        "user": "angel.beats.kanade.yu",
         "ts": "1614912984.030300",
         "team": "T0GFBAM8C",
         "edited": {
-          "user": "UCA1NQM5K",
+          "user": "angel.beats.kanade.yu",
           "ts": "1614913070.000000"
         },
         "blocks": [
@@ -821,7 +821,7 @@
         "reply_users_count": 1,
         "latest_reply": "1615129846.044600",
         "reply_users": [
-          "UQDJXPHJ9"
+          "cj.bc-sd"
         ],
         "is_locked": false,
         "subscribed": false
@@ -871,14 +871,14 @@
       "type": "message",
       "subtype": "channel_join",
       "ts": "1615111663.044100",
-      "user": "U01QTK2CP3K",
-      "text": "<@U01QTK2CP3K>さんがチャンネルに参加しました"
+      "user": "redohagi127",
+      "text": "<@redohagi127>さんがチャンネルに参加しました"
     },
     {
       "client_msg_id": "4ceb1ac9-a574-496a-8927-ae02ca55bbf5",
       "type": "message",
       "text": "espはgrub.efiしか入ってないので空いているのですがbootはカーネルイメージとかあるので心配で",
-      "user": "U01HE1ENNJZ",
+      "user": "a3784197",
       "ts": "1615023057.043900",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -903,7 +903,7 @@
       "client_msg_id": "c972378b-011f-43b5-94a8-7d6e1c5916a0",
       "type": "message",
       "text": "&gt; bootとespのサイズ\n/bootがESPな環境ですが、256Mで足りてますね。(使用量140Mぐらい)\n心配なら512M程度振っておいても損はないかも。",
-      "user": "U017BNGTHT3",
+      "user": "s5is",
       "ts": "1615019671.042500",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -937,14 +937,14 @@
       "type": "message",
       "subtype": "thread_broadcast",
       "text": "noxhaltさんに教えていただいた、手動で行う方法で直りました！！！（試行錯誤はしたけどなんとかなりました）\nクリーンインストールせずに直せて嬉しいです！！ありがとうございます！！！！\nブートパーティションの変更もしておこうと思います…",
-      "user": "UQDJXPHJ9",
+      "user": "cj.bc-sd",
       "ts": "1615008284.039400",
       "thread_ts": "1614906254.024200",
       "root": {
         "client_msg_id": "32025180-cd19-44d5-919e-c8f6ee3f7177",
         "type": "message",
         "text": "ちょっとやらかしたので相談させてください\nWindowsとデュアルブートしているのですが、訳あってブートパーティションを綺麗に(`rm` )した時にWindowsのブートローダーも削除してしまい、Windowsが開かなくなりました…\nなんとか回復したいです\n\n【背景】\nSurface laptop 2に、Windowsとarchのデュアルブートをしています。パーティションはbootパーティション・rootパーティションを分けています。\narch側が昨年11月頃のアップデート( `pacman -Syu` )後うまく動かなくなり、長らく試行錯誤したのですが直せなかったので、つい先日前に必要なデータを吸い出して再インストールする作業に入りました。\nそこで、liveUSBからbootパーティション・rootパーティションをそれぞれ `/mnt/boot`/`/mnt` にマウントし、主要なファイル( `/etc` , `/usr`, `/lib`  など)を削除して再インストールをしました。\nその時に、安直に `rm -rf /mnt/boot` をしてしまいました。\nこれにより、 `/mnt/boot/EFI/Windows` が消えてしまったのがおそらく原因だと思っています\n\n【事後やったこと】\n1. <https://wiki.archlinux.jp/index.php/%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB%E3%83%AA%E3%82%AB%E3%83%90%E3%83%AA|archlinux wikiのファイルリカバリ> を見て、「プロの助けを求めましょう」とあったので、直接の作業はせず\n2. 別パーティションに、ddでbootパーティションのイメージ作成( `rm` したのが20:59、問題発覚が遅かったのでイメージの取得は0:18で、その間に何度か再起動しています…)\n3. liveUSBから起動した後、↑で作成したイメージに対してforemost、photorec実行。それぞれexeファイルは取得できたけど数が多くて何もわからない…\n4. liveUSBに入っていたmcも試しましたが、undelete機能がなかったので使えませんでした\n【どうしたいのか】\nWindowsのブートローダーを取り戻したい。もしくは、公式のどこかから取得してくるでも良いのですが…",
-        "user": "UQDJXPHJ9",
+        "user": "cj.bc-sd",
         "ts": "1614906254.024200",
         "team": "T0GFBAM8C",
         "blocks": [
@@ -1136,7 +1136,7 @@
         "reply_users_count": 1,
         "latest_reply": "1615008284.039400",
         "reply_users": [
-          "UQDJXPHJ9"
+          "cj.bc-sd"
         ],
         "is_locked": false,
         "subscribed": false
@@ -1163,9 +1163,9 @@
         {
           "name": "+1",
           "users": [
-            "U017BNGTHT3",
-            "U0GFBAM8U",
-            "U01HE1ENNJZ"
+            "s5is",
+            "syui",
+            "a3784197"
           ],
           "count": 3
         }
@@ -1175,7 +1175,7 @@
       "client_msg_id": "d30aaa15-70d4-41fa-abfc-8eef6d39db34",
       "type": "message",
       "text": "raspberry pi 用のarm archlinux では（たしかデフォルト?)  /boot パーティションに100MBしか割り当てていないのですが、サイズが足りなくなって pacman でアップデートできなくなりましたね。。。もちろんパーティションを拡大すればなんとかなるはずですが、他の用事で構ってあげられず放置してます。",
-      "user": "UPYQ3CUJ1",
+      "user": "shota.af083",
       "ts": "1614995076.037200",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -1200,7 +1200,7 @@
       "client_msg_id": "13113477-5c55-4cef-ae21-871743b0e90f",
       "type": "message",
       "text": "僕は512MBでやってますね＞boot",
-      "user": "UBEFL3YLE",
+      "user": "mail",
       "ts": "1614986342.034100",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -1225,7 +1225,7 @@
       "client_msg_id": "19e45a3d-3dea-4d6d-8e2d-1a3f0e5c2af5",
       "type": "message",
       "text": "boot,512Mでは少ないですか？",
-      "user": "U01HE1ENNJZ",
+      "user": "a3784197",
       "ts": "1614985265.033700",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -1250,7 +1250,7 @@
       "client_msg_id": "1aa720e5-ecc8-4617-927e-b78f2142bf92",
       "type": "message",
       "text": "ESPは500MBくらい、/bootはいつもパーティションを割らないのですが、割るときは2GB位割りますね",
-      "user": "UCA1NQM5K",
+      "user": "angel.beats.kanade.yu",
       "ts": "1614959933.033100",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -1275,7 +1275,7 @@
       "client_msg_id": "0e321247-0437-47a6-8c77-4eb61309f432",
       "type": "message",
       "text": "bootとespのサイズってどのくらいにしてますか？",
-      "user": "U01HE1ENNJZ",
+      "user": "a3784197",
       "ts": "1614954576.031800",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -1300,11 +1300,11 @@
       "client_msg_id": "d182a905-fd0c-40ed-a96f-ec0818087c1d",
       "type": "message",
       "text": "Windowsと共存する場合はEFI stubでブートしているので無ければESPを/bootにマウントするのは避けた方が賢明です\n(Windows10の場合半年に一度の大型アップデートでESPをいじくり回すため)\n自分は/boot/efiにマウントするようにしてます",
-      "user": "UCA1NQM5K",
+      "user": "angel.beats.kanade.yu",
       "ts": "1614912984.030300",
       "team": "T0GFBAM8C",
       "edited": {
-        "user": "UCA1NQM5K",
+        "user": "angel.beats.kanade.yu",
         "ts": "1614913070.000000"
       },
       "blocks": [
@@ -1329,7 +1329,7 @@
       "reply_users_count": 1,
       "latest_reply": "1615129846.044600",
       "reply_users": [
-        "UQDJXPHJ9"
+        "cj.bc-sd"
       ],
       "is_locked": false,
       "subscribed": false,
@@ -1337,9 +1337,9 @@
         {
           "name": "totemoturai",
           "users": [
-            "U017BNGTHT3",
+            "s5is",
             "U53RAQBCP",
-            "U01HE1ENNJZ",
+            "a3784197",
             "U3FJYR7MG"
           ],
           "count": 4
@@ -1347,9 +1347,9 @@
         {
           "name": "+1",
           "users": [
-            "U017BNGTHT3",
-            "U01HE1ENNJZ",
-            "UQDJXPHJ9"
+            "s5is",
+            "a3784197",
+            "cj.bc-sd"
           ],
           "count": 3
         }
@@ -1359,7 +1359,7 @@
       "client_msg_id": "9b196ad5-0a65-49bd-8e62-c84a7b2de1c6",
       "type": "message",
       "text": "(Windowsのインストールメディア意外とコマンドプロンプトとかも使えるので優秀)",
-      "user": "U017BNGTHT3",
+      "user": "s5is",
       "ts": "1614907026.028800",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -1383,7 +1383,7 @@
         {
           "name": "eyes",
           "users": [
-            "UQDJXPHJ9"
+            "cj.bc-sd"
           ],
           "count": 1
         }
@@ -1393,7 +1393,7 @@
       "client_msg_id": "72070084-d64e-488f-978c-d5eb347ba3d4",
       "type": "message",
       "text": "そうかインストールメディア作ってみる手があるんですね…\n取り急ぎそれをやってみます、ありがとうございます",
-      "user": "UQDJXPHJ9",
+      "user": "cj.bc-sd",
       "ts": "1614906929.028100",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -1418,7 +1418,7 @@
       "client_msg_id": "4D6BB182-8659-4526-AD2D-0575E1BC565E",
       "type": "message",
       "text": "windowsのインストーラーをusbに書き込んで、それを起動した上でwinをインストールすると良さそう",
-      "user": "U0GFBAM8U",
+      "user": "syui",
       "ts": "1614906914.027900",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -1443,7 +1443,7 @@
       "client_msg_id": "12bb4503-7e82-4318-bb3e-420d5584773e",
       "type": "message",
       "text": "Windowsのインストールメディアの修復機能(「コンピューターを修復する」のやつ)を使えばワンチャンありますが、それでもうまく行かない場合は\n<https://freesoft.tvbok.com/tips/efi_installation/uefi_bootrec.html>\nこのあたりを参考に手動で直すしかなさそう。",
-      "user": "U017BNGTHT3",
+      "user": "s5is",
       "ts": "1614906734.025800",
       "team": "T0GFBAM8C",
       "attachments": [
@@ -1492,7 +1492,7 @@
       "client_msg_id": "32025180-cd19-44d5-919e-c8f6ee3f7177",
       "type": "message",
       "text": "ちょっとやらかしたので相談させてください\nWindowsとデュアルブートしているのですが、訳あってブートパーティションを綺麗に(`rm` )した時にWindowsのブートローダーも削除してしまい、Windowsが開かなくなりました…\nなんとか回復したいです\n\n【背景】\nSurface laptop 2に、Windowsとarchのデュアルブートをしています。パーティションはbootパーティション・rootパーティションを分けています。\narch側が昨年11月頃のアップデート( `pacman -Syu` )後うまく動かなくなり、長らく試行錯誤したのですが直せなかったので、つい先日前に必要なデータを吸い出して再インストールする作業に入りました。\nそこで、liveUSBからbootパーティション・rootパーティションをそれぞれ `/mnt/boot`/`/mnt` にマウントし、主要なファイル( `/etc` , `/usr`, `/lib`  など)を削除して再インストールをしました。\nその時に、安直に `rm -rf /mnt/boot` をしてしまいました。\nこれにより、 `/mnt/boot/EFI/Windows` が消えてしまったのがおそらく原因だと思っています\n\n【事後やったこと】\n1. <https://wiki.archlinux.jp/index.php/%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB%E3%83%AA%E3%82%AB%E3%83%90%E3%83%AA|archlinux wikiのファイルリカバリ> を見て、「プロの助けを求めましょう」とあったので、直接の作業はせず\n2. 別パーティションに、ddでbootパーティションのイメージ作成( `rm` したのが20:59、問題発覚が遅かったのでイメージの取得は0:18で、その間に何度か再起動しています…)\n3. liveUSBから起動した後、↑で作成したイメージに対してforemost、photorec実行。それぞれexeファイルは取得できたけど数が多くて何もわからない…\n4. liveUSBに入っていたmcも試しましたが、undelete機能がなかったので使えませんでした\n【どうしたいのか】\nWindowsのブートローダーを取り戻したい。もしくは、公式のどこかから取得してくるでも良いのですが…",
-      "user": "UQDJXPHJ9",
+      "user": "cj.bc-sd",
       "ts": "1614906254.024200",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -1684,7 +1684,7 @@
       "reply_users_count": 1,
       "latest_reply": "1615008284.039400",
       "reply_users": [
-        "UQDJXPHJ9"
+        "cj.bc-sd"
       ],
       "is_locked": false,
       "subscribed": false

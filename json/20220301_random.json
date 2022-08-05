@@ -7,7 +7,7 @@
       "client_msg_id": "a682fa70-2d02-4310-8e39-9664dc557f73",
       "type": "message",
       "text": "<https://bugs.archlinux.org/task/74285>\nサスペンドから戻ったらクラッシュしたってのが",
-      "user": "U0PM6EYR1",
+      "user": "raa0121",
       "ts": "1648705605.616919",
       "team": "T0GFBAM8C",
       "attachments": [
@@ -48,7 +48,7 @@
         {
           "name": "eyes",
           "users": [
-            "U02R6AP6H0C"
+            "yutaro.ono.418"
           ],
           "count": 1
         }
@@ -58,7 +58,7 @@
       "client_msg_id": "65ce15c2-ba74-4e96-89b2-79cf01e1e8bb",
       "type": "message",
       "text": "<https://bugs.archlinux.org/> こっちもじゃないですかね",
-      "user": "U0PM6EYR1",
+      "user": "raa0121",
       "ts": "1648705578.994989",
       "team": "T0GFBAM8C",
       "attachments": [
@@ -99,14 +99,14 @@
         {
           "name": "wakaru",
           "users": [
-            "U70QDFN82"
+            "yutakatay"
           ],
           "count": 1
         },
         {
           "name": "arigata",
           "users": [
-            "U02R6AP6H0C"
+            "yutaro.ono.418"
           ],
           "count": 1
         }
@@ -116,7 +116,7 @@
       "client_msg_id": "57e49674-8af5-4772-a5ea-696ef6d0f511",
       "type": "message",
       "text": "ですね。アプリまで特定できていたらそっちのIssueに行ってる場合も多いですけど",
-      "user": "U70QDFN82",
+      "user": "yutakatay",
       "ts": "1648705251.087079",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -140,7 +140,7 @@
         {
           "name": "naruhodo",
           "users": [
-            "U02R6AP6H0C"
+            "yutaro.ono.418"
           ],
           "count": 1
         }
@@ -150,7 +150,7 @@
       "client_msg_id": "5fc22762-c376-4908-a5b1-f1d60c090e9e",
       "type": "message",
       "text": "こういうときの状況把握って Forum (<https://bbs.archlinux.org/>) でも見てればいいんですかね？",
-      "user": "U02R6AP6H0C",
+      "user": "yutaro.ono.418",
       "ts": "1648703344.513799",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -183,7 +183,7 @@
       "client_msg_id": "8d625a39-f990-4aca-a772-a62dc4cdd37a",
       "type": "message",
       "text": "ぼくは昨日から使ってますが、特になにも異常ないです。(Thinkpad E14)",
-      "user": "U02R6AP6H0C",
+      "user": "yutaro.ono.418",
       "ts": "1648703081.839559",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -207,7 +207,7 @@
         {
           "name": "majika",
           "users": [
-            "U70QDFN82"
+            "yutakatay"
           ],
           "count": 1
         }
@@ -217,11 +217,11 @@
       "client_msg_id": "133205c0-7f4e-44f2-926f-a6740cc0ea1c",
       "type": "message",
       "text": "うーんなんかLinux5.17不安定な気がしますね・・・(Thinkpad X1Carbon)\nフリーズした",
-      "user": "U70QDFN82",
+      "user": "yutakatay",
       "ts": "1648652654.199449",
       "team": "T0GFBAM8C",
       "edited": {
-        "user": "U70QDFN82",
+        "user": "yutakatay",
         "ts": "1648652678.000000"
       },
       "blocks": [
@@ -246,7 +246,7 @@
       "client_msg_id": "dbfc89e1-42af-487e-bf41-13d718e2cdf0",
       "type": "message",
       "text": "カーソル消えたままオンラインミーティングできた私はえらい",
-      "user": "U70QDFN82",
+      "user": "yutakatay",
       "ts": "1648621777.041009",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -270,10 +270,10 @@
         {
           "name": "muscle",
           "users": [
-            "U8T8KB5M4",
-            "UGA29R3FH",
-            "U02BLTTQEL9",
-            "U0H9QUFA5"
+            "h.hata.ai.t",
+            "znmxodq1",
+            "buzz.taiki",
+            "kusanaginoturugi"
           ],
           "count": 4
         }
@@ -283,7 +283,7 @@
       "client_msg_id": "2e607827-1a23-4864-bc37-98f044227cb1",
       "type": "message",
       "text": "この辺読んでたけどなんもわからんかった。\n<https://gitlab.freedesktop.org/wlroots/wlroots/-/blob/master/types/output/cursor.c#L36>",
-      "user": "U8T8KB5M4",
+      "user": "h.hata.ai.t",
       "ts": "1648621649.006599",
       "team": "T0GFBAM8C",
       "attachments": [
@@ -327,7 +327,7 @@
     {
       "type": "message",
       "text": "i3 は X11 のウィンドウマネージャで、Gnome は wlroots 系じゃないので多分発生しない。",
-      "user": "U257W41DW",
+      "user": "odknt",
       "ts": "1648621432.652079",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -351,7 +351,7 @@
     {
       "type": "message",
       "text": "wlroots 系のコンポジタで起きる現象だったと思います。詳しくは知らないけど多分一番テストされてそうな AMD 以外の GPU だと起きる気がする。",
-      "user": "U257W41DW",
+      "user": "odknt",
       "ts": "1648621291.731339",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -375,7 +375,7 @@
         {
           "name": "naruhodo",
           "users": [
-            "U70QDFN82"
+            "yutakatay"
           ],
           "count": 1
         }
@@ -385,11 +385,11 @@
       "client_msg_id": "ca83e50e-1393-4553-ba93-45517918b9da",
       "type": "message",
       "text": "うちの環境の、さっき更新した Linux5.17 + Gnome Wayland では問題なしでした。",
-      "user": "U02BLTTQEL9",
+      "user": "buzz.taiki",
       "ts": "1648621037.905879",
       "team": "T0GFBAM8C",
       "edited": {
-        "user": "U02BLTTQEL9",
+        "user": "buzz.taiki",
         "ts": "1648621071.000000"
       },
       "blocks": [
@@ -413,7 +413,7 @@
         {
           "name": "naruhodo",
           "users": [
-            "U70QDFN82"
+            "yutakatay"
           ],
           "count": 1
         }
@@ -423,7 +423,7 @@
       "client_msg_id": "4f6b1c52-de92-4293-b14a-cc1485f1fe2b",
       "type": "message",
       "text": "```export WLR_NO_HARDWARE_CURSORS=1```\nとりあえず、これ入れたら解決しました",
-      "user": "U70QDFN82",
+      "user": "yutakatay",
       "ts": "1648620820.815169",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -458,7 +458,7 @@
       "client_msg_id": "90889920-9a3b-4bdc-81e3-5574df929e5d",
       "type": "message",
       "text": "アーリーアダプターだ",
-      "user": "UGA29R3FH",
+      "user": "znmxodq1",
       "ts": "1648616460.671119",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -482,14 +482,14 @@
         {
           "name": "totemoturai",
           "users": [
-            "U70QDFN82"
+            "yutakatay"
           ],
           "count": 1
         },
         {
           "name": "+1",
           "users": [
-            "U0GFBAM8U"
+            "syui"
           ],
           "count": 1
         }
@@ -499,7 +499,7 @@
       "client_msg_id": "868BB9EC-C485-41EE-B2E6-A53C16EB2E40",
       "type": "message",
       "text": "yutkatさんが早すぎ説ある",
-      "user": "U0GFBAM8U",
+      "user": "syui",
       "ts": "1648616431.964119",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -524,7 +524,7 @@
       "client_msg_id": "3ff33cfc-c871-485e-8342-aab7a08fd3f7",
       "type": "message",
       "text": "issueにもあがってなさそうだしおま環境なのかな・・・",
-      "user": "U70QDFN82",
+      "user": "yutakatay",
       "ts": "1648616391.269439",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -549,7 +549,7 @@
       "client_msg_id": "D62F10A3-16E4-4F07-B3B3-6E57B7760DF6",
       "type": "message",
       "text": "確認してみると、mirrorのtsukubaは降ってきてなかったけど、jaistは降ってきてた",
-      "user": "U0GFBAM8U",
+      "user": "syui",
       "ts": "1648616346.885869",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -573,7 +573,7 @@
         {
           "name": "hee",
           "users": [
-            "U70QDFN82"
+            "yutakatay"
           ],
           "count": 1
         }
@@ -583,7 +583,7 @@
       "client_msg_id": "21d115fb-f71c-4252-aa70-26a6e8a618c0",
       "type": "message",
       "text": "いえ、今日降ってきたやつですね",
-      "user": "U70QDFN82",
+      "user": "yutakatay",
       "ts": "1648616249.294759",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -608,7 +608,7 @@
       "client_msg_id": "242B20A8-92CF-4F63-B731-3CF07C66AA28",
       "type": "message",
       "text": "linux 5.17は独自にbuildしてるんです?",
-      "user": "U0GFBAM8U",
+      "user": "syui",
       "ts": "1648616221.437129",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -633,7 +633,7 @@
       "client_msg_id": "2522acc4-3c10-4ebe-b7df-4afa38ce8381",
       "type": "message",
       "text": "ですね。ずっと消えてますがブラウザとかでカーソル当たるのはわかるのでそこにあるのはなんとなくわかります",
-      "user": "U70QDFN82",
+      "user": "yutakatay",
       "ts": "1648616159.075539",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -658,7 +658,7 @@
       "client_msg_id": "6B93C274-509B-49E1-9D8E-9CDB48B4372D",
       "type": "message",
       "text": "自分とこは大丈夫ですね\nカーソルはずっと消えた状態?",
-      "user": "U0GFBAM8U",
+      "user": "syui",
       "ts": "1648616108.111439",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -683,7 +683,7 @@
       "client_msg_id": "526138a8-46f1-4e21-89c6-978f98390255",
       "type": "message",
       "text": "i3だとOK。swayを無設定でも消える",
-      "user": "U70QDFN82",
+      "user": "yutakatay",
       "ts": "1648616043.440729",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -708,7 +708,7 @@
       "client_msg_id": "90951021-de48-4718-b993-b571d298b10d",
       "type": "message",
       "text": "おま環かもしれませんが、Linux5.17をswayで使うとカーソルが消える・・・",
-      "user": "U70QDFN82",
+      "user": "yutakatay",
       "ts": "1648616004.980769",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -733,7 +733,7 @@
       "client_msg_id": "42e8c0c5-03cc-43ce-bd2c-f6bc0700ad48",
       "type": "message",
       "text": "Linux5.17でオンボードNICのドライバが外れていた\ndkmsがエラー吐いてたので対応するまでLTS生活かな……",
-      "user": "UVB7L4CKH",
+      "user": "tatsumigamou",
       "ts": "1648598338.593679",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -758,7 +758,7 @@
       "client_msg_id": "f7ada2ce-97a9-45d7-9015-b4f73c8c5dc6",
       "type": "message",
       "text": "あ、やっぱそうですよね。ちょっとめんどい。",
-      "user": "U02BLTTQEL9",
+      "user": "buzz.taiki",
       "ts": "1648541216.790199",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -783,7 +783,7 @@
       "client_msg_id": "83055ebf-b8bf-476f-9ffd-981eb2fdd98c",
       "type": "message",
       "text": "ですね。私もそこちょっとハマりましたね",
-      "user": "U70QDFN82",
+      "user": "yutakatay",
       "ts": "1648540193.860149",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -808,7 +808,7 @@
       "client_msg_id": "df5912bf-250e-42e8-ade1-a5b44e67b9e3",
       "type": "message",
       "text": "`/run/containerd/containerd.sock` が root しか触れないから多分そういう事だよな。",
-      "user": "U02BLTTQEL9",
+      "user": "buzz.taiki",
       "ts": "1648537797.036819",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -840,7 +840,7 @@
       "client_msg_id": "9c28b672-7f01-480e-9777-26073b82ff9d",
       "type": "message",
       "text": "nerdctl、rootless 以外で使うには sudo しないといけない？",
-      "user": "U02BLTTQEL9",
+      "user": "buzz.taiki",
       "ts": "1648537409.439859",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -865,14 +865,14 @@
       "type": "message",
       "subtype": "channel_join",
       "ts": "1648522259.141219",
-      "user": "U03921SFM3L",
-      "text": "<@U03921SFM3L>さんがチャンネルに参加しました",
+      "user": "e195755",
+      "text": "<@e195755>さんがチャンネルに参加しました",
       "reactions": [
         {
           "name": "archjp-joy",
           "users": [
-            "U02BLTTQEL9",
-            "U0GFBAM8U",
+            "buzz.taiki",
+            "syui",
             "UJ7P75WB1"
           ],
           "count": 3
@@ -883,19 +883,19 @@
       "type": "message",
       "subtype": "channel_join",
       "ts": "1648387509.899129",
-      "user": "U038UQ1SEKV",
-      "text": "<@U038UQ1SEKV>さんがチャンネルに参加しました",
+      "user": "alexalex.kobayashi",
+      "text": "<@alexalex.kobayashi>さんがチャンネルに参加しました",
       "reactions": [
         {
           "name": "archjp-joy",
           "users": [
             "U02HC93TJEP",
-            "U02ASPM0A6T",
-            "U02BLTTQEL9",
-            "U0H9QUFA5",
-            "U0GFBAM8U",
+            "yozigen",
+            "buzz.taiki",
+            "kusanaginoturugi",
+            "syui",
             "UJ7P75WB1",
-            "U03921SFM3L",
+            "e195755",
             "U01HE1ENNJZ"
           ],
           "count": 8
@@ -906,7 +906,7 @@
       "client_msg_id": "55a72641-3ae1-4984-804e-f1f9c7312a94",
       "type": "message",
       "text": "xxxctlという名前があまり好きではない",
-      "user": "UGA29R3FH",
+      "user": "znmxodq1",
       "ts": "1648180940.642639",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -930,7 +930,7 @@
         {
           "name": "wakaru",
           "users": [
-            "U70QDFN82",
+            "yutakatay",
             "U01HE1ENNJZ"
           ],
           "count": 2
@@ -941,11 +941,11 @@
       "client_msg_id": "b3e1c9e5-30c7-4741-a72d-bccfb55a7ca2",
       "type": "message",
       "text": "nerdctl使いはじめてますけど、コマンド名が打ちにくい・・・systemctlといいもうちょい考えて欲しい・・・\nalias前提なの？",
-      "user": "U70QDFN82",
+      "user": "yutakatay",
       "ts": "1648179605.861709",
       "team": "T0GFBAM8C",
       "edited": {
-        "user": "U70QDFN82",
+        "user": "yutakatay",
         "ts": "1648190750.000000"
       },
       "blocks": [
@@ -970,7 +970,7 @@
       "client_msg_id": "339bdb48-1e2e-41a5-b40b-9cb786a64522",
       "type": "message",
       "text": "すみません、僕は docker コマンド使ってます......",
-      "user": "U0HJ7EB9T",
+      "user": "aruneko99",
       "ts": "1648129952.788499",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -994,14 +994,14 @@
         {
           "name": "majika",
           "users": [
-            "U70QDFN82"
+            "yutakatay"
           ],
           "count": 1
         },
         {
           "name": "me-too",
           "users": [
-            "U0H9QUFA5",
+            "kusanaginoturugi",
             "U033HLLKXK8",
             "U01HE1ENNJZ"
           ],
@@ -1013,11 +1013,11 @@
       "client_msg_id": "42e2023f-e1bf-4527-96ec-6e0cd046ef09",
       "type": "message",
       "text": "こういうのって知ってる人がちょいちょい情報出してくれないとそのうち「え？まだdocker使ってんの？」とか言われかねないから恐ろしい",
-      "user": "U70QDFN82",
+      "user": "yutakatay",
       "ts": "1648129923.453869",
       "team": "T0GFBAM8C",
       "edited": {
-        "user": "U70QDFN82",
+        "user": "yutakatay",
         "ts": "1648129931.000000"
       },
       "blocks": [
@@ -1042,7 +1042,7 @@
       "client_msg_id": "5794330f-7c18-43b8-b98f-4944cef7c975",
       "type": "message",
       "text": "標準規格という意味ではこちらの方が継続的にメンテナンスされていきそうな予感がしますし、今のうちに慣れ親しんでおくのは良い戦略かと思います！",
-      "user": "U0HJ7EB9T",
+      "user": "aruneko99",
       "ts": "1648129868.923399",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -1066,7 +1066,7 @@
         {
           "name": "+1",
           "users": [
-            "U70QDFN82"
+            "yutakatay"
           ],
           "count": 1
         }
@@ -1076,14 +1076,14 @@
       "type": "message",
       "subtype": "channel_join",
       "ts": "1648129804.468889",
-      "user": "U0382S1F9T9",
-      "text": "<@U0382S1F9T9>さんがチャンネルに参加しました"
+      "user": "nvlk.conf",
+      "text": "<@nvlk.conf>さんがチャンネルに参加しました"
     },
     {
       "client_msg_id": "c24f4967-68bb-4c90-b0dd-74b7f9f873c2",
       "type": "message",
       "text": "ありがとうございます！とりあえずこれからはnerdctl使って行くことにします",
-      "user": "U70QDFN82",
+      "user": "yutakatay",
       "ts": "1648129764.543659",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -1108,7 +1108,7 @@
       "client_msg_id": "5d25722a-0e75-4afd-89e0-fce4318df567",
       "type": "message",
       "text": "`nerdctl` はそれはそれで便利機能を色々実装しているようですし、できればそちらを使うのが良さそうな気はしますけどねー",
-      "user": "U0HJ7EB9T",
+      "user": "aruneko99",
       "ts": "1648129719.447549",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -1139,7 +1139,7 @@
         {
           "name": "naruhodo",
           "users": [
-            "U70QDFN82"
+            "yutakatay"
           ],
           "count": 1
         }
@@ -1149,7 +1149,7 @@
       "client_msg_id": "d4ee1566-c381-495a-af2f-de4161b212c6",
       "type": "message",
       "text": "`docker` コマンドそれ自体が countainerd / podman の提供している標準 API を叩いているだけなので、実はねじれ状態でも使うことができてしまったり。",
-      "user": "U0HJ7EB9T",
+      "user": "aruneko99",
       "ts": "1648129655.776919",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -1180,7 +1180,7 @@
         {
           "name": "hee",
           "users": [
-            "U70QDFN82"
+            "yutakatay"
           ],
           "count": 1
         }
@@ -1190,11 +1190,11 @@
       "client_msg_id": "36513314-e349-458e-98e8-fc36b4568e62",
       "type": "message",
       "text": "dockerに別に使用面での不満があるわけじゃないですけど・・・（財政面的には不安だけど）",
-      "user": "U70QDFN82",
+      "user": "yutakatay",
       "ts": "1648129580.699779",
       "team": "T0GFBAM8C",
       "edited": {
-        "user": "U70QDFN82",
+        "user": "yutakatay",
         "ts": "1648129584.000000"
       },
       "blocks": [
@@ -1219,7 +1219,7 @@
       "client_msg_id": "1947c158-4b80-481b-b83e-465e073e2302",
       "type": "message",
       "text": "なるほど。。。とりあえずnerdctlしとけばナウいですかね？",
-      "user": "U70QDFN82",
+      "user": "yutakatay",
       "ts": "1648129538.266889",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -1244,7 +1244,7 @@
       "client_msg_id": "edef3989-b123-4c59-a1a8-2415137b839e",
       "type": "message",
       "text": "systemd-nspawn は独自路線なので残念ながら......",
-      "user": "U0HJ7EB9T",
+      "user": "aruneko99",
       "ts": "1648129504.683599",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -1269,7 +1269,7 @@
       "client_msg_id": "d9ef21da-834a-4627-8161-df686e18b077",
       "type": "message",
       "text": "podman / containerd は共通の API を実装しているので（たいていの場合は）交換可能ですね。",
-      "user": "U0HJ7EB9T",
+      "user": "aruneko99",
       "ts": "1648129490.061889",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -1294,7 +1294,7 @@
       "client_msg_id": "95408cbe-a186-4bf4-acba-9b0147148ec3",
       "type": "message",
       "text": "結局podmanとかsystemd-nspawnとかとはどういう位置づけなのだろうか・・・？",
-      "user": "U70QDFN82",
+      "user": "yutakatay",
       "ts": "1648129421.291499",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -1319,7 +1319,7 @@
       "client_msg_id": "eb94ad2d-62be-4cd6-8e1d-54682a4f027d",
       "type": "message",
       "text": "nerdctl使ってみようかな\n<https://www.slideshare.net/KoheiTokunaga/dockercontainerd>",
-      "user": "U70QDFN82",
+      "user": "yutakatay",
       "ts": "1648128802.195029",
       "team": "T0GFBAM8C",
       "attachments": [
@@ -1367,7 +1367,7 @@
     {
       "type": "message",
       "text": "今はもう Nvidia でも GBM サポートされたから EGLStream サポートしてない Wayland コンポジタ使えるし、今後も Nvidia ユーザ増えそう。",
-      "user": "U257W41DW",
+      "user": "odknt",
       "ts": "1647998028.476899",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -1391,7 +1391,7 @@
         {
           "name": "goodpoem",
           "users": [
-            "U0H9QUFA5"
+            "kusanaginoturugi"
           ],
           "count": 1
         }
@@ -1401,7 +1401,7 @@
       "client_msg_id": "63bad954-b6bd-4a7a-83da-fd63af059916",
       "type": "message",
       "text": "たしかに。わたしもNvidia搭載のノートだけど Wayland を使いたいので intel 使ってるしなあ。",
-      "user": "U0H9QUFA5",
+      "user": "kusanaginoturugi",
       "ts": "1647997595.325609",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -1426,7 +1426,7 @@
       "client_msg_id": "4d3fdd9a-4922-4ce1-afdc-7134de1417aa",
       "type": "message",
       "text": "意外な結果だった\n<https://www.reddit.com/r/linuxmasterrace/comments/tietwc/what_gpu_do_you_use_on_your_distro_intel_amd_or/>",
-      "user": "U70QDFN82",
+      "user": "yutakatay",
       "ts": "1647777103.252599",
       "team": "T0GFBAM8C",
       "attachments": [
@@ -1480,7 +1480,7 @@
           "mimetype": "image/png",
           "filetype": "png",
           "pretty_type": "PNG",
-          "user": "U02ASPM0A6T",
+          "user": "yozigen",
           "editable": false,
           "size": 639033,
           "mode": "hosted",
@@ -1511,14 +1511,14 @@
           "original_w": 824,
           "original_h": 572,
           "thumb_tiny": "AwAhADCuzIV5P5CojgqB3pAM9OaUjFADljLdBUiwgfeOaWNyye460E5PNADHQKe5B6U3H5VKRuGD+FQknJB4oAc6FHI7GpfLDLhR171YlhZh0FNRXRcAA0hlNco/6EVPsz347U5onY5IGaciuq4wD6UxDQmO1RTKM5BGe9Tskh44x04NNFux9KAIaSlpKACiiigBKXtSUvagD//Z",
-          "permalink": "https://archlinuxjp.slack.com/files/U02ASPM0A6T/F037WFUABT6/image.png",
+          "permalink": "https://archlinuxjp.slack.com/files/yozigen/F037WFUABT6/image.png",
           "permalink_public": "https://slack-files.com/T0GFBAM8C-F037WFUABT6-3af3b9e4d9",
           "is_starred": false,
           "has_rich_preview": false
         }
       ],
       "upload": false,
-      "user": "U02ASPM0A6T",
+      "user": "yozigen",
       "display_as_bot": false,
       "ts": "1647760135.509969",
       "blocks": [
@@ -1570,9 +1570,9 @@
       "reply_users_count": 3,
       "latest_reply": "1647824482.375089",
       "reply_users": [
-        "U8T8KB5M4",
-        "U02ASPM0A6T",
-        "U017BNGTHT3"
+        "h.hata.ai.t",
+        "yozigen",
+        "s5is"
       ],
       "is_locked": false,
       "subscribed": false
@@ -1581,7 +1581,7 @@
       "client_msg_id": "622d280f-28b0-4d8e-946d-eeb46fc2de43",
       "type": "message",
       "text": "だいたいBT &amp; WiFiを認証済みのに載せ替えればOKなはず",
-      "user": "UD124KPDJ",
+      "user": "claude0803sz",
       "ts": "1647758889.057449",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -1606,7 +1606,7 @@
       "client_msg_id": "a306bd2f-e1ac-4842-b25e-fe3f36ed3287",
       "type": "message",
       "text": "Q18を見ると本体に技適マークつけるのは任意って書いてあるし。",
-      "user": "U8T8KB5M4",
+      "user": "h.hata.ai.t",
       "ts": "1647758761.970539",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -1630,14 +1630,14 @@
         {
           "name": "hee",
           "users": [
-            "U70QDFN82"
+            "yutakatay"
           ],
           "count": 1
         },
         {
           "name": "hai-small",
           "users": [
-            "UD124KPDJ"
+            "claude0803sz"
           ],
           "count": 1
         }
@@ -1647,7 +1647,7 @@
       "client_msg_id": "aa0dd416-60c5-48b7-ab45-04769709e254",
       "type": "message",
       "text": "これのQ17をみると技適通ってるWiFiモジュール使えばOKなのでは？という気もしてくる。\n<https://www.telec.or.jp/faq/>",
-      "user": "U8T8KB5M4",
+      "user": "h.hata.ai.t",
       "ts": "1647758728.451209",
       "team": "T0GFBAM8C",
       "attachments": [
@@ -1689,7 +1689,7 @@
       "client_msg_id": "c9aef929-ec73-4b8f-af88-e53c55eb54c4",
       "type": "message",
       "text": "bluetoothだけなのかな",
-      "user": "U8T8KB5M4",
+      "user": "h.hata.ai.t",
       "ts": "1647758462.528879",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -1714,7 +1714,7 @@
       "client_msg_id": "6efb99b8-e746-45c6-bfb1-92efadb809e9",
       "type": "message",
       "text": "自分でwifiのモジュールだけ差し替えたらOKになるのかしら？\n<https://www.musen-connect.co.jp/blog/course/other/japan-radio-law-speedup/#i-3>",
-      "user": "U8T8KB5M4",
+      "user": "h.hata.ai.t",
       "ts": "1647758420.875139",
       "team": "T0GFBAM8C",
       "attachments": [
@@ -1773,7 +1773,7 @@
       "client_msg_id": "297e8c54-889b-44e3-b562-beadc67f2d68",
       "type": "message",
       "text": "旅行者もっと前からOKな認識だったけど2019年だったんだ。最近時間感覚がやばいな・・・",
-      "user": "U70QDFN82",
+      "user": "yutakatay",
       "ts": "1647758416.040509",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -1798,7 +1798,7 @@
       "client_msg_id": "8d2a00a7-1eba-4ac5-af8d-08abeab0760b",
       "type": "message",
       "text": "勉強になった\n<https://techlog.iij.ad.jp/archives/2689>",
-      "user": "U8T8KB5M4",
+      "user": "h.hata.ai.t",
       "ts": "1647758294.702449",
       "team": "T0GFBAM8C",
       "attachments": [
@@ -1843,7 +1843,7 @@
       "client_msg_id": "e94cfca3-804a-47ea-8a21-ba151c6a08a2",
       "type": "message",
       "text": "ノートPCでWiFiなしかあ・・まあUSBでつなぐとかしておけばいいのか。う〜む",
-      "user": "U02ASPM0A6T",
+      "user": "yozigen",
       "ts": "1647757853.310119",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -1868,7 +1868,7 @@
       "client_msg_id": "7002de2e-25b4-4fa7-b284-01468a5ec6c0",
       "type": "message",
       "text": "技適って基本的にWiFi が問題なので、WiFiモジュールなしのならセーフかもしれない",
-      "user": "U0PM6EYR1",
+      "user": "raa0121",
       "ts": "1647757269.007259",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -1893,11 +1893,11 @@
       "client_msg_id": "4cb1561d-fc02-4c64-b0c0-7ea6f38d9ab9",
       "type": "message",
       "text": "技適そろそろ見直すべき時期なのではと思う。ガラパゴ認証よくない",
-      "user": "U70QDFN82",
+      "user": "yutakatay",
       "ts": "1647757202.574049",
       "team": "T0GFBAM8C",
       "edited": {
-        "user": "U70QDFN82",
+        "user": "yutakatay",
         "ts": "1647757365.000000"
       },
       "blocks": [
@@ -1922,7 +1922,7 @@
       "client_msg_id": "5ff13e2e-5278-4c81-ab7e-bac13ac66c9d",
       "type": "message",
       "text": "技適的にグレーゾーンなので自己責任でって感じかと思います &lt; 輸入代行",
-      "user": "UD124KPDJ",
+      "user": "claude0803sz",
       "ts": "1647756903.486239",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -1946,8 +1946,8 @@
         {
           "name": "naruhodo",
           "users": [
-            "U02ASPM0A6T",
-            "U01J1GGMHDJ",
+            "yozigen",
+            "naokihirokitomoki",
             "U01HE1ENNJZ"
           ],
           "count": 3
@@ -1958,7 +1958,7 @@
       "client_msg_id": "d841cb4e-e600-4107-97fa-04b8f536e6f1",
       "type": "message",
       "text": "私初期不良確認用に実はWIndows欲しかったりするかも・・・",
-      "user": "U70QDFN82",
+      "user": "yutakatay",
       "ts": "1647756899.721129",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -1983,7 +1983,7 @@
       "client_msg_id": "e3ffc0c5-daea-486b-9afa-b4e611e4a887",
       "type": "message",
       "text": "OSなしで買えるのは利点かも",
-      "user": "U0PM6EYR1",
+      "user": "raa0121",
       "ts": "1647756833.958109",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -2008,7 +2008,7 @@
       "client_msg_id": "1f86b6de-7e85-4315-9c2b-00ba670652f7",
       "type": "message",
       "text": "正直HWのカスタマイズ性ってあんまり重要視してないなー\nある程度型がないと選ぶのも難しい",
-      "user": "U70QDFN82",
+      "user": "yutakatay",
       "ts": "1647756808.774649",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -2033,7 +2033,7 @@
       "client_msg_id": "68970b5d-69e1-4439-9b79-ca5b2c8a17d7",
       "type": "message",
       "text": "ああ輸入代行業者を通してとかもこういう場合ほんとはやっちゃいけないんですかね",
-      "user": "U02ASPM0A6T",
+      "user": "yozigen",
       "ts": "1647756388.576439",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -2058,7 +2058,7 @@
       "client_msg_id": "2d62da62-9470-45af-b29e-1ba9f5d99e7c",
       "type": "message",
       "text": "技適問題が大きそう &lt; おま国",
-      "user": "UD124KPDJ",
+      "user": "claude0803sz",
       "ts": "1647756328.588619",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -2083,7 +2083,7 @@
       "client_msg_id": "e4fe960f-c5c2-4cd8-b2da-dace25402ef8",
       "type": "message",
       "text": "&gt; We haven’t opened ordering in your region yet, but we’re looking forward to getting there!\nCountry or Region を日本にしたら、配送してないよって言われた",
-      "user": "U0PM6EYR1",
+      "user": "raa0121",
       "ts": "1647756175.335509",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -2117,7 +2117,7 @@
       "client_msg_id": "8a3a7a83-a83a-4b13-b336-51ab7ac528a3",
       "type": "message",
       "text": "随分Mac風だ",
-      "user": "U0PM6EYR1",
+      "user": "raa0121",
       "ts": "1647755932.640309",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -2142,7 +2142,7 @@
       "client_msg_id": "2fd40db7-aa25-4eae-aa39-f3c5ff24af9f",
       "type": "message",
       "text": "こういうのお金があれば出す価値はあるとは思っているけれども、大体日本への配送に対応してない:face_with_rolling_eyes:",
-      "user": "U01J1GGMHDJ",
+      "user": "naokihirokitomoki",
       "ts": "1647755900.684369",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -2172,11 +2172,11 @@
       "client_msg_id": "a49675fe-489b-4565-980c-5dfc340bb128",
       "type": "message",
       "text": "自作PCのようにマザーボード等のパーツ交換可能というコンセプトのノートPC。\n付属のドライバー・スクレーパー一体型ツール一本で全部バラせるのが魅力的\n<https://frame.work>\nノートPCのATX規格みたいのマジ欲しい",
-      "user": "U02ASPM0A6T",
+      "user": "yozigen",
       "ts": "1647755430.389929",
       "team": "T0GFBAM8C",
       "edited": {
-        "user": "U02ASPM0A6T",
+        "user": "yozigen",
         "ts": "1647755500.000000"
       },
       "blocks": [
@@ -2209,15 +2209,15 @@
       "type": "message",
       "subtype": "channel_join",
       "ts": "1647715155.036409",
-      "user": "U03865NEFEV",
-      "text": "<@U03865NEFEV>さんがチャンネルに参加しました",
+      "user": "gingama4",
+      "text": "<@gingama4>さんがチャンネルに参加しました",
       "reactions": [
         {
           "name": "archjp-joy",
           "users": [
-            "U02ASPM0A6T",
+            "yozigen",
             "U02HC93TJEP",
-            "U0GFBAM8U"
+            "syui"
           ],
           "count": 3
         }
@@ -2227,7 +2227,7 @@
       "client_msg_id": "36a4f55e-490b-4323-b21e-eef0cb9e8443",
       "type": "message",
       "text": "ArchのTwitterコミュニティあるらしい（英語）\nまあ私はTwitterコミュニティほぼ使ってないですけど・・・\n<https://twitter.com/i/communities/1492974713064378370>",
-      "user": "U70QDFN82",
+      "user": "yutakatay",
       "ts": "1647621001.548639",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -2256,7 +2256,7 @@
       "client_msg_id": "1fb62fb1-988e-44bf-9533-2118c9bb7013",
       "type": "message",
       "text": "gitのリポジトリ掘り返すと公開されてる物の中では世界初だと思われるgitによるコミットが出てくる",
-      "user": "UGA29R3FH",
+      "user": "znmxodq1",
       "ts": "1647581316.716099",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -2281,8 +2281,8 @@
       "reply_users_count": 2,
       "latest_reply": "1647582300.698969",
       "reply_users": [
-        "UGA29R3FH",
-        "U70QDFN82"
+        "znmxodq1",
+        "yutakatay"
       ],
       "is_locked": false,
       "subscribed": false
@@ -2291,11 +2291,11 @@
       "client_msg_id": "aa94c121-9a00-46da-b6b5-de2ff5356492",
       "type": "message",
       "text": "git、2週間くらいでセルフホストしてて(らしい)それからずっと続いているのがすごい",
-      "user": "UGA29R3FH",
+      "user": "znmxodq1",
       "ts": "1647581253.952419",
       "team": "T0GFBAM8C",
       "edited": {
-        "user": "UGA29R3FH",
+        "user": "znmxodq1",
         "ts": "1647581267.000000"
       },
       "blocks": [
@@ -2319,8 +2319,8 @@
         {
           "name": "hee",
           "users": [
-            "U70QDFN82",
-            "U01J1GGMHDJ"
+            "yutakatay",
+            "naokihirokitomoki"
           ],
           "count": 2
         }
@@ -2330,7 +2330,7 @@
       "client_msg_id": "afe81ab0-6770-40ae-9217-e999d42b852a",
       "type": "message",
       "text": "Linusは個人で２ホーマーしてるからすごい（LInux, git）",
-      "user": "U70QDFN82",
+      "user": "yutakatay",
       "ts": "1647581203.146859",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -2355,11 +2355,11 @@
       "client_msg_id": "b7685aa4-63fe-4704-92c7-a251ea2e6a03",
       "type": "message",
       "text": "dockerもdockerはよかったけど(2ベースヒット)後続が続いてなくて可哀想なことになってきてるし",
-      "user": "U70QDFN82",
+      "user": "yutakatay",
       "ts": "1647581161.308819",
       "team": "T0GFBAM8C",
       "edited": {
-        "user": "U70QDFN82",
+        "user": "yutakatay",
         "ts": "1647581423.000000"
       },
       "blocks": [
@@ -2384,11 +2384,11 @@
       "client_msg_id": "a929d1dc-4038-40b9-ac28-93fa513c9539",
       "type": "message",
       "text": "今考えるとLinux, OSS界隈の企業でマルチヒット記録してるところってあんまりいないんだな〜\nHashiCorpとかは割とあたってる気がする（vagrant, terraform）",
-      "user": "U70QDFN82",
+      "user": "yutakatay",
       "ts": "1647581052.866619",
       "team": "T0GFBAM8C",
       "edited": {
-        "user": "U70QDFN82",
+        "user": "yutakatay",
         "ts": "1647581118.000000"
       },
       "blocks": [
@@ -2413,7 +2413,7 @@
       "client_msg_id": "601253e3-793c-48a7-b678-ed04e3a8a2af",
       "type": "message",
       "text": "Red Hat、libvirtやsystemd周りでお世話になりっぱなし",
-      "user": "UGA29R3FH",
+      "user": "znmxodq1",
       "ts": "1647580587.968539",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -2438,7 +2438,7 @@
       "client_msg_id": "392f8bd3-2254-4a6c-b744-da1b3be0445e",
       "type": "message",
       "text": "みんな違ってみんないい。色々あって互いに改善されていけばいいなと思います。",
-      "user": "U8T8KB5M4",
+      "user": "h.hata.ai.t",
       "ts": "1647580560.765159",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -2463,7 +2463,7 @@
       "client_msg_id": "441b96c7-132a-4f34-b33f-0701c367a6be",
       "type": "message",
       "text": "ちなみに個人的にはRedHatも同じ部類だけど、ansibleで若干一発屋ではなくなった",
-      "user": "U70QDFN82",
+      "user": "yutakatay",
       "ts": "1647580454.292129",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -2488,7 +2488,7 @@
       "client_msg_id": "4c64c4a2-20de-4ff0-b5e3-7a9be5692240",
       "type": "message",
       "text": "個人的にはCanonicalの作るものそんなに信頼していない。なんというかチープなことが多い\nUbuntuだけやっていればいい",
-      "user": "U70QDFN82",
+      "user": "yutakatay",
       "ts": "1647580198.809829",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -2512,9 +2512,9 @@
         {
           "name": "wakaru",
           "users": [
-            "UGA29R3FH",
-            "U017BNGTHT3",
-            "U01J1GGMHDJ"
+            "znmxodq1",
+            "s5is",
+            "naokihirokitomoki"
           ],
           "count": 3
         }
@@ -2524,11 +2524,11 @@
       "client_msg_id": "644fa4b1-78de-4fac-83c9-07941dc4794d",
       "type": "message",
       "text": "snap、 Ubuntu で go の最新版入れるのに使ったことがあります",
-      "user": "U0PM6EYR1",
+      "user": "raa0121",
       "ts": "1647580091.979969",
       "team": "T0GFBAM8C",
       "edited": {
-        "user": "U0PM6EYR1",
+        "user": "raa0121",
         "ts": "1647580100.000000"
       },
       "blocks": [
@@ -2553,7 +2553,7 @@
       "client_msg_id": "2ffc18af-a332-4a8c-be9d-eaaee4240af9",
       "type": "message",
       "text": "日本語入力周りでトラブると聞くので避けてしまってる",
-      "user": "UGA29R3FH",
+      "user": "znmxodq1",
       "ts": "1647580068.049489",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -2577,8 +2577,8 @@
         {
           "name": "wakaru",
           "users": [
-            "U70QDFN82",
-            "U01J1GGMHDJ"
+            "yutakatay",
+            "naokihirokitomoki"
           ],
           "count": 2
         }
@@ -2588,7 +2588,7 @@
       "client_msg_id": "f0b89329-90b1-4210-bd32-db70ec851162",
       "type": "message",
       "text": "一応動くのか <https://wiki.archlinux.jp/index.php/Snap|https://wiki.archlinux.jp/index.php/Snap>",
-      "user": "UGA29R3FH",
+      "user": "znmxodq1",
       "ts": "1647580033.766579",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -2618,7 +2618,7 @@
       "client_msg_id": "2c752a35-2ec4-4daf-b920-11bb7b00ba1e",
       "type": "message",
       "text": "~お、我らがpkg.tar.xzを差し置いてsnapとな？となるので嫌い~",
-      "user": "UGA29R3FH",
+      "user": "znmxodq1",
       "ts": "1647580025.295119",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -2646,7 +2646,7 @@
       "client_msg_id": "6094074d-56a0-4d97-83d7-f29bce441676",
       "type": "message",
       "text": "私は逆にsnapを使ったことがない。（正確にはGUIからクリックしたことはあるけどどう動いてるかとかどこらへんが強みかとかあんまり知らない）",
-      "user": "U70QDFN82",
+      "user": "yutakatay",
       "ts": "1647579881.085149",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -2671,7 +2671,7 @@
       "client_msg_id": "84d19315-7833-49fe-8223-7b2041926d95",
       "type": "message",
       "text": "みんなで使う開発サーバーとか立ち上げる必要があったときにはlinuxbrew便利でしたね。\nだいたいそういうときのOSってArchじゃないし、root権限もなかったりするんで",
-      "user": "U70QDFN82",
+      "user": "yutakatay",
       "ts": "1647579806.770899",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -2696,7 +2696,7 @@
       "client_msg_id": "098ada8a-aba7-4ef0-b3fd-6c0c97fec496",
       "type": "message",
       "text": "Arch 使うなら、Linuxbrew は不要な気がする",
-      "user": "U0PM6EYR1",
+      "user": "raa0121",
       "ts": "1647579459.419139",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -2720,9 +2720,9 @@
         {
           "name": "wakaru",
           "users": [
-            "UGA29R3FH",
-            "U70QDFN82",
-            "U01J1GGMHDJ"
+            "znmxodq1",
+            "yutakatay",
+            "naokihirokitomoki"
           ],
           "count": 3
         }
@@ -2732,7 +2732,7 @@
       "client_msg_id": "b2fb97f5-8094-4fb2-8031-8366e2e903bf",
       "type": "message",
       "text": "（ちょっと乗り遅れた）\nLinuxBrew使ったことないですね",
-      "user": "UVB7L4CKH",
+      "user": "tatsumigamou",
       "ts": "1647579281.376389",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -2757,7 +2757,7 @@
       "client_msg_id": "2277e96b-660a-4ef4-8e17-57a21d5d367b",
       "type": "message",
       "text": "AURから持ってくるかPKGBUILD書くと大体事足りる",
-      "user": "UGA29R3FH",
+      "user": "znmxodq1",
       "ts": "1647577710.343489",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -2782,7 +2782,7 @@
       "client_msg_id": "1b95da16-36b7-4131-a36f-be945cff71bf",
       "type": "message",
       "text": "ディストリビューション標準のがあればそっち使ったほうがハマらないので標準に寄せちゃいますね。",
-      "user": "U8T8KB5M4",
+      "user": "h.hata.ai.t",
       "ts": "1647577653.605989",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -2806,8 +2806,8 @@
         {
           "name": "naruhodo",
           "users": [
-            "U70QDFN82",
-            "U01J1GGMHDJ"
+            "yutakatay",
+            "naokihirokitomoki"
           ],
           "count": 2
         },
@@ -2824,7 +2824,7 @@
       "client_msg_id": "99c0b07d-8d20-42ae-a213-dc454e02ea11",
       "type": "message",
       "text": "へー意外。マルチOS使いこなす人ってbrew使うイメージだった",
-      "user": "U70QDFN82",
+      "user": "yutakatay",
       "ts": "1647577560.036829",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -2849,7 +2849,7 @@
       "client_msg_id": "a9658eb9-d898-4e21-8f3f-2aa4bb746539",
       "type": "message",
       "text": "自分はbrewはMacでしか使わないって割り切っちゃってますね。",
-      "user": "U8T8KB5M4",
+      "user": "h.hata.ai.t",
       "ts": "1647577521.322719",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -2874,7 +2874,7 @@
       "client_msg_id": "947a9972-b398-4e37-88d8-97c2060a2919",
       "type": "message",
       "text": "ぱっと妄想してみたけど意外とやれないことはない気がしてきた\napt：システム系\nsnap：Ubuntuでのみ使う最新GUIツール系\nbrew：他のOSとも共用するツール系\nasdf：マルチバージョン管理する系\nzinit：CLIでのみ使う系",
-      "user": "U70QDFN82",
+      "user": "yutakatay",
       "ts": "1647577455.033429",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -2899,7 +2899,7 @@
       "client_msg_id": "34ee5d4f-72b6-4ef6-9dbc-fc698cda5f56",
       "type": "message",
       "text": "もう１システム１ユーザー感ありますしねー\nそういえば私も昔そこらへんの使い分け頑張ってた時期があったことを思い出した（開発ツール系はユーザーのhome下にいれて、絶対必要なやつはsystemにいれてみたいなの）",
-      "user": "U70QDFN82",
+      "user": "yutakatay",
       "ts": "1647577107.720939",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -2924,7 +2924,7 @@
       "client_msg_id": "db1f942b-382d-47e1-bd0f-a3469133b6e1",
       "type": "message",
       "text": "NixOSのSystemとUserですら使い分けに困ったというのに…",
-      "user": "U017BNGTHT3",
+      "user": "s5is",
       "ts": "1647576897.383689",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -2949,7 +2949,7 @@
       "client_msg_id": "eb4a033d-f202-4e20-b0f7-05bda465d419",
       "type": "message",
       "text": "aptとsnapとbrewとasdfとzinitをいい感じで使い分けてる人の意見を聞きたい",
-      "user": "U70QDFN82",
+      "user": "yutakatay",
       "ts": "1647576693.468669",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -2974,7 +2974,7 @@
       "client_msg_id": "09222550-b80b-42b9-80b2-b7edd863ecf4",
       "type": "message",
       "text": "Ubuntuで何かを入れようとしたらREADME.mdにsnap使ってねって書いてあってaptとsnapが混在していくのが辛いです。",
-      "user": "U8T8KB5M4",
+      "user": "h.hata.ai.t",
       "ts": "1647576630.608959",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -2998,11 +2998,11 @@
         {
           "name": "wakaru",
           "users": [
-            "U70QDFN82",
-            "UGA29R3FH",
-            "U01J1GGMHDJ",
+            "yutakatay",
+            "znmxodq1",
+            "naokihirokitomoki",
             "U031Y1JFXM2",
-            "U0H9QUFA5"
+            "kusanaginoturugi"
           ],
           "count": 5
         }
@@ -3012,7 +3012,7 @@
       "client_msg_id": "c897dcfa-561c-40c7-995d-f62f38124d90",
       "type": "message",
       "text": "殺伐としていたあの頃が懐かしい",
-      "user": "U70QDFN82",
+      "user": "yutakatay",
       "ts": "1647576483.886929",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -3037,7 +3037,7 @@
       "client_msg_id": "8bdf5c6e-9508-4d6b-be16-aad599c1da37",
       "type": "message",
       "text": "なつかしい、訴えられて名前変えたやつだ。",
-      "user": "U8T8KB5M4",
+      "user": "h.hata.ai.t",
       "ts": "1647576422.207399",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -3062,7 +3062,7 @@
       "client_msg_id": "52647648-4630-4be1-b7c5-84af1371d468",
       "type": "message",
       "text": "~Lindows~",
-      "user": "U70QDFN82",
+      "user": "yutakatay",
       "ts": "1647576356.563809",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -3089,10 +3089,10 @@
         {
           "name": "thinking_face",
           "users": [
-            "U0PM6EYR1",
-            "UGA29R3FH",
+            "raa0121",
+            "znmxodq1",
             "UCA1NQM5K",
-            "U01J1GGMHDJ"
+            "naokihirokitomoki"
           ],
           "count": 4
         }
@@ -3102,7 +3102,7 @@
       "client_msg_id": "2b387ca8-2b2d-47ba-a22c-18e903716c24",
       "type": "message",
       "text": "Unix だっけ",
-      "user": "U0PM6EYR1",
+      "user": "raa0121",
       "ts": "1647576351.243649",
       "team": "T0GFBAM8C",
       "blocks": [

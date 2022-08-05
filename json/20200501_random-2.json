@@ -7,14 +7,14 @@
       "type": "message",
       "subtype": "channel_join",
       "ts": "1589004406.272000",
-      "user": "U013AD25ULD",
-      "text": "<@U013AD25ULD>さんがチャンネルに参加しました"
+      "user": "noahzark2525",
+      "text": "<@noahzark2525>さんがチャンネルに参加しました"
     },
     {
       "client_msg_id": "222cd28c-9290-4439-b72f-a4a63e788047",
       "type": "message",
       "text": "ベンチ取ったことはないので正確には分かりませんが\n<https://liquorix.net>\nを見る限りハードウェア制御周りは結構チューニングされているようです\n少なくとも重くなった感じはありませんね",
-      "user": "UVB7L4CKH",
+      "user": "tatsumigamou",
       "ts": "1588994509.271600",
       "team": "T0GFBAM8C",
       "attachments": [
@@ -59,7 +59,7 @@
         {
           "name": "man-bowing",
           "users": [
-            "U70QDFN82"
+            "yutakatay"
           ],
           "count": 1
         }
@@ -69,7 +69,7 @@
       "client_msg_id": "8d029858-a6ba-4845-bfef-9429089abba4",
       "type": "message",
       "text": "zen前から興味あるんですが体感で結構パフォーマンス違うものですか？？",
-      "user": "U70QDFN82",
+      "user": "yutakatay",
       "ts": "1588994208.270700",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -94,7 +94,7 @@
       "client_msg_id": "a57e470e-a405-46db-a5ff-c63bb8efad50",
       "type": "message",
       "text": "今まさにするの忘れてて焦ってたんですけど、ちゃんと起動してくれました",
-      "user": "U0108ASA482",
+      "user": "watakushide.kakusanak",
       "ts": "1588992894.270000",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -119,11 +119,11 @@
       "client_msg_id": "b7f1598c-4e37-4244-ab43-cd4328c515d1",
       "type": "message",
       "text": "bootctl updateも特にやらなくて大丈夫かと\n起動時にentries配下勝手に読んでくれる(はず)ので",
-      "user": "U3FJYR7MG",
+      "user": "dohq",
       "ts": "1588991764.269100",
       "team": "T0GFBAM8C",
       "edited": {
-        "user": "U3FJYR7MG",
+        "user": "dohq",
         "ts": "1588991784.000000"
       },
       "blocks": [
@@ -148,7 +148,7 @@
       "client_msg_id": "ffb599ae-8151-48e1-a41a-b1882c9f1b8e",
       "type": "message",
       "text": "カーネルを追加されるならついでにLTSカーネルも入れておくとカーネル依存の不具合があった時に便利ですよ\n最新カーネルは時々起動しなくなったりしますから",
-      "user": "UVB7L4CKH",
+      "user": "tatsumigamou",
       "ts": "1588990981.267000",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -173,7 +173,7 @@
       "client_msg_id": "7026fa2e-04f0-4b45-acbf-36903b59e294",
       "type": "message",
       "text": "ありがとうございます！早速インストールしてみます",
-      "user": "U0108ASA482",
+      "user": "watakushide.kakusanak",
       "ts": "1588990558.265500",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -198,7 +198,7 @@
       "client_msg_id": "cae29dd5-d12b-47ed-9b0b-ea3090f48ea9",
       "type": "message",
       "text": "確か自動でHookが設定されているのでいらなかったはずです",
-      "user": "UVB7L4CKH",
+      "user": "tatsumigamou",
       "ts": "1588990476.265100",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -223,7 +223,7 @@
       "client_msg_id": "a38e406e-84fd-44ac-8b27-013675f3d00a",
       "type": "message",
       "text": "あ、`mkinitcpio -p linux-zen`　も要るんでしょうか",
-      "user": "U0108ASA482",
+      "user": "watakushide.kakusanak",
       "ts": "1588990360.264400",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -259,7 +259,7 @@
       "client_msg_id": "812a1501-3702-466d-8a56-e58c95b7ad9a",
       "type": "message",
       "text": "ありがとうございます。PARTUUID指定で今動いてるのでやってみます。",
-      "user": "U0108ASA482",
+      "user": "watakushide.kakusanak",
       "ts": "1588990209.261900",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -284,7 +284,7 @@
       "client_msg_id": "87c6f0eb-b935-4949-8b3a-043b3bba8c7b",
       "type": "message",
       "text": "デフォルトのカーネルを消さない限り全く起動しなくなるという事はないはずなので、とりあえずそれで試してみると良いかと",
-      "user": "UVB7L4CKH",
+      "user": "tatsumigamou",
       "ts": "1588990192.261800",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -309,7 +309,7 @@
       "client_msg_id": "25c7bce7-dc70-4c63-8f98-493c9f0f0ac2",
       "type": "message",
       "text": "optionsの書き方だけ自分と違うのでなんとも言えませんが、他は僕と同じ設定なので、そのoptionsで今のカーネルが動いていればちゃんと動くはずです",
-      "user": "UVB7L4CKH",
+      "user": "tatsumigamou",
       "ts": "1588990065.259600",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -334,11 +334,11 @@
       "client_msg_id": "de210654-a123-441c-90ae-0f693146bd2d",
       "type": "message",
       "text": "初歩的な質問で申し訳ないのですが…\nzenカーネルを試したいなと思ってます。\n現在systemd-bootを使っているのですが、linux-zenをインストール後に以下のようなローダーを作成して、\n\n`title   arch linux (zen)`\n`linux   /vmlinuz-linux-zen`\n`initrd  /intel-ucode.img\ninitrd  /initramfs-linux-zen.img\noptions root=PARTUUID=xxxx rw`\n\nその後\n`sudo bootctl update`\n\nをすれば使えるようになりますか？\nよろしくお願いします。",
-      "user": "U0108ASA482",
+      "user": "watakushide.kakusanak",
       "ts": "1588989613.258300",
       "team": "T0GFBAM8C",
       "edited": {
-        "user": "U0108ASA482",
+        "user": "watakushide.kakusanak",
         "ts": "1588990150.000000"
       },
       "blocks": [
@@ -421,7 +421,7 @@
       "client_msg_id": "799fa5d5-bfbc-4a4f-a1ea-a3a470a0a284",
       "type": "message",
       "text": "すっかり忘れていたのですがpacmanでのインストール時にうまく登録されなかった可能性...?\nエラーが出たのは認識してたものの、詳細がどうやっても見れなくて放置していた...\n\"Registering Haskell module...\"で失敗してるので多分ほぼここですね！？\n```&lt;X_X&gt;:~$ sudo pacman --verbose -S xmonad\nRoot      : /\nConf File : /etc/pacman.conf\nDB Path   : /var/lib/pacman/\nCache Dirs: /var/cache/pacman/pkg/  \nHook Dirs : /usr/share/libalpm/hooks/  /etc/pacman.d/hooks/  \nLock File : /var/lib/pacman/db.lck\nLog File  : /var/log/pacman.log\nGPG Dir   : /etc/pacman.d/gnupg/\nTargets   : xmonad\n警告: xmonad-0.15-40 は最新です -- 再インストール\n依存関係を解決しています...\n衝突するパッケージがないか確認しています...\n\nパッケージ (1) xmonad-0.15-40\n\n合計インストール容量:  1.46 MiB\n最終的なアップグレード容量:  0.00 MiB\n\n:: インストールを行いますか？ [Y/n] y\n(1/1) キーリングのキーを確認                                             [########################################] 100%\n(1/1) パッケージの整合性をチェック                                       [########################################] 100%\n(1/1) パッケージファイルのロード                                         [########################################] 100%\n(1/1) ファイルの衝突をチェック                                           [########################################] 100%\n(1/1) 空き容量を確認                                                     [########################################] 100%\n:: トランザクション前のフックを実行...\n(1/1) Unregistering Haskell modules...\nエラー: コマンドの実行に失敗しました\n:: パッケージの変更を処理しています...\n(1/1) 再インストール xmonad                                              [########################################] 100%\n:: トランザクション後のフックを実行...\n(1/2) Arming ConditionNeedsUpdate...\n(2/2) Registering Haskell modules...\nエラー: コマンドの実行に失敗しました```\n",
-      "user": "UQDJXPHJ9",
+      "user": "cj.bc-sd",
       "ts": "1588321909.251600",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -459,8 +459,8 @@
       "reply_users_count": 2,
       "latest_reply": "1588332360.252600",
       "reply_users": [
-        "UQDJXPHJ9",
-        "UUWBU08TU"
+        "cj.bc-sd",
+        "nyaarch64"
       ],
       "is_locked": false,
       "subscribed": false
@@ -469,7 +469,7 @@
       "client_msg_id": "2da5a7aa-31e1-486c-96c4-d686405a095e",
       "type": "message",
       "text": "WSL だしこれかも\n<https://gitlab.haskell.org/ghc/ghc/issues/17918|https://gitlab.haskell.org/ghc/ghc/issues/17918>",
-      "user": "UUWBU08TU",
+      "user": "nyaarch64",
       "ts": "1588321059.249100",
       "team": "T0GFBAM8C",
       "attachments": [
@@ -521,7 +521,7 @@
         {
           "name": "eyes",
           "users": [
-            "UQDJXPHJ9"
+            "cj.bc-sd"
           ],
           "count": 1
         }
@@ -531,7 +531,7 @@
       "client_msg_id": "c58ce905-b091-48e7-be89-72620fdb6505",
       "type": "message",
       "text": "<https://stackoverflow.com/a/22416656|https://stackoverflow.com/a/22416656>\nここにも～って思ったらこっちは ~/.ghc の話でした",
-      "user": "UUWBU08TU",
+      "user": "nyaarch64",
       "ts": "1588320962.248600",
       "team": "T0GFBAM8C",
       "attachments": [
@@ -577,7 +577,7 @@
       "client_msg_id": "09c275ae-4734-497f-aa73-e21e1949f7d2",
       "type": "message",
       "text": "当該ファイル消してみるといいかもしれませんね",
-      "user": "UUWBU08TU",
+      "user": "nyaarch64",
       "ts": "1588320881.247600",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -602,7 +602,7 @@
       "client_msg_id": "8e7014bd-5b43-4628-8107-edd2becaae26",
       "type": "message",
       "text": "`sudo ghc-pkg recache` したら\n```ghc-pkg: Couldn't open database /usr/lib/ghc-8.10.1/package.conf.d for modification: {handle: /usr/lib/ghc-8.10.1/package.conf.d/package.cache.lock}: hLock: invalid argument (Invalid argument)```\nって言われて失敗しますね…なんでだ…\n`/usr/lib/ghc-8.10.1/package.conf.d` も `/usr/lib/ghc-8.10.1/package.conf.d/package.cache.lock` も存在するものの、後者の `package.cache.lock`は `file`でみると `empty` になってます",
-      "user": "UQDJXPHJ9",
+      "user": "cj.bc-sd",
       "ts": "1588320703.247100",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -707,7 +707,7 @@
       "client_msg_id": "ac33b928-d94d-4465-b516-d2fbf8ab0c53",
       "type": "message",
       "text": "Prelude もダメだったか確認してなかったので、それで治らなかったら違うやつかもしれません",
-      "user": "UUWBU08TU",
+      "user": "nyaarch64",
       "ts": "1588320187.243000",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -732,7 +732,7 @@
       "client_msg_id": "4e872842-4167-4363-89b2-dde3687fe11b",
       "type": "message",
       "text": "ありがとうございます、試します",
-      "user": "UQDJXPHJ9",
+      "user": "cj.bc-sd",
       "ts": "1588320142.241800",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -757,7 +757,7 @@
       "client_msg_id": "8d80fcaa-f808-41a2-85cc-f4315ce637fe",
       "type": "message",
       "text": "<https://bbs.archlinux.org/viewtopic.php?id=254927|https://bbs.archlinux.org/viewtopic.php?id=254927>",
-      "user": "UUWBU08TU",
+      "user": "nyaarch64",
       "ts": "1588320000.241500",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -783,7 +783,7 @@
       "client_msg_id": "78b16173-fa8c-4ad4-8626-0a58e6baa632",
       "type": "message",
       "text": "rootでです",
-      "user": "UUWBU08TU",
+      "user": "nyaarch64",
       "ts": "1588319947.241200",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -808,7 +808,7 @@
       "client_msg_id": "0a05ab1b-de84-4e3d-8e2b-a4f12dea7194",
       "type": "message",
       "text": "`ghc-pkg recache` を実行したら動きました",
-      "user": "UUWBU08TU",
+      "user": "nyaarch64",
       "ts": "1588319940.241000",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -840,7 +840,7 @@
       "client_msg_id": "a9584cc9-4144-4129-ae3f-7780572386f3",
       "type": "message",
       "text": "あらま…バグっていう認識でいいんですかね\n使えてる方いるのだろうか",
-      "user": "UQDJXPHJ9",
+      "user": "cj.bc-sd",
       "ts": "1588319842.240300",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -865,7 +865,7 @@
       "client_msg_id": "a18b8729-e471-4ced-91f2-080578a2859f",
       "type": "message",
       "text": "あーはい、同じの出ましたね",
-      "user": "UUWBU08TU",
+      "user": "nyaarch64",
       "ts": "1588319801.239800",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -890,7 +890,7 @@
       "client_msg_id": "a50f3f80-8620-4e49-8787-72d292f8b8fa",
       "type": "message",
       "text": "WSL にArchWSLを入れて使っています。\n先ほど `pacman -Syu` したところ、`xmonad` が以下のようなエラーを吐いてコンパイルできなくなり、使えなくなりました…\n`xmonad.hs` を外すと動くので単純にXMonadモジュールが見つかっていない…?\n```$ xmonad\nXMonad is recompiling and replacing itself another XMonad process because the current process is called \"xmonad\" but the compiled configuration should be called \"xmonad-x86_64-linux\"\nXMonad will use ghc to recompile, because \"/home/me/.xmonad/build\" does not exist.\nXMonad doing recompile because some files have changed.\nError detected while loading xmonad configuration file: /home/me/.xmonad/xmonad.hs\n\nxmonad.hs:1:1: error:\n    Could not find module 'XMonad'\n    Perhaps you meant DsMonad (needs flag -package-key ghc-8.10.1)\n    Use -v (or `:set -v` in ghci) to see a list of the files searched for.\n  |\n1 | import XMonad\n  | ^^^^^^^^^^^^^\n\nxmonad.hs:2:1: error:\n    Could not find module 'XMonad.Util.EZConfig'\n    Use -v (or `:set -v` in ghci) to see a list of the files searched for.\n  |\n2 | import XMonad.Util.EZConfig (additionalKeysP)\n  | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n\nPlease check the file for errors.\n\nxmonad: xmessage: executeFile: does not exist (No such file or directory)\n/home/me/.xmonad/xmonad-x86_64-linux: error while loading shared libraries: libHSxmonad-contrib-0.16-A7dmBm5XHoA3cJakmPiBG-ghc8.8.3.so: cannot open shared object file: No such file or directory```\nちなみに、少し調べた時に出てきたサイトを参考に直接ビルドを試みてみると、 `Prelude` すら見つかっていないようです。\n\n```$ cd ~/.xmonad\n$ ghc --make xmonad.hs -i -ilib -fforce-recomp -main-is main -o xmonad-x86_64-linux\n[1 of 1] Compiling Main             ( xmonad.hs, xmonad.o )\n\nxmonad.hs:1:1: error:\n    Could not find module 'Prelude'\n    There are files missing in the 'base-4.14.0.0' package,\n    try running 'ghc-pkg check'.\n    Use -v (or `:set -v` in ghci) to see a list of the files searched for.\n  |\n1 | import XMonad\n  | ^\n\nxmonad.hs:1:1: error:\n    Could not find module 'XMonad'\n    Perhaps you meant DsMonad (needs flag -package-key ghc-8.10.1)\n    Use -v (or `:set -v` in ghci) to see a list of the files searched for.\n  |\n1 | import XMonad\n  | ^^^^^^^^^^^^^\n\nxmonad.hs:2:1: error:\n    Could not find module 'XMonad.Util.EZConfig'\n    Use -v (or `:set -v` in ghci) to see a list of the files searched for.\n  |\n2 | import XMonad.Util.EZConfig (additionalKeysP)\n  | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^```\nなんとかして使えるよにしたいのですが、同じような方いますか？？\nなお`xmonad`と`xmonad-contrib`はpacmanでインストール済みです",
-      "user": "UQDJXPHJ9",
+      "user": "cj.bc-sd",
       "ts": "1588319775.239400",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -995,18 +995,18 @@
       "type": "message",
       "subtype": "thread_broadcast",
       "text": "firefox, chromeだと起こらない模様。。。\n\nとりあえずchromeに乗り換えておく",
-      "user": "U70QDFN82",
+      "user": "yutakatay",
       "ts": "1588305202.235800",
       "thread_ts": "1585793386.020400",
       "root": {
         "client_msg_id": "119271c3-f878-4cb7-a61c-ab6fc904e26d",
         "type": "message",
         "text": "<https://bugs.archlinux.org/task/66029>\n<https://gitlab.freedesktop.org/mesa/mesa/-/issues/2721>",
-        "user": "U70QDFN82",
+        "user": "yutakatay",
         "ts": "1585793386.020400",
         "team": "T0GFBAM8C",
         "edited": {
-          "user": "U70QDFN82",
+          "user": "yutakatay",
           "ts": "1585793814.000000"
         },
         "attachments": [
@@ -1052,7 +1052,7 @@
         "reply_users_count": 1,
         "latest_reply": "1588305202.235800",
         "reply_users": [
-          "U70QDFN82"
+          "yutakatay"
         ],
         "is_locked": false,
         "subscribed": false
@@ -1080,18 +1080,18 @@
       "type": "message",
       "subtype": "thread_broadcast",
       "text": "だいぶ前の話題ですが、この画面が乱れるやつ\nmesaを最新（20.0.5-1）にして\n/etc/environmentに\nMESA_LOADER_DRIVER_OVERRIDE=i965\nを設定すれば直るようになったんですが、\nChromiumを表示している状態のワークスペースに行ったりすると画面が一瞬白くフラッシュしてしまうんですよね。。。\n\nつらい・・・Waylandに乗り換えろというお達しなのか・・・",
-      "user": "U70QDFN82",
+      "user": "yutakatay",
       "ts": "1588304904.235400",
       "thread_ts": "1585793386.020400",
       "root": {
         "client_msg_id": "119271c3-f878-4cb7-a61c-ab6fc904e26d",
         "type": "message",
         "text": "<https://bugs.archlinux.org/task/66029>\n<https://gitlab.freedesktop.org/mesa/mesa/-/issues/2721>",
-        "user": "U70QDFN82",
+        "user": "yutakatay",
         "ts": "1585793386.020400",
         "team": "T0GFBAM8C",
         "edited": {
-          "user": "U70QDFN82",
+          "user": "yutakatay",
           "ts": "1585793814.000000"
         },
         "attachments": [
@@ -1137,7 +1137,7 @@
         "reply_users_count": 1,
         "latest_reply": "1588305202.235800",
         "reply_users": [
-          "U70QDFN82"
+          "yutakatay"
         ],
         "is_locked": false,
         "subscribed": false

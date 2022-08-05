@@ -7,7 +7,7 @@
       "client_msg_id": "cb124d20-4d99-4b31-bbf9-8848240a75e1",
       "type": "message",
       "text": "SteamOSがバージョン3からArchLinuxベースになるらしいですよ",
-      "user": "UQNGQLVH8",
+      "user": "aoisensi.potato_slack",
       "ts": "1627705049.000700",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -33,13 +33,13 @@
           "users": [
             "U53RAQBCP",
             "UCA1NQM5K",
-            "UGA29R3FH",
+            "znmxodq1",
             "U5JRJL4AF",
-            "U0GFBAM8U",
+            "syui",
             "U01R0QQC673",
             "U01JJAE8LMA",
-            "U01HE1ENNJZ",
-            "U7F8FQF6W",
+            "a3784197",
+            "farseerfc",
             "U7VDHKJHM",
             "UQALTSDFX"
           ],
@@ -51,13 +51,13 @@
       "type": "message",
       "subtype": "channel_join",
       "ts": "1627348318.199500",
-      "user": "U029ESYJWQ4",
-      "text": "<@U029ESYJWQ4>さんがチャンネルに参加しました",
+      "user": "goldenchildren69",
+      "text": "<@goldenchildren69>さんがチャンネルに参加しました",
       "reactions": [
         {
           "name": "archjp",
           "users": [
-            "U0GFBAM8U"
+            "syui"
           ],
           "count": 1
         }
@@ -67,13 +67,13 @@
       "type": "message",
       "subtype": "channel_join",
       "ts": "1627046147.199300",
-      "user": "U029PS4DX7S",
-      "text": "<@U029PS4DX7S>さんがチャンネルに参加しました",
+      "user": "syobon",
+      "text": "<@syobon>さんがチャンネルに参加しました",
       "reactions": [
         {
           "name": "archjp",
           "users": [
-            "U0GFBAM8U"
+            "syui"
           ],
           "count": 1
         }
@@ -83,24 +83,24 @@
       "type": "message",
       "subtype": "channel_join",
       "ts": "1626858036.198600",
-      "user": "U028MQ0QTHB",
-      "text": "<@U028MQ0QTHB>さんがチャンネルに参加しました"
+      "user": "goto",
+      "text": "<@goto>さんがチャンネルに参加しました"
     },
     {
       "type": "message",
       "subtype": "channel_join",
       "ts": "1626828859.198400",
-      "user": "U028VUJK0PN",
-      "text": "<@U028VUJK0PN>さんがチャンネルに参加しました",
+      "user": "watanabet79",
+      "text": "<@watanabet79>さんがチャンネルに参加しました",
       "reactions": [
         {
           "name": "archjp",
           "users": [
-            "U01HE1ENNJZ",
-            "UGA29R3FH",
-            "U027RN1LZT6",
-            "U0GFBAM8U",
-            "UBEFL3YLE"
+            "a3784197",
+            "znmxodq1",
+            "aminokacho",
+            "syui",
+            "mail"
           ],
           "count": 5
         }
@@ -110,7 +110,7 @@
       "client_msg_id": "37a9267e-a5b0-44ca-81e9-915f3225b011",
       "type": "message",
       "text": "サーバを用意する必要がなくて、一番ラクなのは、github releases に pkg.tar.xz 等を置くですね\n<https://github.com/raa0121/mingw-gvim-transparency>\nmsys2 のものですが、同じように使えるはずです",
-      "user": "U0PM6EYR1",
+      "user": "raa0121",
       "ts": "1626613133.196900",
       "team": "T0GFBAM8C",
       "attachments": [
@@ -160,8 +160,8 @@
       "reply_users_count": 2,
       "latest_reply": "1626613545.197700",
       "reply_users": [
-        "UP57VNN6T",
-        "U0PM6EYR1"
+        "shun819.mail",
+        "raa0121"
       ],
       "is_locked": false,
       "subscribed": false
@@ -170,7 +170,7 @@
       "client_msg_id": "71702c01-1b93-4622-b167-55e0a7f6643f",
       "type": "message",
       "text": "ArchLinuxCNのように独自のArch Linux用のリポジトリを構築し、GitとWebで自動ビルド、管理したいと考えてます。\narchwebやarch-boxed、devtoolsなどいろいろ見つけたのですがドキュメントやどれを使えば良いのかわからず困っています。\nおそらく実際のパッケージのビルド部分とウェブインターフェイスで分離していると思うのです。\nどうやって構築したら良いか知っている方がいたら教えていただけないでしょうか。",
-      "user": "UP57VNN6T",
+      "user": "shun819.mail",
       "ts": "1626612747.195200",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -195,8 +195,8 @@
       "reply_users_count": 2,
       "latest_reply": "1633089027.353600",
       "reply_users": [
-        "U7F8FQF6W",
-        "UP57VNN6T"
+        "farseerfc",
+        "shun819.mail"
       ],
       "is_locked": false,
       "subscribed": false
@@ -205,21 +205,21 @@
       "type": "message",
       "subtype": "channel_join",
       "ts": "1626439854.192300",
-      "user": "U028AHFJU66",
-      "text": "<@U028AHFJU66>さんがチャンネルに参加しました"
+      "user": "zhaoguoyuan",
+      "text": "<@zhaoguoyuan>さんがチャンネルに参加しました"
     },
     {
       "type": "message",
       "subtype": "channel_join",
       "ts": "1626405874.192000",
-      "user": "U028940CRGA",
-      "text": "<@U028940CRGA>さんがチャンネルに参加しました",
+      "user": "yuyakatox",
+      "text": "<@yuyakatox>さんがチャンネルに参加しました",
       "reactions": [
         {
           "name": "archjp",
           "users": [
-            "U01HE1ENNJZ",
-            "U0GFBAM8U",
+            "a3784197",
+            "syui",
             "UJ7P75WB1"
           ],
           "count": 3
@@ -230,7 +230,7 @@
       "client_msg_id": "83a02044-5314-48c4-a372-7c0c5f1b651d",
       "type": "message",
       "text": "1080p vp9でyoutube動画再生しても60℃まではいきません",
-      "user": "U01HE1ENNJZ",
+      "user": "a3784197",
       "ts": "1626219064.191700",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -255,11 +255,11 @@
       "client_msg_id": "b25eb8e1-573b-4eba-b4f7-1da888b0ef60",
       "type": "message",
       "text": "APUだとほとんどの場合温度変わらないかむしろ熱くなりますね\nCPUとダイが一緒(発熱箇所が一緒)なので",
-      "user": "U3FJYR7MG",
+      "user": "dohq",
       "ts": "1626195604.190300",
       "team": "T0GFBAM8C",
       "edited": {
-        "user": "U3FJYR7MG",
+        "user": "dohq",
         "ts": "1626195631.000000"
       },
       "blocks": [
@@ -294,7 +294,7 @@
       "client_msg_id": "9c033a1a-b421-4a99-8a1c-9a45f6435108",
       "type": "message",
       "text": "(本当の所は知りません)",
-      "user": "UGA29R3FH",
+      "user": "znmxodq1",
       "ts": "1626192002.180400",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -319,7 +319,7 @@
       "client_msg_id": "b6726f17-309f-4de4-af28-df23c2371b6f",
       "type": "message",
       "text": "HW Accelerationってハードウェアのパワーを利用して快適に動画をデコードするというイメージなので温度上がるのには違和感ないですね",
-      "user": "UGA29R3FH",
+      "user": "znmxodq1",
       "ts": "1626191991.180300",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -344,7 +344,7 @@
       "client_msg_id": "f87b7cd7-c357-4b9e-84a3-b18b743365db",
       "type": "message",
       "text": "私のThinkPad X13 (Gen1) AMD 、Firefoxで動画再生すると80℃になってしまう\nHW Accelerationって有効な方が温度低いと思っているのですが実際はどうなんでしょうか?",
-      "user": "U019C7VLZ4G",
+      "user": "getalotofmail",
       "ts": "1626186576.180200",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -369,7 +369,7 @@
       "client_msg_id": "ba1d0e5e-222e-45e7-9e61-c37e9f1e248a",
       "type": "message",
       "text": "僕もやってみましたが同じ表示になりますね。なんだろう",
-      "user": "UBEFL3YLE",
+      "user": "mail",
       "ts": "1625915726.178400",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -394,7 +394,7 @@
       "client_msg_id": "e7d179e0-cb5e-4a78-9a5e-341e08ac881c",
       "type": "message",
       "text": "`current CPU frequency: Unable to call hardware`\nが気になるんですがしらべても特に出てこないです",
-      "user": "U01HE1ENNJZ",
+      "user": "a3784197",
       "ts": "1625915569.178000",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -426,7 +426,7 @@
       "client_msg_id": "d40354e9-3ebd-4f54-a4a0-35126226ecfa",
       "type": "message",
       "text": "80℃を超えるとかだったらさすがに何かおかしいですが50℃台なら正常動作の範疇でしょう。",
-      "user": "UBEFL3YLE",
+      "user": "mail",
       "ts": "1625915310.176900",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -451,7 +451,7 @@
       "client_msg_id": "d7947976-bf42-4c39-b7fa-0fe20cbf3e03",
       "type": "message",
       "text": "ファン数をぶん回すくらいなら多少は高温でもヨシってな感じですね",
-      "user": "UBEFL3YLE",
+      "user": "mail",
       "ts": "1625915241.176000",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -476,7 +476,7 @@
       "client_msg_id": "9df6e849-ebbd-4a1b-a70b-0c66c4e40d47",
       "type": "message",
       "text": "特にラップトップだと静音性重視の作りになっているものが多いので",
-      "user": "UBEFL3YLE",
+      "user": "mail",
       "ts": "1625915201.175200",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -501,7 +501,7 @@
       "client_msg_id": "1be7c1fb-7c6c-4ba9-941f-3fd0818185ff",
       "type": "message",
       "text": "割とそんなもんなんですか？",
-      "user": "U01HE1ENNJZ",
+      "user": "a3784197",
       "ts": "1625915185.174700",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -526,7 +526,7 @@
       "client_msg_id": "c4ba759d-9b9c-48cf-97ad-8c2ccfd53334",
       "type": "message",
       "text": "動画視聴で50℃台なら気にするほどでもないと思いますが",
-      "user": "UBEFL3YLE",
+      "user": "mail",
       "ts": "1625915142.174100",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -551,7 +551,7 @@
       "client_msg_id": "73d2a163-40a0-441b-aaa6-8ca5e614d769",
       "type": "message",
       "text": "800MHz でそんなに高くないし、fan の回転数上げるくらいしかないような気がする。",
-      "user": "UN1SFMNU8",
+      "user": "addokoda",
       "ts": "1625914858.173600",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -576,7 +576,7 @@
       "client_msg_id": "8d6679e0-9585-478e-9917-b52544e25db2",
       "type": "message",
       "text": "あとはこのへんをちょっと読みました\n<https://blog.goo.ne.jp/jsp_job/e/b2cbf680f1e9fbc374ecb6f0f1837237>",
-      "user": "U0GFBAM8U",
+      "user": "syui",
       "ts": "1625914431.172900",
       "team": "T0GFBAM8C",
       "attachments": [
@@ -622,7 +622,7 @@
       "client_msg_id": "1fe3fcc8-a1aa-4024-9be5-9e177395bbf8",
       "type": "message",
       "text": "サンプルレートらしい。サンプルレートの違いで変化あるのだろうか\n<https://support.google.com/youtube/answer/6039860?hl=ja>",
-      "user": "U0GFBAM8U",
+      "user": "syui",
       "ts": "1625914261.172400",
       "team": "T0GFBAM8C",
       "attachments": [
@@ -664,7 +664,7 @@
       "client_msg_id": "a3993bf0-3b8b-4157-821e-1582f7a8aa0d",
       "type": "message",
       "text": "無知ですみません",
-      "user": "U01HE1ENNJZ",
+      "user": "a3784197",
       "ts": "1625913667.171400",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -689,7 +689,7 @@
       "client_msg_id": "efe902bb-194f-4549-82c5-eae6644672f3",
       "type": "message",
       "text": "44.1kHzってなんの周波数ですか？",
-      "user": "U01HE1ENNJZ",
+      "user": "a3784197",
       "ts": "1625913659.171100",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -714,11 +714,11 @@
       "client_msg_id": "f347dc43-7413-4933-b3eb-bb8551852b66",
       "type": "message",
       "text": "動画、firefoxで再生するとき44.1kHzと48kHzでcpu温度変わってきたりします?",
-      "user": "U0GFBAM8U",
+      "user": "syui",
       "ts": "1625912281.170500",
       "team": "T0GFBAM8C",
       "edited": {
-        "user": "U0GFBAM8U",
+        "user": "syui",
         "ts": "1625912314.000000"
       },
       "blocks": [
@@ -743,7 +743,7 @@
       "client_msg_id": "1c4cda8b-dd7f-412d-9c05-145ebd73861f",
       "type": "message",
       "text": "skk入門してるのでひらがながおおいです\nすみません",
-      "user": "U01HE1ENNJZ",
+      "user": "a3784197",
       "ts": "1625912189.169800",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -777,7 +777,7 @@
           "mimetype": "image/png",
           "filetype": "png",
           "pretty_type": "PNG",
-          "user": "U01HE1ENNJZ",
+          "user": "a3784197",
           "editable": false,
           "size": 73775,
           "mode": "hosted",
@@ -802,14 +802,14 @@
           "original_w": 656,
           "original_h": 361,
           "thumb_tiny": "AwAaADCtjig4FL2HWk/A0xDTjNBx2pSCfX8abQAUoOKSigCTsKMevFNFLgelAAQQOSaQgdj+dDDgU2gBce4pKKKAP//Z",
-          "permalink": "https://archlinuxjp.slack.com/files/U01HE1ENNJZ/F027NVDFHV1/image.png",
+          "permalink": "https://archlinuxjp.slack.com/files/a3784197/F027NVDFHV1/image.png",
           "permalink_public": "https://slack-files.com/T0GFBAM8C-F027NVDFHV1-ceb6610154",
           "is_starred": false,
           "has_rich_preview": false
         }
       ],
       "upload": false,
-      "user": "U01HE1ENNJZ",
+      "user": "a3784197",
       "display_as_bot": false,
       "ts": "1625912101.169300"
     },
@@ -817,7 +817,7 @@
       "client_msg_id": "f398899a-bc1a-4862-98ec-a638ab9a8e76",
       "type": "message",
       "text": "とにかくcpu温度をさげたいです",
-      "user": "U01HE1ENNJZ",
+      "user": "a3784197",
       "ts": "1625911983.169200",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -842,7 +842,7 @@
       "client_msg_id": "49e75033-6d59-47bd-82a5-6d5ec4ad72a6",
       "type": "message",
       "text": "他にもpowertopをdaemonとして動かしてますが",
-      "user": "U01HE1ENNJZ",
+      "user": "a3784197",
       "ts": "1625911939.168600",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -867,7 +867,7 @@
       "client_msg_id": "f1289b97-2303-497a-9d0e-83f232185b58",
       "type": "message",
       "text": "firefoxのほうはvaapiが有効です",
-      "user": "U01HE1ENNJZ",
+      "user": "a3784197",
       "ts": "1625911889.167700",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -901,7 +901,7 @@
           "mimetype": "image/png",
           "filetype": "png",
           "pretty_type": "PNG",
-          "user": "U01HE1ENNJZ",
+          "user": "a3784197",
           "editable": false,
           "size": 14420,
           "mode": "hosted",
@@ -923,14 +923,14 @@
           "original_w": 315,
           "original_h": 81,
           "thumb_tiny": "AwAMADCAFyc8888U1lzggHn1ppJxilPemIMDGcNR8ue+KbRQA4hfemnrxTj92m0Af//Z",
-          "permalink": "https://archlinuxjp.slack.com/files/U01HE1ENNJZ/F027UV90FV2/image.png",
+          "permalink": "https://archlinuxjp.slack.com/files/a3784197/F027UV90FV2/image.png",
           "permalink_public": "https://slack-files.com/T0GFBAM8C-F027UV90FV2-d38cecd50d",
           "is_starred": false,
           "has_rich_preview": false
         }
       ],
       "upload": false,
-      "user": "U01HE1ENNJZ",
+      "user": "a3784197",
       "display_as_bot": false,
       "ts": "1625911826.167200"
     },
@@ -947,7 +947,7 @@
           "mimetype": "image/png",
           "filetype": "png",
           "pretty_type": "PNG",
-          "user": "U01HE1ENNJZ",
+          "user": "a3784197",
           "editable": false,
           "size": 161184,
           "mode": "hosted",
@@ -978,14 +978,14 @@
           "original_w": 891,
           "original_h": 416,
           "thumb_tiny": "AwAWADCt70hH0oB46GnL60xDNpowaeRimnGO9ACYPpSU7j1NNoAeDxilJ9Kb3paBiZODzSZODS9jSDoaADNJRRQI/9k=",
-          "permalink": "https://archlinuxjp.slack.com/files/U01HE1ENNJZ/F027UV51VTN/image.png",
+          "permalink": "https://archlinuxjp.slack.com/files/a3784197/F027UV51VTN/image.png",
           "permalink_public": "https://slack-files.com/T0GFBAM8C-F027UV51VTN-96bf0d92b7",
           "is_starred": false,
           "has_rich_preview": false
         }
       ],
       "upload": false,
-      "user": "U01HE1ENNJZ",
+      "user": "a3784197",
       "display_as_bot": false,
       "ts": "1625911745.167100",
       "blocks": [
@@ -1010,22 +1010,22 @@
       "type": "message",
       "subtype": "channel_join",
       "ts": "1625821817.162800",
-      "user": "U027RN1LZT6",
-      "text": "<@U027RN1LZT6>さんがチャンネルに参加しました"
+      "user": "aminokacho",
+      "text": "<@aminokacho>さんがチャンネルに参加しました"
     },
     {
       "type": "message",
       "subtype": "channel_join",
       "ts": "1625787633.161800",
-      "user": "U027WUR5Z25",
-      "text": "<@U027WUR5Z25>さんがチャンネルに参加しました",
+      "user": "knt.yamada.800",
+      "text": "<@knt.yamada.800>さんがチャンネルに参加しました",
       "reactions": [
         {
           "name": "archjp",
           "users": [
-            "U01HE1ENNJZ",
-            "U0GFBAM8U",
-            "UGA29R3FH"
+            "a3784197",
+            "syui",
+            "znmxodq1"
           ],
           "count": 3
         }
@@ -1035,7 +1035,7 @@
       "client_msg_id": "07033fa5-24f2-4e40-9b02-3376405a5593",
       "type": "message",
       "text": "え？日本人でTUっているんですか？",
-      "user": "U015CDRQDD0",
+      "user": "v3rn3j",
       "ts": "1625637534.159100",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -1061,8 +1061,8 @@
       "latest_reply": "1625820581.162500",
       "reply_users": [
         "U017BNGTHT3",
-        "U7F8FQF6W",
-        "U0GFBAM8U"
+        "farseerfc",
+        "syui"
       ],
       "is_locked": false,
       "subscribed": true,
@@ -1072,7 +1072,7 @@
       "client_msg_id": "9bd49874-d158-4677-8f9f-c55ad460588f",
       "type": "message",
       "text": "わあ。TU様じゃー。ありがたやありがたや。\n先日、AURパッケージの更新がされておらず、更新をお願いしたものの、返事がないので、どうやってTU様にお願いしたものかと気をもんでおりました(その後、パッケージの放棄がされたみたいで、無事、更新できました)。",
-      "user": "U0H9QUFA5",
+      "user": "kusanaginoturugi",
       "ts": "1625546786.158100",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -1097,8 +1097,8 @@
       "reply_users_count": 2,
       "latest_reply": "1625728883.161000",
       "reply_users": [
-        "U7F8FQF6W",
-        "U0H9QUFA5"
+        "farseerfc",
+        "kusanaginoturugi"
       ],
       "is_locked": false,
       "subscribed": false
@@ -1107,7 +1107,7 @@
       "client_msg_id": "38a63b79-4e8b-4994-b337-64b35f1cc50a",
       "type": "message",
       "text": "すでに処理されました笑",
-      "user": "U01HE1ENNJZ",
+      "user": "a3784197",
       "ts": "1625452915.154100",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -1132,7 +1132,7 @@
       "client_msg_id": "096edc95-9a31-4d54-a2f6-ce8a83140c8d",
       "type": "message",
       "text": "はい、TUをやっています。パッケージ名が分かればリクエストを調べられます（若しくは直接処理しちゃいます）",
-      "user": "U7F8FQF6W",
+      "user": "farseerfc",
       "ts": "1625446017.153700",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -1157,7 +1157,7 @@
       "client_msg_id": "55760a41-26f5-4c84-b75b-89620271ba06",
       "type": "message",
       "text": "そうなんですね\nTUの方なんですか？",
-      "user": "U01HE1ENNJZ",
+      "user": "a3784197",
       "ts": "1625223989.151900",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -1182,7 +1182,7 @@
       "client_msg_id": "57094864-ecf6-44db-96a6-0b9a07326a6f",
       "type": "message",
       "text": "メーリングリストから探すのは大変ですね（TU権限だとすべてのリクエストを見れるけど）",
-      "user": "U7F8FQF6W",
+      "user": "farseerfc",
       "ts": "1625212224.151500",
       "team": "T0GFBAM8C",
       "blocks": [

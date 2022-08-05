@@ -7,7 +7,7 @@
       "client_msg_id": "e7d8b163-a99f-4981-b518-3d18a45eee24",
       "type": "message",
       "text": "vimのパッケージ、今見たら outdatedフラグ立ってたので更新されるかも",
-      "user": "U019C7VLZ4G",
+      "user": "getalotofmail",
       "ts": "1627683890.001500",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -32,14 +32,14 @@
       "type": "message",
       "subtype": "channel_join",
       "ts": "1627348318.387000",
-      "user": "U029ESYJWQ4",
-      "text": "<@U029ESYJWQ4>さんがチャンネルに参加しました"
+      "user": "goldenchildren69",
+      "text": "<@goldenchildren69>さんがチャンネルに参加しました"
     },
     {
       "client_msg_id": "c0338d45-72d5-4888-8647-70fe1c4d754a",
       "type": "message",
       "text": "更新の間隔がよくわからんので自力でパッケージ作成してる",
-      "user": "UGA29R3FH",
+      "user": "znmxodq1",
       "ts": "1627187826.385700",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -64,7 +64,7 @@
       "client_msg_id": "36af8075-3fea-46ca-b3b9-7b9132ac4aa4",
       "type": "message",
       "text": "<https://github.com/archlinux/svntogit-packages/commits/packages/vim/trunk>\n確かに、5月までは月に1回以上は更新されてますね",
-      "user": "U0PM6EYR1",
+      "user": "raa0121",
       "ts": "1627187783.385200",
       "team": "T0GFBAM8C",
       "attachments": [
@@ -110,7 +110,7 @@
       "client_msg_id": "bad2e378-b69c-4a7b-813c-8a31f8e68523",
       "type": "message",
       "text": "`Build Date      : 2021年05月28日 15時58分52秒`\nとなっている",
-      "user": "U019C7VLZ4G",
+      "user": "getalotofmail",
       "ts": "1627170794.384700",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -142,7 +142,7 @@
       "client_msg_id": "e7f9e162-5713-4ab3-9167-dabdb71e679a",
       "type": "message",
       "text": "そういえばarchlinuxのgvimのパッケージ、結構長いこと更新されてない?",
-      "user": "U019C7VLZ4G",
+      "user": "getalotofmail",
       "ts": "1627170680.384000",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -167,28 +167,28 @@
       "type": "message",
       "subtype": "channel_join",
       "ts": "1627046147.383200",
-      "user": "U029PS4DX7S",
-      "text": "<@U029PS4DX7S>さんがチャンネルに参加しました"
+      "user": "syobon",
+      "text": "<@syobon>さんがチャンネルに参加しました"
     },
     {
       "type": "message",
       "subtype": "channel_join",
       "ts": "1626858036.382500",
-      "user": "U028MQ0QTHB",
-      "text": "<@U028MQ0QTHB>さんがチャンネルに参加しました"
+      "user": "goto",
+      "text": "<@goto>さんがチャンネルに参加しました"
     },
     {
       "type": "message",
       "subtype": "channel_join",
       "ts": "1626828860.382200",
-      "user": "U028VUJK0PN",
-      "text": "<@U028VUJK0PN>さんがチャンネルに参加しました"
+      "user": "watanabet79",
+      "text": "<@watanabet79>さんがチャンネルに参加しました"
     },
     {
       "client_msg_id": "5a5dfa54-5a77-46c1-a18f-8d8dd2957e93",
       "type": "message",
       "text": "この間からmicrosoft-edgeがセグフォして起動しない問題で困っていたのですが、今見たらいくつか解決策が出ていました\n- `systemd` `systemd-libs` を248-3に戻す\n- `/etc/nsswitch.conf` のhosts行をコメントアウト\n- `systemd-resolved` の利用をやめて `/etc/resolv.conf` を手動管理\n自分はnsswitch.confの修正で起動できました\naurのコメントを見るとどれも動いたり動かなかったりと環境によっては解決しないみたいですが、もし困っている方がいらっしゃいましたら参考になれば幸いです",
-      "user": "U0HA90BFG",
+      "user": "kc5m",
       "ts": "1626741831.381600",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -267,13 +267,13 @@
         {
           "name": "+1",
           "users": [
-            "U0GFBAM8U",
-            "UGA29R3FH",
-            "U3FJYR7MG",
-            "U53RAQBCP",
-            "U028VUJK0PN",
+            "syui",
+            "znmxodq1",
+            "dohq",
+            "kokopis",
+            "watanabet79",
             "UJ7P75WB1",
-            "U01HE1ENNJZ"
+            "a3784197"
           ],
           "count": 7
         }
@@ -283,13 +283,13 @@
       "type": "message",
       "subtype": "channel_join",
       "ts": "1626439854.375100",
-      "user": "U028AHFJU66",
-      "text": "<@U028AHFJU66>さんがチャンネルに参加しました",
+      "user": "zhaoguoyuan",
+      "text": "<@zhaoguoyuan>さんがチャンネルに参加しました",
       "reactions": [
         {
           "name": "archjp",
           "users": [
-            "U01HE1ENNJZ"
+            "a3784197"
           ],
           "count": 1
         }
@@ -299,7 +299,7 @@
       "client_msg_id": "4f41981f-5804-40e8-9cdb-9faf7766d0f9",
       "type": "message",
       "text": "KDEはいいぞ〜",
-      "user": "UGA29R3FH",
+      "user": "znmxodq1",
       "ts": "1626436700.374700",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -331,7 +331,7 @@
         {
           "name": "thinking_face",
           "users": [
-            "U0H9QUFA5"
+            "kusanaginoturugi"
           ],
           "count": 1
         }
@@ -341,7 +341,7 @@
       "client_msg_id": "1f86be7c-6a12-4b58-9356-1723848fe7ed",
       "type": "message",
       "text": "&gt; （Steam Deckは）オープンなPCであり，OSを入れ替えることも可能」だと説明されている\nとあるので入れ替え自由に出来そうですね\n<https://www.4gamer.net/games/038/G003821/20210716023/>",
-      "user": "U3FJYR7MG",
+      "user": "dohq",
       "ts": "1626431783.374000",
       "team": "T0GFBAM8C",
       "attachments": [
@@ -396,11 +396,11 @@
           "name": "goodpoem",
           "users": [
             "U70QDFN82",
-            "UGA29R3FH",
-            "U019C7VLZ4G",
+            "znmxodq1",
+            "getalotofmail",
             "U017BNGTHT3",
             "U022AA9JS04",
-            "U0H9QUFA5",
+            "kusanaginoturugi",
             "UJ7P75WB1"
           ],
           "count": 7
@@ -411,7 +411,7 @@
       "client_msg_id": "d69e938a-5e31-413b-a44e-ab4121b19acc",
       "type": "message",
       "text": "リマインダーだけ入れておきました",
-      "user": "U0PM6EYR1",
+      "user": "raa0121",
       "ts": "1626428614.373100",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -436,7 +436,7 @@
       "client_msg_id": "4617d2ac-54c5-45a0-833d-ab0d9c120238",
       "type": "message",
       "text": "日本はまだ予約できないんですね",
-      "user": "U8T8KB5M4",
+      "user": "h.hata.ai.t",
       "ts": "1626428561.372800",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -461,7 +461,7 @@
       "client_msg_id": "49285a0f-3ee0-4fb3-9081-09427d1ad5f2",
       "type": "message",
       "text": "Steamのこれって好きなOS入れられるのですか?Steam OS抜いて素のArch Linuxとか",
-      "user": "U019C7VLZ4G",
+      "user": "getalotofmail",
       "ts": "1626420744.372400",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -486,11 +486,11 @@
       "client_msg_id": "dcfd30ef-881a-4f99-8a83-a366b267e51f",
       "type": "message",
       "text": "KDE は重いって印象だったんだけど、最近では軽いとかいわれてて、ちょっと気にはなってるんだよね。",
-      "user": "U0H9QUFA5",
+      "user": "kusanaginoturugi",
       "ts": "1626415424.370100",
       "team": "T0GFBAM8C",
       "edited": {
-        "user": "U0H9QUFA5",
+        "user": "kusanaginoturugi",
         "ts": "1626415547.000000"
       },
       "blocks": [
@@ -514,19 +514,19 @@
         {
           "name": "hee",
           "users": [
-            "U53RAQBCP",
-            "U3FJYR7MG",
-            "UGA29R3FH",
-            "U027RN1LZT6",
-            "U01HE1ENNJZ"
+            "kokopis",
+            "dohq",
+            "znmxodq1",
+            "aminokacho",
+            "a3784197"
           ],
           "count": 5
         },
         {
           "name": "blush",
           "users": [
-            "U0GFBAM8U",
-            "U01HE1ENNJZ"
+            "syui",
+            "a3784197"
           ],
           "count": 2
         }
@@ -536,14 +536,14 @@
       "type": "message",
       "subtype": "channel_join",
       "ts": "1626405874.369000",
-      "user": "U028940CRGA",
-      "text": "<@U028940CRGA>さんがチャンネルに参加しました"
+      "user": "yuyakatox",
+      "text": "<@yuyakatox>さんがチャンネルに参加しました"
     },
     {
       "client_msg_id": "67c49a78-96ae-4839-96ec-7f84f3b621c2",
       "type": "message",
       "text": "しかしDEがPlasmaなのは気になる",
-      "user": "U53RAQBCP",
+      "user": "kokopis",
       "ts": "1626404165.368800",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -568,7 +568,7 @@
       "client_msg_id": "0ca8021b-b668-49ce-908c-f433dcde6771",
       "type": "message",
       "text": "Archベースなのマジか",
-      "user": "U53RAQBCP",
+      "user": "kokopis",
       "ts": "1626404145.368300",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -593,7 +593,7 @@
       "client_msg_id": "6c982943-ad7a-44d4-af17-0d135f1cf0e7",
       "type": "message",
       "text": "SteamOSはどうしたと思ったら、SteamOS 3.0からarch linuxベースになったのね（混乱）",
-      "user": "U01J1GGMHDJ",
+      "user": "naokihirokitomoki",
       "ts": "1626403027.367700",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -618,7 +618,7 @@
       "client_msg_id": "87488f18-7ac5-4a2d-96cd-229db94f51f7",
       "type": "message",
       "text": "Archベースとはやりおるなあ。",
-      "user": "U0H9QUFA5",
+      "user": "kusanaginoturugi",
       "ts": "1626401738.365200",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -643,7 +643,7 @@
       "client_msg_id": "D7CCA5C6-2637-448A-87A7-D441000B965B",
       "type": "message",
       "text": "おお",
-      "user": "U0GFBAM8U",
+      "user": "syui",
       "ts": "1626400357.364600",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -667,9 +667,9 @@
         {
           "name": "tada",
           "users": [
-            "U0H9QUFA5",
-            "U01HE1ENNJZ",
-            "UGA29R3FH"
+            "kusanaginoturugi",
+            "a3784197",
+            "znmxodq1"
           ],
           "count": 3
         }
@@ -679,7 +679,7 @@
       "client_msg_id": "0ab972c6-ee9c-4c02-bd09-d00f7c1416a8",
       "type": "message",
       "text": "<https://store.steampowered.com/steamdeck> 欲しい、Arch + KDE Plasma",
-      "user": "U7F8FQF6W",
+      "user": "farseerfc",
       "ts": "1626394433.364300",
       "team": "T0GFBAM8C",
       "attachments": [
@@ -725,9 +725,9 @@
           "name": "+1",
           "users": [
             "U70QDFN82",
-            "U0H9QUFA5",
-            "U01HE1ENNJZ",
-            "UGA29R3FH",
+            "kusanaginoturugi",
+            "a3784197",
+            "znmxodq1",
             "U01JJAE8LMA",
             "UJ7P75WB1"
           ],
@@ -739,7 +739,7 @@
       "client_msg_id": "35e31832-691a-469f-bdd6-97b13178c507",
       "type": "message",
       "text": "nyan",
-      "user": "UGA29R3FH",
+      "user": "znmxodq1",
       "ts": "1626262512.363100",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -763,9 +763,9 @@
         {
           "name": "nyancat",
           "users": [
-            "U53RAQBCP",
-            "U3FJYR7MG",
-            "U01HE1ENNJZ",
+            "kokopis",
+            "dohq",
+            "a3784197",
             "U017BNGTHT3",
             "U6DL9D3AB",
             "UUWBU08TU"
@@ -778,7 +778,7 @@
       "client_msg_id": "d5d178db-4f74-4c0a-8791-5688cfa89da9",
       "type": "message",
       "text": "ねこすき",
-      "user": "U53RAQBCP",
+      "user": "kokopis",
       "ts": "1626246539.362700",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -803,7 +803,7 @@
       "client_msg_id": "567DBD16-2658-4BB8-9A48-2B90ECE2A76B",
       "type": "message",
       "text": "ねこさん",
-      "user": "U0GFBAM8U",
+      "user": "syui",
       "ts": "1626243203.362400",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -828,7 +828,7 @@
       "client_msg_id": "dbb51d59-2812-46f2-ba88-5e565156f640",
       "type": "message",
       "text": "ﾈｺﾁｬﾝかわいいですね(そっちじゃない",
-      "user": "UD124KPDJ",
+      "user": "claude0803sz",
       "ts": "1626243113.362200",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -852,12 +852,12 @@
         {
           "name": "sorena",
           "users": [
-            "U53RAQBCP",
-            "U01HE1ENNJZ",
-            "U3FJYR7MG",
-            "UGA29R3FH",
-            "U027RN1LZT6",
-            "U027WUR5Z25"
+            "kokopis",
+            "a3784197",
+            "dohq",
+            "znmxodq1",
+            "aminokacho",
+            "knt.yamada.800"
           ],
           "count": 6
         }
@@ -876,7 +876,7 @@
           "mimetype": "image/png",
           "filetype": "png",
           "pretty_type": "PNG",
-          "user": "U53RAQBCP",
+          "user": "kokopis",
           "editable": false,
           "size": 2295948,
           "mode": "hosted",
@@ -914,14 +914,14 @@
           "original_w": 750,
           "original_h": 1334,
           "thumb_tiny": "AwAwABqsBSMg69KfihTklSB171CLZatNwRtzE4OBmp6jt/8AVAjvUlUSZ4BprEgHHXFbX4UZ56UWC5ViXbEq+gxT8VPmjNOwhhIz0NLkehpduaNtACFuOhpw6U0cjNOHSgD/2Q==",
-          "permalink": "https://archlinuxjp.slack.com/files/U53RAQBCP/F027ZTET98A/image_from_ios.png",
+          "permalink": "https://archlinuxjp.slack.com/files/kokopis/F027ZTET98A/image_from_ios.png",
           "permalink_public": "https://slack-files.com/T0GFBAM8C-F027ZTET98A-2e2782db09",
           "is_starred": false,
           "has_rich_preview": false
         }
       ],
       "upload": false,
-      "user": "U53RAQBCP",
+      "user": "kokopis",
       "display_as_bot": false,
       "ts": "1626235765.361500",
       "blocks": [
@@ -951,7 +951,7 @@
         }
       ],
       "edited": {
-        "user": "U53RAQBCP",
+        "user": "kokopis",
         "ts": "1626235842.000000"
       },
       "client_msg_id": "01D380D9-9CF7-4888-89C9-AA27C3DAFB78"
@@ -960,7 +960,7 @@
       "client_msg_id": "21d44980-fdf8-4380-826c-663e353a4cf6",
       "type": "message",
       "text": "多分それで行けます\n<https://unix.stackexchange.com/questions/459172/set-multiple-environment-variables-in-desktop-file>",
-      "user": "U01HE1ENNJZ",
+      "user": "a3784197",
       "ts": "1626001708.360100",
       "team": "T0GFBAM8C",
       "attachments": [
@@ -1005,7 +1005,7 @@
       "client_msg_id": "bad8c17e-ca37-48f7-b99d-5a953e91085b",
       "type": "message",
       "text": "`Exec=env name=value name2=value2 firefox`とかすれば良いのでしょうか?",
-      "user": "U019C7VLZ4G",
+      "user": "getalotofmail",
       "ts": "1625981866.359600",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -1030,7 +1030,7 @@
       "client_msg_id": "51c18ada-4fbd-490c-9c9c-ece6325b7bc8",
       "type": "message",
       "text": ".desktop fileでExecに環境変数を複数渡すときはどうすればいいのでしょうか?",
-      "user": "U019C7VLZ4G",
+      "user": "getalotofmail",
       "ts": "1625981735.357300",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -1055,7 +1055,7 @@
       "client_msg_id": "63230135-1d11-49d9-bc40-ab2d3d763ca7",
       "type": "message",
       "text": "デュアルモニターじゃなければ、.Xresources の設定で OK だと思います。デュアルモニターで、dpiがそれぞれ違ってくると、xrandr で細かく設定を弄ることになりますね。いきなり xrandr は厳しければ、arandr を使って、xrandr のオプション指定を確認してみるとよいかも。",
-      "user": "U0H9QUFA5",
+      "user": "kusanaginoturugi",
       "ts": "1625967330.355200",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -1079,7 +1079,7 @@
         {
           "name": "eyes",
           "users": [
-            "U027RN1LZT6"
+            "aminokacho"
           ],
           "count": 1
         }
@@ -1089,11 +1089,11 @@
       "client_msg_id": "a58d4739-ecf5-445f-b11b-2638387f8935",
       "type": "message",
       "text": "僕の場合はThinkpadですが、.Xresourcesに下記の設定を書いています。\n```!! Set DPI\nXft.dpi: 160\nXft.auohint: 0\nXft.lcdfilter: lcddefault\nXft.hintstyle: hintfull\nXft.antialias: 1\nXft.rgba: rgb```",
-      "user": "UBEFL3YLE",
+      "user": "mail",
       "ts": "1625835105.349200",
       "team": "T0GFBAM8C",
       "edited": {
-        "user": "UBEFL3YLE",
+        "user": "mail",
         "ts": "1625835137.000000"
       },
       "blocks": [
@@ -1127,7 +1127,7 @@
       "reply_users_count": 1,
       "latest_reply": "1625966766.350500",
       "reply_users": [
-        "U0H9QUFA5"
+        "kusanaginoturugi"
       ],
       "is_locked": false,
       "subscribed": false,
@@ -1135,7 +1135,7 @@
         {
           "name": "eyes",
           "users": [
-            "U027RN1LZT6"
+            "aminokacho"
           ],
           "count": 1
         }
@@ -1145,7 +1145,7 @@
       "client_msg_id": "084b0c44-5e49-4105-961c-1456bda6c020",
       "type": "message",
       "text": "あとは、biosメニューみたいなので設定できたりとかあるのかなあ、あまり知らないんですが",
-      "user": "U0GFBAM8U",
+      "user": "syui",
       "ts": "1625833613.347500",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -1170,7 +1170,7 @@
       "client_msg_id": "04112acc-c6d9-4e7e-9db1-fb4303d8096f",
       "type": "message",
       "text": "了解しました！ありがとうございます。",
-      "user": "U027RN1LZT6",
+      "user": "aminokacho",
       "ts": "1625833533.347000",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -1195,7 +1195,7 @@
       "client_msg_id": "943d3e39-75fe-4524-bc0f-315dc9ee7ac5",
       "type": "message",
       "text": "設定うまくいって永続化(自動化)したいならxinitrcとかi3のconfとかに書きます",
-      "user": "U0GFBAM8U",
+      "user": "syui",
       "ts": "1625833476.346000",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -1220,7 +1220,7 @@
       "client_msg_id": "4c73e1eb-f834-4871-be18-128e6b5fea7a",
       "type": "message",
       "text": "xrandr調べてみて今試行錯誤しながら設定してます",
-      "user": "U027RN1LZT6",
+      "user": "aminokacho",
       "ts": "1625833409.345200",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -1245,7 +1245,7 @@
       "client_msg_id": "d9a07112-21ad-4ae2-81ea-5796bc2d1e75",
       "type": "message",
       "text": "i3使ってます。\nOSの解像度を変えるという方法を思いつきませんでした(反省)",
-      "user": "U027RN1LZT6",
+      "user": "aminokacho",
       "ts": "1625833377.344600",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -1270,7 +1270,7 @@
       "client_msg_id": "b76125bf-e636-42d7-bdc8-1e0145b5a17f",
       "type": "message",
       "text": "xrandrとかで変えられますか?",
-      "user": "U0GFBAM8U",
+      "user": "syui",
       "ts": "1625833160.343300",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -1295,7 +1295,7 @@
       "client_msg_id": "4145c9f4-d56e-44c0-845c-3b8a7ef4d54d",
       "type": "message",
       "text": "おお、surface proいいですね",
-      "user": "U0GFBAM8U",
+      "user": "syui",
       "ts": "1625833052.342800",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -1320,7 +1320,7 @@
       "client_msg_id": "2a67bbe0-b430-4b7e-98ce-d87bb43e5539",
       "type": "message",
       "text": "OS の解像度は変えたく無い感じですかね？\nあと、WM は何を使ってますか？",
-      "user": "U0PM6EYR1",
+      "user": "raa0121",
       "ts": "1625833047.342700",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -1345,7 +1345,7 @@
       "client_msg_id": "7c21fcd3-f5a2-4673-a1d0-a590e46c1935",
       "type": "message",
       "text": "Surface pro7にArch Linuxを入れたところ異常に解像度が高い関係でフォントやアイコンなどすべてが細かくなってしまうのですが、なにか対処法を知っている方はおられますでしょうか？",
-      "user": "U027RN1LZT6",
+      "user": "aminokacho",
       "ts": "1625832977.341500",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -1370,14 +1370,14 @@
       "type": "message",
       "subtype": "channel_join",
       "ts": "1625821817.339600",
-      "user": "U027RN1LZT6",
-      "text": "<@U027RN1LZT6>さんがチャンネルに参加しました"
+      "user": "aminokacho",
+      "text": "<@aminokacho>さんがチャンネルに参加しました"
     },
     {
       "client_msg_id": "b771cfaa-e056-4d0f-8a16-60554570f941",
       "type": "message",
       "text": "たぶんそうですね。デフォルトが日本語配列なんじゃないかな。確認しなかったけど。(わたしはUS派)",
-      "user": "U0H9QUFA5",
+      "user": "kusanaginoturugi",
       "ts": "1625821407.339400",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -1402,7 +1402,7 @@
       "client_msg_id": "ca25cc5a-7a72-423b-8c68-854e89680af2",
       "type": "message",
       "text": "`~` うてないということはUSキー配列なってるんじゃないですか？",
-      "user": "U01HE1ENNJZ",
+      "user": "a3784197",
       "ts": "1625818746.337800",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -1434,11 +1434,11 @@
       "client_msg_id": "c7846ef7-9662-487d-ac30-ad98fc13f57c",
       "type": "message",
       "text": "お試しに AlterLinux を Live USB で起動して、10分ほど使ってみた。i3版を入れてみたけど、結構苦労して作りあげた自分の環境とほぼ遜色ない環境がすぐに使える感じ(~ が入力できなくて難儀したけど)。ターミナル上でのインライン入力もできてたし、i3の設定も練られてる感じだった。設定の参考になりそう。lsdのアイコン表示とかもきっちりでてたのも感動した。",
-      "user": "U0H9QUFA5",
+      "user": "kusanaginoturugi",
       "ts": "1625818529.336500",
       "team": "T0GFBAM8C",
       "edited": {
-        "user": "U0H9QUFA5",
+        "user": "kusanaginoturugi",
         "ts": "1625818627.000000"
       },
       "blocks": [
@@ -1463,14 +1463,14 @@
       "type": "message",
       "subtype": "channel_join",
       "ts": "1625787633.331000",
-      "user": "U027WUR5Z25",
-      "text": "<@U027WUR5Z25>さんがチャンネルに参加しました",
+      "user": "knt.yamada.800",
+      "text": "<@knt.yamada.800>さんがチャンネルに参加しました",
       "reactions": [
         {
           "name": "archjp",
           "users": [
-            "U01HE1ENNJZ",
-            "UGA29R3FH"
+            "a3784197",
+            "znmxodq1"
           ],
           "count": 2
         }

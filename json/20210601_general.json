@@ -7,7 +7,7 @@
       "client_msg_id": "49ea3e82-a7f6-4d61-9478-b4ee73b31362",
       "type": "message",
       "text": "ありがとうございます読みます",
-      "user": "U01HE1ENNJZ",
+      "user": "a3784197",
       "ts": "1625059763.150300",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -32,7 +32,7 @@
       "client_msg_id": "4956ede0-d8a0-4775-9ddf-2f790e938078",
       "type": "message",
       "text": "<https://bbs.archlinux.org/viewtopic.php?id=204385>",
-      "user": "UN1SFMNU8",
+      "user": "addokoda",
       "ts": "1625059417.150000",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -66,7 +66,7 @@
           "mimetype": "image/png",
           "filetype": "png",
           "pretty_type": "PNG",
-          "user": "U01HE1ENNJZ",
+          "user": "a3784197",
           "editable": false,
           "size": 19601,
           "mode": "hosted",
@@ -88,14 +88,14 @@
           "original_w": 271,
           "original_h": 230,
           "thumb_tiny": "AwAoADC+Tg/dJ9xSZOPuGhsZoGDkUxAGP9w0qnP8JH1FIVz/APrpVXHSkMXFOHSkpR0oAjYjOMj86OCeoz9aGIB60m8d8igLMXBz7fWlxxzSIQe5P1p9AWEwKcOlJSjpQA0g0hBPenUUCEAwMdaWiigYUo6UlKKAP//Z",
-          "permalink": "https://archlinuxjp.slack.com/files/U01HE1ENNJZ/F026FRRJKAA/image.png",
+          "permalink": "https://archlinuxjp.slack.com/files/a3784197/F026FRRJKAA/image.png",
           "permalink_public": "https://slack-files.com/T0GFBAM8C-F026FRRJKAA-5d28bf3a91",
           "is_starred": false,
           "has_rich_preview": false
         }
       ],
       "upload": false,
-      "user": "U01HE1ENNJZ",
+      "user": "a3784197",
       "display_as_bot": false,
       "ts": "1625058110.149600",
       "blocks": [
@@ -116,7 +116,7 @@
         }
       ],
       "edited": {
-        "user": "U01HE1ENNJZ",
+        "user": "a3784197",
         "ts": "1625058272.000000"
       }
     },
@@ -124,35 +124,35 @@
       "type": "message",
       "subtype": "channel_join",
       "ts": "1624943916.148900",
-      "user": "U026DAJC7NH",
-      "text": "<@U026DAJC7NH>さんがチャンネルに参加しました"
+      "user": "un1gfn",
+      "text": "<@un1gfn>さんがチャンネルに参加しました"
     },
     {
       "type": "message",
       "subtype": "channel_join",
       "ts": "1624906482.148700",
-      "user": "U026BRNHB4M",
-      "text": "<@U026BRNHB4M>さんがチャンネルに参加しました"
+      "user": "genbuchan",
+      "text": "<@genbuchan>さんがチャンネルに参加しました"
     },
     {
       "type": "message",
       "subtype": "channel_join",
       "ts": "1624852835.148400",
-      "user": "U0264UKPQQN",
-      "text": "<@U0264UKPQQN>さんがチャンネルに参加しました"
+      "user": "mahiro_t",
+      "text": "<@mahiro_t>さんがチャンネルに参加しました"
     },
     {
       "type": "message",
       "subtype": "channel_join",
       "ts": "1624503751.147500",
-      "user": "U025LDT56G7",
-      "text": "<@U025LDT56G7>さんがチャンネルに参加しました"
+      "user": "reallove1970",
+      "text": "<@reallove1970>さんがチャンネルに参加しました"
     },
     {
       "client_msg_id": "b9c5f2e7-469f-4333-8ed5-19ad9f062d20",
       "type": "message",
       "text": "（設定むずかしいですが）",
-      "user": "U70QDFN82",
+      "user": "yutakatay",
       "ts": "1624420380.146000",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -177,7 +177,7 @@
       "client_msg_id": "98bea9b6-ae3a-465b-a631-2d17186d7fb1",
       "type": "message",
       "text": "私はudevでリマップしますね",
-      "user": "U70QDFN82",
+      "user": "yutakatay",
       "ts": "1624420358.145700",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -202,7 +202,7 @@
       "client_msg_id": "b8f8f2b3-8a28-4f43-bde2-ef498a1350a3",
       "type": "message",
       "text": "wayland(sway)環境下のキーボードのリマップってXKBで行うと思うんですが、以下のような記述の場合、fcitxの日本語キーボード(aと打っても\"*あ*\"ではなく\"*a*\")の時はしっかりと入れ替わっていて、mozc時は`Eisu_toggle`として認識され`Caps_Lock`として認識されず入れ替わっていないのでしょうか?\n実現したいこととしてはctrlと英数の入れ替え及び変換をswayの第2のwinキーにしたい。\n参考にしたサイト:\n1. <https://blog.cnu.jp/2014/05/12/use-xkb/>\n2. <https://qiita.com/terrari/items/39dad1e139fe23b926d9>\n3. <https://www.charvolant.org/doug/xkb/html/node5.html>\n4. wiki\n```partial modifier_keys\nxkb_symbols \"swapkeys\" {\n  replace key &lt;LCTL&gt;  { [ Caps_Lock ] };\n  replace key &lt;CAPS&gt; { [ Control_L ] };\n};```",
-      "user": "U015CDRQDD0",
+      "user": "v3rn3j",
       "ts": "1624379130.145100",
       "team": "T0GFBAM8C",
       "attachments": [
@@ -367,7 +367,7 @@
       "client_msg_id": "6e69733a-8069-4c63-99f4-8d2e143cce9c",
       "type": "message",
       "text": "devtools に sogrep のコマンドがあって結構使います",
-      "user": "U7F8FQF6W",
+      "user": "farseerfc",
       "ts": "1624323663.135000",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -391,7 +391,7 @@
         {
           "name": "hushed",
           "users": [
-            "U01J1GGMHDJ"
+            "naokihirokitomoki"
           ],
           "count": 1
         },
@@ -399,7 +399,7 @@
           "name": "eyes",
           "users": [
             "U01M9EK1L9Z",
-            "UGA29R3FH",
+            "znmxodq1",
             "U0H9QUFA5"
           ],
           "count": 3
@@ -410,14 +410,14 @@
       "type": "message",
       "subtype": "channel_join",
       "ts": "1624298693.134100",
-      "user": "U0259L40DC7",
-      "text": "<@U0259L40DC7>さんがチャンネルに参加しました"
+      "user": "inkch887",
+      "text": "<@inkch887>さんがチャンネルに参加しました"
     },
     {
       "client_msg_id": "f82ad915-0fc1-40e2-b7c0-e615ea94c604",
       "type": "message",
       "text": "私ならpkgfileで該当のsoファイルを検索しそう（AURは考えないとする）",
-      "user": "U01J1GGMHDJ",
+      "user": "naokihirokitomoki",
       "ts": "1624267892.133400",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -442,7 +442,7 @@
       "client_msg_id": "87dc8da2-1da1-4e3f-b46c-38d3b9355bc7",
       "type": "message",
       "text": "pamの依存関係（どのアプリケーションがどのpamを使っているか）を調べるのってどうやるんです？？",
-      "user": "U01QTK2CP3K",
+      "user": "redohagi127",
       "ts": "1624267123.131600",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -467,14 +467,14 @@
       "type": "message",
       "subtype": "channel_join",
       "ts": "1624235051.129200",
-      "user": "U0256E9F431",
-      "text": "<@U0256E9F431>さんがチャンネルに参加しました",
+      "user": "2000.fukuda.kyoko",
+      "text": "<@2000.fukuda.kyoko>さんがチャンネルに参加しました",
       "reactions": [
         {
           "name": "archjp",
           "users": [
-            "U01HE1ENNJZ",
-            "U0GFBAM8U"
+            "a3784197",
+            "syui"
           ],
           "count": 2
         }
@@ -484,7 +484,7 @@
       "client_msg_id": "91a40003-06dc-44af-9bec-35c4d880cf68",
       "type": "message",
       "text": "<https://github.com/u0a266/archlinux-tools-deb>\npacmanなんかをdebに固めてみました\n結構速くなりました\nご自由にお使いください",
-      "user": "U01HE1ENNJZ",
+      "user": "a3784197",
       "ts": "1624101787.128200",
       "team": "T0GFBAM8C",
       "attachments": [
@@ -529,13 +529,13 @@
         {
           "name": "+1",
           "users": [
-            "UGA29R3FH",
-            "U01J1GGMHDJ",
-            "U0GFBAM8U",
+            "znmxodq1",
+            "naokihirokitomoki",
+            "syui",
             "UD124KPDJ",
-            "U6DL9D3AB",
-            "U0PM6EYR1",
-            "U7F8FQF6W"
+            "emtee",
+            "raa0121",
+            "farseerfc"
           ],
           "count": 7
         }
@@ -545,7 +545,7 @@
       "client_msg_id": "b54d67ef-3df9-4ef0-812d-9acc67e377d2",
       "type": "message",
       "text": "うちのオレオレarchisoも挑戦してみるべきか",
-      "user": "UGA29R3FH",
+      "user": "znmxodq1",
       "ts": "1623840343.126500",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -569,8 +569,8 @@
         {
           "name": "archjp",
           "users": [
-            "U01HE1ENNJZ",
-            "U0GFBAM8U"
+            "a3784197",
+            "syui"
           ],
           "count": 2
         }
@@ -580,7 +580,7 @@
       "client_msg_id": "2b5cfb91-11e0-4fe0-b922-99c97dd92a75",
       "type": "message",
       "text": "便利",
-      "user": "U0GFBAM8U",
+      "user": "syui",
       "ts": "1623829513.126100",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -605,7 +605,7 @@
       "client_msg_id": "fe8b9a31-bec5-43dc-8990-96bffd83f0ac",
       "type": "message",
       "text": "<https://github.com/u0a266/myarch/blob/master/.github/workflows/build-archiso.yml>\n毎月1日にビルドしてreleaseできるようになったと思います！\nありがとうございます",
-      "user": "U01HE1ENNJZ",
+      "user": "a3784197",
       "ts": "1623828801.125800",
       "team": "T0GFBAM8C",
       "attachments": [
@@ -650,8 +650,8 @@
         {
           "name": "tada",
           "users": [
-            "U0GFBAM8U",
-            "UGA29R3FH",
+            "syui",
+            "znmxodq1",
             "UJ7P75WB1",
             "U53RAQBCP"
           ],
@@ -663,7 +663,7 @@
       "client_msg_id": "e865cec7-9f34-4551-917e-0cf58fe8eb11",
       "type": "message",
       "text": "もしかしたらxdg-dirsが日本語になってしまうかもしれませんが",
-      "user": "U01HE1ENNJZ",
+      "user": "a3784197",
       "ts": "1623813079.124800",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -688,7 +688,7 @@
       "client_msg_id": "646b707a-9fb0-4a1a-ae58-c0683bca7691",
       "type": "message",
       "text": "なんか特定の行消したら動いてます\n謎です",
-      "user": "U01HE1ENNJZ",
+      "user": "a3784197",
       "ts": "1623813043.124200",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -713,7 +713,7 @@
       "client_msg_id": "97614f41-e6f8-43b7-a8f0-c307fe248d7c",
       "type": "message",
       "text": "なにがどうなってるのかわからなくなりました笑",
-      "user": "U01HE1ENNJZ",
+      "user": "a3784197",
       "ts": "1623812050.123800",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -738,7 +738,7 @@
       "client_msg_id": "dfa0f245-6496-4f4b-9ba7-00e5ebeb9e36",
       "type": "message",
       "text": "なるほど",
-      "user": "U0PM6EYR1",
+      "user": "raa0121",
       "ts": "1623811835.123400",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -763,7 +763,7 @@
       "client_msg_id": "f5e10774-37ad-4ea3-963e-2c1547733a43",
       "type": "message",
       "text": "```==&gt; WARNING: /home/runner/work/myarch/myarch/work/x86_64/airootfs is not a mountpoint. This may have undesirable side effects.```",
-      "user": "U0PM6EYR1",
+      "user": "raa0121",
       "ts": "1623811826.123100",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -788,7 +788,7 @@
       "client_msg_id": "31c36b1e-5ac6-46df-a13f-ab8e655d445e",
       "type": "message",
       "text": "あー",
-      "user": "U0PM6EYR1",
+      "user": "raa0121",
       "ts": "1623811753.122900",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -813,7 +813,7 @@
       "client_msg_id": "9ecb09e8-8557-4846-828f-528f1ce72476",
       "type": "message",
       "text": "chroot後なのでちょっと違うのかもしれない",
-      "user": "U01HE1ENNJZ",
+      "user": "a3784197",
       "ts": "1623811738.122600",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -838,7 +838,7 @@
       "client_msg_id": "bd54ff3c-57d7-4d01-af62-f91f15518875",
       "type": "message",
       "text": "<https://docs.github.com/ja/actions/using-github-hosted-runners/about-github-hosted-runners#file-systems>\n書き込めるっぽいけどなぁ…",
-      "user": "U0PM6EYR1",
+      "user": "raa0121",
       "ts": "1623811638.121900",
       "team": "T0GFBAM8C",
       "attachments": [
@@ -879,7 +879,7 @@
       "client_msg_id": "6822209c-1332-4616-8b61-f84d9817aaac",
       "type": "message",
       "text": "謎ですね\nこれさえなんとかなれば行けそうですが",
-      "user": "U01HE1ENNJZ",
+      "user": "a3784197",
       "ts": "1623811358.121600",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -904,7 +904,7 @@
       "client_msg_id": "680f6851-758e-4ae0-b0aa-57164eb45017",
       "type": "message",
       "text": "`$HOME/.config` 以下が書き込めないのかな？",
-      "user": "U0PM6EYR1",
+      "user": "raa0121",
       "ts": "1623811317.121200",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -936,7 +936,7 @@
       "client_msg_id": "81d95bcf-de07-4797-b397-7e94c0e8240d",
       "type": "message",
       "text": "あっ、お亡くなりに",
-      "user": "U01HE1ENNJZ",
+      "user": "a3784197",
       "ts": "1623811204.120800",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -961,7 +961,7 @@
       "client_msg_id": "0849e0f7-8f92-4ed4-a703-74814ff298ab",
       "type": "message",
       "text": "`Can't save user-dirs.dirs, failed to create directory`\nほーん…",
-      "user": "U0PM6EYR1",
+      "user": "raa0121",
       "ts": "1623811123.120500",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -993,7 +993,7 @@
       "client_msg_id": "36b00b48-99c1-47ce-a4ee-d60a8d835d89",
       "type": "message",
       "text": "なるほど！\nビルドするとして時間かかりそうなのはpacmanのみですね",
-      "user": "U01HE1ENNJZ",
+      "user": "a3784197",
       "ts": "1623811083.120200",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -1018,7 +1018,7 @@
       "client_msg_id": "5f7c68aa-2833-4322-8d65-454515d5978b",
       "type": "message",
       "text": "でも、あんまり時間使ってないのか",
-      "user": "U0PM6EYR1",
+      "user": "raa0121",
       "ts": "1623811052.119600",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -1043,7 +1043,7 @@
       "client_msg_id": "55cfed4b-2ba5-491a-9c8c-00433d0cb6ce",
       "type": "message",
       "text": "例えば、ビルド時間を減らすソリューションとしては、pacman や archlinux-keyring を deb パッケージとして先にビルドしちゃうとか",
-      "user": "U0PM6EYR1",
+      "user": "raa0121",
       "ts": "1623810996.119200",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -1068,7 +1068,7 @@
       "client_msg_id": "e2aef409-29d2-4722-ae2d-ab4586f7283e",
       "type": "message",
       "text": "ですね、key動くの便利",
-      "user": "U0GFBAM8U",
+      "user": "syui",
       "ts": "1623810981.118900",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -1093,7 +1093,7 @@
       "client_msg_id": "dba3dda9-4b67-47fe-b093-aa0abd5eb721",
       "type": "message",
       "text": "動きますよ\narchlinux-keyringをなんとか入れないと\nエラー出ますが",
-      "user": "U01HE1ENNJZ",
+      "user": "a3784197",
       "ts": "1623810950.118100",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -1118,7 +1118,7 @@
       "client_msg_id": "9de8e253-dc30-4c69-874e-66479eca28ab",
       "type": "message",
       "text": "pacman-keyも動く感じなのかな",
-      "user": "U0GFBAM8U",
+      "user": "syui",
       "ts": "1623810903.117000",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -1143,7 +1143,7 @@
       "client_msg_id": "F6380219-0DF1-4E23-B462-E39CEA6DD653",
       "type": "message",
       "text": "こういうやりかたができる、というところまで持っていったの、すごく貴重だし、いいと思います",
-      "user": "U0GFBAM8U",
+      "user": "syui",
       "ts": "1623810811.116700",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -1168,7 +1168,7 @@
       "client_msg_id": "05978c1c-5878-4a47-a3ca-2f337e3a1ee4",
       "type": "message",
       "text": "ubuntuにpacmanを入れていいのかはわかりませんが",
-      "user": "U01HE1ENNJZ",
+      "user": "a3784197",
       "ts": "1623810650.115700",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -1193,7 +1193,7 @@
       "client_msg_id": "EB0C4123-4C43-4662-8B42-C8635D41F798",
       "type": "message",
       "text": "おお、すごい",
-      "user": "U0GFBAM8U",
+      "user": "syui",
       "ts": "1623810425.115200",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -1218,7 +1218,7 @@
       "client_msg_id": "57176cf1-0149-462e-8c9d-f2a4345b4cf6",
       "type": "message",
       "text": "ありがとうございました",
-      "user": "U01HE1ENNJZ",
+      "user": "a3784197",
       "ts": "1623810330.115000",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -1243,7 +1243,7 @@
       "client_msg_id": "0858f3db-e543-4390-87ef-d806a0c84fe4",
       "type": "message",
       "text": "<https://github.com/u0a266/myarch/blob/master/.github/workflows/build-archiso.yml>",
-      "user": "U01HE1ENNJZ",
+      "user": "a3784197",
       "ts": "1623810324.114700",
       "team": "T0GFBAM8C",
       "attachments": [
@@ -1285,7 +1285,7 @@
       "client_msg_id": "8e831e63-3c62-47b2-b7a0-475bc480c0ee",
       "type": "message",
       "text": "ubuntu上でmkarchiso回したら動きました",
-      "user": "U01HE1ENNJZ",
+      "user": "a3784197",
       "ts": "1623810299.114500",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -1310,21 +1310,21 @@
       "type": "message",
       "subtype": "channel_join",
       "ts": "1623741101.113900",
-      "user": "U024V6GE5RC",
-      "text": "<@U024V6GE5RC>さんがチャンネルに参加しました"
+      "user": "mjhd.devlion",
+      "text": "<@mjhd.devlion>さんがチャンネルに参加しました"
     },
     {
       "type": "message",
       "subtype": "channel_join",
       "ts": "1623732096.113700",
-      "user": "U024LS20X2T",
-      "text": "<@U024LS20X2T>さんがチャンネルに参加しました"
+      "user": "20k1030-slack",
+      "text": "<@20k1030-slack>さんがチャンネルに参加しました"
     },
     {
       "client_msg_id": "17411b4e-4f58-44e2-831d-0516a1918070",
       "type": "message",
       "text": "<https://forum.gitlab.com/t/unable-to-mount-img-in-ci/38237>\nやっぱgitlabだったら設定があるようですね",
-      "user": "U01HE1ENNJZ",
+      "user": "a3784197",
       "ts": "1623471955.113300",
       "team": "T0GFBAM8C",
       "attachments": [
@@ -1370,7 +1370,7 @@
       "client_msg_id": "F78E04BB-82A3-429E-A0B4-06B2D1DFF610",
       "type": "message",
       "text": "gh-actionsでもarchのimgをなんらかの方法で使うことができるなら、procのerr出ずにbuild通るかも。",
-      "user": "U0GFBAM8U",
+      "user": "syui",
       "ts": "1623471593.112900",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -1395,7 +1395,7 @@
       "client_msg_id": "EE070F72-FCB1-4EFE-B1FE-F7C3E13C356A",
       "type": "message",
       "text": "共有したリポジトリではできる感じだと思われます。\n私がやったのはtravis-ciでdocker-imgを使う方法でした。",
-      "user": "U0GFBAM8U",
+      "user": "syui",
       "ts": "1623471288.110600",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -1420,7 +1420,7 @@
       "client_msg_id": "f9cee2ce-9882-4186-b261-e50a8fac87c3",
       "type": "message",
       "text": "gitlabだとできた感じですか？",
-      "user": "U01HE1ENNJZ",
+      "user": "a3784197",
       "ts": "1623471207.109100",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -1445,7 +1445,7 @@
       "client_msg_id": "5698c49d-d797-44a6-85e8-7b461a180554",
       "type": "message",
       "text": "ただ、github action上でこれらが実行可能かどうかは、やったことがないので、わかりませんが",
-      "user": "U0GFBAM8U",
+      "user": "syui",
       "ts": "1623464048.108800",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -1470,7 +1470,7 @@
       "client_msg_id": "c984728d-9118-4b4b-801a-e51ce8fb6229",
       "type": "message",
       "text": "なので可能なら\n```default:\n  image: \"archlinux:latest\"```\nみたいな感じでarchのimg上で実行するか、もしくは、dockerに閉じ込めて、ci上で`docker run -v /var/run/docker.sock:/var/run/docker.sock --privileged -it archlinux /bin/bash /mkimage-arch.sh` みたいな解決策が考えられると思います。",
-      "user": "U0GFBAM8U",
+      "user": "syui",
       "ts": "1623463951.108300",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -1524,7 +1524,7 @@
       "client_msg_id": "bfd2f775-d26e-407d-955c-2982b5f4852e",
       "type": "message",
       "text": "ちなみに、そんな感じの問題にあたった記憶が自分にもあった気がして、そのときは、archのimg上でbuildすれば回避できたような気がする",
-      "user": "U0GFBAM8U",
+      "user": "syui",
       "ts": "1623463540.106000",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -1549,7 +1549,7 @@
       "client_msg_id": "10cd8627-04f2-47fc-90c1-9b7bd7613661",
       "type": "message",
       "text": "一応、こんなものがあって、gitlab-ciではbuildできてるっぽいのかな...あまり参考にならないかもですが\n<https://github.com/archlinux/archlinux-docker/blob/master/.gitlab-ci.yml>",
-      "user": "U0GFBAM8U",
+      "user": "syui",
       "ts": "1623463417.104800",
       "team": "T0GFBAM8C",
       "attachments": [
@@ -1595,7 +1595,7 @@
       "client_msg_id": "3d8acff2-33a4-4e3b-84bd-31221c1bcca1",
       "type": "message",
       "text": "archisoをgithub action上のcontainerでビルドしようと思ったんですけど\n<https://bbs.archlinux.org/viewtopic.php?id=258147>\nこのようなprocマウントが権限拒否されるんですけど\n解決策知ってる人いますか？",
-      "user": "U01HE1ENNJZ",
+      "user": "a3784197",
       "ts": "1623461929.104200",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -1628,21 +1628,21 @@
       "type": "message",
       "subtype": "channel_join",
       "ts": "1623225840.102600",
-      "user": "U024GAVE3QT",
-      "text": "<@U024GAVE3QT>さんがチャンネルに参加しました"
+      "user": "zxkjsnke38trskh3ioogi",
+      "text": "<@zxkjsnke38trskh3ioogi>さんがチャンネルに参加しました"
     },
     {
       "type": "message",
       "subtype": "channel_join",
       "ts": "1623202853.102400",
-      "user": "U024F9JH5PC",
-      "text": "<@U024F9JH5PC>さんがチャンネルに参加しました"
+      "user": "hyper.ninja.3433",
+      "text": "<@hyper.ninja.3433>さんがチャンネルに参加しました"
     },
     {
       "client_msg_id": "78885fcc-1cd6-4cc9-b2ad-b803cd6139a1",
       "type": "message",
       "text": "文字や記号には基本的には著作権は発生しないけど、発生する場合もあるので難しいらしい(デザインが施された場合など",
-      "user": "U0GFBAM8U",
+      "user": "syui",
       "ts": "1623156198.101100",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -1666,7 +1666,7 @@
         {
           "name": "naruhodo",
           "users": [
-            "UGA29R3FH"
+            "znmxodq1"
           ],
           "count": 1
         }
@@ -1676,7 +1676,7 @@
       "client_msg_id": "b040ecbc-0a64-4312-a559-1cc09c2bc4cf",
       "type": "message",
       "text": "へえ、知らなかった &gt; 手書き",
-      "user": "U0GFBAM8U",
+      "user": "syui",
       "ts": "1623156054.100300",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -1701,7 +1701,7 @@
       "client_msg_id": "7d2c2d64-63c8-4133-8a06-13f98aa3c2bf",
       "type": "message",
       "text": "ujihisaさんの手書きですね",
-      "user": "UGA29R3FH",
+      "user": "znmxodq1",
       "ts": "1623156000.099800",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -1725,7 +1725,7 @@
         {
           "name": "naruhodo",
           "users": [
-            "UPLFHSQ2V"
+            "conao3"
           ],
           "count": 1
         }
@@ -1735,7 +1735,7 @@
       "client_msg_id": "f383e8ef-8179-4ac0-ac77-17efca0f8fc3",
       "type": "message",
       "text": "あ、あれ書いた人が入れたものなんですか。フリー素材であるものかと。",
-      "user": "UPLFHSQ2V",
+      "user": "conao3",
       "ts": "1623155981.099500",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -1760,7 +1760,7 @@
       "client_msg_id": "1c492472-cc1f-4545-b471-97a184667798",
       "type": "message",
       "text": "某jpの手書き文字群は個人の著作物なので輸入するのは躊躇してしまう",
-      "user": "UGA29R3FH",
+      "user": "znmxodq1",
       "ts": "1623155887.098800",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -1785,7 +1785,7 @@
       "client_msg_id": "138bc5a4-ee75-45c6-a234-2c079cff6045",
       "type": "message",
       "text": "ここの番号にこんな意味があったなんて知らなかった・・・",
-      "user": "U70QDFN82",
+      "user": "yutakatay",
       "ts": "1623155860.098200",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -1809,7 +1809,7 @@
         {
           "name": "me-too",
           "users": [
-            "UGA29R3FH",
+            "znmxodq1",
             "UJ7P75WB1"
           ],
           "count": 2
@@ -1820,7 +1820,7 @@
       "client_msg_id": "50786648-83cc-42ba-9f67-16522b9d8694",
       "type": "message",
       "text": ":banjaku: (なかった)",
-      "user": "UPLFHSQ2V",
+      "user": "conao3",
       "ts": "1623155857.098100",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -1845,7 +1845,7 @@
       "client_msg_id": "562fe020-62ea-450a-adbd-d9777b734092",
       "type": "message",
       "text": "私も6でした。",
-      "user": "UPLFHSQ2V",
+      "user": "conao3",
       "ts": "1623155838.097700",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -1870,7 +1870,7 @@
       "client_msg_id": "eecc543d-372e-4edc-8127-13409079a84d",
       "type": "message",
       "text": "ああ、そういう意味か、意味勘違いしてた",
-      "user": "U0GFBAM8U",
+      "user": "syui",
       "ts": "1623155831.097500",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -1895,7 +1895,7 @@
       "client_msg_id": "c6e6be4b-5386-4347-bbf3-d58855f39695",
       "type": "message",
       "text": "うちも6なので磐石っぽい",
-      "user": "UGA29R3FH",
+      "user": "znmxodq1",
       "ts": "1623155830.097400",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -1920,7 +1920,7 @@
       "client_msg_id": "38c64e98-faf7-4865-ae97-862a3dc79a11",
       "type": "message",
       "text": "1→md5\n5→sha-256\n6→sha-512\nなるほどこれか。私はsha-512でしたね",
-      "user": "U70QDFN82",
+      "user": "yutakatay",
       "ts": "1623155799.096900",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -1945,7 +1945,7 @@
       "client_msg_id": "e86904fd-959e-4cb4-844c-49fa37bd1351",
       "type": "message",
       "text": "libxcrypt依存のツールが更新された日付とか\n(ただし、libxcryptが更新されたからと言って、必ずしもツールの更新が必要とは限らないけど",
-      "user": "U0GFBAM8U",
+      "user": "syui",
       "ts": "1623155741.096500",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -1970,7 +1970,7 @@
       "client_msg_id": "7b0fe5b5-7c79-47da-9ab7-16c05e8dbc50",
       "type": "message",
       "text": "ed25519のときは書いてないな。。",
-      "user": "UPLFHSQ2V",
+      "user": "conao3",
       "ts": "1623155733.096200",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -1995,7 +1995,7 @@
       "client_msg_id": "7ff821ca-2de0-4ad6-b50f-9388dd43cd45",
       "type": "message",
       "text": "暗号はド素人なのでなぜed25519があそこまで短いのか全くわからん",
-      "user": "UGA29R3FH",
+      "user": "znmxodq1",
       "ts": "1623155726.095900",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -2019,9 +2019,9 @@
         {
           "name": "wakaru",
           "users": [
-            "U70QDFN82",
-            "U0GFBAM8U",
-            "U01HE1ENNJZ"
+            "yutakatay",
+            "syui",
+            "a3784197"
           ],
           "count": 3
         }
@@ -2031,7 +2031,7 @@
       "client_msg_id": "937a4a08-e7f9-4430-8820-13855549a132",
       "type": "message",
       "text": "<https://www.unknownengineer.net/entry/2017/08/16/184537#%E3%83%8F%E3%83%83%E3%82%B7%E3%83%A5%E6%96%B9%E5%BC%8F>\n詳しくないので適当に調べただけであれですが、/etc/shadow見れば分かるんですかね？",
-      "user": "UPLFHSQ2V",
+      "user": "conao3",
       "ts": "1623155712.095200",
       "team": "T0GFBAM8C",
       "attachments": [
@@ -2077,8 +2077,8 @@
         {
           "name": "+1",
           "users": [
-            "U70QDFN82",
-            "U01HE1ENNJZ"
+            "yutakatay",
+            "a3784197"
           ],
           "count": 2
         }
@@ -2088,7 +2088,7 @@
       "client_msg_id": "5fea2a93-1a3c-4ed0-84b1-9b5ad4640510",
       "type": "message",
       "text": "とりあえず長そう（けどなぜかed25519とか短いんだよな・・・）",
-      "user": "U70QDFN82",
+      "user": "yutakatay",
       "ts": "1623155698.094800",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -2113,7 +2113,7 @@
       "client_msg_id": "6A0B3AF6-32DA-4924-BD9F-92EA377FB378",
       "type": "message",
       "text": "なぞ",
-      "user": "U0GFBAM8U",
+      "user": "syui",
       "ts": "1623155639.093200",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -2138,7 +2138,7 @@
       "client_msg_id": "4870ca5b-0fdb-451e-b562-00c61fbe7fad",
       "type": "message",
       "text": "今のパスワードどれ使ってるかってどうやったらわかるんだろう・・・？",
-      "user": "U70QDFN82",
+      "user": "yutakatay",
       "ts": "1623155509.093000",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -2163,7 +2163,7 @@
       "client_msg_id": "220AF2B2-1621-4BA6-A65B-140C03ED1D43",
       "type": "message",
       "text": "たしかに",
-      "user": "U0GFBAM8U",
+      "user": "syui",
       "ts": "1623155503.092800",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -2188,7 +2188,7 @@
       "client_msg_id": "182a8a2e-305c-4caf-b396-e4bbf3b170b2",
       "type": "message",
       "text": "(自動ログインしてるのでちょっと怖い)",
-      "user": "UGA29R3FH",
+      "user": "znmxodq1",
       "ts": "1623155491.092500",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -2213,7 +2213,7 @@
       "client_msg_id": "684c2991-b4f1-47c6-ae7e-ab6759ebad37",
       "type": "message",
       "text": "なるほど\nまあ突然brickする心配はしなくてもいいか、変更求められるだけって書いてあるし",
-      "user": "UGA29R3FH",
+      "user": "znmxodq1",
       "ts": "1623155466.092100",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -2238,7 +2238,7 @@
       "client_msg_id": "BB93E34D-B6FA-4AB5-9328-2B6520D3E15E",
       "type": "message",
       "text": " パスワード &gt; うーん、どうなんでしょうね\n新しく作る場合は有効になると思うけど、古いままのパスワードの人はそのままでも使えるのは使えるような気がする",
-      "user": "U0GFBAM8U",
+      "user": "syui",
       "ts": "1623155413.091600",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -2263,7 +2263,7 @@
       "client_msg_id": "9430CA92-863A-49D9-B717-A8D281078E53",
       "type": "message",
       "text": "(更新はやいと自動翻訳されずjpのurlが投稿される感じだったと思う)",
-      "user": "U0GFBAM8U",
+      "user": "syui",
       "ts": "1623155058.089100",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -2287,7 +2287,7 @@
         {
           "name": "hee",
           "users": [
-            "UGA29R3FH",
+            "znmxodq1",
             "U3FJYR7MG",
             "UUWBU08TU",
             "UJ7P75WB1"
@@ -2300,7 +2300,7 @@
       "client_msg_id": "6b981795-380f-4fa9-be0f-33fdc0c1402c",
       "type": "message",
       "text": "これって最近パスワード変えてたら大丈夫なのかな",
-      "user": "UGA29R3FH",
+      "user": "znmxodq1",
       "ts": "1623155058.089000",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -2325,7 +2325,7 @@
       "client_msg_id": "FA3101DF-6778-4D32-8ED5-0ADB39D12E5B",
       "type": "message",
       "text": "お、はやい",
-      "user": "U0GFBAM8U",
+      "user": "syui",
       "ts": "1623154970.087300",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -2432,7 +2432,7 @@
       "client_msg_id": "15a007b6-e250-4491-9449-5ac7cb141f79",
       "type": "message",
       "text": "RedditでArchのアンケートやってるので共有しときます\n<https://www.reddit.com/r/archlinux/comments/ntkloq/how_often_does_your_install_breaks/>",
-      "user": "U70QDFN82",
+      "user": "yutakatay",
       "ts": "1622990585.085800",
       "team": "T0GFBAM8C",
       "attachments": [
@@ -2476,10 +2476,10 @@
         {
           "name": "arch",
           "users": [
-            "U0GFBAM8U",
+            "syui",
             "U017BNGTHT3",
             "U02042L9G10",
-            "U01HE1ENNJZ"
+            "a3784197"
           ],
           "count": 4
         }
@@ -2489,7 +2489,7 @@
       "client_msg_id": "48f27e7d-e498-4a68-a493-c72e48d8c804",
       "type": "message",
       "text": "サーと後ろで言ってるノイズ(ホワイトノイズ?)がひどくなったようです",
-      "user": "U019C7VLZ4G",
+      "user": "getalotofmail",
       "ts": "1622984668.084900",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -2514,7 +2514,7 @@
       "reply_users_count": 1,
       "latest_reply": "1622994974.086100",
       "reply_users": [
-        "U019C7VLZ4G"
+        "getalotofmail"
       ],
       "is_locked": false,
       "subscribed": false
@@ -2523,7 +2523,7 @@
       "client_msg_id": "8d2e764f-9c6c-4369-928f-0de6c0f60928",
       "type": "message",
       "text": "なにか対応方法はありますか",
-      "user": "U019C7VLZ4G",
+      "user": "getalotofmail",
       "ts": "1622984639.084200",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -2548,7 +2548,7 @@
       "client_msg_id": "522ac3b4-8680-4b8a-956b-3bf8bf097d96",
       "type": "message",
       "text": "Linux版のDiscordを使っているのですが、ここ数日急にマイクのノイズが大きくなりました\nマイクはイヤホンに付属しているものを使っています",
-      "user": "U019C7VLZ4G",
+      "user": "getalotofmail",
       "ts": "1622984623.083900",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -2573,7 +2573,7 @@
       "client_msg_id": "84ce9309-42b8-461f-834e-84e1e64ab5c5",
       "type": "message",
       "text": "ですね。AURのメンテナンスの人はアップデートするよって言ってたんですけどそれから応答なしですね\n<https://aur.archlinux.org/packages/yay-bin>",
-      "user": "U70QDFN82",
+      "user": "yutakatay",
       "ts": "1622736914.081700",
       "team": "T0GFBAM8C",
       "attachments": [
@@ -2614,7 +2614,7 @@
       "client_msg_id": "137F98BC-7FB6-4C72-B79B-5F2AF5B5EE84",
       "type": "message",
       "text": "あら、そうなのか\nとするとyay-binが古いyay参照しててそれがlibalpm12依存なので、とかかなあ\nyay最新自体はlibalpm13対応してそう",
-      "user": "U0GFBAM8U",
+      "user": "syui",
       "ts": "1622735373.081000",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -2639,11 +2639,11 @@
       "client_msg_id": "584914d5-fb06-46f1-96c2-4b4d92a29d7d",
       "type": "message",
       "text": "&gt; pacmanを更新した後に AURのリポジトリから `yay` をチェックアウトして\n古いyayを消す前に `yay -G yay` しておく方がラクかも\n試したのは yay 10.2.2-4 です",
-      "user": "U6DL9D3AB",
+      "user": "emtee",
       "ts": "1622732841.078300",
       "team": "T0GFBAM8C",
       "edited": {
-        "user": "U6DL9D3AB",
+        "user": "emtee",
         "ts": "1622732940.000000"
       },
       "blocks": [
@@ -2699,7 +2699,7 @@
       "client_msg_id": "b2837ce7-65af-43e6-b134-ff44e34adce6",
       "type": "message",
       "text": "`yay-bin` ではないのですが…\npacmanを更新した後に AURのリポジトリから `yay` をチェックアウトして `makepkg -si` でビルド・インストール出来ましたよ\n動作も特に問題なさそうです",
-      "user": "U6DL9D3AB",
+      "user": "emtee",
       "ts": "1622732704.076800",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -2753,7 +2753,7 @@
       "client_msg_id": "5851E024-D666-4807-98E6-58C2AAF196C2",
       "type": "message",
       "text": "ちなみに、manjaroはlibalpm12なので大丈夫そう\nこれも伝聞ですけど",
-      "user": "U0GFBAM8U",
+      "user": "syui",
       "ts": "1622729790.074600",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -2778,7 +2778,7 @@
       "client_msg_id": "F2AED9C5-61A0-449A-A20C-0293BACF36B7",
       "type": "message",
       "text": "もうトラブル前にparuに移行しちゃったので、あくまで推測ですが、yayまだlibalpm12だったので、archがlibalpm13に移行した段階で動かなくなっちったんじゃないかと",
-      "user": "U0GFBAM8U",
+      "user": "syui",
       "ts": "1622729733.073500",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -2803,7 +2803,7 @@
       "client_msg_id": "51FDEEA1-BA47-4EB6-B1E1-14B1292C5C3F",
       "type": "message",
       "text": "<https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1622515892034500|https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1622515892034500>",
-      "user": "U0GFBAM8U",
+      "user": "syui",
       "ts": "1622729601.070900",
       "team": "T0GFBAM8C",
       "attachments": [
@@ -2811,14 +2811,14 @@
           "from_url": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1622515892034500",
           "fallback": "[May 31st, 2021 7:51 PM] yutakatay: 今アップデートすると\n&gt; yay-bin and pacman are in conflict (libalpm.so). \nとかでyay-binが削除されますね。（pacman6対応らしい）\nすでに対応は決まってるみたいなんでちょっとしたらyay-binの方もコンパイルされてアップデートされるっぽいですけど",
           "ts": "1622515892.034500",
-          "author_id": "U70QDFN82",
+          "author_id": "yutakatay",
           "author_subname": "yutkat",
           "channel_id": "C0GFH3RHC",
           "channel_name": "general",
           "is_msg_unfurl": true,
           "text": "今アップデートすると\n&gt; yay-bin and pacman are in conflict (libalpm.so). \nとかでyay-binが削除されますね。（pacman6対応らしい）\nすでに対応は決まってるみたいなんでちょっとしたらyay-binの方もコンパイルされてアップデートされるっぽいですけど",
           "author_name": "yutkat",
-          "author_link": "https://archlinuxjp.slack.com/team/U70QDFN82",
+          "author_link": "https://archlinuxjp.slack.com/team/yutakatay",
           "author_icon": "https://avatars.slack-edge.com/2020-08-16/1302143736069_0baa468f7bea68e827d9_48.png",
           "mrkdwn_in": [
             "text"
@@ -2851,7 +2851,7 @@
       "client_msg_id": "c876bbc0-0871-40fc-8e24-4c98fac2861b",
       "type": "message",
       "text": "paruの話題出てましたが、yayは死んだのですか?",
-      "user": "U019C7VLZ4G",
+      "user": "getalotofmail",
       "ts": "1622729524.070700",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -2876,14 +2876,14 @@
       "type": "message",
       "subtype": "channel_join",
       "ts": "1622707672.070600",
-      "user": "U023W9UQD0B",
-      "text": "<@U023W9UQD0B>さんがチャンネルに参加しました"
+      "user": "takumiando15",
+      "text": "<@takumiando15>さんがチャンネルに参加しました"
     },
     {
       "client_msg_id": "af08dffd-9f02-4bc5-a95a-cf6f106450ec",
       "type": "message",
       "text": "おそらくこの修正でparu 1.7.0は正常にbuildできるようになったはずだと思います。\n<https://github.com/archlinux/alpm.rs/commit/5253d631de6f250ba5ced28c21d8fdeadb131fb4>",
-      "user": "U0GFBAM8U",
+      "user": "syui",
       "ts": "1622654369.069900",
       "team": "T0GFBAM8C",
       "attachments": [
@@ -2929,7 +2929,7 @@
       "client_msg_id": "7f818074-b28c-4bf6-8ee2-39d32d7c230b",
       "type": "message",
       "text": "お、作者登場した",
-      "user": "U70QDFN82",
+      "user": "yutakatay",
       "ts": "1622559692.068500",
       "team": "T0GFBAM8C",
       "blocks": [

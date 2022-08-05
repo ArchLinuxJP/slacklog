@@ -7,7 +7,7 @@
       "client_msg_id": "82ca7358-5c94-45d3-abd1-48dc388a3d15",
       "type": "message",
       "text": "ノートPCはバッテリ残量が一定以下になるとCPUの周波数制限がかかるモノがありますね\nLet's noteだと5%切ったくらいからCPUの周波数が800MHzまでしか上がらなくなります",
-      "user": "UCA1NQM5K",
+      "user": "angel.beats.kanade.yu",
       "ts": "1622467277.077500",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -31,11 +31,11 @@
         {
           "name": "naruhodo",
           "users": [
-            "UGA29R3FH",
-            "U01HE1ENNJZ",
+            "znmxodq1",
+            "a3784197",
             "UFT4ASC3F",
-            "U019C7VLZ4G",
-            "UUWBU08TU",
+            "getalotofmail",
+            "nyaarch64",
             "UJ7P75WB1",
             "UAPRYSVPS",
             "U022AA9JS04"
@@ -48,7 +48,7 @@
       "client_msg_id": "85d74ab1-964c-45b9-be42-42e4155cfba3",
       "type": "message",
       "text": "ちなみにThinkPad X13 gen1 (amd) です",
-      "user": "U019C7VLZ4G",
+      "user": "getalotofmail",
       "ts": "1622465722.076100",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -73,7 +73,7 @@
       "client_msg_id": "d697ea4d-db10-41b6-8af1-5b9128ed18ba",
       "type": "message",
       "text": "スマホだけど0%付近で速度制限かかるやつを見たことがあるのでPCでもありえそう",
-      "user": "UGA29R3FH",
+      "user": "znmxodq1",
       "ts": "1622465084.075900",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -97,8 +97,8 @@
         {
           "name": "wakaru",
           "users": [
-            "UUWBU08TU",
-            "U019C7VLZ4G",
+            "nyaarch64",
+            "getalotofmail",
             "UJ7P75WB1",
             "U022AA9JS04"
           ],
@@ -110,7 +110,7 @@
       "client_msg_id": "2e4eb192-2862-4014-8b0f-4caa3c6d1c56",
       "type": "message",
       "text": "解決してよかったです",
-      "user": "U01HE1ENNJZ",
+      "user": "a3784197",
       "ts": "1622464650.075800",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -135,7 +135,7 @@
       "client_msg_id": "3f631074-5550-4e36-99f8-f9315212a8e1",
       "type": "message",
       "text": "何回かバッテリーが1%から2%の状態でACアダプタ付きで再起動させていたのですが、とても動作が遅く、いま13%ぐらいになった状態で再起動させたら普通に速かったです。",
-      "user": "U019C7VLZ4G",
+      "user": "getalotofmail",
       "ts": "1622464446.075600",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -160,7 +160,7 @@
       "client_msg_id": "872ce628-fe55-4c8e-96b6-eb96e466d6d3",
       "type": "message",
       "text": "ありがとうございます！\n今もう一度再起動してみたら通常の速さに戻りました。\nノートPCをACアダプタから長時間抜いており、電源押しても起動しないレベルまでバッテリーが減った状態になっていました。なのでACアダプタを挿して起動させたのですが、\nバッテリーがほぼゼロになった状態でのACアダプタ挿しての起動って遅くなったりするのでしょうか?",
-      "user": "U019C7VLZ4G",
+      "user": "getalotofmail",
       "ts": "1622464294.075500",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -185,7 +185,7 @@
       "client_msg_id": "d4c2d62a-bcf7-4b63-830a-cd5e21e92f56",
       "type": "message",
       "text": "X11のlogは\n```grep EE /path/to/log```\nですね",
-      "user": "U01HE1ENNJZ",
+      "user": "a3784197",
       "ts": "1622464020.075400",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -228,7 +228,7 @@
       "client_msg_id": "7e146679-c706-4ce9-a50d-390842deb31e",
       "type": "message",
       "text": "`systemd-analyze blame` で遅いsystemdユニットが見れます",
-      "user": "UUWBU08TU",
+      "user": "nyaarch64",
       "ts": "1622463768.074500",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -260,7 +260,7 @@
       "client_msg_id": "74d6eefd-9db6-4e35-b90e-989346f5b9d0",
       "type": "message",
       "text": "root権限必要です",
-      "user": "U01HE1ENNJZ",
+      "user": "a3784197",
       "ts": "1622463750.074400",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -285,7 +285,7 @@
       "client_msg_id": "58c2f30c-b793-4c61-8e8a-6ee2e54fde04",
       "type": "message",
       "text": "```dmesg -l err,warn```\nでレベル表示できます\nwarn抜くとerrのみになります\nこっちのほうがシンプルです",
-      "user": "U01HE1ENNJZ",
+      "user": "a3784197",
       "ts": "1622463717.074000",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -319,7 +319,7 @@
       "client_msg_id": "c1e26762-d6b7-4503-a505-a1afa03564a0",
       "type": "message",
       "text": "普通に横の経過時間でしょうか?",
-      "user": "U019C7VLZ4G",
+      "user": "getalotofmail",
       "ts": "1622463699.073600",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -344,7 +344,7 @@
       "client_msg_id": "dc77016a-ec5d-44e3-89fc-f244c40afcce",
       "type": "message",
       "text": "どのように見ればわかりますか？",
-      "user": "U019C7VLZ4G",
+      "user": "getalotofmail",
       "ts": "1622463661.072800",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -369,7 +369,7 @@
       "client_msg_id": "f3d804a1-bd67-4279-94dd-98103671bc49",
       "type": "message",
       "text": "お恥ずかしい話、あんまり見方わかってないです…",
-      "user": "U019C7VLZ4G",
+      "user": "getalotofmail",
       "ts": "1622463193.072700",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -394,7 +394,7 @@
       "client_msg_id": "509558b7-5758-41d3-8fbe-74e406a31f9f",
       "type": "message",
       "text": "```dmesg```\nとか見てみてはどうですか",
-      "user": "U01HE1ENNJZ",
+      "user": "a3784197",
       "ts": "1622462667.072600",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -428,11 +428,11 @@
       "client_msg_id": "b8f79b8c-a019-4c47-aff3-c81c4ee4565e",
       "type": "message",
       "text": "最近のUpdateのあとから発生しているような気がする",
-      "user": "U019C7VLZ4G",
+      "user": "getalotofmail",
       "ts": "1622462588.072000",
       "team": "T0GFBAM8C",
       "edited": {
-        "user": "U019C7VLZ4G",
+        "user": "getalotofmail",
         "ts": "1622462610.000000"
       },
       "blocks": [
@@ -457,7 +457,7 @@
       "client_msg_id": "7a870a89-8d65-44e1-bf18-895cc6a90b50",
       "type": "message",
       "text": "起動にもとても時間がかかるし、Browser立ち上げも遅い",
-      "user": "U019C7VLZ4G",
+      "user": "getalotofmail",
       "ts": "1622462555.071900",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -482,7 +482,7 @@
       "client_msg_id": "5217819d-1025-4175-9e17-1584bafd668a",
       "type": "message",
       "text": "なぜかArch Linuxの動作が遅くなった",
-      "user": "U019C7VLZ4G",
+      "user": "getalotofmail",
       "ts": "1622462529.071800",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -507,7 +507,7 @@
       "client_msg_id": "6681a77c-23c0-4ed2-a330-30ff00a8285b",
       "type": "message",
       "text": "シンガポールにすると速くなるのでいいですよってのをTwitterで聞きました",
-      "user": "U01HE1ENNJZ",
+      "user": "a3784197",
       "ts": "1622329760.070700",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -531,9 +531,9 @@
         {
           "name": "eyes",
           "users": [
-            "U0GFBAM8U",
-            "U53RAQBCP",
-            "U017BNGTHT3",
+            "syui",
+            "kokopis",
+            "s5is",
             "U022AA9JS04",
             "UPC5V2L10"
           ],
@@ -542,11 +542,11 @@
         {
           "name": "flag-sg",
           "users": [
-            "U53RAQBCP",
-            "U017BNGTHT3",
-            "UGA29R3FH",
+            "kokopis",
+            "s5is",
+            "znmxodq1",
             "UPC5V2L10",
-            "UUWBU08TU"
+            "nyaarch64"
           ],
           "count": 5
         }
@@ -556,7 +556,7 @@
       "client_msg_id": "97b9fb85-524a-4798-9aa6-6fc2e5ff1ab8",
       "type": "message",
       "text": "ArchLinuxARMですねー、単純にuboot周りが(UEFIと勝手が違うのもあり)つらいですね",
-      "user": "UUWBU08TU",
+      "user": "nyaarch64",
       "ts": "1622284113.069800",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -581,7 +581,7 @@
       "client_msg_id": "F6D02C2B-3AB5-4401-AE28-B148933B937A",
       "type": "message",
       "text": "arch-armもあるけど公式じゃなく、パッケージのサーバーとか不安定だったので、あまり使い勝手良くなかった記憶",
-      "user": "U0GFBAM8U",
+      "user": "syui",
       "ts": "1622283042.069600",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -606,7 +606,7 @@
       "client_msg_id": "0D2A5200-66AF-44D2-8AB8-895A56E94BAF",
       "type": "message",
       "text": "たしかに",
-      "user": "U0GFBAM8U",
+      "user": "syui",
       "ts": "1622282967.067900",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -631,7 +631,7 @@
       "client_msg_id": "cd471d6a-36a5-461b-8fe5-f49ecb0386f6",
       "type": "message",
       "text": "PCメーカーでいい感じにLinuxサポートをしているところが増えてきた話が出ていたけど\nこの先ARMのPCが増えてきたときにどうなるのか少し不安",
-      "user": "U019C7VLZ4G",
+      "user": "getalotofmail",
       "ts": "1622271858.067700",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -656,14 +656,14 @@
       "type": "message",
       "subtype": "channel_join",
       "ts": "1622011453.067200",
-      "user": "U022MDL5X1D",
-      "text": "<@U022MDL5X1D>さんがチャンネルに参加しました"
+      "user": "forester2075",
+      "text": "<@forester2075>さんがチャンネルに参加しました"
     },
     {
       "client_msg_id": "0f1c8cc3-24c0-4f39-8a6e-9c68c5dd3528",
       "type": "message",
       "text": "便利",
-      "user": "U0GFBAM8U",
+      "user": "syui",
       "ts": "1621896302.066400",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -687,9 +687,9 @@
         {
           "name": "benri",
           "users": [
-            "U53RAQBCP",
-            "U01HE1ENNJZ",
-            "U017BNGTHT3"
+            "kokopis",
+            "a3784197",
+            "s5is"
           ],
           "count": 3
         }
@@ -699,7 +699,7 @@
       "client_msg_id": "495349df-1dea-4b22-a918-2d25e6da8bb9",
       "type": "message",
       "text": "Plex JPが来月リリースらしい 期待\n<https://github.com/IBM/plex/issues/370#issuecomment-845519947>",
-      "user": "U53RAQBCP",
+      "user": "kokopis",
       "ts": "1621895478.066100",
       "team": "T0GFBAM8C",
       "attachments": [
@@ -744,7 +744,7 @@
         {
           "name": "tada",
           "users": [
-            "U017BNGTHT3"
+            "s5is"
           ],
           "count": 1
         },
@@ -761,7 +761,7 @@
       "client_msg_id": "215F7E3E-BD77-4806-88AE-563AFD54999B",
       "type": "message",
       "text": "DELLも最近はLinuxサポートにやる気出してる感じがしたりしてユーザーには良い時代になりましたね",
-      "user": "U53RAQBCP",
+      "user": "kokopis",
       "ts": "1621863866.065600",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -785,8 +785,8 @@
         {
           "name": "goodpoem",
           "users": [
-            "U01J1GGMHDJ",
-            "U019C7VLZ4G"
+            "naokihirokitomoki",
+            "getalotofmail"
           ],
           "count": 2
         }
@@ -796,7 +796,7 @@
       "client_msg_id": "12af5611-7481-4bd2-b818-bbc9d130ab14",
       "type": "message",
       "text": "thinkpad思ったよりarch linux民で人気で凄い（DELL民）（赤ポッチ上手く使えなくて発狂した経験あり）",
-      "user": "U01J1GGMHDJ",
+      "user": "naokihirokitomoki",
       "ts": "1621861568.064500",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -821,14 +821,14 @@
       "type": "message",
       "subtype": "channel_join",
       "ts": "1621850074.064200",
-      "user": "U022D4QD18F",
-      "text": "<@U022D4QD18F>さんがチャンネルに参加しました"
+      "user": "dust.box.309",
+      "text": "<@dust.box.309>さんがチャンネルに参加しました"
     },
     {
       "client_msg_id": "82fb0225-01a3-4f44-9582-020f3648fecc",
       "type": "message",
       "text": "バッテリ情報の取得とかこまごましたところがWindowsぽくなってきて精神衛生に良い感じです:thumbsup:",
-      "user": "U53RAQBCP",
+      "user": "kokopis",
       "ts": "1621842460.063900",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -858,7 +858,7 @@
       "client_msg_id": "3721d6b6-93dd-4422-a4dc-6109448d3104",
       "type": "message",
       "text": "よさそう",
-      "user": "U0GFBAM8U",
+      "user": "syui",
       "ts": "1621840234.062800",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -883,7 +883,7 @@
       "client_msg_id": "b876706d-9b48-422b-8341-cac7eb474ee7",
       "type": "message",
       "text": "最近の `thinkpad_acpi` のアップデートでいろいろ幸せになれるので ThinkPad ユーザーは kernel &gt;5.12 にアップグレードするべきという感じです(普段遣いが fedora で最近降ってきた)\n<https://9to5linux.com/linux-5-12-kernel-officially-released-this-is-whats-new>",
-      "user": "U53RAQBCP",
+      "user": "kokopis",
       "ts": "1621833593.062300",
       "team": "T0GFBAM8C",
       "attachments": [
@@ -952,14 +952,14 @@
         {
           "name": "+1",
           "users": [
-            "U70QDFN82",
-            "UBEFL3YLE",
-            "U0GFBAM8U",
+            "yutakatay",
+            "mail",
+            "syui",
             "UQALTSDFX",
-            "U01HE1ENNJZ",
-            "U01J1GGMHDJ",
+            "a3784197",
+            "naokihirokitomoki",
             "UAPRYSVPS",
-            "U019C7VLZ4G"
+            "getalotofmail"
           ],
           "count": 8
         }
@@ -969,7 +969,7 @@
       "client_msg_id": "faee2003-ffb9-483a-bfaf-65d8629672c6",
       "type": "message",
       "text": "お、良かった",
-      "user": "U0PM6EYR1",
+      "user": "raa0121",
       "ts": "1621604706.060300",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -994,7 +994,7 @@
       "client_msg_id": "D7EE1FD2-5217-49A4-B997-4C72C42AD24A",
       "type": "message",
       "text": "thanks",
-      "user": "U0GFBAM8U",
+      "user": "syui",
       "ts": "1621603615.060000",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -1019,7 +1019,7 @@
       "client_msg_id": "DA93CA49-73AE-4C43-8BCF-5D09B4065B67",
       "type": "message",
       "text": "オッドタクシーめちゃくちゃ面白かったです",
-      "user": "U0GFBAM8U",
+      "user": "syui",
       "ts": "1621603578.059800",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -1043,7 +1043,7 @@
         {
           "name": "eyes",
           "users": [
-            "U70QDFN82"
+            "yutakatay"
           ],
           "count": 1
         }
@@ -1053,14 +1053,14 @@
       "type": "message",
       "subtype": "channel_join",
       "ts": "1621534062.059100",
-      "user": "U0239ASAFEC",
-      "text": "<@U0239ASAFEC>さんがチャンネルに参加しました"
+      "user": "h20ms419",
+      "text": "<@h20ms419>さんがチャンネルに参加しました"
     },
     {
       "client_msg_id": "58a34d69-cd21-4910-b792-633a45b02bd9",
       "type": "message",
       "text": "そんなにむっちゃ消費が早くなる感じもしませんでしたがあえて天秤にかけるほどのメリットもないかなあ、と。",
-      "user": "UBEFL3YLE",
+      "user": "mail",
       "ts": "1621430097.058500",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -1085,7 +1085,7 @@
       "client_msg_id": "047a4e4e-e33b-4d22-90e3-147b01245a8d",
       "type": "message",
       "text": "少なくとも僕はラップトップではやってないですね。まさにバッテリーの件があるので",
-      "user": "UBEFL3YLE",
+      "user": "mail",
       "ts": "1621429965.056400",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -1110,7 +1110,7 @@
       "client_msg_id": "89aecbe9-3319-4e66-ac6d-7bd976632b22",
       "type": "message",
       "text": "zenカーネルの使用はラップトップだとやめたほうがいい感じですか?(バッテリーがなくなるの早くなると聞いた)",
-      "user": "U019C7VLZ4G",
+      "user": "getalotofmail",
       "ts": "1621429674.056000",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -1135,7 +1135,7 @@
       "client_msg_id": "dcded70a-9697-4d21-8b49-556c9990661b",
       "type": "message",
       "text": "<https://github.com/u0a266/etc/blob/master/systemd/system/suspend%40.service>\n動きましたありがとうございました",
-      "user": "U01HE1ENNJZ",
+      "user": "a3784197",
       "ts": "1621427503.055700",
       "team": "T0GFBAM8C",
       "attachments": [
@@ -1180,8 +1180,8 @@
         {
           "name": "+1",
           "users": [
-            "U0GFBAM8U",
-            "U01J1GGMHDJ",
+            "syui",
+            "naokihirokitomoki",
             "UD124KPDJ"
           ],
           "count": 3
@@ -1192,7 +1192,7 @@
       "client_msg_id": "8f66cac8-6d64-455d-a049-08dcbc989d41",
       "type": "message",
       "text": "多分解決には関係無いと思うのですが、私は/lib/systemd/systemd-sleepを使ってロックやスリープ時の効果音鳴らしたりしてますね。（スリープ解除前後の処理をシェルスクリプトのif文で書けるのが良き）",
-      "user": "U01J1GGMHDJ",
+      "user": "naokihirokitomoki",
       "ts": "1621403553.055100",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -1217,7 +1217,7 @@
       "client_msg_id": "86AE39C7-F076-4151-ADEA-BC2343468905",
       "type": "message",
       "text": "私の場合、電源管理周りどう設定したのか、ほぼほぼ忘れてますね",
-      "user": "U0GFBAM8U",
+      "user": "syui",
       "ts": "1621403450.054900",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -1241,7 +1241,7 @@
         {
           "name": "wakaru",
           "users": [
-            "U70QDFN82",
+            "yutakatay",
             "U8T8KB5M4",
             "U5W6QDSHZ"
           ],
@@ -1253,7 +1253,7 @@
       "client_msg_id": "1c231f96-91b6-4423-8661-487b23f58fc7",
       "type": "message",
       "text": "電源全般を管理するGUIソフトウェアなので「蓋閉じてロック」だけが目的だとオーバースペックかも",
-      "user": "UBEFL3YLE",
+      "user": "mail",
       "ts": "1621402941.053900",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -1278,7 +1278,7 @@
       "client_msg_id": "7a47cf39-0641-48fc-bfff-e9dbd9437da9",
       "type": "message",
       "text": "僕はそのあたり横着してxfce4-power-managerを入れてしまったなあ",
-      "user": "UBEFL3YLE",
+      "user": "mail",
       "ts": "1621402870.052700",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -1303,7 +1303,7 @@
       "client_msg_id": "5bd29ff4-a0fa-4e92-804a-fce9bf759ae7",
       "type": "message",
       "text": "試してみます",
-      "user": "U01HE1ENNJZ",
+      "user": "a3784197",
       "ts": "1621402681.052000",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -1328,7 +1328,7 @@
       "client_msg_id": "9D1BD417-998D-40B6-AB73-6412A6BAC09A",
       "type": "message",
       "text": "わかんないですが、おそらく",
-      "user": "U0GFBAM8U",
+      "user": "syui",
       "ts": "1621402668.051800",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -1353,7 +1353,7 @@
       "client_msg_id": "04d0b05c-2e6c-48b0-8029-001409a5708a",
       "type": "message",
       "text": "acpidに変えた場合systemd-logind切ったほうがいいですよね",
-      "user": "U01HE1ENNJZ",
+      "user": "a3784197",
       "ts": "1621402591.051500",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -1378,11 +1378,11 @@
       "client_msg_id": "36615E2F-398C-41D6-B7A3-99449ABDE7B2",
       "type": "message",
       "text": "acpidデーモンに置き換えることができるかもしれないので、試してみるといかも <https://wiki.archlinux.jp/index.php/Acpid|https://wiki.archlinux.jp/index.php/Acpid>",
-      "user": "U0GFBAM8U",
+      "user": "syui",
       "ts": "1621402447.050700",
       "team": "T0GFBAM8C",
       "edited": {
-        "user": "U0GFBAM8U",
+        "user": "syui",
         "ts": "1621402530.000000"
       },
       "blocks": [
@@ -1412,7 +1412,7 @@
       "client_msg_id": "7fe05c53-5cf3-404b-8a0e-a11f42aa8d4f",
       "type": "message",
       "text": "<https://gist.github.com/u0a266/4739150f8e65f2ab73d09df83281ff03>\n<https://github.com/u0a266/etc/blob/master/systemd/system/suspend%40.service>\nswayでは蓋閉じてロックかかるようになったのですがx11ではなぜかかからなくなりました\nシェルスクリプト初心者なので教えてください",
-      "user": "U01HE1ENNJZ",
+      "user": "a3784197",
       "ts": "1621401237.048800",
       "team": "T0GFBAM8C",
       "attachments": [
@@ -1466,7 +1466,7 @@
       "client_msg_id": "971dfd3d-8a57-425d-b938-3700d64a9172",
       "type": "message",
       "text": "代わりにCFSってのが入ってます。僕の理解ではだいたい一緒です。",
-      "user": "UBEFL3YLE",
+      "user": "mail",
       "ts": "1621400401.047100",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -1491,7 +1491,7 @@
       "client_msg_id": "c714c158-5c6d-49f8-ab42-f476fb2ccba4",
       "type": "message",
       "text": "MuQSSそのものは入ってないですね",
-      "user": "UBEFL3YLE",
+      "user": "mail",
       "ts": "1621400365.046500",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -1516,11 +1516,11 @@
       "client_msg_id": "ff89627d-03ca-418a-a18e-5f28f9c944b6",
       "type": "message",
       "text": "体感だと若干重い作業でカクつきにくい気がするかもしれない程度ですかね。\nPreloadとか入れたほうが動作の体感は早くなりそう。",
-      "user": "U017BNGTHT3",
+      "user": "s5is",
       "ts": "1621400266.045900",
       "team": "T0GFBAM8C",
       "edited": {
-        "user": "U017BNGTHT3",
+        "user": "s5is",
         "ts": "1621400362.000000"
       },
       "blocks": [
@@ -1544,7 +1544,7 @@
     {
       "type": "message",
       "text": "zen って MuQSS スケジューラ入ってるんでしたっけ？",
-      "user": "U257W41DW",
+      "user": "odknt",
       "ts": "1621400214.045100",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -1569,7 +1569,7 @@
       "client_msg_id": "5FC003C2-4DD9-4BF9-8468-FCC87C9B83F1",
       "type": "message",
       "text": "なるほど",
-      "user": "U0GFBAM8U",
+      "user": "syui",
       "ts": "1621400191.044500",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -1594,7 +1594,7 @@
       "client_msg_id": "ca468941-2bae-44b3-b603-533655bf162d",
       "type": "message",
       "text": "ウーン、体感的な違いはありませんね……",
-      "user": "UBEFL3YLE",
+      "user": "mail",
       "ts": "1621400175.044200",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -1618,8 +1618,8 @@
     {
       "client_msg_id": "5DF4DAD6-2DC7-407C-979A-0C0E08C2FC08",
       "type": "message",
-      "text": "<@UBEFL3YLE> zenカーネルって結構いいんです?",
-      "user": "U0GFBAM8U",
+      "text": "<@mail> zenカーネルって結構いいんです?",
+      "user": "syui",
       "ts": "1621400150.043700",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -1632,7 +1632,7 @@
               "elements": [
                 {
                   "type": "user",
-                  "user_id": "UBEFL3YLE"
+                  "user_id": "mail"
                 },
                 {
                   "type": "text",
@@ -1648,7 +1648,7 @@
       "client_msg_id": "078848e5-844a-4ed1-8170-1270787ec765",
       "type": "message",
       "text": "ウィンドウ操作とかの感覚はいっしょでしたねーxrandrとかしたときのチラツキは確かになくなります",
-      "user": "U70QDFN82",
+      "user": "yutakatay",
       "ts": "1621400093.042700",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -1673,7 +1673,7 @@
       "client_msg_id": "01D7CEB6-C7D7-4B1F-B0A9-20C1162BF997",
       "type": "message",
       "text": "swayはウィンドウ操作しやすくなるとかはあります?",
-      "user": "U0GFBAM8U",
+      "user": "syui",
       "ts": "1621400042.041700",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -1698,7 +1698,7 @@
       "client_msg_id": "4fb8f386-3b59-442a-89c5-26931f46721a",
       "type": "message",
       "text": "自分もなんとなくwaylandの情報は追っていますが、まだ移行はしたくないですね…",
-      "user": "U021RBMEEET",
+      "user": "hshue83",
       "ts": "1621400037.041400",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -1723,7 +1723,7 @@
       "client_msg_id": "1d1e918f-15a7-465b-92fe-fa94e0c461a3",
       "type": "message",
       "text": "私は一応いつでも移れるように準備は完了してますね",
-      "user": "U70QDFN82",
+      "user": "yutakatay",
       "ts": "1621400037.041300",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -1747,7 +1747,7 @@
     {
       "type": "message",
       "text": "少しずつ改善してきてはいるのであと数年くらいしたら移行するかもしれない",
-      "user": "U257W41DW",
+      "user": "odknt",
       "ts": "1621399997.039900",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -1772,7 +1772,7 @@
       "client_msg_id": "16819bb1-23c3-4338-aba3-b9f6f663c821",
       "type": "message",
       "text": "i3, swayはついこの間開発状況とかの比較したんですが、開発の勢い的にもあんまり大差ないんですよね。。。",
-      "user": "U70QDFN82",
+      "user": "yutakatay",
       "ts": "1621399990.039600",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -1797,7 +1797,7 @@
       "client_msg_id": "2ada491a-8944-45ab-b9e6-9bc22d50ad7e",
       "type": "message",
       "text": "根拠なく通常カーネルに対するZENカーネルのようなものだと思いこんでいた",
-      "user": "UBEFL3YLE",
+      "user": "mail",
       "ts": "1621399985.039400",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -1821,7 +1821,7 @@
     {
       "type": "message",
       "text": "あと、プロトコルの設計上の都合で、一部入力周りの機能が使えなくなった気がする",
-      "user": "U257W41DW",
+      "user": "odknt",
       "ts": "1621399937.037300",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -1846,7 +1846,7 @@
       "client_msg_id": "0ae82a90-fab4-48d2-b125-31e2057df046",
       "type": "message",
       "text": "私もなんとなく移行したいんですけどメリットがなさすぎて行けない・・・せめてパフォーマンス20%アップしますとかだとアプリの対応とかほっといて移行するんですが。。。",
-      "user": "U70QDFN82",
+      "user": "yutakatay",
       "ts": "1621399923.036300",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -1871,7 +1871,7 @@
       "client_msg_id": "AADD3406-6447-4F51-A579-EF3040306F40",
       "type": "message",
       "text": "ゑーッ",
-      "user": "U0GFBAM8U",
+      "user": "syui",
       "ts": "1621399885.034400",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -1896,7 +1896,7 @@
       "client_msg_id": "560bd2f1-7568-4f41-926a-8178eadd627b",
       "type": "message",
       "text": "なんとなく移行を考えていたのに…",
-      "user": "UBEFL3YLE",
+      "user": "mail",
       "ts": "1621399870.034100",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -1921,7 +1921,7 @@
       "client_msg_id": "c55b626f-43cd-477f-bc76-2bd41719a86f",
       "type": "message",
       "text": "ゑーッ",
-      "user": "UBEFL3YLE",
+      "user": "mail",
       "ts": "1621399857.033700",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -1946,7 +1946,7 @@
       "client_msg_id": "5d0d8220-217f-4e83-a137-47e047937563",
       "type": "message",
       "text": "動画とかチラつきにくくなる程度かと…",
-      "user": "U017BNGTHT3",
+      "user": "s5is",
       "ts": "1621399847.033100",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -1971,7 +1971,7 @@
       "client_msg_id": "545CBAEE-6074-412D-A0F0-4B00036C8E82",
       "type": "message",
       "text": "ええ、そうなんですか",
-      "user": "U0GFBAM8U",
+      "user": "syui",
       "ts": "1621399841.032500",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -1996,7 +1996,7 @@
       "client_msg_id": "23d19e5e-5182-4f94-b855-84883e0ffc02",
       "type": "message",
       "text": "ユーザー的にメリットは今の所ほぼないですね。。。パフォーマンスも落ちることが多いんで",
-      "user": "U70QDFN82",
+      "user": "yutakatay",
       "ts": "1621399824.031800",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -2021,7 +2021,7 @@
       "client_msg_id": "22135A49-67CD-447F-910E-99886A24DBC2",
       "type": "message",
       "text": "waylandやswayの利点としてはどんなことがあるのでしょう?",
-      "user": "U0GFBAM8U",
+      "user": "syui",
       "ts": "1621399799.031100",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -2045,7 +2045,7 @@
     {
       "type": "message",
       "text": "一部の compositor 以外 nvidia サポートしないのも辛い。nouveau はパフォーマンス面に難があるし",
-      "user": "U257W41DW",
+      "user": "odknt",
       "ts": "1621399699.030000",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -2070,7 +2070,7 @@
       "client_msg_id": "e0a934f9-6b26-4efc-9f57-be5215e98856",
       "type": "message",
       "text": "Wayland環境、特有の問題が起こる感じがあるのでまだX使ってますね…",
-      "user": "U017BNGTHT3",
+      "user": "s5is",
       "ts": "1621399320.028200",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -2095,7 +2095,7 @@
       "client_msg_id": "687E7A4F-6D65-4CEE-96C0-1F628B601A39",
       "type": "message",
       "text": "waylandもわからん",
-      "user": "U0GFBAM8U",
+      "user": "syui",
       "ts": "1621398558.027200",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -2120,7 +2120,7 @@
       "client_msg_id": "4E1D6AFE-E720-4E6F-B73B-266274429B05",
       "type": "message",
       "text": "sway環境は触ったことないです",
-      "user": "U0GFBAM8U",
+      "user": "syui",
       "ts": "1621398404.026800",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -2145,7 +2145,7 @@
       "client_msg_id": "e6cef2da-0f09-4a54-8cd9-c152f66d222f",
       "type": "message",
       "text": "swayですか？",
-      "user": "U01HE1ENNJZ",
+      "user": "a3784197",
       "ts": "1621398291.026000",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -2170,7 +2170,7 @@
       "client_msg_id": "1dc606fe-6673-4916-b142-43e4ffaeb544",
       "type": "message",
       "text": "あくまで私の環境では、普通に`$ xset -display :0 dpms force on` が動くんで、問題なく復帰できるんですが、やっぱり、環境によって動く動かないありますからね",
-      "user": "U0GFBAM8U",
+      "user": "syui",
       "ts": "1621397853.025800",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -2206,7 +2206,7 @@
       "client_msg_id": "16683aba-084f-4cfd-8565-8af403df8ee9",
       "type": "message",
       "text": "dpms切るツールがあってよかったです",
-      "user": "U01HE1ENNJZ",
+      "user": "a3784197",
       "ts": "1621397581.024700",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -2231,7 +2231,7 @@
       "client_msg_id": "27450dfe-2392-4311-8c35-3262511057f5",
       "type": "message",
       "text": "sway、なんもわからん",
-      "user": "U0GFBAM8U",
+      "user": "syui",
       "ts": "1621397513.024300",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -2256,7 +2256,7 @@
       "client_msg_id": "5cae1f93-fb44-4383-8d81-b685c8f68afc",
       "type": "message",
       "text": "お、よかったですね",
-      "user": "U0GFBAM8U",
+      "user": "syui",
       "ts": "1621397473.024000",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -2290,7 +2290,7 @@
           "mimetype": "image/png",
           "filetype": "png",
           "pretty_type": "PNG",
-          "user": "U01HE1ENNJZ",
+          "user": "a3784197",
           "editable": false,
           "size": 40080,
           "mode": "hosted",
@@ -2318,7 +2318,7 @@
           "original_w": 721,
           "original_h": 266,
           "thumb_tiny": "AwARADCqDS5/zim04EYpiDI96Q+xoLfWgmgAz70lFFADqKKKACiiigAooooA/9k=",
-          "permalink": "https://archlinuxjp.slack.com/files/U01HE1ENNJZ/F022BKHLU02/screenshot_2021-05-19-130429.png",
+          "permalink": "https://archlinuxjp.slack.com/files/a3784197/F022BKHLU02/screenshot_2021-05-19-130429.png",
           "permalink_public": "https://slack-files.com/T0GFBAM8C-F022BKHLU02-b2cc23259a",
           "is_starred": false,
           "has_rich_preview": false
@@ -2332,7 +2332,7 @@
           "mimetype": "image/png",
           "filetype": "png",
           "pretty_type": "PNG",
-          "user": "U01HE1ENNJZ",
+          "user": "a3784197",
           "editable": false,
           "size": 9875,
           "mode": "hosted",
@@ -2357,14 +2357,14 @@
           "original_w": 529,
           "original_h": 72,
           "thumb_tiny": "AwAGADCAMU5GM/Slkct1xx7Uxvuilfv9KYhu72ozx0pKKAFyPSgtntSUUAf/2Q==",
-          "permalink": "https://archlinuxjp.slack.com/files/U01HE1ENNJZ/F022BKJPABC/screenshot_2021-05-19-130714.png",
+          "permalink": "https://archlinuxjp.slack.com/files/a3784197/F022BKJPABC/screenshot_2021-05-19-130714.png",
           "permalink_public": "https://slack-files.com/T0GFBAM8C-F022BKJPABC-e054c27eb2",
           "is_starred": false,
           "has_rich_preview": false
         }
       ],
       "upload": false,
-      "user": "U01HE1ENNJZ",
+      "user": "a3784197",
       "ts": "1621397282.023500",
       "blocks": [
         {
@@ -2388,7 +2388,7 @@
       "client_msg_id": "27681295-9e38-4790-8168-1c3e0f7e4929",
       "type": "message",
       "text": "ただし、これは通常想定されない問題が発生してる場合のみ有効かと思われます。",
-      "user": "U0GFBAM8U",
+      "user": "syui",
       "ts": "1621397149.022200",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -2413,11 +2413,11 @@
       "client_msg_id": "dce4d12b-37f0-45d3-a4cc-9af5e9149076",
       "type": "message",
       "text": "少し調べてみましたが、やはり、私の環境下では、`$ xset dpms force off`を実行すると、`/sys/class/backlight/acpi_video0/brightness` は0に書き換えられますね。\nで、仮にキーを押しても復帰しない場合で、なんらかの問題が生じており、操作自体はトリガーしてるけど、`/sys/class/backlight/acpi_video0/brightness` が0のままだった場合、`/sys/class/backlight/acpi_video0/brightness` をもとの値に戻すことで、画面オンになる場合があります。",
-      "user": "U0GFBAM8U",
+      "user": "syui",
       "ts": "1621397008.021500",
       "team": "T0GFBAM8C",
       "edited": {
-        "user": "U0GFBAM8U",
+        "user": "syui",
         "ts": "1621397040.000000"
       },
       "blocks": [
@@ -2486,7 +2486,7 @@
       "client_msg_id": "e33cf2ee-883d-4832-a82c-ae8313fe1216",
       "type": "message",
       "text": "なるほどありがとうございます",
-      "user": "U01HE1ENNJZ",
+      "user": "a3784197",
       "ts": "1621388677.018300",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -2511,16 +2511,16 @@
       "type": "message",
       "subtype": "channel_join",
       "ts": "1621381273.018000",
-      "user": "U022BCGBW1Z",
-      "text": "<@U022BCGBW1Z>さんがチャンネルに参加しました",
+      "user": "takafumi.yamaguchi",
+      "text": "<@takafumi.yamaguchi>さんがチャンネルに参加しました",
       "reactions": [
         {
           "name": "archjp",
           "users": [
-            "U017BNGTHT3",
-            "U0GFBAM8U",
-            "U01HE1ENNJZ",
-            "UGA29R3FH"
+            "s5is",
+            "syui",
+            "a3784197",
+            "znmxodq1"
           ],
           "count": 4
         }
@@ -2530,7 +2530,7 @@
       "client_msg_id": "47C97A3D-D489-49F9-9F0B-590EE6AA62AE",
       "type": "message",
       "text": "ですが、これまでの方法でも画面オンにならないとなると、環境が手元にありませんし、アドバイスできることは限られますね",
-      "user": "U0GFBAM8U",
+      "user": "syui",
       "ts": "1621344565.017700",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -2555,7 +2555,7 @@
       "client_msg_id": "EDD0A13B-74AC-413C-8F6A-6F3C3268622E",
       "type": "message",
       "text": "とありますから、仮に値を0にすることで達成してる場合、ここを変えると画面がオンになるので",
-      "user": "U0GFBAM8U",
+      "user": "syui",
       "ts": "1621344012.015000",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -2580,7 +2580,7 @@
       "reply_users_count": 1,
       "latest_reply": "1621397432.023600",
       "reply_users": [
-        "U0GFBAM8U"
+        "syui"
       ],
       "is_locked": false,
       "subscribed": true,
@@ -2590,7 +2590,7 @@
       "client_msg_id": "2F23C479-B09C-4F8C-B174-95CE8033E053",
       "type": "message",
       "text": "ありますよ\n&gt; どの方法も /sys/class/brightness を通して使うことができ",
-      "user": "U0GFBAM8U",
+      "user": "syui",
       "ts": "1621343950.013600",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -2624,7 +2624,7 @@
       "client_msg_id": "24bc3fad-0037-42d0-ba06-4977a61e83cb",
       "type": "message",
       "text": "できましたがdpmsと関係あるのですか？",
-      "user": "U01HE1ENNJZ",
+      "user": "a3784197",
       "ts": "1621338961.013300",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -2649,7 +2649,7 @@
       "client_msg_id": "A6CD9E45-525F-4760-89EA-3E752DCA4FC7",
       "type": "message",
       "text": "あとディレクトリとかファイル名とか若干異なる場合あります",
-      "user": "U0GFBAM8U",
+      "user": "syui",
       "ts": "1621337150.012900",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -2674,7 +2674,7 @@
       "client_msg_id": "533C0D48-4DD4-44A4-AB6E-250AE3BE458D",
       "type": "message",
       "text": "最大値はパソコンによって異なるんですけど、出来れば大きい値のほうがいいかな",
-      "user": "U0GFBAM8U",
+      "user": "syui",
       "ts": "1621337088.012000",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -2699,7 +2699,7 @@
       "client_msg_id": "1183D5DC-7562-47D7-9723-F9CDD09A6499",
       "type": "message",
       "text": "こういうコマンドで値を書き換えることできます?\ntee /sys/class/backlight/acpi_video0/brightness &lt;&lt;&lt; 5",
-      "user": "U0GFBAM8U",
+      "user": "syui",
       "ts": "1621337043.011100",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -2724,7 +2724,7 @@
       "client_msg_id": "c78a1270-4565-4827-91f8-63716ee0e340",
       "type": "message",
       "text": "できませんでした\n`mmap /dev/zero: Operation not permitted\nFailed to initialise LRMI (Linux Real-Mode Interface).`",
-      "user": "U01HE1ENNJZ",
+      "user": "a3784197",
       "ts": "1621335878.010300",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -2749,7 +2749,7 @@
       "client_msg_id": "41CEC0D2-0AB4-4882-937D-64380D164436",
       "type": "message",
       "text": "vbetool dpms on\nが使える場合があるらしい",
-      "user": "U0GFBAM8U",
+      "user": "syui",
       "ts": "1621335383.009900",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -2774,7 +2774,7 @@
       "client_msg_id": "5455c8d4-32a3-4c44-9992-b79b8dfa1e24",
       "type": "message",
       "text": "`swaymsg \"output * dpms off\"`\nでできたのですがキーボードなどを押しても復帰しないのでどうしたものかと思ってます",
-      "user": "U01HE1ENNJZ",
+      "user": "a3784197",
       "ts": "1621335169.009500",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -2806,7 +2806,7 @@
       "client_msg_id": "D0F229CB-98C2-412E-BB71-D8896C78D270",
       "type": "message",
       "text": "ここら辺のやつで代替してみるとか\n<https://wiki.archlinux.jp/index.php/%E3%83%90%E3%83%83%E3%82%AF%E3%83%A9%E3%82%A4%E3%83%88|https://wiki.archlinux.jp/index.php/バックライト>",
-      "user": "U0GFBAM8U",
+      "user": "syui",
       "ts": "1621333125.008500",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -2836,7 +2836,7 @@
       "client_msg_id": "33e470a4-5a36-4c3a-ba0d-6c764a3aa8c7",
       "type": "message",
       "text": "やりたいことは$XDG_SESSION_DESKTOPを使ってi3かswayかを見分けてsuspend hook走らせたいです",
-      "user": "U01HE1ENNJZ",
+      "user": "a3784197",
       "ts": "1621332158.007900",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -2861,7 +2861,7 @@
       "client_msg_id": "e1b73110-f585-48c2-bd33-d27fad79194c",
       "type": "message",
       "text": "拾い物です（最後の動くのかなぁ）\nWay to turn screen off · Issue #1129 · swaywm/sway\n<https://github.com/swaywm/sway/issues/1129|https://github.com/swaywm/sway/issues/1129>",
-      "user": "U01J1GGMHDJ",
+      "user": "naokihirokitomoki",
       "ts": "1621324100.006700",
       "team": "T0GFBAM8C",
       "attachments": [
@@ -2908,7 +2908,7 @@
       "client_msg_id": "5c55c3d7-2b04-4596-b0f2-e55f30c6a464",
       "type": "message",
       "text": "そもそもxsetはX11環境の物だから動かないのかも （Wayland分からん）",
-      "user": "U01J1GGMHDJ",
+      "user": "naokihirokitomoki",
       "ts": "1621324043.006600",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -2933,7 +2933,7 @@
       "client_msg_id": "D9AF9B81-8B6F-4167-8400-E90843E042C6",
       "type": "message",
       "text": "の箇所ですが、うまくいかない場合もあります",
-      "user": "U0GFBAM8U",
+      "user": "syui",
       "ts": "1621323868.006500",
       "team": "T0GFBAM8C",
       "blocks": [

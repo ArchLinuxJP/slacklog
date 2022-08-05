@@ -7,7 +7,7 @@
       "client_msg_id": "918e6170-c702-4ee3-9045-141edcbe8220",
       "type": "message",
       "text": "pythonと同じでシステム内に根付いてるから",
-      "user": "U70QDFN82",
+      "user": "yutakatay",
       "ts": "1651383634.392789",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -32,7 +32,7 @@
       "client_msg_id": "a8405365-b66a-4cf8-8ddf-8d9156acfaaf",
       "type": "message",
       "text": "単純に依存が多いから大変なだけなんじゃないですかね？",
-      "user": "U70QDFN82",
+      "user": "yutakatay",
       "ts": "1651383618.542119",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -57,7 +57,7 @@
       "client_msg_id": "d3e5c4a1-c078-4fb3-b1d0-afd18a4f0d01",
       "type": "message",
       "text": "clangなら今でも使えるようですが",
-      "user": "U019C7VLZ4G",
+      "user": "getalotofmail",
       "ts": "1651383484.517619",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -82,7 +82,7 @@
       "client_msg_id": "2c8deb72-55ad-4421-8035-f4c179ea3928",
       "type": "message",
       "text": "gcc12からmold(早いリンカ)がオプション渡すだけで使えるようになるから楽しみ",
-      "user": "U019C7VLZ4G",
+      "user": "getalotofmail",
       "ts": "1651383446.402839",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -107,7 +107,7 @@
       "client_msg_id": "2d58b839-845a-4650-9c69-6d0e3da2676e",
       "type": "message",
       "text": "Arch Linuxでgccの更新が遅いのはやはりデフォルトのコンパイラが壊れるとまずいからなんだろうか",
-      "user": "U019C7VLZ4G",
+      "user": "getalotofmail",
       "ts": "1651383363.892839",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -132,7 +132,7 @@
       "client_msg_id": "99a81f38-e4c3-4be0-bb8e-7ee8292a7b9d",
       "type": "message",
       "text": "正確にはMT7921eだった気がする\nただカードにはMT7921としか印刷されてないので挿さないと分からない",
-      "user": "UVB7L4CKH",
+      "user": "tatsumigamou",
       "ts": "1651369417.024699",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -156,8 +156,8 @@
         {
           "name": "+1",
           "users": [
-            "U0GFBAM8U",
-            "U019C7VLZ4G"
+            "syui",
+            "getalotofmail"
           ],
           "count": 2
         }
@@ -167,21 +167,21 @@
       "type": "message",
       "subtype": "thread_broadcast",
       "text": "MT7921でした",
-      "user": "UVB7L4CKH",
+      "user": "tatsumigamou",
       "ts": "1651369184.226969",
       "thread_ts": "1651367918.743649",
       "root": {
         "client_msg_id": "339924ff-3910-4026-99f4-2f94150d784f",
         "type": "message",
         "text": "<https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1645597687916609|https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1645597687916609>\nこのMediatekの問題ってどの型番のネットワークカードかわかりますか?\nAMDのノートPC買おうと思ってるので。",
-        "user": "U019C7VLZ4G",
+        "user": "getalotofmail",
         "ts": "1651367918.743649",
         "team": "T0GFBAM8C",
         "attachments": [
           {
             "from_url": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1645597687916609",
             "ts": "1645597687.916609",
-            "author_id": "UVB7L4CKH",
+            "author_id": "tatsumigamou",
             "channel_team": "T0GFBAM8C",
             "channel_id": "C0GFH3RHU",
             "channel_name": "random",
@@ -217,7 +217,7 @@
             "fallback": "[February 22nd, 2022 10:28 PM] tatsumigamou: ThinkPadのMediaTek製Wi-Fiカードが死ぬほど不安定だったのでIntelのカードポチる事にしました\n動くには動くからもったいない気もしたけど、git cloneが死ぬのはいただけないしどうせ3000円程度なので誤差という事で",
             "text": "ThinkPadのMediaTek製Wi-Fiカードが死ぬほど不安定だったのでIntelのカードポチる事にしました\n動くには動くからもったいない気もしたけど、git cloneが死ぬのはいただけないしどうせ3000円程度なので誤差という事で",
             "author_name": "Tatsumi",
-            "author_link": "https://archlinuxjp.slack.com/team/UVB7L4CKH",
+            "author_link": "https://archlinuxjp.slack.com/team/tatsumigamou",
             "author_icon": "https://avatars.slack-edge.com/2020-03-12/985313571153_203fee630d3a4a1053a1_48.jpg",
             "author_subname": "Tatsumi",
             "mrkdwn_in": [
@@ -253,8 +253,8 @@
         "reply_users_count": 2,
         "latest_reply": "1651374064.300609",
         "reply_users": [
-          "UVB7L4CKH",
-          "U019C7VLZ4G"
+          "tatsumigamou",
+          "getalotofmail"
         ],
         "is_locked": false,
         "subscribed": false
@@ -282,7 +282,7 @@
       "client_msg_id": "1bc648fb-2a8f-4848-a6e8-7dd62e975fb6",
       "type": "message",
       "text": "twitterとかだと問題あった場合につぶやくので、それだけ見ると、結構あるんだなあと思ってしまったりしがち",
-      "user": "U0GFBAM8U",
+      "user": "syui",
       "ts": "1651369178.823339",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -307,7 +307,7 @@
       "client_msg_id": "276d4f73-8831-41c5-9226-ceea7b4f419e",
       "type": "message",
       "text": "ありがたい情報\n実際、問題なかったという情報も助かりますね",
-      "user": "U0GFBAM8U",
+      "user": "syui",
       "ts": "1651368987.892629",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -332,14 +332,14 @@
       "client_msg_id": "339924ff-3910-4026-99f4-2f94150d784f",
       "type": "message",
       "text": "<https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1645597687916609|https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1645597687916609>\nこのMediatekの問題ってどの型番のネットワークカードかわかりますか?\nAMDのノートPC買おうと思ってるので。",
-      "user": "U019C7VLZ4G",
+      "user": "getalotofmail",
       "ts": "1651367918.743649",
       "team": "T0GFBAM8C",
       "attachments": [
         {
           "from_url": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1645597687916609",
           "ts": "1645597687.916609",
-          "author_id": "UVB7L4CKH",
+          "author_id": "tatsumigamou",
           "channel_team": "T0GFBAM8C",
           "channel_id": "C0GFH3RHU",
           "channel_name": "random",
@@ -375,7 +375,7 @@
           "fallback": "[February 22nd, 2022 10:28 PM] tatsumigamou: ThinkPadのMediaTek製Wi-Fiカードが死ぬほど不安定だったのでIntelのカードポチる事にしました\n動くには動くからもったいない気もしたけど、git cloneが死ぬのはいただけないしどうせ3000円程度なので誤差という事で",
           "text": "ThinkPadのMediaTek製Wi-Fiカードが死ぬほど不安定だったのでIntelのカードポチる事にしました\n動くには動くからもったいない気もしたけど、git cloneが死ぬのはいただけないしどうせ3000円程度なので誤差という事で",
           "author_name": "Tatsumi",
-          "author_link": "https://archlinuxjp.slack.com/team/UVB7L4CKH",
+          "author_link": "https://archlinuxjp.slack.com/team/tatsumigamou",
           "author_icon": "https://avatars.slack-edge.com/2020-03-12/985313571153_203fee630d3a4a1053a1_48.jpg",
           "author_subname": "Tatsumi",
           "mrkdwn_in": [
@@ -411,8 +411,8 @@
       "reply_users_count": 2,
       "latest_reply": "1651374064.300609",
       "reply_users": [
-        "UVB7L4CKH",
-        "U019C7VLZ4G"
+        "tatsumigamou",
+        "getalotofmail"
       ],
       "is_locked": false,
       "subscribed": false
@@ -421,7 +421,7 @@
       "client_msg_id": "e819e665-8ced-4bc9-869d-e93a7d5e957e",
       "type": "message",
       "text": "自分もおかしくなったことなかったですね（fcitx5 + mozc + i3 + firefox）",
-      "user": "U8T8KB5M4",
+      "user": "h.hata.ai.t",
       "ts": "1651363606.889989",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -445,7 +445,7 @@
         {
           "name": "majika",
           "users": [
-            "U70QDFN82"
+            "yutakatay"
           ],
           "count": 1
         }
@@ -455,14 +455,14 @@
       "type": "message",
       "subtype": "channel_join",
       "ts": "1651347166.261829",
-      "user": "U03EBB8U924",
-      "text": "<@U03EBB8U924>さんがチャンネルに参加しました"
+      "user": "kcoydico",
+      "text": "<@kcoydico>さんがチャンネルに参加しました"
     },
     {
       "client_msg_id": "51973854-9585-4b76-8f30-f7a4f73b047b",
       "type": "message",
       "text": "linuxでTwitter、(fcitx5 + skk + xmonad + qutebrowser/brave)環境ですが一度もおかしくなったことないですね...なんのせいなんだろうか",
-      "user": "UQDJXPHJ9",
+      "user": "cj.bc-sd",
       "ts": "1651336479.185819",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -486,7 +486,7 @@
         {
           "name": "majika",
           "users": [
-            "U70QDFN82",
+            "yutakatay",
             "U01HE1ENNJZ"
           ],
           "count": 2
@@ -497,7 +497,7 @@
       "client_msg_id": "C61AF7E7-1719-4CDE-843F-0545B9AA2393",
       "type": "message",
       "text": "修正されてたら",
-      "user": "U0GFBAM8U",
+      "user": "syui",
       "ts": "1651317075.873459",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -522,7 +522,7 @@
       "client_msg_id": "B1F12EB0-BF7D-407A-9E0D-7016176FB56B",
       "type": "message",
       "text": "仮にweb側の問題だったとしてcookieとか削除して再ログインで直ったりするかも",
-      "user": "U0GFBAM8U",
+      "user": "syui",
       "ts": "1651316944.361509",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -554,7 +554,7 @@
         {
           "name": "naruhodo",
           "users": [
-            "U70QDFN82"
+            "yutakatay"
           ],
           "count": 1
         }
@@ -564,7 +564,7 @@
       "client_msg_id": "A287609D-DAE1-4C6E-B149-86CDC308E048",
       "type": "message",
       "text": "ubuntuはパッケージに独自改変して使いやすくしてたりする",
-      "user": "U0GFBAM8U",
+      "user": "syui",
       "ts": "1651316803.019829",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -589,11 +589,11 @@
       "client_msg_id": "244F7A22-34EF-49C7-8322-379518A101DC",
       "type": "message",
       "text": "ubuntuの人も言ってるので、相当ですね\n",
-      "user": "U0GFBAM8U",
+      "user": "syui",
       "ts": "1651316669.263579",
       "team": "T0GFBAM8C",
       "edited": {
-        "user": "U0GFBAM8U",
+        "user": "syui",
         "ts": "1651316819.000000"
       },
       "blocks": [
@@ -618,7 +618,7 @@
       "client_msg_id": "62bab8d9-836b-42ef-9d45-162800fa7768",
       "type": "message",
       "text": "ですね。少なくとも１ヶ月前はだめでした",
-      "user": "U70QDFN82",
+      "user": "yutakatay",
       "ts": "1651316241.128419",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -643,7 +643,7 @@
       "client_msg_id": "926C4567-E364-4673-BEC3-44C90EBAC8AA",
       "type": "message",
       "text": "なぞですね\nyutkatさんはmozcでこの前までダメだったんです?",
-      "user": "U0GFBAM8U",
+      "user": "syui",
       "ts": "1651316220.190889",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -668,7 +668,7 @@
       "client_msg_id": "9acece17-5076-4eac-95bf-63b9423d0f33",
       "type": "message",
       "text": "Archでfcitxでmozcだと問題ないんですかねー？\nなんか不思議",
-      "user": "U70QDFN82",
+      "user": "yutakatay",
       "ts": "1651316056.438389",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -693,7 +693,7 @@
       "client_msg_id": "0F835AE5-0BAE-4DD5-B26A-91BE0474369F",
       "type": "message",
       "text": "でもlinuxのtwitter webはimeで困ってる人、多いみたい",
-      "user": "U0GFBAM8U",
+      "user": "syui",
       "ts": "1651315943.674839",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -718,7 +718,7 @@
       "client_msg_id": "05351109-E578-414A-BC9A-7D4284FFB178",
       "type": "message",
       "text": "vivaldiでも試してみたけど、私の環境では問題なかった",
-      "user": "U0GFBAM8U",
+      "user": "syui",
       "ts": "1651315866.867539",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -743,7 +743,7 @@
       "client_msg_id": "41faf94f-ccb3-4140-b954-118957eb2076",
       "type": "message",
       "text": "Redditとかでもちょっとずつi3よりもswayの割合が増えていってる（まだ全然i3の方が多いけど）印象なんでこのまま頑張ってもらいたい",
-      "user": "U70QDFN82",
+      "user": "yutakatay",
       "ts": "1651296247.197729",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -767,7 +767,7 @@
         {
           "name": "tada",
           "users": [
-            "U0GFBAM8U",
+            "syui",
             "U01HE1ENNJZ"
           ],
           "count": 2
@@ -778,7 +778,7 @@
       "client_msg_id": "97bc775c-8b0d-4d04-974a-90384935b270",
       "type": "message",
       "text": "そうですね。一度書き換えたら、昔の設定はあまり使いたくない...",
-      "user": "U0GFBAM8U",
+      "user": "syui",
       "ts": "1651296134.422779",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -803,7 +803,7 @@
       "client_msg_id": "959533ff-c7a7-4d00-a1d1-6880303be68e",
       "type": "message",
       "text": "私もそんな感じです。時代の流れもそっちなのであえて逆行しなくていいかなくらいな感じですね",
-      "user": "U70QDFN82",
+      "user": "yutakatay",
       "ts": "1651296096.917669",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -828,7 +828,7 @@
       "client_msg_id": "caa11fce-db69-4efc-8354-efc10dc3574f",
       "type": "message",
       "text": "メリット、特にないですが、もう戻すのも面倒なので、このままswayします",
-      "user": "U0GFBAM8U",
+      "user": "syui",
       "ts": "1651296062.989039",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -852,7 +852,7 @@
         {
           "name": "wakaru",
           "users": [
-            "U70QDFN82"
+            "yutakatay"
           ],
           "count": 1
         }
@@ -862,7 +862,7 @@
       "client_msg_id": "5900b1b2-a054-4478-8964-e37cb943c562",
       "type": "message",
       "text": "デメリットは\n• いい感じの画面録画がない\n• オンラインミーティングでウィンドウと全画面の切り替えができない\nってところな気がしますね。\nメリットは\n• ない\nです",
-      "user": "U70QDFN82",
+      "user": "yutakatay",
       "ts": "1651295925.877999",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -948,7 +948,7 @@
       "client_msg_id": "1d36dce8-8346-4b95-8f36-c878486704c7",
       "type": "message",
       "text": "ですね。i3のが快適ですが、移行してもいいレベルだと思います",
-      "user": "U0GFBAM8U",
+      "user": "syui",
       "ts": "1651295841.934099",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -973,7 +973,7 @@
       "client_msg_id": "36c3d5c6-2677-4678-ad3d-be2061dbec19",
       "type": "message",
       "text": "私もメリットないけど全然使えるレベルって意見ですね",
-      "user": "U70QDFN82",
+      "user": "yutakatay",
       "ts": "1651295810.409379",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -998,7 +998,7 @@
       "client_msg_id": "af33376b-21bf-4ff2-99b3-709c169a6918",
       "type": "message",
       "text": "感想としては、i3の安定性にはかなわないけど、swayも十分に快適だと思います",
-      "user": "U0GFBAM8U",
+      "user": "syui",
       "ts": "1651295753.764469",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -1023,7 +1023,7 @@
       "client_msg_id": "a51bf412-dd7a-4a06-900a-e57199d1a73f",
       "type": "message",
       "text": "そういえば、swayに移行してから結構経ちました",
-      "user": "U0GFBAM8U",
+      "user": "syui",
       "ts": "1651295685.952139",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -1048,7 +1048,7 @@
       "client_msg_id": "08e3697f-ec91-4630-afaf-e5b11858c8f8",
       "type": "message",
       "text": "便利",
-      "user": "U0GFBAM8U",
+      "user": "syui",
       "ts": "1651295494.819359",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -1073,11 +1073,11 @@
       "client_msg_id": "135d45fc-65d0-423e-9cc7-f982586769d0",
       "type": "message",
       "text": "私はarchilinux-jpのorgのところでチャットできればそれでいいんですよね・・・（チャンネルは欲しい（Gitterみたいなのはダメ））",
-      "user": "U70QDFN82",
+      "user": "yutakatay",
       "ts": "1651295360.980849",
       "team": "T0GFBAM8C",
       "edited": {
-        "user": "U70QDFN82",
+        "user": "yutakatay",
         "ts": "1651295391.000000"
       },
       "blocks": [
@@ -1102,7 +1102,7 @@
       "client_msg_id": "2aaa108e-77b0-4120-a3a1-d893be1ac815",
       "type": "message",
       "text": "github統一",
-      "user": "U0GFBAM8U",
+      "user": "syui",
       "ts": "1651295234.373489",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -1127,7 +1127,7 @@
       "client_msg_id": "920b3ef2-2b6e-4425-813d-7777406969ff",
       "type": "message",
       "text": "GitHub上にRedditとチャットスペースが欲しい・・・",
-      "user": "U70QDFN82",
+      "user": "yutakatay",
       "ts": "1651295158.334589",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -1152,7 +1152,7 @@
       "client_msg_id": "2c066f10-f284-457e-88d4-bab62536ae7f",
       "type": "message",
       "text": "なるほど...実はtwitterコミュは一度も参加したことなかったので、雰囲気知れるのはありがたい",
-      "user": "U0GFBAM8U",
+      "user": "syui",
       "ts": "1651295005.391509",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -1177,7 +1177,7 @@
       "client_msg_id": "8203d201-df7a-4195-b07b-9e5a0231cddb",
       "type": "message",
       "text": "私の入ってるところは盛り上がってないですね・・・コミュニティって結局会話なんですけどあの仕様だと会話しにくいですよね。。。単なるつぶやきの集合体になってます（いつものTwitterと同じ）",
-      "user": "U70QDFN82",
+      "user": "yutakatay",
       "ts": "1651294950.460939",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -1202,7 +1202,7 @@
       "client_msg_id": "7629daf4-3483-4656-b4b4-3d3b090f0a85",
       "type": "message",
       "text": "twitterコミュニティ、今どんな感じなんだろう\nvim-jpで盛り上がってた記憶",
-      "user": "U0GFBAM8U",
+      "user": "syui",
       "ts": "1651294799.863529",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -1227,7 +1227,7 @@
       "client_msg_id": "3b56d19a-4511-4c6e-ba6c-8d3db2176f91",
       "type": "message",
       "text": "私も定額制ならやめちゃう気がする",
-      "user": "U0GFBAM8U",
+      "user": "syui",
       "ts": "1651294768.463549",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -1252,7 +1252,7 @@
       "client_msg_id": "e885741c-0793-40cc-a710-7da11c6cea89",
       "type": "message",
       "text": "そういう意味だとTwiterコミュニティに期待してたんだけど、あれはダメだ",
-      "user": "U70QDFN82",
+      "user": "yutakatay",
       "ts": "1651294685.820009",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -1277,7 +1277,7 @@
       "client_msg_id": "aec7a925-7700-4148-a1ab-6c6aa0c53111",
       "type": "message",
       "text": "いわゆる2chとかRedditとかみたいななにかのお題があってそれに対して議論するスタイルのほうが私は好きですね。",
-      "user": "U70QDFN82",
+      "user": "yutakatay",
       "ts": "1651294669.561889",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -1302,7 +1302,7 @@
       "client_msg_id": "090a58d5-17b6-4fa7-905e-ad8d7ba9fd5d",
       "type": "message",
       "text": "「ダジャレを呟くためにお金払ってる人」の称号が欲しいかどうかですかね……",
-      "user": "UVB7L4CKH",
+      "user": "tatsumigamou",
       "ts": "1651294616.868919",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -1327,7 +1327,7 @@
       "client_msg_id": "4dbde437-206d-4677-94e4-e8b82ec30cb6",
       "type": "message",
       "text": "定額制なら私はたぶんやらないですね・・・正直今もそんなに魅力を感じてないんで・・・",
-      "user": "U70QDFN82",
+      "user": "yutakatay",
       "ts": "1651294607.831139",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -1352,7 +1352,7 @@
       "client_msg_id": "9b292daa-c7ba-49b4-84cc-947a702b7e88",
       "type": "message",
       "text": "みんな定額制になったらどうします?",
-      "user": "U0GFBAM8U",
+      "user": "syui",
       "ts": "1651294582.752699",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -1377,7 +1377,7 @@
       "client_msg_id": "756b94aa-c0cf-4f4c-b280-0cd4f1de8ad6",
       "type": "message",
       "text": "botを駆逐するって言われてましたね、新オーナー",
-      "user": "U0GFBAM8U",
+      "user": "syui",
       "ts": "1651294495.384309",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -1402,7 +1402,7 @@
       "client_msg_id": "b5d6e3a1-951c-43a8-9276-02b4b14d7ba0",
       "type": "message",
       "text": "私は本人認証はいいと思いますね。アカウント気軽に作れるの反対派なんで",
-      "user": "U70QDFN82",
+      "user": "yutakatay",
       "ts": "1651294289.709259",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -1427,7 +1427,7 @@
       "client_msg_id": "2e57b9d2-7bdd-44be-a45b-562503177944",
       "type": "message",
       "text": "twitter、これからどんなふうに変わっていくのでしょう",
-      "user": "U0GFBAM8U",
+      "user": "syui",
       "ts": "1651294207.993699",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -1452,7 +1452,7 @@
       "client_msg_id": "ba119361-cde0-4380-964f-a64059ced77f",
       "type": "message",
       "text": "よかった、twitter便利",
-      "user": "U0GFBAM8U",
+      "user": "syui",
       "ts": "1651294195.526589",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -1477,7 +1477,7 @@
       "client_msg_id": "89afe714-aa69-481a-a446-594e9c326d83",
       "type": "message",
       "text": "なにが起因してできるようになったのかわからないですけどとりあえずLinuxで一番のストレスが解消されてよかった",
-      "user": "U70QDFN82",
+      "user": "yutakatay",
       "ts": "1651294103.447019",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -1502,7 +1502,7 @@
       "client_msg_id": "16423787-e61b-427c-b384-6f69875e88ea",
       "type": "message",
       "text": ":wakaru:\nなのでROMる時は基本twitter webなんですが、そこからシームレスに投稿しようとするとストレス溜まるのでどうしようもない",
-      "user": "UVB7L4CKH",
+      "user": "tatsumigamou",
       "ts": "1651294036.144929",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -1531,7 +1531,7 @@
       "client_msg_id": "28014820-af48-45e6-9b82-bede3ff54de1",
       "type": "message",
       "text": "tweetdeckタイムラインが嫌いなんですよね・・・・Twitterの方が欲しい情報が出てくる気がする",
-      "user": "U70QDFN82",
+      "user": "yutakatay",
       "ts": "1651293985.547929",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -1556,7 +1556,7 @@
       "client_msg_id": "bb95905a-9c30-43f3-8cd3-0e6d33b776ef",
       "type": "message",
       "text": "ただ、環境的にはyutkatさんと非常に似てる",
-      "user": "U0GFBAM8U",
+      "user": "syui",
       "ts": "1651293957.600299",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -1581,7 +1581,7 @@
       "client_msg_id": "5e2cffe7-2eef-4467-beb0-6cddcf7aad4d",
       "type": "message",
       "text": "やはりtweetdeck",
-      "user": "UVB7L4CKH",
+      "user": "tatsumigamou",
       "ts": "1651293950.983009",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -1606,7 +1606,7 @@
       "client_msg_id": "cfbea31d-96c5-418b-afa6-8e3f9b177d7c",
       "type": "message",
       "text": "ちなみに、私の環境下で前からできてたのかはわかりません。linuxでtwitter webから投稿することがなかったので",
-      "user": "U0GFBAM8U",
+      "user": "syui",
       "ts": "1651293905.238599",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -1631,7 +1631,7 @@
       "client_msg_id": "4d2a4e04-5a16-4d2f-b9e9-bd23f07db3e6",
       "type": "message",
       "text": "skkだと変換モードから継続入力すると最初の子音が持っていかれるので、使えなくはないんですが非常にイライラする",
-      "user": "UVB7L4CKH",
+      "user": "tatsumigamou",
       "ts": "1651293826.495509",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -1655,15 +1655,15 @@
         {
           "name": "hee",
           "users": [
-            "U70QDFN82"
+            "yutakatay"
           ],
           "count": 1
         },
         {
           "name": "wakaru",
           "users": [
-            "UGA29R3FH",
-            "U02BLTTQEL9",
+            "znmxodq1",
+            "buzz.taiki",
             "U02SRH9D0DP",
             "U0H9QUFA5",
             "U01HE1ENNJZ"
@@ -1676,7 +1676,7 @@
       "client_msg_id": "74a83c5c-b2c0-4e00-8f64-3abbf4e70f22",
       "type": "message",
       "text": "いけてますね",
-      "user": "U70QDFN82",
+      "user": "yutakatay",
       "ts": "1651293787.637659",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -1701,7 +1701,7 @@
       "client_msg_id": "d4215169-1506-4db0-873c-465d39d13aad",
       "type": "message",
       "text": "sway+chromium",
-      "user": "U0GFBAM8U",
+      "user": "syui",
       "ts": "1651293768.275019",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -1735,7 +1735,7 @@
           "mimetype": "video/mp4",
           "filetype": "mp4",
           "pretty_type": "MPEG 4ビデオ",
-          "user": "U0GFBAM8U",
+          "user": "syui",
           "editable": false,
           "size": 2431473,
           "mode": "hosted",
@@ -1759,14 +1759,14 @@
           "thumb_video": "https://files.slack.com/files-tmb/T0GFBAM8C-F03EAF7FY2U-bc5e7bebe3/recording_thumb_video.jpeg",
           "thumb_video_w": 1366,
           "thumb_video_h": 768,
-          "permalink": "https://archlinuxjp.slack.com/files/U0GFBAM8U/F03EAF7FY2U/recording.mp4",
+          "permalink": "https://archlinuxjp.slack.com/files/syui/F03EAF7FY2U/recording.mp4",
           "permalink_public": "https://slack-files.com/T0GFBAM8C-F03EAF7FY2U-fba8e81d59",
           "is_starred": false,
           "has_rich_preview": false
         }
       ],
       "upload": false,
-      "user": "U0GFBAM8U",
+      "user": "syui",
       "display_as_bot": false,
       "ts": "1651293686.977449",
       "client_msg_id": "a40afa31-7527-4acb-aa56-8830f2a0ad2c"
@@ -1775,7 +1775,7 @@
       "client_msg_id": "7b9bbe25-9be7-4c7f-ae8b-47fbfce0ff31",
       "type": "message",
       "text": "Peekが動けばいいんですけどね・・・GnomeだとWaylandでも動くらしいです",
-      "user": "U70QDFN82",
+      "user": "yutakatay",
       "ts": "1651292523.905719",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -1800,7 +1800,7 @@
       "client_msg_id": "DC8AA56C-16E5-4F52-BC24-815F36888E5F",
       "type": "message",
       "text": "聞いてよかった",
-      "user": "U0GFBAM8U",
+      "user": "syui",
       "ts": "1651292506.561249",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -1825,7 +1825,7 @@
       "client_msg_id": "34F1C7E6-1FA6-4310-9FC1-C497A69103AC",
       "type": "message",
       "text": "おお、ありがとうございます",
-      "user": "U0GFBAM8U",
+      "user": "syui",
       "ts": "1651292499.720319",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -1850,11 +1850,11 @@
       "client_msg_id": "80281da0-076e-4205-b88b-b14b764c0e1c",
       "type": "message",
       "text": "Waylandでしたよね。そうするとまともに使えるのが\n`wf-recorder -g \"$(slurp)\" -f ~/Pictures/wf_$(date \"+%y%m%d-%H%M%S\").mp4`\nしかないです",
-      "user": "U70QDFN82",
+      "user": "yutakatay",
       "ts": "1651292486.365269",
       "team": "T0GFBAM8C",
       "edited": {
-        "user": "U70QDFN82",
+        "user": "yutakatay",
         "ts": "1651292501.000000"
       },
       "blocks": [
@@ -1890,7 +1890,7 @@
           "name": "subara",
           "users": [
             "U01HE1ENNJZ",
-            "U0GFBAM8U"
+            "syui"
           ],
           "count": 2
         }
@@ -1900,7 +1900,7 @@
       "client_msg_id": "7502086C-B204-431B-BB0F-4191608C790E",
       "type": "message",
       "text": "そういえば録画アプリ何がいいと思います?\n自分も録画してみようかな",
-      "user": "U0GFBAM8U",
+      "user": "syui",
       "ts": "1651292436.057189",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -1929,7 +1929,7 @@
       "client_msg_id": "68395CD3-53DE-4CBF-9885-E6020C13CE03",
       "type": "message",
       "text": "なるほど",
-      "user": "U0GFBAM8U",
+      "user": "syui",
       "ts": "1651292409.142229",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -1954,7 +1954,7 @@
       "client_msg_id": "5c0fb28a-fe4c-4bfd-9200-c43f3be28203",
       "type": "message",
       "text": "<https://twitter.com/yutkat/status/1499285160428064772?s=20&amp;t=k42pe87BicC51v68tv-nBw>",
-      "user": "U70QDFN82",
+      "user": "yutakatay",
       "ts": "1651292349.925849",
       "team": "T0GFBAM8C",
       "attachments": [
@@ -2003,7 +2003,7 @@
       "client_msg_id": "12fcdb18-1574-46eb-929f-fbe40690920a",
       "type": "message",
       "text": "こんな感じでしたね\n<https://twitter.com/yutkat/status/1502258294546595842?s=20&amp;t=k42pe87BicC51v68tv-nBw>",
-      "user": "U70QDFN82",
+      "user": "yutakatay",
       "ts": "1651292287.783099",
       "team": "T0GFBAM8C",
       "attachments": [
@@ -2056,7 +2056,7 @@
       "client_msg_id": "D6E620EB-ABAF-45DB-AF79-15E7456BF7A9",
       "type": "message",
       "text": "大丈夫ですね\n前はどんな挙動だったんでした?",
-      "user": "U0GFBAM8U",
+      "user": "syui",
       "ts": "1651292207.165609",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -2080,7 +2080,7 @@
         {
           "name": "majika",
           "users": [
-            "U70QDFN82"
+            "yutakatay"
           ],
           "count": 1
         }
@@ -2090,7 +2090,7 @@
       "client_msg_id": "5a15ecee-46ba-4ae5-aed2-c367b82184f2",
       "type": "message",
       "text": "一応私の環境だとChromeとVivaldiは大丈夫でした",
-      "user": "U70QDFN82",
+      "user": "yutakatay",
       "ts": "1651292100.367359",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -2115,7 +2115,7 @@
       "client_msg_id": "C02097AD-B5B6-4EFC-B811-E5845DFA1898",
       "type": "message",
       "text": "ちょっと試してみますね\nブラウザは関係あります?",
-      "user": "U0GFBAM8U",
+      "user": "syui",
       "ts": "1651292080.593829",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -2139,7 +2139,7 @@
         {
           "name": "bow",
           "users": [
-            "U70QDFN82"
+            "yutakatay"
           ],
           "count": 1
         }
@@ -2149,7 +2149,7 @@
       "client_msg_id": "0dbaa373-73b7-40a8-bf23-8dbf90e06955",
       "type": "message",
       "text": "他の人どうですか？？TwitterでUbuntuの人はダメだったって報告もらいましたが",
-      "user": "U70QDFN82",
+      "user": "yutakatay",
       "ts": "1651291974.394649",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -2174,7 +2174,7 @@
       "client_msg_id": "98068b6b-7a9c-493c-b815-2e65e00de9dd",
       "type": "message",
       "text": "イーロンさん仕事早いなあ。",
-      "user": "UBEFL3YLE",
+      "user": "mail",
       "ts": "1651273079.173329",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -2199,7 +2199,7 @@
       "client_msg_id": "d82edfc3-ccbb-413e-ac27-9a6dfc905d12",
       "type": "message",
       "text": "なんか今日Twitter調子よくてLinuxからそのままツイートできるんですけど、一体なにがあった？？（fcitx5 + mozc + sway + vivaldi）",
-      "user": "U70QDFN82",
+      "user": "yutakatay",
       "ts": "1651253067.161109",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -2224,7 +2224,7 @@
       "client_msg_id": "499c1d7f-42ec-4810-9309-7821df24ba39",
       "type": "message",
       "text": "まじで？\n<https://twitter.com/ebiebi_pg/status/1519840646114070528?s=20&amp;t=XohfSB_o_voOPYLBPOfBdg>",
-      "user": "U70QDFN82",
+      "user": "yutakatay",
       "ts": "1651219684.356749",
       "team": "T0GFBAM8C",
       "attachments": [
@@ -2270,12 +2270,12 @@
         {
           "name": "interrobang",
           "users": [
-            "UBEFL3YLE",
+            "mail",
             "U7VDHKJHM",
             "U6DL9D3AB",
             "U02MLKKUXMF",
-            "U03921SFM3L",
-            "U02BLTTQEL9",
+            "e195755",
+            "buzz.taiki",
             "U0H9QUFA5",
             "U01HE1ENNJZ"
           ],
@@ -2287,7 +2287,7 @@
       "client_msg_id": "68ce04a4-7b05-410d-904f-3d141794644f",
       "type": "message",
       "text": "インストールメディア便利",
-      "user": "UGA29R3FH",
+      "user": "znmxodq1",
       "ts": "1651202863.253549",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -2311,7 +2311,7 @@
         {
           "name": "sorena",
           "users": [
-            "U03921SFM3L",
+            "e195755",
             "U01HE1ENNJZ"
           ],
           "count": 2
@@ -2322,11 +2322,11 @@
       "client_msg_id": "c0c3d9ef-7880-4443-b41f-7b28fe90197a",
       "type": "message",
       "text": "~manjaroってセーフモードみたいな機能あります…?~  =&gt; os installer から os が入ってる ssd を mount して問題解決しました",
-      "user": "U03921SFM3L",
+      "user": "e195755",
       "ts": "1651157066.275399",
       "team": "T0GFBAM8C",
       "edited": {
-        "user": "U03921SFM3L",
+        "user": "e195755",
         "ts": "1651158390.000000"
       },
       "blocks": [
@@ -2357,7 +2357,7 @@
         {
           "name": "naruhodo",
           "users": [
-            "U8T8KB5M4",
+            "h.hata.ai.t",
             "U01HE1ENNJZ"
           ],
           "count": 2
@@ -2368,7 +2368,7 @@
       "client_msg_id": "6f5c6de4-62d0-4dca-be7b-dc0b38cb73fd",
       "type": "message",
       "text": "それそれ。",
-      "user": "U02BLTTQEL9",
+      "user": "buzz.taiki",
       "ts": "1650882551.084369",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -2393,7 +2393,7 @@
       "client_msg_id": "5466089c-e438-436c-b961-8e8713e9d963",
       "type": "message",
       "text": "```input type:keyboard {\n    xkb_options ctrl:nocaps\n}```\nこれですね",
-      "user": "U70QDFN82",
+      "user": "yutakatay",
       "ts": "1650882530.426359",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -2428,7 +2428,7 @@
       "client_msg_id": "aeeda645-4f79-4cb0-9764-71cc4d5149b9",
       "type": "message",
       "text": "sway も xkb っぽいのありましたよねたしか。",
-      "user": "U02BLTTQEL9",
+      "user": "buzz.taiki",
       "ts": "1650882489.273699",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -2453,7 +2453,7 @@
       "client_msg_id": "4846ff27-e0b8-40fb-8d27-854daa181726",
       "type": "message",
       "text": "よしなにというやつか",
-      "user": "UGA29R3FH",
+      "user": "znmxodq1",
       "ts": "1650882474.514609",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -2478,7 +2478,7 @@
       "client_msg_id": "f6e99355-107c-4554-af8d-7bd14fdb4796",
       "type": "message",
       "text": "xkb と同じオプションを gsettings で与えられるから、そのへんを Ubuntu があれこれしてるのかもしれない。\n\n```org.gnome.libgnomekbd.keyboard options\norg.gnome.desktop.input-sources xkb-options```\n",
-      "user": "U02BLTTQEL9",
+      "user": "buzz.taiki",
       "ts": "1650882452.140979",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -2516,8 +2516,8 @@
         {
           "name": "hee",
           "users": [
-            "UGA29R3FH",
-            "U70QDFN82",
+            "znmxodq1",
+            "yutakatay",
             "U01HE1ENNJZ"
           ],
           "count": 3
@@ -2528,7 +2528,7 @@
       "client_msg_id": "c44f2cdf-ff7d-4734-bf2d-4c97a2095bcf",
       "type": "message",
       "text": "窓の手懐かしいw",
-      "user": "UGA29R3FH",
+      "user": "znmxodq1",
       "ts": "1650882337.863879",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -2553,7 +2553,7 @@
       "client_msg_id": "7b9f9f00-76a6-463f-ada8-581b95a82d5a",
       "type": "message",
       "text": "わかる。窓の手",
-      "user": "U70QDFN82",
+      "user": "yutakatay",
       "ts": "1650882325.521619",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -2577,7 +2577,7 @@
         {
           "name": "wakaru",
           "users": [
-            "U02BLTTQEL9",
+            "buzz.taiki",
             "U01HE1ENNJZ"
           ],
           "count": 2
@@ -2588,7 +2588,7 @@
       "client_msg_id": "04f38769-c518-4c43-8ee9-29ef0f100f31",
       "type": "message",
       "text": "(TweakあるのすごくWindows感がある)",
-      "user": "UGA29R3FH",
+      "user": "znmxodq1",
       "ts": "1650882317.409459",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -2613,7 +2613,7 @@
       "client_msg_id": "cbc55ae1-9686-49f7-b62f-6b7cf31c98da",
       "type": "message",
       "text": "知らない子だ",
-      "user": "UGA29R3FH",
+      "user": "znmxodq1",
       "ts": "1650882304.676959",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -2638,7 +2638,7 @@
       "client_msg_id": "657573a2-4d03-4167-a7fa-7230ed67fa08",
       "type": "message",
       "text": "それか実はGnomeTweakでやってる説もあるか。",
-      "user": "U70QDFN82",
+      "user": "yutakatay",
       "ts": "1650882253.608789",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -2663,7 +2663,7 @@
       "client_msg_id": "ff28ca25-69e9-4375-91fb-c8ee8ca537f6",
       "type": "message",
       "text": "諸事上（ハードウェア構成とか）によって稀にWayland無効化されることあるんでそれなのかも",
-      "user": "U70QDFN82",
+      "user": "yutakatay",
       "ts": "1650881820.020789",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -2687,7 +2687,7 @@
         {
           "name": "naruhodo",
           "users": [
-            "UGA29R3FH"
+            "znmxodq1"
           ],
           "count": 1
         }
@@ -2697,7 +2697,7 @@
       "client_msg_id": "405d8015-a4d0-443f-aa85-38fe2a132fa5",
       "type": "message",
       "text": "たしかに。たぶん効かない気がする。",
-      "user": "U70QDFN82",
+      "user": "yutakatay",
       "ts": "1650881785.264299",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -2722,7 +2722,7 @@
       "client_msg_id": "886daf8b-a9a8-4d8a-8578-3f9a8f9db58e",
       "type": "message",
       "text": "Waylandでは当然効かないものだとばかり思っていた(一度もWaylandメインにしたことないので何も分かってない)",
-      "user": "UGA29R3FH",
+      "user": "znmxodq1",
       "ts": "1650881780.928109",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -2747,7 +2747,7 @@
       "client_msg_id": "d6f1ba6c-c78d-49d3-b699-11b4c6aca963",
       "type": "message",
       "text": "あれ、xkb効くんだ",
-      "user": "UGA29R3FH",
+      "user": "znmxodq1",
       "ts": "1650881733.395639",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -2772,7 +2772,7 @@
       "client_msg_id": "e394af6b-262d-4d2a-a8a0-9f927c1924d6",
       "type": "message",
       "text": "こういうのやるの懐かしさある。Windowsとかもよくググってたなー\n<https://zenn.dev/sprout2000/articles/8ea4a77d81583a>",
-      "user": "U70QDFN82",
+      "user": "yutakatay",
       "ts": "1650881685.407329",
       "team": "T0GFBAM8C",
       "attachments": [
@@ -2817,17 +2817,17 @@
       "type": "message",
       "subtype": "channel_join",
       "ts": "1650809883.788319",
-      "user": "U03D2HTU60H",
-      "text": "<@U03D2HTU60H>さんがチャンネルに参加しました",
+      "user": "toyboot4e",
+      "text": "<@toyboot4e>さんがチャンネルに参加しました",
       "reactions": [
         {
           "name": "archjp-joy",
           "users": [
             "U02ASPM0A6T",
             "U0H9QUFA5",
-            "U70QDFN82",
-            "UGA29R3FH",
-            "U0GFBAM8U",
+            "yutakatay",
+            "znmxodq1",
+            "syui",
             "U01HE1ENNJZ"
           ],
           "count": 6
@@ -2838,11 +2838,11 @@
       "client_msg_id": "4478184d-1508-4ebc-802d-f80f28db1ef1",
       "type": "message",
       "text": "i7-4500U まだなんとか使える気がしますね。私の古いラップトップもそれだった気がします。(n代前ですが)",
-      "user": "UUWBU08TU",
+      "user": "nyaarch64",
       "ts": "1650800219.963199",
       "team": "T0GFBAM8C",
       "edited": {
-        "user": "UUWBU08TU",
+        "user": "nyaarch64",
         "ts": "1650800251.000000"
       },
       "blocks": [
@@ -2867,7 +2867,7 @@
       "client_msg_id": "e75c0f55-c8e4-4d82-80c3-7d02089ef316",
       "type": "message",
       "text": "メインは Windows なので、このPCは検証用ですね…\nあと 6年前くらいのノートPCがサーバになってる",
-      "user": "U0PM6EYR1",
+      "user": "raa0121",
       "ts": "1650799725.795379",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -2891,7 +2891,7 @@
         {
           "name": "hee",
           "users": [
-            "U70QDFN82",
+            "yutakatay",
             "U01HE1ENNJZ"
           ],
           "count": 2
@@ -2902,11 +2902,11 @@
       "client_msg_id": "54611002-4a92-4d11-971c-ddba6624cf7f",
       "type": "message",
       "text": "8年だと私はさすがに乗り換えますね〜\n一番持ったやつで６年だった（故障はしてないけどスペック的にもう限界で・・・）",
-      "user": "U70QDFN82",
+      "user": "yutakatay",
       "ts": "1650799644.601269",
       "team": "T0GFBAM8C",
       "edited": {
-        "user": "U70QDFN82",
+        "user": "yutakatay",
         "ts": "1650799664.000000"
       },
       "blocks": [
@@ -2931,7 +2931,7 @@
       "client_msg_id": "caefcbb7-6aa9-4b14-81a9-76c15279c392",
       "type": "message",
       "text": "7～8年前の VAIO Pro 11 なので",
-      "user": "U0PM6EYR1",
+      "user": "raa0121",
       "ts": "1650799603.462719",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -2956,7 +2956,7 @@
       "client_msg_id": "3b19665f-5e12-430c-a9bb-d7673142d439",
       "type": "message",
       "text": "CPU が Core i7-4500U 以外はだいたいあってる",
-      "user": "U0PM6EYR1",
+      "user": "raa0121",
       "ts": "1650799548.286729",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -2981,7 +2981,7 @@
       "client_msg_id": "43b0d765-80eb-475a-92fc-e7b5f8b3123a",
       "type": "message",
       "text": "まじか",
-      "user": "U70QDFN82",
+      "user": "yutakatay",
       "ts": "1650799510.403159",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -3006,7 +3006,7 @@
       "client_msg_id": "30aecb60-7e71-4c4a-9d4c-34f5b26ba0de",
       "type": "message",
       "text": "今使ってるLinuxノートに近いなw",
-      "user": "U0PM6EYR1",
+      "user": "raa0121",
       "ts": "1650799504.380649",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -3031,11 +3031,11 @@
       "client_msg_id": "d903ee6b-0606-4137-9b3f-223447625044",
       "type": "message",
       "text": "Linux動いても結局みんなブラウザ動かすわけだからメモリに余裕ないと厳しそう・・・\n<https://xtech.nikkei.com/atcl/nxt/column/18/01997/032500001/>",
-      "user": "U70QDFN82",
+      "user": "yutakatay",
       "ts": "1650799448.654999",
       "team": "T0GFBAM8C",
       "edited": {
-        "user": "U70QDFN82",
+        "user": "yutakatay",
         "ts": "1650799455.000000"
       },
       "attachments": [
@@ -3081,7 +3081,7 @@
       "client_msg_id": "6d3a222e-9da9-4adf-809b-da33e2a040b5",
       "type": "message",
       "text": "しいたけアイコンだ。",
-      "user": "U02BLTTQEL9",
+      "user": "buzz.taiki",
       "ts": "1650778680.968309",
       "team": "T0GFBAM8C",
       "blocks": [

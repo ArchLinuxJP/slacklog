@@ -7,11 +7,11 @@
       "client_msg_id": "b055285a-15eb-412d-812b-7aef2e82b3fa",
       "type": "message",
       "text": "<https://forums.debian.net/viewtopic.php?p=753391>\n<https://www.virtualbox.org/ticket/20904>\nVirtualbox、起動しなくなってますね。",
-      "user": "U0H9QUFA5",
+      "user": "kusanaginoturugi",
       "ts": "1650523247.710049",
       "team": "T0GFBAM8C",
       "edited": {
-        "user": "U0H9QUFA5",
+        "user": "kusanaginoturugi",
         "ts": "1650523275.000000"
       },
       "blocks": [
@@ -48,7 +48,7 @@
       "reply_users_count": 1,
       "latest_reply": "1650939279.784129",
       "reply_users": [
-        "U0H9QUFA5"
+        "kusanaginoturugi"
       ],
       "is_locked": false,
       "subscribed": false,
@@ -56,7 +56,7 @@
         {
           "name": "scream",
           "users": [
-            "UGA29R3FH"
+            "znmxodq1"
           ],
           "count": 1
         }
@@ -66,7 +66,7 @@
       "client_msg_id": "f27173b5-dc1d-410a-bcc7-0788bfadb1ff",
       "type": "message",
       "text": "uimでできたよなーとか思ってたけどそういうことか(うっすらハードコードされてたと聞いた記憶もあった)",
-      "user": "UGA29R3FH",
+      "user": "znmxodq1",
       "ts": "1650329506.651249",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -91,7 +91,7 @@
       "client_msg_id": "28cfb41d-c3a2-453c-90cf-9803576ea397",
       "type": "message",
       "text": "メモリリーク起こすからgvimでは使えないようにした ってことみたいですね",
-      "user": "U02ASPM0A6T",
+      "user": "yozigen",
       "ts": "1650325859.287649",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -116,7 +116,7 @@
       "client_msg_id": "4ab3c13f-0069-43f9-b539-9b9ddaad0306",
       "type": "message",
       "text": "ああなるほど。元々のカーソル部分で入力表示が続行されないってことですね。それはこちらでもそうでした\nなんかgvim名指しして明示的にできないようにしているような\n• <https://github.com/fcitx/fcitx/blob/289b2f674d95651d4e0d0c77a48e3a2f0da40efe/CMakeLists.txt#L55>\n• <https://github.com/fcitx/fcitx/issues/364>",
-      "user": "U02ASPM0A6T",
+      "user": "yozigen",
       "ts": "1650325453.370199",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -166,7 +166,7 @@
         {
           "name": "+1",
           "users": [
-            "U0H9QUFA5"
+            "kusanaginoturugi"
           ],
           "count": 1
         }
@@ -176,7 +176,7 @@
       "client_msg_id": "3e160d45-14c6-4a36-b882-acac75580d91",
       "type": "message",
       "text": "すいません、\n写真では変換キーを押していないだけで変換候補のダイアログはきちんと出ます。\n\n日本語のインライン入力はgvimはバグのせいでできないということでしょうか?",
-      "user": "U019C7VLZ4G",
+      "user": "getalotofmail",
       "ts": "1650294340.859539",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -201,7 +201,7 @@
       "reply_users_count": 1,
       "latest_reply": "1651384227.841509",
       "reply_users": [
-        "U02ASPM0A6T"
+        "yozigen"
       ],
       "is_locked": false,
       "subscribed": false
@@ -219,7 +219,7 @@
           "mimetype": "image/png",
           "filetype": "png",
           "pretty_type": "PNG",
-          "user": "U02ASPM0A6T",
+          "user": "yozigen",
           "editable": false,
           "size": 54631,
           "mode": "hosted",
@@ -241,14 +241,14 @@
           "original_w": 442,
           "original_h": 465,
           "thumb_tiny": "AwAwAC24yRxoZGztHWoftFtn+P8A75qW6/483+lZWfdqVkO5o/abb/a/75qBxZu5YmTJOeBVM9eM0UWsIvRwWkrhFMmffipTp8H+1+dVrDP2pTnsa1GpgQXX/Hm/0rKz/tGta6ybN8elZWH56/lQAyin7WPUH8qMMOx/KgCbT/8Aj7X6GtVqy7AN9qBII4PatRqABfuilpiuu0fMv50u9P7y/nQA6im70/vL+dG9P7y/nQA6kak3p/eX86RnX+8v50Af/9k=",
-          "permalink": "https://archlinuxjp.slack.com/files/U02ASPM0A6T/F03C5BSD8TT/image.png",
+          "permalink": "https://archlinuxjp.slack.com/files/yozigen/F03C5BSD8TT/image.png",
           "permalink_public": "https://slack-files.com/T0GFBAM8C-F03C5BSD8TT-119018509f",
           "is_starred": false,
           "has_rich_preview": false
         }
       ],
       "upload": false,
-      "user": "U02ASPM0A6T",
+      "user": "yozigen",
       "display_as_bot": false,
       "ts": "1650198848.306199",
       "blocks": [
@@ -294,7 +294,7 @@
           "mimetype": "image/png",
           "filetype": "png",
           "pretty_type": "PNG",
-          "user": "U019C7VLZ4G",
+          "user": "getalotofmail",
           "editable": false,
           "size": 15721,
           "mode": "hosted",
@@ -319,14 +319,14 @@
           "original_w": 604,
           "original_h": 407,
           "thumb_tiny": "AwAgADCptH+TRtH59Oa3Ng7BfyoCDHIGfpQBh4X3/OjaP8mt3av90flRtX+6PyoAwcUbf85re2r/AHR+VG1f7o/KgBaKKKACiiigAooooA//2Q==",
-          "permalink": "https://archlinuxjp.slack.com/files/U019C7VLZ4G/F03BBRXSVNK/image.png",
+          "permalink": "https://archlinuxjp.slack.com/files/getalotofmail/F03BBRXSVNK/image.png",
           "permalink_public": "https://slack-files.com/T0GFBAM8C-F03BBRXSVNK-4087a67528",
           "is_starred": false,
           "has_rich_preview": false
         }
       ],
       "upload": false,
-      "user": "U019C7VLZ4G",
+      "user": "getalotofmail",
       "display_as_bot": false,
       "ts": "1650176384.245709",
       "blocks": [
@@ -351,7 +351,7 @@
         {
           "name": "thinking_face",
           "users": [
-            "U02ASPM0A6T"
+            "yozigen"
           ],
           "count": 1
         }
@@ -361,7 +361,7 @@
       "client_msg_id": "9b817c42-423a-4ea4-80dd-b3cddfcac9a5",
       "type": "message",
       "text": "`fcitx5-diagnose` で出てくるgvimに関連しそうな問題はほとんどないですが強いていうと\ngtk2/gtk4のところの\n**Cannot find immodules cache for gtk 2**\nCannot find fcitx5 im module for gtk 2 in cache.**\nぐらいでしょうか",
-      "user": "U019C7VLZ4G",
+      "user": "getalotofmail",
       "ts": "1650176275.345979",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -393,7 +393,7 @@
       "client_msg_id": "983178ab-d151-496b-97cb-65c02ec62d55",
       "type": "message",
       "text": "ローカル環境のgvimではgtkの挙動が変でウィンドウを移動しないとテキストエリアが見えないようなことになってはいますが、変換候補を表示して入力はできます\n`fcitx5-diagnose`で出てくる問題らしきものは一通りクリアーしました？",
-      "user": "U02ASPM0A6T",
+      "user": "yozigen",
       "ts": "1650159641.711669",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -429,7 +429,7 @@
       "client_msg_id": "aa4890df-8092-43f0-b56f-a39a07aa464c",
       "type": "message",
       "text": "waylandを使っています",
-      "user": "U019C7VLZ4G",
+      "user": "getalotofmail",
       "ts": "1650156113.450649",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -454,7 +454,7 @@
       "client_msg_id": "c6e2ea03-d9c3-43b3-b83f-8000d3ceb7eb",
       "type": "message",
       "text": "fcitx5でgvimでインライン入力ができないのですが解決方法はないでしょうか?\nvim -gfで起動してもインラインできない状況です",
-      "user": "U019C7VLZ4G",
+      "user": "getalotofmail",
       "ts": "1650155549.963749",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -479,7 +479,7 @@
       "client_msg_id": "3525e409-8916-4d51-bfd5-632e9ca36f53",
       "type": "message",
       "text": "VirtualboxにOpenSUSE / KDE入れてみましたが、同様の現象は再現して、Linux Mint / xfce入れても再現しました。やっぱ、サンドボックスだと復元難しいのかもしれないですね。。。",
-      "user": "U2YNMHCTV",
+      "user": "takumi.kt",
       "ts": "1650086313.871639",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -503,7 +503,7 @@
         {
           "name": "naruhodo",
           "users": [
-            "U02ASPM0A6T"
+            "yozigen"
           ],
           "count": 1
         }
@@ -512,7 +512,7 @@
     {
       "type": "message",
       "text": "あ、すみません。pacman とかの discord でも復元されないと読み間違えてました……",
-      "user": "U257W41DW",
+      "user": "odknt",
       "ts": "1650074986.402409",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -537,7 +537,7 @@
       "client_msg_id": "93ff7a95-1712-4d1f-8687-47dd5ad2cb59",
       "type": "message",
       "text": "情報ありがとうございます。pacmanで入れたDiscordや、公式からダウンロードしたtar.gzを展開したDiscordでは、セッション復元ができていたので、Electronが悪いというよりは、flatpakが怪しい気がしています。",
-      "user": "U2YNMHCTV",
+      "user": "takumi.kt",
       "ts": "1650074892.986759",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -561,7 +561,7 @@
     {
       "type": "message",
       "text": "<https://github.com/electron/electron/issues/20822>\nこれを見るに electron 製アプリは基本的にセッション復元サポートしてないのかも",
-      "user": "U257W41DW",
+      "user": "odknt",
       "ts": "1650074417.365499",
       "team": "T0GFBAM8C",
       "attachments": [
@@ -606,7 +606,7 @@
     {
       "type": "message",
       "text": "X11 環境の場合 ICCCM か XSMP によるセッション管理をしてるらしいので、アプリが対応してない場合はセッション復元できない気がする。",
-      "user": "U257W41DW",
+      "user": "odknt",
       "ts": "1650073837.001499",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -631,7 +631,7 @@
       "client_msg_id": "c67a67b7-3407-4a68-a803-5e6d801a4ede",
       "type": "message",
       "text": "&gt;  AURとかでないんですか\nあるかもしれないけど、そもそもrootでシステムに入れなくていいものでは、と思って、pacman/AUR以外のパッケージシステムを探しました。\n\n&gt;  サンドボックスですから\nそこらへんが悪さをしているような予感はします(なので、KDE特有の問題なのか、一体どこを探れば解決しそうなのかを知りたいです)",
-      "user": "U2YNMHCTV",
+      "user": "takumi.kt",
       "ts": "1650073296.853349",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -682,7 +682,7 @@
         {
           "name": "eyes",
           "users": [
-            "UUWBU08TU"
+            "nyaarch64"
           ],
           "count": 1
         }
@@ -692,7 +692,7 @@
       "client_msg_id": "04b1d1fa-d21a-417b-8fee-68cef70cc573",
       "type": "message",
       "text": "ちなみに僕もその一回で盛大に泣きを見たので渋々flatpak使ってます",
-      "user": "UVB7L4CKH",
+      "user": "tatsumigamou",
       "ts": "1650073153.323739",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -717,7 +717,7 @@
       "client_msg_id": "eb59e4e0-424f-4f0c-b371-793cf3340126",
       "type": "message",
       "text": "なるほどー。AURとかでないんですかね？と思ったけどcommunityに入ってるからちょうどよさそうなのはないか……",
-      "user": "UUWBU08TU",
+      "user": "nyaarch64",
       "ts": "1650073117.124579",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -742,7 +742,7 @@
       "client_msg_id": "6eca9cc9-83b4-404b-85a4-f616dbdfcd25",
       "type": "message",
       "text": "flatpak、サンドボックスですからね、ホストのセッションからは見えてないんじゃないでしょうか",
-      "user": "UVB7L4CKH",
+      "user": "tatsumigamou",
       "ts": "1650073100.537259",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -767,11 +767,11 @@
       "client_msg_id": "5c7e38e2-711d-4d54-9c65-98a88579bf44",
       "type": "message",
       "text": "&gt; 公式のアップデートに追従しきれなくて繋がらない事が時々ある\nまさにその理由で、pacmanじゃないユーザサイドで入れられる方法がほしくてflatpakを導入しました。\npacmanで入れたDiscordや、zipだかtar.gzだかを展開してホームディレクトリに自分で置いたDiscordでは復元されない問題が発生しないことは確認済みです。",
-      "user": "U2YNMHCTV",
+      "user": "takumi.kt",
       "ts": "1650073062.443849",
       "team": "T0GFBAM8C",
       "edited": {
-        "user": "U2YNMHCTV",
+        "user": "takumi.kt",
         "ts": "1650073077.000000"
       },
       "blocks": [
@@ -805,7 +805,7 @@
       "client_msg_id": "6548468c-9681-478e-93e8-ca8e501cffe2",
       "type": "message",
       "text": "あれとは別です\nクライアントのメジャーアプデが入ると多分ダメなんですよね、まあ僕も一回しかそれ食らってないので気にするほどでもないと言えばそうなんですが",
-      "user": "UVB7L4CKH",
+      "user": "tatsumigamou",
       "ts": "1650073007.303979",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -830,7 +830,7 @@
       "client_msg_id": "be8d5c50-3eaf-4095-a79a-41ea085a8e44",
       "type": "message",
       "text": "なんか起動時に勝手にダウンロード走りませんか？あれとは別？",
-      "user": "UUWBU08TU",
+      "user": "nyaarch64",
       "ts": "1650072966.135319",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -855,7 +855,7 @@
       "client_msg_id": "4d3d32dd-8a09-4981-b956-9b60ecb22046",
       "type": "message",
       "text": "公式リポジトリのdiscord、公式のアップデートに追従しきれなくて繋がらない事が時々ある気がするんですよね",
-      "user": "UVB7L4CKH",
+      "user": "tatsumigamou",
       "ts": "1650072942.113299",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -880,7 +880,7 @@
       "client_msg_id": "0d35b82e-663e-4473-8ecb-ea1fb848eb72",
       "type": "message",
       "text": "Discordは公式リポジトリに入っている気がするので試してみては……？\n(私はセッションの復元をしようと思ったことがない: 誰かが言っていましたがKNOPPIXから入ったので再起動で全て戻る方がいいと思っている、ので分かりませんが……)",
-      "user": "UUWBU08TU",
+      "user": "nyaarch64",
       "ts": "1650072868.959669",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -905,11 +905,11 @@
       "client_msg_id": "d38e32bc-d249-42d1-8954-c85d42226031",
       "type": "message",
       "text": "ちなみに、KDE以外のセッションマネージャでは再現しない現象なのですか? (KDEの問題なのかX11の何かのライブラリの問題なのかflatpakの問題なのか、問題というよりも仕様レベルでどうしようもないものなのか、という切り分けがまだできていなくて)",
-      "user": "U2YNMHCTV",
+      "user": "takumi.kt",
       "ts": "1650072607.341289",
       "team": "T0GFBAM8C",
       "edited": {
-        "user": "U2YNMHCTV",
+        "user": "takumi.kt",
         "ts": "1650072761.000000"
       },
       "blocks": [
@@ -934,7 +934,7 @@
       "client_msg_id": "a462e581-4176-498b-9262-b98e77ada8a7",
       "type": "message",
       "text": "ここKDE勢だいぶ少ないですからね・・・もしかしたら回答出ないかもです・・・",
-      "user": "U70QDFN82",
+      "user": "yutakatay",
       "ts": "1650039561.995469",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -958,7 +958,7 @@
         {
           "name": "totemoturai",
           "users": [
-            "U2YNMHCTV"
+            "takumi.kt"
           ],
           "count": 1
         }
@@ -968,11 +968,11 @@
       "client_msg_id": "68b271a3-1326-4dc9-8f8a-6ba2e0715c02",
       "type": "message",
       "text": "KDEとflatpak環境についての質問です。KDEのデスクトップセッションの設定をログイン時にRestore previous saved sessionにしているのですが、flatpakで入れたアプリに関してはログイン時に復元されていないように見えます。\nKDEとflatpakはpacmanで入れ、具体的に復元されないアプリは、flathubで--userでインストールしたcom.discordapp.Discord と com.spotify.Client です(他は試していません)\n問題の回避方法があれば教えて下さい。",
-      "user": "U2YNMHCTV",
+      "user": "takumi.kt",
       "ts": "1650036824.347949",
       "team": "T0GFBAM8C",
       "edited": {
-        "user": "U2YNMHCTV",
+        "user": "takumi.kt",
         "ts": "1650036904.000000"
       },
       "blocks": [
@@ -997,7 +997,7 @@
       "client_msg_id": "07200f47-215f-409c-8ad6-d7dca4a12ee0",
       "type": "message",
       "text": "それかupstreamの更新のタイミングを狙って `pkgrel` を1に戻すか、ですかね…… :thinking_face:",
-      "user": "UUWBU08TU",
+      "user": "nyaarch64",
       "ts": "1649404085.419139",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -1037,7 +1037,7 @@
         {
           "name": "thinking_face",
           "users": [
-            "U02BLTTQEL9"
+            "buzz.taiki"
           ],
           "count": 1
         }
@@ -1047,7 +1047,7 @@
       "client_msg_id": "df1ad754-b66d-4c21-9790-05f44f68e3df",
       "type": "message",
       "text": "リリースされてないやつをパッケージにしようとすると `-git` を使いがち。",
-      "user": "U02BLTTQEL9",
+      "user": "buzz.taiki",
       "ts": "1649403853.251389",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -1083,11 +1083,11 @@
       "client_msg_id": "f5bac757-fc6f-49ea-9d44-9fe22df864e3",
       "type": "message",
       "text": "upstream の更新頻度が高ければそこまで気にしなくてもいいし、そうでもないなら `pkgrel` を更新し続けるか、`pkgver` に管理できる値を入れるか、`-git` にしない。\n\nってとこですかね。",
-      "user": "U02BLTTQEL9",
+      "user": "buzz.taiki",
       "ts": "1649403784.447999",
       "team": "T0GFBAM8C",
       "edited": {
-        "user": "U02BLTTQEL9",
+        "user": "buzz.taiki",
         "ts": "1649403798.000000"
       },
       "blocks": [
@@ -1145,7 +1145,7 @@
       "client_msg_id": "58971afd-830a-4258-8c86-b675175863f8",
       "type": "message",
       "text": "話ぶった切るのですが(threadとかの方がよい？)、皆さんAURで何入れてますか？ (`pacman -Qqm` とかで一覧が出ます)",
-      "user": "UUWBU08TU",
+      "user": "nyaarch64",
       "ts": "1649402437.288159",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -1181,13 +1181,13 @@
       "reply_users_count": 7,
       "latest_reply": "1649448709.485339",
       "reply_users": [
-        "UUWBU08TU",
-        "U0H9QUFA5",
-        "U02BLTTQEL9",
+        "nyaarch64",
+        "kusanaginoturugi",
+        "buzz.taiki",
         "U017BNGTHT3",
-        "U257W41DW",
-        "UVB7L4CKH",
-        "U02ASPM0A6T"
+        "odknt",
+        "tatsumigamou",
+        "yozigen"
       ],
       "is_locked": false,
       "subscribed": false
@@ -1195,7 +1195,7 @@
     {
       "type": "message",
       "text": "なので `-git` はローカルバージョンよりも高いバージョンの .SRCINFO が公開されている場合にだけ自動更新される",
-      "user": "U257W41DW",
+      "user": "odknt",
       "ts": "1649402409.394819",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -1231,7 +1231,7 @@
       "client_msg_id": "afbadd21-8f79-4038-aaf1-a1f0acd0c8d9",
       "type": "message",
       "text": "ですね。ローカルの SRCINFO と API から取れるのを比較してるはず。",
-      "user": "U02BLTTQEL9",
+      "user": "buzz.taiki",
       "ts": "1649402327.777469",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -1255,7 +1255,7 @@
     {
       "type": "message",
       "text": "ヘルパーは AUR の API 叩いてバージョン取得して、ローカルのバージョンと比較して更新するものが多いと思う",
-      "user": "U257W41DW",
+      "user": "odknt",
       "ts": "1649402289.798209",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -1280,7 +1280,7 @@
       "client_msg_id": "ac05fc99-d265-4500-8ec6-228f27dce2da",
       "type": "message",
       "text": "（一度yayが死んだ頃にparuに避難して、またyayにしがみついてしまった人間なのでparuの挙動を全然知らない……）",
-      "user": "UVB7L4CKH",
+      "user": "tatsumigamou",
       "ts": "1649402250.304449",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -1305,7 +1305,7 @@
       "client_msg_id": "c7b0e208-9a62-4d73-87fd-11461db7630e",
       "type": "message",
       "text": "あ、ごめんなさい。PKGBUILD じゃなくて SRCINFO です。",
-      "user": "U02BLTTQEL9",
+      "user": "buzz.taiki",
       "ts": "1649402232.407499",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -1329,7 +1329,7 @@
         {
           "name": "+1",
           "users": [
-            "UUWBU08TU"
+            "nyaarch64"
           ],
           "count": 1
         }
@@ -1339,7 +1339,7 @@
       "client_msg_id": "c09e5e7f-4f88-4bc7-a8b3-85fd67e1d138",
       "type": "message",
       "text": "(aur-webは.SRCINFOを見て更新検知しているはずですが、よく考えたらAUR helperの実装は知りません。。。)",
-      "user": "UUWBU08TU",
+      "user": "nyaarch64",
       "ts": "1649402209.326449",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -1364,11 +1364,11 @@
       "client_msg_id": "5bbf6acf-ed23-434e-ba39-b8ed8094d3ae",
       "type": "message",
       "text": "paru とかは upstream の変更と PKGBUILD の変更の両方をトリガにしてる。多分。",
-      "user": "U02BLTTQEL9",
+      "user": "buzz.taiki",
       "ts": "1649402152.353649",
       "team": "T0GFBAM8C",
       "edited": {
-        "user": "U02BLTTQEL9",
+        "user": "buzz.taiki",
         "ts": "1649402163.000000"
       },
       "blocks": [
@@ -1393,7 +1393,7 @@
       "client_msg_id": "028c28a5-5937-4079-a77b-148dde6d835a",
       "type": "message",
       "text": "多分\n&gt; この手のパッケージ\nは `-git` な(`pkgver()` が最新commitを含むバージョンを生成する)タイプのパッケージのことを指していると認識して喋っています\n(なので、この場合はAURのPKGBUILD、より正確には.SRCINFOが更新されない)",
-      "user": "UUWBU08TU",
+      "user": "nyaarch64",
       "ts": "1649402072.795969",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -1458,7 +1458,7 @@
       "client_msg_id": "1beac606-9448-40ed-8b45-6c7a6001b29f",
       "type": "message",
       "text": "paru は `paru --gendb`  の魔法を叩くと、なにかうまい事なってうまい事になります。",
-      "user": "U02BLTTQEL9",
+      "user": "buzz.taiki",
       "ts": "1649402028.033759",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -1493,7 +1493,7 @@
     {
       "type": "message",
       "text": "ヘルパーによるかもしれないけど",
-      "user": "U257W41DW",
+      "user": "odknt",
       "ts": "1649402006.413649",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -1517,7 +1517,7 @@
     {
       "type": "message",
       "text": "AUR に自分がインストールしてるバージョン以降の PKGBUILD が公開されてると更新されるはず",
-      "user": "U257W41DW",
+      "user": "odknt",
       "ts": "1649401985.928419",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -1542,7 +1542,7 @@
       "client_msg_id": "bd868c5c-3e9a-40fc-8262-c35850ed0890",
       "type": "message",
       "text": "いわれてみればそうかも。",
-      "user": "U0H9QUFA5",
+      "user": "kusanaginoturugi",
       "ts": "1649401968.733969",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -1567,7 +1567,7 @@
       "client_msg_id": "ba4baf09-61d7-4c01-9e88-ecdcd9b0f7b5",
       "type": "message",
       "text": "gitバッケージって基本的に自動更新されない物だと思ってるので手動で叩いてますけど、そういう話ではない？",
-      "user": "UVB7L4CKH",
+      "user": "tatsumigamou",
       "ts": "1649401928.007389",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -1591,7 +1591,7 @@
         {
           "name": "eyes",
           "users": [
-            "UUWBU08TU"
+            "nyaarch64"
           ],
           "count": 1
         }
@@ -1601,7 +1601,7 @@
       "client_msg_id": "072a8574-2778-42a0-859d-1a248d00248e",
       "type": "message",
       "text": "makepkg がソースを落としてきたあとに pkgver() を呼ぶみたいです",
-      "user": "U0J2VATJA",
+      "user": "atnanasi",
       "ts": "1649401866.027699",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -1625,7 +1625,7 @@
         {
           "name": "eyes",
           "users": [
-            "UUWBU08TU"
+            "nyaarch64"
           ],
           "count": 1
         }
@@ -1634,7 +1634,7 @@
     {
       "type": "message",
       "text": "AUR に公開されてるバージョンと手元のインストールされてるバージョンの差異じゃないですかね？",
-      "user": "U257W41DW",
+      "user": "odknt",
       "ts": "1649401827.328679",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -1659,7 +1659,7 @@
       "client_msg_id": "405e9149-a675-4c09-a5e1-681d341d3b70",
       "type": "message",
       "text": "`pkgver()` を毎回実行してるんですかね？私は極力AUR使わないようにしているので分かりません……",
-      "user": "UUWBU08TU",
+      "user": "nyaarch64",
       "ts": "1649401814.296189",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -1691,7 +1691,7 @@
       "client_msg_id": "48726e7d-e59e-42d2-9aa0-7d05408c0ff3",
       "type": "message",
       "text": "yay とかはどうやって、この手のパッケージのアップデートを確認してんだろう？",
-      "user": "U0H9QUFA5",
+      "user": "kusanaginoturugi",
       "ts": "1649401782.055539",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -1716,7 +1716,7 @@
       "client_msg_id": "90efdcec-319c-49fe-a7a1-110f61f3b008",
       "type": "message",
       "text": "ユーザーが好きにバージョン上げれちゃうのでそうなりますね",
-      "user": "U0J2VATJA",
+      "user": "atnanasi",
       "ts": "1649401706.910179",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -1740,7 +1740,7 @@
     {
       "type": "message",
       "text": "勘違いしてた。確かに最新版に更新する直前にインストールしてるユーザとかは更新検知されないのか……",
-      "user": "U257W41DW",
+      "user": "odknt",
       "ts": "1649401683.722989",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -1765,7 +1765,7 @@
       "client_msg_id": "9371a6c4-e730-4a7e-bed9-55348f1f1575",
       "type": "message",
       "text": "~あとは、`pkgver()` を使わないで自分でcommitの固定バージョンを都度AURに投げるとかもできますね。~\n~`-git` パッケージが `pkgver()` を使わなければならないというルールはないはずなので。~(と打っていたので供養)",
-      "user": "UUWBU08TU",
+      "user": "nyaarch64",
       "ts": "1649401583.306559",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -1846,7 +1846,7 @@
       "client_msg_id": "3d3a3430-e37c-486f-88fd-3f219ebec838",
       "type": "message",
       "text": "コミットハッシュだけだとどっちが新しいか比較できないので",
-      "user": "U0J2VATJA",
+      "user": "atnanasi",
       "ts": "1649401574.345399",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -1871,7 +1871,7 @@
       "client_msg_id": "cdedea8f-39d5-4888-a06f-9741cc91e1ad",
       "type": "message",
       "text": "`pkgver()` の自動更新をせず `r0.&lt;hash&gt;` の形でやるのが良さそうですね",
-      "user": "U0J2VATJA",
+      "user": "atnanasi",
       "ts": "1649401560.169539",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -1914,7 +1914,7 @@
       "client_msg_id": "0e3dd755-3528-4f78-8ba8-dc0f47cb0608",
       "type": "message",
       "text": "日付とかをバージョン番号にするやつだ。",
-      "user": "U02BLTTQEL9",
+      "user": "buzz.taiki",
       "ts": "1649401503.197899",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -1939,7 +1939,7 @@
       "client_msg_id": "9c2f86d3-68f9-4b58-9e2f-fa0af9ad76e8",
       "type": "message",
       "text": "upstreamの更新頻度が低ければ-gitである必要そこまでないかな？とかは思いますね",
-      "user": "UUWBU08TU",
+      "user": "nyaarch64",
       "ts": "1649401479.066009",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -1964,7 +1964,7 @@
       "client_msg_id": "1e5c1bc4-f909-4d4b-8ca2-30c650c34bea",
       "type": "message",
       "text": "upstream の更新頻度が高いの前提なのですよね多分。",
-      "user": "U02BLTTQEL9",
+      "user": "buzz.taiki",
       "ts": "1649401458.472689",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -1989,7 +1989,7 @@
       "client_msg_id": "a43ebecf-06a4-4814-8e48-aa9b89dbb824",
       "type": "message",
       "text": "パッケージ投稿者と一般ユーザーがそれぞれ `pkgver` を上げられるので AUR なりなんなりで共有した時にバージョンの一貫性が取れなくなるので壊れるのは仕方がない感じあります",
-      "user": "U0J2VATJA",
+      "user": "atnanasi",
       "ts": "1649401436.226059",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -2025,7 +2025,7 @@
       "client_msg_id": "5be1166f-e347-4805-83ef-7190cb5ce77e",
       "type": "message",
       "text": "PKGBUILD の変更を入れつつ upstream を更新した場合は `pkgrel` がそもそも上がらないですね",
-      "user": "U0J2VATJA",
+      "user": "atnanasi",
       "ts": "1649401397.772949",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -2060,7 +2060,7 @@
         {
           "name": "yes",
           "users": [
-            "U02BLTTQEL9"
+            "buzz.taiki"
           ],
           "count": 1
         }
@@ -2070,7 +2070,7 @@
       "client_msg_id": "a6a62250-91ba-410b-b16f-c7f6ee38adf7",
       "type": "message",
       "text": "私だったら、アップロードするときに手元の.SRCINFOの `pkgver` が上がっていたら `pkgrel` は1に戻しますね。ユーザーの更新タイミングでその更新が即時反映されない可能性はありますが、次のupstreamのリリースで反映されるはず&amp;&amp; `-git` なAURパッケージ使っているユーザーはその辺りの知識を求められると思っているので問題ないかと。",
-      "user": "UUWBU08TU",
+      "user": "nyaarch64",
       "ts": "1649401388.554109",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -2128,7 +2128,7 @@
       "reply_users_count": 1,
       "latest_reply": "1649401433.737409",
       "reply_users": [
-        "UUWBU08TU"
+        "nyaarch64"
       ],
       "is_locked": false,
       "subscribed": false
@@ -2136,7 +2136,7 @@
     {
       "type": "message",
       "text": "`pkgver` が変わったら `pkgrel` は 1 に戻しますよね？",
-      "user": "U257W41DW",
+      "user": "odknt",
       "ts": "1649401250.594359",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -2179,7 +2179,7 @@
       "client_msg_id": "063f94db-cb3d-47b9-ad16-122d09451b68",
       "type": "message",
       "text": "図が必要な気がしてきた。",
-      "user": "U02BLTTQEL9",
+      "user": "buzz.taiki",
       "ts": "1649401241.468869",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -2204,11 +2204,11 @@
       "client_msg_id": "942b542b-e273-4757-b2f7-711c51c103e4",
       "type": "message",
       "text": "新しくアップロードするまでは AUR の `PKGBUILD` は `r1` のままなので、`pkgver` が変わったら `pkgrel` は変えないのルールだと、ダメじゃありません？",
-      "user": "U02BLTTQEL9",
+      "user": "buzz.taiki",
       "ts": "1649401164.629129",
       "team": "T0GFBAM8C",
       "edited": {
-        "user": "U02BLTTQEL9",
+        "user": "buzz.taiki",
         "ts": "1649401187.000000"
       },
       "blocks": [
@@ -2276,11 +2276,11 @@
     {
       "type": "message",
       "text": "`makepkg` 後の PKGBUILD と AUR 側が `r5` のままで、PKGBUILD に手を入れた時は `pkgrel` を増やして AUR にアップロードする形でユーザー側も更新が検知されると思う",
-      "user": "U257W41DW",
+      "user": "odknt",
       "ts": "1649400863.697129",
       "team": "T0GFBAM8C",
       "edited": {
-        "user": "U257W41DW",
+        "user": "odknt",
         "ts": "1649401017.000000"
       },
       "blocks": [
@@ -2334,7 +2334,7 @@
       "client_msg_id": "8f06ff3f-bc5f-4598-bf12-6609a03b2324",
       "type": "message",
       "text": "`-git` パッケージの仕組みがあまり好きじゃないというか勝手にパッケージバージョン上げると容易に破綻するのでよくないんですよね、この場合だと多分 pkgver と pkgrel が一緒なので更新されない気がします",
-      "user": "U0J2VATJA",
+      "user": "atnanasi",
       "ts": "1649400859.324269",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -2366,7 +2366,7 @@
       "client_msg_id": "c748ff24-9da0-480f-829d-6c1d4e7ba860",
       "type": "message",
       "text": "なのかな？",
-      "user": "U02BLTTQEL9",
+      "user": "buzz.taiki",
       "ts": "1649400726.756379",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -2391,7 +2391,7 @@
       "client_msg_id": "3996899a-df92-4fe4-9489-58dd33cc4f88",
       "type": "message",
       "text": "あー、`makepkg -i` したときに同じバージョンで上書きになるだけだから別に構わないのか。",
-      "user": "U02BLTTQEL9",
+      "user": "buzz.taiki",
       "ts": "1649400698.513859",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -2427,7 +2427,7 @@
       "client_msg_id": "315c3c1c-ed0e-4fcf-8663-edb38b67900c",
       "type": "message",
       "text": "はい。",
-      "user": "U02BLTTQEL9",
+      "user": "buzz.taiki",
       "ts": "1649400661.633419",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -2452,7 +2452,7 @@
       "client_msg_id": "2c7ca977-b2ca-4fe7-aafc-66c91edfade7",
       "type": "message",
       "text": "`pkgver()` で自動更新してる奴ですか",
-      "user": "U0J2VATJA",
+      "user": "atnanasi",
       "ts": "1649400654.753369",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -2483,7 +2483,7 @@
     {
       "type": "message",
       "text": "前半の間に AUR にアップロードしてなければ困らないような？",
-      "user": "U257W41DW",
+      "user": "odknt",
       "ts": "1649400629.073629",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -2508,7 +2508,7 @@
       "client_msg_id": "246fa2f0-e50f-472a-9e4c-d84f4fae4526",
       "type": "message",
       "text": "-git ってユーザーがインストールするときも pkgver が変わるので",
-      "user": "U02BLTTQEL9",
+      "user": "buzz.taiki",
       "ts": "1649400568.954949",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -2533,7 +2533,7 @@
       "client_msg_id": "27adcfd1-dee9-490f-9ff8-a31a1dc7b958",
       "type": "message",
       "text": "手元で勝手に上げられたらどうしようもないのは `-git` なパッケージに限らないと思います",
-      "user": "U0J2VATJA",
+      "user": "atnanasi",
       "ts": "1649400542.876399",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -2569,7 +2569,7 @@
       "client_msg_id": "9e22ba69-ac75-44c9-8f5b-227953d156fa",
       "type": "message",
       "text": "&gt; AUR 検索しても基本 pkgrel は 1 なので、\nそうなんですよね。。",
-      "user": "U02BLTTQEL9",
+      "user": "buzz.taiki",
       "ts": "1649400475.862109",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -2603,7 +2603,7 @@
       "client_msg_id": "6c441bc2-f9b7-448d-a100-32fba4a8500b",
       "type": "message",
       "text": "ってならないかな。",
-      "user": "U02BLTTQEL9",
+      "user": "buzz.taiki",
       "ts": "1649400442.036529",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -2628,11 +2628,11 @@
       "client_msg_id": "a2c6564f-1e78-4386-9ec1-25c6e88f7890",
       "type": "message",
       "text": "AUR Helper を使わない場合を考えると\n\nまずメンテナが AUR にパッケージを公開する\n• このときの pkgver は r1 とする\n次にユーザーがこれを使う\n• `-git` な PKGBUILD をダウンロード\n• makepkg した結果 pkgver が r1 になる。\n• AUR から都度ダウンロードしつつ手元で何度か更新する\n• 結果 r5 になった。\nこの間 AUR 側の PKGBUILD の更新がなかったとする。\n\nで、その後メンテナが PKGBUILD に手を入れた\n• この時の upstream のバージョンは r5 だったとする\n• AUR にアップロードされる pkgver は r5 になる\nその後またユーザーが更新しようとする、\n• AUR から新しい PKGBUILD を取ってくる\n• pkgver が変わってないから更新されない",
-      "user": "U02BLTTQEL9",
+      "user": "buzz.taiki",
       "ts": "1649400430.692149",
       "team": "T0GFBAM8C",
       "edited": {
-        "user": "U02BLTTQEL9",
+        "user": "buzz.taiki",
         "ts": "1649400534.000000"
       },
       "blocks": [
@@ -2804,7 +2804,7 @@
       "client_msg_id": "224f6f40-d1c5-42c6-977f-8f76d369d42b",
       "type": "message",
       "text": "そうですね、こちら都合のバージョンアップは pkgrel 上げるのが良いと思います",
-      "user": "U0J2VATJA",
+      "user": "atnanasi",
       "ts": "1649400310.194349",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -2828,7 +2828,7 @@
     {
       "type": "message",
       "text": "AUR 検索しても基本 pkgrel は 1 なので、 `pkgver` が変わらなかったら `pkgrel` 上げるのでよさそう",
-      "user": "U257W41DW",
+      "user": "odknt",
       "ts": "1649400255.764319",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -2875,7 +2875,7 @@
       "client_msg_id": "b22fa0d2-fdcd-4872-a7cd-a9e475483f3d",
       "type": "message",
       "text": "upstream の変更は pkgver を上げて対応、PKGBUILD などこちら側の変更は pkgrel を上げて対応、pkgver を上げたら pkgrel は1に戻す、のが基本だと思います",
-      "user": "U0J2VATJA",
+      "user": "atnanasi",
       "ts": "1649400206.207049",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -2899,7 +2899,7 @@
     {
       "type": "message",
       "text": "AUR に PKGBUILD を push したタイミングで更新されてることが確認できる形であればいいので、上げ続ける必要はないはず。\nただ、上げ続けても別に不都合はないとは思います。",
-      "user": "U257W41DW",
+      "user": "odknt",
       "ts": "1649400143.806369",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -2924,7 +2924,7 @@
       "client_msg_id": "fb3c75e1-47f4-4ef8-95fd-0253251987aa",
       "type": "message",
       "text": "pkgver についてはそれで正しいはず。",
-      "user": "U02BLTTQEL9",
+      "user": "buzz.taiki",
       "ts": "1649400069.655429",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -2949,7 +2949,7 @@
       "client_msg_id": "feed539f-7f4d-4831-b5f0-355f10df7424",
       "type": "message",
       "text": "<https://aur.archlinux.org/cgit/aur.git/tree/PKGBUILD?h=aur-auto-vote-git#n22>\npkgver は git から都度生成するのが正しいのかな",
-      "user": "U0PM6EYR1",
+      "user": "raa0121",
       "ts": "1649400040.939869",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -2977,7 +2977,7 @@
         {
           "name": "+1",
           "users": [
-            "U70QDFN82"
+            "yutakatay"
           ],
           "count": 1
         }
@@ -2987,7 +2987,7 @@
       "client_msg_id": "faf8d410-2b5d-44ab-9604-8e775b88c92d",
       "type": "message",
       "text": "うーん、そういう事なのかな。",
-      "user": "U02BLTTQEL9",
+      "user": "buzz.taiki",
       "ts": "1649399906.166619",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -3012,7 +3012,7 @@
       "client_msg_id": "9deb595b-4d5f-41c4-83d9-35fe60d23042",
       "type": "message",
       "text": "super_unko-git の場合だと、pkgver が埋め込んであるから、この場合は、pkgverを変更して、aur リポジトリに入れる場合は pkgrel=1 で、pkgver の変更がなく、(たとえば conflicts を入れるなど)他の変更の場合は、pkgrel=2 にするってことでしょう。",
-      "user": "U0H9QUFA5",
+      "user": "kusanaginoturugi",
       "ts": "1649399822.240839",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -3037,7 +3037,7 @@
       "client_msg_id": "bd7bf2ca-d870-4408-bedb-086c12ac9217",
       "type": "message",
       "text": "なので、やはり `pkgrel` は上げるでよい気してきた。",
-      "user": "U02BLTTQEL9",
+      "user": "buzz.taiki",
       "ts": "1649399807.127069",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -3073,7 +3073,7 @@
       "client_msg_id": "a3573cce-bb55-4ff6-a229-77612d764cf7",
       "type": "message",
       "text": "&gt; 依存関係, URL, ソースなどの変更を行なったことで作られるパッケージが異なるようになった時は `pkgrel` の値を増やして下さい。`pkgver` を変える必要はありません。\n",
-      "user": "U02BLTTQEL9",
+      "user": "buzz.taiki",
       "ts": "1649399680.013419",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -3124,11 +3124,11 @@
       "client_msg_id": "e2f80c9c-dd51-421e-843f-b59427193385",
       "type": "message",
       "text": "あれ、でもユーザーの手元の PKGBUILD の pkgverが makepkg した結果上がって、 更新された AUR 側の PKGBUILD の pkgver と衝突した場合困らないのかな。",
-      "user": "U02BLTTQEL9",
+      "user": "buzz.taiki",
       "ts": "1649399238.875159",
       "team": "T0GFBAM8C",
       "edited": {
-        "user": "U02BLTTQEL9",
+        "user": "buzz.taiki",
         "ts": "1649399522.000000"
       },
       "blocks": [
@@ -3152,7 +3152,7 @@
     {
       "type": "message",
       "text": "<https://wiki.archlinux.jp/index.php/VCS_%E3%83%91%E3%83%83%E3%82%B1%E3%83%BC%E3%82%B8%E3%82%AC%E3%82%A4%E3%83%89%E3%83%A9%E3%82%A4%E3%83%B3>",
-      "user": "U257W41DW",
+      "user": "odknt",
       "ts": "1649399156.446259",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -3176,7 +3176,7 @@
     {
       "type": "message",
       "text": "なので基本 1 固定になりそう",
-      "user": "U257W41DW",
+      "user": "odknt",
       "ts": "1649399133.614689",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -3201,7 +3201,7 @@
       "client_msg_id": "649f2a40-577e-4a9e-ac84-43d74ba507f2",
       "type": "message",
       "text": "なるほど。それでいいのか。",
-      "user": "U02BLTTQEL9",
+      "user": "buzz.taiki",
       "ts": "1649399115.844299",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -3226,7 +3226,7 @@
       "client_msg_id": "62166545-ab4d-406b-a6a6-291d6c8647e5",
       "type": "message",
       "text": "-git  を makepkg すると PKGBULID の pkgver が変わりますよね。",
-      "user": "U02BLTTQEL9",
+      "user": "buzz.taiki",
       "ts": "1649399097.947069",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -3250,7 +3250,7 @@
     {
       "type": "message",
       "text": "`makepkg` 時に自動で `pkgver` 書き変わるので、その時作られるパッケージが変わるのに `pkgver` が同じな時に増やすイメージ",
-      "user": "U257W41DW",
+      "user": "odknt",
       "ts": "1649399094.005609",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -3304,7 +3304,7 @@
       "client_msg_id": "d8bf4ab8-ae41-44e8-be6d-2463deac8cc1",
       "type": "message",
       "text": "バージョンがかわったら1に戻すと思うけど、-git だとバージョンかわらないのかなと思った。バージョンがかわるなら 1 に戻しますね。",
-      "user": "U0H9QUFA5",
+      "user": "kusanaginoturugi",
       "ts": "1649398999.136089",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -3329,7 +3329,7 @@
       "client_msg_id": "885c34b5-66c7-4bf9-b90f-8023e89eed46",
       "type": "message",
       "text": "SRCINFO を見ている？",
-      "user": "U02BLTTQEL9",
+      "user": "buzz.taiki",
       "ts": "1649398978.659389",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -3353,7 +3353,7 @@
     {
       "type": "message",
       "text": "`pkgrel` は普通の PKGBUILD と同じ扱いだったと思う（1 に戻す）",
-      "user": "U257W41DW",
+      "user": "odknt",
       "ts": "1649398882.600779",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -3385,7 +3385,7 @@
       "client_msg_id": "64770017-fcd2-4065-88f1-830df5370b71",
       "type": "message",
       "text": "ほんとだ。後から生えてきてた。",
-      "user": "U02BLTTQEL9",
+      "user": "buzz.taiki",
       "ts": "1649398837.006419",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -3410,7 +3410,7 @@
       "client_msg_id": "4f3d2751-c126-4495-8541-0ec60304801b",
       "type": "message",
       "text": "super_unko、こどもの Linux 教育に最適やな。",
-      "user": "U0H9QUFA5",
+      "user": "kusanaginoturugi",
       "ts": "1649398552.953679",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -3435,7 +3435,7 @@
       "client_msg_id": "43d38fe8-5273-4d6d-84c3-556a0ebec37f",
       "type": "message",
       "text": "conflicts=(super_unko) を入れた方がいいね。",
-      "user": "U0H9QUFA5",
+      "user": "kusanaginoturugi",
       "ts": "1649398494.499879",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -3460,7 +3460,7 @@
       "client_msg_id": "93cbf127-46ca-4994-8384-18ff99641335",
       "type": "message",
       "text": "ちょっとひどい。",
-      "user": "U02BLTTQEL9",
+      "user": "buzz.taiki",
       "ts": "1649398083.993639",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -3485,7 +3485,7 @@
       "client_msg_id": "252f1519-8f13-4839-b0bb-3b6971a27fe2",
       "type": "message",
       "text": "べんり。\n\n```❱❱ unko.toilet うんこLinux\n        💩\n          💩💩\n                                    💩                        💩                                        💩\n        💩💩💩💩                      💩                        💩💩💩💩💩            💩\n    💩💩        💩                    💩                              💩              💩\n                💩                  💩                                                💩            💩💩💩        💩  💩💩      💩      💩    💩      💩\n                💩                  💩                                                💩                💩        💩💩    💩    💩      💩      💩  💩\n                💩                💩💩💩                    💩                        💩                💩        💩      💩    💩      💩      💩💩💩\n              💩                  💩    💩                  💩                        💩                💩        💩      💩    💩      💩        💩\n              💩                💩      💩      💩            💩          💩          💩                💩        💩      💩    💩      💩      💩💩💩\n            💩                  💩      💩    💩                💩💩💩💩💩            💩                💩        💩      💩    💩    💩💩      💩  💩\n          💩                  💩          💩💩                                        💩💩💩💩💩💩  💩💩💩💩💩    💩      💩      💩💩  💩    💩      💩```",
-      "user": "U02BLTTQEL9",
+      "user": "buzz.taiki",
       "ts": "1649398073.017389",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -3519,8 +3519,8 @@
         {
           "name": "hankey",
           "users": [
-            "UGA29R3FH",
-            "U0H9QUFA5"
+            "znmxodq1",
+            "kusanaginoturugi"
           ],
           "count": 2
         }
@@ -3530,7 +3530,7 @@
       "client_msg_id": "669bbf3c-a478-4d1f-b387-8ab3a38e151c",
       "type": "message",
       "text": "ナイス:hankey:",
-      "user": "U0H9QUFA5",
+      "user": "kusanaginoturugi",
       "ts": "1649397624.569169",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -3560,7 +3560,7 @@
       "client_msg_id": "9d2cd542-c77b-4b79-be39-892d48e5542f",
       "type": "message",
       "text": "前 <https://aur.archlinux.org/packages/super_unko-git> とか作った。",
-      "user": "U02BLTTQEL9",
+      "user": "buzz.taiki",
       "ts": "1649397439.289209",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -3593,7 +3593,7 @@
       "client_msg_id": "2690e3e5-5e02-49ad-8b98-35523820720c",
       "type": "message",
       "text": "ですね。AUR って自分が使いたいからスクリプト書いて、ついでだからコミットするようなノリだしokok。",
-      "user": "U0H9QUFA5",
+      "user": "kusanaginoturugi",
       "ts": "1649397311.407709",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -3617,7 +3617,7 @@
         {
           "name": "wakaru",
           "users": [
-            "U02BLTTQEL9"
+            "buzz.taiki"
           ],
           "count": 1
         }
@@ -3627,7 +3627,7 @@
       "client_msg_id": "2fb70249-72be-486d-9866-67fd065a80de",
       "type": "message",
       "text": "多分同じ `pkgver` までバージョンが上がった人が、あたらしいコミットが出てくるまでインストールできない程度な気がする。",
-      "user": "U02BLTTQEL9",
+      "user": "buzz.taiki",
       "ts": "1649397218.092759",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -3663,7 +3663,7 @@
       "client_msg_id": "b28c0222-d648-4d95-84c5-c71bf8d49cfd",
       "type": "message",
       "text": "まあ、なんか問題あって怒られたら修正でええでしょ。",
-      "user": "U0H9QUFA5",
+      "user": "kusanaginoturugi",
       "ts": "1649397154.832589",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -3687,7 +3687,7 @@
         {
           "name": "sorena",
           "users": [
-            "U02BLTTQEL9"
+            "buzz.taiki"
           ],
           "count": 1
         }
@@ -3697,7 +3697,7 @@
       "client_msg_id": "d1cf8451-f19c-4635-a988-351f2bb22f05",
       "type": "message",
       "text": "ですよね。よかった。",
-      "user": "U02BLTTQEL9",
+      "user": "buzz.taiki",
       "ts": "1649397048.040119",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -3722,7 +3722,7 @@
       "client_msg_id": "72de288b-03c7-46e1-92c5-aa2890c28b81",
       "type": "message",
       "text": "で、いいと思います。",
-      "user": "U0H9QUFA5",
+      "user": "kusanaginoturugi",
       "ts": "1649397036.313359",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -3747,7 +3747,7 @@
       "client_msg_id": "67901940-ae5b-48a8-962f-94b4176624d6",
       "type": "message",
       "text": "`-git` なパッケージの `pkgrev` って `PKGBUILD` を書き換えたら上げ続ける (1 には戻らない) って事でいいんですかね？",
-      "user": "U02BLTTQEL9",
+      "user": "buzz.taiki",
       "ts": "1649396921.731399",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -3810,7 +3810,7 @@
           "mimetype": "image/png",
           "filetype": "png",
           "pretty_type": "PNG",
-          "user": "U0J2VATJA",
+          "user": "atnanasi",
           "editable": false,
           "size": 22904,
           "mode": "hosted",
@@ -3835,14 +3835,14 @@
           "original_w": 666,
           "original_h": 277,
           "thumb_tiny": "AwATADCc6fCATlzjsMUz7HEP4ZfyFXm6Gmc+j07gVDZQ5xtm/SnJYQtn/WjHrirWD6H86XH+yfzouBW/s6En7z/mKT+zof7z/mKtDI6Kfzpcn0/Wi4C0m1fQUtFIAAAGBRRRQAUUUUAf/9k=",
-          "permalink": "https://archlinuxjp.slack.com/files/U0J2VATJA/F03AFAN09U3/image.png",
+          "permalink": "https://archlinuxjp.slack.com/files/atnanasi/F03AFAN09U3/image.png",
           "permalink_public": "https://slack-files.com/T0GFBAM8C-F03AFAN09U3-6b277a923f",
           "is_starred": false,
           "has_rich_preview": false
         }
       ],
       "upload": false,
-      "user": "U0J2VATJA",
+      "user": "atnanasi",
       "display_as_bot": false,
       "ts": "1649286404.980809",
       "blocks": [
@@ -3872,9 +3872,9 @@
       "reply_users_count": 3,
       "latest_reply": "1649309754.457049",
       "reply_users": [
-        "UUWBU08TU",
-        "U03A6AXB8TG",
-        "U0J2VATJA"
+        "nyaarch64",
+        "january.fish",
+        "atnanasi"
       ],
       "is_locked": false,
       "subscribed": false,
@@ -3882,7 +3882,7 @@
         {
           "name": "eyes",
           "users": [
-            "UUWBU08TU",
+            "nyaarch64",
             "U3FJYR7MG"
           ],
           "count": 2
@@ -3893,24 +3893,24 @@
       "type": "message",
       "subtype": "channel_join",
       "ts": "1649260465.092909",
-      "user": "U03A6AXB8TG",
-      "text": "<@U03A6AXB8TG>さんがチャンネルに参加しました"
+      "user": "january.fish",
+      "text": "<@january.fish>さんがチャンネルに参加しました"
     },
     {
       "type": "message",
       "subtype": "channel_join",
       "ts": "1649058771.143769",
-      "user": "U039UGRGDU5",
-      "text": "<@U039UGRGDU5>さんがチャンネルに参加しました",
+      "user": "mitsugu.oyama",
+      "text": "<@mitsugu.oyama>さんがチャンネルに参加しました",
       "reactions": [
         {
           "name": "archjp-joy",
           "users": [
             "U02HC93TJEP",
             "U01HE1ENNJZ",
-            "U02BLTTQEL9",
-            "U0GFBAM8U",
-            "UGA29R3FH"
+            "buzz.taiki",
+            "syui",
+            "znmxodq1"
           ],
           "count": 5
         }
@@ -3920,7 +3920,7 @@
       "client_msg_id": "720df9d4-f87f-4a0f-a888-b6a6a8c58deb",
       "type": "message",
       "text": "ちょっと面白い。\n```proc nimnimnim(): string =\n  \"ok\"\n\necho nimnimnim()\necho nimNimNim()\necho nim_nim_nim()\necho nim_nimnim()\necho niMniMnim()```\n",
-      "user": "U02BLTTQEL9",
+      "user": "buzz.taiki",
       "ts": "1649050589.234649",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -3958,7 +3958,7 @@
         {
           "name": "slightly_smiling_face",
           "users": [
-            "U03A6AXB8TG"
+            "january.fish"
           ],
           "count": 1
         }
@@ -3968,7 +3968,7 @@
       "client_msg_id": "5b1c2435-152d-4e2d-96b5-fd9a6c787364",
       "type": "message",
       "text": "現状これっていう適用範囲がないところがつらみですよね・・・ツールからちょこちょこ作っていって侵食していくしかない",
-      "user": "U70QDFN82",
+      "user": "yutakatay",
       "ts": "1649043906.688619",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -3992,7 +3992,7 @@
         {
           "name": "wakaru",
           "users": [
-            "U02BLTTQEL9",
+            "buzz.taiki",
             "U6DL9D3AB"
           ],
           "count": 2
@@ -4003,7 +4003,7 @@
       "client_msg_id": "d96a4186-82df-4c4a-a161-9df2a10342e1",
       "type": "message",
       "text": "ちょっとしたスクリプトを型の助けを得ながら書くのに良さそうかもとか思いました。",
-      "user": "U02BLTTQEL9",
+      "user": "buzz.taiki",
       "ts": "1649043828.807399",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -4028,7 +4028,7 @@
       "client_msg_id": "5BC31E4F-142A-435F-A7E1-4C898BD69814",
       "type": "message",
       "text": "便利",
-      "user": "U0GFBAM8U",
+      "user": "syui",
       "ts": "1649043754.732639",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -4053,7 +4053,7 @@
       "client_msg_id": "34bece61-e3fd-42d9-9263-95a4139bfa48",
       "type": "message",
       "text": "nim流行ってほしい。nim scriptもあるし他の言語とはちょっと切り口が違うところがいい",
-      "user": "U70QDFN82",
+      "user": "yutakatay",
       "ts": "1649043710.942429",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -4078,7 +4078,7 @@
       "client_msg_id": "ad98423e-0c0d-46ac-9fd9-e870bfa02933",
       "type": "message",
       "text": "nimnimするとmnimniする。",
-      "user": "U02BLTTQEL9",
+      "user": "buzz.taiki",
       "ts": "1649043700.658869",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -4103,7 +4103,7 @@
       "client_msg_id": "379349BD-B844-4509-A0A8-00A4CCFA0E6B",
       "type": "message",
       "text": "nimが話題になり始めてる\n先取り力",
-      "user": "U0GFBAM8U",
+      "user": "syui",
       "ts": "1649043684.054199",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -4132,7 +4132,7 @@
       "client_msg_id": "b9356964-7449-4247-b25e-a437c6a0e39e",
       "type": "message",
       "text": "むにむにしたNim",
-      "user": "U0PM6EYR1",
+      "user": "raa0121",
       "ts": "1649043533.038609",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -4157,7 +4157,7 @@
       "client_msg_id": "6709a0b0-8e7d-404a-89df-f208f85a0894",
       "type": "message",
       "text": "いいタイミング。",
-      "user": "U02BLTTQEL9",
+      "user": "buzz.taiki",
       "ts": "1649043430.249519",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -4182,7 +4182,7 @@
       "client_msg_id": "7ec96833-b269-44ec-9b9b-55b1c0fbe16a",
       "type": "message",
       "text": "<https://zenn.dev/dumblepy/articles/b475b3b4f7d0da>",
-      "user": "U70QDFN82",
+      "user": "yutakatay",
       "ts": "1649035527.431379",
       "team": "T0GFBAM8C",
       "attachments": [

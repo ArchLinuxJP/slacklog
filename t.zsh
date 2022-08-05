@@ -89,5 +89,29 @@ do
 done
 }
 
+name_rewrite(){
+	t=`ls $d/20*.json`
+	n=`echo "$t"|wc -l`
+	for ((i=1;i<=$n;i++))
+	do
+		tt=`echo "$t"|awk "NR==$i"`
+		ttt=`cat $tt |jq -r ".messages|.[].user"|sort|uniq`
+		if [ -n "$ttt" ];then
+		nn=`echo "$ttt"|wc -l`
+		for ((ii=1;ii<=$nn;ii++))
+		do
+			id=`echo "$ttt"|awk "NR==$ii"`
+			name=`cat $d/user.json|jq -r ".members|.[]|select(.id == \"$id\")|.name"`
+			if [ "$id" != "null" ];then
+				echo $id $name
+				echo sed -i \"\" \"s/$id/$name/g\" $tt
+				sed -i "" "s/$id/$name/g" $tt
+			fi
+		done
+		fi
+	done
+}
+
 user_json
 slack_log
+name_rewrite

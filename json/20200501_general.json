@@ -7,7 +7,7 @@
       "client_msg_id": "32c292f8-9b74-4549-ad9e-157fc03dbbec",
       "type": "message",
       "text": "VMとかでありがちなのが、resolve.conf が書き換わって、DNSが引けないとかですかね",
-      "user": "U0PM6EYR1",
+      "user": "raa0121",
       "ts": "1591010840.296100",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -32,7 +32,7 @@
       "client_msg_id": "d45efd41-58af-4c5d-9ca2-2e992e49bbc5",
       "type": "message",
       "text": "リポジトリも git clone できましたね",
-      "user": "U0PM6EYR1",
+      "user": "raa0121",
       "ts": "1591010796.295400",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -56,7 +56,7 @@
         {
           "name": "man-bowing",
           "users": [
-            "UUD5R0W8G"
+            "vector008200072"
           ],
           "count": 1
         }
@@ -66,7 +66,7 @@
       "client_msg_id": "B6AA0CD5-C580-4760-8D98-77C22098AC38",
       "type": "message",
       "text": "本当ですか… 教えて頂き有難う御座います　調べてみます",
-      "user": "UUD5R0W8G",
+      "user": "vector008200072",
       "ts": "1591010379.294800",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -91,7 +91,7 @@
       "client_msg_id": "cbdfbfcc-220d-483a-9a9d-3f1aa06e4925",
       "type": "message",
       "text": "僕のところも繋がります",
-      "user": "USSBNDE68",
+      "user": "jnsk",
       "ts": "1591010343.294000",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -115,7 +115,7 @@
         {
           "name": "man-bowing",
           "users": [
-            "UUD5R0W8G"
+            "vector008200072"
           ],
           "count": 1
         }
@@ -125,7 +125,7 @@
       "client_msg_id": "e11c2bd5-7fc1-4eeb-afce-1484da48bb4b",
       "type": "message",
       "text": "つながりますね",
-      "user": "UUWBU08TU",
+      "user": "nyaarch64",
       "ts": "1591010329.293500",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -149,7 +149,7 @@
         {
           "name": "man-bowing",
           "users": [
-            "UUD5R0W8G"
+            "vector008200072"
           ],
           "count": 1
         }
@@ -159,7 +159,7 @@
       "client_msg_id": "759B5B33-1201-4969-A76C-2D2869B3328F",
       "type": "message",
       "text": "<http://aur.archlinux.org|aur.archlinux.org>にタイムアウトして繋げないのは自分だけでしょうか？",
-      "user": "UUD5R0W8G",
+      "user": "vector008200072",
       "ts": "1591010274.293100",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -189,7 +189,7 @@
       "client_msg_id": "53ffc040-aca9-4db5-9096-0cc7b2395da1",
       "type": "message",
       "text": "まぁ、根本を修正するなら、configure のタイミングで gcc のバージョンを確認して、fcommon つけるようにするのが正しいのかな",
-      "user": "U0PM6EYR1",
+      "user": "raa0121",
       "ts": "1590715862.289600",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -214,7 +214,7 @@
       "client_msg_id": "0d44c186-6d3f-4343-8004-b0c554f87f88",
       "type": "message",
       "text": ":wakarite:",
-      "user": "U3FJYR7MG",
+      "user": "dohq",
       "ts": "1590715581.288500",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -239,7 +239,7 @@
       "client_msg_id": "ce0b4d83-7c48-440f-ad10-381eeed27aad",
       "type": "message",
       "text": "あと別の人があげた修正例をまんまPRするのって倫理的に気が引けるんですよね・・・",
-      "user": "U70QDFN82",
+      "user": "yutakatay",
       "ts": "1590715484.288300",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -264,7 +264,7 @@
       "client_msg_id": "0cfba7a2-73d2-477b-ae3f-d31fe0f1b7fe",
       "type": "message",
       "text": "PRくれよな!!(このプロジェクトそんなに面倒見てないけど)\nって言ってるけどちゃんとマージしてくれるかすら微妙に心配ですね",
-      "user": "U3FJYR7MG",
+      "user": "dohq",
       "ts": "1590715417.287200",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -289,7 +289,7 @@
       "client_msg_id": "b962afd0-1e94-4b4e-8f22-8d5c791e80b1",
       "type": "message",
       "text": "あ、そうですね。それでコンパイルは通るようになります。\nただそれだけなのにupstream側が対応してくれないって話しでした。わかりにくくてすみません。。。",
-      "user": "U70QDFN82",
+      "user": "yutakatay",
       "ts": "1590715253.285900",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -314,7 +314,7 @@
       "client_msg_id": "96b55a2f-f1c1-4d1c-a725-1cb12209c6bb",
       "type": "message",
       "text": "実行時マクロ定義ですね",
-      "user": "U0PM6EYR1",
+      "user": "raa0121",
       "ts": "1590715030.284200",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -338,8 +338,8 @@
     {
       "client_msg_id": "9d639686-b41e-4946-9086-f831c800d139",
       "type": "message",
-      "text": "<@U70QDFN82> 今手元に arch環境無いから、テストできてないけど、 make install してるところの引数 に `CFLAGS=-fcommon` 足したらどうでしょう\n<https://aur.archlinux.org/cgit/aur.git/tree/PKGBUILD?h=light-git#n31>",
-      "user": "U0PM6EYR1",
+      "text": "<@yutakatay> 今手元に arch環境無いから、テストできてないけど、 make install してるところの引数 に `CFLAGS=-fcommon` 足したらどうでしょう\n<https://aur.archlinux.org/cgit/aur.git/tree/PKGBUILD?h=light-git#n31>",
+      "user": "raa0121",
       "ts": "1590714985.283900",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -352,7 +352,7 @@
               "elements": [
                 {
                   "type": "user",
-                  "user_id": "U70QDFN82"
+                  "user_id": "yutakatay"
                 },
                 {
                   "type": "text",
@@ -383,7 +383,7 @@
       "client_msg_id": "bda0949d-fcc6-4191-a7b1-121aef0d3e63",
       "type": "message",
       "text": "これが原因でAURのlight-gitがここ１週間ずっとビルドエラーになるのつらい・・・\n<https://github.com/haikarainen/light/issues/107>",
-      "user": "U70QDFN82",
+      "user": "yutakatay",
       "ts": "1590713207.281800",
       "team": "T0GFBAM8C",
       "attachments": [
@@ -428,7 +428,7 @@
       "client_msg_id": "c17cbd50-16d0-4fc2-869f-e3be9c7156d7",
       "type": "message",
       "text": "Gitlab構築中の皆様へ\n日本語Wikiの更新が遅れているのでUnicornからPumaに変更についての情報が欠けています。\nおそらく日本語Wikiを参照しても構築は難しいと思います。\nよろしくおねがいします。",
-      "user": "U7NBCFT1S",
+      "user": "no97yuu",
       "ts": "1590542315.280500",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -459,7 +459,7 @@
         {
           "name": "bow",
           "users": [
-            "UUWBU08TU"
+            "nyaarch64"
           ],
           "count": 1
         }
@@ -469,22 +469,22 @@
       "type": "message",
       "subtype": "channel_join",
       "ts": "1590109541.278000",
-      "user": "U014G414FLZ",
-      "text": "<@U014G414FLZ>さんがチャンネルに参加しました"
+      "user": "kawasima1016",
+      "text": "<@kawasima1016>さんがチャンネルに参加しました"
     },
     {
       "type": "message",
       "subtype": "channel_join",
       "ts": "1589696783.277600",
-      "user": "U013L1JQ0J2",
-      "text": "<@U013L1JQ0J2>さんがチャンネルに参加しました"
+      "user": "e17266",
+      "text": "<@e17266>さんがチャンネルに参加しました"
     },
     {
       "type": "message",
       "subtype": "channel_join",
       "ts": "1589642324.277400",
-      "user": "U013KL91BV4",
-      "text": "<@U013KL91BV4>さんがチャンネルに参加しました",
+      "user": "eai",
+      "text": "<@eai>さんがチャンネルに参加しました",
       "reactions": [
         {
           "name": "muscle",
@@ -499,14 +499,14 @@
       "type": "message",
       "subtype": "thread_broadcast",
       "text": "なんかまた頻発かつ長距離移動するようになってきた。。。つらい・・・",
-      "user": "U70QDFN82",
+      "user": "yutakatay",
       "ts": "1589201278.272300",
       "thread_ts": "1587613691.203000",
       "root": {
         "client_msg_id": "865ec75b-0816-44de-a4c9-071cdd1fe55b",
         "type": "message",
         "text": "カーソルがある地点を目指して自動で進んでいくんですよねw そこに到達するまでカーソルのコントロールができなくなりますw\n\nさっきカーネルの更新したら今のところ発生しなくなりましたね。",
-        "user": "U70QDFN82",
+        "user": "yutakatay",
         "ts": "1587613691.203000",
         "team": "T0GFBAM8C",
         "blocks": [
@@ -531,7 +531,7 @@
         "reply_users_count": 2,
         "latest_reply": "1589336698.276700",
         "reply_users": [
-          "U70QDFN82",
+          "yutakatay",
           "U6Y9PK6DB"
         ],
         "is_locked": false,
@@ -569,21 +569,21 @@
       "type": "message",
       "subtype": "channel_join",
       "ts": "1589196271.272200",
-      "user": "U01370MAHLN",
-      "text": "<@U01370MAHLN>さんがチャンネルに参加しました"
+      "user": "hm",
+      "text": "<@hm>さんがチャンネルに参加しました"
     },
     {
       "type": "message",
       "subtype": "channel_join",
       "ts": "1589004406.272000",
-      "user": "U013AD25ULD",
-      "text": "<@U013AD25ULD>さんがチャンネルに参加しました"
+      "user": "noahzark2525",
+      "text": "<@noahzark2525>さんがチャンネルに参加しました"
     },
     {
       "client_msg_id": "222cd28c-9290-4439-b72f-a4a63e788047",
       "type": "message",
       "text": "ベンチ取ったことはないので正確には分かりませんが\n<https://liquorix.net>\nを見る限りハードウェア制御周りは結構チューニングされているようです\n少なくとも重くなった感じはありませんね",
-      "user": "UVB7L4CKH",
+      "user": "tatsumigamou",
       "ts": "1588994509.271600",
       "team": "T0GFBAM8C",
       "attachments": [
@@ -628,7 +628,7 @@
         {
           "name": "man-bowing",
           "users": [
-            "U70QDFN82"
+            "yutakatay"
           ],
           "count": 1
         }
@@ -638,7 +638,7 @@
       "client_msg_id": "8d029858-a6ba-4845-bfef-9429089abba4",
       "type": "message",
       "text": "zen前から興味あるんですが体感で結構パフォーマンス違うものですか？？",
-      "user": "U70QDFN82",
+      "user": "yutakatay",
       "ts": "1588994208.270700",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -663,7 +663,7 @@
       "client_msg_id": "a57e470e-a405-46db-a5ff-c63bb8efad50",
       "type": "message",
       "text": "今まさにするの忘れてて焦ってたんですけど、ちゃんと起動してくれました",
-      "user": "U0108ASA482",
+      "user": "watakushide.kakusanak",
       "ts": "1588992894.270000",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -688,11 +688,11 @@
       "client_msg_id": "b7f1598c-4e37-4244-ab43-cd4328c515d1",
       "type": "message",
       "text": "bootctl updateも特にやらなくて大丈夫かと\n起動時にentries配下勝手に読んでくれる(はず)ので",
-      "user": "U3FJYR7MG",
+      "user": "dohq",
       "ts": "1588991764.269100",
       "team": "T0GFBAM8C",
       "edited": {
-        "user": "U3FJYR7MG",
+        "user": "dohq",
         "ts": "1588991784.000000"
       },
       "blocks": [
@@ -717,7 +717,7 @@
       "client_msg_id": "ffb599ae-8151-48e1-a41a-b1882c9f1b8e",
       "type": "message",
       "text": "カーネルを追加されるならついでにLTSカーネルも入れておくとカーネル依存の不具合があった時に便利ですよ\n最新カーネルは時々起動しなくなったりしますから",
-      "user": "UVB7L4CKH",
+      "user": "tatsumigamou",
       "ts": "1588990981.267000",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -742,7 +742,7 @@
       "client_msg_id": "7026fa2e-04f0-4b45-acbf-36903b59e294",
       "type": "message",
       "text": "ありがとうございます！早速インストールしてみます",
-      "user": "U0108ASA482",
+      "user": "watakushide.kakusanak",
       "ts": "1588990558.265500",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -767,7 +767,7 @@
       "client_msg_id": "cae29dd5-d12b-47ed-9b0b-ea3090f48ea9",
       "type": "message",
       "text": "確か自動でHookが設定されているのでいらなかったはずです",
-      "user": "UVB7L4CKH",
+      "user": "tatsumigamou",
       "ts": "1588990476.265100",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -792,7 +792,7 @@
       "client_msg_id": "a38e406e-84fd-44ac-8b27-013675f3d00a",
       "type": "message",
       "text": "あ、`mkinitcpio -p linux-zen`　も要るんでしょうか",
-      "user": "U0108ASA482",
+      "user": "watakushide.kakusanak",
       "ts": "1588990360.264400",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -828,7 +828,7 @@
       "client_msg_id": "812a1501-3702-466d-8a56-e58c95b7ad9a",
       "type": "message",
       "text": "ありがとうございます。PARTUUID指定で今動いてるのでやってみます。",
-      "user": "U0108ASA482",
+      "user": "watakushide.kakusanak",
       "ts": "1588990209.261900",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -853,7 +853,7 @@
       "client_msg_id": "87c6f0eb-b935-4949-8b3a-043b3bba8c7b",
       "type": "message",
       "text": "デフォルトのカーネルを消さない限り全く起動しなくなるという事はないはずなので、とりあえずそれで試してみると良いかと",
-      "user": "UVB7L4CKH",
+      "user": "tatsumigamou",
       "ts": "1588990192.261800",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -878,7 +878,7 @@
       "client_msg_id": "25c7bce7-dc70-4c63-8f98-493c9f0f0ac2",
       "type": "message",
       "text": "optionsの書き方だけ自分と違うのでなんとも言えませんが、他は僕と同じ設定なので、そのoptionsで今のカーネルが動いていればちゃんと動くはずです",
-      "user": "UVB7L4CKH",
+      "user": "tatsumigamou",
       "ts": "1588990065.259600",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -903,11 +903,11 @@
       "client_msg_id": "de210654-a123-441c-90ae-0f693146bd2d",
       "type": "message",
       "text": "初歩的な質問で申し訳ないのですが…\nzenカーネルを試したいなと思ってます。\n現在systemd-bootを使っているのですが、linux-zenをインストール後に以下のようなローダーを作成して、\n\n`title   arch linux (zen)`\n`linux   /vmlinuz-linux-zen`\n`initrd  /intel-ucode.img\ninitrd  /initramfs-linux-zen.img\noptions root=PARTUUID=xxxx rw`\n\nその後\n`sudo bootctl update`\n\nをすれば使えるようになりますか？\nよろしくお願いします。",
-      "user": "U0108ASA482",
+      "user": "watakushide.kakusanak",
       "ts": "1588989613.258300",
       "team": "T0GFBAM8C",
       "edited": {
-        "user": "U0108ASA482",
+        "user": "watakushide.kakusanak",
         "ts": "1588990150.000000"
       },
       "blocks": [

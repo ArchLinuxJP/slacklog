@@ -7,14 +7,14 @@
       "type": "message",
       "subtype": "thread_broadcast",
       "text": "これかなり色々なことができて面白そうですね\nPythonでライブコーディングできるのあたりがどんな感じか気になります\n• <https://youtu.be/NnrStjS4NhU|https://youtu.be/NnrStjS4NhU>\n• <https://gigazine.net/news/20210918-bespoke/|https://gigazine.net/news/20210918-bespoke/>",
-      "user": "U02ASPM0A6T",
+      "user": "yozigen",
       "ts": "1633035612.161500",
       "thread_ts": "1632022878.054100",
       "root": {
         "client_msg_id": "6164E25D-036B-43D3-B26A-F8DDA603205E",
         "type": "message",
         "text": "この前リリースされたシンセサイザーぽい、よさそう\n<https://github.com/awwbees/BespokeSynth/|https://github.com/awwbees/BespokeSynth/>",
-        "user": "U0GFBAM8U",
+        "user": "syui",
         "ts": "1632022878.054100",
         "team": "T0GFBAM8C",
         "attachments": [
@@ -61,7 +61,7 @@
         "reply_users_count": 1,
         "latest_reply": "1633035612.161500",
         "reply_users": [
-          "U02ASPM0A6T"
+          "yozigen"
         ],
         "is_locked": false,
         "subscribed": true,
@@ -155,22 +155,22 @@
       "type": "message",
       "subtype": "channel_join",
       "ts": "1632906717.159500",
-      "user": "U02GQTCTTFA",
-      "text": "<@U02GQTCTTFA>さんがチャンネルに参加しました"
+      "user": "onodaha",
+      "text": "<@onodaha>さんがチャンネルに参加しました"
     },
     {
       "type": "message",
       "subtype": "channel_join",
       "ts": "1632902782.159300",
-      "user": "U02FU8SPE30",
-      "text": "<@U02FU8SPE30>さんがチャンネルに参加しました",
+      "user": "ryokohbato",
+      "text": "<@ryokohbato>さんがチャンネルに参加しました",
       "reactions": [
         {
           "name": "archjp",
           "users": [
-            "U02ASPM0A6T",
-            "U017BNGTHT3",
-            "U02E11SNF0T"
+            "yozigen",
+            "s5is",
+            "kocumaza--"
           ],
           "count": 3
         }
@@ -180,11 +180,11 @@
       "client_msg_id": "53026cc8-a09b-4cef-b351-e9ce7e44df3b",
       "type": "message",
       "text": "ChromeBookの一部はarmでも実績があったはずですが、BIOS書き換え等の改造が必要だったり、動作確認が取れてるものは性能がショボかったりします。\nおまけに情報も古いです。(5年前とかが多い)\n\n「Arch Linuxが動作するarmデバイス」が欲しい\n「Arch Linuxが動作するタブレット型デバイス」が欲しい\n両方の条件を満たす現実的な物は現状無さそうなので、どちらかに絞ったほうが良さそうですね。\n普段使いしたいのか、遊んでみたいのかでも話は変わってくると思います。\n\n前者ならRaspberry Pi系が強いですし、タッチパネルを搭載することも可能です。\n一応タブレット化するプロジェクトも幾つかあります。(日本で入手可能なのかは不明)\n\n後者なら選択肢はそこそこあります。\nAtomなWindowsタブレットとかは中華Padに多いので、中古で買えば文鎮化しても財布に優しい範囲です。\n性能がそこそこ良いものも存在するはずです。",
-      "user": "U017BNGTHT3",
+      "user": "s5is",
       "ts": "1632846394.158200",
       "team": "T0GFBAM8C",
       "edited": {
-        "user": "U017BNGTHT3",
+        "user": "s5is",
         "ts": "1632847671.000000"
       },
       "blocks": [
@@ -208,19 +208,19 @@
         {
           "name": "sparkles",
           "users": [
-            "U02ASPM0A6T",
-            "U019C7VLZ4G",
-            "U01HE1ENNJZ",
-            "U02E11SNF0T"
+            "yozigen",
+            "getalotofmail",
+            "a3784197",
+            "kocumaza--"
           ],
           "count": 4
         },
         {
           "name": "sorena",
           "users": [
-            "U0PM6EYR1",
-            "U019C7VLZ4G",
-            "U3FJYR7MG"
+            "raa0121",
+            "getalotofmail",
+            "dohq"
           ],
           "count": 3
         }
@@ -230,7 +230,7 @@
       "client_msg_id": "3845c7fc-a7e1-482c-a1db-3c4fa8aba7ca",
       "type": "message",
       "text": "あんまり変わらない説もあるな…",
-      "user": "U019C7VLZ4G",
+      "user": "getalotofmail",
       "ts": "1632838988.137800",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -255,7 +255,7 @@
       "client_msg_id": "c489921e-cd85-46bf-9532-a4110695364e",
       "type": "message",
       "text": "頑張ってARM Androidタブレットで動くようにポーティングするのと、ARM ChromebookにLinux入れるの、どっちが大変なんでしょう",
-      "user": "U019C7VLZ4G",
+      "user": "getalotofmail",
       "ts": "1632838965.137200",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -280,7 +280,7 @@
       "client_msg_id": "891715be-ac72-4a8c-a49f-e1460b7b3bc4",
       "type": "message",
       "text": "<https://archlinuxarm.org/packages/armv7h/uboot-raspberrypi>\nubootってどんな感じなんだろうと思って覗いてみたのですがあまり分からず……。",
-      "user": "UUWBU08TU",
+      "user": "nyaarch64",
       "ts": "1632832379.133700",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -309,7 +309,7 @@
       "client_msg_id": "84f9a3e1-96de-48b2-a7b3-d40fd7373c8e",
       "type": "message",
       "text": "とりあえず、適当な中華Padとかどうですか？\n64bit Windows が入ってるタブレットPCなら、インストールすることは楽なはずです",
-      "user": "U0PM6EYR1",
+      "user": "raa0121",
       "ts": "1632831755.132900",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -334,7 +334,7 @@
       "client_msg_id": "93b72f1f-530a-486a-9ed1-299b7756a6f2",
       "type": "message",
       "text": "もしかして:Windows on ARMが流行れば選択肢増える?",
-      "user": "U019C7VLZ4G",
+      "user": "getalotofmail",
       "ts": "1632831212.131800",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -359,7 +359,7 @@
       "client_msg_id": "8c0ad2f3-81b8-49e6-9734-432dfff247d4",
       "type": "message",
       "text": "android特有の部分もあるから、結構関係無くなる所も多そうだけど、結局はandroidからandroidへのportingよりもlinuxへのportingの方が難しいだろうから知っていても損は無さそう",
-      "user": "U01J1GGMHDJ",
+      "user": "naokihirokitomoki",
       "ts": "1632829833.130800",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -384,7 +384,7 @@
       "client_msg_id": "378a2e05-ab57-4e35-aaae-6ff29d86474f",
       "type": "message",
       "text": "私的にはこれを全部理解する事ですかねぇ…（2016年から更新が止まってて笑ってる。需要の無さ…）\n<https://fat-tire.github.io/porting-intro.html|https://fat-tire.github.io/porting-intro.html>",
-      "user": "U01J1GGMHDJ",
+      "user": "naokihirokitomoki",
       "ts": "1632829432.127200",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -414,7 +414,7 @@
       "client_msg_id": "21caa195-de31-4791-9eea-4a4daa03b55d",
       "type": "message",
       "text": "C言語とかビルドシステムとかの知識とかは必要そうですが…Portingわからない。",
-      "user": "U017BNGTHT3",
+      "user": "s5is",
       "ts": "1632822850.125200",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -439,7 +439,7 @@
       "client_msg_id": "c99c1faf-7f05-4078-9e47-24afb44ceec0",
       "type": "message",
       "text": "神porterになるのに必要な知識ってどういうものでしょうか",
-      "user": "U019C7VLZ4G",
+      "user": "getalotofmail",
       "ts": "1632822701.124200",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -464,7 +464,7 @@
       "client_msg_id": "80d18742-22f8-423a-ae3b-d5b8e6640b16",
       "type": "message",
       "text": "神porting師だったら、こういう機種を参考にしてAndroidスマホからlinuxをporting、出来るのかなぁ（遠い目）",
-      "user": "U01J1GGMHDJ",
+      "user": "naokihirokitomoki",
       "ts": "1632810336.122700",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -489,7 +489,7 @@
       "client_msg_id": "1c1c4eaa-fe3d-40de-9914-a61c24335057",
       "type": "message",
       "text": "そういえばpinetab以外にも、jingpadってのもあったなぁって思い出したけど、これでもpinetabに毛が生えたレベルの性能しか無いのか:face_with_rolling_eyes:  高性能って高いハードルだった。\n\n世界初のコンシューマ用Linuxタブレット「JingPad」登場。Androidアプリも動作 - PC Watch <https://pc.watch.impress.co.jp/docs/news/1331776.html|https://pc.watch.impress.co.jp/docs/news/1331776.html>",
-      "user": "U01J1GGMHDJ",
+      "user": "naokihirokitomoki",
       "ts": "1632810232.120400",
       "team": "T0GFBAM8C",
       "attachments": [
@@ -546,11 +546,11 @@
       "client_msg_id": "8953791b-1e68-4732-b49c-f328b1f42318",
       "type": "message",
       "text": "仮想マシンとかChrootとかではない、素のLinuxが動いて最新の高性能ARM SoC搭載のタブレットほしいのですが道のりは険しそう:sob::sob:",
-      "user": "U019C7VLZ4G",
+      "user": "getalotofmail",
       "ts": "1632806447.117700",
       "team": "T0GFBAM8C",
       "edited": {
-        "user": "U019C7VLZ4G",
+        "user": "getalotofmail",
         "ts": "1632806505.000000"
       },
       "blocks": [
@@ -585,7 +585,7 @@
       "client_msg_id": "527e84bf-2a5e-41ff-91bc-6e988b45d6ae",
       "type": "message",
       "text": "Android(AOSP)も今後2年くらいでパッチをカーネルにマージしていくみたいな方針があるようなので、将来はもう少し状況が改善しそうではあります",
-      "user": "UUWBU08TU",
+      "user": "nyaarch64",
       "ts": "1632794729.114300",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -610,7 +610,7 @@
       "client_msg_id": "8e630d71-d2cb-441f-b3e1-1d87054d454c",
       "type": "message",
       "text": "私はRPiのuboot周りすらよく分かっていないのでいろいろ分かりたいですね……",
-      "user": "UUWBU08TU",
+      "user": "nyaarch64",
       "ts": "1632794649.113200",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -635,11 +635,11 @@
       "client_msg_id": "e6a4d88e-387d-41c8-9df6-7ca6eea0443f",
       "type": "message",
       "text": "&gt; ARMLinuxカーネルに取り込んでubootからそっちを起動して~とかいろいろする必要があります。\n&gt; \nこのあたりのLinuxのブートローダー周りのこととかあまり分かってないのでそのあたりの勉強をしたいというのもあります",
-      "user": "U019C7VLZ4G",
+      "user": "getalotofmail",
       "ts": "1632794484.112600",
       "team": "T0GFBAM8C",
       "edited": {
-        "user": "U019C7VLZ4G",
+        "user": "getalotofmail",
         "ts": "1632794612.000000"
       },
       "blocks": [
@@ -674,7 +674,7 @@
       "client_msg_id": "b585bf21-6dde-4794-a29b-45a97e62464f",
       "type": "message",
       "text": "ハードウェア情報サイト見ました。 xaomi 製のタブレットは特に見つからなかったです\n<https://linux-hardware.org/?view=computers>",
-      "user": "U02ASPM0A6T",
+      "user": "yozigen",
       "ts": "1632754742.110300",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -703,7 +703,7 @@
       "client_msg_id": "9dba7f41-a147-4276-9929-ecce3a6c74f8",
       "type": "message",
       "text": "&gt; 各種ドライバ(タッチパネルとかペン)\n過去に他のAtom入りタブレットとかで試したときは使えても座標がズレるとかあったので魔境だと思ってます…",
-      "user": "U017BNGTHT3",
+      "user": "s5is",
       "ts": "1632737712.108400",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -736,7 +736,7 @@
         {
           "name": "sorena",
           "users": [
-            "U3FJYR7MG"
+            "dohq"
           ],
           "count": 1
         }
@@ -746,7 +746,7 @@
       "client_msg_id": "20d189fa-92ea-47fe-a455-dd15d057f405",
       "type": "message",
       "text": "LinegeOSとか大手に取り込まれたりしたからか、最近はカスタムカーネル単品はあまり見なくなりましたねぇ…",
-      "user": "U3FJYR7MG",
+      "user": "dohq",
       "ts": "1632721193.105600",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -771,7 +771,7 @@
       "client_msg_id": "eb308c4e-63a1-401b-8b61-94dcc889f017",
       "type": "message",
       "text": "そういえば昔はスマホにカスタムカーネルを焼く、なんてのもありましたね",
-      "user": "UVB7L4CKH",
+      "user": "tatsumigamou",
       "ts": "1632721078.104700",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -796,7 +796,7 @@
       "client_msg_id": "24420ec1-959f-4583-be4e-e1dd1668a738",
       "type": "message",
       "text": "限らないですね。WiFiとかBluetoothなんかもそうです。\nなので基本的には製品モデル毎に専用のカーネルを使います。\nxiaomi製品はカーネルとかベンダーパッチ類公開してるのですがAndroid用(AOSP)なのでARMLinuxカーネルに取り込んでubootからそっちを起動して~とかいろいろする必要があります。",
-      "user": "U3FJYR7MG",
+      "user": "dohq",
       "ts": "1632720901.104200",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -821,7 +821,7 @@
       "client_msg_id": "99aa7386-b220-483c-a15e-c0b8fb3e3bc0",
       "type": "message",
       "text": "よくわかっていないのですが、Androidタブレットで使われている各種ドライバ(タッチパネルとかペン)ってLinuxカーネルupstreamに含まれているとは限らないということですか?",
-      "user": "U019C7VLZ4G",
+      "user": "getalotofmail",
       "ts": "1632717270.100600",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -846,7 +846,7 @@
       "client_msg_id": "21dbacfb-4675-4244-9a57-f54b92e7d572",
       "type": "message",
       "text": "&gt; Xiaomi Pad 5でArchArm\n本体インストールは普通に難易度高そうですね、ドライバ的にも動いたところで実用できるかは未知数…。\nUserLAnd+XSDLあたりを試す価値はありそう。",
-      "user": "U017BNGTHT3",
+      "user": "s5is",
       "ts": "1632699606.097400",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -880,7 +880,7 @@
       "client_msg_id": "0533f997-0f36-4f74-b697-c96f34dbc63d",
       "type": "message",
       "text": "文字通りのおもちゃなので性能据え置きなんですよねー",
-      "user": "UGA29R3FH",
+      "user": "znmxodq1",
       "ts": "1632638945.088000",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -905,7 +905,7 @@
       "client_msg_id": "ad0df8c6-0e77-4e2a-b07f-5e091ca2eec4",
       "type": "message",
       "text": "PinePhone、もうちょい性能高ければ…",
-      "user": "UGA29R3FH",
+      "user": "znmxodq1",
       "ts": "1632638914.087700",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -930,7 +930,7 @@
       "client_msg_id": "57736b58-6546-4af5-b8ff-092fe9f3115d",
       "type": "message",
       "text": "manjaroが動いてるというのであれば、流用できる可能性高そう",
-      "user": "U0GFBAM8U",
+      "user": "syui",
       "ts": "1632637404.087300",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -955,7 +955,7 @@
       "client_msg_id": "756628a7-1114-4622-90ab-2df1c1477d4f",
       "type": "message",
       "text": "それはよさそうですね",
-      "user": "U0GFBAM8U",
+      "user": "syui",
       "ts": "1632637379.086800",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -980,7 +980,7 @@
       "client_msg_id": "6536a0eb-c88b-48ab-abc4-033818306801",
       "type": "message",
       "text": "PinePhoneというLinux動くスマホがあってそれがManjaro ARMで動いてるのでそれを流用するのはどうなのでしょうか?",
-      "user": "U019C7VLZ4G",
+      "user": "getalotofmail",
       "ts": "1632637350.086600",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -1005,7 +1005,7 @@
       "client_msg_id": "f7f4458e-6df0-4fcd-8129-660ba06e06ae",
       "type": "message",
       "text": "というより改造が成功したら、もはやarchlinuxではなく、archベースのオリジナルos(custom rom)ということになりそう",
-      "user": "U0GFBAM8U",
+      "user": "syui",
       "ts": "1632636962.081900",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -1030,7 +1030,7 @@
       "client_msg_id": "32b8e302-2ed6-471f-babc-3529a7f616c0",
       "type": "message",
       "text": "タッチパネルあたりの処理は、やはりubuntuとか使ったほうがいいですしね",
-      "user": "U0GFBAM8U",
+      "user": "syui",
       "ts": "1632636570.080300",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -1055,7 +1055,7 @@
       "client_msg_id": "de21ad85-296c-4a85-962c-b918e43aad3c",
       "type": "message",
       "text": "検索してみた\n<https://bbs.archlinux.org/viewtopic.php?id=177349>",
-      "user": "U0GFBAM8U",
+      "user": "syui",
       "ts": "1632636513.079900",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -1084,7 +1084,7 @@
       "client_msg_id": "d6a5d435-0cb1-4dda-8007-538a3ed51d70",
       "type": "message",
       "text": "あんまり需要がないからか、ブログも見かけないんですよね…",
-      "user": "U0PM6EYR1",
+      "user": "raa0121",
       "ts": "1632636508.079800",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -1109,11 +1109,11 @@
       "client_msg_id": "34aed24c-78db-4b31-a2b7-ed76cc627ddb",
       "type": "message",
       "text": "様々なcustom romがあり、いろんなlinuxディストリビューションが動いてるので、そのどれかをinstallしたあとに、bootあたりの処理を残して、archlinuxのimgを読み込むよう改造してみてはどうでしょう。(様々な困難が予想されると思われますが",
-      "user": "U0GFBAM8U",
+      "user": "syui",
       "ts": "1632636318.077000",
       "team": "T0GFBAM8C",
       "edited": {
-        "user": "U0GFBAM8U",
+        "user": "syui",
         "ts": "1632636478.000000"
       },
       "blocks": [
@@ -1138,7 +1138,7 @@
       "client_msg_id": "c60fffec-f1a9-4e9e-805e-13281cb1ecd4",
       "type": "message",
       "text": "そうですねBootloaderが直にArch呼び出して起動するようにしたいです。",
-      "user": "U019C7VLZ4G",
+      "user": "getalotofmail",
       "ts": "1632636309.076800",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -1163,11 +1163,11 @@
       "client_msg_id": "5a35d927-fad6-4a81-a530-9d16b7c6b1f3",
       "type": "message",
       "text": "可能だと思いますが、難しそうです。\nつまり、android上でlinuxのimageを動かすのではなく、端末でbootしたときにarchlinuxを呼び出したいということですよね?",
-      "user": "U0GFBAM8U",
+      "user": "syui",
       "ts": "1632636162.074200",
       "team": "T0GFBAM8C",
       "edited": {
-        "user": "U0GFBAM8U",
+        "user": "syui",
         "ts": "1632637785.000000"
       },
       "blocks": [
@@ -1192,7 +1192,7 @@
       "client_msg_id": "c7e54b27-1ed5-42cf-97cf-37981f0cdb4a",
       "type": "message",
       "text": "Xiaomi Pad5、日本発売はまだなのですがXiaomi端末は公式でUnlock対応しているようですし、性能もSnapdragon870だし、中国での価格を見ると結構安いので期待している",
-      "user": "U019C7VLZ4G",
+      "user": "getalotofmail",
       "ts": "1632636152.074000",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -1217,11 +1217,11 @@
       "client_msg_id": "7f37df63-3d1d-4a70-b7a1-e5bbee0d0d79",
       "type": "message",
       "text": "BootloaderがUnlockできるなら可能でしょうか?",
-      "user": "U019C7VLZ4G",
+      "user": "getalotofmail",
       "ts": "1632635758.068700",
       "team": "T0GFBAM8C",
       "edited": {
-        "user": "U019C7VLZ4G",
+        "user": "getalotofmail",
         "ts": "1632635791.000000"
       },
       "blocks": [
@@ -1246,7 +1246,7 @@
       "client_msg_id": "45e24d49-a15d-444b-a0b3-4b1caa10fdb9",
       "type": "message",
       "text": "Android端末は bootloader がロックされてると、インストーラーが起動できないかな",
-      "user": "U0PM6EYR1",
+      "user": "raa0121",
       "ts": "1632635465.067300",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -1271,7 +1271,7 @@
       "client_msg_id": "3c9bf941-7d30-4a86-9f1f-9d7c1b671d13",
       "type": "message",
       "text": "uboot？あたりがしんどそうなイメージがありますね",
-      "user": "UUWBU08TU",
+      "user": "nyaarch64",
       "ts": "1632635449.066800",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -1296,11 +1296,11 @@
       "client_msg_id": "c2555311-5e96-42f1-898d-8f99a8872ec6",
       "type": "message",
       "text": "chrootやtermux無しで素でArch Linux ARM入れるみたいに入れることは難しいのでしょうか?\n(ARM、UEFIとかないしつらそうな気はしている)",
-      "user": "U019C7VLZ4G",
+      "user": "getalotofmail",
       "ts": "1632635369.065000",
       "team": "T0GFBAM8C",
       "edited": {
-        "user": "U019C7VLZ4G",
+        "user": "getalotofmail",
         "ts": "1632635686.000000"
       },
       "blocks": [
@@ -1325,7 +1325,7 @@
       "client_msg_id": "4f1274c1-5122-45c5-9ad4-2eed7a3574e6",
       "type": "message",
       "text": "<https://blog.rago1975.net/entry/post042/>\ntermux で動かすのも楽っぽいですね",
-      "user": "U0PM6EYR1",
+      "user": "raa0121",
       "ts": "1632634180.062500",
       "team": "T0GFBAM8C",
       "attachments": [
@@ -1366,7 +1366,7 @@
       "client_msg_id": "a24398a7-261f-4ce8-9019-c8e7d5d24652",
       "type": "message",
       "text": "<https://www.space-i.com/post-blog/linux-on-android/>\n古い記事ですが、chroot で動かすのは割とサクッと行けそうですね",
-      "user": "U0PM6EYR1",
+      "user": "raa0121",
       "ts": "1632634102.062000",
       "team": "T0GFBAM8C",
       "attachments": [
@@ -1411,7 +1411,7 @@
       "client_msg_id": "0a60e779-8a2f-4c1d-9aae-53e4d26b2938",
       "type": "message",
       "text": "Xiaomi Pad 5に興味があるのですがこれをArch Linux Armが動くようにするのは大変なのでしょうか?",
-      "user": "U019C7VLZ4G",
+      "user": "getalotofmail",
       "ts": "1632633454.061500",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -1436,13 +1436,13 @@
       "type": "message",
       "subtype": "channel_join",
       "ts": "1632385926.058600",
-      "user": "U02FD7FM5GA",
-      "text": "<@U02FD7FM5GA>さんがチャンネルに参加しました",
+      "user": "keistar0926",
+      "text": "<@keistar0926>さんがチャンネルに参加しました",
       "reactions": [
         {
           "name": "+1",
           "users": [
-            "U02ASPM0A6T"
+            "yozigen"
           ],
           "count": 1
         }
@@ -1452,7 +1452,7 @@
       "client_msg_id": "6164E25D-036B-43D3-B26A-F8DDA603205E",
       "type": "message",
       "text": "この前リリースされたシンセサイザーぽい、よさそう\n<https://github.com/awwbees/BespokeSynth/|https://github.com/awwbees/BespokeSynth/>",
-      "user": "U0GFBAM8U",
+      "user": "syui",
       "ts": "1632022878.054100",
       "team": "T0GFBAM8C",
       "attachments": [
@@ -1499,7 +1499,7 @@
       "reply_users_count": 1,
       "latest_reply": "1633035612.161500",
       "reply_users": [
-        "U02ASPM0A6T"
+        "yozigen"
       ],
       "is_locked": false,
       "subscribed": true,
@@ -1508,7 +1508,7 @@
         {
           "name": "relaxed",
           "users": [
-            "U02ASPM0A6T"
+            "yozigen"
           ],
           "count": 1
         },
@@ -1525,7 +1525,7 @@
       "client_msg_id": "752201b0-50d9-4724-83d7-373e373bf197",
       "type": "message",
       "text": "そんな感じです\n<https://github.com/soracqt/config/blob/master/dotfiles/.bin/sway.sh>\n強引ですが`swaymsg exit`した際に環境変数リセットしてくれます",
-      "user": "U01HE1ENNJZ",
+      "user": "a3784197",
       "ts": "1631967383.053500",
       "team": "T0GFBAM8C",
       "attachments": [
@@ -1574,8 +1574,8 @@
         {
           "name": "heart_eyes_cat",
           "users": [
-            "U02ASPM0A6T",
-            "U0GFBAM8U"
+            "yozigen",
+            "syui"
           ],
           "count": 2
         }
@@ -1585,14 +1585,14 @@
       "type": "message",
       "subtype": "channel_join",
       "ts": "1631955990.052200",
-      "user": "U02EFSEG8HM",
-      "text": "<@U02EFSEG8HM>さんがチャンネルに参加しました",
+      "user": "vmdbubarli",
+      "text": "<@vmdbubarli>さんがチャンネルに参加しました",
       "reactions": [
         {
           "name": "+1",
           "users": [
-            "U02ASPM0A6T",
-            "U01HE1ENNJZ"
+            "yozigen",
+            "a3784197"
           ],
           "count": 2
         }
@@ -1602,7 +1602,7 @@
       "client_msg_id": "99ABFA75-2657-463A-ADB0-AF6C9F7DBCFE",
       "type": "message",
       "text": "手動起動する感じですか",
-      "user": "U02ASPM0A6T",
+      "user": "yozigen",
       "ts": "1631937617.051100",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -1627,7 +1627,7 @@
       "client_msg_id": "1cbd4775-fbe1-40d5-bd87-1336b82aa988",
       "type": "message",
       "text": "lightDMなど使ってないのでパス通ってるところに配置します",
-      "user": "U01HE1ENNJZ",
+      "user": "a3784197",
       "ts": "1631925618.050000",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -1651,7 +1651,7 @@
         {
           "name": "+1",
           "users": [
-            "U02ASPM0A6T"
+            "yozigen"
           ],
           "count": 1
         }
@@ -1670,7 +1670,7 @@
           "mimetype": "image/jpeg",
           "filetype": "jpg",
           "pretty_type": "JPEG",
-          "user": "U02ASPM0A6T",
+          "user": "yozigen",
           "editable": false,
           "size": 55537,
           "mode": "hosted",
@@ -1707,14 +1707,14 @@
           "original_w": 828,
           "original_h": 1059,
           "thumb_tiny": "AwAwACWw0dqrlW8sY7F8UBLPuYv++6SewhlmZ2Zwx64//VUf9mQf3pP8/hQBNtsz/FH/AN9//XpNln/ej/77qP8AsuD+9J/n8KX+y4P7z/mKAJkgtnGVVW+jZp32WD/nmPzNFtbpbIVQkgnPNTUAMbqf/r0mOP8A9dQy3cccjIwOR7037dF6H86ALP8AnvRj/PNVvt0Xo350HUI1HCsfxoAtr90UtRW863CFlBGDjmpaAMm7/wCPqT6/0qucnvxV+ezlknd1KYJ7k1H/AGfN/eT8zQBU2+4owMYyKt/2dN/fT8zSf2dN/eT8zQBY0z/Uv/vf0q5Vezga3jZXIJJzxVigD//Z",
-          "permalink": "https://archlinuxjp.slack.com/files/U02ASPM0A6T/F02FHM62GGG/ios__________.jpg",
+          "permalink": "https://archlinuxjp.slack.com/files/yozigen/F02FHM62GGG/ios__________.jpg",
           "permalink_public": "https://slack-files.com/T0GFBAM8C-F02FHM62GGG-5126e25e08",
           "is_starred": false,
           "has_rich_preview": false
         }
       ],
       "upload": false,
-      "user": "U02ASPM0A6T",
+      "user": "yozigen",
       "display_as_bot": false,
       "ts": "1631887965.049300",
       "blocks": [
@@ -1730,7 +1730,7 @@
       "client_msg_id": "F6D18DB8-8EEB-4EC8-B8B9-E8EFCF70C608",
       "type": "message",
       "text": "どこからスクリプト呼びます？このページの人は .desktop ファイルから呼んでるようでした\n<https://zenn.dev/haxibami/articles/wayland-sway-install|https://zenn.dev/haxibami/articles/wayland-sway-install>",
-      "user": "U02ASPM0A6T",
+      "user": "yozigen",
       "ts": "1631887934.049100",
       "team": "T0GFBAM8C",
       "attachments": [
@@ -1776,7 +1776,7 @@
       "client_msg_id": "50e3e599-4fc5-44b9-872d-8c24c4a7e321",
       "type": "message",
       "text": "やっぱスクリプト使うのが一番楽そうですね",
-      "user": "U01HE1ENNJZ",
+      "user": "a3784197",
       "ts": "1631887435.047700",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -1801,7 +1801,7 @@
       "client_msg_id": "7F4AF648-E1B5-4EA5-9903-EDB3A283BE04",
       "type": "message",
       "text": "sway を i3 や他のウィンドウマネージャーと共用したくて悩んでいます\nまだ動作確認はしていませんが`.desktop` ファイルに書くのがいいんじゃないか？と目論んでます\n<https://wiki.archlinux.jp/index.php/%E3%83%87%E3%82%B9%E3%82%AF%E3%83%88%E3%83%83%E3%83%97%E3%82%A8%E3%83%B3%E3%83%88%E3%83%AA|https://wiki.archlinux.jp/index.php/%E3%83%87%E3%82%B9%E3%82%AF%E3%83%88%E3%83%83%E3%83%97%E3%82%A8%E3%83%B3%E3%83%88%E3%83%AA>",
-      "user": "U02ASPM0A6T",
+      "user": "yozigen",
       "ts": "1631886689.046900",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -1841,8 +1841,8 @@
     {
       "client_msg_id": "E7AE4B6E-6743-4705-BEF2-583C39C29BFD",
       "type": "message",
-      "text": "<@U01HE1ENNJZ> 自分はenvironment.d下で管理してます",
-      "user": "U015CDRQDD0",
+      "text": "<@a3784197> 自分はenvironment.d下で管理してます",
+      "user": "v3rn3j",
       "ts": "1631860092.043500",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -1855,7 +1855,7 @@
               "elements": [
                 {
                   "type": "user",
-                  "user_id": "U01HE1ENNJZ"
+                  "user_id": "a3784197"
                 },
                 {
                   "type": "text",
@@ -1871,8 +1871,8 @@
       "reply_users_count": 2,
       "latest_reply": "1631944237.051900",
       "reply_users": [
-        "U01HE1ENNJZ",
-        "U015CDRQDD0"
+        "a3784197",
+        "v3rn3j"
       ],
       "is_locked": false,
       "subscribed": false
@@ -1881,7 +1881,7 @@
       "client_msg_id": "220f6014-a082-4770-a8ae-0b7238a14a05",
       "type": "message",
       "text": "swayのenv設定ってどうしてますか？\n.pam_environmentがdeprecatedになってたので",
-      "user": "U01HE1ENNJZ",
+      "user": "a3784197",
       "ts": "1631856067.042200",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -1906,7 +1906,7 @@
       "client_msg_id": "871fa730-710b-4b2d-866d-6319bfb484a1",
       "type": "message",
       "text": "Libreboot 以外の coreboot ディストリビューションではバイナリブロブ非混入が保証されていないことがわかりました。ベンダーから渡されたバイナリ使わないと動かないんじゃ現実的にはほぼ妥協するしかないですね\n• <https://doc.coreboot.org/distributions.html> / <https://doc-coreboot-org.translate.goog/distributions.html?_x_tr_sl=auto&amp;_x_tr_tl=ja&amp;_x_tr_hl=ja&amp;_x_tr_pto=ajax,elem|日本語訳> \n• <https://doc.coreboot.org/> / <https://translate.google.com/translate?sl=auto&amp;tl=ja&amp;u=https://doc.coreboot.org/|日本語訳>\n&gt; プロジェクトが配布するのは、厳密に言えば、プロジェクトの一部ではない場合でも、再配布可能なベンダーバイナリ（「ブロブ」と呼びます）のコレクションです。それらは、私たちが開くことができなかったハードウェアinitの部分をカバーし、一部のハードウェアはそれらを必要としますが、そのようなバイナリコンポーネントなしで起動できるハードウェアはまだあります。",
-      "user": "U02ASPM0A6T",
+      "user": "yozigen",
       "ts": "1631718976.040300",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -1987,7 +1987,7 @@
         {
           "name": "eyes",
           "users": [
-            "U53RAQBCP"
+            "kokopis"
           ],
           "count": 1
         }
@@ -1997,11 +1997,11 @@
       "client_msg_id": "0FFC1032-F976-44FD-9CDB-AC3203DFF1D1",
       "type": "message",
       "text": "&gt; Intel Boot Guardは、第4世代Intel Core i3 / i5 / i7（Haswell）CPUにMEファームウェアバージョン9.0を搭載した2013年第2四半期に導入されたMEアプリケーションです。これにより、PC OEMは非対称暗号鍵ペアを生成し、公開鍵をCPUにインストールし、CPUが秘密鍵で署名されていないブートファームウェアを実行するのを防ぐことができます。これは、OEMの秘密署名キーがないと、corebootとlibrebootをそのようなPCに移植できないことを意味します。別々に購入したメインボードとCPUパーツから組み立てられたシステムは影響を受けないことに注意してください。これは、メインボードのベンダー（ブートファームウェアが保存されている）がCPUに保存されている公開鍵に影響を与える可能性がないためです。\n&gt; \n→CPU がオンボードだとブートファームウェア書き換えができない可能性がある",
-      "user": "U02ASPM0A6T",
+      "user": "yozigen",
       "ts": "1631702626.035600",
       "team": "T0GFBAM8C",
       "edited": {
-        "user": "U02ASPM0A6T",
+        "user": "yozigen",
         "ts": "1631702693.000000"
       },
       "blocks": [
@@ -2038,7 +2038,7 @@
         {
           "name": "eyes",
           "users": [
-            "U53RAQBCP"
+            "kokopis"
           ],
           "count": 1
         }
@@ -2048,7 +2048,7 @@
       "client_msg_id": "2C14C78B-3DC8-41DD-ADEB-C6D184639EE1",
       "type": "message",
       "text": "企業向けのwake on lanやリモートワイプの機能がバックドアになりうるという話みたいですね。この辺の機能がセキュリティリスクなのは結構言われてる印象で、LenovoとかはEFIから無効化できる(ハードウェアアクセス用の秘密鍵を消去してるのかな？)オプションがあったはず",
-      "user": "U53RAQBCP",
+      "user": "kokopis",
       "ts": "1631686795.034300",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -2072,7 +2072,7 @@
         {
           "name": "sparkles",
           "users": [
-            "U02ASPM0A6T"
+            "yozigen"
           ],
           "count": 1
         }
@@ -2082,7 +2082,7 @@
       "client_msg_id": "437c3e42-e776-4b5e-b52d-1bfeae03e854",
       "type": "message",
       "text": "Libreboot というオープンソースのブートファームウェア実装のプロジェクトが、 「Intel も AMD も新しいものはバックドア付きだから使うな」と強い口調で非難していました。\n• <https://libreboot.org/faq.html#intel>\n• <https://translate.google.com/translate?sl=auto&amp;tl=ja&amp;u=https://libreboot.org/faq.html|日本語訳> \n他の coreboot 等のブートファームウェアを入れてもそれは同じなのかが気になっています。corebootもオープンソース実装と言っているものの一部プロプラエタリということなのか？と思いましたが、単にライトプロテクト等をソフト的に外せるチップセットでないと Libreboot では差し替えできないくらいの話なんですかね？ Libreboot の実装の特異性に由来するのだろうと思いますがまだよくわからないでいます",
-      "user": "U02ASPM0A6T",
+      "user": "yozigen",
       "ts": "1631678506.031400",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -2146,7 +2146,7 @@
     {
       "type": "message",
       "text": "chromium の開発さすがに対応早いですね。Ozone/X11 でのハードウェアデコードはすぐに修正されそう\n<https://chromium-review.googlesource.com/c/chromium/src/+/3141878>",
-      "user": "U257W41DW",
+      "user": "odknt",
       "ts": "1631658024.021100",
       "team": "T0GFBAM8C",
       "attachments": [
@@ -2185,11 +2185,11 @@
         {
           "name": "sparkles",
           "users": [
-            "U02ASPM0A6T",
+            "yozigen",
             "U02BLTTQEL9",
-            "UGA29R3FH",
-            "U3FJYR7MG",
-            "U53RAQBCP"
+            "znmxodq1",
+            "dohq",
+            "kokopis"
           ],
           "count": 5
         }
@@ -2199,7 +2199,7 @@
       "client_msg_id": "8fe532e2-ff46-49d1-91a9-17e0a1d3db1c",
       "type": "message",
       "text": "AMD, Zen初期の安定性とかの報告がちらほら目についた印象が強くて踏み切れていない",
-      "user": "U53RAQBCP",
+      "user": "kokopis",
       "ts": "1631535650.020900",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -2224,7 +2224,7 @@
       "client_msg_id": "c35c57d0-f504-48f2-9a47-b2d2869ece60",
       "type": "message",
       "text": "zen3+とかzen4だとまた追いつかれ(抜かれる)るかも…",
-      "user": "U019C7VLZ4G",
+      "user": "getalotofmail",
       "ts": "1631533319.019900",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -2249,7 +2249,7 @@
       "client_msg_id": "a7ecd4e0-fdff-4801-9db3-3bacaba48f09",
       "type": "message",
       "text": "Alder LakeでどれだけAMD引き離すのか楽しみ\nなんだけど宗教上の理由でCPUはAMDしか使えなくてな…",
-      "user": "U3FJYR7MG",
+      "user": "dohq",
       "ts": "1631520231.018400",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -2274,7 +2274,7 @@
       "client_msg_id": "18025316-2f82-4824-8b16-8b6aa6a64a13",
       "type": "message",
       "text": "やっぱりLinuxで使うの前提ならIntelのchipsetがいいなあ、安定している",
-      "user": "UGA29R3FH",
+      "user": "znmxodq1",
       "ts": "1631517642.017400",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -2298,7 +2298,7 @@
     {
       "type": "message",
       "text": "amdやnvidiaのVA-API互換レイヤーなどで動作しない場合があるようです。\nintelでは動作するといっても、サンドボックス無効化はセキュリティリスクがあるので Firefox 94 で修正が入る予定らしいですね。",
-      "user": "U257W41DW",
+      "user": "odknt",
       "ts": "1631512622.017300",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -2323,7 +2323,7 @@
       "client_msg_id": "a44bdac0-f443-4280-8866-4bdb554851fd",
       "type": "message",
       "text": "なるほど\nnvidiaとかで動かないとかですか？",
-      "user": "U01HE1ENNJZ",
+      "user": "a3784197",
       "ts": "1631512443.015300",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -2347,7 +2347,7 @@
     {
       "type": "message",
       "text": "Intel は基本動作するはず。サンドボックス無効にしないといけないのは共通ですが……",
-      "user": "U257W41DW",
+      "user": "odknt",
       "ts": "1631512354.014800",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -2381,7 +2381,7 @@
           "mimetype": "image/png",
           "filetype": "png",
           "pretty_type": "PNG",
-          "user": "U01HE1ENNJZ",
+          "user": "a3784197",
           "editable": false,
           "size": 33872,
           "mode": "hosted",
@@ -2415,7 +2415,7 @@
           "original_w": 962,
           "original_h": 330,
           "thumb_tiny": "AwAQADCv5UmOUf8A75oEUv8Acf8AKmhiO5pNx24yfzpiHeVN/wA83/Kjypf+eb/lTMn1NGT6mgB/lS/883/Kjy5P7jflTMn1NLu6daAP/9k=",
-          "permalink": "https://archlinuxjp.slack.com/files/U01HE1ENNJZ/F02DZKL46J2/image.png",
+          "permalink": "https://archlinuxjp.slack.com/files/a3784197/F02DZKL46J2/image.png",
           "permalink_public": "https://slack-files.com/T0GFBAM8C-F02DZKL46J2-996feccb9a",
           "is_starred": false,
           "has_rich_preview": false
@@ -2429,7 +2429,7 @@
           "mimetype": "image/png",
           "filetype": "png",
           "pretty_type": "PNG",
-          "user": "U01HE1ENNJZ",
+          "user": "a3784197",
           "editable": false,
           "size": 9189,
           "mode": "hosted",
@@ -2451,14 +2451,14 @@
           "original_w": 298,
           "original_h": 127,
           "thumb_tiny": "AwAUADCtnpyPTpRx/eH5UZ6cn8RTt3bcf++aYMaMf3gPTig4b7zAfhS5AGAxx9KbvbpnigQFV/vfpTaKKAF3H1o3H1pKKBikk9TSUUUCCiiigD//2Q==",
-          "permalink": "https://archlinuxjp.slack.com/files/U01HE1ENNJZ/F02ECJF2F6Y/image.png",
+          "permalink": "https://archlinuxjp.slack.com/files/a3784197/F02ECJF2F6Y/image.png",
           "permalink_public": "https://slack-files.com/T0GFBAM8C-F02ECJF2F6Y-83e6379913",
           "is_starred": false,
           "has_rich_preview": false
         }
       ],
       "upload": false,
-      "user": "U01HE1ENNJZ",
+      "user": "a3784197",
       "ts": "1631512034.012700",
       "blocks": [
         {
@@ -2478,7 +2478,7 @@
         }
       ],
       "edited": {
-        "user": "U01HE1ENNJZ",
+        "user": "a3784197",
         "ts": "1631512148.000000"
       }
     },
@@ -2486,14 +2486,14 @@
       "type": "message",
       "subtype": "channel_join",
       "ts": "1631271498.011200",
-      "user": "U02E11SNF0T",
-      "text": "<@U02E11SNF0T>さんがチャンネルに参加しました"
+      "user": "kocumaza--",
+      "text": "<@kocumaza-->さんがチャンネルに参加しました"
     },
     {
       "client_msg_id": "5647a526-6523-4cfc-9012-2b9875863941",
       "type": "message",
       "text": "Linuxデスクトップ元年は遠いなあ",
-      "user": "UVB7L4CKH",
+      "user": "tatsumigamou",
       "ts": "1631143577.010800",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -2518,7 +2518,7 @@
       "client_msg_id": "e4e9e8df-b18b-411e-a8b6-cf577dd114d4",
       "type": "message",
       "text": "&gt; 0の数が6個も違うので、1000000倍高速となります。\n&gt; \nすき",
-      "user": "UGA29R3FH",
+      "user": "znmxodq1",
       "ts": "1631120173.010300",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -2551,8 +2551,8 @@
         {
           "name": "drooling_face",
           "users": [
-            "U02ASPM0A6T",
-            "U0H9QUFA5"
+            "yozigen",
+            "kusanaginoturugi"
           ],
           "count": 2
         }
@@ -2562,7 +2562,7 @@
       "client_msg_id": "B1591EC6-DC3F-4C73-8E2E-6CF2DEC6BCEE",
       "type": "message",
       "text": "asd ってのもあるんですね\n<https://wiki.archlinux.jp/index.php/Anything-sync-daemon|https://wiki.archlinux.jp/index.php/Anything-sync-daemon>\nこれで課題に感じていた複数環境における設定ファイルやドキュメントの同期の柔軟な自動化が実現できそうです。いいものがあるなあ",
-      "user": "U02ASPM0A6T",
+      "user": "yozigen",
       "ts": "1631104313.010200",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -2596,7 +2596,7 @@
       "client_msg_id": "CC2975AE-A82F-4E0A-9A8D-E8EE804050F6",
       "type": "message",
       "text": "qutebrowser にも使えるのか…",
-      "user": "U02ASPM0A6T",
+      "user": "yozigen",
       "ts": "1631096549.006800",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -2620,12 +2620,12 @@
     {
       "client_msg_id": "470DE6DB-F3BB-4313-BD2B-4163B8DB9FC8",
       "type": "message",
-      "text": "<@U019C7VLZ4G> ブラウザ設定を同期する、という用途としてはこちらの方が汎用的でいいかもしれません\n<https://wiki.archlinux.jp/index.php/Profile-sync-daemon|https://wiki.archlinux.jp/index.php/Profile-sync-daemon>",
-      "user": "U02ASPM0A6T",
+      "text": "<@getalotofmail> ブラウザ設定を同期する、という用途としてはこちらの方が汎用的でいいかもしれません\n<https://wiki.archlinux.jp/index.php/Profile-sync-daemon|https://wiki.archlinux.jp/index.php/Profile-sync-daemon>",
+      "user": "yozigen",
       "ts": "1631096213.006100",
       "team": "T0GFBAM8C",
       "edited": {
-        "user": "U02ASPM0A6T",
+        "user": "yozigen",
         "ts": "1631096292.000000"
       },
       "blocks": [
@@ -2638,7 +2638,7 @@
               "elements": [
                 {
                   "type": "user",
-                  "user_id": "U019C7VLZ4G"
+                  "user_id": "getalotofmail"
                 },
                 {
                   "type": "text",
@@ -2659,17 +2659,17 @@
       "type": "message",
       "subtype": "channel_join",
       "ts": "1631093289.004900",
-      "user": "U02DR0Y0WFM",
-      "text": "<@U02DR0Y0WFM>さんがチャンネルに参加しました"
+      "user": "programmer2844",
+      "text": "<@programmer2844>さんがチャンネルに参加しました"
     },
     {
       "type": "message",
       "text": "Linux ブラウザのハードウェアビデオアクセラレーションについて調べてたんですが、もしかして今結構有効化できない環境多い？\nChrome/Chromium\n•  Wayland 環境ではサポートされていない\n•  X11 環境は Ozone 無効化しないと有効化されない\n• 近々 Ozone に完全移行してレガシー X11 コードが削除されるらしいので、しばらく VA-API サポートが消えそう\nFirefox\n• ここ数バージョンで、一部環境によっては VA-API サポートが壊れてる\n• 有効にできる環境でも、現状サンドボックスを無効化しないと有効にならない\n• Firefox 94 で VA-API サポートが GPU プロセスに移行されると無効化しなくても動作するっぽい？\nなので Chrome/Chromium(X11) か Firefox(サンドボックス無効化) 環境でしかハードウェアデコードされない？\nChrome/Chromium はレガシーコードが削除されると Ozone でのハードウェアデコードがサポートされるまで有効化できなくなる",
-      "user": "U257W41DW",
+      "user": "odknt",
       "ts": "1631089089.004500",
       "team": "T0GFBAM8C",
       "edited": {
-        "user": "U257W41DW",
+        "user": "odknt",
         "ts": "1631089320.000000"
       },
       "blocks": [
@@ -2781,11 +2781,11 @@
         {
           "name": "eyes",
           "users": [
-            "U02ASPM0A6T",
-            "UGA29R3FH",
+            "yozigen",
+            "znmxodq1",
             "U70QDFN82",
             "UBEFL3YLE",
-            "U01HE1ENNJZ"
+            "a3784197"
           ],
           "count": 5
         }
@@ -2795,18 +2795,18 @@
       "type": "message",
       "subtype": "channel_join",
       "ts": "1631002732.004200",
-      "user": "U02DS8F7M3N",
-      "text": "<@U02DS8F7M3N>さんがチャンネルに参加しました"
+      "user": "sugikimi",
+      "text": "<@sugikimi>さんがチャンネルに参加しました"
     },
     {
       "client_msg_id": "183d7df6-9438-45b7-b3fd-8d442c44bb41",
       "type": "message",
       "text": "<https://wiki.archlinux.org/title/Firefox_Sync_Server> 日本語版は記事がちょっと古いですね。\n```Note: Since version 1.5 of the protocol, a Firefox Account is required in order to use the synchronization service.```\nただ、どのみち Firefox アカウントは必要みたいですねー。",
-      "user": "U0H9QUFA5",
+      "user": "kusanaginoturugi",
       "ts": "1630988624.003700",
       "team": "T0GFBAM8C",
       "edited": {
-        "user": "U0H9QUFA5",
+        "user": "kusanaginoturugi",
         "ts": "1630988929.000000"
       },
       "blocks": [
@@ -2852,8 +2852,8 @@
         {
           "name": "+1",
           "users": [
-            "U02ASPM0A6T",
-            "U019C7VLZ4G"
+            "yozigen",
+            "getalotofmail"
           ],
           "count": 2
         }
@@ -2863,11 +2863,11 @@
       "client_msg_id": "4d657b14-7322-4113-ac07-b5122eb64440",
       "type": "message",
       "text": "```$ yay firefox sync server\n3 aur/python2-syncstorage 1.6.14-1 (+0 0.00) (メンテナ不在) \n    The SyncServer server software, as used by Firefox Sync\n2 aur/mozilla-firefox-sync-server 1.9.1-1 (+7 0.00) \n    Mozilla Sync Server for built-in Firefox Sync\n1 aur/mozilla-firefox-sync-server-git 1.9.1.r10.g58b8036-5 (+9 0.00) \n    Mozilla Sync Server for built-in Firefox Sync\n==&gt; インストールするパッケージ (例: 1 2 3, 1-3 または ^4)\n==&gt; ```\n2でいけるかも <https://mozilla-services.readthedocs.io/en/latest/howtos/run-sync-1.5.html>",
-      "user": "U02ASPM0A6T",
+      "user": "yozigen",
       "ts": "1630903482.002400",
       "team": "T0GFBAM8C",
       "edited": {
-        "user": "U02ASPM0A6T",
+        "user": "yozigen",
         "ts": "1630903517.000000"
       },
       "blocks": [
@@ -2905,7 +2905,7 @@
       "client_msg_id": "c79fd625-3893-4f5c-af7a-12a21305168f",
       "type": "message",
       "text": "Firefox syncってFirefox アカウント無しで自鯖運用できない?",
-      "user": "U019C7VLZ4G",
+      "user": "getalotofmail",
       "ts": "1630833441.001500",
       "team": "T0GFBAM8C",
       "blocks": [

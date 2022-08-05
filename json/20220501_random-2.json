@@ -7,7 +7,7 @@
       "client_msg_id": "075f3d21-baa2-4629-96cf-d15617abcee5",
       "type": "message",
       "text": "へー\n<https://www.publickey1.jp/blog/22/dockersysboxnestybox.html>",
-      "user": "U70QDFN82",
+      "user": "yutakatay",
       "ts": "1652317313.713339",
       "team": "T0GFBAM8C",
       "attachments": [
@@ -52,7 +52,7 @@
         {
           "name": "hee",
           "users": [
-            "U8T8KB5M4"
+            "h.hata.ai.t"
           ],
           "count": 1
         }
@@ -62,7 +62,7 @@
       "client_msg_id": "282eedf8-771c-43c5-9c4d-66d97d807020",
       "type": "message",
       "text": ":da-ja-re:",
-      "user": "U0PM6EYR1",
+      "user": "raa0121",
       "ts": "1652252619.522929",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -87,7 +87,7 @@
       "client_msg_id": "0b4e1f3c-0845-4f39-9949-fb42185cc193",
       "type": "message",
       "text": "術中にハマってしまった・・・\n<https://twitter.com/mattn_jp/status/1524261912472866816?s=20&amp;t=3dL0KA9RSw5crmEr69M-JA>",
-      "user": "U70QDFN82",
+      "user": "yutakatay",
       "ts": "1652252463.301509",
       "team": "T0GFBAM8C",
       "attachments": [
@@ -134,7 +134,7 @@
       "client_msg_id": "1184646e-d014-4110-848a-53653eca3315",
       "type": "message",
       "text": "nerdctlってBuildKit使えるんですね。\n<https://github.com/containerd/nerdctl/blob/master/docs/build.md>",
-      "user": "U8T8KB5M4",
+      "user": "h.hata.ai.t",
       "ts": "1652242707.306929",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -162,8 +162,8 @@
         {
           "name": "hee",
           "users": [
-            "U70QDFN82",
-            "UGA29R3FH"
+            "yutakatay",
+            "znmxodq1"
           ],
           "count": 2
         }
@@ -173,7 +173,7 @@
       "client_msg_id": "2d5a682e-7e41-4f04-834b-c5920d4ab301",
       "type": "message",
       "text": "つらい",
-      "user": "UGA29R3FH",
+      "user": "znmxodq1",
       "ts": "1652242658.360999",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -198,11 +198,11 @@
       "client_msg_id": "517a8a4b-20ca-420f-aef3-a03e51af7410",
       "type": "message",
       "text": "なんかよくわからないけどvolumeうまくいかない（ホスト側とリンクされない）ときがあるんですよね・・・Issueにもなってた",
-      "user": "U70QDFN82",
+      "user": "yutakatay",
       "ts": "1652242516.492899",
       "team": "T0GFBAM8C",
       "edited": {
-        "user": "U70QDFN82",
+        "user": "yutakatay",
         "ts": "1652242558.000000"
       },
       "blocks": [
@@ -227,7 +227,7 @@
       "client_msg_id": "a3c393ce-62aa-48ed-89e6-0896cdbdadde",
       "type": "message",
       "text": "volume結構使ってる",
-      "user": "UGA29R3FH",
+      "user": "znmxodq1",
       "ts": "1652242436.021169",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -252,7 +252,7 @@
       "client_msg_id": "7b31959b-900c-4068-968b-a7cff5803a76",
       "type": "message",
       "text": "後発に潰されるのは見ていて悲しいけど、なんか迷走してる気しかしないというね",
-      "user": "UGA29R3FH",
+      "user": "znmxodq1",
       "ts": "1652242411.230009",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -276,7 +276,7 @@
         {
           "name": "wakaru",
           "users": [
-            "U70QDFN82"
+            "yutakatay"
           ],
           "count": 1
         }
@@ -286,7 +286,7 @@
       "client_msg_id": "e55b4296-e558-4ef0-b510-44ef3dab67a5",
       "type": "message",
       "text": "nerdctlまだ実装されてない機能(docker cpとか)とか動きがなんか変なところ（volumeの処理）あるんで注意したほうがいいですね・・・",
-      "user": "U70QDFN82",
+      "user": "yutakatay",
       "ts": "1652242400.827509",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -310,7 +310,7 @@
         {
           "name": "naruhodo",
           "users": [
-            "UGA29R3FH"
+            "znmxodq1"
           ],
           "count": 1
         }
@@ -320,7 +320,7 @@
       "client_msg_id": "6f484d43-9111-460a-a096-271f7027035d",
       "type": "message",
       "text": "そもそもnerdctl辺りに乗り換えた方がいいんちゃう？と思ってるし",
-      "user": "UGA29R3FH",
+      "user": "znmxodq1",
       "ts": "1652242341.857729",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -345,7 +345,7 @@
       "client_msg_id": "3d3ab244-3f82-44c7-b821-2e6ac84babed",
       "type": "message",
       "text": "完全にCLIに慣れてしまってるので今更なんよなぁ…",
-      "user": "UGA29R3FH",
+      "user": "znmxodq1",
       "ts": "1652242323.057559",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -369,7 +369,7 @@
         {
           "name": "sorena",
           "users": [
-            "U70QDFN82",
+            "yutakatay",
             "U6DL9D3AB",
             "U01HE1ENNJZ"
           ],
@@ -381,7 +381,7 @@
       "client_msg_id": "8dce366c-935d-4955-aaa1-6cc910f0ddfa",
       "type": "message",
       "text": "dockerがちでそろそろ潰れそう・・・",
-      "user": "U70QDFN82",
+      "user": "yutakatay",
       "ts": "1652240820.758429",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -405,7 +405,7 @@
         {
           "name": "sorena",
           "users": [
-            "UGA29R3FH",
+            "znmxodq1",
             "U01HE1ENNJZ"
           ],
           "count": 2
@@ -416,7 +416,7 @@
       "client_msg_id": "2acefe51-d916-44ee-a4bc-4b5d848c81f8",
       "type": "message",
       "text": "Mac の Docker Desktop は Electron なので多分 Linux 版も Electron な気がします",
-      "user": "U0J2VATJA",
+      "user": "atnanasi",
       "ts": "1652240499.355619",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -440,14 +440,14 @@
         {
           "name": "hee",
           "users": [
-            "U70QDFN82"
+            "yutakatay"
           ],
           "count": 1
         },
         {
           "name": "benri",
           "users": [
-            "U0GFBAM8U"
+            "syui"
           ],
           "count": 1
         }
@@ -457,7 +457,7 @@
       "client_msg_id": "0d89dd71-2cf5-4efc-b766-eb6734bab3b6",
       "type": "message",
       "text": "CLI に慣れてれば、不要ですね…",
-      "user": "U0PM6EYR1",
+      "user": "raa0121",
       "ts": "1652240301.861419",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -481,9 +481,9 @@
         {
           "name": "wakaru",
           "users": [
-            "U70QDFN82",
-            "UGA29R3FH",
-            "U02BLTTQEL9",
+            "yutakatay",
+            "znmxodq1",
+            "buzz.taiki",
             "U01HE1ENNJZ"
           ],
           "count": 4
@@ -494,7 +494,7 @@
       "client_msg_id": "1ee66bfb-e696-486d-b18f-8493a7079547",
       "type": "message",
       "text": "Docker Desktopのよさがよくわからない・・・",
-      "user": "U70QDFN82",
+      "user": "yutakatay",
       "ts": "1652240062.126489",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -519,7 +519,7 @@
       "client_msg_id": "085df9d9-14de-4bc7-abe0-86f8aeceb981",
       "type": "message",
       "text": "ただ、archlinuxて言っても難しいですよね...gtkとかになるんだろうか",
-      "user": "U0GFBAM8U",
+      "user": "syui",
       "ts": "1652230508.708039",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -543,7 +543,7 @@
         {
           "name": "wakaru",
           "users": [
-            "U70QDFN82",
+            "yutakatay",
             "U01HE1ENNJZ"
           ],
           "count": 2
@@ -554,7 +554,7 @@
       "client_msg_id": "838ec935-450e-48c3-bcc8-d3ad97be637d",
       "type": "message",
       "text": "archlinuxにも対応されるっぽくて、便利",
-      "user": "U0GFBAM8U",
+      "user": "syui",
       "ts": "1652230479.386599",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -579,7 +579,7 @@
       "client_msg_id": "8309f7ce-d0a5-4f97-a83e-b74749d43a5b",
       "type": "message",
       "text": "<https://www.publickey1.jp/blog/22/docker_desktop_for_linuxwindowsmacraspberry_pi_os.html>",
-      "user": "U0GFBAM8U",
+      "user": "syui",
       "ts": "1652230450.596979",
       "team": "T0GFBAM8C",
       "attachments": [
@@ -679,7 +679,7 @@
       "client_msg_id": "84602c72-8eb6-4445-95ad-46dff94ad7c5",
       "type": "message",
       "text": "それはそうと、コードネームでパッケージ名付けられると、どのバージョンか全然分からない。",
-      "user": "U02BLTTQEL9",
+      "user": "buzz.taiki",
       "ts": "1652097615.652189",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -703,7 +703,7 @@
         {
           "name": "sorena",
           "users": [
-            "U70QDFN82"
+            "yutakatay"
           ],
           "count": 1
         }
@@ -713,7 +713,7 @@
       "client_msg_id": "738c3eb6-0ea9-4d11-9704-e98e35f15d49",
       "type": "message",
       "text": "へぇぇ。\n<https://github.com/bash-lsp/bash-language-server/issues/353>",
-      "user": "U02BLTTQEL9",
+      "user": "buzz.taiki",
       "ts": "1652097440.447819",
       "team": "T0GFBAM8C",
       "attachments": [
@@ -791,7 +791,7 @@
           "mimetype": "image/png",
           "filetype": "png",
           "pretty_type": "PNG",
-          "user": "U70QDFN82",
+          "user": "yutakatay",
           "editable": false,
           "size": 37528,
           "mode": "hosted",
@@ -816,14 +816,14 @@
           "original_w": 662,
           "original_h": 307,
           "thumb_tiny": "AwAWADCrigjHal7dKD9KYhtFHFHFABRRRQAu6jdTaKAHbh6UmaSloAKKKKAP/9k=",
-          "permalink": "https://archlinuxjp.slack.com/files/U70QDFN82/F03ECFT49E2/2022-05-09_09-44.png",
+          "permalink": "https://archlinuxjp.slack.com/files/yutakatay/F03ECFT49E2/2022-05-09_09-44.png",
           "permalink_public": "https://slack-files.com/T0GFBAM8C-F03ECFT49E2-5d759390de",
           "is_starred": false,
           "has_rich_preview": false
         }
       ],
       "upload": false,
-      "user": "U70QDFN82",
+      "user": "yutakatay",
       "display_as_bot": false,
       "ts": "1652057109.510499",
       "blocks": [
@@ -849,14 +849,14 @@
       "type": "message",
       "subtype": "channel_join",
       "ts": "1651942774.403539",
-      "user": "U03EW2ATK1P",
-      "text": "<@U03EW2ATK1P>さんがチャンネルに参加しました",
+      "user": "k_uchida",
+      "text": "<@k_uchida>さんがチャンネルに参加しました",
       "reactions": [
         {
           "name": "archjp-joy",
           "users": [
-            "U02ASPM0A6T",
-            "U0GFBAM8U",
+            "yozigen",
+            "syui",
             "U01HE1ENNJZ"
           ],
           "count": 3
@@ -867,7 +867,7 @@
       "client_msg_id": "59027B8E-58DB-420C-8614-1A6218953F8E",
       "type": "message",
       "text": "こんにちはー",
-      "user": "U0GFBAM8U",
+      "user": "syui",
       "ts": "1651737228.026819",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -896,7 +896,7 @@
       "client_msg_id": "2d80e981-574a-4b66-9253-add0fdf57526",
       "type": "message",
       "text": "はじめまして。よろしくおねがいします。",
-      "user": "U03DZGJRCBY",
+      "user": "7gcxsix56k2gh6k4iifgm",
       "ts": "1651736226.646159",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -921,17 +921,17 @@
           "name": "arch",
           "users": [
             "UCA1NQM5K",
-            "U70QDFN82",
-            "U0GFBAM8U",
+            "yutakatay",
+            "syui",
             "U01370MAHLN",
             "U02HC93TJEP",
             "U0H9QUFA5",
-            "UGA29R3FH",
+            "znmxodq1",
             "UPYQ3CUJ1",
-            "U02BLTTQEL9",
+            "buzz.taiki",
             "U03921SFM3L",
             "UQDJXPHJ9",
-            "U02ASPM0A6T",
+            "yozigen",
             "U02R6AP6H0C",
             "UBEFL3YLE",
             "U01HE1ENNJZ"
@@ -944,28 +944,28 @@
       "type": "message",
       "subtype": "channel_join",
       "ts": "1651735942.630019",
-      "user": "U03DZGJRCBY",
-      "text": "<@U03DZGJRCBY>さんがチャンネルに参加しました"
+      "user": "7gcxsix56k2gh6k4iifgm",
+      "text": "<@7gcxsix56k2gh6k4iifgm>さんがチャンネルに参加しました"
     },
     {
       "type": "message",
       "subtype": "channel_join",
       "ts": "1651477922.598799",
-      "user": "U03DM2S3H5K",
-      "text": "<@U03DM2S3H5K>さんがチャンネルに参加しました"
+      "user": "z3r0w1dth5p4c3",
+      "text": "<@z3r0w1dth5p4c3>さんがチャンネルに参加しました"
     },
     {
       "type": "message",
       "subtype": "channel_join",
       "ts": "1651425740.353059",
-      "user": "U03E1B5UT33",
-      "text": "<@U03E1B5UT33>さんがチャンネルに参加しました",
+      "user": "sbb03104",
+      "text": "<@sbb03104>さんがチャンネルに参加しました",
       "reactions": [
         {
           "name": "archjp-joy",
           "users": [
             "U02HC93TJEP",
-            "U0GFBAM8U",
+            "syui",
             "U01HE1ENNJZ"
           ],
           "count": 3
@@ -976,7 +976,7 @@
       "client_msg_id": "f422997c-faf5-4255-abbe-d6085b279cf8",
       "type": "message",
       "text": "ですね。`nvim-qt`ではインライン入力できたので用途によっては代用になるかもしれません",
-      "user": "U02ASPM0A6T",
+      "user": "yozigen",
       "ts": "1651390012.935999",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -1012,7 +1012,7 @@
       "client_msg_id": "56cb4936-0bcf-47ca-b41e-d3b870458e41",
       "type": "message",
       "text": "fcitx5側でできないようになってるのですね",
-      "user": "U019C7VLZ4G",
+      "user": "getalotofmail",
       "ts": "1651387342.320049",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -1036,15 +1036,15 @@
     {
       "type": "message",
       "subtype": "thread_broadcast",
-      "text": "<@U019C7VLZ4G> どうでしょう？これで解決しました？\n<https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1650325453370199>",
-      "user": "U02ASPM0A6T",
+      "text": "<@getalotofmail> どうでしょう？これで解決しました？\n<https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1650325453370199>",
+      "user": "yozigen",
       "ts": "1651384227.841509",
       "thread_ts": "1650294340.859539",
       "root": {
         "client_msg_id": "3e160d45-14c6-4a36-b882-acac75580d91",
         "type": "message",
         "text": "すいません、\n写真では変換キーを押していないだけで変換候補のダイアログはきちんと出ます。\n\n日本語のインライン入力はgvimはバグのせいでできないということでしょうか?",
-        "user": "U019C7VLZ4G",
+        "user": "getalotofmail",
         "ts": "1650294340.859539",
         "team": "T0GFBAM8C",
         "blocks": [
@@ -1069,7 +1069,7 @@
         "reply_users_count": 1,
         "latest_reply": "1651384227.841509",
         "reply_users": [
-          "U02ASPM0A6T"
+          "yozigen"
         ],
         "is_locked": false,
         "subscribed": false
@@ -1084,7 +1084,7 @@
               "elements": [
                 {
                   "type": "user",
-                  "user_id": "U019C7VLZ4G"
+                  "user_id": "getalotofmail"
                 },
                 {
                   "type": "text",

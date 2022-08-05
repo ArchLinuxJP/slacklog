@@ -7,21 +7,21 @@
       "type": "message",
       "subtype": "channel_join",
       "ts": "1619594286.094900",
-      "user": "U01V84U3V7H",
-      "text": "<@U01V84U3V7H>さんがチャンネルに参加しました"
+      "user": "revia726",
+      "text": "<@revia726>さんがチャンネルに参加しました"
     },
     {
       "type": "message",
       "subtype": "channel_join",
       "ts": "1619593872.094700",
-      "user": "U02093QU9NX",
-      "text": "<@U02093QU9NX>さんがチャンネルに参加しました"
+      "user": "kabaaa1126",
+      "text": "<@kabaaa1126>さんがチャンネルに参加しました"
     },
     {
       "client_msg_id": "b8a326c9-235d-4c0f-abe1-01215f903c33",
       "type": "message",
       "text": "なるほど。それで試してみます。ありがとうございます。",
-      "user": "U2YNMHCTV",
+      "user": "takumi.kt",
       "ts": "1619585515.094200",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -46,7 +46,7 @@
       "reply_users_count": 1,
       "latest_reply": "1619599502.095000",
       "reply_users": [
-        "U2YNMHCTV"
+        "takumi.kt"
       ],
       "is_locked": false,
       "subscribed": false,
@@ -54,14 +54,14 @@
         {
           "name": "+1",
           "users": [
-            "U017BNGTHT3"
+            "s5is"
           ],
           "count": 1
         },
         {
           "name": "tada",
           "users": [
-            "U017BNGTHT3"
+            "s5is"
           ],
           "count": 1
         }
@@ -71,7 +71,7 @@
       "client_msg_id": "f991e431-6e64-4bce-8f54-4a9d4c6a591a",
       "type": "message",
       "text": "完全に新規として入れ直すならgdiskとかで全部パーティション飛ばしてからやった方が良いですね。\n今回の場合はESP(/boot)の `/EFI/Microsoft/Boot/bootmgfw.efi` あたりが残ってたりしそうで怪しい。",
-      "user": "U017BNGTHT3",
+      "user": "s5is",
       "ts": "1619585417.093900",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -107,7 +107,7 @@
       "client_msg_id": "0a68b503-b96a-44ad-8963-f905c9ddaf74",
       "type": "message",
       "text": "同じディスクに他のOSもインストールされている。。？",
-      "user": "UPLFHSQ2V",
+      "user": "conao3",
       "ts": "1619584499.090600",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -132,7 +132,7 @@
       "client_msg_id": "bccbd687-c9c4-4464-8d36-7fe624b12b4a",
       "type": "message",
       "text": "ん。Windowsのデータは要らないということですか？それなら全部フォーマットしてインストールすればよさそうな気もしますが？",
-      "user": "UPLFHSQ2V",
+      "user": "conao3",
       "ts": "1619584477.090400",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -157,14 +157,14 @@
       "type": "message",
       "subtype": "thread_broadcast",
       "text": "すみません、情報不足でした。デュアルブートではなく、Microsoft basic dataのパーティションをext4にフォーマットしてやっています。",
-      "user": "U2YNMHCTV",
+      "user": "takumi.kt",
       "ts": "1619584239.090000",
       "thread_ts": "1619583951.089900",
       "root": {
         "client_msg_id": "5691d24f-37e8-48d2-9c41-8a34ae8dbf9a",
         "type": "message",
         "text": "前やったときはこのUEFI環境の項を見てやりましたが、普通に起動してきましたが。。今は上手くいかない。。？\n<https://wiki.archlinux.jp/index.php/Windows_%E3%81%A8_Arch_%E3%81%AE%E3%83%87%E3%83%A5%E3%82%A2%E3%83%AB%E3%83%96%E3%83%BC%E3%83%88#UEFI_.E7.92.B0.E5.A2.83>",
-        "user": "UPLFHSQ2V",
+        "user": "conao3",
         "ts": "1619583951.089900",
         "team": "T0GFBAM8C",
         "blocks": [
@@ -193,7 +193,7 @@
         "reply_users_count": 1,
         "latest_reply": "1619584239.090000",
         "reply_users": [
-          "U2YNMHCTV"
+          "takumi.kt"
         ],
         "is_locked": false,
         "subscribed": false
@@ -221,7 +221,7 @@
       "client_msg_id": "5691d24f-37e8-48d2-9c41-8a34ae8dbf9a",
       "type": "message",
       "text": "前やったときはこのUEFI環境の項を見てやりましたが、普通に起動してきましたが。。今は上手くいかない。。？\n<https://wiki.archlinux.jp/index.php/Windows_%E3%81%A8_Arch_%E3%81%AE%E3%83%87%E3%83%A5%E3%82%A2%E3%83%AB%E3%83%96%E3%83%BC%E3%83%88#UEFI_.E7.92.B0.E5.A2.83>",
-      "user": "UPLFHSQ2V",
+      "user": "conao3",
       "ts": "1619583951.089900",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -250,7 +250,7 @@
       "reply_users_count": 1,
       "latest_reply": "1619584239.090000",
       "reply_users": [
-        "U2YNMHCTV"
+        "takumi.kt"
       ],
       "is_locked": false,
       "subscribed": false
@@ -259,7 +259,7 @@
       "client_msg_id": "d511cf56-d78f-4e1f-8b1f-49c4d007a943",
       "type": "message",
       "text": "ノートパソコンにArchをインストールしようとしてるんですが。ブートローダーのインストールまで済ませたつもりが、再起動したら「PCの修復をしています」と出てWindowsが立ち上がろうとしてArchのパーティションを壊していくのですが。\n何か、そこらへん、罠ありましたっけ?\n機種はHP Spectre x360です。Secure BootはDisableにしています。/bootに既存のEFIファイルシステムをマウントして、ブートローダーはsystemd-bootを `bootctl install` でインストールし、loader.confとentries/arch.confを作っています(それだけでは不十分でしたっけ?)",
-      "user": "U2YNMHCTV",
+      "user": "takumi.kt",
       "ts": "1619582056.089700",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -284,21 +284,21 @@
       "type": "message",
       "subtype": "channel_join",
       "ts": "1619578297.086100",
-      "user": "U020M0ZLKND",
-      "text": "<@U020M0ZLKND>さんがチャンネルに参加しました"
+      "user": "qryxip",
+      "text": "<@qryxip>さんがチャンネルに参加しました"
     },
     {
       "type": "message",
       "subtype": "channel_join",
       "ts": "1619501271.085900",
-      "user": "U02042L9G10",
-      "text": "<@U02042L9G10>さんがチャンネルに参加しました"
+      "user": "ken.saito.0813",
+      "text": "<@ken.saito.0813>さんがチャンネルに参加しました"
     },
     {
       "client_msg_id": "eed61785-63df-42f6-90b0-dc4bc04a6241",
       "type": "message",
       "text": "ファイルに未練がないなら、完全に再インストールになってデータ全部消えますが、そのまま mkfs.ext4 /dev/sda4 とかを実行してインストールガイドに沿ってインストールを進めればいいと思います\nファイルに未練があるなら、パーティション構成(sda2,3,4)を元の状態に戻せば、運がよければマウントできるかもしれません",
-      "user": "UUWBU08TU",
+      "user": "nyaarch64",
       "ts": "1619251036.082700",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -323,8 +323,8 @@
       "reply_users_count": 2,
       "latest_reply": "1619252993.085500",
       "reply_users": [
-        "U020MDKG448",
-        "UUWBU08TU"
+        "nine-k.960klo",
+        "nyaarch64"
       ],
       "is_locked": false,
       "subscribed": false,
@@ -332,7 +332,7 @@
         {
           "name": "heart",
           "users": [
-            "U020MDKG448"
+            "nine-k.960klo"
           ],
           "count": 1
         }
@@ -351,7 +351,7 @@
           "mimetype": "image/jpeg",
           "filetype": "jpg",
           "pretty_type": "JPEG",
-          "user": "U020MDKG448",
+          "user": "nine-k.960klo",
           "editable": false,
           "size": 1287227,
           "mode": "hosted",
@@ -388,14 +388,14 @@
           "original_w": 4128,
           "original_h": 3096,
           "thumb_tiny": "AwAkADCJnZgNrDB56VC5KDB289sGnRqxRMEYweop5geTlmGB7UDKxdiMYAplXPs3+0tNa2wM5FOxNysDUiuaRoyKaOKBly0G6NfYkVaC8VSs5URWDsBzxxVsXMGPvigGShfakZcjt+VN+1QDrIKQ3Vvj/WCgRHIin0/AVVePBq01xbn+MVG80B6NTBEHkr6ml8tQKeOlHasyyLy19KYyAVLTGoAj2ijFLSUxH//Z",
-          "permalink": "https://archlinuxjp.slack.com/files/U020MDKG448/F01V8HJ2UNR/20210424_165139.jpg",
+          "permalink": "https://archlinuxjp.slack.com/files/nine-k.960klo/F01V8HJ2UNR/20210424_165139.jpg",
           "permalink_public": "https://slack-files.com/T0GFBAM8C-F01V8HJ2UNR-9d45b79a7e",
           "is_starred": false,
           "has_rich_preview": false
         }
       ],
       "upload": false,
-      "user": "U020MDKG448",
+      "user": "nine-k.960klo",
       "display_as_bot": false,
       "ts": "1619250719.082600",
       "blocks": [
@@ -416,7 +416,7 @@
       "client_msg_id": "3626318d-e20f-41fa-b95d-5c01ea27ff20",
       "type": "message",
       "text": "sda4のパーティションを一度か数度は変えてしまっていました",
-      "user": "U020MDKG448",
+      "user": "nine-k.960klo",
       "ts": "1619250663.082500",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -441,7 +441,7 @@
       "client_msg_id": "af2ccd8a-38d7-4597-b214-754c472985e0",
       "type": "message",
       "text": "sda5ってセクター34-2047でEF02なパーティション(BIOS Boot partition)ですよね、filesystemは設定しなくて大丈夫です\nfdisk/gdiskでパーティションを切り直しても、ディスクのパーティション境界を設定し直しているだけでデータもファイルシステムも元の位置のままなのでマウントできなくなったんだと思います",
-      "user": "UUWBU08TU",
+      "user": "nyaarch64",
       "ts": "1619250357.082300",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -465,7 +465,7 @@
         {
           "name": "heart",
           "users": [
-            "U020MDKG448"
+            "nine-k.960klo"
           ],
           "count": 1
         }
@@ -475,7 +475,7 @@
       "client_msg_id": "1b04d694-0b39-4eb7-a3b7-a90043c422d6",
       "type": "message",
       "text": "また、sda2とsda3だった部分をsda4に変える前、sda4に該当する/homeにアクセスができなくなっている状態になりました\n実際、様々なことをしてしまいました",
-      "user": "U020MDKG448",
+      "user": "nine-k.960klo",
       "ts": "1619250058.082200",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -500,7 +500,7 @@
       "client_msg_id": "24517304-3e12-46d0-a960-ab5476d466ff",
       "type": "message",
       "text": "ところでsda5は未だfilesystemを設定していません\n他はext4です",
-      "user": "U020MDKG448",
+      "user": "nine-k.960klo",
       "ts": "1619249982.082100",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -525,7 +525,7 @@
       "client_msg_id": "b126ae8d-6943-4097-821c-94d21957e7f0",
       "type": "message",
       "text": "Androidとusbコネクタがあるためスマホでliveusbを作り直すところです",
-      "user": "U020MDKG448",
+      "user": "nine-k.960klo",
       "ts": "1619249915.082000",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -550,7 +550,7 @@
       "client_msg_id": "447bcab8-ae00-4a66-8f75-892181fed08b",
       "type": "message",
       "text": "Archじゃなかったんですね……",
-      "user": "UUWBU08TU",
+      "user": "nyaarch64",
       "ts": "1619249858.081900",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -575,7 +575,7 @@
       "client_msg_id": "e022e4e0-4d28-4354-aa0b-6db8f6f67691",
       "type": "message",
       "text": "していたこと: /dev/sda5も作った、sda2とsda3だった部分をsda4にした、その前にsda4についてはe2fsckを行った（多分）\nそれから、使っていたライブusbはGNU Guixでしたが、色々とやっているうちにchrootれなくなった気がしたためusbの中身をちゃんとArchに変えます",
-      "user": "U020MDKG448",
+      "user": "nine-k.960klo",
       "ts": "1619249616.081800",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -600,7 +600,7 @@
       "client_msg_id": "d28aab3a-86fd-4a2a-8212-36e9cf5e90a5",
       "type": "message",
       "text": "続きっていうか、/homeに600GBくらい割り当てていて/や/varの空き容量が足りなくなったのでパーティション切り直してる感じの方ですよね\nフォーラムだと厳しそうだったので……",
-      "user": "UUWBU08TU",
+      "user": "nyaarch64",
       "ts": "1619249450.081700",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -625,7 +625,7 @@
       "client_msg_id": "f87ccc4c-7ba7-4b33-a04a-bdf1c00bbb74",
       "type": "message",
       "text": "次のスレッドの続きです\n<https://bbs.archlinux.jp/viewtopic.php?id=180|https://bbs.archlinux.jp/viewtopic.php?id=180>",
-      "user": "U020MDKG448",
+      "user": "nine-k.960klo",
       "ts": "1619249291.081600",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -655,7 +655,7 @@
       "client_msg_id": "649108ae-f58f-406c-b90a-d686feb6bd3b",
       "type": "message",
       "text": "こんにちは\n助言ありがとうございます\nslackに参りました",
-      "user": "U020MDKG448",
+      "user": "nine-k.960klo",
       "ts": "1619249169.081500",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -680,14 +680,14 @@
       "type": "message",
       "subtype": "channel_join",
       "ts": "1619249074.081400",
-      "user": "U020MDKG448",
-      "text": "<@U020MDKG448>さんがチャンネルに参加しました"
+      "user": "nine-k.960klo",
+      "text": "<@nine-k.960klo>さんがチャンネルに参加しました"
     },
     {
       "client_msg_id": "356e15f7-9c83-4172-a06d-fcb57de2c9c8",
       "type": "message",
       "text": "もしかしてlibicu壊れてます？",
-      "user": "UVB7L4CKH",
+      "user": "tatsumigamou",
       "ts": "1618662651.081200",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -712,21 +712,21 @@
       "type": "message",
       "subtype": "channel_join",
       "ts": "1618623194.081100",
-      "user": "U01UJ8CFW8M",
-      "text": "<@U01UJ8CFW8M>さんがチャンネルに参加しました"
+      "user": "fumufumi",
+      "text": "<@fumufumi>さんがチャンネルに参加しました"
     },
     {
       "type": "message",
       "subtype": "channel_join",
       "ts": "1618546429.080900",
-      "user": "U01V7A4J872",
-      "text": "<@U01V7A4J872>さんがチャンネルに参加しました"
+      "user": "mmts873pn",
+      "text": "<@mmts873pn>さんがチャンネルに参加しました"
     },
     {
       "client_msg_id": "5860d495-efca-4ba9-a775-d9926b829beb",
       "type": "message",
       "text": "ツイキャスもFirefoxだと接続きれる…",
-      "user": "U019C7VLZ4G",
+      "user": "getalotofmail",
       "ts": "1618382874.080700",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -751,7 +751,7 @@
       "client_msg_id": "0129b937-c0b2-4a05-9770-7422a8f09fc4",
       "type": "message",
       "text": "androidのfirefox(fennec)でもニコニコのコメントが不安定でした\nbromite(chromium)ではぬるぬるでした\nやっぱりfirefox系だめなのか",
-      "user": "U01HE1ENNJZ",
+      "user": "a3784197",
       "ts": "1618224193.080500",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -776,14 +776,14 @@
       "type": "message",
       "subtype": "channel_join",
       "ts": "1618189624.079000",
-      "user": "U01UN431ZCG",
-      "text": "<@U01UN431ZCG>さんがチャンネルに参加しました"
+      "user": "yume",
+      "text": "<@yume>さんがチャンネルに参加しました"
     },
     {
       "client_msg_id": "a69d1180-7b6d-453a-81d4-6a3e3f50a24c",
       "type": "message",
       "text": "Chrome、特に脱Googleとかを目指してるわけでもなければ便利なのでﾖｼ!って使ってます。\n特にGoogle DosとかSpreadSheetよく使うので…",
-      "user": "U017BNGTHT3",
+      "user": "s5is",
       "ts": "1618117754.078700",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -808,7 +808,7 @@
       "client_msg_id": "d684c6cb-f8ef-4374-9232-0342f5ebc92b",
       "type": "message",
       "text": "FireFoxさん dアニメストアが再生できたりできなかったりするからchromium使ってる",
-      "user": "UCA1NQM5K",
+      "user": "angel.beats.kanade.yu",
       "ts": "1618115137.078000",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -832,8 +832,8 @@
         {
           "name": "wakaru",
           "users": [
-            "U53RAQBCP",
-            "U01HE1ENNJZ",
+            "kokopis",
+            "a3784197",
             "U013L1JQ0J2"
           ],
           "count": 3
@@ -844,7 +844,7 @@
       "client_msg_id": "9e6443bc-d0a9-4a90-bdae-f54cd12140e3",
       "type": "message",
       "text": "youtube-dlが対応してたらmpvで再生したらいい感じ",
-      "user": "U01HE1ENNJZ",
+      "user": "a3784197",
       "ts": "1618114884.077900",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -869,7 +869,7 @@
       "client_msg_id": "126C215C-8FE3-474D-8C59-9A760266C2EA",
       "type": "message",
       "text": "Firefox, DRMなコンテンツの互換性が怪しいんだよな(Netflixとか…)",
-      "user": "U53RAQBCP",
+      "user": "kokopis",
       "ts": "1618058847.076100",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -894,7 +894,7 @@
       "client_msg_id": "1abb601c-f880-4365-8354-f8f682771dfa",
       "type": "message",
       "text": "Firefoxでniconico見てるとノートのファンが結構な勢いで回るし、Chromium試してみようかな…",
-      "user": "UJ7P75WB1",
+      "user": "motoi.railgun",
       "ts": "1618053623.075200",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -919,7 +919,7 @@
       "client_msg_id": "958dd895-2167-4292-a9df-8f1d3af1e82e",
       "type": "message",
       "text": "<https://wiki.archlinux.org/index.php/Chromium#Force_GPU_acceleration>\nchromiumでこれ有効化してますけど\nこれのおかげかもしれない",
-      "user": "U01HE1ENNJZ",
+      "user": "a3784197",
       "ts": "1618040620.075100",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -948,7 +948,7 @@
       "client_msg_id": "f19dbb48-6e34-407e-83f3-1fcf92b86292",
       "type": "message",
       "text": "ハードウェアアクセラレーションが効いてるかどうかも差がありそう",
-      "user": "U0PM6EYR1",
+      "user": "raa0121",
       "ts": "1618032407.074500",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -973,7 +973,7 @@
       "client_msg_id": "01DEF528-8F0A-49D8-ADBB-C11586BE46DC",
       "type": "message",
       "text": "ブラウザによって結構違いますよね",
-      "user": "U0GFBAM8U",
+      "user": "syui",
       "ts": "1618029181.074100",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -998,7 +998,7 @@
       "client_msg_id": "57f31a46-c4d0-48aa-9864-66a8d307e922",
       "type": "message",
       "text": "なぜかfirefoxで流れるコメントが不安定でchromiumで再生したら安定してました",
-      "user": "U01HE1ENNJZ",
+      "user": "a3784197",
       "ts": "1618025298.073800",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -1023,7 +1023,7 @@
       "client_msg_id": "cfcdd3d7-cde6-4be3-a557-1f23d9cc7eed",
       "type": "message",
       "text": "niconicoのほうがcpu食ってました",
-      "user": "U01HE1ENNJZ",
+      "user": "a3784197",
       "ts": "1618024469.073000",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -1048,7 +1048,7 @@
       "client_msg_id": "7e85dd4c-ae34-41b0-80e5-cbd0f08423d9",
       "type": "message",
       "text": "av1は無効化できないのでどういったものか",
-      "user": "U01HE1ENNJZ",
+      "user": "a3784197",
       "ts": "1617969644.072600",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -1073,7 +1073,7 @@
       "client_msg_id": "8cd6decc-9a91-428f-981f-d7453c50412d",
       "type": "message",
       "text": "公式レポの `chromium` はvaapiサポートがデフォルトなので何もしなくてもhwデコードになるみたいですね(X11限定)",
-      "user": "U53RAQBCP",
+      "user": "kokopis",
       "ts": "1617961436.072100",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -1109,7 +1109,7 @@
       "client_msg_id": "6e91f7d7-e546-41d0-9774-3464262ac980",
       "type": "message",
       "text": "公式リポジトリから入れてます",
-      "user": "U01HE1ENNJZ",
+      "user": "a3784197",
       "ts": "1617959693.071000",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -1134,7 +1134,7 @@
       "client_msg_id": "f9285224-4549-4308-895c-2429e7151004",
       "type": "message",
       "text": "もともとchromiumは使ったことないのですが",
-      "user": "U01HE1ENNJZ",
+      "user": "a3784197",
       "ts": "1617959672.070500",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -1159,7 +1159,7 @@
       "client_msg_id": "b44c75d6-a155-41c9-88fa-5c92a18be3c4",
       "type": "message",
       "text": "nvidiaではなくintelです",
-      "user": "U01HE1ENNJZ",
+      "user": "a3784197",
       "ts": "1617959649.070100",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -1183,7 +1183,7 @@
     {
       "type": "message",
       "text": "Nvidia 使ってると VP9 のハードウェアデコードは AUR にある `libva-vdpau-driver-vp9-git` 使わないといけないので YouTube で CPU 使用率高くなってたりするとその辺が原因かもしれません。",
-      "user": "U257W41DW",
+      "user": "odknt",
       "ts": "1617957656.069700",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -1219,7 +1219,7 @@
       "client_msg_id": "0ca58c55-5de7-4bf1-af40-a5d37e2b4e4d",
       "type": "message",
       "text": "若干off topicですがwin10でもedge，chromeとfirefoxでcpu使用率が全然違うので、メモリが十分にあるならばaurのchromium-vaapiの方が良いかもしれませんね。（←不安定過ぎてfirefoxに乗り換えた民）",
-      "user": "U01J1GGMHDJ",
+      "user": "naokihirokitomoki",
       "ts": "1617957119.065700",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -1244,7 +1244,7 @@
       "client_msg_id": "78b43835-c88e-4ec0-96f3-14236182a38c",
       "type": "message",
       "text": "firefoxでvaapi効くように設定してあるんですけどcpu結構使用していてmpvで再生するとcpu使わないのかと思いまして\nfirefoxはバッテリーに良くないのかと",
-      "user": "U01HE1ENNJZ",
+      "user": "a3784197",
       "ts": "1617953338.065300",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -1268,8 +1268,8 @@
         {
           "name": "totemoturai",
           "users": [
-            "U017BNGTHT3",
-            "U01J1GGMHDJ"
+            "s5is",
+            "naokihirokitomoki"
           ],
           "count": 2
         }
@@ -1279,7 +1279,7 @@
       "client_msg_id": "61a2edf1-8837-4e6a-9258-857b4c4ea1c8",
       "type": "message",
       "text": "うちのはX270でバッテリー2本な上に、そこまで電源確保が厳しい状態になることが少なくて\nZenカーネルにTLPという省電力を考えてるのか考えてないのかよく分からない状態になってます\n(普通にバッテリーの持ちは良い)",
-      "user": "U017BNGTHT3",
+      "user": "s5is",
       "ts": "1617952818.063800",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -1304,7 +1304,7 @@
       "client_msg_id": "D2E33979-2C6B-4497-853D-D71639B626E6",
       "type": "message",
       "text": "私も基本的には tlp任せですね\nそれとデバイス個別にカーネルモジュールのオプションをいくつか試して設定しています\n\npowertop自体は診断用に使ってますが、`--auto-tune` は結構アグレッシブにデバイスの省電力オプションを有効化してくるので、それがもとで不具合が起こるのを嫌って避けてます",
-      "user": "U6DL9D3AB",
+      "user": "emtee",
       "ts": "1617952520.060300",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -1340,11 +1340,11 @@
       "client_msg_id": "e5a9c932-0d12-4213-a703-24d9d3bf5540",
       "type": "message",
       "text": "うちのThinkPadはtlpだけ突っ込んである感じですね。",
-      "user": "U017BNGTHT3",
+      "user": "s5is",
       "ts": "1617951024.052700",
       "team": "T0GFBAM8C",
       "edited": {
-        "user": "U017BNGTHT3",
+        "user": "s5is",
         "ts": "1617951035.000000"
       },
       "blocks": [
@@ -1369,7 +1369,7 @@
       "client_msg_id": "b7fcfdfd-4f04-48eb-adda-f0c6c58c2b0a",
       "type": "message",
       "text": "systemdで自動起動するようにしてます",
-      "user": "U01HE1ENNJZ",
+      "user": "a3784197",
       "ts": "1617950061.052100",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -1394,7 +1394,7 @@
       "client_msg_id": "483cb9e7-09a2-40d6-9838-8eee9c7733c9",
       "type": "message",
       "text": "少電力化って何してますか？\n`powertop --auto-tune`\nは試してみたのですが",
-      "user": "U01HE1ENNJZ",
+      "user": "a3784197",
       "ts": "1617950018.051700",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -1430,7 +1430,7 @@
       "client_msg_id": "4fe62c70-0616-4e85-9609-2b6399a611f8",
       "type": "message",
       "text": "以前はいけてたので、原因はupdateか何かかな",
-      "user": "U0GFBAM8U",
+      "user": "syui",
       "ts": "1617937349.050800",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -1455,7 +1455,7 @@
       "client_msg_id": "1634fd93-203d-4561-aa19-9d8dc5a8896d",
       "type": "message",
       "text": "いけました\n/.Xmodmap_customを~/.Xmodmapにして、i3から読み込まないようにした(i3からxmodmapはstartupできないぽい?",
-      "user": "U0GFBAM8U",
+      "user": "syui",
       "ts": "1617937255.050400",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -1480,7 +1480,7 @@
       "client_msg_id": "4d8748fa-e86d-4f44-add6-afb13d916924",
       "type": "message",
       "text": "こんな感じでデフォルトでxmodmapの配列を指定していて、機能してたんですけど、いつの間にか、xbindkeysの配列がスタートされるようになってた\n`M+C+r`で切り替えてるので、そこまで不便でもないんですけど、スタート時xmodmap配列使いたい",
-      "user": "U0GFBAM8U",
+      "user": "syui",
       "ts": "1617934751.049100",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -1516,7 +1516,7 @@
       "client_msg_id": "04cabd04-4333-4ea9-a8e7-917eab606cc4",
       "type": "message",
       "text": "私もこの前から指定してるキー配列がi3で突然切り替わってしまいました\n```exec --no-startup-id xmodmap ~/.Xmodmap_custom\nbindsym $mod+r exec xbindkeys\nbindsym $mod+Ctrl+r exec pkill xbindkeys &amp; xmodmap ~/.Xmodmap_custom```",
-      "user": "U0GFBAM8U",
+      "user": "syui",
       "ts": "1617934538.046500",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -1550,7 +1550,7 @@
       "client_msg_id": "777a8db3-d5c8-4268-93ff-c275004785a3",
       "type": "message",
       "text": "i3なら `setxkbmap jp` とかも効いたはず",
-      "user": "U017BNGTHT3",
+      "user": "s5is",
       "ts": "1617930114.045400",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -1586,7 +1586,7 @@
       "client_msg_id": "7c82fb62-03cc-420c-940a-ac4a208996a3",
       "type": "message",
       "text": "なるほど\nありがとうございます",
-      "user": "U01HE1ENNJZ",
+      "user": "a3784197",
       "ts": "1617929550.044500",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -1611,7 +1611,7 @@
       "client_msg_id": "be26c3f0-623a-4427-a2ea-3fb2000fb2e9",
       "type": "message",
       "text": "$ fcitx-configtoolで呼び出せるGUI画面から設定できます",
-      "user": "UBEFL3YLE",
+      "user": "mail",
       "ts": "1617929479.044200",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -1636,7 +1636,7 @@
       "client_msg_id": "aeced8dd-0d54-4042-9ec6-e4940b44d563",
       "type": "message",
       "text": "i3wmの方もアプリケーションによってはfcitx-mozcの設定を使っていたはず",
-      "user": "UBEFL3YLE",
+      "user": "mail",
       "ts": "1617929408.043600",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -1661,7 +1661,7 @@
       "client_msg_id": "4f37f306-df3e-48f3-b727-128c58cb4946",
       "type": "message",
       "text": "Gnome（wayland）だとX11のconfよりGnome Settingsやfcitxの配列設定を優先する仕組みだったかと思いますが",
-      "user": "UBEFL3YLE",
+      "user": "mail",
       "ts": "1617929227.042600",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -1686,7 +1686,7 @@
       "client_msg_id": "1a6ae528-795c-4f09-a994-ba873c65d1aa",
       "type": "message",
       "text": "gnomeのことなのですがX11の設定でjisキー配列使うように設定してたのですが(00-keyboard.conf)\nusキー配列になってしまったのですがどこか設定ファイルありますか？\nwaylandではなくi3wmでもusになってました",
-      "user": "U01HE1ENNJZ",
+      "user": "a3784197",
       "ts": "1617927442.041500",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -1711,7 +1711,7 @@
       "client_msg_id": "E89874E4-8418-4753-808E-C7ED7A69E51F",
       "type": "message",
       "text": "`gnome-extensions` でCLI管理もできたはず",
-      "user": "U53RAQBCP",
+      "user": "kokopis",
       "ts": "1617806570.038900",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -1743,7 +1743,7 @@
       "client_msg_id": "1BCC2945-E1BD-4001-90DE-B1D4FA8AD3CE",
       "type": "message",
       "text": "新しいExtensionアプリに分割されたみたいですね",
-      "user": "U53RAQBCP",
+      "user": "kokopis",
       "ts": "1617806526.038200",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -1768,7 +1768,7 @@
       "client_msg_id": "1d158d86-e816-41dc-8575-54463fa13ac6",
       "type": "message",
       "text": "あれ、Gnome40でgnome-tweaksで拡張機能の管理できなくなったのか\n代わりってどこにあるのでしたっけ(update後、初回起動時になんか見た気がするが見逃してしまった)",
-      "user": "U019C7VLZ4G",
+      "user": "getalotofmail",
       "ts": "1617803543.037500",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -1793,14 +1793,14 @@
       "type": "message",
       "subtype": "channel_join",
       "ts": "1617788000.036000",
-      "user": "U01TPH5UXE0",
-      "text": "<@U01TPH5UXE0>さんがチャンネルに参加しました"
+      "user": "oriaca372m",
+      "text": "<@oriaca372m>さんがチャンネルに参加しました"
     },
     {
       "client_msg_id": "5f465e68-ded8-4cff-a672-7dd23d30f727",
       "type": "message",
       "text": "需要がないとかメンテナおらんとか書いてあった記憶",
-      "user": "UGA29R3FH",
+      "user": "znmxodq1",
       "ts": "1617706194.035700",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -1825,7 +1825,7 @@
       "client_msg_id": "549dc0fb-d39f-49e5-b666-b831c94797b4",
       "type": "message",
       "text": "Wikiにそう書いてあったのは見た気がする",
-      "user": "UGA29R3FH",
+      "user": "znmxodq1",
       "ts": "1617706179.035100",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -1850,7 +1850,7 @@
       "client_msg_id": "71656814-ec36-4f6d-962e-c546c1c7c5db",
       "type": "message",
       "text": "Archって初期の頃もインストーラありませんでしたっけ　かなり前に廃止されたようですが",
-      "user": "U01792411FA",
+      "user": "seekerkrt",
       "ts": "1617705093.034400",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -1875,7 +1875,7 @@
       "client_msg_id": "3bf8817f-9041-458b-9a86-6495fefa6340",
       "type": "message",
       "text": "でもイキりたくてインストールしてみたら意外と行けたという面もちょっとだけある",
-      "user": "U019C7VLZ4G",
+      "user": "getalotofmail",
       "ts": "1617532969.032000",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -1900,7 +1900,7 @@
       "client_msg_id": "efe02a2f-40dd-41b9-9d91-789d63d61415",
       "type": "message",
       "text": "ArchにインストーラついちゃったらArch Installation Challengeでイキれなくなってしまう(違うそうじゃない)",
-      "user": "U019C7VLZ4G",
+      "user": "getalotofmail",
       "ts": "1617532865.031900",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -1925,7 +1925,7 @@
       "client_msg_id": "f0eb3a2e-7e07-48da-94a7-23ae308046bf",
       "type": "message",
       "text": "赤帽系はインストーラありきだと思うのに…",
-      "user": "UGA29R3FH",
+      "user": "znmxodq1",
       "ts": "1617469373.031400",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -1949,8 +1949,8 @@
         {
           "name": "sorena",
           "users": [
-            "U53RAQBCP",
-            "U01HE1ENNJZ"
+            "kokopis",
+            "a3784197"
           ],
           "count": 2
         }
@@ -1960,7 +1960,7 @@
       "client_msg_id": "D55114BD-A554-46C0-9DEE-CA03D25837C1",
       "type": "message",
       "text": "Archすらインストーラがつくのに一年以上インストーラのバグが放置されてるfedoraくん…",
-      "user": "U53RAQBCP",
+      "user": "kokopis",
       "ts": "1617428192.030200",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -1984,8 +1984,8 @@
         {
           "name": "totemoturai",
           "users": [
-            "UGA29R3FH",
-            "U01HE1ENNJZ"
+            "znmxodq1",
+            "a3784197"
           ],
           "count": 2
         },
@@ -1993,7 +1993,7 @@
           "name": "thinking_face",
           "users": [
             "UAPRYSVPS",
-            "U01HE1ENNJZ"
+            "a3784197"
           ],
           "count": 2
         }
@@ -2003,7 +2003,7 @@
       "client_msg_id": "83b47cde-6b86-4bec-b1c2-3b02a97e1ef6",
       "type": "message",
       "text": "今まで通りできるのはいいですね",
-      "user": "U01HE1ENNJZ",
+      "user": "a3784197",
       "ts": "1617424183.028200",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -2028,7 +2028,7 @@
       "client_msg_id": "cc70a42b-69ff-4959-93ae-05485448002b",
       "type": "message",
       "text": "vboxに昨日インストールしてみたのですがluks暗号化までやってくれます\nbios boot未対応のようです\ndesktopにgnomeを選ぶといろんなものが入っちゃいました\nこれは嫌ですね",
-      "user": "U01HE1ENNJZ",
+      "user": "a3784197",
       "ts": "1617412429.027300",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -2053,7 +2053,7 @@
       "client_msg_id": "9ef69b58-20ea-4012-b2fa-78aaea0edc65",
       "type": "message",
       "text": "バイナリ禁止だともろにPC性能が勝敗の分け目になりそう…",
-      "user": "U3FJYR7MG",
+      "user": "dohq",
       "ts": "1617368733.025700",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -2078,7 +2078,7 @@
       "client_msg_id": "f5359095-3b03-4859-a8a1-b14d13ed1d48",
       "type": "message",
       "text": "GentooInstallBattleしませう",
-      "user": "UVB7L4CKH",
+      "user": "tatsumigamou",
       "ts": "1617367991.025100",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -2103,8 +2103,8 @@
           "name": "eyes",
           "users": [
             "U01GL4MB9KR",
-            "U01HE1ENNJZ",
-            "UJ7P75WB1"
+            "a3784197",
+            "motoi.railgun"
           ],
           "count": 3
         }
@@ -2114,7 +2114,7 @@
       "client_msg_id": "21213230-569e-43c3-b8a2-f5d07809dd7a",
       "type": "message",
       "text": "嬉しい点 ： archlinuxinstallbattleが楽になる\n悲しい点 ： archlinuxinstallbattleが楽になりarch linuxをインストールしているぐらいではlinuxﾎﾝﾉﾁｮｯﾄﾃﾞｷﾙと言えなくなる",
-      "user": "U01J1GGMHDJ",
+      "user": "naokihirokitomoki",
       "ts": "1617359070.024400",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -2138,8 +2138,8 @@
         {
           "name": "wakaru",
           "users": [
-            "U53RAQBCP",
-            "U01HE1ENNJZ",
+            "kokopis",
+            "a3784197",
             "US19N5ARJ",
             "UL3J5T649"
           ],
@@ -2151,7 +2151,7 @@
       "client_msg_id": "fdce344c-e269-46da-9668-594183913013",
       "type": "message",
       "text": "エイプリルフールじゃないんですねｗ",
-      "user": "U0L2RG3U2",
+      "user": "shinko",
       "ts": "1617349604.024200",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -2176,7 +2176,7 @@
       "client_msg_id": "373c276a-492c-4308-8266-31e70327a552",
       "type": "message",
       "text": "manjaro architectみたいになるのですかね",
-      "user": "U01HE1ENNJZ",
+      "user": "a3784197",
       "ts": "1617341501.024100",
       "team": "T0GFBAM8C",
       "blocks": [
@@ -2201,7 +2201,7 @@
       "client_msg_id": "ef3edc97-c0ae-413b-97d8-037c5909e268",
       "type": "message",
       "text": "<https://www.archlinux.jp/news/installation-medium-with-installer/>",
-      "user": "U0PM6EYR1",
+      "user": "raa0121",
       "ts": "1617340635.023600",
       "team": "T0GFBAM8C",
       "attachments": [
@@ -2241,10 +2241,10 @@
         {
           "name": "interrobang",
           "users": [
-            "U53RAQBCP",
-            "U01HE1ENNJZ",
-            "UJ7P75WB1",
-            "U019C7VLZ4G",
+            "kokopis",
+            "a3784197",
+            "motoi.railgun",
+            "getalotofmail",
             "U5W6QDSHZ"
           ],
           "count": 5
