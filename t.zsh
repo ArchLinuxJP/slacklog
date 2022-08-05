@@ -102,7 +102,11 @@ name_rewrite(){
 		do
 			id=`echo "$ttt"|awk "NR==$ii"`
 			name=`cat $d/user.json|jq -r ".members|.[]|select(.id == \"$id\")|.name"`
-			if [ "$id" != "null" ];then
+			if [ -z "$name" ];then
+				echo ok $tt
+				break
+			fi
+			if [ "$id" != "null" ] && [ -n "$name" ];then
 				echo $id $name
 				echo sed -i \"\" \"s/$id/$name/g\" $tt
 				sed -i "" "s/$id/$name/g" $tt
@@ -112,6 +116,14 @@ name_rewrite(){
 	done
 }
 
+latest_json(){
+	f=$d/latest.json
+	d=`ls $d/20*.json|tail -n 1`
+	d=`echo ${d##*/}|cut -d _ -f 1`
+	echo "{\"latest\":\"$d\"}" >! $f
+}
+
 user_json
 slack_log
 name_rewrite
+latest_json
