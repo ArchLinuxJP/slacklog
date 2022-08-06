@@ -18,16 +18,6 @@ https://archlinuxjp.github.io/slacklog
 
 slackからでもgithubからでもいいのでご連絡ください。
 
-### 概要
-
-gh-actionsで定期的にcronして、slack-apiの[conversations.history](https://api.slack.com/methods/conversations.history)を叩きます。token権限はchannel.historyを与えています。更新があれば、このリポジトリのjsonを更新します。nameを取得するのに[user.list](https://api.slack.com/methods/users.list)も利用します。
-
-pushは[こちら](https://github.com/marketplace/actions/github-push)を利用します。
-
-公開される情報を必要最小限にするためjsonは独自に形成したものを使用します。しかし、突貫工事で作ったためshellscriptとjqを利用しています。これは可読性に欠けるため、できればgoとかでそれぞれの処理を簡略化したほうがいいでしょう。
-
-htmlは、gh-pagesとvueでjsonを参照します。
-
 ### slack api
 
 https://api.slack.com/apps : `slacklog`
@@ -43,6 +33,10 @@ https://api.slack.com/apps : `slacklog`
 ```
 
 `User Token Scopes` : [channels:history](https://api.slack.com/scopes/channels:history), [users:read](https://api.slack.com/scopes/users:read)
+
+- [conversations.history](https://api.slack.com/methods/conversations.history)
+
+- [user.list](https://api.slack.com/methods/users.list)
 
 ### 使い方
 
@@ -71,7 +65,7 @@ $ yarn serve
 $ yarn build
 
 $ mv dist ../
-# git checkout gh-pages
+$ git checkout gh-pages
 $ cp -rf ../dist/{*.js,*.map} .
 $ git add *.js *.map
 $ git commit -m "deploy pages"
