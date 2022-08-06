@@ -1,8 +1,0 @@
-    - name: Commit files
-      run: |
-        git config --local user.email "action@github.com"
-        git config --local user.name "GitHub Action"
-        if [ -z "`git status -s`" ];then
-          exit
-        fi
-        date=`date +"%Y%m"`

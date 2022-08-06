@@ -1,0 +1,3398 @@
+{
+  "ok": true,
+  "latest": "1619871056.000000",
+  "oldest": "1617279056.000000",
+  "messages": [
+    {
+      "client_msg_id": "D7A0B450-2082-4300-A073-D7BC0D3158CD",
+      "type": "message",
+      "text": "お、よかったですね",
+      "user": "syui",
+      "ts": "1619652830.145800",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "HWROU",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "お、よかったですね"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "a8f100c8-e269-457d-8ebe-bcc3fd95b29c",
+      "type": "message",
+      "text": "いま他のパッケージでは知らせたら正常に動きました\nあとはリポジトリ化するだけです\nありがとうございました",
+      "user": "a3784197",
+      "ts": "1619652654.145500",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "=Q1tx",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "いま他のパッケージでは知らせたら正常に動きました\nあとはリポジトリ化するだけです\nありがとうございました"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "756a0cb1-e093-444d-9b8f-feec9ec14c86",
+      "type": "message",
+      "text": "でも、travisは最近お亡くなりになったと聞いてる(正確には違うけど",
+      "user": "syui",
+      "ts": "1619652081.144700",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "0h3r",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "でも、travisは最近お亡くなりになったと聞いてる(正確には違うけど"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "ec2ea488-fca6-460a-8b81-87c208a04e9e",
+      "type": "message",
+      "text": "多分制限でしょう",
+      "user": "a3784197",
+      "ts": "1619652022.144200",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "n6XS",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "多分制限でしょう"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "eacc26fd-03ff-46d4-bd90-0b46779d790a",
+      "type": "message",
+      "text": "昔、似たようなことをやってた時期があって、linuxイメージをdocker内で作るのをtravis-ciで動かして、作ったイメージをdocker化してdocker-hubにupするみたいなことをやったんですけど、そのときもsize的に結構大きかったと思うんですが、travis-ciでは動いてましたね。",
+      "user": "syui",
+      "ts": "1619652003.143800",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "6+68",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "昔、似たようなことをやってた時期があって、linuxイメージをdocker内で作るのをtravis-ciで動かして、作ったイメージをdocker化してdocker-hubにupするみたいなことをやったんですけど、そのときもsize的に結構大きかったと思うんですが、travis-ciでは動いてましたね。"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "240c1a5c-acdb-466f-b40f-98d2fb24fb13",
+      "type": "message",
+      "text": "`final close failed: No space left on device` とありますね。gh-actionsってfreeはdiskのsize制限とかあるのでしょうか",
+      "user": "syui",
+      "ts": "1619651684.141900",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "QirK",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "final close failed: No space left on device",
+                  "style": {
+                    "code": true
+                  }
+                },
+                {
+                  "type": "text",
+                  "text": " とありますね。gh-actionsってfreeはdiskのsize制限とかあるのでしょうか"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "8ce16048-7c6c-4e93-9675-0f3df2eb2b27",
+      "type": "message",
+      "text": "no left on spaceで終わってました\n一応うまく行ったのかな",
+      "user": "a3784197",
+      "ts": "1619650980.140900",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "ICUf",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "no left on spaceで終わってました\n一応うまく行ったのかな"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "40E78E52-4DB4-485E-A9CC-6EEC8531B118",
+      "type": "message",
+      "text": "お、よかった",
+      "user": "syui",
+      "ts": "1619620449.139300",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "Nmu",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "お、よかった"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "45c0cb77-9e63-4648-ab3d-8eb154da344a",
+      "type": "message",
+      "text": "現在動かしております\n順調のようです\nありがとうございます",
+      "user": "a3784197",
+      "ts": "1619616602.138900",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "FvWH",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "現在動かしております\n順調のようです\nありがとうございます"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "1bbb3912-cb7b-42cc-82ee-eac83d56592f",
+      "type": "message",
+      "text": "<https://github.com/u0a266/linux/runs/2457948712?check_suite_focus=true|https://github.com/u0a266/linux/runs/2457948712?check_suite_focus=true>",
+      "user": "a3784197",
+      "ts": "1619616583.138700",
+      "team": "T0GFBAM8C",
+      "attachments": [
+        {
+          "title": "GitHub",
+          "title_link": "https://github.com/u0a266/linux/runs/2457948712?check_suite_focus=true",
+          "text": "GitHub is where people build software. More than 56 million people use GitHub to discover, fork, and contribute to over 100 million projects.",
+          "fallback": "GitHub",
+          "image_url": "https://github.githubassets.com/images/modules/open_graph/github-logo.png",
+          "image_width": 250,
+          "image_height": 250,
+          "from_url": "https://github.com/u0a266/linux/runs/2457948712?check_suite_focus=true",
+          "image_bytes": 7038,
+          "service_icon": "https://a.slack-edge.com/80588/img/unfurl_icons/github.png",
+          "id": 1,
+          "original_url": "https://github.com/u0a266/linux/runs/2457948712?check_suite_focus=true"
+        }
+      ],
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "Nkzc",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "link",
+                  "url": "https://github.com/u0a266/linux/runs/2457948712?check_suite_focus=true",
+                  "text": "https://github.com/u0a266/linux/runs/2457948712?check_suite_focus=true"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "69764172-9264-4BA3-8C31-4CCCAE63506B",
+      "type": "message",
+      "text": "<https://dev.to/shofol/run-your-github-actions-jobs-from-a-specific-directory-1i9e|https://dev.to/shofol/run-your-github-actions-jobs-from-a-specific-directory-1i9e>",
+      "user": "syui",
+      "ts": "1619615897.138500",
+      "team": "T0GFBAM8C",
+      "attachments": [
+        {
+          "service_name": "DEV Community",
+          "title": "Run your Github Actions jobs from a specific directory",
+          "title_link": "https://dev.to/shofol/run-your-github-actions-jobs-from-a-specific-directory-1i9e",
+          "text": "instruction to run Github actions from a specific directory",
+          "fallback": "DEV Community: Run your Github Actions jobs from a specific directory",
+          "image_url": "https://res.cloudinary.com/practicaldev/image/fetch/s--l2i_94mb--/c_imagga_scale,f_auto,fl_progressive,h_500,q_auto,w_1000/https://imgbbb.com/images/2020/05/26/actions.png",
+          "from_url": "https://dev.to/shofol/run-your-github-actions-jobs-from-a-specific-directory-1i9e",
+          "image_width": 500,
+          "image_height": 250,
+          "image_bytes": 18538,
+          "service_icon": "https://res.cloudinary.com/practicaldev/image/fetch/s--gDM0_LTS--/c_limit,f_png,fl_progressive,q_80,w_180/https://practicaldev-herokuapp-com.freetls.fastly.net/assets/devlogo-pwa-512.png",
+          "id": 1,
+          "original_url": "https://dev.to/shofol/run-your-github-actions-jobs-from-a-specific-directory-1i9e"
+        }
+      ],
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "xQP",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "link",
+                  "url": "https://dev.to/shofol/run-your-github-actions-jobs-from-a-specific-directory-1i9e",
+                  "text": "https://dev.to/shofol/run-your-github-actions-jobs-from-a-specific-directory-1i9e"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "79253253-6CB0-48E4-BDDF-3FF55FD96371",
+      "type": "message",
+      "text": "<https://github.community/t/use-working-directory-for-entire-job/16747/2|https://github.community/t/use-working-directory-for-entire-job/16747/2>",
+      "user": "syui",
+      "ts": "1619615881.138300",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "kPfu",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "link",
+                  "url": "https://github.community/t/use-working-directory-for-entire-job/16747/2",
+                  "text": "https://github.community/t/use-working-directory-for-entire-job/16747/2"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "4A53A005-05C7-4F19-AA57-BF5D6B4C9E0F",
+      "type": "message",
+      "text": "gh-actionはどのディレクトリで作業してるのか把握しづらいことありますよね\n他にもciセキュリティの問題、gitの問題(clone範囲やignore、branchなど)、可能性として考えられます",
+      "user": "syui",
+      "ts": "1619615270.137800",
+      "team": "T0GFBAM8C",
+      "edited": {
+        "user": "syui",
+        "ts": "1619615428.000000"
+      },
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "IS95",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "gh-actionはどのディレクトリで作業してるのか把握しづらいことありますよね\n他にもciセキュリティの問題、gitの問題(clone範囲やignore、branchなど)、可能性として考えられます"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "25F3F234-3DC8-4279-8D4B-3110500BDFE0",
+      "type": "message",
+      "text": "最も簡単な回避策としては、pkgbuildをrawのurlからcurlなどを使ってダウンロードする処理を直前に入れることかな",
+      "user": "syui",
+      "ts": "1619615082.135400",
+      "team": "T0GFBAM8C",
+      "edited": {
+        "user": "syui",
+        "ts": "1619615368.000000"
+      },
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "/dUJK",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "最も簡単な回避策としては、pkgbuildをrawのurlからcurlなどを使ってダウンロードする処理を直前に入れることかな"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "4421f045-4492-43b7-8133-27ac10fd406a",
+      "type": "message",
+      "text": "<https://github.com/xdevs23/linux-nitrous|https://github.com/xdevs23/linux-nitrous>\narchwikiの非公式リポジトリにのってた同じaction使ってるリポジトリです",
+      "user": "a3784197",
+      "ts": "1619603489.133500",
+      "team": "T0GFBAM8C",
+      "attachments": [
+        {
+          "service_name": "GitHub",
+          "title": "xdevs23/linux-nitrous",
+          "title_link": "https://github.com/xdevs23/linux-nitrous",
+          "text": "<https://gitlab.com/xdevs23/linux-nitrous>. Contribute to xdevs23/linux-nitrous development by creating an account on GitHub.",
+          "fallback": "GitHub: xdevs23/linux-nitrous",
+          "image_url": "https://opengraph.githubassets.com/1a17359db0603a9b242f9a4b975adfb1abeb88e10cf793c3849c4894d81a97b8/xdevs23/linux-nitrous",
+          "image_width": 500,
+          "image_height": 250,
+          "from_url": "https://github.com/xdevs23/linux-nitrous",
+          "image_bytes": 56673,
+          "service_icon": "https://a.slack-edge.com/80588/img/unfurl_icons/github.png",
+          "id": 1,
+          "original_url": "https://github.com/xdevs23/linux-nitrous"
+        }
+      ],
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "zohw",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "link",
+                  "url": "https://github.com/xdevs23/linux-nitrous",
+                  "text": "https://github.com/xdevs23/linux-nitrous"
+                },
+                {
+                  "type": "text",
+                  "text": "\narchwikiの非公式リポジトリにのってた同じaction使ってるリポジトリです"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "b1ff3041-a638-406f-9ef0-76af0d7881f9",
+      "type": "message",
+      "text": "それも最後のmakepkgのところでPKGBUILDがないって言われてます",
+      "user": "a3784197",
+      "ts": "1619602289.133400",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "R8tyN",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "それも最後のmakepkgのところでPKGBUILDがないって言われてます"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "86349464-5916-4555-9482-530173b0f2c1",
+      "type": "message",
+      "text": "なるほど\nやってみます",
+      "user": "a3784197",
+      "ts": "1619602172.133300",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "1bZ1",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "なるほど\nやってみます"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "8d0a5981-7b55-4aea-925e-9cbe10515dc7",
+      "type": "message",
+      "text": "<https://github.com/nektos/act>\nこれ使うと、手元で github actions 試せます",
+      "user": "raa0121",
+      "ts": "1619601380.133000",
+      "team": "T0GFBAM8C",
+      "attachments": [
+        {
+          "service_name": "GitHub",
+          "title": "nektos/act",
+          "title_link": "https://github.com/nektos/act",
+          "text": "Run your GitHub Actions locally :rocket:. Contribute to nektos/act development by creating an account on GitHub.",
+          "fallback": "GitHub: nektos/act",
+          "image_url": "https://opengraph.githubassets.com/a72d1fa5858d14d58d2f22efa55991d5ea0933f8f5018a76a53160e8537cdb8f/nektos/act",
+          "image_width": 500,
+          "image_height": 250,
+          "from_url": "https://github.com/nektos/act",
+          "image_bytes": 49747,
+          "service_icon": "https://a.slack-edge.com/80588/img/unfurl_icons/github.png",
+          "id": 1,
+          "original_url": "https://github.com/nektos/act"
+        }
+      ],
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "eOf",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "link",
+                  "url": "https://github.com/nektos/act"
+                },
+                {
+                  "type": "text",
+                  "text": "\nこれ使うと、手元で github actions 試せます"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "d8ce5607-a94f-4e85-a3a8-b42cdd3de0bc",
+      "type": "message",
+      "text": "なんとなく初期コミットで動きそうなもんだけどな",
+      "user": "raa0121",
+      "ts": "1619601054.132600",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "z=K=",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "なんとなく初期コミットで動きそうなもんだけどな"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "a0f9f110-ae3c-4172-b924-a1f8ac6cedf4",
+      "type": "message",
+      "text": "駄目だったのか",
+      "user": "raa0121",
+      "ts": "1619601013.132300",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "qcc",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "駄目だったのか"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "9ba759b6-fb21-40a0-9620-44fc464102a9",
+      "type": "message",
+      "text": "`path: .` だとどうです？ というか `path` なし とか",
+      "user": "raa0121",
+      "ts": "1619600980.132000",
+      "team": "T0GFBAM8C",
+      "edited": {
+        "user": "raa0121",
+        "ts": "1619600988.000000"
+      },
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "+u5",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "path: .",
+                  "style": {
+                    "code": true
+                  }
+                },
+                {
+                  "type": "text",
+                  "text": " だとどうです？ というか "
+                },
+                {
+                  "type": "text",
+                  "text": "path",
+                  "style": {
+                    "code": true
+                  }
+                },
+                {
+                  "type": "text",
+                  "text": " なし とか"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "2c99b7a4-b35c-4b58-9468-dd2da9862c8e",
+      "type": "message",
+      "text": "github actionsでパッケージビルドしてみようと思ってやってみたんですが失敗して原因がさっぱりわからないのでアドバイスください\n<https://github.com/u0a266/linux>",
+      "user": "a3784197",
+      "ts": "1619600524.131500",
+      "team": "T0GFBAM8C",
+      "attachments": [
+        {
+          "service_name": "GitHub",
+          "title": "u0a266/linux",
+          "title_link": "https://github.com/u0a266/linux",
+          "text": "Contribute to u0a266/linux development by creating an account on GitHub.",
+          "fallback": "GitHub: u0a266/linux",
+          "image_url": "https://opengraph.githubassets.com/7c877aa61fc6ba53b0e31bed45d9e9c4dcd3c1601c1a55825b3a492abe7f460b/u0a266/linux",
+          "image_width": 500,
+          "image_height": 250,
+          "from_url": "https://github.com/u0a266/linux",
+          "image_bytes": 92678,
+          "service_icon": "https://a.slack-edge.com/80588/img/unfurl_icons/github.png",
+          "id": 1,
+          "original_url": "https://github.com/u0a266/linux"
+        }
+      ],
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "24G8q",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "github actionsでパッケージビルドしてみようと思ってやってみたんですが失敗して原因がさっぱりわからないのでアドバイスください\n"
+                },
+                {
+                  "type": "link",
+                  "url": "https://github.com/u0a266/linux"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "message",
+      "subtype": "channel_join",
+      "ts": "1619594286.131200",
+      "user": "revia726",
+      "text": "<@revia726>さんがチャンネルに参加しました"
+    },
+    {
+      "type": "message",
+      "subtype": "channel_join",
+      "ts": "1619593872.131000",
+      "user": "kabaaa1126",
+      "text": "<@kabaaa1126>さんがチャンネルに参加しました"
+    },
+    {
+      "type": "message",
+      "subtype": "channel_join",
+      "ts": "1619578297.130800",
+      "user": "qryxip",
+      "text": "<@qryxip>さんがチャンネルに参加しました"
+    },
+    {
+      "client_msg_id": "7CC8C87E-6E37-478A-AB4F-1F36DF898921",
+      "type": "message",
+      "text": "メールサーバとかメディアサーバが欲しくなって独自ドメイン持ってましたね(今も持ってるかもしれない)",
+      "user": "kokopis",
+      "ts": "1619541760.130300",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "KWbU",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "メールサーバとかメディアサーバが欲しくなって独自ドメイン持ってましたね(今も持ってるかもしれない)"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "reactions": [
+        {
+          "name": "smiley",
+          "users": [
+            "syui"
+          ],
+          "count": 1
+        }
+      ]
+    },
+    {
+      "client_msg_id": "E5B83290-2E0E-4517-8A69-34631D96CACF",
+      "type": "message",
+      "text": "ネットワーク何もわからなくても良い気になれるからCloudflareすき",
+      "user": "kokopis",
+      "ts": "1619541655.128800",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "khIuZ",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "ネットワーク何もわからなくても良い気になれるからCloudflareすき"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "302273A4-4FAF-4544-B4AE-F9DB6135C606",
+      "type": "message",
+      "text": "cloudflare、便利",
+      "user": "syui",
+      "ts": "1619539299.127700",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "3Iv",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "cloudflare、便利"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "reactions": [
+        {
+          "name": "sorena",
+          "users": [
+            "kokopis",
+            "pasutisu",
+            "U5W6QDSHZ"
+          ],
+          "count": 3
+        }
+      ]
+    },
+    {
+      "client_msg_id": "a525b9d3-4278-43bb-abb9-44fdb6d5b72d",
+      "type": "message",
+      "text": "いつもどっかで取って便利なCloudflareに移管してしまう…",
+      "user": "pasutisu",
+      "ts": "1619538779.127300",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "dvs",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "いつもどっかで取って便利なCloudflareに移管してしまう…"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "CA5BEC6B-E9CD-42DB-8580-98A5476BD7F7",
+      "type": "message",
+      "text": "私も<http://github.io|github.io>だと比較的安心してアクセスしてる気がする",
+      "user": "syui",
+      "ts": "1619536969.127200",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "c4/E",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "私も"
+                },
+                {
+                  "type": "link",
+                  "url": "http://github.io",
+                  "text": "github.io"
+                },
+                {
+                  "type": "text",
+                  "text": "だと比較的安心してアクセスしてる気がする"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "956f603b-fa69-472a-b12e-e08cb8be129b",
+      "type": "message",
+      "text": "~<http://github.io|github.io> ドメインで仮想通貨マイニングするページ動かしたい~",
+      "user": "raa0121",
+      "ts": "1619536962.127000",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "hAVl",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "link",
+                  "url": "http://github.io",
+                  "text": "github.io",
+                  "style": {
+                    "strike": true
+                  }
+                },
+                {
+                  "type": "text",
+                  "text": " ドメインで仮想通貨マイニングするページ動かしたい",
+                  "style": {
+                    "strike": true
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "7FEE55AE-4F0B-40E0-BB20-49801E62D18E",
+      "type": "message",
+      "text": "でもここら辺の界隈の人には、<http://github.io|github.io> が一番信頼されてて心理的にアクセスしやすいの、いいと思う",
+      "user": "syui",
+      "ts": "1619536859.125300",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "ZID",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "でもここら辺の界隈の人には、"
+                },
+                {
+                  "type": "link",
+                  "url": "http://github.io",
+                  "text": "github.io"
+                },
+                {
+                  "type": "text",
+                  "text": " が一番信頼されてて心理的にアクセスしやすいの、いいと思う"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "04A5ED6D-004C-426C-82CF-649A8EE9CE00",
+      "type": "message",
+      "text": "たまにドメイン欲しい欲、出て来るんですよね",
+      "user": "syui",
+      "ts": "1619536765.122900",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "1Fs",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "たまにドメイン欲しい欲、出て来るんですよね"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "c2c6fd31-f994-4717-b6eb-7efc8429065b",
+      "type": "message",
+      "text": "けど私は以前に比べてドメイン欲しい欲はなくなりましたね。github.ioで満足",
+      "user": "yutakatay",
+      "ts": "1619536682.122100",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "Zf5u9",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "けど私は以前に比べてドメイン欲しい欲はなくなりましたね。github.ioで満足"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "80f81fd7-fac2-460c-990a-8bca1ddf8063",
+      "type": "message",
+      "text": "ドメイン業者、検索では日本のところばかりしか出てこないので、なかなか良さそうなところ探すの大変ですよね",
+      "user": "syui",
+      "ts": "1619536625.121300",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "UY8wf",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "ドメイン業者、検索では日本のところばかりしか出てこないので、なかなか良さそうなところ探すの大変ですよね"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "61876157-7e18-4711-adf5-1de3398d83ea",
+      "type": "message",
+      "text": "GMOはいろいろやってる印象",
+      "user": "syui",
+      "ts": "1619536555.120500",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "Hx=Y4",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "GMOはいろいろやってる印象"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "3e68fafc-b161-4508-99e3-65e760b42ad6",
+      "type": "message",
+      "text": "<https://www.gmo.jp/service/search/1/all/3/>\nレンサバ・VPS だけでこんだけある",
+      "user": "raa0121",
+      "ts": "1619536531.120100",
+      "team": "T0GFBAM8C",
+      "attachments": [
+        {
+          "title": "インターネットインフラ事業 | サービス | GMOインターネット株式会社",
+          "title_link": "https://www.gmo.jp/service/search/1/all/3/",
+          "text": "GMOインターネットグループは、提供するサービスを自ら開発・提供することをポリシーに、国内シェアNo.1のサービスを数多く持つネットインフラ事業はじめ、ネット金融、ネット広告・メディア、暗号資産（仮想通貨）事業などのインターネットサービスを総合的に展開しています。",
+          "fallback": "インターネットインフラ事業 | サービス | GMOインターネット株式会社",
+          "image_url": "https://cache.img.gmo.jp/images/gmo_og.jpg",
+          "from_url": "https://www.gmo.jp/service/search/1/all/3/",
+          "image_width": 476,
+          "image_height": 250,
+          "image_bytes": 46775,
+          "service_icon": "https://www.gmo.jp/favicon_144x144.png",
+          "service_name": "gmo.jp",
+          "id": 1,
+          "original_url": "https://www.gmo.jp/service/search/1/all/3/"
+        }
+      ],
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "M0lO",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "link",
+                  "url": "https://www.gmo.jp/service/search/1/all/3/"
+                },
+                {
+                  "type": "text",
+                  "text": "\nレンサバ・VPS だけでこんだけある"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "f4ab6e9a-3517-4384-b6d1-37c01fa33aed",
+      "type": "message",
+      "text": "ですね",
+      "user": "raa0121",
+      "ts": "1619536483.119800",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "nzY",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "ですね"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "483fade0-fc00-494b-8be1-5f8c96762f8e",
+      "type": "message",
+      "text": "GMOのVPSとかがこのはちゃんだったかな",
+      "user": "syui",
+      "ts": "1619536460.119300",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "FN6",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "GMOのVPSとかがこのはちゃんだったかな"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "95607d57-9e4c-4613-9aca-ae60cc0da708",
+      "type": "message",
+      "text": "海外のサービスを使うという選択もあるんですね。盲点です。日本の会社しかみてなかった。",
+      "user": "shota.af083",
+      "ts": "1619536441.119000",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "QV4V",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "海外のサービスを使うという選択もあるんですね。盲点です。日本の会社しかみてなかった。"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "9e737705-6341-457c-82dd-208d895667fc",
+      "type": "message",
+      "text": "GMOグループ、いっぱいサービスあるから、仕方ないですね",
+      "user": "raa0121",
+      "ts": "1619536437.118900",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "TY3vY",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "GMOグループ、いっぱいサービスあるから、仕方ないですね"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "e5422380-5ef0-4da1-99d0-c47589583646",
+      "type": "message",
+      "text": "なんか一緒くたにしちゃってた(間違えちゃったかも",
+      "user": "syui",
+      "ts": "1619536417.118100",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "pW4Yy",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "なんか一緒くたにしちゃってた(間違えちゃったかも"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "4e5147fe-8e0d-45fe-a1db-adf2ef34f291",
+      "type": "message",
+      "text": "今はfreenom使ってるんですけど、問題なく普通に使えてるので、freenomもおすすめかも",
+      "user": "syui",
+      "ts": "1619536306.116800",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "iKae",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "今はfreenom使ってるんですけど、問題なく普通に使えてるので、freenomもおすすめかも"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "d52b6363-dd09-4ac9-bef1-e9bc957060b0",
+      "type": "message",
+      "text": "GMOのこのはちゃんであって、お名前の子ではないですね",
+      "user": "raa0121",
+      "ts": "1619536299.116700",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "s5yk",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "GMOのこのはちゃんであって、お名前の子ではないですね"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "3e9950b6-aa10-4b69-b2de-1e741e8a5092",
+      "type": "message",
+      "text": "ちなみに、お名前のこのはちゃんは好きです",
+      "user": "syui",
+      "ts": "1619536188.115800",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "enY",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "ちなみに、お名前のこのはちゃんは好きです"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "35cf4c1b-6025-44d6-8d84-aab915c62909",
+      "type": "message",
+      "text": "いいですね。文句なく使えてるのは良さそうな感じがする",
+      "user": "syui",
+      "ts": "1619536146.115200",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "g8r",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "いいですね。文句なく使えてるのは良さそうな感じがする"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "5d6f50aa-f4d2-4798-8476-3ac93f20df98",
+      "type": "message",
+      "text": "私は Netowl をつかってますね。初めてつかっているので他と比較したことはないですが。。すくなくともサクラVPSとかgoogleとかより安かったから選んだような記憶があります。とりあえず文句なく使えています。たしかに、こんな所に着目して選びましたとか、他の人の意見を聞いてみたいですね。",
+      "user": "shota.af083",
+      "ts": "1619536074.114600",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "x66r",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "私は Netowl をつかってますね。初めてつかっているので他と比較したことはないですが。。すくなくともサクラVPSとかgoogleとかより安かったから選んだような記憶があります。とりあえず文句なく使えています。たしかに、こんな所に着目して選びましたとか、他の人の意見を聞いてみたいですね。"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "0dda40f3-09a8-4ffe-bbee-a075d47f9f79",
+      "type": "message",
+      "text": "お名前は、昔一度試したことあるんですけど、メールがひどいことになって、退会しようと思ったらできなくて、あまり良くない思い出が...",
+      "user": "syui",
+      "ts": "1619535875.112300",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "/SHSq",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "お名前は、昔一度試したことあるんですけど、メールがひどいことになって、退会しようと思ったらできなくて、あまり良くない思い出が..."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "reactions": [
+        {
+          "name": "wakaru",
+          "users": [
+            "yutakatay"
+          ],
+          "count": 1
+        }
+      ]
+    },
+    {
+      "client_msg_id": "33085ec5-2f94-4da6-9770-d1eb93c59357",
+      "type": "message",
+      "text": "私は お名前かなー AWS とか Google で買ってもいいと思うけど",
+      "user": "raa0121",
+      "ts": "1619535666.111500",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "OsI",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "私は お名前かなー AWS とか Google で買ってもいいと思うけど"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "71abd28b-d416-4a93-9793-95dd0e26b093",
+      "type": "message",
+      "text": "たまにドメインが欲しくなることがあって、皆様のおすすめはどこでしょう?\n私はとりあえずnamecheapというところで検索しちゃいます(買わないけど\n<https://www.namecheap.com/>",
+      "user": "syui",
+      "ts": "1619534502.110900",
+      "team": "T0GFBAM8C",
+      "attachments": [
+        {
+          "title": "Buy domain name - Cheap domain names from $1.37 - Namecheap",
+          "title_link": "https://www.namecheap.com/",
+          "text": "Namecheap offers cheap domain names with the most reliable service. Buy domain names with Namecheap and see why over 2 million customers trust us with over 10 million domains!",
+          "fallback": "Buy domain name - Cheap domain names from $1.37 - Namecheap",
+          "from_url": "https://www.namecheap.com/",
+          "service_icon": "https://www.namecheap.com/assets/img/nc-icon/namecheap-icon-152x152.png",
+          "service_name": "namecheap.com",
+          "id": 1,
+          "original_url": "https://www.namecheap.com/"
+        }
+      ],
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "JfFR/",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "たまにドメインが欲しくなることがあって、皆様のおすすめはどこでしょう?\n私はとりあえずnamecheapというところで検索しちゃいます(買わないけど\n"
+                },
+                {
+                  "type": "link",
+                  "url": "https://www.namecheap.com/"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "thread_ts": "1619534502.110900",
+      "reply_count": 2,
+      "reply_users_count": 2,
+      "latest_reply": "1620791237.163000",
+      "reply_users": [
+        "U0H9QUFA5",
+        "syui"
+      ],
+      "is_locked": false,
+      "subscribed": true,
+      "last_read": "1620791237.163000"
+    },
+    {
+      "type": "message",
+      "subtype": "channel_join",
+      "ts": "1619501271.109000",
+      "user": "ken.saito.0813",
+      "text": "<@ken.saito.0813>さんがチャンネルに参加しました"
+    },
+    {
+      "client_msg_id": "B7173D76-7B2A-4C2B-B2E0-9F219043BB1A",
+      "type": "message",
+      "text": "WEP!?",
+      "user": "kokopis",
+      "ts": "1619357937.108800",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "V/XNk",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "WEP!?"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "3954a944-1a4b-4736-8015-d4ebff71edf4",
+      "type": "message",
+      "text": "Buffaloの無線LANにだけ、NetworkmanagerのWEP認証通らず。。。なぜじゃー・・・",
+      "user": "no97yuu",
+      "ts": "1619325538.108500",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "pPU+",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "Buffaloの無線LANにだけ、NetworkmanagerのWEP認証通らず。。。なぜじゃー・・・"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "2A192A36-3D08-4430-B821-CC3642B137CA",
+      "type": "message",
+      "text": "よさそう",
+      "user": "syui",
+      "ts": "1619253790.107500",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "ctk=",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "よさそう"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "message",
+      "subtype": "channel_join",
+      "ts": "1619249074.107200",
+      "user": "nine-k.960klo",
+      "text": "<@nine-k.960klo>さんがチャンネルに参加しました"
+    },
+    {
+      "client_msg_id": "0089A40A-6268-427B-8F00-2F9CD3E79557",
+      "type": "message",
+      "text": "One mix 4とか気になってる\n<https://one-netbook.jp/landing/onemix4/|https://one-netbook.jp/landing/onemix4/>",
+      "user": "kokopis",
+      "ts": "1619244379.106900",
+      "team": "T0GFBAM8C",
+      "edited": {
+        "user": "kokopis",
+        "ts": "1619253614.000000"
+      },
+      "attachments": [
+        {
+          "service_name": "One-Netbookストア",
+          "title": "OneMix4 | One-Netbookストア",
+          "title_link": "https://one-netbook.jp/landing/onemix4/",
+          "fallback": "One-Netbookストア: OneMix4 | One-Netbookストア",
+          "image_url": "https://one-netbook.jp/wordpress/wp-content/uploads/2021/02/ogp-onemix4-1.jpg",
+          "image_width": 476,
+          "image_height": 250,
+          "from_url": "https://one-netbook.jp/landing/onemix4/",
+          "image_bytes": 142000,
+          "service_icon": "https://one-netbook.jp/favicon.ico",
+          "id": 1,
+          "original_url": "https://one-netbook.jp/landing/onemix4/"
+        }
+      ],
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "c1Z+X",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "One mix 4とか気になってる\n"
+                },
+                {
+                  "type": "link",
+                  "url": "https://one-netbook.jp/landing/onemix4/",
+                  "text": "https://one-netbook.jp/landing/onemix4/"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "BECF860F-FBAB-4F93-B553-B9C6BB1F8CEC",
+      "type": "message",
+      "text": "UMPC、ハードの互換性が気になるけど良さそうですよね ちっちゃいデバイスすき",
+      "user": "kokopis",
+      "ts": "1619244339.106400",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "2ZVt",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "UMPC、ハードの互換性が気になるけど良さそうですよね ちっちゃいデバイスすき"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "8D171C54-1009-44E6-9B41-FE56B4ECEAD0",
+      "type": "message",
+      "text": "外付けキーボードとかディスプレイで少しはマシに使えるかもしれないけど",
+      "user": "syui",
+      "ts": "1619221802.105100",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "t+w",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "外付けキーボードとかディスプレイで少しはマシに使えるかもしれないけど"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "9BDE0E08-3D96-467F-8A9B-B91C9EE2151B",
+      "type": "message",
+      "text": "まあ、メインで使うのは厳しいかもですね",
+      "user": "syui",
+      "ts": "1619221749.104000",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "eAP2A",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "まあ、メインで使うのは厳しいかもですね"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "81044810-4efd-4a19-b969-a394e72a3098",
+      "type": "message",
+      "text": "Aの横にTabはちょっと辛いかもしれない",
+      "user": "tatsumigamou",
+      "ts": "1619221316.103400",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "rHlc",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "Aの横にTabはちょっと辛いかもしれない"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "f410c678-32ab-4bbb-a2d1-84611c29596f",
+      "type": "message",
+      "text": "小さい端末、結構好き",
+      "user": "syui",
+      "ts": "1619220418.102900",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "YLg",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "小さい端末、結構好き"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "9b7b93bb-0a11-43b6-ab42-5c188869a995",
+      "type": "message",
+      "text": "これ良さそう <https://darekasan-net.hatenablog.com/entry/2021/04/23/145516>",
+      "user": "syui",
+      "ts": "1619220331.102500",
+      "team": "T0GFBAM8C",
+      "attachments": [
+        {
+          "service_name": "信頼できる発行元",
+          "title": "NANOTE P8でLinuxを動かすメモ - 信頼できる発行元",
+          "title_link": "https://darekasan-net.hatenablog.com/entry/2021/04/23/145516",
+          "text": "前回に引き続きNANOTE P8の話。 今回はManjaro Linuxをインストールした。おそらくUbuntuでもタッチパネル以外ハマることなく進められると思う。 現在できてること 普通にできた microSDへのインストール 無線LAN/Bluetooth 輝度調整 すこしいじったらできた タッチパネル PLを15Wにする わからん 加速度センサー(画面回転検知) タブレットモード検知 音を出す",
+          "fallback": "信頼できる発行元: NANOTE P8でLinuxを動かすメモ - 信頼できる発行元",
+          "image_url": "https://cdn-ak.f.st-hatena.com/images/fotolife/d/darekasan_net/20210423/20210423144926.jpg",
+          "ts": 1619157316,
+          "from_url": "https://darekasan-net.hatenablog.com/entry/2021/04/23/145516",
+          "image_width": 334,
+          "image_height": 250,
+          "image_bytes": 718163,
+          "service_icon": "https://darekasan-net.hatenablog.com/icon/touch",
+          "id": 1,
+          "original_url": "https://darekasan-net.hatenablog.com/entry/2021/04/23/145516"
+        }
+      ],
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "RpQn",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "これ良さそう "
+                },
+                {
+                  "type": "link",
+                  "url": "https://darekasan-net.hatenablog.com/entry/2021/04/23/145516"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "bfa544f8-31e3-4beb-a8ce-32d620226038",
+      "type": "message",
+      "text": "<https://twitter.com/Ver1000000000/status/1384745412616089603>",
+      "user": "vermilion928",
+      "ts": "1618984222.097600",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "iF6Tj",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "link",
+                  "url": "https://twitter.com/Ver1000000000/status/1384745412616089603"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "thread_ts": "1618984222.097600",
+      "reply_count": 8,
+      "reply_users_count": 3,
+      "latest_reply": "1619004742.101400",
+      "reply_users": [
+        "vermilion928",
+        "yutakatay",
+        "syui"
+      ],
+      "is_locked": false,
+      "subscribed": true,
+      "last_read": "1619004742.101400",
+      "reactions": [
+        {
+          "name": "wakaru",
+          "users": [
+            "s5is",
+            "kokopis",
+            "UQALTSDFX",
+            "a3784197",
+            "znmxodq1"
+          ],
+          "count": 5
+        }
+      ]
+    },
+    {
+      "type": "message",
+      "text": ".......",
+      "files": [
+        {
+          "id": "F01UWU7NJ9Y",
+          "created": 1618942439,
+          "timestamp": 1618942439,
+          "name": "Image from iOS.jpg",
+          "title": "Image from iOS",
+          "mimetype": "image/jpeg",
+          "filetype": "jpg",
+          "pretty_type": "JPEG",
+          "user": "kokopis",
+          "editable": false,
+          "size": 1182194,
+          "mode": "hosted",
+          "is_external": false,
+          "external_type": "",
+          "is_public": true,
+          "public_url_shared": false,
+          "display_as_bot": false,
+          "username": "",
+          "url_private": "https://files.slack.com/files-pri/T0GFBAM8C-F01UWU7NJ9Y/image_from_ios.jpg",
+          "url_private_download": "https://files.slack.com/files-pri/T0GFBAM8C-F01UWU7NJ9Y/download/image_from_ios.jpg",
+          "media_display_type": "unknown",
+          "thumb_64": "https://files.slack.com/files-tmb/T0GFBAM8C-F01UWU7NJ9Y-cbabf8b09b/image_from_ios_64.jpg",
+          "thumb_80": "https://files.slack.com/files-tmb/T0GFBAM8C-F01UWU7NJ9Y-cbabf8b09b/image_from_ios_80.jpg",
+          "thumb_360": "https://files.slack.com/files-tmb/T0GFBAM8C-F01UWU7NJ9Y-cbabf8b09b/image_from_ios_360.jpg",
+          "thumb_360_w": 270,
+          "thumb_360_h": 360,
+          "thumb_480": "https://files.slack.com/files-tmb/T0GFBAM8C-F01UWU7NJ9Y-cbabf8b09b/image_from_ios_480.jpg",
+          "thumb_480_w": 360,
+          "thumb_480_h": 480,
+          "thumb_160": "https://files.slack.com/files-tmb/T0GFBAM8C-F01UWU7NJ9Y-cbabf8b09b/image_from_ios_160.jpg",
+          "thumb_720": "https://files.slack.com/files-tmb/T0GFBAM8C-F01UWU7NJ9Y-cbabf8b09b/image_from_ios_720.jpg",
+          "thumb_720_w": 540,
+          "thumb_720_h": 720,
+          "thumb_800": "https://files.slack.com/files-tmb/T0GFBAM8C-F01UWU7NJ9Y-cbabf8b09b/image_from_ios_800.jpg",
+          "thumb_800_w": 800,
+          "thumb_800_h": 1067,
+          "thumb_960": "https://files.slack.com/files-tmb/T0GFBAM8C-F01UWU7NJ9Y-cbabf8b09b/image_from_ios_960.jpg",
+          "thumb_960_w": 720,
+          "thumb_960_h": 960,
+          "thumb_1024": "https://files.slack.com/files-tmb/T0GFBAM8C-F01UWU7NJ9Y-cbabf8b09b/image_from_ios_1024.jpg",
+          "thumb_1024_w": 768,
+          "thumb_1024_h": 1024,
+          "original_w": 3024,
+          "original_h": 4032,
+          "thumb_tiny": "AwAwACSMWyGJX8zBIyRjpTVti4yjAjOOeKkiYPGqYP3eTUwUKoVeB9aBFM28g/hzTTE46qfyq/z6ml59f0pi1Mwqc9KNtaB69qPyoDUZak+UM4I7VYz7GstJ3QYVsD0p4upPUH8KBmjkf5FISvtVEXb9wKd9sPdf1oEWTt9f1o+X1/Wqv2of3TR9qH900DKeaXNNopDHZozSUUAGaM0UUAf/2Q==",
+          "permalink": "https://archlinuxjp.slack.com/files/kokopis/F01UWU7NJ9Y/image_from_ios.jpg",
+          "permalink_public": "https://slack-files.com/T0GFBAM8C-F01UWU7NJ9Y-dbbddd5f39",
+          "is_starred": false,
+          "has_rich_preview": false
+        }
+      ],
+      "upload": false,
+      "user": "kokopis",
+      "display_as_bot": false,
+      "ts": "1618942450.096900",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "2g7r",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "......."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "client_msg_id": "0ED2F264-C308-47F5-99E3-8481C2F5283F",
+      "thread_ts": "1618942450.096900",
+      "reply_count": 3,
+      "reply_users_count": 2,
+      "latest_reply": "1619000058.100900",
+      "reply_users": [
+        "syui",
+        "kokopis"
+      ],
+      "is_locked": false,
+      "subscribed": true,
+      "last_read": "1619000058.100900",
+      "reactions": [
+        {
+          "name": "totemoturai",
+          "users": [
+            "s5is",
+            "claude0803sz",
+            "UEED0BQ4A",
+            "vermilion928",
+            "U0L2RG3U2",
+            "a3784197",
+            "UJ7P75WB1",
+            "znmxodq1",
+            "ken.saito.0813"
+          ],
+          "count": 9
+        }
+      ]
+    },
+    {
+      "client_msg_id": "9f836695-8eb8-4697-adf0-b623225241b2",
+      "type": "message",
+      "text": "ありがとうございます。\n引き続きちょっと調べてみます。",
+      "user": "no97yuu",
+      "ts": "1618710477.096700",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "/SKh",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "ありがとうございます。\n引き続きちょっと調べてみます。"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "70e23307-ecd3-4052-b755-eeb2c76768dd",
+      "type": "message",
+      "text": "ただ、ログを見る限り、テーマやアイコン関連ぽい気もする",
+      "user": "syui",
+      "ts": "1618667765.096000",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "gasAi",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "ただ、ログを見る限り、テーマやアイコン関連ぽい気もする"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "2f84d8aa-c4ea-478e-a2d8-52c5d4b671f9",
+      "type": "message",
+      "text": "ここらへんぽい気がする\n<https://wiki.archlinux.org/index.php/Desktop_notifications#Troubleshooting>\nどの通知サーバーが動いてて、適切なものが他にあるなら、アンインストールして、そっちをインストールしてみるといいかも",
+      "user": "syui",
+      "ts": "1618667733.095600",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "LDW/J",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "ここらへんぽい気がする\n"
+                },
+                {
+                  "type": "link",
+                  "url": "https://wiki.archlinux.org/index.php/Desktop_notifications#Troubleshooting"
+                },
+                {
+                  "type": "text",
+                  "text": "\nどの通知サーバーが動いてて、適切なものが他にあるなら、アンインストールして、そっちをインストールしてみるといいかも"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "d466d19e-2198-4a2b-9c93-b9665b6b9b5b",
+      "type": "message",
+      "text": "デスクトップ環境がMATEで、`journalctl -xe`をすると以下のログが大量に繰り返し吐き出されるのです。どなたか解決方法知りませんか？\n```notification-ar[2997]: GDBus.Error:org.freedesktop.DBus.Error.UnknownProperty: No such property ('org.kde.StatusNotifierItem.IconPixmap')```\n",
+      "user": "no97yuu",
+      "ts": "1618638363.094700",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "1fgN",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "デスクトップ環境がMATEで、"
+                },
+                {
+                  "type": "text",
+                  "text": "journalctl -xe",
+                  "style": {
+                    "code": true
+                  }
+                },
+                {
+                  "type": "text",
+                  "text": "をすると以下のログが大量に繰り返し吐き出されるのです。どなたか解決方法知りませんか？\n"
+                }
+              ]
+            },
+            {
+              "type": "rich_text_preformatted",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "notification-ar[2997]: GDBus.Error:org.freedesktop.DBus.Error.UnknownProperty: No such property ('org.kde.StatusNotifierItem.IconPixmap')"
+                }
+              ]
+            },
+            {
+              "type": "rich_text_section",
+              "elements": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "message",
+      "subtype": "channel_join",
+      "ts": "1618623194.093000",
+      "user": "fumufumi",
+      "text": "<@fumufumi>さんがチャンネルに参加しました"
+    },
+    {
+      "type": "message",
+      "subtype": "channel_join",
+      "ts": "1618546429.092700",
+      "user": "mmts873pn",
+      "text": "<@mmts873pn>さんがチャンネルに参加しました"
+    },
+    {
+      "client_msg_id": "af8f5bbd-f3ad-4156-a16b-dabcecd7c556",
+      "type": "message",
+      "text": "<https://qiita.com/fkshom/items/9b623624a23ad80b58eb>\nUbuntu 18.04 で出来てるっぽいからバージョンをそれに合わせてみるとかですかね",
+      "user": "raa0121",
+      "ts": "1618383115.092400",
+      "team": "T0GFBAM8C",
+      "attachments": [
+        {
+          "service_name": "Qiita",
+          "title": "Ubuntu Server 18.04 （CUI環境）でも簡単に L2TP over IPsec がしたい - Qiita",
+          "title_link": "https://qiita.com/fkshom/items/9b623624a23ad80b58eb",
+          "text": "背景 L2TP over IPsecをするとき、ipsec.confやxl2tpd.confを書くのは大変です。 Ubuntu Desktopには、NetworkManagerでVPN設定ができるパッケージがあります。 apt...",
+          "fallback": "Qiita: Ubuntu Server 18.04 （CUI環境）でも簡単に L2TP over IPsec がしたい - Qiita",
+          "image_url": "https://staging-qiita-user-contents.imgix.net/https%3A%2F%2Fcdn.qiita.com%2Fassets%2Fpublic%2Farticle-ogp-background-1150d8b18a7c15795b701a55ae908f94.png?ixlib=rb-4.0.0&w=1200&mark=https%3A%2F%2Fstaging-qiita-user-contents.imgix.net%2F~text%3Fixlib%3Drb-4.0.0%26w%3D840%26h%3D380%26txt%3DUbuntu%2520Server%252018.04%2520%25EF%25BC%2588CUI%25E7%2592%25B0%25E5%25A2%2583%25EF%25BC%2589%25E3%2581%25A7%25E3%2582%2582%25E7%25B0%25A1%25E5%258D%2598%25E3%2581%25AB%2520L2TP%2520over%2520IPsec%2520%25E3%2581%258C%25E3%2581%2597%25E3%2581%259F%25E3%2581%2584%26txt-color%3D%2523333%26txt-font%3DHiragino%2520Sans%2520W6%26txt-size%3D54%26txt-clip%3Dellipsis%26txt-align%3Dcenter%252Cmiddle%26s%3Da5af7515464af1de1b4f56c47d615a74&mark-align=center%2Cmiddle&blend=https%3A%2F%2Fstaging-qiita-user-contents.imgix.net%2F~text%3Fixlib%3Drb-4.0.0%26w%3D840%26h%3D500%26txt%3D%2540fkshom%26txt-color%3D%2523333%26txt-font%3DHiragino%2520Sans%2520W6%26txt-size%3D45%26txt-align%3Dright%252Cbottom%26s%3D71d0d0899bd707b5137b010e16a56c4e&blend-align=center%2Cmiddle&blend-mode=normal&s=d5b3ac2cf7480efe55015b813b575dd0",
+          "from_url": "https://qiita.com/fkshom/items/9b623624a23ad80b58eb",
+          "image_width": 476,
+          "image_height": 250,
+          "image_bytes": 62397,
+          "service_icon": "https://cdn.qiita.com/assets/favicons/public/apple-touch-icon-ec5ba42a24ae923f16825592efdc356f.png",
+          "id": 1,
+          "original_url": "https://qiita.com/fkshom/items/9b623624a23ad80b58eb"
+        }
+      ],
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "GGtFs",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "link",
+                  "url": "https://qiita.com/fkshom/items/9b623624a23ad80b58eb"
+                },
+                {
+                  "type": "text",
+                  "text": "\nUbuntu 18.04 で出来てるっぽいからバージョンをそれに合わせてみるとかですかね"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "b5651597-64c8-4204-96e8-573f7f465e3d",
+      "type": "message",
+      "text": "networkmanager-strongswan というのもあるんですよね…\nL2TP/IPsec難しい…",
+      "user": "s5is",
+      "ts": "1618381790.091800",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "Z8p6",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "networkmanager-strongswan というのもあるんですよね…\nL2TP/IPsec難しい…"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "b5e90dbb-1cfa-4514-9fba-038eafc2ec57",
+      "type": "message",
+      "text": "libreswanでだめそうだったのでstrongswanを入れ直してみてますが、だめですね...",
+      "user": "claude0803sz",
+      "ts": "1618381579.091200",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "v2LC",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "libreswanでだめそうだったのでstrongswanを入れ直してみてますが、だめですね..."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "63b9822e-3bf2-48db-9e13-0340781922bd",
+      "type": "message",
+      "text": "L2TP/ipsecならlibreswanかstrongswanが選べたはず、でも恐らく情報が少ないですね…",
+      "user": "s5is",
+      "ts": "1618381542.090600",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "/SaPP",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "L2TP/ipsecならlibreswanかstrongswanが選べたはず、でも恐らく情報が少ないですね…"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "bd38c907-1aee-4720-bc37-116e0ae913e6",
+      "type": "message",
+      "text": "ありがとうございます。これに当たっているみたいなので探っている途中です...\n<https://github.com/nm-l2tp/NetworkManager-l2tp/wiki/Known-Issues#libreswan-algorithm-modp1024-is-not-supported-error>",
+      "user": "claude0803sz",
+      "ts": "1618381480.089500",
+      "team": "T0GFBAM8C",
+      "attachments": [
+        {
+          "service_name": "GitHub",
+          "title": "nm-l2tp/NetworkManager-l2tp",
+          "title_link": "https://github.com/nm-l2tp/NetworkManager-l2tp/wiki/Known-Issues#libreswan-algorithm-modp1024-is-not-supported-error",
+          "text": "L2TP and L2TP/IPsec support for NetworkManager. Contribute to nm-l2tp/NetworkManager-l2tp development by creating an account on GitHub.",
+          "fallback": "GitHub: nm-l2tp/NetworkManager-l2tp",
+          "thumb_url": "https://avatars.githubusercontent.com/u/18498275?s=400&v=4",
+          "from_url": "https://github.com/nm-l2tp/NetworkManager-l2tp/wiki/Known-Issues#libreswan-algorithm-modp1024-is-not-supported-error",
+          "thumb_width": 48,
+          "thumb_height": 48,
+          "service_icon": "https://a.slack-edge.com/80588/img/unfurl_icons/github.png",
+          "id": 1,
+          "original_url": "https://github.com/nm-l2tp/NetworkManager-l2tp/wiki/Known-Issues#libreswan-algorithm-modp1024-is-not-supported-error"
+        }
+      ],
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "SPQ",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "ありがとうございます。これに当たっているみたいなので探っている途中です...\n"
+                },
+                {
+                  "type": "link",
+                  "url": "https://github.com/nm-l2tp/NetworkManager-l2tp/wiki/Known-Issues#libreswan-algorithm-modp1024-is-not-supported-error"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "16E2BD4A-3EC2-4834-9249-1A9FB10C80BB",
+      "type": "message",
+      "text": "そうですね。プラグインですんなりいけたという話はよく聞く",
+      "user": "syui",
+      "ts": "1618380749.088600",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "LQx",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "そうですね。プラグインですんなりいけたという話はよく聞く"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "cf16a421-a3d1-4054-b815-a1d160609bd4",
+      "type": "message",
+      "text": "L2TPで接続するだけならNetworkManagerのl2tpプラグインは比較的簡単だったはず。\n~(もう出てた)~",
+      "user": "s5is",
+      "ts": "1618380523.085900",
+      "team": "T0GFBAM8C",
+      "edited": {
+        "user": "s5is",
+        "ts": "1618380579.000000"
+      },
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "6hf",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "L2TPで接続するだけならNetworkManagerのl2tpプラグインは比較的簡単だったはず。\n"
+                },
+                {
+                  "type": "text",
+                  "text": "(もう出てた)",
+                  "style": {
+                    "strike": true
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "97ea2f22-8cdb-4e00-a981-7cebcb9d4835",
+      "type": "message",
+      "text": "softethervpn-serverやpritunlで比較的簡単に構築できた気がするので、そちらを使ってみるのもいいかもしれません",
+      "user": "syui",
+      "ts": "1618378734.085000",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "xdSDt",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "softethervpn-serverやpritunlで比較的簡単に構築できた気がするので、そちらを使ってみるのもいいかもしれません"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "5172D3C7-6255-4C04-918F-5F87383038CD",
+      "type": "message",
+      "text": "うん、なんか難しかった記憶がある",
+      "user": "syui",
+      "ts": "1618378603.084300",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "xP4sR",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "うん、なんか難しかった記憶がある"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "d4e58771-64af-4ed3-b007-1cb57e31dc76",
+      "type": "message",
+      "text": "Linux で L2TP クライアントは鬼門なんだよな…",
+      "user": "raa0121",
+      "ts": "1618378444.083900",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "U2n8h",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "Linux で L2TP クライアントは鬼門なんだよな…"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "66a1384c-a30b-4791-8bb6-17b6cf328284",
+      "type": "message",
+      "text": "ちょっと検索してみたんですが、こちらが詳しそうでした。気になる記述は以下。\n<https://github.com/nm-l2tp/NetworkManager-l2tp>\n&gt; Password protecting the libreswan NSS database\n&gt; The NSS database is used by NetworkManager-l2tp for machine certificate VPN connections using libreswan.\n&gt; libreswan &gt;= 4.0 default NSS database location is `/var/lib/ipsec/nss/` and for all versions of libreswan on Debian/Ubuntu. Older libreswan versions often use `/etc/ipsec.d/` such as on older version of RHEL/Fedora/CentOS.\n&gt; The default libreswan package install for most Linux distributions uses an empty password. It is up to the administrator to decide on whether to use a password or not. However, a non-empty database password must be provided when running in FIPS mode.\n&gt; See the following page on how to set the password for the libreswan NSS database and the syntax for the `/var/lib/ipsec/nss/nsspassword` file where the password is stored:\n&gt; <https://libreswan.org/wiki/HOWTO:_Using_NSS_with_libreswan>\nあと、`sudo rm -rf /var/lib/ipsec/nss/*.db`で初期化する必要があるかもしれません(このコマンドの実行は気をつけなければいけません)",
+      "user": "syui",
+      "ts": "1618372991.083300",
+      "team": "T0GFBAM8C",
+      "attachments": [
+        {
+          "service_name": "GitHub",
+          "title": "nm-l2tp/NetworkManager-l2tp",
+          "title_link": "https://github.com/nm-l2tp/NetworkManager-l2tp",
+          "text": "L2TP and L2TP/IPsec support for NetworkManager. Contribute to nm-l2tp/NetworkManager-l2tp development by creating an account on GitHub.",
+          "fallback": "GitHub: nm-l2tp/NetworkManager-l2tp",
+          "thumb_url": "https://avatars.githubusercontent.com/u/18498275?s=400&v=4",
+          "from_url": "https://github.com/nm-l2tp/NetworkManager-l2tp",
+          "thumb_width": 48,
+          "thumb_height": 48,
+          "service_icon": "https://a.slack-edge.com/80588/img/unfurl_icons/github.png",
+          "id": 1,
+          "original_url": "https://github.com/nm-l2tp/NetworkManager-l2tp"
+        }
+      ],
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "tDcZ",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "ちょっと検索してみたんですが、こちらが詳しそうでした。気になる記述は以下。\n"
+                },
+                {
+                  "type": "link",
+                  "url": "https://github.com/nm-l2tp/NetworkManager-l2tp"
+                },
+                {
+                  "type": "text",
+                  "text": "\n"
+                }
+              ]
+            },
+            {
+              "type": "rich_text_quote",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "Password protecting the libreswan NSS database\nThe NSS database is used by NetworkManager-l2tp for machine certificate VPN connections using libreswan.\nlibreswan >= 4.0 default NSS database location is "
+                },
+                {
+                  "type": "text",
+                  "text": "/var/lib/ipsec/nss/",
+                  "style": {
+                    "code": true
+                  }
+                },
+                {
+                  "type": "text",
+                  "text": " and for all versions of libreswan on Debian/Ubuntu. Older libreswan versions often use "
+                },
+                {
+                  "type": "text",
+                  "text": "/etc/ipsec.d/",
+                  "style": {
+                    "code": true
+                  }
+                },
+                {
+                  "type": "text",
+                  "text": " such as on older version of RHEL/Fedora/CentOS.\nThe default libreswan package install for most Linux distributions uses an empty password. It is up to the administrator to decide on whether to use a password or not. However, a non-empty database password must be provided when running in FIPS mode.\nSee the following page on how to set the password for the libreswan NSS database and the syntax for the "
+                },
+                {
+                  "type": "text",
+                  "text": "/var/lib/ipsec/nss/nsspassword",
+                  "style": {
+                    "code": true
+                  }
+                },
+                {
+                  "type": "text",
+                  "text": " file where the password is stored:\n"
+                },
+                {
+                  "type": "link",
+                  "url": "https://libreswan.org/wiki/HOWTO:_Using_NSS_with_libreswan"
+                }
+              ]
+            },
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "あと、"
+                },
+                {
+                  "type": "text",
+                  "text": "sudo rm -rf /var/lib/ipsec/nss/*.db",
+                  "style": {
+                    "code": true
+                  }
+                },
+                {
+                  "type": "text",
+                  "text": "で初期化する必要があるかもしれません(このコマンドの実行は気をつけなければいけません)"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "reactions": [
+        {
+          "name": "eyes",
+          "users": [
+            "claude0803sz",
+            "s5is"
+          ],
+          "count": 2
+        }
+      ]
+    },
+    {
+      "client_msg_id": "c0d8e1c6-e97c-4835-a085-b58467d4ee1e",
+      "type": "message",
+      "text": "あります。権限も足りてそうなのですが...\n```$ ls -l /var/lib/ipsec/\n合計 4\ndrwxr-xr-x 2 root root 4096  3月  9 10:13 nss```",
+      "user": "claude0803sz",
+      "ts": "1618372449.081800",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "yvQU",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "あります。権限も足りてそうなのですが...\n"
+                }
+              ]
+            },
+            {
+              "type": "rich_text_preformatted",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "$ ls -l /var/lib/ipsec/\n合計 4\ndrwxr-xr-x 2 root root 4096  3月  9 10:13 nss"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "2c436d67-e7a6-4422-b727-da6b5655ebd2",
+      "type": "message",
+      "text": "`/var/lib/ipsec/nss` は存在しますか?しなければ、以下のコマンドを実行してみてください。\n```$ mkdir -p /var/lib/ipsec/nss```",
+      "user": "syui",
+      "ts": "1618369695.081100",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "fACJa",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "/var/lib/ipsec/nss",
+                  "style": {
+                    "code": true
+                  }
+                },
+                {
+                  "type": "text",
+                  "text": " は存在しますか?しなければ、以下のコマンドを実行してみてください。\n"
+                }
+              ]
+            },
+            {
+              "type": "rich_text_preformatted",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "$ mkdir -p /var/lib/ipsec/nss"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "09f0ce16-bac1-498f-b022-8ba2c0d855cc",
+      "type": "message",
+      "text": "コメントしておいて申し訳ないですがそこまではわからないです。自分でもsystemd のipsec.serviceを見てみましたが、そもそも私の場合とはまったく異なりそうだと思いました。すみません。",
+      "user": "shota.af083",
+      "ts": "1618369236.080600",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "dej",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "コメントしておいて申し訳ないですがそこまではわからないです。自分でもsystemd のipsec.serviceを見てみましたが、そもそも私の場合とはまったく異なりそうだと思いました。すみません。"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "7cbe0fa6-2984-44b9-aa2c-c4f043a6ad83",
+      "type": "message",
+      "text": "`/var/lib/nss` はreadついているのですが、それでは足りないということでしょうか? :thinking_face:",
+      "user": "claude0803sz",
+      "ts": "1618364015.075200",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "YWD",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "/var/lib/nss",
+                  "style": {
+                    "code": true
+                  }
+                },
+                {
+                  "type": "text",
+                  "text": " はreadついているのですが、それでは足りないということでしょうか? "
+                },
+                {
+                  "type": "emoji",
+                  "name": "thinking_face",
+                  "unicode": "1f914"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "5acc847c-348d-4cf0-9b2d-eddfa9855b3f",
+      "type": "message",
+      "text": "一度私がopenVPNで経験したのは、アップデートでdaemonの実行ユーザーがrootから変わり、特定のフォルダにアクセスできずエラーになったことです。新規にイントールした場合は当てはまらないはずですが参考までに。私の件と同様の理由かどうかはsystemdでのdaemonの実行ユーザーを確認すれば良いかと思います。",
+      "user": "shota.af083",
+      "ts": "1618355131.074400",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "Qd=W8",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "一度私がopenVPNで経験したのは、アップデートでdaemonの実行ユーザーがrootから変わり、特定のフォルダにアクセスできずエラーになったことです。新規にイントールした場合は当てはまらないはずですが参考までに。私の件と同様の理由かどうかはsystemdでのdaemonの実行ユーザーを確認すれば良いかと思います。"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "8CC52017-5185-4844-AD75-B676777DC694",
+      "type": "message",
+      "text": "特定のディレクトリ、/nssに権限でアクセスできてないぽいエラーが出てますね",
+      "user": "syui",
+      "ts": "1618334109.074300",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "zJxu",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "特定のディレクトリ、/nssに権限でアクセスできてないぽいエラーが出てますね"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "62da701f-53c5-4b2d-91a2-c487f8f83c87",
+      "type": "message",
+      "text": "↓と同じような状況でL2TP VPN接続できないのですが知見お持ちの方いらっしゃいます?\nSELinuxは入れてないので関係ないと思うのですが....\n<https://bugzilla.redhat.com/show_bug.cgi?id=1889538>\n生のログとしては以下になります\n``` 3月 09 10:09:48 lied systemd[1]: ipsec.service: Scheduled restart job, restart counter is at 2.\n 3月 09 10:09:48 lied systemd[1]: Stopped Internet Key Exchange (IKE) Protocol Daemon for IPsec.\n 3月 09 10:09:48 lied systemd[1]: Starting Internet Key Exchange (IKE) Protocol Daemon for IPsec...\n 3月 09 10:09:49 lied ipsec[31209]: ERROR: destination directory \"/var/lib/ipsec/nss\" is missing or permission denied\n 3月 09 10:09:49 lied systemd[1]: ipsec.service: Control process exited, code=exited, status=1/FAILURE\n 3月 09 10:09:49 lied systemd[1]: ipsec.service: Failed with result 'exit-code'.\n 3月 09 10:09:49 lied systemd[1]: Failed to start Internet Key Exchange (IKE) Protocol Daemon for IPsec.\n\n$ ls -l /var/lib/ipsec/\n合計 4\ndrwxr-xr-x 2 root root 4096  3月  9 10:13 nss```",
+      "user": "claude0803sz",
+      "ts": "1618277127.072800",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "h+Jv",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "↓と同じような状況でL2TP VPN接続できないのですが知見お持ちの方いらっしゃいます?\nSELinuxは入れてないので関係ないと思うのですが....\n"
+                },
+                {
+                  "type": "link",
+                  "url": "https://bugzilla.redhat.com/show_bug.cgi?id=1889538"
+                },
+                {
+                  "type": "text",
+                  "text": "\n生のログとしては以下になります\n"
+                }
+              ]
+            },
+            {
+              "type": "rich_text_preformatted",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": " 3月 09 10:09:48 lied systemd[1]: ipsec.service: Scheduled restart job, restart counter is at 2.\n 3月 09 10:09:48 lied systemd[1]: Stopped Internet Key Exchange (IKE) Protocol Daemon for IPsec.\n 3月 09 10:09:48 lied systemd[1]: Starting Internet Key Exchange (IKE) Protocol Daemon for IPsec...\n 3月 09 10:09:49 lied ipsec[31209]: ERROR: destination directory \"/var/lib/ipsec/nss\" is missing or permission denied\n 3月 09 10:09:49 lied systemd[1]: ipsec.service: Control process exited, code=exited, status=1/FAILURE\n 3月 09 10:09:49 lied systemd[1]: ipsec.service: Failed with result 'exit-code'.\n 3月 09 10:09:49 lied systemd[1]: Failed to start Internet Key Exchange (IKE) Protocol Daemon for IPsec.\n\n$ ls -l /var/lib/ipsec/\n合計 4\ndrwxr-xr-x 2 root root 4096  3月  9 10:13 nss"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "message",
+      "subtype": "channel_join",
+      "ts": "1618189624.070600",
+      "user": "yume",
+      "text": "<@yume>さんがチャンネルに参加しました"
+    },
+    {
+      "type": "message",
+      "subtype": "thread_broadcast",
+      "text": "もろもろ音量等設定したあとに、\n`sudo alsactl store` で次回起動以降リストアしてくれるかも…？",
+      "user": "dohq",
+      "ts": "1617946905.069300",
+      "thread_ts": "1617945013.069000",
+      "root": {
+        "client_msg_id": "4c9caecc-3806-4822-9a73-8f4f3ee2c8b5",
+        "type": "message",
+        "text": "と思ったらなってませんでした…… うーん、 `<http://default.pa|default.pa>` が読み込まれるタイミングでマイクが認識されてないのかな？ USBオーディオコントローラーが噛んでるからモジュールの読み込みまでにインターフェースの認識が間に合わないのかも\n`pacmd set-source-volume @DEFAULT_SOURCE@ 0xffff` で音量変わることはわかったので、bash_profileとかに書いてお茶を濁します :tea:",
+        "user": "vermilion928",
+        "ts": "1617945013.069000",
+        "team": "T0GFBAM8C",
+        "blocks": [
+          {
+            "type": "rich_text",
+            "block_id": "q+8Hf",
+            "elements": [
+              {
+                "type": "rich_text_section",
+                "elements": [
+                  {
+                    "type": "text",
+                    "text": "と思ったらなってませんでした…… うーん、 "
+                  },
+                  {
+                    "type": "link",
+                    "url": "http://default.pa",
+                    "text": "default.pa",
+                    "style": {
+                      "code": true
+                    }
+                  },
+                  {
+                    "type": "text",
+                    "text": " が読み込まれるタイミングでマイクが認識されてないのかな？ USBオーディオコントローラーが噛んでるからモジュールの読み込みまでにインターフェースの認識が間に合わないのかも\n"
+                  },
+                  {
+                    "type": "text",
+                    "text": "pacmd set-source-volume @DEFAULT_SOURCE@ 0xffff",
+                    "style": {
+                      "code": true
+                    }
+                  },
+                  {
+                    "type": "text",
+                    "text": " で音量変わることはわかったので、bash_profileとかに書いてお茶を濁します "
+                  },
+                  {
+                    "type": "emoji",
+                    "name": "tea",
+                    "unicode": "1f375"
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "thread_ts": "1617945013.069000",
+        "reply_count": 4,
+        "reply_users_count": 2,
+        "latest_reply": "1617947021.070000",
+        "reply_users": [
+          "vermilion928",
+          "dohq"
+        ],
+        "is_locked": false,
+        "subscribed": false
+      },
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "ViXMr",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "もろもろ音量等設定したあとに、\n"
+                },
+                {
+                  "type": "text",
+                  "text": "sudo alsactl store",
+                  "style": {
+                    "code": true
+                  }
+                },
+                {
+                  "type": "text",
+                  "text": " で次回起動以降リストアしてくれるかも…？"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "client_msg_id": "c41db1fa-0f23-45d4-896e-3e1ddf4e23b1"
+    },
+    {
+      "client_msg_id": "4c9caecc-3806-4822-9a73-8f4f3ee2c8b5",
+      "type": "message",
+      "text": "と思ったらなってませんでした…… うーん、 `<http://default.pa|default.pa>` が読み込まれるタイミングでマイクが認識されてないのかな？ USBオーディオコントローラーが噛んでるからモジュールの読み込みまでにインターフェースの認識が間に合わないのかも\n`pacmd set-source-volume @DEFAULT_SOURCE@ 0xffff` で音量変わることはわかったので、bash_profileとかに書いてお茶を濁します :tea:",
+      "user": "vermilion928",
+      "ts": "1617945013.069000",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "q+8Hf",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "と思ったらなってませんでした…… うーん、 "
+                },
+                {
+                  "type": "link",
+                  "url": "http://default.pa",
+                  "text": "default.pa",
+                  "style": {
+                    "code": true
+                  }
+                },
+                {
+                  "type": "text",
+                  "text": " が読み込まれるタイミングでマイクが認識されてないのかな？ USBオーディオコントローラーが噛んでるからモジュールの読み込みまでにインターフェースの認識が間に合わないのかも\n"
+                },
+                {
+                  "type": "text",
+                  "text": "pacmd set-source-volume @DEFAULT_SOURCE@ 0xffff",
+                  "style": {
+                    "code": true
+                  }
+                },
+                {
+                  "type": "text",
+                  "text": " で音量変わることはわかったので、bash_profileとかに書いてお茶を濁します "
+                },
+                {
+                  "type": "emoji",
+                  "name": "tea",
+                  "unicode": "1f375"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "thread_ts": "1617945013.069000",
+      "reply_count": 4,
+      "reply_users_count": 2,
+      "latest_reply": "1617947021.070000",
+      "reply_users": [
+        "vermilion928",
+        "dohq"
+      ],
+      "is_locked": false,
+      "subscribed": false
+    },
+    {
+      "type": "message",
+      "subtype": "thread_broadcast",
+      "text": "わからなくてつらがってたんですけど、 <https://wiki.archlinux.jp/index.php/PulseAudio/%E3%82%B5%E3%83%B3%E3%83%97%E3%83%AB#.E3.83.87.E3.83.95.E3.82.A9.E3.83.AB.E3.83.88.E3.81.AE.E5.85.A5.E5.8A.9B.E3.82.BD.E3.83.BC.E3.82.B9.E3.82.92.E8.A8.AD.E5.AE.9A|https://wiki.archlinux.jp/index.php/PulseAudio/%E3%82%B5%E3%83%B3%E3%83%97%E3%83%AB#.E3.83.87.E3.83.95.E3.82.A9.E3[…]2.B9.E3.82.92.E8.A8.AD.E5.AE.9A> とかを見て `<http://default.pa|default.pa>` に `set-sink-volume` すると出力の音が変えられるっぽい情報が書いてあったので、試しに `set-source-volume` したら音量変えられました！！！！ よかったぁ\n\n`<http://default.pa|default.pa>` 末尾に `set-source-volume @DEFAULT_SOURCE@ 0xffff` としたことでデフォルトのマイクの音量が100%でリストアされるようになりました :microphone: :microphone:",
+      "user": "vermilion928",
+      "ts": "1617944727.066400",
+      "thread_ts": "1617674991.065200",
+      "root": {
+        "type": "message",
+        "text": "この `CM108 Audio Controller モノ` ってインターフェース、USBのオーディオコントローラーにつなげたコンデンサマイクなんですけど、起動するたびに音量が `ベース` よりちょっとちいさいくらいになっちゃうんですよね……\n100%がちょうどいいんですけど…… なんでこれデフォルトでこの音量になっちゃうんですかねぇ？",
+        "files": [
+          {
+            "id": "F01SX9CL6MV",
+            "created": 1617674947,
+            "timestamp": 1617674947,
+            "name": "20210405062918.png",
+            "title": "20210405062918.png",
+            "mimetype": "image/png",
+            "filetype": "png",
+            "pretty_type": "PNG",
+            "user": "vermilion928",
+            "editable": false,
+            "size": 88437,
+            "mode": "hosted",
+            "is_external": false,
+            "external_type": "",
+            "is_public": true,
+            "public_url_shared": false,
+            "display_as_bot": false,
+            "username": "",
+            "url_private": "https://files.slack.com/files-pri/T0GFBAM8C-F01SX9CL6MV/20210405062918.png",
+            "url_private_download": "https://files.slack.com/files-pri/T0GFBAM8C-F01SX9CL6MV/download/20210405062918.png",
+            "media_display_type": "unknown",
+            "thumb_64": "https://files.slack.com/files-tmb/T0GFBAM8C-F01SX9CL6MV-a787a36a00/20210405062918_64.png",
+            "thumb_80": "https://files.slack.com/files-tmb/T0GFBAM8C-F01SX9CL6MV-a787a36a00/20210405062918_80.png",
+            "thumb_360": "https://files.slack.com/files-tmb/T0GFBAM8C-F01SX9CL6MV-a787a36a00/20210405062918_360.png",
+            "thumb_360_w": 360,
+            "thumb_360_h": 199,
+            "thumb_480": "https://files.slack.com/files-tmb/T0GFBAM8C-F01SX9CL6MV-a787a36a00/20210405062918_480.png",
+            "thumb_480_w": 480,
+            "thumb_480_h": 265,
+            "thumb_160": "https://files.slack.com/files-tmb/T0GFBAM8C-F01SX9CL6MV-a787a36a00/20210405062918_160.png",
+            "thumb_720": "https://files.slack.com/files-tmb/T0GFBAM8C-F01SX9CL6MV-a787a36a00/20210405062918_720.png",
+            "thumb_720_w": 720,
+            "thumb_720_h": 397,
+            "thumb_800": "https://files.slack.com/files-tmb/T0GFBAM8C-F01SX9CL6MV-a787a36a00/20210405062918_800.png",
+            "thumb_800_w": 800,
+            "thumb_800_h": 441,
+            "thumb_960": "https://files.slack.com/files-tmb/T0GFBAM8C-F01SX9CL6MV-a787a36a00/20210405062918_960.png",
+            "thumb_960_w": 960,
+            "thumb_960_h": 529,
+            "thumb_1024": "https://files.slack.com/files-tmb/T0GFBAM8C-F01SX9CL6MV-a787a36a00/20210405062918_1024.png",
+            "thumb_1024_w": 1024,
+            "thumb_1024_h": 565,
+            "original_w": 1913,
+            "original_h": 1055,
+            "thumb_tiny": "AwAaADCnSUtJQAUUUUAFFFFABRSUUALRSr1oPWgBKKWigD//2Q==",
+            "permalink": "https://archlinuxjp.slack.com/files/vermilion928/F01SX9CL6MV/20210405062918.png",
+            "permalink_public": "https://slack-files.com/T0GFBAM8C-F01SX9CL6MV-f0a104b84c",
+            "is_starred": false,
+            "has_rich_preview": false
+          }
+        ],
+        "upload": false,
+        "user": "vermilion928",
+        "display_as_bot": false,
+        "ts": "1617674991.065200",
+        "blocks": [
+          {
+            "type": "rich_text",
+            "block_id": "OQJ",
+            "elements": [
+              {
+                "type": "rich_text_section",
+                "elements": [
+                  {
+                    "type": "text",
+                    "text": "この "
+                  },
+                  {
+                    "type": "text",
+                    "text": "CM108 Audio Controller モノ",
+                    "style": {
+                      "code": true
+                    }
+                  },
+                  {
+                    "type": "text",
+                    "text": " ってインターフェース、USBのオーディオコントローラーにつなげたコンデンサマイクなんですけど、起動するたびに音量が "
+                  },
+                  {
+                    "type": "text",
+                    "text": "ベース",
+                    "style": {
+                      "code": true
+                    }
+                  },
+                  {
+                    "type": "text",
+                    "text": " よりちょっとちいさいくらいになっちゃうんですよね……\n100%がちょうどいいんですけど…… なんでこれデフォルトでこの音量になっちゃうんですかねぇ？"
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "thread_ts": "1617674991.065200",
+        "reply_count": 3,
+        "reply_users_count": 2,
+        "latest_reply": "1617944727.066400",
+        "reply_users": [
+          "syui",
+          "vermilion928"
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1617944727.066400"
+      },
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "ifwn",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "わからなくてつらがってたんですけど、 "
+                },
+                {
+                  "type": "link",
+                  "url": "https://wiki.archlinux.jp/index.php/PulseAudio/%E3%82%B5%E3%83%B3%E3%83%97%E3%83%AB#.E3.83.87.E3.83.95.E3.82.A9.E3.83.AB.E3.83.88.E3.81.AE.E5.85.A5.E5.8A.9B.E3.82.BD.E3.83.BC.E3.82.B9.E3.82.92.E8.A8.AD.E5.AE.9A",
+                  "text": "https://wiki.archlinux.jp/index.php/PulseAudio/%E3%82%B5%E3%83%B3%E3%83%97%E3%83%AB#.E3.83.87.E3.83.95.E3.82.A9.E3[…]2.B9.E3.82.92.E8.A8.AD.E5.AE.9A"
+                },
+                {
+                  "type": "text",
+                  "text": " とかを見て "
+                },
+                {
+                  "type": "link",
+                  "url": "http://default.pa",
+                  "text": "default.pa",
+                  "style": {
+                    "code": true
+                  }
+                },
+                {
+                  "type": "text",
+                  "text": " に "
+                },
+                {
+                  "type": "text",
+                  "text": "set-sink-volume",
+                  "style": {
+                    "code": true
+                  }
+                },
+                {
+                  "type": "text",
+                  "text": " すると出力の音が変えられるっぽい情報が書いてあったので、試しに "
+                },
+                {
+                  "type": "text",
+                  "text": "set-source-volume",
+                  "style": {
+                    "code": true
+                  }
+                },
+                {
+                  "type": "text",
+                  "text": " したら音量変えられました！！！！ よかったぁ\n\n"
+                },
+                {
+                  "type": "link",
+                  "url": "http://default.pa",
+                  "text": "default.pa",
+                  "style": {
+                    "code": true
+                  }
+                },
+                {
+                  "type": "text",
+                  "text": " 末尾に "
+                },
+                {
+                  "type": "text",
+                  "text": "set-source-volume @DEFAULT_SOURCE@ 0xffff",
+                  "style": {
+                    "code": true
+                  }
+                },
+                {
+                  "type": "text",
+                  "text": " としたことでデフォルトのマイクの音量が100%でリストアされるようになりました "
+                },
+                {
+                  "type": "emoji",
+                  "name": "microphone",
+                  "unicode": "1f3a4"
+                },
+                {
+                  "type": "text",
+                  "text": " "
+                },
+                {
+                  "type": "emoji",
+                  "name": "microphone",
+                  "unicode": "1f3a4"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "client_msg_id": "1bbb28db-5605-4750-82e1-fbadedc55c3f",
+      "reactions": [
+        {
+          "name": "+1",
+          "users": [
+            "raa0121",
+            "syui",
+            "UEED0BQ4A"
+          ],
+          "count": 3
+        }
+      ]
+    },
+    {
+      "type": "message",
+      "subtype": "channel_join",
+      "ts": "1617788000.065500",
+      "user": "oriaca372m",
+      "text": "<@oriaca372m>さんがチャンネルに参加しました"
+    },
+    {
+      "type": "message",
+      "text": "この `CM108 Audio Controller モノ` ってインターフェース、USBのオーディオコントローラーにつなげたコンデンサマイクなんですけど、起動するたびに音量が `ベース` よりちょっとちいさいくらいになっちゃうんですよね……\n100%がちょうどいいんですけど…… なんでこれデフォルトでこの音量になっちゃうんですかねぇ？",
+      "files": [
+        {
+          "id": "F01SX9CL6MV",
+          "created": 1617674947,
+          "timestamp": 1617674947,
+          "name": "20210405062918.png",
+          "title": "20210405062918.png",
+          "mimetype": "image/png",
+          "filetype": "png",
+          "pretty_type": "PNG",
+          "user": "vermilion928",
+          "editable": false,
+          "size": 88437,
+          "mode": "hosted",
+          "is_external": false,
+          "external_type": "",
+          "is_public": true,
+          "public_url_shared": false,
+          "display_as_bot": false,
+          "username": "",
+          "url_private": "https://files.slack.com/files-pri/T0GFBAM8C-F01SX9CL6MV/20210405062918.png",
+          "url_private_download": "https://files.slack.com/files-pri/T0GFBAM8C-F01SX9CL6MV/download/20210405062918.png",
+          "media_display_type": "unknown",
+          "thumb_64": "https://files.slack.com/files-tmb/T0GFBAM8C-F01SX9CL6MV-a787a36a00/20210405062918_64.png",
+          "thumb_80": "https://files.slack.com/files-tmb/T0GFBAM8C-F01SX9CL6MV-a787a36a00/20210405062918_80.png",
+          "thumb_360": "https://files.slack.com/files-tmb/T0GFBAM8C-F01SX9CL6MV-a787a36a00/20210405062918_360.png",
+          "thumb_360_w": 360,
+          "thumb_360_h": 199,
+          "thumb_480": "https://files.slack.com/files-tmb/T0GFBAM8C-F01SX9CL6MV-a787a36a00/20210405062918_480.png",
+          "thumb_480_w": 480,
+          "thumb_480_h": 265,
+          "thumb_160": "https://files.slack.com/files-tmb/T0GFBAM8C-F01SX9CL6MV-a787a36a00/20210405062918_160.png",
+          "thumb_720": "https://files.slack.com/files-tmb/T0GFBAM8C-F01SX9CL6MV-a787a36a00/20210405062918_720.png",
+          "thumb_720_w": 720,
+          "thumb_720_h": 397,
+          "thumb_800": "https://files.slack.com/files-tmb/T0GFBAM8C-F01SX9CL6MV-a787a36a00/20210405062918_800.png",
+          "thumb_800_w": 800,
+          "thumb_800_h": 441,
+          "thumb_960": "https://files.slack.com/files-tmb/T0GFBAM8C-F01SX9CL6MV-a787a36a00/20210405062918_960.png",
+          "thumb_960_w": 960,
+          "thumb_960_h": 529,
+          "thumb_1024": "https://files.slack.com/files-tmb/T0GFBAM8C-F01SX9CL6MV-a787a36a00/20210405062918_1024.png",
+          "thumb_1024_w": 1024,
+          "thumb_1024_h": 565,
+          "original_w": 1913,
+          "original_h": 1055,
+          "thumb_tiny": "AwAaADCnSUtJQAUUUUAFFFFABRSUUALRSr1oPWgBKKWigD//2Q==",
+          "permalink": "https://archlinuxjp.slack.com/files/vermilion928/F01SX9CL6MV/20210405062918.png",
+          "permalink_public": "https://slack-files.com/T0GFBAM8C-F01SX9CL6MV-f0a104b84c",
+          "is_starred": false,
+          "has_rich_preview": false
+        }
+      ],
+      "upload": false,
+      "user": "vermilion928",
+      "display_as_bot": false,
+      "ts": "1617674991.065200",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "OQJ",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "この "
+                },
+                {
+                  "type": "text",
+                  "text": "CM108 Audio Controller モノ",
+                  "style": {
+                    "code": true
+                  }
+                },
+                {
+                  "type": "text",
+                  "text": " ってインターフェース、USBのオーディオコントローラーにつなげたコンデンサマイクなんですけど、起動するたびに音量が "
+                },
+                {
+                  "type": "text",
+                  "text": "ベース",
+                  "style": {
+                    "code": true
+                  }
+                },
+                {
+                  "type": "text",
+                  "text": " よりちょっとちいさいくらいになっちゃうんですよね……\n100%がちょうどいいんですけど…… なんでこれデフォルトでこの音量になっちゃうんですかねぇ？"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "thread_ts": "1617674991.065200",
+      "reply_count": 3,
+      "reply_users_count": 2,
+      "latest_reply": "1617944727.066400",
+      "reply_users": [
+        "syui",
+        "vermilion928"
+      ],
+      "is_locked": false,
+      "subscribed": true,
+      "last_read": "1617944727.066400"
+    },
+    {
+      "client_msg_id": "79a4b54f-2396-4614-b2c9-11aec89a3456",
+      "type": "message",
+      "text": "私もそろそろfcitx試してみようかな",
+      "user": "znmxodq1",
+      "ts": "1617387011.061100",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "eWFn",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "私もそろそろfcitx試してみようかな"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "message",
+      "text": "スマホでArchWiki見てると無理矢理表示された結果Javaみある表示になって面白い",
+      "files": [
+        {
+          "id": "F01SRLQFZFZ",
+          "created": 1617386892,
+          "timestamp": 1617386892,
+          "name": "Screenshot_20210403-030150~2.png",
+          "title": "Screenshot_20210403-030150~2.png",
+          "mimetype": "image/png",
+          "filetype": "png",
+          "pretty_type": "PNG",
+          "user": "znmxodq1",
+          "editable": false,
+          "size": 29262,
+          "mode": "hosted",
+          "is_external": false,
+          "external_type": "",
+          "is_public": true,
+          "public_url_shared": false,
+          "display_as_bot": false,
+          "username": "",
+          "url_private": "https://files.slack.com/files-pri/T0GFBAM8C-F01SRLQFZFZ/screenshot_20210403-030150_2.png",
+          "url_private_download": "https://files.slack.com/files-pri/T0GFBAM8C-F01SRLQFZFZ/download/screenshot_20210403-030150_2.png",
+          "media_display_type": "unknown",
+          "thumb_64": "https://files.slack.com/files-tmb/T0GFBAM8C-F01SRLQFZFZ-30861fba4f/screenshot_20210403-030150_2_64.png",
+          "thumb_80": "https://files.slack.com/files-tmb/T0GFBAM8C-F01SRLQFZFZ-30861fba4f/screenshot_20210403-030150_2_80.png",
+          "thumb_360": "https://files.slack.com/files-tmb/T0GFBAM8C-F01SRLQFZFZ-30861fba4f/screenshot_20210403-030150_2_360.png",
+          "thumb_360_w": 360,
+          "thumb_360_h": 94,
+          "thumb_480": "https://files.slack.com/files-tmb/T0GFBAM8C-F01SRLQFZFZ-30861fba4f/screenshot_20210403-030150_2_480.png",
+          "thumb_480_w": 480,
+          "thumb_480_h": 125,
+          "thumb_160": "https://files.slack.com/files-tmb/T0GFBAM8C-F01SRLQFZFZ-30861fba4f/screenshot_20210403-030150_2_160.png",
+          "thumb_720": "https://files.slack.com/files-tmb/T0GFBAM8C-F01SRLQFZFZ-30861fba4f/screenshot_20210403-030150_2_720.png",
+          "thumb_720_w": 720,
+          "thumb_720_h": 188,
+          "thumb_800": "https://files.slack.com/files-tmb/T0GFBAM8C-F01SRLQFZFZ-30861fba4f/screenshot_20210403-030150_2_800.png",
+          "thumb_800_w": 800,
+          "thumb_800_h": 209,
+          "thumb_960": "https://files.slack.com/files-tmb/T0GFBAM8C-F01SRLQFZFZ-30861fba4f/screenshot_20210403-030150_2_960.png",
+          "thumb_960_w": 960,
+          "thumb_960_h": 251,
+          "thumb_1024": "https://files.slack.com/files-tmb/T0GFBAM8C-F01SRLQFZFZ-30861fba4f/screenshot_20210403-030150_2_1024.png",
+          "thumb_1024_w": 1024,
+          "thumb_1024_h": 267,
+          "original_w": 1080,
+          "original_h": 282,
+          "thumb_tiny": "AwAMADCFkHlqFjcN3OKZ5bf3G/Kts0mPc0xGL5bf3G/Kjy2/uP8AlW0OO5pc0hmJ5bf3H/Kjy2/uN+VbVKOtAH//2Q==",
+          "permalink": "https://archlinuxjp.slack.com/files/znmxodq1/F01SRLQFZFZ/screenshot_20210403-030150_2.png",
+          "permalink_public": "https://slack-files.com/T0GFBAM8C-F01SRLQFZFZ-b4dd35bd01",
+          "is_starred": false,
+          "has_rich_preview": false
+        }
+      ],
+      "upload": false,
+      "user": "znmxodq1",
+      "display_as_bot": false,
+      "ts": "1617386995.060500",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "+K5T",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "スマホでArchWiki見てると無理矢理表示された結果Javaみある表示になって面白い"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "client_msg_id": "026056ae-63b0-4315-8098-802d29a39a6f"
+    },
+    {
+      "client_msg_id": "69339d69-770d-4617-902e-dde8abbdb5e8",
+      "type": "message",
+      "text": "fcitx5-skkの`user.dict`、`okuri-ari`エントリーが正しく追加されないんですが、同じ症状の方いらっしゃいませんか…",
+      "user": "watakushide.kakusanak",
+      "ts": "1617361769.058000",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "BsDgA",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "fcitx5-skkの"
+                },
+                {
+                  "type": "text",
+                  "text": "user.dict",
+                  "style": {
+                    "code": true
+                  }
+                },
+                {
+                  "type": "text",
+                  "text": "、"
+                },
+                {
+                  "type": "text",
+                  "text": "okuri-ari",
+                  "style": {
+                    "code": true
+                  }
+                },
+                {
+                  "type": "text",
+                  "text": "エントリーが正しく追加されないんですが、同じ症状の方いらっしゃいませんか…"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "thread_ts": "1617361769.058000",
+      "reply_count": 2,
+      "reply_users_count": 1,
+      "latest_reply": "1617362570.058900",
+      "reply_users": [
+        "watakushide.kakusanak"
+      ],
+      "is_locked": false,
+      "subscribed": false
+    }
+  ],
+  "has_more": false,
+  "is_limited": true,
+  "pin_count": 0,
+  "channel_actions_ts": null,
+  "channel_actions_count": 0
+}

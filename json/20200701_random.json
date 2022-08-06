@@ -1,0 +1,3030 @@
+{
+  "ok": true,
+  "latest": "1596283848.000000",
+  "oldest": "1593605448.000000",
+  "messages": [
+    {
+      "client_msg_id": "7284a7c6-9bd9-4b40-bfe5-5aa23dcaa839",
+      "type": "message",
+      "text": "最近はこのミラーが安定して速いのでよく使ってます。\n```Server = <https://mirrors.cat.net/archlinux/$repo/os/$arch>```",
+      "user": "aruneko99",
+      "ts": "1595900103.237200",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "wMJ",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "最近はこのミラーが安定して速いのでよく使ってます。\n"
+                }
+              ]
+            },
+            {
+              "type": "rich_text_preformatted",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "Server = "
+                },
+                {
+                  "type": "link",
+                  "url": "https://mirrors.cat.net/archlinux/$repo/os/$arch"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "reactions": [
+        {
+          "name": "+1",
+          "users": [
+            "pasutisu",
+            "s5is",
+            "UG2FPFH2P",
+            "syui",
+            "v3rn3j"
+          ],
+          "count": 5
+        },
+        {
+          "name": "cat",
+          "users": [
+            "raa0121",
+            "s5is",
+            "pasutisu",
+            "kokopis",
+            "znmxodq1",
+            "UAPRYSVPS",
+            "U5W6QDSHZ",
+            "dohq",
+            "sherwyn.sen"
+          ],
+          "count": 9
+        },
+        {
+          "name": "cat2",
+          "users": [
+            "raa0121",
+            "s5is",
+            "pasutisu",
+            "znmxodq1",
+            "U5W6QDSHZ",
+            "sherwyn.sen",
+            "UJ7P75WB1"
+          ],
+          "count": 7
+        }
+      ]
+    },
+    {
+      "client_msg_id": "c0947e1a-ef4e-41b6-b103-df926424c947",
+      "type": "message",
+      "text": "戻ったっぽいすね",
+      "user": "f440",
+      "ts": "1595899855.236600",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "6Ztw",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "戻ったっぽいすね"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "84220664-240d-48a7-8149-a5144f5daffd",
+      "type": "message",
+      "text": "`<http://pkgbuild.com|pkgbuild.com>`、落ちてますね…",
+      "user": "pasutisu",
+      "ts": "1595899457.235600",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "U=aZ",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "link",
+                  "url": "http://pkgbuild.com",
+                  "text": "pkgbuild.com",
+                  "style": {
+                    "code": true
+                  }
+                },
+                {
+                  "type": "text",
+                  "text": "、落ちてますね…"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "F767240E-4E4A-49EA-9674-73708A4F416F",
+      "type": "message",
+      "text": "今週に入ってから `<http://pkgbuild.com|pkgbuild.com>` のミラーが落ちてることが多い気がする…",
+      "user": "kokopis",
+      "ts": "1595676449.234000",
+      "team": "T0GFBAM8C",
+      "edited": {
+        "user": "kokopis",
+        "ts": "1595676469.000000"
+      },
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "/yq",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "今週に入ってから "
+                },
+                {
+                  "type": "text",
+                  "text": "pkgbuild.com",
+                  "style": {
+                    "code": true
+                  }
+                },
+                {
+                  "type": "text",
+                  "text": " のミラーが落ちてることが多い気がする…"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "reactions": [
+        {
+          "name": "disappointed_relieved",
+          "users": [
+            "pasutisu"
+          ],
+          "count": 1
+        }
+      ]
+    },
+    {
+      "client_msg_id": "08870c12-9113-46ba-ba63-5caedc344086",
+      "type": "message",
+      "text": "jaもMediaWikiだから構築スクリプト書き換えたらいけるかな、後で試そう",
+      "user": "znmxodq1",
+      "ts": "1595477031.232500",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "l95",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "jaもMediaWikiだから構築スクリプト書き換えたらいけるかな、後で試そう"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "reactions": [
+        {
+          "name": "+1",
+          "users": [
+            "s5is",
+            "UKT90HXU0",
+            "U0H9QUFA5",
+            "U0H026YUR",
+            "UUWBU08TU"
+          ],
+          "count": 5
+        },
+        {
+          "name": "eyes",
+          "users": [
+            "kokopis",
+            "UKT90HXU0",
+            "UJ7P75WB1"
+          ],
+          "count": 3
+        }
+      ]
+    },
+    {
+      "client_msg_id": "a4f08efa-5a72-4fe2-8e7a-0f472555a1ed",
+      "type": "message",
+      "text": "arch-wiki-docsとかいう便利パッケージを見付けたが、独立してる故かjaが存在しなくて悲しい",
+      "user": "znmxodq1",
+      "ts": "1595477013.232000",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "kKyH",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "arch-wiki-docsとかいう便利パッケージを見付けたが、独立してる故かjaが存在しなくて悲しい"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "3a1dddd2-c2a9-4dc5-9da2-c8c0d45a5d3f",
+      "type": "message",
+      "text": "すみません dohqさんが上記で言ってました:sweat_smile:",
+      "user": "v3rn3j",
+      "ts": "1595428517.231200",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "bPq9h",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "すみません dohqさんが上記で言ってました"
+                },
+                {
+                  "type": "emoji",
+                  "name": "sweat_smile",
+                  "unicode": "1f605"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "f4b35026-c2ea-49b9-a95d-8696c0e9b491",
+      "type": "message",
+      "text": "yay:ローカルでビルドが走る\nyay-bin:バイナリが降ってくる",
+      "user": "znmxodq1",
+      "ts": "1595427245.230000",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "VPAt",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "yay:ローカルでビルドが走る\nyay-bin:バイナリが降ってくる"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "02ee4a3e-26d0-4268-a042-b0d8e1a22344",
+      "type": "message",
+      "text": "<@raa0121> yayとyay-binでは何か違うんですか？",
+      "user": "v3rn3j",
+      "ts": "1595427157.229600",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "da1IQ",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "user",
+                  "user_id": "raa0121"
+                },
+                {
+                  "type": "text",
+                  "text": " yayとyay-binでは何か違うんですか？"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "f9c7be6f-927d-4390-9dfc-5e629afb25c0",
+      "type": "message",
+      "text": "anyenv とかのバージョン管理でグローバルに system 以外を指定すると PKGBUILD とかでつらくなるのでやめたほうがいいですね",
+      "user": "atnanasi",
+      "ts": "1595252923.229000",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "LmyiH",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "anyenv とかのバージョン管理でグローバルに system 以外を指定すると PKGBUILD とかでつらくなるのでやめたほうがいいですね"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "reactions": [
+        {
+          "name": "+1",
+          "users": [
+            "U70QDFN82"
+          ],
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "message",
+      "text": "git無くてもPKGBUILD持ってこれるの初耳でした。\nこれも便利。",
+      "files": [
+        {
+          "id": "F017RMX7N2D",
+          "created": 1595244902,
+          "timestamp": 1595244902,
+          "name": "aur_install_zsh.sh",
+          "title": "aur_install.zsh",
+          "mimetype": "text/plain",
+          "filetype": "shell",
+          "pretty_type": "Shell",
+          "user": "s5is",
+          "editable": true,
+          "size": 260,
+          "mode": "snippet",
+          "is_external": false,
+          "external_type": "",
+          "is_public": true,
+          "public_url_shared": false,
+          "display_as_bot": false,
+          "username": "",
+          "url_private": "https://files.slack.com/files-pri/T0GFBAM8C-F017RMX7N2D/aur_install_zsh.sh",
+          "url_private_download": "https://files.slack.com/files-pri/T0GFBAM8C-F017RMX7N2D/download/aur_install_zsh.sh",
+          "permalink": "https://archlinuxjp.slack.com/files/s5is/F017RMX7N2D/aur_install_zsh.sh",
+          "permalink_public": "https://slack-files.com/T0GFBAM8C-F017RMX7N2D-fa11fc318f",
+          "edit_link": "https://archlinuxjp.slack.com/files/s5is/F017RMX7N2D/aur_install_zsh.sh/edit",
+          "preview": "function aur_install() {\n  local tmp=$(mktemp -d);\n  (\n    for item in $*; do\n      cd $tmp; mkdir $item; cd $item",
+          "preview_highlight": "<div class=\"CodeMirror cm-s-default CodeMirrorServer\" oncopy=\"if(event.clipboardData){event.clipboardData.setData('text/plain',window.getSelection().toString().replace(/\\u200b/g,''));event.preventDefault();event.stopPropagation();}\">\n<div class=\"CodeMirror-code\">\n<div><pre><span class=\"cm-keyword\">function</span> aur_install() {</pre></div>\n<div><pre>  local <span class=\"cm-def\">tmp</span><span class=\"cm-operator\">=</span><span class=\"cm-quote\">$(mktemp -d)</span>;</pre></div>\n<div><pre>  (</pre></div>\n<div><pre>    <span class=\"cm-keyword\">for</span> item <span class=\"cm-keyword\">in</span> <span class=\"cm-def\">$*</span>; <span class=\"cm-keyword\">do</span></pre></div>\n<div><pre>      <span class=\"cm-builtin\">cd</span> <span class=\"cm-def\">$tmp</span>; <span class=\"cm-builtin\">mkdir</span> <span class=\"cm-def\">$item</span>; <span class=\"cm-builtin\">cd</span> <span class=\"cm-def\">$item</span></pre></div>\n</div>\n</div>\n",
+          "lines": 15,
+          "lines_more": 10,
+          "preview_is_truncated": false,
+          "is_starred": false,
+          "has_rich_preview": false
+        }
+      ],
+      "upload": true,
+      "user": "s5is",
+      "display_as_bot": false,
+      "ts": "1595244905.226400",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "+LkBZ",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "git無くてもPKGBUILD持ってこれるの初耳でした。\nこれも便利。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "client_msg_id": "121e2ee9-fa04-4da8-a2ab-c342897843d4"
+    },
+    {
+      "client_msg_id": "1df006f5-2ebf-4e91-b436-517ae758051e",
+      "type": "message",
+      "text": "結構Go自体も大きいので依存関係から外せるのは助かる",
+      "user": "s5is",
+      "ts": "1595243896.226300",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "sKn",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "結構Go自体も大きいので依存関係から外せるのは助かる"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "3653d5de-a0e3-4655-a9d3-de707cd29210",
+      "type": "message",
+      "text": "文字通りビルド済バイナリが降ってきますもんね",
+      "user": "jnsk",
+      "ts": "1595243824.225800",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "fIoG+",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "文字通りビルド済バイナリが降ってきますもんね"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "c475d8a7-ad6a-47bc-98ba-a57538acee87",
+      "type": "message",
+      "text": "`yay-bin` めっちゃ便利ですね。\nGo触らない人もGo入れなくて済むはず。",
+      "user": "s5is",
+      "ts": "1595243785.225700",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "9FeDw",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "yay-bin",
+                  "style": {
+                    "code": true
+                  }
+                },
+                {
+                  "type": "text",
+                  "text": " めっちゃ便利ですね。\nGo触らない人もGo入れなくて済むはず。"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "440abe66-17a4-41e6-8505-e9338342afb8",
+      "type": "message",
+      "text": "bin系はビルド時間短縮出来たりして使い勝手よいですねー",
+      "user": "dohq",
+      "ts": "1595235614.224700",
+      "team": "T0GFBAM8C",
+      "edited": {
+        "user": "dohq",
+        "ts": "1595235627.000000"
+      },
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "UMCs",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "bin系はビルド時間短縮出来たりして使い勝手よいですねー"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "5B08FC61-A1CA-4AB4-BCB6-CA6ADC520A36",
+      "type": "message",
+      "text": "`yay-bin` なるものが存在するんですね、普段から Go 書くならそっちのが環境汚れなそうで良さそう",
+      "user": "kokopis",
+      "ts": "1595235365.223900",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "hbe",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "yay-bin",
+                  "style": {
+                    "code": true
+                  }
+                },
+                {
+                  "type": "text",
+                  "text": " なるものが存在するんですね、普段から Go 書くならそっちのが環境汚れなそうで良さそう"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "660d84c5-d244-4cf6-ab46-e67d141e19de",
+      "type": "message",
+      "text": "まぁ、別ファイルあるときも結構ありますね",
+      "user": "raa0121",
+      "ts": "1595234846.222800",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "MRai",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "まぁ、別ファイルあるときも結構ありますね"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "af0a0bf8-3770-441b-9498-f1efd5ddb200",
+      "type": "message",
+      "text": "たまーにgit cloneしてそのなかにインストーラ配置しないといけないやつとかあるので結局git cloneしちゃう",
+      "user": "dohq",
+      "ts": "1595234814.222400",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "a/t/",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "たまーにgit cloneしてそのなかにインストーラ配置しないといけないやつとかあるので結局git cloneしちゃう"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "d35b1fa7-f3f1-4c8a-87d8-a9257c082e15",
+      "type": "message",
+      "text": "```vim PKGBUILD\n:a!\n&lt;S-Ins&gt;&lt;Esc&gt;\n:wq\nmakepkg -si```",
+      "user": "raa0121",
+      "ts": "1595234774.221800",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "w0b",
+          "elements": [
+            {
+              "type": "rich_text_preformatted",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "vim PKGBUILD\n:a!\n<S-Ins><Esc>\n:wq\nmakepkg -si"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "00dbcf97-bb07-45a3-95d2-d260e333b4e8",
+      "type": "message",
+      "text": "WebからPKGBUILD見ることがよくある",
+      "user": "znmxodq1",
+      "ts": "1595234729.220300",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "cvU",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "WebからPKGBUILD見ることがよくある"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "45155a41-6c24-43db-ab6a-7aa2431cf28e",
+      "type": "message",
+      "text": "よく、git clone しないで、PKGBUILD だけ持ってくるマンです",
+      "user": "raa0121",
+      "ts": "1595234704.219700",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "C2U",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "よく、git clone しないで、PKGBUILD だけ持ってくるマンです"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "b7e3579e-583d-4136-ad36-8021139eee0f",
+      "type": "message",
+      "text": "git がなかったら、 `curl -o PKGBUILD <https://aur.archlinux.org/cgit/aur.git/plain/PKGBUILD?h=yay-bin>` でもいいし",
+      "user": "raa0121",
+      "ts": "1595234655.219100",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "G91mv",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "git がなかったら、 "
+                },
+                {
+                  "type": "text",
+                  "text": "curl -o PKGBUILD ",
+                  "style": {
+                    "code": true
+                  }
+                },
+                {
+                  "type": "link",
+                  "url": "https://aur.archlinux.org/cgit/aur.git/plain/PKGBUILD?h=yay-bin",
+                  "style": {
+                    "code": true
+                  }
+                },
+                {
+                  "type": "text",
+                  "text": " でもいいし"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "404d551b-fee8-47b5-a049-0bcb07fbe509",
+      "type": "message",
+      "text": "それ",
+      "user": "raa0121",
+      "ts": "1595234578.218300",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "MjPBB",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "それ"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "466aa850-4b28-4aac-b0e3-7217a02ba3f5",
+      "type": "message",
+      "text": "```$ sudo pacman -S git\n$ git clone <https://aur.archlinux.org/yay-bin.git>\n$ cd yay-bin\n$ makepkg -si```\nyay-binいれるだけならこの4行だけなのでめっちゃ簡単ですよね",
+      "user": "aruneko99",
+      "ts": "1595234559.218100",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "TxuCF",
+          "elements": [
+            {
+              "type": "rich_text_preformatted",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "$ sudo pacman -S git\n$ git clone "
+                },
+                {
+                  "type": "link",
+                  "url": "https://aur.archlinux.org/yay-bin.git"
+                },
+                {
+                  "type": "text",
+                  "text": "\n$ cd yay-bin\n$ makepkg -si"
+                }
+              ]
+            },
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "yay-binいれるだけならこの4行だけなのでめっちゃ簡単ですよね"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "194b4e15-2972-4d7d-a5ef-57ff8c37399d",
+      "type": "message",
+      "text": "あーなるほど",
+      "user": "aruneko99",
+      "ts": "1595234542.217700",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "IiZ",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "あーなるほど"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "f754d4d9-4295-49b6-abab-bbdbeaee9879",
+      "type": "message",
+      "text": "自分でPKGBUILD 書くことが多くて、割とビルドに失敗してたからかな",
+      "user": "raa0121",
+      "ts": "1595234526.217500",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "x/F",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "自分でPKGBUILD 書くことが多くて、割とビルドに失敗してたからかな"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "8c42f673-1ed7-46f0-82fe-4187cdb57db3",
+      "type": "message",
+      "text": "なぜか、`-si` 使ってなかったな…\nなんでだっけ",
+      "user": "raa0121",
+      "ts": "1595234500.216900",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "uCf",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "なぜか、"
+                },
+                {
+                  "type": "text",
+                  "text": "-si",
+                  "style": {
+                    "code": true
+                  }
+                },
+                {
+                  "type": "text",
+                  "text": " 使ってなかったな…\nなんでだっけ"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "1e99724a-cee3-4794-9d6c-d2bad3297236",
+      "type": "message",
+      "text": "metoo",
+      "user": "znmxodq1",
+      "ts": "1595234430.216000",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "uka",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "metoo"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "reactions": [
+        {
+          "name": "100",
+          "users": [
+            "aruneko99",
+            "UJ7P75WB1"
+          ],
+          "count": 2
+        }
+      ]
+    },
+    {
+      "client_msg_id": "af0ac18e-7a77-4f8b-b515-a39ad7a05c29",
+      "type": "message",
+      "text": "`makepkg -si` でいつもビルドとインストールを同時にしてました。",
+      "user": "aruneko99",
+      "ts": "1595234414.215800",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "hUeZ",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "makepkg -si",
+                  "style": {
+                    "code": true
+                  }
+                },
+                {
+                  "type": "text",
+                  "text": " でいつもビルドとインストールを同時にしてました。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "reactions": [
+        {
+          "name": "handshake",
+          "users": [
+            "dohq",
+            "znmxodq1",
+            "UJ7P75WB1"
+          ],
+          "count": 3
+        }
+      ]
+    },
+    {
+      "client_msg_id": "e0b7411c-29ac-48cd-8886-8b6f5f9df3a2",
+      "type": "message",
+      "text": "`-U` で入れることになりますね",
+      "user": "raa0121",
+      "ts": "1595234393.215300",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "mhGa",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "-U",
+                  "style": {
+                    "code": true
+                  }
+                },
+                {
+                  "type": "text",
+                  "text": " で入れることになりますね"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "030ec637-61e9-471b-a39e-9868c0be0260",
+      "type": "message",
+      "text": "`-S`じゃインストールできなかったような",
+      "user": "znmxodq1",
+      "ts": "1595234346.214700",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "MEa",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "-S",
+                  "style": {
+                    "code": true
+                  }
+                },
+                {
+                  "type": "text",
+                  "text": "じゃインストールできなかったような"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "91783aad-e301-44bd-a833-4e88fbf98ec5",
+      "type": "message",
+      "text": "ビルドされたパッケージはpacmanで入れることになるけど、そういうこと？",
+      "user": "znmxodq1",
+      "ts": "1595234314.214400",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "KT6",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "ビルドされたパッケージはpacmanで入れることになるけど、そういうこと？"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "d51a9baf-08b2-49db-abd4-e6f3e90e075a",
+      "type": "message",
+      "text": "でもpacmanからインストールは出来るんだ。面白い。",
+      "user": "vikke.bsd",
+      "ts": "1595234263.213700",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "itz",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "でもpacmanからインストールは出来るんだ。面白い。"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "78173369-6deb-4871-a53d-1e89e19a64f8",
+      "type": "message",
+      "text": "pacman からは引けない",
+      "user": "raa0121",
+      "ts": "1595234237.213200",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "A7T7",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "pacman からは引けない"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "9f718b31-4d30-4b82-9157-6be24334e2fb",
+      "type": "message",
+      "text": "aur だからさ(坊やだからさ",
+      "user": "raa0121",
+      "ts": "1595234228.212900",
+      "team": "T0GFBAM8C",
+      "edited": {
+        "user": "raa0121",
+        "ts": "1595234247.000000"
+      },
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "Wr0n",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "aur だからさ(坊やだからさ"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "bba6ef01-fb28-434d-ad32-68654577b5c6",
+      "type": "message",
+      "text": "なぜサーチにひっかからないのか小一時間問い(ry",
+      "user": "vikke.bsd",
+      "ts": "1595234210.212500",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "Gefe0",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "なぜサーチにひっかからないのか小一時間問い(ry"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "36cb76c8-bbca-410d-897e-54051302de8e",
+      "type": "message",
+      "text": "ってのが、私の通例だった",
+      "user": "raa0121",
+      "ts": "1595234197.212100",
+      "team": "T0GFBAM8C",
+      "edited": {
+        "user": "raa0121",
+        "ts": "1595234207.000000"
+      },
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "ylm4G",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "ってのが、私の通例だった"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "30c516f9-6281-4f07-a961-50b865d38c75",
+      "type": "message",
+      "text": "Arch をセットアップして、最初に yay 入れるので、言語環境とかないから、aur から yay-bin の PKGBUILD 持ってきて、 makepkg する",
+      "user": "raa0121",
+      "ts": "1595234190.211700",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "SuwF",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "Arch をセットアップして、最初に yay 入れるので、言語環境とかないから、aur から yay-bin の PKGBUILD 持ってきて、 makepkg する"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "0adb37b1-6bee-4c91-a209-8f4816222ef5",
+      "type": "message",
+      "text": "yay -S yay-bin",
+      "user": "raa0121",
+      "ts": "1595234097.209900",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "Yia",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "yay -S yay-bin"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "59bea011-dde4-4104-ac56-ea6cb207a7bb",
+      "type": "message",
+      "text": "pacman -Ss yay-bin しても空行が返る虚しさよ。",
+      "user": "vikke.bsd",
+      "ts": "1595234082.209700",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "NLWb6",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "pacman -Ss yay-bin しても空行が返る虚しさよ。"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "140b51c1-fdb4-40be-b2c3-7d8228ec2b18",
+      "type": "message",
+      "text": "LspInstallして、LspStatusするとexitとか冷いこというし。",
+      "user": "vikke.bsd",
+      "ts": "1595233991.208700",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "I+Q0c",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "LspInstallして、LspStatusするとexitとか冷いこというし。"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "6d2cdddf-228d-4c35-a770-81d03baade03",
+      "type": "message",
+      "text": "このへんまとめてコンテナに閉じ込めたさある",
+      "user": "znmxodq1",
+      "ts": "1595233973.208300",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "X91o",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "このへんまとめてコンテナに閉じ込めたさある"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "11ef5dbb-bf59-4ffb-8653-6cc39ac2302d",
+      "type": "message",
+      "text": "結構言語の中身が変わるのでgoplsの定期的なアップデートが必要",
+      "user": "znmxodq1",
+      "ts": "1595233939.207700",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "+WJ4",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "結構言語の中身が変わるのでgoplsの定期的なアップデートが必要"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "e3aea547-47cf-4d28-a2eb-5af4090f976d",
+      "type": "message",
+      "text": "やはり、yay-bin が正義",
+      "user": "raa0121",
+      "ts": "1595233887.207200",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "SaD",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "やはり、yay-bin が正義"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "e7442b8a-6327-457f-863a-3ce6dc5a20c7",
+      "type": "message",
+      "text": "1.13.3抜いたら快調だったvimのlspが動かなくなった。。。。死にたい。",
+      "user": "vikke.bsd",
+      "ts": "1595233819.206800",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "84ekx",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "1.13.3抜いたら快調だったvimのlspが動かなくなった。。。。死にたい。"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "cab86433-7262-4291-9dd7-0af6cac1e06e",
+      "type": "message",
+      "text": "makepkgはrootじゃなくて一般ユーザーで動くので環境変数周りも継承されるんでしょうかね",
+      "user": "aruneko99",
+      "ts": "1595233534.205600",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "WiNqh",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "makepkgはrootじゃなくて一般ユーザーで動くので環境変数周りも継承されるんでしょうかね"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "52857cc5-205e-45a8-9d59-37bc6d2296c8",
+      "type": "message",
+      "text": "makepkgってenvの影響受けるのか、気を付けないといかんな",
+      "user": "znmxodq1",
+      "ts": "1595233485.205100",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "YUAT",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "makepkgってenvの影響受けるのか、気を付けないといかんな"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "a983dd9e-a077-4264-8005-d7b37fba385b",
+      "type": "message",
+      "text": "goenv uninstall 1.13.3 したら、1.14.4見るようになった。怖いような。",
+      "user": "vikke.bsd",
+      "ts": "1595233455.204600",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "jQ7w",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "goenv uninstall 1.13.3 したら、1.14.4見るようになった。怖いような。"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "7cd52362-20ed-46c6-8fba-5b51420eb951",
+      "type": "message",
+      "text": "む、\n```vikke@ichiro:~\n$ which go\n/home/vikke/.goenv/versions/1.13.3/bin/go\n\nvikke@ichiro:~\n$ goenv versions\n  system\n  1.12.1\n  1.13.3\n* 1.14.4 (set by /home/vikke/.goenv/version)\n\nvikke@ichiro:~\n$ goenv version\n1.14.4 (set by /home/vikke/.goenv/version)\n\nvikke@ichiro:~\n$ go version\ngo version go1.13.3 linux/amd64```\nPATH見てまわらないと。。。",
+      "user": "vikke.bsd",
+      "ts": "1595233075.203600",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "jbOtt",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "む、\n"
+                }
+              ]
+            },
+            {
+              "type": "rich_text_preformatted",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "vikke@ichiro:~\n$ which go\n/home/vikke/.goenv/versions/1.13.3/bin/go\n\nvikke@ichiro:~\n$ goenv versions\n  system\n  1.12.1\n  1.13.3\n* 1.14.4 (set by /home/vikke/.goenv/version)\n\nvikke@ichiro:~\n$ goenv version\n1.14.4 (set by /home/vikke/.goenv/version)\n\nvikke@ichiro:~\n$ go version\ngo version go1.13.3 linux/amd64"
+                }
+              ]
+            },
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "PATH見てまわらないと。。。"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "8ebd4dd3-1ee3-427a-9f96-fb563e7b3554",
+      "type": "message",
+      "text": "yay-bin おすすめ",
+      "user": "raa0121",
+      "ts": "1595233065.203100",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "H8E",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "yay-bin おすすめ"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "reactions": [
+        {
+          "name": "handshake",
+          "users": [
+            "f440"
+          ],
+          "count": 1
+        }
+      ]
+    },
+    {
+      "client_msg_id": "0f6a56a0-3cff-43bc-bf33-d598b14776ec",
+      "type": "message",
+      "text": "了解です。",
+      "user": "vikke.bsd",
+      "ts": "1595232888.201000",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "7P9",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "了解です。"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "9035ab02-cb1c-4ab3-845c-029ddcc1918e",
+      "type": "message",
+      "text": "<https://qiita.com/pi9min/items/9dac44c6663e0e933968>",
+      "user": "znmxodq1",
+      "ts": "1595232877.200200",
+      "team": "T0GFBAM8C",
+      "edited": {
+        "user": "znmxodq1",
+        "ts": "1595232884.000000"
+      },
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "oNw",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "link",
+                  "url": "https://qiita.com/pi9min/items/9dac44c6663e0e933968"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "4ccb26a4-294a-4c4f-a2f6-6ebb9cfc75a8",
+      "type": "message",
+      "text": "`-modcacherw`は1.14以降にしかないっぽいので",
+      "user": "znmxodq1",
+      "ts": "1595232867.199700",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "JWXfg",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "-modcacherw",
+                  "style": {
+                    "code": true
+                  }
+                },
+                {
+                  "type": "text",
+                  "text": "は1.14以降にしかないっぽいので"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "fc8d5cfd-ad1a-485d-8704-f0ae5dca1c2d",
+      "type": "message",
+      "text": "1.14以降に上げるとビルド通るようになると思う",
+      "user": "znmxodq1",
+      "ts": "1595232847.199300",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "LiZLl",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "1.14以降に上げるとビルド通るようになると思う"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "7d393f2e-dfdd-48b9-a443-dd2b44294b24",
+      "type": "message",
+      "text": "vikke@ichiro:~/tmp/yay\n[master]$ go version\ngo version go1.13.3 linux/amd64\nで、1.13.3です。",
+      "user": "vikke.bsd",
+      "ts": "1595232832.199000",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "VecH0",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "vikke@ichiro:~/tmp/yay\n[master]$ go version\ngo version go1.13.3 linux/amd64\nで、1.13.3です。"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "ffd42ae5-9cfd-4bc6-98af-6a01460a339f",
+      "type": "message",
+      "text": "Goのバージョンいくつです？",
+      "user": "znmxodq1",
+      "ts": "1595232783.198200",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "vcZya",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "Goのバージョンいくつです？"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "9274f0f9-9edb-4aa6-a7c0-56c30e4df63a",
+      "type": "message",
+      "text": "yayが壊れてる。\n```vikke@ichiro:~/tmp/yay\n[master]$ makepkg -si\n==&gt; パッケージを作成: yay 10.0.3-1 (2020年07月20日 17時07分34秒)\n==&gt; ランタイムの依存関係を確認...\n==&gt; ビルドタイムの依存関係を確認...\n==&gt; ソースを取得...\n  -&gt; yay-10.0.3.tar.gz を見つけました\n==&gt; source で sha256sums ファイルを検証...\n    yay-10.0.3.tar.gz ... 成功\n==&gt; ソースを展開...\n  -&gt; yay-10.0.3.tar.gz を bsdtar で展開\n==&gt; 既存の $pkgdir/ ディレクトリを削除...\n==&gt; build() を開始...\ngo build -v -trimpath -mod=readonly -modcacherw -ldflags '-s -w -extldflags \"-Wl,-O1,--sort-common,--as-needed,-z,relro,-z,now\" -X \"main.yayVersion=10.0.3\" -X \"main.localePath=/usr/share/locale/\"' -buildmode=pie -o yay\nflag provided but not defined: -modcacherw\nusage: go build [-o output] [-i] [build flags] [packages]\nRun 'go help build' for details.\nmake: *** [Makefile:127: yay] エラー 2\n==&gt; エラー: build() で問題が発生しました。\n    中止...```\n<https://aur.archlinux.org/packages/yay/> みてもそれっぽいの無い。なんだろう。",
+      "user": "vikke.bsd",
+      "ts": "1595232676.197700",
+      "team": "T0GFBAM8C",
+      "attachments": [
+        {
+          "title": "AUR (en) - yay",
+          "title_link": "https://aur.archlinux.org/packages/yay/",
+          "text": "Yet another yogurt. Pacman wrapper and AUR helper written in go.",
+          "fallback": "AUR (en) - yay",
+          "from_url": "https://aur.archlinux.org/packages/yay/",
+          "service_name": "aur.archlinux.org",
+          "id": 1,
+          "original_url": "https://aur.archlinux.org/packages/yay/"
+        }
+      ],
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "f6cee",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "yayが壊れてる。\n"
+                }
+              ]
+            },
+            {
+              "type": "rich_text_preformatted",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "vikke@ichiro:~/tmp/yay\n[master]$ makepkg -si\n==> パッケージを作成: yay 10.0.3-1 (2020年07月20日 17時07分34秒)\n==> ランタイムの依存関係を確認...\n==> ビルドタイムの依存関係を確認...\n==> ソースを取得...\n  -> yay-10.0.3.tar.gz を見つけました\n==> source で sha256sums ファイルを検証...\n    yay-10.0.3.tar.gz ... 成功\n==> ソースを展開...\n  -> yay-10.0.3.tar.gz を bsdtar で展開\n==> 既存の $pkgdir/ ディレクトリを削除...\n==> build() を開始...\ngo build -v -trimpath -mod=readonly -modcacherw -ldflags '-s -w -extldflags \"-Wl,-O1,--sort-common,--as-needed,-z,relro,-z,now\" -X \"main.yayVersion=10.0.3\" -X \"main.localePath=/usr/share/locale/\"' -buildmode=pie -o yay\nflag provided but not defined: -modcacherw\nusage: go build [-o output] [-i] [build flags] [packages]\nRun 'go help build' for details.\nmake: *** [Makefile:127: yay] エラー 2\n==> エラー: build() で問題が発生しました。\n    中止..."
+                }
+              ]
+            },
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "link",
+                  "url": "https://aur.archlinux.org/packages/yay/"
+                },
+                {
+                  "type": "text",
+                  "text": " みてもそれっぽいの無い。なんだろう。"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "50ab05b2-2ffb-4d2e-ae7c-69d67b2a938c",
+      "type": "message",
+      "text": "誰かライン企業に就職してAPIを公共してください",
+      "user": "sherwyn.sen",
+      "ts": "1595165227.194700",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "iG1q",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "誰かライン企業に就職してAPIを公共してください"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "reactions": [
+        {
+          "name": "rolling_on_the_floor_laughing",
+          "users": [
+            "kokopis"
+          ],
+          "count": 1
+        }
+      ]
+    },
+    {
+      "client_msg_id": "12697ea2-307f-490f-9540-1f8c2df11148",
+      "type": "message",
+      "text": "APIでアクセスできないのほんとつらい",
+      "user": "kokopis",
+      "ts": "1595164712.193400",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "lTh",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "APIでアクセスできないのほんとつらい"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "reactions": [
+        {
+          "name": "crying_cat_face",
+          "users": [
+            "sherwyn.sen"
+          ],
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "message",
+      "subtype": "channel_join",
+      "ts": "1595153371.192900",
+      "user": "vollmz",
+      "text": "<@vollmz>さんがチャンネルに参加しました"
+    },
+    {
+      "type": "message",
+      "subtype": "thread_broadcast",
+      "text": "そのAPIはボット用だと思ってたから普通にチャットクライエント作れなさそうなんですね",
+      "user": "sherwyn.sen",
+      "ts": "1595115138.191500",
+      "thread_ts": "1595112075.189100",
+      "root": {
+        "client_msg_id": "48983aee-6424-4e59-aa68-651bb9379930",
+        "type": "message",
+        "text": "lineのapiを使ってやるしかなさそう",
+        "user": "syui",
+        "ts": "1595112075.189100",
+        "team": "T0GFBAM8C",
+        "blocks": [
+          {
+            "type": "rich_text",
+            "block_id": "jTlRa",
+            "elements": [
+              {
+                "type": "rich_text_section",
+                "elements": [
+                  {
+                    "type": "text",
+                    "text": "lineのapiを使ってやるしかなさそう"
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "thread_ts": "1595112075.189100",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1595115138.191500",
+        "reply_users": [
+          "sherwyn.sen"
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1595115138.191500"
+      },
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "yHvD5",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "そのAPIはボット用だと思ってたから普通にチャットクライエント作れなさそうなんですね"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "client_msg_id": "6e14ba44-92be-4253-b308-69cf37105fc0",
+      "reactions": [
+        {
+          "name": "sob",
+          "users": [
+            "kokopis"
+          ],
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "message",
+      "subtype": "thread_broadcast",
+      "text": "いまパソコンで僕はそれを使ってます！でもスマホにブラウザをインストールする欲望はありません、",
+      "user": "sherwyn.sen",
+      "ts": "1595115055.191200",
+      "thread_ts": "1595112535.191100",
+      "root": {
+        "client_msg_id": "C909464B-1EC1-4DBF-B3E8-035AF5DD2053",
+        "type": "message",
+        "text": "LINE の Chrome アプリ版があるので、ウェブストアから入れたら良いと思います！毎回 Chromium 起動しないといけないけど。",
+        "user": "kokopis",
+        "ts": "1595112535.191100",
+        "team": "T0GFBAM8C",
+        "blocks": [
+          {
+            "type": "rich_text",
+            "block_id": "b3X3",
+            "elements": [
+              {
+                "type": "rich_text_section",
+                "elements": [
+                  {
+                    "type": "text",
+                    "text": "LINE の Chrome アプリ版があるので、ウェブストアから入れたら良いと思います！毎回 Chromium 起動しないといけないけど。"
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "thread_ts": "1595112535.191100",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1595115055.191200",
+        "reply_users": [
+          "sherwyn.sen"
+        ],
+        "is_locked": false,
+        "subscribed": false
+      },
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "W3XJ",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "いまパソコンで僕はそれを使ってます！でもスマホにブラウザをインストールする欲望はありません、"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "client_msg_id": "f11e2773-33e0-44a6-b3cb-fdc18bdbeee5",
+      "reactions": [
+        {
+          "name": "persevere",
+          "users": [
+            "kokopis"
+          ],
+          "count": 1
+        }
+      ]
+    },
+    {
+      "client_msg_id": "C909464B-1EC1-4DBF-B3E8-035AF5DD2053",
+      "type": "message",
+      "text": "LINE の Chrome アプリ版があるので、ウェブストアから入れたら良いと思います！毎回 Chromium 起動しないといけないけど。",
+      "user": "kokopis",
+      "ts": "1595112535.191100",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "b3X3",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "LINE の Chrome アプリ版があるので、ウェブストアから入れたら良いと思います！毎回 Chromium 起動しないといけないけど。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "thread_ts": "1595112535.191100",
+      "reply_count": 1,
+      "reply_users_count": 1,
+      "latest_reply": "1595115055.191200",
+      "reply_users": [
+        "sherwyn.sen"
+      ],
+      "is_locked": false,
+      "subscribed": false
+    },
+    {
+      "client_msg_id": "48983aee-6424-4e59-aa68-651bb9379930",
+      "type": "message",
+      "text": "lineのapiを使ってやるしかなさそう",
+      "user": "syui",
+      "ts": "1595112075.189100",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "jTlRa",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "lineのapiを使ってやるしかなさそう"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "thread_ts": "1595112075.189100",
+      "reply_count": 1,
+      "reply_users_count": 1,
+      "latest_reply": "1595115138.191500",
+      "reply_users": [
+        "sherwyn.sen"
+      ],
+      "is_locked": false,
+      "subscribed": true,
+      "last_read": "1595115138.191500"
+    },
+    {
+      "client_msg_id": "a86a261d-fea7-4511-99f7-9ad30cc6f535",
+      "type": "message",
+      "text": "pinephone、初めて聞いた\nよさそう",
+      "user": "syui",
+      "ts": "1595111893.188800",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "BE8g",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "pinephone、初めて聞いた\nよさそう"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "e7f4649b-c046-48df-b54a-43195b1d90e2",
+      "type": "message",
+      "text": "pinephoneじゃないlinuxスマホでもいい",
+      "user": "sherwyn.sen",
+      "ts": "1595111855.188500",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "YPD",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "pinephoneじゃないlinuxスマホでもいい"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "ffac5479-57fb-4968-809d-b69ca341f595",
+      "type": "message",
+      "text": "このチャットにはラインを使う人は少ないかもしれないんですが、",
+      "user": "sherwyn.sen",
+      "ts": "1595111809.187800",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "QM4L",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "このチャットにはラインを使う人は少ないかもしれないんですが、"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "0318446d-9964-427b-a9a9-59c3da0c008c",
+      "type": "message",
+      "text": "pinephone買った人はいますか？\npinephoneでラインの使い方がありますか？",
+      "user": "sherwyn.sen",
+      "ts": "1595111782.186900",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "eetd",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "pinephone買った人はいますか？\npinephoneでラインの使い方がありますか？"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "f1b84931-5f0e-4593-83e1-67ec51cff271",
+      "type": "message",
+      "text": "自動ダウンロードなら割と安全そうですね",
+      "user": "s5is",
+      "ts": "1595048391.185400",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "YJU2",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "自動ダウンロードなら割と安全そうですね"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "4c75a701-4a52-4448-9c65-d62b11f58c32",
+      "type": "message",
+      "text": "バックグラウンドアプデは怖くてできない",
+      "user": "znmxodq1",
+      "ts": "1595041426.185000",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "tgg",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "バックグラウンドアプデは怖くてできない"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "166dcd1d-9385-42df-b5ee-23695881c360",
+      "type": "message",
+      "text": "自動でアップデートしたい動機に時間があるので",
+      "user": "znmxodq1",
+      "ts": "1595041404.184400",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "cnwR",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "自動でアップデートしたい動機に時間があるので"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "023aa0cb-c48e-49ea-b35e-ebba57960ac3",
+      "type": "message",
+      "text": "パッケージのダウンロードとアップデートを分けてますね",
+      "user": "znmxodq1",
+      "ts": "1595041369.183400",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "fvzMp",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "パッケージのダウンロードとアップデートを分けてますね"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "e830e60e-a923-407b-be11-0117c67cc240",
+      "type": "message",
+      "text": "pacmanが壊れるのはつらい",
+      "user": "syui",
+      "ts": "1595037425.182500",
+      "team": "T0GFBAM8C",
+      "edited": {
+        "user": "syui",
+        "ts": "1595038274.000000"
+      },
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "U1Y",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "pacmanが壊れるのはつらい"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "d5712245-2b15-4ac4-b5ed-cda88e677241",
+      "type": "message",
+      "text": "怖いので自動アップデートは避けてますね。\n過去にアップデート中にブレーカー飛んでPacmanがぶっ壊れたことあるので…",
+      "user": "s5is",
+      "ts": "1595037392.182200",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "f9D",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "怖いので自動アップデートは避けてますね。\n過去にアップデート中にブレーカー飛んでPacmanがぶっ壊れたことあるので…"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "c5638dcf-d325-4c07-9363-46108aa3e16d",
+      "type": "message",
+      "text": "たまたまカーネルの更新中だったのか、他のパッケージの影響だったのか",
+      "user": "syui",
+      "ts": "1595031122.180000",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "m6o",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "たまたまカーネルの更新中だったのか、他のパッケージの影響だったのか"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "311AFDC1-53A7-4EEB-8E3B-0144115F40FE",
+      "type": "message",
+      "text": "vmlinuz が消えることとかあるんですね…カーネルの更新とかだとありえるのか",
+      "user": "kokopis",
+      "ts": "1595031048.179400",
+      "team": "T0GFBAM8C",
+      "edited": {
+        "user": "kokopis",
+        "ts": "1595056994.000000"
+      },
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "k79A",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "vmlinuz が消えることとかあるんですね…カーネルの更新とかだとありえるのか"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "5a7de7c5-5c83-49e7-bd97-6510587aa2e4",
+      "type": "message",
+      "text": "アップデート中は通知するようにした",
+      "user": "syui",
+      "ts": "1595021843.177800",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "G1QI",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "アップデート中は通知するようにした"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "94660cc1-3e90-4cb2-927e-3c0af69af64e",
+      "type": "message",
+      "text": "あー、もしかして自動アップデートしてる最中にシャットダウンしたのが原因かもしれない",
+      "user": "syui",
+      "ts": "1595021647.177500",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "109",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "あー、もしかして自動アップデートしてる最中にシャットダウンしたのが原因かもしれない"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "baef997e-daf9-49df-a5f7-67ea58bfd423",
+      "type": "message",
+      "text": "archが直った",
+      "user": "syui",
+      "ts": "1595021143.176900",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "FmV8",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "archが直った"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "c22915da-e34e-4655-85b5-1f629dcf8eab",
+      "type": "message",
+      "text": "たまに `/boot/vmlinuz-linux` が消えてることがあって、linuxをインストールし直すと戻るんだけど、消えたことある人っています?",
+      "user": "syui",
+      "ts": "1595021112.176700",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "9nI0A",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "たまに "
+                },
+                {
+                  "type": "text",
+                  "text": "/boot/vmlinuz-linux",
+                  "style": {
+                    "code": true
+                  }
+                },
+                {
+                  "type": "text",
+                  "text": " が消えてることがあって、linuxをインストールし直すと戻るんだけど、消えたことある人っています?"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "4ffa0e1b-4670-420d-94d3-6eea99969801",
+      "type": "message",
+      "text": "archが壊れた",
+      "user": "syui",
+      "ts": "1595021033.175900",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "1upO",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "archが壊れた"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "message",
+      "subtype": "thread_broadcast",
+      "text": "XにしてモニタをDisplayPort(モニタ側) - HDMI(PC(ThinkPadX1)側)にしたら、PCのモニタしか認識しない。。。\n```$ xrandr\nScreen 0: minimum 8 x 8, current 1920 x 1080, maximum 32767 x 32767\neDP1 connected primary 1920x1080+0+0 (normal left inverted right x axis y axis) 310mm x 170mm\n   1920x1080     60.00*+  59.93    48.00\n   1680x1050     59.88\n   1400x1050     59.98\n   1600x900      60.00    59.95    59.82\n   1280x1024     60.02\n   1400x900      59.96    59.88\n   1280x960      60.00\n   1368x768      60.00    59.88    59.85\n   1280x800      59.81    59.91\n   1280x720      59.86    60.00    59.74\n   1024x768      60.00\n   1024x576      60.00    59.90    59.82\n   960x540       60.00    59.63    59.82\n   800x600       60.32    56.25\n   864x486       60.00    59.92    59.57\n   640x480       59.94\n   720x405       59.51    60.00    58.99\n   640x360       59.84    59.32    60.00\nDP1 disconnected (normal left inverted right x axis y axis)\nDP2 disconnected (normal left inverted right x axis y axis)\nHDMI1 disconnected (normal left inverted right x axis y axis)\nVIRTUAL1 disconnected (normal left inverted right x axis y axis)```",
+      "user": "vikke.bsd",
+      "ts": "1594788914.174900",
+      "thread_ts": "1594392420.173900",
+      "root": {
+        "client_msg_id": "68205da0-a218-4c01-b169-286b39211fb2",
+        "type": "message",
+        "text": "Wayland だと arandr 使えないですね、X 向けの設定ツールなので",
+        "user": "atnanasi",
+        "ts": "1594392420.173900",
+        "team": "T0GFBAM8C",
+        "blocks": [
+          {
+            "type": "rich_text",
+            "block_id": "nrmlZ",
+            "elements": [
+              {
+                "type": "rich_text_section",
+                "elements": [
+                  {
+                    "type": "text",
+                    "text": "Wayland だと arandr 使えないですね、X 向けの設定ツールなので"
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "thread_ts": "1594392420.173900",
+        "reply_count": 5,
+        "reply_users_count": 2,
+        "latest_reply": "1595213475.195200",
+        "reply_users": [
+          "vikke.bsd",
+          "atnanasi"
+        ],
+        "is_locked": false,
+        "subscribed": false
+      },
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "gFRk",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "XにしてモニタをDisplayPort(モニタ側) - HDMI(PC(ThinkPadX1)側)にしたら、PCのモニタしか認識しない。。。\n"
+                }
+              ]
+            },
+            {
+              "type": "rich_text_preformatted",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "$ xrandr\nScreen 0: minimum 8 x 8, current 1920 x 1080, maximum 32767 x 32767\neDP1 connected primary 1920x1080+0+0 (normal left inverted right x axis y axis) 310mm x 170mm\n   1920x1080     60.00*+  59.93    48.00\n   1680x1050     59.88\n   1400x1050     59.98\n   1600x900      60.00    59.95    59.82\n   1280x1024     60.02\n   1400x900      59.96    59.88\n   1280x960      60.00\n   1368x768      60.00    59.88    59.85\n   1280x800      59.81    59.91\n   1280x720      59.86    60.00    59.74\n   1024x768      60.00\n   1024x576      60.00    59.90    59.82\n   960x540       60.00    59.63    59.82\n   800x600       60.32    56.25\n   864x486       60.00    59.92    59.57\n   640x480       59.94\n   720x405       59.51    60.00    58.99\n   640x360       59.84    59.32    60.00\nDP1 disconnected (normal left inverted right x axis y axis)\nDP2 disconnected (normal left inverted right x axis y axis)\nHDMI1 disconnected (normal left inverted right x axis y axis)\nVIRTUAL1 disconnected (normal left inverted right x axis y axis)"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "client_msg_id": "3c971269-19fe-4b8f-8dc6-a845a69c8c95"
+    },
+    {
+      "type": "message",
+      "subtype": "channel_join",
+      "ts": "1594624250.174700",
+      "user": "s5is",
+      "text": "<@s5is>さんがチャンネルに参加しました"
+    },
+    {
+      "client_msg_id": "68205da0-a218-4c01-b169-286b39211fb2",
+      "type": "message",
+      "text": "Wayland だと arandr 使えないですね、X 向けの設定ツールなので",
+      "user": "atnanasi",
+      "ts": "1594392420.173900",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "nrmlZ",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "Wayland だと arandr 使えないですね、X 向けの設定ツールなので"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "thread_ts": "1594392420.173900",
+      "reply_count": 5,
+      "reply_users_count": 2,
+      "latest_reply": "1595213475.195200",
+      "reply_users": [
+        "vikke.bsd",
+        "atnanasi"
+      ],
+      "is_locked": false,
+      "subscribed": false,
+      "reactions": [
+        {
+          "name": "+1",
+          "users": [
+            "syui"
+          ],
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "message",
+      "text": "こんな感じでだめ。あと、ツールバーの部品が欠けたりとか、ウィンドウを移動させるとスクロールの軌跡が残ったり。\nなんか全般的に変。",
+      "files": [
+        {
+          "id": "F017KJA2JGG",
+          "created": 1594369528,
+          "timestamp": 1594369528,
+          "name": "VID_20200710_172441.mp4",
+          "title": "VID_20200710_172441.mp4",
+          "mimetype": "video/mp4",
+          "filetype": "mp4",
+          "pretty_type": "MPEG 4ビデオ",
+          "user": "vikke.bsd",
+          "editable": false,
+          "size": 47681897,
+          "mode": "hosted",
+          "is_external": false,
+          "external_type": "",
+          "is_public": true,
+          "public_url_shared": false,
+          "display_as_bot": false,
+          "username": "",
+          "url_private": "https://files.slack.com/files-pri/T0GFBAM8C-F017KJA2JGG/vid_20200710_172441.mp4",
+          "url_private_download": "https://files.slack.com/files-pri/T0GFBAM8C-F017KJA2JGG/download/vid_20200710_172441.mp4",
+          "media_display_type": "video",
+          "thumb_video": "https://files.slack.com/files-tmb/T0GFBAM8C-F017KJA2JGG-eda337e6c8/vid_20200710_172441_thumb_video.jpeg",
+          "permalink": "https://archlinuxjp.slack.com/files/vikke.bsd/F017KJA2JGG/vid_20200710_172441.mp4",
+          "permalink_public": "https://slack-files.com/T0GFBAM8C-F017KJA2JGG-77386f8021",
+          "is_starred": false,
+          "has_rich_preview": false
+        }
+      ],
+      "upload": true,
+      "user": "vikke.bsd",
+      "display_as_bot": false,
+      "ts": "1594369637.173200",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "22c9S",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "こんな感じでだめ。あと、ツールバーの部品が欠けたりとか、ウィンドウを移動させるとスクロールの軌跡が残ったり。\nなんか全般的に変。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "client_msg_id": "5db256eb-7bd0-4c52-8c78-3b0aa40129c2"
+    },
+    {
+      "client_msg_id": "20870fa1-c290-4efd-965a-2902162a62d2",
+      "type": "message",
+      "text": "なぜだ!!!!",
+      "user": "vikke.bsd",
+      "ts": "1594369328.171100",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "whG",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "なぜだ!!!!"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "eb97d3f8-f8dc-48cd-b905-a228febcd95c",
+      "type": "message",
+      "text": "今手元でやった限りでは問題無かった…",
+      "user": "dohq",
+      "ts": "1594369172.170900",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "FL8Dg",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "今手元でやった限りでは問題無かった…"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "26a296c7-5896-48bd-bbee-2f563ccdaf07",
+      "type": "message",
+      "text": "最近は外部モニタつなげてないので使ってないのですが、以前は常用してました",
+      "user": "f440",
+      "ts": "1594369002.170300",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "CLtk",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "最近は外部モニタつなげてないので使ってないのですが、以前は常用してました"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "e962035f-f46f-4b17-83d4-325263574aa2",
+      "type": "message",
+      "text": "aRandR使おうとしているんですけど、画面をドラッグは出来るけど、ドラッグを放すと元の場所に戻ってしまって、画面配置の変更が出来ません。\nどなたかaRandR使えてる人います?",
+      "user": "vikke.bsd",
+      "ts": "1594368599.168500",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "ELKVF",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "aRandR使おうとしているんですけど、画面をドラッグは出来るけど、ドラッグを放すと元の場所に戻ってしまって、画面配置の変更が出来ません。\nどなたかaRandR使えてる人います?"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "message",
+      "subtype": "channel_join",
+      "ts": "1594355543.167200",
+      "user": "ftvda283",
+      "text": "<@ftvda283>さんがチャンネルに参加しました"
+    },
+    {
+      "type": "message",
+      "subtype": "channel_join",
+      "ts": "1594287814.167000",
+      "user": "sknyqbcbw",
+      "text": "<@sknyqbcbw>さんがチャンネルに参加しました"
+    },
+    {
+      "client_msg_id": "e68edc68-656f-4310-9b79-96200affd4ff",
+      "type": "message",
+      "text": "ありがとうございました",
+      "user": "aoisensi.potato_slack",
+      "ts": "1594280556.166300",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "g21u",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "ありがとうございました"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "b338e549-c206-46c3-8365-bf93b12b60b6",
+      "type": "message",
+      "text": "まあいいや しばらくは諦めよう",
+      "user": "aoisensi.potato_slack",
+      "ts": "1594280552.166100",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "0Oi8",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "まあいいや しばらくは諦めよう"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "6090941e-9882-4a03-ba74-762bbdaab6c0",
+      "type": "message",
+      "text": "他のアプリも動かしたいので…",
+      "user": "aoisensi.potato_slack",
+      "ts": "1594280527.165800",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "1Gb55",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "他のアプリも動かしたいので…"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "958d9c4a-a7bd-4fb0-8650-15ff5efda328",
+      "type": "message",
+      "text": "nodeを動かしたいだけだったらArchのパッケージでなくnvmとか使ってみては",
+      "user": "emtee",
+      "ts": "1594280508.165600",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "oeVF",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "nodeを動かしたいだけだったらArchのパッケージでなくnvmとか使ってみては"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "91a894c7-bdd3-4692-8ce7-827f6d3ae516",
+      "type": "message",
+      "text": "とりあえずnodeが動かないんですよねー",
+      "user": "aoisensi.potato_slack",
+      "ts": "1594280407.164600",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "+54ef",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "とりあえずnodeが動かないんですよねー"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "5df4d895-af6e-4870-a559-323b8273b079",
+      "type": "message",
+      "text": "firefoxも動く",
+      "user": "aoisensi.potato_slack",
+      "ts": "1594280397.164300",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "4fs3J",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "firefoxも動く"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "2deab04e-0d40-4f6c-8f70-4f8457ab3462",
+      "type": "message",
+      "text": "chromium は普通に問題なさそうだな…\n最近アップデートしたパッケージのファイルの ldd が見たいかな",
+      "user": "raa0121",
+      "ts": "1594280115.164100",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "1FF",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "chromium は普通に問題なさそうだな…\n最近アップデートしたパッケージのファイルの ldd が見たいかな"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "6b71abac-26c7-451a-ba3a-77a86794735d",
+      "type": "message",
+      "text": "chromium最初から入ってたので多分古いバージョン",
+      "user": "aoisensi.potato_slack",
+      "ts": "1594280071.163300",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "01jdp",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "chromium最初から入ってたので多分古いバージョン"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "faae2e63-f014-4f1f-8e9f-ffe1a5736da9",
+      "type": "message",
+      "text": "いや、大丈夫 chromium の結果で",
+      "user": "raa0121",
+      "ts": "1594280044.162900",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "NL7U",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "いや、大丈夫 chromium の結果で"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "has_more": true,
+  "is_limited": false,
+  "pin_count": 0,
+  "channel_actions_ts": null,
+  "channel_actions_count": 0,
+  "response_metadata": {
+    "next_cursor": "bmV4dF90czoxNTk0MjgwMDEwMTYyNTAw"
+  }
+}

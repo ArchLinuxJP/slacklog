@@ -1,0 +1,1280 @@
+{
+  "ok": true,
+  "latest": "1625110025.000000",
+  "oldest": "1622518025.000000",
+  "messages": [
+    {
+      "client_msg_id": "2C20FA2B-7DD2-4BBE-A6D3-752D4A772B1B",
+      "type": "message",
+      "text": "すみません、続報です\n先程のシンボリックのやりかたは壊れる可能性あるので良くないらしい\n<https://github.com/Morganamilo/paru/issues/391#issuecomment-852190057|https://github.com/Morganamilo/paru/issues/391#issuecomment-852190057>",
+      "user": "syui",
+      "ts": "1622559434.067600",
+      "team": "T0GFBAM8C",
+      "attachments": [
+        {
+          "service_name": "GitHub",
+          "title": "paru does not work with libalpm 13 · Issue #391 · Morganamilo/paru",
+          "title_link": "https://github.com/Morganamilo/paru/issues/391#issuecomment-852190057",
+          "text": "Affected Version 1.7.0-1 Description Paru throws error on trying to run any command (including paru -V) Output paru: error while loading shared libraries: libalpm.so.13: cannot open shared object f...",
+          "fallback": "GitHub: paru does not work with libalpm 13 · Issue #391 · Morganamilo/paru",
+          "image_url": "https://opengraph.githubassets.com/f8cccc2d691e17127b6faff633d6e968b6d92bd6d48840a0ac02918b3d7cacd8/Morganamilo/paru/issues/391",
+          "image_width": 500,
+          "image_height": 250,
+          "from_url": "https://github.com/Morganamilo/paru/issues/391#issuecomment-852190057",
+          "image_bytes": 87683,
+          "service_icon": "https://a.slack-edge.com/80588/img/unfurl_icons/github.png",
+          "id": 1,
+          "original_url": "https://github.com/Morganamilo/paru/issues/391#issuecomment-852190057"
+        }
+      ],
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "XNjo",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "すみません、続報です\n先程のシンボリックのやりかたは壊れる可能性あるので良くないらしい\n"
+                },
+                {
+                  "type": "link",
+                  "url": "https://github.com/Morganamilo/paru/issues/391#issuecomment-852190057",
+                  "text": "https://github.com/Morganamilo/paru/issues/391#issuecomment-852190057"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "3265f992-aaf7-4230-aad9-052080c50f5d",
+      "type": "message",
+      "text": "issueにはlibalpmのapiでスパゲティコードが云々という話がでてますね\n&gt;  There are significant API changes between libalpm 12 and libalpm 13. Implementing this would require significant effort and a lot of spaghetti code. ",
+      "user": "syui",
+      "ts": "1622558619.066300",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "QPZVS",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "issueにはlibalpmのapiでスパゲティコードが云々という話がでてますね\n"
+                }
+              ]
+            },
+            {
+              "type": "rich_text_quote",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": " There are significant API changes between libalpm 12 and libalpm 13. Implementing this would require significant effort and a lot of spaghetti code. "
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "reactions": [
+        {
+          "name": "totemoturai",
+          "users": [
+            "s5is"
+          ],
+          "count": 1
+        }
+      ]
+    },
+    {
+      "client_msg_id": "4ea632ed-e533-4f76-a80a-a7f189c1a292",
+      "type": "message",
+      "text": "そういえばしばらくArch使ってるけどlibalpmとおしゃべりしたことなかったな",
+      "user": "znmxodq1",
+      "ts": "1622558584.065700",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "VWGq",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "そういえばしばらくArch使ってるけどlibalpmとおしゃべりしたことなかったな"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "72df7c5d-2fe4-47d5-beb9-b64b8d5b5ae9",
+      "type": "message",
+      "text": "trizenとかはpacman直接叩いてたはずなので、コマンドラインオプションが変わったりしない限り動くんですよね。\nLibalpm使うと高速だったり細かい操作とか制御できるのかな…？",
+      "user": "s5is",
+      "ts": "1622558412.065100",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "N6Ess",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "trizenとかはpacman直接叩いてたはずなので、コマンドラインオプションが変わったりしない限り動くんですよね。\nLibalpm使うと高速だったり細かい操作とか制御できるのかな…？"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "37919e51-476c-40e5-81be-e49600abba98",
+      "type": "message",
+      "text": "binのpkgbuild読めば良さそうな気もするんですが、読んでない...",
+      "user": "syui",
+      "ts": "1622558324.064400",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "0eq1",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "binのpkgbuild読めば良さそうな気もするんですが、読んでない..."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "f0550ee6-cbcf-49fa-9d4c-4d1ccd1600a9",
+      "type": "message",
+      "text": "たしかに謎",
+      "user": "s5is",
+      "ts": "1622558259.063500",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "Uv9",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "たしかに謎"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "1bb45fa0-1ffc-4577-ab41-b396a1d73821",
+      "type": "message",
+      "text": "(よくわからない)",
+      "user": "syui",
+      "ts": "1622558226.063200",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "hJGC",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "(よくわからない)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "85a580e7-5d73-4a83-ac5b-24abb4fb1e87",
+      "type": "message",
+      "text": "んで、古いparuをbuildすると最新paruをbuildする際にlibalpm12を要求され、実質13のシンボリック貼ることで、なんとかbuild通った感じ",
+      "user": "syui",
+      "ts": "1622558164.062000",
+      "team": "T0GFBAM8C",
+      "edited": {
+        "user": "syui",
+        "ts": "1622559036.000000"
+      },
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "6rG",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "んで、古いparuをbuildすると最新paruをbuildする際にlibalpm12を要求され、実質13のシンボリック貼ることで、なんとかbuild通った感じ"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "4e79c1d1-cb71-4e65-afb9-9ba8ed3d4235",
+      "type": "message",
+      "text": "でもparu最新はlibalpm13使うっぽいんだけど、なぜかbuild通らなくて、一旦、古いparuをbuildしないと通らなかった",
+      "user": "syui",
+      "ts": "1622558077.060700",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "UxO",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "でもparu最新はlibalpm13使うっぽいんだけど、なぜかbuild通らなくて、一旦、古いparuをbuildしないと通らなかった"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "ce2d22b3-4c09-40f7-9ee7-951db852ad80",
+      "type": "message",
+      "text": "そうなんですね",
+      "user": "syui",
+      "ts": "1622558006.059300",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "=Rkk7",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "そうなんですね"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "3b8cb4a2-f3b4-4a63-9a6b-e49af5544699",
+      "type": "message",
+      "text": "結局yayもparuもLibalpmバインディング使ってるのでPacmanのバージョンアップ気をつけたい(そんなに困るタイミング無いけど)",
+      "user": "s5is",
+      "ts": "1622557921.059100",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "HotQ",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "結局yayもparuもLibalpmバインディング使ってるのでPacmanのバージョンアップ気をつけたい(そんなに困るタイミング無いけど)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "86996651-df50-454f-8c40-0a13eaf353d9",
+      "type": "message",
+      "text": "paruも動いてるので、問題なさそう",
+      "user": "syui",
+      "ts": "1622557911.058900",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "UqN",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "paruも動いてるので、問題なさそう"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "3c93fa88-5479-4189-87da-8852399e05a3",
+      "type": "message",
+      "text": "自分とこはlibalpm.so.13はあるけど12はない",
+      "user": "syui",
+      "ts": "1622557803.057900",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "9m1s",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "自分とこはlibalpm.so.13はあるけど12はない"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "eb73cd4e-2462-495f-959f-f2b855b0ad58",
+      "type": "message",
+      "text": "なんかparuの古いバージョンをbuildしてlibalpm.so.12を使用するようになるので、そこでparu最新をbuildすればいけるっぽいのか",
+      "user": "syui",
+      "ts": "1622557770.057400",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "a3Tr",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "なんかparuの古いバージョンをbuildしてlibalpm.so.12を使用するようになるので、そこでparu最新をbuildすればいけるっぽいのか"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "87396b60-d360-40f3-a68f-46d5fa948bf6",
+      "type": "message",
+      "text": "<https://github.com/Morganamilo/paru/issues/391>",
+      "user": "syui",
+      "ts": "1622557685.055700",
+      "team": "T0GFBAM8C",
+      "attachments": [
+        {
+          "service_name": "GitHub",
+          "title": "paru does not work with libalpm 13 · Issue #391 · Morganamilo/paru",
+          "title_link": "https://github.com/Morganamilo/paru/issues/391",
+          "text": "Affected Version 1.7.0-1 Description Paru throws error on trying to run any command (including paru -V) Output paru: error while loading shared libraries: libalpm.so.13: cannot open shared object f...",
+          "fallback": "GitHub: paru does not work with libalpm 13 · Issue #391 · Morganamilo/paru",
+          "image_url": "https://opengraph.githubassets.com/5938eabad20a5a6dcdf384c976be05cc369822fe5b70819a9a850cc6f48dd2b6/Morganamilo/paru/issues/391",
+          "image_width": 500,
+          "image_height": 250,
+          "from_url": "https://github.com/Morganamilo/paru/issues/391",
+          "image_bytes": 87634,
+          "service_icon": "https://a.slack-edge.com/80588/img/unfurl_icons/github.png",
+          "id": 1,
+          "original_url": "https://github.com/Morganamilo/paru/issues/391"
+        }
+      ],
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "ZzjVY",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "link",
+                  "url": "https://github.com/Morganamilo/paru/issues/391"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "f8903fc0-c838-425a-9700-79ba7deebe22",
+      "type": "message",
+      "text": "`このやり方は非推奨です`\n追記 : 修正されたので、現在はこの手順でなくても正常にbuild通りそう <https://github.com/archlinux/alpm.rs/commit/5253d631de6f250ba5ced28c21d8fdeadb131fb4>\n一応、以下の手順でparu 1.7.0のbuildできた\n```$ sudo pacman -S --needed base-devel\n$ git clone <https://aur.archlinux.org/paru.git>\n$ cd paru\n$ git checkout 1.6.x\n$ makepkg -si\n\n$ git checkout master(1.7.0)\n$ sudo ln -s /usr/lib/libalpm.so.13.0.0 /usr/lib/libalpm.so.12\n$ makepkg -si\n$ sudo rm /usr/lib/libalpm.so.12```",
+      "user": "syui",
+      "ts": "1622557676.055400",
+      "team": "T0GFBAM8C",
+      "edited": {
+        "user": "syui",
+        "ts": "1622654856.000000"
+      },
+      "attachments": [
+        {
+          "service_name": "GitHub",
+          "title": "Fix question callbacks taking reference to stack data · archlinux/alpm.rs@5253d63",
+          "title_link": "https://github.com/archlinux/alpm.rs/commit/5253d631de6f250ba5ced28c21d8fdeadb131fb4",
+          "text": "Perviously, when getting a pointer to a union field we did: let inner = &amp;mut unsafe { (*self.inner).replace } Due to the &amp;mut being outside the unsafe block this actually takes a referen...",
+          "fallback": "GitHub: Fix question callbacks taking reference to stack data · archlinux/alpm.rs@5253d63",
+          "image_url": "https://opengraph.githubassets.com/b34db3390a5292a54bc5e9d01103e91ed51c6f799112b034cdbaaf05841bc062/archlinux/alpm.rs/commit/5253d631de6f250ba5ced28c21d8fdeadb131fb4",
+          "image_width": 500,
+          "image_height": 250,
+          "from_url": "https://github.com/archlinux/alpm.rs/commit/5253d631de6f250ba5ced28c21d8fdeadb131fb4",
+          "image_bytes": 103957,
+          "service_icon": "https://a.slack-edge.com/80588/img/unfurl_icons/github.png",
+          "id": 1,
+          "original_url": "https://github.com/archlinux/alpm.rs/commit/5253d631de6f250ba5ced28c21d8fdeadb131fb4"
+        }
+      ],
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "Rs9Zg",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "このやり方は非推奨です",
+                  "style": {
+                    "code": true
+                  }
+                },
+                {
+                  "type": "text",
+                  "text": "\n追記 : 修正されたので、現在はこの手順でなくても正常にbuild通りそう "
+                },
+                {
+                  "type": "link",
+                  "url": "https://github.com/archlinux/alpm.rs/commit/5253d631de6f250ba5ced28c21d8fdeadb131fb4"
+                },
+                {
+                  "type": "text",
+                  "text": "\n一応、以下の手順でparu 1.7.0のbuildできた\n"
+                }
+              ]
+            },
+            {
+              "type": "rich_text_preformatted",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "$ sudo pacman -S --needed base-devel\n$ git clone "
+                },
+                {
+                  "type": "link",
+                  "url": "https://aur.archlinux.org/paru.git"
+                },
+                {
+                  "type": "text",
+                  "text": "\n$ cd paru\n$ git checkout 1.6.x\n$ makepkg -si\n\n$ git checkout master(1.7.0)\n$ sudo ln -s /usr/lib/libalpm.so.13.0.0 /usr/lib/libalpm.so.12\n$ makepkg -si\n$ sudo rm /usr/lib/libalpm.so.12"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "aadfda03-6a65-4320-9102-5c16949e32b2",
+      "type": "message",
+      "text": "わかる",
+      "user": "syui",
+      "ts": "1622556740.052400",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "RSJ66",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "わかる"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "d7550b24-150f-4554-9a9e-37911ad56afb",
+      "type": "message",
+      "text": "Rustのビルド遅い＋（ファイルサイズ的に）重いんですよね・・・いっぱい連なってくる。node_modules感",
+      "user": "yutakatay",
+      "ts": "1622556724.052200",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "/zJz",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "Rustのビルド遅い＋（ファイルサイズ的に）重いんですよね・・・いっぱい連なってくる。node_modules感"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "reactions": [
+        {
+          "name": "wakaru",
+          "users": [
+            "syui",
+            "znmxodq1"
+          ],
+          "count": 2
+        }
+      ]
+    },
+    {
+      "client_msg_id": "d6e2741f-f104-447d-a671-3ba0db0ddd09",
+      "type": "message",
+      "text": "rust、build遅いのがなあ...goは速いんだけど",
+      "user": "syui",
+      "ts": "1622556700.052000",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "yos0",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "rust、build遅いのがなあ...goは速いんだけど"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "ec5b0da6-03fd-45c3-b178-f433a7387980",
+      "type": "message",
+      "text": "そっちのほうがよさそう",
+      "user": "syui",
+      "ts": "1622556673.051100",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "XSy",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "そっちのほうがよさそう"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "c29e73be-6093-4fbe-bb46-65ca289f83ed",
+      "type": "message",
+      "text": "yayならbin無しでもいけたけど",
+      "user": "znmxodq1",
+      "ts": "1622556672.051000",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "31DJW",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "yayならbin無しでもいけたけど"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "8a48bd59-44f4-4f53-b216-6ab1b56751a1",
+      "type": "message",
+      "text": "paru-bin安定(Rustのビルドは遅い)",
+      "user": "znmxodq1",
+      "ts": "1622556660.050400",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "Ca8",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "paru-bin安定(Rustのビルドは遅い)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "1d1c2c81-0ae3-466a-9cd4-da2d50acdb62",
+      "type": "message",
+      "text": "<https://aur.archlinux.org/packages/paru-bin/>",
+      "user": "yutakatay",
+      "ts": "1622556618.050000",
+      "team": "T0GFBAM8C",
+      "attachments": [
+        {
+          "title": "AUR (en) - paru-bin",
+          "title_link": "https://aur.archlinux.org/packages/paru-bin/",
+          "text": "Feature packed AUR helper",
+          "fallback": "AUR (en) - paru-bin",
+          "from_url": "https://aur.archlinux.org/packages/paru-bin/",
+          "service_name": "aur.archlinux.org",
+          "id": 1,
+          "original_url": "https://aur.archlinux.org/packages/paru-bin/"
+        }
+      ],
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "r/m",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "link",
+                  "url": "https://aur.archlinux.org/packages/paru-bin/"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "571035db-d3bb-42f7-9742-b659319f8062",
+      "type": "message",
+      "text": "paru-binの方使ってますね",
+      "user": "yutakatay",
+      "ts": "1622556612.049800",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "yPZV",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "paru-binの方使ってますね"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "33477be1-ec12-435d-8a74-6f8e7a687f44",
+      "type": "message",
+      "text": "自分の環境、archのupdateがちょっと遅れてるのか、1.7.0でbuildできなかったので、git checkoutして1.6.xをbuildしてる",
+      "user": "syui",
+      "ts": "1622556600.049500",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "wcvp5",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "自分の環境、archのupdateがちょっと遅れてるのか、1.7.0でbuildできなかったので、git checkoutして1.6.xをbuildしてる"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "4c7c6f7f-4771-4280-8e07-bc057a2d67c8",
+      "type": "message",
+      "text": "yutkatさんはparu 1.7.0使ってます?",
+      "user": "syui",
+      "ts": "1622556417.048700",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "Eh4W",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "yutkatさんはparu 1.7.0使ってます?"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "e363b6aa-4ce8-4649-a43c-218d59bbd43e",
+      "type": "message",
+      "text": "検索からのインストールとかがインタラクティブな動作とかもするんで（たぶん使わないけど）、結構機能的にはすでに優位性がある気がしますね",
+      "user": "yutakatay",
+      "ts": "1622555906.048200",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "1SZG",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "検索からのインストールとかがインタラクティブな動作とかもするんで（たぶん使わないけど）、結構機能的にはすでに優位性がある気がしますね"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "8f1907b8-2270-4af9-b4bb-34ee4cf6bb4e",
+      "type": "message",
+      "text": "へー。じゃあ私の頭の情報が更新されてなかったのかも。。。そうすると１文字タイプが増えてることになるか・・・",
+      "user": "yutakatay",
+      "ts": "1622555829.047100",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "RW=5",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "へー。じゃあ私の頭の情報が更新されてなかったのかも。。。そうすると１文字タイプが増えてることになるか・・・"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "c47e293e-10a9-4023-9f4d-f58c7f00b42e",
+      "type": "message",
+      "text": "yayもyayだけで動いたような",
+      "user": "znmxodq1",
+      "ts": "1622555757.046300",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "F7CS",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "yayもyayだけで動いたような"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "5ff25a85-1a12-4efb-bf80-6f627d47d250",
+      "type": "message",
+      "text": "ですね。GitHubActions使えばリリースバイナリ作るのも一瞬ですし、いい時代になりました",
+      "user": "yutakatay",
+      "ts": "1622555738.046100",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "ELLa",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "ですね。GitHubActions使えばリリースバイナリ作るのも一瞬ですし、いい時代になりました"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "reactions": [
+        {
+          "name": "goodpoem",
+          "users": [
+            "znmxodq1",
+            "U01HE1ENNJZ"
+          ],
+          "count": 2
+        }
+      ]
+    },
+    {
+      "client_msg_id": "2be01751-d63e-40eb-9e6e-030234da97e9",
+      "type": "message",
+      "text": "goやrustはワンバイナリなのでわかりやすくて助かりますね",
+      "user": "syui",
+      "ts": "1622555710.045600",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "L+=U",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "goやrustはワンバイナリなのでわかりやすくて助かりますね"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "76c4934a-3ddf-4f0b-a2a2-5b6f5ddf0308",
+      "type": "message",
+      "text": "`yay -Syyu`しなくてよくなったのが個人的にはありがたかったり（paruでOK）w\n毎回なぜか手打ちしてたし",
+      "user": "yutakatay",
+      "ts": "1622555653.045100",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "i0VnT",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "yay -Syyu",
+                  "style": {
+                    "code": true
+                  }
+                },
+                {
+                  "type": "text",
+                  "text": "しなくてよくなったのが個人的にはありがたかったり（paruでOK）w\n毎回なぜか手打ちしてたし"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "f99ecac0-ff1c-40d7-a0c8-a3732d284140",
+      "type": "message",
+      "text": "<https://github.com/Morganamilo/paru>",
+      "user": "syui",
+      "ts": "1622555573.044000",
+      "team": "T0GFBAM8C",
+      "attachments": [
+        {
+          "service_name": "GitHub",
+          "title": "Morganamilo/paru",
+          "title_link": "https://github.com/Morganamilo/paru",
+          "text": "Feature packed AUR helper. Contribute to Morganamilo/paru development by creating an account on GitHub.",
+          "fallback": "GitHub: Morganamilo/paru",
+          "image_url": "https://opengraph.githubassets.com/176692b95b104f801d357d2ec9255d41c36964fe815309317783b6d9a48c063f/Morganamilo/paru",
+          "image_width": 500,
+          "image_height": 250,
+          "from_url": "https://github.com/Morganamilo/paru",
+          "image_bytes": 118831,
+          "service_icon": "https://a.slack-edge.com/80588/img/unfurl_icons/github.png",
+          "id": 1,
+          "original_url": "https://github.com/Morganamilo/paru"
+        }
+      ],
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "lXA",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "link",
+                  "url": "https://github.com/Morganamilo/paru"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "be8a3036-72c9-4027-8db8-27a0d1822bc0",
+      "type": "message",
+      "text": "なるほど\n移行してみようかな",
+      "user": "syui",
+      "ts": "1622555546.043800",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "UQ1",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "なるほど\n移行してみようかな"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "eeab6790-1eba-4fcd-827d-d7cc2fd762ad",
+      "type": "message",
+      "text": "paru乗り換え作業も一瞬でしたね。yayをparuに書き換えるだけでOKだったんで。\nなんなら `alias yay=paru`でもいい気もしますw",
+      "user": "yutakatay",
+      "ts": "1622555481.043500",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "RXmJE",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "paru乗り換え作業も一瞬でしたね。yayをparuに書き換えるだけでOKだったんで。\nなんなら "
+                },
+                {
+                  "type": "text",
+                  "text": "alias yay=paru",
+                  "style": {
+                    "code": true
+                  }
+                },
+                {
+                  "type": "text",
+                  "text": "でもいい気もしますw"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "053f4f1f-a28b-473a-a3cb-68d1b130cfbd",
+      "type": "message",
+      "text": "archは移り変わり激しいですよね(aurとか",
+      "user": "syui",
+      "ts": "1622555317.042100",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "HI9tt",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "archは移り変わり激しいですよね(aurとか"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "reactions": [
+        {
+          "name": "wakaru",
+          "users": [
+            "yutakatay",
+            "s5is",
+            "U3FJYR7MG",
+            "UJ7P75WB1"
+          ],
+          "count": 4
+        }
+      ]
+    },
+    {
+      "client_msg_id": "6b3e7b82-2d8d-4605-96e6-ed5ce73248c7",
+      "type": "message",
+      "text": "yaourt一瞬でしたよね。あの速さびっくりした。さすがArchユーザー",
+      "user": "yutakatay",
+      "ts": "1622555266.041600",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "/hU",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "yaourt一瞬でしたよね。あの速さびっくりした。さすがArchユーザー"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "2d06a7f6-b99c-4cab-8661-a67afcd28d2a",
+      "type": "message",
+      "text": "jpではyaourtからyayの移行はやかった印象でyaourtが廃れるの一瞬だったので、これを機にyayが廃れる可能性ありそう",
+      "user": "syui",
+      "ts": "1622555236.041200",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "kLL7n",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "jpではyaourtからyayの移行はやかった印象でyaourtが廃れるの一瞬だったので、これを機にyayが廃れる可能性ありそう"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "c5aad05d-6e0f-45b5-88f4-438f738912b9",
+      "type": "message",
+      "text": "わかる\n最近だとgo,rust製のツールをなんとなく選んじゃう",
+      "user": "syui",
+      "ts": "1622555110.040000",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "Lrctz",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "わかる\n最近だとgo,rust製のツールをなんとなく選んじゃう"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "7f85c28f-cbf2-477c-b957-26264d88e5e3",
+      "type": "message",
+      "text": "ちなみに速いらしいです（ネットの噂レベル）\n体感そんなにわからないですが・・・",
+      "user": "yutakatay",
+      "ts": "1622555062.039500",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "YZDw",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "ちなみに速いらしいです（ネットの噂レベル）\n体感そんなにわからないですが・・・"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "85dda712-c6ba-4b15-bf46-72e7261c60ba",
+      "type": "message",
+      "text": "前からいつかやろうとは思ってたんですよね〜\nできるだけRust製の方を使いたくって（コントリビューションできるという意味で）\nC→Go,Rustなら即移るんですけど、Go→Rustならまだいいかと思っちゃって後回しにしちゃいますね・・・いい機会",
+      "user": "yutakatay",
+      "ts": "1622555007.038900",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "AK7Kx",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "前からいつかやろうとは思ってたんですよね〜\nできるだけRust製の方を使いたくって（コントリビューションできるという意味で）\nC→Go,Rustなら即移るんですけど、Go→Rustならまだいいかと思っちゃって後回しにしちゃいますね・・・いい機会"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "B188A391-AE64-41B5-8F5C-074ED0547B88",
+      "type": "message",
+      "text": "すばやい",
+      "user": "syui",
+      "ts": "1622554470.036900",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "qAcSq",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "すばやい"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "6132a714-2046-4a5b-ac62-067bd1a9d33b",
+      "type": "message",
+      "text": "なんとなくこれを機にparuに移行することにした",
+      "user": "yutakatay",
+      "ts": "1622554432.036600",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "e7I",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "なんとなくこれを機にparuに移行することにした"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "has_more": false,
+  "is_limited": true,
+  "pin_count": 16,
+  "channel_actions_ts": null,
+  "channel_actions_count": 0
+}

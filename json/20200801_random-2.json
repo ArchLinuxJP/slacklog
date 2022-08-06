@@ -1,0 +1,417 @@
+{
+  "ok": true,
+  "latest": "1598930819.000000",
+  "oldest": "1596252419.000000",
+  "messages": [
+    {
+      "type": "message",
+      "subtype": "channel_join",
+      "ts": "1597927132.000300",
+      "user": "brokenphi2004",
+      "text": "<@brokenphi2004>さんがチャンネルに参加しました"
+    },
+    {
+      "type": "message",
+      "subtype": "channel_join",
+      "ts": "1597713739.455300",
+      "user": "ochiai.yuto",
+      "text": "<@ochiai.yuto>さんがチャンネルに参加しました"
+    },
+    {
+      "type": "message",
+      "subtype": "channel_join",
+      "ts": "1597559439.454900",
+      "user": "ryota.furukawa.r2d2",
+      "text": "<@ryota.furukawa.r2d2>さんがチャンネルに参加しました"
+    },
+    {
+      "type": "message",
+      "subtype": "channel_join",
+      "ts": "1597542070.454700",
+      "user": "shoma.hamada",
+      "text": "<@shoma.hamada>さんがチャンネルに参加しました"
+    },
+    {
+      "client_msg_id": "927da2ba-57b3-45be-9a0a-c75c694786be",
+      "type": "message",
+      "text": "お、カーネル降ってきた <https://git.archlinux.org/linux.git/log/?h=v5.8.1-arch1>",
+      "user": "znmxodq1",
+      "ts": "1597469105.454000",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "U5q3",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "お、カーネル降ってきた "
+                },
+                {
+                  "type": "link",
+                  "url": "https://git.archlinux.org/linux.git/log/?h=v5.8.1-arch1"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "reactions": [
+        {
+          "name": "tada",
+          "users": [
+            "UPYQ3CUJ1",
+            "UJ7P75WB1",
+            "U017BNGTHT3",
+            "URCKFB3SB"
+          ],
+          "count": 4
+        }
+      ]
+    },
+    {
+      "type": "message",
+      "text": "ThinkPad X13 AMDでArch Linuxを使っているのですが起動時に下記画像のようなエラーが出ます。\nなぜでしょうか?\n電源OFFの状態から起動したときのみ表示されます。\n再起動したときは表示されません。\nいつもCtrl-Alt-F2とCtrl-Alt-F1を押してGUIに切り替えてloginしています。",
+      "files": [
+        {
+          "id": "F018G2W2FLP",
+          "mode": "tombstone"
+        }
+      ],
+      "upload": false,
+      "user": "getalotofmail",
+      "display_as_bot": false,
+      "ts": "1597463835.448300",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "2rKS",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "ThinkPad X13 AMDでArch Linuxを使っているのですが起動時に下記画像のようなエラーが出ます。\nなぜでしょうか?\n電源OFFの状態から起動したときのみ表示されます。\n再起動したときは表示されません。\nいつもCtrl-Alt-F2とCtrl-Alt-F1を押してGUIに切り替えてloginしています。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "thread_ts": "1597463835.448300",
+      "reply_count": 10,
+      "reply_users_count": 3,
+      "latest_reply": "1606999900.212800",
+      "reply_users": [
+        "U53RAQBCP",
+        "getalotofmail",
+        "UPYQ3CUJ1"
+      ],
+      "is_locked": false,
+      "subscribed": false
+    },
+    {
+      "type": "message",
+      "subtype": "channel_join",
+      "ts": "1597418232.444600",
+      "user": "kddiw.comusodayo",
+      "text": "<@kddiw.comusodayo>さんがチャンネルに参加しました"
+    },
+    {
+      "client_msg_id": "fa5b5c33-61ec-43a7-8d4a-97ce99c9455f",
+      "type": "message",
+      "text": "1週間くらいでは来てる印象ありますね（あくまで感覚）",
+      "user": "yutakatay",
+      "ts": "1597187704.443900",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "u=5b",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "1週間くらいでは来てる印象ありますね（あくまで感覚）"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "fc5ca1c4-17a3-4b9e-bf14-a73a243166ac",
+      "type": "message",
+      "text": "Arch Linuxでのカーネルのupgradeはkernel.orgで新バージョンがリリースされてどのぐらいあとに来るものなのでしょうか?\nここ数日Kernel 5.8を待っているんですがなかなかstableに降りてこないですね",
+      "user": "getalotofmail",
+      "ts": "1597162834.443100",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "6kTPp",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "Arch Linuxでのカーネルのupgradeはkernel.orgで新バージョンがリリースされてどのぐらいあとに来るものなのでしょうか?\nここ数日Kernel 5.8を待っているんですがなかなかstableに降りてこないですね"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "reactions": [
+        {
+          "name": "penguin",
+          "users": [
+            "U53RAQBCP"
+          ],
+          "count": 1
+        }
+      ]
+    },
+    {
+      "client_msg_id": "1214482c-da3d-4033-ac33-2ee174a6737d",
+      "type": "message",
+      "text": "こんにちはArchLinuxを使い始めてまだ1ヶ月ぐらいの者です\nよろしくおねがいします",
+      "user": "getalotofmail",
+      "ts": "1597162612.440500",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "I2Nu",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "こんにちはArchLinuxを使い始めてまだ1ヶ月ぐらいの者です\nよろしくおねがいします"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "reactions": [
+        {
+          "name": "archjp",
+          "users": [
+            "U53RAQBCP",
+            "U0HJ7EB9T",
+            "UL3J5T649",
+            "znmxodq1",
+            "USJ9Q3WSH",
+            "U3FJYR7MG",
+            "UJ7P75WB1",
+            "URCKFB3SB",
+            "U0GFBAM8U"
+          ],
+          "count": 9
+        }
+      ]
+    },
+    {
+      "type": "message",
+      "subtype": "channel_join",
+      "ts": "1597162469.440300",
+      "user": "getalotofmail",
+      "text": "<@getalotofmail>さんがチャンネルに参加しました"
+    },
+    {
+      "type": "message",
+      "subtype": "channel_join",
+      "ts": "1596822725.439100",
+      "user": "gnaggnoyil",
+      "text": "<@gnaggnoyil>さんがチャンネルに参加しました"
+    },
+    {
+      "client_msg_id": "a925ac9e-36ac-4f5b-81a2-ef066646e774",
+      "type": "message",
+      "text": "archisoからmkinitcpio関連が分離されてmkinitcpio-archisoパッケージになったっぽい、依存関係が指定されていないのでarchisoをそのまま更新すると壊れる",
+      "user": "znmxodq1",
+      "ts": "1596549319.437000",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "ZJF0",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "archisoからmkinitcpio関連が分離されてmkinitcpio-archisoパッケージになったっぽい、依存関係が指定されていないのでarchisoをそのまま更新すると壊れる"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "reactions": [
+        {
+          "name": "+1",
+          "users": [
+            "U0GFBAM8U",
+            "U53RAQBCP",
+            "U5JRJL4AF",
+            "UJ7P75WB1",
+            "URCKFB3SB",
+            "U59MCGJ90"
+          ],
+          "count": 6
+        }
+      ]
+    },
+    {
+      "type": "message",
+      "subtype": "channel_join",
+      "ts": "1596515281.436200",
+      "user": "ochimasumi",
+      "text": "<@ochimasumi>さんがチャンネルに参加しました"
+    },
+    {
+      "type": "message",
+      "subtype": "thread_broadcast",
+      "text": "関係ありまくりでした・・・・・・・・・・・・・・・・・・・まさか今日の発言で情報提供されてるとは・・・・・・・・・・・・・・・・・・・・・・・ちゃんと追えばよかった・・・・・・・・・・・・・・・・・・・・・・・・ありがとうございました・・・・・・・・・・・・・・・・・・・・:sob::sob:",
+      "user": "vermilion928",
+      "ts": "1596465913.435100",
+      "thread_ts": "1596459108.432100",
+      "root": {
+        "client_msg_id": "c3164060-e8e8-4352-b9ab-eac02c0e33d2",
+        "type": "message",
+        "text": "Cicaフォント入れようとして.Xdefaultsいじってたら突然URxvtで日本語打てなくなったんですけど解決策エスパーできる方いたりしないですかね……",
+        "user": "vermilion928",
+        "ts": "1596459108.432100",
+        "team": "T0GFBAM8C",
+        "blocks": [
+          {
+            "type": "rich_text",
+            "block_id": "Y6Gyo",
+            "elements": [
+              {
+                "type": "rich_text_section",
+                "elements": [
+                  {
+                    "type": "text",
+                    "text": "Cicaフォント入れようとして.Xdefaultsいじってたら突然URxvtで日本語打てなくなったんですけど解決策エスパーできる方いたりしないですかね……"
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "thread_ts": "1596459108.432100",
+        "reply_count": 10,
+        "reply_users_count": 3,
+        "latest_reply": "1596970018.439200",
+        "reply_users": [
+          "vermilion928",
+          "U0GFBAM8U",
+          "U0H9QUFA5"
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1596970018.439200"
+      },
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "eLDF4",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "関係ありまくりでした・・・・・・・・・・・・・・・・・・・まさか今日の発言で情報提供されてるとは・・・・・・・・・・・・・・・・・・・・・・・ちゃんと追えばよかった・・・・・・・・・・・・・・・・・・・・・・・・ありがとうございました・・・・・・・・・・・・・・・・・・・・"
+                },
+                {
+                  "type": "emoji",
+                  "name": "sob",
+                  "unicode": "1f62d"
+                },
+                {
+                  "type": "emoji",
+                  "name": "sob",
+                  "unicode": "1f62d"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "client_msg_id": "3714f972-d531-4387-afbd-27864b1c4b75",
+      "reactions": [
+        {
+          "name": "+1",
+          "users": [
+            "U0GFBAM8U"
+          ],
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "message",
+      "subtype": "channel_join",
+      "ts": "1596465675.435000",
+      "user": "yamatakau08",
+      "text": "<@yamatakau08>さんがチャンネルに参加しました"
+    },
+    {
+      "client_msg_id": "c3164060-e8e8-4352-b9ab-eac02c0e33d2",
+      "type": "message",
+      "text": "Cicaフォント入れようとして.Xdefaultsいじってたら突然URxvtで日本語打てなくなったんですけど解決策エスパーできる方いたりしないですかね……",
+      "user": "vermilion928",
+      "ts": "1596459108.432100",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "Y6Gyo",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "Cicaフォント入れようとして.Xdefaultsいじってたら突然URxvtで日本語打てなくなったんですけど解決策エスパーできる方いたりしないですかね……"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "thread_ts": "1596459108.432100",
+      "reply_count": 10,
+      "reply_users_count": 3,
+      "latest_reply": "1596970018.439200",
+      "reply_users": [
+        "vermilion928",
+        "U0GFBAM8U",
+        "U0H9QUFA5"
+      ],
+      "is_locked": false,
+      "subscribed": true,
+      "last_read": "1596970018.439200"
+    }
+  ],
+  "has_more": false,
+  "is_limited": true,
+  "pin_count": 16,
+  "channel_actions_ts": null,
+  "channel_actions_count": 0
+}

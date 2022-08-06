@@ -1,0 +1,899 @@
+{
+  "ok": true,
+  "latest": "1614600655.000000",
+  "oldest": "1612181455.000000",
+  "messages": [
+    {
+      "type": "message",
+      "subtype": "channel_join",
+      "ts": "1614170298.000600",
+      "user": "takashi.mtsd",
+      "text": "<@takashi.mtsd>さんがチャンネルに参加しました"
+    },
+    {
+      "type": "message",
+      "subtype": "channel_join",
+      "ts": "1613809606.000400",
+      "user": "hujyorom",
+      "text": "<@hujyorom>さんがチャンネルに参加しました"
+    },
+    {
+      "type": "message",
+      "subtype": "channel_join",
+      "ts": "1613809304.000200",
+      "user": "inukai1088",
+      "text": "<@inukai1088>さんがチャンネルに参加しました"
+    },
+    {
+      "client_msg_id": "3a2cda8a-de58-4df5-a316-e2bf01d6fa9e",
+      "type": "message",
+      "text": "おおお、、、そうなのですか、ありがとうございます:pray:",
+      "user": "vermilion928",
+      "ts": "1613428334.079400",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "Kvu",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "おおお、、、そうなのですか、ありがとうございます"
+                },
+                {
+                  "type": "emoji",
+                  "name": "pray",
+                  "unicode": "1f64f"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "bc922d4d-6041-4ae8-a7fb-2dbc44400b30",
+      "type": "message",
+      "text": "PulseAudio ではエコー除去とノイズ除去が同じモジュールになってるっぽいのでノイズ除去の効果はあるかもしれません。",
+      "user": "odknt",
+      "ts": "1613414669.079000",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "K/3",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "PulseAudio ではエコー除去とノイズ除去が同じモジュールになってるっぽいのでノイズ除去の効果はあるかもしれません。"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "96e14c8b-93c8-47de-baee-570b8af82b09",
+      "type": "message",
+      "text": "じゃあ通話以外のレコーディングではあんま意味ないかもしれないですね なんとなく音は変わってるので多少は効果あるのかもですが",
+      "user": "vermilion928",
+      "ts": "1613404864.077800",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "4LgOH",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "じゃあ通話以外のレコーディングではあんま意味ないかもしれないですね なんとなく音は変わってるので多少は効果あるのかもですが"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "9d54a77b-916e-4ada-9bc2-aa7a36af5264",
+      "type": "message",
+      "text": "あーーーーーーなるほど！！！！！",
+      "user": "vermilion928",
+      "ts": "1613404821.077200",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "S+8l",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "あーーーーーーなるほど！！！！！"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "90d21137-128c-4ae1-a68f-8f8ac476397a",
+      "type": "message",
+      "text": "通話相手の声とかがスピーカーとかからマイクに乗らないようにするのがエコー除去なはずなので、\n`(with 出力デバイス)` となっているのは、どの出力デバイスの音を元にエコー除去しているかということではないですかね。",
+      "user": "odknt",
+      "ts": "1613400559.077000",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "BNRZ",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "通話相手の声とかがスピーカーとかからマイクに乗らないようにするのがエコー除去なはずなので、\n"
+                },
+                {
+                  "type": "text",
+                  "text": "(with 出力デバイス)",
+                  "style": {
+                    "code": true
+                  }
+                },
+                {
+                  "type": "text",
+                  "text": " となっているのは、どの出力デバイスの音を元にエコー除去しているかということではないですかね。"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "8b7edc0c-8736-48cc-802d-f5111f2857c8",
+      "type": "message",
+      "text": "<https://matoken.org/blog/2020/05/01/pulseaudios-echo-cancellation-module-for-linux-looks-good/> この記事のスクショを見るとインターフェース名カッコ内も同じになってて謎、、、 入力が複数あると他の入力が括弧内に入るんですかね？？",
+      "user": "vermilion928",
+      "ts": "1613394276.076600",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "sCD",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "link",
+                  "url": "https://matoken.org/blog/2020/05/01/pulseaudios-echo-cancellation-module-for-linux-looks-good/"
+                },
+                {
+                  "type": "text",
+                  "text": " この記事のスクショを見るとインターフェース名カッコ内も同じになってて謎、、、 入力が複数あると他の入力が括弧内に入るんですかね？？"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "message",
+      "text": "`/etc/pulse/default.pa` に `load-module module-echo-cancel`  してるマシンで、スクショ(pavucontrol)の `echo cancelled XXX` っていうのが生まれて、\nおそらくこれを選択するとノイズキャンセルされた入力になるんだろうなってのは分かるんですけど\nこれ、インターフェースの右のカッコ内文字列ってどういう意味なんですかね？\n\n「with」……？？ もしかして複数のハードウェアの入力を利用してして、ノイズっぽいものを取り除くアルゴリズムとかそういうことですかね？ ってことはいいマイクをつけたらつけただけいい音質になる？？？",
+      "files": [
+        {
+          "id": "F01N1BNN39T",
+          "created": 1613394048,
+          "timestamp": 1613394048,
+          "name": "20210215220020.png",
+          "title": "20210215220020.png",
+          "mimetype": "image/png",
+          "filetype": "png",
+          "pretty_type": "PNG",
+          "user": "vermilion928",
+          "editable": false,
+          "size": 82623,
+          "mode": "hosted",
+          "is_external": false,
+          "external_type": "",
+          "is_public": true,
+          "public_url_shared": false,
+          "display_as_bot": false,
+          "username": "",
+          "url_private": "https://files.slack.com/files-pri/T0GFBAM8C-F01N1BNN39T/20210215220020.png",
+          "url_private_download": "https://files.slack.com/files-pri/T0GFBAM8C-F01N1BNN39T/download/20210215220020.png",
+          "media_display_type": "unknown",
+          "thumb_64": "https://files.slack.com/files-tmb/T0GFBAM8C-F01N1BNN39T-f71a858992/20210215220020_64.png",
+          "thumb_80": "https://files.slack.com/files-tmb/T0GFBAM8C-F01N1BNN39T-f71a858992/20210215220020_80.png",
+          "thumb_360": "https://files.slack.com/files-tmb/T0GFBAM8C-F01N1BNN39T-f71a858992/20210215220020_360.png",
+          "thumb_360_w": 269,
+          "thumb_360_h": 360,
+          "thumb_480": "https://files.slack.com/files-tmb/T0GFBAM8C-F01N1BNN39T-f71a858992/20210215220020_480.png",
+          "thumb_480_w": 359,
+          "thumb_480_h": 480,
+          "thumb_160": "https://files.slack.com/files-tmb/T0GFBAM8C-F01N1BNN39T-f71a858992/20210215220020_160.png",
+          "thumb_720": "https://files.slack.com/files-tmb/T0GFBAM8C-F01N1BNN39T-f71a858992/20210215220020_720.png",
+          "thumb_720_w": 538,
+          "thumb_720_h": 720,
+          "thumb_800": "https://files.slack.com/files-tmb/T0GFBAM8C-F01N1BNN39T-f71a858992/20210215220020_800.png",
+          "thumb_800_w": 598,
+          "thumb_800_h": 800,
+          "thumb_960": "https://files.slack.com/files-tmb/T0GFBAM8C-F01N1BNN39T-f71a858992/20210215220020_960.png",
+          "thumb_960_w": 718,
+          "thumb_960_h": 960,
+          "thumb_1024": "https://files.slack.com/files-tmb/T0GFBAM8C-F01N1BNN39T-f71a858992/20210215220020_1024.png",
+          "thumb_1024_w": 766,
+          "thumb_1024_h": 1024,
+          "original_w": 797,
+          "original_h": 1066,
+          "thumb_tiny": "AwAwACOrnjqaM+5pKOKAF/E0n40UUALRmk4o4oAXik4oo4oAOKOKOKKADijiiigAoz7CjPvRyaAD8qKMH/JowaAD8KPwo5o5oA//2Q==",
+          "permalink": "https://archlinuxjp.slack.com/files/vermilion928/F01N1BNN39T/20210215220020.png",
+          "permalink_public": "https://slack-files.com/T0GFBAM8C-F01N1BNN39T-f6d40a2836",
+          "is_starred": false,
+          "has_rich_preview": false
+        }
+      ],
+      "upload": false,
+      "user": "vermilion928",
+      "display_as_bot": false,
+      "ts": "1613394119.075500",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "bSE",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "/etc/pulse/default.pa",
+                  "style": {
+                    "code": true
+                  }
+                },
+                {
+                  "type": "text",
+                  "text": " に "
+                },
+                {
+                  "type": "text",
+                  "text": "load-module module-echo-cancel",
+                  "style": {
+                    "code": true
+                  }
+                },
+                {
+                  "type": "text",
+                  "text": "  してるマシンで、スクショ(pavucontrol)の "
+                },
+                {
+                  "type": "text",
+                  "text": "echo cancelled XXX",
+                  "style": {
+                    "code": true
+                  }
+                },
+                {
+                  "type": "text",
+                  "text": " っていうのが生まれて、\nおそらくこれを選択するとノイズキャンセルされた入力になるんだろうなってのは分かるんですけど\nこれ、インターフェースの右のカッコ内文字列ってどういう意味なんですかね？\n\n「with」……？？ もしかして複数のハードウェアの入力を利用してして、ノイズっぽいものを取り除くアルゴリズムとかそういうことですかね？ ってことはいいマイクをつけたらつけただけいい音質になる？？？"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "thread_ts": "1613394119.075500",
+      "reply_count": 1,
+      "reply_users_count": 1,
+      "latest_reply": "1613394784.076700",
+      "reply_users": [
+        "vermilion928"
+      ],
+      "is_locked": false,
+      "subscribed": false
+    },
+    {
+      "client_msg_id": "7ca80b4e-9b2e-49e7-8d49-7c0598cb455c",
+      "type": "message",
+      "text": "一応動きました",
+      "user": "a3784197",
+      "ts": "1613384933.072900",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "hwDvk",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "一応動きました"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "f0453c84-8445-48e3-b3a1-3c53b3e1802f",
+      "type": "message",
+      "text": "やってみます！\nありがとうございます",
+      "user": "a3784197",
+      "ts": "1613349593.072600",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "lH9h",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "やってみます！\nありがとうございます"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "aa698917-94be-49cd-8c34-524f9a5b067e",
+      "type": "message",
+      "text": "<https://addons.mozilla.org/ja/firefox/addon/mpris-integration/>\nあとは、firefox に入れる側",
+      "user": "raa0121",
+      "ts": "1613311429.072200",
+      "team": "T0GFBAM8C",
+      "attachments": [
+        {
+          "title": "Mpris integration – :fox_face: Firefox (ja) 向け拡張機能を入手",
+          "title_link": "https://addons.mozilla.org/ja/firefox/addon/mpris-integration/",
+          "text": "Firefox 向け Mpris integration をダウンロード。Adds mpris integration for certain sites. It allows you to have proper media key support for webplayers like youtube and spotify. [only works on linux]",
+          "fallback": "Mpris integration – 🦊 Firefox (ja) 向け拡張機能を入手",
+          "image_url": "https://addons-amo.cdn.mozilla.net/b4ed07ea73fd9b86f6ace81025f9c6eb.png",
+          "from_url": "https://addons.mozilla.org/ja/firefox/addon/mpris-integration/",
+          "image_width": 476,
+          "image_height": 250,
+          "image_bytes": 67692,
+          "service_icon": "https://addons.cdn.mozilla.net/favicon.ico?v=2",
+          "service_name": "addons.mozilla.org",
+          "id": 1,
+          "original_url": "https://addons.mozilla.org/ja/firefox/addon/mpris-integration/"
+        }
+      ],
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "pxUDI",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "link",
+                  "url": "https://addons.mozilla.org/ja/firefox/addon/mpris-integration/"
+                },
+                {
+                  "type": "text",
+                  "text": "\nあとは、firefox に入れる側"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "680df20e-ecbb-4d12-a9e0-ea2f52476fcd",
+      "type": "message",
+      "text": "<https://github.com/valeriangalliat/playerctl-firefox-youtube>\nyoutube 用ならあるっぽいですね playctl の拡張なのかな",
+      "user": "raa0121",
+      "ts": "1613311397.071800",
+      "team": "T0GFBAM8C",
+      "attachments": [
+        {
+          "service_name": "GitHub",
+          "title": "valeriangalliat/playerctl-firefox-youtube",
+          "title_link": "https://github.com/valeriangalliat/playerctl-firefox-youtube",
+          "text": "MPRIS D-Bus binding for Firefox YouTube and YouTube Music tabs. - valeriangalliat/playerctl-firefox-youtube",
+          "fallback": "GitHub: valeriangalliat/playerctl-firefox-youtube",
+          "thumb_url": "https://avatars.githubusercontent.com/u/3929133?s=400&v=4",
+          "from_url": "https://github.com/valeriangalliat/playerctl-firefox-youtube",
+          "thumb_width": 400,
+          "thumb_height": 400,
+          "service_icon": "https://a.slack-edge.com/80588/img/unfurl_icons/github.png",
+          "id": 1,
+          "original_url": "https://github.com/valeriangalliat/playerctl-firefox-youtube"
+        }
+      ],
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "5yaaH",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "link",
+                  "url": "https://github.com/valeriangalliat/playerctl-firefox-youtube"
+                },
+                {
+                  "type": "text",
+                  "text": "\nyoutube 用ならあるっぽいですね playctl の拡張なのかな"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "24f9af23-8a9f-4823-bcdb-767cfd27ff68",
+      "type": "message",
+      "text": "ほとんどfirefoxです",
+      "user": "a3784197",
+      "ts": "1613310956.071400",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "Ibpt",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "ほとんどfirefoxです"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "153be432-7c4f-4aac-9aaf-823acb72af3c",
+      "type": "message",
+      "text": "コントロール対象は firefox ですかね？\n他音楽アプリも制御したい感じですか？",
+      "user": "raa0121",
+      "ts": "1613310271.070800",
+      "team": "T0GFBAM8C",
+      "edited": {
+        "user": "raa0121",
+        "ts": "1613310296.000000"
+      },
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "CUw",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "コントロール対象は firefox ですかね？\n他音楽アプリも制御したい感じですか？"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "5022bf46-3fa8-4ed5-a853-a7305841868a",
+      "type": "message",
+      "text": "キーボードではなく、guiで操作したいです\n`playerctl`がfirefoxで動かないので",
+      "user": "a3784197",
+      "ts": "1613309205.070500",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "Xri",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "キーボードではなく、guiで操作したいです\n`playerctl`がfirefoxで動かないので"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "9751b8d3-f84e-4424-beea-2c1fa0e668cc",
+      "type": "message",
+      "text": "また別の内容です\narchに関係ないのですが、i3wmで音楽コントロール(次,前,停止)などができるappletないですか？",
+      "user": "a3784197",
+      "ts": "1613309153.069300",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "rfi",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "また別の内容です\narchに関係ないのですが、i3wmで音楽コントロール(次,前,停止)などができるappletないですか？"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "message",
+      "subtype": "channel_join",
+      "ts": "1613190248.068600",
+      "user": "inkch",
+      "text": "<@inkch>さんがチャンネルに参加しました"
+    },
+    {
+      "client_msg_id": "701e7070-1853-4812-b0a2-a11bff9215c5",
+      "type": "message",
+      "text": "KokoaLinuxというmodをforgeに導入して日本語入力してます\nですがalacrittyのように入力した際に入力覧に文字が表示されません",
+      "user": "a3784197",
+      "ts": "1613134703.068300",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "4y3",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "KokoaLinuxというmodをforgeに導入して日本語入力してます\nですがalacrittyのように入力した際に入力覧に文字が表示されません"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "0a8d5070-1e41-4459-8fe4-8873fb6840c1",
+      "type": "message",
+      "text": "インライン入力って言葉がちょっとよくわからないのですが、fcitx+mozcで1.13から日本語入力し続けてます（1.12は未体験です\n\n変換文字確定時のEnterがチャットの送信（チャットの終了）にフックしてしまうため日本語が確定できないので、文字の確定にCtrl + Mを使うことで回避しています。\n他にも、文字入力中にアローキー押すと発言のヒストリー読んじゃったりするので、そういうのもIMEの挙動と相談しながら気をつけることで特に問題なく入力できています。",
+      "user": "vermilion928",
+      "ts": "1613049004.065800",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "e/yn",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "インライン入力って言葉がちょっとよくわからないのですが、fcitx+mozcで1.13から日本語入力し続けてます（1.12は未体験です\n\n変換文字確定時のEnterがチャットの送信（チャットの終了）にフックしてしまうため日本語が確定できないので、文字の確定にCtrl + Mを使うことで回避しています。\n他にも、文字入力中にアローキー押すと発言のヒストリー読んじゃったりするので、そういうのもIMEの挙動と相談しながら気をつけることで特に問題なく入力できています。"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "message",
+      "subtype": "channel_join",
+      "ts": "1612700590.061600",
+      "user": "ykodama",
+      "text": "<@ykodama>さんがチャンネルに参加しました"
+    },
+    {
+      "client_msg_id": "a01a6126-43dd-4821-af6e-b95a990686a0",
+      "type": "message",
+      "text": "ありがとうございます\n見ずらい文章すみません",
+      "user": "a3784197",
+      "ts": "1612438577.061100",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "XR=qW",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "ありがとうございます\n見ずらい文章すみません"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "32C52BFA-8737-46E4-A93F-BC5D2FEA58A9",
+      "type": "message",
+      "text": "verの4と5でも違うみたい",
+      "user": "syui",
+      "ts": "1612437242.060600",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "9hUJW",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "verの4と5でも違うみたい"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "1BE8D976-33B7-40ED-8A99-C1EDD1C77D54",
+      "type": "message",
+      "text": "過去の投稿でインライン入力の話題出てました\n<https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1608977169210500|https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1608977169210500>",
+      "user": "syui",
+      "ts": "1612437204.059900",
+      "team": "T0GFBAM8C",
+      "attachments": [
+        {
+          "from_url": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1608977169210500",
+          "fallback": "[December 26th, 2020 2:06 AM] syui: <@U019C7VLZ4G> さんのところでは、`アプリケーションにプリエディットを表示` でインライン入力できるようになり、オフだとできない感じですか?",
+          "ts": "1608977169.210500",
+          "author_id": "syui",
+          "author_subname": "syui",
+          "channel_id": "C0GFH3RHU",
+          "channel_name": "random",
+          "is_msg_unfurl": true,
+          "text": "<@U019C7VLZ4G> さんのところでは、`アプリケーションにプリエディットを表示` でインライン入力できるようになり、オフだとできない感じですか?",
+          "author_name": "syui",
+          "author_link": "https://archlinuxjp.slack.com/team/syui",
+          "author_icon": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_48.png",
+          "mrkdwn_in": [
+            "text"
+          ],
+          "id": 1,
+          "original_url": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1608977169210500",
+          "footer": "#random に投稿"
+        }
+      ],
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "uFJYO",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "過去の投稿でインライン入力の話題出てました\n"
+                },
+                {
+                  "type": "link",
+                  "url": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1608977169210500",
+                  "text": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1608977169210500"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "d6929e74-3ace-4237-8776-35e504a52e58",
+      "type": "message",
+      "text": "X11です",
+      "user": "a3784197",
+      "ts": "1612437019.059100",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "Iz4=",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "X11です"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "4018c672-5b7e-4df0-b8bf-c029947943bd",
+      "type": "message",
+      "text": "minecraft 1.12.2でfcitx+mozcでインライン入力できないのですが\nalacrittyのenvの設定ってどんな感じですか？alacrittyの設定がそのまま使えるのかな？っと思いまして\nもしかしたらxim使ったらできるみたいなのありますか？",
+      "user": "a3784197",
+      "ts": "1612436900.058000",
+      "team": "T0GFBAM8C",
+      "edited": {
+        "user": "a3784197",
+        "ts": "1612436944.000000"
+      },
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "hIWG8",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "minecraft 1.12.2でfcitx+mozcでインライン入力できないのですが\nalacrittyのenvの設定ってどんな感じですか？alacrittyの設定がそのまま使えるのかな？っと思いまして\nもしかしたらxim使ったらできるみたいなのありますか？"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "171f46fe-fd04-4556-a9c8-c6b4b5ef5310",
+      "type": "message",
+      "text": "一足遅かったか…(いつ廃止が決まったのか知らないけど)",
+      "user": "znmxodq1",
+      "ts": "1612259594.055600",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "hBR",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "一足遅かったか…(いつ廃止が決まったのか知らないけど)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "b298cc1a-1d70-4b51-a84c-daf32549c435",
+      "type": "message",
+      "text": "net-toolsが非推奨になっています (<https://www.archlinux.jp/news/deprecation-of-net-tools/>) が、最近リリースがあった (<https://sourceforge.net/projects/net-tools/files/>) ようです。\nnet-toolsのPKGCONFIGも12日前に更新されてました (<https://github.com/archlinux/svntogit-packages/commits/packages/net-tools/trunk>)",
+      "user": "conao3",
+      "ts": "1612233869.054700",
+      "team": "T0GFBAM8C",
+      "attachments": [
+        {
+          "title": "ニュース: net-tools の廃止",
+          "title_link": "https://www.archlinux.jp/news/deprecation-of-net-tools/",
+          "text": "次の4月で最後の net-tools のリリースから10周年となります。私たちはこの機会に net-tools を取り払って、net-tools と同じ機能を提供する別のツールを使用することを決定しました。影響範囲は多少ありますが、大抵の人は気づかないでしょう。net-tools は公式リポジトリに残るため、net-tools に依存するスクリプトは今後も動作するはずです。",
+          "fallback": "ニュース: net-tools の廃止",
+          "thumb_url": "https://www.archlinux.jp/images/amplogo.png",
+          "from_url": "https://www.archlinux.jp/news/deprecation-of-net-tools/",
+          "thumb_width": 1024,
+          "thumb_height": 1024,
+          "service_icon": "https://www.archlinux.jp/images/apple-touch-icon-57x57.png",
+          "service_name": "archlinux.jp",
+          "id": 1,
+          "original_url": "https://www.archlinux.jp/news/deprecation-of-net-tools/"
+        },
+        {
+          "title": "net-tools -  Browse Files at SourceForge.net",
+          "title_link": "https://sourceforge.net/projects/net-tools/files/",
+          "text": "Linux networking base tools",
+          "fallback": "net-tools -  Browse Files at SourceForge.net",
+          "from_url": "https://sourceforge.net/projects/net-tools/files/",
+          "service_icon": "http://a.fsdn.com/con/img/sandiego/logo-180x180.png",
+          "service_name": "sourceforge.net",
+          "id": 2,
+          "original_url": "https://sourceforge.net/projects/net-tools/files/"
+        },
+        {
+          "service_name": "GitHub",
+          "title": "archlinux/svntogit-packages",
+          "title_link": "https://github.com/archlinux/svntogit-packages/commits/packages/net-tools/trunk",
+          "text": "Automatic import of svn 'packages' repo (read-only mirror) - archlinux/svntogit-packages",
+          "fallback": "GitHub: archlinux/svntogit-packages",
+          "thumb_url": "https://avatars.githubusercontent.com/u/4673648?s=400&v=4",
+          "from_url": "https://github.com/archlinux/svntogit-packages/commits/packages/net-tools/trunk",
+          "thumb_width": 400,
+          "thumb_height": 400,
+          "service_icon": "https://a.slack-edge.com/80588/img/unfurl_icons/github.png",
+          "id": 3,
+          "original_url": "https://github.com/archlinux/svntogit-packages/commits/packages/net-tools/trunk"
+        }
+      ],
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "Y+mq",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "net-toolsが非推奨になっています ("
+                },
+                {
+                  "type": "link",
+                  "url": "https://www.archlinux.jp/news/deprecation-of-net-tools/"
+                },
+                {
+                  "type": "text",
+                  "text": ") が、最近リリースがあった ("
+                },
+                {
+                  "type": "link",
+                  "url": "https://sourceforge.net/projects/net-tools/files/"
+                },
+                {
+                  "type": "text",
+                  "text": ") ようです。\nnet-toolsのPKGCONFIGも12日前に更新されてました ("
+                },
+                {
+                  "type": "link",
+                  "url": "https://github.com/archlinux/svntogit-packages/commits/packages/net-tools/trunk"
+                },
+                {
+                  "type": "text",
+                  "text": ")"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "has_more": false,
+  "is_limited": true,
+  "pin_count": 0,
+  "channel_actions_ts": null,
+  "channel_actions_count": 0
+}

@@ -1,0 +1,1377 @@
+{
+  "ok": true,
+  "latest": "1614600655.000000",
+  "oldest": "1612181455.000000",
+  "messages": [
+    {
+      "type": "message",
+      "subtype": "thread_broadcast",
+      "text": "picomの設定を\n&lt; backend = \"xrender\";\n---\n&gt; backend = \"glx\";\nにすることで解決しました\nredshift絡みなのかは不明",
+      "user": "a3784197",
+      "ts": "1614389424.008300",
+      "thread_ts": "1613130482.014700",
+      "root": {
+        "client_msg_id": "dab2e39a-abf2-409b-8644-090f6f7ebafc",
+        "type": "message",
+        "text": "`xf86-video-intel` がおすすめされないとarchwikiに書いていたので削除し<https://wiki.gentoo.org/wiki/Intel#Modesetting_DDX|gentoo wiki>のように\n設定してみましたが、tearingが治りませんどうすればいいですか？\n環境: i3-gaps, compton(picom)を動かしています",
+        "user": "a3784197",
+        "ts": "1613130482.014700",
+        "team": "T0GFBAM8C",
+        "blocks": [
+          {
+            "type": "rich_text",
+            "block_id": "NIs",
+            "elements": [
+              {
+                "type": "rich_text_section",
+                "elements": [
+                  {
+                    "type": "text",
+                    "text": "xf86-video-intel",
+                    "style": {
+                      "code": true
+                    }
+                  },
+                  {
+                    "type": "text",
+                    "text": " がおすすめされないとarchwikiに書いていたので削除し"
+                  },
+                  {
+                    "type": "link",
+                    "url": "https://wiki.gentoo.org/wiki/Intel#Modesetting_DDX",
+                    "text": "gentoo wiki"
+                  },
+                  {
+                    "type": "text",
+                    "text": "のように\n設定してみましたが、tearingが治りませんどうすればいいですか？\n環境: i3-gaps, compton(picom)を動かしています"
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "thread_ts": "1613130482.014700",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1614389424.008300",
+        "reply_users": [
+          "a3784197"
+        ],
+        "is_locked": false,
+        "subscribed": false
+      },
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "sWzH",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "picomの設定を\n< backend = \"xrender\";\n---\n> backend = \"glx\";\nにすることで解決しました\nredshift絡みなのかは不明"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "client_msg_id": "bc4bc4c7-0ae8-4de6-bae7-026290a9e548",
+      "edited": {
+        "user": "a3784197",
+        "ts": "1614389516.000000"
+      },
+      "reactions": [
+        {
+          "name": "+1",
+          "users": [
+            "syui"
+          ],
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "message",
+      "subtype": "channel_join",
+      "ts": "1614170298.007800",
+      "user": "takashi.mtsd",
+      "text": "<@takashi.mtsd>さんがチャンネルに参加しました"
+    },
+    {
+      "client_msg_id": "adec5e6d-a999-4cfc-b5cb-e04eaae72e01",
+      "type": "message",
+      "text": "後rsync公開してくれてるのが個人的に大事",
+      "user": "znmxodq1",
+      "ts": "1614055227.007500",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "YFeq0",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "後rsync公開してくれてるのが個人的に大事"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "b3e2daf4-17d7-4f97-9f11-ce0752a01346",
+      "type": "message",
+      "text": "安定してて速いんで",
+      "user": "znmxodq1",
+      "ts": "1614055213.006900",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "9eIj1",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "安定してて速いんで"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "2ee1991d-2a00-4e77-8e9e-eb708487d0e3",
+      "type": "message",
+      "text": "jaist多いですね",
+      "user": "a3784197",
+      "ts": "1614039895.006600",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "sYy",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "jaist多いですね"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "31d53989-083f-469f-93cb-c66226d6a452",
+      "type": "message",
+      "text": "GPGで署名してあるのでHTTPSにする意味なさそうって思ってる",
+      "user": "znmxodq1",
+      "ts": "1614012815.006300",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "EAdqP",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "GPGで署名してあるのでHTTPSにする意味なさそうって思ってる"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "3621b280-f811-4a8b-a198-b91481093a4c",
+      "type": "message",
+      "text": "デフォだとhttpだ、いずれにせよ引っ掛かってなかったか",
+      "user": "znmxodq1",
+      "ts": "1614012766.005500",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "Y9f",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "デフォだとhttpだ、いずれにせよ引っ掛かってなかったか"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "76a7a7f9-667a-45a5-a1bd-148ed2eed07a",
+      "type": "message",
+      "text": "jaist(http)だった",
+      "user": "dohq",
+      "ts": "1614012659.004600",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "hJS",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "jaist(http)だった"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "reactions": [
+        {
+          "name": "wakaru",
+          "users": [
+            "yutakatay"
+          ],
+          "count": 1
+        }
+      ]
+    },
+    {
+      "client_msg_id": "78d6de4a-15cd-45b7-b405-74046eec1b06",
+      "type": "message",
+      "text": "rsyncで繋いでるから上の証明書アレ引っ掛かってなかったっぽい",
+      "user": "znmxodq1",
+      "ts": "1614012535.004300",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "/p/l",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "rsyncで繋いでるから上の証明書アレ引っ掛かってなかったっぽい"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "58d7086f-c207-4db3-b1ad-3dbea8d3f6fd",
+      "type": "message",
+      "text": "jaistです",
+      "user": "znmxodq1",
+      "ts": "1614012486.003500",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "+1B5h",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "jaistです"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "8af73154-5cf5-49e7-b05d-e66c32351143",
+      "type": "message",
+      "text": "mirrorlistってどこのサーバー使わせてもらってますか？\n個人的にmirrors.catが最強だと思ってます",
+      "user": "a3784197",
+      "ts": "1614001484.003200",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "Bgq",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "mirrorlistってどこのサーバー使わせてもらってますか？\n個人的にmirrors.catが最強だと思ってます"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "message",
+      "text": "ですねー",
+      "files": [
+        {
+          "id": "F01NPM9SNDU",
+          "created": 1614000229,
+          "timestamp": 1614000229,
+          "name": "image.png",
+          "title": "image.png",
+          "mimetype": "image/png",
+          "filetype": "png",
+          "pretty_type": "PNG",
+          "user": "dohq",
+          "editable": false,
+          "size": 44851,
+          "mode": "hosted",
+          "is_external": false,
+          "external_type": "",
+          "is_public": true,
+          "public_url_shared": false,
+          "display_as_bot": false,
+          "username": "",
+          "url_private": "https://files.slack.com/files-pri/T0GFBAM8C-F01NPM9SNDU/image.png",
+          "url_private_download": "https://files.slack.com/files-pri/T0GFBAM8C-F01NPM9SNDU/download/image.png",
+          "media_display_type": "unknown",
+          "thumb_64": "https://files.slack.com/files-tmb/T0GFBAM8C-F01NPM9SNDU-0ea513d095/image_64.png",
+          "thumb_80": "https://files.slack.com/files-tmb/T0GFBAM8C-F01NPM9SNDU-0ea513d095/image_80.png",
+          "thumb_360": "https://files.slack.com/files-tmb/T0GFBAM8C-F01NPM9SNDU-0ea513d095/image_360.png",
+          "thumb_360_w": 292,
+          "thumb_360_h": 360,
+          "thumb_480": "https://files.slack.com/files-tmb/T0GFBAM8C-F01NPM9SNDU-0ea513d095/image_480.png",
+          "thumb_480_w": 390,
+          "thumb_480_h": 480,
+          "thumb_160": "https://files.slack.com/files-tmb/T0GFBAM8C-F01NPM9SNDU-0ea513d095/image_160.png",
+          "original_w": 545,
+          "original_h": 671,
+          "thumb_tiny": "AwAwACbQAOT1/Olx7mjqe9Lj3P50AGKKMe5/OigBGHFNxTm6U2gB2MnNKRzSdW7/AJUEZPWgBce9FAGKWgBrdKSlbpSUALxnJ4oIGeaWgjJoAQADvS0bRQBigBG6UlK3SkoA/9k=",
+          "permalink": "https://archlinuxjp.slack.com/files/dohq/F01NPM9SNDU/image.png",
+          "permalink_public": "https://slack-files.com/T0GFBAM8C-F01NPM9SNDU-782e39bf87",
+          "is_starred": false,
+          "has_rich_preview": false
+        }
+      ],
+      "upload": false,
+      "user": "dohq",
+      "display_as_bot": false,
+      "ts": "1614000237.001900",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "Z/RZ5",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "ですねー"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "dfa94542-853a-4356-b923-6dac71514f64",
+      "type": "message",
+      "text": "今 pacman -Syuしたら`<http://ftp.jaist.ac.jp|ftp.jaist.ac.jp> : SSL certificate problem: certificate has expired`というエラーが出ました。\n`<http://ftp.jaist.ac.jp|ftp.jaist.ac.jp>` の証明書の期限が切れている?",
+      "user": "getalotofmail",
+      "ts": "1613997889.001700",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "DzyOo",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "今 pacman -Syuしたら`"
+                },
+                {
+                  "type": "link",
+                  "url": "http://ftp.jaist.ac.jp",
+                  "text": "ftp.jaist.ac.jp"
+                },
+                {
+                  "type": "text",
+                  "text": " : SSL certificate problem: certificate has expired`というエラーが出ました。\n"
+                },
+                {
+                  "type": "link",
+                  "url": "http://ftp.jaist.ac.jp",
+                  "text": "ftp.jaist.ac.jp",
+                  "style": {
+                    "code": true
+                  }
+                },
+                {
+                  "type": "text",
+                  "text": " の証明書の期限が切れている?"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "message",
+      "subtype": "channel_join",
+      "ts": "1613809606.000400",
+      "user": "hujyorom",
+      "text": "<@hujyorom>さんがチャンネルに参加しました"
+    },
+    {
+      "type": "message",
+      "subtype": "channel_join",
+      "ts": "1613809304.000200",
+      "user": "inukai1088",
+      "text": "<@inukai1088>さんがチャンネルに参加しました"
+    },
+    {
+      "type": "message",
+      "subtype": "bot_message",
+      "text": "<https://archlinux.org/news/moving-to-zstandard-images-by-default-on-mkinitcpio>\nMoving to Zstandard images by default on mkinitcpio\nAs linux-lts moved to the 5.10 version, all official kernels of Arch Linux now support zstd compressedinitramfs images, so mkinitcpio is switching to zstd compressed images by default with version 30,which is currently on [testing].If, for any reason, you are using a kernel version prior to 5.9, make sure to change mkinitcpio.confCOMPRESSION to use one of the compressors supported, like gzip, otherwise you will not be able toboot images generated by mkinitcpio.\nmkinitcpioでデフォルトでZstandardイメージに移動する\nlinux-ltsが5.10バージョンに移行すると、Arch Linuxのすべての公式カーネルがzstdcompressedinitramfsイメージをサポートするようになりました。そのため、mkinitcpioは、現在[テスト]中のバージョン30でデフォルトでzstd圧縮イメージに切り替えています。 5.9より前のカーネルバージョンを使用している場合は、必ずmkinitcpio.confCOMPRESSIONを変更して、gzipなどのサポートされているコンプレッサーの1つを使用してください。そうしないと、mkinitcpioによって生成されたイメージを起動できません。",
+      "ts": "1613743366.049900",
+      "username": "webhookbot",
+      "icons": {
+        "emoji": ":arch:"
+      },
+      "bot_id": "BRB5N3W2W"
+    },
+    {
+      "client_msg_id": "870b61e4-34bb-4dbf-9b43-29a71be138fc",
+      "type": "message",
+      "text": "平気でそういうアプリぶっこんでくるのがいかにもArchって感じ",
+      "user": "znmxodq1",
+      "ts": "1613494756.049000",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "VUPG",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "平気でそういうアプリぶっこんでくるのがいかにもArchって感じ"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "dfc96599-53e5-42ef-a6f7-7422437769ce",
+      "type": "message",
+      "text": "無印とltsどっちもいれてるんですけどたまにアプリが新しいAPI前提になってたりしてltsだと落ちるみたいなことに遭遇します",
+      "user": "h.hata.ai.t",
+      "ts": "1613486289.047500",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "9Czvz",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "無印とltsどっちもいれてるんですけどたまにアプリが新しいAPI前提になってたりしてltsだと落ちるみたいなことに遭遇します"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "reactions": [
+        {
+          "name": "totemoturai",
+          "users": [
+            "znmxodq1",
+            "a3784197",
+            "U565T848Y"
+          ],
+          "count": 3
+        },
+        {
+          "name": "naruhodo",
+          "users": [
+            "kokopis"
+          ],
+          "count": 1
+        }
+      ]
+    },
+    {
+      "client_msg_id": "ad6d2d63-d45c-4d7d-b780-ac470f2b077f",
+      "type": "message",
+      "text": "ハードウェアに問題が出たら切り替えます",
+      "user": "a3784197",
+      "ts": "1613482282.046000",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "zvh",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "ハードウェアに問題が出たら切り替えます"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "145a16d7-882a-4dbf-b51c-2f5219b962d5",
+      "type": "message",
+      "text": "LTSはLong Term Supportの略なので機能の差異はないですね、強いて言うなら言われてる通り古いのでそのへん",
+      "user": "znmxodq1",
+      "ts": "1613475007.042700",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "rC64",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "LTSはLong Term Supportの略なので機能の差異はないですね、強いて言うなら言われてる通り古いのでそのへん"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "df96e5b0-064f-483c-9d69-cd79e1084e7e",
+      "type": "message",
+      "text": "わかりました\nlaptopにzen入れるのはやめます",
+      "user": "a3784197",
+      "ts": "1613432775.041100",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "+/cS",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "わかりました\nlaptopにzen入れるのはやめます"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "c98c5d4e-0103-44f7-8cd8-07ec8eef34e7",
+      "type": "message",
+      "text": "linuxとlinux-ltsなら体感はさほど変わらないです\n恐らくカーネルのバージョンが違うだけでArchプロジェクトとしてのカスタマイズは最低限のはずなのでさほど変わらないのかと思ってます",
+      "user": "angel.beats.kanade.yu",
+      "ts": "1613431054.040500",
+      "team": "T0GFBAM8C",
+      "edited": {
+        "user": "angel.beats.kanade.yu",
+        "ts": "1613435463.000000"
+      },
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "MuRdl",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "linuxとlinux-ltsなら体感はさほど変わらないです\n恐らくカーネルのバージョンが違うだけでArchプロジェクトとしてのカスタマイズは最低限のはずなのでさほど変わらないのかと思ってます"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "35ad6380-6da5-410e-bfb2-87a21dc2225b",
+      "type": "message",
+      "text": "`linux`と`linux-lts`はどちらが消費電力高いですか？",
+      "user": "a3784197",
+      "ts": "1613430559.039400",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "Tv75b",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "`linux`と`linux-lts`はどちらが消費電力高いですか？"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "98d5e7cc-3731-4b14-a084-231a62d188f5",
+      "type": "message",
+      "text": "なるほどありがとうございます\nlaptopなので`linux`の方に変えてみたいと思います",
+      "user": "a3784197",
+      "ts": "1613430286.038400",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "4kA",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "なるほどありがとうございます\nlaptopなので`linux`の方に変えてみたいと思います"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "18b57379-72d6-4294-aff9-424e3b7875ec",
+      "type": "message",
+      "text": "ZenカーネルはLinuxをデスクトップ作業(とくにマルチメディアやゲーム、ブラウジングなど)のパフォーマンスを高めるためのチューニングをされたカーネルです。\n電力効率などの犠牲の上に成り立っているので、デスクトップなら良いと思いますが、ラップトップだとバッテリの消費が通常のカーネルに比べて体感で分かるほど速いです。\nなので私はデスクトップではZenを入れてますが、ラップトップにはlinux-ltsを入れています。\n(個人的な感想なので、間違いがあるかもしれまんせんが悪しからず)",
+      "user": "angel.beats.kanade.yu",
+      "ts": "1613385574.036600",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "WGlR",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "ZenカーネルはLinuxをデスクトップ作業(とくにマルチメディアやゲーム、ブラウジングなど)のパフォーマンスを高めるためのチューニングをされたカーネルです。\n電力効率などの犠牲の上に成り立っているので、デスクトップなら良いと思いますが、ラップトップだとバッテリの消費が通常のカーネルに比べて体感で分かるほど速いです。\nなので私はデスクトップではZenを入れてますが、ラップトップにはlinux-ltsを入れています。\n(個人的な感想なので、間違いがあるかもしれまんせんが悪しからず)"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "reactions": [
+        {
+          "name": "arch",
+          "users": [
+            "U01GL4MB9KR",
+            "U01J1GGMHDJ",
+            "kokopis",
+            "U017BNGTHT3",
+            "a3784197",
+            "UJ7P75WB1",
+            "syui"
+          ],
+          "count": 7
+        },
+        {
+          "name": "naruhodo",
+          "users": [
+            "znmxodq1",
+            "U4V5UCWT0",
+            "a3784197",
+            "ykodama",
+            "U0H9QUFA5",
+            "UQALTSDFX"
+          ],
+          "count": 6
+        }
+      ]
+    },
+    {
+      "client_msg_id": "2f31fd43-e96f-42bb-9d0f-5ad8e5e87237",
+      "type": "message",
+      "text": "`linux` と`linux-zen`とは具体的にどう違いますか？\nどっちがおすすめですか？\nltsとlinuxとzen入ってるので",
+      "user": "a3784197",
+      "ts": "1613385111.032700",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "ZKz",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "linux",
+                  "style": {
+                    "code": true
+                  }
+                },
+                {
+                  "type": "text",
+                  "text": " と`linux-zen`とは具体的にどう違いますか？\nどっちがおすすめですか？\nltsとlinuxとzen入ってるので"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "ca7e8647-09f9-4ed4-8193-6606edd71a30",
+      "type": "message",
+      "text": "わかりました\nありがとうございます",
+      "user": "a3784197",
+      "ts": "1613309125.031200",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "yFfa",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "わかりました\nありがとうございます"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "76fea3e0-65e1-4478-ad21-a591dc19833d",
+      "type": "message",
+      "text": "直接 arch に関係無いなら、 <#C0GFH3RHU|random> 推奨です",
+      "user": "raa0121",
+      "ts": "1613300300.030900",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "C2K9m",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "直接 arch に関係無いなら、 "
+                },
+                {
+                  "type": "channel",
+                  "channel_id": "C0GFH3RHU"
+                },
+                {
+                  "type": "text",
+                  "text": " 推奨です"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "message",
+      "subtype": "channel_join",
+      "ts": "1613190248.028800",
+      "user": "inkch",
+      "text": "<@inkch>さんがチャンネルに参加しました"
+    },
+    {
+      "client_msg_id": "27482af4-23bd-4418-9985-cd65bc7ce3a2",
+      "type": "message",
+      "text": "追記: i915をMODULES行に追加したらtearingが解消したような気がします\nありがとうございました",
+      "user": "a3784197",
+      "ts": "1613138672.025100",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "vpJ2L",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "追記: i915をMODULES行に追加したらtearingが解消したような気がします\nありがとうございました"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "reactions": [
+        {
+          "name": "+1",
+          "users": [
+            "syui",
+            "kokopis"
+          ],
+          "count": 2
+        }
+      ]
+    },
+    {
+      "client_msg_id": "dd1e77c9-b19e-4338-8694-8e7b8a107964",
+      "type": "message",
+      "text": "mkinitcpio試してみます",
+      "user": "a3784197",
+      "ts": "1613137875.023800",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "YNO/",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "mkinitcpio試してみます"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "6932cf87-174e-4cae-ae32-44eb7e456e12",
+      "type": "message",
+      "text": "なるほど\nありがとうございます",
+      "user": "a3784197",
+      "ts": "1613137864.023400",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "ssyE",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "なるほど\nありがとうございます"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "21df0c48-67c8-46fd-a337-c02a51d9a376",
+      "type": "message",
+      "text": "`xf86-video-intel` を使わないならmodesetを使わないとvesaモードになる(?)ので `mkinitcpio.conf` の MODULES に `i915` が入ってるか確認するといいかも",
+      "user": "kokopis",
+      "ts": "1613136499.022700",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "H710",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "xf86-video-intel",
+                  "style": {
+                    "code": true
+                  }
+                },
+                {
+                  "type": "text",
+                  "text": " を使わないならmodesetを使わないとvesaモードになる(?)ので "
+                },
+                {
+                  "type": "text",
+                  "text": "mkinitcpio.conf",
+                  "style": {
+                    "code": true
+                  }
+                },
+                {
+                  "type": "text",
+                  "text": " の MODULES に "
+                },
+                {
+                  "type": "text",
+                  "text": "i915",
+                  "style": {
+                    "code": true
+                  }
+                },
+                {
+                  "type": "text",
+                  "text": " が入ってるか確認するといいかも"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "03249aaf-db03-4404-bbfe-4442c6f1ab98",
+      "type": "message",
+      "text": "configにintelの設定ぽいのがあったので掲載しときます\n\n/etc/X11/xorg.conf.d/20-intel.conf\n```Section \"Device\"\n  Identifier  \"Intel Graphics\"\n  Driver      \"intel\"\n  Option      \"AccelMethod\"  \"uxa\"\nEndSection```",
+      "user": "syui",
+      "ts": "1613136393.021000",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "pOC",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "configにintelの設定ぽいのがあったので掲載しときます\n\n/etc/X11/xorg.conf.d/20-intel.conf\n"
+                }
+              ]
+            },
+            {
+              "type": "rich_text_preformatted",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "Section \"Device\"\n  Identifier  \"Intel Graphics\"\n  Driver      \"intel\"\n  Option      \"AccelMethod\"  \"uxa\"\nEndSection"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "thread_ts": "1613136393.021000",
+      "reply_count": 2,
+      "reply_users_count": 2,
+      "latest_reply": "1613138002.024100",
+      "reply_users": [
+        "a3784197",
+        "syui"
+      ],
+      "is_locked": false,
+      "subscribed": true,
+      "last_read": "1613138002.024100"
+    },
+    {
+      "client_msg_id": "0620f63c-9526-4075-a12c-09ca3cd676b0",
+      "type": "message",
+      "text": "私、macbook airですが、一応、intelなので、さっき調べてみたらxf86-video-intelはいってますね",
+      "user": "syui",
+      "ts": "1613136168.019100",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "UVR",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "私、macbook airですが、一応、intelなので、さっき調べてみたらxf86-video-intelはいってますね"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "58d92340-3704-4724-9ead-f894a3e5e93a",
+      "type": "message",
+      "text": "ありがとうございます\nintel環境の人居ますか？\nいたら教えて下さい",
+      "user": "a3784197",
+      "ts": "1613136010.018500",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "PnIiJ",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "ありがとうございます\nintel環境の人居ますか？\nいたら教えて下さい"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "b35ac8bc-9fe2-4715-a413-83512ddae9b9",
+      "type": "message",
+      "text": "その場合はxf86-video-intelをインストールしたほうがいいかも(私ならインストールすると思います",
+      "user": "syui",
+      "ts": "1613135160.017400",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "IsUl",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "その場合はxf86-video-intelをインストールしたほうがいいかも(私ならインストールすると思います"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "86a455c2-4a47-4758-9088-08e19404050e",
+      "type": "message",
+      "text": "xf86-video-intelをインストールしている場合は問題は発生しないんです?",
+      "user": "syui",
+      "ts": "1613135092.016600",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "f=W",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "xf86-video-intelをインストールしている場合は問題は発生しないんです?"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "8bdb6c67-c80e-476f-b8b2-6be6cf70ed27",
+      "type": "message",
+      "text": "X.orgのlogです",
+      "user": "a3784197",
+      "ts": "1613130794.016100",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "+X5e",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "X.orgのlogです"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "7779ca48-6b03-4743-b909-22ba6e4267b4",
+      "type": "message",
+      "text": "`~\n[I] ➜ grep \\(EE\\) /var/log/Xorg.0.log\n\t(WW) warning, (EE) error, (NI) not implemented, (??) unknown.\n[    19.247] (EE) libinput: SynPS/2 Synaptics TouchPad: Failed to create a device for /dev/input/mouse1\n[    19.247] (EE) PreInit returned 2 for \"SynPS/2 Synaptics TouchPad\"`",
+      "user": "a3784197",
+      "ts": "1613130777.015900",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "1tWwd",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "`~\n[I] ➜ grep \\(EE\\) /var/log/Xorg.0.log\n\t(WW) warning, (EE) error, (NI) not implemented, (??) unknown.\n[    19.247] (EE) libinput: SynPS/2 Synaptics TouchPad: Failed to create a device for /dev/input/mouse1\n[    19.247] (EE) PreInit returned 2 for \"SynPS/2 Synaptics TouchPad\"`"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "31ef90c6-d0d7-4d10-ad72-f7333c84d518",
+      "type": "message",
+      "text": "`xf86-video-intel` をインストールし、TearFree trueと書くとtearingは発生しませんでした",
+      "user": "a3784197",
+      "ts": "1613130542.015600",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "nOGr4",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "xf86-video-intel",
+                  "style": {
+                    "code": true
+                  }
+                },
+                {
+                  "type": "text",
+                  "text": " をインストールし、TearFree trueと書くとtearingは発生しませんでした"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "dab2e39a-abf2-409b-8644-090f6f7ebafc",
+      "type": "message",
+      "text": "`xf86-video-intel` がおすすめされないとarchwikiに書いていたので削除し<https://wiki.gentoo.org/wiki/Intel#Modesetting_DDX|gentoo wiki>のように\n設定してみましたが、tearingが治りませんどうすればいいですか？\n環境: i3-gaps, compton(picom)を動かしています",
+      "user": "a3784197",
+      "ts": "1613130482.014700",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "NIs",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "xf86-video-intel",
+                  "style": {
+                    "code": true
+                  }
+                },
+                {
+                  "type": "text",
+                  "text": " がおすすめされないとarchwikiに書いていたので削除し"
+                },
+                {
+                  "type": "link",
+                  "url": "https://wiki.gentoo.org/wiki/Intel#Modesetting_DDX",
+                  "text": "gentoo wiki"
+                },
+                {
+                  "type": "text",
+                  "text": "のように\n設定してみましたが、tearingが治りませんどうすればいいですか？\n環境: i3-gaps, compton(picom)を動かしています"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "thread_ts": "1613130482.014700",
+      "reply_count": 1,
+      "reply_users_count": 1,
+      "latest_reply": "1614389424.008300",
+      "reply_users": [
+        "a3784197"
+      ],
+      "is_locked": false,
+      "subscribed": false
+    },
+    {
+      "type": "message",
+      "subtype": "channel_join",
+      "ts": "1612700590.011700",
+      "user": "ykodama",
+      "text": "<@ykodama>さんがチャンネルに参加しました"
+    },
+    {
+      "client_msg_id": "e0addffe-9476-457b-a61d-ca5740b2b089",
+      "type": "message",
+      "text": "パッケージ消えるわけじゃないならまあいいか",
+      "user": "znmxodq1",
+      "ts": "1612371669.010800",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "x/K6x",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "パッケージ消えるわけじゃないならまあいいか"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "message",
+      "subtype": "bot_message",
+      "text": "<https://archlinux.org/news/chromium-losing-sync-support-in-early-march>\nChromium losing Sync support in early March\nGoogle has announced that they are going to block everything but Chrome from accessing certain Google features (like Chrome sync) starting on March 15. This decision by Google is going to affect Arch's chromium package a bit earlier, on March 2, when Chromium 89 gets released.We know for sure that data syncing will stop working (passwords, bookmarks, etc.). Other features such as geolocation or enhanced spell check might continue to function for a bit longer. Extensions integrating with Google Drive might misbehave and LibreOffice will lose access to documents stored there.Other distros such as openSUSE and Fedora have already removed the soon-to-be-limited API keys from their Chromium 88 packages. Fedora's advisory provides a great deal of perspective on this and I also found this Hackaday post to be quite informative.\n3月上旬にChromiumが同期サポートを失う\nGoogleは、Chrome以外のすべてが3月15日から特定のGoogle機能（Chrome同期など）にアクセスするのをブロックすると発表しました。Googleによるこの決定は、少し前の3月2日のChromium89の取得時にArchのクロムパッケージに影響を与えます。データ同期が機能しなくなることは間違いありません（パスワード、ブックマークなど）。ジオロケーションや強化されたスペルチェックなどの他の機能は、もう少し長く機能し続ける可能性があります。 Googleドライブと統合されている拡張機能は誤動作する可能性があり、LibreOfficeはそこに保存されているドキュメントにアクセスできなくなります。openSUSEやFedoraなどの他のディストリビューションでは、間もなく制限されるAPIキーがChromium88パッケージからすでに削除されています。 Fedoraのアドバイザリは、これについて多くの視点を提供します。また、このHackadayの投稿は非常に有益であることがわかりました。",
+      "ts": "1612339442.010100",
+      "username": "webhookbot",
+      "icons": {
+        "emoji": ":arch:"
+      },
+      "bot_id": "BRB5N3W2W",
+      "reactions": [
+        {
+          "name": "rikai",
+          "users": [
+            "kokopis",
+            "a3784197",
+            "U013L1JQ0J2"
+          ],
+          "count": 3
+        }
+      ]
+    },
+    {
+      "client_msg_id": "7034345f-f143-47c1-b589-a185ff56670f",
+      "type": "message",
+      "text": "【NetworkManagerでVPN使ってる方】\nNetworkManagerの方のバージョンは上がってるけどnetworkmanager-l2tpがリリース切られてないんでVPN接続が失敗します。使ってる方注意。\n対処方法は、githubのmasterだとうまくいくのでPKGBUILD書き換えてビルドするのがよいと思います。",
+      "user": "yutakatay",
+      "ts": "1612321180.008900",
+      "team": "T0GFBAM8C",
+      "edited": {
+        "user": "yutakatay",
+        "ts": "1612321209.000000"
+      },
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "GWs",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "【NetworkManagerでVPN使ってる方】\nNetworkManagerの方のバージョンは上がってるけどnetworkmanager-l2tpがリリース切られてないんでVPN接続が失敗します。使ってる方注意。\n対処方法は、githubのmasterだとうまくいくのでPKGBUILD書き換えてビルドするのがよいと思います。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "thread_ts": "1612321180.008900",
+      "reply_count": 1,
+      "reply_users_count": 1,
+      "latest_reply": "1612485798.011100",
+      "reply_users": [
+        "yutakatay"
+      ],
+      "is_locked": false,
+      "subscribed": false,
+      "reactions": [
+        {
+          "name": "arch",
+          "users": [
+            "U01JLJH02JK",
+            "UPL8M8KPT",
+            "syui",
+            "UPLFHSQ2V",
+            "U7VDHKJHM",
+            "kokopis",
+            "h.hata.ai.t",
+            "dohq",
+            "a3784197",
+            "U0H1UU01G",
+            "UJ7P75WB1"
+          ],
+          "count": 11
+        }
+      ]
+    }
+  ],
+  "has_more": false,
+  "is_limited": true,
+  "pin_count": 16,
+  "channel_actions_ts": null,
+  "channel_actions_count": 0
+}

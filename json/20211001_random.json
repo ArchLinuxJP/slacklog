@@ -1,0 +1,3140 @@
+{
+  "ok": true,
+  "latest": "1635768663.000000",
+  "oldest": "1633090263.000000",
+  "messages": [
+    {
+      "client_msg_id": "01b59d1c-67ce-4232-be63-329ae1389bd9",
+      "type": "message",
+      "text": "特に依存のないDenoなどはガンガン降ってくる",
+      "user": "znmxodq1",
+      "ts": "1635757968.143900",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "VcU",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "特に依存のないDenoなどはガンガン降ってくる"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "ccea5765-aa48-4ac1-a657-4c28942ea98e",
+      "type": "message",
+      "text": "こういうのでシステムが依存すると大変だなぁという気持ち",
+      "user": "znmxodq1",
+      "ts": "1635757952.143400",
+      "team": "T0GFBAM8C",
+      "edited": {
+        "user": "znmxodq1",
+        "ts": "1635757985.000000"
+      },
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "CsP",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "こういうのでシステムが依存すると大変だなぁという気持ち"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "c5556075-2978-43e9-90b0-a1c7bd77457e",
+      "type": "message",
+      "text": "GNOME41もリリースしませんでしたね",
+      "user": "weiliang1503",
+      "ts": "1635756963.142200",
+      "team": "T0GFBAM8C",
+      "edited": {
+        "user": "weiliang1503",
+        "ts": "1635757364.000000"
+      },
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "LqQKE",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "GNOME41もリリースしませんでしたね"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "1985ad29-fa77-402f-8c2d-60de7faa51f6",
+      "type": "message",
+      "text": "3.8も3.9も遅かったから気長に待つ",
+      "user": "yutakatay",
+      "ts": "1635743040.140900",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "MzbqY",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "3.8も3.9も遅かったから気長に待つ"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "3b3722a0-fea1-4fc3-a3dd-99a903e2e101",
+      "type": "message",
+      "text": "<https://www.reddit.com/r/archlinux/comments/q6n7di/when_does_usrbinpython_become_python_310/>\n正式リリースではあると思いますが、確か公式リポジトリ内の全てのパッケージを3.10で動くように検証・対応する必要があるので、時間がかかりそうです",
+      "user": "nyaarch64",
+      "ts": "1635742765.140400",
+      "team": "T0GFBAM8C",
+      "attachments": [
+        {
+          "service_name": "reddit",
+          "title": "When does /usr/bin/python become python 3.10?",
+          "title_link": "https://www.reddit.com/r/archlinux/comments/q6n7di/when_does_usrbinpython_become_python_310/",
+          "text": "What kind of things need to happen before a new minor version of python is available through the official packages? I am aware there are a...",
+          "fallback": "reddit: When does /usr/bin/python become python 3.10?",
+          "thumb_url": "https://www.redditstatic.com/new-icon.png",
+          "from_url": "https://www.reddit.com/r/archlinux/comments/q6n7di/when_does_usrbinpython_become_python_310/",
+          "thumb_width": 256,
+          "thumb_height": 256,
+          "service_icon": "http://www.redditstatic.com/desktop2x/img/favicon/apple-icon-57x57.png",
+          "id": 1,
+          "original_url": "https://www.reddit.com/r/archlinux/comments/q6n7di/when_does_usrbinpython_become_python_310/"
+        }
+      ],
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "fQtX",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "link",
+                  "url": "https://www.reddit.com/r/archlinux/comments/q6n7di/when_does_usrbinpython_become_python_310/"
+                },
+                {
+                  "type": "text",
+                  "text": "\n正式リリースではあると思いますが、確か公式リポジトリ内の全てのパッケージを3.10で動くように検証・対応する必要があるので、時間がかかりそうです"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "reactions": [
+        {
+          "name": "naruhodo",
+          "users": [
+            "conao3",
+            "U0H9QUFA5",
+            "UJ7P75WB1"
+          ],
+          "count": 3
+        }
+      ]
+    },
+    {
+      "client_msg_id": "03655ce2-77bf-4423-a806-19b660429d74",
+      "type": "message",
+      "text": "Pythonっていつから正式リリースなんでしょう？3.10.0はもうリリース版ですか？\n3.10.0は開発版で3.10.1を待つべきとかがある。。？",
+      "user": "conao3",
+      "ts": "1635742585.139700",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "nrFg",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "Pythonっていつから正式リリースなんでしょう？3.10.0はもうリリース版ですか？\n3.10.0は開発版で3.10.1を待つべきとかがある。。？"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "378cb146-f920-479a-a289-c9ce9f8998ea",
+      "type": "message",
+      "text": "最近update(bugfix)されたときも一瞬でoutdated flagついてたし",
+      "user": "getalotofmail",
+      "ts": "1635742460.138500",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "zn2gh",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "最近update(bugfix)されたときも一瞬でoutdated flagついてたし"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "efc3b019-f87f-4a16-a79b-ffde974203ee",
+      "type": "message",
+      "text": "まだPython3.10来ないなあ\n<https://archlinux.org/packages/core/x86_64/python/|https://archlinux.org/packages/core/x86_64/python/>",
+      "user": "getalotofmail",
+      "ts": "1635742415.137200",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "J/C",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "まだPython3.10来ないなあ\n"
+                },
+                {
+                  "type": "link",
+                  "url": "https://archlinux.org/packages/core/x86_64/python/",
+                  "text": "https://archlinux.org/packages/core/x86_64/python/"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "69122059-5885-43e6-86a3-1b7f5ab93d5a",
+      "type": "message",
+      "text": "v6のDHCPでxxxx::34みたいなアドレスが振られると、体育館に1人みたいな感じになります(？)",
+      "user": "nyaarch64",
+      "ts": "1635741724.136600",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "FRNmV",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "v6のDHCPでxxxx::34みたいなアドレスが振られると、体育館に1人みたいな感じになります(？)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "2ac74a0d-faa1-4d9b-a686-cbbf82975ca0",
+      "type": "message",
+      "text": "v6だとDHCPの影が薄い気がしますね\nだいたいRAとSLAACでいい感じになる",
+      "user": "tatsumigamou",
+      "ts": "1635740051.136000",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "pB=QB",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "v6だとDHCPの影が薄い気がしますね\nだいたいRAとSLAACでいい感じになる"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "89d6dda0-d3f0-4a7d-bb31-a1ecd7ac202e",
+      "type": "message",
+      "text": "ネットワーク周りの理解が深まったような気がします、v6でLAN内通信だけだとdhcpなくてもまあ使えるのか",
+      "user": "nyaarch64",
+      "ts": "1635736191.134600",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "6YA",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "ネットワーク周りの理解が深まったような気がします、v6でLAN内通信だけだとdhcpなくてもまあ使えるのか"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "reactions": [
+        {
+          "name": "goodpoem",
+          "users": [
+            "znmxodq1",
+            "yozigen"
+          ],
+          "count": 2
+        }
+      ]
+    },
+    {
+      "client_msg_id": "872dd4fc-fca0-4cef-a8d6-9b09ac5052db",
+      "type": "message",
+      "text": "あー…あるある",
+      "user": "znmxodq1",
+      "ts": "1635735106.133800",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "qlyV",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "あー…あるある"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "004a364e-068d-4f5d-ac77-cab9c430feb1",
+      "type": "message",
+      "text": "ファイル名(.network)のtypoでした :crying_cat_face: すいません……",
+      "user": "nyaarch64",
+      "ts": "1635734960.133500",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "aLT",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "ファイル名(.network)のtypoでした "
+                },
+                {
+                  "type": "emoji",
+                  "name": "crying_cat_face",
+                  "unicode": "1f63f"
+                },
+                {
+                  "type": "text",
+                  "text": " すいません……"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "a22027a8-ce17-4dcf-806f-49cf765a4c69",
+      "type": "message",
+      "text": "いや、凡ミスの気がしてきました",
+      "user": "nyaarch64",
+      "ts": "1635734650.132300",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "sUtnA",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "いや、凡ミスの気がしてきました"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "6ffb702c-ff47-4fd3-be41-217bc604299b",
+      "type": "message",
+      "text": "<https://github.com/systemd/systemd/issues/15445>\nこれかも",
+      "user": "nyaarch64",
+      "ts": "1635733861.131900",
+      "team": "T0GFBAM8C",
+      "attachments": [
+        {
+          "service_name": "GitHub",
+          "title": "systemd-networkd does not configure eth* devices on boot (since 243 onwards) · Issue #15445 · systemd/systemd",
+          "title_link": "https://github.com/systemd/systemd/issues/15445",
+          "text": "systemd version the issue has been seen with systemd 245 (245.4-2-arch) +PAM +AUDIT -SELINUX -IMA -APPARMOR +SMACK -SYSVINIT +UTMP +LIBCRYPTSETUP +GCRYPT +GNUTLS +ACL +XZ +LZ4 +SECCOMP +BLKID +ELFU...",
+          "fallback": "GitHub: systemd-networkd does not configure eth* devices on boot (since 243 onwards) · Issue #15445 · systemd/systemd",
+          "image_url": "https://opengraph.githubassets.com/9ba0222b77ef049585c8539cbca33e2eed49d5022cb425d1dc871faf81cb6aa8/systemd/systemd/issues/15445",
+          "image_width": 500,
+          "image_height": 250,
+          "from_url": "https://github.com/systemd/systemd/issues/15445",
+          "image_bytes": 89364,
+          "service_icon": "https://a.slack-edge.com/80588/img/unfurl_icons/github.png",
+          "id": 1,
+          "original_url": "https://github.com/systemd/systemd/issues/15445"
+        }
+      ],
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "Hlr1A",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "link",
+                  "url": "https://github.com/systemd/systemd/issues/15445"
+                },
+                {
+                  "type": "text",
+                  "text": "\nこれかも"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "981665cc-8367-4911-97b7-953082661f8a",
+      "type": "message",
+      "text": "v6はprefixがネットワークのものと一致しているので、ルータ広告とかは受け取っているんですかね？(v6、あまり詳しくなく……)(SLAACか)",
+      "user": "nyaarch64",
+      "ts": "1635731348.131100",
+      "team": "T0GFBAM8C",
+      "edited": {
+        "user": "nyaarch64",
+        "ts": "1635731409.000000"
+      },
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "oCUJr",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "v6はprefixがネットワークのものと一致しているので、ルータ広告とかは受け取っているんですかね？(v6、あまり詳しくなく……)(SLAACか)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "69015649-6bba-4845-9c10-a3b06dc58600",
+      "type": "message",
+      "text": "へー、カーネルがそんなことするんだ",
+      "user": "znmxodq1",
+      "ts": "1635731183.130300",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "1Yr",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "へー、カーネルがそんなことするんだ"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "b860116c-166a-406a-942e-cceaafb7de70",
+      "type": "message",
+      "text": "IPv6LLはsystemd-networkdを起動しなくてもカーネルによって割り当てられているようで、\nRealtek 8168 だったので r8168 入れてみたものの変わらず、\n諦めてUSB NIC繋いでみた(他のArchマシンで普通にPnPで使えるやつ)のですが、やはり自動ではLinkUpしないので、謎は深まるばかり……(wikiを見ても自動でlink upしなくなったとかは書かれていないですし……)",
+      "user": "nyaarch64",
+      "ts": "1635730590.129200",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "z4+M",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "IPv6LLはsystemd-networkdを起動しなくてもカーネルによって割り当てられているようで、\nRealtek 8168 だったので r8168 入れてみたものの変わらず、\n諦めてUSB NIC繋いでみた(他のArchマシンで普通にPnPで使えるやつ)のですが、やはり自動ではLinkUpしないので、謎は深まるばかり……(wikiを見ても自動でlink upしなくなったとかは書かれていないですし……)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "9f85cfa3-7a9e-4302-974e-3b8f38fe7860",
+      "type": "message",
+      "text": "でもメールアドレスを確認しなくても wiki を編集できますから，構わないんですね",
+      "user": "weiliang1503",
+      "ts": "1635695249.126600",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "=Ga",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "でもメールアドレスを確認しなくても wiki を編集できますから，構わないんですね"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "reactions": [
+        {
+          "name": "arch",
+          "users": [
+            "yozigen"
+          ],
+          "count": 1
+        },
+        {
+          "name": "+1",
+          "users": [
+            "nyaarch64"
+          ],
+          "count": 1
+        }
+      ]
+    },
+    {
+      "client_msg_id": "b4d03667-a436-420c-9ae4-49509de68f20",
+      "type": "message",
+      "text": "いえ，ないはずです。<http://wiki.archlinux.jp|wiki.archlinux.jp> と言いたかったです",
+      "user": "weiliang1503",
+      "ts": "1635694995.124300",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "o8DKu",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "いえ，ないはずです。"
+                },
+                {
+                  "type": "link",
+                  "url": "http://wiki.archlinux.jp",
+                  "text": "wiki.archlinux.jp"
+                },
+                {
+                  "type": "text",
+                  "text": " と言いたかったです"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "bdb75f11-eef9-4e83-9288-49d800895d1e",
+      "type": "message",
+      "text": "<http://wiki.archlinux.jp|wiki.archlinux.jp> だったらメールは送信されなかった気がします、\n<http://archlinux.jp|archlinux.jp> のアカウントはありましたっけ？",
+      "user": "nyaarch64",
+      "ts": "1635680801.121300",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "A2DRD",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "link",
+                  "url": "http://wiki.archlinux.jp",
+                  "text": "wiki.archlinux.jp"
+                },
+                {
+                  "type": "text",
+                  "text": " だったらメールは送信されなかった気がします、\n"
+                },
+                {
+                  "type": "link",
+                  "url": "http://archlinux.jp",
+                  "text": "archlinux.jp"
+                },
+                {
+                  "type": "text",
+                  "text": " のアカウントはありましたっけ？"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "269f8677-59d7-4111-bd36-919dbe69a849",
+      "type": "message",
+      "text": "私は GMail を使っています",
+      "user": "weiliang1503",
+      "ts": "1635678846.120700",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "RdF/",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "私は GMail を使っています"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "6ca69d65-9823-4a22-9b0f-7c92fa5a6029",
+      "type": "message",
+      "text": "私は <http://archlinux.jp|archlinux.jp> のアカントを作成したいんですが，なかなか確認のメールを受け取らないんです，でも <http://archlinux.org|archlinux.org> のは問題ありません……それは何の理由がありますか？",
+      "user": "weiliang1503",
+      "ts": "1635678702.119800",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "MMqec",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "私は "
+                },
+                {
+                  "type": "link",
+                  "url": "http://archlinux.jp",
+                  "text": "archlinux.jp"
+                },
+                {
+                  "type": "text",
+                  "text": " のアカントを作成したいんですが，なかなか確認のメールを受け取らないんです，"
+                },
+                {
+                  "type": "text",
+                  "text": "でも archlinux.org のは問題ありません……それは何の理由がありますか？",
+                  "style": {
+                    "unlink": true
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "86f78e21-40ec-43c2-94c3-69bc1d63b6de",
+      "type": "message",
+      "text": "あー、IPv6LLが割り当てられてるだけで、DHCPどっちもダメっぽいですね……(v6アドレス範囲を覚えてないのが丸分かり",
+      "user": "nyaarch64",
+      "ts": "1635652613.116600",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "A2q",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "あー、IPv6LLが割り当てられてるだけで、DHCPどっちもダメっぽいですね……(v6アドレス範囲を覚えてないのが丸分かり"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "reactions": [
+        {
+          "name": "eyes",
+          "users": [
+            "yozigen"
+          ],
+          "count": 1
+        }
+      ]
+    },
+    {
+      "client_msg_id": "bd788ef0-ec02-4490-a872-cc79a952fc44",
+      "type": "message",
+      "text": "昔 arch で dhcpcd 使ってましたね",
+      "user": "raa0121",
+      "ts": "1635608659.115200",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "PRcqu",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "昔 arch で dhcpcd 使ってましたね"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "reactions": [
+        {
+          "name": "me-too",
+          "users": [
+            "znmxodq1",
+            "a3784197",
+            "nyaarch64",
+            "U5W6QDSHZ"
+          ],
+          "count": 4
+        }
+      ]
+    },
+    {
+      "client_msg_id": "0d9dd933-c880-49a8-8835-a07e0f587034",
+      "type": "message",
+      "text": "入ってはいるんだ",
+      "user": "znmxodq1",
+      "ts": "1635607714.114800",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "MQlu",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "入ってはいるんだ"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "e7d840ff-c3d7-4887-b860-5ace0ca85a31",
+      "type": "message",
+      "text": "あれ？\n<https://gitlab.archlinux.org/archlinux/archiso/-/blob/master/configs/releng/packages.x86_64|https://gitlab.archlinux.org/archlinux/archiso/-/blob/master/configs/releng/packages.x86_64>\ndhcpcd入ってる気がしますね 入れるか……",
+      "user": "nyaarch64",
+      "ts": "1635598907.114200",
+      "team": "T0GFBAM8C",
+      "attachments": [
+        {
+          "service_name": "GitLab",
+          "title": "configs/releng/packages.x86_64 · master · Arch Linux / archiso",
+          "title_link": "https://gitlab.archlinux.org/archlinux/archiso/-/blob/master/configs/releng/packages.x86_64",
+          "text": "Official archiso scripts Repository",
+          "fallback": "GitLab: configs/releng/packages.x86_64 · master · Arch Linux / archiso",
+          "thumb_url": "https://gitlab.archlinux.org/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png",
+          "from_url": "https://gitlab.archlinux.org/archlinux/archiso/-/blob/master/configs/releng/packages.x86_64",
+          "thumb_width": 128,
+          "thumb_height": 128,
+          "service_icon": "https://gitlab.archlinux.org/assets/touch-icon-iphone-5a9cee0e8a51212e70b90c87c12f382c428870c0ff67d1eb034d884b78d2dae7.png",
+          "id": 1,
+          "original_url": "https://gitlab.archlinux.org/archlinux/archiso/-/blob/master/configs/releng/packages.x86_64"
+        }
+      ],
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "77ASd",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "あれ？\n"
+                },
+                {
+                  "type": "link",
+                  "url": "https://gitlab.archlinux.org/archlinux/archiso/-/blob/master/configs/releng/packages.x86_64",
+                  "text": "https://gitlab.archlinux.org/archlinux/archiso/-/blob/master/configs/releng/packages.x86_64"
+                },
+                {
+                  "type": "text",
+                  "text": "\ndhcpcd入ってる気がしますね 入れるか……"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "63ba27b2-dac8-49cc-8c80-1d45a921601d",
+      "type": "message",
+      "text": "```ClientIdentifier=mac```\nかな。",
+      "user": "addokoda",
+      "ts": "1635554497.112900",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "Y60",
+          "elements": [
+            {
+              "type": "rich_text_preformatted",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "ClientIdentifier=mac"
+                }
+              ]
+            },
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "かな。"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "f23a6e8e-0118-4af3-9b19-f3b7d92024bb",
+      "type": "message",
+      "text": "こういうのも。<https://askubuntu.com/questions/1139012/18-04-server-systemd-dhcp-hangs-on-discover-dhclient-works/1186626#1186626>",
+      "user": "addokoda",
+      "ts": "1635554440.112000",
+      "team": "T0GFBAM8C",
+      "attachments": [
+        {
+          "service_name": "Ask Ubuntu",
+          "title": "18.04 Server Systemd DHCP hangs on DISCOVER, dhclient works",
+          "title_link": "https://askubuntu.com/questions/1139012/18-04-server-systemd-dhcp-hangs-on-discover-dhclient-works/1186626#1186626",
+          "text": "Just installed ubuntu server 18.04. I am unable to get a dhcp lease using systemd-networkd, but using dhclient works fine. With SYSTEMD_LOG_LEVEL=debug I get: $ journalctl ... Apr 29 10:14:09 com...",
+          "fallback": "Ask Ubuntu: 18.04 Server Systemd DHCP hangs on DISCOVER, dhclient works",
+          "thumb_url": "https://cdn.sstatic.net/Sites/askubuntu/Img/apple-touch-icon@2.png?v=c492c9229955",
+          "from_url": "https://askubuntu.com/questions/1139012/18-04-server-systemd-dhcp-hangs-on-discover-dhclient-works/1186626#1186626",
+          "thumb_width": 316,
+          "thumb_height": 316,
+          "service_icon": "https://cdn.sstatic.net/Sites/askubuntu/Img/apple-touch-icon.png?v=e16e1315edd6",
+          "id": 1,
+          "original_url": "https://askubuntu.com/questions/1139012/18-04-server-systemd-dhcp-hangs-on-discover-dhclient-works/1186626#1186626"
+        }
+      ],
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "qbUw",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "こういうのも。"
+                },
+                {
+                  "type": "link",
+                  "url": "https://askubuntu.com/questions/1139012/18-04-server-systemd-dhcp-hangs-on-discover-dhclient-works/1186626#1186626"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "dfaf8592-a0c7-4417-b8ba-731759da8f4f",
+      "type": "message",
+      "text": "こんな事例があるようで、つながらないことがありました。ただ、今回のipv4が得られてないので関係ないか\n<https://bbs.archlinux.jp/viewtopic.php?id=36>",
+      "user": "syui",
+      "ts": "1635553623.111500",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "ftX",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "こんな事例があるようで、つながらないことがありました。ただ、今回のipv4が得られてないので関係ないか\n"
+                },
+                {
+                  "type": "link",
+                  "url": "https://bbs.archlinux.jp/viewtopic.php?id=36"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "1a8a8432-2578-4491-b910-812c41ff63e7",
+      "type": "message",
+      "text": "ああそうか",
+      "user": "syui",
+      "ts": "1635553505.110500",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "Ikk/",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "ああそうか"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "955ee7e4-8cfc-4cb7-9028-442a1a636b48",
+      "type": "message",
+      "text": "アドレス取れてないのに、netmask とは？",
+      "user": "addokoda",
+      "ts": "1635553389.110300",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "2gGYI",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "アドレス取れてないのに、netmask とは？"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "316d48d9-1aa2-4e5f-940b-dce10d857917",
+      "type": "message",
+      "text": "net-tools",
+      "user": "syui",
+      "ts": "1635553360.110000",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "n9R",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "net-tools"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "f0836979-85fb-41c7-a3d4-bab0b9e75775",
+      "type": "message",
+      "text": "ifconfigとか入れてます?入れてるならnetmaskを確認してみるといいかも",
+      "user": "syui",
+      "ts": "1635553334.109600",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "WZZk",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "ifconfigとか入れてます?入れてるならnetmaskを確認してみるといいかも"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "7f3bc236-2895-433f-a37c-b434c7f25c7a",
+      "type": "message",
+      "text": "CIDRだと/24ですね(ipコマンドではそもそも表示されないので確認できないですが",
+      "user": "nyaarch64",
+      "ts": "1635552974.109000",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "jXqUi",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "CIDRだと/24ですね(ipコマンドではそもそも表示されないので確認できないですが"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "72bce2dd-a5ce-48f2-b46a-be6c9aa641cc",
+      "type": "message",
+      "text": "archiso、だいぶ前にnetworkdに移行してますね(Wiki更新しなくては…)",
+      "user": "znmxodq1",
+      "ts": "1635551290.108500",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "KWV/",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "archiso、だいぶ前にnetworkdに移行してますね(Wiki更新しなくては…)"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "reactions": [
+        {
+          "name": "crying_cat_face",
+          "users": [
+            "nyaarch64",
+            "a3784197",
+            "yozigen"
+          ],
+          "count": 3
+        }
+      ]
+    },
+    {
+      "client_msg_id": "09158654-428E-401F-9D38-672B65E13307",
+      "type": "message",
+      "text": "サブネットマスクを確認してみるのどうでしょう",
+      "user": "syui",
+      "ts": "1635532381.107200",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "GufX7",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "サブネットマスクを確認してみるのどうでしょう"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "c5ba654c-2dd5-4d31-9333-323b681530b3",
+      "type": "message",
+      "text": "この記述によるとライブシステムでは dhcpcd 使ってるようです\nsystemd-networkd との違いが何か関係してるんですかね\n• <https://wiki.archlinux.jp/index.php/%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E8%A8%AD%E5%AE%9A#IP_.E3.82.A2.E3.83.89.E3.83.AC.E3.82.B9.E3.81.AE.E8.A8.AD.E5.AE.9A|https://wiki.archlinux.jp/index.php/%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E8%A8%AD%E5%AE%9A#IP_.E3.82.A2.E3.83[…].E8.A8.AD.E5.AE.9A>\n• <https://wiki.archlinux.jp/index.php/Systemd-networkd#.E6.9C.89.E7.B7.9A.E3.82.A2.E3.83.80.E3.83.97.E3.82.BF.E3.81.A7_DHCP_.E3.82.92.E4.BD.BF.E7.94.A8|https://wiki.archlinux.jp/index.php/Systemd-networkd#.E6.9C.89.E7.B7.9A.E3.82.A2.E3.83.80.E3.83.97.[…]2.BF.E3.81.A7_DHCP_.E3.82.92.E4.BD.BF.E7.94.A8>",
+      "user": "yozigen",
+      "ts": "1635520288.103000",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "8NQbP",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "この記述によるとライブシステムでは dhcpcd 使ってるようです\nsystemd-networkd との違いが何か関係してるんですかね\n"
+                }
+              ]
+            },
+            {
+              "type": "rich_text_list",
+              "elements": [
+                {
+                  "type": "rich_text_section",
+                  "elements": [
+                    {
+                      "type": "link",
+                      "url": "https://wiki.archlinux.jp/index.php/%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E8%A8%AD%E5%AE%9A#IP_.E3.82.A2.E3.83.89.E3.83.AC.E3.82.B9.E3.81.AE.E8.A8.AD.E5.AE.9A",
+                      "text": "https://wiki.archlinux.jp/index.php/%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E8%A8%AD%E5%AE%9A#IP_.E3.82.A2.E3.83[…].E8.A8.AD.E5.AE.9A"
+                    }
+                  ]
+                },
+                {
+                  "type": "rich_text_section",
+                  "elements": [
+                    {
+                      "type": "link",
+                      "url": "https://wiki.archlinux.jp/index.php/Systemd-networkd#.E6.9C.89.E7.B7.9A.E3.82.A2.E3.83.80.E3.83.97.E3.82.BF.E3.81.A7_DHCP_.E3.82.92.E4.BD.BF.E7.94.A8",
+                      "text": "https://wiki.archlinux.jp/index.php/Systemd-networkd#.E6.9C.89.E7.B7.9A.E3.82.A2.E3.83.80.E3.83.97.[…]2.BF.E3.81.A7_DHCP_.E3.82.92.E4.BD.BF.E7.94.A8"
+                    }
+                  ]
+                }
+              ],
+              "style": "bullet",
+              "indent": 0,
+              "border": 0
+            }
+          ]
+        }
+      ],
+      "reactions": [
+        {
+          "name": "eyes",
+          "users": [
+            "nyaarch64"
+          ],
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "message",
+      "text": "resolved は DNS なので DHCP 関係ないですね",
+      "user": "odknt",
+      "ts": "1635517317.099600",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "UMjOw",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "resolved は DNS なので DHCP 関係ないですね"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "reactions": [
+        {
+          "name": "pray",
+          "users": [
+            "yozigen"
+          ],
+          "count": 1
+        }
+      ]
+    },
+    {
+      "client_msg_id": "93680828-0b16-481e-8e5c-151f1b8a3609",
+      "type": "message",
+      "text": "ネットワークはむずかしい",
+      "user": "yozigen",
+      "ts": "1635517230.098600",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "GN10",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "ネットワークはむずかしい"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "02da35c3-9f87-4892-a301-70ddab4bda8f",
+      "type": "message",
+      "text": "systemd-resolved を有効にしないとDHCP効かないんじゃないかとなんとなく思ってましたがそうでもないんですか",
+      "user": "yozigen",
+      "ts": "1635516849.098400",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "Gc83/",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "systemd-resolved を有効にしないとDHCP効かないんじゃないかとなんとなく思ってましたがそうでもないんですか"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "0fb492ec-74be-485b-aae6-7f4cacfd77a1",
+      "type": "message",
+      "text": "resolvedは、ネットワーク接続時にはenableするの忘れてたので同じタイミングのログはないですね……(リゾルバないからv4アドレス降ってこないとかないですよね……",
+      "user": "nyaarch64",
+      "ts": "1635516615.097100",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "dGE",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "resolvedは、ネットワーク接続時にはenableするの忘れてたので同じタイミングのログはないですね……(リゾルバないからv4アドレス降ってこないとかないですよね……"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "49c17e7f-5457-4552-b876-2ba6cb3787f1",
+      "type": "message",
+      "text": "```● systemd-networkd.service - Network Configuration\n     Loaded: loaded (/usr/lib/systemd/system/systemd-networkd.service; enabled; vendor preset: enabled)\n     Active: active (running) since Fri 2021-10-29 19:00:31 JST; 4h 6min ago\nTriggeredBy: ● systemd-networkd.socket\n       Docs: man:systemd-networkd.service(8)\n   Main PID: 250 (systemd-network)\n     Status: \"Processing requests...\"\n      Tasks: 1 (limit: 19037)\n     Memory: 2.6M\n        CPU: 59ms\n     CGroup: /system.slice/systemd-networkd.service\n             └─250 /usr/lib/systemd/systemd-networkd\n\nOct 29 19:00:31 hostname systemd[1]: Starting Network Configuration...\nOct 29 19:00:31 hostname systemd-networkd[250]: lo: Link UP\nOct 29 19:00:31 hostname systemd-networkd[250]: lo: Gained carrier\nOct 29 19:00:31 hostname systemd-networkd[250]: Enumeration completed\nOct 29 19:00:31 hostname systemd[1]: Started Network Configuration.\nOct 29 19:00:31 hostname systemd-networkd[250]: eth0: Interface name change detected, renamed to enp2s0.\nOct 29 19:01:23 hostname systemd-networkd[250]: enp2s0: Link UP\nOct 29 19:01:33 hostname systemd-networkd[250]: enp2s0: Gained carrier\nOct 29 19:01:35 hostname systemd-networkd[250]: enp2s0: Gained IPv6LL```\nこんな感じですね(journalctlで確認しましたが、boot後のログ全て↑に出ています",
+      "user": "nyaarch64",
+      "ts": "1635516509.096200",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "agaUV",
+          "elements": [
+            {
+              "type": "rich_text_preformatted",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "● systemd-networkd.service - Network Configuration\n     Loaded: loaded (/usr/lib/systemd/system/systemd-networkd.service; enabled; vendor preset: enabled)\n     Active: active (running) since Fri 2021-10-29 19:00:31 JST; 4h 6min ago\nTriggeredBy: ● systemd-networkd.socket\n       Docs: man:systemd-networkd.service(8)\n   Main PID: 250 (systemd-network)\n     Status: \"Processing requests...\"\n      Tasks: 1 (limit: 19037)\n     Memory: 2.6M\n        CPU: 59ms\n     CGroup: /system.slice/systemd-networkd.service\n             └─250 /usr/lib/systemd/systemd-networkd\n\nOct 29 19:00:31 hostname systemd[1]: Starting Network Configuration...\nOct 29 19:00:31 hostname systemd-networkd[250]: lo: Link UP\nOct 29 19:00:31 hostname systemd-networkd[250]: lo: Gained carrier\nOct 29 19:00:31 hostname systemd-networkd[250]: Enumeration completed\nOct 29 19:00:31 hostname systemd[1]: Started Network Configuration.\nOct 29 19:00:31 hostname systemd-networkd[250]: eth0: Interface name change detected, renamed to enp2s0.\nOct 29 19:01:23 hostname systemd-networkd[250]: enp2s0: Link UP\nOct 29 19:01:33 hostname systemd-networkd[250]: enp2s0: Gained carrier\nOct 29 19:01:35 hostname systemd-networkd[250]: enp2s0: Gained IPv6LL"
+                }
+              ]
+            },
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "こんな感じですね(journalctlで確認しましたが、boot後のログ全て↑に出ています"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "59b666c0-5358-4794-be37-24d7f97ee28b",
+      "type": "message",
+      "text": "systemd-resolved も",
+      "user": "yozigen",
+      "ts": "1635516422.095500",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "zXiUv",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "systemd-resolved も"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "message",
+      "text": "そういう状況なら systemd-networkd のログに何かでてそうな気もする",
+      "user": "odknt",
+      "ts": "1635515935.094900",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "cZQV=",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "そういう状況なら systemd-networkd のログに何かでてそうな気もする"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "reactions": [
+        {
+          "name": "eyes",
+          "users": [
+            "nyaarch64"
+          ],
+          "count": 1
+        }
+      ]
+    },
+    {
+      "client_msg_id": "a0c2af12-49c6-47e1-a9e9-7b3f3197e5a1",
+      "type": "message",
+      "text": "tcpdump してみたい。",
+      "user": "addokoda",
+      "ts": "1635514769.092600",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "cEF",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "tcpdump してみたい。"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "49e13470-6e9b-49ed-84ee-5abc982fcefb",
+      "type": "message",
+      "text": "何か変わったんですかね。ライブシステムけっこう充実してるからインストール直後と落差ありますね",
+      "user": "yozigen",
+      "ts": "1635514760.092400",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "rt5sp",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "何か変わったんですかね。ライブシステムけっこう充実してるからインストール直後と落差ありますね"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "17aa1579-7285-482d-9606-96ebdc36799b",
+      "type": "message",
+      "text": "DHCPv4にRouteMetric指定されてたけどこれは認識のためのオプションではなさそう",
+      "user": "znmxodq1",
+      "ts": "1635514626.091700",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "=EZy",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "DHCPv4にRouteMetric指定されてたけどこれは認識のためのオプションではなさそう"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "f6a10145-48e9-4494-b01c-8331e9739ecb",
+      "type": "message",
+      "text": "あと、起動直後にNICがdownになっているという問題も……\n# ip l set dev enpxxx up\nすれば使えるので許せるのですが、(Archで遭遇したことはないものの)Linuxではありがちっぽい問題っぽいなーと思って後で調べようと思っています",
+      "user": "nyaarch64",
+      "ts": "1635514449.089700",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "aFox",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "あと、起動直後にNICがdownになっているという問題も……\n# ip l set dev enpxxx up\nすれば使えるので許せるのですが、(Archで遭遇したことはないものの)Linuxではありがちっぽい問題っぽいなーと思って後で調べようと思っています"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "ae6917e7-4059-476f-8fc6-4b35afd82ba3",
+      "type": "message",
+      "text": "relengの中身見てもyesだな、なんだろう",
+      "user": "znmxodq1",
+      "ts": "1635514435.089100",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "7VUR",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "relengの中身見てもyesだな、なんだろう"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "0151e30a-5def-49b6-8b69-30e91f626aa9",
+      "type": "message",
+      "text": "ライブシステムでv4あったなら不審ですねえ",
+      "user": "yozigen",
+      "ts": "1635514340.084800",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "3byq",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "ライブシステムでv4あったなら不審ですねえ"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "25d06f43-4fdd-4fc7-853d-9c2adc6c2699",
+      "type": "message",
+      "text": "インストールしたシステムではDHCP=yesでもipv4でもv6だけ降ってくるって感じでした\nライブシステムではv4ちゃんと降ってきてました",
+      "user": "nyaarch64",
+      "ts": "1635514174.082700",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "v2a",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "インストールしたシステムではDHCP=yesでもipv4でもv6だけ降ってくるって感じでした\nライブシステムではv4ちゃんと降ってきてました"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "3caec554-fcf6-4dcc-9870-f8fc0021f3b3",
+      "type": "message",
+      "text": "ルーター設定保存した上でリセットして直ればそのあたりかもしれません",
+      "user": "yozigen",
+      "ts": "1635514137.081500",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "SOj",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "ルーター設定保存した上でリセットして直ればそのあたりかもしれません"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "b7abb744-4231-4f15-8747-018b51b3d086",
+      "type": "message",
+      "text": "ネットワークうまく行かない時はけっこうラビリンスになりますね\n私もそれなってさんざんいじってもうまくいかなくて最後はルーター起因（DHCP開始アドレスよりNIC指定振り分け設定したIPが小さかった）だった気がします",
+      "user": "yozigen",
+      "ts": "1635514068.080500",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "9eU",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "ネットワークうまく行かない時はけっこうラビリンスになりますね\n私もそれなってさんざんいじってもうまくいかなくて最後はルーター起因（DHCP開始アドレスよりNIC指定振り分け設定したIPが小さかった）だった気がします"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "8e4963a7-faa5-4503-a6cb-1339f0755b16",
+      "type": "message",
+      "text": "DHCPにipv4を指定すると死ぬって感じですよね？",
+      "user": "znmxodq1",
+      "ts": "1635513804.080100",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "05u",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "DHCPにipv4を指定すると死ぬって感じですよね？"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "3f96fc88-c5b2-4134-b8dc-f5e1f22c442e",
+      "type": "message",
+      "text": "ざっとWiki見たけどそれらしき記述はないな",
+      "user": "znmxodq1",
+      "ts": "1635513780.079300",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "uzEH",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "ざっとWiki見たけどそれらしき記述はないな"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "97aa8370-418e-4c1b-afca-ebfea2a4b812",
+      "type": "message",
+      "text": "RPiを使うときにRaspberryPi OSを使うのと同じような感じだと思っています(許容はできるけど避けられるなら避けたい)",
+      "user": "nyaarch64",
+      "ts": "1635513482.078800",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "GWt0",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "RPiを使うときにRaspberryPi OSを使うのと同じような感じだと思っています(許容はできるけど避けられるなら避けたい)"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "reactions": [
+        {
+          "name": "naruhodo",
+          "users": [
+            "znmxodq1",
+            "a3784197"
+          ],
+          "count": 2
+        }
+      ]
+    },
+    {
+      "client_msg_id": "988f555c-c1e2-40de-b226-3b805d34222f",
+      "type": "message",
+      "text": "私はズルをしてしまった…",
+      "user": "znmxodq1",
+      "ts": "1635513279.077900",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "g=ft7",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "私はズルをしてしまった…"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "reactions": [
+        {
+          "name": "crying_cat_face",
+          "users": [
+            "nyaarch64",
+            "a3784197"
+          ],
+          "count": 2
+        }
+      ]
+    },
+    {
+      "client_msg_id": "135ae4ec-b2b0-49ce-8159-528b67301789",
+      "type": "message",
+      "text": "たしかに",
+      "user": "znmxodq1",
+      "ts": "1635513269.077500",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "tjJx",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "たしかに"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "f27e71d2-d3f0-483d-9e8a-37d1b4bafb02",
+      "type": "message",
+      "text": "archisoではちゃんと動いていたのでarchisoの環境をそのままコピーすればいいはそう……でもArch wayではない……",
+      "user": "nyaarch64",
+      "ts": "1635513087.077300",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "9hK0C",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "archisoではちゃんと動いていたのでarchisoの環境をそのままコピーすればいいはそう……でもArch wayではない……"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "6aad7498-7d72-4798-8791-08a620c034dc",
+      "type": "message",
+      "text": "systemd-networkdはだいぶ前にarchisoの真似をしてなんとか優勝した記憶がある",
+      "user": "znmxodq1",
+      "ts": "1635513029.076600",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "b1n",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "systemd-networkdはだいぶ前にarchisoの真似をしてなんとか優勝した記憶がある"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "69066b03-d14d-478f-bc37-ec45fffb2f74",
+      "type": "message",
+      "text": "ネットワーク、一度ハマると無限につらい印象がある",
+      "user": "znmxodq1",
+      "ts": "1635512999.075700",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "V3cM",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "ネットワーク、一度ハマると無限につらい印象がある"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "01936951-c2f2-4565-bbf3-7f4aa3b99c1a",
+      "type": "message",
+      "text": "久しぶりにArchInstallBattleをしたら、systemd-networkdでDHCPの設定をしたはずなのにv4アドレスが降ってこなくて途方に暮れていました(v6はちゃんと降ってくる……)",
+      "user": "nyaarch64",
+      "ts": "1635510533.071600",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "kleZ",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "久しぶりにArchInstallBattleをしたら、systemd-networkdでDHCPの設定をしたはずなのにv4アドレスが降ってこなくて途方に暮れていました(v6はちゃんと降ってくる……)"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "reactions": [
+        {
+          "name": "totemoturai",
+          "users": [
+            "znmxodq1",
+            "a3784197",
+            "U017BNGTHT3"
+          ],
+          "count": 3
+        }
+      ]
+    },
+    {
+      "client_msg_id": "d80896af-273c-4e17-b890-db508d12a5b4",
+      "type": "message",
+      "text": "こんなのもあつた\n<https://gitlab.freedesktop.org/pipewire/pipewire/-/issues/1370|https://gitlab.freedesktop.org/pipewire/pipewire/-/issues/1370>",
+      "user": "getalotofmail",
+      "ts": "1635510524.071300",
+      "team": "T0GFBAM8C",
+      "attachments": [
+        {
+          "service_name": "GitLab",
+          "title": "BLE Hearing Aid Support (LC3 codec?) (#1370) · Issues · PipeWire / pipewire",
+          "title_link": "https://gitlab.freedesktop.org/pipewire/pipewire/-/issues/1370",
+          "text": "Streaming audio from a Bluetooth source to a hearing aid is a feature incorporated by recent hearing aids. As miniaturized devices, they use BLE codecs. Some...",
+          "fallback": "GitLab: BLE Hearing Aid Support (LC3 codec?) (#1370) · Issues · PipeWire / pipewire",
+          "thumb_url": "https://gitlab.freedesktop.org/uploads/-/system/project/avatar/4753/1200px-Pipewire_logo.svg.png",
+          "fields": [
+            {
+              "title": "Author",
+              "value": "Nacho Vidal",
+              "short": true
+            }
+          ],
+          "from_url": "https://gitlab.freedesktop.org/pipewire/pipewire/-/issues/1370",
+          "thumb_width": 88,
+          "thumb_height": 72,
+          "service_icon": "https://gitlab.freedesktop.org/assets/touch-icon-iphone-5a9cee0e8a51212e70b90c87c12f382c428870c0ff67d1eb034d884b78d2dae7.png",
+          "id": 1,
+          "original_url": "https://gitlab.freedesktop.org/pipewire/pipewire/-/issues/1370"
+        }
+      ],
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "u7zc",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "こんなのもあつた\n"
+                },
+                {
+                  "type": "link",
+                  "url": "https://gitlab.freedesktop.org/pipewire/pipewire/-/issues/1370",
+                  "text": "https://gitlab.freedesktop.org/pipewire/pipewire/-/issues/1370"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "ab46c372-c8e9-4cda-9b00-2be2be597150",
+      "type": "message",
+      "text": "LC3コーデックがフリーじゃないらしいからしんどそう（pulseaudioではなくてpipewireのissueというので時代を感じてしまっている）\n<https://gitlab.freedesktop.org/pipewire/pipewire/-/issues/1211|https://gitlab.freedesktop.org/pipewire/pipewire/-/issues/1211>",
+      "user": "naokihirokitomoki",
+      "ts": "1635510156.070000",
+      "team": "T0GFBAM8C",
+      "attachments": [
+        {
+          "fallback": "GitLab: bluetooth LC3 codec support ? (#1211) · Issues · PipeWire / pipewire",
+          "from_url": "https://gitlab.freedesktop.org/pipewire/pipewire/-/issues/1211",
+          "service_name": "GitLab",
+          "service_icon": "https://gitlab.freedesktop.org/assets/touch-icon-iphone-5a9cee0e8a51212e70b90c87c12f382c428870c0ff67d1eb034d884b78d2dae7.png",
+          "title": "bluetooth LC3 codec support ? (#1211) · Issues · PipeWire / pipewire",
+          "title_link": "https://gitlab.freedesktop.org/pipewire/pipewire/-/issues/1211",
+          "thumb_url": "https://gitlab.freedesktop.org/uploads/-/system/project/avatar/4753/1200px-Pipewire_logo.svg.png",
+          "thumb_width": 88,
+          "thumb_height": 72,
+          "text": "BT 5.2 products are becoming available and it has a superior codec, LC3. Apparently Intel AX201 and friends supports BT 5.2 too, not sure if that is in...",
+          "fields": [
+            {
+              "title": "Author",
+              "value": "Joakim Tjernlund",
+              "short": true
+            }
+          ],
+          "id": 1,
+          "original_url": "https://gitlab.freedesktop.org/pipewire/pipewire/-/issues/1211"
+        }
+      ],
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "EJw",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "LC3コーデックがフリーじゃないらしいからしんどそう（pulseaudioではなくてpipewireのissueというので時代を感じてしまっている）\n"
+                },
+                {
+                  "type": "link",
+                  "url": "https://gitlab.freedesktop.org/pipewire/pipewire/-/issues/1211",
+                  "text": "https://gitlab.freedesktop.org/pipewire/pipewire/-/issues/1211"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "0985183e-c730-4acb-a878-4691002a3679",
+      "type": "message",
+      "text": "音質にこだわる派なので初めて知った:face_with_rolling_eyes: \nlc3コーデックの開発にfraunhoferという不穏な名前が入ってるからlinuxでは扱いにくいとかそんな事は無いか。",
+      "user": "naokihirokitomoki",
+      "ts": "1635499573.066200",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "lO0BK",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "音質にこだわる派なので初めて知った"
+                },
+                {
+                  "type": "emoji",
+                  "name": "face_with_rolling_eyes",
+                  "unicode": "1f644"
+                },
+                {
+                  "type": "text",
+                  "text": " \nlc3コーデックの開発にfraunhoferという不穏な名前が入ってるからlinuxでは扱いにくいとかそんな事は無いか。"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "add7446f-58ea-435f-82e3-11b403b038ee",
+      "type": "message",
+      "text": "<https://gigazine.net/news/20200108-bluetooth-le-audio/|https://gigazine.net/news/20200108-bluetooth-le-audio/>",
+      "user": "getalotofmail",
+      "ts": "1635499204.061900",
+      "team": "T0GFBAM8C",
+      "attachments": [
+        {
+          "service_name": "GIGAZINE",
+          "title": "Bluetoothの次世代音声規格「Bluetooth LE Audio」が発表される、低電力で高品質ながら複数機器での再生も可能に",
+          "title_link": "https://gigazine.net/news/20200108-bluetooth-le-audio/",
+          "text": "近距離無線通信規格のBluetoothを管理するBluetooth SIGが、オーディオ機器の接続通信規格であるBluetooth Audioの次世代規格として「Bluetooth LE Audio」を、世界最大級の技術見本市であるCES 2020で発表しました。",
+          "fallback": "GIGAZINE: Bluetoothの次世代音声規格「Bluetooth LE Audio」が発表される、低電力で高品質ながら複数機器での再生も可能に",
+          "image_url": "https://i.gzn.jp/img/2020/01/08/bluetooth-le-audio/00_m.jpg",
+          "from_url": "https://gigazine.net/news/20200108-bluetooth-le-audio/",
+          "image_width": 444,
+          "image_height": 250,
+          "image_bytes": 46104,
+          "service_icon": "https://gigazine.net/apple-touch-icon.png",
+          "id": 1,
+          "original_url": "https://gigazine.net/news/20200108-bluetooth-le-audio/"
+        }
+      ],
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "gLK3",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "link",
+                  "url": "https://gigazine.net/news/20200108-bluetooth-le-audio/",
+                  "text": "https://gigazine.net/news/20200108-bluetooth-le-audio/"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "2247bba9-965e-42b2-941a-7b4374aa2498",
+      "type": "message",
+      "text": "bluezってまだle audioサポートしてないのか\nつらい",
+      "user": "getalotofmail",
+      "ts": "1635498916.061700",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "bAoxq",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "bluezってまだle audioサポートしてないのか\nつらい"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "c41b5597-a5d4-467c-8b23-78bd24eb9a57",
+      "type": "message",
+      "text": "ありがとうございます",
+      "user": "getalotofmail",
+      "ts": "1635498879.060700",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "wUD",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "ありがとうございます"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "7ba34047-9bb6-413f-a4a2-cfc7506432ae",
+      "type": "message",
+      "text": "ShiftはHIDレベルで変わるからudevで弄れるとかでしたっけ",
+      "user": "tatsumigamou",
+      "ts": "1635394533.059500",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "yNJL",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "ShiftはHIDレベルで変わるからudevで弄れるとかでしたっけ"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "reactions": [
+        {
+          "name": "sorena",
+          "users": [
+            "yutakatay",
+            "U3FJYR7MG",
+            "getalotofmail"
+          ],
+          "count": 3
+        }
+      ]
+    },
+    {
+      "client_msg_id": "54b1693d-0f11-4f35-81b8-a5bb804d22b0",
+      "type": "message",
+      "text": "wayland、xkbは使ってるらしいけどそこでキーコード弄れるのかは分からない",
+      "user": "tatsumigamou",
+      "ts": "1635394487.058500",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "bDMb",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "wayland、xkbは使ってるらしいけどそこでキーコード弄れるのかは分からない"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "3825b298-6486-46f1-bbc0-1cf0536d03ec",
+      "type": "message",
+      "text": "Shiftはいけます。Ctrlとかは無理です。Ctrlとかのコンビネーションまで変更したいなら\n<https://github.com/snyball/Hawck>\nとか使うしかないです",
+      "user": "yutakatay",
+      "ts": "1635394396.057800",
+      "team": "T0GFBAM8C",
+      "attachments": [
+        {
+          "service_name": "GitHub",
+          "title": "GitHub - snyball/Hawck: Key-rebinding daemon for Linux (Wayland/X11/Console)",
+          "title_link": "https://github.com/snyball/Hawck",
+          "text": "Key-rebinding daemon for Linux (Wayland/X11/Console) - GitHub - snyball/Hawck: Key-rebinding daemon for Linux (Wayland/X11/Console)",
+          "fallback": "GitHub: GitHub - snyball/Hawck: Key-rebinding daemon for Linux (Wayland/X11/Console)",
+          "image_url": "https://opengraph.githubassets.com/f30eeeaa430d7c4fbf0683bfe776d292448f86368b4a091e3ec3cd18ff7fc5db/snyball/Hawck",
+          "image_width": 500,
+          "image_height": 250,
+          "from_url": "https://github.com/snyball/Hawck",
+          "image_bytes": 122433,
+          "service_icon": "https://a.slack-edge.com/80588/img/unfurl_icons/github.png",
+          "id": 1,
+          "original_url": "https://github.com/snyball/Hawck"
+        }
+      ],
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "6iI=",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "Shiftはいけます。Ctrlとかは無理です。Ctrlとかのコンビネーションまで変更したいなら\n"
+                },
+                {
+                  "type": "link",
+                  "url": "https://github.com/snyball/Hawck"
+                },
+                {
+                  "type": "text",
+                  "text": "\nとか使うしかないです"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "b8418577-6fa2-4998-8d76-9810fa578434",
+      "type": "message",
+      "text": "現時点では\n(KEY_RO)だとバックスラッシュ\n(Shift-KEY_RO)だとアンダーバーになるようになっています\nudevで2つのキーの組み合わせを1つのキーに割り当てることはできますか?",
+      "user": "getalotofmail",
+      "ts": "1635384039.056700",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "j/7O",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "現時点では\n(KEY_RO)だとバックスラッシュ\n(Shift-KEY_RO)だとアンダーバーになるようになっています\nudevで2つのキーの組み合わせを1つのキーに割り当てることはできますか?"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "311ecd55-b27c-4b89-a53a-97e96a10c223",
+      "type": "message",
+      "text": "udevのhwdbで変更できるのでそれを使うのがいいと思われます（単純なキーの入れ替えだけなら）",
+      "user": "yutakatay",
+      "ts": "1635381932.050900",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "Pzbht",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "udevのhwdbで変更できるのでそれを使うのがいいと思われます（単純なキーの入れ替えだけなら）"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "fa1b6958-4cb5-47b2-938c-52133e765430",
+      "type": "message",
+      "text": "Waylandでkey symを変えたいのですがどうすればいいのでしょうか?\nkey codeがKEY_ROとなっているキーを押すとバックスラッシュが入力されるのですがこれをアンダーバーに変えたいのです",
+      "user": "getalotofmail",
+      "ts": "1635380914.049700",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "txV",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "Waylandでkey symを変えたいのですがどうすればいいのでしょうか?\nkey codeがKEY_ROとなっているキーを押すとバックスラッシュが入力されるのですがこれをアンダーバーに変えたいのです"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "message",
+      "subtype": "channel_join",
+      "ts": "1635357504.045900",
+      "user": "jandp.0717",
+      "text": "<@jandp.0717>さんがチャンネルに参加しました"
+    },
+    {
+      "client_msg_id": "213ae8cb-5bbe-4d75-ba52-8352abc306c1",
+      "type": "message",
+      "text": "アッコちゃんわからなかった…",
+      "user": "claude0803sz",
+      "ts": "1635316314.045400",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "5X5N+",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "アッコちゃんわからなかった…"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "d717afe1-1693-4364-86d9-8206bcb0afd0",
+      "type": "message",
+      "text": "~ミラーにつなぎに行くたびに、感謝の気持を込めて、脳内でラミパスラミパスルルルルルーと唱えましょう~",
+      "user": "raa0121",
+      "ts": "1635312793.044700",
+      "team": "T0GFBAM8C",
+      "edited": {
+        "user": "raa0121",
+        "ts": "1635312844.000000"
+      },
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "4tPf8",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "ミラーにつなぎに行くたびに、感謝の気持を込めて、脳内でラミパスラミパスルルルルルーと唱えましょう",
+                  "style": {
+                    "strike": true
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "96b9c9b2-8611-434a-82b6-4e364e796948",
+      "type": "message",
+      "text": "ミラーしている組織などに寄付などをせずに誰でも使えるようになっているのは本当凄い事です",
+      "user": "naokihirokitomoki",
+      "ts": "1635312784.044500",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "4iG23",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "ミラーしている組織などに寄付などをせずに誰でも使えるようになっているのは本当凄い事です"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "846c10f1-cfc1-4b39-9c20-19b81c2ffe91",
+      "type": "message",
+      "text": "ミラーしてくださってる方々にも感謝を伝えたい。",
+      "user": "h.hata.ai.t",
+      "ts": "1635312483.041300",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "jFl",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "ミラーしてくださってる方々にも感謝を伝えたい。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "reactions": [
+        {
+          "name": "wakaru",
+          "users": [
+            "naokihirokitomoki",
+            "kocumaza--",
+            "U53RAQBCP",
+            "claude0803sz",
+            "znmxodq1",
+            "yozigen",
+            "a3784197",
+            "U0H9QUFA5"
+          ],
+          "count": 8
+        }
+      ]
+    },
+    {
+      "client_msg_id": "9b980c25-6c0e-4a71-b649-f3a356288bb4",
+      "type": "message",
+      "text": "メールしてくださった方感謝です。",
+      "user": "kocumaza--",
+      "ts": "1635309622.040600",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "pXPr",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "メールしてくださった方感謝です。"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "6352613F-B052-479B-9AEA-11B97D7298B6",
+      "type": "message",
+      "text": "よかった",
+      "user": "syui",
+      "ts": "1635306809.040100",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "qCP",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "よかった"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "ab32a644-3aa4-49a7-92b8-af67d9e0875f",
+      "type": "message",
+      "text": "つくば直っているようです",
+      "user": "getalotofmail",
+      "ts": "1635305246.039800",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "tKw",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "つくば直っているようです"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "reactions": [
+        {
+          "name": "goodpoem",
+          "users": [
+            "znmxodq1",
+            "tatsumigamou",
+            "U53RAQBCP",
+            "kocumaza--",
+            "yozigen",
+            "a3784197",
+            "U0H9QUFA5"
+          ],
+          "count": 7
+        }
+      ]
+    },
+    {
+      "client_msg_id": "b4d52664-35b0-4a16-9620-1f4ab979df1e",
+      "type": "message",
+      "text": "もともと筑波のメンテナンスそんな間に合ってないイメージがあるのでまあ……",
+      "user": "tatsumigamou",
+      "ts": "1635172892.038100",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "=tAZ",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "もともと筑波のメンテナンスそんな間に合ってないイメージがあるのでまあ……"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "b7556787-2ce0-4bb8-9006-bdceefb116fa",
+      "type": "message",
+      "text": "つくば、下記と同じような時間に私もメールしたけど反映されてない?\n<https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1635075064027200|https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1635075064027200>",
+      "user": "getalotofmail",
+      "ts": "1635161824.037200",
+      "team": "T0GFBAM8C",
+      "attachments": [
+        {
+          "from_url": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1635075064027200",
+          "fallback": "[October 24th, 2021 4:31 AM] tatsumigamou: とりあえずメール送っておいた",
+          "ts": "1635075064.027200",
+          "author_id": "tatsumigamou",
+          "author_subname": "Tatsumi",
+          "channel_team": "T0GFBAM8C",
+          "channel_id": "C0GFH3RHU",
+          "channel_name": "random",
+          "is_msg_unfurl": true,
+          "text": "とりあえずメール送っておいた",
+          "message_blocks": [
+            {
+              "team": "T0GFBAM8C",
+              "channel": "C0GFH3RHU",
+              "ts": "1635075064.027200",
+              "message": {
+                "blocks": [
+                  {
+                    "type": "rich_text",
+                    "block_id": "6DIr6",
+                    "elements": [
+                      {
+                        "type": "rich_text_section",
+                        "elements": [
+                          {
+                            "type": "text",
+                            "text": "とりあえずメール送っておいた"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            }
+          ],
+          "author_name": "Tatsumi",
+          "author_link": "https://archlinuxjp.slack.com/team/tatsumigamou",
+          "author_icon": "https://avatars.slack-edge.com/2020-03-12/985313571153_203fee630d3a4a1053a1_48.jpg",
+          "mrkdwn_in": [
+            "text"
+          ],
+          "id": 1,
+          "original_url": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1635075064027200",
+          "footer": "#random に投稿"
+        }
+      ],
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "qWSE",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "つくば、下記と同じような時間に私もメールしたけど反映されてない?\n"
+                },
+                {
+                  "type": "link",
+                  "url": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1635075064027200",
+                  "text": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1635075064027200"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "a955515f-e815-4d87-ad3d-84fed9962ad6",
+      "type": "message",
+      "text": "筑波の方、ちょっと雑に送りすぎたかもなのでもうしばらくして更新されてなかったらどなたかもう一度依頼していただけないでしょうか",
+      "user": "tatsumigamou",
+      "ts": "1635131397.033400",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "DeIE",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "筑波の方、ちょっと雑に送りすぎたかもなのでもうしばらくして更新されてなかったらどなたかもう一度依頼していただけないでしょうか"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "16601ab5-450a-4206-8ed1-3fe8a3f3c9f6",
+      "type": "message",
+      "text": "mirrors.cat.net更新されてました\nありがとうございます",
+      "user": "a3784197",
+      "ts": "1635131235.032200",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "nkx",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "mirrors.cat.net更新されてました\nありがとうございます"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "a5cdb4a0-516d-49ad-8dd6-4a122f00e278",
+      "type": "message",
+      "text": "cat.netにメールしておきました",
+      "user": "getalotofmail",
+      "ts": "1635079887.030200",
+      "team": "T0GFBAM8C",
+      "edited": {
+        "user": "getalotofmail",
+        "ts": "1635080054.000000"
+      },
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "sSGa",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "cat.netにメールしておきました"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "reactions": [
+        {
+          "name": "+1",
+          "users": [
+            "znmxodq1",
+            "syui",
+            "U02BLTTQEL9",
+            "naokihirokitomoki",
+            "yozigen",
+            "U6DL9D3AB",
+            "a3784197",
+            "kocumaza--"
+          ],
+          "count": 8
+        }
+      ]
+    },
+    {
+      "client_msg_id": "b407cc8e-e3ea-4253-b519-a2d688df3ccc",
+      "type": "message",
+      "text": "こちらもメールっぽい\n<https://cat.net>",
+      "user": "znmxodq1",
+      "ts": "1635079339.029800",
+      "team": "T0GFBAM8C",
+      "attachments": [
+        {
+          "title": "Cat Networks - One-stop hosting solutions in Japan",
+          "title_link": "https://cat.net/",
+          "text": "Cat Networks K.K. is a registered, incorporated company located in Osaka, Japan.Committed to providing excellent web services designed to be simple and efficient.",
+          "fallback": "Cat Networks - One-stop hosting solutions in Japan",
+          "from_url": "https://cat.net/",
+          "service_icon": "https://cat.net/favicon.ico",
+          "service_name": "cat.net",
+          "id": 1,
+          "original_url": "https://cat.net"
+        }
+      ],
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "XGo",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "こちらもメールっぽい\n"
+                },
+                {
+                  "type": "link",
+                  "url": "https://cat.net"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "09e5376a-c34e-406a-8e09-4d48d4f82f26",
+      "type": "message",
+      "text": "<https://twitter.com/kfujieda/status/1452237425959321601?t=mjdUnVng7Ap558X5-dx1Jg&amp;s=19|https://twitter.com/kfujieda/status/1452237425959321601?t=mjdUnVng7Ap558X5-dx1Jg&amp;s=19>",
+      "user": "getalotofmail",
+      "ts": "1635079212.029400",
+      "team": "T0GFBAM8C",
+      "attachments": [
+        {
+          "fallback": "<https://twitter.com/kfujieda|@kfujieda>: ftp.jaistのArchLinuxのミラーが10月21日から止まったの直した。ミラー元のTier 1ミラーのleaseweb\\.netの更新が止まっていたのでkernel\\.orgに切り替えた。",
+          "ts": 1635075358,
+          "author_name": "藤枝和宏",
+          "author_link": "https://twitter.com/kfujieda/status/1452237425959321601",
+          "author_icon": "https://pbs.twimg.com/profile_images/971221552778760192/E2ehuQ1y_normal.jpg",
+          "author_subname": "@kfujieda",
+          "text": "ftp.jaistのArchLinuxのミラーが10月21日から止まったの直した。ミラー元のTier 1ミラーのleaseweb\\.netの更新が止まっていたのでkernel\\.orgに切り替えた。",
+          "service_name": "twitter",
+          "service_url": "https://twitter.com/",
+          "from_url": "https://twitter.com/kfujieda/status/1452237425959321601?t=mjdUnVng7Ap558X5-dx1Jg&amp;s=19",
+          "id": 1,
+          "original_url": "https://twitter.com/kfujieda/status/1452237425959321601?t=mjdUnVng7Ap558X5-dx1Jg&amp;s=19",
+          "footer": "Twitter",
+          "footer_icon": "https://a.slack-edge.com/80588/img/services/twitter_pixel_snapped_32.png"
+        }
+      ],
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "/x8+",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "link",
+                  "url": "https://twitter.com/kfujieda/status/1452237425959321601?t=mjdUnVng7Ap558X5-dx1Jg&s=19",
+                  "text": "https://twitter.com/kfujieda/status/1452237425959321601?t=mjdUnVng7Ap558X5-dx1Jg&s=19"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "cbc38071-8211-44ce-84ba-71498218df80",
+      "type": "message",
+      "text": "cat.netはどこから連絡できる感じでしょうか?",
+      "user": "getalotofmail",
+      "ts": "1635079167.029200",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "LFoe",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "cat.netはどこから連絡できる感じでしょうか?"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "message",
+      "subtype": "channel_join",
+      "ts": "1635076927.028200",
+      "user": "osada.1040kou",
+      "text": "<@osada.1040kou>さんがチャンネルに参加しました"
+    },
+    {
+      "type": "message",
+      "subtype": "channel_join",
+      "ts": "1635075585.028000",
+      "user": "haru.matu9168",
+      "text": "<@haru.matu9168>さんがチャンネルに参加しました"
+    },
+    {
+      "client_msg_id": "5e109b84-1ab0-4425-819c-c92790bc69db",
+      "type": "message",
+      "text": "とりあえずメール送っておいた",
+      "user": "tatsumigamou",
+      "ts": "1635075064.027200",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "6DIr6",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "とりあえずメール送っておいた"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "reactions": [
+        {
+          "name": "+1",
+          "users": [
+            "naokihirokitomoki",
+            "raa0121",
+            "syui",
+            "U53RAQBCP",
+            "UL3J5T649",
+            "znmxodq1",
+            "claude0803sz",
+            "U02BLTTQEL9",
+            "yozigen",
+            "U6DL9D3AB",
+            "a3784197",
+            "kocumaza--"
+          ],
+          "count": 12
+        }
+      ]
+    },
+    {
+      "client_msg_id": "b7b47b31-6bfa-4d78-ad8d-9916ada037b0",
+      "type": "message",
+      "text": "wideの筑波ミラーもメール入れたほうがいいのかな",
+      "user": "tatsumigamou",
+      "ts": "1635074518.026700",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "A+Y",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "wideの筑波ミラーもメール入れたほうがいいのかな"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "c787844c-0de4-411c-940a-62c8db9d041f",
+      "type": "message",
+      "text": "お、jaist更新されてますね",
+      "user": "tatsumigamou",
+      "ts": "1635074490.026000",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "vEaT",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "お、jaist更新されてますね"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "9a2c73f0-2570-47e6-a7cf-deec271713ec",
+      "type": "message",
+      "text": "一応jaistサーバー管理してる方にレポート入れました",
+      "user": "getalotofmail",
+      "ts": "1635051859.024700",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "f97NB",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "一応jaistサーバー管理してる方にレポート入れました"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "reactions": [
+        {
+          "name": "+1",
+          "users": [
+            "U6DL9D3AB",
+            "tatsumigamou",
+            "syui",
+            "naokihirokitomoki",
+            "h.hata.ai.t",
+            "znmxodq1",
+            "a3784197",
+            "UL3J5T649",
+            "U02BLTTQEL9",
+            "yozigen"
+          ],
+          "count": 10
+        }
+      ]
+    },
+    {
+      "client_msg_id": "1a266fe6-7382-4388-b39e-0ef96ff36388",
+      "type": "message",
+      "text": "<https://twitter.com/kfujieda/status/1452137039768408068?t=XtDizWVH0-7g4EeoWxAyKg&amp;s=19|https://twitter.com/kfujieda/status/1452137039768408068?t=XtDizWVH0-7g4EeoWxAyKg&amp;s=19>",
+      "user": "getalotofmail",
+      "ts": "1635051783.023700",
+      "team": "T0GFBAM8C",
+      "attachments": [
+        {
+          "fallback": "<https://twitter.com/kfujieda|@kfujieda>: <https://twitter.com/KiYugadgeter|@KiYugadgeter> Thank you for your report. We've changed the mirror source and let the server start syncing. Please wait for a while.",
+          "ts": 1635051424,
+          "author_name": "藤枝和宏",
+          "author_link": "https://twitter.com/kfujieda/status/1452137039768408068",
+          "author_icon": "https://pbs.twimg.com/profile_images/971221552778760192/E2ehuQ1y_normal.jpg",
+          "author_subname": "@kfujieda",
+          "text": "<https://twitter.com/KiYugadgeter|@KiYugadgeter> Thank you for your report. We've changed the mirror source and let the server start syncing. Please wait for a while.",
+          "service_name": "twitter",
+          "service_url": "https://twitter.com/",
+          "from_url": "https://twitter.com/kfujieda/status/1452137039768408068?t=XtDizWVH0-7g4EeoWxAyKg&amp;s=19",
+          "id": 1,
+          "original_url": "https://twitter.com/kfujieda/status/1452137039768408068?t=XtDizWVH0-7g4EeoWxAyKg&amp;s=19",
+          "footer": "Twitter",
+          "footer_icon": "https://a.slack-edge.com/80588/img/services/twitter_pixel_snapped_32.png"
+        }
+      ],
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "aUd",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "link",
+                  "url": "https://twitter.com/kfujieda/status/1452137039768408068?t=XtDizWVH0-7g4EeoWxAyKg&s=19",
+                  "text": "https://twitter.com/kfujieda/status/1452137039768408068?t=XtDizWVH0-7g4EeoWxAyKg&s=19"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "27c59e6a-80d2-4ee7-aaf5-5b8373d660bc",
+      "type": "message",
+      "text": "ふと気になってaptのjaistミラーを見てみたけどちゃんと更新されてそう",
+      "user": "tatsumigamou",
+      "ts": "1635051777.023500",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "U4=z",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "ふと気になってaptのjaistミラーを見てみたけどちゃんと更新されてそう"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "de828ea5-2a97-46bf-bcfa-73a8b74d4340",
+      "type": "message",
+      "text": "非公式ミラーに手を出してまで最新版を日本で手に入れたいとなるならば下3つぐらいしかなさそう。 （hiyukiさんミラーダウンロード爆速だけど最新版来るのは遅いという印象だったのに…）\n<http://mirror.hiyuki2578.net/ArchLinux/> <http://ftp.kddilabs.jp/Linux/packages/archlinux/> <http://srv2.ftp.ne.jp/Linux/packages/archlinux/>",
+      "user": "naokihirokitomoki",
+      "ts": "1635051290.022900",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "Wgjg",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "非公式ミラーに手を出してまで最新版を日本で手に入れたいとなるならば下3つぐらいしかなさそう。 （hiyukiさんミラーダウンロード爆速だけど最新版来るのは遅いという印象だったのに…）\n"
+                },
+                {
+                  "type": "link",
+                  "url": "http://mirror.hiyuki2578.net/ArchLinux/"
+                },
+                {
+                  "type": "text",
+                  "text": " "
+                },
+                {
+                  "type": "link",
+                  "url": "http://ftp.kddilabs.jp/Linux/packages/archlinux/"
+                },
+                {
+                  "type": "text",
+                  "text": " "
+                },
+                {
+                  "type": "link",
+                  "url": "http://srv2.ftp.ne.jp/Linux/packages/archlinux/"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "reactions": [
+        {
+          "name": "+1",
+          "users": [
+            "kocumaza--"
+          ],
+          "count": 1
+        }
+      ]
+    }
+  ],
+  "has_more": true,
+  "is_limited": false,
+  "pin_count": 0,
+  "channel_actions_ts": null,
+  "channel_actions_count": 0,
+  "response_metadata": {
+    "next_cursor": "bmV4dF90czoxNjM1MDUxMDY1MDIwNTAw"
+  }
+}

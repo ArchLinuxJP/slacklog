@@ -1,0 +1,1088 @@
+{
+  "ok": true,
+  "latest": "1622518024.000000",
+  "oldest": "1619839624.000000",
+  "messages": [
+    {
+      "client_msg_id": "884E6CD3-202E-47F8-A159-98D8790295E3",
+      "type": "message",
+      "text": "dhcpcd入れてるなら、それをstartさせてみるといいかもしれません",
+      "user": "syui",
+      "ts": "1620264634.128300",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "1Ve",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "dhcpcd入れてるなら、それをstartさせてみるといいかもしれません"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "721FC319-BA30-4983-A23B-7FA93D294D48",
+      "type": "message",
+      "text": "回線が遅いのか、ネットワーク設定の問題なのか、どちらかの可能性が高そう",
+      "user": "syui",
+      "ts": "1620264570.127400",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "Q0nw",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "回線が遅いのか、ネットワーク設定の問題なのか、どちらかの可能性が高そう"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "27178c0c-7d54-4738-9aeb-842eb48c30cf",
+      "type": "message",
+      "text": "しかしOperation too slowだのtimeoutだの",
+      "user": "nine-k.960klo",
+      "ts": "1620264011.126200",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "e8iVS",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "しかしOperation too slowだのtimeoutだの"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "c713e895-9f32-4a10-b3c7-b9317daf0c7a",
+      "type": "message",
+      "text": "今-Syyuをしています",
+      "user": "nine-k.960klo",
+      "ts": "1620263999.126100",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "AG1/M",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "今-Syyuをしています"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "04675f49-4e59-45d1-baef-596334484887",
+      "type": "message",
+      "text": "mirrorlistもwiki通りに",
+      "user": "nine-k.960klo",
+      "ts": "1620263987.126000",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "/Xu2",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "mirrorlistもwiki通りに"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "1b7416ad-cfce-49f3-811a-addb1c459329",
+      "type": "message",
+      "text": "pingはできましたが",
+      "user": "nine-k.960klo",
+      "ts": "1620263964.125900",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "05XDY",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "pingはできましたが"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "A7D3651F-84C4-41A5-A66D-D5E72DD10741",
+      "type": "message",
+      "text": "<http://github.com|github.com>とか",
+      "user": "syui",
+      "ts": "1620263794.125800",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "5Brr",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "link",
+                  "url": "http://github.com",
+                  "text": "github.com"
+                },
+                {
+                  "type": "text",
+                  "text": "とか"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "999C3F1D-9B56-4EFB-AD14-A928D1DCB1F3",
+      "type": "message",
+      "text": "適当なpingは通ります?",
+      "user": "syui",
+      "ts": "1620263784.125400",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "Sli",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "適当なpingは通ります?"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "449a82c0-f1af-4a85-ac9d-631a4bd7ae1c",
+      "type": "message",
+      "text": "よく見たら最後に/を",
+      "user": "nine-k.960klo",
+      "ts": "1620263772.125200",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "lOlv4",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "よく見たら最後に/を"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "a7c2ca12-b52f-46be-a9b4-8d0fbc914128",
+      "type": "message",
+      "text": "$ curl <https://mirrors.cat.net/archlinux/core/os|https://mirrors.cat.net/archlinux/core/os>\n結果301でした\n他、httpsのjaistとhttpのmirrors.cat.netも試した結果同様のようでした",
+      "user": "nine-k.960klo",
+      "ts": "1620263720.124800",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "m9gq",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "$ curl "
+                },
+                {
+                  "type": "link",
+                  "url": "https://mirrors.cat.net/archlinux/core/os",
+                  "text": "https://mirrors.cat.net/archlinux/core/os"
+                },
+                {
+                  "type": "text",
+                  "text": "\n結果301でした\n他、httpsのjaistとhttpのmirrors.cat.netも試した結果同様のようでした"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "F4904290-EF1C-49B3-B73B-F8E722CCD720",
+      "type": "message",
+      "text": "もしcliでやるならpartedを使います\nresizepartなどを駆使しながら進める感じかと思います",
+      "user": "syui",
+      "ts": "1620263522.124700",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "+m2",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "もしcliでやるならpartedを使います\nresizepartなどを駆使しながら進める感じかと思います"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "14BD1E52-BAA8-4359-A3C5-47BD2A882DB6",
+      "type": "message",
+      "text": "ダウンロードはできますか",
+      "user": "syui",
+      "ts": "1620263201.123200",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "PmAY",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "ダウンロードはできますか"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "ef558d38-a88f-4ef1-ab6d-a5c7bcb4ca6a",
+      "type": "message",
+      "text": "でもここでの無線LANの設定が不適切なのか、それとも何かなのか、インストールできない環境になっています",
+      "user": "nine-k.960klo",
+      "ts": "1620262909.122900",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "PXmS",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "でもここでの無線LANの設定が不適切なのか、それとも何かなのか、インストールできない環境になっています"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "thread_ts": "1620262909.122900",
+      "reply_count": 1,
+      "reply_users_count": 1,
+      "latest_reply": "1620949962.161100",
+      "reply_users": [
+        "nine-k.960klo"
+      ],
+      "is_locked": false,
+      "subscribed": false
+    },
+    {
+      "client_msg_id": "fdbadd3e-1514-45b0-aab7-19294e6b42ea",
+      "type": "message",
+      "text": "今からやってみます",
+      "user": "nine-k.960klo",
+      "ts": "1620262641.122800",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "6Un9+",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "今からやってみます"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "022e7429-005b-4e29-acd9-993f9045d84f",
+      "type": "message",
+      "text": "助言ありがとうございます",
+      "user": "nine-k.960klo",
+      "ts": "1620262605.122700",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "T67Sp",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "助言ありがとうございます"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "9e4d8433-63d7-4887-8d10-e7e112a2adef",
+      "type": "message",
+      "text": "`df /dev/sda?`で、/に91%、/bootに36%、/varに100%、/homeに11%使用していることがわかり、実に勿体ない使い方だと改めて実感しました",
+      "user": "nine-k.960klo",
+      "ts": "1620262546.122600",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "oKbW",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "`df /dev/sda?`で、/に91%、/bootに36%、/varに100%、/homeに11%使用していることがわかり、実に勿体ない使い方だと改めて実感しました"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "BB3602BB-9992-4B5D-8DFF-817ECB518A9E",
+      "type": "message",
+      "text": "gpartedなら簡単にパーティションの統合できたと思うので、できればstartxして、なければxorg環境を入れて、gpartedでやるのがおすすめかと思います。事故る可能性が少ないので",
+      "user": "syui",
+      "ts": "1620262471.122500",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "6W6",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "gpartedなら簡単にパーティションの統合できたと思うので、できればstartxして、なければxorg環境を入れて、gpartedでやるのがおすすめかと思います。事故る可能性が少ないので"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "message",
+      "text": "以前どこかで「既存のデータを残しながらパーティションを変更するのであればファイルシステムのサイズ変更が先」とお聞きした気がしたのですが（誤りでなければ）、本当にどちらが先だったのでしょうか?\nまた、パーティションとfstabは次の構成です",
+      "files": [
+        {
+          "id": "F021E37TUHX",
+          "created": 1620262208,
+          "timestamp": 1620262208,
+          "name": "IMG_20210506_094939.jpg",
+          "title": "IMG_20210506_094939.jpg",
+          "mimetype": "image/jpeg",
+          "filetype": "jpg",
+          "pretty_type": "JPEG",
+          "user": "nine-k.960klo",
+          "editable": false,
+          "size": 429085,
+          "mode": "hosted",
+          "is_external": false,
+          "external_type": "",
+          "is_public": true,
+          "public_url_shared": false,
+          "display_as_bot": false,
+          "username": "",
+          "url_private": "https://files.slack.com/files-pri/T0GFBAM8C-F021E37TUHX/img_20210506_094939.jpg",
+          "url_private_download": "https://files.slack.com/files-pri/T0GFBAM8C-F021E37TUHX/download/img_20210506_094939.jpg",
+          "media_display_type": "unknown",
+          "thumb_64": "https://files.slack.com/files-tmb/T0GFBAM8C-F021E37TUHX-506f808ae8/img_20210506_094939_64.jpg",
+          "thumb_80": "https://files.slack.com/files-tmb/T0GFBAM8C-F021E37TUHX-506f808ae8/img_20210506_094939_80.jpg",
+          "thumb_360": "https://files.slack.com/files-tmb/T0GFBAM8C-F021E37TUHX-506f808ae8/img_20210506_094939_360.jpg",
+          "thumb_360_w": 360,
+          "thumb_360_h": 166,
+          "thumb_480": "https://files.slack.com/files-tmb/T0GFBAM8C-F021E37TUHX-506f808ae8/img_20210506_094939_480.jpg",
+          "thumb_480_w": 480,
+          "thumb_480_h": 222,
+          "thumb_160": "https://files.slack.com/files-tmb/T0GFBAM8C-F021E37TUHX-506f808ae8/img_20210506_094939_160.jpg",
+          "thumb_720": "https://files.slack.com/files-tmb/T0GFBAM8C-F021E37TUHX-506f808ae8/img_20210506_094939_720.jpg",
+          "thumb_720_w": 720,
+          "thumb_720_h": 333,
+          "thumb_800": "https://files.slack.com/files-tmb/T0GFBAM8C-F021E37TUHX-506f808ae8/img_20210506_094939_800.jpg",
+          "thumb_800_w": 800,
+          "thumb_800_h": 370,
+          "thumb_960": "https://files.slack.com/files-tmb/T0GFBAM8C-F021E37TUHX-506f808ae8/img_20210506_094939_960.jpg",
+          "thumb_960_w": 960,
+          "thumb_960_h": 444,
+          "thumb_1024": "https://files.slack.com/files-tmb/T0GFBAM8C-F021E37TUHX-506f808ae8/img_20210506_094939_1024.jpg",
+          "thumb_1024_w": 1024,
+          "thumb_1024_h": 473,
+          "original_w": 4128,
+          "original_h": 1908,
+          "thumb_tiny": "AwAWADCFiBjBqaKVBGySLkEcEdRUSjJIPY4p2z0pJDZA6biMcU0Qk9KtbcYpMcdKdhXK4BHBqRMFgCcD1pcANkjI9KR3LZJxx0FTYYu4I8gOetL5yD+E1HL/AK5/rTDQmBP56f3TS+cvoarilFPmYrE29T2NMLAt0pB0pP4qVxn/2Q==",
+          "permalink": "https://archlinuxjp.slack.com/files/nine-k.960klo/F021E37TUHX/img_20210506_094939.jpg",
+          "permalink_public": "https://slack-files.com/T0GFBAM8C-F021E37TUHX-466e2dc321",
+          "is_starred": false,
+          "has_rich_preview": false
+        }
+      ],
+      "upload": false,
+      "user": "nine-k.960klo",
+      "display_as_bot": false,
+      "ts": "1620262295.119900",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "gXVA",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "以前どこかで「既存のデータを残しながらパーティションを変更するのであればファイルシステムのサイズ変更が先」とお聞きした気がしたのですが（誤りでなければ）、本当にどちらが先だったのでしょうか?\nまた、パーティションとfstabは次の構成です"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "client_msg_id": "48e6368c-de98-4879-98c1-3e81b1b4a06a"
+    },
+    {
+      "client_msg_id": "91748CC5-9AEC-4E1E-827D-1D003E614940",
+      "type": "message",
+      "text": "普段はcfdisk使うのであまり使ったことないですが",
+      "user": "syui",
+      "ts": "1620261862.119800",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "QSc9",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "普段はcfdisk使うのであまり使ったことないですが"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "9A838B20-CB33-4D45-B821-4D47056671D1",
+      "type": "message",
+      "text": "gpartedとか便利だったと思います",
+      "user": "syui",
+      "ts": "1620261798.119100",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "fnxB3",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "gpartedとか便利だったと思います"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "3d2b1000-a145-49b1-bf05-711532da7304",
+      "type": "message",
+      "text": "ずっと前からパーティションの個数を減らしたいと考えています\nsdaの1から4までは全てprimaryで以前通りのMBR構成になっています",
+      "user": "nine-k.960klo",
+      "ts": "1620261475.118500",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "bwH",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "ずっと前からパーティションの個数を減らしたいと考えています\nsdaの1から4までは全てprimaryで以前通りのMBR構成になっています"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "message",
+      "subtype": "channel_join",
+      "ts": "1620260656.118400",
+      "user": "murashun982",
+      "text": "<@murashun982>さんがチャンネルに参加しました"
+    },
+    {
+      "type": "message",
+      "text": "ありがとうございます。regular fileじゃなかった(無限ループになった)ので -c に変えてやってみましたが、音は出ないです。",
+      "user": "takumi.kt",
+      "ts": "1620206766.117500",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "FJE",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "ありがとうございます。regular fileじゃなかった(無限ループになった)ので -c に変えてやってみましたが、音は出ないです。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "thread_ts": "1620206766.117500",
+      "parent_user_id": "odknt",
+      "reply_count": 4,
+      "reply_users_count": 2,
+      "latest_reply": "1620273700.128800",
+      "reply_users": [
+        "odknt",
+        "takumi.kt"
+      ],
+      "is_locked": false,
+      "subscribed": false
+    },
+    {
+      "type": "message",
+      "text": "そのコマンドは、多分サウンドカード使用前の初期化処理だと思います。\nもしコマンドの実行が速すぎるのが原因ならコマンドの前に `until [ -f /dev/snd/hwC0D0 ]; do sleep 1; done` とか入れて待つ必要があるかもしれません。",
+      "user": "odknt",
+      "ts": "1620135136.114800",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "Ron8",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "そのコマンドは、多分サウンドカード使用前の初期化処理だと思います。\nもしコマンドの実行が速すぎるのが原因ならコマンドの前に "
+                },
+                {
+                  "type": "text",
+                  "text": "until [ -f /dev/snd/hwC0D0 ]; do sleep 1; done",
+                  "style": {
+                    "code": true
+                  }
+                },
+                {
+                  "type": "text",
+                  "text": " とか入れて待つ必要があるかもしれません。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "thread_ts": "1620135136.114800",
+      "reply_count": 1,
+      "reply_users_count": 1,
+      "latest_reply": "1620244782.117800",
+      "reply_users": [
+        "odknt"
+      ],
+      "is_locked": false,
+      "subscribed": false
+    },
+    {
+      "client_msg_id": "1f5e3d1f-a8eb-4baf-9c8b-4ca2aaf55488",
+      "type": "message",
+      "text": "<https://wiki.archlinux.jp/index.php/ASUS_Zenbook_UX430/UX530>\nこれも同じようなやつですか",
+      "user": "a3784197",
+      "ts": "1620131024.110900",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "VlBw",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "link",
+                  "url": "https://wiki.archlinux.jp/index.php/ASUS_Zenbook_UX430/UX530"
+                },
+                {
+                  "type": "text",
+                  "text": "\nこれも同じようなやつですか"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "99a22e4b-e2c0-4f3c-b383-d7aa8d68e0fa",
+      "type": "message",
+      "text": "<https://zenn.dev/jnuank/scraps/cb090b81b4403e>\nこんなの見つけたんですがどうですか？",
+      "user": "a3784197",
+      "ts": "1620130376.110500",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "t4+N",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "link",
+                  "url": "https://zenn.dev/jnuank/scraps/cb090b81b4403e"
+                },
+                {
+                  "type": "text",
+                  "text": "\nこんなの見つけたんですがどうですか？"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "thread_ts": "1620130376.110500",
+      "reply_count": 1,
+      "reply_users_count": 1,
+      "latest_reply": "1620205212.117200",
+      "reply_users": [
+        "takumi.kt"
+      ],
+      "is_locked": false,
+      "subscribed": false
+    },
+    {
+      "client_msg_id": "53e9f893-bc3d-4340-a311-d35654d9ff7a",
+      "type": "message",
+      "text": "難しいですね",
+      "user": "a3784197",
+      "ts": "1620126825.110100",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "YWR",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "難しいですね"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "33498e99-0efa-433b-972d-a8a136dd4cca",
+      "type": "message",
+      "text": "私もsystemdを思いついたけど、セッションマネージャー起動時でも早すぎる？らしいので、微妙じゃないのかなと思ってしまいました…",
+      "user": "naokihirokitomoki",
+      "ts": "1620124698.109800",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "K8X",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "私もsystemdを思いついたけど、セッションマネージャー起動時でも早すぎる？らしいので、微妙じゃないのかなと思ってしまいました…"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "d4e9d693-f06e-4b69-b7be-ffff9fc7052b",
+      "type": "message",
+      "text": "systemdでどうですか？\ngraphical.targetでやって",
+      "user": "a3784197",
+      "ts": "1620124350.109700",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "dp5/H",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "systemdでどうですか？\ngraphical.targetでやって"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "ecf3eb65-8d0a-41b8-ae70-d633c2457a29",
+      "type": "message",
+      "text": "デフォルトでは全てのチャンネルがミュートとあるので、この辺の設定を変えればいけるかも",
+      "user": "syui",
+      "ts": "1620089526.108700",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "5OSE",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "デフォルトでは全てのチャンネルがミュートとあるので、この辺の設定を変えればいけるかも"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "163d718c-62d1-43af-93b0-6a9281d5b9b6",
+      "type": "message",
+      "text": "起動時というとudevあたりかなと思って、検索してみると以下の記述があります。\n```ALSA はデフォルトの Arch カーネルにモジュールセットとして含まれているので、インストールは不要です。\n起動時に自動で udev があなたのハードウェアを調べて、オーディオカード用の適切なカーネルモジュールをロードします。したがって、サウンドはすでに鳴らせるはずです。ただ、デフォルトでは全てのチャンネルはミュートにされています。チャンネルのミュートを解除してください。```\n<https://wiki.archlinux.jp/index.php/Advanced_Linux_Sound_Architecture>",
+      "user": "syui",
+      "ts": "1620089505.108300",
+      "team": "T0GFBAM8C",
+      "edited": {
+        "user": "syui",
+        "ts": "1620089556.000000"
+      },
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "ChkP6",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "起動時というとudevあたりかなと思って、検索してみると以下の記述があります。\n"
+                }
+              ]
+            },
+            {
+              "type": "rich_text_preformatted",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "ALSA はデフォルトの Arch カーネルにモジュールセットとして含まれているので、インストールは不要です。\n起動時に自動で udev があなたのハードウェアを調べて、オーディオカード用の適切なカーネルモジュールをロードします。したがって、サウンドはすでに鳴らせるはずです。ただ、デフォルトでは全てのチャンネルはミュートにされています。チャンネルのミュートを解除してください。"
+                }
+              ]
+            },
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "link",
+                  "url": "https://wiki.archlinux.jp/index.php/Advanced_Linux_Sound_Architecture"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "a30cfbc8-3192-427e-8bdf-aa8b1e94bed8",
+      "type": "message",
+      "text": "原因として思ったのが、一つはインターフェイスの問題です。通常、ユーザーでログインしたとき、使用しているオーディオインターフェイスが起動し、保存されてる音量などが設定される気がしますが、起動時の音量と食い違う可能性。xsetupは読み込まれてオーディオモジュールかなんかは有効になるものの、そこで使用されるオーディオデバイスや音量などはインターフェイスやあるいはサウンドサーバーを通して読み込まれるため、ログイン前は音が出ないのかも",
+      "user": "syui",
+      "ts": "1620089287.107700",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "tsk",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "原因として思ったのが、一つはインターフェイスの問題です。通常、ユーザーでログインしたとき、使用しているオーディオインターフェイスが起動し、保存されてる音量などが設定される気がしますが、起動時の音量と食い違う可能性。xsetupは読み込まれてオーディオモジュールかなんかは有効になるものの、そこで使用されるオーディオデバイスや音量などはインターフェイスやあるいはサウンドサーバーを通して読み込まれるため、ログイン前は音が出ないのかも"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "d305d71c-c9f7-4a8a-a46b-4a962ad0014d",
+      "type": "message",
+      "text": "`~/.xinitrc`に書いてみてはどうでしょう",
+      "user": "syui",
+      "ts": "1620088828.104100",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "z5hy",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "~/.xinitrc",
+                  "style": {
+                    "code": true
+                  }
+                },
+                {
+                  "type": "text",
+                  "text": "に書いてみてはどうでしょう"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "thread_ts": "1620088828.104100",
+      "reply_count": 1,
+      "reply_users_count": 1,
+      "latest_reply": "1620105075.108900",
+      "reply_users": [
+        "takumi.kt"
+      ],
+      "is_locked": false,
+      "subscribed": true,
+      "last_read": "1620105075.108900"
+    },
+    {
+      "client_msg_id": "1dd32510-f36d-442a-8f07-3ee48936f90a",
+      "type": "message",
+      "text": "HD Audio詳しい人、教えてください。機種Spectre x360で起動時、音が出なくて <https://wiki.archlinux.org/title/HP_Spectre_x360_(2020)#Audio>\nに書かれているとおり、\n```sudo hda-verb /dev/snd/hwC0D0 0x01 SET_GPIO_DIR 0x01\nsudo hda-verb /dev/snd/hwC0D0 0x01 SET_GPIO_MASK 0x01\nsudo hda-verb /dev/snd/hwC0D0 0x01 SET_GPIO_DATA 0x01\nsudo hda-verb /dev/snd/hwC0D0 0x01 SET_GPIO_DATA 0x00```\nを毎回2回叩くと音が出るようになるのですが、手動はつらいので、X11のセッションマネージャの起動時に動くスクリプトである `/usr/share/sddm/scripts/Xsetup` に書いてもそれでは音は出ず、ユーザでログイン後手動で叩くと音が出る現象が起きています。(スクリプト自体が動いていることは、Xsetup中で `2&gt;&amp;1 &gt;/tmp/Xsetup.log` をして確認しています)\n• そもそもこのコマンドは何をしているものですか?\n• Xsetupのスクリプトから叩いても音が出ず、ログイン後に叩くと音が出るのはどういう理由からですか?\n• こういう場合のよい回避策を教えてください。",
+      "user": "takumi.kt",
+      "ts": "1620050226.103600",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "MyK",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "HD Audio詳しい人、教えてください。機種Spectre x360で起動時、音が出なくて "
+                },
+                {
+                  "type": "link",
+                  "url": "https://wiki.archlinux.org/title/HP_Spectre_x360_(2020)#Audio"
+                },
+                {
+                  "type": "text",
+                  "text": "\nに書かれているとおり、\n"
+                }
+              ]
+            },
+            {
+              "type": "rich_text_preformatted",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "sudo hda-verb /dev/snd/hwC0D0 0x01 SET_GPIO_DIR 0x01\nsudo hda-verb /dev/snd/hwC0D0 0x01 SET_GPIO_MASK 0x01\nsudo hda-verb /dev/snd/hwC0D0 0x01 SET_GPIO_DATA 0x01\nsudo hda-verb /dev/snd/hwC0D0 0x01 SET_GPIO_DATA 0x00"
+                }
+              ]
+            },
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "を毎回2回叩くと音が出るようになるのですが、手動はつらいので、X11のセッションマネージャの起動時に動くスクリプトである "
+                },
+                {
+                  "type": "text",
+                  "text": "/usr/share/sddm/scripts/Xsetup",
+                  "style": {
+                    "code": true
+                  }
+                },
+                {
+                  "type": "text",
+                  "text": " に書いてもそれでは音は出ず、ユーザでログイン後手動で叩くと音が出る現象が起きています。(スクリプト自体が動いていることは、Xsetup中で "
+                },
+                {
+                  "type": "text",
+                  "text": "2>&1 >/tmp/Xsetup.log",
+                  "style": {
+                    "code": true
+                  }
+                },
+                {
+                  "type": "text",
+                  "text": " をして確認しています)\n"
+                }
+              ]
+            },
+            {
+              "type": "rich_text_list",
+              "elements": [
+                {
+                  "type": "rich_text_section",
+                  "elements": [
+                    {
+                      "type": "text",
+                      "text": "そもそもこのコマンドは何をしているものですか?"
+                    }
+                  ]
+                },
+                {
+                  "type": "rich_text_section",
+                  "elements": [
+                    {
+                      "type": "text",
+                      "text": "Xsetupのスクリプトから叩いても音が出ず、ログイン後に叩くと音が出るのはどういう理由からですか?"
+                    }
+                  ]
+                },
+                {
+                  "type": "rich_text_section",
+                  "elements": [
+                    {
+                      "type": "text",
+                      "text": "こういう場合のよい回避策を教えてください。"
+                    }
+                  ]
+                }
+              ],
+              "style": "bullet",
+              "indent": 0
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "has_more": false,
+  "is_limited": true,
+  "pin_count": 16,
+  "channel_actions_ts": null,
+  "channel_actions_count": 0
+}

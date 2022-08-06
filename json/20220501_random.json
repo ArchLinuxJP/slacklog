@@ -1,0 +1,3640 @@
+{
+  "ok": true,
+  "latest": "1654085476.000000",
+  "oldest": "1651407076.000000",
+  "messages": [
+    {
+      "client_msg_id": "66f36c3f-f314-467d-88bd-c1aaddbe42d5",
+      "type": "message",
+      "text": "<https://twitter.com/phoronix/status/1531637109530009600?s=20&amp;t=cvTnWlzHAcmZBJ66OHLykQ>",
+      "user": "yutakatay",
+      "ts": "1654006045.197299",
+      "team": "T0GFBAM8C",
+      "attachments": [
+        {
+          "from_url": "https://twitter.com/phoronix/status/1531637109530009600?s=20&amp;t=cvTnWlzHAcmZBJ66OHLykQ",
+          "ts": 1654005718,
+          "id": 1,
+          "original_url": "https://twitter.com/phoronix/status/1531637109530009600?s=20&amp;t=cvTnWlzHAcmZBJ66OHLykQ",
+          "fallback": "<https://twitter.com/phoronix|@phoronix>: Your Linux desktop(s) sessions are using...",
+          "text": "Your Linux desktop(s) sessions are using...",
+          "author_name": "Phoronix",
+          "author_link": "https://twitter.com/phoronix/status/1531637109530009600",
+          "author_icon": "https://pbs.twimg.com/profile_images/937312281662279682/bqi_9AN2_normal.jpg",
+          "author_subname": "@phoronix",
+          "service_name": "twitter",
+          "service_url": "https://twitter.com/",
+          "footer": "Twitter",
+          "footer_icon": "https://a.slack-edge.com/80588/img/services/twitter_pixel_snapped_32.png"
+        }
+      ],
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "98oLh",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "link",
+                  "url": "https://twitter.com/phoronix/status/1531637109530009600?s=20&t=cvTnWlzHAcmZBJ66OHLykQ"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "f4c1cf1d-bb95-47f3-b754-3aa1fac1023c",
+      "type": "message",
+      "text": "中指、完全にミーム化してて草",
+      "user": "znmxodq1",
+      "ts": "1653929383.973449",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "Djuu",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "中指、完全にミーム化してて草"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "reactions": [
+        {
+          "name": "sorena",
+          "users": [
+            "UFZJ1RH3Q",
+            "getalotofmail",
+            "U01J1GGMHDJ",
+            "U01HE1ENNJZ"
+          ],
+          "count": 4
+        }
+      ]
+    },
+    {
+      "client_msg_id": "868cd83d-df89-4f07-9922-5413d27add4f",
+      "type": "message",
+      "text": "一応コードはほとんどクリーンの確認が取れたらしいが正式発表はこのプルリクがマージされたらっぽい。\n<https://github.com/noisetorch/NoiseTorch/issues/300#issuecomment-1139700016|https://github.com/noisetorch/NoiseTorch/issues/300#issuecomment-1139700016>",
+      "user": "getalotofmail",
+      "ts": "1653918969.970449",
+      "team": "T0GFBAM8C",
+      "attachments": [
+        {
+          "from_url": "https://github.com/noisetorch/NoiseTorch/issues/300#issuecomment-1139700016",
+          "image_url": "https://opengraph.githubassets.com/c35c95f821d2ba836a892ffbd76ad12fd44a8a13c2447d23f283b28a440be809/noisetorch/NoiseTorch/issues/300",
+          "image_width": 500,
+          "image_height": 250,
+          "image_bytes": 84467,
+          "service_icon": "https://a.slack-edge.com/80588/img/unfurl_icons/github.png",
+          "id": 1,
+          "original_url": "https://github.com/noisetorch/NoiseTorch/issues/300#issuecomment-1139700016",
+          "fallback": "GitHub: Restore and modify README.md · Issue #300 · noisetorch/NoiseTorch",
+          "text": "Before release v0.12.0 we still need to fixup the README to reflect the current state: normal project information and short user guide announce code is clean ...",
+          "title": "Restore and modify README.md · Issue #300 · noisetorch/NoiseTorch",
+          "title_link": "https://github.com/noisetorch/NoiseTorch/issues/300#issuecomment-1139700016",
+          "service_name": "GitHub"
+        }
+      ],
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "Pxem",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "一応コードはほとんどクリーンの確認が取れたらしいが正式発表はこのプルリクがマージされたらっぽい。\n"
+                },
+                {
+                  "type": "link",
+                  "url": "https://github.com/noisetorch/NoiseTorch/issues/300#issuecomment-1139700016",
+                  "text": "https://github.com/noisetorch/NoiseTorch/issues/300#issuecomment-1139700016"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "71b2badf-10c0-4914-850f-95ccea326ba4",
+      "type": "message",
+      "text": "こういうサプライチェーンアタックが一番怖い",
+      "user": "yutakatay",
+      "ts": "1653918679.739909",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "Wfo",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "こういうサプライチェーンアタックが一番怖い"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "0eb40fde-3836-4b93-a382-f234d2bd7327",
+      "type": "message",
+      "text": "AURの方はとりあえず新しいリポジトリには移ったが\n一応メッセージ的なのが出る",
+      "user": "getalotofmail",
+      "ts": "1653918417.019329",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "FE3yP",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "AURの方はとりあえず新しいリポジトリには移ったが\n一応メッセージ的なのが出る"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "message",
+      "text": "少し古い話題だけどnoisetorchの作者がハッキング受けたらしくbinaryとか信用するなよ!!って言ってる",
+      "files": [
+        {
+          "id": "F03HHQJPPGT",
+          "created": 1653918145,
+          "timestamp": 1653918145,
+          "name": "Screenshot_20220530-224209.png",
+          "title": "Screenshot_20220530-224209.png",
+          "mimetype": "image/png",
+          "filetype": "png",
+          "pretty_type": "PNG",
+          "user": "getalotofmail",
+          "editable": false,
+          "size": 264468,
+          "mode": "hosted",
+          "is_external": false,
+          "external_type": "",
+          "is_public": true,
+          "public_url_shared": false,
+          "display_as_bot": false,
+          "username": "",
+          "url_private": "https://files.slack.com/files-pri/T0GFBAM8C-F03HHQJPPGT/screenshot_20220530-224209.png",
+          "url_private_download": "https://files.slack.com/files-pri/T0GFBAM8C-F03HHQJPPGT/download/screenshot_20220530-224209.png",
+          "media_display_type": "unknown",
+          "thumb_64": "https://files.slack.com/files-tmb/T0GFBAM8C-F03HHQJPPGT-5bb1a24c7a/screenshot_20220530-224209_64.png",
+          "thumb_80": "https://files.slack.com/files-tmb/T0GFBAM8C-F03HHQJPPGT-5bb1a24c7a/screenshot_20220530-224209_80.png",
+          "thumb_360": "https://files.slack.com/files-tmb/T0GFBAM8C-F03HHQJPPGT-5bb1a24c7a/screenshot_20220530-224209_360.png",
+          "thumb_360_w": 162,
+          "thumb_360_h": 360,
+          "thumb_480": "https://files.slack.com/files-tmb/T0GFBAM8C-F03HHQJPPGT-5bb1a24c7a/screenshot_20220530-224209_480.png",
+          "thumb_480_w": 216,
+          "thumb_480_h": 480,
+          "thumb_160": "https://files.slack.com/files-tmb/T0GFBAM8C-F03HHQJPPGT-5bb1a24c7a/screenshot_20220530-224209_160.png",
+          "thumb_720": "https://files.slack.com/files-tmb/T0GFBAM8C-F03HHQJPPGT-5bb1a24c7a/screenshot_20220530-224209_720.png",
+          "thumb_720_w": 324,
+          "thumb_720_h": 720,
+          "thumb_800": "https://files.slack.com/files-tmb/T0GFBAM8C-F03HHQJPPGT-5bb1a24c7a/screenshot_20220530-224209_800.png",
+          "thumb_800_w": 800,
+          "thumb_800_h": 1778,
+          "thumb_960": "https://files.slack.com/files-tmb/T0GFBAM8C-F03HHQJPPGT-5bb1a24c7a/screenshot_20220530-224209_960.png",
+          "thumb_960_w": 432,
+          "thumb_960_h": 960,
+          "thumb_1024": "https://files.slack.com/files-tmb/T0GFBAM8C-F03HHQJPPGT-5bb1a24c7a/screenshot_20220530-224209_1024.png",
+          "thumb_1024_w": 461,
+          "thumb_1024_h": 1024,
+          "original_w": 1080,
+          "original_h": 2400,
+          "thumb_tiny": "AwAwABWkMkfSm5p6rlf4vfAprLt9ce4xTACSetJmiigB6428rmk/4CKFIA60u4UAMPPbFFB5PFFACgNjIXNKQ3daXGBjdxSbRRZgNop2weoo2f7QoswP/9k=",
+          "permalink": "https://archlinuxjp.slack.com/files/getalotofmail/F03HHQJPPGT/screenshot_20220530-224209.png",
+          "permalink_public": "https://slack-files.com/T0GFBAM8C-F03HHQJPPGT-035294f444",
+          "is_starred": false,
+          "has_rich_preview": false
+        }
+      ],
+      "upload": false,
+      "user": "getalotofmail",
+      "display_as_bot": false,
+      "ts": "1653918148.778789",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "v8gy",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "少し古い話題だけどnoisetorchの作者がハッキング受けたらしくbinaryとか信用するなよ!!って言ってる"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "client_msg_id": "c823609c-68b1-453a-bcad-34b10842be67",
+      "reactions": [
+        {
+          "name": "hee",
+          "users": [
+            "yutakatay",
+            "U01J1GGMHDJ"
+          ],
+          "count": 2
+        }
+      ]
+    },
+    {
+      "type": "message",
+      "subtype": "thread_broadcast",
+      "text": "「中指」でどこの会社か一瞬で分かるのスキ",
+      "user": "getalotofmail",
+      "ts": "1653917848.848309",
+      "thread_ts": "1653891300.186369",
+      "root": {
+        "client_msg_id": "f1455644-8d5a-44ab-8596-cbfdaf92a585",
+        "type": "message",
+        "text": "上で書いたLinux 5.18でカーネルパニックする問題、IntelのIBT（低レイヤのセキュリティ実装）が中指のグラボと干渉するというプロプライエタリ二段重ねの問題でした",
+        "user": "tatsumigamou",
+        "ts": "1653891300.186369",
+        "team": "T0GFBAM8C",
+        "blocks": [
+          {
+            "type": "rich_text",
+            "block_id": "O8o",
+            "elements": [
+              {
+                "type": "rich_text_section",
+                "elements": [
+                  {
+                    "type": "text",
+                    "text": "上で書いたLinux 5.18でカーネルパニックする問題、IntelのIBT（低レイヤのセキュリティ実装）が中指のグラボと干渉するというプロプライエタリ二段重ねの問題でした"
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "thread_ts": "1653891300.186369",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1653917848.848309",
+        "reply_users": [
+          "getalotofmail"
+        ],
+        "is_locked": false,
+        "subscribed": false
+      },
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "jaPG",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "「中指」でどこの会社か一瞬で分かるのスキ"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "client_msg_id": "a5193a03-3503-4bad-bdb8-b8e4c65765cc",
+      "reactions": [
+        {
+          "name": "warau",
+          "users": [
+            "znmxodq1",
+            "UFZJ1RH3Q",
+            "U01J1GGMHDJ",
+            "U02MLKKUXMF",
+            "U01HE1ENNJZ"
+          ],
+          "count": 5
+        }
+      ]
+    },
+    {
+      "client_msg_id": "bd24ee6c-035c-4559-a267-c480e1417b21",
+      "type": "message",
+      "text": "まあ結果はIntelとNVIDIAの合わせ技だったんですが",
+      "user": "tatsumigamou",
+      "ts": "1653891558.812449",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "r6+",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "まあ結果はIntelとNVIDIAの合わせ技だったんですが"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "b6e41b8a-7c19-4892-992b-d62d3f244db6",
+      "type": "message",
+      "text": "ThinkPadで再現してない以上はNVIDIAだなと踏んで `linux 5.18 nvidia` で調べたら一発でヒットした\n便利",
+      "user": "tatsumigamou",
+      "ts": "1653891496.379319",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "1s9",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "ThinkPadで再現してない以上はNVIDIAだなと踏んで "
+                },
+                {
+                  "type": "text",
+                  "text": "linux 5.18 nvidia",
+                  "style": {
+                    "code": true
+                  }
+                },
+                {
+                  "type": "text",
+                  "text": " で調べたら一発でヒットした\n便利"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "reactions": [
+        {
+          "name": "hee",
+          "users": [
+            "U02ASPM0A6T"
+          ],
+          "count": 1
+        }
+      ]
+    },
+    {
+      "client_msg_id": "b220fbb9-133f-4e3f-bf5d-a977cfd5ad7d",
+      "type": "message",
+      "text": "なる",
+      "user": "yutakatay",
+      "ts": "1653891467.152709",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "K0xG9",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "なる"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "47f741f2-fae9-4c61-b36c-6c7ab9fc5491",
+      "type": "message",
+      "text": "ツイッターで調べたら出てきました\n<https://twitter.com/UnixDiscussions/status/1530728949889781761>",
+      "user": "tatsumigamou",
+      "ts": "1653891459.225829",
+      "team": "T0GFBAM8C",
+      "attachments": [
+        {
+          "from_url": "https://twitter.com/UnixDiscussions/status/1530728949889781761",
+          "ts": 1653789195,
+          "id": 1,
+          "original_url": "https://twitter.com/UnixDiscussions/status/1530728949889781761",
+          "fallback": "<https://twitter.com/UnixDiscussions|@UnixDiscussions>: PSA: If you get kernel panics after upgrading kernel to 5.18 and have nvidia gpu, set kernel param ibt=off\n\n<https://github.com/NVIDIA/open-gpu-kernel-modules/issues/256>\n\nDiscussions: <https://discu.eu/q/https://github.com/NVIDIA/open-gpu-kernel-modules/issues/256>\n\n#linux #unix",
+          "text": "PSA: If you get kernel panics after upgrading kernel to 5.18 and have nvidia gpu, set kernel param ibt=off\n\n<https://github.com/NVIDIA/open-gpu-kernel-modules/issues/256>\n\nDiscussions: <https://discu.eu/q/https://github.com/NVIDIA/open-gpu-kernel-modules/issues/256>\n\n#linux #unix",
+          "author_name": "Unix Weekly",
+          "author_link": "https://twitter.com/UnixDiscussions/status/1530728949889781761",
+          "author_icon": "https://pbs.twimg.com/profile_images/1496124734760706055/ZIShXoyW_normal.jpg",
+          "author_subname": "@UnixDiscussions",
+          "service_name": "twitter",
+          "service_url": "https://twitter.com/",
+          "footer": "Twitter",
+          "footer_icon": "https://a.slack-edge.com/80588/img/services/twitter_pixel_snapped_32.png"
+        }
+      ],
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "9B1h",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "ツイッターで調べたら出てきました\n"
+                },
+                {
+                  "type": "link",
+                  "url": "https://twitter.com/UnixDiscussions/status/1530728949889781761"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "96d77308-a428-4039-bfed-e9c9d82fd104",
+      "type": "message",
+      "text": "どうやって調べたんですか？？検索？ログ？",
+      "user": "yutakatay",
+      "ts": "1653891411.850639",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "tBSh",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "どうやって調べたんですか？？検索？ログ？"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "f1455644-8d5a-44ab-8596-cbfdaf92a585",
+      "type": "message",
+      "text": "上で書いたLinux 5.18でカーネルパニックする問題、IntelのIBT（低レイヤのセキュリティ実装）が中指のグラボと干渉するというプロプライエタリ二段重ねの問題でした",
+      "user": "tatsumigamou",
+      "ts": "1653891300.186369",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "O8o",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "上で書いたLinux 5.18でカーネルパニックする問題、IntelのIBT（低レイヤのセキュリティ実装）が中指のグラボと干渉するというプロプライエタリ二段重ねの問題でした"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "thread_ts": "1653891300.186369",
+      "reply_count": 1,
+      "reply_users_count": 1,
+      "latest_reply": "1653917848.848309",
+      "reply_users": [
+        "getalotofmail"
+      ],
+      "is_locked": false,
+      "subscribed": false,
+      "reactions": [
+        {
+          "name": "hee",
+          "users": [
+            "yutakatay",
+            "U02ASPM0A6T",
+            "U02HC93TJEP",
+            "UFZJ1RH3Q",
+            "U01HE1ENNJZ"
+          ],
+          "count": 5
+        }
+      ]
+    },
+    {
+      "client_msg_id": "ae852261-515a-4bfd-8548-1e8b66be5718",
+      "type": "message",
+      "text": "万一の時に継げる人がいないと非常にまずい",
+      "user": "tatsumigamou",
+      "ts": "1653871469.363179",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "/WBR",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "万一の時に継げる人がいないと非常にまずい"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "reactions": [
+        {
+          "name": "sorena",
+          "users": [
+            "yutakatay",
+            "UD124KPDJ",
+            "znmxodq1",
+            "kusanaginoturugi",
+            "U01HE1ENNJZ"
+          ],
+          "count": 5
+        }
+      ]
+    },
+    {
+      "client_msg_id": "62b962b7-39bc-48f2-bbb5-c60ed124a6e8",
+      "type": "message",
+      "text": "fcitxの作者がコロナにかかってしまったらしい。やばい",
+      "user": "yutakatay",
+      "ts": "1653871139.979539",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "hQrg2",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "fcitxの作者がコロナにかかってしまったらしい。やばい"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "2cc9b0d8-43bf-4af5-8f7b-cdbdcb3f4545",
+      "type": "message",
+      "text": "VM自体がマシンリソース食ってるのでファンが回る事自体はあるでしょうね\n例えばVM上でのGUIのレンダリングにハードウェアアクセラレーションが効かない場合はCPUがぶん回りそう",
+      "user": "tatsumigamou",
+      "ts": "1653864898.034479",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "zpJr3",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "VM自体がマシンリソース食ってるのでファンが回る事自体はあるでしょうね\n例えばVM上でのGUIのレンダリングにハードウェアアクセラレーションが効かない場合はCPUがぶん回りそう"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "0dc2a39a-264a-476f-8f77-b27dbf437138",
+      "type": "message",
+      "text": "VirtualBoxとかqemuでGUIありでVM動かすとCPUファンがずっと回っているのですがそれは普通でしょうか?\nVM上で何もしていなくてもファンが回り続けています\nThinkPad X13 Gen1 AMDです",
+      "user": "getalotofmail",
+      "ts": "1653825827.047459",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "kz3Zz",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "VirtualBoxとかqemuでGUIありでVM動かすとCPUファンがずっと回っているのですがそれは普通でしょうか?\nVM上で何もしていなくてもファンが回り続けています\nThinkPad X13 Gen1 AMDです"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "52c01f6c-a884-4e33-9924-57565d42b8c8",
+      "type": "message",
+      "text": "とりあえずデスクトップはLTS（5.15）でお茶を濁す\n:totemoturai:",
+      "user": "tatsumigamou",
+      "ts": "1653793722.572869",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "i46dR",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "とりあえずデスクトップはLTS（5.15）でお茶を濁す\n"
+                },
+                {
+                  "type": "emoji",
+                  "name": "totemoturai"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "6b26c820-b96d-4ddc-bee5-f05a2bb95921",
+      "type": "message",
+      "text": "うへぇ\nLinux5.18がデスクトップだと正常起動しなくてThinkPadだと正常起動する問題が発生\nハード起因の問題、調べたくなさがすごい……",
+      "user": "tatsumigamou",
+      "ts": "1653793690.407149",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "S8UA",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "うへぇ\nLinux5.18がデスクトップだと正常起動しなくてThinkPadだと正常起動する問題が発生\nハード起因の問題、調べたくなさがすごい……"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "reactions": [
+        {
+          "name": "hee",
+          "users": [
+            "yutakatay"
+          ],
+          "count": 1
+        }
+      ]
+    },
+    {
+      "client_msg_id": "4952621f-7bfd-4372-b8df-ff676b202a01",
+      "type": "message",
+      "text": "なにそれたのしそう(ハードウェア設計への興味はあんまりないけど)",
+      "user": "znmxodq1",
+      "ts": "1653376451.617939",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "wgNB",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "なにそれたのしそう(ハードウェア設計への興味はあんまりないけど)"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "reactions": [
+        {
+          "name": "wakaru",
+          "users": [
+            "yutakatay"
+          ],
+          "count": 1
+        }
+      ]
+    },
+    {
+      "client_msg_id": "eb91e042-9226-4b81-b47e-8706b59f89bf",
+      "type": "message",
+      "text": "freecadいれてみよ",
+      "user": "vermilion928",
+      "ts": "1653370404.629839",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "ZfJ",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "freecadいれてみよ"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "f305068d-28f4-4872-9f7e-aade5c426769",
+      "type": "message",
+      "text": "ああ、3Dプリンタの話題に出遅れた。わたしも光造形を買ったけど、めんどくさすぎて手放して、積層式に戻りました。今は手元に4リットルのイソプロピルアルコールが残るのみで、眼鏡クリーナーにとても便利です。\n光造形は精度は高いので、モデラー系の人にはおすすめですが、実用品とかにつかうと、レジンは強度が足りません。(ABSもあるけど)\nモデリングはここにいる人達はBlender より、FreeCAD, OpenSCAD あたりがお勧めじゃないかと思います。OpeSCADは全部コードで書いていきます。箱を置いて、円筒を置いて、箱や円筒や球でAND/OR する感じです。",
+      "user": "kusanaginoturugi",
+      "ts": "1653367364.066569",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "711T5",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "ああ、3Dプリンタの話題に出遅れた。わたしも光造形を買ったけど、めんどくさすぎて手放して、積層式に戻りました。今は手元に4リットルのイソプロピルアルコールが残るのみで、眼鏡クリーナーにとても便利です。\n光造形は精度は高いので、モデラー系の人にはおすすめですが、実用品とかにつかうと、レジンは強度が足りません。(ABSもあるけど)\nモデリングはここにいる人達はBlender より、FreeCAD, OpenSCAD あたりがお勧めじゃないかと思います。OpeSCADは全部コードで書いていきます。箱を置いて、円筒を置いて、箱や円筒や球でAND/OR する感じです。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "reactions": [
+        {
+          "name": "hee",
+          "users": [
+            "yutakatay",
+            "U02ASPM0A6T",
+            "znmxodq1",
+            "e195755",
+            "U7NBCFT1S"
+          ],
+          "count": 5
+        }
+      ]
+    },
+    {
+      "client_msg_id": "99c843bc-f851-4a34-85c1-586803a33186",
+      "type": "message",
+      "text": "pscpkrをblacklistに入れて止めたけど",
+      "user": "getalotofmail",
+      "ts": "1653268630.180209",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "lGKzR",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "pscpkrをblacklistに入れて止めたけど"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "4ed212c5-0aa2-4744-9933-e8e720246bff",
+      "type": "message",
+      "text": "delve(GOのデバッガ)でprocess attachしたかったのでkernel.yama.ptrace_scope =\n0にしたら再起動開始時にbeepが鳴るようになってしまったのですがなぜだろう",
+      "user": "getalotofmail",
+      "ts": "1653268492.913929",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "uSrn",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "delve(GOのデバッガ)でprocess attachしたかったのでkernel.yama.ptrace_scope =\n0にしたら再起動開始時にbeepが鳴るようになってしまったのですがなぜだろう"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "E3AC5CF5-41E4-4560-AD42-AAC0D691D43A",
+      "type": "message",
+      "text": "gnome-keyring 1:42.0-1からsystemdサービスが付属するようです\n\nシェルやX、WMの起動時に\n```eval $(gnome-keyring-daemon --start)\nexport SSH_AUTH_SOCK```\nで動かしていた人は該当の行を削除してよさそう(<https://bbs.archlinux.org/viewtopic.php?pid=2037267>)",
+      "user": "haxibami",
+      "ts": "1653267891.412839",
+      "team": "T0GFBAM8C",
+      "edited": {
+        "user": "haxibami",
+        "ts": "1653285189.000000"
+      },
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "wJY",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "gnome-keyring 1:42.0-1からsystemdサービスが付属するようです\n\nシェルやX、WMの起動時に\n"
+                }
+              ]
+            },
+            {
+              "type": "rich_text_preformatted",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "eval $(gnome-keyring-daemon --start)\nexport SSH_AUTH_SOCK"
+                }
+              ],
+              "border": 0
+            },
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "で動かしていた人は該当の行を削除してよさそう("
+                },
+                {
+                  "type": "link",
+                  "url": "https://bbs.archlinux.org/viewtopic.php?pid=2037267"
+                },
+                {
+                  "type": "text",
+                  "text": ")"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "reactions": [
+        {
+          "name": "hee",
+          "users": [
+            "yutakatay",
+            "buzz.taiki",
+            "U01HE1ENNJZ"
+          ],
+          "count": 3
+        },
+        {
+          "name": "goodpoem",
+          "users": [
+            "s5is"
+          ],
+          "count": 1
+        }
+      ]
+    },
+    {
+      "client_msg_id": "e534ad0f-45ed-4468-83c7-8c92927ef68f",
+      "type": "message",
+      "text": "こういう商品応援して買いたいけど、どうしても数がでないから価格が少し高くなっちゃいますよね・・・\n大量生産でのスケールメリット &gt; Windowsの費用\nになっちゃってるから",
+      "user": "yutakatay",
+      "ts": "1653267005.576759",
+      "team": "T0GFBAM8C",
+      "edited": {
+        "user": "yutakatay",
+        "ts": "1653289518.000000"
+      },
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "6MJo",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "こういう商品応援して買いたいけど、どうしても数がでないから価格が少し高くなっちゃいますよね・・・\n大量生産でのスケールメリット > Windowsの費用\nになっちゃってるから"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "reactions": [
+        {
+          "name": "sorena",
+          "users": [
+            "znmxodq1"
+          ],
+          "count": 1
+        }
+      ]
+    },
+    {
+      "client_msg_id": "8f43fbcf-01da-4dbd-9268-600d6e16fa6f",
+      "type": "message",
+      "text": "SSD絶対殺す構成",
+      "user": "tatsumigamou",
+      "ts": "1653266476.766939",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "LSh6x",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "SSD絶対殺す構成"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "reactions": [
+        {
+          "name": "sorena",
+          "users": [
+            "yutakatay",
+            "znmxodq1",
+            "U02HC93TJEP"
+          ],
+          "count": 3
+        }
+      ]
+    },
+    {
+      "client_msg_id": "e726afd7-8c70-4c63-a26e-b4fd148fd9d8",
+      "type": "message",
+      "text": "ゴリゴリ強者スタイルだ",
+      "user": "tatsumigamou",
+      "ts": "1653266466.101809",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "E0L6",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "ゴリゴリ強者スタイルだ"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "reactions": [
+        {
+          "name": "wakaru",
+          "users": [
+            "yutakatay"
+          ],
+          "count": 1
+        }
+      ]
+    },
+    {
+      "client_msg_id": "8b6cd37d-4ebf-4860-a31f-a17a64037e00",
+      "type": "message",
+      "text": "全部swapするのかと思ってしまった",
+      "user": "yutakatay",
+      "ts": "1653266456.348539",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "Jch",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "全部swapするのかと思ってしまった"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "reactions": [
+        {
+          "name": "warau",
+          "users": [
+            "U8T8KB5M4",
+            "UD124KPDJ",
+            "buzz.taiki",
+            "UJ7P75WB1",
+            "znmxodq1",
+            "U02HC93TJEP",
+            "U01K1P68HFA"
+          ],
+          "count": 7
+        }
+      ]
+    },
+    {
+      "client_msg_id": "fa04ba62-f543-4b16-97a3-bad205e7c694",
+      "type": "message",
+      "text": "まあこれなら16GBぐらい載せてもらった方が安い気がする",
+      "user": "tatsumigamou",
+      "ts": "1653266431.725649",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "aNW4",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "まあこれなら16GBぐらい載せてもらった方が安い気がする"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "131c6fa0-fa4c-45ba-ac00-9a52d1f8a879",
+      "type": "message",
+      "text": "あーなるほどそういう意味か",
+      "user": "yutakatay",
+      "ts": "1653266431.250669",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "ljkw1",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "あーなるほどそういう意味か"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "ebd45e43-9df3-4058-b741-564a93f2e0b3",
+      "type": "message",
+      "text": "メモリはセルフサービスって事じゃないですかね",
+      "user": "tatsumigamou",
+      "ts": "1653266397.154209",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "WKwU",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "メモリはセルフサービスって事じゃないですかね"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "e58f19a1-68a2-4af8-83e2-802b4948c60b",
+      "type": "message",
+      "text": "これどういうことだ？\nメモリ0GB/SSD 256GB\t4万5,980円\t3万9,980円",
+      "user": "yutakatay",
+      "ts": "1653266376.697019",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "gM+j",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "これどういうことだ？\nメモリ0GB/SSD 256GB\t4万5,980円\t3万9,980円"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "7226b822-4175-40f2-99d6-ce56b9aa6f23",
+      "type": "message",
+      "text": "<https://pc.watch.impress.co.jp/docs/news/1410356.html|https://pc.watch.impress.co.jp/docs/news/1410356.html>",
+      "user": "raa0121",
+      "ts": "1653266235.919869",
+      "team": "T0GFBAM8C",
+      "attachments": [
+        {
+          "from_url": "https://pc.watch.impress.co.jp/docs/news/1410356.html",
+          "ts": 1652926707,
+          "image_url": "https://pc.watch.impress.co.jp/img/pcw/list/1410/356/1.jpg",
+          "image_width": 444,
+          "image_height": 250,
+          "image_bytes": 215302,
+          "service_icon": "https://pc.watch.impress.co.jp/favicon.ico",
+          "id": 1,
+          "original_url": "https://pc.watch.impress.co.jp/docs/news/1410356.html",
+          "fallback": "PC Watch: Manjaro Linux搭載のミニPCがMINISFORUMから。公式お墨付き",
+          "text": "　MINISFORUMは、OSとしてManjaro LinuxをプリインストールしたミニPC「EliteMini UM350x Manjaro Linux」を発売した。なおこの製品はManjaroのサイトのトップからもリンクされており、実質公式のお墨付きマシンということになるだろうか。",
+          "title": "Manjaro Linux搭載のミニPCがMINISFORUMから。公式お墨付き",
+          "title_link": "https://pc.watch.impress.co.jp/docs/news/1410356.html",
+          "service_name": "PC Watch"
+        }
+      ],
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "9f73",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "link",
+                  "url": "https://pc.watch.impress.co.jp/docs/news/1410356.html",
+                  "text": "https://pc.watch.impress.co.jp/docs/news/1410356.html"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "reactions": [
+        {
+          "name": "majika",
+          "users": [
+            "yutakatay",
+            "U01K1P68HFA"
+          ],
+          "count": 2
+        }
+      ]
+    },
+    {
+      "client_msg_id": "46c7dea0-c787-45cc-82af-fe31bf826dac",
+      "type": "message",
+      "text": "なるほど\n<https://twitter.com/minagi_yu/status/1528373332714098691>",
+      "user": "yutakatay",
+      "ts": "1653265229.417359",
+      "team": "T0GFBAM8C",
+      "attachments": [
+        {
+          "from_url": "https://twitter.com/minagi_yu/status/1528373332714098691",
+          "ts": 1653227572,
+          "id": 1,
+          "original_url": "https://twitter.com/minagi_yu/status/1528373332714098691",
+          "fallback": "<https://twitter.com/minagi_yu|@minagi_yu>: アーチリナックス、インストールする話はよく聞くけど、使ってる話は聞かない",
+          "text": "アーチリナックス、インストールする話はよく聞くけど、使ってる話は聞かない",
+          "author_name": "みなぎ🌱",
+          "author_link": "https://twitter.com/minagi_yu/status/1528373332714098691",
+          "author_icon": "https://pbs.twimg.com/profile_images/1513536019001671683/MNva444__normal.jpg",
+          "author_subname": "@minagi_yu",
+          "service_name": "twitter",
+          "service_url": "https://twitter.com/",
+          "footer": "Twitter",
+          "footer_icon": "https://a.slack-edge.com/80588/img/services/twitter_pixel_snapped_32.png"
+        }
+      ],
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "XXOp6",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "なるほど\n"
+                },
+                {
+                  "type": "link",
+                  "url": "https://twitter.com/minagi_yu/status/1528373332714098691"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "reactions": [
+        {
+          "name": "triumph",
+          "users": [
+            "UBEFL3YLE",
+            "dohq",
+            "U6DL9D3AB"
+          ],
+          "count": 3
+        }
+      ]
+    },
+    {
+      "client_msg_id": "0E67D862-0F3B-4220-8C2B-023888822FF5",
+      "type": "message",
+      "text": "`:global/hoge/normal I//` はどうでしょう",
+      "user": "oyasumi60",
+      "ts": "1653232381.441659",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "ivfU",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": ":global/hoge/normal I//",
+                  "style": {
+                    "code": true
+                  }
+                },
+                {
+                  "type": "text",
+                  "text": " はどうでしょう"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "thread_ts": "1653232381.441659",
+      "reply_count": 1,
+      "reply_users_count": 1,
+      "latest_reply": "1653262993.614849",
+      "reply_users": [
+        "getalotofmail"
+      ],
+      "is_locked": false,
+      "subscribed": false,
+      "reactions": [
+        {
+          "name": "pray",
+          "users": [
+            "getalotofmail"
+          ],
+          "count": 1
+        }
+      ]
+    },
+    {
+      "client_msg_id": "14ebdb9b-dddd-482a-bfc4-ce5b6b02bd89",
+      "type": "message",
+      "text": "vimである文字列を含む行を一括でコメントアウトしたいときってどうすればいいですか?",
+      "user": "getalotofmail",
+      "ts": "1653229406.453569",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "90k",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "vimである文字列を含む行を一括でコメントアウトしたいときってどうすればいいですか?"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "77d8eba0-b764-4f54-94f8-7827addc9a75",
+      "type": "message",
+      "text": "3Dプリンタ検索すると安くてよく目につくやつだ",
+      "user": "vermilion928",
+      "ts": "1653217588.669169",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "wBjI",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "3Dプリンタ検索すると安くてよく目につくやつだ"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "reactions": [
+        {
+          "name": "+1",
+          "users": [
+            "yutakatay"
+          ],
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "message",
+      "subtype": "thread_broadcast",
+      "text": "3Dプリンタですが結局これが1万3000円くらいになったときに買おうかなという気がしてきました。来週タイムセールらしいし\n<https://amazon.jp/dp/B08LZDNPGV>",
+      "user": "yutakatay",
+      "ts": "1653210991.085739",
+      "thread_ts": "1653050145.701809",
+      "root": {
+        "client_msg_id": "8be57c9a-825b-48a1-b13d-327b7242dc1c",
+        "type": "message",
+        "text": "これとかでいいのかなー？一応Linuxでも動くっぽいし。。。土日もう少し検討してみよう・・・\n<https://amazon.jp/dp/B07FFKXR81>",
+        "user": "yutakatay",
+        "ts": "1653050145.701809",
+        "team": "T0GFBAM8C",
+        "blocks": [
+          {
+            "type": "rich_text",
+            "block_id": "zULm",
+            "elements": [
+              {
+                "type": "rich_text_section",
+                "elements": [
+                  {
+                    "type": "text",
+                    "text": "これとかでいいのかなー？一応Linuxでも動くっぽいし。。。土日もう少し検討してみよう・・・\n"
+                  },
+                  {
+                    "type": "link",
+                    "url": "https://amazon.jp/dp/B07FFKXR81"
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "thread_ts": "1653050145.701809",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1653210991.085739",
+        "reply_users": [
+          "yutakatay"
+        ],
+        "is_locked": false,
+        "subscribed": false
+      },
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "uyf",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "3Dプリンタですが結局これが1万3000円くらいになったときに買おうかなという気がしてきました。来週タイムセールらしいし\n"
+                },
+                {
+                  "type": "link",
+                  "url": "https://amazon.jp/dp/B08LZDNPGV"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "client_msg_id": "b155393f-6dfc-4cac-9a37-9816dd5d2201"
+    },
+    {
+      "client_msg_id": "457cd456-f7c0-4b9f-a5b3-7272d7ccb603",
+      "type": "message",
+      "text": "余暇でゲームもプログラミングもしてる人ほんとすごいですよね。私はゲームが楽しすぎて他のことできなくなっちゃう。",
+      "user": "yutakatay",
+      "ts": "1653138231.760029",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "4nS",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "余暇でゲームもプログラミングもしてる人ほんとすごいですよね。私はゲームが楽しすぎて他のことできなくなっちゃう。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "reactions": [
+        {
+          "name": "video_game",
+          "users": [
+            "syui",
+            "UD124KPDJ",
+            "e195755"
+          ],
+          "count": 3
+        }
+      ]
+    },
+    {
+      "client_msg_id": "AC58F8DC-457C-4DA6-B724-FB2492D9DF35",
+      "type": "message",
+      "text": "(その可能性もあると思って消しました、笑",
+      "user": "syui",
+      "ts": "1653137318.257669",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "Veh/",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "(その可能性もあると思って消しました、笑"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "5689c3ad-dab5-4fd7-886d-77fc20638fb2",
+      "type": "message",
+      "text": "あ、私はやってないですね。。。ボス戦とかやってるのをみただけですw",
+      "user": "yutakatay",
+      "ts": "1653136673.780229",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "y11",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "あ、私はやってないですね。。。ボス戦とかやってるのをみただけですw"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "A2E4EA0D-8F65-4FAB-9B5C-BA0289431445",
+      "type": "message",
+      "text": "すごい",
+      "user": "syui",
+      "ts": "1653130356.442939",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "FsQF",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "すごい"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "2910fbd5-56cd-477f-bc80-f4bc4086459e",
+      "type": "message",
+      "text": "私はもう全クリしましたね（ゲーム配信をみて）",
+      "user": "yutakatay",
+      "ts": "1653130332.794859",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "6gK",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "私はもう全クリしましたね（ゲーム配信をみて）"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "13F2C295-556F-4741-A4D9-2DD7BE3D76A0",
+      "type": "message",
+      "text": "暗いマップ酔うのでまだやれてない",
+      "user": "syui",
+      "ts": "1653130273.682499",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "wN/QL",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "暗いマップ酔うのでまだやれてない"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "416D234E-0B3D-436A-8FC2-BA169EDE4DF8",
+      "type": "message",
+      "text": "お、エルデンリングだ。ハマってる人多い",
+      "user": "syui",
+      "ts": "1653130172.865459",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "cL=A",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "お、エルデンリングだ。ハマってる人多い"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "cef05c1e-16f5-4d16-a299-3efe00317333",
+      "type": "message",
+      "text": "<https://pc.watch.impress.co.jp/docs/column/ubuntu/1409524.html>",
+      "user": "yutakatay",
+      "ts": "1653127692.320609",
+      "team": "T0GFBAM8C",
+      "attachments": [
+        {
+          "from_url": "https://pc.watch.impress.co.jp/docs/column/ubuntu/1409524.html",
+          "ts": 1653081900,
+          "image_url": "https://pc.watch.impress.co.jp/img/pcw/list/1409/524/elden_001.png",
+          "image_width": 555,
+          "image_height": 250,
+          "image_bytes": 1200405,
+          "service_icon": "https://pc.watch.impress.co.jp/favicon.ico",
+          "id": 1,
+          "original_url": "https://pc.watch.impress.co.jp/docs/column/ubuntu/1409524.html",
+          "fallback": "PC Watch: 【Ubuntu日和】 【第3回】Ubuntuでもエルデンリングを動かせる！ SteamでWindows用のゲームをプレイしよう",
+          "text": "　第2回では、Windowsに対するUbuntuの利点を紹介した。Ubuntuの特徴を知ることで、自分なりの「Ubuntuを使う理由」が見つかったのであれば幸いだ。さて、そもそもの話になるが、OSとはアプリケーションを動かす土台でしかない。ほとんどの場合、OSの選定理由において支配的なのは「自分が使いたいアプリが動くかどうか」ではないだろうか。",
+          "title": "【Ubuntu日和】 【第3回】Ubuntuでもエルデンリングを動かせる！ SteamでWindows用のゲームをプレイしよう",
+          "title_link": "https://pc.watch.impress.co.jp/docs/column/ubuntu/1409524.html",
+          "service_name": "PC Watch"
+        }
+      ],
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "YD8Oq",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "link",
+                  "url": "https://pc.watch.impress.co.jp/docs/column/ubuntu/1409524.html"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "480545a5-7978-4bf9-92fe-1649b7c1928f",
+      "type": "message",
+      "text": "部屋に置き場所があったらサラッと買いたいんですけどねぇ、、、3Dプリンタ二個起きは結構スペース食う",
+      "user": "vermilion928",
+      "ts": "1653050513.594199",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "F1R",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "部屋に置き場所があったらサラッと買いたいんですけどねぇ、、、3Dプリンタ二個起きは結構スペース食う"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "reactions": [
+        {
+          "name": "naruhodo",
+          "users": [
+            "yutakatay"
+          ],
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "message",
+      "text": "スライサーソフト(Blenderで出力したSTLとかを3Dプリンタで出力できるように柱とかを付与したヤツにするやつ)もAURので動きそうな雰囲気",
+      "files": [
+        {
+          "id": "F03GDEA2UBW",
+          "created": 1653050417,
+          "timestamp": 1653050417,
+          "name": "20220520213923.png",
+          "title": "20220520213923.png",
+          "mimetype": "image/png",
+          "filetype": "png",
+          "pretty_type": "PNG",
+          "user": "vermilion928",
+          "editable": false,
+          "size": 45481,
+          "mode": "hosted",
+          "is_external": false,
+          "external_type": "",
+          "is_public": true,
+          "public_url_shared": false,
+          "display_as_bot": false,
+          "username": "",
+          "url_private": "https://files.slack.com/files-pri/T0GFBAM8C-F03GDEA2UBW/20220520213923.png",
+          "url_private_download": "https://files.slack.com/files-pri/T0GFBAM8C-F03GDEA2UBW/download/20220520213923.png",
+          "media_display_type": "unknown",
+          "thumb_64": "https://files.slack.com/files-tmb/T0GFBAM8C-F03GDEA2UBW-ed7bbc0448/20220520213923_64.png",
+          "thumb_80": "https://files.slack.com/files-tmb/T0GFBAM8C-F03GDEA2UBW-ed7bbc0448/20220520213923_80.png",
+          "thumb_360": "https://files.slack.com/files-tmb/T0GFBAM8C-F03GDEA2UBW-ed7bbc0448/20220520213923_360.png",
+          "thumb_360_w": 360,
+          "thumb_360_h": 66,
+          "thumb_480": "https://files.slack.com/files-tmb/T0GFBAM8C-F03GDEA2UBW-ed7bbc0448/20220520213923_480.png",
+          "thumb_480_w": 480,
+          "thumb_480_h": 88,
+          "thumb_160": "https://files.slack.com/files-tmb/T0GFBAM8C-F03GDEA2UBW-ed7bbc0448/20220520213923_160.png",
+          "original_w": 602,
+          "original_h": 110,
+          "thumb_tiny": "AwAIADCvvOOTSbqZRQA7IoJptFADs0maSigD/9k=",
+          "permalink": "https://archlinuxjp.slack.com/files/vermilion928/F03GDEA2UBW/20220520213923.png",
+          "permalink_public": "https://slack-files.com/T0GFBAM8C-F03GDEA2UBW-12d772fb69",
+          "is_starred": false,
+          "has_rich_preview": false
+        }
+      ],
+      "upload": false,
+      "user": "vermilion928",
+      "display_as_bot": false,
+      "ts": "1653050456.925299",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "8Xc",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "スライサーソフト(Blenderで出力したSTLとかを3Dプリンタで出力できるように柱とかを付与したヤツにするやつ)もAURので動きそうな雰囲気"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "client_msg_id": "9bb05cc8-2990-4d56-81b7-e7c8f00d171d",
+      "thread_ts": "1653050456.925299",
+      "reply_count": 11,
+      "reply_users_count": 2,
+      "latest_reply": "1653371886.251429",
+      "reply_users": [
+        "kusanaginoturugi",
+        "vermilion928"
+      ],
+      "is_locked": false,
+      "subscribed": false
+    },
+    {
+      "client_msg_id": "c94d354b-2466-414f-a4ea-de50e5d884f6",
+      "type": "message",
+      "text": "↑のやつよさそう",
+      "user": "vermilion928",
+      "ts": "1653050412.471849",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "r9hl7",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "↑のやつよさそう"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "7adfcef7-5b09-4198-9447-951ba5cc115a",
+      "type": "message",
+      "text": "今安いですよ、積層系の安いやつは1万円前後で買えます。",
+      "user": "vermilion928",
+      "ts": "1653050399.016749",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "W0F",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "今安いですよ、積層系の安いやつは1万円前後で買えます。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "reactions": [
+        {
+          "name": "hee",
+          "users": [
+            "buzz.taiki",
+            "yutakatay"
+          ],
+          "count": 2
+        }
+      ]
+    },
+    {
+      "client_msg_id": "c15459e4-75cb-4201-8803-777ea595a8c6",
+      "type": "message",
+      "text": "3DプリンタってHHKBより安いもんなんですね\n品質はどうか分かりませんが",
+      "user": "tatsumigamou",
+      "ts": "1653050345.063789",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "rnw",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "3DプリンタってHHKBより安いもんなんですね\n品質はどうか分かりませんが"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "a8988ee4-dbfb-4f2a-8594-f7f31df677f0",
+      "type": "message",
+      "text": "お安い",
+      "user": "tatsumigamou",
+      "ts": "1653050190.909049",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "bUSP",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "お安い"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "8be57c9a-825b-48a1-b13d-327b7242dc1c",
+      "type": "message",
+      "text": "これとかでいいのかなー？一応Linuxでも動くっぽいし。。。土日もう少し検討してみよう・・・\n<https://amazon.jp/dp/B07FFKXR81>",
+      "user": "yutakatay",
+      "ts": "1653050145.701809",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "zULm",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "これとかでいいのかなー？一応Linuxでも動くっぽいし。。。土日もう少し検討してみよう・・・\n"
+                },
+                {
+                  "type": "link",
+                  "url": "https://amazon.jp/dp/B07FFKXR81"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "thread_ts": "1653050145.701809",
+      "reply_count": 1,
+      "reply_users_count": 1,
+      "latest_reply": "1653210991.085739",
+      "reply_users": [
+        "yutakatay"
+      ],
+      "is_locked": false,
+      "subscribed": false
+    },
+    {
+      "client_msg_id": "8fb5447a-51f7-4234-8b3a-ccba85c89413",
+      "type": "message",
+      "text": "実は漠然と「Linuxでなんとかできんのかなぁ、、、まぁ最悪Wineでなんとかなるか」みたいな感じであんまドライバとか調べずELEGOO MARS2買ったんですよねｗ 運よく公式からLinuxドライバというか ~~データ作成ソフト~~ スライサーが提供されてて助かった",
+      "user": "vermilion928",
+      "ts": "1653049753.309349",
+      "team": "T0GFBAM8C",
+      "edited": {
+        "user": "vermilion928",
+        "ts": "1653050715.000000"
+      },
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "PNzUi",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "実は漠然と「Linuxでなんとかできんのかなぁ、、、まぁ最悪Wineでなんとかなるか」みたいな感じであんまドライバとか調べずELEGOO MARS2買ったんですよねｗ 運よく公式からLinuxドライバというか ~~データ作成ソフト~~ スライサーが提供されてて助かった"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "reactions": [
+        {
+          "name": "majika",
+          "users": [
+            "yutakatay"
+          ],
+          "count": 1
+        },
+        {
+          "name": "naruhodo",
+          "users": [
+            "e195755"
+          ],
+          "count": 1
+        }
+      ]
+    },
+    {
+      "client_msg_id": "7DCACDBA-B82E-4D68-AE8D-13F098337B56",
+      "type": "message",
+      "text": "大変だけど",
+      "user": "syui",
+      "ts": "1653049715.883859",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "ibAW2",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "大変だけど"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "CE408823-A757-41DB-BA3F-B87E5576D1E8",
+      "type": "message",
+      "text": "linuxで動かすところから楽しい",
+      "user": "syui",
+      "ts": "1653049695.750299",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "Y3dW",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "linuxで動かすところから楽しい"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "3dc6bd7a-ecf2-4010-a6ab-f6418c996815",
+      "type": "message",
+      "text": "んで上のzennの記事に行き着いたわけです",
+      "user": "yutakatay",
+      "ts": "1653049686.809089",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "T1Vb",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "んで上のzennの記事に行き着いたわけです"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "ded1068b-df6a-4c71-b4d5-5bd0ffff4962",
+      "type": "message",
+      "text": "&gt; （Linuxでも使えるやつ）\nこれ(重要)",
+      "user": "vermilion928",
+      "ts": "1653049667.609939",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "LBuzC",
+          "elements": [
+            {
+              "type": "rich_text_quote",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "（Linuxでも使えるやつ）"
+                }
+              ]
+            },
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "これ(重要)"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "reactions": [
+        {
+          "name": "sorena",
+          "users": [
+            "yutakatay",
+            "znmxodq1",
+            "UQDJXPHJ9"
+          ],
+          "count": 3
+        }
+      ]
+    },
+    {
+      "client_msg_id": "f5f5e53d-8e8e-4784-9a9b-b9cd7c93003e",
+      "type": "message",
+      "text": "なにをやりたいとかも特になくてちょっと触ってなんか作ってみたいくらいのモチベーションなんですよね・・・3万以内くらいで使いやすい（Linuxでも使えるやつ）がほしいですね。。。\nメーカーも知らないのばっかりだ・・・",
+      "user": "yutakatay",
+      "ts": "1653049642.809559",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "E5D0z",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "なにをやりたいとかも特になくてちょっと触ってなんか作ってみたいくらいのモチベーションなんですよね・・・3万以内くらいで使いやすい（Linuxでも使えるやつ）がほしいですね。。。\nメーカーも知らないのばっかりだ・・・"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "b696406e-1c7d-4738-a83e-24d01f2245e2",
+      "type": "message",
+      "text": "ちなみに光造形でも積層でもデータの作り方は変わらないですね\nあーでも積層は安いものだと0.5ミリくらいのぼこぼこができるから、あんま詳細な有機形状はむずかしかったりするかも",
+      "user": "vermilion928",
+      "ts": "1653049627.254989",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "5Fh",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "ちなみに光造形でも積層でもデータの作り方は変わらないですね\nあーでも積層は安いものだと0.5ミリくらいのぼこぼこができるから、あんま詳細な有機形状はむずかしかったりするかも"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "reactions": [
+        {
+          "name": "hee",
+          "users": [
+            "yutakatay"
+          ],
+          "count": 1
+        },
+        {
+          "name": "sorena",
+          "users": [
+            "kusanaginoturugi"
+          ],
+          "count": 1
+        }
+      ]
+    },
+    {
+      "client_msg_id": "2a465a79-42c7-42b8-be4b-f8d3d6a23387",
+      "type": "message",
+      "text": "Blender使えるならいいですね。（ほぼ使ったことないですけど）",
+      "user": "yutakatay",
+      "ts": "1653049533.212359",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "DkO",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "Blender使えるならいいですね。（ほぼ使ったことないですけど）"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "e1eae7cc-37a3-4655-a399-05996bde4ef6",
+      "type": "message",
+      "text": "無機的なものを作る場合のベストアンサーはちょっとわからないですね、、、 10年前はSketchUpというWindowsのソフトが死ぬほど無機的なモデリングしやすかったんですけど、、、\n\nまぁちょっと覚えることが多くて大変ですが、とりあえずBlenderが使えるようになったら無敵になれます",
+      "user": "vermilion928",
+      "ts": "1653049506.769639",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "cC6",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "無機的なものを作る場合のベストアンサーはちょっとわからないですね、、、 10年前はSketchUpというWindowsのソフトが死ぬほど無機的なモデリングしやすかったんですけど、、、\n\nまぁちょっと覚えることが多くて大変ですが、とりあえずBlenderが使えるようになったら無敵になれます"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "reactions": [
+        {
+          "name": "hee",
+          "users": [
+            "yutakatay"
+          ],
+          "count": 1
+        },
+        {
+          "name": "naruhodo",
+          "users": [
+            "syui"
+          ],
+          "count": 1
+        }
+      ]
+    },
+    {
+      "client_msg_id": "68b00f27-4692-4399-891a-3eb9f21a6bee",
+      "type": "message",
+      "text": "有機的な形のものを作るか無機的(プリミティブ)な形のものを作るかで選択肢がかわるかもしれませんね。 私は特に用途なくとりあえずフィギュア的(有機的形状)なものを出力するのにしか使わなかったので、Blenderのスカルプトモデリング(粘土こねるみたいに造形できる手法)を利用しました",
+      "user": "vermilion928",
+      "ts": "1653049432.763459",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "Ki6n",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "有機的な形のものを作るか無機的(プリミティブ)な形のものを作るかで選択肢がかわるかもしれませんね。 私は特に用途なくとりあえずフィギュア的(有機的形状)なものを出力するのにしか使わなかったので、Blenderのスカルプトモデリング(粘土こねるみたいに造形できる手法)を利用しました"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "F67E38BC-B4CD-4F7F-9D4A-15E6C2CEC4EC",
+      "type": "message",
+      "text": "3Dモデル作る時ってどんな手順、ツールを使うと一番いいのでしょうか?",
+      "user": "syui",
+      "ts": "1653049334.398419",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "dLZ5",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "3Dモデル作る時ってどんな手順、ツールを使うと一番いいのでしょうか?"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "message",
+      "text": "透明なケースがついてるやつは大体光造形のものです。光造形は 若干値段が高め/くさい/出力が詳細/出力時間が長い/素材がレジン みたいな特性があります",
+      "files": [
+        {
+          "id": "F03G4BVKU6A",
+          "created": 1653049184,
+          "timestamp": 1653049184,
+          "name": "20220520211845.png",
+          "title": "20220520211845.png",
+          "mimetype": "image/png",
+          "filetype": "png",
+          "pretty_type": "PNG",
+          "user": "vermilion928",
+          "editable": false,
+          "size": 722965,
+          "mode": "hosted",
+          "is_external": false,
+          "external_type": "",
+          "is_public": true,
+          "public_url_shared": false,
+          "display_as_bot": false,
+          "username": "",
+          "url_private": "https://files.slack.com/files-pri/T0GFBAM8C-F03G4BVKU6A/20220520211845.png",
+          "url_private_download": "https://files.slack.com/files-pri/T0GFBAM8C-F03G4BVKU6A/download/20220520211845.png",
+          "media_display_type": "unknown",
+          "thumb_64": "https://files.slack.com/files-tmb/T0GFBAM8C-F03G4BVKU6A-b0c3c26401/20220520211845_64.png",
+          "thumb_80": "https://files.slack.com/files-tmb/T0GFBAM8C-F03G4BVKU6A-b0c3c26401/20220520211845_80.png",
+          "thumb_360": "https://files.slack.com/files-tmb/T0GFBAM8C-F03G4BVKU6A-b0c3c26401/20220520211845_360.png",
+          "thumb_360_w": 360,
+          "thumb_360_h": 202,
+          "thumb_480": "https://files.slack.com/files-tmb/T0GFBAM8C-F03G4BVKU6A-b0c3c26401/20220520211845_480.png",
+          "thumb_480_w": 480,
+          "thumb_480_h": 270,
+          "thumb_160": "https://files.slack.com/files-tmb/T0GFBAM8C-F03G4BVKU6A-b0c3c26401/20220520211845_160.png",
+          "thumb_720": "https://files.slack.com/files-tmb/T0GFBAM8C-F03G4BVKU6A-b0c3c26401/20220520211845_720.png",
+          "thumb_720_w": 720,
+          "thumb_720_h": 405,
+          "thumb_800": "https://files.slack.com/files-tmb/T0GFBAM8C-F03G4BVKU6A-b0c3c26401/20220520211845_800.png",
+          "thumb_800_w": 800,
+          "thumb_800_h": 450,
+          "thumb_960": "https://files.slack.com/files-tmb/T0GFBAM8C-F03G4BVKU6A-b0c3c26401/20220520211845_960.png",
+          "thumb_960_w": 960,
+          "thumb_960_h": 539,
+          "thumb_1024": "https://files.slack.com/files-tmb/T0GFBAM8C-F03G4BVKU6A-b0c3c26401/20220520211845_1024.png",
+          "thumb_1024_w": 1024,
+          "thumb_1024_h": 575,
+          "original_w": 1655,
+          "original_h": 930,
+          "thumb_tiny": "AwAaADCZZvnuM8+X93jpUxn/AHSuMjPtTldSSFOT3x2p4GQOTQNkRmImVc8HHY1JIWCEr1p3frSDByAwNAiFpnjjLODnPGBTvO/eKucbhnkVLj3o79aAKcUEiSzN8nzdPzqztOFy3I9KkxSYHpSshttkRV/OBABHrmozA53kOBkYBAwRVqkxxTEVxDIFx5gzk9cninBHEoJKEdc4OelTYpcUAf/Z",
+          "permalink": "https://archlinuxjp.slack.com/files/vermilion928/F03G4BVKU6A/20220520211845.png",
+          "permalink_public": "https://slack-files.com/T0GFBAM8C-F03G4BVKU6A-49e7d60c29",
+          "is_starred": false,
+          "has_rich_preview": false
+        }
+      ],
+      "upload": false,
+      "user": "vermilion928",
+      "display_as_bot": false,
+      "ts": "1653049293.801979",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "PkVXg",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "透明なケースがついてるやつは大体光造形のものです。光造形は 若干値段が高め/くさい/出力が詳細/出力時間が長い/素材がレジン みたいな特性があります"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "client_msg_id": "229d43c1-895a-4b69-812f-23071d30bb48",
+      "reactions": [
+        {
+          "name": "naruhodo",
+          "users": [
+            "yutakatay"
+          ],
+          "count": 1
+        }
+      ]
+    },
+    {
+      "client_msg_id": "50d84f1c-829c-4da6-9a4a-2eb4fddfc886",
+      "type": "message",
+      "text": "大学の研究室で積層系の３Dプリンタはいっぱい触ってたから、あんまり経験がなく、より詳細な出力のできる光造形のやつ買ったんですが…… 想像以上にセッティングがめんどくさくて気軽に出力できない",
+      "user": "vermilion928",
+      "ts": "1653048946.292179",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "U3j5z",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "大学の研究室で積層系の３Dプリンタはいっぱい触ってたから、あんまり経験がなく、より詳細な出力のできる光造形のやつ買ったんですが…… 想像以上にセッティングがめんどくさくて気軽に出力できない"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "reactions": [
+        {
+          "name": "hee",
+          "users": [
+            "yutakatay",
+            "znmxodq1",
+            "UQDJXPHJ9",
+            "U02ASPM0A6T"
+          ],
+          "count": 4
+        },
+        {
+          "name": "me-too",
+          "users": [
+            "kusanaginoturugi"
+          ],
+          "count": 1
+        }
+      ]
+    },
+    {
+      "client_msg_id": "8041ad11-72f3-409f-904e-12d3675d1de3",
+      "type": "message",
+      "text": "それも光造形ですね\n積層系というのは、ABSとかPLAとかの素材で造形するものです",
+      "user": "vermilion928",
+      "ts": "1653048844.493289",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "ptkUI",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "それも光造形ですね\n積層系というのは、ABSとかPLAとかの素材で造形するものです"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "811984ce-b1c4-4a4c-9f6e-1b27f7d070ca",
+      "type": "message",
+      "text": "これとかでいいですかね？？（まったくの初心者でかつ3Dモデリングとかもやったことない勢です）\n<https://amazon.jp/dp/B08F7LZQV9>",
+      "user": "yutakatay",
+      "ts": "1653048556.982689",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "NkMSt",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "これとかでいいですかね？？（まったくの初心者でかつ3Dモデリングとかもやったことない勢です）\n"
+                },
+                {
+                  "type": "link",
+                  "url": "https://amazon.jp/dp/B08F7LZQV9"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "b592d53a-518a-45e9-ba4d-307ee2904e68",
+      "type": "message",
+      "text": "初めてなら光造形のタイプより積層系がよいですよ、楽なので（上の記事は光造形のもの）",
+      "user": "vermilion928",
+      "ts": "1653046840.451649",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "vdY",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "初めてなら光造形のタイプより積層系がよいですよ、楽なので（上の記事は光造形のもの）"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "reactions": [
+        {
+          "name": "sparkles",
+          "users": [
+            "syui"
+          ],
+          "count": 1
+        },
+        {
+          "name": "+1",
+          "users": [
+            "yutakatay",
+            "kusanaginoturugi"
+          ],
+          "count": 2
+        }
+      ]
+    },
+    {
+      "client_msg_id": "6B36A0AF-88A9-44B5-A44C-916E0223AE8B",
+      "type": "message",
+      "text": "そういえば <@vermilion928> さん、3Dプリンタで色々作ってた",
+      "user": "syui",
+      "ts": "1653039084.960199",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "7I2a5",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "そういえば "
+                },
+                {
+                  "type": "user",
+                  "user_id": "vermilion928"
+                },
+                {
+                  "type": "text",
+                  "text": " さん、3Dプリンタで色々作ってた"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "9b435124-d4ca-490e-8fa5-7523141bc71d",
+      "type": "message",
+      "text": "なぜか3Dプリンタが欲しい今日この頃\n<https://zenn.dev/akai/articles/08bdea69488a50>",
+      "user": "yutakatay",
+      "ts": "1653037267.793559",
+      "team": "T0GFBAM8C",
+      "attachments": [
+        {
+          "from_url": "https://zenn.dev/akai/articles/08bdea69488a50",
+          "image_url": "https://res.cloudinary.com/zenn/image/upload/s--Mt4KEKc9--/co_rgb:222%2Cg_south_west%2Cl_text:notosansjp-medium.otf_37_bold:AKAI%2520-%2520Shota%2520Sa...%2Cx_203%2Cy_98/c_fit%2Cco_rgb:222%2Cg_north_west%2Cl_text:notosansjp-medium.otf_70_bold:ELEGOO%2520MARS%25202%25E3%2582%2592%25E4%25BD%25BF%25E3%2581%25A3%25E3%2581%25A6%25E3%2580%2581stl%25E3%2583%2595%25E3%2582%25A1%25E3%2582%25A4%25E3%2583%25AB%25E3%2582%25923D%25E3%2583%2597%25E3%2583%25AA%25E3%2583%25B3%25E3%2583%2588%25E3%2581%2599%25E3%2582%258B%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9yZXMuY2xvdWRpbmFyeS5jb20vemVubi9pbWFnZS9mZXRjaC9zLS1mU0dqUEhYNS0tL2NfbGltaXQlMkNmX2F1dG8lMkNmbF9wcm9ncmVzc2l2ZSUyQ3FfYXV0byUyQ3dfNzAvaHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzFlNjMwZjZmYjkuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_72/v1627274783/default/og-base_z4sxah.png",
+          "image_width": 476,
+          "image_height": 250,
+          "image_bytes": 34941,
+          "service_icon": "https://zenn.dev/images/icon.png",
+          "id": 1,
+          "original_url": "https://zenn.dev/akai/articles/08bdea69488a50",
+          "fallback": "Zenn: ELEGOO MARS 2を使って、stlファイルを3Dプリントする",
+          "title": "ELEGOO MARS 2を使って、stlファイルを3Dプリントする",
+          "title_link": "https://zenn.dev/akai/articles/08bdea69488a50",
+          "service_name": "Zenn"
+        }
+      ],
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "Unp",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "なぜか3Dプリンタが欲しい今日この頃\n"
+                },
+                {
+                  "type": "link",
+                  "url": "https://zenn.dev/akai/articles/08bdea69488a50"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "70487136-b838-4a83-88ac-e78fafe185bb",
+      "type": "message",
+      "text": "Alacritty のタイトルバーがショボかったのがマシになるのはうれしい。",
+      "user": "buzz.taiki",
+      "ts": "1653012909.737279",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "T=SKJ",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "Alacritty のタイトルバーがショボかったのがマシになるのはうれしい。"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "2ad4df79-0a90-4854-b56c-70a42a024dbb",
+      "type": "message",
+      "text": "winit に Gnome on Wayland でタイトルバーをそれっぽく表示する修正が入ったみたい。\n<https://github.com/rust-windowing/winit/pull/2263>",
+      "user": "buzz.taiki",
+      "ts": "1653011945.228369",
+      "team": "T0GFBAM8C",
+      "edited": {
+        "user": "buzz.taiki",
+        "ts": "1653012011.000000"
+      },
+      "attachments": [
+        {
+          "from_url": "https://github.com/rust-windowing/winit/pull/2263",
+          "image_url": "https://opengraph.githubassets.com/d4d946197cf3d86d4e4253922a29197519df87e4810385647d62189774cbee04/rust-windowing/winit/pull/2263",
+          "image_width": 500,
+          "image_height": 250,
+          "image_bytes": 80341,
+          "service_icon": "https://a.slack-edge.com/80588/img/unfurl_icons/github.png",
+          "id": 1,
+          "original_url": "https://github.com/rust-windowing/winit/pull/2263",
+          "fallback": "GitHub: wayland: Replace fallback CSD with proper one by PolyMeilex · Pull Request #2263 · rust-windowing/winit",
+          "text": "Hi! I wrote a simple CSD implementation for Smithay client toolkit, and I think it could be a good default for winit. Here is winit running with those decorations: Let me also answer ...",
+          "title": "wayland: Replace fallback CSD with proper one by PolyMeilex · Pull Request #2263 · rust-windowing/winit",
+          "title_link": "https://github.com/rust-windowing/winit/pull/2263",
+          "service_name": "GitHub"
+        }
+      ],
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "HEBWn",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "winit に Gnome on Wayland でタイトルバーをそれっぽく表示する修正が入ったみたい。\n"
+                },
+                {
+                  "type": "link",
+                  "url": "https://github.com/rust-windowing/winit/pull/2263"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "reactions": [
+        {
+          "name": "eyes",
+          "users": [
+            "U01K1P68HFA"
+          ],
+          "count": 1
+        }
+      ]
+    },
+    {
+      "client_msg_id": "73A57922-65CB-4B6B-BDAA-86841FC2FDA7",
+      "type": "message",
+      "text": "ナイトライダー面白そうだから見ようかな",
+      "user": "syui",
+      "ts": "1652960146.367919",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "EJm+p",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "ナイトライダー面白そうだから見ようかな"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "622f486f-5db4-46b3-a9ca-6210b799e2e6",
+      "type": "message",
+      "text": "一時期人のタイプからなんて打ってるのか読み解く練習をしてたけど無理だった。読打術？",
+      "user": "yutakatay",
+      "ts": "1652960109.789029",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "MeXF",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "一時期人のタイプからなんて打ってるのか読み解く練習をしてたけど無理だった。読打術？"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "94b6fb71-5ddb-458a-ad99-270bb2dc8060",
+      "type": "message",
+      "text": "となりのビルから会議室の窓の揺れで内容復元する的なやつと同じ感じで使えそう",
+      "user": "yutakatay",
+      "ts": "1652960049.043469",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "soR",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "となりのビルから会議室の窓の揺れで内容復元する的なやつと同じ感じで使えそう"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "3ee2727c-8942-492d-9bbc-3238e0847a1b",
+      "type": "message",
+      "text": "ナイトライダーでパスワードをキータッチ音で覚えているってネタがあったことを思い出した",
+      "user": "angel.beats.kanade.yu",
+      "ts": "1652960034.426809",
+      "team": "T0GFBAM8C",
+      "edited": {
+        "user": "angel.beats.kanade.yu",
+        "ts": "1652960058.000000"
+      },
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "8mW3",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "ナイトライダーでパスワードをキータッチ音で覚えているってネタがあったことを思い出した"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "f7def03e-baf5-49f4-a1e5-1ae2aee36bf4",
+      "type": "message",
+      "text": "すごい",
+      "user": "yutakatay",
+      "ts": "1652959983.837729",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "xjfv",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "すごい"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "1DA96E57-2405-4AC1-B68F-5D675CA7BFE9",
+      "type": "message",
+      "text": "すごい、音が大きいキーボードなら電池要らずのbluetoothみたいに使えそう\n<https://internet.watch.impress.co.jp/docs/yajiuma/1410281.html|https://internet.watch.impress.co.jp/docs/yajiuma/1410281.html>",
+      "user": "syui",
+      "ts": "1652957705.607259",
+      "team": "T0GFBAM8C",
+      "attachments": [
+        {
+          "from_url": "https://internet.watch.impress.co.jp/docs/yajiuma/1410281.html",
+          "ts": 1652907600,
+          "image_url": "https://internet.watch.impress.co.jp/img/iw/list/1410/281/yajiuma-watch_3.png",
+          "image_width": 333,
+          "image_height": 250,
+          "image_bytes": 110805,
+          "service_icon": "https://internet.watch.impress.co.jp/favicon.ico",
+          "id": 1,
+          "original_url": "https://internet.watch.impress.co.jp/docs/yajiuma/1410281.html",
+          "fallback": "INTERNET Watch: 通電すら不要？ キーボードのタイプ音から入力文字を復元する禁断のツールが公開中【やじうまWatch】",
+          "text": "　キーボードのタイプ音を聞き取り、入力された文字を復元できるかをブラウザー上で手軽にチェックできるツールが公開中だ。",
+          "title": "通電すら不要？ キーボードのタイプ音から入力文字を復元する禁断のツールが公開中【やじうまWatch】",
+          "title_link": "https://internet.watch.impress.co.jp/docs/yajiuma/1410281.html",
+          "service_name": "INTERNET Watch"
+        }
+      ],
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "+Izf",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "すごい、音が大きいキーボードなら電池要らずのbluetoothみたいに使えそう\n"
+                },
+                {
+                  "type": "link",
+                  "url": "https://internet.watch.impress.co.jp/docs/yajiuma/1410281.html",
+                  "text": "https://internet.watch.impress.co.jp/docs/yajiuma/1410281.html"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "reactions": [
+        {
+          "name": "hee",
+          "users": [
+            "U02ASPM0A6T",
+            "U01K1P68HFA"
+          ],
+          "count": 2
+        }
+      ]
+    },
+    {
+      "client_msg_id": "496a1d4c-3f22-40b6-85fa-a96433bfca63",
+      "type": "message",
+      "text": "22だった",
+      "user": "tatsumigamou",
+      "ts": "1652708241.784099",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "ZZU",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "22だった"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "reactions": [
+        {
+          "name": "majika",
+          "users": [
+            "yutakatay"
+          ],
+          "count": 1
+        }
+      ]
+    },
+    {
+      "client_msg_id": "762301a0-ef81-401c-a3ba-2dc813fc3a1f",
+      "type": "message",
+      "text": "使ってるAURパッケージの整理をした。29個になった。こいつ気がついたら増えていく",
+      "user": "yutakatay",
+      "ts": "1652685286.149809",
+      "team": "T0GFBAM8C",
+      "edited": {
+        "user": "yutakatay",
+        "ts": "1652685664.000000"
+      },
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "sK4",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "使ってるAURパッケージの整理をした。29個になった。こいつ気がついたら増えていく"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "reactions": [
+        {
+          "name": "goodpoem",
+          "users": [
+            "s5is",
+            "U01J1GGMHDJ",
+            "U01HE1ENNJZ",
+            "U01K1P68HFA"
+          ],
+          "count": 4
+        },
+        {
+          "name": "sugoi",
+          "users": [
+            "U8T8KB5M4",
+            "U01HE1ENNJZ"
+          ],
+          "count": 2
+        },
+        {
+          "name": "wakaru",
+          "users": [
+            "U6DL9D3AB",
+            "buzz.taiki",
+            "U01HE1ENNJZ"
+          ],
+          "count": 3
+        }
+      ]
+    },
+    {
+      "client_msg_id": "4c5fd459-0fe2-4045-aebf-dfaf488a476a",
+      "type": "message",
+      "text": "個人的にはあんまり惹かれなかったですね・・・もっと低層（カーネル周り）かもっと上層（Unixporn周り）なら興味ありますけど・・・",
+      "user": "yutakatay",
+      "ts": "1652624672.959659",
+      "team": "T0GFBAM8C",
+      "edited": {
+        "user": "yutakatay",
+        "ts": "1652794058.000000"
+      },
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "xqQFF",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "個人的にはあんまり惹かれなかったですね・・・もっと低層（カーネル周り）かもっと上層（Unixporn周り）なら興味ありますけど・・・"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "reactions": [
+        {
+          "name": "naruhodo",
+          "users": [
+            "e195755",
+            "getalotofmail",
+            "s5is",
+            "U01J1GGMHDJ",
+            "U01HE1ENNJZ"
+          ],
+          "count": 5
+        }
+      ]
+    },
+    {
+      "client_msg_id": "c72325dc-cc21-461a-b63c-d67b7a9938da",
+      "type": "message",
+      "text": "<https://twitter.com/chizu_potato/status/1525457575197544448>\n面白そう",
+      "user": "e195755",
+      "ts": "1652624579.688109",
+      "team": "T0GFBAM8C",
+      "attachments": [
+        {
+          "from_url": "https://twitter.com/chizu_potato/status/1525457575197544448",
+          "ts": 1652532402,
+          "image_url": "https://pbs.twimg.com/media/FSuDkimUAAAxpm8.jpg",
+          "image_width": 675,
+          "image_height": 1200,
+          "image_bytes": 138372,
+          "id": 1,
+          "original_url": "https://twitter.com/chizu_potato/status/1525457575197544448",
+          "fallback": "<https://twitter.com/chizu_potato|@chizu_potato>: この本、すげぇわ   Linux使う上で気になってたこと全部書かれてるし、最近流行りWaylandについても言及されてる\n\nかなり低レイヤなLinuxユーザー向けだね  ArchとかGentooとか <https://pbs.twimg.com/media/FSuDkimUAAAxpm8.jpg>",
+          "text": "この本、すげぇわ   Linux使う上で気になってたこと全部書かれてるし、最近流行りWaylandについても言及されてる\n\nかなり低レイヤなLinuxユーザー向けだね  ArchとかGentooとか <https://pbs.twimg.com/media/FSuDkimUAAAxpm8.jpg>",
+          "author_name": "チズチズ(Ochi Yuma)",
+          "author_link": "https://twitter.com/chizu_potato/status/1525457575197544448",
+          "author_icon": "https://pbs.twimg.com/profile_images/1492081030236291073/y6ju3D2m_normal.jpg",
+          "author_subname": "@chizu_potato",
+          "service_name": "twitter",
+          "service_url": "https://twitter.com/",
+          "footer": "Twitter",
+          "footer_icon": "https://a.slack-edge.com/80588/img/services/twitter_pixel_snapped_32.png"
+        },
+        {
+          "image_url": "https://pbs.twimg.com/media/FSuDkylUcAAVgxB.jpg",
+          "image_width": 675,
+          "image_height": 1200,
+          "image_bytes": 119420,
+          "id": 2,
+          "fallback": "675x1200px image",
+          "text": "<https://pbs.twimg.com/media/FSuDkylUcAAVgxB.jpg>"
+        }
+      ],
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "6kdp",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "link",
+                  "url": "https://twitter.com/chizu_potato/status/1525457575197544448"
+                },
+                {
+                  "type": "text",
+                  "text": "\n面白そう"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "reactions": [
+        {
+          "name": "eyes",
+          "users": [
+            "U02HC93TJEP",
+            "U01HE1ENNJZ"
+          ],
+          "count": 2
+        }
+      ]
+    },
+    {
+      "client_msg_id": "baacbf1d-7fe4-4f86-8d51-ec0b41c2fc5c",
+      "type": "message",
+      "text": "GitLabがんばってほしいけどGitHubが強すぎる・・・",
+      "user": "yutakatay",
+      "ts": "1652510469.463489",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "2+=",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "GitLabがんばってほしいけどGitHubが強すぎる・・・"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "reactions": [
+        {
+          "name": "sorena",
+          "users": [
+            "U6DL9D3AB",
+            "UD124KPDJ",
+            "angel.beats.kanade.yu",
+            "U5JRJL4AF",
+            "kusanaginoturugi",
+            "U01HE1ENNJZ"
+          ],
+          "count": 6
+        }
+      ]
+    },
+    {
+      "client_msg_id": "20b3d5df-fd85-4386-a721-9df2b71d9f8c",
+      "type": "message",
+      "text": ":gitlab:",
+      "user": "syui",
+      "ts": "1652490254.450309",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "KLw",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "emoji",
+                  "name": "gitlab"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "reactions": [
+        {
+          "name": "gitlab",
+          "users": [
+            "U02ASPM0A6T",
+            "U01HE1ENNJZ",
+            "U01K1P68HFA"
+          ],
+          "count": 3
+        }
+      ]
+    },
+    {
+      "client_msg_id": "a220facf-fabb-4098-a535-0cb115433c25",
+      "type": "message",
+      "text": ":github:",
+      "user": "syui",
+      "ts": "1652489679.338529",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "Gzph",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "emoji",
+                  "name": "github"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "5aebb5e1-dc4b-4567-afbd-5d3512591c42",
+      "type": "message",
+      "text": "まだキツネっぽい気がするんだけど、あまり丸くすると、octocat(github)との違いがわからなくなりそうで、悩ましそう",
+      "user": "syui",
+      "ts": "1652489616.524259",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "VWMH",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "まだキツネっぽい気がするんだけど、あまり丸くすると、octocat(github)との違いがわからなくなりそうで、悩ましそう"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "reactions": [
+        {
+          "name": "tashikani",
+          "users": [
+            "yutakatay",
+            "U01HE1ENNJZ"
+          ],
+          "count": 2
+        }
+      ]
+    },
+    {
+      "client_msg_id": "80de7c1a-d768-484e-95fc-af99ec713867",
+      "type": "message",
+      "text": "<https://www.publickey1.jp/blog/22/gitlabdevops.html>",
+      "user": "syui",
+      "ts": "1652489519.921329",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "zXu",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "link",
+                  "url": "https://www.publickey1.jp/blog/22/gitlabdevops.html"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "a9846e4b-83ee-4ec7-a029-8e472beb7a87",
+      "type": "message",
+      "text": "それはそれとして一番上位のコメントが画像に一切触れてないのも面白い。",
+      "user": "s5is",
+      "ts": "1652436236.480879",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "Nmh",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "それはそれとして一番上位のコメントが画像に一切触れてないのも面白い。"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "90de2c61-9954-4c28-882d-c5f437f2c9ca",
+      "type": "message",
+      "text": "これ口元無理やり笑わせられているのかな。再度笑えてきた。",
+      "user": "yutaro.ono.418",
+      "ts": "1652434893.904909",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "CsT",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "これ口元無理やり笑わせられているのかな。再度笑えてきた。"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "3ba70577-7264-41c9-8f56-7b8ae3e49433",
+      "type": "message",
+      "text": "完全にあのトーンで脳内再生されてフフッてなってる",
+      "user": "dohq",
+      "ts": "1652431990.570639",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "fjsFv",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "完全にあのトーンで脳内再生されてフフッてなってる"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "reactions": [
+        {
+          "name": "wakaru",
+          "users": [
+            "yutakatay",
+            "U6DL9D3AB",
+            "yutaro.ono.418",
+            "znmxodq1",
+            "s5is",
+            "UJ7P75WB1",
+            "U01HE1ENNJZ"
+          ],
+          "count": 7
+        }
+      ]
+    },
+    {
+      "client_msg_id": "fb6600ac-68e6-457b-b66b-0c031ea59f5a",
+      "type": "message",
+      "text": "w\n<https://www.reddit.com/r/linuxmasterrace/comments/uo29my/nvidia_thank_you/>",
+      "user": "yutakatay",
+      "ts": "1652416459.669829",
+      "team": "T0GFBAM8C",
+      "attachments": [
+        {
+          "from_url": "https://www.reddit.com/r/linuxmasterrace/comments/uo29my/nvidia_thank_you/",
+          "image_url": "https://preview.redd.it/yx90r68612z81.jpg?overlay-align=bottom,left&crop=640:335.078534031,smart&overlay-height=15p&overlay=%2Fwatermark%2Ft5_2ykcc.png%3Fs%3D38f7881b56c8d08d2394d931ca6bbf251dbab595&width=640&height=335.078534031&auto=webp&s=e88f4459f6d3c39d5dabaf11bbc3609ea060ea0f",
+          "image_width": 478,
+          "image_height": 250,
+          "image_bytes": 23054,
+          "service_icon": "http://www.redditstatic.com/desktop2x/img/favicon/apple-icon-57x57.png",
+          "id": 1,
+          "original_url": "https://www.reddit.com/r/linuxmasterrace/comments/uo29my/nvidia_thank_you/",
+          "fallback": "reddit: Nvidia, Thank You",
+          "text": "Posted in r/linuxmasterrace by u/micro-aries • 964 points and 52 comments",
+          "title": "Nvidia, Thank You",
+          "title_link": "https://www.reddit.com/r/linuxmasterrace/comments/uo29my/nvidia_thank_you/",
+          "service_name": "reddit"
+        }
+      ],
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "Uu89",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "w\n"
+                },
+                {
+                  "type": "link",
+                  "url": "https://www.reddit.com/r/linuxmasterrace/comments/uo29my/nvidia_thank_you/"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "reactions": [
+        {
+          "name": "warau",
+          "users": [
+            "yutaro.ono.418",
+            "U01J1GGMHDJ",
+            "UD124KPDJ",
+            "buzz.taiki",
+            "U6DL9D3AB",
+            "znmxodq1",
+            "UJ7P75WB1",
+            "U027WUR5Z25",
+            "dohq",
+            "UPLFHSQ2V",
+            "s5is",
+            "haxibami",
+            "U02HC93TJEP",
+            "U034C51EP9Q",
+            "U01HE1ENNJZ"
+          ],
+          "count": 15
+        },
+        {
+          "name": "sob",
+          "users": [
+            "yutaro.ono.418",
+            "U01K1P68HFA"
+          ],
+          "count": 2
+        },
+        {
+          "name": "+1",
+          "users": [
+            "UBEFL3YLE",
+            "U02ASPM0A6T",
+            "syui",
+            "U031Y1JFXM2"
+          ],
+          "count": 4
+        }
+      ]
+    },
+    {
+      "client_msg_id": "3f960cb7-5006-47b6-b502-6f8e04d6fe56",
+      "type": "message",
+      "text": "結局最終的には手動インストールと変わらんはずですし",
+      "user": "znmxodq1",
+      "ts": "1652351111.434039",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "o0rT",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "結局最終的には手動インストールと変わらんはずですし"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "96fbf989-b1ef-4ccb-a0b3-a8e410bc929d",
+      "type": "message",
+      "text": "実機のドライブ上に作業用のパーティション作りたくないのです",
+      "user": "getalotofmail",
+      "ts": "1652351100.439509",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "bPmhK",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "実機のドライブ上に作業用のパーティション作りたくないのです"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "d37b1c23-46d9-4e1e-a5e7-32a43d82e1d8",
+      "type": "message",
+      "text": "Archができるならできる、多分",
+      "user": "znmxodq1",
+      "ts": "1652351077.240489",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "j83k",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "Archができるならできる、多分"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "7e821ccb-f503-4e52-bbe2-93149256be57",
+      "type": "message",
+      "text": "あんまりArch関係ないですが、Linux from scratchってUSB Drive上でもできるんでしょうか？",
+      "user": "getalotofmail",
+      "ts": "1652350983.172989",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "WroQ",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "あんまりArch関係ないですが、Linux from scratchってUSB Drive上でもできるんでしょうか？"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "f4aa5be2-f0cb-42ff-ae66-c421ae12b18c",
+      "type": "message",
+      "text": "Vivaldiがアップデートしてからクッソ落ちるから今回のアップデートちょっと待ったほうがいいかもですね・・・Macでも同様の症状の方がいるのでたぶん直してくれる（Linuxにしか影響のないfcitrxのやつはまだ直してくれない・・・）",
+      "user": "yutakatay",
+      "ts": "1652334096.903419",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "cBT/b",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "Vivaldiがアップデートしてからクッソ落ちるから今回のアップデートちょっと待ったほうがいいかもですね・・・Macでも同様の症状の方がいるのでたぶん直してくれる（Linuxにしか影響のないfcitrxのやつはまだ直してくれない・・・）"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "85a1851b-71d8-464a-b8e9-7ec794f8bfc1",
+      "type": "message",
+      "text": "ハード関連はLinuxの知識結構あってもデバッグつらいですからね〜\n特にグラフィカルな部分とか",
+      "user": "yutakatay",
+      "ts": "1652320887.785219",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "+28",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "ハード関連はLinuxの知識結構あってもデバッグつらいですからね〜\n特にグラフィカルな部分とか"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "reactions": [
+        {
+          "name": "wakaru",
+          "users": [
+            "znmxodq1",
+            "U01HE1ENNJZ"
+          ],
+          "count": 2
+        }
+      ]
+    },
+    {
+      "client_msg_id": "a715c7f7-3916-4794-9247-ad18ac04ec6a",
+      "type": "message",
+      "text": "ArchWikiに個別記事があったりして便利",
+      "user": "znmxodq1",
+      "ts": "1652320814.994119",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "9vI",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "ArchWikiに個別記事があったりして便利"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "has_more": true,
+  "is_limited": false,
+  "pin_count": 0,
+  "channel_actions_ts": null,
+  "channel_actions_count": 0,
+  "response_metadata": {
+    "next_cursor": "bmV4dF90czoxNjUyMzIwNzgzMDk5MDI5"
+  }
+}

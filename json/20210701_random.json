@@ -1,0 +1,1485 @@
+{
+  "ok": true,
+  "latest": "1627819861.000000",
+  "oldest": "1625141461.000000",
+  "messages": [
+    {
+      "client_msg_id": "e7d8b163-a99f-4981-b518-3d18a45eee24",
+      "type": "message",
+      "text": "vimのパッケージ、今見たら outdatedフラグ立ってたので更新されるかも",
+      "user": "getalotofmail",
+      "ts": "1627683890.001500",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "5hBrd",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "vimのパッケージ、今見たら outdatedフラグ立ってたので更新されるかも"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "message",
+      "subtype": "channel_join",
+      "ts": "1627348318.387000",
+      "user": "goldenchildren69",
+      "text": "<@goldenchildren69>さんがチャンネルに参加しました"
+    },
+    {
+      "client_msg_id": "c0338d45-72d5-4888-8647-70fe1c4d754a",
+      "type": "message",
+      "text": "更新の間隔がよくわからんので自力でパッケージ作成してる",
+      "user": "znmxodq1",
+      "ts": "1627187826.385700",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "OG=A",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "更新の間隔がよくわからんので自力でパッケージ作成してる"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "36af8075-3fea-46ca-b3b9-7b9132ac4aa4",
+      "type": "message",
+      "text": "<https://github.com/archlinux/svntogit-packages/commits/packages/vim/trunk>\n確かに、5月までは月に1回以上は更新されてますね",
+      "user": "raa0121",
+      "ts": "1627187783.385200",
+      "team": "T0GFBAM8C",
+      "attachments": [
+        {
+          "service_name": "GitHub",
+          "title": "History for trunk - archlinux/svntogit-packages",
+          "title_link": "https://github.com/archlinux/svntogit-packages/commits/packages/vim/trunk",
+          "text": "Automatic import of svn 'packages' repo (read-only mirror) - History for trunk - archlinux/svntogit-packages",
+          "fallback": "GitHub: History for trunk - archlinux/svntogit-packages",
+          "image_url": "https://opengraph.githubassets.com/d1198adbb85adcdcc8fd5441b53b5e498e7fc29f33e6fe62cdac9f610505c465/archlinux/svntogit-packages",
+          "image_width": 500,
+          "image_height": 250,
+          "from_url": "https://github.com/archlinux/svntogit-packages/commits/packages/vim/trunk",
+          "image_bytes": 57268,
+          "service_icon": "https://a.slack-edge.com/80588/img/unfurl_icons/github.png",
+          "id": 1,
+          "original_url": "https://github.com/archlinux/svntogit-packages/commits/packages/vim/trunk"
+        }
+      ],
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "4qPxV",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "link",
+                  "url": "https://github.com/archlinux/svntogit-packages/commits/packages/vim/trunk"
+                },
+                {
+                  "type": "text",
+                  "text": "\n確かに、5月までは月に1回以上は更新されてますね"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "bad2e378-b69c-4a7b-813c-8a31f8e68523",
+      "type": "message",
+      "text": "`Build Date      : 2021年05月28日 15時58分52秒`\nとなっている",
+      "user": "getalotofmail",
+      "ts": "1627170794.384700",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "kiTX",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "Build Date      : 2021年05月28日 15時58分52秒",
+                  "style": {
+                    "code": true
+                  }
+                },
+                {
+                  "type": "text",
+                  "text": "\nとなっている"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "e7f9e162-5713-4ab3-9167-dabdb71e679a",
+      "type": "message",
+      "text": "そういえばarchlinuxのgvimのパッケージ、結構長いこと更新されてない?",
+      "user": "getalotofmail",
+      "ts": "1627170680.384000",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "x5wh9",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "そういえばarchlinuxのgvimのパッケージ、結構長いこと更新されてない?"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "message",
+      "subtype": "channel_join",
+      "ts": "1627046147.383200",
+      "user": "syobon",
+      "text": "<@syobon>さんがチャンネルに参加しました"
+    },
+    {
+      "type": "message",
+      "subtype": "channel_join",
+      "ts": "1626858036.382500",
+      "user": "goto",
+      "text": "<@goto>さんがチャンネルに参加しました"
+    },
+    {
+      "type": "message",
+      "subtype": "channel_join",
+      "ts": "1626828860.382200",
+      "user": "watanabet79",
+      "text": "<@watanabet79>さんがチャンネルに参加しました"
+    },
+    {
+      "client_msg_id": "5a5dfa54-5a77-46c1-a18f-8d8dd2957e93",
+      "type": "message",
+      "text": "この間からmicrosoft-edgeがセグフォして起動しない問題で困っていたのですが、今見たらいくつか解決策が出ていました\n- `systemd` `systemd-libs` を248-3に戻す\n- `/etc/nsswitch.conf` のhosts行をコメントアウト\n- `systemd-resolved` の利用をやめて `/etc/resolv.conf` を手動管理\n自分はnsswitch.confの修正で起動できました\naurのコメントを見るとどれも動いたり動かなかったりと環境によっては解決しないみたいですが、もし困っている方がいらっしゃいましたら参考になれば幸いです",
+      "user": "kc5m",
+      "ts": "1626741831.381600",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "yFE",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "この間からmicrosoft-edgeがセグフォして起動しない問題で困っていたのですが、今見たらいくつか解決策が出ていました\n- "
+                },
+                {
+                  "type": "text",
+                  "text": "systemd",
+                  "style": {
+                    "code": true
+                  }
+                },
+                {
+                  "type": "text",
+                  "text": " "
+                },
+                {
+                  "type": "text",
+                  "text": "systemd-libs",
+                  "style": {
+                    "code": true
+                  }
+                },
+                {
+                  "type": "text",
+                  "text": " を248-3に戻す\n- "
+                },
+                {
+                  "type": "text",
+                  "text": "/etc/nsswitch.conf",
+                  "style": {
+                    "code": true
+                  }
+                },
+                {
+                  "type": "text",
+                  "text": " のhosts行をコメントアウト\n- "
+                },
+                {
+                  "type": "text",
+                  "text": "systemd-resolved",
+                  "style": {
+                    "code": true
+                  }
+                },
+                {
+                  "type": "text",
+                  "text": " の利用をやめて "
+                },
+                {
+                  "type": "text",
+                  "text": "/etc/resolv.conf",
+                  "style": {
+                    "code": true
+                  }
+                },
+                {
+                  "type": "text",
+                  "text": " を手動管理\n自分はnsswitch.confの修正で起動できました\naurのコメントを見るとどれも動いたり動かなかったりと環境によっては解決しないみたいですが、もし困っている方がいらっしゃいましたら参考になれば幸いです"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "reactions": [
+        {
+          "name": "+1",
+          "users": [
+            "syui",
+            "znmxodq1",
+            "dohq",
+            "kokopis",
+            "watanabet79",
+            "UJ7P75WB1",
+            "a3784197"
+          ],
+          "count": 7
+        }
+      ]
+    },
+    {
+      "type": "message",
+      "subtype": "channel_join",
+      "ts": "1626439854.375100",
+      "user": "zhaoguoyuan",
+      "text": "<@zhaoguoyuan>さんがチャンネルに参加しました",
+      "reactions": [
+        {
+          "name": "archjp",
+          "users": [
+            "a3784197"
+          ],
+          "count": 1
+        }
+      ]
+    },
+    {
+      "client_msg_id": "4f41981f-5804-40e8-9cdb-9faf7766d0f9",
+      "type": "message",
+      "text": "KDEはいいぞ〜",
+      "user": "znmxodq1",
+      "ts": "1626436700.374700",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "44Wcb",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "KDEはいいぞ〜"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "reactions": [
+        {
+          "name": "+1",
+          "users": [
+            "U2YNMHCTV",
+            "UJ7P75WB1"
+          ],
+          "count": 2
+        },
+        {
+          "name": "thinking_face",
+          "users": [
+            "kusanaginoturugi"
+          ],
+          "count": 1
+        }
+      ]
+    },
+    {
+      "client_msg_id": "1f86be7c-6a12-4b58-9356-1723848fe7ed",
+      "type": "message",
+      "text": "&gt; （Steam Deckは）オープンなPCであり，OSを入れ替えることも可能」だと説明されている\nとあるので入れ替え自由に出来そうですね\n<https://www.4gamer.net/games/038/G003821/20210716023/>",
+      "user": "dohq",
+      "ts": "1626431783.374000",
+      "team": "T0GFBAM8C",
+      "attachments": [
+        {
+          "title": "小型ゲームPC「Steam Deck」が12月にリリース。AMDのカスタムAPUを搭載して，価格は399ドルより",
+          "title_link": "https://www.4gamer.net/games/038/G003821/20210716023/",
+          "text": "　Valveは，「SteamOS」とAMDのカスタムAPUを搭載した小型ゲームPC「Steam Deck」を2021年12月，北米とイギリスおよびEU地域を対象に販売すると発表した。7インチのタッチスクリーンやアナログスティック，ジャイロセンサーなどを搭載し，価格はストレージ容量により，399ドルからとなっている。",
+          "fallback": "小型ゲームPC「Steam Deck」が12月にリリース。AMDのカスタムAPUを搭載して，価格は399ドルより",
+          "image_url": "https://www.4gamer.net/games/038/G003821/20210716023/SS/013.jpg",
+          "from_url": "https://www.4gamer.net/games/038/G003821/20210716023/",
+          "image_width": 444,
+          "image_height": 250,
+          "image_bytes": 192283,
+          "service_icon": "https://www.4gamer.net/favicon.ico",
+          "service_name": "4gamer.net",
+          "id": 1,
+          "original_url": "https://www.4gamer.net/games/038/G003821/20210716023/"
+        }
+      ],
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "3Py",
+          "elements": [
+            {
+              "type": "rich_text_quote",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "（Steam Deckは）オープンなPCであり，OSを入れ替えることも可能」だと説明されている"
+                }
+              ]
+            },
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "とあるので入れ替え自由に出来そうですね\n"
+                },
+                {
+                  "type": "link",
+                  "url": "https://www.4gamer.net/games/038/G003821/20210716023/"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "reactions": [
+        {
+          "name": "goodpoem",
+          "users": [
+            "U70QDFN82",
+            "znmxodq1",
+            "getalotofmail",
+            "U017BNGTHT3",
+            "U022AA9JS04",
+            "kusanaginoturugi",
+            "UJ7P75WB1"
+          ],
+          "count": 7
+        }
+      ]
+    },
+    {
+      "client_msg_id": "d69e938a-5e31-413b-a44e-ab4121b19acc",
+      "type": "message",
+      "text": "リマインダーだけ入れておきました",
+      "user": "raa0121",
+      "ts": "1626428614.373100",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "ZQU",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "リマインダーだけ入れておきました"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "4617d2ac-54c5-45a0-833d-ab0d9c120238",
+      "type": "message",
+      "text": "日本はまだ予約できないんですね",
+      "user": "h.hata.ai.t",
+      "ts": "1626428561.372800",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "y9pxW",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "日本はまだ予約できないんですね"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "49285a0f-3ee0-4fb3-9081-09427d1ad5f2",
+      "type": "message",
+      "text": "Steamのこれって好きなOS入れられるのですか?Steam OS抜いて素のArch Linuxとか",
+      "user": "getalotofmail",
+      "ts": "1626420744.372400",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "KWEE",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "Steamのこれって好きなOS入れられるのですか?Steam OS抜いて素のArch Linuxとか"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "dcfd30ef-881a-4f99-8a83-a366b267e51f",
+      "type": "message",
+      "text": "KDE は重いって印象だったんだけど、最近では軽いとかいわれてて、ちょっと気にはなってるんだよね。",
+      "user": "kusanaginoturugi",
+      "ts": "1626415424.370100",
+      "team": "T0GFBAM8C",
+      "edited": {
+        "user": "kusanaginoturugi",
+        "ts": "1626415547.000000"
+      },
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "ftf3",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "KDE は重いって印象だったんだけど、最近では軽いとかいわれてて、ちょっと気にはなってるんだよね。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "reactions": [
+        {
+          "name": "hee",
+          "users": [
+            "kokopis",
+            "dohq",
+            "znmxodq1",
+            "aminokacho",
+            "a3784197"
+          ],
+          "count": 5
+        },
+        {
+          "name": "blush",
+          "users": [
+            "syui",
+            "a3784197"
+          ],
+          "count": 2
+        }
+      ]
+    },
+    {
+      "type": "message",
+      "subtype": "channel_join",
+      "ts": "1626405874.369000",
+      "user": "yuyakatox",
+      "text": "<@yuyakatox>さんがチャンネルに参加しました"
+    },
+    {
+      "client_msg_id": "67c49a78-96ae-4839-96ec-7f84f3b621c2",
+      "type": "message",
+      "text": "しかしDEがPlasmaなのは気になる",
+      "user": "kokopis",
+      "ts": "1626404165.368800",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "0czVO",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "しかしDEがPlasmaなのは気になる"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "0ca8021b-b668-49ce-908c-f433dcde6771",
+      "type": "message",
+      "text": "Archベースなのマジか",
+      "user": "kokopis",
+      "ts": "1626404145.368300",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "c9v",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "Archベースなのマジか"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "6c982943-ad7a-44d4-af17-0d135f1cf0e7",
+      "type": "message",
+      "text": "SteamOSはどうしたと思ったら、SteamOS 3.0からarch linuxベースになったのね（混乱）",
+      "user": "naokihirokitomoki",
+      "ts": "1626403027.367700",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "QC33c",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "SteamOSはどうしたと思ったら、SteamOS 3.0からarch linuxベースになったのね（混乱）"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "87488f18-7ac5-4a2d-96cd-229db94f51f7",
+      "type": "message",
+      "text": "Archベースとはやりおるなあ。",
+      "user": "kusanaginoturugi",
+      "ts": "1626401738.365200",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "f1pDy",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "Archベースとはやりおるなあ。"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "D7CCA5C6-2637-448A-87A7-D441000B965B",
+      "type": "message",
+      "text": "おお",
+      "user": "syui",
+      "ts": "1626400357.364600",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "48qU/",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "おお"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "reactions": [
+        {
+          "name": "tada",
+          "users": [
+            "kusanaginoturugi",
+            "a3784197",
+            "znmxodq1"
+          ],
+          "count": 3
+        }
+      ]
+    },
+    {
+      "client_msg_id": "0ab972c6-ee9c-4c02-bd09-d00f7c1416a8",
+      "type": "message",
+      "text": "<https://store.steampowered.com/steamdeck> 欲しい、Arch + KDE Plasma",
+      "user": "farseerfc",
+      "ts": "1626394433.364300",
+      "team": "T0GFBAM8C",
+      "attachments": [
+        {
+          "title": "Steam Deck",
+          "title_link": "https://store.steampowered.com/steamdeck",
+          "text": "Steam Deck is a powerful handheld gaming PC that delivers the Steam games and features you love.",
+          "fallback": "Steam Deck",
+          "image_url": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/clans/39049601/d4e4c324c448bcc1bf43d01e170ceb832d14cc78.jpg",
+          "ts": 1626367693,
+          "from_url": "https://store.steampowered.com/steamdeck",
+          "image_width": 444,
+          "image_height": 250,
+          "image_bytes": 58106,
+          "service_name": "store.steampowered.com",
+          "id": 1,
+          "original_url": "https://store.steampowered.com/steamdeck"
+        }
+      ],
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "5nTl",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "link",
+                  "url": "https://store.steampowered.com/steamdeck"
+                },
+                {
+                  "type": "text",
+                  "text": " 欲しい、Arch + KDE Plasma"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "reactions": [
+        {
+          "name": "+1",
+          "users": [
+            "U70QDFN82",
+            "kusanaginoturugi",
+            "a3784197",
+            "znmxodq1",
+            "U01JJAE8LMA",
+            "UJ7P75WB1"
+          ],
+          "count": 6
+        }
+      ]
+    },
+    {
+      "client_msg_id": "35e31832-691a-469f-bdd6-97b13178c507",
+      "type": "message",
+      "text": "nyan",
+      "user": "znmxodq1",
+      "ts": "1626262512.363100",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "TDQq",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "nyan"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "reactions": [
+        {
+          "name": "nyancat",
+          "users": [
+            "kokopis",
+            "dohq",
+            "a3784197",
+            "U017BNGTHT3",
+            "U6DL9D3AB",
+            "UUWBU08TU"
+          ],
+          "count": 6
+        }
+      ]
+    },
+    {
+      "client_msg_id": "d5d178db-4f74-4c0a-8791-5688cfa89da9",
+      "type": "message",
+      "text": "ねこすき",
+      "user": "kokopis",
+      "ts": "1626246539.362700",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "pIrO5",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "ねこすき"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "567DBD16-2658-4BB8-9A48-2B90ECE2A76B",
+      "type": "message",
+      "text": "ねこさん",
+      "user": "syui",
+      "ts": "1626243203.362400",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "4V+c",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "ねこさん"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "dbb51d59-2812-46f2-ba88-5e565156f640",
+      "type": "message",
+      "text": "ﾈｺﾁｬﾝかわいいですね(そっちじゃない",
+      "user": "claude0803sz",
+      "ts": "1626243113.362200",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "2Ce59",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "ﾈｺﾁｬﾝかわいいですね(そっちじゃない"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "reactions": [
+        {
+          "name": "sorena",
+          "users": [
+            "kokopis",
+            "a3784197",
+            "dohq",
+            "znmxodq1",
+            "aminokacho",
+            "knt.yamada.800"
+          ],
+          "count": 6
+        }
+      ]
+    },
+    {
+      "type": "message",
+      "text": "ArchじゃないんですけどiOS 15で画像のタグとcreator属性が弄れるようになってた:eyes:(前からできたかもしれない)",
+      "files": [
+        {
+          "id": "F027ZTET98A",
+          "created": 1626235708,
+          "timestamp": 1626235708,
+          "name": "Image from iOS.png",
+          "title": "Image from iOS",
+          "mimetype": "image/png",
+          "filetype": "png",
+          "pretty_type": "PNG",
+          "user": "kokopis",
+          "editable": false,
+          "size": 2295948,
+          "mode": "hosted",
+          "is_external": false,
+          "external_type": "",
+          "is_public": true,
+          "public_url_shared": false,
+          "display_as_bot": false,
+          "username": "",
+          "url_private": "https://files.slack.com/files-pri/T0GFBAM8C-F027ZTET98A/image_from_ios.png",
+          "url_private_download": "https://files.slack.com/files-pri/T0GFBAM8C-F027ZTET98A/download/image_from_ios.png",
+          "media_display_type": "unknown",
+          "thumb_64": "https://files.slack.com/files-tmb/T0GFBAM8C-F027ZTET98A-29794d4f1a/image_from_ios_64.png",
+          "thumb_80": "https://files.slack.com/files-tmb/T0GFBAM8C-F027ZTET98A-29794d4f1a/image_from_ios_80.png",
+          "thumb_360": "https://files.slack.com/files-tmb/T0GFBAM8C-F027ZTET98A-29794d4f1a/image_from_ios_360.png",
+          "thumb_360_w": 202,
+          "thumb_360_h": 360,
+          "thumb_480": "https://files.slack.com/files-tmb/T0GFBAM8C-F027ZTET98A-29794d4f1a/image_from_ios_480.png",
+          "thumb_480_w": 270,
+          "thumb_480_h": 480,
+          "thumb_160": "https://files.slack.com/files-tmb/T0GFBAM8C-F027ZTET98A-29794d4f1a/image_from_ios_160.png",
+          "thumb_720": "https://files.slack.com/files-tmb/T0GFBAM8C-F027ZTET98A-29794d4f1a/image_from_ios_720.png",
+          "thumb_720_w": 405,
+          "thumb_720_h": 720,
+          "thumb_800": "https://files.slack.com/files-tmb/T0GFBAM8C-F027ZTET98A-29794d4f1a/image_from_ios_800.png",
+          "thumb_800_w": 450,
+          "thumb_800_h": 800,
+          "thumb_960": "https://files.slack.com/files-tmb/T0GFBAM8C-F027ZTET98A-29794d4f1a/image_from_ios_960.png",
+          "thumb_960_w": 540,
+          "thumb_960_h": 960,
+          "thumb_1024": "https://files.slack.com/files-tmb/T0GFBAM8C-F027ZTET98A-29794d4f1a/image_from_ios_1024.png",
+          "thumb_1024_w": 576,
+          "thumb_1024_h": 1024,
+          "image_exif_rotation": 1,
+          "original_w": 750,
+          "original_h": 1334,
+          "thumb_tiny": "AwAwABqsBSMg69KfihTklSB171CLZatNwRtzE4OBmp6jt/8AVAjvUlUSZ4BprEgHHXFbX4UZ56UWC5ViXbEq+gxT8VPmjNOwhhIz0NLkehpduaNtACFuOhpw6U0cjNOHSgD/2Q==",
+          "permalink": "https://archlinuxjp.slack.com/files/kokopis/F027ZTET98A/image_from_ios.png",
+          "permalink_public": "https://slack-files.com/T0GFBAM8C-F027ZTET98A-2e2782db09",
+          "is_starred": false,
+          "has_rich_preview": false
+        }
+      ],
+      "upload": false,
+      "user": "kokopis",
+      "display_as_bot": false,
+      "ts": "1626235765.361500",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "WGOTf",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "ArchじゃないんですけどiOS 15で画像のタグとcreator属性が弄れるようになってた"
+                },
+                {
+                  "type": "emoji",
+                  "name": "eyes",
+                  "unicode": "1f440"
+                },
+                {
+                  "type": "text",
+                  "text": "(前からできたかもしれない)"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "edited": {
+        "user": "kokopis",
+        "ts": "1626235842.000000"
+      },
+      "client_msg_id": "01D380D9-9CF7-4888-89C9-AA27C3DAFB78"
+    },
+    {
+      "client_msg_id": "21d44980-fdf8-4380-826c-663e353a4cf6",
+      "type": "message",
+      "text": "多分それで行けます\n<https://unix.stackexchange.com/questions/459172/set-multiple-environment-variables-in-desktop-file>",
+      "user": "a3784197",
+      "ts": "1626001708.360100",
+      "team": "T0GFBAM8C",
+      "attachments": [
+        {
+          "service_name": "Unix &amp; Linux Stack Exchange",
+          "title": "set multiple environment variables in .desktop file",
+          "title_link": "https://unix.stackexchange.com/questions/459172/set-multiple-environment-variables-in-desktop-file",
+          "text": "I can add env in .desktop file in /usr/share/applications/ Exec=env FOO=bar /usr/bin/my_prog but I need to set 2 environment variables and no approach that I tried works (using env twice, appending",
+          "fallback": "Unix &amp; Linux Stack Exchange: set multiple environment variables in .desktop file",
+          "thumb_url": "https://cdn.sstatic.net/Sites/unix/Img/apple-touch-icon@2.png?v=32fb07f7ce26",
+          "from_url": "https://unix.stackexchange.com/questions/459172/set-multiple-environment-variables-in-desktop-file",
+          "thumb_width": 316,
+          "thumb_height": 316,
+          "service_icon": "https://cdn.sstatic.net/Sites/unix/Img/apple-touch-icon.png?v=5cf7fe716a89",
+          "id": 1,
+          "original_url": "https://unix.stackexchange.com/questions/459172/set-multiple-environment-variables-in-desktop-file"
+        }
+      ],
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "MgK6",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "多分それで行けます\n"
+                },
+                {
+                  "type": "link",
+                  "url": "https://unix.stackexchange.com/questions/459172/set-multiple-environment-variables-in-desktop-file"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "bad8c17e-ca37-48f7-b99d-5a953e91085b",
+      "type": "message",
+      "text": "`Exec=env name=value name2=value2 firefox`とかすれば良いのでしょうか?",
+      "user": "getalotofmail",
+      "ts": "1625981866.359600",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "tVm",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "`Exec=env name=value name2=value2 firefox`とかすれば良いのでしょうか?"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "51c18ada-4fbd-490c-9c9c-ece6325b7bc8",
+      "type": "message",
+      "text": ".desktop fileでExecに環境変数を複数渡すときはどうすればいいのでしょうか?",
+      "user": "getalotofmail",
+      "ts": "1625981735.357300",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "IS6Tc",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": ".desktop fileでExecに環境変数を複数渡すときはどうすればいいのでしょうか?"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "63230135-1d11-49d9-bc40-ab2d3d763ca7",
+      "type": "message",
+      "text": "デュアルモニターじゃなければ、.Xresources の設定で OK だと思います。デュアルモニターで、dpiがそれぞれ違ってくると、xrandr で細かく設定を弄ることになりますね。いきなり xrandr は厳しければ、arandr を使って、xrandr のオプション指定を確認してみるとよいかも。",
+      "user": "kusanaginoturugi",
+      "ts": "1625967330.355200",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "WVNdY",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "デュアルモニターじゃなければ、.Xresources の設定で OK だと思います。デュアルモニターで、dpiがそれぞれ違ってくると、xrandr で細かく設定を弄ることになりますね。いきなり xrandr は厳しければ、arandr を使って、xrandr のオプション指定を確認してみるとよいかも。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "reactions": [
+        {
+          "name": "eyes",
+          "users": [
+            "aminokacho"
+          ],
+          "count": 1
+        }
+      ]
+    },
+    {
+      "client_msg_id": "a58d4739-ecf5-445f-b11b-2638387f8935",
+      "type": "message",
+      "text": "僕の場合はThinkpadですが、.Xresourcesに下記の設定を書いています。\n```!! Set DPI\nXft.dpi: 160\nXft.auohint: 0\nXft.lcdfilter: lcddefault\nXft.hintstyle: hintfull\nXft.antialias: 1\nXft.rgba: rgb```",
+      "user": "mail",
+      "ts": "1625835105.349200",
+      "team": "T0GFBAM8C",
+      "edited": {
+        "user": "mail",
+        "ts": "1625835137.000000"
+      },
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "PQPO",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "僕の場合はThinkpadですが、.Xresourcesに下記の設定を書いています。\n"
+                }
+              ]
+            },
+            {
+              "type": "rich_text_preformatted",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "!! Set DPI\nXft.dpi: 160\nXft.auohint: 0\nXft.lcdfilter: lcddefault\nXft.hintstyle: hintfull\nXft.antialias: 1\nXft.rgba: rgb"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "thread_ts": "1625835105.349200",
+      "reply_count": 1,
+      "reply_users_count": 1,
+      "latest_reply": "1625966766.350500",
+      "reply_users": [
+        "kusanaginoturugi"
+      ],
+      "is_locked": false,
+      "subscribed": false,
+      "reactions": [
+        {
+          "name": "eyes",
+          "users": [
+            "aminokacho"
+          ],
+          "count": 1
+        }
+      ]
+    },
+    {
+      "client_msg_id": "084b0c44-5e49-4105-961c-1456bda6c020",
+      "type": "message",
+      "text": "あとは、biosメニューみたいなので設定できたりとかあるのかなあ、あまり知らないんですが",
+      "user": "syui",
+      "ts": "1625833613.347500",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "YnnB",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "あとは、biosメニューみたいなので設定できたりとかあるのかなあ、あまり知らないんですが"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "04112acc-c6d9-4e7e-9db1-fb4303d8096f",
+      "type": "message",
+      "text": "了解しました！ありがとうございます。",
+      "user": "aminokacho",
+      "ts": "1625833533.347000",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "4+ZO",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "了解しました！ありがとうございます。"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "943d3e39-75fe-4524-bc0f-315dc9ee7ac5",
+      "type": "message",
+      "text": "設定うまくいって永続化(自動化)したいならxinitrcとかi3のconfとかに書きます",
+      "user": "syui",
+      "ts": "1625833476.346000",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "sy8y",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "設定うまくいって永続化(自動化)したいならxinitrcとかi3のconfとかに書きます"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "4c73e1eb-f834-4871-be18-128e6b5fea7a",
+      "type": "message",
+      "text": "xrandr調べてみて今試行錯誤しながら設定してます",
+      "user": "aminokacho",
+      "ts": "1625833409.345200",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "8d=",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "xrandr調べてみて今試行錯誤しながら設定してます"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "d9a07112-21ad-4ae2-81ea-5796bc2d1e75",
+      "type": "message",
+      "text": "i3使ってます。\nOSの解像度を変えるという方法を思いつきませんでした(反省)",
+      "user": "aminokacho",
+      "ts": "1625833377.344600",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "O+f",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "i3使ってます。\nOSの解像度を変えるという方法を思いつきませんでした(反省)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "b76125bf-e636-42d7-bdc8-1e0145b5a17f",
+      "type": "message",
+      "text": "xrandrとかで変えられますか?",
+      "user": "syui",
+      "ts": "1625833160.343300",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "6+B5",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "xrandrとかで変えられますか?"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "4145c9f4-d56e-44c0-845c-3b8a7ef4d54d",
+      "type": "message",
+      "text": "おお、surface proいいですね",
+      "user": "syui",
+      "ts": "1625833052.342800",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "=a4T",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "おお、surface proいいですね"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "2a67bbe0-b430-4b7e-98ce-d87bb43e5539",
+      "type": "message",
+      "text": "OS の解像度は変えたく無い感じですかね？\nあと、WM は何を使ってますか？",
+      "user": "raa0121",
+      "ts": "1625833047.342700",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "/Nz",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "OS の解像度は変えたく無い感じですかね？\nあと、WM は何を使ってますか？"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "7c21fcd3-f5a2-4673-a1d0-a590e46c1935",
+      "type": "message",
+      "text": "Surface pro7にArch Linuxを入れたところ異常に解像度が高い関係でフォントやアイコンなどすべてが細かくなってしまうのですが、なにか対処法を知っている方はおられますでしょうか？",
+      "user": "aminokacho",
+      "ts": "1625832977.341500",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "wJT",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "Surface pro7にArch Linuxを入れたところ異常に解像度が高い関係でフォントやアイコンなどすべてが細かくなってしまうのですが、なにか対処法を知っている方はおられますでしょうか？"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "message",
+      "subtype": "channel_join",
+      "ts": "1625821817.339600",
+      "user": "aminokacho",
+      "text": "<@aminokacho>さんがチャンネルに参加しました"
+    },
+    {
+      "client_msg_id": "b771cfaa-e056-4d0f-8a16-60554570f941",
+      "type": "message",
+      "text": "たぶんそうですね。デフォルトが日本語配列なんじゃないかな。確認しなかったけど。(わたしはUS派)",
+      "user": "kusanaginoturugi",
+      "ts": "1625821407.339400",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "oVQ",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "たぶんそうですね。デフォルトが日本語配列なんじゃないかな。確認しなかったけど。(わたしはUS派)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "ca25cc5a-7a72-423b-8c68-854e89680af2",
+      "type": "message",
+      "text": "`~` うてないということはUSキー配列なってるんじゃないですか？",
+      "user": "a3784197",
+      "ts": "1625818746.337800",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "/z0Ux",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "~",
+                  "style": {
+                    "code": true
+                  }
+                },
+                {
+                  "type": "text",
+                  "text": " うてないということはUSキー配列なってるんじゃないですか？"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "c7846ef7-9662-487d-ac30-ad98fc13f57c",
+      "type": "message",
+      "text": "お試しに AlterLinux を Live USB で起動して、10分ほど使ってみた。i3版を入れてみたけど、結構苦労して作りあげた自分の環境とほぼ遜色ない環境がすぐに使える感じ(~ が入力できなくて難儀したけど)。ターミナル上でのインライン入力もできてたし、i3の設定も練られてる感じだった。設定の参考になりそう。lsdのアイコン表示とかもきっちりでてたのも感動した。",
+      "user": "kusanaginoturugi",
+      "ts": "1625818529.336500",
+      "team": "T0GFBAM8C",
+      "edited": {
+        "user": "kusanaginoturugi",
+        "ts": "1625818627.000000"
+      },
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "Kmo",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "お試しに AlterLinux を Live USB で起動して、10分ほど使ってみた。i3版を入れてみたけど、結構苦労して作りあげた自分の環境とほぼ遜色ない環境がすぐに使える感じ(~ が入力できなくて難儀したけど)。ターミナル上でのインライン入力もできてたし、i3の設定も練られてる感じだった。設定の参考になりそう。lsdのアイコン表示とかもきっちりでてたのも感動した。"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "message",
+      "subtype": "channel_join",
+      "ts": "1625787633.331000",
+      "user": "knt.yamada.800",
+      "text": "<@knt.yamada.800>さんがチャンネルに参加しました",
+      "reactions": [
+        {
+          "name": "archjp",
+          "users": [
+            "a3784197",
+            "znmxodq1"
+          ],
+          "count": 2
+        }
+      ]
+    }
+  ],
+  "has_more": false,
+  "is_limited": true,
+  "pin_count": 0,
+  "channel_actions_ts": null,
+  "channel_actions_count": 0
+}

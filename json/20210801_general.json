@@ -1,0 +1,2124 @@
+{
+  "ok": true,
+  "latest": "1630498261.000000",
+  "oldest": "1627819861.000000",
+  "messages": [
+    {
+      "type": "message",
+      "subtype": "channel_join",
+      "ts": "1630431128.029100",
+      "user": "gnit",
+      "text": "<@gnit>さんがチャンネルに参加しました"
+    },
+    {
+      "client_msg_id": "EC907840-AB68-476B-A84A-D553B35C7C51",
+      "type": "message",
+      "text": "<@kusanaginoturugi> これはいいですね。ランチャーやブラウザの検索アドオンなど全部撤廃して統一できそう\nジュリアン・アサンジが開発したってのもエモくて痺れますね\n<https://wiki.archlinux.jp/index.php/Surfraw|https://wiki.archlinux.jp/index.php/Surfraw>",
+      "user": "yozigen",
+      "ts": "1630059626.027700",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "nsE",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "user",
+                  "user_id": "kusanaginoturugi"
+                },
+                {
+                  "type": "text",
+                  "text": " これはいいですね。ランチャーやブラウザの検索アドオンなど全部撤廃して統一できそう\nジュリアン・アサンジが開発したってのもエモくて痺れますね\n"
+                },
+                {
+                  "type": "link",
+                  "url": "https://wiki.archlinux.jp/index.php/Surfraw",
+                  "text": "https://wiki.archlinux.jp/index.php/Surfraw"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "reactions": [
+        {
+          "name": "+1",
+          "users": [
+            "kusanaginoturugi",
+            "syui",
+            "gnit"
+          ],
+          "count": 3
+        }
+      ]
+    },
+    {
+      "client_msg_id": "ff5002e2-29a9-4a63-abe3-b1abd5379df6",
+      "type": "message",
+      "text": "archwiki を手元に置こうとした人がいっぱいいてなんかうれしかった。今となってはオンラインでいいやと思っているので、わたしは surfraw をつかって、`sr archwiki -l=jp DokuWiki` とかやってます。(aur の surfraw-git でないと対応してないです)",
+      "user": "kusanaginoturugi",
+      "ts": "1630049887.024000",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "c+=U=",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "archwiki を手元に置こうとした人がいっぱいいてなんかうれしかった。今となってはオンラインでいいやと思っているので、わたしは surfraw をつかって、"
+                },
+                {
+                  "type": "text",
+                  "text": "sr archwiki -l=jp DokuWiki",
+                  "style": {
+                    "code": true
+                  }
+                },
+                {
+                  "type": "text",
+                  "text": " とかやってます。(aur の surfraw-git でないと対応してないです)"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "reactions": [
+        {
+          "name": "sparkles",
+          "users": [
+            "yozigen",
+            "UPYQ3CUJ1",
+            "znmxodq1",
+            "syui",
+            "U3FJYR7MG",
+            "gnit"
+          ],
+          "count": 6
+        }
+      ]
+    },
+    {
+      "client_msg_id": "6b31b01f-0bd7-4118-bc50-1c72999219c5",
+      "type": "message",
+      "text": "-safeと-unsafeは同じもの(マルチバイト文字を含むファイル名がそのままになっているかエンコードされているか)なので、どちらか入れてもらえば結構なはずです。\nちなみに、-safeの方も現状だとカテゴリ名はエンコードされていないようなので、日本語版についてはしばらくunsafeでいい気もしています……。\n何にせよ、GitHub Actionsでの定期ビルドなどはやっていくつもりなので少々お待ちください……。(少し忙しく……。)",
+      "user": "nyaarch64",
+      "ts": "1630029967.020200",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "p2N",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "-safeと-unsafeは同じもの(マルチバイト文字を含むファイル名がそのままになっているかエンコードされているか)なので、どちらか入れてもらえば結構なはずです。\nちなみに、-safeの方も現状だとカテゴリ名はエンコードされていないようなので、日本語版についてはしばらくunsafeでいい気もしています……。\n何にせよ、GitHub Actionsでの定期ビルドなどはやっていくつもりなので少々お待ちください……。(少し忙しく……。)"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "reactions": [
+        {
+          "name": "smiley",
+          "users": [
+            "yozigen",
+            "znmxodq1"
+          ],
+          "count": 2
+        }
+      ]
+    },
+    {
+      "client_msg_id": "842e0cd5-2567-44c9-87d5-86c59a9eba55",
+      "type": "message",
+      "text": "はい、AURのリポジトリに丸々データ投げるわけにはいかないので普通に取得コードだけを入れています。(gh-releaseとかからbinとして取ってくるのも考えましょうか……。)\narch-wiki-docsは適度な取得間隔をあけるようになっていたはずなので、私の認識としては負荷は問題ないレベルのはずです(同時に複数ビルドとかしない限り)。",
+      "user": "nyaarch64",
+      "ts": "1630029847.018200",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "PfXN",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "はい、AURのリポジトリに丸々データ投げるわけにはいかないので普通に取得コードだけを入れています。(gh-releaseとかからbinとして取ってくるのも考えましょうか……。)\narch-wiki-docsは適度な取得間隔をあけるようになっていたはずなので、私の認識としては負荷は問題ないレベルのはずです(同時に複数ビルドとかしない限り)。"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "6534c95a-f923-4d0a-9f1a-3037748f8b56",
+      "type": "message",
+      "text": "ありがたい…(実は前々から欲しかった)",
+      "user": "znmxodq1",
+      "ts": "1630028996.016100",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "Sp=qA",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "ありがたい…(実は前々から欲しかった)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "53e5917d-0477-4d6e-8ed9-51e499ba132e",
+      "type": "message",
+      "text": "下記でパッケージダウンロードして閲覧できました\n```wget <https://github.com/ny-a/arch-wiki-docs-ja/releases/download/v20210825-1/arch-wiki-docs-ja-20210826-1-any-safe.pkg.tar.zst>\nwget <https://github.com/ny-a/arch-wiki-docs-ja/releases/download/v20210825-1/arch-wiki-docs-ja-20210826-1-any-unsafe.pkg.tar.zst>\nsudo pacman -U arch-wiki-docs-ja-20210826-1-any-safe.pkg.tar.zst\nsudo pacman -U arch-wiki-docs-ja-20210826-1-any-unsafe.pkg.tar.zst\nw3m /usr/share/doc/arch-wiki-jp/html/ja/%E7%9B%AE%E6%AC%A1.html```",
+      "user": "yozigen",
+      "ts": "1629995657.015200",
+      "team": "T0GFBAM8C",
+      "edited": {
+        "user": "yozigen",
+        "ts": "1630005301.000000"
+      },
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "UE+",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "下記でパッケージダウンロードして閲覧できました\n"
+                }
+              ]
+            },
+            {
+              "type": "rich_text_preformatted",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "wget "
+                },
+                {
+                  "type": "link",
+                  "url": "https://github.com/ny-a/arch-wiki-docs-ja/releases/download/v20210825-1/arch-wiki-docs-ja-20210826-1-any-safe.pkg.tar.zst"
+                },
+                {
+                  "type": "text",
+                  "text": "\nwget "
+                },
+                {
+                  "type": "link",
+                  "url": "https://github.com/ny-a/arch-wiki-docs-ja/releases/download/v20210825-1/arch-wiki-docs-ja-20210826-1-any-unsafe.pkg.tar.zst"
+                },
+                {
+                  "type": "text",
+                  "text": "\nsudo pacman -U arch-wiki-docs-ja-20210826-1-any-safe.pkg.tar.zst\nsudo pacman -U arch-wiki-docs-ja-20210826-1-any-unsafe.pkg.tar.zst\nw3m /usr/share/doc/arch-wiki-jp/html/ja/%E7%9B%AE%E6%AC%A1.html"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "ce7a345f-bf04-4435-8dc0-cf9a8e7c1f2e",
+      "type": "message",
+      "text": "```yay arch-wiki-docs-ja```\nで導入したところ、パッケージ展開ではなくwikiから直接落としているようです\n```tcp \t60076 \tESTABLISHED \t160.16.119.98 \t443 https \t<http://tk2-235-27344.vs.sakura.ne.jp|tk2-235-27344.vs.sakura.ne.jp> \t25809 \tpython3.9```\nこれは想定された動作でしょうか？（とりあえずwikiに負荷掛かっていそうなので止めました）",
+      "user": "yozigen",
+      "ts": "1629994351.014400",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "8l3",
+          "elements": [
+            {
+              "type": "rich_text_preformatted",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "yay arch-wiki-docs-ja"
+                }
+              ]
+            },
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "で導入したところ、パッケージ展開ではなくwikiから直接落としているようです\n"
+                }
+              ]
+            },
+            {
+              "type": "rich_text_preformatted",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "tcp \t60076 \tESTABLISHED \t160.16.119.98 \t443 https \ttk2-235-27344.vs.sakura.ne.jp \t25809 \tpython3.9"
+                }
+              ]
+            },
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "これは想定された動作でしょうか？（とりあえずwikiに負荷掛かっていそうなので止めました）"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "57d15982-93d9-4761-a780-16a169921425",
+      "type": "message",
+      "text": "<@nyaarch64> ありがとうございます:relaxed:",
+      "user": "yozigen",
+      "ts": "1629992829.010800",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "Tcj",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "user",
+                  "user_id": "nyaarch64"
+                },
+                {
+                  "type": "text",
+                  "text": " ありがとうございます"
+                },
+                {
+                  "type": "emoji",
+                  "name": "relaxed",
+                  "unicode": "263a-fe0f"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "404491DD-C340-4F0A-9216-0546B2D21F21",
+      "type": "message",
+      "text": "はやい",
+      "user": "syui",
+      "ts": "1629955070.009900",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "vzYL",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "はやい"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "e949cd0d-2695-4835-ab2b-cf509fd69858",
+      "type": "message",
+      "text": "<https://github.com/ny-a/arch-wiki-docs-ja/releases/tag/v20210825-1>\nバイナリ入っていないので(入っていないことは確認してください……)適当に手元でビルドしてダウンロードできるようにしてみました。\npacmanでインストールしなくても展開すれば見られるとは思います。",
+      "user": "nyaarch64",
+      "ts": "1629954988.009600",
+      "team": "T0GFBAM8C",
+      "attachments": [
+        {
+          "service_name": "GitHub",
+          "title": "Release v20210825-1 · ny-a/arch-wiki-docs-ja",
+          "title_link": "https://github.com/ny-a/arch-wiki-docs-ja/releases/tag/v20210825-1",
+          "text": "一応 community/arch-wiki-docs と同じように --safe-filenames をつけていますが、ページ名にASCII以外が使用されている場合はファイル名が分かりづらくなってしまうため(grep すれば引っ掛かりそうではあります)、--safe-filename を外してビルドしたものも添付しています(-unsafe とファイル名に入っているもの)。",
+          "fallback": "GitHub: Release v20210825-1 · ny-a/arch-wiki-docs-ja",
+          "image_url": "https://opengraph.githubassets.com/4c4e48d248846b406ceb921f6dc9f5fb1111e4bbe68986ff40d2b92cbce057c4/ny-a/arch-wiki-docs-ja",
+          "image_width": 500,
+          "image_height": 250,
+          "from_url": "https://github.com/ny-a/arch-wiki-docs-ja/releases/tag/v20210825-1",
+          "image_bytes": 43668,
+          "service_icon": "https://a.slack-edge.com/80588/img/unfurl_icons/github.png",
+          "id": 1,
+          "original_url": "https://github.com/ny-a/arch-wiki-docs-ja/releases/tag/v20210825-1"
+        }
+      ],
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "cpf9",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "link",
+                  "url": "https://github.com/ny-a/arch-wiki-docs-ja/releases/tag/v20210825-1"
+                },
+                {
+                  "type": "text",
+                  "text": "\nバイナリ入っていないので(入っていないことは確認してください……)適当に手元でビルドしてダウンロードできるようにしてみました。\npacmanでインストールしなくても展開すれば見られるとは思います。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "reactions": [
+        {
+          "name": "+1",
+          "users": [
+            "syui",
+            "yozigen",
+            "znmxodq1",
+            "kusanaginoturugi",
+            "U5W6QDSHZ"
+          ],
+          "count": 5
+        }
+      ]
+    },
+    {
+      "client_msg_id": "511bb85f-519d-40fa-bdd7-c7785bee9b6e",
+      "type": "message",
+      "text": "<https://aur.archlinux.org/packages/arch-wiki-docs-ja/> とりあえずAURに……",
+      "user": "nyaarch64",
+      "ts": "1629953918.008100",
+      "team": "T0GFBAM8C",
+      "attachments": [
+        {
+          "title": "AUR (en) - arch-wiki-docs-ja",
+          "title_link": "https://aur.archlinux.org/packages/arch-wiki-docs-ja/",
+          "text": "Pages from Arch Wiki jp optimized for offline browsing",
+          "fallback": "AUR (en) - arch-wiki-docs-ja",
+          "from_url": "https://aur.archlinux.org/packages/arch-wiki-docs-ja/",
+          "service_icon": "https://aur.archlinux.org/images/favicon.ico",
+          "service_name": "aur.archlinux.org",
+          "id": 1,
+          "original_url": "https://aur.archlinux.org/packages/arch-wiki-docs-ja/"
+        }
+      ],
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "OgiKv",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "link",
+                  "url": "https://aur.archlinux.org/packages/arch-wiki-docs-ja/"
+                },
+                {
+                  "type": "text",
+                  "text": " とりあえずAURに……"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "pinned_to": [
+        "C0GFH3RHC"
+      ],
+      "pinned_info": {
+        "channel": "C0GFH3RHC",
+        "pinned_by": "yozigen",
+        "pinned_ts": 1629993482
+      },
+      "reactions": [
+        {
+          "name": "+1",
+          "users": [
+            "raa0121",
+            "kusakata",
+            "yozigen",
+            "znmxodq1",
+            "UAPRYSVPS",
+            "U5W6QDSHZ",
+            "U0H3FTBBJ"
+          ],
+          "count": 7
+        },
+        {
+          "name": "archjp",
+          "users": [
+            "U0H3FTBBJ"
+          ],
+          "count": 1
+        }
+      ]
+    },
+    {
+      "client_msg_id": "5e8fbd97-bc5a-4a9c-a1fc-45c414b3b719",
+      "type": "message",
+      "text": "やったのが前のPCのようなので少し探してみます",
+      "user": "nyaarch64",
+      "ts": "1629949220.007900",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "UblNu",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "やったのが前のPCのようなので少し探してみます"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "cb84fb6b-e1af-4bee-b81c-fb2b79c5f5df",
+      "type": "message",
+      "text": "書き換えて叩いたら動いたはずですねー",
+      "user": "nyaarch64",
+      "ts": "1629948922.007200",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "VnYs",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "書き換えて叩いたら動いたはずですねー"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "a40072ac-7ada-4156-8011-f3ced18f7190",
+      "type": "message",
+      "text": "申し訳ないですがパッケージとしては用意できてないです。サーバーに負担かけない形ならAPI叩いてよいので誰か作っていただけるとありがたいですね。",
+      "user": "kusakata",
+      "ts": "1629948260.006300",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "WC0KV",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "申し訳ないですがパッケージとしては用意できてないです。サーバーに負担かけない形ならAPI叩いてよいので誰か作っていただけるとありがたいですね。"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "ec94f025-dcac-4f9e-8b80-0863d131cdcc",
+      "type": "message",
+      "text": "<https://github.com/lahwaacz/arch-wiki-docs/blob/master/ArchWiki/ArchWiki.py#L15-16>\nここを、`<https://wiki.archlinux.jp/api.php>` と `日本語` に書き換えて叩けば動きそうな気配",
+      "user": "raa0121",
+      "ts": "1629943503.004000",
+      "team": "T0GFBAM8C",
+      "attachments": [
+        {
+          "service_name": "GitHub",
+          "title": "arch-wiki-docs/ArchWiki.py at master · lahwaacz/arch-wiki-docs",
+          "title_link": "https://github.com/lahwaacz/arch-wiki-docs/blob/master/ArchWiki/ArchWiki.py#L15-16",
+          "text": "A script to download pages from Arch Wiki for offline browsing - arch-wiki-docs/ArchWiki.py at master · lahwaacz/arch-wiki-docs",
+          "fallback": "GitHub: arch-wiki-docs/ArchWiki.py at master · lahwaacz/arch-wiki-docs",
+          "image_url": "https://opengraph.githubassets.com/9e45a132d6e9dff0bb92a608dc56e7cf92067452d19e945e4fd9030dbaa575d2/lahwaacz/arch-wiki-docs",
+          "image_width": 500,
+          "image_height": 250,
+          "from_url": "https://github.com/lahwaacz/arch-wiki-docs/blob/master/ArchWiki/ArchWiki.py#L15-16",
+          "image_bytes": 52577,
+          "service_icon": "https://a.slack-edge.com/80588/img/unfurl_icons/github.png",
+          "id": 1,
+          "original_url": "https://github.com/lahwaacz/arch-wiki-docs/blob/master/ArchWiki/ArchWiki.py#L15-16"
+        }
+      ],
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "7V9rM",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "link",
+                  "url": "https://github.com/lahwaacz/arch-wiki-docs/blob/master/ArchWiki/ArchWiki.py#L15-16"
+                },
+                {
+                  "type": "text",
+                  "text": "\nここを、"
+                },
+                {
+                  "type": "link",
+                  "url": "https://wiki.archlinux.jp/api.php",
+                  "style": {
+                    "code": true
+                  }
+                },
+                {
+                  "type": "text",
+                  "text": " と "
+                },
+                {
+                  "type": "text",
+                  "text": "日本語",
+                  "style": {
+                    "code": true
+                  }
+                },
+                {
+                  "type": "text",
+                  "text": " に書き換えて叩けば動きそうな気配"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "reactions": [
+        {
+          "name": "smiley",
+          "users": [
+            "yozigen"
+          ],
+          "count": 1
+        }
+      ]
+    },
+    {
+      "client_msg_id": "0B032C3C-41E3-4F97-AC18-DB3D0ECFD736",
+      "type": "message",
+      "text": "wgetとかブラウザのツールとかでダウンロードするしかなさそう\n一度ならそこまで負担かからないのでいいのではって思いますが\n<@kusakata> オフライン閲覧、何かありましたっけ?",
+      "user": "syui",
+      "ts": "1629942568.002600",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "lXJ",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "wgetとかブラウザのツールとかでダウンロードするしかなさそう\n"
+                },
+                {
+                  "type": "text",
+                  "text": "一度ならそこまで負担かからないのでいいのではって思いますが\n"
+                },
+                {
+                  "type": "user",
+                  "user_id": "kusakata"
+                },
+                {
+                  "type": "text",
+                  "text": " オフライン閲覧、何かありましたっけ?"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "0a3a3f2c-41c0-49c1-a907-a466ad566772",
+      "type": "message",
+      "text": "<http://wiki.archlinux.jp|wiki.archlinux.jp> をオフライン閲覧したいなと思い <https://wiki.archlinux.jp/index.php/%E3%83%98%E3%83%AB%E3%83%97:%E9%96%B2%E8%A6%A7#.E3.82.AA.E3.83.95.E3.83.A9.E3.82.A4.E3.83.B3.E3.81.A7.E3.81.AE.E9.96.B2.E8.A6.A7|ここ> のめぼしいもの（*arch-wiki-docs, arch-wiki-lite, arch-wiki-man, wikiman*）を調べたのですが、軒並み日本語Wikiには対応していないように見えます（何か見逃していたらすみません）\n```wget --mirror```\nとか使って負荷掛けるのも忍びなく迷っています。何か手頃な方法はありますか？",
+      "user": "yozigen",
+      "ts": "1629911474.064200",
+      "team": "T0GFBAM8C",
+      "edited": {
+        "user": "yozigen",
+        "ts": "1629912738.000000"
+      },
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "8h/2",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "link",
+                  "url": "http://wiki.archlinux.jp",
+                  "text": "wiki.archlinux.jp"
+                },
+                {
+                  "type": "text",
+                  "text": " をオフライン閲覧したいなと思い "
+                },
+                {
+                  "type": "link",
+                  "url": "https://wiki.archlinux.jp/index.php/%E3%83%98%E3%83%AB%E3%83%97:%E9%96%B2%E8%A6%A7#.E3.82.AA.E3.83.95.E3.83.A9.E3.82.A4.E3.83.B3.E3.81.A7.E3.81.AE.E9.96.B2.E8.A6.A7",
+                  "text": "ここ"
+                },
+                {
+                  "type": "text",
+                  "text": " のめぼしいもの（"
+                },
+                {
+                  "type": "text",
+                  "text": "arch-wiki-docs, arch-wiki-lite, arch-wiki-man, wikiman",
+                  "style": {
+                    "bold": true
+                  }
+                },
+                {
+                  "type": "text",
+                  "text": "）を調べたのですが、軒並み日本語Wikiには対応していないように見えます（何か見逃していたらすみません）\n"
+                }
+              ]
+            },
+            {
+              "type": "rich_text_preformatted",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "wget --mirror"
+                }
+              ]
+            },
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "とか使って負荷掛けるのも忍びなく迷っています。何か手頃な方法はありますか？"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "message",
+      "subtype": "channel_join",
+      "ts": "1629863403.064000",
+      "user": "toshiakinakamura0411",
+      "text": "<@toshiakinakamura0411>さんがチャンネルに参加しました"
+    },
+    {
+      "client_msg_id": "f22bb088-e6c2-440e-ab72-e55f3e34c27b",
+      "type": "message",
+      "text": "これは私にだけの不具合ではないでしょう？",
+      "user": "weiliang1503",
+      "ts": "1629633246.063100",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "pC5z",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "これは私にだけの不具合ではないでしょう？"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "reactions": [
+        {
+          "name": "thinking_face",
+          "users": [
+            "yozigen",
+            "weiliang1503"
+          ],
+          "count": 2
+        }
+      ]
+    },
+    {
+      "client_msg_id": "8676583e-7710-40ef-a304-8aea80502144",
+      "type": "message",
+      "text": "先ほど IBUS を更新しましたが，ブラウザで入力する時，入力ボックスは示さないようになりました……",
+      "user": "weiliang1503",
+      "ts": "1629633168.062200",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "b9m",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "先ほど IBUS を更新しましたが，ブラウザで入力する時，入力ボックスは示さないようになりました……"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "message",
+      "subtype": "channel_join",
+      "ts": "1629632119.059200",
+      "user": "weiliang1503",
+      "text": "<@weiliang1503>さんがチャンネルに参加しました"
+    },
+    {
+      "type": "message",
+      "subtype": "channel_join",
+      "ts": "1629600374.059000",
+      "user": "imi415.public",
+      "text": "<@imi415.public>さんがチャンネルに参加しました"
+    },
+    {
+      "type": "message",
+      "subtype": "channel_join",
+      "ts": "1629569510.058800",
+      "user": "wataru9871",
+      "text": "<@wataru9871>さんがチャンネルに参加しました"
+    },
+    {
+      "client_msg_id": "78828a10-4f4a-47a5-a376-fd8c6ad6e594",
+      "type": "message",
+      "text": "ああなるほど。ありがとうございます。公式パッケージ不具合への対応ありました\n<https://wiki.archlinux.jp/index.php/FAQ#X.E3.81.AE.E3.83.91.E3.83.83.E3.82.B1.E3.83.BC.E3.82.B8.E3.81.AB.E3.82.A8.E3.83.A9.E3.83.BC.E3.81.8C.E3.81.82.E3.81.A3.E3.81.9F.E3.82.93.E3.81.A0.E3.81.91.E3.81.A9.EF.BC.8C.E3.81.A9.E3.81.86.E3.81.97.E3.81.9F.E3.82.89.E3.81.84.E3.81.84.E3.81.AE.EF.BC.9F|https://wiki.archlinux.jp/index.php/FAQ#X.E3.81.AE.E3.83.91.E3.83.83.E3.82.B1.E3.83.BC.E3.82[…]E3.81.9F.E3.82.89.E3.81.84.E3.81.84.E3.81.AE.EF.BC.9F>",
+      "user": "yozigen",
+      "ts": "1629481073.058000",
+      "team": "T0GFBAM8C",
+      "edited": {
+        "user": "yozigen",
+        "ts": "1629481782.000000"
+      },
+      "attachments": [
+        {
+          "title": "Arch Linux Bugtracker:: Arch Linux: Tasklist",
+          "title_link": "https://bugs.archlinux.org/",
+          "text": "Flyspray, a Bug Tracking System written in PHP.",
+          "fallback": "Arch Linux Bugtracker:: Arch Linux: Tasklist",
+          "from_url": "https://bugs.archlinux.org/",
+          "service_icon": "https://bugs.archlinux.org/themes/ArchLinux/favicon.ico",
+          "service_name": "bugs.archlinux.org",
+          "id": 1,
+          "original_url": "https://bugs.archlinux.org"
+        }
+      ],
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "hdtrQ",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "ああなるほど。ありがとうございます。公式パッケージ不具合への対応ありました\n"
+                },
+                {
+                  "type": "link",
+                  "url": "https://wiki.archlinux.jp/index.php/FAQ#X.E3.81.AE.E3.83.91.E3.83.83.E3.82.B1.E3.83.BC.E3.82.B8.E3.81.AB.E3.82.A8.E3.83.A9.E3.83.BC.E3.81.8C.E3.81.82.E3.81.A3.E3.81.9F.E3.82.93.E3.81.A0.E3.81.91.E3.81.A9.EF.BC.8C.E3.81.A9.E3.81.86.E3.81.97.E3.81.9F.E3.82.89.E3.81.84.E3.81.84.E3.81.AE.EF.BC.9F",
+                  "text": "https://wiki.archlinux.jp/index.php/FAQ#X.E3.81.AE.E3.83.91.E3.83.83.E3.82.B1.E3.83.BC.E3.82[…]E3.81.9F.E3.82.89.E3.81.84.E3.81.84.E3.81.AE.EF.BC.9F"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "c1f56949-de46-4dfd-ba14-07a66528e884",
+      "type": "message",
+      "text": "aur のパッケージだったら、そこでいいかもですね",
+      "user": "raa0121",
+      "ts": "1629480631.056500",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "HOq2G",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "aur のパッケージだったら、そこでいいかもですね"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "reactions": [
+        {
+          "name": "grinning",
+          "users": [
+            "yozigen"
+          ],
+          "count": 1
+        }
+      ]
+    },
+    {
+      "client_msg_id": "50b15b6f-3c99-42db-97b0-55d43ee86057",
+      "type": "message",
+      "text": "<https://aur.archlinux.org/> の該当パッケージのページのコメントで不具合を指摘する ではだめなんですか？",
+      "user": "yozigen",
+      "ts": "1629480411.056200",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "eVv",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "link",
+                  "url": "https://aur.archlinux.org/"
+                },
+                {
+                  "type": "text",
+                  "text": " の該当パッケージのページのコメントで不具合を指摘する ではだめなんですか？"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "92728fe3-0aec-4c63-a45a-f2b592a2f2b9",
+      "type": "message",
+      "text": "<https://bugs.archlinux.org> から報告するのが良いと思いますー。",
+      "user": "buzz.taiki",
+      "ts": "1629467253.054600",
+      "team": "T0GFBAM8C",
+      "attachments": [
+        {
+          "title": "Arch Linux Bugtracker:: Arch Linux: Tasklist",
+          "title_link": "https://bugs.archlinux.org/",
+          "text": "Flyspray, a Bug Tracking System written in PHP.",
+          "fallback": "Arch Linux Bugtracker:: Arch Linux: Tasklist",
+          "from_url": "https://bugs.archlinux.org/",
+          "service_icon": "https://bugs.archlinux.org/themes/ArchLinux/favicon.ico",
+          "service_name": "bugs.archlinux.org",
+          "id": 1,
+          "original_url": "https://bugs.archlinux.org"
+        }
+      ],
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "aUHw",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "link",
+                  "url": "https://bugs.archlinux.org"
+                },
+                {
+                  "type": "text",
+                  "text": " から報告するのが良いと思いますー。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "reactions": [
+        {
+          "name": "heart",
+          "users": [
+            "shun819.mail"
+          ],
+          "count": 1
+        }
+      ]
+    },
+    {
+      "client_msg_id": "40639bb0-d0db-44e3-8c43-8767d8c282cb",
+      "type": "message",
+      "text": "どこのメーリングリストに送れば良いのかわからなくて...",
+      "user": "shun819.mail",
+      "ts": "1629465748.054000",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "d83c",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "どこのメーリングリストに送れば良いのかわからなくて..."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "4f2a62a0-11a7-4041-b12d-53edd57a43fe",
+      "type": "message",
+      "text": "あ、送る先が違うのか...",
+      "user": "shun819.mail",
+      "ts": "1629465739.053700",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "afd",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "あ、送る先が違うのか..."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "f6aff7d4-e3ac-424d-8355-a7cfe986387a",
+      "type": "message",
+      "text": "arch-commitsってコミットされたときの自動通知だけのイメージがありました",
+      "user": "nyaarch64",
+      "ts": "1629465032.053400",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "eTat",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "arch-commitsってコミットされたときの自動通知だけのイメージがありました"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "2aba1092-70cc-497f-8803-950fbfad1591",
+      "type": "message",
+      "text": "Arch Linuxのメーリングリストを使ってパッケージの不具合を報告したいんですが、`your message was rejected` って帰ってきてしまいます。\nすでにメーリングリストの購読はしているので`<mailto:arch-commits@lists.archlinux.org|arch-commits@lists.archlinux.org>`にメールを送信しました。\n本文とエラーはこんな感じです。何か問題があったのでしょうか\n```\nYour message was rejected\n\n\n\n\n---------- Forwarded message ----------\nFrom: \"山田ハヤオ\" &lt;hayao@fascode.net&gt;\nTo: <mailto:arch-commits@lists.archlinux.org|arch-commits@lists.archlinux.org>\nCc: \nBcc: \nDate: Fri, 20 Aug 2021 21:54:55 +0900\nSubject: file conflict between official packages\nI tried to install cups-filters and pantheon-default-settings.\nAs a result, Pacman reported a \"/usr/share/cups/data/default-testpage.pdf\" conflict. \nThis issue should be fixed.```",
+      "user": "shun819.mail",
+      "ts": "1629464227.052300",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "3hGA",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "Arch Linuxのメーリングリストを使ってパッケージの不具合を報告したいんですが、"
+                },
+                {
+                  "type": "text",
+                  "text": "your message was rejected",
+                  "style": {
+                    "code": true
+                  }
+                },
+                {
+                  "type": "text",
+                  "text": " って帰ってきてしまいます。\nすでにメーリングリストの購読はしているので`"
+                },
+                {
+                  "type": "link",
+                  "url": "mailto:arch-commits@lists.archlinux.org",
+                  "text": "arch-commits@lists.archlinux.org",
+                  "unsafe": true
+                },
+                {
+                  "type": "text",
+                  "text": "`にメールを送信しました。\n本文とエラーはこんな感じです。何か問題があったのでしょうか\n"
+                }
+              ]
+            },
+            {
+              "type": "rich_text_preformatted",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "\nYour message was rejected\n\n\n\n\n---------- Forwarded message ----------\nFrom: \"山田ハヤオ\" <hayao@fascode.net>\nTo: arch-commits@lists.archlinux.org\nCc: \nBcc: \nDate: Fri, 20 Aug 2021 21:54:55 +0900\nSubject: file conflict between official packages\nI tried to install cups-filters and pantheon-default-settings.\nAs a result, Pacman reported a \"/usr/share/cups/data/default-testpage.pdf\" conflict. \nThis issue should be fixed."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "DB5884C3-8D91-46AE-8150-6E71859AD19E",
+      "type": "message",
+      "text": "こんにちはー",
+      "user": "syui",
+      "ts": "1629459573.050300",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "oCL",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "こんにちはー"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "message",
+      "subtype": "channel_join",
+      "ts": "1629457927.049900",
+      "user": "gogya55",
+      "text": "<@gogya55>さんがチャンネルに参加しました"
+    },
+    {
+      "client_msg_id": "ca59c0ce-45ed-47bf-b813-0e777e8d311d",
+      "type": "message",
+      "text": "こんにちは manjaro-sway ユーザーの初心者です\nよろしくお願いします:bow:",
+      "user": "yozigen",
+      "ts": "1629372607.047900",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "lZsYl",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "こんにちは manjaro-sway ユーザーの初心者です\nよろしくお願いします"
+                },
+                {
+                  "type": "emoji",
+                  "name": "bow",
+                  "unicode": "1f647"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "reactions": [
+        {
+          "name": "archjp",
+          "users": [
+            "znmxodq1",
+            "UBEFL3YLE",
+            "UKVE4N6CB",
+            "U6DL9D3AB",
+            "U017BNGTHT3",
+            "kusanaginoturugi",
+            "U7H6SRLCR",
+            "U013L1JQ0J2",
+            "syui",
+            "U01HE1ENNJZ"
+          ],
+          "count": 10
+        },
+        {
+          "name": "manjaro",
+          "users": [
+            "znmxodq1",
+            "batman.vs.battamon",
+            "UBEFL3YLE",
+            "UKVE4N6CB",
+            "U01370MAHLN",
+            "UCA1NQM5K",
+            "U3FJYR7MG",
+            "U6DL9D3AB",
+            "kusanaginoturugi",
+            "U013L1JQ0J2",
+            "U01HE1ENNJZ"
+          ],
+          "count": 11
+        }
+      ]
+    },
+    {
+      "type": "message",
+      "subtype": "channel_join",
+      "ts": "1629282400.044800",
+      "user": "info",
+      "text": "<@info>さんがチャンネルに参加しました"
+    },
+    {
+      "type": "message",
+      "subtype": "channel_join",
+      "ts": "1629273248.044400",
+      "user": "3141mnsyojiki",
+      "text": "<@3141mnsyojiki>さんがチャンネルに参加しました"
+    },
+    {
+      "client_msg_id": "eae6a178-997f-4bf4-b4dd-b26b49d2384e",
+      "type": "message",
+      "text": "こんにちは",
+      "user": "5h3ll3x",
+      "ts": "1629173441.040100",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "dZPn",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "こんにちは"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "thread_ts": "1629173441.040100",
+      "reply_count": 4,
+      "reply_users_count": 2,
+      "latest_reply": "1629188089.043200",
+      "reply_users": [
+        "U7F8FQF6W",
+        "5h3ll3x"
+      ],
+      "is_locked": false,
+      "subscribed": false,
+      "reactions": [
+        {
+          "name": "archjp",
+          "users": [
+            "UBEFL3YLE",
+            "U017BNGTHT3",
+            "U7F8FQF6W",
+            "batman.vs.battamon",
+            "yutakatay",
+            "U01M9EK1L9Z",
+            "5h3ll3x",
+            "U53RAQBCP",
+            "znmxodq1",
+            "U013L1JQ0J2",
+            "U3FJYR7MG",
+            "kusanaginoturugi",
+            "U027RN1LZT6",
+            "U01HE1ENNJZ",
+            "yozigen",
+            "syui"
+          ],
+          "count": 16
+        },
+        {
+          "name": "grin",
+          "users": [
+            "5h3ll3x",
+            "U013L1JQ0J2",
+            "U027RN1LZT6"
+          ],
+          "count": 3
+        }
+      ]
+    },
+    {
+      "type": "message",
+      "subtype": "channel_join",
+      "ts": "1629138006.039600",
+      "user": "tanabe.amane",
+      "text": "<@tanabe.amane>さんがチャンネルに参加しました"
+    },
+    {
+      "type": "message",
+      "subtype": "channel_join",
+      "ts": "1629037064.039200",
+      "user": "buzz.taiki",
+      "text": "<@buzz.taiki>さんがチャンネルに参加しました"
+    },
+    {
+      "type": "message",
+      "subtype": "channel_join",
+      "ts": "1629008132.039000",
+      "user": "5h3ll3x",
+      "text": "<@5h3ll3x>さんがチャンネルに参加しました"
+    },
+    {
+      "type": "message",
+      "subtype": "channel_join",
+      "ts": "1628964644.038400",
+      "user": "yozigen",
+      "text": "<@yozigen>さんがチャンネルに参加しました"
+    },
+    {
+      "type": "message",
+      "subtype": "channel_join",
+      "ts": "1628739399.038100",
+      "user": "working.de.katanasiku",
+      "text": "<@working.de.katanasiku>さんがチャンネルに参加しました"
+    },
+    {
+      "type": "message",
+      "subtype": "channel_join",
+      "ts": "1628694799.037900",
+      "user": "batman.vs.battamon",
+      "text": "<@batman.vs.battamon>さんがチャンネルに参加しました"
+    },
+    {
+      "type": "message",
+      "subtype": "channel_join",
+      "ts": "1628649131.037700",
+      "user": "colazero0",
+      "text": "<@colazero0>さんがチャンネルに参加しました"
+    },
+    {
+      "client_msg_id": "4ae06854-4e40-452d-a8cb-5a9bb4664a78",
+      "type": "message",
+      "text": "おや、 <https://www.archlinux.jp/packages/core/x86_64/linux/>\n&gt; ソースファイル\nのリンクが <http://projects.archlinux.org|projects.archlinux.org> に向いていてリンク切れしてますね :eyes:",
+      "user": "yantene",
+      "ts": "1628443004.037300",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "qLTH",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "おや、 "
+                },
+                {
+                  "type": "link",
+                  "url": "https://www.archlinux.jp/packages/core/x86_64/linux/"
+                },
+                {
+                  "type": "text",
+                  "text": "\n"
+                }
+              ]
+            },
+            {
+              "type": "rich_text_quote",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "ソースファイル"
+                }
+              ]
+            },
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "のリンクが "
+                },
+                {
+                  "type": "link",
+                  "url": "http://projects.archlinux.org",
+                  "text": "projects.archlinux.org"
+                },
+                {
+                  "type": "text",
+                  "text": " に向いていてリンク切れしてますね "
+                },
+                {
+                  "type": "emoji",
+                  "name": "eyes",
+                  "unicode": "1f440"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "thread_ts": "1628443004.037300",
+      "reply_count": 1,
+      "reply_users_count": 1,
+      "latest_reply": "1629948317.006400",
+      "reply_users": [
+        "kusakata"
+      ],
+      "is_locked": false,
+      "subscribed": false,
+      "reactions": [
+        {
+          "name": "+1",
+          "users": [
+            "syui"
+          ],
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "message",
+      "subtype": "channel_join",
+      "ts": "1628261285.036300",
+      "user": "shuntak217",
+      "text": "<@shuntak217>さんがチャンネルに参加しました"
+    },
+    {
+      "client_msg_id": "b9c1abd0-7907-4c10-b61a-24800c2c2622",
+      "type": "message",
+      "text": "一覧にあるSource Code Proでも文字化けしました。また、フォントサイズは文字化けに関係なく単にスペース不足で該当の文字が非表示になっていただけでした。とりあえず、一旦休憩します。色々ありがとうございます。感謝:man-bowing:",
+      "user": "naoya",
+      "ts": "1628063862.035400",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "T3oK8",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "一覧にあるSource Code Proでも文字化けしました。また、フォントサイズは文字化けに関係なく単にスペース不足で該当の文字が非表示になっていただけでした。とりあえず、一旦休憩します。色々ありがとうございます。感謝"
+                },
+                {
+                  "type": "emoji",
+                  "name": "man-bowing",
+                  "unicode": "1f647-200d-2642-fe0f"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "reactions": [
+        {
+          "name": "+1",
+          "users": [
+            "syui"
+          ],
+          "count": 1
+        }
+      ]
+    },
+    {
+      "client_msg_id": "88a09547-e027-48b5-8ecc-e8d1b783ba1a",
+      "type": "message",
+      "text": "ちなみにさっきの文字サポートしてるfont一覧らしいです。\n<https://www.fileformat.info/info/unicode/char/2261/fontsupport.htm|https://www.fileformat.info/info/unicode/char/2261/fontsupport.htm>",
+      "user": "h.hata.ai.t",
+      "ts": "1628061769.033600",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "U=l2",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "ちなみにさっきの文字サポートしてるfont一覧らしいです。\n"
+                },
+                {
+                  "type": "link",
+                  "url": "https://www.fileformat.info/info/unicode/char/2261/fontsupport.htm",
+                  "text": "https://www.fileformat.info/info/unicode/char/2261/fontsupport.htm"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "083a8260-b66a-408b-b9a4-c0435c712bb3",
+      "type": "message",
+      "text": "ありがとうございます。rxvt-unicodeで試してみます。",
+      "user": "naoya",
+      "ts": "1628061113.032500",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "gwV",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "ありがとうございます。rxvt-unicodeで試してみます。"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "e6c6557d-567d-483a-8c71-15dc5f242cc1",
+      "type": "message",
+      "text": "rxvt-unicodeだとfontsizeは奇数にしてって書いてますね。\n<https://github.com/vim-airline/vim-airline/wiki/FAQ|https://github.com/vim-airline/vim-airline/wiki/FAQ>",
+      "user": "h.hata.ai.t",
+      "ts": "1628060979.031500",
+      "team": "T0GFBAM8C",
+      "attachments": [
+        {
+          "service_name": "GitHub",
+          "title": "FAQ · vim-airline/vim-airline Wiki",
+          "title_link": "https://github.com/vim-airline/vim-airline/wiki/FAQ",
+          "text": "lean &amp; mean status/tabline for vim that's light as air - FAQ · vim-airline/vim-airline Wiki",
+          "fallback": "GitHub: FAQ · vim-airline/vim-airline Wiki",
+          "image_url": "https://opengraph.githubassets.com/999f9735e324f819cd47ca25db3f37ac44f3533a1e07f15215d05489402b4bc7/vim-airline/vim-airline",
+          "image_width": 500,
+          "image_height": 250,
+          "from_url": "https://github.com/vim-airline/vim-airline/wiki/FAQ",
+          "image_bytes": 57270,
+          "service_icon": "https://a.slack-edge.com/80588/img/unfurl_icons/github.png",
+          "id": 1,
+          "original_url": "https://github.com/vim-airline/vim-airline/wiki/FAQ"
+        }
+      ],
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "a8B",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "rxvt-unicodeだとfontsizeは奇数にしてって書いてますね。\n"
+                },
+                {
+                  "type": "link",
+                  "url": "https://github.com/vim-airline/vim-airline/wiki/FAQ",
+                  "text": "https://github.com/vim-airline/vim-airline/wiki/FAQ"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "message",
+      "text": "フォントサイズを14にしたら文字化けしなくなりました。フォントサイズが14未満だと文字化けします。\nなぜだか検討も付きません。お手上げ状態です:innocent:",
+      "files": [
+        {
+          "id": "F02A1DJBRMK",
+          "created": 1628060609,
+          "timestamp": 1628060609,
+          "name": "Screenshot from 2021-08-04 16-03-08.png",
+          "title": "Screenshot from 2021-08-04 16-03-08.png",
+          "mimetype": "image/png",
+          "filetype": "png",
+          "pretty_type": "PNG",
+          "user": "naoya",
+          "editable": false,
+          "size": 130395,
+          "mode": "hosted",
+          "is_external": false,
+          "external_type": "",
+          "is_public": true,
+          "public_url_shared": false,
+          "display_as_bot": false,
+          "username": "",
+          "url_private": "https://files.slack.com/files-pri/T0GFBAM8C-F02A1DJBRMK/screenshot_from_2021-08-04_16-03-08.png",
+          "url_private_download": "https://files.slack.com/files-pri/T0GFBAM8C-F02A1DJBRMK/download/screenshot_from_2021-08-04_16-03-08.png",
+          "media_display_type": "unknown",
+          "thumb_64": "https://files.slack.com/files-tmb/T0GFBAM8C-F02A1DJBRMK-58dfe99416/screenshot_from_2021-08-04_16-03-08_64.png",
+          "thumb_80": "https://files.slack.com/files-tmb/T0GFBAM8C-F02A1DJBRMK-58dfe99416/screenshot_from_2021-08-04_16-03-08_80.png",
+          "thumb_360": "https://files.slack.com/files-tmb/T0GFBAM8C-F02A1DJBRMK-58dfe99416/screenshot_from_2021-08-04_16-03-08_360.png",
+          "thumb_360_w": 360,
+          "thumb_360_h": 203,
+          "thumb_480": "https://files.slack.com/files-tmb/T0GFBAM8C-F02A1DJBRMK-58dfe99416/screenshot_from_2021-08-04_16-03-08_480.png",
+          "thumb_480_w": 480,
+          "thumb_480_h": 270,
+          "thumb_160": "https://files.slack.com/files-tmb/T0GFBAM8C-F02A1DJBRMK-58dfe99416/screenshot_from_2021-08-04_16-03-08_160.png",
+          "thumb_720": "https://files.slack.com/files-tmb/T0GFBAM8C-F02A1DJBRMK-58dfe99416/screenshot_from_2021-08-04_16-03-08_720.png",
+          "thumb_720_w": 720,
+          "thumb_720_h": 405,
+          "thumb_800": "https://files.slack.com/files-tmb/T0GFBAM8C-F02A1DJBRMK-58dfe99416/screenshot_from_2021-08-04_16-03-08_800.png",
+          "thumb_800_w": 800,
+          "thumb_800_h": 450,
+          "thumb_960": "https://files.slack.com/files-tmb/T0GFBAM8C-F02A1DJBRMK-58dfe99416/screenshot_from_2021-08-04_16-03-08_960.png",
+          "thumb_960_w": 960,
+          "thumb_960_h": 540,
+          "thumb_1024": "https://files.slack.com/files-tmb/T0GFBAM8C-F02A1DJBRMK-58dfe99416/screenshot_from_2021-08-04_16-03-08_1024.png",
+          "thumb_1024_w": 1024,
+          "thumb_1024_h": 576,
+          "original_w": 1600,
+          "original_h": 900,
+          "thumb_tiny": "AwAbADCnSUtJ+NABSUZooAKKKKAHUn4UpJNJQAUlLSUAFFFOBwO35UAf/9k=",
+          "permalink": "https://archlinuxjp.slack.com/files/naoya/F02A1DJBRMK/screenshot_from_2021-08-04_16-03-08.png",
+          "permalink_public": "https://slack-files.com/T0GFBAM8C-F02A1DJBRMK-6792d22032",
+          "is_starred": false,
+          "has_rich_preview": false
+        }
+      ],
+      "upload": false,
+      "user": "naoya",
+      "display_as_bot": false,
+      "ts": "1628060721.030100",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "gAx",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "フォントサイズを14にしたら文字化けしなくなりました。フォントサイズが14未満だと文字化けします。\nなぜだか検討も付きません。お手上げ状態です"
+                },
+                {
+                  "type": "emoji",
+                  "name": "innocent",
+                  "unicode": "1f607"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "edited": {
+        "user": "naoya",
+        "ts": "1628060769.000000"
+      }
+    },
+    {
+      "client_msg_id": "40d440bc-b51c-4b88-a467-4a007d76f49e",
+      "type": "message",
+      "text": "あとはfontconfigの設定だったり。\n<https://powerline.readthedocs.io/en/master/installation/linux.html|https://powerline.readthedocs.io/en/master/installation/linux.html>",
+      "user": "h.hata.ai.t",
+      "ts": "1628059166.027200",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "BM2",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "あとはfontconfigの設定だったり。\n"
+                },
+                {
+                  "type": "link",
+                  "url": "https://powerline.readthedocs.io/en/master/installation/linux.html",
+                  "text": "https://powerline.readthedocs.io/en/master/installation/linux.html"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "b8879b94-2316-4390-b6a0-fc17ceefa63c",
+      "type": "message",
+      "text": "あとは使ってる仮想端末によって色々制約があります\n<https://powerline.readthedocs.io/en/latest/usage.html|https://powerline.readthedocs.io/en/latest/usage.html>",
+      "user": "h.hata.ai.t",
+      "ts": "1628058945.026500",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "Q6T+L",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "あとは使ってる仮想端末によって色々制約があります\n"
+                },
+                {
+                  "type": "link",
+                  "url": "https://powerline.readthedocs.io/en/latest/usage.html",
+                  "text": "https://powerline.readthedocs.io/en/latest/usage.html"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "7cd4b2ac-2e99-4388-8894-d12f1e865f3b",
+      "type": "message",
+      "text": "では位置文字だけ適用されてないってことなんですかね。どうしたらいいんだろう",
+      "user": "naoya",
+      "ts": "1628058899.025800",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "DjF=",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "では位置文字だけ適用されてないってことなんですかね。どうしたらいいんだろう"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "5ae66374-2cdf-44d4-8f64-d41604aaece6",
+      "type": "message",
+      "text": "あっ...",
+      "user": "naoya",
+      "ts": "1628058834.024200",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "Qi1m",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "あっ..."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "04f40402-b672-4812-b784-28720ca17b69",
+      "type": "message",
+      "text": "<https://github.com/powerline/fonts|https://github.com/powerline/fonts>",
+      "user": "h.hata.ai.t",
+      "ts": "1628058701.023300",
+      "team": "T0GFBAM8C",
+      "attachments": [
+        {
+          "service_name": "GitHub",
+          "title": "GitHub - powerline/fonts: Patched fonts for Powerline users.",
+          "title_link": "https://github.com/powerline/fonts",
+          "text": "Patched fonts for Powerline users. Contribute to powerline/fonts development by creating an account on GitHub.",
+          "fallback": "GitHub: GitHub - powerline/fonts: Patched fonts for Powerline users.",
+          "image_url": "https://opengraph.githubassets.com/26d40734d8e3f553f69746b843337702b7542828724965ef6cc97993970bf457/powerline/fonts",
+          "image_width": 500,
+          "image_height": 250,
+          "from_url": "https://github.com/powerline/fonts",
+          "image_bytes": 40293,
+          "service_icon": "https://a.slack-edge.com/80588/img/unfurl_icons/github.png",
+          "id": 1,
+          "original_url": "https://github.com/powerline/fonts"
+        }
+      ],
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "NmG",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "link",
+                  "url": "https://github.com/powerline/fonts",
+                  "text": "https://github.com/powerline/fonts"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "4031abb0-8bb4-48ef-b476-f872496dfed6",
+      "type": "message",
+      "text": "airlineって確かpowerline patch当たってればOKだったきがしますが。",
+      "user": "h.hata.ai.t",
+      "ts": "1628058698.023100",
+      "team": "T0GFBAM8C",
+      "edited": {
+        "user": "h.hata.ai.t",
+        "ts": "1628060254.000000"
+      },
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "ku4is",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "airlineって確かpowerline patch当たってればOKだったきがしますが。"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "1d2385c2-9e9c-41c8-8f4b-d205e481d143",
+      "type": "message",
+      "text": "ごめんなさいこの化けてる文字powerlineじゃなかったです:pray:\n`☰` ←これがその化けてる文字なんですけど、これってどのフォントをインストールしたらいいんでしょう。`noto-fonts-emoji`はインストールされてます。\n文字とフォントの対応を調べられるサイトとかご存知でしたら教えていただけないでしょうか。",
+      "user": "naoya",
+      "ts": "1628057868.022400",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "mfg1k",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "ごめんなさいこの化けてる文字powerlineじゃなかったです"
+                },
+                {
+                  "type": "emoji",
+                  "name": "pray",
+                  "unicode": "1f64f"
+                },
+                {
+                  "type": "text",
+                  "text": "\n"
+                },
+                {
+                  "type": "text",
+                  "text": "☰",
+                  "style": {
+                    "code": true
+                  }
+                },
+                {
+                  "type": "text",
+                  "text": " ←これがその化けてる文字なんですけど、これってどのフォントをインストールしたらいいんでしょう。"
+                },
+                {
+                  "type": "text",
+                  "text": "noto-fonts-emoji",
+                  "style": {
+                    "code": true
+                  }
+                },
+                {
+                  "type": "text",
+                  "text": "はインストールされてます。\n文字とフォントの対応を調べられるサイトとかご存知でしたら教えていただけないでしょうか。"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "4674b387-3891-4e29-8d70-4f610e0d7867",
+      "type": "message",
+      "text": "文字化けは1文字だけですか? Powerlineな文字すべてですか?",
+      "user": "claude0803sz",
+      "ts": "1628041013.017500",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "D1LO",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "文字化けは1文字だけですか? Powerlineな文字すべてですか?"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "8F795FB0-1A7E-4F69-B23E-618B3038F3E1",
+      "type": "message",
+      "text": "端末に当該フォントを設定していますか?",
+      "user": "syui",
+      "ts": "1628032245.016800",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "LEvL",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "端末に当該フォントを設定していますか?"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "thread_ts": "1628032245.016800",
+      "reply_count": 1,
+      "reply_users_count": 1,
+      "latest_reply": "1628056328.018600",
+      "reply_users": [
+        "naoya"
+      ],
+      "is_locked": false,
+      "subscribed": true,
+      "last_read": "1628056328.018600"
+    },
+    {
+      "type": "message",
+      "text": "夜遅くに失礼します。\nneovimにvim-airlineを導入したところ文字化けしてしまいました。\nプラグインマネージャはvim-plugを、フォントはHackGenNerdを使っています。HackGenNerdはpowerline記号を含んでいるそうなので文字化けしないはずだと認識しております。一応vim-plugで'powerline/powerline'も導入しましたが結果変わらずでした。\n知恵をお借りできると嬉しいです^^",
+      "files": [
+        {
+          "id": "F02A1NZ0RPV",
+          "created": 1628002935,
+          "timestamp": 1628002935,
+          "name": "Screenshot from 2021-08-03 23-25-43.png",
+          "title": "Screenshot from 2021-08-03 23-25-43.png",
+          "mimetype": "image/png",
+          "filetype": "png",
+          "pretty_type": "PNG",
+          "user": "naoya",
+          "editable": false,
+          "size": 6828,
+          "mode": "hosted",
+          "is_external": false,
+          "external_type": "",
+          "is_public": true,
+          "public_url_shared": false,
+          "display_as_bot": false,
+          "username": "",
+          "url_private": "https://files.slack.com/files-pri/T0GFBAM8C-F02A1NZ0RPV/screenshot_from_2021-08-03_23-25-43.png",
+          "url_private_download": "https://files.slack.com/files-pri/T0GFBAM8C-F02A1NZ0RPV/download/screenshot_from_2021-08-03_23-25-43.png",
+          "media_display_type": "unknown",
+          "thumb_64": "https://files.slack.com/files-tmb/T0GFBAM8C-F02A1NZ0RPV-c2746e9328/screenshot_from_2021-08-03_23-25-43_64.png",
+          "thumb_80": "https://files.slack.com/files-tmb/T0GFBAM8C-F02A1NZ0RPV-c2746e9328/screenshot_from_2021-08-03_23-25-43_80.png",
+          "thumb_360": "https://files.slack.com/files-tmb/T0GFBAM8C-F02A1NZ0RPV-c2746e9328/screenshot_from_2021-08-03_23-25-43_360.png",
+          "thumb_360_w": 360,
+          "thumb_360_h": 32,
+          "thumb_480": "https://files.slack.com/files-tmb/T0GFBAM8C-F02A1NZ0RPV-c2746e9328/screenshot_from_2021-08-03_23-25-43_480.png",
+          "thumb_480_w": 480,
+          "thumb_480_h": 43,
+          "thumb_160": "https://files.slack.com/files-tmb/T0GFBAM8C-F02A1NZ0RPV-c2746e9328/screenshot_from_2021-08-03_23-25-43_160.png",
+          "thumb_720": "https://files.slack.com/files-tmb/T0GFBAM8C-F02A1NZ0RPV-c2746e9328/screenshot_from_2021-08-03_23-25-43_720.png",
+          "thumb_720_w": 720,
+          "thumb_720_h": 64,
+          "thumb_800": "https://files.slack.com/files-tmb/T0GFBAM8C-F02A1NZ0RPV-c2746e9328/screenshot_from_2021-08-03_23-25-43_800.png",
+          "thumb_800_w": 800,
+          "thumb_800_h": 71,
+          "original_w": 801,
+          "original_h": 71,
+          "thumb_tiny": "AwAEADCmcegpKKKACiiigA/CnZH90U2lFAH/2Q==",
+          "permalink": "https://archlinuxjp.slack.com/files/naoya/F02A1NZ0RPV/screenshot_from_2021-08-03_23-25-43.png",
+          "permalink_public": "https://slack-files.com/T0GFBAM8C-F02A1NZ0RPV-e1c5ad7674",
+          "is_starred": false,
+          "has_rich_preview": false
+        }
+      ],
+      "upload": false,
+      "user": "naoya",
+      "display_as_bot": false,
+      "ts": "1628003044.013300",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "p5e/h",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "夜遅くに失礼します。\nneovimにvim-airlineを導入したところ文字化けしてしまいました。\nプラグインマネージャはvim-plugを、フォントはHackGenNerdを使っています。HackGenNerdはpowerline記号を含んでいるそうなので文字化けしないはずだと認識しております。一応vim-plugで'powerline/powerline'も導入しましたが結果変わらずでした。\n知恵をお借りできると嬉しいです^^"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "message",
+      "text": "なんか最近Arch最新 + chrome + fcitx5 で文字入力すると勝手に改行されたり(とコピー)しちゃう現象に悩まされてるんですけど、同じような事象になる人いないですかね？？SlackでもGoogle検索でもなるんですよね・・・プライベートブラウジングでもなります。\nFirefoxだと起きないです（あと普通にエディタとかターミナルとかでも）。\nキーボード変えても発生しますんでハードじゃなくてソフトっぽいんですよね・・・",
+      "files": [
+        {
+          "id": "F029S6HBE69",
+          "created": 1627884802,
+          "timestamp": 1627884802,
+          "name": "Peek 2021-08-02 15-12.mp4",
+          "title": "Peek 2021-08-02 15-12.mp4",
+          "mimetype": "video/mp4",
+          "filetype": "mp4",
+          "pretty_type": "MPEG 4ビデオ",
+          "user": "yutakatay",
+          "editable": false,
+          "size": 154527,
+          "mode": "hosted",
+          "is_external": false,
+          "external_type": "",
+          "is_public": true,
+          "public_url_shared": false,
+          "display_as_bot": false,
+          "username": "",
+          "url_private": "https://files.slack.com/files-pri/T0GFBAM8C-F029S6HBE69/peek_2021-08-02_15-12.mp4",
+          "url_private_download": "https://files.slack.com/files-pri/T0GFBAM8C-F029S6HBE69/download/peek_2021-08-02_15-12.mp4",
+          "media_display_type": "video",
+          "thumb_video": "https://files.slack.com/files-tmb/T0GFBAM8C-F029S6HBE69-0123630b64/peek_2021-08-02_15-12_thumb_video.jpeg",
+          "thumb_video_w": 706,
+          "thumb_video_h": 430,
+          "permalink": "https://archlinuxjp.slack.com/files/yutakatay/F029S6HBE69/peek_2021-08-02_15-12.mp4",
+          "permalink_public": "https://slack-files.com/T0GFBAM8C-F029S6HBE69-df1c34fef6",
+          "is_starred": false,
+          "has_rich_preview": false
+        }
+      ],
+      "upload": false,
+      "user": "yutakatay",
+      "display_as_bot": false,
+      "ts": "1627884865.004500",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "Fglr",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "なんか最近Arch最新 + chrome + fcitx5 で文字入力すると勝手に改行されたり(とコピー)しちゃう現象に悩まされてるんですけど、同じような事象になる人いないですかね？？SlackでもGoogle検索でもなるんですよね・・・プライベートブラウジングでもなります。\nFirefoxだと起きないです（あと普通にエディタとかターミナルとかでも）。\nキーボード変えても発生しますんでハードじゃなくてソフトっぽいんですよね・・・"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "edited": {
+        "user": "yutakatay",
+        "ts": "1627885257.000000"
+      },
+      "thread_ts": "1627884865.004500",
+      "reply_count": 9,
+      "reply_users_count": 4,
+      "latest_reply": "1628126611.035600",
+      "reply_users": [
+        "U7F8FQF6W",
+        "yutakatay",
+        "U3FJYR7MG",
+        "U257W41DW"
+      ],
+      "is_locked": false,
+      "subscribed": false
+    }
+  ],
+  "has_more": false,
+  "is_limited": true,
+  "pin_count": 16,
+  "channel_actions_ts": null,
+  "channel_actions_count": 0
+}

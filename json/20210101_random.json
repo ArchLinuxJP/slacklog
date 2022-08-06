@@ -1,0 +1,2959 @@
+{
+  "ok": true,
+  "latest": "1612181454.000000",
+  "oldest": "1609503054.000000",
+  "messages": [
+    {
+      "client_msg_id": "2f518836-a376-4245-93e2-d880c40d1228",
+      "type": "message",
+      "text": "なるほど",
+      "user": "syui",
+      "ts": "1612167260.054200",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "KDx",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "なるほど"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "19cb7fab-0e62-433b-bbb3-1801b623f769",
+      "type": "message",
+      "text": "設定ファイルを見てみると、やはり怪しかった `permissions=user:conao:;` の部分が `permissions=` になってました。",
+      "user": "conao3",
+      "ts": "1612167183.054000",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "6wW2",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "設定ファイルを見てみると、やはり怪しかった "
+                },
+                {
+                  "type": "text",
+                  "text": "permissions=user:conao:;",
+                  "style": {
+                    "code": true
+                  }
+                },
+                {
+                  "type": "text",
+                  "text": " の部分が "
+                },
+                {
+                  "type": "text",
+                  "text": "permissions=",
+                  "style": {
+                    "code": true
+                  }
+                },
+                {
+                  "type": "text",
+                  "text": " になってました。"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "9a6ee60e-23e4-4f9c-a5b8-a7418e2ee68e",
+      "type": "message",
+      "text": "お、よかった",
+      "user": "syui",
+      "ts": "1612167067.053700",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "umiw",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "お、よかった"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "reactions": [
+        {
+          "name": "bow",
+          "users": [
+            "conao3"
+          ],
+          "count": 1
+        }
+      ]
+    },
+    {
+      "client_msg_id": "bd72801d-b86b-48be-9755-9a7ef0607860",
+      "type": "message",
+      "text": "ありがとうございます! GUIで他ユーザーに許可したらログイン画面でwifiに繋がってました!",
+      "user": "conao3",
+      "ts": "1612167005.053500",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "uF0t",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "ありがとうございます! GUIで他ユーザーに許可したらログイン画面でwifiに繋がってました!"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "e0ac2995-c694-44bb-8840-347f5f2de071",
+      "type": "message",
+      "text": "なんかこれでいけそうですね\nもしうまくいかなかったら、nm-appletをxinitrcに書いてやるといいかもです(すでに書かれているかもしれないけど",
+      "user": "syui",
+      "ts": "1612166897.053300",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "OpLa",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "なんかこれでいけそうですね\nもしうまくいかなかったら、nm-appletをxinitrcに書いてやるといいかもです(すでに書かれているかもしれないけど"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "26343f30-98c0-47f9-b89a-7618bf60e611",
+      "type": "message",
+      "text": "すいません、調べてみたらGUIで設定できそう。。？ やってみます。\n<https://wiki.archlinux.jp/index.php/NetworkManager#%E3%83%AD%E3%82%B0%E3%82%A4%E3%83%B3%E6%99%82%E3%81%AB%E8%87%AA%E5%8B%95%E7%9A%84%E3%81%AB%E6%8E%A5%E7%B6%9A%E3%81%99%E3%82%8B>",
+      "user": "conao3",
+      "ts": "1612166725.052500",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "b1ed",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "すいません、調べてみたらGUIで設定できそう。。？ やってみます。\n"
+                },
+                {
+                  "type": "link",
+                  "url": "https://wiki.archlinux.jp/index.php/NetworkManager#%E3%83%AD%E3%82%B0%E3%82%A4%E3%83%B3%E6%99%82%E3%81%AB%E8%87%AA%E5%8B%95%E7%9A%84%E3%81%AB%E6%8E%A5%E7%B6%9A%E3%81%99%E3%82%8B"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "340d6097-2078-46e1-b0b5-03635484f5b7",
+      "type": "message",
+      "text": "私が使ってるnetctlやsystemd-networkdなどでは、自動起動と自動接続(どのプロファイルを使って接続するか)の設定ができるので、networkmanagerでも同じようなことをやらないといけない感じなら、そんな感じてやってみるといいかも",
+      "user": "syui",
+      "ts": "1612166509.052300",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "hjkC",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "私が使ってるnetctlやsystemd-networkdなどでは、自動起動と自動接続(どのプロファイルを使って接続するか)の設定ができるので、networkmanagerでも同じようなことをやらないといけない感じなら、そんな感じてやってみるといいかも"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "e844e902-7421-47da-9d7a-4611d4d290a4",
+      "type": "message",
+      "text": "なるほど。systemdでnetworkmanagerを自動起動する形でしょうか？\nそれともwifi-menuを使って設定しなおした方が早いですか？",
+      "user": "conao3",
+      "ts": "1612166334.050800",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "Q6=",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "なるほど。systemdでnetworkmanagerを自動起動する形でしょうか？\nそれともwifi-menuを使って設定しなおした方が早いですか？"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "0f86fcb1-5113-4c56-a70f-8a6e65862bbd",
+      "type": "message",
+      "text": "networkmanagerは使ってないのでよくわかりませんが、通常は、systemdなどでプロセスを自動起動して使います。\nあと、パスワード関連ならwifi-menuなど使ってみるといいかも",
+      "user": "syui",
+      "ts": "1612166100.050500",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "f6SN",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "networkmanagerは使ってないのでよくわかりませんが、通常は、systemdなどでプロセスを自動起動して使います。\nあと、パスワード関連ならwifi-menuなど使ってみるといいかも"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "a2cf13c0-67e8-44bd-baa1-f4cbccf1a3b3",
+      "type": "message",
+      "text": "`permissions=user:conao:;` が明らかに怪しい。。？",
+      "user": "conao3",
+      "ts": "1612165574.049500",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "Dorm",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "permissions=user:conao:;",
+                  "style": {
+                    "code": true
+                  }
+                },
+                {
+                  "type": "text",
+                  "text": " が明らかに怪しい。。？"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "3ae0eef5-75cc-4662-8cd3-19ed143c1ae0",
+      "type": "message",
+      "text": "最近計算サーバーを組み立てたのですが、ログイン前にwifiに接続させることができず困っています。\nwifiの設定は `/etc/NetworkManager/system-connections/aterm-xxxxxx-a.nmconnection` に保存されています(パスワードも平文で保存されています())\nnmconnectionの所有者はroot:rootで、次の内容です(適当にマスクしました)\n```[connection]\nid=aterm-xxxx-a\nuuid=xxxxxxxxxxxxxxxx-f83c-4fb0-b4ef-xxxxxxxxxxxxxxxx\ntype=wifi\ninterface-name=wlp3s0\npermissions=user:conao:;\ntimestamp=161214xxxx\n\n[wifi]\nmac-address-blacklist=\nmode=infrastructure\nseen-bssids=C0:25:A2:xx:xx:xx;\nssid=aterm-xxxx-a\n\n[wifi-security]\nkey-mgmt=wpa-psk\npsk=xxxxxxxxxxxxxxxx\n\n[ipv4]\naddress1=192.168.10.101/24,192.168.10.1\ndns=8.8.8.8;\ndns-search=\nmethod=manual\n\n[ipv6]\naddr-gen-mode=stable-privacy\ndns-search=\nip6-privacy=0\nmethod=auto\n\n[proxy]```\nログイン画面でwifiに(固定IPで)接続させるにはどうすればいいでしょう？",
+      "user": "conao3",
+      "ts": "1612165152.049100",
+      "team": "T0GFBAM8C",
+      "edited": {
+        "user": "conao3",
+        "ts": "1612165183.000000"
+      },
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "qHWq9",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "最近計算サーバーを組み立てたのですが、ログイン前にwifiに接続させることができず困っています。\nwifiの設定は "
+                },
+                {
+                  "type": "text",
+                  "text": "/etc/NetworkManager/system-connections/aterm-xxxxxx-a.nmconnection",
+                  "style": {
+                    "code": true
+                  }
+                },
+                {
+                  "type": "text",
+                  "text": " に保存されています(パスワードも平文で保存されています())\nnmconnectionの所有者はroot:rootで、次の内容です(適当にマスクしました)\n"
+                }
+              ]
+            },
+            {
+              "type": "rich_text_preformatted",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "[connection]\nid=aterm-xxxx-a\nuuid=xxxxxxxxxxxxxxxx-f83c-4fb0-b4ef-xxxxxxxxxxxxxxxx\ntype=wifi\ninterface-name=wlp3s0\npermissions=user:conao:;\ntimestamp=161214xxxx\n\n[wifi]\nmac-address-blacklist=\nmode=infrastructure\nseen-bssids=C0:25:A2:xx:xx:xx;\nssid=aterm-xxxx-a\n\n[wifi-security]\nkey-mgmt=wpa-psk\npsk=xxxxxxxxxxxxxxxx\n\n[ipv4]\naddress1=192.168.10.101/24,192.168.10.1\ndns=8.8.8.8;\ndns-search=\nmethod=manual\n\n[ipv6]\naddr-gen-mode=stable-privacy\ndns-search=\nip6-privacy=0\nmethod=auto\n\n[proxy]"
+                }
+              ]
+            },
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "ログイン画面でwifiに(固定IPで)接続させるにはどうすればいいでしょう？"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "293679c5-56cc-40ab-bdf8-e94568ef0e9a",
+      "type": "message",
+      "text": "ですね。私も使ってない、大体の機能はoffにしてる",
+      "user": "syui",
+      "ts": "1611722367.048300",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "MJVFk",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "ですね。私も使ってない、大体の機能はoffにしてる"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "ba75bc85-778c-474a-8b6b-882d2bcda2ab",
+      "type": "message",
+      "text": "個人的にはそのあたりの機能使いたかったらChrome使えばえぇやんとは思うので妥当だとは思いますが。",
+      "user": "h.hata.ai.t",
+      "ts": "1611722286.047800",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "p0d1",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "個人的にはそのあたりの機能使いたかったらChrome使えばえぇやんとは思うので妥当だとは思いますが。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "reactions": [
+        {
+          "name": "wakaru",
+          "users": [
+            "yutakatay",
+            "a3784197",
+            "znmxodq1"
+          ],
+          "count": 3
+        }
+      ]
+    },
+    {
+      "client_msg_id": "2f81bcad-87c5-43a0-8e43-dac8637c3ac9",
+      "type": "message",
+      "text": "ありゃ",
+      "user": "a3784197",
+      "ts": "1611707403.046200",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "SU8",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "ありゃ"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "24FE5B72-0C24-4BFE-B86F-5EF7E1B0BB94",
+      "type": "message",
+      "text": "chrome syncの続報",
+      "user": "syui",
+      "ts": "1611702284.046000",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "9Fz",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "chrome syncの続報"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "5DDFB617-0F46-44B7-86D1-3E6623C8624E",
+      "type": "message",
+      "text": "<https://news.mynavi.jp/article/20210126-1672780/|https://news.mynavi.jp/article/20210126-1672780/>",
+      "user": "syui",
+      "ts": "1611702256.045500",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "UGSFu",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "link",
+                  "url": "https://news.mynavi.jp/article/20210126-1672780/",
+                  "text": "https://news.mynavi.jp/article/20210126-1672780/"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "message",
+      "subtype": "channel_join",
+      "ts": "1611553959.045300",
+      "user": "nackan2810",
+      "text": "<@nackan2810>さんがチャンネルに参加しました"
+    },
+    {
+      "client_msg_id": "56912d95-e1b7-44bd-8770-2735be70ed26",
+      "type": "message",
+      "text": "多分 jar が入ってない系だと思うんですが",
+      "user": "raa0121",
+      "ts": "1611548359.045000",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "U++Q0",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "多分 jar が入ってない系だと思うんですが"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "aa657801-e387-4c32-8f39-c6660a0be296",
+      "type": "message",
+      "text": "Java ログ読めない…",
+      "user": "raa0121",
+      "ts": "1611548331.044100",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "UoI9",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "Java ログ読めない…"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "a43b6abe-5705-493c-8439-eb01e21def93",
+      "type": "message",
+      "text": "なるほど、ありがとうございます!",
+      "user": "conao3",
+      "ts": "1611548304.043600",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "jucry",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "なるほど、ありがとうございます!"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "5f74df18-cf07-4aaf-8022-ac020be66720",
+      "type": "message",
+      "text": "じゃぁ、パッケージングで含めるべきファイルが入ってない系ですね",
+      "user": "raa0121",
+      "ts": "1611548066.043200",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "7ASA",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "じゃぁ、パッケージングで含めるべきファイルが入ってない系ですね"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "7c073ad3-e39c-4c7c-8694-6e7113fbc069",
+      "type": "message",
+      "text": "動きました!",
+      "user": "conao3",
+      "ts": "1611548031.042300",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "778Gj",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "動きました!"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "reactions": [
+        {
+          "name": "clap",
+          "users": [
+            "naokihirokitomoki",
+            "syui"
+          ],
+          "count": 2
+        }
+      ]
+    },
+    {
+      "client_msg_id": "2021c29e-4282-4847-850f-89642ca2a7e0",
+      "type": "message",
+      "text": "いつの間にか非公式ミラー一覧からもいなくなってましたね…\n<https://wiki.archlinux.org/index.php/Unofficial_mirrors|https://wiki.archlinux.org/index.php/Unofficial_mirrors>",
+      "user": "naokihirokitomoki",
+      "ts": "1611548012.042100",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "lSB",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "いつの間にか非公式ミラー一覧からもいなくなってましたね…\n"
+                },
+                {
+                  "type": "link",
+                  "url": "https://wiki.archlinux.org/index.php/Unofficial_mirrors",
+                  "text": "https://wiki.archlinux.org/index.php/Unofficial_mirrors"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "1323d760-2c68-4342-8398-3ecf3e45f4d7",
+      "type": "message",
+      "text": "mirrorはstatus見る限りリストに載ってないので、停止されてる可能性あるかも <https://www.archlinux.jp/mirrors/status/>",
+      "user": "syui",
+      "ts": "1611547905.040300",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "XGiR",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "mirrorはstatus見る限りリストに載ってないので、停止されてる可能性あるかも "
+                },
+                {
+                  "type": "link",
+                  "url": "https://www.archlinux.jp/mirrors/status/"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "49b8e9cf-ed19-4b95-ae77-3a08fd84b897",
+      "type": "message",
+      "text": "<https://dbeaver.io/files/dbeaver-ce-latest-linux.gtk.x86_64.tar.gz>\nちなみに、これを解凍して、実行したら動きます？",
+      "user": "raa0121",
+      "ts": "1611547901.040200",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "WbBy",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "link",
+                  "url": "https://dbeaver.io/files/dbeaver-ce-latest-linux.gtk.x86_64.tar.gz"
+                },
+                {
+                  "type": "text",
+                  "text": "\nちなみに、これを解凍して、実行したら動きます？"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "4fe1982d-5b19-4e4d-987c-3d9a5b9e88c6",
+      "type": "message",
+      "text": "こうなりますね。jre-openjdkが入ってそう。。？\n```$ yay -Rs dbeaver\n[sudo] password for conao: \nchecking dependencies...\n:: libbluray optionally requires java-runtime: BD-J library\n:: libjpeg-turbo optionally requires java-runtime&gt;11: for TurboJPEG Java wrapper\n:: libreoffice-still optionally requires java-runtime: adds java support\n\nPackages (4) jre-openjdk-15.0.1.u9-1  jre-openjdk-headless-15.0.1.u9-1  libnet-1:1.1.6-1  dbeaver-7.3.3-1\n\nTotal Removed Size:  246.66 MiB\n\n:: Do you want to remove these packages? [Y/n] ```\n",
+      "user": "conao3",
+      "ts": "1611547861.039500",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "UtIT",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "こうなりますね。jre-openjdkが入ってそう。。？\n"
+                }
+              ]
+            },
+            {
+              "type": "rich_text_preformatted",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "$ yay -Rs dbeaver\n[sudo] password for conao: \nchecking dependencies...\n:: libbluray optionally requires java-runtime: BD-J library\n:: libjpeg-turbo optionally requires java-runtime>11: for TurboJPEG Java wrapper\n:: libreoffice-still optionally requires java-runtime: adds java support\n\nPackages (4) jre-openjdk-15.0.1.u9-1  jre-openjdk-headless-15.0.1.u9-1  libnet-1:1.1.6-1  dbeaver-7.3.3-1\n\nTotal Removed Size:  246.66 MiB\n\n:: Do you want to remove these packages? [Y/n] "
+                }
+              ]
+            },
+            {
+              "type": "rich_text_section",
+              "elements": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "0e4ed987-dcf3-416b-aa26-dca09e7f165c",
+      "type": "message",
+      "text": "ログを見る限り、Oracle JDK 8 ですかね OpenJDKではなくて",
+      "user": "raa0121",
+      "ts": "1611547756.039300",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "xO2Wb",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "ログを見る限り、Oracle JDK 8 ですかね OpenJDKではなくて"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "e49191e9-7364-4a28-98ce-4dfa5636fef2",
+      "type": "message",
+      "text": "<@U0H026YUR> <http://mirror.archlinux.jp|mirror.archlinux.jp> ってもう動いてない感じなんです?",
+      "user": "syui",
+      "ts": "1611547725.038800",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "aqN44",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "user",
+                  "user_id": "U0H026YUR"
+                },
+                {
+                  "type": "text",
+                  "text": " "
+                },
+                {
+                  "type": "link",
+                  "url": "http://mirror.archlinux.jp",
+                  "text": "mirror.archlinux.jp"
+                },
+                {
+                  "type": "text",
+                  "text": " ってもう動いてない感じなんです?"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "thread_ts": "1611547725.038800",
+      "reply_count": 3,
+      "reply_users_count": 3,
+      "latest_reply": "1611548006.041800",
+      "reply_users": [
+        "U0H026YUR",
+        "syui",
+        "raa0121"
+      ],
+      "is_locked": false,
+      "subscribed": true,
+      "last_read": "1611548006.041800"
+    },
+    {
+      "client_msg_id": "37a4158d-367c-4ffc-8c0f-0c8c93058726",
+      "type": "message",
+      "text": "同じっぽいですね",
+      "user": "raa0121",
+      "ts": "1611547696.038700",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "LoFEx",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "同じっぽいですね"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "97abb2cb-0517-4c28-b5e6-04ee57243d98",
+      "type": "message",
+      "text": "すいません。ログはこれです。(長すぎるのでgistで。。)\n<https://gist.github.com/conao3/cc92c3a9a90e4caa926af31541451f65>",
+      "user": "conao3",
+      "ts": "1611547647.038200",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "42l2X",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "すいません。ログはこれです。(長すぎるのでgistで。。)\n"
+                },
+                {
+                  "type": "link",
+                  "url": "https://gist.github.com/conao3/cc92c3a9a90e4caa926af31541451f65"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "0058d587-2f75-4cd0-b457-65d5a17bfda5",
+      "type": "message",
+      "text": "<https://gist.github.com/conao3/9390443dba855901538c4747ee8829b8>\nこれと同じですかね？",
+      "user": "raa0121",
+      "ts": "1611547610.037800",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "Hm=",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "link",
+                  "url": "https://gist.github.com/conao3/9390443dba855901538c4747ee8829b8"
+                },
+                {
+                  "type": "text",
+                  "text": "\nこれと同じですかね？"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "d758386a-ef97-484d-a01e-9e0139470e52",
+      "type": "message",
+      "text": "インストール自体は出来てるんですね",
+      "user": "raa0121",
+      "ts": "1611547566.037600",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "f2Tb",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "インストール自体は出来てるんですね"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "28fb6a8f-de1b-44e9-8ddb-dbdcdfbf4cfd",
+      "type": "message",
+      "text": "ログを見てみないことにはなんとも…",
+      "user": "raa0121",
+      "ts": "1611547556.037300",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "EzGb",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "ログを見てみないことにはなんとも…"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "message",
+      "text": "やっぱりエラーになりますね。。",
+      "files": [
+        {
+          "id": "F01K9C56B2B",
+          "created": 1611547511,
+          "timestamp": 1611547511,
+          "name": "Screenshot_2021-01-25_13-05-11.png",
+          "title": "Screenshot_2021-01-25_13-05-11.png",
+          "mimetype": "image/png",
+          "filetype": "png",
+          "pretty_type": "PNG",
+          "user": "conao3",
+          "editable": false,
+          "size": 10826,
+          "mode": "hosted",
+          "is_external": false,
+          "external_type": "",
+          "is_public": true,
+          "public_url_shared": false,
+          "display_as_bot": false,
+          "username": "",
+          "url_private": "https://files.slack.com/files-pri/T0GFBAM8C-F01K9C56B2B/screenshot_2021-01-25_13-05-11.png",
+          "url_private_download": "https://files.slack.com/files-pri/T0GFBAM8C-F01K9C56B2B/download/screenshot_2021-01-25_13-05-11.png",
+          "media_display_type": "unknown",
+          "thumb_64": "https://files.slack.com/files-tmb/T0GFBAM8C-F01K9C56B2B-dc6d5428da/screenshot_2021-01-25_13-05-11_64.png",
+          "thumb_80": "https://files.slack.com/files-tmb/T0GFBAM8C-F01K9C56B2B-dc6d5428da/screenshot_2021-01-25_13-05-11_80.png",
+          "thumb_360": "https://files.slack.com/files-tmb/T0GFBAM8C-F01K9C56B2B-dc6d5428da/screenshot_2021-01-25_13-05-11_360.png",
+          "thumb_360_w": 360,
+          "thumb_360_h": 133,
+          "thumb_160": "https://files.slack.com/files-tmb/T0GFBAM8C-F01K9C56B2B-dc6d5428da/screenshot_2021-01-25_13-05-11_160.png",
+          "original_w": 469,
+          "original_h": 173,
+          "thumb_tiny": "AwARADDRJx2pN3tQQG60bRQAZJHT9aUdOf503CjuaUbcetADqKTC+goGB0FACUUUUALRRRQAlFFFAH//2Q==",
+          "permalink": "https://archlinuxjp.slack.com/files/conao3/F01K9C56B2B/screenshot_2021-01-25_13-05-11.png",
+          "permalink_public": "https://slack-files.com/T0GFBAM8C-F01K9C56B2B-8344086832",
+          "is_starred": false,
+          "has_rich_preview": false
+        }
+      ],
+      "upload": false,
+      "user": "conao3",
+      "display_as_bot": false,
+      "ts": "1611547537.036600",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "86Y",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "やっぱりエラーになりますね。。"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "e591f337-7c6d-4b13-aec5-f72a32aafe4b",
+      "type": "message",
+      "text": "dockerでのビルド成功しましたが、DISPLAYを指定していなかったのでGUIを起動できなかった。。\n(--rmで起動していたのでイメージも失ってしまった。もう一回ビルド。。)",
+      "user": "conao3",
+      "ts": "1611547465.036200",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "0jZ",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "dockerでのビルド成功しましたが、DISPLAYを指定していなかったのでGUIを起動できなかった。。\n(--rmで起動していたのでイメージも失ってしまった。もう一回ビルド。。)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "f2be4a87-21ab-415c-ac51-548d15ac7436",
+      "type": "message",
+      "text": "`<http://mirror.archlinux.jp|mirror.archlinux.jp>` 落ちてるのかな",
+      "user": "raa0121",
+      "ts": "1611547389.035900",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "vnAZ",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "link",
+                  "url": "http://mirror.archlinux.jp",
+                  "text": "mirror.archlinux.jp",
+                  "style": {
+                    "code": true
+                  }
+                },
+                {
+                  "type": "text",
+                  "text": " 落ちてるのかな"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "551e9084-2083-4eb3-aafd-4acb88b416fa",
+      "type": "message",
+      "text": "こっちで",
+      "user": "raa0121",
+      "ts": "1611547364.035400",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "FER",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "こっちで"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "c365aef6-1bbe-4b91-a077-781f0421349c",
+      "type": "message",
+      "text": "```curl -LO <https://ftp.jaist.ac.jp/pub/Linux/ArchLinux/community/os/x86_64/dbeaver-7.3.3-1-x86_64.pkg.tar.zst>\nsudo pacman -U dbeaver-7.3.3-1-x86_64.pkg.tar.zst```",
+      "user": "raa0121",
+      "ts": "1611547362.035100",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "cqBT",
+          "elements": [
+            {
+              "type": "rich_text_preformatted",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "curl -LO "
+                },
+                {
+                  "type": "link",
+                  "url": "https://ftp.jaist.ac.jp/pub/Linux/ArchLinux/community/os/x86_64/dbeaver-7.3.3-1-x86_64.pkg.tar.zst"
+                },
+                {
+                  "type": "text",
+                  "text": "\nsudo pacman -U dbeaver-7.3.3-1-x86_64.pkg.tar.zst"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "c6bad31f-0705-45d4-b00e-30cdf9754a27",
+      "type": "message",
+      "text": "ほんとだ",
+      "user": "raa0121",
+      "ts": "1611547289.034700",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "C7kJx",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "ほんとだ"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "764c630d-e54b-42ef-b9d3-7a940fb10f6b",
+      "type": "message",
+      "text": "403です。。？\n```$ curl -LO <https://mirror.archlinux.jp/community/os/x86_64/dbeaver-7.3.3-1-x86_64.pkg.tar.zst>\n  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current\n                                 Dload  Upload   Total   Spent    Left  Speed\n100   199  100   199    0     0   2010      0 --:--:-- --:--:-- --:--:--  2010\n\n$ sudo pacman -U dbeaver-7.3.3-1-x86_64.pkg.tar.zst\n[sudo] password for conao: \nloading packages...\nerror: could not open file dbeaver-7.3.3-1-x86_64.pkg.tar.zst: Unrecognized archive format\nerror: 'dbeaver-7.3.3-1-x86_64.pkg.tar.zst': cannot open package file\n\n$ cat dbeaver-7.3.3-1-x86_64.pkg.tar.zst \n<!DOCTYPE HTML PUBLIC \"-//IETF//DTD HTML 2.0//EN\">\n&lt;html&gt;&lt;head&gt;\n&lt;title&gt;403 Forbidden&lt;/title&gt;\n&lt;/head&gt;&lt;body&gt;\n&lt;h1&gt;Forbidden&lt;/h1&gt;\n&lt;p&gt;You don't have permission to access this resource.&lt;/p&gt;\n&lt;/body&gt;&lt;/html&gt;```\n",
+      "user": "conao3",
+      "ts": "1611547234.034300",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "DYgcy",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "403です。。？\n"
+                }
+              ]
+            },
+            {
+              "type": "rich_text_preformatted",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "$ curl -LO "
+                },
+                {
+                  "type": "link",
+                  "url": "https://mirror.archlinux.jp/community/os/x86_64/dbeaver-7.3.3-1-x86_64.pkg.tar.zst"
+                },
+                {
+                  "type": "text",
+                  "text": "\n  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current\n                                 Dload  Upload   Total   Spent    Left  Speed\n100   199  100   199    0     0   2010      0 --:--:-- --:--:-- --:--:--  2010\n\n$ sudo pacman -U dbeaver-7.3.3-1-x86_64.pkg.tar.zst\n[sudo] password for conao: \nloading packages...\nerror: could not open file dbeaver-7.3.3-1-x86_64.pkg.tar.zst: Unrecognized archive format\nerror: 'dbeaver-7.3.3-1-x86_64.pkg.tar.zst': cannot open package file\n\n$ cat dbeaver-7.3.3-1-x86_64.pkg.tar.zst \n<!DOCTYPE HTML PUBLIC \"-//IETF//DTD HTML 2.0//EN\">\n<html><head>\n<title>403 Forbidden</title>\n</head><body>\n<h1>Forbidden</h1>\n<p>You don't have permission to access this resource.</p>\n</body></html>"
+                }
+              ]
+            },
+            {
+              "type": "rich_text_section",
+              "elements": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "b5badb7f-7072-4a3c-a68e-f0c15d04bdfc",
+      "type": "message",
+      "text": "これでArch の dbeaver をインストールできます",
+      "user": "raa0121",
+      "ts": "1611547147.034100",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "eaLW9",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "これでArch の dbeaver をインストールできます"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "df3c6d43-6143-48f1-a2dd-a7d1ffafbb9f",
+      "type": "message",
+      "text": "```curl -LO <https://mirror.archlinux.jp/community/os/x86_64/dbeaver-7.3.3-1-x86_64.pkg.tar.zst>\nsudo pacman -U dbeaver-7.3.3-1-x86_64.pkg.tar.zst```",
+      "user": "raa0121",
+      "ts": "1611547129.033600",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "QIb",
+          "elements": [
+            {
+              "type": "rich_text_preformatted",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "curl -LO "
+                },
+                {
+                  "type": "link",
+                  "url": "https://mirror.archlinux.jp/community/os/x86_64/dbeaver-7.3.3-1-x86_64.pkg.tar.zst"
+                },
+                {
+                  "type": "text",
+                  "text": "\nsudo pacman -U dbeaver-7.3.3-1-x86_64.pkg.tar.zst"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "feeb935c-ab06-487b-b3a4-6ba9f780bba5",
+      "type": "message",
+      "text": "というか、Arch側の使ってみたいなら、 community のものでいいのか",
+      "user": "raa0121",
+      "ts": "1611547086.033000",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "juB",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "というか、Arch側の使ってみたいなら、 community のものでいいのか"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "c2bcf655-8338-4339-aeed-9338d9a410a3",
+      "type": "message",
+      "text": "やってみます。(どう使うのでしょう。。？)",
+      "user": "conao3",
+      "ts": "1611547042.032300",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "OtCdz",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "やってみます。(どう使うのでしょう。。？)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "a048f194-0e3e-4b34-9b80-d17236eec5f8",
+      "type": "message",
+      "text": "試しに私のビルドした、 pkg.tar.xz 使ってみます？",
+      "user": "raa0121",
+      "ts": "1611547013.032100",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "02Y0",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "試しに私のビルドした、 pkg.tar.xz 使ってみます？"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "564957bc-7586-49b4-a56c-78d4d434dbf6",
+      "type": "message",
+      "text": "なるほど。。じゃあ手元のjavaの状態がなにか悪そう。。？",
+      "user": "conao3",
+      "ts": "1611546632.031600",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "Am9",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "なるほど。。じゃあ手元のjavaの状態がなにか悪そう。。？"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "39046aba-e776-4104-9071-f0faf5b456c5",
+      "type": "message",
+      "text": "とりあえず、手元ではビルドできました。",
+      "user": "raa0121",
+      "ts": "1611546580.031300",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "4WMO",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "とりあえず、手元ではビルドできました。"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "f11be203-43df-42ac-81e8-5113e2a51b56",
+      "type": "message",
+      "text": "ビルド長いですね",
+      "user": "raa0121",
+      "ts": "1611546526.031000",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "3BZg",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "ビルド長いですね"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "721eee72-5eef-4ed3-baa5-afb2bae10d1f",
+      "type": "message",
+      "text": "試してみます!",
+      "user": "conao3",
+      "ts": "1611546339.030800",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "4w2Xc",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "試してみます!"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "d6004c9e-12ae-43c0-adf0-af39b53351b5",
+      "type": "message",
+      "text": "<https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1599710707209600>\nこのDockerfile 使ってビルドするとどうですかね？",
+      "user": "raa0121",
+      "ts": "1611545164.030500",
+      "team": "T0GFBAM8C",
+      "attachments": [
+        {
+          "from_url": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1599710707209600",
+          "fallback": "[September 9th, 2020 9:05 PM] raa0121: ```FROM archlinux\nRUN pacman -Syyu --noconfirm &amp;&amp; pacman -S --noconfirm base-devel &amp;&amp; \\\n    useradd -m -G wheel builder &amp;&amp; \\\n    echo '%wheel ALL=(ALL) NOPASSWD:ALL' &gt;&gt; /etc/sudoers```\nパッケージャー向けの Dockerfile です",
+          "ts": "1599710707.209600",
+          "author_id": "raa0121",
+          "author_subname": "raa0121",
+          "channel_id": "C0GFH3RHU",
+          "channel_name": "random",
+          "is_msg_unfurl": true,
+          "text": "```FROM archlinux\nRUN pacman -Syyu --noconfirm &amp;&amp; pacman -S --noconfirm base-devel &amp;&amp; \\\n    useradd -m -G wheel builder &amp;&amp; \\\n    echo '%wheel ALL=(ALL) NOPASSWD:ALL' &gt;&gt; /etc/sudoers```\nパッケージャー向けの Dockerfile です",
+          "author_name": "raa0121",
+          "author_link": "https://archlinuxjp.slack.com/team/raa0121",
+          "author_icon": "https://secure.gravatar.com/avatar/35b032d7b2d4182b0c2de1ef85ba91f2.jpg?s=48&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0009-48.png",
+          "mrkdwn_in": [
+            "text"
+          ],
+          "id": 1,
+          "original_url": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1599710707209600",
+          "footer": "#random に投稿"
+        }
+      ],
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "INr",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "link",
+                  "url": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1599710707209600"
+                },
+                {
+                  "type": "text",
+                  "text": "\nこのDockerfile 使ってビルドするとどうですかね？"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "cf74e5d5-e014-47e6-a126-c9e07ac8d9a5",
+      "type": "message",
+      "text": "manjaroを使っているので、最新版が降ってきてませんでした。。\nHEADのPKGBUILDでdbeaverをインストールしたいのですが、\n```git clone <https://git.archlinux.org/svntogit/community.git>\ncd community/dbeaver/repos/community-x86_64\nmakepkg -si```\nで出来るものなのでしょうか？(この手順でエラーになっています。。)\n\n```conao-manjaro-helios:~/.local/work/community/dbeaver/repos/community-x86_64 conao\n$ ls -la\ntotal 128\ndrwxr-xr-x 2 conao conao  4096 Jan 25 12:17 .\ndrwxr-xr-x 3 conao conao  4096 Jan 25 10:57 ..\n-rw-r--r-- 1 conao conao   346 Jan 25 10:57 dbeaver.desktop\n-rw-r--r-- 1 conao conao   324 Jan 25 10:57 dbeaver.hook\n-rw-r--r-- 1 conao conao    95 Jan 25 10:57 dbeaver.install\n-rw-r--r-- 1 conao conao 97767 Jan 25 10:57 dbeaver.profile.gz\n-rw-r--r-- 1 conao conao   197 Jan 25 10:57 dbeaver.sh\n-rw-r--r-- 1 conao conao  4642 Jan 25 10:57 PKGBUILD```",
+      "user": "conao3",
+      "ts": "1611544716.029900",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "afBAH",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "manjaroを使っているので、最新版が降ってきてませんでした。。\nHEADのPKGBUILDでdbeaverをインストールしたいのですが、\n"
+                }
+              ]
+            },
+            {
+              "type": "rich_text_preformatted",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "git clone "
+                },
+                {
+                  "type": "link",
+                  "url": "https://git.archlinux.org/svntogit/community.git"
+                },
+                {
+                  "type": "text",
+                  "text": "\ncd community/dbeaver/repos/community-x86_64\nmakepkg -si"
+                }
+              ]
+            },
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "で出来るものなのでしょうか？(この手順でエラーになっています。。)\n\n"
+                }
+              ]
+            },
+            {
+              "type": "rich_text_preformatted",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "conao-manjaro-helios:~/.local/work/community/dbeaver/repos/community-x86_64 conao\n$ ls -la\ntotal 128\ndrwxr-xr-x 2 conao conao  4096 Jan 25 12:17 .\ndrwxr-xr-x 3 conao conao  4096 Jan 25 10:57 ..\n-rw-r--r-- 1 conao conao   346 Jan 25 10:57 dbeaver.desktop\n-rw-r--r-- 1 conao conao   324 Jan 25 10:57 dbeaver.hook\n-rw-r--r-- 1 conao conao    95 Jan 25 10:57 dbeaver.install\n-rw-r--r-- 1 conao conao 97767 Jan 25 10:57 dbeaver.profile.gz\n-rw-r--r-- 1 conao conao   197 Jan 25 10:57 dbeaver.sh\n-rw-r--r-- 1 conao conao  4642 Jan 25 10:57 PKGBUILD"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "7cf92798-d461-45e9-87cd-4f581bebce34",
+      "type": "message",
+      "text": "なるほど! ありがとうございますー!",
+      "user": "conao3",
+      "ts": "1611537521.029500",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "rBug",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "なるほど! ありがとうございますー!"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "299f31ca-ef4a-4339-95cd-ecc1f50d3852",
+      "type": "message",
+      "text": "<https://bugs.archlinux.org/index.php?project=5&amp;do=newtask&amp;switch=1>\nこのURLからならいけそう",
+      "user": "raa0121",
+      "ts": "1611537233.029200",
+      "team": "T0GFBAM8C",
+      "attachments": [
+        {
+          "title": "Arch Linux Bugtracker:: Arch Linux: Tasklist",
+          "title_link": "https://bugs.archlinux.org/index.php?project=5&do=newtask&switch=1",
+          "text": "Flyspray, a Bug Tracking System written in PHP.",
+          "fallback": "Arch Linux Bugtracker:: Arch Linux: Tasklist",
+          "from_url": "https://bugs.archlinux.org/index.php?project=5&do=newtask&switch=1",
+          "service_icon": "https://bugs.archlinux.org/themes/ArchLinux/favicon.ico",
+          "service_name": "bugs.archlinux.org",
+          "id": 1,
+          "original_url": "https://bugs.archlinux.org/index.php?project=5&amp;do=newtask&amp;switch=1"
+        }
+      ],
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "lkl",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "link",
+                  "url": "https://bugs.archlinux.org/index.php?project=5&do=newtask&switch=1"
+                },
+                {
+                  "type": "text",
+                  "text": "\nこのURLからならいけそう"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "435a095d-1d26-46a3-86e9-1eb715ecf765",
+      "type": "message",
+      "text": "わかりにくいな",
+      "user": "raa0121",
+      "ts": "1611537080.028800",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "bV0iP",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "わかりにくいな"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "214407fa-07dd-499b-acf4-25878505706e",
+      "type": "message",
+      "text": "いや、いけた",
+      "user": "raa0121",
+      "ts": "1611537077.028500",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "Uuggw",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "いや、いけた"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "df041b8d-a10c-4f92-a51e-8e8d3c44a453",
+      "type": "message",
+      "text": "あー でも、ここは Extra までのパッケージかな…",
+      "user": "raa0121",
+      "ts": "1611536837.028300",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "vMwjr",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "あー でも、ここは Extra までのパッケージかな…"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "23799622-8d2c-4ffa-a35b-68a65f9166c5",
+      "type": "message",
+      "text": "ここですかね",
+      "user": "raa0121",
+      "ts": "1611536775.027900",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "01YIH",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "ここですかね"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "cda8b7bc-5052-43e8-bff8-cddda4db05b7",
+      "type": "message",
+      "text": "<https://bugs.archlinux.org/>",
+      "user": "raa0121",
+      "ts": "1611536772.027600",
+      "team": "T0GFBAM8C",
+      "attachments": [
+        {
+          "title": "Arch Linux Bugtracker:: Arch Linux: Tasklist",
+          "title_link": "https://bugs.archlinux.org/",
+          "text": "Flyspray, a Bug Tracking System written in PHP.",
+          "fallback": "Arch Linux Bugtracker:: Arch Linux: Tasklist",
+          "from_url": "https://bugs.archlinux.org/",
+          "service_icon": "https://bugs.archlinux.org/themes/ArchLinux/favicon.ico",
+          "service_name": "bugs.archlinux.org",
+          "id": 1,
+          "original_url": "https://bugs.archlinux.org/"
+        }
+      ],
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "aLo",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "link",
+                  "url": "https://bugs.archlinux.org/"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "a19b24c5-9f3d-46bf-90e9-3e1525f7cdc6",
+      "type": "message",
+      "text": "mufloneさんがメンテナっぽいですが、メアドじゃないですねこれ。。\ncommiterのsvntogitはbot..?",
+      "user": "conao3",
+      "ts": "1611531442.027300",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "lDZV",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "mufloneさんがメンテナっぽいですが、メアドじゃないですねこれ。。\ncommiterのsvntogitはbot..?"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "ef4d5316-7445-4b32-a240-18767f256355",
+      "type": "message",
+      "text": "ありがとうございます。\naurはコメント欄があったのですが、communityにはない。。？\n<https://www.archlinux.jp/packages/community/x86_64/dbeaver/>\n最近のコミットがこれなのですが、直接Emailを送るのが簡単な連絡方法でしょうか？\n<https://git.archlinux.org/svntogit/community.git/commit/trunk?h=packages/dbeaver&amp;id=123f90537ebb3cb6edec900295099f00945be6b2>",
+      "user": "conao3",
+      "ts": "1611531295.027100",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "YpEq",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "ありがとうございます。\naurはコメント欄があったのですが、communityにはない。。？\n"
+                },
+                {
+                  "type": "link",
+                  "url": "https://www.archlinux.jp/packages/community/x86_64/dbeaver/"
+                },
+                {
+                  "type": "text",
+                  "text": "\n最近のコミットがこれなのですが、直接Emailを送るのが簡単な連絡方法でしょうか？\n"
+                },
+                {
+                  "type": "link",
+                  "url": "https://git.archlinux.org/svntogit/community.git/commit/trunk?h=packages/dbeaver&id=123f90537ebb3cb6edec900295099f00945be6b2"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "596cc0e8-d00d-45d1-af4a-ac63b4ca17aa",
+      "type": "message",
+      "text": "archlinux のパッケージメンテナですかね。",
+      "user": "dohq",
+      "ts": "1611530336.026900",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "wb2P",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "archlinux のパッケージメンテナですかね。"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "a9d2f352-cf25-482f-ac2c-33c2667fa21d",
+      "type": "message",
+      "text": "<https://github.com/dbeaver/dbeaver/issues/11092#issuecomment-765713671>\nここでいう、 `downstram` とはどこに報告してくれという依頼なのでしょう。。？",
+      "user": "conao3",
+      "ts": "1611505453.026100",
+      "team": "T0GFBAM8C",
+      "attachments": [
+        {
+          "service_name": "GitHub",
+          "title": "Unable to open Dbeaver after updating to 7.3.2-1 · Issue #11092 · dbeaver/dbeaver",
+          "title_link": "https://github.com/dbeaver/dbeaver/issues/11092#issuecomment-765713671",
+          "text": "System information: Manjaro Linux 7.3.2-1 1.8.0_275 Office plugin &amp; Apache POI plugin Connection specification: Database name and version - none Driver name - none Do you use tunnels or proxies...",
+          "fallback": "GitHub: Unable to open Dbeaver after updating to 7.3.2-1 · Issue #11092 · dbeaver/dbeaver",
+          "from_url": "https://github.com/dbeaver/dbeaver/issues/11092#issuecomment-765713671",
+          "thumb_url": "https://repository-images.githubusercontent.com/44662669/f3f5c080-808b-11ea-9713-2bea65875d95",
+          "thumb_width": 500,
+          "thumb_height": 250,
+          "service_icon": "https://a.slack-edge.com/80588/img/unfurl_icons/github.png",
+          "id": 1,
+          "original_url": "https://github.com/dbeaver/dbeaver/issues/11092#issuecomment-765713671"
+        }
+      ],
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "rxxA",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "link",
+                  "url": "https://github.com/dbeaver/dbeaver/issues/11092#issuecomment-765713671"
+                },
+                {
+                  "type": "text",
+                  "text": "\nここでいう、 "
+                },
+                {
+                  "type": "text",
+                  "text": "downstram",
+                  "style": {
+                    "code": true
+                  }
+                },
+                {
+                  "type": "text",
+                  "text": " とはどこに報告してくれという依頼なのでしょう。。？"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "64e15d30-08aa-4101-a42f-dac6f7c70250",
+      "type": "message",
+      "text": "うーん、Edgeはなぁ…\n試したからよく動くのは知ってるんだけど長年の癖で反射的に拒否反応が",
+      "user": "znmxodq1",
+      "ts": "1611330499.025200",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "t2oCW",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "うーん、Edgeはなぁ…\n試したからよく動くのは知ってるんだけど長年の癖で反射的に拒否反応が"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "reactions": [
+        {
+          "name": "wakaru",
+          "users": [
+            "getalotofmail",
+            "U0L2RG3U2",
+            "a3784197"
+          ],
+          "count": 3
+        }
+      ]
+    },
+    {
+      "client_msg_id": "e1f4eabb-2fba-4cb4-ba1e-e6310b6e6644",
+      "type": "message",
+      "text": "Chromium代替だとまだ開発版ですがMicrosoft Edgeということになりそう",
+      "user": "getalotofmail",
+      "ts": "1611330246.024400",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "de2E",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "Chromium代替だとまだ開発版ですがMicrosoft Edgeということになりそう"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "7644b7cc-7631-4a14-ac0d-912b49b499a3",
+      "type": "message",
+      "text": "LineのChrome extensionをchromiumで使っているので非常に困るなぁ\nWine使うしかないのかな?",
+      "user": "getalotofmail",
+      "ts": "1611329174.022500",
+      "team": "T0GFBAM8C",
+      "edited": {
+        "user": "getalotofmail",
+        "ts": "1611329286.000000"
+      },
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "KYrI",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "LineのChrome extensionをchromiumで使っているので非常に困るなぁ\nWine使うしかないのかな?"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "reactions": [
+        {
+          "name": "worried",
+          "users": [
+            "getalotofmail"
+          ],
+          "count": 1
+        }
+      ]
+    },
+    {
+      "client_msg_id": "2E6BFB17-77B0-4B8D-B83B-A1EE23E8DBD8",
+      "type": "message",
+      "text": "apiに関しては組み込んでるの取り外すのが難しいとか、時間かかるとかかもしれませんね(よくわかってない",
+      "user": "syui",
+      "ts": "1611314511.018300",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "cR=ZF",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "apiに関しては組み込んでるの取り外すのが難しいとか、時間かかるとかかもしれませんね(よくわかってない"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "141088CB-09E4-4EBD-BC1E-BC80FC7E4F15",
+      "type": "message",
+      "text": "バイナリをダウンロードすればいいだけなので便利だったんですけどね",
+      "user": "syui",
+      "ts": "1611314444.017000",
+      "team": "T0GFBAM8C",
+      "edited": {
+        "user": "syui",
+        "ts": "1611314559.000000"
+      },
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "RK4k",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "バイナリをダウンロードすればいいだけなので便利だったんですけどね"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "8f4e6108-b618-4d45-9027-52481600b960",
+      "type": "message",
+      "text": "AUR依存はあまりしたくないので公式にあるChromium使ってた",
+      "user": "znmxodq1",
+      "ts": "1611314381.016200",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "EyD",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "AUR依存はあまりしたくないので公式にあるChromium使ってた"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "f659e991-0832-49b3-b66e-d662bdd8c81c",
+      "type": "message",
+      "text": "APIキー使わないでビルドできないとかなにか理由あるのかな。わからない。",
+      "user": "h.hata.ai.t",
+      "ts": "1611314364.015900",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "ahM2",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "APIキー使わないでビルドできないとかなにか理由あるのかな。わからない。"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "0ce62072-c320-4b74-82f1-fed8d5d78b02",
+      "type": "message",
+      "text": "僕はaurのChromeしか使ったことないです。",
+      "user": "mail",
+      "ts": "1611314343.014900",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "2gqB/",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "僕はaurのChromeしか使ったことないです。"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "9d20e3b3-9563-4f95-afa9-4d1a694d6294",
+      "type": "message",
+      "text": "とくに主義とかこだわりがなければそれでいいと思います。",
+      "user": "h.hata.ai.t",
+      "ts": "1611314321.014700",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "tPoAY",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "とくに主義とかこだわりがなければそれでいいと思います。"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "de698d1d-f5c2-402d-9e7a-156c4355daaa",
+      "type": "message",
+      "text": "どうしてもchrome使いたいならchrome(aur)使えばいいかんじですかね",
+      "user": "a3784197",
+      "ts": "1611314286.013400",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "5Jvno",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "どうしてもchrome使いたいならchrome(aur)使えばいいかんじですかね"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "4b1969e3-9e73-4648-97e3-0d23b8134745",
+      "type": "message",
+      "text": "そんな感じですね",
+      "user": "mail",
+      "ts": "1611314279.013000",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "t7pNR",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "そんな感じですね"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "af87e574-0ff8-4444-b45c-721488d5359f",
+      "type": "message",
+      "text": "自分もchromiumとchromeの違いあまりしりませんすみません\nオープンソースかクローズかっていう違いですかね",
+      "user": "a3784197",
+      "ts": "1611314245.011800",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "eyP",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "自分もchromiumとchromeの違いあまりしりませんすみません\nオープンソースかクローズかっていう違いですかね"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "94756983-ff36-4b74-b54a-c8749fb5d7f4",
+      "type": "message",
+      "text": "Chromiumを使うという選択をしている時点でそういうのは切り捨てても構わないんだという意思表示だと思っている",
+      "user": "znmxodq1",
+      "ts": "1611314173.010100",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "kXLw",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "Chromiumを使うという選択をしている時点でそういうのは切り捨てても構わないんだという意思表示だと思っている"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "1fcfbf5c-cbbf-4b1f-a4be-7959f7679b70",
+      "type": "message",
+      "text": "ほんとそれ",
+      "user": "znmxodq1",
+      "ts": "1611314155.009600",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "2gd",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "ほんとそれ"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "d53f88e1-a951-4f04-8909-687c449af890",
+      "type": "message",
+      "text": "ChromeSync使うということはモバイルのChromeつかってるんだろうからそれならChromiumでなくChrome使えばいいんじゃないのと思ったのですが。スレッド読んでみたけどそのあたりいまいちわかりませんでした。",
+      "user": "h.hata.ai.t",
+      "ts": "1611314128.009400",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "G3P2H",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "ChromeSync使うということはモバイルのChromeつかってるんだろうからそれならChromiumでなくChrome使えばいいんじゃないのと思ったのですが。スレッド読んでみたけどそのあたりいまいちわかりませんでした。"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "f4ce9033-e31a-4783-a460-3808b9726812",
+      "type": "message",
+      "text": "自分も長らく狐なので特に問題ないですが素直に疑問。",
+      "user": "h.hata.ai.t",
+      "ts": "1611314033.006800",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "oubMN",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "自分も長らく狐なので特に問題ないですが素直に疑問。"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "83f95462-3eb0-4dfb-b2b0-3a38217c97c5",
+      "type": "message",
+      "text": "ようやく流れ追ったけどChromeSyncのAPIキーが非公開になるって話か\n別に無くてもいいんだけど…",
+      "user": "znmxodq1",
+      "ts": "1611313527.005900",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "=kb4t",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "ようやく流れ追ったけどChromeSyncのAPIキーが非公開になるって話か\n別に無くてもいいんだけど…"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "7fdaa63e-0223-4506-914f-1da8e5506bce",
+      "type": "message",
+      "text": "まあ火狐なんで無問題ですけどね",
+      "user": "a3784197",
+      "ts": "1611313442.005200",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "p4Knp",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "まあ火狐なんで無問題ですけどね"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "650cd86b-f3e3-44d3-89fb-6c1993e928f1",
+      "type": "message",
+      "text": "ChromeSync使わないっていう選択肢がないのなんでなんだろう？",
+      "user": "h.hata.ai.t",
+      "ts": "1611311629.004000",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "Bkq/",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "ChromeSync使わないっていう選択肢がないのなんでなんだろう？"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "reactions": [
+        {
+          "name": "sorena",
+          "users": [
+            "znmxodq1"
+          ],
+          "count": 1
+        }
+      ]
+    },
+    {
+      "client_msg_id": "00d8c09a-5687-4de8-9a5a-afe7870781b3",
+      "type": "message",
+      "text": "ただ、Webアプリ実装している身としては世界で一番使われているブラウザの使用に苦労するようになるのはちょっとつらいな",
+      "user": "znmxodq1",
+      "ts": "1611310686.003200",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "8sF9q",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "ただ、Webアプリ実装している身としては世界で一番使われているブラウザの使用に苦労するようになるのはちょっとつらいな"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "d2e3def9-9eb2-4103-8765-6edcd9faf67e",
+      "type": "message",
+      "text": "結局chromeの方使ってる",
+      "user": "yutakatay",
+      "ts": "1611310111.002500",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "KwLf",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "結局chromeの方使ってる"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "8e69a04f-8a58-40a9-a658-fb314e8de9e5",
+      "type": "message",
+      "text": "後はVivaldi",
+      "user": "znmxodq1",
+      "ts": "1611310092.002000",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "q7R",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "後はVivaldi"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "e82af5b9-0ff1-45a1-b14b-420d78a5ae39",
+      "type": "message",
+      "text": "狐に戻るだけだ",
+      "user": "znmxodq1",
+      "ts": "1611310089.001700",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "eZz",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "狐に戻るだけだ"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "8F4B2863-A3C9-49DF-9225-23F410E8308A",
+      "type": "message",
+      "text": "困る",
+      "user": "syui",
+      "ts": "1611310059.001500",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "kRW2",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "困る"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "03b91485-c391-467f-8641-bab76c0b7ade",
+      "type": "message",
+      "text": "Googleのポリシー変更により、Archlinux公式リポジトリから、Chromiumが消えるかもしれないと、メンテナのFelix Yan氏がツイート\n<https://t.co/o0lyglkMrg|https://t.co/o0lyglkMrg>\n\n<https://twitter.com/kazenoasagi/status/1351851889021706247|https://twitter.com/kazenoasagi/status/1351851889021706247>\n\nchromium消えちゃうんですかね",
+      "user": "a3784197",
+      "ts": "1611309527.001100",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "bPDN",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "Googleのポリシー変更により、Archlinux公式リポジトリから、Chromiumが消えるかもしれないと、メンテナのFelix Yan氏がツイート\n"
+                },
+                {
+                  "type": "link",
+                  "url": "https://t.co/o0lyglkMrg",
+                  "text": "https://t.co/o0lyglkMrg"
+                },
+                {
+                  "type": "text",
+                  "text": "\n\n"
+                },
+                {
+                  "type": "link",
+                  "url": "https://twitter.com/kazenoasagi/status/1351851889021706247",
+                  "text": "https://twitter.com/kazenoasagi/status/1351851889021706247"
+                },
+                {
+                  "type": "text",
+                  "text": "\n\nchromium消えちゃうんですかね"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "reactions": [
+        {
+          "name": "open_mouth",
+          "users": [
+            "yutakatay",
+            "znmxodq1",
+            "ssktisi78",
+            "dohq",
+            "UD124KPDJ"
+          ],
+          "count": 5
+        }
+      ]
+    },
+    {
+      "type": "message",
+      "subtype": "channel_join",
+      "ts": "1611306793.000200",
+      "user": "ssktisi78",
+      "text": "<@ssktisi78>さんがチャンネルに参加しました"
+    },
+    {
+      "type": "message",
+      "subtype": "channel_join",
+      "ts": "1610984383.018100",
+      "user": "0w3kitten",
+      "text": "<@0w3kitten>さんがチャンネルに参加しました"
+    },
+    {
+      "type": "message",
+      "subtype": "thread_broadcast",
+      "text": "これ気付いたら自分の環境では治ってたんですけど何だったのかな・・・(普段サスペンドばっかりでreboot滅多にしないから長いこと気付かなかった)",
+      "user": "kokopis",
+      "ts": "1610839118.017700",
+      "thread_ts": "1607183924.066200",
+      "root": {
+        "client_msg_id": "a2e78913-e4e7-4bdc-a9f8-dad5502acddc",
+        "type": "message",
+        "text": "ときどきそういうことありますよね。journalctlして調べるしかないと思います。",
+        "user": "yutakatay",
+        "ts": "1607183924.066200",
+        "team": "T0GFBAM8C",
+        "blocks": [
+          {
+            "type": "rich_text",
+            "block_id": "SbiBX",
+            "elements": [
+              {
+                "type": "rich_text_section",
+                "elements": [
+                  {
+                    "type": "text",
+                    "text": "ときどきそういうことありますよね。journalctlして調べるしかないと思います。"
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "thread_ts": "1607183924.066200",
+        "reply_count": 4,
+        "reply_users_count": 3,
+        "latest_reply": "1610839118.017700",
+        "reply_users": [
+          "getalotofmail",
+          "kokopis",
+          "UPYQ3CUJ1"
+        ],
+        "is_locked": false,
+        "subscribed": false
+      },
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "WNn1",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "これ気付いたら自分の環境では治ってたんですけど何だったのかな・・・(普段サスペンドばっかりでreboot滅多にしないから長いこと気付かなかった)"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "client_msg_id": "56de2252-bd0e-41c2-b754-ea4f40353a50"
+    },
+    {
+      "client_msg_id": "582399e3-a64e-4072-9a6e-08b2d7fce7bc",
+      "type": "message",
+      "text": "<https://github.com/linux-surface/linux-surface/wiki/Supported-Devices-and-Features#feature-matrix>",
+      "user": "getalotofmail",
+      "ts": "1610780300.017500",
+      "team": "T0GFBAM8C",
+      "attachments": [
+        {
+          "service_name": "GitHub",
+          "title": "linux-surface/linux-surface",
+          "title_link": "https://github.com/linux-surface/linux-surface/wiki/Supported-Devices-and-Features#feature-matrix",
+          "text": "Linux Kernel for Surface Devices. Contribute to linux-surface/linux-surface development by creating an account on GitHub.",
+          "fallback": "GitHub: linux-surface/linux-surface",
+          "thumb_url": "https://avatars1.githubusercontent.com/u/59315171?s=400&v=4",
+          "from_url": "https://github.com/linux-surface/linux-surface/wiki/Supported-Devices-and-Features#feature-matrix",
+          "thumb_width": 420,
+          "thumb_height": 420,
+          "service_icon": "https://a.slack-edge.com/80588/img/unfurl_icons/github.png",
+          "id": 1,
+          "original_url": "https://github.com/linux-surface/linux-surface/wiki/Supported-Devices-and-Features#feature-matrix"
+        }
+      ],
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "r18x",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "link",
+                  "url": "https://github.com/linux-surface/linux-surface/wiki/Supported-Devices-and-Features#feature-matrix"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "cca14d5e-ede6-411c-81c3-beb4ca3a140a",
+      "type": "message",
+      "text": "MS、パッチ無しでさーふぇすでLinuxが動くなら依存度高めていってもいいと思ってるんだけどなぁ",
+      "user": "getalotofmail",
+      "ts": "1610779817.017300",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "t5JWI",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "MS、パッチ無しでさーふぇすでLinuxが動くなら依存度高めていってもいいと思ってるんだけどなぁ"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "message",
+      "subtype": "channel_join",
+      "ts": "1610673612.013600",
+      "user": "abab020103",
+      "text": "<@abab020103>さんがチャンネルに参加しました"
+    },
+    {
+      "client_msg_id": "7917e41a-09ef-4ae5-82aa-b8d077f42839",
+      "type": "message",
+      "text": "後、あまり意識しないけどLSPも無いと死ねる",
+      "user": "znmxodq1",
+      "ts": "1610620848.012900",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "yDtXc",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "後、あまり意識しないけどLSPも無いと死ねる"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "reactions": [
+        {
+          "name": "sorena",
+          "users": [
+            "U01GL4MB9KR",
+            "yutakatay",
+            "syui",
+            "dohq"
+          ],
+          "count": 4
+        }
+      ]
+    },
+    {
+      "client_msg_id": "B82AFB95-D6BF-4A9A-95BE-523F05DC98FE",
+      "type": "message",
+      "text": "typescriptもありますね、つよい",
+      "user": "syui",
+      "ts": "1610620736.012400",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "FLH1Y",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "typescriptもありますね、つよい"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "ec8ea2bb-6bbb-4ad2-b571-42179d054820",
+      "type": "message",
+      "text": "MSはTypeScriptがあるので",
+      "user": "znmxodq1",
+      "ts": "1610620666.011900",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "aiREX",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "MSはTypeScriptがあるので"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "fab0e2af-5f79-4431-b46d-1a8c685db899",
+      "type": "message",
+      "text": "Clangに依存してるのをApple依存と言われると厳しい",
+      "user": "znmxodq1",
+      "ts": "1610620624.011400",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "aFzo+",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "Clangに依存してるのをApple依存と言われると厳しい"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "4dc54c2b-55fb-441f-afd2-863233f5aafa",
+      "type": "message",
+      "text": "スマホとか変えたとき、バックアップをインポート(リストア)できないの困ってたので",
+      "user": "syui",
+      "ts": "1610602370.010000",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "ETrL",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "スマホとか変えたとき、バックアップをインポート(リストア)できないの困ってたので"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "76238964-6acb-4eb0-a9d0-a06bc8e5864f",
+      "type": "message",
+      "text": "移行する前にアップデートしてほしかった",
+      "user": "syui",
+      "ts": "1610602317.009500",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "ZIu",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "移行する前にアップデートしてほしかった"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "b7bd8f02-dcda-4482-907e-4f8e8e8b6e1a",
+      "type": "message",
+      "text": "そういえば二段階認証、googleのアプリが珍しくアップデートされて、インポートできるようになったので、今は便利になってるらしい",
+      "user": "syui",
+      "ts": "1610602293.009200",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "Y/dQe",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "そういえば二段階認証、googleのアプリが珍しくアップデートされて、インポートできるようになったので、今は便利になってるらしい"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "reactions": [
+        {
+          "name": "benri",
+          "users": [
+            "yutakatay",
+            "a3784197"
+          ],
+          "count": 2
+        }
+      ]
+    }
+  ],
+  "has_more": true,
+  "is_limited": false,
+  "pin_count": 0,
+  "channel_actions_ts": null,
+  "channel_actions_count": 0,
+  "response_metadata": {
+    "next_cursor": "bmV4dF90czoxNjEwNjAyMjMwMDA4NDAw"
+  }
+}

@@ -1,0 +1,3307 @@
+{
+  "ok": true,
+  "latest": "1659355877.000000",
+  "oldest": "1656677477.000000",
+  "messages": [
+    {
+      "client_msg_id": "56a15c99-0b90-429a-9921-a3a6d54540e1",
+      "type": "message",
+      "text": "Ubuntu 22.04をベースにした、Linux Mintがリリースされたようで。",
+      "user": "git-repos-rkarsnk",
+      "ts": "1659329914.332989",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "JWxP",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "Ubuntu 22.04をベースにした、Linux Mintがリリースされたようで。"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "message",
+      "subtype": "channel_join",
+      "ts": "1659263757.936679",
+      "user": "harusann2",
+      "text": "<@harusann2>さんがチャンネルに参加しました"
+    },
+    {
+      "client_msg_id": "6f0656b9-a836-412d-9b4d-f3334a9d107b",
+      "type": "message",
+      "text": "私はあんまり変わらないですね（記事に対してだと）",
+      "user": "yutakatay",
+      "ts": "1659224908.041129",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "4K4TB",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "私はあんまり変わらないですね（記事に対してだと）"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "e6831e84-5e92-4eb9-a133-2a3962be4aa4",
+      "type": "message",
+      "text": "「LGTM」と「いいね」では全然意味が違うよね。\n<https://twitter.com/mattn_jp/status/1553195496621363201>",
+      "user": "git-repos-rkarsnk",
+      "ts": "1659223612.104159",
+      "team": "T0GFBAM8C",
+      "attachments": [
+        {
+          "from_url": "https://twitter.com/mattn_jp/status/1553195496621363201",
+          "ts": 1659145638,
+          "id": 1,
+          "original_url": "https://twitter.com/mattn_jp/status/1553195496621363201",
+          "fallback": "<https://twitter.com/mattn_jp|@mattn_jp>: 某所でも共有したこれ、ボタンの意味をユーザに期待するのは無理があるという事だったと思ってる。技術的に正しいか確認してから押して下さいというのは、だいたいの人が押せなくなってしまう事になる。\n\n<https://blog.qiita.com/lgtm-to-like/>",
+          "text": "某所でも共有したこれ、ボタンの意味をユーザに期待するのは無理があるという事だったと思ってる。技術的に正しいか確認してから押して下さいというのは、だいたいの人が押せなくなってしまう事になる。\n\n<https://blog.qiita.com/lgtm-to-like/>",
+          "author_name": "mattn",
+          "author_link": "https://twitter.com/mattn_jp/status/1553195496621363201",
+          "author_icon": "https://pbs.twimg.com/profile_images/1361128357698572292/61_qdnll_normal.jpg",
+          "author_subname": "@mattn_jp",
+          "service_name": "twitter",
+          "service_url": "https://twitter.com/",
+          "footer": "Twitter",
+          "footer_icon": "https://a.slack-edge.com/80588/img/services/twitter_pixel_snapped_32.png"
+        }
+      ],
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "ZmB",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "「LGTM」と「いいね」では全然意味が違うよね。\n"
+                },
+                {
+                  "type": "link",
+                  "url": "https://twitter.com/mattn_jp/status/1553195496621363201"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "2dfe4bdc-60d6-4d78-bea7-92676dee66ab",
+      "type": "message",
+      "text": "<https://zenn.dev/saikou_kunisaki/articles/3c39a2f83006d4>\nこういうのあるので、自前はめんどくさそうなんですよね",
+      "user": "raa0121",
+      "ts": "1658997407.073089",
+      "team": "T0GFBAM8C",
+      "attachments": [
+        {
+          "from_url": "https://zenn.dev/saikou_kunisaki/articles/3c39a2f83006d4",
+          "image_url": "https://res.cloudinary.com/zenn/image/upload/s--4mNkRa17--/co_rgb:222%2Cg_south_west%2Cl_text:notosansjp-medium.otf_37_bold:saikou_kunisaki%2Cx_203%2Cy_98/c_fit%2Cco_rgb:222%2Cg_north_west%2Cl_text:notosansjp-medium.otf_70_bold:%25E5%2580%258B%25E4%25BA%25BA%25E9%2596%258B%25E7%2599%25BA%25E3%2581%25A7%25E3%2582%25AF%25E3%2583%25AD%25E3%2583%25BC%25E3%2582%25BA%25E3%2583%2589%25E3%2581%25AA%25E3%2583%2581%25E3%2583%25A3%25E3%2583%2583%25E3%2583%2588%25E3%2582%2592%25E4%25BD%259C%25E3%2582%258B%25E3%2581%25AE%25E3%2581%25A7%25E9%259B%25BB%25E6%25B0%2597%25E9%2580%259A%25E4%25BF%25A1%25E4%25BA%258B%25E6%25A5%25AD%25E3%2581%25AB%25E5%25B1%258A%25E5%2587%25BA%2520%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9yZXMuY2xvdWRpbmFyeS5jb20vemVubi9pbWFnZS9mZXRjaC9zLS1idlBPV290LS0tL2NfbGltaXQlMkNmX2F1dG8lMkNmbF9wcm9ncmVzc2l2ZSUyQ3FfYXV0byUyQ3dfNzAvaHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2YwMDhhNTEwYTkuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_72/v1627274783/default/og-base_z4sxah.png",
+          "image_width": 476,
+          "image_height": 250,
+          "image_bytes": 36823,
+          "service_icon": "https://zenn.dev/images/icon.png",
+          "id": 1,
+          "original_url": "https://zenn.dev/saikou_kunisaki/articles/3c39a2f83006d4",
+          "fallback": "Zenn: 個人開発でクローズドなチャットを作るので電気通信事業に届出",
+          "title": "個人開発でクローズドなチャットを作るので電気通信事業に届出",
+          "title_link": "https://zenn.dev/saikou_kunisaki/articles/3c39a2f83006d4",
+          "service_name": "Zenn"
+        }
+      ],
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "edUJ",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "link",
+                  "url": "https://zenn.dev/saikou_kunisaki/articles/3c39a2f83006d4"
+                },
+                {
+                  "type": "text",
+                  "text": "\nこういうのあるので、自前はめんどくさそうなんですよね"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "reactions": [
+        {
+          "name": "hee",
+          "users": [
+            "yutakatay",
+            "naokihirokitomoki",
+            "U6DL9D3AB",
+            "U03DM2S3H5K",
+            "kusanaginoturugi",
+            "U027RN1LZT6",
+            "git-repos-rkarsnk"
+          ],
+          "count": 7
+        },
+        {
+          "name": "innocent",
+          "users": [
+            "U02LCA8SU0M"
+          ],
+          "count": 1
+        }
+      ]
+    },
+    {
+      "client_msg_id": "10b0d39f-63d0-498d-bd49-0a78c57e0c00",
+      "type": "message",
+      "text": "東工大生は結構自前でいろんなサービス運用してますよね。やることない場合はいい試みだとは思う",
+      "user": "yutakatay",
+      "ts": "1658997290.826909",
+      "team": "T0GFBAM8C",
+      "edited": {
+        "user": "yutakatay",
+        "ts": "1658997311.000000"
+      },
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "mrOyU",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "東工大生は結構自前でいろんなサービス運用してますよね。やることない場合はいい試みだとは思う"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "EC189ECE-7C35-462F-9713-F81CFFEDC9D9",
+      "type": "message",
+      "text": "<https://github.com/traPtitech/traQ|https://github.com/traPtitech/traQ>",
+      "user": "peony.btn",
+      "ts": "1658996869.643629",
+      "team": "T0GFBAM8C",
+      "attachments": [
+        {
+          "id": 1,
+          "color": "24292f",
+          "bot_id": "B03JFQRLYDD",
+          "app_unfurl_url": "https://github.com/traPtitech/traQ",
+          "is_app_unfurl": true,
+          "app_id": "A01BP7R4KNY",
+          "fallback": "traPtitech/traQ",
+          "text": "traQ - traP Internal Messenger Application Backend",
+          "title": "traPtitech/traQ",
+          "fields": [
+            {
+              "value": "169",
+              "title": "Stars",
+              "short": true
+            },
+            {
+              "value": "Go",
+              "title": "Language",
+              "short": true
+            }
+          ]
+        }
+      ],
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "5DQKZ",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "link",
+                  "url": "https://github.com/traPtitech/traQ",
+                  "text": "https://github.com/traPtitech/traQ"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "97DAA93A-3134-4BA6-AD81-CE1079D80A40",
+      "type": "message",
+      "text": "そういえば東工大のサークルはチャットサービスを自前で作って運用しているらしいですね",
+      "user": "peony.btn",
+      "ts": "1658996841.353779",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "jXxV",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "そういえば東工大のサークルはチャットサービスを自前で作って運用しているらしいですね"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "reactions": [
+        {
+          "name": "hee",
+          "users": [
+            "naokihirokitomoki",
+            "U02R6AP6H0C",
+            "U01HE1ENNJZ",
+            "UJ7P75WB1"
+          ],
+          "count": 4
+        }
+      ]
+    },
+    {
+      "client_msg_id": "D15A2DA5-832E-4EAF-8C34-FFEA734FDAE3",
+      "type": "message",
+      "text": "...な、なるほど",
+      "user": "syui",
+      "ts": "1658993832.289299",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "4Es",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "...な、なるほど"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "7a4fe80a-3144-4ba0-bb51-cbb12a02f7f6",
+      "type": "message",
+      "text": "<#C0GFH3RHC|general> のMatrixの話題だけ切り離すけど、ちなみに私が知ったのはここから\n<https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1602328064151200>",
+      "user": "yutakatay",
+      "ts": "1658993695.891449",
+      "team": "T0GFBAM8C",
+      "attachments": [
+        {
+          "from_url": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1602328064151200",
+          "ts": "1602328064.151200",
+          "author_id": "syui",
+          "channel_team": "T0GFBAM8C",
+          "channel_id": "C0GFH3RHU",
+          "channel_name": "random",
+          "is_msg_unfurl": true,
+          "message_blocks": [
+            {
+              "team": "T0GFBAM8C",
+              "channel": "C0GFH3RHU",
+              "ts": "1602328064.151200",
+              "message": {
+                "blocks": [
+                  {
+                    "type": "rich_text",
+                    "block_id": "8ifXz",
+                    "elements": [
+                      {
+                        "type": "rich_text_section",
+                        "elements": [
+                          {
+                            "type": "text",
+                            "text": "matrixてのが度々出てきてちょっと気になってる"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            }
+          ],
+          "id": 1,
+          "original_url": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1602328064151200",
+          "fallback": "[October 10th, 2020 4:07 AM] syui: matrixてのが度々出てきてちょっと気になってる",
+          "text": "matrixてのが度々出てきてちょっと気になってる",
+          "author_name": "syui",
+          "author_link": "https://archlinuxjp.slack.com/team/syui",
+          "author_icon": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_48.png",
+          "author_subname": "syui",
+          "mrkdwn_in": [
+            "text"
+          ],
+          "footer": "#random に投稿"
+        }
+      ],
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "nVy+",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "channel",
+                  "channel_id": "C0GFH3RHC"
+                },
+                {
+                  "type": "text",
+                  "text": " のMatrixの話題だけ切り離すけど、ちなみに私が知ったのはここから\n"
+                },
+                {
+                  "type": "link",
+                  "url": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1602328064151200"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "4aea7c30-0ff2-4083-9c58-dbee3199a906",
+      "type": "message",
+      "text": "← 新しいエ〇ゲを買う度にWineで動くかを試して1週間くらい溶かす人\nWindowsはメディアプレーヤー兼ゲーム機理論側の人なんだが、意地でもLinux環境で動かしたくなってしまう",
+      "user": "angel.beats.kanade.yu",
+      "ts": "1658910074.541819",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "GOP",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "← 新しいエ〇ゲを買う度にWineで動くかを試して1週間くらい溶かす人\nWindowsはメディアプレーヤー兼ゲーム機理論側の人なんだが、意地でもLinux環境で動かしたくなってしまう"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "reactions": [
+        {
+          "name": "archjp-joy",
+          "users": [
+            "kusanaginoturugi",
+            "U01HE1ENNJZ",
+            "naokihirokitomoki",
+            "U03L6BKDC4D"
+          ],
+          "count": 4
+        },
+        {
+          "name": "pray",
+          "users": [
+            "git-repos-rkarsnk"
+          ],
+          "count": 1
+        }
+      ]
+    },
+    {
+      "client_msg_id": "c9c6059a-4e84-472e-ad30-a60b5d86617c",
+      "type": "message",
+      "text": "Steamでゲームしたい! → まずWindowsマシンを買います\nでいいと思うなぁ\nお互い苦労無くてWin-Winだし",
+      "user": "dohq",
+      "ts": "1658908117.192179",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "wHo",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "Steamでゲームしたい! → まずWindowsマシンを買います\nでいいと思うなぁ\nお互い苦労無くてWin-Winだし"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "reactions": [
+        {
+          "name": "sorena",
+          "users": [
+            "s5is",
+            "raa0121",
+            "U6DL9D3AB",
+            "znmxodq1",
+            "kusanaginoturugi"
+          ],
+          "count": 5
+        },
+        {
+          "name": "wakaru",
+          "users": [
+            "yutakatay",
+            "naokihirokitomoki"
+          ],
+          "count": 2
+        },
+        {
+          "name": "thinking_face",
+          "users": [
+            "U92NQ391A"
+          ],
+          "count": 1
+        },
+        {
+          "name": "eyes",
+          "users": [
+            "U02ASPM0A6T"
+          ],
+          "count": 1
+        }
+      ]
+    },
+    {
+      "client_msg_id": "9b554b8a-45a0-4c2d-a996-5608b1adf7a1",
+      "type": "message",
+      "text": "まぁ好きでやってて自分でケツ拭けるならいいと思う。けど中にはあんまり知識も粘り強さもないのにピーピー騒ぐ人もいて・・・",
+      "user": "yutakatay",
+      "ts": "1658900941.320569",
+      "team": "T0GFBAM8C",
+      "edited": {
+        "user": "yutakatay",
+        "ts": "1658901157.000000"
+      },
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "=Ue",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "まぁ好きでやってて自分でケツ拭けるならいいと思う。けど中にはあんまり知識も粘り強さもないのにピーピー騒ぐ人もいて・・・"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "reactions": [
+        {
+          "name": "totemoturai",
+          "users": [
+            "s5is",
+            "U6DL9D3AB",
+            "znmxodq1",
+            "U02BLTTQEL9"
+          ],
+          "count": 4
+        }
+      ]
+    },
+    {
+      "client_msg_id": "7a674f7c-b291-4145-9f86-c1254fe8c4da",
+      "type": "message",
+      "text": "かなり無茶な…",
+      "user": "s5is",
+      "ts": "1658900791.779539",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "QhZR",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "かなり無茶な…"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "cd2c9d13-05fe-4f47-ad51-d3cc74bacb21",
+      "type": "message",
+      "text": "どうやらM1 MacのParallelsとかでやっている猛者もいるらしく、そっちは完全に駄目らしいですね。",
+      "user": "qryxip",
+      "ts": "1658900576.839649",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "12CpV",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "どうやらM1 MacのParallelsとかでやっている猛者もいるらしく、そっちは完全に駄目らしいですね。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "reactions": [
+        {
+          "name": "hee",
+          "users": [
+            "yutakatay",
+            "s5is",
+            "naokihirokitomoki",
+            "git-repos-rkarsnk",
+            "dohq",
+            "U01HE1ENNJZ",
+            "U02BLTTQEL9"
+          ],
+          "count": 7
+        }
+      ]
+    },
+    {
+      "client_msg_id": "c30e0059-7e43-48ce-94f9-2261a1b4e5de",
+      "type": "message",
+      "text": "(個人的にはWindowsはゲーム機理論で生きてるのでLinuxでゲーム動かんって言われてもあまり何も思わない…)",
+      "user": "s5is",
+      "ts": "1658898234.954879",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "CpC",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "(個人的にはWindowsはゲーム機理論で生きてるのでLinuxでゲーム動かんって言われてもあまり何も思わない…)"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "reactions": [
+        {
+          "name": "wakaru",
+          "users": [
+            "dohq"
+          ],
+          "count": 1
+        }
+      ]
+    },
+    {
+      "client_msg_id": "7e239c9e-5029-42c3-b979-ea34ec532207",
+      "type": "message",
+      "text": "まぁ一応Linuxで動かなかったら文句はいうけど、発展途中のコンテンツならOS絞るのは割とありな選択だと思う（VRChatはさすがにもう発展途上ではない気もするど）\nユーザー数多くないとサポートしてくれないけど、ユーザー数増やすためにはいろいろなコンテンツが使える必要があるというジレンマ",
+      "user": "yutakatay",
+      "ts": "1658898006.896159",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "gYc",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "まぁ一応Linuxで動かなかったら文句はいうけど、発展途中のコンテンツならOS絞るのは割とありな選択だと思う（VRChatはさすがにもう発展途上ではない気もするど）\nユーザー数多くないとサポートしてくれないけど、ユーザー数増やすためにはいろいろなコンテンツが使える必要があるというジレンマ"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "7e7b6567-e63a-4fd6-98fb-13509b030cb8",
+      "type": "message",
+      "text": "あ、たった今Twitterに動作例が\n<https://twitter.com/SumiSumiVRC/status/1552154869196210178>",
+      "user": "qryxip",
+      "ts": "1658897603.429699",
+      "team": "T0GFBAM8C",
+      "attachments": [
+        {
+          "from_url": "https://twitter.com/SumiSumiVRC/status/1552154869196210178",
+          "ts": 1658897533,
+          "image_url": "https://pbs.twimg.com/media/FYpbY_qUcAAD5xg.jpg",
+          "image_width": 1200,
+          "image_height": 675,
+          "image_bytes": 101008,
+          "id": 1,
+          "original_url": "https://twitter.com/SumiSumiVRC/status/1552154869196210178",
+          "fallback": "<https://twitter.com/SumiSumiVRC|@SumiSumiVRC>: VM上のLinuxだと普通にVRChatが起動するのモヤモヤする\nまぁ「Proton上での動作は問題ない」は検証されたので運営はLinuxユーザーに対して理解があるのかないのか分からなくなりました <https://pbs.twimg.com/media/FYpbY_qUcAAD5xg.jpg>",
+          "text": "VM上のLinuxだと普通にVRChatが起動するのモヤモヤする\nまぁ「Proton上での動作は問題ない」は検証されたので運営はLinuxユーザーに対して理解があるのかないのか分からなくなりました <https://pbs.twimg.com/media/FYpbY_qUcAAD5xg.jpg>",
+          "author_name": "Sumi-Sumi",
+          "author_link": "https://twitter.com/SumiSumiVRC/status/1552154869196210178",
+          "author_icon": "https://pbs.twimg.com/profile_images/1524064472671096837/Hr7juWMk_normal.jpg",
+          "author_subname": "@SumiSumiVRC",
+          "service_name": "twitter",
+          "service_url": "https://twitter.com/",
+          "footer": "Twitter",
+          "footer_icon": "https://a.slack-edge.com/80588/img/services/twitter_pixel_snapped_32.png"
+        }
+      ],
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "qNO",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "あ、たった今Twitterに動作例が\n"
+                },
+                {
+                  "type": "link",
+                  "url": "https://twitter.com/SumiSumiVRC/status/1552154869196210178"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "reactions": [
+        {
+          "name": "hee",
+          "users": [
+            "yutakatay",
+            "s5is"
+          ],
+          "count": 2
+        }
+      ]
+    },
+    {
+      "client_msg_id": "6ff79188-8c12-4e8c-a3ae-992c8c297ab6",
+      "type": "message",
+      "text": "私もVRChatに入ったことがなく、またフォーラム(?)を閲覧するためのアカウントも持っていないので正確には状況がわからないのですが、「'we've testedとか嘘だろ動かねーぞ」的な報告があるようです。実はSteam Deckだけ動作するような状態なんでしょうか。",
+      "user": "qryxip",
+      "ts": "1658897477.327879",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "iva4",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "私もVRChatに入ったことがなく、またフォーラム(?)を閲覧するためのアカウントも持っていないので正確には状況がわからないのですが、「'we've testedとか嘘だろ動かねーぞ」的な報告があるようです。実はSteam Deckだけ動作するような状態なんでしょうか。"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "37389e14-dad3-4c14-9ea4-2ebb0859e224",
+      "type": "message",
+      "text": "何ならパッチノートの5行目に「アクセシビリティとかそういうの優先するわ」って書いてる…。\n<https://hello.vrchat.com/blog/vrchat-security-update>",
+      "user": "s5is",
+      "ts": "1658894815.553749",
+      "team": "T0GFBAM8C",
+      "edited": {
+        "user": "s5is",
+        "ts": "1658894821.000000"
+      },
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "/XD",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "何ならパッチノートの5行目に「アクセシビリティとかそういうの優先するわ」って書いてる…。\n"
+                },
+                {
+                  "type": "link",
+                  "url": "https://hello.vrchat.com/blog/vrchat-security-update"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "fcfe9d32-579f-4bc5-92ee-903bbd93ef76",
+      "type": "message",
+      "text": "障碍者がプレイするためのModというのが、そんなに良いものなら運営に提案してみたらいいんじゃないのかと、\n添付画像の文章読んで思った。",
+      "user": "git-repos-rkarsnk",
+      "ts": "1658893632.498239",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "slw9/",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "障碍者がプレイするためのModというのが、そんなに良いものなら運営に提案してみたらいいんじゃないのかと、\n添付画像の文章読んで思った。"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "cbbe88e9-6082-4d94-a9be-bf239634b99c",
+      "type": "message",
+      "text": "VRChat公式普通に良い運営じゃないか…",
+      "user": "s5is",
+      "ts": "1658892691.512289",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "bUsP",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "VRChat公式普通に良い運営じゃないか…"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "reactions": [
+        {
+          "name": "sorena",
+          "users": [
+            "U6DL9D3AB"
+          ],
+          "count": 1
+        }
+      ]
+    },
+    {
+      "client_msg_id": "e053782f-fdf9-41cc-a223-46141a10d4e6",
+      "type": "message",
+      "text": "あと最後の方とか、いきなり政治の話とか出してますし",
+      "user": "tatsumigamou",
+      "ts": "1658892372.488789",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "rEqa",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "あと最後の方とか、いきなり政治の話とか出してますし"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "45c5ecd6-114a-4936-9e07-f34771088fd5",
+      "type": "message",
+      "text": "そもそもさっきの画像のやつ、全体的に主張が偏ってるんですよね\n「お前らも困るだろ！？だから一緒に運営に圧かけていこうぜ！」みたいな雰囲気がある",
+      "user": "tatsumigamou",
+      "ts": "1658892331.775679",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "4O6",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "そもそもさっきの画像のやつ、全体的に主張が偏ってるんですよね\n「お前らも困るだろ！？だから一緒に運営に圧かけていこうぜ！」みたいな雰囲気がある"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "reactions": [
+        {
+          "name": "hee",
+          "users": [
+            "yutakatay"
+          ],
+          "count": 1
+        }
+      ]
+    },
+    {
+      "client_msg_id": "05f660d6-6529-449e-b72f-cb1da2f5678e",
+      "type": "message",
+      "text": "ここまで見るとVRC公式に正しさしか感じないんだけど…",
+      "user": "s5is",
+      "ts": "1658892330.625099",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "9+pLL",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "ここまで見るとVRC公式に正しさしか感じないんだけど…"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "b9fe50eb-25e8-4926-a8c1-96cf0a954c99",
+      "type": "message",
+      "text": "LinuxのBANも表現として正しくないかも、パッチノートの最後にProtonでテストしたけど正常に動作するって言ってる。",
+      "user": "s5is",
+      "ts": "1658892291.456599",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "8qq/g",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "LinuxのBANも表現として正しくないかも、パッチノートの最後にProtonでテストしたけど正常に動作するって言ってる。"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "6e159f24-4ede-4e15-a72a-d3414cb70ea3",
+      "type": "message",
+      "text": "傍から見てると「規約違反して好き勝手してたユーザーが運営に止められて騒いでる」なので、これはFPSのチートと似たようなもんでしょ。\nアバターの複製できるMODとかあったみたいだし…。",
+      "user": "s5is",
+      "ts": "1658892173.120649",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "PmiGd",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "傍から見てると「規約違反して好き勝手してたユーザーが運営に止められて騒いでる」なので、これはFPSのチートと似たようなもんでしょ。\nアバターの複製できるMODとかあったみたいだし…。"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "fc49bf4a-572e-47b1-8b48-997116956742",
+      "type": "message",
+      "text": "MODが本来は許可されてないので、模範的なユーザーが迷惑を被る構図になってるのも問題なのかなと",
+      "user": "tatsumigamou",
+      "ts": "1658892090.062709",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "ef=0P",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "MODが本来は許可されてないので、模範的なユーザーが迷惑を被る構図になってるのも問題なのかなと"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "ed7c3daf-0ee5-4089-b783-2622a7286db3",
+      "type": "message",
+      "text": "(というかMOD許可されてないならそりゃそうか)",
+      "user": "s5is",
+      "ts": "1658892036.945689",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "Zn/Vs",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "(というかMOD許可されてないならそりゃそうか)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "e0ad02ab-57a7-4a86-aa4a-fbf5ca028b61",
+      "type": "message",
+      "text": "仮にModユーザーがサポートに連絡しなくても、Modによって悪影響が出た一般ユーザーがサポートに連絡する事もあるでしょうし",
+      "user": "tatsumigamou",
+      "ts": "1658892027.412829",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "ejsi",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "仮にModユーザーがサポートに連絡しなくても、Modによって悪影響が出た一般ユーザーがサポートに連絡する事もあるでしょうし"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "07c2f557-5147-47af-bf7d-1c9c39ebf579",
+      "type": "message",
+      "text": "あー、クライアント自体に変更が加わるタイプのMOD",
+      "user": "s5is",
+      "ts": "1658891999.406759",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "1xeY",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "あー、クライアント自体に変更が加わるタイプのMOD"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "b2c1fc70-164d-40eb-ad29-bc8a4bae229d",
+      "type": "message",
+      "text": "アバターの問題は別にありそう。",
+      "user": "s5is",
+      "ts": "1658891967.346399",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "+08",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "アバターの問題は別にありそう。"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "26008798-7c92-4d75-a14f-00682dfeb4a1",
+      "type": "message",
+      "text": "あとModによって変更されたクライアントって要するに改造されたクライアントなので……\nアカウントハックとかもそうですけど、単純に公式に提供された範囲で使ってもらわないとサポートコスト爆上がりするんですよね",
+      "user": "tatsumigamou",
+      "ts": "1658891966.816709",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "=fJje",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "あとModによって変更されたクライアントって要するに改造されたクライアントなので……\nアカウントハックとかもそうですけど、単純に公式に提供された範囲で使ってもらわないとサポートコスト爆上がりするんですよね"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "9fe77d6d-5518-4d84-b558-07c91d4cef49",
+      "type": "message",
+      "text": "開発側の人間としては「FPSで弾が当たらなさすぎるからオートエイム入れたらアカウント乗っ取られた」みたいな印象だろうね。\n助ける気が起こらない。",
+      "user": "s5is",
+      "ts": "1658891942.175779",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "r+B",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "開発側の人間としては「FPSで弾が当たらなさすぎるからオートエイム入れたらアカウント乗っ取られた」みたいな印象だろうね。\n助ける気が起こらない。"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "0e83c4f3-e0ef-4460-932d-f9590632bb3f",
+      "type": "message",
+      "text": "軽量化MOD導入してるユーザーが最適化不足のクソ重アバター使うから他のユーザーが迷惑してる、なんてのもあった",
+      "user": "tatsumigamou",
+      "ts": "1658891732.569239",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "n2q2",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "軽量化MOD導入してるユーザーが最適化不足のクソ重アバター使うから他のユーザーが迷惑してる、なんてのもあった"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "ca4763a6-6e51-47b3-8e75-2a558efc20ee",
+      "type": "message",
+      "text": "パッチノート読んだ感じ、そもそも「改造クライアント」じゃなくて「Modにより改竄(変更)されたクライアント」って意味だと思う。\nその改竄によってアカウントハックが起こったりするからEAC導入するねって話に見える。",
+      "user": "s5is",
+      "ts": "1658891620.200769",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "WXLd",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "パッチノート読んだ感じ、そもそも「改造クライアント」じゃなくて「Modにより改竄(変更)されたクライアント」って意味だと思う。\nその改竄によってアカウントハックが起こったりするからEAC導入するねって話に見える。"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "3741b971-36cd-4124-90e1-412f0bee01c2",
+      "type": "message",
+      "text": "マイクラ、VRChat手だしてないからよく知らない…",
+      "user": "git-repos-rkarsnk",
+      "ts": "1658891613.300819",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "lNHkK",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "マイクラ、VRChat手だしてないからよく知らない…"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "reactions": [
+        {
+          "name": "wakaru",
+          "users": [
+            "naokihirokitomoki",
+            "dohq"
+          ],
+          "count": 2
+        }
+      ]
+    },
+    {
+      "client_msg_id": "a3d65616-775f-4d53-9039-fb91ead24feb",
+      "type": "message",
+      "text": "さっきのツイートの引用も偏ってはいると思いますが、意図的に規約云々には触れてないんじゃないの？って空気ですね",
+      "user": "tatsumigamou",
+      "ts": "1658891495.232219",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "U5dv",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "さっきのツイートの引用も偏ってはいると思いますが、意図的に規約云々には触れてないんじゃないの？って空気ですね"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "3bcbe09e-c60d-4ae6-84fd-aee56401dcbe",
+      "type": "message",
+      "text": "なので文句があるなら最初から別のVRコミュニケーションサービス立ち上げたら？みたいな反応があったり",
+      "user": "tatsumigamou",
+      "ts": "1658891423.433169",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "cyD",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "なので文句があるなら最初から別のVRコミュニケーションサービス立ち上げたら？みたいな反応があったり"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "193d0979-2329-4233-bba4-365b447b0421",
+      "type": "message",
+      "text": "さっきの画像見た感じ発言者にも誤解がありそう",
+      "user": "s5is",
+      "ts": "1658891385.469249",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "YgTp",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "さっきの画像見た感じ発言者にも誤解がありそう"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "5504d409-5c4f-49a3-a944-8c68187e3a9e",
+      "type": "message",
+      "text": "前から規約では禁止で、とうとう運営が業を煮やして強引に閉め出そうとした、って構図みたいです",
+      "user": "tatsumigamou",
+      "ts": "1658891362.648579",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "3vAF",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "前から規約では禁止で、とうとう運営が業を煮やして強引に閉め出そうとした、って構図みたいです"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "e4779cf6-a43b-4361-bb92-befd1d6654ed",
+      "type": "message",
+      "text": "VRChat界隈全く追えてないですが、VRChatが一強な感じ？それならまぁ今までできてたMODが禁止になって反発があるのは理解できなくもない",
+      "user": "yutakatay",
+      "ts": "1658891278.265569",
+      "team": "T0GFBAM8C",
+      "edited": {
+        "user": "yutakatay",
+        "ts": "1658891307.000000"
+      },
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "X5J",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "VRChat界隈全く追えてないですが、VRChatが一強な感じ？それならまぁ今までできてたMODが禁止になって反発があるのは理解できなくもない"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "fd8b2c54-9471-4adb-b355-9a9704cdc4fe",
+      "type": "message",
+      "text": "マイクラの規約的にはOK\n<https://www.minecraft.net/ja-jp/terms/r3#:~:text=Minecraft%3AJava%20Edition%20%E3%82%92%E3%81%94%E8%B3%BC%E5%85%A5%E3%81%84%E3%81%9F%E3%81%A0%E3%81%84%E3%81%9F%E5%A0%B4%E5%90%88%E3%81%AF%E3%80%81%E4%BF%AE%E6%AD%A3%E3%80%81%E3%83%84%E3%83%BC%E3%83%AB%E3%80%81%E3%83%97%E3%83%A9%E3%82%B0%E3%82%A4%E3%83%B3%20(%E3%80%8CMOD%E3%80%8D%E3%81%A8%E7%B7%8F%E7%A7%B0%E3%81%97%E3%81%BE%E3%81%99)%20%E3%82%92%E8%BF%BD%E5%8A%A0%E3%81%99%E3%82%8B%E3%81%8B%E3%81%9F%E3%81%A1%E3%81%A7%E3%80%81%E3%82%B2%E3%83%BC%E3%83%A0%E3%82%92%E3%81%84%E3%81%98%E3%81%A3%E3%81%9F%E3%82%8A%E6%94%B9%E9%80%A0%E3%81%97%E3%81%9F%E3%82%8A%E3%81%99%E3%82%8B%E3%81%93%E3%81%A8%E3%81%8C%E3%81%A7%E3%81%8D%E3%81%BE%E3%81%99%E3%80%82|https://www.minecraft.net/ja-jp/terms/r3#:~:text=Minecraft%3AJava%20Edition%20%E3%82%92%E3%81[…]3%81%8C%E3%81%A7%E3%81%8D%E3%81%BE%E3%81%99%E3%80%82>",
+      "user": "s5is",
+      "ts": "1658891234.270429",
+      "team": "T0GFBAM8C",
+      "edited": {
+        "user": "s5is",
+        "ts": "1658891267.000000"
+      },
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "M4v",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "マイクラの規約的にはOK\n"
+                },
+                {
+                  "type": "link",
+                  "url": "https://www.minecraft.net/ja-jp/terms/r3#:~:text=Minecraft%3AJava%20Edition%20%E3%82%92%E3%81%94%E8%B3%BC%E5%85%A5%E3%81%84%E3%81%9F%E3%81%A0%E3%81%84%E3%81%9F%E5%A0%B4%E5%90%88%E3%81%AF%E3%80%81%E4%BF%AE%E6%AD%A3%E3%80%81%E3%83%84%E3%83%BC%E3%83%AB%E3%80%81%E3%83%97%E3%83%A9%E3%82%B0%E3%82%A4%E3%83%B3%20(%E3%80%8CMOD%E3%80%8D%E3%81%A8%E7%B7%8F%E7%A7%B0%E3%81%97%E3%81%BE%E3%81%99)%20%E3%82%92%E8%BF%BD%E5%8A%A0%E3%81%99%E3%82%8B%E3%81%8B%E3%81%9F%E3%81%A1%E3%81%A7%E3%80%81%E3%82%B2%E3%83%BC%E3%83%A0%E3%82%92%E3%81%84%E3%81%98%E3%81%A3%E3%81%9F%E3%82%8A%E6%94%B9%E9%80%A0%E3%81%97%E3%81%9F%E3%82%8A%E3%81%99%E3%82%8B%E3%81%93%E3%81%A8%E3%81%8C%E3%81%A7%E3%81%8D%E3%81%BE%E3%81%99%E3%80%82",
+                  "text": "https://www.minecraft.net/ja-jp/terms/r3#:~:text=Minecraft%3AJava%20Edition%20%E3%82%92%E3%81[…]3%81%8C%E3%81%A7%E3%81%8D%E3%81%BE%E3%81%99%E3%80%82"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "75747963-3dcc-47f0-8d02-239fe324e725",
+      "type": "message",
+      "text": "そこは鯖主の匙加減っていうのもありますね\nVRChatは中央集権的な運営が存在してるのに対してマイクラは個人が好き好きに運営できるので",
+      "user": "tatsumigamou",
+      "ts": "1658891232.675099",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "d8X8=",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "そこは鯖主の匙加減っていうのもありますね\nVRChatは中央集権的な運営が存在してるのに対してマイクラは個人が好き好きに運営できるので"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "32848193-d611-4229-bd9b-3256105bd932",
+      "type": "message",
+      "text": "マイクラはOKだったはず",
+      "user": "s5is",
+      "ts": "1658891180.476089",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "g0Fr",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "マイクラはOKだったはず"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "reactions": [
+        {
+          "name": "hee",
+          "users": [
+            "yutakatay",
+            "U01HE1ENNJZ"
+          ],
+          "count": 2
+        }
+      ]
+    },
+    {
+      "client_msg_id": "a501ed48-8281-4be8-a677-f55715c2698b",
+      "type": "message",
+      "text": "マイクラってMODはOKなんですかね？？（全然知らない）",
+      "user": "yutakatay",
+      "ts": "1658891172.710149",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "pJ5",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "マイクラってMODはOKなんですかね？？（全然知らない）"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "4f138db1-8961-4900-8691-8ed79ecc6ac3",
+      "type": "message",
+      "text": "あまりどっちかに偏った二項対立って好きじゃないんですが、ちょっと掘ってみたら\n規範意識が高くて規約違反ダメでしょと主張する層\nvs\nうるせえ俺がもっと便利に遊びたいんじゃ規約なんか知るかと主張する層\nみたいな表現があったり",
+      "user": "tatsumigamou",
+      "ts": "1658891121.680569",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "+PP8",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "あまりどっちかに偏った二項対立って好きじゃないんですが、ちょっと掘ってみたら\n規範意識が高くて規約違反ダメでしょと主張する層\nvs\nうるせえ俺がもっと便利に遊びたいんじゃ規約なんか知るかと主張する層\nみたいな表現があったり"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "9a280be9-c183-4a9a-b817-d6046c6e0701",
+      "type": "message",
+      "text": "ユーザーが求めてるものと開発が作るもので食い違いが起こりまくってるわけね。",
+      "user": "s5is",
+      "ts": "1658891018.329629",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "T=Sa",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "ユーザーが求めてるものと開発が作るもので食い違いが起こりまくってるわけね。"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "e0447069-cc37-4cec-b116-9a1db6534541",
+      "type": "message",
+      "text": "そうなんですよ、だから「何言ってんだお前」みたいな温度差が発生してるわけで",
+      "user": "tatsumigamou",
+      "ts": "1658890961.980149",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "=+2",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "そうなんですよ、だから「何言ってんだお前」みたいな温度差が発生してるわけで"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "reactions": [
+        {
+          "name": "hee",
+          "users": [
+            "yutakatay"
+          ],
+          "count": 1
+        }
+      ]
+    },
+    {
+      "client_msg_id": "f74b2ea2-b1c5-415b-95e6-8ab497e4d0bc",
+      "type": "message",
+      "text": "&gt; 規約だとMODはずっと禁止だった\nじゃあ駄目じゃん…。",
+      "user": "s5is",
+      "ts": "1658890935.901579",
+      "team": "T0GFBAM8C",
+      "edited": {
+        "user": "s5is",
+        "ts": "1658890945.000000"
+      },
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "8Mj",
+          "elements": [
+            {
+              "type": "rich_text_quote",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "規約だとMODはずっと禁止だった"
+                }
+              ]
+            },
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "じゃあ駄目じゃん…。"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "f2fd37cf-1a7c-472f-bd1e-c4460ef1e3e0",
+      "type": "message",
+      "text": "どうも改造クライアントとかってのがあったようで\nそもそも規約だとMODはずっと禁止だったらしい",
+      "user": "tatsumigamou",
+      "ts": "1658890894.763279",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "zo0",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "どうも改造クライアントとかってのがあったようで\nそもそも規約だとMODはずっと禁止だったらしい"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "81ab6eec-c4d4-4241-b9fd-c12db1acb594",
+      "type": "message",
+      "text": "別ゲーで例えるとマイクラのJava版を「使用不可」にしたようなものか。\nよく燃えそう。",
+      "user": "s5is",
+      "ts": "1658890849.639549",
+      "team": "T0GFBAM8C",
+      "edited": {
+        "user": "s5is",
+        "ts": "1658890856.000000"
+      },
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "qYZi",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "別ゲーで例えるとマイクラのJava版を「使用不可」にしたようなものか。\nよく燃えそう。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "reactions": [
+        {
+          "name": "naruhodo",
+          "users": [
+            "yutakatay"
+          ],
+          "count": 1
+        }
+      ]
+    },
+    {
+      "client_msg_id": "dbd65bcc-9f70-471f-878a-b5663c7efaae",
+      "type": "message",
+      "text": "VRChat界隈ってWindowsばっかだと思ってましたが結構上の方でLinuxに言及されてるのが意外でしたね",
+      "user": "yutakatay",
+      "ts": "1658890788.580629",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "I1B",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "VRChat界隈ってWindowsばっかだと思ってましたが結構上の方でLinuxに言及されてるのが意外でしたね"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "93b757bb-856f-4c59-9116-db791c457e6e",
+      "type": "message",
+      "text": "これ読みましたけど結局LinuxBANされるのModユーザーがいるからでは？としか",
+      "user": "tatsumigamou",
+      "ts": "1658890221.936029",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "MNc",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "これ読みましたけど結局LinuxBANされるのModユーザーがいるからでは？としか"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "c4a0bb80-a87e-47a5-ad24-199f016ab357",
+      "type": "message",
+      "text": "なんのことか理解してないけどLinuxBANには抵抗していきたい\n<https://twitter.com/tottu_1280/status/1551966739025473536?s=20&amp;t=IgxIaXKkSMElTMJYp9TjUw>",
+      "user": "yutakatay",
+      "ts": "1658889577.996459",
+      "team": "T0GFBAM8C",
+      "attachments": [
+        {
+          "from_url": "https://twitter.com/tottu_1280/status/1551966739025473536?s=20&amp;t=IgxIaXKkSMElTMJYp9TjUw",
+          "ts": 1658852679,
+          "image_url": "https://pbs.twimg.com/media/FYmxhSBUsAE7CmH.jpg",
+          "image_width": 1169,
+          "image_height": 1137,
+          "image_bytes": 133977,
+          "id": 1,
+          "original_url": "https://twitter.com/tottu_1280/status/1551966739025473536?s=20&amp;t=IgxIaXKkSMElTMJYp9TjUw",
+          "fallback": "<https://twitter.com/tottu_1280|@tottu_1280>: SteamのVrchatレビュー見てたらめちゃくちゃわかりやすい海外ニキネキブチギレ案件説明レビュー発見したのでみんなに見せたい これは特に日本人VRChaterに見て欲しい すげえ大事 <https://pbs.twimg.com/media/FYmxhSBUsAE7CmH.jpg>",
+          "text": "SteamのVrchatレビュー見てたらめちゃくちゃわかりやすい海外ニキネキブチギレ案件説明レビュー発見したのでみんなに見せたい これは特に日本人VRChaterに見て欲しい すげえ大事 <https://pbs.twimg.com/media/FYmxhSBUsAE7CmH.jpg>",
+          "author_name": "トッツー🤡",
+          "author_link": "https://twitter.com/tottu_1280/status/1551966739025473536",
+          "author_icon": "https://pbs.twimg.com/profile_images/1550657260082253826/B9xwtbKC_normal.jpg",
+          "author_subname": "@tottu_1280",
+          "service_name": "twitter",
+          "service_url": "https://twitter.com/",
+          "footer": "Twitter",
+          "footer_icon": "https://a.slack-edge.com/80588/img/services/twitter_pixel_snapped_32.png"
+        },
+        {
+          "image_url": "https://pbs.twimg.com/media/FYmxhQAUsAAc6xC.jpg",
+          "image_width": 933,
+          "image_height": 1200,
+          "image_bytes": 168887,
+          "id": 2,
+          "fallback": "933x1200px image",
+          "text": "<https://pbs.twimg.com/media/FYmxhQAUsAAc6xC.jpg>"
+        },
+        {
+          "image_url": "https://pbs.twimg.com/media/FYmxhWyVsAAKqEc.jpg",
+          "image_width": 1169,
+          "image_height": 890,
+          "image_bytes": 103585,
+          "id": 3,
+          "fallback": "1169x890px image",
+          "text": "<https://pbs.twimg.com/media/FYmxhWyVsAAKqEc.jpg>"
+        }
+      ],
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "V9FTK",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "なんのことか理解してないけどLinuxBANには抵抗していきたい\n"
+                },
+                {
+                  "type": "link",
+                  "url": "https://twitter.com/tottu_1280/status/1551966739025473536?s=20&t=IgxIaXKkSMElTMJYp9TjUw"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "10e8f365-12b1-4363-9aa4-dc747dc6212b",
+      "type": "message",
+      "text": "確かにESPにカーネル置く必要はなかったですね…",
+      "user": "s5is",
+      "ts": "1658818433.208999",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "kC3R6",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "確かにESPにカーネル置く必要はなかったですね…"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "b3c08932-47da-4003-baec-e76d60daace8",
+      "type": "message",
+      "text": "ESPを/boot/efiにマウントして、GRUBしか入れてないから、ESPのサイズを全く気にしてなかった(100MBあればいいだろくらいには)\n\nArchWiki的にはESPは/bootにマウントするのが良いのね",
+      "user": "angel.beats.kanade.yu",
+      "ts": "1658818074.560539",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "1Uk",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "ESPを/boot/efiにマウントして、GRUBしか入れてないから、ESPのサイズを全く気にしてなかった(100MBあればいいだろくらいには)\n\nArchWiki的にはESPは/bootにマウントするのが良いのね"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "1fd57ef1-184d-4ec5-8b5a-2e36a7265c82",
+      "type": "message",
+      "text": "メモリスロットの空きと、メモリ直付けかどうかが超重要。もう重さとかあんま気にしなくなってきた。(赤ポチは必須)",
+      "user": "kusanaginoturugi",
+      "ts": "1658799797.928219",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "pNXu",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "メモリスロットの空きと、メモリ直付けかどうかが超重要。もう重さとかあんま気にしなくなってきた。(赤ポチは必須)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "0cb2bd75-08b5-4d2e-9967-b6fe20beb34e",
+      "type": "message",
+      "text": "RAMは片方がオンボード固定だったので仕方なく16GB x 1にして16GBをもう一枚調達しましたね\nバックパネルの開けやすさは正義",
+      "user": "tatsumigamou",
+      "ts": "1658795812.969339",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "cQ09F",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "RAMは片方がオンボード固定だったので仕方なく16GB x 1にして16GBをもう一枚調達しましたね\nバックパネルの開けやすさは正義"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "reactions": [
+        {
+          "name": "wakaru",
+          "users": [
+            "s5is",
+            "yutakatay",
+            "kusanaginoturugi",
+            "U027RN1LZT6"
+          ],
+          "count": 4
+        }
+      ]
+    },
+    {
+      "client_msg_id": "ae6eae22-f697-41bf-8e69-1d26c92647a5",
+      "type": "message",
+      "text": "ThinkPadストレージ高いから仕方ないね。(RAMが交換できるときはRAMもやる)",
+      "user": "s5is",
+      "ts": "1658795736.636679",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "zAQ",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "ThinkPadストレージ高いから仕方ないね。(RAMが交換できるときはRAMもやる)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "eef2b66d-7252-4af1-bed9-be73f60c02f3",
+      "type": "message",
+      "text": "ケチる為にCTO時点では128GBにしておいて1TBのSSDを安く調達するスキーム",
+      "user": "tatsumigamou",
+      "ts": "1658795432.408339",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "LR6",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "ケチる為にCTO時点では128GBにしておいて1TBのSSDを安く調達するスキーム"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "reactions": [
+        {
+          "name": "sorena",
+          "users": [
+            "kusanaginoturugi",
+            "U6DL9D3AB",
+            "U027RN1LZT6"
+          ],
+          "count": 3
+        }
+      ]
+    },
+    {
+      "client_msg_id": "17994d74-51ba-4705-925a-a34dffba94fd",
+      "type": "message",
+      "text": "WindowsのESP小さすぎるのでありですね。(そのままだとカーネル2種類とか入れたら足りなくなりそう)",
+      "user": "s5is",
+      "ts": "1658795331.388909",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "5THn",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "WindowsのESP小さすぎるのでありですね。(そのままだとカーネル2種類とか入れたら足りなくなりそう)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "c4c40d77-e5d3-41bf-928a-d026a5c9dc2f",
+      "type": "message",
+      "text": "これWindowsのESPをそのまま使ってるわけじゃないな、今気付いた",
+      "user": "tatsumigamou",
+      "ts": "1658795274.736179",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "jUVI/",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "これWindowsのESPをそのまま使ってるわけじゃないな、今気付いた"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "d443dfb0-3539-4571-8a09-2b6015fb977f",
+      "type": "message",
+      "text": "初手でSSD交換してWin11をクリーンインストールする前にESPをデカめに確保しておくという変則セットアップやりました",
+      "user": "tatsumigamou",
+      "ts": "1658795241.079439",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "5ne",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "初手でSSD交換してWin11をクリーンインストールする前にESPをデカめに確保しておくという変則セットアップやりました"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "afdd84b6-69ac-49e4-b0f4-0441cacbae44",
+      "type": "message",
+      "text": "個人的に1は結構安定すると思ってますが、Windowsの挙動的に未知数。\n2はEFIで切り替えたりが必要？チェインロードとかできるブートローダーなら行けるのかな。\n3だと容量足りなくなったときとかにWindowsの更新で消されるイメージ、実際はどうなのかはわからない。",
+      "user": "s5is",
+      "ts": "1658795129.974729",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "A7oE7",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "個人的に1は結構安定すると思ってますが、Windowsの挙動的に未知数。\n2はEFIで切り替えたりが必要？チェインロードとかできるブートローダーなら行けるのかな。\n3だと容量足りなくなったときとかにWindowsの更新で消されるイメージ、実際はどうなのかはわからない。"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "2861aae3-d3f9-484c-a4bf-c4c091eef78d",
+      "type": "message",
+      "text": "今のThinkPadはWindowsのESPにそのままsystemd-boot突っ込んでますけど今のところLinuxが殺された事はないですね",
+      "user": "tatsumigamou",
+      "ts": "1658794910.805199",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "MtEO",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "今のThinkPadはWindowsのESPにそのままsystemd-boot突っ込んでますけど今のところLinuxが殺された事はないですね"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "41664082-c013-4e3e-841d-b19aefadd70d",
+      "type": "message",
+      "text": "私はやるなら3でしますけど上書きされますね",
+      "user": "yutakatay",
+      "ts": "1658751201.884209",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "1y7",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "私はやるなら3でしますけど上書きされますね"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "3a1d1895-d87f-4ccf-ae60-d39f05b78050",
+      "type": "message",
+      "text": "サスペンド解決編でarchlinuxがちょっと出てくる",
+      "user": "syui",
+      "ts": "1658748126.214679",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "1z5",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "サスペンド解決編でarchlinuxがちょっと出てくる"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "b3957d70-b809-445a-ac77-a45defa6a071",
+      "type": "message",
+      "text": "こちらの記事も良かった\n<https://blog.tmtms.net/entry/202207-thinkpad-t14-gen3-linux>",
+      "user": "syui",
+      "ts": "1658748030.549089",
+      "team": "T0GFBAM8C",
+      "attachments": [
+        {
+          "from_url": "https://blog.tmtms.net/entry/202207-thinkpad-t14-gen3-linux",
+          "ts": 1658669875,
+          "image_url": "https://gitlab.com/tmtms/images/-/raw/master/202207-thinkpad-t14-gen3-linux/packing.jpg",
+          "image_width": 443,
+          "image_height": 250,
+          "image_bytes": 1420105,
+          "service_icon": "https://blog.tmtms.net/icon/touch",
+          "id": 1,
+          "original_url": "https://blog.tmtms.net/entry/202207-thinkpad-t14-gen3-linux",
+          "fallback": "tmtms のメモ: ThinkPad T14 Gen3 の Linux 化 - tmtms のメモ",
+          "text": "ThinkPad T14 Gen3 Intel版を購入 2016年10月に買った ThinkPad T460s をずっと使ってたんだけど、6年前のPCだとさすがに処理が遅く感じることもあったんで、そろそろ新しいのが欲しくなったんで、ThinkPad T14 Gen3 を買った。 安かったんでAMD版にしたんだけど、Intel版との違いはCPUだけだと思ってたのに、AMD版はメモリが増設できないことを知って、キャンセルしてIntel版に変更した。 調べてみたら、AMD版とIntel版の違いは他にも、Intel版は USB Type-C が Thunderbolt4 対応なのに AMD版は USB…",
+          "title": "ThinkPad T14 Gen3 の Linux 化 - tmtms のメモ",
+          "title_link": "https://blog.tmtms.net/entry/202207-thinkpad-t14-gen3-linux",
+          "service_name": "tmtms のメモ"
+        }
+      ],
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "mF+",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "こちらの記事も良かった\n"
+                },
+                {
+                  "type": "link",
+                  "url": "https://blog.tmtms.net/entry/202207-thinkpad-t14-gen3-linux"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "73A1E1C2-A85D-4EBE-8534-8F1D5ED11E14",
+      "type": "message",
+      "text": "やはり3なのかな(わからんけど",
+      "user": "syui",
+      "ts": "1658747803.430289",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "G5F",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "やはり3なのかな(わからんけど"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "8C45D11C-185E-41A2-8F60-5F8A9F306D3E",
+      "type": "message",
+      "text": "そういえばwinアップデートで破壊させるのどのケースが多いんだろう",
+      "user": "syui",
+      "ts": "1658747743.438199",
+      "team": "T0GFBAM8C",
+      "edited": {
+        "user": "syui",
+        "ts": "1658747821.000000"
+      },
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "Jts",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "そういえばwinアップデートで破壊させるのどのケースが多いんだろう"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "D1D927D1-44CB-4025-B73D-57E51195BCC8",
+      "type": "message",
+      "text": "私なら最初win入れますね、後からwin入れるの大変",
+      "user": "syui",
+      "ts": "1658747279.927599",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "ktg",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "私なら最初win入れますね、後からwin入れるの大変"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "9CE72DBA-F17A-48D1-906D-E4FCA4B35A5B",
+      "type": "message",
+      "text": "全部良さそう",
+      "user": "syui",
+      "ts": "1658747245.366319",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "yLLVJ",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "全部良さそう"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "4FFC7764-8804-4C36-9A14-16D7135BC400",
+      "type": "message",
+      "text": "この中なら2番目が好みかもです。/boot混ざると危険になりがちなので……\nWin側から強制的に上書きされたという話も昔聞いたことがあって。",
+      "user": "aruneko99",
+      "ts": "1658747154.073849",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "k1q0",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "この中なら2番目が好みかもです。/boot混ざると危険になりがちなので……"
+                },
+                {
+                  "type": "text",
+                  "text": "\n"
+                },
+                {
+                  "type": "text",
+                  "text": "Win側から強制的に上書きされたという話も昔聞いたことがあって。"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "76faf412-7ba2-4181-a16b-8c1c3f054d02",
+      "type": "message",
+      "text": "1つのディスクを使用したWindowsとLinuxのデュアルブート、UEFIだと3種類ぐらい手段がありますよね。\n• 先に大きいESPを作ってからLinuxとWindowsをインストール\n• 1つのディスクに2個ESPを作ってインストール\n• WindowsのESPにLinux関連のファイルを突っ込む\n結構派閥が分かれそう。",
+      "user": "s5is",
+      "ts": "1658745276.954209",
+      "team": "T0GFBAM8C",
+      "edited": {
+        "user": "s5is",
+        "ts": "1658745297.000000"
+      },
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "vKbL",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "1つのディスクを使用したWindowsとLinuxのデュアルブート、UEFIだと3種類ぐらい手段がありますよね。\n"
+                }
+              ]
+            },
+            {
+              "type": "rich_text_list",
+              "elements": [
+                {
+                  "type": "rich_text_section",
+                  "elements": [
+                    {
+                      "type": "text",
+                      "text": "先に大きいESPを作ってからLinuxとWindowsをインストール"
+                    }
+                  ]
+                },
+                {
+                  "type": "rich_text_section",
+                  "elements": [
+                    {
+                      "type": "text",
+                      "text": "1つのディスクに2個ESPを作ってインストール"
+                    }
+                  ]
+                },
+                {
+                  "type": "rich_text_section",
+                  "elements": [
+                    {
+                      "type": "text",
+                      "text": "WindowsのESPにLinux関連のファイルを突っ込む"
+                    }
+                  ]
+                }
+              ],
+              "style": "bullet",
+              "indent": 0,
+              "border": 0
+            },
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "結構派閥が分かれそう。"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "57590E27-B524-4B32-BEF2-A641201C036E",
+      "type": "message",
+      "text": "というかthinkpad e14 gen3、良さそうなパソコンですね",
+      "user": "syui",
+      "ts": "1658744904.141109",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "vP2",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "というかthinkpad e14 gen3、良さそうなパソコンですね"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "F8CF576A-6226-4A33-AA99-AE943790ABEF",
+      "type": "message",
+      "text": "この記事よかった\n<https://www.yude.jp/blog/2022-7-install-arch-linux/|https://www.yude.jp/blog/2022-7-install-arch-linux/>",
+      "user": "syui",
+      "ts": "1658744832.747479",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "cjvAI",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "この記事よかった"
+                },
+                {
+                  "type": "text",
+                  "text": "\n"
+                },
+                {
+                  "type": "link",
+                  "url": "https://www.yude.jp/blog/2022-7-install-arch-linux/",
+                  "text": "https://www.yude.jp/blog/2022-7-install-arch-linux/"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "0c7ec489-eba8-4ef9-97c7-65681924fd70",
+      "type": "message",
+      "text": "ThinkPad は中古部品の入手が容易で、壊れても自分で直せるのが良いところですね。",
+      "user": "addokoda",
+      "ts": "1658738584.544259",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "8kA",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "ThinkPad は中古部品の入手が容易で、壊れても自分で直せるのが良いところですね。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "reactions": [
+        {
+          "name": "sorena",
+          "users": [
+            "kusanaginoturugi",
+            "dohq",
+            "U6DL9D3AB"
+          ],
+          "count": 3
+        },
+        {
+          "name": "wakaru",
+          "users": [
+            "yutakatay"
+          ],
+          "count": 1
+        }
+      ]
+    },
+    {
+      "client_msg_id": "44ad7ded-0a27-48f0-add6-610aa3cdf88c",
+      "type": "message",
+      "text": "そういや一応そZenbookって名称がフラッグシップなのか",
+      "user": "yutakatay",
+      "ts": "1658734728.199979",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "s8h",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "そういや一応そZenbookって名称がフラッグシップなのか"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "e95f8659-1f06-40b5-8f04-c9d7fb909022",
+      "type": "message",
+      "text": "あぁ、キーボード上のモニタくんのやつか…",
+      "user": "raa0121",
+      "ts": "1658734560.455019",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "9i3L",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "あぁ、キーボード上のモニタくんのやつか…"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "reactions": [
+        {
+          "name": "yes",
+          "users": [
+            "naokihirokitomoki",
+            "U027RN1LZT6"
+          ],
+          "count": 2
+        }
+      ]
+    },
+    {
+      "client_msg_id": "302ef865-d5e1-4633-b003-8d3d8466b204",
+      "type": "message",
+      "text": "大手メーカーよりもゲーミングメーカーのやつとかどっかのベンチャーの尖ったやつとかに最近興味があるけど、かなりこれってのでないと今のままだと結局thinkpad買っちゃいそう・・・",
+      "user": "yutakatay",
+      "ts": "1658734553.778069",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "kLIcw",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "大手メーカーよりもゲーミングメーカーのやつとかどっかのベンチャーの尖ったやつとかに最近興味があるけど、かなりこれってのでないと今のままだと結局thinkpad買っちゃいそう・・・"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "e2987127-a6da-4884-9eb8-07dac0cfb4f1",
+      "type": "message",
+      "text": "（若干off topic）ASUSのノートパソコンどんなのあったっけと思って調べてみたら、VivobookはASUSだったんだ〜とは納得出来たけど、お前もASUSだったんだ…ってなった（リンク先）（変態の極みという印象しか無かったパソコンだった）\n<https://jp.store.asus.com/store/asusjp/ja_JP/pd/ThemeID.4850018000/productID.5645694200|https://jp.store.asus.com/store/asusjp/ja_JP/pd/ThemeID.4850018000/productID.5645694200>",
+      "user": "naokihirokitomoki",
+      "ts": "1658734390.914379",
+      "team": "T0GFBAM8C",
+      "edited": {
+        "user": "naokihirokitomoki",
+        "ts": "1658734487.000000"
+      },
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "syy4a",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "（若干off topic）ASUSのノートパソコンどんなのあったっけと思って調べてみたら、VivobookはASUSだったんだ〜とは納得出来たけど、お前もASUSだったんだ…ってなった（リンク先）（変態の極みという印象しか無かったパソコンだった）\n"
+                },
+                {
+                  "type": "link",
+                  "url": "https://jp.store.asus.com/store/asusjp/ja_JP/pd/ThemeID.4850018000/productID.5645694200",
+                  "text": "https://jp.store.asus.com/store/asusjp/ja_JP/pd/ThemeID.4850018000/productID.5645694200"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "4b7e0d02-0c4e-4459-93f4-509f0f1b6f67",
+      "type": "message",
+      "text": "HPはHP（ホームページ）がクソ使いにくいから・・・",
+      "user": "yutakatay",
+      "ts": "1658733897.709429",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "+UX",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "HPはHP（ホームページ）がクソ使いにくいから・・・"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "reactions": [
+        {
+          "name": "warau",
+          "users": [
+            "naokihirokitomoki",
+            "raa0121",
+            "U6DL9D3AB",
+            "s5is",
+            "kusanaginoturugi",
+            "U027RN1LZT6"
+          ],
+          "count": 6
+        }
+      ]
+    },
+    {
+      "client_msg_id": "87db2e55-46e9-4021-9404-f423e805c7eb",
+      "type": "message",
+      "text": "ASUSはいい印象しかないけどこれ！ってやつがないんですよね・・・フラッグシップ的なやつ",
+      "user": "yutakatay",
+      "ts": "1658733872.270819",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "8mcpD",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "ASUSはいい印象しかないけどこれ！ってやつがないんですよね・・・フラッグシップ的なやつ"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "b5bd5753-b805-4ea2-b689-5692a4b285a5",
+      "type": "message",
+      "text": "8年前のVAIO Proに Ubuntu 22.04 入れて使ってますが、VAIOは高い分品質もいいですよ",
+      "user": "raa0121",
+      "ts": "1658733848.491559",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "W16f",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "8年前のVAIO Proに Ubuntu 22.04 入れて使ってますが、VAIOは高い分品質もいいですよ"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "6e93994e-7364-4eaf-a44d-b9222a2e57dc",
+      "type": "message",
+      "text": "<https://net-shitsuji.jp/pc/content/breakdown-ranking.html>\nこれ見ると、リースあがりの三年落ちくらいの ASUS を買うのもよさげやな。SSD 交換と メモリ最大化、場合によってはキーボード交換くらいで。ASUS の交換パーツってあんま見たことないけど。",
+      "user": "kusanaginoturugi",
+      "ts": "1658733745.692529",
+      "team": "T0GFBAM8C",
+      "attachments": [
+        {
+          "from_url": "https://net-shitsuji.jp/pc/content/breakdown-ranking.html",
+          "id": 1,
+          "original_url": "https://net-shitsuji.jp/pc/content/breakdown-ranking.html",
+          "fallback": "ネットの執事が教えるパソコン修理: メーカー別パソコン故障率ランキング2016―利用者3万人に調査―",
+          "text": "2016年12月、パソコンの様々なトラブル・症状に対する対処法をまとめていく中で、「メーカーによって、不具合の発生率は異なるのか？」そんな疑問が沸いてきました。そこで、国内3万人のパソコンユーザーを対象にアンケートを実施し、メーカー別の故障",
+          "title": "メーカー別パソコン故障率ランキング2016―利用者3万人に調査―",
+          "title_link": "https://net-shitsuji.jp/pc/content/breakdown-ranking.html",
+          "service_name": "ネットの執事が教えるパソコン修理"
+        }
+      ],
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "8Seg",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "link",
+                  "url": "https://net-shitsuji.jp/pc/content/breakdown-ranking.html"
+                },
+                {
+                  "type": "text",
+                  "text": "\nこれ見ると、リースあがりの三年落ちくらいの ASUS を買うのもよさげやな。SSD 交換と メモリ最大化、場合によってはキーボード交換くらいで。ASUS の交換パーツってあんま見たことないけど。"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "f828b5ac-6d2e-4f87-bd77-03b544d6a137",
+      "type": "message",
+      "text": "Lenovoは延長保証入っていれば結構大丈夫だと思う…。",
+      "user": "s5is",
+      "ts": "1658714171.539339",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "N/n09",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "Lenovoは延長保証入っていれば結構大丈夫だと思う…。"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "b5e9a5f6-8fb6-44e5-b3c2-41696279108d",
+      "type": "message",
+      "text": "数年後にARM搭載のThinkPadに変えようかと思ってますがどうなることやら……。",
+      "user": "mail",
+      "ts": "1658713145.545869",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "/wOi",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "数年後にARM搭載のThinkPadに変えようかと思ってますがどうなることやら……。"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "b6ee9e42-3b2d-40c7-b863-8cf6b5b3ab83",
+      "type": "message",
+      "text": "個人的に気になるのは Framework Laptop. 海外商品なので日本から買えるのかどうかは分らんけど。\n<https://frame.work/>",
+      "user": "git-repos-rkarsnk",
+      "ts": "1658713139.948089",
+      "team": "T0GFBAM8C",
+      "attachments": [
+        {
+          "from_url": "https://frame.work/",
+          "thumb_url": "https://images.prismic.io/frameworkmarketplace/21ea7901-d013-472c-a2f8-cde8f96f4f4a_PR2204+-+ADL+Press1.jpg?auto=compress,format",
+          "thumb_width": 1080,
+          "thumb_height": 1080,
+          "service_icon": "https://frame.work/apple-touch-icon.png",
+          "id": 1,
+          "original_url": "https://frame.work/",
+          "fallback": "Framework: Introducing the new and upgraded Framework Laptop",
+          "text": "Framework Laptop: A thin, light, high-performance notebook that's upgradeable, repairable, and 100% yours. Order today with the latest configuration options.",
+          "title": "Introducing the new and upgraded Framework Laptop",
+          "title_link": "https://frame.work/",
+          "service_name": "Framework"
+        }
+      ],
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "ymBot",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "個人的に気になるのは Framework Laptop. 海外商品なので日本から買えるのかどうかは分らんけど。\n"
+                },
+                {
+                  "type": "link",
+                  "url": "https://frame.work/"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "reactions": [
+        {
+          "name": "eyes",
+          "users": [
+            "yutakatay",
+            "naokihirokitomoki",
+            "U02BLTTQEL9",
+            "UJ7P75WB1"
+          ],
+          "count": 4
+        }
+      ]
+    },
+    {
+      "client_msg_id": "b8dda8a4-a497-4268-bdb0-d27fdabba072",
+      "type": "message",
+      "text": "ちょっと関連しそうなやつ。私も最近のLenovoどんどん印象悪くなってるけど、Thinkpadから乗り換え先がマジで見つからない・・・\n<https://twitter.com/makkinze/status/1551063918771965952?s=20&amp;t=5Lt_e9BYoqTbYkcdHcYwgA>",
+      "user": "yutakatay",
+      "ts": "1658712771.059849",
+      "team": "T0GFBAM8C",
+      "attachments": [
+        {
+          "from_url": "https://twitter.com/makkinze/status/1551063918771965952?s=20&amp;t=5Lt_e9BYoqTbYkcdHcYwgA",
+          "ts": 1658637430,
+          "id": 1,
+          "original_url": "https://twitter.com/makkinze/status/1551063918771965952?s=20&amp;t=5Lt_e9BYoqTbYkcdHcYwgA",
+          "fallback": "<https://twitter.com/makkinze|@makkinze>: * 愚痴です。\nLenovoとはIBM Thinkpadから15年以上の付き合いだったが、この度別れることにした。少なくともThinkCentreは２度と使うことはないだろう。\n　\n３年前に買ったThinkCentreが壊れた。\n開けても原因が分からずサポートに送ったら、マザボとCPU故障で購入額の２倍以上の見積もりがあった。",
+          "text": "* 愚痴です。\nLenovoとはIBM Thinkpadから15年以上の付き合いだったが、この度別れることにした。少なくともThinkCentreは２度と使うことはないだろう。\n　\n３年前に買ったThinkCentreが壊れた。\n開けても原因が分からずサポートに送ったら、マザボとCPU故障で購入額の２倍以上の見積もりがあった。",
+          "author_name": "フェルヲ",
+          "author_link": "https://twitter.com/makkinze/status/1551063918771965952",
+          "author_icon": "https://pbs.twimg.com/profile_images/1490835456480903170/P1P-TyXq_normal.jpg",
+          "author_subname": "@makkinze",
+          "service_name": "twitter",
+          "service_url": "https://twitter.com/",
+          "footer": "Twitter",
+          "footer_icon": "https://a.slack-edge.com/80588/img/services/twitter_pixel_snapped_32.png"
+        }
+      ],
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "DyA",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "ちょっと関連しそうなやつ。私も最近のLenovoどんどん印象悪くなってるけど、Thinkpadから乗り換え先がマジで見つからない・・・\n"
+                },
+                {
+                  "type": "link",
+                  "url": "https://twitter.com/makkinze/status/1551063918771965952?s=20&t=5Lt_e9BYoqTbYkcdHcYwgA"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "message",
+      "subtype": "channel_join",
+      "ts": "1658709433.142669",
+      "user": "is01.njb",
+      "text": "<@is01.njb>さんがチャンネルに参加しました"
+    },
+    {
+      "type": "message",
+      "subtype": "channel_join",
+      "ts": "1658608506.403479",
+      "user": "kenichi.kanno",
+      "text": "<@kenichi.kanno>さんがチャンネルに参加しました"
+    },
+    {
+      "client_msg_id": "c0abc3a9-75bc-4a71-8bef-6c33d8f57ae0",
+      "type": "message",
+      "text": "うわ、ありえんわー",
+      "user": "znmxodq1",
+      "ts": "1658571382.979589",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "jtE",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "うわ、ありえんわー"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "reactions": [
+        {
+          "name": "eyes",
+          "users": [
+            "mail",
+            "yutakatay",
+            "peony.btn",
+            "U6DL9D3AB",
+            "U0239ASAFEC",
+            "U01HE1ENNJZ"
+          ],
+          "count": 6
+        },
+        {
+          "name": "naruhodo",
+          "users": [
+            "s5is"
+          ],
+          "count": 1
+        }
+      ]
+    },
+    {
+      "client_msg_id": "041710a2-0a58-4a68-8726-df9c58363cf1",
+      "type": "message",
+      "text": "そういや私のAlienwareも初期不良引きましたね\n<https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1645728243609169?thread_ts=1644920944.453239&amp;cid=C0GFH3RHU>",
+      "user": "qryxip",
+      "ts": "1658555350.242989",
+      "team": "T0GFBAM8C",
+      "attachments": [
+        {
+          "from_url": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1645728243609169?thread_ts=1644920944.453239&amp;cid=C0GFH3RHU",
+          "ts": "1645728243.609169",
+          "msg_subtype": "thread_broadcast",
+          "author_id": "qryxip",
+          "channel_team": "T0GFBAM8C",
+          "channel_id": "C0GFH3RHU",
+          "channel_name": "random",
+          "is_msg_unfurl": true,
+          "is_reply_unfurl": true,
+          "message_blocks": [
+            {
+              "team": "T0GFBAM8C",
+              "channel": "C0GFH3RHU",
+              "ts": "1645728243.609169",
+              "message": {
+                "blocks": [
+                  {
+                    "type": "rich_text",
+                    "block_id": "ZFe",
+                    "elements": [
+                      {
+                        "type": "rich_text_section",
+                        "elements": [
+                          {
+                            "type": "text",
+                            "text": "2週間前(≩返品期間)に届いたAlienware、何やっても給電されなくなり24万円の文鎮と化した... Premium Supportケチるんじゃなかった (DellのPremium Supportではないサポートは評判がよくないらしいです)"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            }
+          ],
+          "id": 1,
+          "original_url": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1645728243609169?thread_ts=1644920944.453239&amp;cid=C0GFH3RHU",
+          "fallback": "[February 24th, 2022 10:44 AM] qryxip: 2週間前(≩返品期間)に届いたAlienware、何やっても給電されなくなり24万円の文鎮と化した... Premium Supportケチるんじゃなかった (DellのPremium Supportではないサポートは評判がよくないらしいです)",
+          "text": "2週間前(≩返品期間)に届いたAlienware、何やっても給電されなくなり24万円の文鎮と化した... Premium Supportケチるんじゃなかった (DellのPremium Supportではないサポートは評判がよくないらしいです)",
+          "author_name": "Ryo Yamashita",
+          "author_link": "https://archlinuxjp.slack.com/team/qryxip",
+          "author_icon": "https://secure.gravatar.com/avatar/29cf965ea58c70dba203a10ec39fe4cd.jpg?s=48&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0002-48.png",
+          "author_subname": "Ryo Yamashita",
+          "mrkdwn_in": [
+            "text"
+          ],
+          "footer": "#random のスレッドから"
+        }
+      ],
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "Bcf",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "そういや私のAlienwareも初期不良引きましたね\n"
+                },
+                {
+                  "type": "link",
+                  "url": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1645728243609169?thread_ts=1644920944.453239&cid=C0GFH3RHU"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "reactions": [
+        {
+          "name": "hee",
+          "users": [
+            "yutakatay"
+          ],
+          "count": 1
+        }
+      ]
+    },
+    {
+      "client_msg_id": "0c8f3160-9def-4de9-b5ed-9e4992bf1370",
+      "type": "message",
+      "text": "バッテリが急逝したり映像出力が逝ったりしてる子を何台か直した覚えがあります",
+      "user": "pasutisu",
+      "ts": "1658501737.501479",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "yejNb",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "バッテリが急逝したり映像出力が逝ったりしてる子を何台か直した覚えがあります"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "0b2d638d-20d6-40de-934d-9db59758cb4c",
+      "type": "message",
+      "text": "私の周りではXPSの故障率が異常に高いですね",
+      "user": "pasutisu",
+      "ts": "1658501655.391609",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "8M7mJ",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "私の周りではXPSの故障率が異常に高いですね"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "reactions": [
+        {
+          "name": "wakaru",
+          "users": [
+            "yutakatay"
+          ],
+          "count": 1
+        }
+      ]
+    },
+    {
+      "client_msg_id": "9f51b138-bc07-49dd-9a0c-2744977ca659",
+      "type": "message",
+      "text": "おもしろそうなSKKが開発中のようで\n\nWayland text input daemon that implements Wayland ZwpInputMethodV2 and ZwpVirtualKeyboardV1 partially.\nTargetting to use under swaywm, aiming to follow the wlroot applicable protocols.\nNote that those protocols are unstable yet.\n<https://github.com/naokiri/wlcskk>",
+      "user": "git-repos-rkarsnk",
+      "ts": "1658471000.693019",
+      "team": "T0GFBAM8C",
+      "attachments": [
+        {
+          "id": 1,
+          "color": "24292f",
+          "bot_id": "B03JFQRLYDD",
+          "app_unfurl_url": "https://github.com/naokiri/wlcskk",
+          "is_app_unfurl": true,
+          "app_id": "A01BP7R4KNY",
+          "fallback": "naokiri/wlcskk",
+          "text": "Wayland input daemon under development",
+          "title": "naokiri/wlcskk",
+          "fields": [
+            {
+              "value": "Rust",
+              "title": "Language",
+              "short": true
+            },
+            {
+              "value": "12 days ago",
+              "title": "Last updated",
+              "short": true
+            }
+          ]
+        }
+      ],
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "tXI",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "おもしろそうなSKKが開発中のようで\n\nWayland text input daemon that implements Wayland ZwpInputMethodV2 and ZwpVirtualKeyboardV1 partially.\nTargetting to use under swaywm, aiming to follow the wlroot applicable protocols.\nNote that those protocols are unstable yet.\n"
+                },
+                {
+                  "type": "link",
+                  "url": "https://github.com/naokiri/wlcskk"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "reactions": [
+        {
+          "name": "hee",
+          "users": [
+            "yutakatay"
+          ],
+          "count": 1
+        },
+        {
+          "name": "goodpoem",
+          "users": [
+            "kusanaginoturugi",
+            "naokihirokitomoki",
+            "U02BLTTQEL9",
+            "UJ7P75WB1"
+          ],
+          "count": 4
+        }
+      ]
+    },
+    {
+      "client_msg_id": "609054b4-355f-4b2c-83ff-078762f56eb5",
+      "type": "message",
+      "text": "Dellのノートで良いなとおもったのは、ネットブックのmini 9",
+      "user": "git-repos-rkarsnk",
+      "ts": "1658456417.257199",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "K+5G",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "Dellのノートで良いなとおもったのは、ネットブックのmini 9"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "reactions": [
+        {
+          "name": "wakaru",
+          "users": [
+            "kusanaginoturugi"
+          ],
+          "count": 1
+        }
+      ]
+    },
+    {
+      "client_msg_id": "e05b9589-174d-4171-bb09-102cd989ac56",
+      "type": "message",
+      "text": "個人的には高くても初期不良多いイメージあるんですよね・・・あとブランドによって当たりハズレがあるっていうよりも機種によって当たりハズレがあるイメージ",
+      "user": "yutakatay",
+      "ts": "1658454942.525379",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "kRh9K",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "個人的には高くても初期不良多いイメージあるんですよね・・・あとブランドによって当たりハズレがあるっていうよりも機種によって当たりハズレがあるイメージ"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "reactions": [
+        {
+          "name": "wakaru",
+          "users": [
+            "naokihirokitomoki",
+            "git-repos-rkarsnk",
+            "kusanaginoturugi"
+          ],
+          "count": 3
+        }
+      ]
+    },
+    {
+      "client_msg_id": "01d2eacb-e664-4481-b10e-3302c457fb77",
+      "type": "message",
+      "text": "Dell の善し悪しはすべて値段だと思う。高いやつは良いけど、安いやつはほんとにそれなり。",
+      "user": "kusanaginoturugi",
+      "ts": "1658454400.785349",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "cWCM",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "Dell の善し悪しはすべて値段だと思う。高いやつは良いけど、安いやつはほんとにそれなり。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "reactions": [
+        {
+          "name": "wakaru",
+          "users": [
+            "U6DL9D3AB",
+            "naokihirokitomoki",
+            "dohq"
+          ],
+          "count": 3
+        },
+        {
+          "name": "hee",
+          "users": [
+            "yutakatay"
+          ],
+          "count": 1
+        }
+      ]
+    }
+  ],
+  "has_more": true,
+  "is_limited": false,
+  "pin_count": 0,
+  "channel_actions_ts": null,
+  "channel_actions_count": 0,
+  "response_metadata": {
+    "next_cursor": "bmV4dF90czoxNjU4NDA2NTQ1NDIwNDc5"
+  }
+}

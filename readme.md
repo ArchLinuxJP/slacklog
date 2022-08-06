@@ -2,9 +2,13 @@
 
 slackのlogを保存するproject
 
-slack : https://archlinuxjp.slack.com
+- slack : https://archlinuxjp.slack.com
 
-以前 : https://slack.archlinux.jp/log/2016/12/general/
+- 以前のslacklog : https://slack.archlinux.jp/log/2016/12/general/
+
+- 2019-12-01からlogが生成されていない
+
+- 2020-04-01からのlogは取得できた[2022-08-01]
 
 ### 削除依頼
 
@@ -14,7 +18,7 @@ slackからでもgithubからでもいいのでご連絡ください。
 
 ### 概要
 
-gh-actionsで定期的にcronして、slack-apiの[conversations.history](https://api.slack.com/methods/conversations.history)を叩きます。token権限はchannel.historyを与えています。更新があれば、このリポジトリのjsonを更新します。
+gh-actionsで定期的にcronして、slack-apiの[conversations.history](https://api.slack.com/methods/conversations.history)を叩きます。token権限はchannel.historyを与えています。更新があれば、このリポジトリのjsonを更新します。nameを取得するのに[user.list](https://api.slack.com/methods/users.list)も利用します。
 
 pushは[こちら](https://github.com/marketplace/actions/github-push)を利用します。
 
@@ -40,109 +44,35 @@ https://api.slack.com/apps : `slacklog`
 
 ### 使い方
 
-`t.zsh`でテストします。`./config.json`をおいてください。
-
-`build.zsh`でgh-actionsのymlを作成します。内容はそのまま`t.zsh`のものになります。
-
-actions内で作成されるファイルは、ymlのファイル名になります。
-
-例えば、`random.yml`の場合は以下になります。
-
 ```sh
-api : random.json
+$ echo "{\"SLACK_TOKEN\":\"xoxp-0000-0000-0000\"}" > config.json"
+$ cat config.json
+{
+ "SLACK_TOKEN":"xoxp-0000-0000-0000"
+}
 
-update : ran.json #最初の3文字
-
-date : 202009-random.json
+$ ./linux.zsh
 ```
 
-updateとdateは基本的に同じものになります。updateがlatestを意味し、channel-pageのトップに使われます。dateはCIを回した月を取得しますので、月が変わると、新しいjsonが作成され、pushされます。
+- `linux.zsh`で20191201からlog(conversations.history)を取得します。
 
-actionsを作りたい場合は`.github/workflows`以下に取得したいchannel-nameのymlを作成し、`build.zsh`を実行すればOKです。例えば、`#example`なら`example.yml`になります。新しいchannelを作成した場合、`list.json`を削除しておいてください。slackの負担を軽減するために更新せず使用しています。
+- jsonはuserがidになっているため、`user.list`からnameを取得し、json:userを書き換えます。
 
-```sh
-# example
-# channel-name : example
-$ touch .github/workflows/example.yml
-$ ./build.zsh
-```
-
-ただし、channel-nameが3文字以下の場合は`t.zsh`の`tmp_json`を変更する必要があります。
-
-```sh
-#go
-- tmp_json=`echo $wfile|cut -b 1-3`.json
-+ tmp_json=`echo $wfile|cut -b 1`.json
-```
+- `json/latest.json`を生成し、最新の保存状況を伝えます。
 
 ### gh-pages
 
-gh-pagesは基本的にvueで構築しています。新しい機能をテストするページは以下になります。
-
-https://archlinuxjp.github.io/slacklog/random/202010/
-
-#### その月に一致したものを表示する
-
-現在、特定のディレクトリ(日付)で、その月に投稿されたもののみを表示する実装をテスト中。
-
-currentdirと`value.time`の値の一致を見ます。
-
-```html
-<template v-if="value.time.split('/')[0] + value.time.split('/')[1] === dirname">
-	<td><img v-bind:src="value.img"></td>
-</template>
+```sh
+$ git checkout vue
+$ yarn install
+$ yarn serve
+$ yarn build
+$ ls dist/
 ```
 
-```js
-computed: {
- dirname() {
-	var currentUrl = window.location.pathname.split('/')[3];
-	//var currentUrl = "202010";
-	return currentUrl;
- }
-}
-```
+gh-pagesは基本的にvueで構築しています。
 
-#### markdownをhtmlに変換する(marked)
+このrepoに置かれたjson-rawから取得表示します。
 
-textが基本的にmd形式なので、それをhtmlに変換すると見栄えが良くなります。また、出力されるhtmlに対応した`syntax-highlight`をつけるといいかもしれません。
-
-```html
-<script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
-<div v-if="markdownText = value.text" v-html="compiledMarkdown"></div>
-```
-
-```js
-data: {
- markdownText: ''
-},
-computed: {
- compiledMarkdown() {
-  return marked(this.markdownText)
- }
-}
-```
-
-#### markdownパーサの変遷(vue-markdown)
-
-`marked.js`を使っていましたが、`vue-markdown`に切り替えました。
-
-`backtick`がうまく変換されないことが多かった。ただし、現在も末尾がそのまま残ってしまっているので問題はあります。
-
-https://github.com/miaolz123/vue-markdown
-
-```html
-<script src="./dist/vue-markdown.js"></script>
-<vue-markdown>{{ value.text }}</vue-markdown>
-<script>Vue.use(VueMarkdown);</script>
-```
-
-どうやら末尾のbacktickに直前改行がない場合は残ってしまうようです。
-
-とりあえず以下の解決方法がありますが、推奨されません。
-
-```html
-<vue-markdown>{{ value.text.replace(/```/g,'\n```') }}</vue-markdown>
-```
-
+取得する期間はformに入力する形式に変更しました。
 

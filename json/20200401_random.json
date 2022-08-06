@@ -1,0 +1,5956 @@
+{
+  "ok": true,
+  "latest": "1588301633.000000",
+  "oldest": "1585709633.000000",
+  "messages": [
+    {
+      "type": "message",
+      "subtype": "channel_join",
+      "ts": "1588250805.235300",
+      "user": "toshi",
+      "text": "<@toshi>さんがチャンネルに参加しました"
+    },
+    {
+      "client_msg_id": "ba72bdd3-b206-455c-bf13-9e69f43eb325",
+      "type": "message",
+      "text": "あれ？そうなんですね。昨日初めて気がついた。ありがとうございます！",
+      "user": "yutakatay",
+      "ts": "1588110358.235000",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "Ns90",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "あれ？そうなんですね。昨日初めて気がついた。ありがとうございます！"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "e260e3a0-324d-4426-8f5c-0b9c85ca375a",
+      "type": "message",
+      "text": "なんか他に解決方法あったら知りたい",
+      "user": "odknt",
+      "ts": "1588100030.234900",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "HMw",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "なんか他に解決方法あったら知りたい"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "7eddf10f-4397-455e-8166-4f50ec543694",
+      "type": "message",
+      "text": "だいぶ前からありますね。私はこれで対処してます。\n```autocmd VimLeave * call system(\"xclip -sel c\", getreg('+'))```",
+      "user": "odknt",
+      "ts": "1588100011.234500",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "qwvT=",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "だいぶ前からありますね。私はこれで対処してます。\n"
+                }
+              ]
+            },
+            {
+              "type": "rich_text_preformatted",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "autocmd VimLeave * call system(\"xclip -sel c\", getreg('+'))"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "55d44674-4b42-4790-ac24-ae8111322315",
+      "type": "message",
+      "text": "swayではおこってないのでXっぽい",
+      "user": "yutakatay",
+      "ts": "1588081996.234100",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "XHff",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "swayではおこってないのでXっぽい"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "9aaaec35-9a09-46e3-a15e-4d3468370376",
+      "type": "message",
+      "text": "i3wmでvimに `set clipboard=unnamedplus,unnamed` を設定した状態でvimを終了するとOSのクリップボードに保存した結果がなぜかクリアされる事象に出くわしてます。。。おま環の可能性あるので誰か追試をお願いします :bow:\n\n1. `vim -u NONE README.md`\n2. `:set clipboard=unnamedplus,unnamed`\n3. `yy` で適当にコピー\n4. vimを閉じる\n5. コピーしたものがOSのクリップボードに保存されているはずだからそれをどこか別の場所にペースト\n6. ペーストできなければ再現 :tada:",
+      "user": "yutakatay",
+      "ts": "1588081979.233800",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "VhZj1",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "i3wmでvimに "
+                },
+                {
+                  "type": "text",
+                  "text": "set clipboard=unnamedplus,unnamed",
+                  "style": {
+                    "code": true
+                  }
+                },
+                {
+                  "type": "text",
+                  "text": " を設定した状態でvimを終了するとOSのクリップボードに保存した結果がなぜかクリアされる事象に出くわしてます。。。おま環の可能性あるので誰か追試をお願いします "
+                },
+                {
+                  "type": "emoji",
+                  "name": "bow",
+                  "unicode": "1f647"
+                },
+                {
+                  "type": "text",
+                  "text": "\n\n1. "
+                },
+                {
+                  "type": "text",
+                  "text": "vim -u NONE README.md",
+                  "style": {
+                    "code": true
+                  }
+                },
+                {
+                  "type": "text",
+                  "text": "\n2. "
+                },
+                {
+                  "type": "text",
+                  "text": ":set clipboard=unnamedplus,unnamed",
+                  "style": {
+                    "code": true
+                  }
+                },
+                {
+                  "type": "text",
+                  "text": "\n3. "
+                },
+                {
+                  "type": "text",
+                  "text": "yy",
+                  "style": {
+                    "code": true
+                  }
+                },
+                {
+                  "type": "text",
+                  "text": " で適当にコピー\n4. vimを閉じる\n5. コピーしたものがOSのクリップボードに保存されているはずだからそれをどこか別の場所にペースト\n6. ペーストできなければ再現 "
+                },
+                {
+                  "type": "emoji",
+                  "name": "tada",
+                  "unicode": "1f389"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "852ec29a-cedf-437e-b796-64609443b7c7",
+      "type": "message",
+      "text": "了解です",
+      "user": "no97yuu",
+      "ts": "1587962299.231600",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "B4y5",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "了解です"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "b81a1554-474a-444a-863c-fb510ef069b9",
+      "type": "message",
+      "text": "wikiとフォーラムは生きてますがそれ以外が落ちてますね",
+      "user": "nyaarch64",
+      "ts": "1587962246.231400",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "7tF",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "wikiとフォーラムは生きてますがそれ以外が落ちてますね"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "59fe5db5-7b1e-40fa-91bb-7fd7e17def40",
+      "type": "message",
+      "text": "Wiki落ちました？",
+      "user": "no97yuu",
+      "ts": "1587962161.230400",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "=1LXD",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "Wiki落ちました？"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "message",
+      "subtype": "thread_broadcast",
+      "text": "これまだちょいちょい発生しますね。。。前よりも移動範囲がせまくなってますが。。。",
+      "user": "yutakatay",
+      "ts": "1587953140.229000",
+      "thread_ts": "1587613691.203000",
+      "root": {
+        "client_msg_id": "865ec75b-0816-44de-a4c9-071cdd1fe55b",
+        "type": "message",
+        "text": "カーソルがある地点を目指して自動で進んでいくんですよねw そこに到達するまでカーソルのコントロールができなくなりますw\n\nさっきカーネルの更新したら今のところ発生しなくなりましたね。",
+        "user": "yutakatay",
+        "ts": "1587613691.203000",
+        "team": "T0GFBAM8C",
+        "blocks": [
+          {
+            "type": "rich_text",
+            "block_id": "zb1T",
+            "elements": [
+              {
+                "type": "rich_text_section",
+                "elements": [
+                  {
+                    "type": "text",
+                    "text": "カーソルがある地点を目指して自動で進んでいくんですよねw そこに到達するまでカーソルのコントロールができなくなりますw\n\nさっきカーネルの更新したら今のところ発生しなくなりましたね。"
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "thread_ts": "1587613691.203000",
+        "reply_count": 12,
+        "reply_users_count": 2,
+        "latest_reply": "1589336698.276700",
+        "reply_users": [
+          "yutakatay",
+          "U6Y9PK6DB"
+        ],
+        "is_locked": false,
+        "subscribed": false
+      },
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "PG6d",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "これまだちょいちょい発生しますね。。。前よりも移動範囲がせまくなってますが。。。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "client_msg_id": "f842eda0-6c27-422f-b5a2-dc18fa39ae07"
+    },
+    {
+      "client_msg_id": "250a3bb1-5b9c-4843-b0c9-b18818bdf890",
+      "type": "message",
+      "text": "気になってtcshを調べてみたらバグってる雰囲気ですね。sh.cの182行目でenのカタログを調べてますが、インストールされてません。Cからenにロケールをコピーするか、ソースをCに直して再コンパイルでしょうか。BSD系で動く理由を調べたらsend-prしとくかな。",
+      "user": "kiyotakatheblack",
+      "ts": "1587874334.228700",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "Lyh",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "気になってtcshを調べてみたらバグってる雰囲気ですね。sh.cの182行目でenのカタログを調べてますが、インストールされてません。Cからenにロケールをコピーするか、ソースをCに直して再コンパイルでしょうか。BSD系で動く理由を調べたらsend-prしとくかな。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "reactions": [
+        {
+          "name": "raised_hands",
+          "users": [
+            "nyaarch64",
+            "kokopis"
+          ],
+          "count": 2
+        }
+      ]
+    },
+    {
+      "type": "message",
+      "subtype": "channel_join",
+      "ts": "1587719037.223500",
+      "user": "sergioechigo5010",
+      "text": "<@sergioechigo5010>さんがチャンネルに参加しました"
+    },
+    {
+      "client_msg_id": "3d3dae2c-89f3-4400-8b51-ee2d592c3d84",
+      "type": "message",
+      "text": "インストールは可能でしたが、なんとなく気持ち悪いので質問してみました。\nありがとうございます。",
+      "user": "no97yuu",
+      "ts": "1587703449.223200",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "IVC",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "インストールは可能でしたが、なんとなく気持ち悪いので質問してみました。\nありがとうございます。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "reactions": [
+        {
+          "name": "raised_hands",
+          "users": [
+            "nyaarch64"
+          ],
+          "count": 1
+        }
+      ]
+    },
+    {
+      "client_msg_id": "9d1a5665-6798-41d2-b5ee-ed80284fa767",
+      "type": "message",
+      "text": "あ、 <https://bugs.archlinux.org/task/62709|https://bugs.archlinux.org/task/62709> ですね default library を入れるという話のようです",
+      "user": "nyaarch64",
+      "ts": "1587702986.222700",
+      "team": "T0GFBAM8C",
+      "attachments": [
+        {
+          "title": "FS#62709 : [ruby] irb is a default library, it should included with ruby ",
+          "title_link": "https://bugs.archlinux.org/task/62709",
+          "text": "Flyspray, a Bug Tracking System written in PHP.",
+          "fallback": "FS#62709 : [ruby] irb is a default library, it should included with ruby ",
+          "from_url": "https://bugs.archlinux.org/task/62709",
+          "service_icon": "https://bugs.archlinux.org/themes/ArchLinux/favicon.ico",
+          "service_name": "bugs.archlinux.org",
+          "id": 1,
+          "original_url": "https://bugs.archlinux.org/task/62709"
+        }
+      ],
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "hRx1k",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "あ、 "
+                },
+                {
+                  "type": "link",
+                  "url": "https://bugs.archlinux.org/task/62709",
+                  "text": "https://bugs.archlinux.org/task/62709"
+                },
+                {
+                  "type": "text",
+                  "text": " ですね default library を入れるという話のようです"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "69c51e36-3607-4482-a837-66f0398ea7c3",
+      "type": "message",
+      "text": "ruby-irb に依存してるのはちょっと謎……と思ったけどlog見ると過去にirb同梱してた(？)っぽいですね",
+      "user": "nyaarch64",
+      "ts": "1587702899.221300",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "xFm",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "ruby-irb に依存してるのはちょっと謎……と思ったけどlog見ると過去にirb同梱してた(？)っぽいですね"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "13339526-02e6-4e41-aa31-3b62d21f4e4d",
+      "type": "message",
+      "text": "同意見です(本当に循環した依存が必要か調べた方がいいのはそうなんでしょうけど)",
+      "user": "nyaarch64",
+      "ts": "1587702728.220200",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "eS2K",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "同意見です(本当に循環した依存が必要か調べた方がいいのはそうなんでしょうけど)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "6fda3ae1-599c-436b-bd80-e7ea22c1c21e",
+      "type": "message",
+      "text": "インストール可能であれば問題ないと思う",
+      "user": "znmxodq1",
+      "ts": "1587702520.217700",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "eUWt3",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "インストール可能であれば問題ないと思う"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "85dab133-58aa-4ded-bf27-62f0e8d6af4a",
+      "type": "message",
+      "text": "循環参照普通に出るような",
+      "user": "znmxodq1",
+      "ts": "1587702491.216700",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "pRgh",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "循環参照普通に出るような"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "87544fc8-e0a1-40cd-a5ae-a63b6008bbd8",
+      "type": "message",
+      "text": "はい。\n```pacman　-S ruby ```\nです。",
+      "user": "no97yuu",
+      "ts": "1587702455.216100",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "D=p6",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "はい。\n"
+                }
+              ]
+            },
+            {
+              "type": "rich_text_preformatted",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "pacman　-S ruby "
+                }
+              ]
+            },
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "です。"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "4ad8f05b-4f9d-4de5-8ebb-8f5a989e9692",
+      "type": "message",
+      "text": "pacman での更新時ですか？",
+      "user": "nyaarch64",
+      "ts": "1587696689.215400",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "Gv19",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "pacman での更新時ですか？"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "98674f2e-41d2-4341-921b-7ce3b4197712",
+      "type": "message",
+      "text": "rubyのパッケージに循環参照が出てますけれども、これはバグですか？",
+      "user": "no97yuu",
+      "ts": "1587696658.214800",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "Xm3",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "rubyのパッケージに循環参照が出てますけれども、これはバグですか？"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "ffa2d671-9327-4df5-9ed5-bd585bb1b3e6",
+      "type": "message",
+      "text": "了解です",
+      "user": "tsubokuru_slack",
+      "ts": "1587693553.214400",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "Znip",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "了解です"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "c41e05f0-a42f-4bb3-83d0-96f0095e7ceb",
+      "type": "message",
+      "text": "さすがにz/OSの話かな……と思ったらtcsh(1)のmanページにもkanjiってのを見かけてしまった……(Archのtcshパッケージにはjaロケール含まれてるので大丈夫だとは思いますが……)",
+      "user": "nyaarch64",
+      "ts": "1587693407.214100",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "Tsa",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "さすがにz/OSの話かな……と思ったらtcsh(1)のmanページにもkanjiってのを見かけてしまった……(Archのtcshパッケージにはjaロケール含まれてるので大丈夫だとは思いますが……)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "1f1bc8d7-4ee2-4b71-8f9b-329a9a7f0b80",
+      "type": "message",
+      "text": "わお",
+      "user": "tsubokuru_slack",
+      "ts": "1587693308.211600",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "Wzexb",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "わお"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "7cdb6259-f613-4edf-a7e2-899e665e984b",
+      "type": "message",
+      "text": "<https://www.ibm.com/support/knowledgecenter/en/SSLTBW_2.1.0/com.ibm.zos.v2r1.bpxa400/bpxug97.htm|https://www.ibm.com/support/knowledgecenter/en/SSLTBW_2.1.0/com.ibm.zos.v2r1.bpxa400/bpxug97.htm>\nこれ見てたんですが English, kanji, Simpified Chinese みたいなのを見た気がしてヒエッってなりました",
+      "user": "nyaarch64",
+      "ts": "1587693106.211400",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "KTWg",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "link",
+                  "url": "https://www.ibm.com/support/knowledgecenter/en/SSLTBW_2.1.0/com.ibm.zos.v2r1.bpxa400/bpxug97.htm",
+                  "text": "https://www.ibm.com/support/knowledgecenter/en/SSLTBW_2.1.0/com.ibm.zos.v2r1.bpxa400/bpxug97.htm"
+                },
+                {
+                  "type": "text",
+                  "text": "\nこれ見てたんですが English, kanji, Simpified Chinese みたいなのを見た気がしてヒエッってなりました"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "8d62e644-2047-43ce-a8a1-a3ca7222763a",
+      "type": "message",
+      "text": "やってみます！",
+      "user": "tsubokuru_slack",
+      "ts": "1587692664.209100",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "jN/u",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "やってみます！"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "f4a890fe-c1fb-4962-807e-b541989a316a",
+      "type": "message",
+      "text": "情報少なすぎてIBM z/OSのガイドが出てきた……\n`LC_ALL` もセットしてみたらどうでしょう",
+      "user": "nyaarch64",
+      "ts": "1587692553.208500",
+      "team": "T0GFBAM8C",
+      "edited": {
+        "user": "nyaarch64",
+        "ts": "1587692576.000000"
+      },
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "mkn",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "情報少なすぎてIBM z/OSのガイドが出てきた……\n"
+                },
+                {
+                  "type": "text",
+                  "text": "LC_ALL",
+                  "style": {
+                    "code": true
+                  }
+                },
+                {
+                  "type": "text",
+                  "text": " もセットしてみたらどうでしょう"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "47718e53-d7bb-4516-b255-e4b499b4e798",
+      "type": "message",
+      "text": "最近tcshにシェルを変えたのですが、なぜか言語が英語になっています。tcshだとlocale.confの記述方法が違うのでしょうか？\nWikiもないので困っています。なにか知っている方がいたら教えてください",
+      "user": "tsubokuru_slack",
+      "ts": "1587692027.206300",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "vUfTn",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "最近tcshにシェルを変えたのですが、なぜか言語が英語になっています。tcshだとlocale.confの記述方法が違うのでしょうか？\nWikiもないので困っています。なにか知っている方がいたら教えてください"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "thread_ts": "1587692027.206300",
+      "reply_count": 3,
+      "reply_users_count": 2,
+      "latest_reply": "1587802972.224100",
+      "reply_users": [
+        "tsubokuru_slack",
+        "nyaarch64"
+      ],
+      "is_locked": false,
+      "subscribed": false
+    },
+    {
+      "client_msg_id": "50c9a732-4324-492a-a3f0-1cef6fab5778",
+      "type": "message",
+      "text": "なかまがいた",
+      "user": "yutakatay",
+      "ts": "1587634381.204200",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "bTiu",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "なかまがいた"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "949eb255-f2b3-41be-b4cb-ceceb79a2f45",
+      "type": "message",
+      "text": "それトラックポイントが壊れたんだと思ってた…",
+      "user": "kokopis",
+      "ts": "1587634332.203400",
+      "team": "T0GFBAM8C",
+      "edited": {
+        "user": "kokopis",
+        "ts": "1587634340.000000"
+      },
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "A0X",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "それトラックポイントが壊れたんだと思ってた…"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "865ec75b-0816-44de-a4c9-071cdd1fe55b",
+      "type": "message",
+      "text": "カーソルがある地点を目指して自動で進んでいくんですよねw そこに到達するまでカーソルのコントロールができなくなりますw\n\nさっきカーネルの更新したら今のところ発生しなくなりましたね。",
+      "user": "yutakatay",
+      "ts": "1587613691.203000",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "zb1T",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "カーソルがある地点を目指して自動で進んでいくんですよねw そこに到達するまでカーソルのコントロールができなくなりますw\n\nさっきカーネルの更新したら今のところ発生しなくなりましたね。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "thread_ts": "1587613691.203000",
+      "reply_count": 12,
+      "reply_users_count": 2,
+      "latest_reply": "1589336698.276700",
+      "reply_users": [
+        "yutakatay",
+        "U6Y9PK6DB"
+      ],
+      "is_locked": false,
+      "subscribed": false
+    },
+    {
+      "client_msg_id": "58a37aa8-bd53-4c53-9cb1-1635cdb3aa22",
+      "type": "message",
+      "text": "どういうことだってばよ",
+      "user": "h.hata.ai.t",
+      "ts": "1587613186.201100",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "tzBbl",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "どういうことだってばよ"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "dcf5117b-dfca-4d61-9273-72cdd890abbc",
+      "type": "message",
+      "text": "i3wm、Thinkpadですけど最近カーソルがある地点まで勝手にいく事象が発生してますね。。。そこに到達したら直る。左上だったり右下だったり。",
+      "user": "yutakatay",
+      "ts": "1587536606.200700",
+      "team": "T0GFBAM8C",
+      "edited": {
+        "user": "yutakatay",
+        "ts": "1587536710.000000"
+      },
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "=kYH3",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "i3wm、Thinkpadですけど最近カーソルがある地点まで勝手にいく事象が発生してますね。。。そこに到達したら直る。左上だったり右下だったり。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "reactions": [
+        {
+          "name": "face_with_rolling_eyes",
+          "users": [
+            "nyaarch64",
+            "kokopis"
+          ],
+          "count": 2
+        }
+      ]
+    },
+    {
+      "type": "message",
+      "subtype": "channel_join",
+      "ts": "1587448086.200000",
+      "user": "okokada.takuya",
+      "text": "<@okokada.takuya>さんがチャンネルに参加しました"
+    },
+    {
+      "type": "message",
+      "subtype": "channel_join",
+      "ts": "1587387313.199800",
+      "user": "naokitq",
+      "text": "<@naokitq>さんがチャンネルに参加しました"
+    },
+    {
+      "client_msg_id": "9e5f4405-850e-48c1-acd2-5a86f160d0de",
+      "type": "message",
+      "text": "VPN、物理ハードだと3DESしかなかったのもちらほらいましたね…",
+      "user": "pasutisu",
+      "ts": "1587335052.199400",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "MQU7",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "VPN、物理ハードだと3DESしかなかったのもちらほらいましたね…"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "message",
+      "subtype": "channel_join",
+      "ts": "1587285022.196600",
+      "user": "yoguchi1996",
+      "text": "<@yoguchi1996>さんがチャンネルに参加しました"
+    },
+    {
+      "client_msg_id": "DF098088-5FA4-4FD5-BFF1-246B1A6AB50B",
+      "type": "message",
+      "text": "こんにちはー",
+      "user": "syui",
+      "ts": "1587201446.195700",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "8sb",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "こんにちはー"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "194102b0-eb02-4cfc-ae53-8ed0066ac9ea",
+      "type": "message",
+      "text": "はじめまして。Folding@homeのページの編集をキッカケにこちらにも参加させていただきます。よろしくお願いします。",
+      "user": "kbonehobby",
+      "ts": "1587197226.195100",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "Q4yhD",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "はじめまして。Folding@homeのページの編集をキッカケにこちらにも参加させていただきます。よろしくお願いします。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "reactions": [
+        {
+          "name": "archjp",
+          "users": [
+            "znmxodq1",
+            "nyaarch64",
+            "kokopis",
+            "syui",
+            "U3FJYR7MG",
+            "UP795STQS",
+            "USJ9Q3WSH",
+            "U0H3FTBBJ",
+            "UJ7P75WB1"
+          ],
+          "count": 9
+        },
+        {
+          "name": "mask",
+          "users": [
+            "USJ9Q3WSH",
+            "kokopis"
+          ],
+          "count": 2
+        },
+        {
+          "name": "microscope",
+          "users": [
+            "kokopis"
+          ],
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "message",
+      "subtype": "channel_join",
+      "ts": "1587196580.194000",
+      "user": "kbonehobby",
+      "text": "<@kbonehobby>さんがチャンネルに参加しました"
+    },
+    {
+      "type": "message",
+      "subtype": "channel_join",
+      "ts": "1587193331.193800",
+      "user": "kawaemon",
+      "text": "<@kawaemon>さんがチャンネルに参加しました"
+    },
+    {
+      "type": "message",
+      "subtype": "channel_join",
+      "ts": "1587043094.192900",
+      "user": "slimulv1",
+      "text": "<@slimulv1>さんがチャンネルに参加しました"
+    },
+    {
+      "client_msg_id": "c7b917d0-3340-451d-829c-7a316bfc331a",
+      "type": "message",
+      "text": "昨日VPNで騒いだものです。相手先が古い？ルーターでphase2の使用可能アルゴリズムが古いものだらけだったというのが答えでした。（まあRemoteIDを指定しないといけないとかも有りましたが）。お騒がせしました。",
+      "user": "muminn4",
+      "ts": "1586977035.191400",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "TxL",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "昨日VPNで騒いだものです。相手先が古い？ルーターでphase2の使用可能アルゴリズムが古いものだらけだったというのが答えでした。（まあRemoteIDを指定しないといけないとかも有りましたが）。お騒がせしました。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "reactions": [
+        {
+          "name": "tada",
+          "users": [
+            "kokopis",
+            "angel.beats.kanade.yu",
+            "znmxodq1",
+            "toshiaki",
+            "shuhei.okamoto",
+            "UEED0BQ4A",
+            "UUD5R0W8G",
+            "U4V5UCWT0",
+            "UJ7P75WB1"
+          ],
+          "count": 9
+        }
+      ]
+    },
+    {
+      "client_msg_id": "26cff0c2-9faf-41a6-8352-6715baa62fa4",
+      "type": "message",
+      "text": "解決しました！ありがとうございます！",
+      "user": "last.ryo0213",
+      "ts": "1586969100.190200",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "Pam=",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "解決しました！ありがとうございます！"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "reactions": [
+        {
+          "name": "tada",
+          "users": [
+            "znmxodq1",
+            "toshiaki",
+            "UEED0BQ4A"
+          ],
+          "count": 3
+        }
+      ]
+    },
+    {
+      "client_msg_id": "040f752e-aa5f-4e92-994d-b81c509d5b43",
+      "type": "message",
+      "text": "bs指定してました……\nありがとうございます。外して試してみます",
+      "user": "last.ryo0213",
+      "ts": "1586967267.189700",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "/p2I7",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "bs指定してました……\nありがとうございます。外して試してみます"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "ee6f7f7e-e9ba-42d3-83cb-252292ff35c0",
+      "type": "message",
+      "text": "指定する場合はイメージのサイズを元に計算する必要があったはず",
+      "user": "atnanasi",
+      "ts": "1586966940.188900",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "DV1sb",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "指定する場合はイメージのサイズを元に計算する必要があったはず"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "373b5d55-d94c-42f4-ba6c-cb9bbce5ef18",
+      "type": "message",
+      "text": "もし bs とかを指定しているなら外して試してみてください、うまくいかない事があるので",
+      "user": "atnanasi",
+      "ts": "1586966923.188500",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "HyU",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "もし bs とかを指定しているなら外して試してみてください、うまくいかない事があるので"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "2d555b85-9e00-4b45-9c7e-8af06b4ebaa0",
+      "type": "message",
+      "text": "dd のオプションが悪いかもしれないですね",
+      "user": "atnanasi",
+      "ts": "1586966857.188000",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "mO1+",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "dd のオプションが悪いかもしれないですね"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "message",
+      "text": "Archをインストールしようとしたら、画像のようなエラーになりインストール出来ませんでした。\nddコマンドでUSBメモリにISOイメージを焼いてそれをUEFIブートしようとしています。\n以前似たようなエラーが出た時はUSBメモリの故障が原因だった為、今回は複数USBメモリを使って試しましたが全敗。パソコンが原因の場合を想定し複数台のパソコンで試しましたがこちらも失敗。\n同じUSBメモリにManjaroKDEを焼いてインストールに成功したので、USBメモリは正常に動作しているものと考えています。\nまた、Alter LinuxというArchベースのディストロでも同じエラーでインストールに失敗しています。\nパソコンはASUSのノートパソコンで、以前(２月)の時点では一度Archのインストールに成功しています。\n\nなにかご助言頂ければ幸いです。",
+      "files": [
+        {
+          "id": "F011WKKP6QK",
+          "created": 1586965806,
+          "timestamp": 1586965806,
+          "name": "MVIMG_20200415_170815.jpg",
+          "title": "MVIMG_20200415_170815.jpg",
+          "mimetype": "image/jpeg",
+          "filetype": "jpg",
+          "pretty_type": "JPEG",
+          "user": "last.ryo0213",
+          "editable": false,
+          "size": 721366,
+          "mode": "hosted",
+          "is_external": false,
+          "external_type": "",
+          "is_public": true,
+          "public_url_shared": false,
+          "display_as_bot": false,
+          "username": "",
+          "url_private": "https://files.slack.com/files-pri/T0GFBAM8C-F011WKKP6QK/mvimg_20200415_170815.jpg",
+          "url_private_download": "https://files.slack.com/files-pri/T0GFBAM8C-F011WKKP6QK/download/mvimg_20200415_170815.jpg",
+          "media_display_type": "unknown",
+          "thumb_64": "https://files.slack.com/files-tmb/T0GFBAM8C-F011WKKP6QK-eb06a9bd56/mvimg_20200415_170815_64.jpg",
+          "thumb_80": "https://files.slack.com/files-tmb/T0GFBAM8C-F011WKKP6QK-eb06a9bd56/mvimg_20200415_170815_80.jpg",
+          "thumb_360": "https://files.slack.com/files-tmb/T0GFBAM8C-F011WKKP6QK-eb06a9bd56/mvimg_20200415_170815_360.jpg",
+          "thumb_360_w": 360,
+          "thumb_360_h": 270,
+          "thumb_480": "https://files.slack.com/files-tmb/T0GFBAM8C-F011WKKP6QK-eb06a9bd56/mvimg_20200415_170815_480.jpg",
+          "thumb_480_w": 480,
+          "thumb_480_h": 360,
+          "thumb_160": "https://files.slack.com/files-tmb/T0GFBAM8C-F011WKKP6QK-eb06a9bd56/mvimg_20200415_170815_160.jpg",
+          "thumb_720": "https://files.slack.com/files-tmb/T0GFBAM8C-F011WKKP6QK-eb06a9bd56/mvimg_20200415_170815_720.jpg",
+          "thumb_720_w": 720,
+          "thumb_720_h": 540,
+          "thumb_800": "https://files.slack.com/files-tmb/T0GFBAM8C-F011WKKP6QK-eb06a9bd56/mvimg_20200415_170815_800.jpg",
+          "thumb_800_w": 800,
+          "thumb_800_h": 600,
+          "thumb_960": "https://files.slack.com/files-tmb/T0GFBAM8C-F011WKKP6QK-eb06a9bd56/mvimg_20200415_170815_960.jpg",
+          "thumb_960_w": 960,
+          "thumb_960_h": 720,
+          "thumb_1024": "https://files.slack.com/files-tmb/T0GFBAM8C-F011WKKP6QK-eb06a9bd56/mvimg_20200415_170815_1024.jpg",
+          "thumb_1024_w": 1024,
+          "thumb_1024_h": 768,
+          "original_w": 4032,
+          "original_h": 3024,
+          "thumb_tiny": "AwAkADCulDsFPqaSI8kU8x7skdfWmBEWOMkUzfgjipTE2OSKjKUWAk87ccrEoX3qPPNFNzzSAejYJqZX46VHIojmdT2JoEiD1ppgyYZIpGHsKQTx+/5UGVSON35VV0SRMPYUwjnpUhdD3pvB6GpYzQuoo/MJKgnFQ4Q/8sk/KrN198/Sq1QUKI4z/wAsk/KlEMR/5ZigU8UAN+zxf3BSi2i/ufrTxThQB//Z",
+          "permalink": "https://archlinuxjp.slack.com/files/last.ryo0213/F011WKKP6QK/mvimg_20200415_170815.jpg",
+          "permalink_public": "https://slack-files.com/T0GFBAM8C-F011WKKP6QK-28ad794dcf",
+          "is_starred": false,
+          "has_rich_preview": false
+        }
+      ],
+      "upload": true,
+      "user": "last.ryo0213",
+      "display_as_bot": false,
+      "ts": "1586965941.187500",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "Q9tp",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "Archをインストールしようとしたら、画像のようなエラーになりインストール出来ませんでした。\nddコマンドでUSBメモリにISOイメージを焼いてそれをUEFIブートしようとしています。\n以前似たようなエラーが出た時はUSBメモリの故障が原因だった為、今回は複数USBメモリを使って試しましたが全敗。パソコンが原因の場合を想定し複数台のパソコンで試しましたがこちらも失敗。\n同じUSBメモリにManjaroKDEを焼いてインストールに成功したので、USBメモリは正常に動作しているものと考えています。\nまた、Alter LinuxというArchベースのディストロでも同じエラーでインストールに失敗しています。\nパソコンはASUSのノートパソコンで、以前(２月)の時点では一度Archのインストールに成功しています。\n\nなにかご助言頂ければ幸いです。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "client_msg_id": "26866842-0caf-4866-a9cd-ae603bd594db"
+    },
+    {
+      "client_msg_id": "dc498c3f-0200-4568-b6ad-a17eb73ecc86",
+      "type": "message",
+      "text": "問題ないです",
+      "user": "znmxodq1",
+      "ts": "1586965126.176300",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "zb=h",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "問題ないです"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "reactions": [
+        {
+          "name": "+1",
+          "users": [
+            "last.ryo0213"
+          ],
+          "count": 1
+        }
+      ]
+    },
+    {
+      "client_msg_id": "f7a95370-b03e-45c2-abe9-e4598c76ec08",
+      "type": "message",
+      "text": "こちらで質問する際に画像を貼るのは大丈夫でしょうか？",
+      "user": "last.ryo0213",
+      "ts": "1586964619.175900",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "Bnw",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "こちらで質問する際に画像を貼るのは大丈夫でしょうか？"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "reactions": [
+        {
+          "name": "woman-gesturing-ok",
+          "users": [
+            "znmxodq1"
+          ],
+          "count": 1
+        }
+      ]
+    },
+    {
+      "client_msg_id": "9df540cf-6c8c-4647-83d9-43c8ebee52c0",
+      "type": "message",
+      "text": "初めまして。Arch Linuxに興味があり参加させて頂きました。色々とわからないところも多いので質問させていただく事もあるかと思いますが、何卒よろしくお願いします。",
+      "user": "last.ryo0213",
+      "ts": "1586964342.175100",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "yn6",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "初めまして。Arch Linuxに興味があり参加させて頂きました。色々とわからないところも多いので質問させていただく事もあるかと思いますが、何卒よろしくお願いします。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "reactions": [
+        {
+          "name": "archjp",
+          "users": [
+            "znmxodq1",
+            "muminn4",
+            "U3FJYR7MG",
+            "UL3J5T649",
+            "USJ9Q3WSH"
+          ],
+          "count": 5
+        }
+      ]
+    },
+    {
+      "type": "message",
+      "subtype": "channel_join",
+      "ts": "1586963925.172000",
+      "user": "last.ryo0213",
+      "text": "<@last.ryo0213>さんがチャンネルに参加しました"
+    },
+    {
+      "type": "message",
+      "subtype": "thread_broadcast",
+      "text": "zn_poly は sagemath の依存ですね。インストールされている場合、更新には以下のコマンドを使用してください。\n`pacman -Syu --overwrite usr/lib/libzn_poly-0.9.so`\n\nPR作成しました。(PRコメントもう少し何か書きたい気持ちがあります……)",
+      "user": "nyaarch64",
+      "ts": "1586909016.171300",
+      "thread_ts": "1586883665.171200",
+      "root": {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "<https://www.archlinux.org/news/zn_poly-092-2-update-requires-manual-intervention>\nzn_poly 0.9.2-2 update requires manual intervention\nThe zn_poly package prior to version 0.9.2-2 was missing a soname link. This has been fixed in 0.9.2-2, so the upgrade will need to overwrite the untracked files created by ldconfig. If you get an errorzn_poly: /usr/lib/libzn_poly-0.9.so  exists in filesystemwhen updating, usepacman -Syu --overwrite usr/lib/libzn_poly-0.9.soto perform the upgrade.\nzn_poly 0.9.2-2アップデートには手動での介入が必要\nバージョン0.9.2-2より前のzn_polyパッケージにはsonameリンクがありませんでした。これは0.9.2-2で修正されているため、ldconfigによって作成された追跡されていないファイルをアップグレードで上書きする必要があります。エラーが発生した場合zn_poly：/usr/lib/libzn_poly-0.9.soが更新時にファイルシステムに存在する場合は、pacman -Syu --overwrite usr / lib / libzn_poly-0.9.sotoを使用してアップグレードを実行します。",
+        "ts": "1586883665.171200",
+        "username": "webhookbot",
+        "icons": {
+          "emoji": ":arch:"
+        },
+        "bot_id": "BRB5N3W2W",
+        "thread_ts": "1586883665.171200",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1586909016.171300",
+        "reply_users": [
+          "nyaarch64"
+        ],
+        "is_locked": false,
+        "subscribed": false
+      },
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "v9Un",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "zn_poly は sagemath の依存ですね。インストールされている場合、更新には以下のコマンドを使用してください。\n"
+                },
+                {
+                  "type": "text",
+                  "text": "pacman -Syu --overwrite usr/lib/libzn_poly-0.9.so\n",
+                  "style": {
+                    "code": true
+                  }
+                },
+                {
+                  "type": "text",
+                  "text": "\nPR作成しました。(PRコメントもう少し何か書きたい気持ちがあります……)"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "client_msg_id": "2b46b570-314b-4d2e-95f3-4a76c247b404",
+      "reactions": [
+        {
+          "name": "+1",
+          "users": [
+            "U0H3FTBBJ",
+            "syui"
+          ],
+          "count": 2
+        }
+      ]
+    },
+    {
+      "type": "message",
+      "subtype": "bot_message",
+      "text": "<https://www.archlinux.org/news/zn_poly-092-2-update-requires-manual-intervention>\nzn_poly 0.9.2-2 update requires manual intervention\nThe zn_poly package prior to version 0.9.2-2 was missing a soname link. This has been fixed in 0.9.2-2, so the upgrade will need to overwrite the untracked files created by ldconfig. If you get an errorzn_poly: /usr/lib/libzn_poly-0.9.so  exists in filesystemwhen updating, usepacman -Syu --overwrite usr/lib/libzn_poly-0.9.soto perform the upgrade.\nzn_poly 0.9.2-2アップデートには手動での介入が必要\nバージョン0.9.2-2より前のzn_polyパッケージにはsonameリンクがありませんでした。これは0.9.2-2で修正されているため、ldconfigによって作成された追跡されていないファイルをアップグレードで上書きする必要があります。エラーが発生した場合zn_poly：/usr/lib/libzn_poly-0.9.soが更新時にファイルシステムに存在する場合は、pacman -Syu --overwrite usr / lib / libzn_poly-0.9.sotoを使用してアップグレードを実行します。",
+      "ts": "1586883665.171200",
+      "username": "webhookbot",
+      "icons": {
+        "emoji": ":arch:"
+      },
+      "bot_id": "BRB5N3W2W",
+      "thread_ts": "1586883665.171200",
+      "reply_count": 1,
+      "reply_users_count": 1,
+      "latest_reply": "1586909016.171300",
+      "reply_users": [
+        "nyaarch64"
+      ],
+      "is_locked": false,
+      "subscribed": false
+    },
+    {
+      "client_msg_id": "bf8c621f-d75b-4f80-8e23-82733194ee92",
+      "type": "message",
+      "text": "このあたりが怪しい気がするんですけどねぇ……",
+      "user": "muminn4",
+      "ts": "1586881490.171100",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "AF0r",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "このあたりが怪しい気がするんですけどねぇ……"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "ca145798-76c8-4cbe-970f-b60ac8ec14a8",
+      "type": "message",
+      "text": "```#1: ignoring informational payload INVALID_PROTOCOL_ID, msgid=00000000, length=47\nApr 15 01:10:35 hidra pluto[151606]: | ISAKMP Notification Payload\nApr 15 01:10:35 hidra pluto[151606]: |   00 00 00 2f  00 00 00 01  01 10 00 0a```",
+      "user": "muminn4",
+      "ts": "1586881474.170700",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "Otl+",
+          "elements": [
+            {
+              "type": "rich_text_preformatted",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "#1: ignoring informational payload INVALID_PROTOCOL_ID, msgid=00000000, length=47\nApr 15 01:10:35 hidra pluto[151606]: | ISAKMP Notification Payload\nApr 15 01:10:35 hidra pluto[151606]: |   00 00 00 2f  00 00 00 01  01 10 00 0a"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "99ed824a-5559-4dd2-bb5b-97a50a568dbc",
+      "type": "message",
+      "text": "そしてわからない原因",
+      "user": "muminn4",
+      "ts": "1586881335.170300",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "srS",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "そしてわからない原因"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "3190898f-cd04-4933-beda-886d6594e2ae",
+      "type": "message",
+      "text": "その後IKA-scanいろんな組み合わせで走らせたらちゃんとAESも対応してました。安心……",
+      "user": "muminn4",
+      "ts": "1586881327.170100",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "+LcEk",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "その後IKA-scanいろんな組み合わせで走らせたらちゃんとAESも対応してました。安心……"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "94dad0c8-4b3d-4013-8aca-7b81dfa1549c",
+      "type": "message",
+      "text": "3DESしか対応してないサーバ どうなのよ......\n今時そんな鯖は無いと思って切ってしまった......",
+      "user": "angel.beats.kanade.yu",
+      "ts": "1586881103.169600",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "xIJ",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "3DESしか対応してないサーバ どうなのよ......\n今時そんな鯖は無いと思って切ってしまった......"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "e43bb29c-5cf9-4aaf-a2b0-40a15608fc42",
+      "type": "message",
+      "text": "SA=(Enc=3DES Hash=SHA1 Auth=PSK Group=2:modp1024 LifeType=Seconds LifeDuration(4)=0x00007080) うわー……",
+      "user": "muminn4",
+      "ts": "1586878317.168800",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "ASCFj",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "SA=(Enc=3DES Hash=SHA1 Auth=PSK Group=2:modp1024 LifeType=Seconds LifeDuration(4)=0x00007080) うわー……"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "b8db97fb-70c0-4cc6-9ab9-4598bdb490a5",
+      "type": "message",
+      "text": "xl2tpd.conf　の debug 項目は全て yes にして\n```debug avp = yes\ndebug network = yes\ndebug packet = yes\ndebug state = yes\ndebug tunnel = yes```\n```% journalctl --unit=xl2tpd --unit=openswan -f```\nをひたすら眺めてました。。。",
+      "user": "shuhei.okamoto",
+      "ts": "1586876641.168400",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "QD74",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "xl2tpd.conf　の debug 項目は全て yes にして\n"
+                }
+              ]
+            },
+            {
+              "type": "rich_text_preformatted",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "debug avp = yes\ndebug network = yes\ndebug packet = yes\ndebug state = yes\ndebug tunnel = yes"
+                }
+              ]
+            },
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "\n"
+                }
+              ]
+            },
+            {
+              "type": "rich_text_preformatted",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "% journalctl --unit=xl2tpd --unit=openswan -f"
+                }
+              ]
+            },
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "をひたすら眺めてました。。。"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "258d5b2e-d394-40ae-aec8-65406903828b",
+      "type": "message",
+      "text": "まさに ローカルIP が返されて云々のメッセージ\n`#1: we require peer to have ID '**.**.**.**', but peer declares '192.168.*.*'`\nみたいなのが出て、結局 ipsec.conf の rightid に指定して解決しました。",
+      "user": "shuhei.okamoto",
+      "ts": "1586875926.167900",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "oq1",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "まさに ローカルIP が返されて云々のメッセージ\n"
+                },
+                {
+                  "type": "text",
+                  "text": "#1: we require peer to have ID '**.**.**.**', but peer declares '192.168.*.*'",
+                  "style": {
+                    "code": true
+                  }
+                },
+                {
+                  "type": "text",
+                  "text": "\nみたいなのが出て、結局 ipsec.conf の rightid に指定して解決しました。"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "d3463c86-805a-480f-ac97-4e45ec8c4acd",
+      "type": "message",
+      "text": "嫌な予感がする。すごく嫌な予感がする。3DESの予感がする……",
+      "user": "muminn4",
+      "ts": "1586875781.167700",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "+a+G",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "嫌な予感がする。すごく嫌な予感がする。3DESの予感がする……"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "92db6d7e-6eb8-4e89-8646-ab39d84fbe6f",
+      "type": "message",
+      "text": "私も strongswan で頑張ろうとしましたが断念して、ArchLinux公式と以下の記事を参考にして、OpenSwanにしました。\n<https://blog.myon.info/entry/2016/08/21/arch-linux-l2tp-ipsec/>",
+      "user": "shuhei.okamoto",
+      "ts": "1586875666.167000",
+      "team": "T0GFBAM8C",
+      "attachments": [
+        {
+          "service_name": "Tosainu Lab",
+          "title": "Arch LinuxでL2TP/IPsec | Tosainu Lab",
+          "title_link": "https://blog.myon.info/entry/2016/08/21/arch-linux-l2tp-ipsec/",
+          "text": "いろいろあってVPNを張りたくなったので, Arch LinuxでL2TP/IPsecなVPNサーバを構築したときのメモです.## 環境図にするとこんな感じ. 記事中では, この図のIPアドレス及びネットワークインターフェース名を使っていきます. ![diagram](<http://l2tp-ipsec.pn|l2tp-ipsec.pn>",
+          "fallback": "Tosainu Lab: Arch LinuxでL2TP/IPsec | Tosainu Lab",
+          "thumb_url": "https://blog.myon.info/entry/2016/08/21/arch-linux-l2tp-ipsec/l2tp-ipsec.png",
+          "from_url": "https://blog.myon.info/entry/2016/08/21/arch-linux-l2tp-ipsec/",
+          "thumb_width": 1123,
+          "thumb_height": 794,
+          "service_icon": "https://blog.myon.info/favicon.ico",
+          "id": 1,
+          "original_url": "https://blog.myon.info/entry/2016/08/21/arch-linux-l2tp-ipsec/"
+        }
+      ],
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "CaTc",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "私も strongswan で頑張ろうとしましたが断念して、ArchLinux公式と以下の記事を参考にして、OpenSwanにしました。\n"
+                },
+                {
+                  "type": "link",
+                  "url": "https://blog.myon.info/entry/2016/08/21/arch-linux-l2tp-ipsec/"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "d4fe5328-a513-4467-bd80-a77e96e95185",
+      "type": "message",
+      "text": "うわぁ…向こうにあるマシンでどっかグローバルに張っといたほうがマシっぽい気がしてきました……\nグローバルIPで認証しようとしててローカルIP返されて怒ってる気がしたのでローカルIPをRemoteIDに指定する-&gt;IPSecコネクションの確立がタイムアウト！！\nとても楽しい……",
+      "user": "muminn4",
+      "ts": "1586873429.165900",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "TAI",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "うわぁ…向こうにあるマシンでどっかグローバルに張っといたほうがマシっぽい気がしてきました……\nグローバルIPで認証しようとしててローカルIP返されて怒ってる気がしたのでローカルIPをRemoteIDに指定する->IPSecコネクションの確立がタイムアウト！！\nとても楽しい……"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "3eca98d9-ee5b-42a5-a94f-2e3ffd69362e",
+      "type": "message",
+      "text": "よくある例としてスマホからは繋がるのにテザリングしたPCからは繋がらないとかですね......",
+      "user": "angel.beats.kanade.yu",
+      "ts": "1586872934.163500",
+      "team": "T0GFBAM8C",
+      "edited": {
+        "user": "angel.beats.kanade.yu",
+        "ts": "1586872944.000000"
+      },
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "8bV",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "よくある例としてスマホからは繋がるのにテザリングしたPCからは繋がらないとかですね......"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "e2215eaf-012d-43d3-afd3-48d4faba060f",
+      "type": "message",
+      "text": "IPsecのNAT-TについてはNATが1段であればそんなに考えることないですが、多段NATされてると超えられないことがあるので注意が必要ですね......",
+      "user": "angel.beats.kanade.yu",
+      "ts": "1586872880.162700",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "mmH=R",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "IPsecのNAT-TについてはNATが1段であればそんなに考えることないですが、多段NATされてると超えられないことがあるので注意が必要ですね......"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "08a9af1b-2850-469d-8159-7cf41896474f",
+      "type": "message",
+      "text": "L2TP/IPsec って NAT の事をちゃんと設定しないといけなくてそのあたりでうまくいかなかったのかなーと",
+      "user": "atnanasi",
+      "ts": "1586871860.161000",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "qqE",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "L2TP/IPsec って NAT の事をちゃんと設定しないといけなくてそのあたりでうまくいかなかったのかなーと"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "3b10aa94-2885-4d50-87da-6d0972a26d08",
+      "type": "message",
+      "text": "え、やっぱり難易度高い……？",
+      "user": "muminn4",
+      "ts": "1586871814.160500",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "n6Q/S",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "え、やっぱり難易度高い……？"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "4a9464a4-a664-47eb-bacf-8d85099eee29",
+      "type": "message",
+      "text": "Looks like pppd didn't initialize our dbus module とか言われつつ、とりあえずstrongswanをlibreswanに置換してみてます。",
+      "user": "muminn4",
+      "ts": "1586871804.160200",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "f69",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "Looks like pppd didn't initialize our dbus module とか言われつつ、とりあえずstrongswanをlibreswanに置換してみてます。"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "35e94af5-8b62-4976-bea8-d2319e12c1c7",
+      "type": "message",
+      "text": "networkmanager-l2tp で L2TP/IPsec を繋げたことないですね、諦めて Libreswan と xl2tpd で繋いでました",
+      "user": "atnanasi",
+      "ts": "1586871794.160100",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "Pl9",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "networkmanager-l2tp で L2TP/IPsec を繋げたことないですね、諦めて Libreswan と xl2tpd で繋いでました"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "97941fc8-2192-4f45-9a27-3bf996d2b1f1",
+      "type": "message",
+      "text": "<https://blog.tsurai.work/2020/04/375/>\n今日ちょうど記事書いたので、どうぞ(参考になるか分かりませんが)",
+      "user": "angel.beats.kanade.yu",
+      "ts": "1586870840.158800",
+      "team": "T0GFBAM8C",
+      "attachments": [
+        {
+          "service_name": "双葉ネットワークサービス 代表のなにか",
+          "title": "NetworkManager-l2tpでL2TP/IPsecを繋ぐときのTips",
+          "title_link": "https://blog.tsurai.work/2020/04/375/",
+          "text": "お久しぶりです。今年初めての更新ですかね？ 今回はNetworkManager-l2tpでいい感じにL2TP/IPsecを繋ぐための方法を書いていきたいと思います。 まずNetworkManager-l2tpとは、NetworkManage",
+          "fallback": "双葉ネットワークサービス 代表のなにか: NetworkManager-l2tpでL2TP/IPsecを繋ぐときのTips",
+          "thumb_url": "https://blog.tsurai.work/wp-content/uploads/2020/04/Screenshot-at-2020-04-14-15-31-38.png",
+          "from_url": "https://blog.tsurai.work/2020/04/375/",
+          "thumb_width": 433,
+          "thumb_height": 153,
+          "service_icon": "https://blog.tsurai.work/favicon.ico",
+          "id": 1,
+          "original_url": "https://blog.tsurai.work/2020/04/375/"
+        }
+      ],
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "dRX",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "link",
+                  "url": "https://blog.tsurai.work/2020/04/375/"
+                },
+                {
+                  "type": "text",
+                  "text": "\n今日ちょうど記事書いたので、どうぞ(参考になるか分かりませんが)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "39e4a978-92d5-4f39-bba2-e588d8aab510",
+      "type": "message",
+      "text": "通常はvpnサーバーから取り出せる設定ファイルを読み込んで接続するパターンが多い気がしますので、設定ファイルがダウンロードできる場合は、設定ファイルをダウンロードして、それを読み込むといけるかもしれません",
+      "user": "syui",
+      "ts": "1586870405.158200",
+      "team": "T0GFBAM8C",
+      "edited": {
+        "user": "syui",
+        "ts": "1586870443.000000"
+      },
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "Jiim",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "通常はvpnサーバーから取り出せる設定ファイルを読み込んで接続するパターンが多い気がしますので、設定ファイルがダウンロードできる場合は、設定ファイルをダウンロードして、それを読み込むといけるかもしれません"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "e48eba34-30b3-4275-83c6-9fd875dbbdd5",
+      "type": "message",
+      "text": "<https://dev.classmethod.jp/articles/network-check-tools/>",
+      "user": "syui",
+      "ts": "1586870337.157300",
+      "team": "T0GFBAM8C",
+      "attachments": [
+        {
+          "service_name": "クラスメソッド発「やってみた」系技術メディア | Developers.IO",
+          "title": "ネットワークの状況を確認するコマンド色々 | Developers.IO",
+          "title_link": "https://dev.classmethod.jp/articles/network-check-tools/",
+          "text": "なんで相手に繋がらないの！？ サーバ管理していてよく起こる問題は、「なんで繋がらないの！？」ですよね。そこで、今回は基本的なネットワークをご紹介したいと思います。OSやツールのバージョンにより動作が異なりますので、それぞ …",
+          "fallback": "クラスメソッド発「やってみた」系技術メディア | Developers.IO: ネットワークの状況を確認するコマンド色々 | Developers.IO",
+          "image_url": "https://cdn-ssl-devio-img.classmethod.jp/wp-content/uploads/2013/09/tool-320x320.png",
+          "from_url": "https://dev.classmethod.jp/articles/network-check-tools/",
+          "image_width": 250,
+          "image_height": 250,
+          "image_bytes": 11241,
+          "id": 1,
+          "original_url": "https://dev.classmethod.jp/articles/network-check-tools/"
+        }
+      ],
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "00=5",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "link",
+                  "url": "https://dev.classmethod.jp/articles/network-check-tools/"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "6e824dc7-7894-4c40-b4f5-90beae45755f",
+      "type": "message",
+      "text": "journalctlやネットワークを調べるコマンドを見てみるといいかも",
+      "user": "syui",
+      "ts": "1586870329.157100",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "MGpe",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "journalctlやネットワークを調べるコマンドを見てみるといいかも"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "ff41803e-d43d-4214-9cdc-9e47aada1da0",
+      "type": "message",
+      "text": "L2TP/IPSec のVPNにアクセスする必要がでました。\n現在NetworkManagerを使って管理していて、networkmanager-l2tpはインストール済みです。\nとりあえず共有キーやユーザ名、パスワード設定してつなごうとしたら毎回接続できずにいます。どのログ見たら問題がわかるかなど、なにかわかる方いらっしゃいますか？",
+      "user": "muminn4",
+      "ts": "1586869412.156500",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "/8Md",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "L2TP/IPSec のVPNにアクセスする必要がでました。\n現在NetworkManagerを使って管理していて、networkmanager-l2tpはインストール済みです。\nとりあえず共有キーやユーザ名、パスワード設定してつなごうとしたら毎回接続できずにいます。どのログ見たら問題がわかるかなど、なにかわかる方いらっしゃいますか？"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "0b99c8b5-0b5a-4f3e-9698-45ecde2c643f",
+      "type": "message",
+      "text": "(ちなみに僕はVPN詳しくないです、ごめんなさい)",
+      "user": "znmxodq1",
+      "ts": "1586869305.154700",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "Xww",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "(ちなみに僕はVPN詳しくないです、ごめんなさい)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "f23045a4-2445-4340-970c-675760a9e8ee",
+      "type": "message",
+      "text": "今回に限らずですが、答えられる方が答えてくれますので気軽にどうぞ",
+      "user": "znmxodq1",
+      "ts": "1586869288.154000",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "pKXN",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "今回に限らずですが、答えられる方が答えてくれますので気軽にどうぞ"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "8274b6cb-3935-400f-9edc-e650af429ea7",
+      "type": "message",
+      "text": "どうぞー",
+      "user": "znmxodq1",
+      "ts": "1586869273.153400",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "LKPxD",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "どうぞー"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "6b56304e-5854-4e2e-9459-83dda52da62a",
+      "type": "message",
+      "text": "ネットワーク周り（VPN）の質問いいですか？",
+      "user": "muminn4",
+      "ts": "1586869182.153200",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "QMRz",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "ネットワーク周り（VPN）の質問いいですか？"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "message",
+      "subtype": "thread_broadcast",
+      "text": "nss 3.51.1-1 への更新には以下のコマンドを使用してください。\n(nss は firefox, chromium, electron, jdk などが依存しているので、デスクトップ環境だと大抵入っていそうです)\n\n`pacman -Syu --overwrite /usr/lib/p11-kit-trust.so`\n\n原文: <https://www.archlinux.org/news/nss3511-1-and-lib32-nss3511-1-updates-require-manual-intervention|https://www.archlinux.org/news/nss3511-1-and-lib32-nss3511-1-updates-require-manual-intervention>\n日本語訳: <https://www.archlinux.jp/news/nss3511-1-and-lib32-nss3511-1-updates-require-manual-intervention/|https://www.archlinux.jp/news/nss3511-1-and-lib32-nss3511-1-updates-require-manual-intervention/>",
+      "user": "nyaarch64",
+      "ts": "1586787702.148900",
+      "thread_ts": "1586739659.143000",
+      "root": {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "<https://www.archlinux.org/news/nss3511-1-and-lib32-nss3511-1-updates-require-manual-intervention>\nnss&gt;=3.51.1-1 and lib32-nss&gt;=3.51.1-1 updates require manual intervention\nThe nss and lib32-nss packages prior to version 3.51.1-1 were missing a soname link each. This has been fixed in 3.51.1-1, so the upgrade will need to overwrite the untracked files created by ldconfig. If you get any of these errorsnss: /usr/lib/p11-kit-trust.so exists in filesystemlib32-nss: /usr/lib32/p11-kit-trust.so exists in filesystemwhen updating, usepacman -Syu --overwrite /usr/lib/p11-kit-trust.soto perform the upgrade.\nnss&gt; = 3.51.1-1およびlib32-nss&gt; = 3.51.1-1の更新には手動による介入が必要\nバージョン3.51.1-1より前のnssおよびlib32-nssパッケージには、それぞれsonameリンクがありませんでした。これは3.51.1-1で修正されたため、ldconfigによって作成された追跡されていないファイルをアップグレードで上書きする必要があります。これらのエラーのいずれかが発生した場合：nss：/usr/lib/p11-kit-trust.so exists in filesystemlib32-nss：/usr/lib32/p11-kit-trust.so exists in filesystem when update、usepacman -Syu --overwrite / usr / lib / p11-kit-trust.sotoがアップグレードを実行します。",
+        "ts": "1586739659.143000",
+        "username": "webhookbot",
+        "icons": {
+          "emoji": ":arch:"
+        },
+        "bot_id": "BRB5N3W2W",
+        "thread_ts": "1586739659.143000",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1586787702.148900",
+        "reply_users": [
+          "nyaarch64"
+        ],
+        "is_locked": false,
+        "subscribed": false
+      },
+      "attachments": [
+        {
+          "title": "ニュース: nss&gt;=3.51.1-1 と lib32-nss&gt;=3.51.1-1 への更新は対応作業が必要です",
+          "title_link": "https://www.archlinux.jp/news/nss3511-1-and-lib32-nss3511-1-updates-require-manual-intervention/",
+          "text": "バージョン 3.51.1-1 より古い nss と lib32-nss パッケージは soname リンクが欠けていました。これはバージョン 3.51.1-1 で修正され、 ldconfig により自動生成された追跡されないファイルを更新時に上書きする必要があります。",
+          "fallback": "ニュース: nss&gt;=3.51.1-1 と lib32-nss&gt;=3.51.1-1 への更新は対応作業が必要です",
+          "thumb_url": "https://www.archlinux.jp/images/amplogo.png",
+          "from_url": "https://www.archlinux.jp/news/nss3511-1-and-lib32-nss3511-1-updates-require-manual-intervention/",
+          "thumb_width": 1024,
+          "thumb_height": 1024,
+          "service_icon": "https://www.archlinux.jp/images/apple-touch-icon-57x57.png",
+          "service_name": "archlinux.jp",
+          "id": 1,
+          "original_url": "https://www.archlinux.jp/news/nss3511-1-and-lib32-nss3511-1-updates-require-manual-intervention/"
+        }
+      ],
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "KhWl",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "nss 3.51.1-1 への更新には以下のコマンドを使用してください。\n(nss は firefox, chromium, electron, jdk などが依存しているので、デスクトップ環境だと大抵入っていそうです)\n\n"
+                },
+                {
+                  "type": "text",
+                  "text": "pacman -Syu --overwrite /usr/lib/p11-kit-trust.so",
+                  "style": {
+                    "code": true
+                  }
+                },
+                {
+                  "type": "text",
+                  "text": "\n\n原文: "
+                },
+                {
+                  "type": "link",
+                  "url": "https://www.archlinux.org/news/nss3511-1-and-lib32-nss3511-1-updates-require-manual-intervention",
+                  "text": "https://www.archlinux.org/news/nss3511-1-and-lib32-nss3511-1-updates-require-manual-intervention"
+                },
+                {
+                  "type": "text",
+                  "text": "\n日本語訳: "
+                },
+                {
+                  "type": "link",
+                  "url": "https://www.archlinux.jp/news/nss3511-1-and-lib32-nss3511-1-updates-require-manual-intervention/",
+                  "text": "https://www.archlinux.jp/news/nss3511-1-and-lib32-nss3511-1-updates-require-manual-intervention/"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "client_msg_id": "dc29962e-af85-48ac-8ad4-b1a1ddaa8e03",
+      "reactions": [
+        {
+          "name": "+1",
+          "users": [
+            "yutakatay",
+            "U0H3FTBBJ",
+            "kokopis",
+            "syui",
+            "UDXN1QU2U",
+            "UEED0BQ4A",
+            "angel.beats.kanade.yu",
+            "U2YNMHCTV",
+            "U4V5UCWT0"
+          ],
+          "count": 9
+        }
+      ]
+    },
+    {
+      "client_msg_id": "d5f0259e-1bcd-4712-a83e-11e86b5b2e9e",
+      "type": "message",
+      "text": "やっぱりですか。",
+      "user": "no97yuu",
+      "ts": "1586767774.148400",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "nShnL",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "やっぱりですか。"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "736f7c60-32b2-40a2-90d0-69bc31287c33",
+      "type": "message",
+      "text": "日本語版は全文検索に失敗しているような気がしますね",
+      "user": "nyaarch64",
+      "ts": "1586767197.148200",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "LLO",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "日本語版は全文検索に失敗しているような気がしますね"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "reactions": [
+        {
+          "name": "disappointed_relieved",
+          "users": [
+            "no97yuu",
+            "U0H3FTBBJ",
+            "watakushide.kakusanak"
+          ],
+          "count": 3
+        }
+      ]
+    },
+    {
+      "client_msg_id": "9479bef5-dcf6-4813-9437-9e82b848f83b",
+      "type": "message",
+      "text": "お久しぶりです。皆様方。\nArchWikiの検索がしづらくなってる気がしますけど気の所為でしょうか？",
+      "user": "no97yuu",
+      "ts": "1586767097.147300",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "Q=EGw",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "お久しぶりです。皆様方。\nArchWikiの検索がしづらくなってる気がしますけど気の所為でしょうか？"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "fd73b565-0bbd-4457-b8bb-f10faa62ac18",
+      "type": "message",
+      "text": "これも更新時に気付きますね、と思ったけどelectronとかjdkに依存されてて入ってる人が多いのか……\n翻訳してPR作成しました。",
+      "user": "nyaarch64",
+      "ts": "1586745179.146100",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "txoA",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "これも更新時に気付きますね、と思ったけどelectronとかjdkに依存されてて入ってる人が多いのか……\n翻訳してPR作成しました。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "reactions": [
+        {
+          "name": "+1",
+          "users": [
+            "znmxodq1",
+            "syui",
+            "UJ7P75WB1"
+          ],
+          "count": 3
+        }
+      ]
+    },
+    {
+      "client_msg_id": "f2ee8018-7974-497b-a89a-f9aee0986a3a",
+      "type": "message",
+      "text": "直った",
+      "user": "yutakatay",
+      "ts": "1586743077.144200",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "HbI",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "直った"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "reactions": [
+        {
+          "name": "heart",
+          "users": [
+            "syui",
+            "kokopis",
+            "UJ7P75WB1"
+          ],
+          "count": 3
+        }
+      ]
+    },
+    {
+      "client_msg_id": "d8aa6a43-2b88-4616-9d63-06ab27150d20",
+      "type": "message",
+      "text": "↑ありがとうございます。今ひっかかった",
+      "user": "yutakatay",
+      "ts": "1586743019.143800",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "EmL5Q",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "↑ありがとうございます。今ひっかかった"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "message",
+      "subtype": "bot_message",
+      "text": "<https://www.archlinux.org/news/nss3511-1-and-lib32-nss3511-1-updates-require-manual-intervention>\nnss&gt;=3.51.1-1 and lib32-nss&gt;=3.51.1-1 updates require manual intervention\nThe nss and lib32-nss packages prior to version 3.51.1-1 were missing a soname link each. This has been fixed in 3.51.1-1, so the upgrade will need to overwrite the untracked files created by ldconfig. If you get any of these errorsnss: /usr/lib/p11-kit-trust.so exists in filesystemlib32-nss: /usr/lib32/p11-kit-trust.so exists in filesystemwhen updating, usepacman -Syu --overwrite /usr/lib/p11-kit-trust.soto perform the upgrade.\nnss&gt; = 3.51.1-1およびlib32-nss&gt; = 3.51.1-1の更新には手動による介入が必要\nバージョン3.51.1-1より前のnssおよびlib32-nssパッケージには、それぞれsonameリンクがありませんでした。これは3.51.1-1で修正されたため、ldconfigによって作成された追跡されていないファイルをアップグレードで上書きする必要があります。これらのエラーのいずれかが発生した場合：nss：/usr/lib/p11-kit-trust.so exists in filesystemlib32-nss：/usr/lib32/p11-kit-trust.so exists in filesystem when update、usepacman -Syu --overwrite / usr / lib / p11-kit-trust.sotoがアップグレードを実行します。",
+      "ts": "1586739659.143000",
+      "username": "webhookbot",
+      "icons": {
+        "emoji": ":arch:"
+      },
+      "bot_id": "BRB5N3W2W",
+      "thread_ts": "1586739659.143000",
+      "reply_count": 1,
+      "reply_users_count": 1,
+      "latest_reply": "1586787702.148900",
+      "reply_users": [
+        "nyaarch64"
+      ],
+      "is_locked": false,
+      "subscribed": false
+    },
+    {
+      "type": "message",
+      "subtype": "channel_join",
+      "ts": "1586659451.142800",
+      "user": "tikuwakunn",
+      "text": "<@tikuwakunn>さんがチャンネルに参加しました"
+    },
+    {
+      "client_msg_id": "a4a76118-20bd-4006-a4ae-cf0243183dd9",
+      "type": "message",
+      "text": "ただのでかい文鎮になる可能性もあるから。。。",
+      "user": "vikke.bsd",
+      "ts": "1586576496.142500",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "Bf9J",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "ただのでかい文鎮になる可能性もあるから。。。"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "74cf7553-0d6a-4623-82ad-dbd2c57af982",
+      "type": "message",
+      "text": "やっぱりドキドキはするもんなんですねw",
+      "user": "yutakatay",
+      "ts": "1586572084.141800",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "OLb",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "やっぱりドキドキはするもんなんですねw"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "ba24db48-7be0-4993-bcfd-ca441fd1c4e6",
+      "type": "message",
+      "text": "月イチくらいでドキドキしながら実行してますねｗ",
+      "user": "h.hata.ai.t",
+      "ts": "1586571791.141200",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "O=c",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "月イチくらいでドキドキしながら実行してますねｗ"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "reactions": [
+        {
+          "name": "heart",
+          "users": [
+            "toshiaki"
+          ],
+          "count": 1
+        }
+      ]
+    },
+    {
+      "client_msg_id": "8eceb1f1-e88d-42f3-8e6d-7f493c815976",
+      "type": "message",
+      "text": "公式サイトとかはもっとローテクなやり方が載ってるんでそれでやってましたね。\nつかものすごいスペックアップとかセキュリティホールとかじゃない限り極力上げない選択をしてました。",
+      "user": "yutakatay",
+      "ts": "1586521969.140400",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "Pz3q",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "公式サイトとかはもっとローテクなやり方が載ってるんでそれでやってましたね。\nつかものすごいスペックアップとかセキュリティホールとかじゃない限り極力上げない選択をしてました。"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "02da3802-0821-4d58-9111-bfd1874af375",
+      "type": "message",
+      "text": "むしろこれ無しでやる方法しらなかった",
+      "user": "h.hata.ai.t",
+      "ts": "1586521389.139000",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "wbsz",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "むしろこれ無しでやる方法しらなかった"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "eb5f613b-015c-40c3-b643-be813b06a685",
+      "type": "message",
+      "text": "これまじでちょっと未来が見えますね。Linuxでこんな時代が来るとは・・・\n普通にWindowsのアップデートよりもサクッとはいるし。",
+      "user": "yutakatay",
+      "ts": "1586484569.138100",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "2Gh",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "これまじでちょっと未来が見えますね。Linuxでこんな時代が来るとは・・・\n普通にWindowsのアップデートよりもサクッとはいるし。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "reactions": [
+        {
+          "name": "+1",
+          "users": [
+            "toshiaki",
+            "UPYQ3CUJ1",
+            "UP795STQS"
+          ],
+          "count": 3
+        }
+      ]
+    },
+    {
+      "client_msg_id": "55fe1e35-2a7e-4c6c-a886-28f8f4dadced",
+      "type": "message",
+      "text": "更新がすごい楽ですよねー\n\nT495sで指紋リーダを使うためにtestingなファームウェア入れましたが、これも簡単でした\n<https://wiki.archlinux.jp/index.php/Lenovo_ThinkPad_T495s>",
+      "user": "toshiaki",
+      "ts": "1586484409.137000",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "+Rr",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "更新がすごい楽ですよねー\n\nT495sで指紋リーダを使うためにtestingなファームウェア入れましたが、これも簡単でした\n"
+                },
+                {
+                  "type": "link",
+                  "url": "https://wiki.archlinux.jp/index.php/Lenovo_ThinkPad_T495s"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "834a72a8-3171-4356-a94b-0c3ac7729093",
+      "type": "message",
+      "text": "archのWikiいろいろ書いてあるけど\n`sudo fwupdmgr refresh`\n`sudo fwupdmgr update`\nでいける",
+      "user": "yutakatay",
+      "ts": "1586483938.136200",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "Tbmfd",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "archのWikiいろいろ書いてあるけど\n"
+                },
+                {
+                  "type": "text",
+                  "text": "sudo fwupdmgr refresh",
+                  "style": {
+                    "code": true
+                  }
+                },
+                {
+                  "type": "text",
+                  "text": "\n"
+                },
+                {
+                  "type": "text",
+                  "text": "sudo fwupdmgr update",
+                  "style": {
+                    "code": true
+                  }
+                },
+                {
+                  "type": "text",
+                  "text": "\nでいける"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "bc4c7aa7-9813-4557-919b-c266e1aec263",
+      "type": "message",
+      "text": "fwupd便利すぎて笑えるw",
+      "user": "yutakatay",
+      "ts": "1586483035.135400",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "P9ds",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "fwupd便利すぎて笑えるw"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "reactions": [
+        {
+          "name": "tada",
+          "users": [
+            "toshiaki",
+            "kokopis",
+            "vermilion928",
+            "UJ7P75WB1",
+            "UKT90HXU0"
+          ],
+          "count": 5
+        }
+      ]
+    },
+    {
+      "client_msg_id": "b7437c85-a00e-4977-a9ae-6f6bd65ac5b6",
+      "type": "message",
+      "text": "まじですか。知らないツールだ。ありがとうございます。",
+      "user": "yutakatay",
+      "ts": "1586439879.134900",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "2iR5",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "まじですか。知らないツールだ。ありがとうございます。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "reactions": [
+        {
+          "name": "relaxed",
+          "users": [
+            "toshiaki"
+          ],
+          "count": 1
+        }
+      ]
+    },
+    {
+      "client_msg_id": "d86713c6-adbb-415c-80a5-1ccabb233942",
+      "type": "message",
+      "text": "ThinkPad T495s使ってます",
+      "user": "toshiaki",
+      "ts": "1586439835.134300",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "JIMs8",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "ThinkPad T495s使ってます"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "e23a72fb-21c6-44d3-8699-cf67e493202f",
+      "type": "message",
+      "text": "ThinkPadのBIOS、`fwupd` でLinux上からアップデートできると思います（できているつもりになっている）",
+      "user": "toshiaki",
+      "ts": "1586439826.134000",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "iOO84",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "ThinkPadのBIOS、"
+                },
+                {
+                  "type": "text",
+                  "text": "fwupd",
+                  "style": {
+                    "code": true
+                  }
+                },
+                {
+                  "type": "text",
+                  "text": " でLinux上からアップデートできると思います（できているつもりになっている）"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "reactions": [
+        {
+          "name": "eyes",
+          "users": [
+            "yutakatay",
+            "UD124KPDJ",
+            "U351X6PNX",
+            "UKT90HXU0"
+          ],
+          "count": 4
+        }
+      ]
+    },
+    {
+      "client_msg_id": "645c0e7a-df9c-4f77-9bdb-d71dcaba4c04",
+      "type": "message",
+      "text": "thinkpadがんばればLinuxからでもいけます。。。普通にUSBにISOいれてブートしてアップデートみたいな感じなんで",
+      "user": "yutakatay",
+      "ts": "1586435049.133300",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "CV4",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "thinkpadがんばればLinuxからでもいけます。。。普通にUSBにISOいれてブートしてアップデートみたいな感じなんで"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "0e7bfa8a-fc60-4a9a-acfa-ded7866db335",
+      "type": "message",
+      "text": "Let'snoteはWindowsからじゃないとファーム更新できないのでうらやましい",
+      "user": "angel.beats.kanade.yu",
+      "ts": "1586432757.131400",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "gyROb",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "Let'snoteはWindowsからじゃないとファーム更新できないのでうらやましい"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "0b536743-c00c-4149-bea1-ed32706712f0",
+      "type": "message",
+      "text": "thinkpad Linux上からファーム更新できるときいたことが......",
+      "user": "angel.beats.kanade.yu",
+      "ts": "1586432317.130900",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "k3=b",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "thinkpad Linux上からファーム更新できるときいたことが......"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "0a5c38b5-384c-4daa-b989-cbb26ab225fb",
+      "type": "message",
+      "text": "ThinkpadのBIOSいまいちイケてないんだよな・・・なんか他社のやつとかはBIOSからBIOSアップデートできるらしいし",
+      "user": "yutakatay",
+      "ts": "1586397560.130100",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "Ab0cX",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "ThinkpadのBIOSいまいちイケてないんだよな・・・なんか他社のやつとかはBIOSからBIOSアップデートできるらしいし"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "fff6a3b8-c255-49c9-9970-6b78bc0e3775",
+      "type": "message",
+      "text": "うーんThinkpadだとFn、Ctrlは入れ替えられるみたいですけどCapsとはなさげですね。",
+      "user": "yutakatay",
+      "ts": "1586397528.129400",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "JY=",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "うーんThinkpadだとFn、Ctrlは入れ替えられるみたいですけどCapsとはなさげですね。"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "76eef5be-71b4-41d7-84ab-0df27b749f29",
+      "type": "message",
+      "text": "biosで変えられるだと・・・ちょっと調べてみます",
+      "user": "yutakatay",
+      "ts": "1586397370.128500",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "bkbg",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "biosで変えられるだと・・・ちょっと調べてみます"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "fb4c9100-c7ca-4982-be0f-d730994d333f",
+      "type": "message",
+      "text": "udevでなくてbiosでcapsをctrlに変えたらどうでしょうかね",
+      "user": "vermilion928",
+      "ts": "1586397275.128000",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "a0Y",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "udevでなくてbiosでcapsをctrlに変えたらどうでしょうかね"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "ee0e30e1-fe26-434e-8cac-b8e47eb109c8",
+      "type": "message",
+      "text": "あーこれか。ありますね。screenから乗り換えるときに一瞬検討しましたが、辞めました。\n結局いろいろカスタマイズすることになるので。",
+      "user": "yutakatay",
+      "ts": "1586316749.126000",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "qSl",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "あーこれか。ありますね。screenから乗り換えるときに一瞬検討しましたが、辞めました。\n結局いろいろカスタマイズすることになるので。"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "f8ee5ce4-24ec-41da-99db-c2a558c0c820",
+      "type": "message",
+      "text": "<https://www.byobu.org/|https://www.byobu.org/>",
+      "user": "sherwyn.sen",
+      "ts": "1586316510.125100",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "BctAb",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "link",
+                  "url": "https://www.byobu.org/",
+                  "text": "https://www.byobu.org/"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "eb67d1e8-8832-45a9-bf91-53ac815bcbab",
+      "type": "message",
+      "text": "それで行けそうだと思います",
+      "user": "sherwyn.sen",
+      "ts": "1586316454.124700",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "vo3",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "それで行けそうだと思います"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "33eb9a4d-c91b-4ce8-9151-6327aa7650f5",
+      "type": "message",
+      "text": "tmuxといえばbyobu使ったことありますか？\nbyobuはより楽のキーバインドのtmuxというものですよ",
+      "user": "sherwyn.sen",
+      "ts": "1586316440.124400",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "zt83n",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "tmuxといえばbyobu使ったことありますか？\nbyobuはより楽のキーバインドのtmuxというものですよ"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "c7478927-28d8-4920-8c1e-bff42a69c5a4",
+      "type": "message",
+      "text": "tmuxのほうのキーバーバインドと一致させたくて始めたんですが、ハードなら仕方ないですね。。。もとに戻そう・・・",
+      "user": "yutakatay",
+      "ts": "1586316252.122900",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "1qhy",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "tmuxのほうのキーバーバインドと一致させたくて始めたんですが、ハードなら仕方ないですね。。。もとに戻そう・・・"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "2dd4f52c-a114-49e6-b9f0-0f2ba2160bee",
+      "type": "message",
+      "text": "このキーボードの制限あったら2割のサイズはできない",
+      "user": "sherwyn.sen",
+      "ts": "1586316211.122800",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "Fta",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "このキーボードの制限あったら2割のサイズはできない"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "34e01595-67d1-4f9e-ac4e-16505010dccf",
+      "type": "message",
+      "text": "bspwmならmod+ctrl+〇〇はウィンドーの大きさを決める機能らしい…知らなかったです",
+      "user": "sherwyn.sen",
+      "ts": "1586316143.122000",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "oDlH",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "bspwmならmod+ctrl+〇〇はウィンドーの大きさを決める機能らしい…知らなかったです"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "3ba16af9-16b0-4d9b-9a38-030d3e3ee7bf",
+      "type": "message",
+      "text": "どうせThinkpadなんてプログラマーしか使わないし、capsをctrlに物理的に入れ替えてくれればいいのに。。",
+      "user": "yutakatay",
+      "ts": "1586315984.120000",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "/P88",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "どうせThinkpadなんてプログラマーしか使わないし、capsをctrlに物理的に入れ替えてくれればいいのに。。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "reactions": [
+        {
+          "name": "joy",
+          "users": [
+            "sherwyn.sen",
+            "UJ7P75WB1"
+          ],
+          "count": 2
+        }
+      ]
+    },
+    {
+      "client_msg_id": "b240d048-edf6-4af2-9d6f-b88c906b7c00",
+      "type": "message",
+      "text": "いいところあっても、苦手のところあっても\nあなたのことには別れない",
+      "user": "sherwyn.sen",
+      "ts": "1586315251.119900",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "p9ay",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "いいところあっても、苦手のところあっても\nあなたのことには別れない"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "b1b769ba-2145-439f-892a-ee36dca7adbd",
+      "type": "message",
+      "text": "thinkpadキーボード単体売りしてるの知った時に衝動買いしそうになったな",
+      "user": "znmxodq1",
+      "ts": "1586315250.119800",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "xKC",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "thinkpadキーボード単体売りしてるの知った時に衝動買いしそうになったな"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "ba33b160-5fc6-42d7-b316-7bf93a8ccea9",
+      "type": "message",
+      "text": "普段はHHKBだけど",
+      "user": "yutakatay",
+      "ts": "1586315235.119300",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "cje",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "普段はHHKBだけど"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "eea175ff-5af5-4198-8134-857c83ddeae6",
+      "type": "message",
+      "text": "Nキーロールオーバー知らなかったです。\n私もThinkpadのキーボード好きなんですよね。",
+      "user": "yutakatay",
+      "ts": "1586315229.118800",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "Zz39R",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "Nキーロールオーバー知らなかったです。\n私もThinkpadのキーボード好きなんですよね。"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "a311f122-e144-475b-8e88-5cddf5a0152e",
+      "type": "message",
+      "text": "それでもthinkpadのキーボード好きなんですげど、、",
+      "user": "sherwyn.sen",
+      "ts": "1586315207.118000",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "gCW",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "それでもthinkpadのキーボード好きなんですげど、、"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "a2050190-da50-4020-8915-f1bf5004ea18",
+      "type": "message",
+      "text": "Nキーロールオーバーって書いてあるキーボードを用意すればいいんですが高いんですよねあいつら",
+      "user": "znmxodq1",
+      "ts": "1586315174.117300",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "mfFIZ",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "Nキーロールオーバーって書いてあるキーボードを用意すればいいんですが高いんですよねあいつら"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "3493cb02-2b0c-4fdd-beb6-1cf108811dfa",
+      "type": "message",
+      "text": "xevで何も出てこないんだ",
+      "user": "sherwyn.sen",
+      "ts": "1586315171.117200",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "P=+7G",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "xevで何も出てこないんだ"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "3613a95a-ae70-463f-b40c-a82ea15f2656",
+      "type": "message",
+      "text": "capsをctrlにしたらcaps+mod+2は動けない",
+      "user": "sherwyn.sen",
+      "ts": "1586315156.116500",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "aPJY",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "capsをctrlにしたらcaps+mod+2は動けない"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "75179a8f-b1bc-4912-ae31-6507e680aae7",
+      "type": "message",
+      "text": "ですね。せめてもう少し後ろのキーだとよかったのに。。。",
+      "user": "yutakatay",
+      "ts": "1586315126.115700",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "gTkhz",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "ですね。せめてもう少し後ろのキーだとよかったのに。。。"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "d1fb3d0b-25bf-454a-b24c-5b4a685f4397",
+      "type": "message",
+      "text": "sherwynさんがいうように配線っぽい気がしますね。Capsと2の組み合わせがなんかだめな感じ",
+      "user": "yutakatay",
+      "ts": "1586315110.115100",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "J/H",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "sherwynさんがいうように配線っぽい気がしますね。Capsと2の組み合わせがなんかだめな感じ"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "86abc591-d8bc-40fa-9aee-0511ac3be596",
+      "type": "message",
+      "text": "知らんかったですっ",
+      "user": "sherwyn.sen",
+      "ts": "1586315104.114900",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "ne8hT",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "知らんかったですっ"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "a14b7763-d5a3-4629-873f-982191afc1e1",
+      "type": "message",
+      "text": "<@yutakatay>ええー、ぼくのthinkpadもそうみたいなんですよ",
+      "user": "sherwyn.sen",
+      "ts": "1586315086.114300",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "2Aqf2",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "user",
+                  "user_id": "yutakatay"
+                },
+                {
+                  "type": "text",
+                  "text": "ええー、ぼくのthinkpadもそうみたいなんですよ"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "767125F2-FE48-42AF-8486-574E20C91FA0",
+      "type": "message",
+      "text": "キーボード関連のはつらいですね",
+      "user": "syui",
+      "ts": "1586314899.111600",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "y0qc",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "キーボード関連のはつらいですね"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "reactions": [
+        {
+          "name": "keyboard",
+          "users": [
+            "sherwyn.sen",
+            "znmxodq1"
+          ],
+          "count": 2
+        },
+        {
+          "name": "triumph",
+          "users": [
+            "sherwyn.sen",
+            "znmxodq1"
+          ],
+          "count": 2
+        },
+        {
+          "name": "sob",
+          "users": [
+            "UP795STQS",
+            "yutakatay",
+            "znmxodq1"
+          ],
+          "count": 3
+        },
+        {
+          "name": "put_litter_in_its_place",
+          "users": [
+            "sherwyn.sen",
+            "znmxodq1"
+          ],
+          "count": 2
+        }
+      ]
+    },
+    {
+      "client_msg_id": "80890d8a-f6b9-461e-8c28-6ba692328525",
+      "type": "message",
+      "text": "つまりxevで行けないと何もできない流れなんですかね、",
+      "user": "sherwyn.sen",
+      "ts": "1586314843.110900",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "wCyC",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "つまりxevで行けないと何もできない流れなんですかね、"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "ffc2877e-709b-460a-9c96-696da1393ee1",
+      "type": "message",
+      "text": "それかショートカットの変更",
+      "user": "sherwyn.sen",
+      "ts": "1586314755.110100",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "cVz",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "それかショートカットの変更"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "f708dcf5-2ed1-4b6c-8d82-e9ee9e644ee1",
+      "type": "message",
+      "text": "Caps以外に振ってみるか",
+      "user": "yutakatay",
+      "ts": "1586314737.109600",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "mRs",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "Caps以外に振ってみるか"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "fb6561ca-f8fa-40e0-8fb5-bf99f8cfe369",
+      "type": "message",
+      "text": "ある（ゲームで苦しんだ）",
+      "user": "znmxodq1",
+      "ts": "1586314733.109500",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "du3",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "ある（ゲームで苦しんだ）"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "740d240b-b900-405e-b775-aaf0ceb9cbbd",
+      "type": "message",
+      "text": "ですね。Capsと2があかんっぽい",
+      "user": "yutakatay",
+      "ts": "1586314724.109100",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "2z2R",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "ですね。Capsと2があかんっぽい"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "5c3bb2b2-3815-45b2-bf1f-3759596a7e60",
+      "type": "message",
+      "text": "キーボードの配線によって動けないキーボードショートカットがある可能性があります  と書いてある",
+      "user": "sherwyn.sen",
+      "ts": "1586314700.108500",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "pwX",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "キーボードの配線によって動けないキーボードショートカットがある可能性があります  と書いてある"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "b5f0e515-cd7b-49c0-a322-8d01e78a212b",
+      "type": "message",
+      "text": "こちらは最初からxevは出てました",
+      "user": "znmxodq1",
+      "ts": "1586314675.107200",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "bOZzV",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "こちらは最初からxevは出てました"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "A3C5883A-FAC0-4FD4-9A15-E326A9DA48E9",
+      "type": "message",
+      "text": "多分xevが無反応",
+      "user": "syui",
+      "ts": "1586314665.106600",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "hpmsH",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "多分xevが無反応"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "8c08d156-3a2d-4e69-a69f-9c689dc0822a",
+      "type": "message",
+      "text": "押してるのにキーが発行されない感じです",
+      "user": "yutakatay",
+      "ts": "1586314660.106300",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "0KV/",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "押してるのにキーが発行されない感じです"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "message",
+      "text": "英語なんですがこれはyutakakayの問題かもしれません",
+      "files": [
+        {
+          "id": "F011HS5RT0V",
+          "created": 1586314627,
+          "timestamp": 1586314627,
+          "name": "Capture+_2020-04-07-19-56-26.png",
+          "title": "Capture+_2020-04-07-19-56-26.png",
+          "mimetype": "image/png",
+          "filetype": "png",
+          "pretty_type": "PNG",
+          "user": "sherwyn.sen",
+          "editable": false,
+          "size": 43247,
+          "mode": "hosted",
+          "is_external": false,
+          "external_type": "",
+          "is_public": true,
+          "public_url_shared": false,
+          "display_as_bot": false,
+          "username": "",
+          "url_private": "https://files.slack.com/files-pri/T0GFBAM8C-F011HS5RT0V/capture__2020-04-07-19-56-26.png",
+          "url_private_download": "https://files.slack.com/files-pri/T0GFBAM8C-F011HS5RT0V/download/capture__2020-04-07-19-56-26.png",
+          "media_display_type": "unknown",
+          "thumb_64": "https://files.slack.com/files-tmb/T0GFBAM8C-F011HS5RT0V-b4e8da7107/capture__2020-04-07-19-56-26_64.png",
+          "thumb_80": "https://files.slack.com/files-tmb/T0GFBAM8C-F011HS5RT0V-b4e8da7107/capture__2020-04-07-19-56-26_80.png",
+          "thumb_360": "https://files.slack.com/files-tmb/T0GFBAM8C-F011HS5RT0V-b4e8da7107/capture__2020-04-07-19-56-26_360.png",
+          "thumb_360_w": 360,
+          "thumb_360_h": 46,
+          "thumb_480": "https://files.slack.com/files-tmb/T0GFBAM8C-F011HS5RT0V-b4e8da7107/capture__2020-04-07-19-56-26_480.png",
+          "thumb_480_w": 480,
+          "thumb_480_h": 61,
+          "thumb_160": "https://files.slack.com/files-tmb/T0GFBAM8C-F011HS5RT0V-b4e8da7107/capture__2020-04-07-19-56-26_160.png",
+          "thumb_720": "https://files.slack.com/files-tmb/T0GFBAM8C-F011HS5RT0V-b4e8da7107/capture__2020-04-07-19-56-26_720.png",
+          "thumb_720_w": 720,
+          "thumb_720_h": 91,
+          "thumb_800": "https://files.slack.com/files-tmb/T0GFBAM8C-F011HS5RT0V-b4e8da7107/capture__2020-04-07-19-56-26_800.png",
+          "thumb_800_w": 800,
+          "thumb_800_h": 101,
+          "thumb_960": "https://files.slack.com/files-tmb/T0GFBAM8C-F011HS5RT0V-b4e8da7107/capture__2020-04-07-19-56-26_960.png",
+          "thumb_960_w": 960,
+          "thumb_960_h": 121,
+          "thumb_1024": "https://files.slack.com/files-tmb/T0GFBAM8C-F011HS5RT0V-b4e8da7107/capture__2020-04-07-19-56-26_1024.png",
+          "thumb_1024_w": 1024,
+          "thumb_1024_h": 129,
+          "image_exif_rotation": 1,
+          "original_w": 1376,
+          "original_h": 174,
+          "thumb_tiny": "AwAGADC26O7nkY7daTyW9R+Z/wAam/iNL6U7sViv5Leo/M/40NGUBZjkDrgn/Gp/SmT/AOof6U022JrQRY1ZQeefc09I9hyO/uaSP/Vr9Kl7Umxo/9k=",
+          "permalink": "https://archlinuxjp.slack.com/files/sherwyn.sen/F011HS5RT0V/capture__2020-04-07-19-56-26.png",
+          "permalink_public": "https://slack-files.com/T0GFBAM8C-F011HS5RT0V-53ef8684cb",
+          "is_starred": false,
+          "has_rich_preview": false
+        }
+      ],
+      "upload": true,
+      "user": "sherwyn.sen",
+      "display_as_bot": false,
+      "ts": "1586314655.105800",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "ksO",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "英語なんですがこれはyutakakayの問題かもしれません"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "client_msg_id": "a705bad4-3ac3-4b2e-84b2-07bc36af62ff"
+    },
+    {
+      "client_msg_id": "8abcf84a-100d-4ecb-946a-edf1818552a4",
+      "type": "message",
+      "text": "押されないというのはよくわからない（udevの入れ替えを解除する必要ある？）",
+      "user": "znmxodq1",
+      "ts": "1586314645.105000",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "lpbLl",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "押されないというのはよくわからない（udevの入れ替えを解除する必要ある？）"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "8D29D1CA-C7BE-4FAB-B6BB-BAF0F8FDD036",
+      "type": "message",
+      "text": "ドライバやハード、あるいはカーネルの問題かも",
+      "user": "syui",
+      "ts": "1586314634.104200",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "vJDz",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "ドライバやハード、あるいはカーネルの問題かも"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "e711928b-60f1-452b-8408-289b14046a75",
+      "type": "message",
+      "text": "xevで確認するの一番",
+      "user": "sherwyn.sen",
+      "ts": "1586314619.103200",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "PYmo",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "xevで確認するの一番"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "76bf5578-ec99-4ce4-b778-0248d9e23095",
+      "type": "message",
+      "text": "こちらの場合\n`setxkbmap us -option ctrl:swapcaps`（こちらはだめ）\nした上で\n`add control = Control_L`（こちらはいけた）\nが書かれたファイルをxmodmapで取り込んでます",
+      "user": "znmxodq1",
+      "ts": "1586314608.102400",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "CVLcZ",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "こちらの場合\n"
+                },
+                {
+                  "type": "text",
+                  "text": "setxkbmap us -option ctrl:swapcaps",
+                  "style": {
+                    "code": true
+                  }
+                },
+                {
+                  "type": "text",
+                  "text": "（こちらはだめ）\nした上で\n"
+                },
+                {
+                  "type": "text",
+                  "text": "add control = Control_L",
+                  "style": {
+                    "code": true
+                  }
+                },
+                {
+                  "type": "text",
+                  "text": "（こちらはいけた）\nが書かれたファイルをxmodmapで取り込んでます"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "reactions": [
+        {
+          "name": "+1",
+          "users": [
+            "yutakatay"
+          ],
+          "count": 1
+        }
+      ]
+    },
+    {
+      "client_msg_id": "5abd106b-3600-4362-bee7-855f93f41cd2",
+      "type": "message",
+      "text": "押されないんですよね",
+      "user": "yutakatay",
+      "ts": "1586314607.102200",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "kHr0O",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "押されないんですよね"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "A266B5B7-4A84-4A9D-A07F-B424822B1F56",
+      "type": "message",
+      "text": "xevで何押されてるか調べられます？",
+      "user": "syui",
+      "ts": "1586314575.101000",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "j=u",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "xevで何押されてるか調べられます？"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "reactions": [
+        {
+          "name": "+1",
+          "users": [
+            "sherwyn.sen"
+          ],
+          "count": 1
+        }
+      ]
+    },
+    {
+      "client_msg_id": "09f271dd-4b20-490e-87fa-14ffc07d1b68",
+      "type": "message",
+      "text": "setxkbmapは動かないんですかね？",
+      "user": "yutakatay",
+      "ts": "1586314563.100400",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "hqUc",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "setxkbmapは動かないんですかね？"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "e4cb0ae2-2670-440b-b60f-f834d75a3863",
+      "type": "message",
+      "text": "ちょっとxmodmapしてみます",
+      "user": "yutakatay",
+      "ts": "1586314541.099800",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "ezS",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "ちょっとxmodmapしてみます"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "490300cc-430d-48c6-a572-69f87295864f",
+      "type": "message",
+      "text": "ユタカケイさんの場合それやっても動かなさそうなんですが",
+      "user": "sherwyn.sen",
+      "ts": "1586314498.099000",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "hcG",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "ユタカケイさんの場合それやっても動かなさそうなんですが"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "441559ab-53ad-43af-8fcb-b711652a295d",
+      "type": "message",
+      "text": "setxkbmapで入れ替えてたの忘れてた",
+      "user": "znmxodq1",
+      "ts": "1586314470.098300",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "0yt",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "setxkbmapで入れ替えてたの忘れてた"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "4d8bab29-90ae-4755-82e4-d5c0488b78e0",
+      "type": "message",
+      "text": "あー",
+      "user": "sherwyn.sen",
+      "ts": "1586314465.098100",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "N=r/L",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "あー"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "7216d705-96e1-4637-95c8-cc0dc9caafb1",
+      "type": "message",
+      "text": "xmodmapでadd control = Control_Lしたらいけた",
+      "user": "znmxodq1",
+      "ts": "1586314459.097800",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "w7W8",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "xmodmapでadd control = Control_Lしたらいけた"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "reactions": [
+        {
+          "name": "open_mouth",
+          "users": [
+            "yutakatay"
+          ],
+          "count": 1
+        }
+      ]
+    },
+    {
+      "client_msg_id": "489961bb-ad51-4b13-8e69-8fd5f9919a9b",
+      "type": "message",
+      "text": "ハードウェアの制限ですかね。キーボードの配線の",
+      "user": "sherwyn.sen",
+      "ts": "1586314457.097700",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "TTr+",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "ハードウェアの制限ですかね。キーボードの配線の"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "8b07e994-20eb-4732-929f-07fbc7fe8abc",
+      "type": "message",
+      "text": "あ、嘘言った",
+      "user": "znmxodq1",
+      "ts": "1586314438.097100",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "hwBzw",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "あ、嘘言った"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "35610daf-ab82-434f-801f-e3a957110507",
+      "type": "message",
+      "text": "つか普通のCtrlだと動くのになんの制限なのか・・・",
+      "user": "yutakatay",
+      "ts": "1586314372.096400",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "q38hR",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "つか普通のCtrlだと動くのになんの制限なのか・・・"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "25b5c16a-dfa3-4c8c-9739-0d6f6aa27eea",
+      "type": "message",
+      "text": "使ってください",
+      "user": "sherwyn.sen",
+      "ts": "1586314361.096200",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "iDW",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "使ってください"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "reactions": [
+        {
+          "name": "man-bowing",
+          "users": [
+            "yutakatay"
+          ],
+          "count": 1
+        }
+      ]
+    },
+    {
+      "client_msg_id": "31736545-3967-433a-b9b9-cb4667309fed",
+      "type": "message",
+      "text": "絵文字で送った",
+      "user": "sherwyn.sen",
+      "ts": "1586314354.095900",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "CF4w3",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "絵文字で送った"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "efa765f3-4325-4820-9f38-e7fc46d47293",
+      "type": "message",
+      "text": "ノートPCのやつだけ",
+      "user": "yutakatay",
+      "ts": "1586314320.095000",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "AfLT",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "ノートPCのやつだけ"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "c185087a-5e4d-4bcd-8b74-7b00f49824bf",
+      "type": "message",
+      "text": "今手元にはキーボードないんですよね。。。すみません。",
+      "user": "yutakatay",
+      "ts": "1586314313.094800",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "thu2",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "今手元にはキーボードないんですよね。。。すみません。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "reactions": [
+        {
+          "name": "keyboard",
+          "users": [
+            "sherwyn.sen",
+            "U0PM6EYR1"
+          ],
+          "count": 2
+        }
+      ]
+    },
+    {
+      "client_msg_id": "a16a2d51-6ac1-4f1c-be23-d6a7b1b97a39",
+      "type": "message",
+      "text": "ほかのキーボードを繋げたら動きますか？",
+      "user": "sherwyn.sen",
+      "ts": "1586314283.094000",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "GTQp5",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "ほかのキーボードを繋げたら動きますか？"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "16eb9421-94a2-4743-a6e2-bdc718a7f8f6",
+      "type": "message",
+      "text": "問題というか制限",
+      "user": "sherwyn.sen",
+      "ts": "1586314265.092700",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "3PbL",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "問題というか制限"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "07457b01-ef74-4eaa-9105-a25fe9b1c351",
+      "type": "message",
+      "text": "ですね・・・",
+      "user": "yutakatay",
+      "ts": "1586314245.092400",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "5=+",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "ですね・・・"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "483725b5-af2e-48ec-b4a0-786c508fb964",
+      "type": "message",
+      "text": "その投稿読んだらハードウェアの問題だそうです……",
+      "user": "sherwyn.sen",
+      "ts": "1586314238.092000",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "CkS",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "その投稿読んだらハードウェアの問題だそうです……"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "message",
+      "subtype": "thread_broadcast",
+      "text": "どっちもだめですね",
+      "user": "yutakatay",
+      "ts": "1586314197.090300",
+      "thread_ts": "1586313918.084100",
+      "root": {
+        "client_msg_id": "fc5dad5b-38a6-4c42-9f3c-9be18765c8de",
+        "type": "message",
+        "text": "まずはswayかi3使ってますか？waylandのほうが違いますので",
+        "user": "sherwyn.sen",
+        "ts": "1586313918.084100",
+        "team": "T0GFBAM8C",
+        "blocks": [
+          {
+            "type": "rich_text",
+            "block_id": "yKJ",
+            "elements": [
+              {
+                "type": "rich_text_section",
+                "elements": [
+                  {
+                    "type": "text",
+                    "text": "まずはswayかi3使ってますか？waylandのほうが違いますので"
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "thread_ts": "1586313918.084100",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1586314197.090300",
+        "reply_users": [
+          "yutakatay"
+        ],
+        "is_locked": false,
+        "subscribed": false
+      },
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "5IW5",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "どっちもだめですね"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "client_msg_id": "c04ff950-9cd0-48ae-a3cc-aae25ac7c303"
+    },
+    {
+      "client_msg_id": "44ee06dc-89e0-4d92-99fa-b24191192db5",
+      "type": "message",
+      "text": "このへんからどうにかしないとだめそうな気がする <https://wiki.archlinux.jp/index.php/X_KeyBoard_extension>",
+      "user": "znmxodq1",
+      "ts": "1586314142.089800",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "LvJ",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "このへんからどうにかしないとだめそうな気がする "
+                },
+                {
+                  "type": "link",
+                  "url": "https://wiki.archlinux.jp/index.php/X_KeyBoard_extension"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "a5bfdfe0-21af-4ad8-9628-a40fd7760066",
+      "type": "message",
+      "text": "<https://bbs.archlinux.org/viewtopic.php?id=245326>\nここらへんが似てそう",
+      "user": "yutakatay",
+      "ts": "1586314109.089100",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "FdCX",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "link",
+                  "url": "https://bbs.archlinux.org/viewtopic.php?id=245326"
+                },
+                {
+                  "type": "text",
+                  "text": "\nここらへんが似てそう"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "50cb3b0c-955f-408c-82a2-9bcc119650ab",
+      "type": "message",
+      "text": "1, 3-9はOK",
+      "user": "yutakatay",
+      "ts": "1586314090.088600",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "1r8/",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "1, 3-9はOK"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "b346ab1d-6889-4687-b8f8-a0aacf6fc3f7",
+      "type": "message",
+      "text": "２だけ",
+      "user": "yutakatay",
+      "ts": "1586314082.088400",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "cGy=L",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "２だけ"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "reactions": [
+        {
+          "name": "open_mouth",
+          "users": [
+            "sherwyn.sen"
+          ],
+          "count": 1
+        }
+      ]
+    },
+    {
+      "client_msg_id": "c7dbaeaf-611f-4d0e-b4d1-68615fcffe99",
+      "type": "message",
+      "text": "それなんですよね・・・キーコード出力されないんです。そこだけ",
+      "user": "yutakatay",
+      "ts": "1586314066.088100",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "uTp",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "それなんですよね・・・キーコード出力されないんです。そこだけ"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "7aca2bcd-c8bc-42c3-ae77-320a09c46675",
+      "type": "message",
+      "text": "udevでやってだめって厳しそう（というかこれどうやってキーコード拾ってるんだろう）",
+      "user": "znmxodq1",
+      "ts": "1586314043.087200",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "LCzxM",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "udevでやってだめって厳しそう（というかこれどうやってキーコード拾ってるんだろう）"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "fcba4d40-c676-41a8-a4c4-b6abd3af387a",
+      "type": "message",
+      "text": "まじですか・・・",
+      "user": "yutakatay",
+      "ts": "1586313990.086000",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "Ecb",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "まじですか・・・"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "59837435-55d1-41d5-9b32-161ef5226a92",
+      "type": "message",
+      "text": "xmodmapはだめです",
+      "user": "znmxodq1",
+      "ts": "1586313979.085600",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "qLR",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "xmodmapはだめです"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "c8818db3-c6ec-41b7-9abe-77d2c2577700",
+      "type": "message",
+      "text": "ですね。udevでやってるんで。xmodmapだとどうだろう。。。やってみます",
+      "user": "yutakatay",
+      "ts": "1586313969.085400",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "fp5r",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "ですね。udevでやってるんで。xmodmapだとどうだろう。。。やってみます"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "a838dc8a-91d9-4dbd-945f-afb6f407a8f4",
+      "type": "message",
+      "text": "上位じゃないや下層か",
+      "user": "znmxodq1",
+      "ts": "1586313941.084700",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "SvT",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "上位じゃないや下層か"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "fc5dad5b-38a6-4c42-9f3c-9be18765c8de",
+      "type": "message",
+      "text": "まずはswayかi3使ってますか？waylandのほうが違いますので",
+      "user": "sherwyn.sen",
+      "ts": "1586313918.084100",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "yKJ",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "まずはswayかi3使ってますか？waylandのほうが違いますので"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "thread_ts": "1586313918.084100",
+      "reply_count": 1,
+      "reply_users_count": 1,
+      "latest_reply": "1586314197.090300",
+      "reply_users": [
+        "yutakatay"
+      ],
+      "is_locked": false,
+      "subscribed": false
+    },
+    {
+      "client_msg_id": "e1a89bfb-949e-4793-acc1-925e75fd08ae",
+      "type": "message",
+      "text": "xmodmap等より上位の層でやってるんだろうなこれ",
+      "user": "znmxodq1",
+      "ts": "1586313918.084000",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "Oam",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "xmodmap等より上位の層でやってるんだろうなこれ"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "cd96aa59-749b-41e2-9af4-29f7e0d6edaa",
+      "type": "message",
+      "text": "i3 or sway使っててcapsにctrl割り当ててる人で\n`bindsym $mod+Control+2 move container to workspace 2`\n動きますか？？（Ctrl+Win+2で今のウィンドウがワークスペース２に移動するはず）\n\n私Thinkpadですが動かないんですよね・・・",
+      "user": "yutakatay",
+      "ts": "1586313815.082000",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "bZhgM",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "i3 or sway使っててcapsにctrl割り当ててる人で\n"
+                },
+                {
+                  "type": "text",
+                  "text": "bindsym $mod+Control+2 move container to workspace 2",
+                  "style": {
+                    "code": true
+                  }
+                },
+                {
+                  "type": "text",
+                  "text": "\n動きますか？？（Ctrl+Win+2で今のウィンドウがワークスペース２に移動するはず）\n\n私Thinkpadですが動かないんですよね・・・"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "f8692e64-1a39-4e1c-88a9-1712c2854751",
+      "type": "message",
+      "text": "udev hwdbでcapsをctrlで上書きしたctrlでctrl+win+2が動かない・・・普通のctrlだと動くのに。\nうーんなんでだろう。。。",
+      "user": "yutakatay",
+      "ts": "1586312844.079800",
+      "team": "T0GFBAM8C",
+      "edited": {
+        "user": "yutakatay",
+        "ts": "1586312857.000000"
+      },
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "Ix2Pn",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "udev hwdbでcapsをctrlで上書きしたctrlでctrl+win+2が動かない・・・普通のctrlだと動くのに。\nうーんなんでだろう。。。"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "F0823D42-861D-40B7-AF35-8390A1E45700",
+      "type": "message",
+      "text": "私も最近、カーネルをダウングレードする機会、増えてる気がしますね、笑",
+      "user": "syui",
+      "ts": "1586257034.076600",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "T6CL",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "私も最近、カーネルをダウングレードする機会、増えてる気がしますね、笑"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "074ED27E-4E22-4061-AF06-40885475B128",
+      "type": "message",
+      "text": "記憶による書き込みもよく参考になったりするので、どちらもありがたい",
+      "user": "syui",
+      "ts": "1586256790.075700",
+      "team": "T0GFBAM8C",
+      "edited": {
+        "user": "syui",
+        "ts": "1586256829.000000"
+      },
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "zHT",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "記憶による書き込みもよく参考になったりするので、どちらもありがたい"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "b89933cd-14ca-4597-80dc-f7a923d2e6b1",
+      "type": "message",
+      "text": "記憶全くあてにならないな（確かにそのほうが正しい）",
+      "user": "znmxodq1",
+      "ts": "1586256392.073700",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "qVL2",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "記憶全くあてにならないな（確かにそのほうが正しい）"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "65a819a3-b45c-44be-8a94-9a8ca6e0b224",
+      "type": "message",
+      "text": "ignorepkgに書いてたんですが、それ出てました",
+      "user": "watakushide.kakusanak",
+      "ts": "1586256382.073300",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "7Xe",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "ignorepkgに書いてたんですが、それ出てました"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "97ac4d89-3c54-42a5-84f2-5cf789018309",
+      "type": "message",
+      "text": "xrandrにset audio onとかあったんだ。知らなかった",
+      "user": "yutakatay",
+      "ts": "1586256382.073200",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "+z4t9",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "xrandrにset audio onとかあったんだ。知らなかった"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "478e331d-61b7-44e6-b720-502f8ee8e955",
+      "type": "message",
+      "text": "まああれ止めたまんまやった。。。ってのがなくなるから正しい感じしますよね",
+      "user": "yutakatay",
+      "ts": "1586256345.071500",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "chx68",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "まああれ止めたまんまやった。。。ってのがなくなるから正しい感じしますよね"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "c681f2c1-7cba-4a93-8336-a00e0b213d86",
+      "type": "message",
+      "text": "更新を無視するだけか",
+      "user": "znmxodq1",
+      "ts": "1586256345.071400",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "lCr",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "更新を無視するだけか"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "a3808b0d-dfa6-4dac-9e04-e1a02da36dac",
+      "type": "message",
+      "text": "まじか、すみません",
+      "user": "znmxodq1",
+      "ts": "1586256306.070000",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "sPO",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "まじか、すみません"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "9c8d9124-44bf-4939-93e9-00ef030e9555",
+      "type": "message",
+      "text": "IgnorePkgに書いても警告はでますね。\n絶賛警告出され中\nwarning: mesa: ignoring package upgrade (19.3.4-2 =&gt; 20.0.4-1)",
+      "user": "yutakatay",
+      "ts": "1586256285.069700",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "HcN5",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "IgnorePkgに書いても警告はでますね。\n絶賛警告出され中\nwarning: mesa: ignoring package upgrade (19.3.4-2 => 20.0.4-1)"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "reactions": [
+        {
+          "name": "scream",
+          "users": [
+            "znmxodq1"
+          ],
+          "count": 1
+        }
+      ]
+    },
+    {
+      "client_msg_id": "05d0ad40-079a-4715-be2a-48e95848d9b8",
+      "type": "message",
+      "text": "更新に気づかないままなのも怖いし、直ってよかったですホントに",
+      "user": "watakushide.kakusanak",
+      "ts": "1586255769.068300",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "3GW",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "更新に気づかないままなのも怖いし、直ってよかったですホントに"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "60c3f6fb-ee13-436e-acb0-29d84e8aa0dd",
+      "type": "message",
+      "text": "今更ですが、確か`pacman.conf`の`IgnorePkg`の欄に書けば警告出なかった気がします（ArchWayに反するし正しい更新来ても無視されるのでおすすめはしません）",
+      "user": "znmxodq1",
+      "ts": "1586255557.065200",
+      "team": "T0GFBAM8C",
+      "edited": {
+        "user": "znmxodq1",
+        "ts": "1586255823.000000"
+      },
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "dAbwg",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "今更ですが、確か"
+                },
+                {
+                  "type": "text",
+                  "text": "pacman.conf",
+                  "style": {
+                    "code": true
+                  }
+                },
+                {
+                  "type": "text",
+                  "text": "の"
+                },
+                {
+                  "type": "text",
+                  "text": "IgnorePkg",
+                  "style": {
+                    "code": true
+                  }
+                },
+                {
+                  "type": "text",
+                  "text": "の欄に書けば警告出なかった気がします（ArchWayに反するし正しい更新来ても無視されるのでおすすめはしません）"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "7a178344-61c4-40de-9ad5-880f94499a6c",
+      "type": "message",
+      "text": "5.6.2にしてからサウンドが出ない件ですが、sudo pacman -Syuするたびにアップグレードを無視します云々が出てきてなんか嫌だったので、なんとかできないかといろいろ試してみました。\n現在Awesomewmを使っているのですが、自動起動のスクリプトに\n```xrandr --output HDMI2 --set audio on　```\nを追加して再起動したところ、無事音が出るようになりました！\nありがとうございました。",
+      "user": "watakushide.kakusanak",
+      "ts": "1586255435.063600",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "bEd9",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "5.6.2にしてからサウンドが出ない件ですが、sudo pacman -Syuするたびにアップグレードを無視します云々が出てきてなんか嫌だったので、なんとかできないかといろいろ試してみました。\n現在Awesomewmを使っているのですが、自動起動のスクリプトに\n"
+                }
+              ]
+            },
+            {
+              "type": "rich_text_preformatted",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "xrandr --output HDMI2 --set audio on　"
+                }
+              ]
+            },
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "を追加して再起動したところ、無事音が出るようになりました！\nありがとうございました。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "reactions": [
+        {
+          "name": "clap",
+          "users": [
+            "znmxodq1",
+            "UJ7P75WB1"
+          ],
+          "count": 2
+        },
+        {
+          "name": "tada",
+          "users": [
+            "nyaarch64",
+            "UJ7P75WB1"
+          ],
+          "count": 2
+        }
+      ]
+    },
+    {
+      "client_msg_id": "65d936f2-dc8c-4354-85d2-c9471f9c4b92",
+      "type": "message",
+      "text": "プラウザを使ったりワークスペースを変えたりもできますが",
+      "user": "sherwyn.sen",
+      "ts": "1586228585.058500",
+      "team": "T0GFBAM8C",
+      "edited": {
+        "user": "sherwyn.sen",
+        "ts": "1586228605.000000"
+      },
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "a81d",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "プラウザを使ったりワークスペースを変えたりもできますが"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "89414f4a-6f77-4758-ae73-97cac30eeee7",
+      "type": "message",
+      "text": "右側は何もないターミナル",
+      "user": "sherwyn.sen",
+      "ts": "1586228305.057000",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "kP3Z",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "右側は何もないターミナル"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "message",
+      "text": "この問題に遭ったときに写真とれた",
+      "files": [
+        {
+          "id": "F011FR5ETN1",
+          "created": 1586228271,
+          "timestamp": 1586228271,
+          "name": "IMG_20200405_141908_225~2.jpg",
+          "title": "IMG_20200405_141908_225~2.jpg",
+          "mimetype": "image/jpeg",
+          "filetype": "jpg",
+          "pretty_type": "JPEG",
+          "user": "sherwyn.sen",
+          "editable": false,
+          "size": 135534,
+          "mode": "hosted",
+          "is_external": false,
+          "external_type": "",
+          "is_public": true,
+          "public_url_shared": false,
+          "display_as_bot": false,
+          "username": "",
+          "url_private": "https://files.slack.com/files-pri/T0GFBAM8C-F011FR5ETN1/img_20200405_141908_225_2.jpg",
+          "url_private_download": "https://files.slack.com/files-pri/T0GFBAM8C-F011FR5ETN1/download/img_20200405_141908_225_2.jpg",
+          "media_display_type": "unknown",
+          "thumb_64": "https://files.slack.com/files-tmb/T0GFBAM8C-F011FR5ETN1-6206e9f32f/img_20200405_141908_225_2_64.jpg",
+          "thumb_80": "https://files.slack.com/files-tmb/T0GFBAM8C-F011FR5ETN1-6206e9f32f/img_20200405_141908_225_2_80.jpg",
+          "thumb_360": "https://files.slack.com/files-tmb/T0GFBAM8C-F011FR5ETN1-6206e9f32f/img_20200405_141908_225_2_360.jpg",
+          "thumb_360_w": 360,
+          "thumb_360_h": 203,
+          "thumb_480": "https://files.slack.com/files-tmb/T0GFBAM8C-F011FR5ETN1-6206e9f32f/img_20200405_141908_225_2_480.jpg",
+          "thumb_480_w": 480,
+          "thumb_480_h": 270,
+          "thumb_160": "https://files.slack.com/files-tmb/T0GFBAM8C-F011FR5ETN1-6206e9f32f/img_20200405_141908_225_2_160.jpg",
+          "thumb_720": "https://files.slack.com/files-tmb/T0GFBAM8C-F011FR5ETN1-6206e9f32f/img_20200405_141908_225_2_720.jpg",
+          "thumb_720_w": 720,
+          "thumb_720_h": 405,
+          "thumb_800": "https://files.slack.com/files-tmb/T0GFBAM8C-F011FR5ETN1-6206e9f32f/img_20200405_141908_225_2_800.jpg",
+          "thumb_800_w": 800,
+          "thumb_800_h": 450,
+          "thumb_960": "https://files.slack.com/files-tmb/T0GFBAM8C-F011FR5ETN1-6206e9f32f/img_20200405_141908_225_2_960.jpg",
+          "thumb_960_w": 960,
+          "thumb_960_h": 540,
+          "thumb_1024": "https://files.slack.com/files-tmb/T0GFBAM8C-F011FR5ETN1-6206e9f32f/img_20200405_141908_225_2_1024.jpg",
+          "thumb_1024_w": 1024,
+          "thumb_1024_h": 576,
+          "image_exif_rotation": 1,
+          "original_w": 1280,
+          "original_h": 720,
+          "thumb_tiny": "AwAbADCtDbvKu4OBzjBqX7FL2dafYn5XHo39Ktg0gM9rOZFLF1wBmq/JGDWtP/x7yf7prKXmgYwr703GDUpGTTCMk0wLlkfnceoBq4CPUVjnpSqAe1AjUnYCCTn+E96zQfl49ajcYPFJQFyfI6ZqMdKQAelAPNANn//Z",
+          "permalink": "https://archlinuxjp.slack.com/files/sherwyn.sen/F011FR5ETN1/img_20200405_141908_225_2.jpg",
+          "permalink_public": "https://slack-files.com/T0GFBAM8C-F011FR5ETN1-ac3ce18056",
+          "is_starred": false,
+          "has_rich_preview": false
+        }
+      ],
+      "upload": true,
+      "user": "sherwyn.sen",
+      "display_as_bot": false,
+      "ts": "1586228286.056300",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "l/P3V",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "この問題に遭ったときに写真とれた"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "client_msg_id": "c4623b2b-300c-4bd8-bb54-1e23009619f9"
+    },
+    {
+      "client_msg_id": "dcf8ed63-879e-4bf4-8a42-539aec1322b0",
+      "type": "message",
+      "text": "「フリーズ」ということは\n開いてるアプリは使えますが、ターミナルをあけたらプロンプト出てこないんです",
+      "user": "sherwyn.sen",
+      "ts": "1586228183.055800",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "kTQK",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "「フリーズ」ということは\n開いてるアプリは使えますが、ターミナルをあけたらプロンプト出てこないんです"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "425f2234-5699-4c47-9866-c47a15c9f35b",
+      "type": "message",
+      "text": "でもなぜか4.19-rtは動けません……",
+      "user": "sherwyn.sen",
+      "ts": "1586228103.054100",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "ohv",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "でもなぜか4.19-rtは動けません……"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "1f6fa9b0-a741-4d92-9124-0eb05d94a9c2",
+      "type": "message",
+      "text": "4.19が一番！",
+      "user": "sherwyn.sen",
+      "ts": "1586228078.053400",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "Rv4",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "4.19が一番！"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "717edead-500e-4cd6-86d0-2f61bf7434d7",
+      "type": "message",
+      "text": "5.4-rt使ってます",
+      "user": "sherwyn.sen",
+      "ts": "1586228049.053000",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "aoXb",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "5.4-rt使ってます"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "49385e5d-3abf-42e8-82a6-170c7995fc90",
+      "type": "message",
+      "text": "最近のカーネルでワシのコンピュータが色々壊れてると思う。\n例えば急にフリーズになってしまいます……Wi-Fiの接続は無効になって、ターミナルあけたらプロンプトは出てこないところがあります。やっと出たら、Wi-Fiも蘇るんです…なぜでしょうか",
+      "user": "sherwyn.sen",
+      "ts": "1586228039.052700",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "NxPMX",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "最近のカーネルでワシのコンピュータが色々壊れてると思う。\n例えば急にフリーズになってしまいます……Wi-Fiの接続は無効になって、ターミナルあけたらプロンプトは出てこないところがあります。やっと出たら、Wi-Fiも蘇るんです…なぜでしょうか"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "37422424-0f88-480c-8360-789fb0d314f8",
+      "type": "message",
+      "text": "カニさん、arch頑張って！",
+      "user": "sherwyn.sen",
+      "ts": "1586227610.047300",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "eFzd",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "カニさん、arch頑張って！"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "reactions": [
+        {
+          "name": "crab",
+          "users": [
+            "nyaarch64",
+            "watakushide.kakusanak",
+            "USSBNDE68",
+            "UJ7P75WB1"
+          ],
+          "count": 4
+        }
+      ]
+    },
+    {
+      "client_msg_id": "3f8866fc-040b-4872-a2ad-3f0c8ba19627",
+      "type": "message",
+      "text": "ダウングレードできました！\n無事認識されるようになったので、やはりカーネルが悪さしていたみたいです\nしばらくは5.5.13で動かしてみます",
+      "user": "watakushide.kakusanak",
+      "ts": "1586222743.043700",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "zV08+",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "ダウングレードできました！\n無事認識されるようになったので、やはりカーネルが悪さしていたみたいです\nしばらくは5.5.13で動かしてみます"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "reactions": [
+        {
+          "name": "tada",
+          "users": [
+            "znmxodq1",
+            "nyaarch64",
+            "vermilion928",
+            "sherwyn.sen",
+            "U3FJYR7MG",
+            "syui",
+            "UJ7P75WB1"
+          ],
+          "count": 7
+        }
+      ]
+    }
+  ],
+  "has_more": true,
+  "is_limited": false,
+  "pin_count": 16,
+  "channel_actions_ts": null,
+  "channel_actions_count": 0,
+  "response_metadata": {
+    "next_cursor": "bmV4dF90czoxNTg2MjIyNDE3MDQwNDAw"
+  }
+}

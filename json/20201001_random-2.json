@@ -1,0 +1,328 @@
+{
+  "ok": true,
+  "latest": "1604201220.000000",
+  "oldest": "1601522820.000000",
+  "messages": [
+    {
+      "client_msg_id": "e5b6b039-1ae4-4cd0-b017-4e0ff9acec92",
+      "type": "message",
+      "text": "なるほど",
+      "user": "znmxodq1",
+      "ts": "1603119151.013500",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "rRx+9",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "なるほど"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "0CCD79C2-4B25-4C26-A460-52A42FDE0BEC",
+      "type": "message",
+      "text": "刺す系のイヤホン",
+      "user": "syui",
+      "ts": "1603119085.013300",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "P5=pk",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "刺す系のイヤホン"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "BACDD794-A396-4F4D-84A8-81B9227276FD",
+      "type": "message",
+      "text": "ちなみに、bluetoothイヤホンなら問題ない",
+      "user": "syui",
+      "ts": "1603119049.012800",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "X1kU",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "ちなみに、bluetoothイヤホンなら問題ない"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "71242533-FF4E-40D8-B03F-77F454DDD411",
+      "type": "message",
+      "text": "ですね。これもう数年経っても直ってないので",
+      "user": "syui",
+      "ts": "1603119016.012100",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "utf",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "ですね。これもう数年経っても直ってないので"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "252d1dda-bd16-4641-a4ce-72edb01a2ba8",
+      "type": "message",
+      "text": "こちらでは普通に聴けてるのでハードバグっぽい",
+      "user": "znmxodq1",
+      "ts": "1603118983.011500",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "71u",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "こちらでは普通に聴けてるのでハードバグっぽい"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "4E4418AF-C3A4-46C4-9764-686561D60B95",
+      "type": "message",
+      "text": "こういう報告はありがたいので、どんどん書き込んでもらえるとうれしいです\nちなみに、私のarch、イヤホン時のみ音がキンキンになって、どう調整しても直らない現象があって、alsaのtuiでも無理で、ハード故障かドライバの問題かなと思って諦めてる",
+      "user": "syui",
+      "ts": "1603118925.011200",
+      "team": "T0GFBAM8C",
+      "edited": {
+        "user": "syui",
+        "ts": "1603119899.000000"
+      },
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "puc",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "こういう報告はありがたいので、どんどん書き込んでもらえるとうれしいです\nちなみに、私のarch、イヤホン時のみ音がキンキンになって、どう調整しても直らない現象があって、alsaのtuiでも無理で、ハード故障かドライバの問題かなと思って諦めてる"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "8DFE7171-94A2-4D6F-BE6C-44B01AD1B52C",
+      "type": "message",
+      "text": "ハードや設定によって同じ環境でも発生の有無とかも変わってきそうなのでなんとも言えませんが",
+      "user": "syui",
+      "ts": "1603107604.007300",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "rP9",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "ハードや設定によって同じ環境でも発生の有無とかも変わってきそうなのでなんとも言えませんが"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "CF89CD81-3408-4A1C-8614-8A66033881BE",
+      "type": "message",
+      "text": "環境はchromium,i3,kernelともに最新です",
+      "user": "syui",
+      "ts": "1603107233.006100",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "To=f",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "環境はchromium,i3,kernelともに最新です"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "06FAD721-89A4-47DD-9D38-87B666871EB5",
+      "type": "message",
+      "text": "自分とこは大丈夫ですね",
+      "user": "syui",
+      "ts": "1603106973.005000",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "ByljC",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "自分とこは大丈夫ですね"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "reactions": [
+        {
+          "name": "naruhodo",
+          "users": [
+            "yutakatay"
+          ],
+          "count": 1
+        }
+      ]
+    },
+    {
+      "client_msg_id": "c123ef4e-61d6-4858-b9d0-03281da36ba0",
+      "type": "message",
+      "text": "なんか最新のArchのChromiumが変？戻ってもページが表示されない。F5でもだめ。別のタブを開いてから開くと表示される。",
+      "user": "yutakatay",
+      "ts": "1603104724.004600",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "Kkr",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "なんか最新のArchのChromiumが変？戻ってもページが表示されない。F5でもだめ。別のタブを開いてから開くと表示される。"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "message",
+      "subtype": "channel_join",
+      "ts": "1603079756.003300",
+      "user": "masa31fg10",
+      "text": "<@masa31fg10>さんがチャンネルに参加しました"
+    },
+    {
+      "type": "message",
+      "subtype": "channel_join",
+      "ts": "1602900048.003100",
+      "user": "tabokire",
+      "text": "<@tabokire>さんがチャンネルに参加しました"
+    },
+    {
+      "type": "message",
+      "subtype": "channel_join",
+      "ts": "1602418225.002900",
+      "user": "nintr0513",
+      "text": "<@nintr0513>さんがチャンネルに参加しました"
+    },
+    {
+      "type": "message",
+      "subtype": "channel_join",
+      "ts": "1601728032.002100",
+      "user": "ntomura92",
+      "text": "<@ntomura92>さんがチャンネルに参加しました"
+    },
+    {
+      "type": "message",
+      "subtype": "channel_join",
+      "ts": "1601725174.001900",
+      "user": "dynos01",
+      "text": "<@dynos01>さんがチャンネルに参加しました"
+    },
+    {
+      "type": "message",
+      "subtype": "channel_join",
+      "ts": "1601608512.001700",
+      "user": "hashimoto-k",
+      "text": "<@hashimoto-k>さんがチャンネルに参加しました"
+    },
+    {
+      "type": "message",
+      "subtype": "bot_message",
+      "text": "<https://www.archlinux.org/news/ghostpcl9532-2-and-ghostxps9532-2-updates-require-manual-intervention>\nghostpcl&gt;=9.53.2-2 and ghostxps&gt;=9.53.2-2 updates require manual intervention\nThe ghostpcl and ghostxps packages prior to version 9.53.2-2 were missinga soname link each. This has been fixed in 9.53.2-2, so the upgrade willneed to overwrite the untracked files created by ldconfig. If you get anyof these errorsghostpcl: /usr/lib/libgpcl6.so.9 exists in filesystemghostxps: /usr/lib/libgxps.so.9 exists in filesystemwhen updating, usepacman -Syu --overwrite /usr/lib/libgpcl6.so.9,/usr/lib/libgxps.so.9to perform the upgrade.\nghostpcl&gt; = 9.53.2-2およびghostxps&gt; = 9.53.2-2の更新には手動による介入が必要です\nバージョン9.53.2-2より前のghostpclおよびghostxpsパッケージには、それぞれsonameリンクがありませんでした。これは9.53.2-2で修正されているため、アップグレードでは、ldconfigによって作成された追跡されていないファイルを上書きする必要があります。これらのエラーのいずれかが発生した場合ghostpcl：/usr/lib/libgpcl6.so.9がfilesystemghostxpsに存在します：/usr/lib/libgxps.so.9が更新時にファイルシステムに存在します、usepacman -Syu --overwrite /usr/lib/libgpcl6.so .9、/ usr / lib /libgxps.so.9アップグレードを実行します。",
+      "ts": "1601575297.001500",
+      "username": "webhookbot",
+      "icons": {
+        "emoji": ":arch:"
+      },
+      "bot_id": "BRB5N3W2W"
+    }
+  ],
+  "has_more": false,
+  "is_limited": true,
+  "pin_count": 16,
+  "channel_actions_ts": null,
+  "channel_actions_count": 0
+}

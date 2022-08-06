@@ -1,0 +1,1378 @@
+{
+  "ok": true,
+  "latest": "1596252419.000000",
+  "oldest": "1593574019.000000",
+  "messages": [
+    {
+      "client_msg_id": "5ed4ea5f-b79c-4aa1-b764-a84e31b28072",
+      "type": "message",
+      "text": "遅レスですが、EFIになってデュアルブートはかなり楽になったように思えます\nブートローダーが複数置けるようになって、ブートローダー同士でブートを奪い合う不毛な争いからサヨナラできたので......",
+      "user": "angel.beats.kanade.yu",
+      "ts": "1594074956.394000",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "0b/7",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "遅レスですが、EFIになってデュアルブートはかなり楽になったように思えます\nブートローダーが複数置けるようになって、ブートローダー同士でブートを奪い合う不毛な争いからサヨナラできたので......"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "37714E04-A0D1-458B-ADA3-F3A8A16912EF",
+      "type": "message",
+      "text": "お、情報ありがとうございます",
+      "user": "syui",
+      "ts": "1594071802.391400",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "9nLtq",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "お、情報ありがとうございます"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "reactions": [
+        {
+          "name": "+1",
+          "users": [
+            "v3rn3j"
+          ],
+          "count": 1
+        }
+      ]
+    },
+    {
+      "client_msg_id": "00c52760-b360-4872-8f2f-bc36b1bdabf2",
+      "type": "message",
+      "text": "<@syui> 夜中にすみません　自分はこうしました\n```pacman -Syu --ignore=xorg-fonts-alias-100dpi --ignore=xorg-fonts-alias-75dpi --ignore=xorg-fonts-alias-misc\n\npacman -R xorg-fonts-alias xorg-fonts-100dpi xorg-fonts-75dpi xorg-fonts-misc xorg-xcalc\n\npacman -S xorg-fonts-alias-100dpi xorg-fonts-100dpi xorg-fonts-75dpi xorg-fonts-misc xorg-xcalc```\n<https://bbs.archlinux.org/viewtopic.php?pid=1913145#p1913145>",
+      "user": "v3rn3j",
+      "ts": "1594056564.390800",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "LJ6",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "user",
+                  "user_id": "syui"
+                },
+                {
+                  "type": "text",
+                  "text": " 夜中にすみません　自分はこうしました\n"
+                }
+              ]
+            },
+            {
+              "type": "rich_text_preformatted",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "pacman -Syu --ignore=xorg-fonts-alias-100dpi --ignore=xorg-fonts-alias-75dpi --ignore=xorg-fonts-alias-misc\n\npacman -R xorg-fonts-alias xorg-fonts-100dpi xorg-fonts-75dpi xorg-fonts-misc xorg-xcalc\n\npacman -S xorg-fonts-alias-100dpi xorg-fonts-100dpi xorg-fonts-75dpi xorg-fonts-misc xorg-xcalc"
+                }
+              ]
+            },
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "link",
+                  "url": "https://bbs.archlinux.org/viewtopic.php?pid=1913145#p1913145"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "reactions": [
+        {
+          "name": "eyes",
+          "users": [
+            "znmxodq1",
+            "syui"
+          ],
+          "count": 2
+        }
+      ]
+    },
+    {
+      "client_msg_id": "ca5b3959-6f0c-464a-b1bd-888910a56c64",
+      "type": "message",
+      "text": "たまにおかしくなることありますよね、なんもしてないのに　Grub情報消えてるし",
+      "user": "seekerkrt",
+      "ts": "1594045733.390200",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "BJleX",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "たまにおかしくなることありますよね、なんもしてないのに　Grub情報消えてるし"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "5adc52e5-6086-42b2-a12f-183df988e652",
+      "type": "message",
+      "text": "Win10の大型アップデートで書き換えてる説信憑性ある",
+      "user": "seekerkrt",
+      "ts": "1594045639.389600",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "KX6",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "Win10の大型アップデートで書き換えてる説信憑性ある"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "06B84AB6-7571-406E-A4F2-AEAA95B064E1",
+      "type": "message",
+      "text": "UEFIになってそのへんマシになってるはず\n(もうデュアルブートやってないので試してませんが)",
+      "user": "emtee",
+      "ts": "1594045540.388800",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "suA=",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "UEFIになってそのへんマシになってるはず\n(もうデュアルブートやってないので試してませんが)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "c04c752f-d8a9-400c-8f2b-ba119187e6cc",
+      "type": "message",
+      "text": "正誤：ディスクでブートローダ",
+      "user": "seekerkrt",
+      "ts": "1594045402.386600",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "RTV6l",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "正誤：ディスクでブートローダ"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "3a76649e-e032-4889-aa91-6842b7553331",
+      "type": "message",
+      "text": "デスクトップPCならディスクとブートローダ分けて、BIOSの機能で呼び分けるのがいいきがする～",
+      "user": "seekerkrt",
+      "ts": "1594045370.386200",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "T+CG",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "デスクトップPCならディスクとブートローダ分けて、BIOSの機能で呼び分けるのがいいきがする～"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "fb316a14-8bae-4594-9764-fd520863c647",
+      "type": "message",
+      "text": "わかる...",
+      "user": "aruneko99",
+      "ts": "1594045280.385200",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "uHc",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "わかる..."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "f4a1d16e-b89c-4da5-8f52-e55109c259c8",
+      "type": "message",
+      "text": "だいたいどっちかのクリーンインストール作業のときに間違ったHDDなりSSDをfdiskすることで悲劇が起きるｗ",
+      "user": "seekerkrt",
+      "ts": "1594045267.385000",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "rzdN",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "だいたいどっちかのクリーンインストール作業のときに間違ったHDDなりSSDをfdiskすることで悲劇が起きるｗ"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "7dac6022-d558-4bbf-97c5-b1e59313eba4",
+      "type": "message",
+      "text": "さすがにこっちまで壊しに来たりはしなかったので",
+      "user": "znmxodq1",
+      "ts": "1594041625.384300",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "0rjr",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "さすがにこっちまで壊しに来たりはしなかったので"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "c2d50461-f318-4927-b1e1-80f9ef6cf945",
+      "type": "message",
+      "text": "Windows使ってた頃はLinux用ブートローダーはUSBメモリに書き込んでましたね",
+      "user": "znmxodq1",
+      "ts": "1594041617.384000",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "PiSs",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "Windows使ってた頃はLinux用ブートローダーはUSBメモリに書き込んでましたね"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "32960b49-7873-40c9-8b58-9b71e874dcda",
+      "type": "message",
+      "text": "そういう意味で言うとブートローダーはWin側に支配させた方が安全なのかもと思ったりもするのですが、正直なところベストプラクティスが分からないところです...",
+      "user": "aruneko99",
+      "ts": "1594041579.383500",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "yPJW",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "そういう意味で言うとブートローダーはWin側に支配させた方が安全なのかもと思ったりもするのですが、正直なところベストプラクティスが分からないところです..."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "bae85836-a059-471d-afba-1015edfe2823",
+      "type": "message",
+      "text": "Windowsのbuild確認用にできればもう一度チャレンジしたい",
+      "user": "h.hata.ai.t",
+      "ts": "1594041526.382600",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "GsP5",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "Windowsのbuild確認用にできればもう一度チャレンジしたい"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "3b096fa6-9658-42e0-8c24-0d3723848062",
+      "type": "message",
+      "text": "Windows10の大型アップデートが来るときにどうもブートローダーを書き換えている気がするんですよね",
+      "user": "aruneko99",
+      "ts": "1594041520.382400",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "/pA7",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "Windows10の大型アップデートが来るときにどうもブートローダーを書き換えている気がするんですよね"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "8644d4e5-56c9-46c9-982f-cf9e632e542c",
+      "type": "message",
+      "text": "WindowsUpdateとかいつもどきどきですw",
+      "user": "yutakatay",
+      "ts": "1594041513.382200",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "o+e4",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "WindowsUpdateとかいつもどきどきですw"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "32faefe5-0e45-499e-833f-4f1cfffee8cd",
+      "type": "message",
+      "text": "なんで消し飛んだかもわかってないからもう怖くて",
+      "user": "h.hata.ai.t",
+      "ts": "1594041488.380900",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "7zyAa",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "なんで消し飛んだかもわかってないからもう怖くて"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "99da2b3e-e912-4f6d-aaa1-b8414671f665",
+      "type": "message",
+      "text": "まだ消し飛んだことはないですw",
+      "user": "yutakatay",
+      "ts": "1594041481.380600",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "j4J/t",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "まだ消し飛んだことはないですw"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "aba5fc37-ad10-4f34-8365-c46e99bee791",
+      "type": "message",
+      "text": "私は普通にノートPCなんで同じディスクでやってます",
+      "user": "yutakatay",
+      "ts": "1594041472.380000",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "fjg",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "私は普通にノートPCなんで同じディスクでやってます"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "597f815d-a7e8-4bf2-bbdc-3ac20913ee7b",
+      "type": "message",
+      "text": "あー",
+      "user": "aruneko99",
+      "ts": "1594041469.379800",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "TrH",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "あー"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "8638f583-72c5-4e35-9c53-8f32ec87d03e",
+      "type": "message",
+      "text": "ノートなんですよねー",
+      "user": "h.hata.ai.t",
+      "ts": "1594041465.379500",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "TcP",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "ノートなんですよねー"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "13df1027-bb57-48a0-960d-a1269aa0df49",
+      "type": "message",
+      "text": "僕の場合ディスクを分けてますね。ブートローダーもそれぞれのディスクに入れています。デフォルトではWinが起動するように設定されていますが、Linuxを起動したいときはブートメニューを表示させて、起動ディスクをその都度変更してますねー。",
+      "user": "aruneko99",
+      "ts": "1594041387.378900",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "V82",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "僕の場合ディスクを分けてますね。ブートローダーもそれぞれのディスクに入れています。デフォルトではWinが起動するように設定されていますが、Linuxを起動したいときはブートメニューを表示させて、起動ディスクをその都度変更してますねー。"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "f6b39de6-863c-4138-b9c8-6087456303d6",
+      "type": "message",
+      "text": "みんなデュアルブートどうしてるのか気になる。\n一度Windowsのブート領域がいつの間にか消し飛んでてそれ以来トラウマでできてない。",
+      "user": "h.hata.ai.t",
+      "ts": "1594041289.377500",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "4lTEr",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "みんなデュアルブートどうしてるのか気になる。\n一度Windowsのブート領域がいつの間にか消し飛んでてそれ以来トラウマでできてない。"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "ae4b9f17-5d69-4321-9180-cc5feecc97e2",
+      "type": "message",
+      "text": "2とか3の頃よりは相当楽だと思う &gt; カーネル",
+      "user": "znmxodq1",
+      "ts": "1594031935.374200",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "vb7AY",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "2とか3の頃よりは相当楽だと思う > カーネル"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "b2afe380-cdea-4beb-82a6-dddb5218a8cb",
+      "type": "message",
+      "text": "XPS13といえばLinusが絶賛してたな",
+      "user": "znmxodq1",
+      "ts": "1594031918.373400",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "bqPHm",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "XPS13といえばLinusが絶賛してたな"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "dcb1d460-e249-4184-893d-63b7f4b062c6",
+      "type": "message",
+      "text": "最近はカーネル周り楽になってるのかな",
+      "user": "seekerkrt",
+      "ts": "1594031881.373300",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "f17t",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "最近はカーネル周り楽になってるのかな"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "7875681d-5b82-41df-8007-b4d45c3ff478",
+      "type": "message",
+      "text": "バックライト制御がモデルによって違ったりしたくらいですか...",
+      "user": "emtee",
+      "ts": "1594031853.372800",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "Wwo7W",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "バックライト制御がモデルによって違ったりしたくらいですか..."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "26f9cc5d-a4fc-4fc1-b520-de45fd3c5d1b",
+      "type": "message",
+      "text": "XPS13を3世代ほど使ってきてますが、メディアキー・無線LAN・BTとかタッチスクリーンは面倒なことしなくても動きましたよ",
+      "user": "emtee",
+      "ts": "1594031827.371800",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "EII/C",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "XPS13を3世代ほど使ってきてますが、メディアキー・無線LAN・BTとかタッチスクリーンは面倒なことしなくても動きましたよ"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "5b1d3e4a-f227-47e7-a84e-ccad31a5f274",
+      "type": "message",
+      "text": "ArchWikiをランダムで眺めていると結構ノートマシンの個別記事があるので便利そうだなーって思ってる",
+      "user": "znmxodq1",
+      "ts": "1594031627.369000",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "uA9",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "ArchWikiをランダムで眺めていると結構ノートマシンの個別記事があるので便利そうだなーって思ってる"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "84ef6b4b-3fca-473f-9e53-6bef13f42e95",
+      "type": "message",
+      "text": "ノートPCといえば、インストールして動くかどうかって話が前にでてた気がしますが、おそらく無線LANとファンクションキーや特殊キーの動作に関してまともに動くファームウェアやドライバがあるかどうかかなぁ、そこらへんは場合によってはカーネル再構築する必要があるかも、とは思いました",
+      "user": "seekerkrt",
+      "ts": "1594031560.367700",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "BbhR/",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "ノートPCといえば、インストールして動くかどうかって話が前にでてた気がしますが、おそらく無線LANとファンクションキーや特殊キーの動作に関してまともに動くファームウェアやドライバがあるかどうかかなぁ、そこらへんは場合によってはカーネル再構築する必要があるかも、とは思いました"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "eadeb39d-c74c-4c41-8db1-2467fc66bb59",
+      "type": "message",
+      "text": "ノートPCだとそうは行かないと思いますが・・・難点",
+      "user": "seekerkrt",
+      "ts": "1594031182.365300",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "oaNn",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "ノートPCだとそうは行かないと思いますが・・・難点"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "3442b75d-96e4-4e66-9963-d827184ca64e",
+      "type": "message",
+      "text": "お手軽ですよ＞ディスクごと",
+      "user": "seekerkrt",
+      "ts": "1594031147.364900",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "WajM0",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "お手軽ですよ＞ディスクごと"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "2d0da142-4e42-4a71-a19a-075eeb61b64c",
+      "type": "message",
+      "text": "ディスク分けてしまうのよさそうだな",
+      "user": "znmxodq1",
+      "ts": "1594031066.364500",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "Qzfk",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "ディスク分けてしまうのよさそうだな"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "c2f6d8bf-672d-44e5-8bf5-ddddeeeab57b",
+      "type": "message",
+      "text": "ASUSのマザーボード使ってるから、ディスクごとにブートローダ書き込んで（GRUB OS-Proberとか使わずに）F8押しながらブート選択でいいやってなった\n最初の頃はよく両方のデータがきれいに消し飛んだものです",
+      "user": "seekerkrt",
+      "ts": "1594031018.364000",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "tSmk",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "ASUSのマザーボード使ってるから、ディスクごとにブートローダ書き込んで（GRUB OS-Proberとか使わずに）F8押しながらブート選択でいいやってなった\n最初の頃はよく両方のデータがきれいに消し飛んだものです"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "80ff1203-b239-47c3-a102-f814a40132d7",
+      "type": "message",
+      "text": "何度復旧メディアのお世話になったことか",
+      "user": "znmxodq1",
+      "ts": "1594030925.361500",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "ALDsC",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "何度復旧メディアのお世話になったことか"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "410ee101-0c8b-4b4b-81a7-47f60d92815e",
+      "type": "message",
+      "text": "デュアルブートを安全にやるのは人類には難しすぎるんだよなぁ",
+      "user": "znmxodq1",
+      "ts": "1594030915.361000",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "dmQ",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "デュアルブートを安全にやるのは人類には難しすぎるんだよなぁ"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "57cc6fc4-f732-44d9-9792-4e4edbfdbc04",
+      "type": "message",
+      "text": "バックアップしたデータとLinux入ったディスク外してWindows10クリーンインストールが安全\nデュアルブート環境だとWindowsがおせっかいしてEFI領域いじっちゃうことがあるから……",
+      "user": "seekerkrt",
+      "ts": "1594030845.359700",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "=U5",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "バックアップしたデータとLinux入ったディスク外してWindows10クリーンインストールが安全\nデュアルブート環境だとWindowsがおせっかいしてEFI領域いじっちゃうことがあるから……"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "fba0de72-b387-4e65-bec2-5e045d15296c",
+      "type": "message",
+      "text": "Windowsのシステムイメージのバックアップとか言う機能ついてるけどまともに機能してない",
+      "user": "seekerkrt",
+      "ts": "1594030756.358300",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "+ZJ",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "Windowsのシステムイメージのバックアップとか言う機能ついてるけどまともに機能してない"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "4cc25435-ccf6-4721-8607-b64060b8bcd0",
+      "type": "message",
+      "text": "吹き飛ばす前に一応Windowsパーティションのイメージ保管してるんだけど、復元した試しがない",
+      "user": "znmxodq1",
+      "ts": "1594030706.357600",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "COtN",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "吹き飛ばす前に一応Windowsパーティションのイメージ保管してるんだけど、復元した試しがない"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "9926B3A1-B112-4E4A-A9E9-9CC373D9A2CB",
+      "type": "message",
+      "text": "windowsの初期化は...うっ、思い出したくない",
+      "user": "syui",
+      "ts": "1594030667.357100",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "Z9sf",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "windowsの初期化は...うっ、思い出したくない"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "e4d7c30f-6d44-428c-940e-4ae9d766ea92",
+      "type": "message",
+      "text": "確かpacmanの指示通りに削除してもらった記憶が……",
+      "user": "seekerkrt",
+      "ts": "1594030602.356500",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "OIfsH",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "確かpacmanの指示通りに削除してもらった記憶が……"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "e74b31c4-41b3-4f5e-ab86-4b748a0c771e",
+      "type": "message",
+      "text": "実機もインストールしてるけど、面倒になるとクリーンインストール（往年のWindows初期化と一緒の所業",
+      "user": "seekerkrt",
+      "ts": "1594030526.356000",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "5GJwX",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "実機もインストールしてるけど、面倒になるとクリーンインストール（往年のWindows初期化と一緒の所業"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "1272cd75-e783-46f3-96cf-715401a67b0e",
+      "type": "message",
+      "text": "pacman -Rccもかなりやばいやつ(マネしちゃダメですよ",
+      "user": "syui",
+      "ts": "1594030075.354300",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "yyx7",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "pacman -Rccもかなりやばいやつ(マネしちゃダメですよ"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "cd1578ff-f1a6-42c9-97db-7dca3b9caf68",
+      "type": "message",
+      "text": "一度壊れちゃうと、クリーンインストールのほうが早い場合がありますよね",
+      "user": "syui",
+      "ts": "1594030038.353800",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "cwEMM",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "一度壊れちゃうと、クリーンインストールのほうが早い場合がありますよね"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "fe6fbc6b-a739-4b9f-ae97-4a0a6ebc03d6",
+      "type": "message",
+      "text": "クリーンインストール無駄が多いしどうやって対処したらいいのか知りたい",
+      "user": "znmxodq1",
+      "ts": "1594029946.353300",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "BNQD",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "クリーンインストール無駄が多いしどうやって対処したらいいのか知りたい"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "99a357c5-8b3c-49b2-99d3-e60ce36ab061",
+      "type": "message",
+      "text": "丸ごとスクリプトでクリーンインストール（一番参考にならないやつ）",
+      "user": "znmxodq1",
+      "ts": "1594029843.352800",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "HshP",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "丸ごとスクリプトでクリーンインストール（一番参考にならないやつ）"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "2ce9d6bf-d1ae-4460-b0c0-22475a43d26a",
+      "type": "message",
+      "text": "多分、これ。過去ログでも言及された\n<https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1593750358121600>",
+      "user": "syui",
+      "ts": "1594029570.352300",
+      "team": "T0GFBAM8C",
+      "attachments": [
+        {
+          "from_url": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1593750358121600",
+          "fallback": "[July 2nd, 2020 9:25 PM] aruneko99: あれ、 `xorg-font-utils` が無くなって依存関係が解決できないせいでもろもろのフォントがインストールできなくなってる...",
+          "ts": "1593750358.121600",
+          "author_id": "aruneko99",
+          "author_subname": "aruneko99",
+          "channel_id": "C0GFH3RHU",
+          "channel_name": "random",
+          "is_msg_unfurl": true,
+          "text": "あれ、 `xorg-font-utils` が無くなって依存関係が解決できないせいでもろもろのフォントがインストールできなくなってる...",
+          "author_name": "aruneko99",
+          "author_link": "https://archlinuxjp.slack.com/team/aruneko99",
+          "author_icon": "https://avatars.slack-edge.com/2017-08-23/229932114416_ca48bb36d6cfe3d998ac_48.png",
+          "mrkdwn_in": [
+            "text"
+          ],
+          "id": 1,
+          "original_url": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1593750358121600",
+          "footer": "#random に投稿"
+        }
+      ],
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "Az6oc",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "多分、これ。過去ログでも言及された\n"
+                },
+                {
+                  "type": "link",
+                  "url": "https://archlinuxjp.slack.com/archives/C0GFH3RHU/p1593750358121600"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "26e352ce-5128-4fa9-ade3-36cefaa245f0",
+      "type": "message",
+      "text": "最近、xorg-fonts関連で依存がどうのこうの言われたので\n```$ pacman -Rcc xorg-fonts-alias```\nしました。(これでいいのかはわからない\n皆さんはどのような感じで対応されましたか?",
+      "user": "syui",
+      "ts": "1594029477.351700",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "4nVN",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "最近、xorg-fonts関連で依存がどうのこうの言われたので\n"
+                }
+              ]
+            },
+            {
+              "type": "rich_text_preformatted",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "$ pacman -Rcc xorg-fonts-alias"
+                }
+              ]
+            },
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "しました。(これでいいのかはわからない\n皆さんはどのような感じで対応されましたか?"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "DFA0A573-5004-4C19-867F-E82C078912B3",
+      "type": "message",
+      "text": "こんにちはー",
+      "user": "syui",
+      "ts": "1594027537.350000",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "+t/o",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "こんにちはー"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "392a5130-3453-4d1c-9a39-6d899c69ce58",
+      "type": "message",
+      "text": "こんにちはー、なんとなく参加してみました",
+      "user": "seekerkrt",
+      "ts": "1594006743.348300",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "1Alf",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "こんにちはー、なんとなく参加してみました"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "reactions": [
+        {
+          "name": "archjp",
+          "users": [
+            "UUWBU08TU",
+            "U0PM6EYR1",
+            "emtee",
+            "U3FJYR7MG",
+            "aruneko99",
+            "znmxodq1",
+            "angel.beats.kanade.yu",
+            "U0125GT9MNX",
+            "UL3J5T649",
+            "URZFHALTT",
+            "UKT90HXU0",
+            "UPL8M8KPT",
+            "U53RAQBCP",
+            "syui",
+            "U0H9QUFA5",
+            "UJ7P75WB1"
+          ],
+          "count": 16
+        }
+      ]
+    },
+    {
+      "type": "message",
+      "subtype": "channel_join",
+      "ts": "1593971207.347200",
+      "user": "seekerkrt",
+      "text": "<@seekerkrt>さんがチャンネルに参加しました"
+    }
+  ],
+  "has_more": false,
+  "is_limited": true,
+  "pin_count": 16,
+  "channel_actions_ts": null,
+  "channel_actions_count": 0
+}

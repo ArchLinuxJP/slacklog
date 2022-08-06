@@ -1,0 +1,2825 @@
+{
+  "ok": true,
+  "latest": "1606824652.000000",
+  "oldest": "1604232652.000000",
+  "messages": [
+    {
+      "type": "message",
+      "subtype": "thread_broadcast",
+      "text": "これ直してもらいました！",
+      "user": "yutakatay",
+      "ts": "1606787701.037900",
+      "thread_ts": "1606719869.035500",
+      "root": {
+        "client_msg_id": "2613d9eb-3bb5-4e02-a62d-1dd205148b16",
+        "type": "message",
+        "text": "fcitx4とfcitx5でHotkeyの挙動が違うのがつらい。。。\nEscでIME無効にしたくてかつEscのキーも送ってほしいんだけど、4ならできて5はできない。完璧にEscを食べられちゃう・・・",
+        "user": "yutakatay",
+        "ts": "1606719869.035500",
+        "team": "T0GFBAM8C",
+        "blocks": [
+          {
+            "type": "rich_text",
+            "block_id": "QptUV",
+            "elements": [
+              {
+                "type": "rich_text_section",
+                "elements": [
+                  {
+                    "type": "text",
+                    "text": "fcitx4とfcitx5でHotkeyの挙動が違うのがつらい。。。\nEscでIME無効にしたくてかつEscのキーも送ってほしいんだけど、4ならできて5はできない。完璧にEscを食べられちゃう・・・"
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "thread_ts": "1606719869.035500",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1606787701.037900",
+        "reply_users": [
+          "yutakatay"
+        ],
+        "is_locked": false,
+        "subscribed": false
+      },
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "ZO3L",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "これ直してもらいました！"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "client_msg_id": "f6ef2997-1b51-4155-971c-20239cc50fcf",
+      "reactions": [
+        {
+          "name": "+1",
+          "users": [
+            "emtee",
+            "znmxodq1",
+            "s5is",
+            "syui",
+            "kusanaginoturugi",
+            "kokopis",
+            "motoi.railgun"
+          ],
+          "count": 7
+        }
+      ]
+    },
+    {
+      "type": "message",
+      "subtype": "channel_join",
+      "ts": "1606726735.037400",
+      "user": "k725red525",
+      "text": "<@k725red525>さんがチャンネルに参加しました"
+    },
+    {
+      "client_msg_id": "d9d00eda-07e0-49bc-9b2f-c2b513ce65f9",
+      "type": "message",
+      "text": "<https://www.youtube.com/watch?v=-yVXDtaXQdc>",
+      "user": "raa0121",
+      "ts": "1606720011.036900",
+      "team": "T0GFBAM8C",
+      "attachments": [
+        {
+          "service_name": "YouTube",
+          "service_url": "https://www.youtube.com/",
+          "title": "たべちゃうぞ",
+          "title_link": "https://www.youtube.com/watch?v=-yVXDtaXQdc",
+          "author_name": "matu",
+          "author_link": "https://www.youtube.com/user/matuwi",
+          "thumb_url": "https://i.ytimg.com/vi/-yVXDtaXQdc/hqdefault.jpg",
+          "thumb_width": 480,
+          "thumb_height": 360,
+          "fallback": "YouTube Video: たべちゃうぞ",
+          "video_html": "<iframe width=\"400\" height=\"300\" src=\"https://www.youtube.com/embed/-yVXDtaXQdc?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+          "video_html_width": 400,
+          "video_html_height": 300,
+          "from_url": "https://www.youtube.com/watch?v=-yVXDtaXQdc",
+          "service_icon": "https://a.slack-edge.com/80588/img/unfurl_icons/youtube.png",
+          "id": 1,
+          "original_url": "https://www.youtube.com/watch?v=-yVXDtaXQdc"
+        }
+      ],
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "3G9",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "link",
+                  "url": "https://www.youtube.com/watch?v=-yVXDtaXQdc"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "bf0ef723-cc9e-4468-a0c1-ed46adfb515c",
+      "type": "message",
+      "text": "連打したら食べ残してくれるかと思ったけど、もれなく全部食べられた",
+      "user": "yutakatay",
+      "ts": "1606719983.036500",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "fPjlA",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "連打したら食べ残してくれるかと思ったけど、もれなく全部食べられた"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "2d368abb-dff7-47e5-b845-648be43b50a5",
+      "type": "message",
+      "text": "fcitx5「たべちゃうぞ！」",
+      "user": "raa0121",
+      "ts": "1606719954.035800",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "+cKs",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "fcitx5「たべちゃうぞ！」"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "2613d9eb-3bb5-4e02-a62d-1dd205148b16",
+      "type": "message",
+      "text": "fcitx4とfcitx5でHotkeyの挙動が違うのがつらい。。。\nEscでIME無効にしたくてかつEscのキーも送ってほしいんだけど、4ならできて5はできない。完璧にEscを食べられちゃう・・・",
+      "user": "yutakatay",
+      "ts": "1606719869.035500",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "QptUV",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "fcitx4とfcitx5でHotkeyの挙動が違うのがつらい。。。\nEscでIME無効にしたくてかつEscのキーも送ってほしいんだけど、4ならできて5はできない。完璧にEscを食べられちゃう・・・"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "thread_ts": "1606719869.035500",
+      "reply_count": 1,
+      "reply_users_count": 1,
+      "latest_reply": "1606787701.037900",
+      "reply_users": [
+        "yutakatay"
+      ],
+      "is_locked": false,
+      "subscribed": false,
+      "reactions": [
+        {
+          "name": "thinking_face",
+          "users": [
+            "kusanaginoturugi"
+          ],
+          "count": 1
+        }
+      ]
+    },
+    {
+      "client_msg_id": "d18d6def-af70-4ad8-8175-99b268e7911a",
+      "type": "message",
+      "text": "ぁ、インライン入力は確かに無理です",
+      "user": "farseerfc",
+      "ts": "1606715527.033600",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "9yv",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "ぁ、インライン入力は確かに無理です"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "f936fa03-6bde-4102-ac1d-a11549281351",
+      "type": "message",
+      "text": "alacritty と fcitx5 は使えますよ",
+      "user": "farseerfc",
+      "ts": "1606715401.032800",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "V1uVE",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "alacritty と fcitx5 は使えますよ"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "9623d5e4-4402-4676-bddb-cac1a758f0c9",
+      "type": "message",
+      "text": "フォントサイズをベタ書きで動作させるとこまではいったんですけど、外部からフォントサイズ渡そうとすると winit 側のインターフェイス変えないといけなくて、良い方法思いついたら送ろうと思ってたんですけど数年経ってしまいました",
+      "user": "odknt",
+      "ts": "1606711283.031900",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "dwM",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "フォントサイズをベタ書きで動作させるとこまではいったんですけど、外部からフォントサイズ渡そうとすると winit 側のインターフェイス変えないといけなくて、良い方法思いついたら送ろうと思ってたんですけど数年経ってしまいました"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "9a87cdb8-88db-484d-8a85-e477f22d32b2",
+      "type": "message",
+      "text": "自分もwinitまで行き着いて力尽きました",
+      "user": "h.hata.ai.t",
+      "ts": "1606710463.030600",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "tRBt4",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "自分もwinitまで行き着いて力尽きました"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "a1ef2590-44a5-419b-9915-6f7dea6469d7",
+      "type": "message",
+      "text": "一回 alacritty のインライン入力パッチ作ったけど、依存ライブラリの winit 側も修正しないと対応できなかった記憶がある。\n確か winit 側の XIM 初期化の際に alacritty のフォントサイズを渡す上手い方法が思いつかなくて結局 PR 送らなかった。",
+      "user": "odknt",
+      "ts": "1606710230.029800",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "0nc",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "一回 alacritty のインライン入力パッチ作ったけど、依存ライブラリの winit 側も修正しないと対応できなかった記憶がある。\n確か winit 側の XIM 初期化の際に alacritty のフォントサイズを渡す上手い方法が思いつかなくて結局 PR 送らなかった。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "reactions": [
+        {
+          "name": "cry",
+          "users": [
+            "yutakatay"
+          ],
+          "count": 1
+        }
+      ]
+    },
+    {
+      "client_msg_id": "5aa3a949-169a-4b2b-b525-ce0b0f4cd9aa",
+      "type": "message",
+      "text": "一応Issueはだいぶ前からあるんですけどね。。。作者CJK圏じゃないし優先度低いんですよね。waylandで日本語入力できないとかもまだあるし\n<https://github.com/alacritty/alacritty/issues/1101>",
+      "user": "yutakatay",
+      "ts": "1606705941.026600",
+      "team": "T0GFBAM8C",
+      "attachments": [
+        {
+          "service_name": "GitHub",
+          "title": "Cannot input japanese characters · Issue #1101 · alacritty/alacritty",
+          "title_link": "https://github.com/alacritty/alacritty/issues/1101",
+          "text": "Which operating system does the issue occur on? macOS 10.12.6 The Kana key to switch to japanese input is not registered, it only prints out a space. Same for the other key called Eiso. Switching t...",
+          "fallback": "GitHub: Cannot input japanese characters · Issue #1101 · alacritty/alacritty",
+          "from_url": "https://github.com/alacritty/alacritty/issues/1101",
+          "thumb_url": "https://repository-images.githubusercontent.com/51980455/c6857780-448b-11ea-95ed-00fdbc59eb0b",
+          "thumb_width": 500,
+          "thumb_height": 250,
+          "service_icon": "https://a.slack-edge.com/80588/img/unfurl_icons/github.png",
+          "id": 1,
+          "original_url": "https://github.com/alacritty/alacritty/issues/1101"
+        }
+      ],
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "wnH6s",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "一応Issueはだいぶ前からあるんですけどね。。。作者CJK圏じゃないし優先度低いんですよね。waylandで日本語入力できないとかもまだあるし\n"
+                },
+                {
+                  "type": "link",
+                  "url": "https://github.com/alacritty/alacritty/issues/1101"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "45822157-70ea-4ddb-81d4-067267bbde92",
+      "type": "message",
+      "text": "alacrittyでダメなの不思議ですよね。",
+      "user": "kusanaginoturugi",
+      "ts": "1606705859.025500",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "MrN",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "alacrittyでダメなの不思議ですよね。"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "message",
+      "subtype": "thread_broadcast",
+      "text": "やっぱalacrittyだめなんだ。。。残念\nでもありがとうございます。乗り換えてみよう",
+      "user": "yutakatay",
+      "ts": "1606705834.024900",
+      "thread_ts": "1606705694.024400",
+      "root": {
+        "client_msg_id": "ef500e26-94e2-417b-bfcc-d53dcf3769ea",
+        "type": "message",
+        "text": "まじで！",
+        "user": "yutakatay",
+        "ts": "1606705694.024400",
+        "team": "T0GFBAM8C",
+        "blocks": [
+          {
+            "type": "rich_text",
+            "block_id": "wx5WS",
+            "elements": [
+              {
+                "type": "rich_text_section",
+                "elements": [
+                  {
+                    "type": "text",
+                    "text": "まじで！"
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "thread_ts": "1606705694.024400",
+        "reply_count": 33,
+        "reply_users_count": 3,
+        "latest_reply": "1608982803.217400",
+        "reply_users": [
+          "kusanaginoturugi",
+          "yutakatay",
+          "syui"
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1608982803.217400"
+      },
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "xBqRa",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "やっぱalacrittyだめなんだ。。。残念\nでもありがとうございます。乗り換えてみよう"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "client_msg_id": "a8af0aef-9ef2-4c0d-adad-e15caa295005"
+    },
+    {
+      "client_msg_id": "ef500e26-94e2-417b-bfcc-d53dcf3769ea",
+      "type": "message",
+      "text": "まじで！",
+      "user": "yutakatay",
+      "ts": "1606705694.024400",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "wx5WS",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "まじで！"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "thread_ts": "1606705694.024400",
+      "reply_count": 33,
+      "reply_users_count": 3,
+      "latest_reply": "1608982803.217400",
+      "reply_users": [
+        "kusanaginoturugi",
+        "yutakatay",
+        "syui"
+      ],
+      "is_locked": false,
+      "subscribed": true,
+      "last_read": "1608982803.217400"
+    },
+    {
+      "client_msg_id": "af7cb0a1-b8c9-441c-a02e-6d1907e149e0",
+      "type": "message",
+      "text": "このところずっとfcitxでインライン入力できなかったのですが、もしかしてと思ってfcitx5に変更してみたら、今のところ全てのアプリでインライン入力できるようになっていました。あーよかった。",
+      "user": "kusanaginoturugi",
+      "ts": "1606705658.024200",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "qbhxU",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "このところずっとfcitxでインライン入力できなかったのですが、もしかしてと思ってfcitx5に変更してみたら、今のところ全てのアプリでインライン入力できるようになっていました。あーよかった。"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "4ef99227-9d54-4e9c-ac18-5ddc4d980b6c",
+      "type": "message",
+      "text": "自分でビルド、っていうのは makepkg -si のことなのでは？",
+      "user": "addokoda",
+      "ts": "1606664511.020000",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "ciYJP",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "自分でビルド、っていうのは makepkg -si のことなのでは？"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "30ca49ce-a591-4267-b01e-e3fcba336591",
+      "type": "message",
+      "text": "<@addokoda> あーなるほど　差異はそのままなんですね　つまりpacman wrapperなら検索機能からダウンロード後の自動ビルドまでってことですね\nmakepkg -siと自分でビルドするのと何が違うんでしょう?!",
+      "user": "v3rn3j",
+      "ts": "1606663116.019900",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "PesrT",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "user",
+                  "user_id": "addokoda"
+                },
+                {
+                  "type": "text",
+                  "text": " あーなるほど　差異はそのままなんですね　つまりpacman wrapperなら検索機能からダウンロード後の自動ビルドまでってことですね\nmakepkg -siと自分でビルドするのと何が違うんでしょう?!"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "9d035fa9-8666-4535-bb5b-9aeff615fa4b",
+      "type": "message",
+      "text": "aurutils は使ったことがないのでわかりませんが、PKGBUILD を修正するなどの途中での介入がやりやすいのかも。yay でも PKGBUILD の確認はできるので、普通に使う分には十分だと思います。",
+      "user": "addokoda",
+      "ts": "1606661872.017900",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "JXwz",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "aurutils は使ったことがないのでわかりませんが、PKGBUILD を修正するなどの途中での介入がやりやすいのかも。yay でも PKGBUILD の確認はできるので、普通に使う分には十分だと思います。"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "9f4b36bc-fe63-4975-b709-316fff04ba05",
+      "type": "message",
+      "text": "そのままの意味で、ダウンロードまでか、ビルドまでやってくれるか、Pacman みたいに全自動でやってくれるか、ですね。",
+      "user": "addokoda",
+      "ts": "1606661576.017800",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "hOb/3",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "そのままの意味で、ダウンロードまでか、ビルドまでやってくれるか、Pacman みたいに全自動でやってくれるか、ですね。"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "b35cf022-3813-4b62-b05a-47a4812fd0b2",
+      "type": "message",
+      "text": "&gt; <https://wiki.archlinux.org/index.php/AUR_helpers|Aur helper> に書かれている*Search and download*と*Search and build*と*Pacman wrappers*の差異ってなんですかね？",
+      "user": "addokoda",
+      "ts": "1606661524.017700",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "uWI",
+          "elements": [
+            {
+              "type": "rich_text_quote",
+              "elements": [
+                {
+                  "type": "link",
+                  "url": "https://wiki.archlinux.org/index.php/AUR_helpers",
+                  "text": "Aur helper"
+                },
+                {
+                  "type": "text",
+                  "text": " に書かれている"
+                },
+                {
+                  "type": "text",
+                  "text": "Search and download",
+                  "style": {
+                    "bold": true
+                  }
+                },
+                {
+                  "type": "text",
+                  "text": "と"
+                },
+                {
+                  "type": "text",
+                  "text": "Search and build",
+                  "style": {
+                    "bold": true
+                  }
+                },
+                {
+                  "type": "text",
+                  "text": "と"
+                },
+                {
+                  "type": "text",
+                  "text": "Pacman wrappers",
+                  "style": {
+                    "bold": true
+                  }
+                },
+                {
+                  "type": "text",
+                  "text": "の差異ってなんですかね？"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "0e4c1b6c-b61e-4834-be27-423b4e146f79",
+      "type": "message",
+      "text": "こんにちは　\n<https://wiki.archlinux.org/index.php/AUR_helpers|Aur helper> に書かれている*Search and download*と*Search and build*と*Pacman wrappers*の差異ってなんですかね？\nあとTU等Archに結構精通している人が<https://github.com/AladW/aurutils|aurutils>を利用しているのですが、あんまりメリットがわからないのですがもし利用している方いましたら\nyayなどのwrapperより優れている点が知りたいです。\nよくわからないというのは、言語特有の言い回しだったり、自分のaurなりpacmanなりの知識不足からか何を指しているのかわからない等\n\n参考にしたサイトなり\n• <https://bbs.archlinux.org/viewtopic.php?id=210621>\n• <https://www.reddit.com/r/archlinux/comments/a8lize/benefits_of_aurutils_vs_yay/>\n• <https://www.youtube.com/watch?v=44X2yOwZCH0&amp;t=1491s>",
+      "user": "v3rn3j",
+      "ts": "1606653647.017200",
+      "team": "T0GFBAM8C",
+      "edited": {
+        "user": "v3rn3j",
+        "ts": "1606653689.000000"
+      },
+      "attachments": [
+        {
+          "service_name": "GitHub",
+          "title": "AladW/aurutils",
+          "title_link": "https://github.com/AladW/aurutils",
+          "text": "Helper tools for the AUR. Contribute to AladW/aurutils development by creating an account on GitHub.",
+          "fallback": "GitHub: AladW/aurutils",
+          "thumb_url": "https://avatars3.githubusercontent.com/u/5507364?s=400&v=4",
+          "from_url": "https://github.com/AladW/aurutils",
+          "thumb_width": 400,
+          "thumb_height": 400,
+          "service_icon": "https://a.slack-edge.com/80588/img/unfurl_icons/github.png",
+          "id": 1,
+          "original_url": "https://github.com/AladW/aurutils"
+        },
+        {
+          "service_name": "reddit",
+          "title": "Benefits of aurutils vs yay",
+          "title_link": "https://www.reddit.com/r/archlinux/comments/a8lize/benefits_of_aurutils_vs_yay/",
+          "text": "Hello, I am new to Arch but I've read all the relevant arch wiki pages, learned to manually install AUR packages (don't understand the difference...",
+          "fallback": "reddit: Benefits of aurutils vs yay",
+          "thumb_url": "https://www.redditstatic.com/new-icon.png",
+          "from_url": "https://www.reddit.com/r/archlinux/comments/a8lize/benefits_of_aurutils_vs_yay/",
+          "thumb_width": 256,
+          "thumb_height": 256,
+          "service_icon": "http://www.redditstatic.com/desktop2x/img/favicon/apple-icon-57x57.png",
+          "id": 2,
+          "original_url": "https://www.reddit.com/r/archlinux/comments/a8lize/benefits_of_aurutils_vs_yay/"
+        },
+        {
+          "service_name": "YouTube",
+          "service_url": "https://www.youtube.com/",
+          "title": "AUR helpers - Full Installation Guide for Aurutils",
+          "title_link": "https://www.youtube.com/watch?v=44X2yOwZCH0&amp;t=1491s",
+          "author_name": "Nice Micro",
+          "author_link": "https://www.youtube.com/channel/UC2bkdAPR47c7FkvwSXzzMzQ",
+          "thumb_url": "https://i.ytimg.com/vi/44X2yOwZCH0/hqdefault.jpg",
+          "thumb_width": 480,
+          "thumb_height": 360,
+          "fallback": "YouTube Video: AUR helpers - Full Installation Guide for Aurutils",
+          "video_html": "<iframe width=\"400\" height=\"225\" src=\"https://www.youtube.com/embed/44X2yOwZCH0?feature=oembed&start=1491&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+          "video_html_width": 400,
+          "video_html_height": 225,
+          "from_url": "https://www.youtube.com/watch?v=44X2yOwZCH0&amp;t=1491s",
+          "service_icon": "https://a.slack-edge.com/80588/img/unfurl_icons/youtube.png",
+          "id": 3,
+          "original_url": "https://www.youtube.com/watch?v=44X2yOwZCH0&amp;t=1491s"
+        }
+      ],
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "hGl",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "こんにちは　\n"
+                },
+                {
+                  "type": "link",
+                  "url": "https://wiki.archlinux.org/index.php/AUR_helpers",
+                  "text": "Aur helper"
+                },
+                {
+                  "type": "text",
+                  "text": " に書かれている"
+                },
+                {
+                  "type": "text",
+                  "text": "Search and download",
+                  "style": {
+                    "bold": true
+                  }
+                },
+                {
+                  "type": "text",
+                  "text": "と"
+                },
+                {
+                  "type": "text",
+                  "text": "Search and build",
+                  "style": {
+                    "bold": true
+                  }
+                },
+                {
+                  "type": "text",
+                  "text": "と"
+                },
+                {
+                  "type": "text",
+                  "text": "Pacman wrappers",
+                  "style": {
+                    "bold": true
+                  }
+                },
+                {
+                  "type": "text",
+                  "text": "の差異ってなんですかね？\nあとTU等Archに結構精通している人が"
+                },
+                {
+                  "type": "link",
+                  "url": "https://github.com/AladW/aurutils",
+                  "text": "aurutils"
+                },
+                {
+                  "type": "text",
+                  "text": "を利用しているのですが、あんまりメリットがわからないのですがもし利用している方いましたら\nyayなどのwrapperより優れている点が知りたいです。\nよくわからないというのは、言語特有の言い回しだったり、自分のaurなりpacmanなりの知識不足からか何を指しているのかわからない等\n\n参考にしたサイトなり\n"
+                }
+              ]
+            },
+            {
+              "type": "rich_text_list",
+              "elements": [
+                {
+                  "type": "rich_text_section",
+                  "elements": [
+                    {
+                      "type": "link",
+                      "url": "https://bbs.archlinux.org/viewtopic.php?id=210621"
+                    }
+                  ]
+                },
+                {
+                  "type": "rich_text_section",
+                  "elements": [
+                    {
+                      "type": "link",
+                      "url": "https://www.reddit.com/r/archlinux/comments/a8lize/benefits_of_aurutils_vs_yay/"
+                    }
+                  ]
+                },
+                {
+                  "type": "rich_text_section",
+                  "elements": [
+                    {
+                      "type": "link",
+                      "url": "https://www.youtube.com/watch?v=44X2yOwZCH0&t=1491s"
+                    }
+                  ]
+                }
+              ],
+              "style": "bullet",
+              "indent": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "8967EA17-BD90-46F1-9008-12C61418EFFF",
+      "type": "message",
+      "text": "こちらからできたと思います",
+      "user": "syui",
+      "ts": "1606610895.011900",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "glA2f",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "こちらからできたと思います"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "6A784275-927F-42A0-8A55-59628F7ECD05",
+      "type": "message",
+      "text": "こんにちは\n<https://wiki.archlinux.jp/index.php/%E3%83%98%E3%83%AB%E3%83%97:%E7%B7%A8%E9%9B%86%23.E3.82.A2.E3.82.AB.E3.82.A6.E3.83.B3.E3.83.88.E3.81.AE.E4.BD.9C.E6.88.90|https://wiki.archlinux.jp/index.php/%E3%83%98%E3%83%AB%E3%83%97:%E7%B7%A8%E9%9B%86%23.E3.82.A2.E3.82.AB.E3.82.A6.E3.83.B3.E3.83.88.E3.81.AE.E4.BD.9C.E6.88.90>",
+      "user": "syui",
+      "ts": "1606610839.011500",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "TVB",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "こんにちは\n"
+                },
+                {
+                  "type": "link",
+                  "url": "https://wiki.archlinux.jp/index.php/%E3%83%98%E3%83%AB%E3%83%97:%E7%B7%A8%E9%9B%86%23.E3.82.A2.E3.82.AB.E3.82.A6.E3.83.B3.E3.83.88.E3.81.AE.E4.BD.9C.E6.88.90",
+                  "text": "https://wiki.archlinux.jp/index.php/%E3%83%98%E3%83%AB%E3%83%97:%E7%B7%A8%E9%9B%86%23.E3.82.A2.E3.82.AB.E3.82.A6.E3.83.B3.E3.83.88.E3.81.AE.E4.BD.9C.E6.88.90"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "thread_ts": "1606610839.011500",
+      "reply_count": 2,
+      "reply_users_count": 1,
+      "latest_reply": "1606716169.033900",
+      "reply_users": [
+        "farseerfc"
+      ],
+      "is_locked": false,
+      "subscribed": true,
+      "last_read": "1606716169.033900"
+    },
+    {
+      "client_msg_id": "adc1b860-7aa1-455c-87bf-8a95c8614538",
+      "type": "message",
+      "text": "こんにちは、archwiki日本語版のアカウントはどこから申請できますか？",
+      "user": "farseerfc",
+      "ts": "1606609664.011200",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "/SjY",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "こんにちは、archwiki日本語版のアカウントはどこから申請できますか？"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "546efd01-5bb3-4a0c-a9c5-f580296c2b13",
+      "type": "message",
+      "text": "Discordを使ってるOSSコミュニティ結構ありますよね\nmattermostはこれだけのユーザがいる鯖を誰が管理するのかがかなりネックになりそう......",
+      "user": "angel.beats.kanade.yu",
+      "ts": "1606393340.008800",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "oEe",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "Discordを使ってるOSSコミュニティ結構ありますよね\nmattermostはこれだけのユーザがいる鯖を誰が管理するのかがかなりネックになりそう......"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "reactions": [
+        {
+          "name": "wakaru",
+          "users": [
+            "kokopis",
+            "U5JRJL4AF",
+            "dohq",
+            "U5W6QDSHZ",
+            "s5is"
+          ],
+          "count": 5
+        }
+      ]
+    },
+    {
+      "client_msg_id": "015debfa-be68-4b56-9b92-aeefd4fa0169",
+      "type": "message",
+      "text": "gitter(小声)",
+      "user": "dohq",
+      "ts": "1606383332.007500",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "9RNy",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "gitter(小声)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "57d9add6-5300-466b-bb99-6989e7251811",
+      "type": "message",
+      "text": "slackもう少し個人に優しい価格のプランあれば個人利用のやつ課金したいんですけどね。",
+      "user": "h.hata.ai.t",
+      "ts": "1606381904.006900",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "jovs",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "slackもう少し個人に優しい価格のプランあれば個人利用のやつ課金したいんですけどね。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "reactions": [
+        {
+          "name": "wakaru",
+          "users": [
+            "s5is",
+            "znmxodq1",
+            "dohq",
+            "motoi.railgun"
+          ],
+          "count": 4
+        }
+      ]
+    },
+    {
+      "client_msg_id": "adbea0a0-8d3b-478f-8387-3afdde72eb73",
+      "type": "message",
+      "text": "<https://zulip.com/|https://zulip.com/>",
+      "user": "h.hata.ai.t",
+      "ts": "1606381721.005100",
+      "team": "T0GFBAM8C",
+      "attachments": [
+        {
+          "service_name": "Zulip",
+          "title": "Chat for distributed teams",
+          "title_link": "https://zulip.com/",
+          "text": "Zulip combines the immediacy of real-time chat with an email threading model. With Zulip, you can catch up on important conversations while ignoring irrelevant ones.",
+          "fallback": "Zulip: Chat for distributed teams",
+          "thumb_url": "https://zulipchat.com/static/images/logo/zulip-icon-128x128.png",
+          "from_url": "https://zulip.com/",
+          "thumb_width": 128,
+          "thumb_height": 128,
+          "id": 1,
+          "original_url": "https://zulip.com/"
+        }
+      ],
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "z0uf",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "link",
+                  "url": "https://zulip.com/",
+                  "text": "https://zulip.com/"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "c26d9423-1d80-46a6-900e-c2814d8479a9",
+      "type": "message",
+      "text": "RedoxのコミュニティとかはMattermostつかってますね",
+      "user": "kokopis",
+      "ts": "1606380033.004900",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "036F",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "RedoxのコミュニティとかはMattermostつかってますね"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "c7296c4f-05b5-4377-b022-096be18dc8c5",
+      "type": "message",
+      "text": "個人的にはDiscordでも良いけど、他の選択肢もあったら知りたい",
+      "user": "jnsk",
+      "ts": "1606376527.004400",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "oXY6D",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "個人的にはDiscordでも良いけど、他の選択肢もあったら知りたい"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "c1e93ba9-1812-45a7-aa4d-2e1e63729f27",
+      "type": "message",
+      "text": "ここもDiscordに移行してくれたら助かる",
+      "user": "aoisensi.potato_slack",
+      "ts": "1606374649.003400",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "72h",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "ここもDiscordに移行してくれたら助かる"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "bd315208-36d1-467a-9154-31764657c6c7",
+      "type": "message",
+      "text": "discordに移行とかですかねぇ…",
+      "user": "dohq",
+      "ts": "1606372347.002500",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "CEeG2",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "discordに移行とかですかねぇ…"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "reactions": [
+        {
+          "name": "wakaru",
+          "users": [
+            "s5is",
+            "angel.beats.kanade.yu",
+            "getalotofmail",
+            "motoi.railgun",
+            "U6Y9PK6DB",
+            "v3rn3j"
+          ],
+          "count": 6
+        }
+      ]
+    },
+    {
+      "client_msg_id": "a4609533-b282-4db2-8d16-5af82e4031bc",
+      "type": "message",
+      "text": "うちも家族でSlack使ってるので無料枠消えたら辛い。\nMattermost鯖とか建てることになるのかな…\n→今見たらMattermostのクラウド版は10ユーザーまで無料だった",
+      "user": "s5is",
+      "ts": "1606371848.001500",
+      "team": "T0GFBAM8C",
+      "edited": {
+        "user": "s5is",
+        "ts": "1606372054.000000"
+      },
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "se/bP",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "うちも家族でSlack使ってるので無料枠消えたら辛い。\nMattermost鯖とか建てることになるのかな…\n→今見たらMattermostのクラウド版は10ユーザーまで無料だった"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "2fd11eb9-87da-41ec-943a-cdc46dfad038",
+      "type": "message",
+      "text": "ちなみに、herokuは好き\nかなりお世話になってる",
+      "user": "syui",
+      "ts": "1606370026.000300",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "RBA9d",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "ちなみに、herokuは好き\nかなりお世話になってる"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "18fe4534-45ea-4f18-b9bf-332043db269f",
+      "type": "message",
+      "text": "そういえばsalesforce、herokuの中の人からの評判もあまりよくないぽい",
+      "user": "syui",
+      "ts": "1606369800.499900",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "eh2",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "そういえばsalesforce、herokuの中の人からの評判もあまりよくないぽい"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "3fd378af-066c-4ba7-bc39-1b050f34f869",
+      "type": "message",
+      "text": "なるほど",
+      "user": "syui",
+      "ts": "1606369733.498900",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "/5/",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "なるほど"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "1d7b3645-ae76-48e4-b7ac-73cb85ff2460",
+      "type": "message",
+      "text": "herokuとslackは性質が違うけども",
+      "user": "znmxodq1",
+      "ts": "1606369687.498700",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "Gxehe",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "herokuとslackは性質が違うけども"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "02ccc20b-4caa-4e58-9d90-577ce493fed8",
+      "type": "message",
+      "text": "salesforceのheroku買収と直接関係あるのかは分からないけどherokuの無料枠が消えたのが印象深くて",
+      "user": "znmxodq1",
+      "ts": "1606369680.498400",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "eKX",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "salesforceのheroku買収と直接関係あるのかは分からないけどherokuの無料枠が消えたのが印象深くて"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "reactions": [
+        {
+          "name": "totemoturai",
+          "users": [
+            "U2YNMHCTV"
+          ],
+          "count": 1
+        }
+      ]
+    },
+    {
+      "client_msg_id": "43fc63c5-eb65-422f-9f64-fc48d7920b7e",
+      "type": "message",
+      "text": "そんなイメージが",
+      "user": "syui",
+      "ts": "1606369486.497500",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "9f4d",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "そんなイメージが"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "115674b8-3a5d-40cf-af2a-a5646dfa6823",
+      "type": "message",
+      "text": "salesforceてherokuの親会社でしたっけ",
+      "user": "syui",
+      "ts": "1606369406.497000",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "OGtb",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "salesforceてherokuの親会社でしたっけ"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "637e6b31-a337-4461-a44a-55f9fce74f03",
+      "type": "message",
+      "text": "最も現実的な選択肢としては、どこかに移行とかになりそう",
+      "user": "syui",
+      "ts": "1606369183.496300",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "3PYIM",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "最も現実的な選択肢としては、どこかに移行とかになりそう"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "46908468-8ef5-4364-8c30-3d2579df35bf",
+      "type": "message",
+      "text": "なくなるのはイヤだ",
+      "user": "getalotofmail",
+      "ts": "1606368592.495900",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "jFyq",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "なくなるのはイヤだ"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "4ad3802d-2a23-434a-af0f-01000fc99c0a",
+      "type": "message",
+      "text": "<https://jp.wsj.com/articles/SB10064904988218504752604587121044267440620>\nSlack の無料プラン、無くなったりしたらここはどうしますかね",
+      "user": "raa0121",
+      "ts": "1606367880.494900",
+      "team": "T0GFBAM8C",
+      "attachments": [
+        {
+          "service_name": "WSJ Japan",
+          "title": "米セールスフォース、スラック買収に向け協議",
+          "title_link": "https://jp.wsj.com/articles/SB10064904988218504752604587121044267440620",
+          "text": "　セールスフォース・ドットコムが、企業向けコミュニケーションツールのスラック・テクノロジーズを買収する方向で最近協議していたことが分かった。",
+          "fallback": "WSJ Japan: 米セールスフォース、スラック買収に向け協議",
+          "image_url": "https://images.wsj.net/im-264659/social",
+          "image_width": 500,
+          "image_height": 250,
+          "from_url": "https://jp.wsj.com/articles/SB10064904988218504752604587121044267440620",
+          "image_bytes": 84870,
+          "service_icon": "https://s.wsj.net/media/wsj_apple-touch-icon-180x180.png",
+          "id": 1,
+          "original_url": "https://jp.wsj.com/articles/SB10064904988218504752604587121044267440620"
+        }
+      ],
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "71IJ",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "link",
+                  "url": "https://jp.wsj.com/articles/SB10064904988218504752604587121044267440620"
+                },
+                {
+                  "type": "text",
+                  "text": "\nSlack の無料プラン、無くなったりしたらここはどうしますかね"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "message",
+      "subtype": "channel_join",
+      "ts": "1606332576.490400",
+      "user": "milkcrown0156",
+      "text": "<@milkcrown0156>さんがチャンネルに参加しました"
+    },
+    {
+      "client_msg_id": "9a1d87dc-7187-4769-8ff4-a56404cecfe1",
+      "type": "message",
+      "text": "昨日の夜あたりから、無線LAN接続しているプリンターが使えなくなってしまったのですが同じような症状の方はいらっしゃいますでしょうか？wi-fi 自体は生きているのでcups関係のトラブルかと思うのですが(+_+)",
+      "user": "raggedoven2009",
+      "ts": "1606176632.484900",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "DQiQ",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "昨日の夜あたりから、無線LAN接続しているプリンターが使えなくなってしまったのですが同じような症状の方はいらっしゃいますでしょうか？wi-fi 自体は生きているのでcups関係のトラブルかと思うのですが(+_+)"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "thread_ts": "1606176632.484900",
+      "reply_count": 5,
+      "reply_users_count": 2,
+      "latest_reply": "1606301049.490100",
+      "reply_users": [
+        "raggedoven2009",
+        "kusanaginoturugi"
+      ],
+      "is_locked": false,
+      "subscribed": false
+    },
+    {
+      "client_msg_id": "ee5aa97b-a8f9-4f6f-bc6a-d98787248ea1",
+      "type": "message",
+      "text": "これにLinuxいれてみた報告が(勇気ある方があれば)読みたい\n<https://pc.watch.impress.co.jp/docs/column/hothot/1290358.html>",
+      "user": "getalotofmail",
+      "ts": "1606050951.482700",
+      "team": "T0GFBAM8C",
+      "attachments": [
+        {
+          "service_name": "PC Watch",
+          "title": "【Hothotレビュー】 タブレットとしても利用可能、世界初の折りたたみ式PC「ThinkPad X1 Fold」  ～そして気になるLakefieldの性能は",
+          "title_link": "https://pc.watch.impress.co.jp/docs/column/hothot/1290358.html",
+          "text": "　レノボ・ジャパンから、画面を折りたためるフォルダブルPC「ThinkPad X1 Fold」が登場した。同社では「世界初の画面折りたたみ式PC」と銘打っており、13.3型のOLEDディスプレイを半分に折りたたみ、手帳のように持ち歩けることが大きな特徴だ。",
+          "fallback": "PC Watch: 【Hothotレビュー】 タブレットとしても利用可能、世界初の折りたたみ式PC「ThinkPad X1 Fold」  ～そして気になるLakefieldの性能は",
+          "image_url": "https://pc.watch.impress.co.jp/img/pcw/list/1290/358/01.jpg",
+          "ts": 1605919800,
+          "from_url": "https://pc.watch.impress.co.jp/docs/column/hothot/1290358.html",
+          "image_width": 333,
+          "image_height": 250,
+          "image_bytes": 934320,
+          "service_icon": "https://pc.watch.impress.co.jp/favicon.ico",
+          "id": 1,
+          "original_url": "https://pc.watch.impress.co.jp/docs/column/hothot/1290358.html"
+        }
+      ],
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "rwz",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "これにLinuxいれてみた報告が(勇気ある方があれば)読みたい\n"
+                },
+                {
+                  "type": "link",
+                  "url": "https://pc.watch.impress.co.jp/docs/column/hothot/1290358.html"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "reactions": [
+        {
+          "name": "heart",
+          "users": [
+            "USJ9Q3WSH"
+          ],
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "message",
+      "subtype": "channel_join",
+      "ts": "1606027784.481800",
+      "user": "ayu.mushi2015",
+      "text": "<@ayu.mushi2015>さんがチャンネルに参加しました"
+    },
+    {
+      "client_msg_id": "6994033c-5855-4816-a787-1319520b1ed7",
+      "type": "message",
+      "text": "whitechapelもあるし期待したいなぁ\n<https://gigazine.net/news/20200415-processor-google-samsung-qualcomm-whitechapel/|https://gigazine.net/news/20200415-processor-google-samsung-qualcomm-whitechapel/>",
+      "user": "getalotofmail",
+      "ts": "1605850287.478400",
+      "team": "T0GFBAM8C",
+      "attachments": [
+        {
+          "service_name": "GIGAZINE",
+          "title": "Googleが独自のモバイル向けCPU開発に着手、将来のPixelシリーズにGoogle製チップ搭載か",
+          "title_link": "https://gigazine.net/news/20200415-processor-google-samsung-qualcomm-whitechapel/",
+          "text": "Googleが、サムスンと共同で独自のモバイル向けのチップセットの開発をスタートさせていると報じられました。「Whitechapel」とのコードネームで呼ばれているGoogle製チップセットは、早ければ2021年に登場するGoogle製スマートフォンに搭載されるとの見方が広がっています。",
+          "fallback": "GIGAZINE: Googleが独自のモバイル向けCPU開発に着手、将来のPixelシリーズにGoogle製チップ搭載か",
+          "image_url": "https://i.gzn.jp/img/2020/04/15/processor-google-samsung-qualcomm-whitechapel/00.jpg",
+          "from_url": "https://gigazine.net/news/20200415-processor-google-samsung-qualcomm-whitechapel/",
+          "image_width": 444,
+          "image_height": 250,
+          "image_bytes": 71238,
+          "service_icon": "https://gigazine.net/apple-touch-icon.png",
+          "id": 1,
+          "original_url": "https://gigazine.net/news/20200415-processor-google-samsung-qualcomm-whitechapel/"
+        }
+      ],
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "5+r",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "whitechapelもあるし期待したいなぁ\n"
+                },
+                {
+                  "type": "link",
+                  "url": "https://gigazine.net/news/20200415-processor-google-samsung-qualcomm-whitechapel/",
+                  "text": "https://gigazine.net/news/20200415-processor-google-samsung-qualcomm-whitechapel/"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "2e5eb856-87de-4479-b3fe-e3b806d287d1",
+      "type": "message",
+      "text": "そうすればChrome OS剥がしてLinux載せられそう",
+      "user": "getalotofmail",
+      "ts": "1605847896.477400",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "pVS",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "そうすればChrome OS剥がしてLinux載せられそう"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "eab97341-c493-411e-a417-9dbf638c80ea",
+      "type": "message",
+      "text": "どこかのツイートでも見たけど、M1相当のLinux Laptopが充実させたいならARM ChromeBookが売れるという印象をメーカーにつけないといけないかなぁと思った",
+      "user": "getalotofmail",
+      "ts": "1605841603.476300",
+      "team": "T0GFBAM8C",
+      "edited": {
+        "user": "getalotofmail",
+        "ts": "1605841657.000000"
+      },
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "8W3",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "どこかのツイートでも見たけど、M1相当のLinux Laptopが充実させたいならARM ChromeBookが売れるという印象をメーカーにつけないといけないかなぁと思った"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "message",
+      "text": "",
+      "files": [
+        {
+          "id": "F01FF4WBQCR",
+          "created": 1605745509,
+          "timestamp": 1605745509,
+          "name": "image.png",
+          "title": "image.png",
+          "mimetype": "image/png",
+          "filetype": "png",
+          "pretty_type": "PNG",
+          "user": "aoisensi.potato_slack",
+          "editable": false,
+          "size": 177521,
+          "mode": "hosted",
+          "is_external": false,
+          "external_type": "",
+          "is_public": true,
+          "public_url_shared": false,
+          "display_as_bot": false,
+          "username": "",
+          "url_private": "https://files.slack.com/files-pri/T0GFBAM8C-F01FF4WBQCR/image.png",
+          "url_private_download": "https://files.slack.com/files-pri/T0GFBAM8C-F01FF4WBQCR/download/image.png",
+          "media_display_type": "unknown",
+          "thumb_64": "https://files.slack.com/files-tmb/T0GFBAM8C-F01FF4WBQCR-cdab6795b6/image_64.png",
+          "thumb_80": "https://files.slack.com/files-tmb/T0GFBAM8C-F01FF4WBQCR-cdab6795b6/image_80.png",
+          "thumb_360": "https://files.slack.com/files-tmb/T0GFBAM8C-F01FF4WBQCR-cdab6795b6/image_360.png",
+          "thumb_360_w": 360,
+          "thumb_360_h": 112,
+          "thumb_480": "https://files.slack.com/files-tmb/T0GFBAM8C-F01FF4WBQCR-cdab6795b6/image_480.png",
+          "thumb_480_w": 480,
+          "thumb_480_h": 149,
+          "thumb_160": "https://files.slack.com/files-tmb/T0GFBAM8C-F01FF4WBQCR-cdab6795b6/image_160.png",
+          "thumb_720": "https://files.slack.com/files-tmb/T0GFBAM8C-F01FF4WBQCR-cdab6795b6/image_720.png",
+          "thumb_720_w": 720,
+          "thumb_720_h": 224,
+          "thumb_800": "https://files.slack.com/files-tmb/T0GFBAM8C-F01FF4WBQCR-cdab6795b6/image_800.png",
+          "thumb_800_w": 800,
+          "thumb_800_h": 248,
+          "original_w": 805,
+          "original_h": 250,
+          "thumb_tiny": "AwAOADBw6Cl7Ugpe1ACAD0owPSkzijdQAuBjpRik3UZoA//Z",
+          "permalink": "https://archlinuxjp.slack.com/files/aoisensi.potato_slack/F01FF4WBQCR/image.png",
+          "permalink_public": "https://slack-files.com/T0GFBAM8C-F01FF4WBQCR-6a39dc1cc6",
+          "is_starred": false,
+          "has_rich_preview": false
+        }
+      ],
+      "upload": false,
+      "user": "aoisensi.potato_slack",
+      "display_as_bot": false,
+      "ts": "1605745515.472400"
+    },
+    {
+      "client_msg_id": "d7c49395-5f73-41e0-8b70-06b57f78c912",
+      "type": "message",
+      "text": "8ヶ月一切メンテナンスしてないArchのサーバーを-Syu中…",
+      "user": "aoisensi.potato_slack",
+      "ts": "1605745463.472300",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "SCoN=",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "8ヶ月一切メンテナンスしてないArchのサーバーを-Syu中…"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "22b0ed96-fd91-4b6b-82f5-0b26b9388ea4",
+      "type": "message",
+      "text": "Arch Linux ARM気になって見たことはあるけど、HWごとにアーカイブがあって非常につらそうだったのでこれ上手くいってほしいなあ",
+      "user": "znmxodq1",
+      "ts": "1605707636.470600",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "Rl4Gk",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "Arch Linux ARM気になって見たことはあるけど、HWごとにアーカイブがあって非常につらそうだったのでこれ上手くいってほしいなあ"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "reactions": [
+        {
+          "name": "sorena",
+          "users": [
+            "kokopis",
+            "getalotofmail",
+            "motoi.railgun",
+            "jnsk"
+          ],
+          "count": 4
+        }
+      ]
+    },
+    {
+      "client_msg_id": "2a3f7881-8f82-44ff-9a7f-c225d04feaa9",
+      "type": "message",
+      "text": "ほう、これは期待せざるを得ない",
+      "user": "znmxodq1",
+      "ts": "1605707121.469000",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "cpzr",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "ほう、これは期待せざるを得ない"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "a17ff2f5-ebe0-4432-9bce-d05eaacee186",
+      "type": "message",
+      "text": "Server ReadyというのもあるのでArm的にもエコシステムを整備しようとはしているっぽい\n<https://news.mynavi.jp/article/20201009-1390047/>",
+      "user": "getalotofmail",
+      "ts": "1605706990.468500",
+      "team": "T0GFBAM8C",
+      "attachments": [
+        {
+          "service_name": "マイナビニュース",
+          "title": "Armシステムの開発の容易化する「SystemReady」 - Arm DevSummit 2020",
+          "title_link": "https://news.mynavi.jp/article/20201009-1390047/",
+          "text": "日本時間で10月7日の午前0時より、「Arm DevSummit 2020」がスタートした。今回はArm CEOのSimon Segars氏の基調講演の中で出てきた「Arm SystemReady」を取り上げたい。",
+          "fallback": "マイナビニュース: Armシステムの開発の容易化する「SystemReady」 - Arm DevSummit 2020",
+          "image_url": "https://news.mynavi.jp/article/20201009-1390047/ogp_images/ogp.jpg",
+          "ts": 1602227546,
+          "from_url": "https://news.mynavi.jp/article/20201009-1390047/",
+          "image_width": 476,
+          "image_height": 250,
+          "image_bytes": 45072,
+          "service_icon": "https://news.mynavi.jp/favicon.ico",
+          "id": 1,
+          "original_url": "https://news.mynavi.jp/article/20201009-1390047/"
+        }
+      ],
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "IZR",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "Server ReadyというのもあるのでArm的にもエコシステムを整備しようとはしているっぽい\n"
+                },
+                {
+                  "type": "link",
+                  "url": "https://news.mynavi.jp/article/20201009-1390047/"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "reactions": [
+        {
+          "name": "eyes",
+          "users": [
+            "znmxodq1"
+          ],
+          "count": 1
+        },
+        {
+          "name": "face_with_monocle",
+          "users": [
+            "emtee",
+            "motoi.railgun",
+            "kokopis"
+          ],
+          "count": 3
+        }
+      ]
+    },
+    {
+      "client_msg_id": "AABBC78E-CAC0-4F63-9D4C-D3A1E336832F",
+      "type": "message",
+      "text": "macOS互換機…はまずないだろうな\n(hackintosh的なのは除いて)",
+      "user": "emtee",
+      "ts": "1605706865.467200",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "iqQt7",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "macOS互換機…はまずないだろうな\n"
+                },
+                {
+                  "type": "text",
+                  "text": "(hackintosh的なのは除いて)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "6931d986-2c4a-4c7f-aa89-855712289128",
+      "type": "message",
+      "text": "SamsungのARMベースChromebookなんかはfedoraとか走るみたいなのでMSのご機嫌次第では実現できそうですね",
+      "user": "kokopis",
+      "ts": "1605706347.465500",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "srZ",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "SamsungのARMベースChromebookなんかはfedoraとか走るみたいなのでMSのご機嫌次第では実現できそうですね"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "1d5f71b6-ecd6-4790-9d7c-fcee16cac2ac",
+      "type": "message",
+      "text": "AT互換機みたいな自由な感じので",
+      "user": "znmxodq1",
+      "ts": "1605705598.464200",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "eL6HU",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "AT互換機みたいな自由な感じので"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "fa5ae294-52f3-4118-a127-56533688e4b5",
+      "type": "message",
+      "text": "まーARM(64)の方が設計美しいので、ちゃんとしたエコシステムがARMにも揃ってほしい感じはする",
+      "user": "znmxodq1",
+      "ts": "1605705589.463900",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "Yy5W2",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "まーARM(64)の方が設計美しいので、ちゃんとしたエコシステムがARMにも揃ってほしい感じはする"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "dcde0b87-77f4-4d0d-9741-1e395758f67e",
+      "type": "message",
+      "text": "AMDが頑張ってくれればいいんですが...(Intelは出遅れてるので...(Intelも最近までジムケラーいたのでなんかすごい速いCPU出してきそうではありますが))",
+      "user": "getalotofmail",
+      "ts": "1605705247.463100",
+      "team": "T0GFBAM8C",
+      "edited": {
+        "user": "getalotofmail",
+        "ts": "1605705271.000000"
+      },
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "ND+j",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "AMDが頑張ってくれればいいんですが...(Intelは出遅れてるので...(Intelも最近までジムケラーいたのでなんかすごい速いCPU出してきそうではありますが))"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "fda4bdcc-2849-4a7b-96cf-f9fdd33eb020",
+      "type": "message",
+      "text": "Linuxがブートでき(る可能性がそれなりに高かっ)たら記念品&amp;ARMの省電力性はいかほどか体験する目的で買ったんですが…かなしい。\nこのままPC業界がARM移行に向けて動いていったら、最終的にスマホみたいに自由にOSが選べない状態になったりするんでしょうかね…？(余りにもディストピア的な未来ですが)",
+      "user": "motoi.railgun",
+      "ts": "1605704892.461700",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "rIZST",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "Linuxがブートでき(る可能性がそれなりに高かっ)たら記念品&ARMの省電力性はいかほどか体験する目的で買ったんですが…かなしい。\nこのままPC業界がARM移行に向けて動いていったら、最終的にスマホみたいに自由にOSが選べない状態になったりするんでしょうかね…？(余りにもディストピア的な未来ですが)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "fa3d7f6e-569a-45a8-90ff-87172055cdf4",
+      "type": "message",
+      "text": "元から全然興味ないし",
+      "user": "znmxodq1",
+      "ts": "1605703556.456600",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "pTtju",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "元から全然興味ないし"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "da5a633e-96c0-4faa-87c0-b6c34447c318",
+      "type": "message",
+      "text": "Linux動かないなら買わなくていいかな",
+      "user": "znmxodq1",
+      "ts": "1605703547.456200",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "s7P5f",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "Linux動かないなら買わなくていいかな"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "f02536c9-9be6-4faf-9d37-c437061b1195",
+      "type": "message",
+      "text": "Rosetta2で仮想化ソフトウェアとか上手く動いたら面白そうですが、それすらもわからない…\nJDKも厳しいならXCode以外の大手IDE動かなさそうだけどどうなんだろ。",
+      "user": "s5is",
+      "ts": "1605689797.454800",
+      "team": "T0GFBAM8C",
+      "edited": {
+        "user": "s5is",
+        "ts": "1605689908.000000"
+      },
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "AjK=",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "Rosetta2で仮想化ソフトウェアとか上手く動いたら面白そうですが、それすらもわからない…\nJDKも厳しいならXCode以外の大手IDE動かなさそうだけどどうなんだろ。"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "becd2078-bdee-437b-891b-87bd380b3546",
+      "type": "message",
+      "text": "コーディング速度２倍になるならいくらでも払おう",
+      "user": "yutakatay",
+      "ts": "1605689764.454200",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "U6U",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "コーディング速度２倍になるならいくらでも払おう"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "reactions": [
+        {
+          "name": "wakaru",
+          "users": [
+            "s5is",
+            "USJ9Q3WSH",
+            "kokopis",
+            "znmxodq1",
+            "U7VDHKJHM",
+            "getalotofmail",
+            "motoi.railgun",
+            "U0L2RG3U2"
+          ],
+          "count": 8
+        }
+      ]
+    },
+    {
+      "client_msg_id": "56171fad-8cf0-4a0b-95b3-ec1dd9a7942b",
+      "type": "message",
+      "text": "OpenJDKもまだ動かなかったりしますし開発用としては大分ツラい印象ですねー &gt; silicon mac",
+      "user": "dohq",
+      "ts": "1605689632.452200",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "jhy",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "OpenJDKもまだ動かなかったりしますし開発用としては大分ツラい印象ですねー > silicon mac"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "E545488A-73B0-4724-A692-2F040DE9B689",
+      "type": "message",
+      "text": "らしいですね、最近のやつは",
+      "user": "syui",
+      "ts": "1605687596.450600",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "H5wU",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "らしいですね、最近のやつは"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "bb441fb8-aa60-4ac3-832c-748986091f96",
+      "type": "message",
+      "text": "Macはintel版でもT2チップ(touchbar制御とか\nようだけどSSDコントローラーも兼ねてる)とかあってうまくLinux動かない印象があります",
+      "user": "getalotofmail",
+      "ts": "1605687556.450100",
+      "team": "T0GFBAM8C",
+      "edited": {
+        "user": "getalotofmail",
+        "ts": "1605687571.000000"
+      },
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "PD=",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "Macはintel版でもT2チップ(touchbar制御とか\nようだけどSSDコントローラーも兼ねてる)とかあってうまくLinux動かない印象があります"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "507F0ED0-C8C6-40E1-B5EA-C92B3CA60BD1",
+      "type": "message",
+      "text": "あら",
+      "user": "syui",
+      "ts": "1605686592.446200",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "6UHcz",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "あら"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "bbe588b4-25f0-42e4-a066-b750bf22016a",
+      "type": "message",
+      "text": "翻訳ミスなのか純粋にXcodeの動作速度が2.8倍になるのかは分からないですが、こんなツイートがあったのです",
+      "user": "angel.beats.kanade.yu",
+      "ts": "1605686549.446000",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "RTJv",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "翻訳ミスなのか純粋にXcodeの動作速度が2.8倍になるのかは分からないですが、こんなツイートがあったのです"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "reactions": [
+        {
+          "name": "innocent",
+          "users": [
+            "syui",
+            "s5is"
+          ],
+          "count": 2
+        }
+      ]
+    },
+    {
+      "client_msg_id": "18ef9aef-52bf-444c-8f04-166eab9bc7b2",
+      "type": "message",
+      "text": "<https://twitter.com/m43net/status/1326274138961424384?s=19|https://twitter.com/m43net/status/1326274138961424384?s=19>",
+      "user": "angel.beats.kanade.yu",
+      "ts": "1605686491.444600",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "w74BF",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "link",
+                  "url": "https://twitter.com/m43net/status/1326274138961424384?s=19",
+                  "text": "https://twitter.com/m43net/status/1326274138961424384?s=19"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "2CFC3DE2-D8CF-4F44-8F05-D8FE3A1F0F7A",
+      "type": "message",
+      "text": "dockerとかはまだ動かないらしい",
+      "user": "syui",
+      "ts": "1605686077.444400",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "DZU",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "dockerとかはまだ動かないらしい"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "B166A19A-EBE1-4086-ABAF-F9825633BA2C",
+      "type": "message",
+      "text": "<https://www.publickey1.jp/blog/20/_dockerapplemacdocker_desktoprosetta_2.html|https://www.publickey1.jp/blog/20/_dockerapplemacdocker_desktoprosetta_2.html>",
+      "user": "syui",
+      "ts": "1605686053.443900",
+      "team": "T0GFBAM8C",
+      "attachments": [
+        {
+          "title": "Docker社、Appleシリコン搭載Mac用の「Docker Desktop」を開発中と表明。Rosetta 2による変換では十分に動かない模様",
+          "title_link": "https://www.publickey1.jp/blog/20/_dockerapplemacdocker_desktoprosetta_2.html",
+          "text": "Docker社がオープンソースで開発しているDocker Desktopは、WindowsやMacで手軽にDockerコンテナ環境を構築できるツールです。 11月16日付で同社ブログに投稿された記事「Apple Silicon M1 Chi...",
+          "fallback": "Docker社、Appleシリコン搭載Mac用の「Docker Desktop」を開発中と表明。Rosetta 2による変換では十分に動かない模様",
+          "image_url": "https://www.publickey1.jp/2020/Em9jpGzW8AM9KLg.jpg",
+          "from_url": "https://www.publickey1.jp/blog/20/_dockerapplemacdocker_desktoprosetta_2.html",
+          "image_width": 371,
+          "image_height": 250,
+          "image_bytes": 12168,
+          "service_icon": "https://www.publickey1.jp/favicon.ico",
+          "service_name": "publickey1.jp",
+          "id": 1,
+          "original_url": "https://www.publickey1.jp/blog/20/_dockerapplemacdocker_desktoprosetta_2.html"
+        }
+      ],
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "5v+",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "link",
+                  "url": "https://www.publickey1.jp/blog/20/_dockerapplemacdocker_desktoprosetta_2.html",
+                  "text": "https://www.publickey1.jp/blog/20/_dockerapplemacdocker_desktoprosetta_2.html"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "BB20374B-C714-4B7D-B1CA-DFCC79AF2014",
+      "type": "message",
+      "text": "あー、ビルドとかテストとか含めると変わるのか",
+      "user": "syui",
+      "ts": "1605685804.443700",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "Sit",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "あー、ビルドとかテストとか含めると変わるのか"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "68968264-7B6A-4AAB-9D15-32E94F80099B",
+      "type": "message",
+      "text": "いや、コーディング速度は変わらないでしょう^^",
+      "user": "syui",
+      "ts": "1605685708.443200",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "7XO",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "いや、コーディング速度は変わらないでしょう^^"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "a90224b4-ba49-48a5-b868-d7cbdf662bd3",
+      "type": "message",
+      "text": "コーディング速度が倍増するらしい！？デバイス",
+      "user": "angel.beats.kanade.yu",
+      "ts": "1605685659.442500",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "aKuY2",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "コーディング速度が倍増するらしい！？デバイス"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "00715CD1-7BD1-40D5-81BB-BF70BE1E85F5",
+      "type": "message",
+      "text": "そういえばapple m1搭載のデバイス、買った人います?\nこれなかなかにやばいですね(革新的という意味で",
+      "user": "syui",
+      "ts": "1605684356.441800",
+      "team": "T0GFBAM8C",
+      "edited": {
+        "user": "syui",
+        "ts": "1605684459.000000"
+      },
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "P04JN",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "そういえばapple m1搭載のデバイス、買った人います?\nこれなかなかにやばいですね(革新的という意味で"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "thread_ts": "1605684356.441800",
+      "reply_count": 3,
+      "reply_users_count": 2,
+      "latest_reply": "1606273495.489500",
+      "reply_users": [
+        "kusanaginoturugi",
+        "syui"
+      ],
+      "is_locked": false,
+      "subscribed": true,
+      "last_read": "1606273495.489500"
+    },
+    {
+      "client_msg_id": "EAEA785B-A610-4105-B3C8-2D2BC1F211FF",
+      "type": "message",
+      "text": "非公式のarmは動くかもしれませんが、おそらく動かないのではないかと思います、m1の特殊性などから。\nm1はgpuやメモリもチップ内に埋め込んでmacに最適化してるようなので、色々と動かすのは難しそうに思います。",
+      "user": "syui",
+      "ts": "1605683050.440500",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "ppGD",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "非公式のarmは動くかもしれませんが、おそらく動かないのではないかと思います、m1の特殊性などから。\nm1はgpuやメモリもチップ内に埋め込んでmacに最適化してるようなので、色々と動かすのは難しそうに思います。"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "1f7e3c9c-6581-4655-b502-c2cdb362f7f6",
+      "type": "message",
+      "text": "なるほど、アーキテクチャがそもそも対応外だったりするのか…。\nありがとうございます！！",
+      "user": "m.goto.jb",
+      "ts": "1605682768.437500",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "sA1",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "なるほど、アーキテクチャがそもそも対応外だったりするのか…。\nありがとうございます！！"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "fd852255-de93-427b-a7d1-4433118c7e43",
+      "type": "message",
+      "text": "こういったアーキテクチャの問題があるのと、セキュアブートなどの問題もありますので、難しいかと。\n<https://wiki.archlinux.jp/index.php/FAQ#Arch_.E3.81.AF.E3.81.A9.E3.81.AE.E3.82.A2.E3.83.BC.E3.82.AD.E3.83.86.E3.82.AF.E3.83.81.E3.83.A3.E3.82.92.E3.82.B5.E3.83.9D.E3.83.BC.E3.83.88.E3.81.97.E3.81.A6.E3.81.84.E3.81.BE.E3.81.99.E3.81.8B.EF.BC.9F>",
+      "user": "syui",
+      "ts": "1605681880.436300",
+      "team": "T0GFBAM8C",
+      "edited": {
+        "user": "syui",
+        "ts": "1605681904.000000"
+      },
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "WgV",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "こういったアーキテクチャの問題があるのと、セキュアブートなどの問題もありますので、難しいかと。\n"
+                },
+                {
+                  "type": "link",
+                  "url": "https://wiki.archlinux.jp/index.php/FAQ#Arch_.E3.81.AF.E3.81.A9.E3.81.AE.E3.82.A2.E3.83.BC.E3.82.AD.E3.83.86.E3.82.AF.E3.83.81.E3.83.A3.E3.82.92.E3.82.B5.E3.83.9D.E3.83.BC.E3.83.88.E3.81.97.E3.81.A6.E3.81.84.E3.81.BE.E3.81.99.E3.81.8B.EF.BC.9F"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "609BCB6E-D2D3-4299-BB65-183A9D734037",
+      "type": "message",
+      "text": "入れられないと思います",
+      "user": "syui",
+      "ts": "1605681595.435600",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "RSalR",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "入れられないと思います"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "0117e8a8-aae0-4450-9e99-29055c4675db",
+      "type": "message",
+      "text": "Apple M1 のMacBook pro 出ましたが、そこに arch linux をデュアルブートで入れられたりするかわかる方いますでしょうか…？\nまだ全然情報が見つけられず、もし情報知ってる方教えていただきたく…！",
+      "user": "m.goto.jb",
+      "ts": "1605681560.435300",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "igW",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "Apple M1 のMacBook pro 出ましたが、そこに arch linux をデュアルブートで入れられたりするかわかる方いますでしょうか…？\nまだ全然情報が見つけられず、もし情報知ってる方教えていただきたく…！"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "ff594d30-6247-4d6d-a4d9-693ba75dbb71",
+      "type": "message",
+      "text": "あぁ、やっぱりそうですよね。ありがとうございます。",
+      "user": "no97yuu",
+      "ts": "1605518216.430800",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "vDn3T",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "あぁ、やっぱりそうですよね。ありがとうございます。"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "08323294-5fbb-4f93-b509-478dbd0bd18e",
+      "type": "message",
+      "text": "なかったと思いますね いちいち `--asdeps` で入れるしかないかと",
+      "user": "kokopis",
+      "ts": "1605517914.430600",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "wEB",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "なかったと思いますね いちいち "
+                },
+                {
+                  "type": "text",
+                  "text": "--asdeps",
+                  "style": {
+                    "code": true
+                  }
+                },
+                {
+                  "type": "text",
+                  "text": " で入れるしかないかと"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "492d8e7b-3011-4bdc-90a0-c340c0ab305c",
+      "type": "message",
+      "text": "pacman について質問です。あるパッケージのOptional（推奨されるパッケージ）も\n一緒に入れるコマンドってありましたか？",
+      "user": "no97yuu",
+      "ts": "1605515073.430000",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "xPUG",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "pacman について質問です。あるパッケージのOptional（推奨されるパッケージ）も\n一緒に入れるコマンドってありましたか？"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "message",
+      "subtype": "channel_join",
+      "ts": "1605372265.429000",
+      "user": "thaim24",
+      "text": "<@thaim24>さんがチャンネルに参加しました"
+    },
+    {
+      "type": "message",
+      "subtype": "channel_join",
+      "ts": "1605158246.428600",
+      "user": "takahashi",
+      "text": "<@takahashi>さんがチャンネルに参加しました"
+    },
+    {
+      "type": "message",
+      "subtype": "channel_join",
+      "ts": "1604995690.428400",
+      "user": "tgw314",
+      "text": "<@tgw314>さんがチャンネルに参加しました"
+    }
+  ],
+  "has_more": false,
+  "is_limited": true,
+  "pin_count": 0,
+  "channel_actions_ts": null,
+  "channel_actions_count": 0
+}

@@ -1,0 +1,35 @@
+on:
+  schedule:
+  - cron: "00 12 1 * *"
+
+jobs:
+  comment:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v1
+    - name: github and support
+      env:
+        WORKFLOW_FILE_PATH: ${{ github.workflow }}
+        GITHUB_REPOSITORY: ${{ github.repository }}
+        SLACK_TOKEN: ${{ secrets.SLACK_TOKEN }}
+      run: |
+        echo "{\"SLACK_TOKEN\":\"${SLACK_TOKEN}\"}" > config.json
+        ./linux.zsh
+
+    - name: Git settings
+      run: |
+        git config --local user.email "action@github.com"
+        git config --local user.name "GitHub Action"
+        git add json/
+        if git commit -m "update json" -a;then
+          echo ok commit
+        else
+          echo error commit
+          exit
+        fi
+
+    - name: Push changes
+      uses: ad-m/github-push-action@master
+      with:
+        github_token: ${{ secrets.GITHUB_TOKEN }}
+        branch: test

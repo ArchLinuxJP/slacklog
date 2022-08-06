@@ -1,0 +1,1888 @@
+{
+  "ok": true,
+  "latest": "1609471621.000000",
+  "oldest": "1606793221.000000",
+  "messages": [
+    {
+      "client_msg_id": "1b5bccb0-fccf-4586-b9e4-b3f31db1ca94",
+      "type": "message",
+      "text": "こんにちはー",
+      "user": "syui",
+      "ts": "1608294888.265300",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "D+J",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "こんにちはー"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "9d1fbfdb-9b91-4332-ade5-21ffad99068f",
+      "type": "message",
+      "text": "はじめまして。まだまだArch歴の浅い新参者ですが、ぼちぼちみなさんと絡んでいければなと思っています。よろしくお願いします！",
+      "user": "futuresan750",
+      "ts": "1608111577.262300",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "S8STq",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "はじめまして。まだまだArch歴の浅い新参者ですが、ぼちぼちみなさんと絡んでいければなと思っています。よろしくお願いします！"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "reactions": [
+        {
+          "name": "arch",
+          "users": [
+            "yutakatay",
+            "znmxodq1",
+            "getalotofmail",
+            "UBEFL3YLE",
+            "aruneko99",
+            "USJ9Q3WSH",
+            "UJ7P75WB1",
+            "s5is",
+            "claude0803sz",
+            "U257W41DW",
+            "U53RAQBCP",
+            "dohq",
+            "kusanaginoturugi",
+            "UGKM5728M",
+            "UKT90HXU0",
+            "U0HAU5MUZ",
+            "syui",
+            "UPL8M8KPT",
+            "UEED0BQ4A",
+            "U01792411FA",
+            "U5JRJL4AF",
+            "U01HGA8S2DS"
+          ],
+          "count": 22
+        },
+        {
+          "name": "archjp",
+          "users": [
+            "znmxodq1",
+            "getalotofmail",
+            "raa0121",
+            "aruneko99",
+            "U53RAQBCP",
+            "UGKM5728M",
+            "UKT90HXU0",
+            "U01HGA8S2DS"
+          ],
+          "count": 8
+        }
+      ]
+    },
+    {
+      "type": "message",
+      "subtype": "channel_join",
+      "ts": "1608110028.260200",
+      "user": "futuresan750",
+      "text": "<@futuresan750>さんがチャンネルに参加しました"
+    },
+    {
+      "type": "message",
+      "subtype": "channel_join",
+      "ts": "1607917204.259900",
+      "user": "milmed1013",
+      "text": "<@milmed1013>さんがチャンネルに参加しました"
+    },
+    {
+      "client_msg_id": "5C49F8E9-E4C2-4D5E-9421-F74AE10A09F2",
+      "type": "message",
+      "text": "そういえば、xパッケージ群は最近色々と整理されてた気がする",
+      "user": "syui",
+      "ts": "1607695363.259500",
+      "team": "T0GFBAM8C",
+      "edited": {
+        "user": "syui",
+        "ts": "1607695632.000000"
+      },
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "UpcM",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "そういえば、xパッケージ群は最近色々と整理されてた気がする"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "reactions": [
+        {
+          "name": "wakaru",
+          "users": [
+            "yutakatay"
+          ],
+          "count": 1
+        }
+      ]
+    },
+    {
+      "client_msg_id": "0694db90-8b7c-4caf-9f91-17ae6e0f13fd",
+      "type": "message",
+      "text": "なんかXのパッケージ群がextraになってる",
+      "user": "getalotofmail",
+      "ts": "1607691445.258500",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "KnxD",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "なんかXのパッケージ群がextraになってる"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "message",
+      "subtype": "channel_join",
+      "ts": "1607508455.257300",
+      "user": "kazuk.dll",
+      "text": "<@kazuk.dll>さんがチャンネルに参加しました"
+    },
+    {
+      "client_msg_id": "ecd9c4de-2240-436a-af49-6d5d02d3de96",
+      "type": "message",
+      "text": "microsoftのdocs、いいですよね",
+      "user": "syui",
+      "ts": "1607426362.255900",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "iKz3n",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "microsoftのdocs、いいですよね"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "reactions": [
+        {
+          "name": "wakaru",
+          "users": [
+            "U53RAQBCP"
+          ],
+          "count": 1
+        }
+      ]
+    },
+    {
+      "client_msg_id": "58f4f67e-7e3d-4563-89e7-a9d9f018c6e6",
+      "type": "message",
+      "text": "MSのdocにPowerlineあるのか、すごいな",
+      "user": "znmxodq1",
+      "ts": "1607426330.255400",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "Oxg9",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "MSのdocにPowerlineあるのか、すごいな"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "9c6fce83-455c-47f8-a34a-201ac6d2d421",
+      "type": "message",
+      "text": "多分Bash感覚で略すとPoshになるのかも",
+      "user": "s5is",
+      "ts": "1607426161.255100",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "va2F",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "多分Bash感覚で略すとPoshになるのかも"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "reactions": [
+        {
+          "name": "grin",
+          "users": [
+            "U0HAU5MUZ",
+            "U0L2RG3U2"
+          ],
+          "count": 2
+        }
+      ]
+    },
+    {
+      "client_msg_id": "ab838cd0-605d-4fa1-bd4e-cbdb805964d5",
+      "type": "message",
+      "text": "posh-git, oh-my-posh とか",
+      "user": "syui",
+      "ts": "1607426137.254700",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "tHsM",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "posh-git, oh-my-posh とか"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "d2099c60-b634-4d03-b049-7f6eac8f9113",
+      "type": "message",
+      "text": "んー、でも、poshも使われてる感はありますよ\n<https://docs.microsoft.com/ja-jp/windows/terminal/tutorials/powerline-setup>",
+      "user": "syui",
+      "ts": "1607426093.253600",
+      "team": "T0GFBAM8C",
+      "attachments": [
+        {
+          "title": "Windows ターミナル Powerline のセットアップ",
+          "title_link": "https://docs.microsoft.com/ja-jp/windows/terminal/tutorials/powerline-setup",
+          "text": "このチュートリアルでは、Windows ターミナルで Powerline を設定する方法について説明します。",
+          "fallback": "Windows ターミナル Powerline のセットアップ",
+          "thumb_url": "https://docs.microsoft.com/en-us/media/logos/logo-ms-social.png",
+          "from_url": "https://docs.microsoft.com/ja-jp/windows/terminal/tutorials/powerline-setup",
+          "thumb_width": 400,
+          "thumb_height": 400,
+          "service_icon": "https://docs.microsoft.com/favicon.ico",
+          "service_name": "docs.microsoft.com",
+          "id": 1,
+          "original_url": "https://docs.microsoft.com/ja-jp/windows/terminal/tutorials/powerline-setup"
+        }
+      ],
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "agT2b",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "んー、でも、poshも使われてる感はありますよ\n"
+                },
+                {
+                  "type": "link",
+                  "url": "https://docs.microsoft.com/ja-jp/windows/terminal/tutorials/powerline-setup"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "594eb0f6-698f-49fd-8203-f409dba7ed93",
+      "type": "message",
+      "text": "いや6だったかな",
+      "user": "syui",
+      "ts": "1607426048.252700",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "Y8kP",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "いや6だったかな"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "bdab4bc3-c0fd-4e1b-acee-536d1d1740b8",
+      "type": "message",
+      "text": "pwshは、powershell 7あたりから pwsh.exe になったので、そのへんで使ってます。",
+      "user": "syui",
+      "ts": "1607426036.252400",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "r8ew",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "pwshは、powershell 7あたりから pwsh.exe になったので、そのへんで使ってます。"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "3e1900da-d8a0-4969-982c-822d1660eb17",
+      "type": "message",
+      "text": "pwshかもですね、私が勝手にPoshって略しちゃってるかも。",
+      "user": "s5is",
+      "ts": "1607426031.252300",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "CkoDN",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "pwshかもですね、私が勝手にPoshって略しちゃってるかも。"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "4f6edfb9-8529-4eb0-a90c-dfe888674096",
+      "type": "message",
+      "text": "あー、でもわかんない、たぶんですけど &gt; posh",
+      "user": "syui",
+      "ts": "1607425992.251100",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "aWF=N",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "あー、でもわかんない、たぶんですけど > posh"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "3f463c4a-9b55-4e92-8e0c-eb5569b661c5",
+      "type": "message",
+      "text": "最近の",
+      "user": "raa0121",
+      "ts": "1607425959.250600",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "+OCD",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "最近の"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "ddf0ec05-c805-45e2-ac86-3a93e5c29fef",
+      "type": "message",
+      "text": "pwsh ってコマンド名らしいですね",
+      "user": "raa0121",
+      "ts": "1607425954.250300",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "H66Ik",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "pwsh ってコマンド名らしいですね"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "d209ffac-4c4a-45c4-8135-e9f48bb58e0c",
+      "type": "message",
+      "text": "観測範囲の人みんなpwshって略すから全然分からなかった",
+      "user": "znmxodq1",
+      "ts": "1607425916.249800",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "vxt",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "観測範囲の人みんなpwshって略すから全然分からなかった"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "b418c48c-c51d-4d7c-a17b-0d330f9c45c8",
+      "type": "message",
+      "text": "何なのかと思ってたらpowershellの事か &gt; posh",
+      "user": "znmxodq1",
+      "ts": "1607425894.249200",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "tbg",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "何なのかと思ってたらpowershellの事か > posh"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "e2aa4845-9994-44f1-9b5c-8f10ea839163",
+      "type": "message",
+      "text": "posh、私は、pwshと略すことが多いですけど、poshのほうが定番感",
+      "user": "syui",
+      "ts": "1607425873.248800",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "G8U3",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "posh、私は、pwshと略すことが多いですけど、poshのほうが定番感"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "774435cf-7588-4d67-a664-87d8836baf33",
+      "type": "message",
+      "text": "WSL 使ってないの、なんでだっけなぁ…",
+      "user": "raa0121",
+      "ts": "1607425841.248300",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "o2we2",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "WSL 使ってないの、なんでだっけなぁ…"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "1b6c6758-ff38-4929-ba27-9404be64c13f",
+      "type": "message",
+      "text": "コロン区切りのコマンドそれなりに見たことがある",
+      "user": "znmxodq1",
+      "ts": "1607425816.247600",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "QCO",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "コロン区切りのコマンドそれなりに見たことがある"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "fbe78c8d-e230-4fdf-a8d9-555eabdc5ec8",
+      "type": "message",
+      "text": "ohつらい",
+      "user": "znmxodq1",
+      "ts": "1607425804.247200",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "sXPZ",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "ohつらい"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "41d81ee8-658a-462c-8be8-f71d44fa96e6",
+      "type": "message",
+      "text": "Poshはffmpegの-c:vとかコロンで区切ったら死ぬのが悲しくなる",
+      "user": "s5is",
+      "ts": "1607425737.246800",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "BVgw",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "Poshはffmpegの-c:vとかコロンで区切ったら死ぬのが悲しくなる"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "dc1ffaee-ddef-4826-9e2a-5ba7ff95dd67",
+      "type": "message",
+      "text": "scoop、私も使ってます。chocoから移行しました",
+      "user": "syui",
+      "ts": "1607425672.246000",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "ys=z",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "scoop、私も使ってます。chocoから移行しました"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "reactions": [
+        {
+          "name": "wakaru",
+          "users": [
+            "dohq"
+          ],
+          "count": 1
+        }
+      ]
+    },
+    {
+      "client_msg_id": "5a5b2059-0c15-4b9d-a44e-5f7d007eb1bd",
+      "type": "message",
+      "text": "powershellの場合、有名なlinuxコマンドはaliasされてることもあるけど、それでも使いづらい...",
+      "user": "syui",
+      "ts": "1607425629.245600",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "Sxbh",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "powershellの場合、有名なlinuxコマンドはaliasされてることもあるけど、それでも使いづらい..."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "07badb20-f7c5-47c6-885c-b9760bd3b005",
+      "type": "message",
+      "text": "windowsのコマンド、なかなかつらいですよね",
+      "user": "syui",
+      "ts": "1607425589.244800",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "PjfK",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "windowsのコマンド、なかなかつらいですよね"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "cfb5de9d-492c-42e1-a563-1e4111e8f3d2",
+      "type": "message",
+      "text": "手軽に使いたいのでmsys2とscoopを併用してます(多分ArchWSL使ったほうが結果的に楽)",
+      "user": "s5is",
+      "ts": "1607425500.244500",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "ScFq6",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "手軽に使いたいのでmsys2とscoopを併用してます(多分ArchWSL使ったほうが結果的に楽)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "ab346936-b9d1-49ca-b0ec-f3ab2e2921b5",
+      "type": "message",
+      "text": "msys2 もなかなか良いですよ(pacman が使える",
+      "user": "raa0121",
+      "ts": "1607425452.243600",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "ajl+",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "msys2 もなかなか良いですよ(pacman が使える"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "reactions": [
+        {
+          "name": "wakaru",
+          "users": [
+            "znmxodq1"
+          ],
+          "count": 1
+        }
+      ]
+    },
+    {
+      "client_msg_id": "b30b55ad-4a87-48c9-bc87-8b511393fb76",
+      "type": "message",
+      "text": "cmd.exeとか使ってても手が勝手にlsするなどするからな",
+      "user": "znmxodq1",
+      "ts": "1607425429.243200",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "89VW1",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "cmd.exeとか使ってても手が勝手にlsするなどするからな"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "46f45a46-00ee-454d-8b0e-1309fcb3fba7",
+      "type": "message",
+      "text": "そういう問題ではないかw",
+      "user": "znmxodq1",
+      "ts": "1607425405.242500",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "/QWlw",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "そういう問題ではないかw"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "577d2a91-a754-445e-810d-ac990f110d67",
+      "type": "message",
+      "text": "そこでArchWSL",
+      "user": "znmxodq1",
+      "ts": "1607425395.242300",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "0mH",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "そこでArchWSL"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "e35e7820-e909-4cb7-b147-28fa993be2cd",
+      "type": "message",
+      "text": "一応ゲーム用PCはWindows入れてるけどLinuxコマンド使いたくなったときとかに毎回「ぐぬぬ…」ってなってる。",
+      "user": "s5is",
+      "ts": "1607425384.242100",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "NlR",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "一応ゲーム用PCはWindows入れてるけどLinuxコマンド使いたくなったときとかに毎回「ぐぬぬ…」ってなってる。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "reactions": [
+        {
+          "name": "wakaru",
+          "users": [
+            "znmxodq1",
+            "claude0803sz",
+            "dohq",
+            "U53RAQBCP"
+          ],
+          "count": 4
+        }
+      ]
+    },
+    {
+      "client_msg_id": "703e55a9-83d1-4b7e-b30b-427096649adc",
+      "type": "message",
+      "text": "私もVMでなんとかなってる。\nただ昔のゲームやりたいなーって時VMだとGPUパワー無いからもう一枚GPU買ってパススルーしたりそれもうwindows用PC買えばええやんけみたいな状況に陥ってる",
+      "user": "dohq",
+      "ts": "1607422448.240500",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "qf7",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "私もVMでなんとかなってる。\nただ昔のゲームやりたいなーって時VMだとGPUパワー無いからもう一枚GPU買ってパススルーしたりそれもうwindows用PC買えばええやんけみたいな状況に陥ってる"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "5e780726-a05a-4050-9227-ed56496d7911",
+      "type": "message",
+      "text": "私もwindowsはvirtualboxで足りることが多いかな",
+      "user": "syui",
+      "ts": "1607421505.237200",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "Lh9x",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "私もwindowsはvirtualboxで足りることが多いかな"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "reactions": [
+        {
+          "name": "wakaru",
+          "users": [
+            "dohq",
+            "UCA1NQM5K",
+            "UJ7P75WB1"
+          ],
+          "count": 3
+        }
+      ]
+    },
+    {
+      "client_msg_id": "b159552f-f8c2-47d0-abc0-300b6748d468",
+      "type": "message",
+      "text": "20GBくらいある",
+      "user": "znmxodq1",
+      "ts": "1607421398.236700",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "pc5G/",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "20GBくらいある"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "68fdbe35-2f83-4426-8b01-39b2d3ac797a",
+      "type": "message",
+      "text": "今はMSがVM配ってるからそれ使ってるな、ライセンス碌に読んでないからまずいかもと思いつつ",
+      "user": "znmxodq1",
+      "ts": "1607421373.236200",
+      "team": "T0GFBAM8C",
+      "edited": {
+        "user": "znmxodq1",
+        "ts": "1607421390.000000"
+      },
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "fJkX",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "今はMSがVM配ってるからそれ使ってるな、ライセンス碌に読んでないからまずいかもと思いつつ"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "a82b54ea-eced-4015-bb03-d9a37551bdfb",
+      "type": "message",
+      "text": "windowsはフォーマット関連でたまに必要になるんですよね、あくまで個人的にだけど",
+      "user": "syui",
+      "ts": "1607421301.235100",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "qZ/9y",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "windowsはフォーマット関連でたまに必要になるんですよね、あくまで個人的にだけど"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "6b5142c4-221e-41e9-8684-3bf2f9564dd4",
+      "type": "message",
+      "text": "なんか知らんが無駄に重かったし",
+      "user": "znmxodq1",
+      "ts": "1607421266.234700",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "IY46l",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "なんか知らんが無駄に重かったし"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "f726f2cb-e1ff-493e-a0b7-7969a9ccc2d5",
+      "type": "message",
+      "text": "一応Windows起動可能にはしていたけど徐々に使用率が下がり無事(?)フェードアウト",
+      "user": "znmxodq1",
+      "ts": "1607421233.234100",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "SIIi7",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "一応Windows起動可能にはしていたけど徐々に使用率が下がり無事(?)フェードアウト"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "cc75a9bb-f678-49e1-98ad-56b0ec595ffb",
+      "type": "message",
+      "text": "わかる、私もデュアルブートしたとき、結局、片方しか使わなかった勢だ",
+      "user": "syui",
+      "ts": "1607421106.232700",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "fASC",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "わかる、私もデュアルブートしたとき、結局、片方しか使わなかった勢だ"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "reactions": [
+        {
+          "name": "wakaru",
+          "users": [
+            "s5is",
+            "dohq"
+          ],
+          "count": 2
+        },
+        {
+          "name": "sorena",
+          "users": [
+            "yutakatay"
+          ],
+          "count": 1
+        }
+      ]
+    },
+    {
+      "client_msg_id": "7f76f3ed-cf2a-49d9-88d8-4158f53c5c2a",
+      "type": "message",
+      "text": "←学校で使うのでデュアルブートでWindows一応入れてたら必要になったときに死んでた人",
+      "user": "s5is",
+      "ts": "1607421036.231800",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "Z=C",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "←学校で使うのでデュアルブートでWindows一応入れてたら必要になったときに死んでた人"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "reactions": [
+        {
+          "name": "totemoturai",
+          "users": [
+            "znmxodq1",
+            "dohq",
+            "claude0803sz",
+            "UJ7P75WB1",
+            "UKT90HXU0"
+          ],
+          "count": 5
+        }
+      ]
+    },
+    {
+      "client_msg_id": "a4db87df-fcd5-4571-a71b-757731c5dd8b",
+      "type": "message",
+      "text": "一生懸命デュアルブートにしたけど一回しか（クラスターとかいうので勉強会したときlinuxでログイン不可だった）windowsを立ち上げてない私が通りますよー",
+      "user": "yutakatay",
+      "ts": "1607420689.230700",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "YmFI",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "一生懸命デュアルブートにしたけど一回しか（クラスターとかいうので勉強会したときlinuxでログイン不可だった）windowsを立ち上げてない私が通りますよー"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "reactions": [
+        {
+          "name": "innocent",
+          "users": [
+            "znmxodq1",
+            "s5is",
+            "syui"
+          ],
+          "count": 3
+        },
+        {
+          "name": "wakaru",
+          "users": [
+            "s5is",
+            "UAPRYSVPS",
+            "UJ7P75WB1"
+          ],
+          "count": 3
+        }
+      ]
+    },
+    {
+      "client_msg_id": "48ac5bc0-5c9e-4d92-a396-f4cf2cffa0ac",
+      "type": "message",
+      "text": "Arch環境でXを得た時の喜び、プライスレス",
+      "user": "znmxodq1",
+      "ts": "1607418980.226900",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "cxXWT",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "Arch環境でXを得た時の喜び、プライスレス"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "reactions": [
+        {
+          "name": "rolling_on_the_floor_laughing",
+          "users": [
+            "USJ9Q3WSH",
+            "UEED0BQ4A"
+          ],
+          "count": 2
+        },
+        {
+          "name": "wakaru",
+          "users": [
+            "USJ9Q3WSH",
+            "raa0121",
+            "dohq",
+            "claude0803sz",
+            "UJ7P75WB1",
+            "cj.bc-sd",
+            "U01HE1ENNJZ"
+          ],
+          "count": 7
+        },
+        {
+          "name": "nyancat",
+          "users": [
+            "syui"
+          ],
+          "count": 1
+        }
+      ]
+    },
+    {
+      "client_msg_id": "fb960803-130f-4e1e-8bf0-df7535afdf22",
+      "type": "message",
+      "text": "こんにちは、つい先日やっとSurface laptop2へのデュアルブートを大体終わらせまして、ついにX環境を手に入れました...\nよろしくお願いします~!!",
+      "user": "cj.bc-sd",
+      "ts": "1607403589.225400",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "25xqW",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "こんにちは、つい先日やっとSurface laptop2へのデュアルブートを大体終わらせまして、ついにX環境を手に入れました...\nよろしくお願いします~!!"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "reactions": [
+        {
+          "name": "tada",
+          "users": [
+            "s5is",
+            "aruneko99",
+            "UFZJ1RH3Q",
+            "claude0803sz",
+            "U53RAQBCP",
+            "UAPRYSVPS",
+            "syui",
+            "znmxodq1",
+            "USSBNDE68",
+            "UEED0BQ4A",
+            "U7VDHKJHM",
+            "yutakatay",
+            "dohq",
+            "UJ7P75WB1",
+            "URCKFB3SB",
+            "U01HE1ENNJZ"
+          ],
+          "count": 16
+        },
+        {
+          "name": "goodpoem",
+          "users": [
+            "znmxodq1"
+          ],
+          "count": 1
+        }
+      ]
+    },
+    {
+      "client_msg_id": "642B2DC7-F9F5-4F6F-A0B3-FDEDB936C36B",
+      "type": "message",
+      "text": "実はこれ、この記事を念頭にした発言だったのです...\n\n<https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1607064376218400|https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1607064376218400>",
+      "user": "aruneko99",
+      "ts": "1607139597.221900",
+      "team": "T0GFBAM8C",
+      "attachments": [
+        {
+          "from_url": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1607064376218400",
+          "fallback": "[December 3rd, 2020 10:46 PM] aruneko99: Semverにみんな則ってくれると嬉しいんですけどね。歴史的経緯でソフトウェアによって採用状況がまちまちなので…",
+          "ts": "1607064376.218400",
+          "author_id": "aruneko99",
+          "author_subname": "aruneko99",
+          "channel_id": "C0GFH3RHC",
+          "channel_name": "general",
+          "is_msg_unfurl": true,
+          "text": "Semverにみんな則ってくれると嬉しいんですけどね。歴史的経緯でソフトウェアによって採用状況がまちまちなので…",
+          "author_name": "aruneko99",
+          "author_link": "https://archlinuxjp.slack.com/team/aruneko99",
+          "author_icon": "https://avatars.slack-edge.com/2017-08-23/229932114416_ca48bb36d6cfe3d998ac_48.png",
+          "mrkdwn_in": [
+            "text"
+          ],
+          "id": 1,
+          "original_url": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1607064376218400",
+          "footer": "#general に投稿"
+        }
+      ],
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "/qE",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "実はこれ、この記事を念頭にした発言だったのです...\n"
+                },
+                {
+                  "type": "text",
+                  "text": "\n"
+                },
+                {
+                  "type": "link",
+                  "url": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1607064376218400",
+                  "text": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1607064376218400"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "19ba8d43-a867-40b2-8e97-57bb9e1d7fce",
+      "type": "message",
+      "text": "こないだ、こういうつらい話も読みました。。。 <https://knqyf263.hatenablog.com/entry/2020/11/10/224424>",
+      "user": "takumi.kt",
+      "ts": "1607128542.220500",
+      "team": "T0GFBAM8C",
+      "attachments": [
+        {
+          "service_name": "knqyf263's blog",
+          "title": "Semantic Versioningの闇 - knqyf263's blog",
+          "title_link": "https://knqyf263.hatenablog.com/entry/2020/11/10/224424",
+          "text": "今回も誰も興味ないシリーズなので今まで書いてこなかったのですが、Semantic Versioningに関して幻想を抱いている人がいる可能性があり、そういう方にどうしても現実を知っておいて欲しかったので書きました。3行要約（と可能なら余談）だけでも読んでいただけると幸いです。 3行要約 Semantic Versioning 2.0.0にはバージョン\"比較\"の定義はあるが、バージョン\"制約\"（&gt;= 2.1.3みたいなやつ）の定義がない その結果、同じsemver準拠ライブラリでも制約の解釈が異なり結果が真逆になる というかそもそもsemver使ってるエコシステムが少なすぎる 背景 セキュリティ…",
+          "fallback": "knqyf263's blog: Semantic Versioningの闇 - knqyf263's blog",
+          "image_url": "https://ogimage.blog.st-hatena.com/12921228815715408059/26006613651236840/1605037863",
+          "ts": 1605015864,
+          "from_url": "https://knqyf263.hatenablog.com/entry/2020/11/10/224424",
+          "image_width": 476,
+          "image_height": 250,
+          "image_bytes": 39005,
+          "service_icon": "https://knqyf263.hatenablog.com/icon/touch",
+          "id": 1,
+          "original_url": "https://knqyf263.hatenablog.com/entry/2020/11/10/224424"
+        }
+      ],
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "cnB",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "こないだ、こういうつらい話も読みました。。。 "
+                },
+                {
+                  "type": "link",
+                  "url": "https://knqyf263.hatenablog.com/entry/2020/11/10/224424"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "reactions": [
+        {
+          "name": "eyes",
+          "users": [
+            "yutakatay",
+            "claude0803sz"
+          ],
+          "count": 2
+        }
+      ]
+    },
+    {
+      "client_msg_id": "b678d093-6a87-4419-adfb-3cf21aca2680",
+      "type": "message",
+      "text": "たしかに…",
+      "user": "aruneko99",
+      "ts": "1607064680.220000",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "ffc",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "たしかに…"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "28c7b0c3-9184-4565-9a8f-a0a72b611797",
+      "type": "message",
+      "text": "Semverにするとメジャーバージョンがあんまり上がらないのがあれなんですよね。。。",
+      "user": "yutakatay",
+      "ts": "1607064568.218900",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "UBo",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "Semverにするとメジャーバージョンがあんまり上がらないのがあれなんですよね。。。"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "a7d87682-e557-491c-8659-fc2edf20c35c",
+      "type": "message",
+      "text": "Semverにみんな則ってくれると嬉しいんですけどね。歴史的経緯でソフトウェアによって採用状況がまちまちなので…",
+      "user": "aruneko99",
+      "ts": "1607064376.218400",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "bLe",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "Semverにみんな則ってくれると嬉しいんですけどね。歴史的経緯でソフトウェアによって採用状況がまちまちなので…"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "dfb40425-9331-4970-89e1-928d1505f052",
+      "type": "message",
+      "text": "<https://semver.org/lang/ja/> SemVer ってこれかー。こういうきまり事はありがたいね",
+      "user": "kusanaginoturugi",
+      "ts": "1607063017.217400",
+      "team": "T0GFBAM8C",
+      "edited": {
+        "user": "kusanaginoturugi",
+        "ts": "1607063097.000000"
+      },
+      "attachments": [
+        {
+          "service_name": "Semantic Versioning",
+          "title": "セマンティック バージョニング 2.0.0",
+          "title_link": "https://semver.org/lang/ja/",
+          "text": "Semantic Versioning spec and website",
+          "fallback": "Semantic Versioning: セマンティック バージョニング 2.0.0",
+          "from_url": "https://semver.org/lang/ja/",
+          "id": 1,
+          "original_url": "https://semver.org/lang/ja/"
+        }
+      ],
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "+Tl",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "link",
+                  "url": "https://semver.org/lang/ja/"
+                },
+                {
+                  "type": "text",
+                  "text": " SemVer ってこれかー。こういうきまり事はありがたいね"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "9fd98671-8090-4d60-a4ea-627a22f9d97f",
+      "type": "message",
+      "text": "はい。SemVer意識して3.10ですね",
+      "user": "claude0803sz",
+      "ts": "1607059762.216600",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "A9B",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "はい。SemVer意識して3.10ですね"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "5e28c31a-f9df-4fb5-807a-04b35a4a65a1",
+      "type": "message",
+      "text": "つぎは3.10なんですね4.0かと思いましたが",
+      "user": "getalotofmail",
+      "ts": "1607059228.216100",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "6ScR",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "つぎは3.10なんですね4.0かと思いましたが"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "2a72245e-dcff-4820-8925-47320da7b6bf",
+      "type": "message",
+      "text": "リリースサイクルが1年になったんですよね。3.8以前は1.5年でした",
+      "user": "claude0803sz",
+      "ts": "1607052656.215100",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "=le",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "リリースサイクルが1年になったんですよね。3.8以前は1.5年でした"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "4906220b-96bf-40ec-943e-38cb461c91cb",
+      "type": "message",
+      "text": "こないだ3.8になったばっかなのに、もう3.9になるんですね・・・",
+      "user": "takumi.kt",
+      "ts": "1607043795.213400",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "yHe",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "こないだ3.8になったばっかなのに、もう3.9になるんですね・・・"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "message",
+      "subtype": "channel_join",
+      "ts": "1606915151.212400",
+      "user": "uk.tmbc2408",
+      "text": "<@uk.tmbc2408>さんがチャンネルに参加しました"
+    },
+    {
+      "client_msg_id": "b40c4437-bf0c-46fe-9caf-1fb4969b10ed",
+      "type": "message",
+      "text": "Windowsアップデートを思い出した",
+      "user": "yutakatay",
+      "ts": "1606896663.212200",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "ViIC",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "Windowsアップデートを思い出した"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "reactions": [
+        {
+          "name": "wakaru",
+          "users": [
+            "U53RAQBCP"
+          ],
+          "count": 1
+        }
+      ]
+    },
+    {
+      "client_msg_id": "6e8c1365-6102-4351-9d29-51df8cb7200a",
+      "type": "message",
+      "text": "更新しました。10分くらいかかりました・・・",
+      "user": "yutakatay",
+      "ts": "1606896650.211900",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "g1mYa",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "更新しました。10分くらいかかりました・・・"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "91993625-17d1-421b-aca6-6bc928db3915",
+      "type": "message",
+      "text": "更新しまーす",
+      "user": "yutakatay",
+      "ts": "1606895892.211500",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "1VQ",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "更新しまーす"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "e476c078-8315-4c7a-ba60-066485d7cf95",
+      "type": "message",
+      "text": "まだアップデートしてないけど",
+      "user": "yutakatay",
+      "ts": "1606895648.211200",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "TEk+",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "まだアップデートしてないけど"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "message",
+      "text": "すごい量のパッケージ更新が来たと思ったらpyhon3.9だった",
+      "files": [
+        {
+          "id": "F01FYMKMRL2",
+          "created": 1606895616,
+          "timestamp": 1606895616,
+          "name": "2020-12-02_16-53.png",
+          "title": "2020-12-02_16-53.png",
+          "mimetype": "image/png",
+          "filetype": "png",
+          "pretty_type": "PNG",
+          "user": "yutakatay",
+          "editable": false,
+          "size": 1342,
+          "mode": "hosted",
+          "is_external": false,
+          "external_type": "",
+          "is_public": true,
+          "public_url_shared": false,
+          "display_as_bot": false,
+          "username": "",
+          "url_private": "https://files.slack.com/files-pri/T0GFBAM8C-F01FYMKMRL2/2020-12-02_16-53.png",
+          "url_private_download": "https://files.slack.com/files-pri/T0GFBAM8C-F01FYMKMRL2/download/2020-12-02_16-53.png",
+          "media_display_type": "unknown",
+          "thumb_64": "https://files.slack.com/files-tmb/T0GFBAM8C-F01FYMKMRL2-3739237646/2020-12-02_16-53_64.png",
+          "thumb_80": "https://files.slack.com/files-tmb/T0GFBAM8C-F01FYMKMRL2-3739237646/2020-12-02_16-53_80.png",
+          "thumb_360": "https://files.slack.com/files-tmb/T0GFBAM8C-F01FYMKMRL2-3739237646/2020-12-02_16-53_360.png",
+          "thumb_360_w": 93,
+          "thumb_360_h": 22,
+          "thumb_160": "https://files.slack.com/files-tmb/T0GFBAM8C-F01FYMKMRL2-3739237646/2020-12-02_16-53_160.png",
+          "original_w": 93,
+          "original_h": 22,
+          "thumb_tiny": "AwALADCv5P7nzMj6UeUNxGTnOOlR0UmA5Yy2cdqcISR2qPp0oo1Af5XoR2pm3GfaiigD/9k=",
+          "permalink": "https://archlinuxjp.slack.com/files/yutakatay/F01FYMKMRL2/2020-12-02_16-53.png",
+          "permalink_public": "https://slack-files.com/T0GFBAM8C-F01FYMKMRL2-7248fc4b83",
+          "is_starred": false,
+          "has_rich_preview": false
+        }
+      ],
+      "upload": false,
+      "user": "yutakatay",
+      "display_as_bot": false,
+      "ts": "1606895630.210800",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "=NEg",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "すごい量のパッケージ更新が来たと思ったらpyhon3.9だった"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "reactions": [
+        {
+          "name": "eyes",
+          "users": [
+            "U8T8KB5M4"
+          ],
+          "count": 1
+        },
+        {
+          "name": "grinning",
+          "users": [
+            "U34HVP2HH"
+          ],
+          "count": 1
+        }
+      ]
+    }
+  ],
+  "has_more": false,
+  "is_limited": true,
+  "pin_count": 16,
+  "channel_actions_ts": null,
+  "channel_actions_count": 0
+}

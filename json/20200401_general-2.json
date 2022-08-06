@@ -1,0 +1,940 @@
+{
+  "ok": true,
+  "latest": "1588303617.000000",
+  "oldest": "1585711617.000000",
+  "messages": [
+    {
+      "client_msg_id": "d260e4d0-706f-45bf-97a7-9ed42ba49e48",
+      "type": "message",
+      "text": "やり方に自信がないのですが、/var/cache/pacman/pkgに移動して pacman -U で前のパッケージを指定するだけで大丈夫ですか？",
+      "user": "watakushide.kakusanak",
+      "ts": "1586222417.040400",
+      "team": "T0GFBAM8C",
+      "edited": {
+        "user": "watakushide.kakusanak",
+        "ts": "1586222444.000000"
+      },
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "iLaZ",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "やり方に自信がないのですが、/var/cache/pacman/pkgに移動して pacman -U で前のパッケージを指定するだけで大丈夫ですか？"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "reactions": [
+        {
+          "name": "+1",
+          "users": [
+            "koumaza--",
+            "UJ7P75WB1"
+          ],
+          "count": 2
+        }
+      ]
+    },
+    {
+      "client_msg_id": "d15985e3-e970-4d6e-a97f-208470589e7a",
+      "type": "message",
+      "text": "出先ということなので今すぐやってほしいというわけではありませんが、pacmanは過去バージョンのパッケージを /var/cache/pkg 以下に保存しているので、ダウングレードだけであれば稼動中のシステムだけでできますよ",
+      "user": "nyaarch64",
+      "ts": "1586222001.038500",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "qsav",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "出先ということなので今すぐやってほしいというわけではありませんが、pacmanは過去バージョンのパッケージを /var/cache/pkg 以下に保存しているので、ダウングレードだけであれば稼動中のシステムだけでできますよ"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "4e8ac120-5586-4100-b906-aea8e21f7654",
+      "type": "message",
+      "text": "今出先でインストールディスクがないので、帰ったらやってみます",
+      "user": "watakushide.kakusanak",
+      "ts": "1586221668.035900",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "LgRb",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "今出先でインストールディスクがないので、帰ったらやってみます"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "e8a1cc75-1529-4126-8f4d-3f10c0c557bc",
+      "type": "message",
+      "text": "もしカーネルが原因ならlinux-ltsを使うというのも手",
+      "user": "znmxodq1",
+      "ts": "1586221517.035200",
+      "team": "T0GFBAM8C",
+      "edited": {
+        "user": "znmxodq1",
+        "ts": "1586221538.000000"
+      },
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "=Zgs",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "もしカーネルが原因ならlinux-ltsを使うというのも手"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "65d52d36-e379-4aeb-b990-5ebcc70fcdaf",
+      "type": "message",
+      "text": "カーネルダウングレードしてもなります？",
+      "user": "znmxodq1",
+      "ts": "1586221507.034900",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "s4y",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "カーネルダウングレードしてもなります？"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "b3d2097e-ff46-4166-8301-00dfbc8991d4",
+      "type": "message",
+      "text": "はじめまして。Arch Linux 初心者です。PulseaudioがHDMIを認識してくれなくなって困ってます。イヤホンを挿したところ、そちらは認識されて音が出ました。\npulseaudioを再起動しても、再インストールしても治りませんでした。\n昨日までは普通に音が出ていたのですが…\n今日Linuxを5.6.2にアップグレードしたのですがそれが原因でしょうか？同じ症状になった方いらっしゃいませんか？",
+      "user": "watakushide.kakusanak",
+      "ts": "1586221353.034000",
+      "team": "T0GFBAM8C",
+      "edited": {
+        "user": "watakushide.kakusanak",
+        "ts": "1586221412.000000"
+      },
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "fhX/",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "はじめまして。Arch Linux 初心者です。PulseaudioがHDMIを認識してくれなくなって困ってます。イヤホンを挿したところ、そちらは認識されて音が出ました。\npulseaudioを再起動しても、再インストールしても治りませんでした。\n昨日までは普通に音が出ていたのですが…\n今日Linuxを5.6.2にアップグレードしたのですがそれが原因でしょうか？同じ症状になった方いらっしゃいませんか？"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "reactions": [
+        {
+          "name": "archjp",
+          "users": [
+            "znmxodq1",
+            "nyaarch64",
+            "URZFHALTT",
+            "U3FJYR7MG",
+            "UJ7P75WB1"
+          ],
+          "count": 5
+        }
+      ]
+    },
+    {
+      "type": "message",
+      "subtype": "thread_broadcast",
+      "text": "残念ながら該当するハードを持ち合わせていないので、自分はお力になれません…\n既にご確認されているかと思いますが、Arch wikiに役立ちそうなページがあるので一応シェアします\n<https://wiki.archlinux.jp/index.php/NVIDIA_Optimus|https://wiki.archlinux.jp/index.php/NVIDIA_Optimus>\n\n切り替えならPRIMEの記事の方が役立つ？\n<https://wiki.archlinux.jp/index.php/PRIME|https://wiki.archlinux.jp/index.php/PRIME>",
+      "user": "fragment",
+      "ts": "1585934612.029400",
+      "thread_ts": "1585930132.028000",
+      "root": {
+        "client_msg_id": "29adeacd-dee4-4428-a65a-03c64e3c4bf3",
+        "type": "message",
+        "text": "intelとnvidiaの統合グラフィックスを搭載したノートパソコンにてnvidiaグラフィックプロセッサ(あるいは状況によって簡単に切り替えできるように)をarchlinuxにて使用したいのですが,どうしたらいいでしょうか?",
+        "user": "testshell392392",
+        "ts": "1585930132.028000",
+        "team": "T0GFBAM8C",
+        "edited": {
+          "user": "testshell392392",
+          "ts": "1585930822.000000"
+        },
+        "blocks": [
+          {
+            "type": "rich_text",
+            "block_id": "4Ezs",
+            "elements": [
+              {
+                "type": "rich_text_section",
+                "elements": [
+                  {
+                    "type": "text",
+                    "text": "intelとnvidiaの統合グラフィックスを搭載したノートパソコンにてnvidiaグラフィックプロセッサ(あるいは状況によって簡単に切り替えできるように)をarchlinuxにて使用したいのですが,どうしたらいいでしょうか?"
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "thread_ts": "1585930132.028000",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1585968327.030100",
+        "reply_users": [
+          "fragment",
+          "testshell392392"
+        ],
+        "is_locked": false,
+        "subscribed": false
+      },
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "t9/X",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "残念ながら該当するハードを持ち合わせていないので、自分はお力になれません…\n既にご確認されているかと思いますが、Arch wikiに役立ちそうなページがあるので一応シェアします\n"
+                },
+                {
+                  "type": "link",
+                  "url": "https://wiki.archlinux.jp/index.php/NVIDIA_Optimus",
+                  "text": "https://wiki.archlinux.jp/index.php/NVIDIA_Optimus"
+                },
+                {
+                  "type": "text",
+                  "text": "\n\n切り替えならPRIMEの記事の方が役立つ？\n"
+                },
+                {
+                  "type": "link",
+                  "url": "https://wiki.archlinux.jp/index.php/PRIME",
+                  "text": "https://wiki.archlinux.jp/index.php/PRIME"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "client_msg_id": "3b1848d8-ccfe-4261-9709-f85a5c86d024",
+      "edited": {
+        "user": "fragment",
+        "ts": "1585935142.000000"
+      }
+    },
+    {
+      "client_msg_id": "29adeacd-dee4-4428-a65a-03c64e3c4bf3",
+      "type": "message",
+      "text": "intelとnvidiaの統合グラフィックスを搭載したノートパソコンにてnvidiaグラフィックプロセッサ(あるいは状況によって簡単に切り替えできるように)をarchlinuxにて使用したいのですが,どうしたらいいでしょうか?",
+      "user": "testshell392392",
+      "ts": "1585930132.028000",
+      "team": "T0GFBAM8C",
+      "edited": {
+        "user": "testshell392392",
+        "ts": "1585930822.000000"
+      },
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "4Ezs",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "intelとnvidiaの統合グラフィックスを搭載したノートパソコンにてnvidiaグラフィックプロセッサ(あるいは状況によって簡単に切り替えできるように)をarchlinuxにて使用したいのですが,どうしたらいいでしょうか?"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "thread_ts": "1585930132.028000",
+      "reply_count": 2,
+      "reply_users_count": 2,
+      "latest_reply": "1585968327.030100",
+      "reply_users": [
+        "fragment",
+        "testshell392392"
+      ],
+      "is_locked": false,
+      "subscribed": false
+    },
+    {
+      "client_msg_id": "71f26b62-56b1-4840-be82-798a411254a0",
+      "type": "message",
+      "text": "はじめまして,NVIDIA Optimus関連の設定で行き詰まっていて解決策を探しています",
+      "user": "testshell392392",
+      "ts": "1585929889.025800",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "arv",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "はじめまして,NVIDIA Optimus関連の設定で行き詰まっていて解決策を探しています"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "message",
+      "subtype": "channel_join",
+      "ts": "1585929694.024200",
+      "user": "testshell392392",
+      "text": "<@testshell392392>さんがチャンネルに参加しました"
+    },
+    {
+      "type": "message",
+      "subtype": "channel_join",
+      "ts": "1585832272.024000",
+      "user": "0kazuki0324",
+      "text": "<@0kazuki0324>さんがチャンネルに参加しました"
+    },
+    {
+      "client_msg_id": "e6b0fcb3-a9ca-4ff3-98d6-d1424c9ad3d7",
+      "type": "message",
+      "text": "MESA_LOADER_DRIVER_OVERRIDE=i965いれるとAlacrittyのほうがチラつくんでダウングレードがよいです。。。",
+      "user": "yutakatay",
+      "ts": "1585793976.023300",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "R4K",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "MESA_LOADER_DRIVER_OVERRIDE=i965いれるとAlacrittyのほうがチラつくんでダウングレードがよいです。。。"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "440f8569-dc1f-4169-945d-af2a6e95de62",
+      "type": "message",
+      "text": "MESA_LOADER_DRIVER_OVERRIDE=i965を/etc/environment に書いても\n改善された気はしますが、若干なんか見えるw",
+      "user": "yutakatay",
+      "ts": "1585793633.022500",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "Giu8",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "MESA_LOADER_DRIVER_OVERRIDE=i965を/etc/environment に書いても\n改善された気はしますが、若干なんか見えるw"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "edb0bc42-f538-4e03-9a4e-ea9999efdb08",
+      "type": "message",
+      "text": "そういえばLinuxでもNvidiaGpuとIntelGpuの併用ってできるんですか",
+      "user": "koumaza--",
+      "ts": "1585793483.021400",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "UZ5",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "そういえばLinuxでもNvidiaGpuとIntelGpuの併用ってできるんですか"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "119271c3-f878-4cb7-a61c-ab6fc904e26d",
+      "type": "message",
+      "text": "<https://bugs.archlinux.org/task/66029>\n<https://gitlab.freedesktop.org/mesa/mesa/-/issues/2721>",
+      "user": "yutakatay",
+      "ts": "1585793386.020400",
+      "team": "T0GFBAM8C",
+      "edited": {
+        "user": "yutakatay",
+        "ts": "1585793814.000000"
+      },
+      "attachments": [
+        {
+          "title": "FS#66029 : [mesa] screen tearing issues with firefox",
+          "title_link": "https://bugs.archlinux.org/task/66029",
+          "text": "Flyspray, a Bug Tracking System written in PHP.",
+          "fallback": "FS#66029 : [mesa] screen tearing issues with firefox",
+          "from_url": "https://bugs.archlinux.org/task/66029",
+          "service_icon": "https://bugs.archlinux.org/themes/ArchLinux/favicon.ico",
+          "service_name": "bugs.archlinux.org",
+          "id": 1,
+          "original_url": "https://bugs.archlinux.org/task/66029"
+        }
+      ],
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "50/2B",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "link",
+                  "url": "https://bugs.archlinux.org/task/66029"
+                },
+                {
+                  "type": "text",
+                  "text": "\n"
+                },
+                {
+                  "type": "link",
+                  "url": "https://gitlab.freedesktop.org/mesa/mesa/-/issues/2721"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "thread_ts": "1585793386.020400",
+      "reply_count": 2,
+      "reply_users_count": 1,
+      "latest_reply": "1588305202.235800",
+      "reply_users": [
+        "yutakatay"
+      ],
+      "is_locked": false,
+      "subscribed": false
+    },
+    {
+      "client_msg_id": "01facf5b-336e-475d-92ce-0d0db6a999e6",
+      "type": "message",
+      "text": "私もIntelですね。これだ",
+      "user": "yutakatay",
+      "ts": "1585792899.020200",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "/RC",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "私もIntelですね。これだ"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "058da372-9b6f-461b-af67-531f3d492537",
+      "type": "message",
+      "text": "私のマシンもIntel UHD Graphics 620 なのでこれっぽいですね",
+      "user": "nyaarch64",
+      "ts": "1585792322.019600",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "xKG",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "私のマシンもIntel UHD Graphics 620 なのでこれっぽいですね"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "reactions": [
+        {
+          "name": "+1",
+          "users": [
+            "yutakatay"
+          ],
+          "count": 1
+        }
+      ]
+    },
+    {
+      "client_msg_id": "d932b0f7-60de-454e-a483-c1a998141619",
+      "type": "message",
+      "text": "FS#66029 ですかね",
+      "user": "nyaarch64",
+      "ts": "1585792221.018900",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "i2u",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "FS#66029 ですかね"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "7df2c90d-55b8-4805-b49a-1fc038086de5",
+      "type": "message",
+      "text": "手元にないと思ったらカバンに入ってました :raised_hands: \nmesa 19.3.4-2 にダウングレードしたら直りました",
+      "user": "nyaarch64",
+      "ts": "1585792187.018500",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "7sute",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "手元にないと思ったらカバンに入ってました "
+                },
+                {
+                  "type": "emoji",
+                  "name": "raised_hands",
+                  "unicode": "1f64c"
+                },
+                {
+                  "type": "text",
+                  "text": " \nmesa 19.3.4-2 にダウングレードしたら直りました"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "reactions": [
+        {
+          "name": "tada",
+          "users": [
+            "znmxodq1",
+            "yutakatay"
+          ],
+          "count": 2
+        }
+      ]
+    },
+    {
+      "client_msg_id": "20c70407-7acc-4a05-8fbb-b214224ae8a5",
+      "type": "message",
+      "text": "<https://wiki.archlinux.jp/index.php/Xorg#.E3.83.89.E3.83.A9.E3.82.A4.E3.83.90.E3.83.BC.E3.81.AE.E3.82.A4.E3.83.B3.E3.82.B9.E3.83.88.E3.83.BC.E3.83.AB>",
+      "user": "koumaza--",
+      "ts": "1585791224.017300",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "Mh+7",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "link",
+                  "url": "https://wiki.archlinux.jp/index.php/Xorg#.E3.83.89.E3.83.A9.E3.82.A4.E3.83.90.E3.83.BC.E3.81.AE.E3.82.A4.E3.83.B3.E3.82.B9.E3.83.88.E3.83.BC.E3.83.AB"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "f9baa032-570e-4da6-9ebb-64e3042a28c9",
+      "type": "message",
+      "text": "~通常はmesaだと~\ngpuドライバ+mesaですね",
+      "user": "koumaza--",
+      "ts": "1585791163.017100",
+      "team": "T0GFBAM8C",
+      "edited": {
+        "user": "koumaza--",
+        "ts": "1585791286.000000"
+      },
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "cpGj",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "通常はmesaだと",
+                  "style": {
+                    "strike": true
+                  }
+                },
+                {
+                  "type": "text",
+                  "text": "\ngpuドライバ+mesaですね"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "reactions": [
+        {
+          "name": "+1",
+          "users": [
+            "yutakatay"
+          ],
+          "count": 1
+        }
+      ]
+    },
+    {
+      "client_msg_id": "92826e15-e3a9-4b89-aa60-16e3599269c4",
+      "type": "message",
+      "text": "Xって独自でドライバ持ってるからそれ？",
+      "user": "znmxodq1",
+      "ts": "1585791105.016300",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "Ipysl",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "Xって独自でドライバ持ってるからそれ？"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "5e2e2b91-43f9-481e-9b31-356711932f8b",
+      "type": "message",
+      "text": "今症状出てないマシン使ってるので追加のデバッグはちょっと先になりそうです……\n私もそろそろwayland試してみないとですね……。",
+      "user": "nyaarch64",
+      "ts": "1585790963.015900",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "P72",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "今症状出てないマシン使ってるので追加のデバッグはちょっと先になりそうです……\n私もそろそろwayland試してみないとですね……。"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "f4046426-1d9d-41c4-ba1b-9e9f442d6ca6",
+      "type": "message",
+      "text": "Sway（Wayland）で試してるんですが再現しないですね。X関連ですかね？？",
+      "user": "yutakatay",
+      "ts": "1585790789.014100",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "V4U0",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "Sway（Wayland）で試してるんですが再現しないですね。X関連ですかね？？"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "72f3b8c9-a44b-46e9-bb96-9ee9b1aec1ae",
+      "type": "message",
+      "text": "症状出てる方のマシンはiiyamaのBTOノート(詳しいスペックは今手元にないので……)で、Letsnote AX3では出てないんですよね\nどちらも xorg-server 1.20.8-1 に更新してあって、(ぱっと思いついたのがこいつだったので)症状出てるマシンで 1.20.7-1 にダウングレードしてxの再起動試しましたが直りませんでした",
+      "user": "nyaarch64",
+      "ts": "1585790546.013000",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "0nj",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "症状出てる方のマシンはiiyamaのBTOノート(詳しいスペックは今手元にないので……)で、Letsnote AX3では出てないんですよね\nどちらも xorg-server 1.20.8-1 に更新してあって、(ぱっと思いついたのがこいつだったので)症状出てるマシンで 1.20.7-1 にダウングレードしてxの再起動試しましたが直りませんでした"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "189bf1c5-373a-4742-92f9-1cb80f458cb6",
+      "type": "message",
+      "text": "firefoxもあかん・・・",
+      "user": "yutakatay",
+      "ts": "1585790298.007800",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "Gja",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "firefoxもあかん・・・"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "085b915f-f818-4f89-bce5-6a64fa2f7138",
+      "type": "message",
+      "text": "alacritty上でIMEぽちぽちしても乱れないですね。",
+      "user": "yutakatay",
+      "ts": "1585790274.006700",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "jYe",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "alacritty上でIMEぽちぽちしても乱れないですね。"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "d90f058a-6420-4f93-aeff-3939ae1273f0",
+      "type": "message",
+      "text": "ですね。同じ感じです。スクロールとかでも乱れますね・・・\nマシンはThinkpadX1Carbon6genです",
+      "user": "yutakatay",
+      "ts": "1585790115.006000",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "XYL",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "ですね。同じ感じです。スクロールとかでも乱れますね・・・\nマシンはThinkpadX1Carbon6genです"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "cce560d6-f955-435d-ab20-55813f29bd32",
+      "type": "message",
+      "text": "こちらではマシンによって乱れる・乱れないが分かれていますね……私は xmonad です。\n右クリックメニューが出るときとか、画面が大きく変わるときに、更新された場所にノイズが乗るみたいな感じの現象だった気がします",
+      "user": "nyaarch64",
+      "ts": "1585790049.005300",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "YVMy",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "こちらではマシンによって乱れる・乱れないが分かれていますね……私は xmonad です。\n右クリックメニューが出るときとか、画面が大きく変わるときに、更新された場所にノイズが乗るみたいな感じの現象だった気がします"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "c44745e0-1618-45b6-bb25-5d0d625725d2",
+      "type": "message",
+      "text": "デスクトップはi3です",
+      "user": "yutakatay",
+      "ts": "1585789876.001300",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "g5lA",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "デスクトップはi3です"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "522029df-ff1e-454d-a186-a7736e309510",
+      "type": "message",
+      "text": "アップデートしたらChromiumとかfcitxで画面が乱れる事象が発生しています・・・",
+      "user": "yutakatay",
+      "ts": "1585789864.001100",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "6EEUz",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "アップデートしたらChromiumとかfcitxで画面が乱れる事象が発生しています・・・"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "has_more": false,
+  "is_limited": true,
+  "pin_count": 16,
+  "channel_actions_ts": null,
+  "channel_actions_count": 0
+}

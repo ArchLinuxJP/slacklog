@@ -1,0 +1,881 @@
+{
+  "ok": true,
+  "latest": "1651375631.000000",
+  "oldest": "1648783631.000000",
+  "messages": [
+    {
+      "type": "message",
+      "text": "`pkgrel` は普通の PKGBUILD と同じ扱いだったと思う（1 に戻す）",
+      "user": "odknt",
+      "ts": "1649398882.600779",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "KmYr4",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "pkgrel",
+                  "style": {
+                    "code": true
+                  }
+                },
+                {
+                  "type": "text",
+                  "text": " は普通の PKGBUILD と同じ扱いだったと思う（1 に戻す）"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "64770017-fcd2-4065-88f1-830df5370b71",
+      "type": "message",
+      "text": "ほんとだ。後から生えてきてた。",
+      "user": "buzz.taiki",
+      "ts": "1649398837.006419",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "hDyF",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "ほんとだ。後から生えてきてた。"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "4f3d2751-c126-4495-8541-0ec60304801b",
+      "type": "message",
+      "text": "super_unko、こどもの Linux 教育に最適やな。",
+      "user": "kusanaginoturugi",
+      "ts": "1649398552.953679",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "/TCR",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "super_unko、こどもの Linux 教育に最適やな。"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "43d38fe8-5273-4d6d-84c3-556a0ebec37f",
+      "type": "message",
+      "text": "conflicts=(super_unko) を入れた方がいいね。",
+      "user": "kusanaginoturugi",
+      "ts": "1649398494.499879",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "UM1",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "conflicts=(super_unko) を入れた方がいいね。"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "93cbf127-46ca-4994-8384-18ff99641335",
+      "type": "message",
+      "text": "ちょっとひどい。",
+      "user": "buzz.taiki",
+      "ts": "1649398083.993639",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "6REP",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "ちょっとひどい。"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "252f1519-8f13-4839-b0bb-3b6971a27fe2",
+      "type": "message",
+      "text": "べんり。\n\n```❱❱ unko.toilet うんこLinux\n        💩\n          💩💩\n                                    💩                        💩                                        💩\n        💩💩💩💩                      💩                        💩💩💩💩💩            💩\n    💩💩        💩                    💩                              💩              💩\n                💩                  💩                                                💩            💩💩💩        💩  💩💩      💩      💩    💩      💩\n                💩                  💩                                                💩                💩        💩💩    💩    💩      💩      💩  💩\n                💩                💩💩💩                    💩                        💩                💩        💩      💩    💩      💩      💩💩💩\n              💩                  💩    💩                  💩                        💩                💩        💩      💩    💩      💩        💩\n              💩                💩      💩      💩            💩          💩          💩                💩        💩      💩    💩      💩      💩💩💩\n            💩                  💩      💩    💩                💩💩💩💩💩            💩                💩        💩      💩    💩    💩💩      💩  💩\n          💩                  💩          💩💩                                        💩💩💩💩💩💩  💩💩💩💩💩    💩      💩      💩💩  💩    💩      💩```",
+      "user": "buzz.taiki",
+      "ts": "1649398073.017389",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "xXI",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "べんり。\n\n"
+                }
+              ]
+            },
+            {
+              "type": "rich_text_preformatted",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "❱❱ unko.toilet うんこLinux\n        💩\n          💩💩\n                                    💩                        💩                                        💩\n        💩💩💩💩                      💩                        💩💩💩💩💩            💩\n    💩💩        💩                    💩                              💩              💩\n                💩                  💩                                                💩            💩💩💩        💩  💩💩      💩      💩    💩      💩\n                💩                  💩                                                💩                💩        💩💩    💩    💩      💩      💩  💩\n                💩                💩💩💩                    💩                        💩                💩        💩      💩    💩      💩      💩💩💩\n              💩                  💩    💩                  💩                        💩                💩        💩      💩    💩      💩        💩\n              💩                💩      💩      💩            💩          💩          💩                💩        💩      💩    💩      💩      💩💩💩\n            💩                  💩      💩    💩                💩💩💩💩💩            💩                💩        💩      💩    💩    💩💩      💩  💩\n          💩                  💩          💩💩                                        💩💩💩💩💩💩  💩💩💩💩💩    💩      💩      💩💩  💩    💩      💩"
+                }
+              ],
+              "border": 0
+            }
+          ]
+        }
+      ],
+      "reactions": [
+        {
+          "name": "hankey",
+          "users": [
+            "UGA29R3FH",
+            "kusanaginoturugi"
+          ],
+          "count": 2
+        }
+      ]
+    },
+    {
+      "client_msg_id": "669bbf3c-a478-4d1f-b387-8ab3a38e151c",
+      "type": "message",
+      "text": "ナイス:hankey:",
+      "user": "kusanaginoturugi",
+      "ts": "1649397624.569169",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "jk=",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "ナイス"
+                },
+                {
+                  "type": "emoji",
+                  "name": "hankey",
+                  "unicode": "1f4a9"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "9d2cd542-c77b-4b79-be39-892d48e5542f",
+      "type": "message",
+      "text": "前 <https://aur.archlinux.org/packages/super_unko-git> とか作った。",
+      "user": "buzz.taiki",
+      "ts": "1649397439.289209",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "OVXuF",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "前 "
+                },
+                {
+                  "type": "link",
+                  "url": "https://aur.archlinux.org/packages/super_unko-git"
+                },
+                {
+                  "type": "text",
+                  "text": " とか作った。"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "2690e3e5-5e02-49ad-8b98-35523820720c",
+      "type": "message",
+      "text": "ですね。AUR って自分が使いたいからスクリプト書いて、ついでだからコミットするようなノリだしokok。",
+      "user": "kusanaginoturugi",
+      "ts": "1649397311.407709",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "+/zf",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "ですね。AUR って自分が使いたいからスクリプト書いて、ついでだからコミットするようなノリだしokok。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "reactions": [
+        {
+          "name": "wakaru",
+          "users": [
+            "buzz.taiki"
+          ],
+          "count": 1
+        }
+      ]
+    },
+    {
+      "client_msg_id": "2fb70249-72be-486d-9866-67fd065a80de",
+      "type": "message",
+      "text": "多分同じ `pkgver` までバージョンが上がった人が、あたらしいコミットが出てくるまでインストールできない程度な気がする。",
+      "user": "buzz.taiki",
+      "ts": "1649397218.092759",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "h5Uc7",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "多分同じ "
+                },
+                {
+                  "type": "text",
+                  "text": "pkgver",
+                  "style": {
+                    "code": true
+                  }
+                },
+                {
+                  "type": "text",
+                  "text": " までバージョンが上がった人が、あたらしいコミットが出てくるまでインストールできない程度な気がする。"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "b28c0222-d648-4d95-84c5-c71bf8d49cfd",
+      "type": "message",
+      "text": "まあ、なんか問題あって怒られたら修正でええでしょ。",
+      "user": "kusanaginoturugi",
+      "ts": "1649397154.832589",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "44gn",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "まあ、なんか問題あって怒られたら修正でええでしょ。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "reactions": [
+        {
+          "name": "sorena",
+          "users": [
+            "buzz.taiki"
+          ],
+          "count": 1
+        }
+      ]
+    },
+    {
+      "client_msg_id": "d1cf8451-f19c-4635-a988-351f2bb22f05",
+      "type": "message",
+      "text": "ですよね。よかった。",
+      "user": "buzz.taiki",
+      "ts": "1649397048.040119",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "tbae",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "ですよね。よかった。"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "72de288b-03c7-46e1-92c5-aa2890c28b81",
+      "type": "message",
+      "text": "で、いいと思います。",
+      "user": "kusanaginoturugi",
+      "ts": "1649397036.313359",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "jEYXS",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "で、いいと思います。"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "67901940-ae5b-48a8-962f-94b4176624d6",
+      "type": "message",
+      "text": "`-git` なパッケージの `pkgrev` って `PKGBUILD` を書き換えたら上げ続ける (1 には戻らない) って事でいいんですかね？",
+      "user": "buzz.taiki",
+      "ts": "1649396921.731399",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "2tzG=",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "-git",
+                  "style": {
+                    "code": true
+                  }
+                },
+                {
+                  "type": "text",
+                  "text": " なパッケージの "
+                },
+                {
+                  "type": "text",
+                  "text": "pkgrev",
+                  "style": {
+                    "code": true
+                  }
+                },
+                {
+                  "type": "text",
+                  "text": " って "
+                },
+                {
+                  "type": "text",
+                  "text": "PKGBUILD",
+                  "style": {
+                    "code": true
+                  }
+                },
+                {
+                  "type": "text",
+                  "text": " を書き換えたら上げ続ける (1 には戻らない) って事でいいんですかね？"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "message",
+      "text": "<https://www.archlinux.jp/packages> がいつからか開けなくなってるみたいです",
+      "files": [
+        {
+          "id": "F03AFAN09U3",
+          "created": 1649286401,
+          "timestamp": 1649286401,
+          "name": "image.png",
+          "title": "image.png",
+          "mimetype": "image/png",
+          "filetype": "png",
+          "pretty_type": "PNG",
+          "user": "atnanasi",
+          "editable": false,
+          "size": 22904,
+          "mode": "hosted",
+          "is_external": false,
+          "external_type": "",
+          "is_public": true,
+          "public_url_shared": false,
+          "display_as_bot": false,
+          "username": "",
+          "url_private": "https://files.slack.com/files-pri/T0GFBAM8C-F03AFAN09U3/image.png",
+          "url_private_download": "https://files.slack.com/files-pri/T0GFBAM8C-F03AFAN09U3/download/image.png",
+          "media_display_type": "unknown",
+          "thumb_64": "https://files.slack.com/files-tmb/T0GFBAM8C-F03AFAN09U3-a139fee930/image_64.png",
+          "thumb_80": "https://files.slack.com/files-tmb/T0GFBAM8C-F03AFAN09U3-a139fee930/image_80.png",
+          "thumb_360": "https://files.slack.com/files-tmb/T0GFBAM8C-F03AFAN09U3-a139fee930/image_360.png",
+          "thumb_360_w": 360,
+          "thumb_360_h": 150,
+          "thumb_480": "https://files.slack.com/files-tmb/T0GFBAM8C-F03AFAN09U3-a139fee930/image_480.png",
+          "thumb_480_w": 480,
+          "thumb_480_h": 200,
+          "thumb_160": "https://files.slack.com/files-tmb/T0GFBAM8C-F03AFAN09U3-a139fee930/image_160.png",
+          "original_w": 666,
+          "original_h": 277,
+          "thumb_tiny": "AwATADCc6fCATlzjsMUz7HEP4ZfyFXm6Gmc+j07gVDZQ5xtm/SnJYQtn/WjHrirWD6H86XH+yfzouBW/s6En7z/mKT+zof7z/mKtDI6Kfzpcn0/Wi4C0m1fQUtFIAAAGBRRRQAUUUUAf/9k=",
+          "permalink": "https://archlinuxjp.slack.com/files/atnanasi/F03AFAN09U3/image.png",
+          "permalink_public": "https://slack-files.com/T0GFBAM8C-F03AFAN09U3-6b277a923f",
+          "is_starred": false,
+          "has_rich_preview": false
+        }
+      ],
+      "upload": false,
+      "user": "atnanasi",
+      "display_as_bot": false,
+      "ts": "1649286404.980809",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "UQRx",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "link",
+                  "url": "https://www.archlinux.jp/packages"
+                },
+                {
+                  "type": "text",
+                  "text": " がいつからか開けなくなってるみたいです"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "client_msg_id": "f27f2273-7e22-42bc-9590-c8e654e8f7d2",
+      "thread_ts": "1649286404.980809",
+      "reply_count": 4,
+      "reply_users_count": 3,
+      "latest_reply": "1649309754.457049",
+      "reply_users": [
+        "UUWBU08TU",
+        "january.fish",
+        "atnanasi"
+      ],
+      "is_locked": false,
+      "subscribed": false,
+      "reactions": [
+        {
+          "name": "eyes",
+          "users": [
+            "UUWBU08TU",
+            "U3FJYR7MG"
+          ],
+          "count": 2
+        }
+      ]
+    },
+    {
+      "type": "message",
+      "subtype": "channel_join",
+      "ts": "1649260465.092909",
+      "user": "january.fish",
+      "text": "<@january.fish>さんがチャンネルに参加しました"
+    },
+    {
+      "type": "message",
+      "subtype": "channel_join",
+      "ts": "1649058771.143769",
+      "user": "mitsugu.oyama",
+      "text": "<@mitsugu.oyama>さんがチャンネルに参加しました",
+      "reactions": [
+        {
+          "name": "archjp-joy",
+          "users": [
+            "U02HC93TJEP",
+            "U01HE1ENNJZ",
+            "buzz.taiki",
+            "syui",
+            "UGA29R3FH"
+          ],
+          "count": 5
+        }
+      ]
+    },
+    {
+      "client_msg_id": "720df9d4-f87f-4a0f-a888-b6a6a8c58deb",
+      "type": "message",
+      "text": "ちょっと面白い。\n```proc nimnimnim(): string =\n  \"ok\"\n\necho nimnimnim()\necho nimNimNim()\necho nim_nim_nim()\necho nim_nimnim()\necho niMniMnim()```\n",
+      "user": "buzz.taiki",
+      "ts": "1649050589.234649",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "J5qX",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "ちょっと面白い。\n"
+                }
+              ]
+            },
+            {
+              "type": "rich_text_preformatted",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "proc nimnimnim(): string =\n  \"ok\"\n\necho nimnimnim()\necho nimNimNim()\necho nim_nim_nim()\necho nim_nimnim()\necho niMniMnim()"
+                }
+              ],
+              "border": 0
+            },
+            {
+              "type": "rich_text_section",
+              "elements": []
+            }
+          ]
+        }
+      ],
+      "reactions": [
+        {
+          "name": "slightly_smiling_face",
+          "users": [
+            "january.fish"
+          ],
+          "count": 1
+        }
+      ]
+    },
+    {
+      "client_msg_id": "5b1c2435-152d-4e2d-96b5-fd9a6c787364",
+      "type": "message",
+      "text": "現状これっていう適用範囲がないところがつらみですよね・・・ツールからちょこちょこ作っていって侵食していくしかない",
+      "user": "yutakatay",
+      "ts": "1649043906.688619",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "h2G/",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "現状これっていう適用範囲がないところがつらみですよね・・・ツールからちょこちょこ作っていって侵食していくしかない"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "reactions": [
+        {
+          "name": "wakaru",
+          "users": [
+            "buzz.taiki",
+            "U6DL9D3AB"
+          ],
+          "count": 2
+        }
+      ]
+    },
+    {
+      "client_msg_id": "d96a4186-82df-4c4a-a161-9df2a10342e1",
+      "type": "message",
+      "text": "ちょっとしたスクリプトを型の助けを得ながら書くのに良さそうかもとか思いました。",
+      "user": "buzz.taiki",
+      "ts": "1649043828.807399",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "8en3b",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "ちょっとしたスクリプトを型の助けを得ながら書くのに良さそうかもとか思いました。"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "5BC31E4F-142A-435F-A7E1-4C898BD69814",
+      "type": "message",
+      "text": "便利",
+      "user": "syui",
+      "ts": "1649043754.732639",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "dBG",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "便利"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "34bece61-e3fd-42d9-9263-95a4139bfa48",
+      "type": "message",
+      "text": "nim流行ってほしい。nim scriptもあるし他の言語とはちょっと切り口が違うところがいい",
+      "user": "yutakatay",
+      "ts": "1649043710.942429",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "NiR",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "nim流行ってほしい。nim scriptもあるし他の言語とはちょっと切り口が違うところがいい"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "ad98423e-0c0d-46ac-9fd9-e870bfa02933",
+      "type": "message",
+      "text": "nimnimするとmnimniする。",
+      "user": "buzz.taiki",
+      "ts": "1649043700.658869",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "E7/wN",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "nimnimするとmnimniする。"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "379349BD-B844-4509-A0A8-00A4CCFA0E6B",
+      "type": "message",
+      "text": "nimが話題になり始めてる\n先取り力",
+      "user": "syui",
+      "ts": "1649043684.054199",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "Mjqqh",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "nimが話題になり始めてる\n"
+                },
+                {
+                  "type": "text",
+                  "text": "先取り力"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "b9356964-7449-4247-b25e-a437c6a0e39e",
+      "type": "message",
+      "text": "むにむにしたNim",
+      "user": "raa0121",
+      "ts": "1649043533.038609",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "gAd",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "むにむにしたNim"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "6709a0b0-8e7d-404a-89df-f208f85a0894",
+      "type": "message",
+      "text": "いいタイミング。",
+      "user": "buzz.taiki",
+      "ts": "1649043430.249519",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "BCgRx",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "いいタイミング。"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "7ec96833-b269-44ec-9b9b-55b1c0fbe16a",
+      "type": "message",
+      "text": "<https://zenn.dev/dumblepy/articles/b475b3b4f7d0da>",
+      "user": "yutakatay",
+      "ts": "1649035527.431379",
+      "team": "T0GFBAM8C",
+      "attachments": [
+        {
+          "from_url": "https://zenn.dev/dumblepy/articles/b475b3b4f7d0da",
+          "image_url": "https://res.cloudinary.com/zenn/image/upload/s--kmr4SFJP--/co_rgb:222%2Cg_south_west%2Cl_text:notosansjp-medium.otf_37_bold:medy%2520%2520%2Cx_203%2Cy_98/c_fit%2Cco_rgb:222%2Cg_north_west%2Cl_text:notosansjp-medium.otf_80_bold:Nim%25E3%2582%2592%25E7%259F%25A5%25E3%2581%25A3%25E3%2581%25A6%25E3%2581%25BB%25E3%2581%2597%25E3%2581%25842022%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9yZXMuY2xvdWRpbmFyeS5jb20vemVubi9pbWFnZS9mZXRjaC9zLS1rWkdTLXhfSi0tL2NfbGltaXQlMkNmX2F1dG8lMkNmbF9wcm9ncmVzc2l2ZSUyQ3FfYXV0byUyQ3dfNzAvaHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzg3NTI2MzJiNDEuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_72/v1627274783/default/og-base_z4sxah.png",
+          "image_width": 476,
+          "image_height": 250,
+          "image_bytes": 28782,
+          "service_icon": "https://zenn.dev/images/icon.png",
+          "id": 1,
+          "original_url": "https://zenn.dev/dumblepy/articles/b475b3b4f7d0da",
+          "fallback": "Zenn: Nimを知ってほしい2022",
+          "title": "Nimを知ってほしい2022",
+          "title_link": "https://zenn.dev/dumblepy/articles/b475b3b4f7d0da",
+          "service_name": "Zenn"
+        }
+      ],
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "IBH0m",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "link",
+                  "url": "https://zenn.dev/dumblepy/articles/b475b3b4f7d0da"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "has_more": false,
+  "is_limited": true,
+  "pin_count": 16,
+  "channel_actions_ts": null,
+  "channel_actions_count": 0
+}

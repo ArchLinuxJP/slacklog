@@ -1,0 +1,1524 @@
+{
+  "ok": true,
+  "latest": "1635768663.000000",
+  "oldest": "1633090263.000000",
+  "messages": [
+    {
+      "type": "message",
+      "subtype": "channel_join",
+      "ts": "1635357504.022300",
+      "user": "jandp.0717",
+      "text": "<@jandp.0717>さんがチャンネルに参加しました",
+      "reactions": [
+        {
+          "name": "archjp",
+          "users": [
+            "yozigen",
+            "a3784197",
+            "kusanaginoturugi",
+            "U02E11SNF0T",
+            "thirteeeeeeeeeeeeen",
+            "U0GFBAM8U",
+            "U013L1JQ0J2",
+            "UJ7P75WB1",
+            "U02BYQ8JYD9"
+          ],
+          "count": 9
+        },
+        {
+          "name": "+1",
+          "users": [
+            "U01QTK2CP3K",
+            "U013L1JQ0J2",
+            "U02BYQ8JYD9"
+          ],
+          "count": 3
+        },
+        {
+          "name": "tada",
+          "users": [
+            "U02BYQ8JYD9"
+          ],
+          "count": 1
+        }
+      ]
+    },
+    {
+      "client_msg_id": "5a2dab7f-ece6-4430-95cf-507c6c180fb9",
+      "type": "message",
+      "text": "探し方 <https://askubuntu.com/questions/428698/are-there-alternative-repositories-to-ports-ubuntu-com-for-arm>",
+      "user": "addokoda",
+      "ts": "1635247647.021300",
+      "team": "T0GFBAM8C",
+      "attachments": [
+        {
+          "service_name": "Ask Ubuntu",
+          "title": "Are there alternative repositories to ports.ubuntu.com for ARM?",
+          "title_link": "https://askubuntu.com/questions/428698/are-there-alternative-repositories-to-ports-ubuntu-com-for-arm",
+          "text": "I'm using on a Samsung chromebook (with an ARM chip). <http://ports.ubuntu.com|ports.ubuntu.com> is a fairly slow mirror for me. Are there other mirrors that carry the ARM packages? <https://wiki.ubuntu.com/UbuntuDevelopment/>",
+          "fallback": "Ask Ubuntu: Are there alternative repositories to ports.ubuntu.com for ARM?",
+          "thumb_url": "https://cdn.sstatic.net/Sites/askubuntu/Img/apple-touch-icon@2.png?v=c492c9229955",
+          "from_url": "https://askubuntu.com/questions/428698/are-there-alternative-repositories-to-ports-ubuntu-com-for-arm",
+          "thumb_width": 316,
+          "thumb_height": 316,
+          "service_icon": "https://cdn.sstatic.net/Sites/askubuntu/Img/apple-touch-icon.png?v=e16e1315edd6",
+          "id": 1,
+          "original_url": "https://askubuntu.com/questions/428698/are-there-alternative-repositories-to-ports-ubuntu-com-for-arm"
+        }
+      ],
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "A6E3",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "探し方 "
+                },
+                {
+                  "type": "link",
+                  "url": "https://askubuntu.com/questions/428698/are-there-alternative-repositories-to-ports-ubuntu-com-for-arm"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "reactions": [
+        {
+          "name": "+1",
+          "users": [
+            "yozigen",
+            "getalotofmail",
+            "kusanaginoturugi",
+            "U02E11SNF0T",
+            "UJ7P75WB1"
+          ],
+          "count": 5
+        }
+      ]
+    },
+    {
+      "client_msg_id": "f79f6154-8814-4c84-a349-0aabb59024f1",
+      "type": "message",
+      "text": "<http://jp.archive.ubuntu.com/ports> にありますね。",
+      "user": "addokoda",
+      "ts": "1635247354.021100",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "+kLUu",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "link",
+                  "url": "http://jp.archive.ubuntu.com/ports"
+                },
+                {
+                  "type": "text",
+                  "text": " にありますね。"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "3a358ee4-8e40-48b9-ac4f-1e8974c64ed6",
+      "type": "message",
+      "text": "速度を考えると日本ミラーが欲しくなるのは分かる",
+      "user": "tatsumigamou",
+      "ts": "1635222952.018700",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "2tKC=",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "速度を考えると日本ミラーが欲しくなるのは分かる"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "thread_ts": "1635222952.018700",
+      "reply_count": 1,
+      "reply_users_count": 1,
+      "latest_reply": "1635238200.019400",
+      "reply_users": [
+        "getalotofmail"
+      ],
+      "is_locked": false,
+      "subscribed": false,
+      "reactions": [
+        {
+          "name": "wakaru",
+          "users": [
+            "claude0803sz",
+            "s5is",
+            "getalotofmail",
+            "a3784197",
+            "U02E11SNF0T",
+            "U7VDHKJHM",
+            "U02LHT3R51N",
+            "UJ7P75WB1"
+          ],
+          "count": 8
+        }
+      ]
+    },
+    {
+      "client_msg_id": "9e348bcc-eebc-4efa-8aa2-4fd0ba711b02",
+      "type": "message",
+      "text": "<https://ubuntu.com/download/raspberry-pi>\nグローバルはありますね。日本ミラーである理由は何でしょう?",
+      "user": "claude0803sz",
+      "ts": "1635222465.018200",
+      "team": "T0GFBAM8C",
+      "attachments": [
+        {
+          "service_name": "Ubuntu",
+          "title": "Install Ubuntu on a Raspberry Pi | Ubuntu",
+          "title_link": "https://ubuntu.com/download/raspberry-pi",
+          "text": "Ubuntu is an open-source operating system for cross platform development, there's no better place to get started than with Ubuntu on a Raspberry Pi.",
+          "fallback": "Ubuntu: Install Ubuntu on a Raspberry Pi | Ubuntu",
+          "image_url": "https://assets.ubuntu.com/v1/f60f86c4-Embedded+social+media+banner+.jpg",
+          "from_url": "https://ubuntu.com/download/raspberry-pi",
+          "image_width": 476,
+          "image_height": 250,
+          "image_bytes": 354675,
+          "service_icon": "https://assets.ubuntu.com/v1/17b68252-apple-touch-icon-180x180-precomposed-ubuntu.png",
+          "id": 1,
+          "original_url": "https://ubuntu.com/download/raspberry-pi"
+        }
+      ],
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "MiCtS",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "link",
+                  "url": "https://ubuntu.com/download/raspberry-pi"
+                },
+                {
+                  "type": "text",
+                  "text": "\nグローバルはありますね。日本ミラーである理由は何でしょう?"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "c96b2076-01cd-407d-a791-cec969cf7f90",
+      "type": "message",
+      "text": "非公式ミラー建立して頑張って公式化:face_with_rolling_eyes:",
+      "user": "naokihirokitomoki",
+      "ts": "1635216556.015800",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "=5W3H",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "非公式ミラー建立して頑張って公式化"
+                },
+                {
+                  "type": "emoji",
+                  "name": "face_with_rolling_eyes",
+                  "unicode": "1f644"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "reactions": [
+        {
+          "name": "face_with_rolling_eyes",
+          "users": [
+            "nyaarch64",
+            "getalotofmail",
+            "a3784197",
+            "UJ7P75WB1"
+          ],
+          "count": 4
+        }
+      ]
+    },
+    {
+      "client_msg_id": "4f1cf6d6-a2fc-4b00-9f31-c9c277289881",
+      "type": "message",
+      "text": "MSはVMイメージ配ってくれてるのでこういう時助かる",
+      "user": "znmxodq1",
+      "ts": "1635216355.014800",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "OUCN",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "MSはVMイメージ配ってくれてるのでこういう時助かる"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "thread_ts": "1635216355.014800",
+      "reply_count": 1,
+      "reply_users_count": 1,
+      "latest_reply": "1635220656.017100",
+      "reply_users": [
+        "yozigen"
+      ],
+      "is_locked": false,
+      "subscribed": false,
+      "reactions": [
+        {
+          "name": "+1",
+          "users": [
+            "yozigen",
+            "a3784197",
+            "U02E11SNF0T"
+          ],
+          "count": 3
+        },
+        {
+          "name": "eyes",
+          "users": [
+            "U01M9EK1L9Z"
+          ],
+          "count": 1
+        }
+      ]
+    },
+    {
+      "client_msg_id": "9bee3f57-29e5-45e2-867b-cc5400afe9c6",
+      "type": "message",
+      "text": "無いものは無いんじゃないですかね",
+      "user": "raa0121",
+      "ts": "1635216328.014200",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "i1en",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "無いものは無いんじゃないですかね"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "b750ddf4-e7f6-448f-b567-ea0249cf50da",
+      "type": "message",
+      "text": "<https://launchpad.net/ubuntu/+archivemirrors|https://launchpad.net/ubuntu/+archivemirrors>",
+      "user": "getalotofmail",
+      "ts": "1635216290.013800",
+      "team": "T0GFBAM8C",
+      "attachments": [
+        {
+          "service_name": "Launchpad",
+          "title": "Mirrors : Ubuntu",
+          "title_link": "https://launchpad.net/ubuntu/+archivemirrors",
+          "text": "Ubuntu also includes a wide variety of software through its network of software repositories. Once your system is installed you can simply call up a list of all the existing tools out there and choose any of them for immediate installation over the internet.",
+          "fallback": "Launchpad: Mirrors : Ubuntu",
+          "from_url": "https://launchpad.net/ubuntu/+archivemirrors",
+          "thumb_url": "https://launchpad.net/@@/launchpad.png",
+          "thumb_width": 16,
+          "thumb_height": 16,
+          "service_icon": "https://launchpad.net/@@/launchpad.png",
+          "id": 1,
+          "original_url": "https://launchpad.net/ubuntu/+archivemirrors"
+        }
+      ],
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "h9XcP",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "link",
+                  "url": "https://launchpad.net/ubuntu/+archivemirrors",
+                  "text": "https://launchpad.net/ubuntu/+archivemirrors"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "3ad38bf6-7e43-4268-9202-a84052f90c56",
+      "type": "message",
+      "text": "ArchではないですがUbuntuのRaspberry pi4向けの公式mirrorって日本にはないのでしょうか?\nここ見てもJapanにはi386かamd64しかないので…",
+      "user": "getalotofmail",
+      "ts": "1635216287.013600",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "RI=t",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "ArchではないですがUbuntuのRaspberry pi4向けの公式mirrorって日本にはないのでしょうか?\nここ見てもJapanにはi386かamd64しかないので…"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "58db5967-8bd7-44db-a79c-863c5e962dba",
+      "type": "message",
+      "text": "REALFORCE ソフトウェアさえ動けばキーボード本体にAPC機能等の設定を保存できるようなので、`wine`で無理なら vm でWindows体験版などに入れるか、GCP のWindows Server Core 等に入れてリモートデスクトップしてUSB共有して使えたらそれが一番安くて早いような気がします\n<https://www.realforce.co.jp/support/files/apc-led.pdf>",
+      "user": "yozigen",
+      "ts": "1635211745.010900",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "rePoL",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "REALFORCE ソフトウェアさえ動けばキーボード本体にAPC機能等の設定を保存できるようなので、"
+                },
+                {
+                  "type": "text",
+                  "text": "wine",
+                  "style": {
+                    "code": true
+                  }
+                },
+                {
+                  "type": "text",
+                  "text": "で無理なら vm でWindows体験版などに入れるか、GCP のWindows Server Core 等に入れてリモートデスクトップしてUSB共有して使えたらそれが一番安くて早いような気がします\n"
+                },
+                {
+                  "type": "link",
+                  "url": "https://www.realforce.co.jp/support/files/apc-led.pdf"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "reactions": [
+        {
+          "name": "+1",
+          "users": [
+            "kusanaginoturugi"
+          ],
+          "count": 1
+        }
+      ]
+    },
+    {
+      "client_msg_id": "622bf892-01b0-40c0-87f3-5932490548a5",
+      "type": "message",
+      "text": "ぱっと見なさそうな感じですが",
+      "user": "getalotofmail",
+      "ts": "1635175729.004900",
+      "team": "T0GFBAM8C",
+      "edited": {
+        "user": "getalotofmail",
+        "ts": "1635175922.000000"
+      },
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "sS8y",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "ぱっと見なさそうな感じですが"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "c79338ea-371a-490d-b3fe-c0c483290f22",
+      "type": "message",
+      "text": "Realforceキーボードにはキーを押し下げたときに入力されたと検知される深さを変える機能(APCという名前らしい)があるのですが、これってLinux対応してますか?",
+      "user": "getalotofmail",
+      "ts": "1635175669.004300",
+      "team": "T0GFBAM8C",
+      "edited": {
+        "user": "getalotofmail",
+        "ts": "1635175705.000000"
+      },
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "u5GK3",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "Realforceキーボードにはキーを押し下げたときに入力されたと検知される深さを変える機能(APCという名前らしい)があるのですが、これってLinux対応してますか?"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "message",
+      "subtype": "channel_join",
+      "ts": "1635076927.000700",
+      "user": "osada.1040kou",
+      "text": "<@osada.1040kou>さんがチャンネルに参加しました"
+    },
+    {
+      "type": "message",
+      "subtype": "channel_join",
+      "ts": "1635075585.000500",
+      "user": "haru.matu9168",
+      "text": "<@haru.matu9168>さんがチャンネルに参加しました"
+    },
+    {
+      "type": "message",
+      "subtype": "channel_join",
+      "ts": "1634506524.401600",
+      "user": "noris",
+      "text": "<@noris>さんがチャンネルに参加しました",
+      "reactions": [
+        {
+          "name": "archjp",
+          "users": [
+            "U02E11SNF0T",
+            "thirteeeeeeeeeeeeen",
+            "a3784197",
+            "UJ7P75WB1",
+            "yozigen"
+          ],
+          "count": 5
+        }
+      ]
+    },
+    {
+      "client_msg_id": "c08ed83f-762d-415c-ba35-aaaaac51c2ac",
+      "type": "message",
+      "text": "/usr/libの方にあるんですね!!",
+      "user": "getalotofmail",
+      "ts": "1634469757.401400",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "Ror4",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "/usr/libの方にあるんですね!!"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "83cc2959-56d0-4559-932d-58f17ce5504d",
+      "type": "message",
+      "text": "`linux-headers /usr/lib/modules/5.14.12-arch1-1/build/include/linux/device.h`\nのことですか？",
+      "user": "nyaarch64",
+      "ts": "1634465505.400500",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "Cml",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "linux-headers /usr/lib/modules/5.14.12-arch1-1/build/include/linux/device.h",
+                  "style": {
+                    "code": true
+                  }
+                },
+                {
+                  "type": "text",
+                  "text": "\nのことですか？"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "62a75f77-7ce6-485e-b310-33726beb608d",
+      "type": "message",
+      "text": "kernel moduleについてですがarchlinuxの`linux-headers`って`/usr/include/linux/device.h`含まれてないのでしょうか?",
+      "user": "getalotofmail",
+      "ts": "1634464857.400100",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "S5sE",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "kernel moduleについてですがarchlinuxの`linux-headers`って`/usr/include/linux/device.h`含まれてないのでしょうか?"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "message",
+      "subtype": "channel_join",
+      "ts": "1633960805.397700",
+      "user": "thirteeeeeeeeeeeeen",
+      "text": "<@thirteeeeeeeeeeeeen>さんがチャンネルに参加しました",
+      "reactions": [
+        {
+          "name": "archjp",
+          "users": [
+            "a3784197",
+            "U027RN1LZT6",
+            "UJ7P75WB1",
+            "U02E11SNF0T",
+            "U0GFBAM8U",
+            "kusanaginoturugi",
+            "yutakatay"
+          ],
+          "count": 7
+        }
+      ]
+    },
+    {
+      "client_msg_id": "5316b6dc-f81c-430e-bef1-b9057b4f4425",
+      "type": "message",
+      "text": "とりあえずacpidに切り替えして様子見します\nありがとうございます",
+      "user": "a3784197",
+      "ts": "1633949053.397400",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "NQL",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "とりあえずacpidに切り替えして様子見します\nありがとうございます"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "ecbfddca-7d8a-4dda-8970-47b6f54bc1eb",
+      "type": "message",
+      "text": "自分はサスペンド（というかハイブリッドスリープ）はこの通りやってるだけですね。\n<https://wiki.archlinux.jp/index.php/%E9%9B%BB%E6%BA%90%E7%AE%A1%E7%90%86#.E3.82.B5.E3.82.B9.E3.83.9A.E3.83.B3.E3.83.89.E3.81.A8.E3.83.8F.E3.82.A4.E3.83.90.E3.83.8D.E3.83.BC.E3.83.88>",
+      "user": "h.hata.ai.t",
+      "ts": "1633944776.396800",
+      "team": "T0GFBAM8C",
+      "edited": {
+        "user": "h.hata.ai.t",
+        "ts": "1633944934.000000"
+      },
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "oAncG",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "自分はサスペンド（というかハイブリッドスリープ）はこの通りやってるだけですね。\n"
+                },
+                {
+                  "type": "link",
+                  "url": "https://wiki.archlinux.jp/index.php/%E9%9B%BB%E6%BA%90%E7%AE%A1%E7%90%86#.E3.82.B5.E3.82.B9.E3.83.9A.E3.83.B3.E3.83.89.E3.81.A8.E3.83.8F.E3.82.A4.E3.83.90.E3.83.8D.E3.83.BC.E3.83.88"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "reactions": [
+        {
+          "name": "sorena",
+          "users": [
+            "kusanaginoturugi"
+          ],
+          "count": 1
+        }
+      ]
+    },
+    {
+      "client_msg_id": "b87f8806-13f9-4506-af0a-7b77269fc8ac",
+      "type": "message",
+      "text": "ロックはあまり気にしてないので大丈夫です\nサスペンドしてくれないとバッテリーが減っちゃうのでこまってます\n説明不足すみません",
+      "user": "a3784197",
+      "ts": "1633943731.396300",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "3/OYC",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "ロックはあまり気にしてないので大丈夫です\nサスペンドしてくれないとバッテリーが減っちゃうのでこまってます\n説明不足すみません"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "921a13cc-d3de-4a8e-a1b3-1d20641b912d",
+      "type": "message",
+      "text": "状況を聞く限りではxss-lockが正しく動いてない…？\nxss-lock-gitで上手く行くか試してみては。",
+      "user": "s5is",
+      "ts": "1633943380.394900",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "4nxA",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "状況を聞く限りではxss-lockが正しく動いてない…？\nxss-lock-gitで上手く行くか試してみては。"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "e618327e-f1b7-4633-b9f7-fe82795d5d4a",
+      "type": "message",
+      "text": "なるほど、シャットダウンもありですね",
+      "user": "a3784197",
+      "ts": "1633940429.390700",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "ATUYB",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "なるほど、シャットダウンもありですね"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "7ad990ec-2178-4ff6-8024-5ea1022fe3d9",
+      "type": "message",
+      "text": "私も２年くらい前サスペンドやったときうまくいかなかった（同じように安定しない感じ）んで、それからはロックだけにしてますね。\n長い持ち運びのときは仕方なくシャットダウンしてます。\nサスペンド後になんかおかしな状態になることも多々あり・・・",
+      "user": "yutakatay",
+      "ts": "1633939870.390400",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "Fx85/",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "私も２年くらい前サスペンドやったときうまくいかなかった（同じように安定しない感じ）んで、それからはロックだけにしてますね。\n長い持ち運びのときは仕方なくシャットダウンしてます。\nサスペンド後になんかおかしな状態になることも多々あり・・・"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "5f3e4958-75be-417c-b0d7-7c27967c1592",
+      "type": "message",
+      "text": "i3wmでsystemd-logind+xss-lockでフタ閉じた際のサスペンドをやってるのですが、正常にサスペンドするときとすぐ起きあがってきちゃう時があるのですが(手動で`systemctl suspend`をすると正常にサスペンドされます) 有識者の方、知ってる解決法あれば教えてください\n`journalctl | grep PM: suspend | tail -2`\n```Oct 11 16:59:16 archlinux kernel: PM: suspend entry (deep)\nOct 11 16:59:16 archlinux kernel: PM: suspend exit```\n`/etc/systemd/logind.conf`\n```#  This file is part of systemd.\n#\n#  systemd is free software; you can redistribute it and/or modify it under the\n#  terms of the GNU Lesser General Public License as published by the Free\n#  Software Foundation; either version 2.1 of the License, or (at your option)\n#  any later version.\n#\n# Entries in this file show the compile time defaults. Local configuration\n# should be created by either modifying this file, or by creating \"drop-ins\" in\n# the logind.conf.d/ subdirectory. The latter is generally recommended.\n# Defaults can be restored by simply deleting this file and all drop-ins.\n#\n# Use 'systemd-analyze cat-config systemd/logind.conf' to display the full config.\n#\n# See logind.conf(5) for details.\n\n[Login]\n#NAutoVTs=6\n#ReserveVT=6\n#KillUserProcesses=no\n#KillOnlyUsers=\n#KillExcludeUsers=root\n#InhibitDelayMaxSec=5\n#UserStopDelaySec=10\n#HandlePowerKey=poweroff\n#HandleSuspendKey=suspend\n#HandleHibernateKey=hibernate\nHandleLidSwitch=suspend\n#HandleLidSwitchExternalPower=suspend\n#HandleLidSwitchDocked=ignore\n#HandleRebootKey=reboot\n#PowerKeyIgnoreInhibited=no\n#SuspendKeyIgnoreInhibited=no\n#HibernateKeyIgnoreInhibited=no\n#LidSwitchIgnoreInhibited=yes\n#RebootKeyIgnoreInhibited=no\n#HoldoffTimeoutSec=30s\n#IdleAction=ignore\n#IdleActionSec=30min\n#RuntimeDirectorySize=10%\n#RuntimeDirectoryInodes=400k\n#RemoveIPC=yes\n#InhibitorsMax=8192\n#SessionsMax=8192 ```",
+      "user": "a3784197",
+      "ts": "1633939537.387800",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "fA5Pt",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "i3wmでsystemd-logind+xss-lockでフタ閉じた際のサスペンドをやってるのですが、正常にサスペンドするときとすぐ起きあがってきちゃう時があるのですが(手動で`systemctl suspend`をすると正常にサスペンドされます) 有識者の方、知ってる解決法あれば教えてください\n"
+                },
+                {
+                  "type": "text",
+                  "text": "journalctl | grep PM: suspend | tail -2",
+                  "style": {
+                    "code": true
+                  }
+                },
+                {
+                  "type": "text",
+                  "text": "\n"
+                }
+              ]
+            },
+            {
+              "type": "rich_text_preformatted",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "Oct 11 16:59:16 archlinux kernel: PM: suspend entry (deep)\nOct 11 16:59:16 archlinux kernel: PM: suspend exit"
+                }
+              ]
+            },
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "/etc/systemd/logind.conf",
+                  "style": {
+                    "code": true
+                  }
+                },
+                {
+                  "type": "text",
+                  "text": "\n"
+                }
+              ]
+            },
+            {
+              "type": "rich_text_preformatted",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "#  This file is part of systemd.\n#\n#  systemd is free software; you can redistribute it and/or modify it under the\n#  terms of the GNU Lesser General Public License as published by the Free\n#  Software Foundation; either version 2.1 of the License, or (at your option)\n#  any later version.\n#\n# Entries in this file show the compile time defaults. Local configuration\n# should be created by either modifying this file, or by creating \"drop-ins\" in\n# the logind.conf.d/ subdirectory. The latter is generally recommended.\n# Defaults can be restored by simply deleting this file and all drop-ins.\n#\n# Use 'systemd-analyze cat-config systemd/logind.conf' to display the full config.\n#\n# See logind.conf(5) for details.\n\n[Login]\n#NAutoVTs=6\n#ReserveVT=6\n#KillUserProcesses=no\n#KillOnlyUsers=\n#KillExcludeUsers=root\n#InhibitDelayMaxSec=5\n#UserStopDelaySec=10\n#HandlePowerKey=poweroff\n#HandleSuspendKey=suspend\n#HandleHibernateKey=hibernate\nHandleLidSwitch=suspend\n#HandleLidSwitchExternalPower=suspend\n#HandleLidSwitchDocked=ignore\n#HandleRebootKey=reboot\n#PowerKeyIgnoreInhibited=no\n#SuspendKeyIgnoreInhibited=no\n#HibernateKeyIgnoreInhibited=no\n#LidSwitchIgnoreInhibited=yes\n#RebootKeyIgnoreInhibited=no\n#HoldoffTimeoutSec=30s\n#IdleAction=ignore\n#IdleActionSec=30min\n#RuntimeDirectorySize=10%\n#RuntimeDirectoryInodes=400k\n#RemoveIPC=yes\n#InhibitorsMax=8192\n#SessionsMax=8192 "
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "message",
+      "subtype": "channel_join",
+      "ts": "1633910853.384000",
+      "user": "mailstop3244",
+      "text": "<@mailstop3244>さんがチャンネルに参加しました"
+    },
+    {
+      "type": "message",
+      "subtype": "channel_join",
+      "ts": "1633587087.382900",
+      "user": "yuzu3886",
+      "text": "<@yuzu3886>さんがチャンネルに参加しました",
+      "reactions": [
+        {
+          "name": "archjp",
+          "users": [
+            "yozigen",
+            "a3784197",
+            "U0GFBAM8U",
+            "kusanaginoturugi"
+          ],
+          "count": 4
+        }
+      ]
+    },
+    {
+      "client_msg_id": "23ec2332-4ed0-4451-8385-43b5efed526d",
+      "type": "message",
+      "text": "Nuxt.js やったことないからやってみたい。今のお仕事でも若干使える可能性があった(ことに今気付いた)けど、画面少ないから、express の上位互換的な fastify を使ってみた。",
+      "user": "kusanaginoturugi",
+      "ts": "1633485995.382200",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "huLE",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "Nuxt.js やったことないからやってみたい。今のお仕事でも若干使える可能性があった(ことに今気付いた)けど、画面少ないから、express の上位互換的な fastify を使ってみた。"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "b3c5907a-7dfb-430b-b4d5-3fc1b8a49145",
+      "type": "message",
+      "text": "わかるsvelte気になる",
+      "user": "h.hata.ai.t",
+      "ts": "1633435040.379300",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "xD0Q",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "わかるsvelte気になる"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "reactions": [
+        {
+          "name": "handshake",
+          "users": [
+            "yutakatay",
+            "U3FJYR7MG",
+            "kusanaginoturugi"
+          ],
+          "count": 3
+        }
+      ]
+    },
+    {
+      "client_msg_id": "56d6e2d0-646e-4ae6-94ae-522aca48e3c3",
+      "type": "message",
+      "text": "言ってもReactもシンプルな気はしますが",
+      "user": "nyaarch64",
+      "ts": "1633429174.378500",
+      "team": "T0GFBAM8C",
+      "edited": {
+        "user": "nyaarch64",
+        "ts": "1633429179.000000"
+      },
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "2Sw",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "言ってもReactもシンプルな気はしますが"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "7e887e61-2230-4418-a193-bca819075ea1",
+      "type": "message",
+      "text": "あんまり勢い(主観)がないのが悲しい所ですねー、ちょっと触ってみましたが~どんな感じか忘れてしまった~ 思い出しました",
+      "user": "nyaarch64",
+      "ts": "1633429168.378300",
+      "team": "T0GFBAM8C",
+      "edited": {
+        "user": "nyaarch64",
+        "ts": "1633429269.000000"
+      },
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "+ZqC",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "あんまり勢い(主観)がないのが悲しい所ですねー、ちょっと触ってみましたが"
+                },
+                {
+                  "type": "text",
+                  "text": "どんな感じか忘れてしまった",
+                  "style": {
+                    "strike": true
+                  }
+                },
+                {
+                  "type": "text",
+                  "text": " 思い出しました"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "ac192a10-e574-4cd0-b1e5-6f846e6b1132",
+      "type": "message",
+      "text": "本格フロント勢じゃないですがsvelteが最近好きです。シンプルでいい",
+      "user": "yutakatay",
+      "ts": "1633429143.377800",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "hpOI",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "本格フロント勢じゃないですがsvelteが最近好きです。シンプルでいい"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "reactions": [
+        {
+          "name": "wakaru",
+          "users": [
+            "kusanaginoturugi"
+          ],
+          "count": 1
+        }
+      ]
+    },
+    {
+      "client_msg_id": "d29739fb-a52c-43d7-b925-a1ab80b3ceb9",
+      "type": "message",
+      "text": "<https://wiki.archlinux.jp/index.php/%E5%88%A9%E7%94%A8%E8%80%85:Kusakata>\nVueというか、Nuxt.jsと書いてありますね。私は仕事でNuxt.js使っていますが、趣味ではNext.jsですね……",
+      "user": "nyaarch64",
+      "ts": "1633429095.377100",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "YrSu+",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "link",
+                  "url": "https://wiki.archlinux.jp/index.php/%E5%88%A9%E7%94%A8%E8%80%85:Kusakata"
+                },
+                {
+                  "type": "text",
+                  "text": "\nVueというか、Nuxt.jsと書いてありますね。私は仕事でNuxt.js使っていますが、趣味ではNext.jsですね……"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "reactions": [
+        {
+          "name": "naruhodo",
+          "users": [
+            "znmxodq1",
+            "U027RN1LZT6"
+          ],
+          "count": 2
+        }
+      ]
+    },
+    {
+      "client_msg_id": "6a5d62d5-7461-44a0-865a-64851edff52e",
+      "type": "message",
+      "text": "Vueなのか…",
+      "user": "znmxodq1",
+      "ts": "1633429014.376400",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "OE9Xs",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "Vueなのか…"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "reactions": [
+        {
+          "name": "sorena",
+          "users": [
+            "yutakatay"
+          ],
+          "count": 1
+        }
+      ]
+    },
+    {
+      "client_msg_id": "67de5302-398c-4b19-b277-5ef75570915f",
+      "type": "message",
+      "text": "<https://www.transifex.com/archlinuxjp/arch-package-description/language/ja/> これもありますね。文脈がわからんから、飜訳が難しい。",
+      "user": "kusanaginoturugi",
+      "ts": "1633408385.375800",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "AwDX",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "link",
+                  "url": "https://www.transifex.com/archlinuxjp/arch-package-description/language/ja/"
+                },
+                {
+                  "type": "text",
+                  "text": " これもありますね。文脈がわからんから、飜訳が難しい。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "reactions": [
+        {
+          "name": "persevere",
+          "users": [
+            "nyaarch64"
+          ],
+          "count": 1
+        }
+      ]
+    },
+    {
+      "client_msg_id": "d37f579c-6ef0-48ac-9be3-eef4fd87023d",
+      "type": "message",
+      "text": "ArchWebのVue化、手伝いたいところですね……",
+      "user": "nyaarch64",
+      "ts": "1633405038.374500",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "Avh=",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "ArchWebのVue化、手伝いたいところですね……"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "1fb719e1-b4e9-4540-92e4-8d4102b511a5",
+      "type": "message",
+      "text": "そういえば、@kusakata さんは以前、自分がやりたいことをバーっと自分のページに書いて、一つ一つ潰していってたような気がします。とても真似できませんが。",
+      "user": "kusanaginoturugi",
+      "ts": "1633404990.374100",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "pkyI",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "そういえば、@kusakata さんは以前、自分がやりたいことをバーっと自分のページに書いて、一つ一つ潰していってたような気がします。とても真似できませんが。"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "d39e4703-744d-46df-bbe8-90c3a291b6c1",
+      "type": "message",
+      "text": "はい、頑張りましょう！(ちょっと今月は忙しくてすいません……。)",
+      "user": "nyaarch64",
+      "ts": "1633400423.371900",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "2SL+",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "はい、頑張りましょう！(ちょっと今月は忙しくてすいません……。)"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "reactions": [
+        {
+          "name": "wakaru",
+          "users": [
+            "kusanaginoturugi"
+          ],
+          "count": 1
+        },
+        {
+          "name": "+1",
+          "users": [
+            "U01370MAHLN",
+            "a3784197"
+          ],
+          "count": 2
+        }
+      ]
+    },
+    {
+      "client_msg_id": "9706f4d5-2da5-467c-bc22-6717f690827a",
+      "type": "message",
+      "text": "すべてのページに translationStatus がつくようになれば理想ですよね。",
+      "user": "kusanaginoturugi",
+      "ts": "1633400335.371500",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "8TB",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "すべてのページに translationStatus がつくようになれば理想ですよね。"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "message",
+      "subtype": "channel_join",
+      "ts": "1633230092.369800",
+      "user": "cla.citrus.cola.g4",
+      "text": "<@cla.citrus.cola.g4>さんがチャンネルに参加しました",
+      "reactions": [
+        {
+          "name": "arch",
+          "users": [
+            "nyaarch64",
+            "U02E11SNF0T",
+            "a3784197",
+            "kusanaginoturugi"
+          ],
+          "count": 4
+        }
+      ]
+    },
+    {
+      "client_msg_id": "9699dcd1-e5ee-4ef1-9948-d9660c46ec2c",
+      "type": "message",
+      "text": "結局英語版の数千ページを同期するのがスタートであり、永遠に終わらないタスクなので、現時点で何かいい感じにするというのは効果が少ないかなと……",
+      "user": "nyaarch64",
+      "ts": "1633093988.359900",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "jtVdE",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "結局英語版の数千ページを同期するのがスタートであり、永遠に終わらないタスクなので、現時点で何かいい感じにするというのは効果が少ないかなと……"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "1f5834ac-4951-4ac4-9cb2-f481df13ad71",
+      "type": "message",
+      "text": "out_of_dateは微妙に意味が異なると思っていて、translatemeの方が適切かもしれません",
+      "user": "nyaarch64",
+      "ts": "1633093824.358800",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "jfvfy",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "out_of_dateは微妙に意味が異なると思っていて、translatemeの方が適切かもしれません"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "18734dfa-2ebe-4d5b-8b65-7ebbc068588e",
+      "type": "message",
+      "text": "Out of DateとTranslationsStatusで状態を管理するのがいいですかね...",
+      "user": "shun819.mail",
+      "ts": "1633093640.358200",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "u292",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "Out of DateとTranslationsStatusで状態を管理するのがいいですかね..."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "thread_ts": "1633093640.358200",
+      "reply_count": 1,
+      "reply_users_count": 1,
+      "latest_reply": "1633417873.376100",
+      "reply_users": [
+        "kusanaginoturugi"
+      ],
+      "is_locked": false,
+      "subscribed": false
+    },
+    {
+      "client_msg_id": "3915c9ec-0773-42bb-ab61-1d2c58934e0f",
+      "type": "message",
+      "text": "個人的な感覚としては、同期できているページの方が少ないので、そちらから分かりやすくしていくとよいかなと思っています(Template:TranslationStatusを末尾に貼る、など)",
+      "user": "nyaarch64",
+      "ts": "1633093426.357600",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "Pa2",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "個人的な感覚としては、同期できているページの方が少ないので、そちらから分かりやすくしていくとよいかなと思っています(Template:TranslationStatusを末尾に貼る、など)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "df4c12e5-85ab-4e2b-a11f-9e49f735d436",
+      "type": "message",
+      "text": "それを最初やろうと考えていたのですが、そうすると書かれた場所が結局ページごとで分散してしまうので、1箇所で管理できればなと考えていました",
+      "user": "shun819.mail",
+      "ts": "1633093051.356600",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "lmFGc",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "それを最初やろうと考えていたのですが、そうすると書かれた場所が結局ページごとで分散してしまうので、1箇所で管理できればなと考えていました"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "41a3653b-42ca-40bb-9451-a4c1ff8a6c5f",
+      "type": "message",
+      "text": "ベージごとの議論・トークページに書くのが良いのかな？",
+      "user": "raa0121",
+      "ts": "1633093011.355800",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "DT=C",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "ベージごとの議論・トークページに書くのが良いのかな？"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "ce157060-1dce-420b-a2fe-f5e9e1b75d22",
+      "type": "message",
+      "text": "主に英語版と大きく内容が違うページをリストアップしたいですね。\nArchbootやArchISO、Gnomeはだいぶ情報が変化しています。",
+      "user": "shun819.mail",
+      "ts": "1633092928.355300",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "0fg+=",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "主に英語版と大きく内容が違うページをリストアップしたいですね。\nArchbootやArchISO、Gnomeはだいぶ情報が変化しています。"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "has_more": false,
+  "is_limited": true,
+  "pin_count": 16,
+  "channel_actions_ts": null,
+  "channel_actions_count": 0
+}

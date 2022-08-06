@@ -1,0 +1,634 @@
+{
+  "ok": true,
+  "latest": "1601554250.000000",
+  "oldest": "1598962250.000000",
+  "messages": [
+    {
+      "type": "message",
+      "subtype": "channel_join",
+      "ts": "1601078733.001400",
+      "user": "shimono",
+      "text": "<@shimono>さんがチャンネルに参加しました"
+    },
+    {
+      "client_msg_id": "ba202b69-7da3-413c-a83f-84441c3fa481",
+      "type": "message",
+      "text": "実際に使われていたのか",
+      "user": "znmxodq1",
+      "ts": "1600936170.001200",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "ba3",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "実際に使われていたのか"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "8477445d-0e65-4a57-b8a7-320c0ddd3f14",
+      "type": "message",
+      "text": "ライトニングトーク、流行り始めた当初は稲妻トークって呼んでるカンファレンスもあった気がする。。",
+      "user": "tokuhirom",
+      "ts": "1600936122.000700",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "zGLkj",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "ライトニングトーク、流行り始めた当初は稲妻トークって呼んでるカンファレンスもあった気がする。。"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "10e847f0-c2da-4eaf-8e12-ec521522fc46",
+      "type": "message",
+      "text": ":精進します:",
+      "user": "dohq",
+      "ts": "1600927156.004600",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "xuXGG",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": ":精進します:"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "b596eb68-654f-46c3-a1e2-f8617be749b0",
+      "type": "message",
+      "text": "ちょっと連想ゲーム的には遠かったっすねw",
+      "user": "raa0121",
+      "ts": "1600927139.004300",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "4Vmnf",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "ちょっと連想ゲーム的には遠かったっすねw"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "65f53a74-c80d-47ca-b5ae-c55a00f9f14c",
+      "type": "message",
+      "text": "やっぱり青いイナズマ だったかw",
+      "user": "raa0121",
+      "ts": "1600927111.004000",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "kkX",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "やっぱり青いイナズマ だったかw"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "C6DC592F-AD9C-4149-9ED8-ECD65D548934",
+      "type": "message",
+      "text": "あーなるほど",
+      "user": "syui",
+      "ts": "1600927103.003700",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "z7ro",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "あーなるほど"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "314f304f-60d6-47c5-8ba3-9ca14eaa53fc",
+      "type": "message",
+      "text": "青いイナズマが…(小声)\n自分で言ってて無理ありすぎた感",
+      "user": "dohq",
+      "ts": "1600927086.003400",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "bf5",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "青いイナズマが…(小声)\n自分で言ってて無理ありすぎた感"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "08D42D84-6C94-48B2-AC00-602A8E320142",
+      "type": "message",
+      "text": "archのやつはスパムじゃないと思いますが、その上のハッカソンのやつはちょっとスパムぽいですね",
+      "user": "syui",
+      "ts": "1600926962.002000",
+      "team": "T0GFBAM8C",
+      "edited": {
+        "user": "syui",
+        "ts": "1600927006.000000"
+      },
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "SBTW",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "archのやつはスパムじゃないと思いますが、その上のハッカソンのやつはちょっとスパムぽいですね"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "C09E7A6B-E60A-439B-8929-D204975D9F48",
+      "type": "message",
+      "text": "SMAP?",
+      "user": "syui",
+      "ts": "1600926916.000800",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "mmCj+",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "SMAP?"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "3670dd54-513c-4aee-a1c6-b2da3f8dba6e",
+      "type": "message",
+      "text": "SMAPかな？",
+      "user": "dohq",
+      "ts": "1600926743.000500",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "Lc5H",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "SMAPかな？"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "ecb98f75-d8c7-48fc-92da-6336211e51c7",
+      "type": "message",
+      "text": "なるほどlightning talks……",
+      "user": "tatsumigamou",
+      "ts": "1600912724.001200",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "599L",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "なるほどlightning talks……"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "f6c48d84-67c8-4291-a81b-c333b7ecf08a",
+      "type": "message",
+      "text": "機械翻訳だから仕方ないとはいえ、稲妻トークというのはまた…",
+      "user": "znmxodq1",
+      "ts": "1600912222.000700",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "QF7B",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "機械翻訳だから仕方ないとはいえ、稲妻トークというのはまた…"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "message",
+      "subtype": "bot_message",
+      "text": "<https://www.archlinux.org/news/arch-conf-2020-schedule>\nArch Conf 2020 schedule\nOn the 10th and 11th of October there is going to be an online edition of ArchConf. The conference is going to have presentations from the Arch team alongwith community submitted presentations and lightning talks.We are proud to announce the first revision of the schedule!<https://pretalx.com/arch-conf-online-2020/talk/The> conference timezone is CEST/UTC+2: <https://everytimezone.com/s/40cc4784Updates> and additional information can be found on the conference page: <https://conf.archlinux.orgSee> you there!Cheers from the conference team.\nArch Conf 2020スケジュール\n10月10日と11日に、ArchConfのオンライン版が公開されます。カンファレンスでは、Archチームからのプレゼンテーションに加え、コミュニティから提出されたプレゼンテーションと稲妻トークが予定されています。スケジュールの最初の改訂を発表できることを誇りに思います。https：//pretalx.com/arch-conf-online-2020/talk/The会議のタイムゾーンはCEST / UTC + 2です：<https://everytimezone.com/s/40cc4784アップデートと追加情報は、会議のページで見つけることができます：https://conf.archlinux.orgお会いしましょう！>",
+      "ts": "1600880479.000200",
+      "username": "webhookbot",
+      "icons": {
+        "emoji": ":arch:"
+      },
+      "bot_id": "BRB5N3W2W"
+    },
+    {
+      "type": "message",
+      "subtype": "channel_join",
+      "ts": "1600762591.001100",
+      "user": "u.koji74",
+      "text": "<@u.koji74>さんがチャンネルに参加しました"
+    },
+    {
+      "client_msg_id": "eb71a7b0-ed40-4492-967f-f115bb6945c6",
+      "type": "message",
+      "text": "んん…？これは…スパムでしょうか？",
+      "user": "motoi.railgun",
+      "ts": "1600369199.015100",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "c451H",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "んん…？これは…スパムでしょうか？"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "reactions": [
+        {
+          "name": "thinking_face",
+          "users": [
+            "U92NQ391A"
+          ],
+          "count": 1
+        }
+      ]
+    },
+    {
+      "client_msg_id": "83F889A3-724A-439D-A095-B8F57F8608CE",
+      "type": "message",
+      "text": "<@UDSNHJN3C>\nhi\ncan you start by telling us about yourself first?",
+      "user": "syui",
+      "ts": "1600351457.014500",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "hAXv",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "user",
+                  "user_id": "UDSNHJN3C"
+                },
+                {
+                  "type": "text",
+                  "text": "\nhi\ncan you start by telling us about yourself first?"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "message",
+      "subtype": "channel_join",
+      "ts": "1599974746.012900",
+      "user": "y.nakagawa",
+      "text": "<@y.nakagawa>さんがチャンネルに参加しました"
+    },
+    {
+      "type": "message",
+      "subtype": "channel_join",
+      "ts": "1599801766.012600",
+      "user": "sshimizu",
+      "text": "<@sshimizu>さんがチャンネルに参加しました"
+    },
+    {
+      "type": "message",
+      "subtype": "channel_join",
+      "ts": "1599712767.012000",
+      "user": "airanbuna",
+      "text": "<@airanbuna>さんがチャンネルに参加しました"
+    },
+    {
+      "type": "message",
+      "subtype": "channel_join",
+      "ts": "1599707084.011700",
+      "user": "n4n0k4f0rit",
+      "text": "<@n4n0k4f0rit>さんがチャンネルに参加しました"
+    },
+    {
+      "type": "message",
+      "subtype": "thread_broadcast",
+      "text": "シンプルだけどすごくいい取り組みですね！",
+      "user": "h.hata.ai.t",
+      "ts": "1599705286.011300",
+      "thread_ts": "1599696193.011000",
+      "root": {
+        "type": "message",
+        "subtype": "bot_message",
+        "text": "<https://www.archlinux.org/news/kill-arch-bugs-help-us-on-the-13th-of-september>\nKill Arch Bugs: Help us on the 13th of September!\nWe would like to hold a bug wrangling day on the 13th of September to reduce the large amount of open tickets.If you cannot take part in the bug wrangling day, then feel free to help us any time before that event.How?Please review all bugs that were reported by you and check if they are stillvalid. Please request a task closure on the bug tracker if the task may be closed. Otherwise please provide further information so that we can continue to work on the bug.We cannot fix bugs without your feedback.Questions?Join us at #archlinux-bugs channel on <http://irc.freenode.net|irc.freenode.net> during 13th of September. As we live in different timezones not all devs and bug wranglers will be available at the same time, but feel free to report your issues to any dev available.Also please check your mailboxes that may contain notifications about comments made on your tickets.\nKill Arch Bugs：9月13日に私たちを助けてください！\nオープンチケットを大幅に削減するため、9月13日にバグラングデーを開催したいのですが、バグラングデーに参加できない場合は、イベント前にいつでもお気軽にご相談ください。あなたから報告されたすべてのバグとそれらがまだ有効かどうかを確認してください。タスクが終了する可能性がある場合は、バグトラッカーでタスクの終了をリクエストしてください。それ以外の場合は、バグへの取り組みを継続できるように、詳しい情報を提供してください。フィードバックがないとバグを修正できません。質問は、9月13日のirc.freenode.netの＃archlinux-bugsチャネルに参加してください。私たちは異なるタイムゾーンに住んでいるため、すべての開発者とバグラングラーが同時に利用できるわけではありませんが、利用可能な開発者に問題を報告してください。また、チケットに加えられたコメントに関する通知が含まれている可能性があるメールボックスを確認してください。",
+        "ts": "1599696193.011000",
+        "username": "webhookbot",
+        "icons": {
+          "emoji": ":arch:"
+        },
+        "bot_id": "BRB5N3W2W",
+        "thread_ts": "1599696193.011000",
+        "reply_count": 3,
+        "reply_users_count": 3,
+        "latest_reply": "1600462917.000800",
+        "reply_users": [
+          "h.hata.ai.t",
+          "UUWBU08TU",
+          "syui"
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1600462917.000800"
+      },
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "1qPGW",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "シンプルだけどすごくいい取り組みですね！"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "client_msg_id": "0a7c7500-380d-441b-be37-a4a3e316480a"
+    },
+    {
+      "type": "message",
+      "subtype": "bot_message",
+      "text": "<https://www.archlinux.org/news/kill-arch-bugs-help-us-on-the-13th-of-september>\nKill Arch Bugs: Help us on the 13th of September!\nWe would like to hold a bug wrangling day on the 13th of September to reduce the large amount of open tickets.If you cannot take part in the bug wrangling day, then feel free to help us any time before that event.How?Please review all bugs that were reported by you and check if they are stillvalid. Please request a task closure on the bug tracker if the task may be closed. Otherwise please provide further information so that we can continue to work on the bug.We cannot fix bugs without your feedback.Questions?Join us at #archlinux-bugs channel on <http://irc.freenode.net|irc.freenode.net> during 13th of September. As we live in different timezones not all devs and bug wranglers will be available at the same time, but feel free to report your issues to any dev available.Also please check your mailboxes that may contain notifications about comments made on your tickets.\nKill Arch Bugs：9月13日に私たちを助けてください！\nオープンチケットを大幅に削減するため、9月13日にバグラングデーを開催したいのですが、バグラングデーに参加できない場合は、イベント前にいつでもお気軽にご相談ください。あなたから報告されたすべてのバグとそれらがまだ有効かどうかを確認してください。タスクが終了する可能性がある場合は、バグトラッカーでタスクの終了をリクエストしてください。それ以外の場合は、バグへの取り組みを継続できるように、詳しい情報を提供してください。フィードバックがないとバグを修正できません。質問は、9月13日のirc.freenode.netの＃archlinux-bugsチャネルに参加してください。私たちは異なるタイムゾーンに住んでいるため、すべての開発者とバグラングラーが同時に利用できるわけではありませんが、利用可能な開発者に問題を報告してください。また、チケットに加えられたコメントに関する通知が含まれている可能性があるメールボックスを確認してください。",
+      "ts": "1599696193.011000",
+      "username": "webhookbot",
+      "icons": {
+        "emoji": ":arch:"
+      },
+      "bot_id": "BRB5N3W2W",
+      "thread_ts": "1599696193.011000",
+      "reply_count": 3,
+      "reply_users_count": 3,
+      "latest_reply": "1600462917.000800",
+      "reply_users": [
+        "h.hata.ai.t",
+        "UUWBU08TU",
+        "syui"
+      ],
+      "is_locked": false,
+      "subscribed": true,
+      "last_read": "1600462917.000800",
+      "reactions": [
+        {
+          "name": "+1",
+          "users": [
+            "U70QDFN82",
+            "U53RAQBCP",
+            "URCKFB3SB",
+            "U0H9QUFA5",
+            "motoi.railgun",
+            "bps.shinnosuke"
+          ],
+          "count": 6
+        }
+      ]
+    },
+    {
+      "type": "message",
+      "subtype": "channel_join",
+      "ts": "1599374825.009000",
+      "user": "bps.shinnosuke",
+      "text": "<@bps.shinnosuke>さんがチャンネルに参加しました",
+      "reactions": [
+        {
+          "name": "archjp",
+          "users": [
+            "U0H3FTBBJ",
+            "U01792411FA",
+            "znmxodq1",
+            "URCKFB3SB",
+            "motoi.railgun"
+          ],
+          "count": 5
+        }
+      ]
+    },
+    {
+      "client_msg_id": "9FFF4AAA-4495-4C98-9344-B065E4C481AB",
+      "type": "message",
+      "text": "すごい",
+      "user": "syui",
+      "ts": "1599183868.008200",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "tRJKE",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "すごい"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "691ca674-c77b-467d-9880-5fb14f23b594",
+      "type": "message",
+      "text": "ArchisoをもとにGUIとCalamaresを搭載したディストリビューションを開発しています\nもしよければ使ってみて下さいm(_ _)m\n<https://github.com/FascodeNet/alterlinux>",
+      "user": "shun819.mail",
+      "ts": "1599183784.007700",
+      "team": "T0GFBAM8C",
+      "attachments": [
+        {
+          "service_name": "GitHub",
+          "title": "FascodeNet/alterlinux",
+          "title_link": "https://github.com/FascodeNet/alterlinux",
+          "text": "AlterLinux - ArchLinux-derived OS made in Japan aimed at being usable by anyone - FascodeNet/alterlinux",
+          "fallback": "GitHub: FascodeNet/alterlinux",
+          "from_url": "https://github.com/FascodeNet/alterlinux",
+          "thumb_url": "https://repository-images.githubusercontent.com/236157705/f0631100-69db-11ea-8323-c81fdb40c3e8",
+          "thumb_width": 500,
+          "thumb_height": 250,
+          "service_icon": "https://a.slack-edge.com/80588/img/unfurl_icons/github.png",
+          "id": 1,
+          "original_url": "https://github.com/FascodeNet/alterlinux"
+        }
+      ],
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "eLny",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "ArchisoをもとにGUIとCalamaresを搭載したディストリビューションを開発しています\nもしよければ使ってみて下さいm(_ _)m\n"
+                },
+                {
+                  "type": "link",
+                  "url": "https://github.com/FascodeNet/alterlinux"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "reactions": [
+        {
+          "name": "arch",
+          "users": [
+            "syui",
+            "znmxodq1",
+            "U01235G2K26",
+            "motoi.railgun",
+            "UU9BLM0TA",
+            "U0125GT9MNX",
+            "U01792411FA",
+            "U017BNGTHT3",
+            "UAPRYSVPS",
+            "UPC5V2L10"
+          ],
+          "count": 10
+        },
+        {
+          "name": "archjp",
+          "users": [
+            "U0H9QUFA5",
+            "UPC5V2L10"
+          ],
+          "count": 2
+        }
+      ]
+    }
+  ],
+  "has_more": false,
+  "is_limited": true,
+  "pin_count": 16,
+  "channel_actions_ts": null,
+  "channel_actions_count": 0
+}
