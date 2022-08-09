@@ -59,7 +59,6 @@ $ ./linux.zsh
 ### gh-pages
 
 ```sh
-$ git checkout vue
 $ yarn install
 $ yarn serve
 $ yarn build
