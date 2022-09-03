@@ -1,0 +1,2334 @@
+{
+  "ok": true,
+  "latest": "1661997776.000000",
+  "oldest": "1659319376.000000",
+  "messages": [
+    {
+      "type": "message",
+      "subtype": "bot_message",
+      "text": "",
+      "ts": "1661951289.619659",
+      "bot_id": "B021YB9R1EG",
+      "attachments": [
+        {
+          "from_url": "https://twitter.com/archlinux_jp/status/1564963228949524488",
+          "ts": 1661951284,
+          "id": 1,
+          "fallback": "<https://twitter.com/archlinux_jp|@archlinux_jp>: Grub ブートローダーの更新と設定の不整合 <https://www.archlinux.jp/news/grub-bootloader-upgrade-and-configuration-incompatibilities/>",
+          "text": "Grub ブートローダーの更新と設定の不整合 <https://www.archlinux.jp/news/grub-bootloader-upgrade-and-configuration-incompatibilities/>",
+          "pretext": "<https://twitter.com/archlinux_jp/status/1564963228949524488>",
+          "author_name": "Arch Linux JP",
+          "author_link": "https://twitter.com/archlinux_jp/status/1564963228949524488",
+          "author_icon": "https://pbs.twimg.com/profile_images/678900104678342656/2w2dw7Fp_normal.png",
+          "author_subname": "@archlinux_jp",
+          "service_name": "twitter",
+          "service_url": "https://twitter.com/",
+          "footer": "Twitter",
+          "footer_icon": "https://a.slack-edge.com/80588/img/services/twitter_pixel_snapped_32.png"
+        }
+      ]
+    },
+    {
+      "client_msg_id": "932d5ddc-1d98-4017-9482-c4107e7bd87e",
+      "type": "message",
+      "text": "昔と違ってGRUB一強じゃないから選択肢あっていい感じ",
+      "user": "yutakatay",
+      "ts": "1661922983.702039",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "SVZI",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "昔と違ってGRUB一強じゃないから選択肢あっていい感じ"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "reactions": [
+        {
+          "name": "wakaru",
+          "users": [
+            "buzz.taiki"
+          ],
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "message",
+      "text": "セキュアブート時にモジュールのサイドローディングが禁止されるようになったり、最近互換性壊すような変更が多いですね（バグじゃなかったっぽい）",
+      "user": "odknt",
+      "ts": "1661922863.267809",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "mZLTk",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "セキュアブート時にモジュールのサイドローディングが禁止されるようになったり、最近互換性壊すような変更が多いですね（バグじゃなかったっぽい）"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "message",
+      "subtype": "channel_join",
+      "ts": "1661922856.313769",
+      "user": "somoriiin",
+      "text": "<@somoriiin>さんがチャンネルに参加しました"
+    },
+    {
+      "client_msg_id": "9aa40642-f24d-4f02-95a2-9bd912aaf26c",
+      "type": "message",
+      "text": "この問題を知らなかったのでちょうどこれに一週間くらい悩まされていた（昨日 Reddit に投げたら一瞬で解決されてしまった）",
+      "user": "slack1084",
+      "ts": "1661921070.704859",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "gFDt8",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "この問題を知らなかったのでちょうどこれに一週間くらい悩まされていた（昨日 Reddit に投げたら一瞬で解決されてしまった）"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "reactions": [
+        {
+          "name": "hee",
+          "users": [
+            "yutakatay",
+            "U01J1GGMHDJ",
+            "kusanaginoturugi"
+          ],
+          "count": 3
+        }
+      ]
+    },
+    {
+      "client_msg_id": "98eed246-c9b9-4d97-8429-e5d0d5be0fe9",
+      "type": "message",
+      "text": "ブートしなくなるかもしれない更新とか久しぶりに見た。",
+      "user": "buzz.taiki",
+      "ts": "1661904716.726679",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "Hf=E",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "ブートしなくなるかもしれない更新とか久しぶりに見た。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "reactions": [
+        {
+          "name": "wakaru",
+          "users": [
+            "angel.beats.kanade.yu",
+            "U01J1GGMHDJ"
+          ],
+          "count": 2
+        }
+      ]
+    },
+    {
+      "type": "message",
+      "subtype": "bot_message",
+      "text": "<https://archlinux.org/news/grub-bootloader-upgrade-and-configuration-incompatibilities/|Grub bootloader upgrade and configuration incompatibilities>\nRecent changes in grub added a new command option and changed the way the\ncommand is invoked. Depending on your system hardware and setup this could\ncause an unbootable system due to incompatibilities between the installed\nbootloader and configuration. After a grub package update it is advised to\nrun both, installation and regeneration of configuration:\ngrub-install ...\ngrub-mkconfig -o /boot/grub/grub.cfg\n\nFor more specific information on grub-install, please refer to the wiki:\n&lt;a...",
+      "ts": "1661891376.314609",
+      "username": "Arch Linux: Recent news updates",
+      "icons": {
+        "image_36": "https://a.slack-edge.com/80588/img/services/rss_36.png",
+        "image_48": "https://a.slack-edge.com/80588/img/services/rss_48.png",
+        "image_72": "https://a.slack-edge.com/80588/img/services/rss_72.png"
+      },
+      "bot_id": "B3WNLSQ4W",
+      "reactions": [
+        {
+          "name": "eyes",
+          "users": [
+            "UUWBU08TU",
+            "U01J1GGMHDJ",
+            "U02ASPM0A6T"
+          ],
+          "count": 3
+        }
+      ]
+    },
+    {
+      "type": "message",
+      "subtype": "channel_join",
+      "ts": "1661753453.113449",
+      "user": "jamming6123",
+      "text": "<@jamming6123>さんがチャンネルに参加しました"
+    },
+    {
+      "type": "message",
+      "subtype": "channel_join",
+      "ts": "1661675940.371339",
+      "user": "masaaki.soga",
+      "text": "<@masaaki.soga>さんがチャンネルに参加しました"
+    },
+    {
+      "type": "message",
+      "subtype": "channel_join",
+      "ts": "1661674495.916259",
+      "user": "slack1084",
+      "text": "<@slack1084>さんがチャンネルに参加しました"
+    },
+    {
+      "type": "message",
+      "subtype": "channel_join",
+      "ts": "1661669798.645659",
+      "user": "reiblacktablet0729",
+      "text": "<@reiblacktablet0729>さんがチャンネルに参加しました"
+    },
+    {
+      "type": "message",
+      "subtype": "channel_join",
+      "ts": "1661065527.526349",
+      "user": "blsgikjsnsgrlbnsbl_kg",
+      "text": "<@blsgikjsnsgrlbnsbl_kg>さんがチャンネルに参加しました",
+      "reactions": [
+        {
+          "name": "archjp-joy",
+          "users": [
+            "kusanaginoturugi",
+            "U03JYF13SQP",
+            "s5is",
+            "masaaki.soga"
+          ],
+          "count": 4
+        }
+      ]
+    },
+    {
+      "type": "message",
+      "text": "署名済みshimのセキュアブート環境、久々に更新したら以前より面倒なことになってますね。\n現状、英語版wikiの手順でも起動できなくてGrubインストール時にGrubの全モジュールを指定する必要があるらしい。",
+      "user": "odknt",
+      "ts": "1660718014.541869",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "goPw",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "署名済みshimのセキュアブート環境、久々に更新したら以前より面倒なことになってますね。\n現状、英語版wikiの手順でも起動できなくてGrubインストール時にGrubの全モジュールを指定する必要があるらしい。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "thread_ts": "1660718014.541869",
+      "reply_count": 10,
+      "reply_users_count": 3,
+      "latest_reply": "1660719459.387079",
+      "reply_users": [
+        "odknt",
+        "yutakatay",
+        "s5is"
+      ],
+      "is_locked": false,
+      "subscribed": false,
+      "reactions": [
+        {
+          "name": "hee",
+          "users": [
+            "yutakatay",
+            "buzz.taiki",
+            "UJ7P75WB1",
+            "U01HE1ENNJZ"
+          ],
+          "count": 4
+        }
+      ]
+    },
+    {
+      "client_msg_id": "9a78584b-3e33-4823-a6ec-8b8a71c1f750",
+      "type": "message",
+      "text": "デフォルト有効でもいいと思いますね。有効にしてもちょこっと余計なエスケープシーケンスが出るだけだと思うけど、なんでですかね？",
+      "user": "kusanaginoturugi",
+      "ts": "1660711600.243189",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "a=R",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "デフォルト有効でもいいと思いますね。有効にしてもちょこっと余計なエスケープシーケンスが出るだけだと思うけど、なんでですかね？"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "66c69ab4-99d8-46be-9b63-9400de18ffd0",
+      "type": "message",
+      "text": "最近Arch新しくインストールして思ったんですけど、pacman.confのColorってデフォルト有効じゃないんですね・・・個人的には必須レベルだけど・・・",
+      "user": "yutakatay",
+      "ts": "1660710762.509079",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "6b7u",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "最近Arch新しくインストールして思ったんですけど、pacman.confのColorってデフォルト有効じゃないんですね・・・個人的には必須レベルだけど・・・"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "message",
+      "subtype": "channel_join",
+      "ts": "1660467645.907679",
+      "user": "mail167",
+      "text": "<@mail167>さんがチャンネルに参加しました",
+      "reactions": [
+        {
+          "name": "archjp",
+          "users": [
+            "syui"
+          ],
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "message",
+      "subtype": "channel_join",
+      "ts": "1660314385.023159",
+      "user": "lacklat.key",
+      "text": "<@lacklat.key>さんがチャンネルに参加しました",
+      "reactions": [
+        {
+          "name": "archjp",
+          "users": [
+            "syui"
+          ],
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "message",
+      "subtype": "channel_join",
+      "ts": "1660157456.548989",
+      "user": "bonji",
+      "text": "<@bonji>さんがチャンネルに参加しました",
+      "reactions": [
+        {
+          "name": "archjp",
+          "users": [
+            "syui"
+          ],
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "message",
+      "subtype": "channel_join",
+      "ts": "1660132247.526969",
+      "user": "hyuyukun",
+      "text": "<@hyuyukun>さんがチャンネルに参加しました"
+    },
+    {
+      "type": "message",
+      "subtype": "channel_join",
+      "ts": "1660121970.298369",
+      "user": "kuriki",
+      "text": "<@kuriki>さんがチャンネルに参加しました",
+      "reactions": [
+        {
+          "name": "archjp",
+          "users": [
+            "syui",
+            "UJEFSDMLH"
+          ],
+          "count": 2
+        }
+      ]
+    },
+    {
+      "type": "message",
+      "subtype": "channel_join",
+      "ts": "1660052804.409449",
+      "user": "noth24idd",
+      "text": "<@noth24idd>さんがチャンネルに参加しました"
+    },
+    {
+      "type": "message",
+      "subtype": "channel_join",
+      "ts": "1660052155.487989",
+      "user": "enogen.qpt",
+      "text": "<@enogen.qpt>さんがチャンネルに参加しました",
+      "reactions": [
+        {
+          "name": "archjp-joy",
+          "users": [
+            "U02HC93TJEP",
+            "kusanaginoturugi",
+            "U03JYF13SQP",
+            "syui",
+            "U01HE1ENNJZ"
+          ],
+          "count": 5
+        }
+      ]
+    },
+    {
+      "client_msg_id": "57b1fb37-7db8-4f73-9a0a-3cdc66a26711",
+      "type": "message",
+      "text": "<https://twitter.com/OK_Xmonad/status/1556945717025177600?s=20&amp;t=cw737C6F_svfy88zb97Rgw>",
+      "user": "yutakatay",
+      "ts": "1660041732.823389",
+      "team": "T0GFBAM8C",
+      "attachments": [
+        {
+          "from_url": "https://twitter.com/OK_Xmonad/status/1556945717025177600?s=20&amp;t=cw737C6F_svfy88zb97Rgw",
+          "ts": 1660039760,
+          "id": 1,
+          "original_url": "https://twitter.com/OK_Xmonad/status/1556945717025177600?s=20&amp;t=cw737C6F_svfy88zb97Rgw",
+          "fallback": "<https://twitter.com/OK_Xmonad|@OK_Xmonad>: Googleで「archlinux インストール」で検索したらお洒落な気分でプログラミングのブログが初めの方にヒットするようになってて、ニヤける🫠",
+          "text": "Googleで「archlinux インストール」で検索したらお洒落な気分でプログラミングのブログが初めの方にヒットするようになってて、ニヤける🫠",
+          "author_name": "ok-xmonad",
+          "author_link": "https://twitter.com/OK_Xmonad/status/1556945717025177600",
+          "author_icon": "https://pbs.twimg.com/profile_images/1296251406559481856/o4Mj3xqf_normal.jpg",
+          "author_subname": "@OK_Xmonad",
+          "service_name": "twitter",
+          "service_url": "https://twitter.com/",
+          "footer": "Twitter",
+          "footer_icon": "https://a.slack-edge.com/80588/img/services/twitter_pixel_snapped_32.png"
+        }
+      ],
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "Qmk",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "link",
+                  "url": "https://twitter.com/OK_Xmonad/status/1556945717025177600?s=20&t=cw737C6F_svfy88zb97Rgw"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "message",
+      "subtype": "channel_join",
+      "ts": "1660000299.943269",
+      "user": "moyurusuto",
+      "text": "<@moyurusuto>さんがチャンネルに参加しました",
+      "reactions": [
+        {
+          "name": "archjp-joy",
+          "users": [
+            "U02HC93TJEP",
+            "kusanaginoturugi",
+            "U03JYF13SQP",
+            "syui",
+            "U01HE1ENNJZ"
+          ],
+          "count": 5
+        }
+      ]
+    },
+    {
+      "client_msg_id": "889e5c3b-653d-4b78-ae3c-7b33688c92fc",
+      "type": "message",
+      "text": "意外とDEは気を使わない勢とかいるんでもっと改善されて欲しいんですよねー\nそこらへんGNOMEはもう期待できない気がするのでPopOSに期待してる",
+      "user": "yutakatay",
+      "ts": "1659958626.271299",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "4lt",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "意外とDEは気を使わない勢とかいるんでもっと改善されて欲しいんですよねー\nそこらへんGNOMEはもう期待できない気がするのでPopOSに期待してる"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "10f464e4-8cf0-4008-86f8-d15660d2f455",
+      "type": "message",
+      "text": "DEを使うユーザーにとっては統一されたUIは必須かもしれませんけど、\ni3wmとかのタイル型ウィンドウマネージャを使用するユーザーにとっては、\nテキストベースのコンフィグの方がインターフェイスとしてフィットするのかもしれませんね。",
+      "user": "yasunori.kirin0418",
+      "ts": "1659953852.723329",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "XYFSy",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "DEを使うユーザーにとっては統一されたUIは必須かもしれませんけど、\ni3wmとかのタイル型ウィンドウマネージャを使用するユーザーにとっては、\nテキストベースのコンフィグの方がインターフェイスとしてフィットするのかもしれませんね。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "reactions": [
+        {
+          "name": "sorena",
+          "users": [
+            "znmxodq1",
+            "git-repos-rkarsnk",
+            "U027RN1LZT6"
+          ],
+          "count": 3
+        }
+      ]
+    },
+    {
+      "client_msg_id": "b63129cc-0de9-405a-9d84-5532272450a2",
+      "type": "message",
+      "text": "開発者になり得る層と表現した方がよかったか",
+      "user": "znmxodq1",
+      "ts": "1659950540.795059",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "kmrYv",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "開発者になり得る層と表現した方がよかったか"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "4bee7c56-eed5-4ecf-9b35-fc7f469f63b8",
+      "type": "message",
+      "text": "実際私もWMの上でブラウザとターミナル動けばいいやってなってるし",
+      "user": "znmxodq1",
+      "ts": "1659950513.550349",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "4m2",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "実際私もWMの上でブラウザとターミナル動けばいいやってなってるし"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "reactions": [
+        {
+          "name": "wakaru",
+          "users": [
+            "kusanaginoturugi",
+            "U01J1GGMHDJ",
+            "yasunori.kirin0418",
+            "U03KLEZJGQK",
+            "angel.beats.kanade.yu"
+          ],
+          "count": 5
+        }
+      ]
+    },
+    {
+      "client_msg_id": "4065d030-ceaa-49d3-96f7-85d7364aa250",
+      "type": "message",
+      "text": "パワーユーザーにとってGUI作り込むメリットが無いのでいつまで経っても進化せんのよな",
+      "user": "znmxodq1",
+      "ts": "1659950488.326879",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "gW+vC",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "パワーユーザーにとってGUI作り込むメリットが無いのでいつまで経っても進化せんのよな"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "7703d860-78d2-4d12-aab0-e2cbac0ea3a8",
+      "type": "message",
+      "text": "野良ディストリでこういうところ頑張ってる人はいるけど所詮野良だから流行らないという・・・",
+      "user": "yutakatay",
+      "ts": "1659931216.693499",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "cnQd",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "野良ディストリでこういうところ頑張ってる人はいるけど所詮野良だから流行らないという・・・"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "b61224c1-0d06-4f06-9f99-5922825ea695",
+      "type": "message",
+      "text": "普通に個々のアプリの出来は悪くないけどインテグ（全体としての統一感）がうまくいってないんですよね。GNOMEとかPopとかは割と頑張ってるけど・・・",
+      "user": "yutakatay",
+      "ts": "1659931134.242289",
+      "team": "T0GFBAM8C",
+      "edited": {
+        "user": "yutakatay",
+        "ts": "1659931140.000000"
+      },
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "FWe",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "普通に個々のアプリの出来は悪くないけどインテグ（全体としての統一感）がうまくいってないんですよね。GNOMEとかPopとかは割と頑張ってるけど・・・"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "reactions": [
+        {
+          "name": "wakaru",
+          "users": [
+            "znmxodq1"
+          ],
+          "count": 1
+        }
+      ]
+    },
+    {
+      "client_msg_id": "311e8599-7c89-4eeb-b199-49758840f84c",
+      "type": "message",
+      "text": "無理して流行らせたら多くの開発者が損しそうな気配がする",
+      "user": "s5is",
+      "ts": "1659931033.844619",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "SptH+",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "無理して流行らせたら多くの開発者が損しそうな気配がする"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "reactions": [
+        {
+          "name": "sorena",
+          "users": [
+            "kusanaginoturugi",
+            "U01J1GGMHDJ",
+            "znmxodq1",
+            "U01HE1ENNJZ"
+          ],
+          "count": 4
+        }
+      ]
+    },
+    {
+      "client_msg_id": "6ce0ea27-e9bd-4661-9330-52af55e2da50",
+      "type": "message",
+      "text": "デスクトップ用途としてLinuxを使いはじめても、気づけば、設定をテキストで書くようになって、CLIが無いと生きられなくなる。\n関係ないけど、dconfを使う設定はあまり好きじゃない。",
+      "user": "git-repos-rkarsnk",
+      "ts": "1659930994.224749",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "fylqJ",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "デスクトップ用途としてLinuxを使いはじめても、気づけば、設定をテキストで書くようになって、CLIが無いと生きられなくなる。\n関係ないけど、dconfを使う設定はあまり好きじゃない。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "reactions": [
+        {
+          "name": "wakaru",
+          "users": [
+            "U6DL9D3AB",
+            "angel.beats.kanade.yu",
+            "U01J1GGMHDJ",
+            "znmxodq1",
+            "U01HE1ENNJZ"
+          ],
+          "count": 5
+        }
+      ]
+    },
+    {
+      "client_msg_id": "9a648a8f-bc08-4813-aa34-7c4b55dfebca",
+      "type": "message",
+      "text": "あと２つ以上のファイルを同期していじるパターンとか",
+      "user": "yutakatay",
+      "ts": "1659930879.746599",
+      "team": "T0GFBAM8C",
+      "edited": {
+        "user": "yutakatay",
+        "ts": "1659930886.000000"
+      },
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "D8+Mx",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "あと２つ以上のファイルを同期していじるパターンとか"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "2a86fa6f-4362-47ba-998b-96a99e71925e",
+      "type": "message",
+      "text": "デフォルトの設定がどういうので他に選べる候補がどれくらいあって優先順位がどうかがわかるから",
+      "user": "yutakatay",
+      "ts": "1659930835.317149",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "NCvD",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "デフォルトの設定がどういうので他に選べる候補がどれくらいあって優先順位がどうかがわかるから"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "e42906a0-5a02-43b7-9ff9-d384ae29011b",
+      "type": "message",
+      "text": "更地から設定作れ系はGUI楽なんですけどね（ネットワークとか）",
+      "user": "yutakatay",
+      "ts": "1659930799.495859",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "W6t",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "更地から設定作れ系はGUI楽なんですけどね（ネットワークとか）"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "311320ef-e3d3-454b-83eb-220ed8ed4cb5",
+      "type": "message",
+      "text": "そもそもテキスト文化だから、GUIよりも設定ファイルのほうが自然だし、シンプルなんですよね。たぶん、そこは変らんだろうから、永遠に Linux デスクトップなんて流行らない。",
+      "user": "kusanaginoturugi",
+      "ts": "1659930730.055799",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "IRbd",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "そもそもテキスト文化だから、GUIよりも設定ファイルのほうが自然だし、シンプルなんですよね。たぶん、そこは変らんだろうから、永遠に Linux デスクトップなんて流行らない。"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "25dd631e-e689-407d-b47a-c1d019f63ae7",
+      "type": "message",
+      "text": "昔はネットワークマネージャーくらいはGUI使ってましたけど最近はそれすらもCLIでやるようになっちゃったな〜",
+      "user": "yutakatay",
+      "ts": "1659930644.317689",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "hwOd=",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "昔はネットワークマネージャーくらいはGUI使ってましたけど最近はそれすらもCLIでやるようになっちゃったな〜"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "ed4e1c64-9e37-4243-adb9-7e2f7a0698ec",
+      "type": "message",
+      "text": "OS標準がないのも問題ではありますよね",
+      "user": "raa0121",
+      "ts": "1659929154.022549",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "O2GLm",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "OS標準がないのも問題ではありますよね"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "message",
+      "text": "単純にコスパが悪いんですよね……。設定ファイルは柔軟な作りでも所詮テキストだけど、GUI はそうじゃないので開発・メンテがつらくなるから、開発リソースが少ない場合はやりたくない気持ちはわかる",
+      "user": "odknt",
+      "ts": "1659928785.987369",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "n3upx",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "単純にコスパが悪いんですよね……。設定ファイルは柔軟な作りでも所詮テキストだけど、GUI はそうじゃないので開発・メンテがつらくなるから、開発リソースが少ない場合はやりたくない気持ちはわかる"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "reactions": [
+        {
+          "name": "sorena",
+          "users": [
+            "yutakatay",
+            "U01J1GGMHDJ",
+            "U01HE1ENNJZ"
+          ],
+          "count": 3
+        }
+      ]
+    },
+    {
+      "client_msg_id": "52de875f-0090-4353-82cc-d97c3a2bf1d6",
+      "type": "message",
+      "text": "<https://itvision.altervista.org/why.linux.is.not.ready.for.the.desktop.current.html>\nふむふむ。\n`(no gui whatsoever, you need to edit text files).`\nと言われてる。\nGUI で設定できるツールをメンテしつづけるメリットがある人達がいねーんだよなあ。テキストファイルが正義と思うやつは見るなってことだろうな。",
+      "user": "kusanaginoturugi",
+      "ts": "1659927912.029379",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "Aiw",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "link",
+                  "url": "https://itvision.altervista.org/why.linux.is.not.ready.for.the.desktop.current.html"
+                },
+                {
+                  "type": "text",
+                  "text": "\nふむふむ。\n"
+                },
+                {
+                  "type": "text",
+                  "text": "(no gui whatsoever, you need to edit text files).",
+                  "style": {
+                    "code": true
+                  }
+                },
+                {
+                  "type": "text",
+                  "text": "\nと言われてる。\nGUI で設定できるツールをメンテしつづけるメリットがある人達がいねーんだよなあ。テキストファイルが正義と思うやつは見るなってことだろうな。"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "message",
+      "subtype": "channel_join",
+      "ts": "1659782299.206439",
+      "user": "stono.7134",
+      "text": "<@stono.7134>さんがチャンネルに参加しました",
+      "reactions": [
+        {
+          "name": "archjp-joy",
+          "users": [
+            "U03JYF13SQP",
+            "syui"
+          ],
+          "count": 2
+        }
+      ]
+    },
+    {
+      "client_msg_id": "d0a10a03-533f-4424-ac86-ad2ad8543f6e",
+      "type": "message",
+      "text": "何度も言ってるけど自動インストールスクリプト用意して個人設定とか分離しておくとシステム領域壊しても全く動じなくなる",
+      "user": "znmxodq1",
+      "ts": "1659692011.505969",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "iSSJh",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "何度も言ってるけど自動インストールスクリプト用意して個人設定とか分離しておくとシステム領域壊しても全く動じなくなる"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "reactions": [
+        {
+          "name": "sorena",
+          "users": [
+            "UPLFHSQ2V",
+            "U01HE1ENNJZ"
+          ],
+          "count": 2
+        }
+      ]
+    },
+    {
+      "client_msg_id": "c607468b-6822-4d65-840b-e3369ba602fc",
+      "type": "message",
+      "text": "Archはこういうトラブルの時も復旧させやすいのが非常に良き\nUbuntuとかだと一先ずどうしようかってなるけど、Archの場合はISOからarch-chrootすりゃあどうになかるだろって思考になれるのが強い",
+      "user": "angel.beats.kanade.yu",
+      "ts": "1659688351.070749",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "6iE",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "Archはこういうトラブルの時も復旧させやすいのが非常に良き\nUbuntuとかだと一先ずどうしようかってなるけど、Archの場合はISOからarch-chrootすりゃあどうになかるだろって思考になれるのが強い"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "reactions": [
+        {
+          "name": "wakaru",
+          "users": [
+            "kusanaginoturugi",
+            "U6DL9D3AB",
+            "U01J1GGMHDJ",
+            "yutakatay",
+            "znmxodq1",
+            "peony.btn",
+            "buzz.taiki",
+            "UJ7P75WB1",
+            "U01HE1ENNJZ"
+          ],
+          "count": 9
+        },
+        {
+          "name": "naruhodo",
+          "users": [
+            "git-repos-rkarsnk",
+            "e195755"
+          ],
+          "count": 2
+        }
+      ]
+    },
+    {
+      "client_msg_id": "9be82ff9-5d69-41de-91ac-675560053221",
+      "type": "message",
+      "text": "私はArchだったらまぁISOからでなんとかなるかって気になりますね。\nUbuntuだとぞっとする。\nWindowsだとさぁこれから１日かけてセットアップだって気分になる。",
+      "user": "yutakatay",
+      "ts": "1659686297.291089",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "3xq",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "私はArchだったらまぁISOからでなんとかなるかって気になりますね。\nUbuntuだとぞっとする。\nWindowsだとさぁこれから１日かけてセットアップだって気分になる。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "reactions": [
+        {
+          "name": "wakaru",
+          "users": [
+            "angel.beats.kanade.yu",
+            "U01J1GGMHDJ",
+            "git-repos-rkarsnk",
+            "znmxodq1",
+            "UJ7P75WB1",
+            "U01HE1ENNJZ"
+          ],
+          "count": 6
+        }
+      ]
+    },
+    {
+      "client_msg_id": "b2621ec7-2f82-4ccc-a21e-04e8e92abd9e",
+      "type": "message",
+      "text": "&gt;  pacmanのアプデ中にデスクトップのコンセントに引っかかって電源落ちてしまったところ\n想像しただけで あっ(呆然) となる。\n復活できて良かったです!!",
+      "user": "e195755",
+      "ts": "1659685557.480679",
+      "team": "T0GFBAM8C",
+      "edited": {
+        "user": "e195755",
+        "ts": "1659685618.000000"
+      },
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "LYe",
+          "elements": [
+            {
+              "type": "rich_text_quote",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": " pacmanのアプデ中にデスクトップのコンセントに引っかかって電源落ちてしまったところ"
+                }
+              ]
+            },
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "想像しただけで あっ(呆然) となる。\n復活できて良かったです!!"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "9F156A02-451D-4768-B34A-90ABC556B425",
+      "type": "message",
+      "text": "お、よかったです",
+      "user": "syui",
+      "ts": "1659676934.004019",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "+c3o",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "お、よかったです"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "reactions": [
+        {
+          "name": "man-bowing",
+          "users": [
+            "v3rn3j"
+          ],
+          "count": 1
+        }
+      ]
+    },
+    {
+      "client_msg_id": "982a65b3-7b40-48cf-9568-ecff56fb12e3",
+      "type": "message",
+      "text": "Archのいいところ",
+      "user": "yutakatay",
+      "ts": "1659673720.667819",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "chq",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "Archのいいところ"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "reactions": [
+        {
+          "name": "man-bowing",
+          "users": [
+            "v3rn3j"
+          ],
+          "count": 1
+        }
+      ]
+    },
+    {
+      "client_msg_id": "DB46F66B-7B3A-4CAA-BCCD-3D0123A07EC5",
+      "type": "message",
+      "text": "こんにちは\n無事復活を遂げました‼︎初試みでミスってやらかすかヒヤヒヤでしたが上述の通り進めたらいけました\n助言ありがとうございました:man-bowing:",
+      "user": "v3rn3j",
+      "ts": "1659672813.431389",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "e=p",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "こんにちは"
+                },
+                {
+                  "type": "text",
+                  "text": "\n"
+                },
+                {
+                  "type": "text",
+                  "text": "無事復活を遂げました‼︎初試みでミスってやらかすかヒヤヒヤでしたが上述の通り進めたらいけました"
+                },
+                {
+                  "type": "text",
+                  "text": "\n"
+                },
+                {
+                  "type": "text",
+                  "text": "助言ありがとうございました"
+                },
+                {
+                  "type": "emoji",
+                  "name": "man-bowing",
+                  "unicode": "1f647-200d-2642-fe0f"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "E2DC2CDD-D5D3-48E9-AA45-02D8A4CEE5DB",
+      "type": "message",
+      "text": "おけです ありがとうございます:man-bowing: ",
+      "user": "v3rn3j",
+      "ts": "1659627191.320149",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "UpDE",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "おけです ありがとうございます"
+                },
+                {
+                  "type": "emoji",
+                  "name": "man-bowing",
+                  "unicode": "1f647-200d-2642-fe0f"
+                },
+                {
+                  "type": "text",
+                  "text": " "
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "7F0D8C48-BAB0-4451-89F7-FDE5D7736B76",
+      "type": "message",
+      "text": "はい、isoをddすれば作れる感じ",
+      "user": "syui",
+      "ts": "1659627031.596229",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "P/UAC",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "はい、isoをddすれば作れる感じ"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "AFEBFC3C-558C-4052-90DE-F09767CFA6B5",
+      "type": "message",
+      "text": "わかりました ありがとうございます\n取り敢えず今週末試してみようと思います\nちなみにusbのarchてのはただインストールメディアのようにisoから焼けばいい感じですよね？",
+      "user": "v3rn3j",
+      "ts": "1659626970.842249",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "C544",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "わかりました ありがとうございます"
+                },
+                {
+                  "type": "text",
+                  "text": "\n"
+                },
+                {
+                  "type": "text",
+                  "text": "取り敢えず今週末試してみようと思います"
+                },
+                {
+                  "type": "text",
+                  "text": "\n"
+                },
+                {
+                  "type": "text",
+                  "text": "ちなみにusbのarchてのはただインストールメディアのようにisoから焼けばいい感じですよね？"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "963708A7-C43C-46F3-BCB0-0709D5969344",
+      "type": "message",
+      "text": "いや多分vmlinuzのimgが消えてるんですよね、本来置いてある場所から\nでこれはlinuxをupdateしてる時に起こります",
+      "user": "syui",
+      "ts": "1659626824.695139",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "ZK47",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "いや多分vmlinuzのimgが消えてるんですよね、本来置いてある場所から"
+                },
+                {
+                  "type": "text",
+                  "text": "\n"
+                },
+                {
+                  "type": "text",
+                  "text": "でこれはlinuxをupdateしてる時に起こります"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "5a4a9d20-5713-4d20-be4b-a0974e34f022",
+      "type": "message",
+      "text": "どのパッケージがおかしくなったかわからなくて気持ち悪いときは全再インストールがいいですね。\n<https://wiki.archlinux.jp/index.php/Pacman_ヒント#.E6.97.A2.E5.AD.98.E3.81.AE.E3.82.A4.E3.83.B3.E3.82.B9.E3.83.88.E3.83.BC.E3.83.AB.E3.81.8B.E3.82.89_USB_.E3.82.AD.E3.83.BC.E3.82.92.E5.BE.A9.E5.85.83.E3.81.99.E3.82.8B|https://wiki.archlinux.jp/index.php/Pacman_ヒント#.E6.97.A2.E5.AD.98.E3.81.AE.E3.82.A4.E3.83.B3.E3.[…]3.BC.E3.82.92.E5.BE.A9.E5.85.83.E3.81.99.E3.82.8B>",
+      "user": "yutakatay",
+      "ts": "1659626664.515959",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "rBF",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "どのパッケージがおかしくなったかわからなくて気持ち悪いときは全再インストールがいいですね。\n"
+                },
+                {
+                  "type": "link",
+                  "url": "https://wiki.archlinux.jp/index.php/Pacman_ヒント#.E6.97.A2.E5.AD.98.E3.81.AE.E3.82.A4.E3.83.B3.E3.82.B9.E3.83.88.E3.83.BC.E3.83.AB.E3.81.8B.E3.82.89_USB_.E3.82.AD.E3.83.BC.E3.82.92.E5.BE.A9.E5.85.83.E3.81.99.E3.82.8B",
+                  "text": "https://wiki.archlinux.jp/index.php/Pacman_ヒント#.E6.97.A2.E5.AD.98.E3.81.AE.E3.82.A4.E3.83.B3.E3.[…]3.BC.E3.82.92.E5.BE.A9.E5.85.83.E3.81.99.E3.82.8B"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "ED754139-8C59-498A-BED8-B41808223B67",
+      "type": "message",
+      "text": "なので基本的にはlinuxのreinstallすればokです",
+      "user": "syui",
+      "ts": "1659626287.722109",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "7Li",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "なので基本的にはlinuxのreinstallすればokです"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "57FDC2F9-EA09-4BA2-8BEC-636905A676CF",
+      "type": "message",
+      "text": "私もたまにvmlinuzのimgが吹き飛びます\nこの場合、usbのarchなどからarch-chrootしてpacman -S linuxすると当該img等をbootに置いて必要な処理してくれます",
+      "user": "syui",
+      "ts": "1659626140.647929",
+      "team": "T0GFBAM8C",
+      "edited": {
+        "user": "syui",
+        "ts": "1659627100.000000"
+      },
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "/BV+N",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "私もたまにvmlinuzのimgが吹き飛びます"
+                },
+                {
+                  "type": "text",
+                  "text": "\n"
+                },
+                {
+                  "type": "text",
+                  "text": "この場合、usbのarchなどからarch-chrootしてpacman -S linuxすると当該img等をbootに置いて必要な処理してくれます"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "88A392D7-9617-43F0-8224-1F23B470627D",
+      "type": "message",
+      "text": "こんばんは\npacmanのアプデ中にデスクトップのコンセントに引っかかって電源落ちてしまったところ\nvmlinuz-linuxが見つからない〜等エラーが出て起動しません \nいかんせんarchで起動しなくなるってのは都市伝説レベルに思っていて(特に弄ってもなければgpuもなく安定版を入れてきたため)archisoでマウントして再インストールする等々くらいのあやふやな知識しかありません\n\nそこで助言を頂きたいです\n自身の認識は合っていますか?\niso入れたUSB起動後デバイスの暗号化解除しchrootでマウント後そこでpacman -Syu? or -S linuxでアンマウント後リブートといった具合ですか?\nまたインストール手順時のようにgrub cofig書き換えmkinitcpio?だっけかもやらなければいけないのでしょうか?\nそれともpacman hookがその辺りはやってくれるのでしょうか?",
+      "user": "v3rn3j",
+      "ts": "1659625905.805519",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "Y32V",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "こんばんは"
+                },
+                {
+                  "type": "text",
+                  "text": "\n"
+                },
+                {
+                  "type": "text",
+                  "text": "pacmanのアプデ中にデスクトップのコンセントに引っかかって電源落ちてしまったところ"
+                },
+                {
+                  "type": "text",
+                  "text": "\n"
+                },
+                {
+                  "type": "text",
+                  "text": "vmlinuz-linuxが見つからない〜等エラーが出て起動しません "
+                },
+                {
+                  "type": "text",
+                  "text": "\n"
+                },
+                {
+                  "type": "text",
+                  "text": "いかんせんarchで起動しなくなるってのは都市伝説レベルに思っていて(特に弄ってもなければgpuもなく安定版を入れてきたため)archisoでマウントして再インストールする等々くらいのあやふやな知識しかありません"
+                },
+                {
+                  "type": "text",
+                  "text": "\n"
+                },
+                {
+                  "type": "text",
+                  "text": "\nそこで助言を頂きたいです"
+                },
+                {
+                  "type": "text",
+                  "text": "\n"
+                },
+                {
+                  "type": "text",
+                  "text": "自身の認識は合っていますか?"
+                },
+                {
+                  "type": "text",
+                  "text": "\n"
+                },
+                {
+                  "type": "text",
+                  "text": "iso入れたUSB起動後デバイスの暗号化解除しchrootでマウント後そこでpacman -Syu? or -S linuxでアンマウント後リブートといった具合ですか?"
+                },
+                {
+                  "type": "text",
+                  "text": "\n"
+                },
+                {
+                  "type": "text",
+                  "text": "またインストール手順時のようにgrub cofig書き換えmkinitcpio?だっけかもやらなければいけないのでしょうか?"
+                },
+                {
+                  "type": "text",
+                  "text": "\n"
+                },
+                {
+                  "type": "text",
+                  "text": "それともpacman hookがその辺りはやってくれるのでしょうか?"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "0ce30950-76ce-4f0e-85df-64b3e875ac39",
+      "type": "message",
+      "text": "それでも毎月結構な新人さんが参加されてますね",
+      "user": "raa0121",
+      "ts": "1659624907.891279",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "5dtmU",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "それでも毎月結構な新人さんが参加されてますね"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "reactions": [
+        {
+          "name": "sorena",
+          "users": [
+            "znmxodq1",
+            "U6DL9D3AB"
+          ],
+          "count": 2
+        }
+      ]
+    },
+    {
+      "client_msg_id": "093c2998-2f9c-4154-b99e-b35a083cb496",
+      "type": "message",
+      "text": "某jp、特定個人の絵文字が結構あるからねぇ &gt; 内輪感",
+      "user": "znmxodq1",
+      "ts": "1659624020.459969",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "9aLBZ",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "某jp、特定個人の絵文字が結構あるからねぇ > 内輪感"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "message",
+      "subtype": "channel_join",
+      "ts": "1659618536.588029",
+      "user": "to6wa17",
+      "text": "<@to6wa17>さんがチャンネルに参加しました",
+      "reactions": [
+        {
+          "name": "archjp-joy",
+          "users": [
+            "U03JYF13SQP"
+          ],
+          "count": 1
+        }
+      ]
+    },
+    {
+      "client_msg_id": "AB47A190-2E18-464B-8F73-F3BAB865A1F4",
+      "type": "message",
+      "text": "うん、そうですね",
+      "user": "syui",
+      "ts": "1659604285.012079",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "HgSn",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "うん、そうですね"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "8d9e33b2-649c-42d3-a824-330bb738f370",
+      "type": "message",
+      "text": "あまりにもカオスだと新人が参加しにくいんですよね・・・内輪感満載になっちゃう",
+      "user": "yutakatay",
+      "ts": "1659604252.056969",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "RD8/U",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "あまりにもカオスだと新人が参加しにくいんですよね・・・内輪感満載になっちゃう"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "5BAA1FCE-A882-4501-8E89-ECE98595A75E",
+      "type": "message",
+      "text": "私はvim-jpのlingr時代、結構好きだったなあ、あのカオスな感じが",
+      "user": "syui",
+      "ts": "1659604195.122349",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "p6gRf",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "私はvim-jpのlingr時代、結構好きだったなあ、あのカオスな感じが"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "74011ff2-1eb4-41b9-bda4-4d2800a7ae56",
+      "type": "message",
+      "text": "コミュニケーションしたいなら垂れ流し型（SlackとかDiscord）、問題解決したいなら強制スレッド型（Zulip, Teams）がいいってのに最近気が付きましたね",
+      "user": "yutakatay",
+      "ts": "1659604183.708139",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "qnKz9",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "コミュニケーションしたいなら垂れ流し型（SlackとかDiscord）、問題解決したいなら強制スレッド型（Zulip, Teams）がいいってのに最近気が付きましたね"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "B3AF7572-38E1-463A-AFBE-3C489FC0377F",
+      "type": "message",
+      "text": "なるほど",
+      "user": "syui",
+      "ts": "1659604150.233479",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "7z/",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "なるほど"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "0e5dd277-3dff-4e3f-93f9-6ff0c2f43bc9",
+      "type": "message",
+      "text": "まじかー。専ブラは、基本は番号順に表示されるだけなんだけど、特定の番号にレスをつけると、専ブラ上では、スレッドで表示されるので、雑談のときは、スレッド表示ぜずにだらっと見て、ノイズが多いときは、スレッド表示にして見たいものに集中できたような気がする。",
+      "user": "kusanaginoturugi",
+      "ts": "1659604056.439299",
+      "team": "T0GFBAM8C",
+      "edited": {
+        "user": "kusanaginoturugi",
+        "ts": "1659604078.000000"
+      },
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "Kthi",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "まじかー。専ブラは、基本は番号順に表示されるだけなんだけど、特定の番号にレスをつけると、専ブラ上では、スレッドで表示されるので、雑談のときは、スレッド表示ぜずにだらっと見て、ノイズが多いときは、スレッド表示にして見たいものに集中できたような気がする。"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "c895f19c-e938-4de1-80db-69923c0fd03d",
+      "type": "message",
+      "text": "実は私も使ったことない",
+      "user": "yutakatay",
+      "ts": "1659603865.131709",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "M1QuD",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "実は私も使ったことない"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "E8783233-AD4C-4DA9-BBEB-0C01DE61FE27",
+      "type": "message",
+      "text": "2chせんぶらってどんなだったんですか?",
+      "user": "syui",
+      "ts": "1659603824.066569",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "uoph",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "2chせんぶらってどんなだったんですか?"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "c27507ec-5c24-4ebf-be88-468391b313d1",
+      "type": "message",
+      "text": "今だに 2ch 専ブラの方が使いやすかったとか思うのは、たんなる老害かねえ。",
+      "user": "kusanaginoturugi",
+      "ts": "1659603779.595219",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "A5K//",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "今だに 2ch 専ブラの方が使いやすかったとか思うのは、たんなる老害かねえ。"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "781b400e-d1a6-411d-9e24-e65fcbfd7f66",
+      "type": "message",
+      "text": "私も使ってますけど、あとからメンションされて気がつくってパターンが多いですね・・・",
+      "user": "yutakatay",
+      "ts": "1659603577.570149",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "4qg",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "私も使ってますけど、あとからメンションされて気がつくってパターンが多いですね・・・"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "6572f075-a5a4-40c7-b019-679b210cc066",
+      "type": "message",
+      "text": "業務では結構ガッツリ使ってるので、もっと普及してほしくはあります",
+      "user": "raa0121",
+      "ts": "1659603543.296669",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "oY0o",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "業務では結構ガッツリ使ってるので、もっと普及してほしくはあります"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "b78753ce-98be-4f6f-8676-80278c3b6dcc",
+      "type": "message",
+      "text": "おれを除いてみんなそこで盛り上がってたのね・・・ってので少しさびしい気分になる",
+      "user": "yutakatay",
+      "ts": "1659603391.904109",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "sXxRX",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "おれを除いてみんなそこで盛り上がってたのね・・・ってので少しさびしい気分になる"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "reactions": [
+        {
+          "name": "wakaru",
+          "users": [
+            "kusanaginoturugi",
+            "U01J1GGMHDJ",
+            "s5is"
+          ],
+          "count": 3
+        }
+      ]
+    },
+    {
+      "client_msg_id": "58d557c4-08ad-4ed9-a7a9-069229858741",
+      "type": "message",
+      "text": "スレッドに書いてあってもスルーしがちですよね。",
+      "user": "kusanaginoturugi",
+      "ts": "1659603330.650029",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "zwQVx",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "スレッドに書いてあってもスルーしがちですよね。"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "cf816ffd-f185-42ee-8581-ee25d84177b5",
+      "type": "message",
+      "text": "興味あったらなんらか打っておかないと流れちゃう",
+      "user": "yutakatay",
+      "ts": "1659603295.187389",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "aY/7s",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "興味あったらなんらか打っておかないと流れちゃう"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "5782793e-b723-481e-afca-8b17cc675a62",
+      "type": "message",
+      "text": "Slackのスレッドって初回参加しなかったらあとから検知できないから微妙なんですよね・・・",
+      "user": "yutakatay",
+      "ts": "1659603260.223989",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "3zSd",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "Slackのスレッドって初回参加しなかったらあとから検知できないから微妙なんですよね・・・"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "ba9b4993-2a67-424f-b774-0cd7ddfe5cb0",
+      "type": "message",
+      "text": "スレッド機能を使うのが良いんですけどね…\n発言を後からスレッド化できたら楽なんですけど…",
+      "user": "raa0121",
+      "ts": "1659603229.511389",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "rdcT2",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "スレッド機能を使うのが良いんですけどね…\n発言を後からスレッド化できたら楽なんですけど…"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "918c6dae-0af0-4c57-ba6c-62d1efb5c7c4",
+      "type": "message",
+      "text": "Vimはgeneral(重要連絡)/random(雑談)/question(質問)/plugins(プラグインに関する雑談)/neovim(neovim固有の雑談)みたいな形で分かれてます",
+      "user": "peony.btn",
+      "ts": "1659603212.503679",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "6r2",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "Vimはgeneral(重要連絡)/random(雑談)/question(質問)/plugins(プラグインに関する雑談)/neovim(neovim固有の雑談)みたいな形で分かれてます"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "45226ee7-f2f4-4bf4-aa50-441d7316a5e6",
+      "type": "message",
+      "text": "私も少ないのには賛成なんですけど、新しく来た人が質問投げにくそうな気もするんですよね・・・\nあと質問ってスレが伸びるから質問に興味がない人も巻き込んじゃうという（Neovimのチャットはそうなってて個人的にちょっと迷惑してる）",
+      "user": "yutakatay",
+      "ts": "1659603152.820699",
+      "team": "T0GFBAM8C",
+      "edited": {
+        "user": "yutakatay",
+        "ts": "1659603197.000000"
+      },
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "D8Pnd",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "私も少ないのには賛成なんですけど、新しく来た人が質問投げにくそうな気もするんですよね・・・\nあと質問ってスレが伸びるから質問に興味がない人も巻き込んじゃうという（Neovimのチャットはそうなってて個人的にちょっと迷惑してる）"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "17C4BE8C-3531-46F0-A286-AE91FE99BD62",
+      "type": "message",
+      "text": "ただここだとarchlinuxのシンプルイズベストの考え方とかも相まってチャンネル数少ないのかもと思ったり",
+      "user": "syui",
+      "ts": "1659603072.318069",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "bt1M",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "ただここだとarchlinuxのシンプルイズベストの考え方とかも相まってチャンネル数少ないのかもと思ったり"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "8494A2AC-D212-4C4B-A90B-886DB488292A",
+      "type": "message",
+      "text": "そうですね",
+      "user": "syui",
+      "ts": "1659602988.279429",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "Fs8",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "そうですね"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "c42d71e4-504e-4773-9038-a4c9437622eb",
+      "type": "message",
+      "text": "流量と適切な投げ先があるか次第なところはありますね\nここは\n<#C0GFH3RHC|general> ArchLinux関連\n<#C0GFH3RHU|random> それ以外\nって感じになってますけど、ガチの雑談と質問くらいは分けたいなーって気がしてます",
+      "user": "yutakatay",
+      "ts": "1659602904.968499",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "+5=",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "流量と適切な投げ先があるか次第なところはありますね\nここは\n"
+                },
+                {
+                  "type": "channel",
+                  "channel_id": "C0GFH3RHC"
+                },
+                {
+                  "type": "text",
+                  "text": " ArchLinux関連\n"
+                },
+                {
+                  "type": "channel",
+                  "channel_id": "C0GFH3RHU"
+                },
+                {
+                  "type": "text",
+                  "text": " それ以外\nって感じになってますけど、ガチの雑談と質問くらいは分けたいなーって気がしてます"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "reactions": [
+        {
+          "name": "wakaru",
+          "users": [
+            "git-repos-rkarsnk",
+            "kusanaginoturugi",
+            "U01J1GGMHDJ",
+            "znmxodq1",
+            "U027RN1LZT6",
+            "U7NBCFT1S"
+          ],
+          "count": 6
+        }
+      ]
+    },
+    {
+      "client_msg_id": "7826C4CF-E807-404C-BD22-D3FB9CB8B749",
+      "type": "message",
+      "text": "そういえば他のところどうなんでしょう\nvim-jpはかなり多いらしい",
+      "user": "syui",
+      "ts": "1659602775.651029",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "TgfZU",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "そういえば他のところどうなんでしょう"
+                },
+                {
+                  "type": "text",
+                  "text": "\n"
+                },
+                {
+                  "type": "text",
+                  "text": "vim-jpはかなり多いらしい"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "69945ed9-a49e-46ad-8e73-da8f25026c4c",
+      "type": "message",
+      "text": "ここチャンネル数が少ないところがいいところだと思ってますけど、せめて #question くらい欲しいな〜と思ってきましたがどうでしょう？？",
+      "user": "yutakatay",
+      "ts": "1659602670.701069",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "Skt",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "ここチャンネル数が少ないところがいいところだと思ってますけど、せめて #question くらい欲しいな〜と思ってきましたがどうでしょう？？"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "has_more": false,
+  "is_limited": true,
+  "pin_count": 16,
+  "channel_actions_ts": null,
+  "channel_actions_count": 0
+}
