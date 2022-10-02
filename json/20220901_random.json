@@ -1,0 +1,6567 @@
+{
+  "ok": true,
+  "latest": "1664584295.000000",
+  "oldest": "1661992295.000000",
+  "messages": [
+    {
+      "type": "message",
+      "subtype": "channel_join",
+      "ts": "1664460071.487999",
+      "user": "U044FEDGZRQ",
+      "text": "<@U044FEDGZRQ>さんがチャンネルに参加しました",
+      "reactions": [
+        {
+          "name": "archjp-joy",
+          "users": [
+            "U03JYF13SQP",
+            "U0H9QUFA5",
+            "U0GFBAM8U"
+          ],
+          "count": 3
+        }
+      ]
+    },
+    {
+      "client_msg_id": "cbe53102-b27e-4ec0-b8e9-c9c751924bc2",
+      "type": "message",
+      "text": "と、質問を投げたあと、ふと、`fwupd` してみたら、普通に起動した。なんやこれ。",
+      "user": "U0H9QUFA5",
+      "ts": "1664420200.202789",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "QHb",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "と、質問を投げたあと、ふと、"
+                },
+                {
+                  "type": "text",
+                  "text": "fwupd",
+                  "style": {
+                    "code": true
+                  }
+                },
+                {
+                  "type": "text",
+                  "text": " してみたら、普通に起動した。なんやこれ。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "thread_ts": "1664420200.202789",
+      "reply_count": 1,
+      "reply_users_count": 1,
+      "latest_reply": "1664423961.213989",
+      "reply_users": [
+        "U0H9QUFA5"
+      ],
+      "is_locked": false,
+      "subscribed": false
+    },
+    {
+      "client_msg_id": "4ef7273a-b64a-40fb-9ebf-d869542cf5a7",
+      "type": "message",
+      "text": "emptty から sway を立ちあげようとすると、\n```Error: Wayland session finished with error, please check logs```\nとエラーがでて起動しなくなってしまった。\nどのログを見ればええのやら。`jounalctl -b` にも特にエラーでてないし。\n誰かわかります？",
+      "user": "U0H9QUFA5",
+      "ts": "1664419471.948159",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "Sm0l",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "emptty から sway を立ちあげようとすると、\n"
+                }
+              ]
+            },
+            {
+              "type": "rich_text_preformatted",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "Error: Wayland session finished with error, please check logs"
+                }
+              ],
+              "border": 0
+            },
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "とエラーがでて起動しなくなってしまった。\nどのログを見ればええのやら。"
+                },
+                {
+                  "type": "text",
+                  "text": "jounalctl -b",
+                  "style": {
+                    "code": true
+                  }
+                },
+                {
+                  "type": "text",
+                  "text": " にも特にエラーでてないし。\n誰かわかります？"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "fdd51357-6fcc-489b-8882-9b300eca15b9",
+      "type": "message",
+      "text": "冗談だったらしいですね",
+      "user": "UBEFL3YLE",
+      "ts": "1664269695.593339",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "8ST",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "冗談だったらしいですね"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "message",
+      "text": "valorant やってるから普通に衝撃のニュースだった",
+      "user": "U257W41DW",
+      "ts": "1664253723.505999",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "6xiQ",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "valorant やってるから普通に衝撃のニュースだった"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "9be01ecf-dc72-4377-9f1d-53875547f101",
+      "type": "message",
+      "text": "横長すぎてサムネが真っ黒だた",
+      "user": "UVB7L4CKH",
+      "ts": "1664253355.065559",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "T6j",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "横長すぎてサムネが真っ黒だた"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "message",
+      "text": "絶対違うと頭では分かっていながらクリックしてしまうやつ",
+      "files": [
+        {
+          "id": "F043TRKJV9C",
+          "created": 1664253314,
+          "timestamp": 1664253314,
+          "name": "image.png",
+          "title": "image.png",
+          "mimetype": "image/png",
+          "filetype": "png",
+          "pretty_type": "PNG",
+          "user": "UVB7L4CKH",
+          "user_team": "T0GFBAM8C",
+          "editable": false,
+          "size": 5129,
+          "mode": "hosted",
+          "is_external": false,
+          "external_type": "",
+          "is_public": true,
+          "public_url_shared": false,
+          "display_as_bot": false,
+          "username": "",
+          "url_private": "https://files.slack.com/files-pri/T0GFBAM8C-F043TRKJV9C/image.png",
+          "url_private_download": "https://files.slack.com/files-pri/T0GFBAM8C-F043TRKJV9C/download/image.png",
+          "media_display_type": "unknown",
+          "thumb_64": "https://files.slack.com/files-tmb/T0GFBAM8C-F043TRKJV9C-06981d9a52/image_64.png",
+          "thumb_80": "https://files.slack.com/files-tmb/T0GFBAM8C-F043TRKJV9C-06981d9a52/image_80.png",
+          "thumb_360": "https://files.slack.com/files-tmb/T0GFBAM8C-F043TRKJV9C-06981d9a52/image_360.png",
+          "thumb_360_w": 360,
+          "thumb_360_h": 47,
+          "thumb_480": "https://files.slack.com/files-tmb/T0GFBAM8C-F043TRKJV9C-06981d9a52/image_480.png",
+          "thumb_480_w": 480,
+          "thumb_480_h": 63,
+          "thumb_160": "https://files.slack.com/files-tmb/T0GFBAM8C-F043TRKJV9C-06981d9a52/image_160.png",
+          "thumb_720": "https://files.slack.com/files-tmb/T0GFBAM8C-F043TRKJV9C-06981d9a52/image_720.png",
+          "thumb_720_w": 720,
+          "thumb_720_h": 94,
+          "original_w": 758,
+          "original_h": 99,
+          "thumb_tiny": "AwAGADDOyNuNvPrTaKKACiiigAooooA//9k=",
+          "permalink": "https://archlinuxjp.slack.com/files/UVB7L4CKH/F043TRKJV9C/image.png",
+          "permalink_public": "https://slack-files.com/T0GFBAM8C-F043TRKJV9C-f979edb6f9",
+          "is_starred": false,
+          "has_rich_preview": false,
+          "file_access": "visible"
+        }
+      ],
+      "upload": false,
+      "user": "UVB7L4CKH",
+      "display_as_bot": false,
+      "ts": "1664253337.183259",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "UdN",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "絶対違うと頭では分かっていながらクリックしてしまうやつ"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "client_msg_id": "356198de-3d61-4fc9-a12c-e6c1aa2947b6",
+      "reactions": [
+        {
+          "name": "laughing",
+          "users": [
+            "U0H9QUFA5",
+            "U6DL9D3AB",
+            "UGA29R3FH",
+            "U027RN1LZT6",
+            "UAPRYSVPS",
+            "U03JYF13SQP"
+          ],
+          "count": 6
+        }
+      ]
+    },
+    {
+      "type": "message",
+      "text": "仮に WSL が公式の手順でインストールできるのであれば歓迎されるだろうし、そうなったら結局このページは必要ないんですよね。",
+      "user": "U257W41DW",
+      "ts": "1664248589.785289",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "luqrn",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "仮に WSL が公式の手順でインストールできるのであれば歓迎されるだろうし、そうなったら結局このページは必要ないんですよね。"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "message",
+      "text": "そこまで複雑な話じゃなくて ArchWiki という範囲で考えて、公式のインストール手順を使わない Windows 固有の手順をメンテしていくかどうかという話で、本家はメンテしないことにしたから削除したんだと思う。\n私も動作確認に Windows が必要で、問題があってもほぼ Windows 固有の問題でしかないはずなのでメンテするよりは削除したほうが楽なのではと思いますね。\nもちろん今すぐ削除しろとかいうわけではないですが。",
+      "user": "U257W41DW",
+      "ts": "1664248349.434999",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "0VmDg",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "そこまで複雑な話じゃなくて ArchWiki という範囲で考えて、公式のインストール手順を使わない Windows 固有の手順をメンテしていくかどうかという話で、本家はメンテしないことにしたから削除したんだと思う。\n私も動作確認に Windows が必要で、問題があってもほぼ Windows 固有の問題でしかないはずなのでメンテするよりは削除したほうが楽なのではと思いますね。\nもちろん今すぐ削除しろとかいうわけではないですが。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "reactions": [
+        {
+          "name": "wakaru",
+          "users": [
+            "UGA29R3FH",
+            "naokihirokitomoki",
+            "U03JYF13SQP",
+            "U3FJYR7MG"
+          ],
+          "count": 4
+        }
+      ]
+    },
+    {
+      "client_msg_id": "ee22c926-ee47-46b0-945e-737d30374f76",
+      "type": "message",
+      "text": "私はこれを使ってWSL使ってますが、普通のarch環境とほぼ同じパッケージを使っていると思っています。\nちょっと前まではsystemDサポート無かったので無理矢理systemDを使うパッケージを入れたり、フォルダパス変換のプログラムを使っていたりなど、人によっては普通のarch環境では使わないプログラムを使っているかもしれません。\n<https://github.com/yuk7/ArchWSL|https://github.com/yuk7/ArchWSL>",
+      "user": "naokihirokitomoki",
+      "ts": "1664247774.667059",
+      "team": "T0GFBAM8C",
+      "edited": {
+        "user": "naokihirokitomoki",
+        "ts": "1664247874.000000"
+      },
+      "attachments": [
+        {
+          "id": 1,
+          "color": "24292f",
+          "bot_id": "B03JFQRLYDD",
+          "app_unfurl_url": "https://github.com/yuk7/ArchWSL",
+          "is_app_unfurl": true,
+          "app_id": "A01BP7R4KNY",
+          "fallback": "yuk7/ArchWSL",
+          "text": "ArchLinux based WSL Distribution. Supports multiple install.",
+          "title": "yuk7/ArchWSL",
+          "fields": [
+            {
+              "value": "<https://git.io/archwsl>",
+              "title": "Website",
+              "short": true
+            },
+            {
+              "value": "4830",
+              "title": "Stars",
+              "short": true
+            }
+          ]
+        }
+      ],
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "40O",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "私はこれを使ってWSL使ってますが、普通のarch環境とほぼ同じパッケージを使っていると思っています。\nちょっと前まではsystemDサポート無かったので無理矢理systemDを使うパッケージを入れたり、フォルダパス変換のプログラムを使っていたりなど、人によっては普通のarch環境では使わないプログラムを使っているかもしれません。\n"
+                },
+                {
+                  "type": "link",
+                  "url": "https://github.com/yuk7/ArchWSL",
+                  "text": "https://github.com/yuk7/ArchWSL"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "aac98fff-f2d2-4279-9269-cea5e2391272",
+      "type": "message",
+      "text": "そもそも公式でArchのWSLパッケージが提供されてないので……",
+      "user": "UVB7L4CKH",
+      "ts": "1664247419.789219",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "waZQ",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "そもそも公式でArchのWSLパッケージが提供されてないので……"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "reactions": [
+        {
+          "name": "tashikani",
+          "users": [
+            "U03JYF13SQP"
+          ],
+          "count": 1
+        }
+      ]
+    },
+    {
+      "client_msg_id": "e89794e5-1ee3-447f-9957-fe2dbeb6691f",
+      "type": "message",
+      "text": "Windowsマシンが手元に無いので全然WSL把握できてないんですがArch側から見て独自要素があったりするんですかね？",
+      "user": "UGA29R3FH",
+      "ts": "1664247378.392799",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "5es2u",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "Windowsマシンが手元に無いので全然WSL把握できてないんですがArch側から見て独自要素があったりするんですかね？"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "dc6fb96c-9ad2-4f7d-b3fc-89f39cc1769b",
+      "type": "message",
+      "text": "個人的な見解としては、(日本語版独自サーバーでなくとも)CoCを理由に削除すべきか残すかという点では残していい方に寄っていますが、4年間メンテナンスされていなくてOutdatedになっているという点では、(フラグを立てて)1ヶ月後くらいにアーカイブしてしまってもいいのではないかと思っています。\nもし、このページの現在の状態をよく参照されているという意見がありましたらお知らせください(当方ではアクセスログの確認が恐らくできないため)。もちろん更新されるなら残してよいと思います(が、私は現在WSLを使用していないため、メンテナンスが難しいです)。",
+      "user": "UUWBU08TU",
+      "ts": "1664246952.085839",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "NGc",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "個人的な見解としては、(日本語版独自サーバーでなくとも)CoCを理由に削除すべきか残すかという点では残していい方に寄っていますが、4年間メンテナンスされていなくてOutdatedになっているという点では、(フラグを立てて)1ヶ月後くらいにアーカイブしてしまってもいいのではないかと思っています。\nもし、このページの現在の状態をよく参照されているという意見がありましたらお知らせください(当方ではアクセスログの確認が恐らくできないため)。もちろん更新されるなら残してよいと思います(が、私は現在WSLを使用していないため、メンテナンスが難しいです)。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "reactions": [
+        {
+          "name": "hairyo",
+          "users": [
+            "U0H9QUFA5"
+          ],
+          "count": 1
+        }
+      ]
+    },
+    {
+      "client_msg_id": "8c67b771-1975-413d-bcaf-24bfc88a6d0a",
+      "type": "message",
+      "text": "<http://wiki.archlinux.org|wiki.archlinux.org> に併合されるまでは放置ですかね。",
+      "user": "U0H9QUFA5",
+      "ts": "1664246527.762649",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "TitlS",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "link",
+                  "url": "http://wiki.archlinux.org",
+                  "text": "wiki.archlinux.org"
+                },
+                {
+                  "type": "text",
+                  "text": " に併合されるまでは放置ですかね。"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "16960c20-7085-4c93-a9b5-b2f98cbbb01a",
+      "type": "message",
+      "text": "まあCoCが言いたいことは、Arch公式にはArchが提供しているディストリビューション(公式リポジトリ)とAURのサポートに専念させろということだと認識しているので、必ずしも全ての言語のArchWikiから排除する必要があるかと言われると、そこまで言わなくてもいい気はします。",
+      "user": "UUWBU08TU",
+      "ts": "1664246402.371169",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "cwF",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "まあCoCが言いたいことは、Arch公式にはArchが提供しているディストリビューション(公式リポジトリ)とAURのサポートに専念させろということだと認識しているので、必ずしも全ての言語のArchWikiから排除する必要があるかと言われると、そこまで言わなくてもいい気はします。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "reactions": [
+        {
+          "name": "naruhodo",
+          "users": [
+            "naokihirokitomoki"
+          ],
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "message",
+      "subtype": "thread_broadcast",
+      "text": "<https://wiki.archlinux.jp/index.php/WSL_%E3%81%AB%E3%82%A4%E3%83%B3%E3%82%B9%E3%83%88%E3%83%BC%E3%83%AB>\nの記事を読む限り、WSL で使われてる bootstrap 自体は既存の x86_64 のものですね",
+      "user": "U0PM6EYR1",
+      "ts": "1664246152.324059",
+      "thread_ts": "1664245985.550769",
+      "root": {
+        "client_msg_id": "8adf84b9-0d24-4474-a609-34bec2c1284c",
+        "type": "message",
+        "text": "と思ったんですが、WSL上のArchについての状況が分かっていないので、WSLが必ずしも対象外かは私には判断がつかないです。\n(VBox上にArchをインストール、みたいな記事はあったはずで、WSLが単なる仮想マシンとみなせるほどArchに手が加えられていないなら存在できるかもしれません)",
+        "user": "UUWBU08TU",
+        "ts": "1664245985.550769",
+        "team": "T0GFBAM8C",
+        "blocks": [
+          {
+            "type": "rich_text",
+            "block_id": "Z1G",
+            "elements": [
+              {
+                "type": "rich_text_section",
+                "elements": [
+                  {
+                    "type": "text",
+                    "text": "と思ったんですが、WSL上のArchについての状況が分かっていないので、WSLが必ずしも対象外かは私には判断がつかないです。\n(VBox上にArchをインストール、みたいな記事はあったはずで、WSLが単なる仮想マシンとみなせるほどArchに手が加えられていないなら存在できるかもしれません)"
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "thread_ts": "1664245985.550769",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1664246152.324059",
+        "reply_users": [
+          "U0PM6EYR1"
+        ],
+        "is_locked": false,
+        "subscribed": false
+      },
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "r=/JB",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "link",
+                  "url": "https://wiki.archlinux.jp/index.php/WSL_%E3%81%AB%E3%82%A4%E3%83%B3%E3%82%B9%E3%83%88%E3%83%BC%E3%83%AB"
+                },
+                {
+                  "type": "text",
+                  "text": "\nの記事を読む限り、WSL で使われてる bootstrap 自体は既存の x86_64 のものですね"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "client_msg_id": "c30f8e20-9e50-4ac5-99ce-bd0b07e117d2",
+      "reactions": [
+        {
+          "name": "eyes",
+          "users": [
+            "UUWBU08TU"
+          ],
+          "count": 1
+        }
+      ]
+    },
+    {
+      "client_msg_id": "850b4609-2d16-46b6-a0f3-d7b475fe28da",
+      "type": "message",
+      "text": "個人的にはWSLはWindows上にarch linuxの仮想マシンを走らせてるって認識なのでwiki載せても良いんじゃないかなと感じているけど、CoCが駄目と言っているなら駄目なのかぁと。（個人でブログにでも書けということなのかな）",
+      "user": "naokihirokitomoki",
+      "ts": "1664246054.301249",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "R65v5",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "個人的にはWSLはWindows上にarch linuxの仮想マシンを走らせてるって認識なのでwiki載せても良いんじゃないかなと感じているけど、CoCが駄目と言っているなら駄目なのかぁと。（個人でブログにでも書けということなのかな）"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "8adf84b9-0d24-4474-a609-34bec2c1284c",
+      "type": "message",
+      "text": "と思ったんですが、WSL上のArchについての状況が分かっていないので、WSLが必ずしも対象外かは私には判断がつかないです。\n(VBox上にArchをインストール、みたいな記事はあったはずで、WSLが単なる仮想マシンとみなせるほどArchに手が加えられていないなら存在できるかもしれません)",
+      "user": "UUWBU08TU",
+      "ts": "1664245985.550769",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "Z1G",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "と思ったんですが、WSL上のArchについての状況が分かっていないので、WSLが必ずしも対象外かは私には判断がつかないです。\n(VBox上にArchをインストール、みたいな記事はあったはずで、WSLが単なる仮想マシンとみなせるほどArchに手が加えられていないなら存在できるかもしれません)"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "thread_ts": "1664245985.550769",
+      "reply_count": 1,
+      "reply_users_count": 1,
+      "latest_reply": "1664246152.324059",
+      "reply_users": [
+        "U0PM6EYR1"
+      ],
+      "is_locked": false,
+      "subscribed": false
+    },
+    {
+      "client_msg_id": "e25b1246-0649-48e2-af52-ebb93ebc106b",
+      "type": "message",
+      "text": "ノートPCはwikiよりフォーラムの方が重宝する",
+      "user": "UVB7L4CKH",
+      "ts": "1664245949.823479",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "BgWrs",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "ノートPCはwikiよりフォーラムの方が重宝する"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "c468af82-da32-47b4-b1bf-38b1004a872e",
+      "type": "message",
+      "text": "どうしても母数が少なくなるので……。",
+      "user": "UUWBU08TU",
+      "ts": "1664245922.108759",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "9iKs",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "どうしても母数が少なくなるので……。"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "4450eeeb-9860-4017-93bc-aa9707462126",
+      "type": "message",
+      "text": "ノートPCについては、サポート情報というほど、細かく情報が乗ってないのがまた…",
+      "user": "U0PM6EYR1",
+      "ts": "1664245910.742589",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "iZPkD",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "ノートPCについては、サポート情報というほど、細かく情報が乗ってないのがまた…"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "70177984-9723-4551-9420-befb8640cc8a",
+      "type": "message",
+      "text": "ノートPCについてはArch (x86_64) がインストール可能であれば、サポートされている機能や遭遇しやすいトラブルへの対処などの情報が提供されて問題ない気がします。\n公式のArch自体ではない全てのもの (WSL, ArchLinux ARM, etc...) については、基本的に ArchWiki の対象外とする、という認識です。(Banana Piなども消えていたはずです。)",
+      "user": "UUWBU08TU",
+      "ts": "1664245857.615539",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "3ALVi",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "ノートPCについてはArch (x86_64) がインストール可能であれば、サポートされている機能や遭遇しやすいトラブルへの対処などの情報が提供されて問題ない気がします。\n公式のArch自体ではない全てのもの (WSL, ArchLinux ARM, etc...) については、基本的に ArchWiki の対象外とする、という認識です。(Banana Piなども消えていたはずです。)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "764cea5a-17a2-4110-b5c5-a633a9a79775",
+      "type": "message",
+      "text": "被っちゃいましたね",
+      "user": "U0J2VATJA",
+      "ts": "1664245726.641469",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "OUI7Q",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "被っちゃいましたね"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "839eb624-da9a-462c-b193-5a75bb6679c9",
+      "type": "message",
+      "text": "被った",
+      "user": "U0PM6EYR1",
+      "ts": "1664245719.431619",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "NrzDn",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "被った"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "fd2284c7-c595-4681-9c77-48d3a84406a9",
+      "type": "message",
+      "text": "WSL に関しては、ノートパソコンのページのように、あくまで動いた参考程度なんですよね",
+      "user": "U0PM6EYR1",
+      "ts": "1664245714.458359",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "z=3ld",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "WSL に関しては、ノートパソコンのページのように、あくまで動いた参考程度なんですよね"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "def9dcd3-69d9-4bb3-81da-f3169603eac8",
+      "type": "message",
+      "text": "それでいうと各ノートパソコンの記事ってどうなんでしょう? という気持ちがあります、そっちを残して WSL を消す合理的な理由があまり思いつかないです",
+      "user": "U0J2VATJA",
+      "ts": "1664245709.776349",
+      "team": "T0GFBAM8C",
+      "edited": {
+        "user": "U0J2VATJA",
+        "ts": "1664245713.000000"
+      },
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "kPQ",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "それでいうと各ノートパソコンの記事ってどうなんでしょう? という気持ちがあります、そっちを残して WSL を消す合理的な理由があまり思いつかないです"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "message",
+      "text": "そもそも WSL 上での動作自体公式がサポートしてるものじゃないし、ArchWiki で管理するのは確かにおかしいかもしれない。",
+      "user": "U257W41DW",
+      "ts": "1664245467.785369",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "a1pt",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "そもそも WSL 上での動作自体公式がサポートしてるものじゃないし、ArchWiki で管理するのは確かにおかしいかもしれない。"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "2cab4086-35c3-4cae-88d4-419602f17749",
+      "type": "message",
+      "text": "<https://wiki.archlinux.jp/index.php/%E3%83%88%E3%83%BC%E3%82%AF:WSL_%E3%81%AB%E3%82%A4%E3%83%B3%E3%82%B9%E3%83%88%E3%83%BC%E3%83%AB>\n議論みたら、すでに同じことが議論されてた。しかも自分も入ってる。完全に忘れてた。",
+      "user": "U0H9QUFA5",
+      "ts": "1664244310.726349",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "Pkr",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "link",
+                  "url": "https://wiki.archlinux.jp/index.php/%E3%83%88%E3%83%BC%E3%82%AF:WSL_%E3%81%AB%E3%82%A4%E3%83%B3%E3%82%B9%E3%83%88%E3%83%BC%E3%83%AB"
+                },
+                {
+                  "type": "text",
+                  "text": "\n議論みたら、すでに同じことが議論されてた。しかも自分も入ってる。完全に忘れてた。"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "6b6d3083-0d84-4f03-af16-ac5df4a90a6e",
+      "type": "message",
+      "text": "これ、見た目Ubuntu の中身 Arch になる感じだ…",
+      "user": "U0PM6EYR1",
+      "ts": "1664244037.009649",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "yDnV",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "これ、見た目Ubuntu の中身 Arch になる感じだ…"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "da5d430f-a2c6-4a4b-96bc-6b91f8b5217a",
+      "type": "message",
+      "text": "やっぱ、そういうことかー。<http://wiki.archlinux.jp|wiki.archlinux.jp> の方もそれに倣ったほうがいいかな。そもそも、今の手順も動くかどうかわからんし。\n<https://wiki.archlinux.jp/index.php/WSL_%E3%81%AB%E3%82%A4%E3%83%B3%E3%82%B9%E3%83%88%E3%83%BC%E3%83%AB>",
+      "user": "U0H9QUFA5",
+      "ts": "1664243889.864299",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "BlD7",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "やっぱ、そういうことかー。"
+                },
+                {
+                  "type": "link",
+                  "url": "http://wiki.archlinux.jp",
+                  "text": "wiki.archlinux.jp"
+                },
+                {
+                  "type": "text",
+                  "text": " の方もそれに倣ったほうがいいかな。そもそも、今の手順も動くかどうかわからんし。\n"
+                },
+                {
+                  "type": "link",
+                  "url": "https://wiki.archlinux.jp/index.php/WSL_%E3%81%AB%E3%82%A4%E3%83%B3%E3%82%B9%E3%83%88%E3%83%BC%E3%83%AB"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "80f4c079-7afe-4ca6-a394-7ccd6f8d1537",
+      "type": "message",
+      "text": "Code of Conductはニュアンスとしては行動規範みたいなものだった記憶\nその上で「WSLはWindowsのプログラムだからここでは扱わないよ」という趣旨でそのセクションに飛ばしてるのかなと",
+      "user": "UVB7L4CKH",
+      "ts": "1664242655.557839",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "C7VY/",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "Code of Conductはニュアンスとしては行動規範みたいなものだった記憶\nその上で「WSLはWindowsのプログラムだからここでは扱わないよ」という趣旨でそのセクションに飛ばしてるのかなと"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "a410d28a-5410-493d-a4fa-4f54f7935e07",
+      "type": "message",
+      "text": "<https://twitter.com/Marco_utau/status/1571415415217352705?t=gpuVsgXzjLBbbxtCoH95FA&amp;s=19|https://twitter.com/Marco_utau/status/1571415415217352705?t=gpuVsgXzjLBbbxtCoH95FA&amp;s=19>\n確かに wiki. archlinux. org で wsl を検索するとコード規約にとばされるね。意味がわからない。",
+      "user": "U0H9QUFA5",
+      "ts": "1664236837.252969",
+      "team": "T0GFBAM8C",
+      "attachments": [
+        {
+          "from_url": "https://twitter.com/Marco_utau/status/1571415415217352705?t=gpuVsgXzjLBbbxtCoH95FA&amp;s=19",
+          "ts": 1663489605,
+          "id": 1,
+          "original_url": "https://twitter.com/Marco_utau/status/1571415415217352705?t=gpuVsgXzjLBbbxtCoH95FA&amp;s=19",
+          "fallback": "<https://twitter.com/Marco_utau|@Marco_utau>: うーん、ArchWikiの方針としては外部からArchを参照するものは外部に情報があるべきだという考え方なんすね\nまあなんというか、MDNの方針でもメンテされないものはダメだよ、みたいなものをたしかこの間見かけたので文書を管理するというのはそういう切り捨ても大事なんだよね",
+          "text": "うーん、ArchWikiの方針としては外部からArchを参照するものは外部に情報があるべきだという考え方なんすね\nまあなんというか、MDNの方針でもメンテされないものはダメだよ、みたいなものをたしかこの間見かけたので文書を管理するというのはそういう切り捨ても大事なんだよね",
+          "author_name": "Marco",
+          "author_link": "https://twitter.com/Marco_utau/status/1571415415217352705",
+          "author_icon": "https://pbs.twimg.com/profile_images/973628412131553280/tnvZBaL3_normal.png",
+          "author_subname": "@Marco_utau",
+          "service_name": "twitter",
+          "service_url": "https://twitter.com/",
+          "footer": "Twitter",
+          "footer_icon": "https://a.slack-edge.com/80588/img/services/twitter_pixel_snapped_32.png"
+        }
+      ],
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "C/m",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "link",
+                  "url": "https://twitter.com/Marco_utau/status/1571415415217352705?t=gpuVsgXzjLBbbxtCoH95FA&s=19",
+                  "text": "https://twitter.com/Marco_utau/status/1571415415217352705?t=gpuVsgXzjLBbbxtCoH95FA&s=19"
+                },
+                {
+                  "type": "text",
+                  "text": "\n確かに wiki. archlinux. org で wsl を検索するとコード規約にとばされるね。意味がわからない。"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "message",
+      "subtype": "channel_join",
+      "ts": "1664197639.803849",
+      "user": "U043WGCSJP4",
+      "text": "<@U043WGCSJP4>さんがチャンネルに参加しました",
+      "reactions": [
+        {
+          "name": "archjp",
+          "users": [
+            "U0GFBAM8U"
+          ],
+          "count": 1
+        },
+        {
+          "name": "archjp-joy",
+          "users": [
+            "U03JYF13SQP"
+          ],
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "message",
+      "subtype": "bot_message",
+      "text": "",
+      "ts": "1664179179.059769",
+      "bot_id": "B021YB9R1EG",
+      "attachments": [
+        {
+          "from_url": "https://twitter.com/archlinux_jp/status/1574307675956912128",
+          "ts": 1664179173,
+          "id": 1,
+          "fallback": "<https://twitter.com/archlinux_jp|@archlinux_jp>: リポジトリからの python2 の削除 <https://www.archlinux.jp/news/removing-python2-from-the-repositories/>",
+          "text": "リポジトリからの python2 の削除 <https://www.archlinux.jp/news/removing-python2-from-the-repositories/>",
+          "pretext": "<https://twitter.com/archlinux_jp/status/1574307675956912128>",
+          "author_name": "Arch Linux JP",
+          "author_link": "https://twitter.com/archlinux_jp/status/1574307675956912128",
+          "author_icon": "https://pbs.twimg.com/profile_images/678900104678342656/2w2dw7Fp_normal.png",
+          "author_subname": "@archlinux_jp",
+          "service_name": "twitter",
+          "service_url": "https://twitter.com/",
+          "footer": "Twitter",
+          "footer_icon": "https://a.slack-edge.com/80588/img/services/twitter_pixel_snapped_32.png"
+        }
+      ],
+      "reactions": [
+        {
+          "name": "goodpoem",
+          "users": [
+            "U0H9QUFA5",
+            "UGA29R3FH",
+            "weiliang1503",
+            "UAPRYSVPS",
+            "U02R6AP6H0C",
+            "U01JJAE8LMA",
+            "naokihirokitomoki",
+            "U3FJYR7MG",
+            "a3784197"
+          ],
+          "count": 9
+        },
+        {
+          "name": "pray",
+          "users": [
+            "U03JYF13SQP"
+          ],
+          "count": 1
+        }
+      ]
+    },
+    {
+      "client_msg_id": "85f8ef45-db11-4094-b96f-585d437f5a09",
+      "type": "message",
+      "text": "もしかしたら誤訳(というかニュアンスが違う)かな……？\n\n挙動的にはlocalectlコマンドで00-keyboard.confが強制的に上書きされるようなので、その注意を促したいテキストだったのではないかな、と思いました",
+      "user": "UAPRYSVPS",
+      "ts": "1664174920.138569",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "6Vr",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "もしかしたら誤訳(というかニュアンスが違う)かな……？\n\n挙動的にはlocalectlコマンドで00-keyboard.confが強制的に上書きされるようなので、その注意を促したいテキストだったのではないかな、と思いました"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "message",
+      "text": "多分文章がおかしいだけで、localectl を再度実行すると引数を元に上書きするってことだと思います。",
+      "user": "U257W41DW",
+      "ts": "1664174918.585429",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "URei",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "多分文章がおかしいだけで、localectl を再度実行すると引数を元に上書きするってことだと思います。"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "022c2a25-890c-487b-a348-91ed21784ce8",
+      "type": "message",
+      "text": "&gt; X の設定ファイルを手動で編集する代わりに、_localectl_ ツールを使うことができます。このツールは設定を `/etc/X11/xorg.conf.d/00-keyboard.conf` に保存します。起動時に _localectl_ は変更を上書きするので、手動でこのファイルを編集してはいけません。\nとあるけど、じゃあ、どこにその設定があるんだろう。",
+      "user": "U0H9QUFA5",
+      "ts": "1664174552.698969",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "i4w",
+          "elements": [
+            {
+              "type": "rich_text_quote",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "X の設定ファイルを手動で編集する代わりに、"
+                },
+                {
+                  "type": "text",
+                  "text": "localectl",
+                  "style": {
+                    "italic": true
+                  }
+                },
+                {
+                  "type": "text",
+                  "text": " ツールを使うことができます。このツールは設定を "
+                },
+                {
+                  "type": "text",
+                  "text": "/etc/X11/xorg.conf.d/00-keyboard.conf",
+                  "style": {
+                    "code": true
+                  }
+                },
+                {
+                  "type": "text",
+                  "text": " に保存します。起動時に "
+                },
+                {
+                  "type": "text",
+                  "text": "localectl",
+                  "style": {
+                    "italic": true
+                  }
+                },
+                {
+                  "type": "text",
+                  "text": " は変更を上書きするので、手動でこのファイルを編集してはいけません。"
+                }
+              ]
+            },
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "とあるけど、じゃあ、どこにその設定があるんだろう。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "thread_ts": "1664174552.698969",
+      "reply_count": 1,
+      "reply_users_count": 1,
+      "latest_reply": "1664186161.875389",
+      "reply_users": [
+        "U0H9QUFA5"
+      ],
+      "is_locked": false,
+      "subscribed": false
+    },
+    {
+      "client_msg_id": "05376b5f-b36e-492e-b89a-11189cd39f36",
+      "type": "message",
+      "text": "localectlでxorg.conf.dを生成すると、localectlでの状態表示も即座に切り替わるんですよね。 そこで再起動が不要だと勘違いしました\n```[akai@homeArch ~]$ localectl # これが再起動せずに表示切り替わる\n   System Locale: LANG=ja_JP.UTF-8\n       VC Keymap: jp106\n      X11 Layout: jp```\nlocalectlコマンド単体はxorg.conf.dを読み取るだけなのかな",
+      "user": "UAPRYSVPS",
+      "ts": "1664174319.069669",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "GTW",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "localectlでxorg.conf.dを生成すると、localectlでの状態表示も即座に切り替わるんですよね。 そこで再起動が不要だと勘違いしました\n"
+                }
+              ]
+            },
+            {
+              "type": "rich_text_preformatted",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "[akai@homeArch ~]$ localectl # これが再起動せずに表示切り替わる\n   System Locale: LANG=ja_JP.UTF-8\n       VC Keymap: jp106\n      X11 Layout: jp"
+                }
+              ],
+              "border": 0
+            },
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "localectlコマンド単体はxorg.conf.dを読み取るだけなのかな"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "70d5cdbb-d2ad-4e9e-8cc2-8229ac960655",
+      "type": "message",
+      "text": "だから、X の再起動が必要なんだね。",
+      "user": "U0H9QUFA5",
+      "ts": "1664173905.442289",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "Ese",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "だから、X の再起動が必要なんだね。"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "6d00b87d-1630-4667-a4a4-ad56ad10191a",
+      "type": "message",
+      "text": "ですね、00-keyboard.confが作成・更新されました",
+      "user": "UAPRYSVPS",
+      "ts": "1664173884.334819",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "k2WUX",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "ですね、00-keyboard.confが作成・更新されました"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "3aef7929-5db3-4c53-9e57-65af3bc8f2fd",
+      "type": "message",
+      "text": "```localectl set-x11-keymap us```\nこれを実行すると、\n```cat /etc/X11/xorg.conf.d/00-keyboard.conf                                 \n# Written by systemd-localed(8), read by systemd-localed and Xorg. It's\n# probably wise not to edit this file manually. Use localectl(1) to\n# instruct systemd-localed to update it.\nSection \"InputClass\"\n        Identifier \"system-keyboard\"\n        MatchIsKeyboard \"on\"\n        Option \"XkbLayout\" \"us\"\nEndSection```\n00-keyboard.conf が作成されるっぽいですね。",
+      "user": "U0H9QUFA5",
+      "ts": "1664173773.041449",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "KG4K",
+          "elements": [
+            {
+              "type": "rich_text_preformatted",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "localectl set-x11-keymap us"
+                }
+              ],
+              "border": 0
+            },
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "これを実行すると、\n"
+                }
+              ]
+            },
+            {
+              "type": "rich_text_preformatted",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "cat /etc/X11/xorg.conf.d/00-keyboard.conf                                 \n# Written by systemd-localed(8), read by systemd-localed and Xorg. It's\n# probably wise not to edit this file manually. Use localectl(1) to\n# instruct systemd-localed to update it.\nSection \"InputClass\"\n        Identifier \"system-keyboard\"\n        MatchIsKeyboard \"on\"\n        Option \"XkbLayout\" \"us\"\nEndSection"
+                }
+              ],
+              "border": 0
+            },
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "00-keyboard.conf が作成されるっぽいですね。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "reactions": [
+        {
+          "name": "naruhodo",
+          "users": [
+            "U03JYF13SQP"
+          ],
+          "count": 1
+        }
+      ]
+    },
+    {
+      "client_msg_id": "cd40010b-cdf5-42e6-bccc-d49b346a0499",
+      "type": "message",
+      "text": "&gt; このツールは設定を /etc/X11/xorg.conf.d/00-keyboard.conf に保存します。\nとあるのでそうみたいですね",
+      "user": "U0J2VATJA",
+      "ts": "1664173749.182809",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "KgJ",
+          "elements": [
+            {
+              "type": "rich_text_quote",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "このツールは設定を /etc/X11/xorg.conf.d/00-keyboard.conf に保存します。"
+                }
+              ]
+            },
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "とあるのでそうみたいですね"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "message",
+      "text": "どういう動作なのか知らないんですが、もしかしたら設定ファイル生成してるだけなのかもしれませんね。",
+      "user": "U257W41DW",
+      "ts": "1664173728.147769",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "jaL",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "どういう動作なのか知らないんですが、もしかしたら設定ファイル生成してるだけなのかもしれませんね。"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "2c0b0f1b-757e-4ba4-8843-65ece43b7f24",
+      "type": "message",
+      "text": "localectlコマンドで反映されてるから、Xの再起動いらないのかと思いましたけど必要なんですね",
+      "user": "UAPRYSVPS",
+      "ts": "1664173572.317149",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "RDl98",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "localectlコマンドで反映されてるから、Xの再起動いらないのかと思いましたけど必要なんですね"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "77d977dc-5da6-45cd-8116-03466d6b1d2a",
+      "type": "message",
+      "text": "`sudo localectl set-x11-keymap jp` のあとのX再起動でつなぎ直してもjpのままになるようになりました！！！！助かります、ありがとうございます:cry::cry::cry:",
+      "user": "UAPRYSVPS",
+      "ts": "1664173523.286479",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "weU",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "sudo localectl set-x11-keymap jp",
+                  "style": {
+                    "code": true
+                  }
+                },
+                {
+                  "type": "text",
+                  "text": " のあとのX再起動でつなぎ直してもjpのままになるようになりました！！！！助かります、ありがとうございます"
+                },
+                {
+                  "type": "emoji",
+                  "name": "cry",
+                  "unicode": "1f622"
+                },
+                {
+                  "type": "emoji",
+                  "name": "cry",
+                  "unicode": "1f622"
+                },
+                {
+                  "type": "emoji",
+                  "name": "cry",
+                  "unicode": "1f622"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "reactions": [
+        {
+          "name": "+1",
+          "users": [
+            "U0H9QUFA5",
+            "naokihirokitomoki"
+          ],
+          "count": 2
+        }
+      ]
+    },
+    {
+      "client_msg_id": "ad85bd05-4e19-4b4a-b595-9a521405a416",
+      "type": "message",
+      "text": "こっちだった",
+      "user": "U0H9QUFA5",
+      "ts": "1664173336.618299",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "lU7D",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "こっちだった"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "346c59b7-5feb-47e5-a7a9-5946989a16f3",
+      "type": "message",
+      "text": "<https://wiki.archlinux.jp/index.php/Xorg_%E3%81%A7%E3%81%AE%E3%82%AD%E3%83%BC%E3%83%9C%E3%83%BC%E3%83%89%E8%A8%AD%E5%AE%9A#X_.E3.81.AE.E8.A8.AD.E5.AE.9A.E3.83.95.E3.82.A1.E3.82.A4.E3.83.AB.E3.82.92.E4.BD.BF.E3.81.86|https://wiki.archlinux.jp/index.php/Xorg_%E3%81%A7%E3%81%AE%E3%82%AD%E3%83%BC%E3%83%9C%E3%83%BC%E3%83%89%E8%A8%AD%E5%AE%9A#X_.E3.81.AE.E8.A8.AD.E5.AE.9A.E3.83.95.E3.82.A1.E3.82.A4.E3.83.AB.E3.82.92.E4.BD.BF.E3.81.86>",
+      "user": "U0H9QUFA5",
+      "ts": "1664173330.544369",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "gOdy",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "link",
+                  "url": "https://wiki.archlinux.jp/index.php/Xorg_%E3%81%A7%E3%81%AE%E3%82%AD%E3%83%BC%E3%83%9C%E3%83%BC%E3%83%89%E8%A8%AD%E5%AE%9A#X_.E3.81.AE.E8.A8.AD.E5.AE.9A.E3.83.95.E3.82.A1.E3.82.A4.E3.83.AB.E3.82.92.E4.BD.BF.E3.81.86",
+                  "text": "https://wiki.archlinux.jp/index.php/Xorg_%E3%81%A7%E3%81%AE%E3%82%AD%E3%83%BC%E3%83%9C%E3%83%BC%E3%83%89%E8%A8%AD%E5%AE%9A#X_.E3.81.AE.E8.A8.AD.E5.AE.9A.E3.83.95.E3.82.A1.E3.82.A4.E3.83.AB.E3.82.92.E4.BD.BF.E3.81.86"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "1714a824-065c-4207-83e8-15a87ce0cb59",
+      "type": "message",
+      "text": "<https://wiki.archlinux.jp/index.php/Xorg_%E3%81%A7%E3%81%AE%E3%82%AD%E3%83%BC%E3%83%9C%E3%83%BC%E3%83%89%E8%A8%AD%E5%AE%9A|https://wiki.archlinux.jp/index.php/Xorg_%E3%81%A7%E3%81%AE%E3%82%AD%E3%83%BC%E3%83%9C%E3%83%BC%E3%83%89%E8%A8%AD%E5%AE%9A>\nこれ書くしかないか。",
+      "user": "U0H9QUFA5",
+      "ts": "1664173309.586449",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "As0E",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "link",
+                  "url": "https://wiki.archlinux.jp/index.php/Xorg_%E3%81%A7%E3%81%AE%E3%82%AD%E3%83%BC%E3%83%9C%E3%83%BC%E3%83%89%E8%A8%AD%E5%AE%9A",
+                  "text": "https://wiki.archlinux.jp/index.php/Xorg_%E3%81%A7%E3%81%AE%E3%82%AD%E3%83%BC%E3%83%9C%E3%83%BC%E3%83%89%E8%A8%AD%E5%AE%9A"
+                },
+                {
+                  "type": "text",
+                  "text": "\nこれ書くしかないか。"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "a1baa4d0-1514-42bc-bfbb-e1d026b94114",
+      "type": "message",
+      "text": "再起動はしてないですね、再起動してみます",
+      "user": "UAPRYSVPS",
+      "ts": "1664173304.841859",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "I3ZTC",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "再起動はしてないですね、再起動してみます"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "message",
+      "text": "GUI 再起動してもダメですかね？",
+      "user": "U257W41DW",
+      "ts": "1664173285.249439",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "3HDRn",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "GUI 再起動してもダメですかね？"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "57f60c14-7549-4d18-a50f-24b47b40ab5d",
+      "type": "message",
+      "text": "その辺今見てて、色々試してるんですけどだめみたいです…… つなぎ直すとやっぱりus配列になってしまいますね",
+      "user": "UAPRYSVPS",
+      "ts": "1664173249.218919",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "f5p01",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "その辺今見てて、色々試してるんですけどだめみたいです…… つなぎ直すとやっぱりus配列になってしまいますね"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "message",
+      "text": "variant や options は何のことか判らない場合は省略して大丈夫なはず",
+      "user": "U257W41DW",
+      "ts": "1664173227.775839",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "PWW",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "variant や options は何のことか判らない場合は省略して大丈夫なはず"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "message",
+      "text": "こんな感じで `localectl set-x11-keymap` を実行すると xorg の設定ファイルが生成されるはずです。",
+      "user": "U257W41DW",
+      "ts": "1664173162.277029",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "RFF4Z",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "こんな感じで "
+                },
+                {
+                  "type": "text",
+                  "text": "localectl set-x11-keymap",
+                  "style": {
+                    "code": true
+                  }
+                },
+                {
+                  "type": "text",
+                  "text": " を実行すると xorg の設定ファイルが生成されるはずです。"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "message",
+      "text": "<https://wiki.archlinux.jp/index.php/Xorg_%E3%81%A7%E3%81%AE%E3%82%AD%E3%83%BC%E3%83%9C%E3%83%BC%E3%83%89%E8%A8%AD%E5%AE%9A#localectl_.E3.82.92.E4.BD.BF.E3.81.86>",
+      "user": "U257W41DW",
+      "ts": "1664173085.475179",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "73c",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "link",
+                  "url": "https://wiki.archlinux.jp/index.php/Xorg_%E3%81%A7%E3%81%AE%E3%82%AD%E3%83%BC%E3%83%9C%E3%83%BC%E3%83%89%E8%A8%AD%E5%AE%9A#localectl_.E3.82.92.E4.BD.BF.E3.81.86"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "d710d904-225b-4c0a-980c-0556c3992b28",
+      "type": "message",
+      "text": "ArchWikiのインストールガイドだと多分コンソールのlocalectlしか変更しないんですよね、それが原因かな……？今localectlでx11のキーレイアウトをjp106にする方法を調べています",
+      "user": "UAPRYSVPS",
+      "ts": "1664172889.332579",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "m7X8",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "ArchWikiのインストールガイドだと多分コンソールのlocalectlしか変更しないんですよね、それが原因かな……？今localectlでx11のキーレイアウトをjp106にする方法を調べています"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "message",
+      "text": "localectl で設定すれば自動生成された気がします。未設定になってるから自動で us になってるんですかね？",
+      "user": "U257W41DW",
+      "ts": "1664172567.639519",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "jwM",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "localectl で設定すれば自動生成された気がします。未設定になってるから自動で us になってるんですかね？"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "a7d3ccbc-ee91-4cda-b25f-dcd8a5aebe6f",
+      "type": "message",
+      "text": "localectlでXのキーレイアウトファイルを作るという手順を踏めばいいのか……！",
+      "user": "UAPRYSVPS",
+      "ts": "1664172524.866789",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "QaE6",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "localectlでXのキーレイアウトファイルを作るという手順を踏めばいいのか……！"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "fddbb7b1-d0df-4dba-9c23-ffc76724a7b0",
+      "type": "message",
+      "text": "多分それかなあ",
+      "user": "U0H9QUFA5",
+      "ts": "1664172488.683459",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "uEdBA",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "多分それかなあ"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "8b8bc03f-a735-4d34-91eb-b194216bf040",
+      "type": "message",
+      "text": "xorgの設定ファイルは作ってないですね、何もないです",
+      "user": "UAPRYSVPS",
+      "ts": "1664172473.320759",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "+oSAQ",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "xorgの設定ファイルは作ってないですね、何もないです"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "4f502204-0e2a-46be-a91c-0d7a58cda040",
+      "type": "message",
+      "text": "xorgの設定ファイルに書いてない？",
+      "user": "U0H9QUFA5",
+      "ts": "1664172450.952169",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "0Jy",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "xorgの設定ファイルに書いてない？"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "a43a8a89-a8e7-49b4-801c-243335d87cdc",
+      "type": "message",
+      "text": "お……？\n```[akai@homeArch ~]$ sudo localectl \n   System Locale: LANG=ja_JP.UTF-8\n       VC Keymap: jp106\n      X11 Layout: n/a```\nこれでいいのかと思っていたけどX11 Layoutを設定しておかなければいけないのか……？",
+      "user": "UAPRYSVPS",
+      "ts": "1664172434.248259",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "Zy6",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "お……？\n"
+                }
+              ]
+            },
+            {
+              "type": "rich_text_preformatted",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "[akai@homeArch ~]$ sudo localectl \n   System Locale: LANG=ja_JP.UTF-8\n       VC Keymap: jp106\n      X11 Layout: n/a"
+                }
+              ],
+              "border": 0
+            },
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "これでいいのかと思っていたけどX11 Layoutを設定しておかなければいけないのか……？"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "message",
+      "text": "localectl の X11 Layout が us になってるとかですかね？",
+      "user": "U257W41DW",
+      "ts": "1664171865.255509",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "D6/g",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "localectl の X11 Layout が us になってるとかですかね？"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "f1ef7eb8-22bb-44ad-8205-dd034d293c48",
+      "type": "message",
+      "text": "そちらのページともう一つ（Xorg でのキーボード設定）のキーボードレイアウト系ArchWikiは一応見てるんですけど、原因がよくわからないんですよネ……\n\n• <https://wiki.archlinux.jp/index.php/%E3%82%B3%E3%83%B3%E3%82%BD%E3%83%BC%E3%83%AB%E3%81%A7%E3%81%AE%E3%82%AD%E3%83%BC%E3%83%9C%E3%83%BC%E3%83%89%E8%A8%AD%E5%AE%9A|https://wiki.archlinux.jp/index.php/%E3%82%B3%E3%83%B3%E3%82%BD%E3%83%BC%E3%83%AB%E3%[…]%82%AD%E3%83%BC%E3%83%9C%E3%83%BC%E3%83%89%E8%A8%AD%E5%AE%9A>\n• <https://wiki.archlinux.jp/index.php/Xorg_%E3%81%A7%E3%81%AE%E3%82%AD%E3%83%BC%E3%83%9C%E3%83%BC%E3%83%89%E8%A8%AD%E5%AE%9A>\nちなみに、Xorg環境のみでusにリセットされ、仮想ターミナル(Alt+F2とかの画面)に入ってるときはキーレイアウトは変わらないみたいです",
+      "user": "UAPRYSVPS",
+      "ts": "1664171391.300809",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "z1m",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "そちらのページともう一つ（Xorg でのキーボード設定）のキーボードレイアウト系ArchWikiは一応見てるんですけど、原因がよくわからないんですよネ……\n\n"
+                }
+              ]
+            },
+            {
+              "type": "rich_text_list",
+              "elements": [
+                {
+                  "type": "rich_text_section",
+                  "elements": [
+                    {
+                      "type": "link",
+                      "url": "https://wiki.archlinux.jp/index.php/%E3%82%B3%E3%83%B3%E3%82%BD%E3%83%BC%E3%83%AB%E3%81%A7%E3%81%AE%E3%82%AD%E3%83%BC%E3%83%9C%E3%83%BC%E3%83%89%E8%A8%AD%E5%AE%9A",
+                      "text": "https://wiki.archlinux.jp/index.php/%E3%82%B3%E3%83%B3%E3%82%BD%E3%83%BC%E3%83%AB%E3%[…]%82%AD%E3%83%BC%E3%83%9C%E3%83%BC%E3%83%89%E8%A8%AD%E5%AE%9A"
+                    }
+                  ]
+                },
+                {
+                  "type": "rich_text_section",
+                  "elements": [
+                    {
+                      "type": "link",
+                      "url": "https://wiki.archlinux.jp/index.php/Xorg_%E3%81%A7%E3%81%AE%E3%82%AD%E3%83%BC%E3%83%9C%E3%83%BC%E3%83%89%E8%A8%AD%E5%AE%9A"
+                    }
+                  ]
+                }
+              ],
+              "style": "bullet",
+              "indent": 0,
+              "border": 0
+            },
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "\nちなみに、Xorg環境のみでusにリセットされ、仮想ターミナル(Alt+F2とかの画面)に入ってるときはキーレイアウトは変わらないみたいです"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "45947b7b-9ea8-4399-82cc-58be087767b1",
+      "type": "message",
+      "text": "<https://wiki.archlinux.jp/index.php/%E3%82%B3%E3%83%B3%E3%82%BD%E3%83%BC%E3%83%AB%E3%81%A7%E3%81%AE%E3%82%AD%E3%83%BC%E3%83%9C%E3%83%BC%E3%83%89%E8%A8%AD%E5%AE%9A|https://wiki.archlinux.jp/index.php/%E3%82%B3%E3%83%B3%E3%82%BD%E3%83%BC%E3%83%AB%E3%81%A7%E3%81%AE%E3%82%AD%E3%83%BC%E3%83%9C%E3%83%BC%E3%83%89%E8%A8%AD%E5%AE%9A>\nこのページが助かるかも？",
+      "user": "weiliang1503",
+      "ts": "1664170232.385339",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "7KNm",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "link",
+                  "url": "https://wiki.archlinux.jp/index.php/%E3%82%B3%E3%83%B3%E3%82%BD%E3%83%BC%E3%83%AB%E3%81%A7%E3%81%AE%E3%82%AD%E3%83%BC%E3%83%9C%E3%83%BC%E3%83%89%E8%A8%AD%E5%AE%9A",
+                  "text": "https://wiki.archlinux.jp/index.php/%E3%82%B3%E3%83%B3%E3%82%BD%E3%83%BC%E3%83%AB%E3%81%A7%E3%81%AE%E3%82%AD%E3%83%BC%E3%83%9C%E3%83%BC%E3%83%89%E8%A8%AD%E5%AE%9A"
+                },
+                {
+                  "type": "text",
+                  "text": "\nこのページが助かるかも？"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "1dbb408f-3d64-4cf2-9ef8-19a90eadec3e",
+      "type": "message",
+      "text": "Xorg環境(AwesomeWM)でキーボードをつなぎ直すとキーマップがus配列になってしまうのですがどなたか見当つきますか……？ localectlとかは常にjp106になっているのですけれども、、、\nfcitx5/mozc使ってますが、fcitxが裏で動いていなくても、キーボード再接続でus配列になります:cry: GUIからfcitx再起動したりするとjp配列に戻ります、、",
+      "user": "UAPRYSVPS",
+      "ts": "1664165768.233109",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "RvHu",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "Xorg環境(AwesomeWM)でキーボードをつなぎ直すとキーマップがus配列になってしまうのですがどなたか見当つきますか……？ localectlとかは常にjp106になっているのですけれども、、、\nfcitx5/mozc使ってますが、fcitxが裏で動いていなくても、キーボード再接続でus配列になります"
+                },
+                {
+                  "type": "emoji",
+                  "name": "cry",
+                  "unicode": "1f622"
+                },
+                {
+                  "type": "text",
+                  "text": " GUIからfcitx再起動したりするとjp配列に戻ります、、"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "message",
+      "subtype": "channel_join",
+      "ts": "1663978045.322299",
+      "user": "U043JKPPGBG",
+      "text": "<@U043JKPPGBG>さんがチャンネルに参加しました",
+      "reactions": [
+        {
+          "name": "arch-joy",
+          "users": [
+            "a3784197",
+            "s5is",
+            "U0H9QUFA5",
+            "U0GFBAM8U"
+          ],
+          "count": 4
+        },
+        {
+          "name": "archjp-joy",
+          "users": [
+            "U03JYF13SQP",
+            "s5is"
+          ],
+          "count": 2
+        }
+      ]
+    },
+    {
+      "type": "message",
+      "subtype": "bot_message",
+      "text": "<https://archlinux.org/news/removing-python2-from-the-repositories/|Removing python2 from the repositories>\nPython 2 went <https://www.python.org/doc/sunset-python-2/|end of life> January 2020. Since then we have been actively cutting down the number of projects depending on python2 in our repositories, and we have finally been able to drop it from our distribution. If you still have python2 installed on your system consider removing it and any python2 package.\nIf you still require the python2 package you can keep it around, but please be aware that there will be no security updates. If...",
+      "ts": "1663924174.322339",
+      "username": "Arch Linux: Recent news updates",
+      "icons": {
+        "image_36": "https://a.slack-edge.com/80588/img/services/rss_36.png",
+        "image_48": "https://a.slack-edge.com/80588/img/services/rss_48.png",
+        "image_72": "https://a.slack-edge.com/80588/img/services/rss_72.png"
+      },
+      "bot_id": "B3WNLSQ4W",
+      "attachments": [
+        {
+          "from_url": "https://www.python.org/doc/sunset-python-2/",
+          "thumb_url": "https://www.python.org/static/opengraph-icon-200x200.png",
+          "thumb_width": 200,
+          "thumb_height": 200,
+          "service_icon": "https://www.python.org/static/apple-touch-icon-precomposed.png",
+          "id": 1,
+          "original_url": "https://www.python.org/doc/sunset-python-2/",
+          "fallback": "Python.org: Sunsetting Python 2",
+          "text": "The official home of the Python Programming Language",
+          "title": "Sunsetting Python 2",
+          "title_link": "https://www.python.org/doc/sunset-python-2/",
+          "service_name": "Python.org"
+        }
+      ],
+      "edited": {
+        "user": "B3WNLSQ4W",
+        "ts": "1663924175.000000"
+      },
+      "reactions": [
+        {
+          "name": "pray",
+          "users": [
+            "UGA29R3FH",
+            "U0PM6EYR1",
+            "UH7SC74AE",
+            "buzz.taiki",
+            "a3784197",
+            "UJ7P75WB1",
+            "U03JYF13SQP",
+            "s5is"
+          ],
+          "count": 8
+        }
+      ]
+    },
+    {
+      "client_msg_id": "083a5948-be49-4baf-8e5a-ef26906dd4ad",
+      "type": "message",
+      "text": "関係ないけど、アンカーしてるのにページの最後の方だからどこを指してるのかわからない問題いい加減どうにかして欲しい",
+      "user": "U70QDFN82",
+      "ts": "1663812174.039289",
+      "team": "T0GFBAM8C",
+      "edited": {
+        "user": "U70QDFN82",
+        "ts": "1663812220.000000"
+      },
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "hlq",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "関係ないけど、アンカーしてるのにページの最後の方だからどこを指してるのかわからない問題いい加減どうにかして欲しい"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "46f3e213-95c2-4a43-8a4f-70dfe7d24d79",
+      "type": "message",
+      "text": "<https://wiki.archlinux.jp/index.php/Sway#Unable_to_open_wayland_socket>\n最近、自宅で sway が起動できないと思ったらこれかー。やっぱり、ArchWiki 写経はためになる。",
+      "user": "U0H9QUFA5",
+      "ts": "1663811945.669739",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "+vUGB",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "link",
+                  "url": "https://wiki.archlinux.jp/index.php/Sway#Unable_to_open_wayland_socket"
+                },
+                {
+                  "type": "text",
+                  "text": "\n最近、自宅で sway が起動できないと思ったらこれかー。やっぱり、ArchWiki 写経はためになる。"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "message",
+      "subtype": "channel_join",
+      "ts": "1663579551.349659",
+      "user": "U04302AEB8U",
+      "text": "<@U04302AEB8U>さんがチャンネルに参加しました",
+      "reactions": [
+        {
+          "name": "archjp-joy",
+          "users": [
+            "U03JYF13SQP",
+            "U0GFBAM8U",
+            "a3784197"
+          ],
+          "count": 3
+        }
+      ]
+    },
+    {
+      "client_msg_id": "9078449d-4ee4-4cd7-9009-aea25b398db4",
+      "type": "message",
+      "text": "<@UUWBU08TU> ありがとうございます。今度試してみます。:bow:",
+      "user": "U041F8GDZL7",
+      "ts": "1663556947.799659",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "tft",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "user",
+                  "user_id": "UUWBU08TU"
+                },
+                {
+                  "type": "text",
+                  "text": " ありがとうございます。今度試してみます。"
+                },
+                {
+                  "type": "emoji",
+                  "name": "bow",
+                  "unicode": "1f647"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "message",
+      "subtype": "channel_join",
+      "ts": "1663518576.141249",
+      "user": "U0438EM0Z5F",
+      "text": "<@U0438EM0Z5F>さんがチャンネルに参加しました",
+      "reactions": [
+        {
+          "name": "archjp-joy",
+          "users": [
+            "U03JYF13SQP",
+            "U0GFBAM8U",
+            "a3784197"
+          ],
+          "count": 3
+        }
+      ]
+    },
+    {
+      "client_msg_id": "bca397c5-6a25-4ed1-8547-f984389f17af",
+      "type": "message",
+      "text": "`[[` と `]]` で囲んでください (`[[en:Special:PermanentLink/745549]]`)。",
+      "user": "UUWBU08TU",
+      "ts": "1663487060.461519",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "YBw",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "[[",
+                  "style": {
+                    "code": true
+                  }
+                },
+                {
+                  "type": "text",
+                  "text": " と "
+                },
+                {
+                  "type": "text",
+                  "text": "]]",
+                  "style": {
+                    "code": true
+                  }
+                },
+                {
+                  "type": "text",
+                  "text": " で囲んでください ("
+                },
+                {
+                  "type": "text",
+                  "text": "[[en:Special:PermanentLink/745549]]",
+                  "style": {
+                    "code": true
+                  }
+                },
+                {
+                  "type": "text",
+                  "text": ")。"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "53937c5e-cf6a-431f-ab65-2d42292be5bb",
+      "type": "message",
+      "text": "wikiの変更履歴ですが、en:Special:PermanentLink/745549 のような文言のハイパーリンクを張るのはどうすればいいのでしょうか？ (例えば Systemdの変更履歴のようなリンクです)\n単に編集内容の要約に en:Special:PermanentLink/745549 と書くだけではリンクが張られず。。",
+      "user": "U041F8GDZL7",
+      "ts": "1663486985.419599",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "AH5y",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "wikiの変更履歴ですが、en:Special:PermanentLink/745549 のような文言のハイパーリンクを張るのはどうすればいいのでしょうか？ (例えば Systemdの変更履歴のようなリンクです)\n単に編集内容の要約に en:Special:PermanentLink/745549 と書くだけではリンクが張られず。。"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "5EF95770-64B0-46D9-83EC-1FDE100FD171",
+      "type": "message",
+      "text": "なるほど 有難う御座います:bow:\n随時自身も追加していこうと思います",
+      "user": "v3rn3j",
+      "ts": "1663472582.243189",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "orhlT",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "なるほど 有難う御座います"
+                },
+                {
+                  "type": "emoji",
+                  "name": "bow",
+                  "unicode": "1f647"
+                },
+                {
+                  "type": "text",
+                  "text": "\n"
+                },
+                {
+                  "type": "text",
+                  "text": "随時自身も追加していこうと思います"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "988d74e1-9cbe-472d-b191-a75827d58e6b",
+      "type": "message",
+      "text": "SI仕事してると、（ほげほげ）区分とかがアホほど追加されてく",
+      "user": "U0H9QUFA5",
+      "ts": "1663472510.887029",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "1eK",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "SI仕事してると、（ほげほげ）区分とかがアホほど追加されてく"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "reactions": [
+        {
+          "name": "warau",
+          "users": [
+            "UGA29R3FH"
+          ],
+          "count": 1
+        }
+      ]
+    },
+    {
+      "client_msg_id": "a7217bce-98b9-4531-a510-1e004ffd7b07",
+      "type": "message",
+      "text": "IMEの中ではかなり辞書登録しやすい方なので活用しない手はない",
+      "user": "UGA29R3FH",
+      "ts": "1663472436.798889",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "aIH",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "IMEの中ではかなり辞書登録しやすい方なので活用しない手はない"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "reactions": [
+        {
+          "name": "sorena",
+          "users": [
+            "U0H9QUFA5",
+            "yasunori.kirin0418"
+          ],
+          "count": 2
+        }
+      ]
+    },
+    {
+      "client_msg_id": "26082e8d-5b07-4ea0-8490-7c582f1c3f11",
+      "type": "message",
+      "text": "変換できないときにバンバン辞書登録していくのがコツです。",
+      "user": "U0H9QUFA5",
+      "ts": "1663472392.513719",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "MxKF",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "変換できないときにバンバン辞書登録していくのがコツです。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "reactions": [
+        {
+          "name": "desune",
+          "users": [
+            "UGA29R3FH",
+            "buzz.taiki"
+          ],
+          "count": 2
+        }
+      ]
+    },
+    {
+      "client_msg_id": "9af3c3d5-15e8-4058-a130-923737bae363",
+      "type": "message",
+      "text": "はい",
+      "user": "U0H9QUFA5",
+      "ts": "1663472355.307929",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "vdR",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "はい"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "B45F01DF-C3A5-45E1-9241-B1458E8672A0",
+      "type": "message",
+      "text": "寝る前に質問させていただきさっき起きて試して見たところ出来ました\n有難う御座います\n\n漢字のところを抜ける際に再度大文字にしていくのが送り仮名入力時の方法という認識であっていますか?\n",
+      "user": "v3rn3j",
+      "ts": "1663472339.360719",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "Cuv3C",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "寝る前に質問させていただきさっき起きて試して見たところ出来ました"
+                },
+                {
+                  "type": "text",
+                  "text": "\n"
+                },
+                {
+                  "type": "text",
+                  "text": "有難う御座います"
+                },
+                {
+                  "type": "text",
+                  "text": "\n"
+                },
+                {
+                  "type": "text",
+                  "text": "\n漢字のところを抜ける際に再度大文字にしていくのが送り仮名入力時の方法という認識であっていますか?"
+                },
+                {
+                  "type": "text",
+                  "text": "\n"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "391ae9a4-51b5-42b5-b9f9-37db844cbd88",
+      "type": "message",
+      "text": "キーボードない環境で答えられないなあ。脊椎反射で打ってるから。",
+      "user": "U0H9QUFA5",
+      "ts": "1663472272.185029",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "qHIIo",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "キーボードない環境で答えられないなあ。脊椎反射で打ってるから。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "reactions": [
+        {
+          "name": "wakaru",
+          "users": [
+            "yasunori.kirin0418"
+          ],
+          "count": 1
+        }
+      ]
+    },
+    {
+      "client_msg_id": "b25c4377-d233-45d9-bdc0-20d648a099b6",
+      "type": "message",
+      "text": "で、行けると思う\n携帯からだから上手く伝えられてる気がしないけど……",
+      "user": "yasunori.kirin0418",
+      "ts": "1663468696.702629",
+      "team": "T0GFBAM8C",
+      "edited": {
+        "user": "yasunori.kirin0418",
+        "ts": "1663468710.000000"
+      },
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "nTu",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "で、行けると思う\n携帯からだから上手く伝えられてる気がしないけど……"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "2e036410-76df-4a65-87bf-a64a822f1f69",
+      "type": "message",
+      "text": "sticky shiftなら\n;kyou ha;sakka-q ;kansen ;tano;sikatta",
+      "user": "yasunori.kirin0418",
+      "ts": "1663468658.043029",
+      "team": "T0GFBAM8C",
+      "edited": {
+        "user": "yasunori.kirin0418",
+        "ts": "1663472218.000000"
+      },
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "hRHf",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "sticky shiftなら\n;kyou ha;sakka-q ;kansen ;tano;sikatta"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "06283650-c052-4a80-86aa-65311ad3cddc",
+      "type": "message",
+      "text": "sticky shift以外使えない体にされてしまった",
+      "user": "UGA29R3FH",
+      "ts": "1663468567.032949",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "y=R4",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "sticky shift以外使えない体にされてしまった"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "reactions": [
+        {
+          "name": "wakaru",
+          "users": [
+            "yasunori.kirin0418"
+          ],
+          "count": 1
+        }
+      ]
+    },
+    {
+      "client_msg_id": "3a981800-a706-4d7b-8984-c6c0b45b064e",
+      "type": "message",
+      "text": "shift使うのがSKKの基本のキではあるんだけど、\n個人的には結構大変でsticky shiftばっかり使っちゃいますね。",
+      "user": "yasunori.kirin0418",
+      "ts": "1663468538.671309",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "zxUSG",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "shift使うのがSKKの基本のキではあるんだけど、\n個人的には結構大変でsticky shiftばっかり使っちゃいますね。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "reactions": [
+        {
+          "name": "me-too",
+          "users": [
+            "UGA29R3FH"
+          ],
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "message",
+      "subtype": "bot_message",
+      "text": "",
+      "ts": "1663456705.574049",
+      "bot_id": "B021YB9R1EG",
+      "attachments": [
+        {
+          "from_url": "https://twitter.com/archlinux_jp/status/1571277398766931968",
+          "ts": 1663456699,
+          "id": 1,
+          "fallback": "<https://twitter.com/archlinux_jp|@archlinux_jp>: Arch Linux メーリングリストの変更 <https://www.archlinux.jp/news/arch-linux-mailing-list-changes/>",
+          "text": "Arch Linux メーリングリストの変更 <https://www.archlinux.jp/news/arch-linux-mailing-list-changes/>",
+          "pretext": "<https://twitter.com/archlinux_jp/status/1571277398766931968>",
+          "author_name": "Arch Linux JP",
+          "author_link": "https://twitter.com/archlinux_jp/status/1571277398766931968",
+          "author_icon": "https://pbs.twimg.com/profile_images/678900104678342656/2w2dw7Fp_normal.png",
+          "author_subname": "@archlinux_jp",
+          "service_name": "twitter",
+          "service_url": "https://twitter.com/",
+          "footer": "Twitter",
+          "footer_icon": "https://a.slack-edge.com/80588/img/services/twitter_pixel_snapped_32.png"
+        }
+      ]
+    },
+    {
+      "client_msg_id": "e05d4282-7f26-4b8f-acf1-2680ae021eb6",
+      "type": "message",
+      "text": "KyouHaSakka-qKansen&lt;space&gt;TanoSikatta\nで入力出来ました\nfcitx5-skk skk-jisyo",
+      "user": "U3FJYR7MG",
+      "ts": "1663446524.854209",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "dnql",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "KyouHaSakka-qKansen<space>TanoSikatta\nで入力出来ました\nfcitx5-skk skk-jisyo"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "message",
+      "text": "skk-jisyo パッケージが入っていないとかですかね？",
+      "user": "U257W41DW",
+      "ts": "1663443849.459259",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "SqkNa",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "skk-jisyo パッケージが入っていないとかですかね？"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "message",
+      "text": "TanoSi→katta で入力できませんか？",
+      "user": "U257W41DW",
+      "ts": "1663443591.480409",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "Z3SMm",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "TanoSi→katta で入力できませんか？"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "1872377F-410F-4695-A8F4-50930CE460B9",
+      "type": "message",
+      "text": "こんな深夜か早朝がわからない時間にarchの本筋とは違う質問すみません\narchやvimユーザーが以前から話題に上げていたSKKの興味を持ち自身もブログ記事等々参考にし導入した次第です\n感触として違和感はあるものの慣れれば使いやすそうと言った感じですが一つ疑問があります\n\n参考にしたサイト:<https://emacs-jp.github.io/tips/skk-intro|https://emacs-jp.github.io/tips/skk-intro>\n\n例えば、*今日はサッカー観戦楽しかった。*\n\nこの場合\n`Kyou→ha→qにてカナ→sattka-→qにてひらがな→Kansen→???`\nと*楽しかった*の入力方法がわからない次第です。無論`Raku→sikattta`も考えましたが上記サイトだと*行った*は`ITta`と入力しており送り仮名をどうしているのかを知りたいです！(辞書機能は知っていますがキリがなさそう…)\nこう言った送り仮名の辞書セットがあるのかはたまた何かtipsというか知らない方法があるのか愚直に登録していくのか\nskkユーザーの方教えて下さい:bow:",
+      "user": "v3rn3j",
+      "ts": "1663443045.597349",
+      "team": "T0GFBAM8C",
+      "attachments": [
+        {
+          "from_url": "https://emacs-jp.github.io/tips/skk-intro",
+          "ts": 1599663600,
+          "thumb_url": "https://emacs-jp.github.io/images/emacs-jp.png",
+          "thumb_width": 420,
+          "thumb_height": 420,
+          "service_icon": "https://emacs-jp.github.io/images/emacs-jp_72x72.png",
+          "id": 1,
+          "original_url": "https://emacs-jp.github.io/tips/skk-intro",
+          "fallback": "Emacs JP: かな漢字変換プログラム SKK の紹介",
+          "text": "日本のEmacsユーザーのためのハブサイト",
+          "title": "かな漢字変換プログラム SKK の紹介",
+          "title_link": "https://emacs-jp.github.io/tips/skk-intro",
+          "service_name": "Emacs JP"
+        }
+      ],
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "cP=4Y",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "こんな深夜か早朝がわからない時間にarchの本筋とは違う質問すみません"
+                },
+                {
+                  "type": "text",
+                  "text": "\n"
+                },
+                {
+                  "type": "text",
+                  "text": "archやvimユーザーが以前から話題に上げていたSKKの興味を持ち自身もブログ記事等々参考にし導入した次第です"
+                },
+                {
+                  "type": "text",
+                  "text": "\n"
+                },
+                {
+                  "type": "text",
+                  "text": "感触として違和感はあるものの慣れれば使いやすそうと言った感じですが一つ疑問があります"
+                },
+                {
+                  "type": "text",
+                  "text": "\n"
+                },
+                {
+                  "type": "text",
+                  "text": "\n参考にしたサイト:"
+                },
+                {
+                  "type": "link",
+                  "url": "https://emacs-jp.github.io/tips/skk-intro",
+                  "text": "https://emacs-jp.github.io/tips/skk-intro"
+                },
+                {
+                  "type": "text",
+                  "text": "\n"
+                },
+                {
+                  "type": "text",
+                  "text": "\n例えば、"
+                },
+                {
+                  "type": "text",
+                  "text": "今日はサッカー観戦楽しかった。\n\n",
+                  "style": {
+                    "bold": true
+                  }
+                },
+                {
+                  "type": "text",
+                  "text": "この場合"
+                },
+                {
+                  "type": "text",
+                  "text": "\n"
+                },
+                {
+                  "type": "text",
+                  "text": "Kyou→ha→qにてカナ→sattka-→qにてひらがな→Kansen→???",
+                  "style": {
+                    "code": true
+                  }
+                },
+                {
+                  "type": "text",
+                  "text": "\n"
+                },
+                {
+                  "type": "text",
+                  "text": "と"
+                },
+                {
+                  "type": "text",
+                  "text": "楽しかった",
+                  "style": {
+                    "bold": true
+                  }
+                },
+                {
+                  "type": "text",
+                  "text": "の入力方法がわからない次第です。無論"
+                },
+                {
+                  "type": "text",
+                  "text": "Raku→sikattta",
+                  "style": {
+                    "code": true
+                  }
+                },
+                {
+                  "type": "text",
+                  "text": "も考えましたが上記サイトだと"
+                },
+                {
+                  "type": "text",
+                  "text": "行った",
+                  "style": {
+                    "bold": true
+                  }
+                },
+                {
+                  "type": "text",
+                  "text": "は"
+                },
+                {
+                  "type": "text",
+                  "text": "ITta",
+                  "style": {
+                    "code": true
+                  }
+                },
+                {
+                  "type": "text",
+                  "text": "と入力しており送り仮名をどうしているのかを知りたいです！(辞書機能は知っていますがキリがなさそう…)"
+                },
+                {
+                  "type": "text",
+                  "text": "\n"
+                },
+                {
+                  "type": "text",
+                  "text": "こう言った送り仮名の辞書セットがあるのかはたまた何かtipsというか知らない方法があるのか愚直に登録していくのか"
+                },
+                {
+                  "type": "text",
+                  "text": "\n"
+                },
+                {
+                  "type": "text",
+                  "text": "skkユーザーの方教えて下さい"
+                },
+                {
+                  "type": "emoji",
+                  "name": "bow",
+                  "unicode": "1f647"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "message",
+      "subtype": "bot_message",
+      "text": "<https://archlinux.org/news/arch-linux-mailing-list-changes/|Arch Linux mailing list changes>\nAs part of <https://archlinux.org/todo/conversion-of-programs-that-use-python-2-to-python-3/|dropping Python 2> which is EOL, we have migrated our mailing lists from mailman2 to mailman3.\nRewriting of the \"From\" header and subject (to prepend the list name) have been disabled to keep the DKIM signature intact. This means \"<https://wiki.archlinux.org/title/General_guidelines#Reply_to_the_mailing_list|reply to mailing list>\" must be used when replying to the list and you...",
+      "ts": "1663335573.455979",
+      "username": "Arch Linux: Recent news updates",
+      "icons": {
+        "image_36": "https://a.slack-edge.com/80588/img/services/rss_36.png",
+        "image_48": "https://a.slack-edge.com/80588/img/services/rss_48.png",
+        "image_72": "https://a.slack-edge.com/80588/img/services/rss_72.png"
+      },
+      "bot_id": "B3WNLSQ4W"
+    },
+    {
+      "type": "message",
+      "subtype": "thread_broadcast",
+      "text": "kusanaginoturugiさんに覚えていただいていて光栄です。\n(QEMUをやっつけたいなと思っています)\nこちらこそよろしくお願いします。:slightly_smiling_face:",
+      "user": "U041F8GDZL7",
+      "ts": "1663324595.409709",
+      "thread_ts": "1663217741.273699",
+      "root": {
+        "client_msg_id": "d81d6b74-142c-4c2a-ae25-11c72bda6956",
+        "type": "message",
+        "text": "k9i さんってあの k9i さん？",
+        "user": "U0H9QUFA5",
+        "ts": "1663217741.273699",
+        "team": "T0GFBAM8C",
+        "blocks": [
+          {
+            "type": "rich_text",
+            "block_id": "uYg",
+            "elements": [
+              {
+                "type": "rich_text_section",
+                "elements": [
+                  {
+                    "type": "text",
+                    "text": "k9i さんってあの k9i さん？"
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "thread_ts": "1663217741.273699",
+        "reply_count": 4,
+        "reply_users_count": 2,
+        "latest_reply": "1663324595.409709",
+        "reply_users": [
+          "U041F8GDZL7",
+          "U0H9QUFA5"
+        ],
+        "is_locked": false,
+        "subscribed": false
+      },
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "ZJV==",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "kusanaginoturugiさんに覚えていただいていて光栄です。\n(QEMUをやっつけたいなと思っています)\nこちらこそよろしくお願いします。"
+                },
+                {
+                  "type": "emoji",
+                  "name": "slightly_smiling_face",
+                  "unicode": "1f642"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "client_msg_id": "e14d4f64-d611-49c5-b6ea-1664e3680b54"
+    },
+    {
+      "client_msg_id": "fb339c28-ef4e-4f5f-bddf-5764600b939e",
+      "type": "message",
+      "text": "slack初心者なもので書き込み方よく分かっておりません。。変な書き方したらご指摘頂けると助かります。(_ _)",
+      "user": "U041F8GDZL7",
+      "ts": "1663324107.210129",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "HJCy",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "slack初心者なもので書き込み方よく分かっておりません。。変な書き方したらご指摘頂けると助かります。(_ _)"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "reactions": [
+        {
+          "name": "+1",
+          "users": [
+            "U0H9QUFA5",
+            "U3FJYR7MG"
+          ],
+          "count": 2
+        }
+      ]
+    },
+    {
+      "client_msg_id": "d81d6b74-142c-4c2a-ae25-11c72bda6956",
+      "type": "message",
+      "text": "k9i さんってあの k9i さん？",
+      "user": "U0H9QUFA5",
+      "ts": "1663217741.273699",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "uYg",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "k9i さんってあの k9i さん？"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "thread_ts": "1663217741.273699",
+      "reply_count": 4,
+      "reply_users_count": 2,
+      "latest_reply": "1663324595.409709",
+      "reply_users": [
+        "U041F8GDZL7",
+        "U0H9QUFA5"
+      ],
+      "is_locked": false,
+      "subscribed": false,
+      "reactions": [
+        {
+          "name": "sugoi",
+          "users": [
+            "U03JYF13SQP"
+          ],
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "message",
+      "subtype": "channel_join",
+      "ts": "1663168115.144479",
+      "user": "U042A4PESSZ",
+      "text": "<@U042A4PESSZ>さんがチャンネルに参加しました"
+    },
+    {
+      "type": "message",
+      "subtype": "channel_join",
+      "ts": "1663053384.157119",
+      "user": "U0421EKLPE1",
+      "text": "<@U0421EKLPE1>さんがチャンネルに参加しました",
+      "reactions": [
+        {
+          "name": "archjp-joy",
+          "users": [
+            "buzz.taiki"
+          ],
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "message",
+      "subtype": "channel_join",
+      "ts": "1662862394.045679",
+      "user": "U041PJS3EBY",
+      "text": "<@U041PJS3EBY>さんがチャンネルに参加しました"
+    },
+    {
+      "type": "message",
+      "subtype": "channel_join",
+      "ts": "1662834919.959169",
+      "user": "U041F8GDZL7",
+      "text": "<@U041F8GDZL7>さんがチャンネルに参加しました",
+      "reactions": [
+        {
+          "name": "archjp-joy",
+          "users": [
+            "U03JYF13SQP",
+            "U0H9QUFA5",
+            "U0421EKLPE1",
+            "UCA1NQM5K",
+            "U027RN1LZT6",
+            "buzz.taiki",
+            "a3784197"
+          ],
+          "count": 7
+        },
+        {
+          "name": "bow",
+          "users": [
+            "U041F8GDZL7"
+          ],
+          "count": 1
+        }
+      ]
+    },
+    {
+      "client_msg_id": "2d46e2cc-d478-4a72-985d-440dc6a47054",
+      "type": "message",
+      "text": "ありがとうございます",
+      "user": "linuxmetel",
+      "ts": "1662804984.992849",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "G4pM",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "ありがとうございます"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "reactions": [
+        {
+          "name": "ok",
+          "users": [
+            "UUWBU08TU"
+          ],
+          "count": 1
+        }
+      ]
+    },
+    {
+      "client_msg_id": "43930871-f852-4941-b6e5-26207584f4a0",
+      "type": "message",
+      "text": "いいですよー",
+      "user": "UUWBU08TU",
+      "ts": "1662804931.802969",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "Rm+u",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "いいですよー"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "reactions": [
+        {
+          "name": "+1",
+          "users": [
+            "linuxmetel"
+          ],
+          "count": 1
+        }
+      ]
+    },
+    {
+      "client_msg_id": "76bad204-b28e-4e6d-bd64-b8a24974aea4",
+      "type": "message",
+      "text": "ArchWiki についてなんですが、 ArchWiki での Wikipedia へのリンクについて英語版ではなく日本語版のページもある場合はそちらに変えて良さそうですか? (ほとんどが英語版のリンクのままになっているので、理由があって変えてはいけなかったりするのか気になったので)",
+      "user": "linuxmetel",
+      "ts": "1662804906.934549",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "0D1sh",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "ArchWiki についてなんですが、 ArchWiki での Wikipedia へのリンクについて英語版ではなく日本語版のページもある場合はそちらに変えて良さそうですか? (ほとんどが英語版のリンクのままになっているので、理由があって変えてはいけなかったりするのか気になったので)"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "thread_ts": "1662804906.934549",
+      "reply_count": 1,
+      "reply_users_count": 1,
+      "latest_reply": "1662806999.305379",
+      "reply_users": [
+        "U0H9QUFA5"
+      ],
+      "is_locked": false,
+      "subscribed": false
+    },
+    {
+      "type": "message",
+      "text": "WM の投票、r/linuxmasterrace に今年だけでも 7, 8 個ありますね。",
+      "user": "U257W41DW",
+      "ts": "1662803115.789429",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "CWMe",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "WM の投票、r/linuxmasterrace に今年だけでも 7, 8 個ありますね。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "reactions": [
+        {
+          "name": "hee",
+          "users": [
+            "U70QDFN82"
+          ],
+          "count": 1
+        }
+      ]
+    },
+    {
+      "client_msg_id": "daf787f2-4a4b-42c9-badd-b83935073751",
+      "type": "message",
+      "text": "うーんだめだ。やっぱり見つからないです。。。ありがとうございます。\nRedditでVoteしたやつ一覧見れれば一番いいんだけどないんだよな・・・",
+      "user": "U70QDFN82",
+      "ts": "1662789298.030369",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "lIfZ",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "うーんだめだ。やっぱり見つからないです。。。ありがとうございます。\nRedditでVoteしたやつ一覧見れれば一番いいんだけどないんだよな・・・"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "dcbe05e6-11ad-4ec3-bb57-a0c5a5f8efe8",
+      "type": "message",
+      "text": "記憶ではx11とwaylandの話どっかであった気もする...",
+      "user": "U0GFBAM8U",
+      "ts": "1662789013.909489",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "xuSI",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "記憶ではx11とwaylandの話どっかであった気もする..."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "reactions": [
+        {
+          "name": "wakaru",
+          "users": [
+            "U70QDFN82"
+          ],
+          "count": 1
+        }
+      ]
+    },
+    {
+      "client_msg_id": "17dacd00-9953-4f3c-bf1a-065408abf187",
+      "type": "message",
+      "text": "フォーム入れるとき最後の01は抜きます。これで出てこなかったら、多分、ないですね。",
+      "user": "U0GFBAM8U",
+      "ts": "1662788929.785819",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "EF0y3",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "フォーム入れるとき最後の01は抜きます。これで出てこなかったら、多分、ないですね。"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "848fcb7d-95d3-4eaf-b114-e172ff5ef3ce",
+      "type": "message",
+      "text": "vim-jpではLinux関係のアンケートは見ないですね",
+      "user": "UGA29R3FH",
+      "ts": "1662788905.878439",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "FtLCn",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "vim-jpではLinux関係のアンケートは見ないですね"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "62f44761-7df8-4709-9501-f0f3a315ef1c",
+      "type": "message",
+      "text": "```grep -R \"reddit\" .|cut -d _ -f 1|sort|uniq\n./20200501\n./20201001\n./20201101\n./20210301\n./20210601\n./20211001\n./20211201\n./20220101\n./20220201\n./20220301\n./20220501\n./20220601```",
+      "user": "U0GFBAM8U",
+      "ts": "1662788886.762029",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "=gx",
+          "elements": [
+            {
+              "type": "rich_text_preformatted",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "grep -R \"reddit\" .|cut -d _ -f 1|sort|uniq\n./20200501\n./20201001\n./20201101\n./20210301\n./20210601\n./20211001\n./20211201\n./20220101\n./20220201\n./20220301\n./20220501\n./20220601"
+                }
+              ],
+              "border": 0
+            }
+          ]
+        }
+      ],
+      "reactions": [
+        {
+          "name": "eyes",
+          "users": [
+            "U70QDFN82"
+          ],
+          "count": 1
+        }
+      ]
+    },
+    {
+      "client_msg_id": "4df6c45a-124f-49d4-9e22-e5a4411cc7cb",
+      "type": "message",
+      "text": "waylandはつらいという話をちょっと前にした",
+      "user": "UGA29R3FH",
+      "ts": "1662788870.915369",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "fJBB",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "waylandはつらいという話をちょっと前にした"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "93DF2A79-89E1-47B0-9A36-009EECE50833",
+      "type": "message",
+      "text": "vim-jp、たまにwaylandの話出てた気がする",
+      "user": "U0GFBAM8U",
+      "ts": "1662788794.199549",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "TFB",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "vim-jp、たまにwaylandの話出てた気がする"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "b8ed888c-a5df-44da-8832-215eb7265ecc",
+      "type": "message",
+      "text": "他のSlackだとWMの話とかしないですね（オタクだと思われちゃうから）",
+      "user": "U70QDFN82",
+      "ts": "1662788746.868359",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "2jd",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "他のSlackだとWMの話とかしないですね（オタクだと思われちゃうから）"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "E4809CD6-B829-447A-852B-A4D141BFE96C",
+      "type": "message",
+      "text": "他のslackかも",
+      "user": "U0GFBAM8U",
+      "ts": "1662788678.786749",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "wdiG",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "他のslackかも"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "708ec1a1-2b69-46b4-9881-9482213b709d",
+      "type": "message",
+      "text": "全然見つからない・・・諦めよう・・・",
+      "user": "U70QDFN82",
+      "ts": "1662788581.702429",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "0kZ+",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "全然見つからない・・・諦めよう・・・"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "d35e0ab1-86c2-46ff-a5ae-b7bbfa8f94d0",
+      "type": "message",
+      "text": "いつの間にやら復活してら",
+      "user": "UGA29R3FH",
+      "ts": "1662765530.367539",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "yMp",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "いつの間にやら復活してら"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "0940f21d-c50e-407b-95eb-5cdbf82628e3",
+      "type": "message",
+      "text": "なのでこっちからも見てみるといいかも\n<https://archlinuxjp.github.io/slacklog/>",
+      "user": "U0GFBAM8U",
+      "ts": "1662765503.253039",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "3sma",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "なのでこっちからも見てみるといいかも\n"
+                },
+                {
+                  "type": "link",
+                  "url": "https://archlinuxjp.github.io/slacklog/"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "50846f18-874f-4082-90f9-4b10b9ebb211",
+      "type": "message",
+      "text": "アンケート関連はこの辺\n```./20220101_general-2.json:      \"text\": \"またいつものアンケートやってますね\\n&lt;<https://www.reddit.com/r/archlinux/comments/rwkwfr/yay_or_paru/>&gt;\",\n./20220101_general-2.json:                  \"text\": \"またいつものアンケートやってますね\\n\"\n./20210601_random-2.json:      \"text\": \"RedditでArchのアンケートやってるので共有しときます\\n&lt;<https://www.reddit.com/r/archlinux/comments/ntkloq/how_often_does_your_install_breaks/>&gt;\",\n./20210601_random-2.json:                  \"text\": \"RedditでArchのアンケートやってるので共有しときます\\n\"\n./20220701_random.json:          \"text\": \"2016年12月、パソコンの様々なトラブル・症状に対する対処法をまとめていく中で、「メーカーによって、不具合の発生率は異なるのか ？」そんな疑問が沸いてきました。そこで、国内3万人のパソコンユーザーを対象にアンケートを実施し、メーカー別の故障\",\n./20210601_general.json:      \"text\": \"RedditでArchのアンケートやってるので共有しときます\\n&lt;<https://www.reddit.com/r/archlinux/comments/ntkloq/how_often_does_your_install_breaks/>&gt;\",\n./20210601_general.json:                  \"text\": \"RedditでArchのアンケートやってるので共有しときます\\n\"\n./20220101_random-3.json:      \"text\": \"またいつものアンケートやってますね\\n&lt;<https://www.reddit.com/r/archlinux/comments/rwkwfr/yay_or_paru/>&gt;\",\n./20220101_random-3.json:                  \"text\": \"またいつものアンケートやってますね\\n\"\n\n$ grep -R \"アンケート\" .|cut -d : -f 1|cut -d _ -f 1|sort|uniq\n./202106\n./202201\n./202207```",
+      "user": "U0GFBAM8U",
+      "ts": "1662765403.658499",
+      "team": "T0GFBAM8C",
+      "edited": {
+        "user": "U0GFBAM8U",
+        "ts": "1662766192.000000"
+      },
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "WK7O",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "アンケート関連はこの辺\n"
+                }
+              ]
+            },
+            {
+              "type": "rich_text_preformatted",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "./20220101_general-2.json:      \"text\": \"またいつものアンケートやってますね\\n<"
+                },
+                {
+                  "type": "link",
+                  "url": "https://www.reddit.com/r/archlinux/comments/rwkwfr/yay_or_paru/"
+                },
+                {
+                  "type": "text",
+                  "text": ">\",\n./20220101_general-2.json:                  \"text\": \"またいつものアンケートやってますね\\n\"\n./20210601_random-2.json:      \"text\": \"RedditでArchのアンケートやってるので共有しときます\\n<"
+                },
+                {
+                  "type": "link",
+                  "url": "https://www.reddit.com/r/archlinux/comments/ntkloq/how_often_does_your_install_breaks/"
+                },
+                {
+                  "type": "text",
+                  "text": ">\",\n./20210601_random-2.json:                  \"text\": \"RedditでArchのアンケートやってるので共有しときます\\n\"\n./20220701_random.json:          \"text\": \"2016年12月、パソコンの様々なトラブル・症状に対する対処法をまとめていく中で、「メーカーによって、不具合の発生率は異なるのか ？」そんな疑問が沸いてきました。そこで、国内3万人のパソコンユーザーを対象にアンケートを実施し、メーカー別の故障\",\n./20210601_general.json:      \"text\": \"RedditでArchのアンケートやってるので共有しときます\\n<"
+                },
+                {
+                  "type": "link",
+                  "url": "https://www.reddit.com/r/archlinux/comments/ntkloq/how_often_does_your_install_breaks/"
+                },
+                {
+                  "type": "text",
+                  "text": ">\",\n./20210601_general.json:                  \"text\": \"RedditでArchのアンケートやってるので共有しときます\\n\"\n./20220101_random-3.json:      \"text\": \"またいつものアンケートやってますね\\n<"
+                },
+                {
+                  "type": "link",
+                  "url": "https://www.reddit.com/r/archlinux/comments/rwkwfr/yay_or_paru/"
+                },
+                {
+                  "type": "text",
+                  "text": ">\",\n./20220101_random-3.json:                  \"text\": \"またいつものアンケートやってますね\\n\"\n\n$ grep -R \"アンケート\" .|cut -d : -f 1|cut -d _ -f 1|sort|uniq\n./202106\n./202201\n./202207"
+                }
+              ],
+              "border": 0
+            }
+          ]
+        }
+      ],
+      "reactions": [
+        {
+          "name": "eyes",
+          "users": [
+            "U70QDFN82"
+          ],
+          "count": 1
+        }
+      ]
+    },
+    {
+      "client_msg_id": "462316c4-f5c3-43ab-bfb5-dadef707549f",
+      "type": "message",
+      "text": "1年以内のログ漁ったけど、出てこなかったです…",
+      "user": "U0PM6EYR1",
+      "ts": "1662737260.513419",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "DCo",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "1年以内のログ漁ったけど、出てこなかったです…"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "ddb679d4-4dfb-476b-8ad3-b5ae6d626aaf",
+      "type": "message",
+      "text": "私が投稿したポストの中にたぶんWaylandとX11のWMの比率のRedditのアンケートのやつがあってそれが見たいんですよね・・・（１年以内かと）\n検索しても見つからず・・・",
+      "user": "U70QDFN82",
+      "ts": "1662735803.826799",
+      "team": "T0GFBAM8C",
+      "edited": {
+        "user": "U70QDFN82",
+        "ts": "1662735835.000000"
+      },
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "LDmD",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "私が投稿したポストの中にたぶんWaylandとX11のWMの比率のRedditのアンケートのやつがあってそれが見たいんですよね・・・（１年以内かと）\n検索しても見つからず・・・"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "a47b5148-947e-4d11-869e-f682bd74a4c2",
+      "type": "message",
+      "text": "Workspace Admin だから、ログをエクスポートできることに気づいた",
+      "user": "U0PM6EYR1",
+      "ts": "1662735704.489549",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "RZcLN",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "Workspace Admin だから、ログをエクスポートできることに気づいた"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "4933eed0-5ecd-4698-9020-ae7e6af01d0e",
+      "type": "message",
+      "text": "あ、８月のやつがみたいわけじゃないです・・・URL的にたまたま。検索したい",
+      "user": "U70QDFN82",
+      "ts": "1662735699.092859",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "Fgdq8",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "あ、８月のやつがみたいわけじゃないです・・・URL的にたまたま。検索したい"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "57c028e1-0688-498f-9855-2afdc337cce1",
+      "type": "message",
+      "text": "8月なら3ヶ月以内だから、見れないですかね？",
+      "user": "U0PM6EYR1",
+      "ts": "1662735647.136749",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "o=xGy",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "8月なら3ヶ月以内だから、見れないですかね？"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "6dcf5804-7554-453e-a98f-005dd8fbc9b0",
+      "type": "message",
+      "text": "消えたログから掘り出したい情報があるんですけどこれってまだ動いてないですよね・・・\n<https://slack.archlinux.jp/log/2022/08/random/>",
+      "user": "U70QDFN82",
+      "ts": "1662734326.063409",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "8T0",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "消えたログから掘り出したい情報があるんですけどこれってまだ動いてないですよね・・・\n"
+                },
+                {
+                  "type": "link",
+                  "url": "https://slack.archlinux.jp/log/2022/08/random/"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "message",
+      "subtype": "channel_join",
+      "ts": "1662462053.695709",
+      "user": "U0416LMPBA6",
+      "text": "<@U0416LMPBA6>さんがチャンネルに参加しました",
+      "reactions": [
+        {
+          "name": "archjp-joy",
+          "users": [
+            "U03JYF13SQP",
+            "U0GFBAM8U",
+            "a3784197",
+            "U0H9QUFA5",
+            "U042A4PESSZ"
+          ],
+          "count": 5
+        }
+      ]
+    },
+    {
+      "client_msg_id": "18892e18-14c4-4eac-bca8-6c8df57f0570",
+      "type": "message",
+      "text": "慣例てきなものですが、コマンド入力欄の最後の文字が$の時は一般ユーザ、#の時はrootになっていることが多いです\n解説記事なんかでも大抵そのような分類になってるはず",
+      "user": "peony.btn",
+      "ts": "1662297226.603849",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "fsc",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "慣例てきなものですが、コマンド入力欄の最後の文字が$の時は一般ユーザ、#の時はrootになっていることが多いです\n解説記事なんかでも大抵そのような分類になってるはず"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "a8ac5ced-cca0-4c8e-9985-0f39be65ea6b",
+      "type": "message",
+      "text": "ありがとうございます！そういうことなんですね...",
+      "user": "U040ZCXHZ7V",
+      "ts": "1662295973.136369",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "lcNw",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "ありがとうございます！そういうことなんですね..."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "ac36562a-9a42-42d5-ad32-487897423938",
+      "type": "message",
+      "text": "sudo が入ってないだけですね。root で実行してるのであれば sudo は必要ないです。",
+      "user": "UN1SFMNU8",
+      "ts": "1662295024.738819",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "6yeM",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "sudo が入ってないだけですね。root で実行してるのであれば sudo は必要ないです。"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "message",
+      "text": "これって一体何なんでしょうか...?",
+      "files": [
+        {
+          "id": "F041CCAJFBK",
+          "created": 1662294383,
+          "timestamp": 1662294383,
+          "name": "DSC_0884~2.JPG",
+          "title": "DSC_0884~2.JPG",
+          "mimetype": "image/jpeg",
+          "filetype": "jpg",
+          "pretty_type": "JPEG",
+          "user": "U040ZCXHZ7V",
+          "user_team": "T0GFBAM8C",
+          "editable": false,
+          "size": 138256,
+          "mode": "hosted",
+          "is_external": false,
+          "external_type": "",
+          "is_public": true,
+          "public_url_shared": false,
+          "display_as_bot": false,
+          "username": "",
+          "url_private": "https://files.slack.com/files-pri/T0GFBAM8C-F041CCAJFBK/dsc_0884_2.jpg",
+          "url_private_download": "https://files.slack.com/files-pri/T0GFBAM8C-F041CCAJFBK/download/dsc_0884_2.jpg",
+          "media_display_type": "unknown",
+          "thumb_64": "https://files.slack.com/files-tmb/T0GFBAM8C-F041CCAJFBK-004c4ccb29/dsc_0884_2_64.jpg",
+          "thumb_80": "https://files.slack.com/files-tmb/T0GFBAM8C-F041CCAJFBK-004c4ccb29/dsc_0884_2_80.jpg",
+          "thumb_360": "https://files.slack.com/files-tmb/T0GFBAM8C-F041CCAJFBK-004c4ccb29/dsc_0884_2_360.jpg",
+          "thumb_360_w": 360,
+          "thumb_360_h": 46,
+          "thumb_480": "https://files.slack.com/files-tmb/T0GFBAM8C-F041CCAJFBK-004c4ccb29/dsc_0884_2_480.jpg",
+          "thumb_480_w": 480,
+          "thumb_480_h": 61,
+          "thumb_160": "https://files.slack.com/files-tmb/T0GFBAM8C-F041CCAJFBK-004c4ccb29/dsc_0884_2_160.jpg",
+          "thumb_720": "https://files.slack.com/files-tmb/T0GFBAM8C-F041CCAJFBK-004c4ccb29/dsc_0884_2_720.jpg",
+          "thumb_720_w": 720,
+          "thumb_720_h": 92,
+          "thumb_800": "https://files.slack.com/files-tmb/T0GFBAM8C-F041CCAJFBK-004c4ccb29/dsc_0884_2_800.jpg",
+          "thumb_800_w": 800,
+          "thumb_800_h": 102,
+          "thumb_960": "https://files.slack.com/files-tmb/T0GFBAM8C-F041CCAJFBK-004c4ccb29/dsc_0884_2_960.jpg",
+          "thumb_960_w": 960,
+          "thumb_960_h": 122,
+          "thumb_1024": "https://files.slack.com/files-tmb/T0GFBAM8C-F041CCAJFBK-004c4ccb29/dsc_0884_2_1024.jpg",
+          "thumb_1024_w": 1024,
+          "thumb_1024_h": 130,
+          "original_w": 4000,
+          "original_h": 509,
+          "thumb_tiny": "AwAGADCl3/CrW/hOTgjmqvf8Kn7R/wC7SGhWI3ZyeKN3AIJHpx0FIeppp+6tMRI0vzDAyB601n39VAxTT1oFAH//2Q==",
+          "permalink": "https://archlinuxjp.slack.com/files/U040ZCXHZ7V/F041CCAJFBK/dsc_0884_2.jpg",
+          "permalink_public": "https://slack-files.com/T0GFBAM8C-F041CCAJFBK-0cc1c11b9a",
+          "is_starred": false,
+          "has_rich_preview": false,
+          "file_access": "visible"
+        }
+      ],
+      "upload": false,
+      "user": "U040ZCXHZ7V",
+      "display_as_bot": false,
+      "ts": "1662294397.426269",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "r87f",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "これって一体何なんでしょうか...?"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "client_msg_id": "7402d594-6187-4103-85af-b3028e07ee64"
+    },
+    {
+      "client_msg_id": "3bee8aae-ed8b-47a9-bdfe-ce0a161ea1bf",
+      "type": "message",
+      "text": "了解です！ありがとうございます！",
+      "user": "U040ZCXHZ7V",
+      "ts": "1662279452.391269",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "r1Ic",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "了解です！ありがとうございます！"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "3ba8a7d1-2e3c-4406-8695-c77649dca59e",
+      "type": "message",
+      "text": "確認のメッセージなのでyで続けて大丈夫です",
+      "user": "U041BS3T3DX",
+      "ts": "1662279402.481629",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "9Wx",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "確認のメッセージなのでyで続けて大丈夫です"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "D42443E6-83E0-423E-9F6E-A6E51B504341",
+      "type": "message",
+      "text": "yを押してenterを押します",
+      "user": "U0GFBAM8U",
+      "ts": "1662279368.100069",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "WegSg",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "yを押してenterを押します"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "98EE3F2C-61C3-48B4-A197-5A67E2DEC84C",
+      "type": "message",
+      "text": "こんにちはー",
+      "user": "U0GFBAM8U",
+      "ts": "1662279348.542379",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "uB/3",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "こんにちはー"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "message",
+      "text": "こんにちは。初めてパソコンにLinuxを入れようとしている者です。\n今、あるサイトを見ながらArch Linuxを入れようとしているのですが、作成したパーティションのフォーマットをしようとしたところこのようなメッセージが出ました。\nこの場合はこのメッセージを無視して進めてしまってもいいのでしょうか？",
+      "files": [
+        {
+          "id": "F040ZH0H7KL",
+          "created": 1662279237,
+          "timestamp": 1662279237,
+          "name": "DSC_0877.JPG",
+          "title": "DSC_0877.JPG",
+          "mimetype": "image/jpeg",
+          "filetype": "jpg",
+          "pretty_type": "JPEG",
+          "user": "U040ZCXHZ7V",
+          "user_team": "T0GFBAM8C",
+          "editable": false,
+          "size": 505850,
+          "mode": "hosted",
+          "is_external": false,
+          "external_type": "",
+          "is_public": true,
+          "public_url_shared": false,
+          "display_as_bot": false,
+          "username": "",
+          "url_private": "https://files.slack.com/files-pri/T0GFBAM8C-F040ZH0H7KL/dsc_0877.jpg",
+          "url_private_download": "https://files.slack.com/files-pri/T0GFBAM8C-F040ZH0H7KL/download/dsc_0877.jpg",
+          "media_display_type": "unknown",
+          "thumb_64": "https://files.slack.com/files-tmb/T0GFBAM8C-F040ZH0H7KL-859e7e1acc/dsc_0877_64.jpg",
+          "thumb_80": "https://files.slack.com/files-tmb/T0GFBAM8C-F040ZH0H7KL-859e7e1acc/dsc_0877_80.jpg",
+          "thumb_360": "https://files.slack.com/files-tmb/T0GFBAM8C-F040ZH0H7KL-859e7e1acc/dsc_0877_360.jpg",
+          "thumb_360_w": 360,
+          "thumb_360_h": 270,
+          "thumb_480": "https://files.slack.com/files-tmb/T0GFBAM8C-F040ZH0H7KL-859e7e1acc/dsc_0877_480.jpg",
+          "thumb_480_w": 480,
+          "thumb_480_h": 360,
+          "thumb_160": "https://files.slack.com/files-tmb/T0GFBAM8C-F040ZH0H7KL-859e7e1acc/dsc_0877_160.jpg",
+          "thumb_720": "https://files.slack.com/files-tmb/T0GFBAM8C-F040ZH0H7KL-859e7e1acc/dsc_0877_720.jpg",
+          "thumb_720_w": 720,
+          "thumb_720_h": 540,
+          "thumb_800": "https://files.slack.com/files-tmb/T0GFBAM8C-F040ZH0H7KL-859e7e1acc/dsc_0877_800.jpg",
+          "thumb_800_w": 800,
+          "thumb_800_h": 600,
+          "thumb_960": "https://files.slack.com/files-tmb/T0GFBAM8C-F040ZH0H7KL-859e7e1acc/dsc_0877_960.jpg",
+          "thumb_960_w": 960,
+          "thumb_960_h": 720,
+          "thumb_1024": "https://files.slack.com/files-tmb/T0GFBAM8C-F040ZH0H7KL-859e7e1acc/dsc_0877_1024.jpg",
+          "thumb_1024_w": 1024,
+          "thumb_1024_h": 768,
+          "original_w": 4000,
+          "original_h": 3000,
+          "thumb_tiny": "AwAkADCrCgKAlqeUGD81NhjZo8gd6cY29KAGlFz96o9vsfzp5ibn5elIYmAyRQA3Z7NShPZqNtOC0AOgmCKVIGM561J5y46rn61XeLZjnrSeUTjBHPSkBOZR0DDH503ev+x+VBs5B/dP40020g/h/WjmQ7Md5q+iflQZUIH3Rj0FRNDIpwUPNNKMOqkfhTEOkYlwM1PboDub+IHg1Xf/AFgq1bfdb61D+EpbgbiQNjj8qcHdurfkBUDffqaOpkNCyqTGcsx/GqnKLlWOauSf6s1Uf7lOLYNH/9k=",
+          "permalink": "https://archlinuxjp.slack.com/files/U040ZCXHZ7V/F040ZH0H7KL/dsc_0877.jpg",
+          "permalink_public": "https://slack-files.com/T0GFBAM8C-F040ZH0H7KL-14174d4b71",
+          "is_starred": false,
+          "has_rich_preview": false,
+          "file_access": "visible"
+        }
+      ],
+      "upload": false,
+      "user": "U040ZCXHZ7V",
+      "display_as_bot": false,
+      "ts": "1662279247.185569",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "N97/c",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "こんにちは。初めてパソコンにLinuxを入れようとしている者です。\n今、あるサイトを見ながらArch Linuxを入れようとしているのですが、作成したパーティションのフォーマットをしようとしたところこのようなメッセージが出ました。\nこの場合はこのメッセージを無視して進めてしまってもいいのでしょうか？"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "client_msg_id": "d540061a-3f6d-4d58-8236-00bf2883e0c5"
+    },
+    {
+      "type": "message",
+      "subtype": "channel_join",
+      "ts": "1662277250.422959",
+      "user": "U040ZCXHZ7V",
+      "text": "<@U040ZCXHZ7V>さんがチャンネルに参加しました"
+    },
+    {
+      "type": "message",
+      "subtype": "channel_join",
+      "ts": "1662254491.877489",
+      "user": "U041BS3T3DX",
+      "text": "<@U041BS3T3DX>さんがチャンネルに参加しました"
+    },
+    {
+      "type": "message",
+      "subtype": "channel_join",
+      "ts": "1662202286.935479",
+      "user": "U040RQ2G1NJ",
+      "text": "<@U040RQ2G1NJ>さんがチャンネルに参加しました",
+      "reactions": [
+        {
+          "name": "archjp-joy",
+          "users": [
+            "U03JYF13SQP",
+            "a3784197"
+          ],
+          "count": 2
+        }
+      ]
+    },
+    {
+      "client_msg_id": "fb3aa67e-b672-4fc4-a06a-b66a581f4595",
+      "type": "message",
+      "text": "init.d民だ！",
+      "user": "U70QDFN82",
+      "ts": "1662125965.882529",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "aB=",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "init.d民だ！"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "5f7657ac-adc5-4f20-8ef3-be2d6f2ce9f7",
+      "type": "message",
+      "text": "今回は前提条件の artix linuxでのセルフビルドであることがすぐに読み取れなかったため、ちょっと時間がかかってましたね",
+      "user": "U0PM6EYR1",
+      "ts": "1662125947.162389",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "KKp",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "今回は前提条件の artix linuxでのセルフビルドであることがすぐに読み取れなかったため、ちょっと時間がかかってましたね"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "a7a93220-1688-4ed8-901d-3abaedf23572",
+      "type": "message",
+      "text": "スッキリしました",
+      "user": "a3784197",
+      "ts": "1662125884.577239",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "NWO",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "スッキリしました"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "reactions": [
+        {
+          "name": "+1",
+          "users": [
+            "U0GFBAM8U"
+          ],
+          "count": 1
+        }
+      ]
+    },
+    {
+      "client_msg_id": "d885c62d-5b96-41c2-9683-bb54e8b68466",
+      "type": "message",
+      "text": "ありがとうございます",
+      "user": "a3784197",
+      "ts": "1662125875.087139",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "O2rI",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "ありがとうございます"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "893fe7ca-36cb-42a9-9909-5b9f92a4c4e1",
+      "type": "message",
+      "text": "Makefile みてなかった。systemd 入ってなくて pkgconf 失敗して空になったのか。把握。",
+      "user": "buzz.taiki",
+      "ts": "1662125874.362379",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "N=s",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "Makefile みてなかった。systemd 入ってなくて pkgconf 失敗して空になったのか。把握。"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "bd3aabfb-6e50-4986-85b6-db445a0344e5",
+      "type": "message",
+      "text": "リプに返信きました",
+      "user": "U0PM6EYR1",
+      "ts": "1662125724.448759",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "j4B",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "リプに返信きました"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "489f83c3-d482-4212-8769-01da40e361e4",
+      "type": "message",
+      "text": "リプしておきました",
+      "user": "U0PM6EYR1",
+      "ts": "1662125373.179419",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "27bP",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "リプしておきました"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "reactions": [
+        {
+          "name": "+1",
+          "users": [
+            "U70QDFN82",
+            "a3784197"
+          ],
+          "count": 2
+        },
+        {
+          "name": "nyancat",
+          "users": [
+            "U0GFBAM8U",
+            "buzz.taiki",
+            "s5is",
+            "a3784197"
+          ],
+          "count": 4
+        }
+      ]
+    },
+    {
+      "client_msg_id": "a40eeb01-c0d2-437c-8fd0-0474244ee992",
+      "type": "message",
+      "text": "Twitter にリプしておかなくても、本人見てくれますかね？",
+      "user": "U0PM6EYR1",
+      "ts": "1662125154.740689",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "QWFf",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "Twitter にリプしておかなくても、本人見てくれますかね？"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "80bf9fa0-1cf9-4a5c-b13f-ab9cf2015348",
+      "type": "message",
+      "text": "Initガチ勢のミュウツー…",
+      "user": "s5is",
+      "ts": "1662125112.745559",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "ijKL",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "Initガチ勢のミュウツー…"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "e7fa4090-a1d2-4eed-823d-07381cda161c",
+      "type": "message",
+      "text": "ミュウスリーだっぴ！！！？（難聴",
+      "user": "U0PM6EYR1",
+      "ts": "1662125099.937369",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "vMu",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "ミュウスリーだっぴ！！！？（難聴"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "d3009d0b-e274-4411-abcd-a5f50594c91a",
+      "type": "message",
+      "text": "すご。",
+      "user": "buzz.taiki",
+      "ts": "1662125099.253949",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "V7u5",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "すご。"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "119D2D28-D18B-476C-900E-3B4175437CD9",
+      "type": "message",
+      "text": "ミュウツー",
+      "user": "U0GFBAM8U",
+      "ts": "1662125091.087719",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "mIc",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "ミュウツー"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "reactions": [
+        {
+          "name": "raised_hands",
+          "users": [
+            "U70QDFN82"
+          ],
+          "count": 1
+        }
+      ]
+    },
+    {
+      "client_msg_id": "fb80901f-9ebb-42c4-9529-da639cc63c2b",
+      "type": "message",
+      "text": "ミュウツーと呼んでくれ",
+      "user": "U70QDFN82",
+      "ts": "1662125069.716489",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "LXTw",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "ミュウツーと呼んでくれ"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "5913c5d0-59db-41e6-8eb0-70786b7a513a",
+      "type": "message",
+      "text": "みなさん、タイムカード付けといてくださいね（ぇ",
+      "user": "U0PM6EYR1",
+      "ts": "1662125057.776809",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "I98",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "みなさん、タイムカード付けといてくださいね（ぇ"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "373fa178-6ba3-4023-90fe-f433878d22be",
+      "type": "message",
+      "text": "ということで、解散ですね",
+      "user": "U0PM6EYR1",
+      "ts": "1662125042.581929",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "ISlns",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "ということで、解散ですね"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "60304f2e-702f-4976-9e38-77f59b443a6a",
+      "type": "message",
+      "text": "なんで当たるんだよ…すげぇよ…(困惑)",
+      "user": "s5is",
+      "ts": "1662125042.023139",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "fsp",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "なんで当たるんだよ…すげぇよ…(困惑)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "bcba8699-8c4d-4c46-a9f5-f27d44418a13",
+      "type": "message",
+      "text": "やったぜ。",
+      "user": "U70QDFN82",
+      "ts": "1662125019.624379",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "t7/G",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "やったぜ。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "reactions": [
+        {
+          "name": "+1",
+          "users": [
+            "U0PM6EYR1",
+            "buzz.taiki",
+            "s5is"
+          ],
+          "count": 3
+        }
+      ]
+    },
+    {
+      "client_msg_id": "b0a858cd-bd5b-4147-bda7-7ec0d3251549",
+      "type": "message",
+      "text": "<https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1662123681834029>\nこれだった",
+      "user": "U0PM6EYR1",
+      "ts": "1662125010.129549",
+      "team": "T0GFBAM8C",
+      "attachments": [
+        {
+          "from_url": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1662123681834029",
+          "ts": "1662123681.834029",
+          "author_id": "U70QDFN82",
+          "channel_team": "T0GFBAM8C",
+          "channel_id": "C0GFH3RHC",
+          "channel_name": "general",
+          "is_msg_unfurl": true,
+          "message_blocks": [
+            {
+              "team": "T0GFBAM8C",
+              "channel": "C0GFH3RHC",
+              "ts": "1662123681.834029",
+              "message": {
+                "blocks": [
+                  {
+                    "type": "rich_text",
+                    "block_id": "pqK",
+                    "elements": [
+                      {
+                        "type": "rich_text_section",
+                        "elements": [
+                          {
+                            "type": "text",
+                            "text": "archからsystemdを一掃してるアンチsystemd民とか？init.dこそ至高"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            }
+          ],
+          "id": 1,
+          "original_url": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1662123681834029",
+          "fallback": "[September 2nd, 2022 6:01 AM] yutakatay: archからsystemdを一掃してるアンチsystemd民とか？init.dこそ至高",
+          "text": "archからsystemdを一掃してるアンチsystemd民とか？init.dこそ至高",
+          "author_name": "yutkat",
+          "author_link": "https://archlinuxjp.slack.com/team/U70QDFN82",
+          "author_icon": "https://avatars.slack-edge.com/2022-03-03/3184293114882_be67d2adfd8032e58911_48.png",
+          "author_subname": "yutkat",
+          "mrkdwn_in": [
+            "text"
+          ],
+          "footer": "#general に投稿"
+        }
+      ],
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "grx",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "link",
+                  "url": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1662123681834029"
+                },
+                {
+                  "type": "text",
+                  "text": "\nこれだった"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "3498a4de-3f70-4b91-8549-6172b992969d",
+      "type": "message",
+      "text": "systemd なかった",
+      "user": "U0PM6EYR1",
+      "ts": "1662124998.298189",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "kfd72",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "systemd なかった"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "06901fbc-4f0f-4968-a23d-46ca62968fb9",
+      "type": "message",
+      "text": "当人、 artix linux らしいです",
+      "user": "U0PM6EYR1",
+      "ts": "1662124972.818369",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "6H3",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "当人、 artix linux らしいです"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "c53cd92c-da00-47a5-9347-0ef10ca74ece",
+      "type": "message",
+      "text": "顧客対応とも言えますね",
+      "user": "U70QDFN82",
+      "ts": "1662124951.926819",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "Vyd",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "顧客対応とも言えますね"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "reactions": [
+        {
+          "name": "totemoturai",
+          "users": [
+            "s5is"
+          ],
+          "count": 1
+        }
+      ]
+    },
+    {
+      "client_msg_id": "7e049758-6503-41ea-9b7c-e558a392909f",
+      "type": "message",
+      "text": "制約がある情報から真実を導き出す、割と普通にトラブルシューティング",
+      "user": "s5is",
+      "ts": "1662124930.017419",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "STC",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "制約がある情報から真実を導き出す、割と普通にトラブルシューティング"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "00d69f37-b8e0-47ed-a2f9-f40c6c782049",
+      "type": "message",
+      "text": "２台買えば問題ない",
+      "user": "U70QDFN82",
+      "ts": "1662124917.575789",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "EdR",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "２台買えば問題ない"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "reactions": [
+        {
+          "name": "naruhodo",
+          "users": [
+            "U0PM6EYR1"
+          ],
+          "count": 1
+        }
+      ]
+    },
+    {
+      "client_msg_id": "ec1e6d63-8f46-4306-91e4-c6d521ebbcf3",
+      "type": "message",
+      "text": "将来はフーディンになれないユンゲラーになりたいと思います",
+      "user": "U0PM6EYR1",
+      "ts": "1662124895.666669",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "B1rS2",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "将来はフーディンになれないユンゲラーになりたいと思います"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "f3a5a51b-aa42-406e-a4f3-e70e538f57f7",
+      "type": "message",
+      "text": "制約がある情報から真実を導き出したいのか・・・",
+      "user": "U70QDFN82",
+      "ts": "1662124894.589529",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "owa",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "制約がある情報から真実を導き出したいのか・・・"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "2bb88d4f-0865-45fb-ba8a-87154509686d",
+      "type": "message",
+      "text": "エスパー大好きなので仕方ない…",
+      "user": "U0PM6EYR1",
+      "ts": "1662124876.859979",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "pYF",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "エスパー大好きなので仕方ない…"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "5b87f711-fe5b-48d1-bd7f-06f0625f0026",
+      "type": "message",
+      "text": "つか、元の質問者いないのになんでみんな探偵やってるんだ？？",
+      "user": "U70QDFN82",
+      "ts": "1662124860.833319",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "09jJ",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "つか、元の質問者いないのになんでみんな探偵やってるんだ？？"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "60bc1dc5-7a9f-4153-bc10-851663eec94c",
+      "type": "message",
+      "text": "systemdロック民",
+      "user": "U70QDFN82",
+      "ts": "1662124819.727849",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "F9Wu",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "systemdロック民"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "6194ef67-d1bf-40d5-be53-2f8937966bc5",
+      "type": "message",
+      "text": "なので、何故か systemd が古いんじゃないんですかね",
+      "user": "U0PM6EYR1",
+      "ts": "1662124805.750069",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "+PDfH",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "なので、何故か systemd が古いんじゃないんですかね"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "6f603b43-fa90-484c-8ce2-79b6945e7e13",
+      "type": "message",
+      "text": "Ubuntu 20.04 だと 245 だった…",
+      "user": "U0PM6EYR1",
+      "ts": "1662124788.800529",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "NL/",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "Ubuntu 20.04 だと 245 だった…"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "b941d0a3-654b-42ad-b672-1832144feed3",
+      "type": "message",
+      "text": "systemd v246-rc1 からしかなくて、\n```raa0121@aroma:~$ systemctl --version\nsystemd 245 (245.4-4ubuntu3.15)\n+PAM +AUDIT +SELINUX +IMA +APPARMOR +SMACK +SYSVINIT +UTMP +LIBCRYPTSETUP +GCRYPT +GNUTLS +ACL +XZ +LZ4 +SECCOMP +BLKID +ELFUTILS +KMOD +IDN2 -IDN +PCRE2 default-hierarchy=hybrid```",
+      "user": "U0PM6EYR1",
+      "ts": "1662124763.311859",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "Z34",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "systemd v246-rc1 からしかなくて、\n"
+                }
+              ]
+            },
+            {
+              "type": "rich_text_preformatted",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "raa0121@aroma:~$ systemctl --version\nsystemd 245 (245.4-4ubuntu3.15)\n+PAM +AUDIT +SELINUX +IMA +APPARMOR +SMACK +SYSVINIT +UTMP +LIBCRYPTSETUP +GCRYPT +GNUTLS +ACL +XZ +LZ4 +SECCOMP +BLKID +ELFUTILS +KMOD +IDN2 -IDN +PCRE2 default-hierarchy=hybrid"
+                }
+              ],
+              "border": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "E2611B43-74EB-4F26-9996-455982570CA5",
+      "type": "message",
+      "text": "うん",
+      "user": "U0GFBAM8U",
+      "ts": "1662124759.035789",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "ssRjt",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "うん"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "391d3c3e-a2e6-4dfd-87fe-b1d70c2fa89d",
+      "type": "message",
+      "text": "&gt; これ展開してるの/なんじゃないかな\n&gt; \n確かに timers.wants とかもあるから全部展開されてる感じしますね。",
+      "user": "buzz.taiki",
+      "ts": "1662124747.754829",
+      "team": "T0GFBAM8C",
+      "edited": {
+        "user": "buzz.taiki",
+        "ts": "1662124761.000000"
+      },
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "OB1",
+          "elements": [
+            {
+              "type": "rich_text_quote",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "これ展開してるの/なんじゃないかな\n"
+                }
+              ],
+              "border": 0
+            },
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "\n確かに timers.wants とかもあるから全部展開されてる感じしますね。"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "6047366a-bee7-4fd1-8b94-c6bb8eff7f3c",
+      "type": "message",
+      "text": "ちなみに Ubuntu 20.04 だと <https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1662123301092189> が空でした",
+      "user": "U0PM6EYR1",
+      "ts": "1662124622.017549",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "V5yTM",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "ちなみに Ubuntu 20.04 だと "
+                },
+                {
+                  "type": "link",
+                  "url": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1662123301092189"
+                },
+                {
+                  "type": "text",
+                  "text": " が空でした"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "8E6CA882-933D-49B0-8298-739B08883398",
+      "type": "message",
+      "text": "これ展開してるの/なんじゃないかな\nそんな感じする",
+      "user": "U0GFBAM8U",
+      "ts": "1662124603.375769",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "EtR",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "これ展開してるの/なんじゃないかな"
+                },
+                {
+                  "type": "text",
+                  "text": "\n"
+                },
+                {
+                  "type": "text",
+                  "text": "そんな感じする"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "ecc28117-e5f6-4f4c-9921-a9c3d61db0b7",
+      "type": "message",
+      "text": "post_install とかで入るやつな感じがするから <https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1662123301092189|https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1662123301092189> みたいな事が起きたんじゃないかなぁ。",
+      "user": "buzz.taiki",
+      "ts": "1662124592.609919",
+      "team": "T0GFBAM8C",
+      "attachments": [
+        {
+          "from_url": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1662123301092189",
+          "ts": "1662123301.092189",
+          "author_id": "U0PM6EYR1",
+          "channel_team": "T0GFBAM8C",
+          "channel_id": "C0GFH3RHC",
+          "channel_name": "general",
+          "is_msg_unfurl": true,
+          "message_blocks": [
+            {
+              "team": "T0GFBAM8C",
+              "channel": "C0GFH3RHC",
+              "ts": "1662123301.092189",
+              "message": {
+                "blocks": [
+                  {
+                    "type": "rich_text",
+                    "block_id": "+fVo",
+                    "elements": [
+                      {
+                        "type": "rich_text_preformatted",
+                        "elements": [
+                          {
+                            "type": "text",
+                            "text": "pkgconf --variable systemd_system_unit_dir systemd"
+                          }
+                        ],
+                        "border": 0
+                      },
+                      {
+                        "type": "rich_text_section",
+                        "elements": [
+                          {
+                            "type": "text",
+                            "text": "が空を返すと、"
+                          },
+                          {
+                            "type": "text",
+                            "text": "/",
+                            "style": {
+                              "code": true
+                            }
+                          },
+                          {
+                            "type": "text",
+                            "text": "  に入っちゃうとかかな？"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            }
+          ],
+          "id": 1,
+          "original_url": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1662123301092189",
+          "fallback": "[September 2nd, 2022 5:55 AM] raa0121: ```pkgconf --variable systemd_system_unit_dir systemd```\nが空を返すと、`/`  に入っちゃうとかかな？",
+          "text": "```pkgconf --variable systemd_system_unit_dir systemd```\nが空を返すと、`/`  に入っちゃうとかかな？",
+          "author_name": "raa0121",
+          "author_link": "https://archlinuxjp.slack.com/team/U0PM6EYR1",
+          "author_icon": "https://avatars.slack-edge.com/2022-07-15/3807443603636_b8761df49e1f6a7cdf2e_48.png",
+          "author_subname": "raa0121",
+          "mrkdwn_in": [
+            "text"
+          ],
+          "footer": "#general に投稿"
+        }
+      ],
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "APVD",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "post_install とかで入るやつな感じがするから "
+                },
+                {
+                  "type": "link",
+                  "url": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1662123301092189",
+                  "text": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1662123301092189"
+                },
+                {
+                  "type": "text",
+                  "text": " みたいな事が起きたんじゃないかなぁ。"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "196bb62a-5625-4bbf-9856-f2c3efbca801",
+      "type": "message",
+      "text": "tarで展開してる場所は /tmp/archlinux-keyringぽい。",
+      "user": "buzz.taiki",
+      "ts": "1662124458.125079",
+      "team": "T0GFBAM8C",
+      "edited": {
+        "user": "buzz.taiki",
+        "ts": "1662124611.000000"
+      },
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "5Ci",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "tarで展開してる場所は /tmp/archlinux-keyringぽい。"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "DD022D18-3826-497F-B22A-F8977B4F35E5",
+      "type": "message",
+      "text": "画像見るとtarでsrcが展開されてるぽい\nそれが原因では",
+      "user": "U0GFBAM8U",
+      "ts": "1662124332.467749",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "9WHK",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "画像見るとtarでsrcが展開されてるぽい"
+                },
+                {
+                  "type": "text",
+                  "text": "\n"
+                },
+                {
+                  "type": "text",
+                  "text": "それが原因では"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "message",
+      "text": "自分でビルドしてもこうはならないので謎ですね",
+      "user": "U257W41DW",
+      "ts": "1662124013.374059",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "RkhZ",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "自分でビルドしてもこうはならないので謎ですね"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "78a1f2f6-c1ba-442a-8a20-aecf3c9b380c",
+      "type": "message",
+      "text": "あぁ、自前ビルドだった",
+      "user": "U0PM6EYR1",
+      "ts": "1662123790.597029",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "9OCi",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "あぁ、自前ビルドだった"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "ff4ca8e6-9604-4b1b-8e6d-a80f7e5c9a1f",
+      "type": "message",
+      "text": "バイナリパッケージなら、ビルド済みでただファイルが配置されるだけなはずだから、 `/` には生えない気がするんですけどね…\n自前ビルドかな…？",
+      "user": "U0PM6EYR1",
+      "ts": "1662123758.249639",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "SV3",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "バイナリパッケージなら、ビルド済みでただファイルが配置されるだけなはずだから、 "
+                },
+                {
+                  "type": "text",
+                  "text": "/",
+                  "style": {
+                    "code": true
+                  }
+                },
+                {
+                  "type": "text",
+                  "text": " には生えない気がするんですけどね…\n自前ビルドかな…？"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "09d6af60-c82d-4dd7-9ea6-fc90247726cb",
+      "type": "message",
+      "text": "archからsystemdを一掃してるアンチsystemd民とか？init.dこそ至高",
+      "user": "U70QDFN82",
+      "ts": "1662123681.834029",
+      "team": "T0GFBAM8C",
+      "edited": {
+        "user": "U70QDFN82",
+        "ts": "1662123755.000000"
+      },
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "pqK",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "archからsystemdを一掃してるアンチsystemd民とか？init.dこそ至高"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "message",
+      "text": "なるほど、よく見てなかった。この方の環境だと `/` 直下にもインストールされてしまってるんですね。",
+      "user": "U257W41DW",
+      "ts": "1662123597.382229",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "wOj",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "なるほど、よく見てなかった。この方の環境だと "
+                },
+                {
+                  "type": "text",
+                  "text": "/",
+                  "style": {
+                    "code": true
+                  }
+                },
+                {
+                  "type": "text",
+                  "text": " 直下にもインストールされてしまってるんですね。"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "f86bee84-6b77-442f-ba6c-552ede978323",
+      "type": "message",
+      "text": "<https://archlinux.org/packages/core/any/archlinux-keyring/>\nここのパッケージ一覧には、`usr/lib/systemd/system` 以下にあることになってますね",
+      "user": "U0PM6EYR1",
+      "ts": "1662123431.254789",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "Pn/G",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "link",
+                  "url": "https://archlinux.org/packages/core/any/archlinux-keyring/"
+                },
+                {
+                  "type": "text",
+                  "text": "\nここのパッケージ一覧には、"
+                },
+                {
+                  "type": "text",
+                  "text": "usr/lib/systemd/system",
+                  "style": {
+                    "code": true
+                  }
+                },
+                {
+                  "type": "text",
+                  "text": " 以下にあることになってますね"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "6a34713c-fe8b-4272-8afe-a3e9461eb1fc",
+      "type": "message",
+      "text": "<https://gitlab.archlinux.org/archlinux/archlinux-keyring/-/blob/master/Makefile#L5>",
+      "user": "U0PM6EYR1",
+      "ts": "1662123319.265429",
+      "team": "T0GFBAM8C",
+      "attachments": [
+        {
+          "from_url": "https://gitlab.archlinux.org/archlinux/archlinux-keyring/-/blob/master/Makefile#L5",
+          "thumb_url": "https://gitlab.archlinux.org/assets/twitter_card-570ddb06edf56a2312253c5872489847a0f385112ddbcd71ccfa1570febab5d2.jpg",
+          "thumb_width": 1024,
+          "thumb_height": 1024,
+          "service_icon": "https://gitlab.archlinux.org/assets/apple-touch-icon-b049d4bc0dd9626f31db825d61880737befc7835982586d015bded10b4435460.png",
+          "id": 1,
+          "original_url": "https://gitlab.archlinux.org/archlinux/archlinux-keyring/-/blob/master/Makefile#L5",
+          "fallback": "GitLab: Makefile · master · Arch Linux / Arch Linux Keyring · GitLab",
+          "text": "Arch Linux PGP keyring",
+          "title": "Makefile · master · Arch Linux / Arch Linux Keyring · GitLab",
+          "title_link": "https://gitlab.archlinux.org/archlinux/archlinux-keyring/-/blob/master/Makefile#L5",
+          "service_name": "GitLab"
+        }
+      ],
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "I/7y",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "link",
+                  "url": "https://gitlab.archlinux.org/archlinux/archlinux-keyring/-/blob/master/Makefile#L5"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "0F699A85-5D00-40E8-B2F2-8C435EFF61CF",
+      "type": "message",
+      "text": "個人的には/に変なファイルがあって驚かれたのでは、と解釈しました\nでもその辺は本人に聞いてみないとわかんない",
+      "user": "U0GFBAM8U",
+      "ts": "1662123316.436169",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "z3oCW",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "個人的には/に変なファイルがあって驚かれたのでは、と解釈しました"
+                },
+                {
+                  "type": "text",
+                  "text": "\n"
+                },
+                {
+                  "type": "text",
+                  "text": "でもその辺は本人に聞いてみないとわかんない"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "1565a078-4e6f-4ead-bed9-c3a8c04bea61",
+      "type": "message",
+      "text": "```pkgconf --variable systemd_system_unit_dir systemd```\nが空を返すと、`/`  に入っちゃうとかかな？",
+      "user": "U0PM6EYR1",
+      "ts": "1662123301.092189",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "+fVo",
+          "elements": [
+            {
+              "type": "rich_text_preformatted",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "pkgconf --variable systemd_system_unit_dir systemd"
+                }
+              ],
+              "border": 0
+            },
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "が空を返すと、"
+                },
+                {
+                  "type": "text",
+                  "text": "/",
+                  "style": {
+                    "code": true
+                  }
+                },
+                {
+                  "type": "text",
+                  "text": "  に入っちゃうとかかな？"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "reactions": [
+        {
+          "name": "hee",
+          "users": [
+            "U70QDFN82"
+          ],
+          "count": 1
+        }
+      ]
+    },
+    {
+      "client_msg_id": "7beff80f-42c4-4110-b854-8b8cb87c5af0",
+      "type": "message",
+      "text": "変なファイルが入ってるっていうか、なぜかroot直下にあるってのが問題って話だった気が",
+      "user": "U70QDFN82",
+      "ts": "1662122768.797519",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "Bcxm/",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "変なファイルが入ってるっていうか、なぜかroot直下にあるってのが問題って話だった気が"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "326EB9E5-E761-4FEE-B83F-811F827E3C32",
+      "type": "message",
+      "text": "keyringはしばらく更新してないとarch壊れますからね",
+      "user": "U0GFBAM8U",
+      "ts": "1662116619.378089",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "grs",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "keyringはしばらく更新してないとarch壊れますからね"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "message",
+      "text": "見た感じ週一で署名鍵を自動更新するようにしたんですかね。",
+      "user": "U257W41DW",
+      "ts": "1662116500.013639",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "anX/",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "見た感じ週一で署名鍵を自動更新するようにしたんですかね。"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "message",
+      "text": "systemd のユニットファイルなので `/` 直下見ても存在しないと思います……",
+      "user": "U257W41DW",
+      "ts": "1662116409.142269",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "LxjEr",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "systemd のユニットファイルなので "
+                },
+                {
+                  "type": "text",
+                  "text": "/",
+                  "style": {
+                    "code": true
+                  }
+                },
+                {
+                  "type": "text",
+                  "text": " 直下見ても存在しないと思います……"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "d683d19b-02e1-492b-8cf3-70f4360de8ca",
+      "type": "message",
+      "text": "特定条件下で発生するっぽいです.....?",
+      "user": "UCA1NQM5K",
+      "ts": "1662116356.744709",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "5rvVP",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "特定条件下で発生するっぽいです.....?"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "message",
+      "text": "20220831 入れたら確かに入ってますね。",
+      "user": "U257W41DW",
+      "ts": "1662116286.664029",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "/+t",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "20220831 入れたら確かに入ってますね。"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "d6d7d829-79e1-406c-9615-c9f54d13cc11",
+      "type": "message",
+      "text": "もうAIかそうじゃないかの判断がつかん",
+      "user": "U70QDFN82",
+      "ts": "1662115813.208639",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "qndqy",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "もうAIかそうじゃないかの判断がつかん"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "4A39BD86-3C46-402E-96BC-3E4B6675054A",
+      "type": "message",
+      "text": "なるほど、ありがとうございます",
+      "user": "U0GFBAM8U",
+      "ts": "1662115326.634309",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "6Vxz1",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "なるほど、ありがとうございます"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "b919b7c5-5829-41b1-a9d2-594030cf5899",
+      "type": "message",
+      "text": "好きな絵師さん(<https://twitter.com/satsukinosora> )のオリキャラです\n女の子がカワイイ上に背景も綺麗でかなり推しています",
+      "user": "UCA1NQM5K",
+      "ts": "1662115279.310839",
+      "team": "T0GFBAM8C",
+      "edited": {
+        "user": "UCA1NQM5K",
+        "ts": "1662115356.000000"
+      },
+      "attachments": [
+        {
+          "from_url": "https://twitter.com/satsukinosora",
+          "thumb_url": "https://pbs.twimg.com/profile_images/1533973994587955200/iIXavK6v_normal.jpg",
+          "thumb_width": 48,
+          "thumb_height": 48,
+          "service_icon": "https://twitter.com/favicon.ico",
+          "id": 1,
+          "original_url": "https://twitter.com/satsukinosora",
+          "fallback": "Twitter: ゆづきアメ (@satsukinosora) / Twitter",
+          "text": "二次元と写真を愛する末端絵師。 閲覧等いつもありがとうございます。とても励みになっています。 気まぐれ投稿であまり反応できず、申し訳ありません。 作品の転載、二次利用はご遠慮ください。",
+          "title": "ゆづきアメ (@satsukinosora) / Twitter",
+          "title_link": "https://twitter.com/satsukinosora",
+          "service_name": "Twitter"
+        }
+      ],
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "nx1",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "好きな絵師さん("
+                },
+                {
+                  "type": "link",
+                  "url": "https://twitter.com/satsukinosora"
+                },
+                {
+                  "type": "text",
+                  "text": " )のオリキャラです\n女の子がカワイイ上に背景も綺麗でかなり推しています"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "708f5da2-89a7-46f2-b597-dd83ab1cf3d9",
+      "type": "message",
+      "text": "おま環っぽいので試してきます\nありがとうございます",
+      "user": "a3784197",
+      "ts": "1662115100.217429",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "/NS9W",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "おま環っぽいので試してきます\nありがとうございます"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "E9D3B0F3-AE3B-4363-9B77-F19A8FF1F274",
+      "type": "message",
+      "text": "panakumaさんの、ごちうさぽいけど誰だ",
+      "user": "U0GFBAM8U",
+      "ts": "1662115074.419519",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "5jgY",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "panakumaさんの、ごちうさぽいけど誰だ"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "2d00f554-3ebd-47aa-b678-bdb1103a18c0",
+      "type": "message",
+      "text": "あんまり判別しやすくなった感はない",
+      "user": "U70QDFN82",
+      "ts": "1662115020.426169",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "03E",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "あんまり判別しやすくなった感はない"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "0ff9636c-8098-4aed-8462-92048063ec0a",
+      "type": "message",
+      "text": "最近非アクティブじゃないWindowに透過を入れた",
+      "user": "U70QDFN82",
+      "ts": "1662115001.449669",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "m52W",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "最近非アクティブじゃないWindowに透過を入れた"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "44D7A6F4-1C37-43C2-8FF9-06C87A23E743",
+      "type": "message",
+      "text": "unixpornしよう",
+      "user": "U0GFBAM8U",
+      "ts": "1662114967.606569",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "kOX",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "unixpornしよう"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "message",
+      "text": "入ってなさそうです（unixpornしなくちゃいけないの？）",
+      "files": [
+        {
+          "id": "F04172RJEL9",
+          "created": 1662114902,
+          "timestamp": 1662114902,
+          "name": "2022-09-02_19-34.png",
+          "title": "2022-09-02_19-34.png",
+          "mimetype": "image/png",
+          "filetype": "png",
+          "pretty_type": "PNG",
+          "user": "U70QDFN82",
+          "user_team": "T0GFBAM8C",
+          "editable": false,
+          "size": 54571,
+          "mode": "hosted",
+          "is_external": false,
+          "external_type": "",
+          "is_public": true,
+          "public_url_shared": false,
+          "display_as_bot": false,
+          "username": "",
+          "url_private": "https://files.slack.com/files-pri/T0GFBAM8C-F04172RJEL9/2022-09-02_19-34.png",
+          "url_private_download": "https://files.slack.com/files-pri/T0GFBAM8C-F04172RJEL9/download/2022-09-02_19-34.png",
+          "media_display_type": "unknown",
+          "thumb_64": "https://files.slack.com/files-tmb/T0GFBAM8C-F04172RJEL9-9b782490cc/2022-09-02_19-34_64.png",
+          "thumb_80": "https://files.slack.com/files-tmb/T0GFBAM8C-F04172RJEL9-9b782490cc/2022-09-02_19-34_80.png",
+          "thumb_360": "https://files.slack.com/files-tmb/T0GFBAM8C-F04172RJEL9-9b782490cc/2022-09-02_19-34_360.png",
+          "thumb_360_w": 360,
+          "thumb_360_h": 255,
+          "thumb_480": "https://files.slack.com/files-tmb/T0GFBAM8C-F04172RJEL9-9b782490cc/2022-09-02_19-34_480.png",
+          "thumb_480_w": 480,
+          "thumb_480_h": 340,
+          "thumb_160": "https://files.slack.com/files-tmb/T0GFBAM8C-F04172RJEL9-9b782490cc/2022-09-02_19-34_160.png",
+          "thumb_720": "https://files.slack.com/files-tmb/T0GFBAM8C-F04172RJEL9-9b782490cc/2022-09-02_19-34_720.png",
+          "thumb_720_w": 720,
+          "thumb_720_h": 510,
+          "thumb_800": "https://files.slack.com/files-tmb/T0GFBAM8C-F04172RJEL9-9b782490cc/2022-09-02_19-34_800.png",
+          "thumb_800_w": 800,
+          "thumb_800_h": 566,
+          "thumb_960": "https://files.slack.com/files-tmb/T0GFBAM8C-F04172RJEL9-9b782490cc/2022-09-02_19-34_960.png",
+          "thumb_960_w": 960,
+          "thumb_960_h": 679,
+          "thumb_1024": "https://files.slack.com/files-tmb/T0GFBAM8C-F04172RJEL9-9b782490cc/2022-09-02_19-34_1024.png",
+          "thumb_1024_w": 1024,
+          "thumb_1024_h": 725,
+          "original_w": 1273,
+          "original_h": 901,
+          "thumb_tiny": "AwAhADCoTmkoopiCiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooA//2Q==",
+          "permalink": "https://archlinuxjp.slack.com/files/U70QDFN82/F04172RJEL9/2022-09-02_19-34.png",
+          "permalink_public": "https://slack-files.com/T0GFBAM8C-F04172RJEL9-98d7a7fe21",
+          "is_starred": false,
+          "has_rich_preview": false,
+          "file_access": "visible"
+        }
+      ],
+      "upload": false,
+      "user": "U70QDFN82",
+      "display_as_bot": false,
+      "ts": "1662114921.203339",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "3K7n",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "入ってなさそうです（unixpornしなくちゃいけないの？）"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "client_msg_id": "345b375e-8657-4260-9867-ff98bd2f6e59"
+    },
+    {
+      "client_msg_id": "0F4FCC10-BAAF-403B-8E6E-2FBAFF41631E",
+      "type": "message",
+      "text": "私も同じく",
+      "user": "U0GFBAM8U",
+      "ts": "1662114877.057329",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "I4r",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "私も同じく"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "message",
+      "text": "20220831-1みたいです",
+      "files": [
+        {
+          "id": "F04172N6J57",
+          "created": 1662114847,
+          "timestamp": 1662114847,
+          "name": "image.png",
+          "title": "image.png",
+          "mimetype": "image/png",
+          "filetype": "png",
+          "pretty_type": "PNG",
+          "user": "UCA1NQM5K",
+          "user_team": "T0GFBAM8C",
+          "editable": false,
+          "size": 210886,
+          "mode": "hosted",
+          "is_external": false,
+          "external_type": "",
+          "is_public": true,
+          "public_url_shared": false,
+          "display_as_bot": false,
+          "username": "",
+          "url_private": "https://files.slack.com/files-pri/T0GFBAM8C-F04172N6J57/image.png",
+          "url_private_download": "https://files.slack.com/files-pri/T0GFBAM8C-F04172N6J57/download/image.png",
+          "media_display_type": "unknown",
+          "thumb_64": "https://files.slack.com/files-tmb/T0GFBAM8C-F04172N6J57-eccbb6f4e7/image_64.png",
+          "thumb_80": "https://files.slack.com/files-tmb/T0GFBAM8C-F04172N6J57-eccbb6f4e7/image_80.png",
+          "thumb_360": "https://files.slack.com/files-tmb/T0GFBAM8C-F04172N6J57-eccbb6f4e7/image_360.png",
+          "thumb_360_w": 360,
+          "thumb_360_h": 160,
+          "thumb_480": "https://files.slack.com/files-tmb/T0GFBAM8C-F04172N6J57-eccbb6f4e7/image_480.png",
+          "thumb_480_w": 480,
+          "thumb_480_h": 213,
+          "thumb_160": "https://files.slack.com/files-tmb/T0GFBAM8C-F04172N6J57-eccbb6f4e7/image_160.png",
+          "thumb_720": "https://files.slack.com/files-tmb/T0GFBAM8C-F04172N6J57-eccbb6f4e7/image_720.png",
+          "thumb_720_w": 720,
+          "thumb_720_h": 320,
+          "original_w": 770,
+          "original_h": 342,
+          "thumb_tiny": "AwAVADCuSCc0mRSlSOoP50m09hz7GmIM89vypp65Ipxz/k03JPr+dDGKMf3aCoPQYpRx3NO3ZpARbj6UbvYUlJTELn2p6jAplPHQUmNC0UlLQM//2Q==",
+          "permalink": "https://archlinuxjp.slack.com/files/UCA1NQM5K/F04172N6J57/image.png",
+          "permalink_public": "https://slack-files.com/T0GFBAM8C-F04172N6J57-232f0f67a3",
+          "is_starred": false,
+          "has_rich_preview": false,
+          "file_access": "visible"
+        }
+      ],
+      "upload": false,
+      "user": "UCA1NQM5K",
+      "display_as_bot": false,
+      "ts": "1662114860.760749",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "IOp",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "20220831-1みたいです"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "client_msg_id": "bd1fbd44-cb8e-483a-bfda-a718c5123db9"
+    },
+    {
+      "client_msg_id": "d7f57465-3519-4e91-9afd-a879dd7a229e",
+      "type": "message",
+      "text": "archlinux-keyringのverどうなってますか？",
+      "user": "a3784197",
+      "ts": "1662114790.336329",
+      "team": "T0GFBAM8C",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "dQ4j",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "archlinux-keyringのverどうなってますか？"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "message",
+      "text": "",
+      "files": [
+        {
+          "id": "F041J4BUW72",
+          "created": 1662114623,
+          "timestamp": 1662114623,
+          "name": "image.png",
+          "title": "image.png",
+          "mimetype": "image/png",
+          "filetype": "png",
+          "pretty_type": "PNG",
+          "user": "UCA1NQM5K",
+          "user_team": "T0GFBAM8C",
+          "editable": false,
+          "size": 537855,
+          "mode": "hosted",
+          "is_external": false,
+          "external_type": "",
+          "is_public": true,
+          "public_url_shared": false,
+          "display_as_bot": false,
+          "username": "",
+          "url_private": "https://files.slack.com/files-pri/T0GFBAM8C-F041J4BUW72/image.png",
+          "url_private_download": "https://files.slack.com/files-pri/T0GFBAM8C-F041J4BUW72/download/image.png",
+          "media_display_type": "unknown",
+          "thumb_64": "https://files.slack.com/files-tmb/T0GFBAM8C-F041J4BUW72-463ac710f2/image_64.png",
+          "thumb_80": "https://files.slack.com/files-tmb/T0GFBAM8C-F041J4BUW72-463ac710f2/image_80.png",
+          "thumb_360": "https://files.slack.com/files-tmb/T0GFBAM8C-F041J4BUW72-463ac710f2/image_360.png",
+          "thumb_360_w": 360,
+          "thumb_360_h": 225,
+          "thumb_480": "https://files.slack.com/files-tmb/T0GFBAM8C-F041J4BUW72-463ac710f2/image_480.png",
+          "thumb_480_w": 480,
+          "thumb_480_h": 299,
+          "thumb_160": "https://files.slack.com/files-tmb/T0GFBAM8C-F041J4BUW72-463ac710f2/image_160.png",
+          "thumb_720": "https://files.slack.com/files-tmb/T0GFBAM8C-F041J4BUW72-463ac710f2/image_720.png",
+          "thumb_720_w": 720,
+          "thumb_720_h": 449,
+          "thumb_800": "https://files.slack.com/files-tmb/T0GFBAM8C-F041J4BUW72-463ac710f2/image_800.png",
+          "thumb_800_w": 800,
+          "thumb_800_h": 499,
+          "thumb_960": "https://files.slack.com/files-tmb/T0GFBAM8C-F041J4BUW72-463ac710f2/image_960.png",
+          "thumb_960_w": 960,
+          "thumb_960_h": 599,
+          "thumb_1024": "https://files.slack.com/files-tmb/T0GFBAM8C-F041J4BUW72-463ac710f2/image_1024.png",
+          "thumb_1024_w": 1024,
+          "thumb_1024_h": 639,
+          "original_w": 1217,
+          "original_h": 759,
+          "thumb_tiny": "AwAdADCE3E2f9Y350faJv+ejfnUO4UZpiJhcy95HP40pnmxkSOPxqIDApc4pDF+0Tf8APVvzpyXExkUGRsZHeoW6mljP7xP94UxCAE9KUIc1Ltx0puaQxKKKBQAhXP1oj/1q/wC8P50/GcUqIN6n0IoA/9k=",
+          "permalink": "https://archlinuxjp.slack.com/files/UCA1NQM5K/F041J4BUW72/image.png",
+          "permalink_public": "https://slack-files.com/T0GFBAM8C-F041J4BUW72-89406cf579",
+          "is_starred": false,
+          "has_rich_preview": false,
+          "file_access": "visible"
+        }
+      ],
+      "upload": false,
+      "user": "UCA1NQM5K",
+      "display_as_bot": false,
+      "ts": "1662114626.873429",
+      "client_msg_id": "7161fde8-ecae-4118-9030-d56ce6b4e75a"
+    }
+  ],
+  "has_more": true,
+  "pin_count": 16,
+  "channel_actions_ts": null,
+  "channel_actions_count": 0,
+  "response_metadata": {
+    "next_cursor": "bmV4dF90czoxNjYyMTE0NjIxNjMwMjA5"
+  }
+}
