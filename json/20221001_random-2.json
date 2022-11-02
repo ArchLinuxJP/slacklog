@@ -1,0 +1,78 @@
+{
+  "ok": true,
+  "latest": "1667260858.000000",
+  "oldest": "1664582458.000000",
+  "messages": [
+    {
+      "client_msg_id": "2e08edc5-d9fe-4eb3-ad6e-17f7705d4e2f",
+      "type": "message",
+      "text": "<https://www.publickey1.jp/blog/20/githubmainmastermain.html>\nそういえば、git のデフォルトブランチ名が main に変わりましたね(git を使っているサーバが古いからようやく気付いた)。これから、white/black とか master/slave あたりの名称もじゃんじゃん変更されていくんでしょうねー。",
+      "user": "U0H9QUFA5",
+      "ts": "1664847472.960079",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "CLEG",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "link",
+                  "url": "https://www.publickey1.jp/blog/20/githubmainmastermain.html"
+                },
+                {
+                  "type": "text",
+                  "text": "\nそういえば、git のデフォルトブランチ名が main に変わりましたね(git を使っているサーバが古いからようやく気付いた)。これから、white/black とか master/slave あたりの名称もじゃんじゃん変更されていくんでしょうねー。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "team": "T0GFBAM8C",
+      "edited": {
+        "user": "U0H9QUFA5",
+        "ts": "1664847522.000000"
+      },
+      "attachments": [
+        {
+          "from_url": "https://www.publickey1.jp/blog/20/githubmainmastermain.html",
+          "image_url": "https://www.publickey1.jp/2020/github_main.gif",
+          "image_width": 358,
+          "image_height": 250,
+          "image_bytes": 34055,
+          "service_icon": "https://www.publickey1.jp/favicon.ico",
+          "id": 1,
+          "original_url": "https://www.publickey1.jp/blog/20/githubmainmastermain.html",
+          "fallback": "GitHub、これから作成するリポジトリのデフォルトブランチ名が「main」に。「master」から「main」へ変更",
+          "text": "GitHubは、これから新規に作成されるリポジトリのデフォルトブランチ名が「main」になると発表しました。これまでデフォルトブランチ名は「master」でした。 既存のリポジトリにはこの変更は適用されませんが、年内にも既存のリポジトリ...",
+          "title": "GitHub、これから作成するリポジトリのデフォルトブランチ名が「main」に。「master」から「main」へ変更",
+          "title_link": "https://www.publickey1.jp/blog/20/githubmainmastermain.html",
+          "service_name": "publickey1.jp"
+        }
+      ]
+    },
+    {
+      "type": "message",
+      "subtype": "channel_join",
+      "ts": "1664594833.452069",
+      "user": "U044A2XSAQ7",
+      "text": "<@U044A2XSAQ7>さんがチャンネルに参加しました",
+      "reactions": [
+        {
+          "name": "archjp",
+          "users": [
+            "U0GFBAM8U"
+          ],
+          "count": 1
+        }
+      ]
+    }
+  ],
+  "has_more": false,
+  "is_limited": true,
+  "pin_count": 16,
+  "channel_actions_ts": null,
+  "channel_actions_count": 0
+}
