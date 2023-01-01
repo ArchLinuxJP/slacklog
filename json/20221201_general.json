@@ -1,0 +1,6065 @@
+{
+  "ok": true,
+  "latest": "1672498800.000000",
+  "oldest": "1669820400.000000",
+  "messages": [
+    {
+      "client_msg_id": "eaa574a3-f525-4c03-bbd9-3f0fec438a32",
+      "type": "message",
+      "text": "必要ないのにエラー出すのはなんか気持ち悪いな",
+      "user": "UGA29R3FH",
+      "ts": "1672388284.434559",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "1ZeSV",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "必要ないのにエラー出すのはなんか気持ち悪いな"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "team": "T0GFBAM8C"
+    },
+    {
+      "client_msg_id": "585a0893-0cb7-44fe-ab27-556e6b05ec03",
+      "type": "message",
+      "text": "以下のoptionalで指定されているものをインストールすることで、上記のエラーは消えました。\n```arrow (optional) - Arrow/Parquet support\ncfitsio (optional) - FITS support\nhdf5 (optional) - HDF5 support\nlibheif (optional) - HEIF support\nlibjxl (optional) - JPEG XL support\nlibwebp (optional) - WebP support\nmariadb-libs (optional) - MySQL support\nnetcdf (optional) - netCDF support\nopenexr (optional) - EXR support\nopenjpeg2 (optional) - JP2 support\npodofo (optional) - PDF support\npoppler (optional) - PDF support\npostgresql-libs (optional) - PostgreSQL support```",
+      "user": "U04GPTZ9ECV",
+      "ts": "1672388255.794899",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "wtdG",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "以下のoptionalで指定されているものをインストールすることで、上記のエラーは消えました。\n"
+                }
+              ]
+            },
+            {
+              "type": "rich_text_preformatted",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "arrow (optional) - Arrow/Parquet support\ncfitsio (optional) - FITS support\nhdf5 (optional) - HDF5 support\nlibheif (optional) - HEIF support\nlibjxl (optional) - JPEG XL support\nlibwebp (optional) - WebP support\nmariadb-libs (optional) - MySQL support\nnetcdf (optional) - netCDF support\nopenexr (optional) - EXR support\nopenjpeg2 (optional) - JP2 support\npodofo (optional) - PDF support\npoppler (optional) - PDF support\npostgresql-libs (optional) - PostgreSQL support"
+                }
+              ],
+              "border": 0
+            }
+          ]
+        }
+      ],
+      "team": "T0GFBAM8C"
+    },
+    {
+      "client_msg_id": "f5b0a757-8b05-4b8c-a07b-c9a9e577249d",
+      "type": "message",
+      "text": "エラーメッセージが出るけど一応動くみたい？？\n&gt; 3.6.0-2 should be reverted to normal\nと書かれているけど、normalではない。\nちょっと上記のバグレポートの議論が理解できなかったので、ポチポチOptionalの依存をインストールしてエラーメッセージを消して利用します。",
+      "user": "U04GPTZ9ECV",
+      "ts": "1672388006.307999",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "KRKsC",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "エラーメッセージが出るけど一応動くみたい？？\n"
+                }
+              ]
+            },
+            {
+              "type": "rich_text_quote",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "3.6.0-2 should be reverted to normal"
+                }
+              ]
+            },
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "と書かれているけど、normalではない。\nちょっと上記のバグレポートの議論が理解できなかったので、ポチポチOptionalの依存をインストールしてエラーメッセージを消して利用します。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "team": "T0GFBAM8C",
+      "edited": {
+        "user": "U04GPTZ9ECV",
+        "ts": "1672388075.000000"
+      }
+    },
+    {
+      "client_msg_id": "c6f5ee9f-e4b2-4901-9e73-cc2b010950e9",
+      "type": "message",
+      "text": "ほぼ同一のバグレポートが出ていますね。\n<https://bugs.archlinux.org/task/75749?project=5&amp;string=gdal>\nバグの再現で利用されている`ogr2ogr` コマンドは `gdalinfo`と同様にgdalコマンドの一つです。",
+      "user": "U04GPTZ9ECV",
+      "ts": "1672387750.700259",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "hPO",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "ほぼ同一のバグレポートが出ていますね。\n"
+                },
+                {
+                  "type": "link",
+                  "url": "https://bugs.archlinux.org/task/75749?project=5&string=gdal"
+                },
+                {
+                  "type": "text",
+                  "text": "\nバグの再現で利用されている"
+                },
+                {
+                  "type": "text",
+                  "text": "ogr2ogr",
+                  "style": {
+                    "code": true
+                  }
+                },
+                {
+                  "type": "text",
+                  "text": " コマンドは "
+                },
+                {
+                  "type": "text",
+                  "text": "gdalinfo",
+                  "style": {
+                    "code": true
+                  }
+                },
+                {
+                  "type": "text",
+                  "text": "と同様にgdalコマンドの一つです。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "team": "T0GFBAM8C",
+      "attachments": [
+        {
+          "from_url": "https://bugs.archlinux.org/task/75749?project=5&string=gdal",
+          "service_icon": "https://bugs.archlinux.org/themes/ArchLinux/favicon.ico",
+          "id": 1,
+          "original_url": "https://bugs.archlinux.org/task/75749?project=5&amp;string=gdal",
+          "fallback": "FS#75749 : [gdal] ERROR 1: libarrow.so.800: cannot open shared object file: No such file or directory",
+          "text": "Flyspray, a Bug Tracking System written in PHP.",
+          "title": "FS#75749 : [gdal] ERROR 1: libarrow.so.800: cannot open shared object file: No such file or directory",
+          "title_link": "https://bugs.archlinux.org/task/75749?project=5&string=gdal",
+          "service_name": "bugs.archlinux.org"
+        }
+      ],
+      "reactions": [
+        {
+          "name": "naruhodo",
+          "users": [
+            "UGA29R3FH"
+          ],
+          "count": 1
+        }
+      ]
+    },
+    {
+      "client_msg_id": "cfc2df38-347d-4e6d-a0d8-cb173a500ad5",
+      "type": "message",
+      "text": "バージョンすら出せないのはoptionalとは言わない",
+      "user": "UGA29R3FH",
+      "ts": "1672387403.851199",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "giW",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "バージョンすら出せないのはoptionalとは言わない"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "team": "T0GFBAM8C"
+    },
+    {
+      "client_msg_id": "90ef8d68-2a26-4172-aa57-ba7351e633c6",
+      "type": "message",
+      "text": "指定ミスだと思うので報告上げておくとよさそう",
+      "user": "UGA29R3FH",
+      "ts": "1672387349.934559",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "CWN",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "指定ミスだと思うので報告上げておくとよさそう"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "team": "T0GFBAM8C"
+    },
+    {
+      "client_msg_id": "6a74a033-4d98-44b9-97b2-974ed20784ba",
+      "type": "message",
+      "text": "<https://archlinux.org/packages/community/x86_64/gdal/|GDAL>という地理空間情報を扱うライブラリをインストールしようとしているのですが、依存関係のエラーが出ます。\n```$ sudo pacman -S gdal```\nでインストールしましたが、実行してみると、\n```$ gdalinfo --version\nERROR 1: libcfitsio.so.10: cannot open shared object file: No such file or directory\nERROR 1: libcfitsio.so.10: cannot open shared object file: No such file or directory\nERROR 1: libarrow_dataset.so.1000: cannot open shared object file: No such file or directory\nERROR 1: libarrow_dataset.so.1000: cannot open shared object file: No such file or directory\nERROR 1: libmariadb.so.3: cannot open shared object file: No such file or directory\nERROR 1: libmariadb.so.3: cannot open shared object file: No such file or directory\nERROR 1: libjxl.so.0.7: cannot open shared object file: No such file or directory\nERROR 1: libjxl.so.0.7: cannot open shared object file: No such file or directory\nERROR 1: libOpenEXR-3_1.so.30: cannot open shared object file: No such file or directory\nERROR 1: libOpenEXR-3_1.so.30: cannot open shared object file: No such file or directory\nERROR 1: libpodofo.so.0.9.8: cannot open shared object file: No such file or directory\nERROR 1: libpodofo.so.0.9.8: cannot open shared object file: No such file or directory\nERROR 1: libarrow.so.1000: cannot open shared object file: No such file or directory\nERROR 1: libarrow.so.1000: cannot open shared object file: No such file or directory\nERROR 1: libheif.so.1: cannot open shared object file: No such file or directory\nERROR 1: libheif.so.1: cannot open shared object file: No such file or directory\nGDAL 3.6.1, released 2022/12/14```\nおそらく、optionalとして指定してあるライブラリがインストールされていないため、エラーになっているようです。\n試しに `sudo pacman -S cfitsio` すると、エラーの最初の二行が消えました。\n\nこれはリポジトリに登録されているrequiredとかoptionalの指定が間違っているのでしょうか。それとも私がなにか悪いのでしょうか。",
+      "user": "U04GPTZ9ECV",
+      "ts": "1672387306.671329",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "FQfi",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "link",
+                  "url": "https://archlinux.org/packages/community/x86_64/gdal/",
+                  "text": "GDAL"
+                },
+                {
+                  "type": "text",
+                  "text": "という地理空間情報を扱うライブラリをインストールしようとしているのですが、依存関係のエラーが出ます。\n"
+                }
+              ]
+            },
+            {
+              "type": "rich_text_preformatted",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "$ sudo pacman -S gdal"
+                }
+              ],
+              "border": 0
+            },
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "でインストールしましたが、実行してみると、\n"
+                }
+              ]
+            },
+            {
+              "type": "rich_text_preformatted",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "$ gdalinfo --version\nERROR 1: libcfitsio.so.10: cannot open shared object file: No such file or directory\nERROR 1: libcfitsio.so.10: cannot open shared object file: No such file or directory\nERROR 1: libarrow_dataset.so.1000: cannot open shared object file: No such file or directory\nERROR 1: libarrow_dataset.so.1000: cannot open shared object file: No such file or directory\nERROR 1: libmariadb.so.3: cannot open shared object file: No such file or directory\nERROR 1: libmariadb.so.3: cannot open shared object file: No such file or directory\nERROR 1: libjxl.so.0.7: cannot open shared object file: No such file or directory\nERROR 1: libjxl.so.0.7: cannot open shared object file: No such file or directory\nERROR 1: libOpenEXR-3_1.so.30: cannot open shared object file: No such file or directory\nERROR 1: libOpenEXR-3_1.so.30: cannot open shared object file: No such file or directory\nERROR 1: libpodofo.so.0.9.8: cannot open shared object file: No such file or directory\nERROR 1: libpodofo.so.0.9.8: cannot open shared object file: No such file or directory\nERROR 1: libarrow.so.1000: cannot open shared object file: No such file or directory\nERROR 1: libarrow.so.1000: cannot open shared object file: No such file or directory\nERROR 1: libheif.so.1: cannot open shared object file: No such file or directory\nERROR 1: libheif.so.1: cannot open shared object file: No such file or directory\nGDAL 3.6.1, released 2022/12/14"
+                }
+              ],
+              "border": 0
+            },
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "おそらく、optionalとして指定してあるライブラリがインストールされていないため、エラーになっているようです。\n試しに "
+                },
+                {
+                  "type": "text",
+                  "text": "sudo pacman -S cfitsio",
+                  "style": {
+                    "code": true
+                  }
+                },
+                {
+                  "type": "text",
+                  "text": " すると、エラーの最初の二行が消えました。\n\nこれはリポジトリに登録されているrequiredとかoptionalの指定が間違っているのでしょうか。それとも私がなにか悪いのでしょうか。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "team": "T0GFBAM8C"
+    },
+    {
+      "type": "message",
+      "subtype": "channel_join",
+      "ts": "1672277017.064919",
+      "user": "U04GG66MXEK",
+      "text": "<@U04GG66MXEK>さんがチャンネルに参加しました",
+      "reactions": [
+        {
+          "name": "archjp-joy",
+          "users": [
+            "U03JYF13SQP",
+            "U0GFBAM8U",
+            "U04GG66MXEK",
+            "U01HE1ENNJZ"
+          ],
+          "count": 4
+        }
+      ]
+    },
+    {
+      "type": "message",
+      "subtype": "thread_broadcast",
+      "text": "ほとんど最新のパッケージが常に使えるのが嬉しいです。",
+      "user": "U04GPTZ9ECV",
+      "ts": "1672225169.100939",
+      "thread_ts": "1672190720.635829",
+      "root": {
+        "client_msg_id": "9CE7DCE5-DB2C-48EF-84BA-E77A0A62C3BB",
+        "type": "message",
+        "text": "こんにちはー\narchlinuxはどうですか?",
+        "user": "U0GFBAM8U",
+        "ts": "1672190720.635829",
+        "blocks": [
+          {
+            "type": "rich_text",
+            "block_id": "ghmK",
+            "elements": [
+              {
+                "type": "rich_text_section",
+                "elements": [
+                  {
+                    "type": "text",
+                    "text": "こんにちはー\narchlinuxはどうですか?"
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "team": "T0GFBAM8C",
+        "thread_ts": "1672190720.635829",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1672225169.100939",
+        "reply_users": [
+          "U04GPTZ9ECV"
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1672225169.100939"
+      },
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "gpC",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "ほとんど最新のパッケージが常に使えるのが嬉しいです。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "client_msg_id": "106648b4-f25c-4599-a2dc-75fee5fb92cb",
+      "reactions": [
+        {
+          "name": "archjp",
+          "users": [
+            "U01792411FA",
+            "U0GFBAM8U",
+            "U045CFM1NNB",
+            "U01HE1ENNJZ"
+          ],
+          "count": 4
+        }
+      ]
+    },
+    {
+      "client_msg_id": "9CE7DCE5-DB2C-48EF-84BA-E77A0A62C3BB",
+      "type": "message",
+      "text": "こんにちはー\narchlinuxはどうですか?",
+      "user": "U0GFBAM8U",
+      "ts": "1672190720.635829",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "ghmK",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "こんにちはー\narchlinuxはどうですか?"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "team": "T0GFBAM8C",
+      "thread_ts": "1672190720.635829",
+      "reply_count": 1,
+      "reply_users_count": 1,
+      "latest_reply": "1672225169.100939",
+      "reply_users": [
+        "U04GPTZ9ECV"
+      ],
+      "is_locked": false,
+      "subscribed": true,
+      "last_read": "1672225169.100939",
+      "reactions": [
+        {
+          "name": "+1",
+          "users": [
+            "U04GPTZ9ECV"
+          ],
+          "count": 1
+        }
+      ]
+    },
+    {
+      "client_msg_id": "f56bde13-67db-484d-a97e-260e81a99e1c",
+      "type": "message",
+      "text": "はじめまして。arch linuxを使い始めました。Ubuntuからの乗り換えです。昔、OpenSUSEを使っていたので、KDE plasmaで使い始めてみました。",
+      "user": "U04GPTZ9ECV",
+      "ts": "1672181768.255829",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "dbT",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "はじめまして。arch linuxを使い始めました。Ubuntuからの乗り換えです。昔、OpenSUSEを使っていたので、KDE plasmaで使い始めてみました。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "team": "T0GFBAM8C",
+      "reactions": [
+        {
+          "name": "arch-joy",
+          "users": [
+            "U02SRH9D0DP",
+            "U03V6F8CBFA",
+            "U6DL9D3AB",
+            "UGA29R3FH",
+            "U027RN1LZT6",
+            "U0GFBAM8U",
+            "U03JYF13SQP",
+            "UCA1NQM5K",
+            "U01JJAE8LMA",
+            "U045CFM1NNB"
+          ],
+          "count": 10
+        }
+      ]
+    },
+    {
+      "type": "message",
+      "subtype": "channel_join",
+      "ts": "1672181467.959569",
+      "user": "U04GPTZ9ECV",
+      "text": "<@U04GPTZ9ECV>さんがチャンネルに参加しました",
+      "reactions": [
+        {
+          "name": "archjp-joy",
+          "users": [
+            "U03JYF13SQP"
+          ],
+          "count": 1
+        }
+      ]
+    },
+    {
+      "client_msg_id": "cb62bc57-88fc-4887-bafc-bbd100ef6782",
+      "type": "message",
+      "text": "わかりやすい回答ありがとうございます",
+      "user": "U04EX525WNA",
+      "ts": "1672071825.693599",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "TdwYN",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "わかりやすい回答ありがとうございます"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "team": "T0GFBAM8C"
+    },
+    {
+      "client_msg_id": "07519828-6612-4325-834f-7aa78eb5281b",
+      "type": "message",
+      "text": "必須ではないとは思いますが、インストール時に無線しか無い場合もあって、あったほうが便利かもですねー",
+      "user": "U0PM6EYR1",
+      "ts": "1672063917.267989",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "75G",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "必須ではないとは思いますが、インストール時に無線しか無い場合もあって、あったほうが便利かもですねー"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "team": "T0GFBAM8C"
+    },
+    {
+      "type": "message",
+      "subtype": "channel_join",
+      "ts": "1672057991.828799",
+      "user": "U04H10SG8QZ",
+      "text": "<@U04H10SG8QZ>さんがチャンネルに参加しました",
+      "reactions": [
+        {
+          "name": "archjp-joy",
+          "users": [
+            "U03JYF13SQP"
+          ],
+          "count": 1
+        }
+      ]
+    },
+    {
+      "client_msg_id": "52634b82-3b57-4fb5-ae83-58cbb8fc1c7e",
+      "type": "message",
+      "text": "これって必須だったりしますか？",
+      "user": "U04EX525WNA",
+      "ts": "1672057453.596989",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "xrdRC",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "これって必須だったりしますか？"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "team": "T0GFBAM8C"
+    },
+    {
+      "client_msg_id": "8a45a29b-e839-4f58-b950-2cea271e4f55",
+      "type": "message",
+      "text": "大抵は内蔵の無線LAN向けです",
+      "user": "U0PM6EYR1",
+      "ts": "1672044591.563629",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "Ag6I",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "大抵は内蔵の無線LAN向けです"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "team": "T0GFBAM8C",
+      "reactions": [
+        {
+          "name": "+1",
+          "users": [
+            "U04EX525WNA"
+          ],
+          "count": 1
+        }
+      ]
+    },
+    {
+      "client_msg_id": "a85f45b1-500d-4192-ab62-62d31b5e11bb",
+      "type": "message",
+      "text": "無線LANアダプタのドライバですね",
+      "user": "U0PM6EYR1",
+      "ts": "1672044578.653499",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "wfU",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "無線LANアダプタのドライバですね"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "team": "T0GFBAM8C"
+    },
+    {
+      "client_msg_id": "876ff85c-cbef-4a91-9282-2cb72190ad67",
+      "type": "message",
+      "text": "とあるディストロでmkarchisoしてたらipw2100-fwのパッケージの対象がないって出るけど、これの正体って何なのでしょうか？",
+      "user": "U04EX525WNA",
+      "ts": "1672044493.722749",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "4qaT",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "とあるディストロでmkarchisoしてたらipw2100-fwのパッケージの対象がないって出るけど、これの正体って何なのでしょうか？"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "team": "T0GFBAM8C"
+    },
+    {
+      "client_msg_id": "bc4402a8-0ee2-4009-a68f-d8861bfa2e1c",
+      "type": "message",
+      "text": "ご教授ありがとうございます。obsidianを使ってメモしておきます。",
+      "user": "U046DBL3GUC",
+      "ts": "1671966644.765509",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "9+vI",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "ご教授ありがとうございます。obsidianを使ってメモしておきます。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "team": "T0GFBAM8C"
+    },
+    {
+      "client_msg_id": "0149cab2-fc98-4c6c-acbb-f89c765e1011",
+      "type": "message",
+      "text": "すべてGimpでやってる",
+      "user": "UAPRYSVPS",
+      "ts": "1671944350.306489",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "UcIXB",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "すべてGimpでやってる"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "team": "T0GFBAM8C",
+      "reactions": [
+        {
+          "name": "me-too",
+          "users": [
+            "U03JYF13SQP"
+          ],
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "message",
+      "subtype": "thread_broadcast",
+      "text": "(パーセントは付けなくていいぽい)",
+      "user": "U0GFBAM8U",
+      "ts": "1671932695.135949",
+      "thread_ts": "1671931892.770489",
+      "root": {
+        "client_msg_id": "55170B29-6845-44A3-9940-CF3703D05DAB",
+        "type": "message",
+        "text": "なんかクオリティのパーセントでサイズ落とせた記憶",
+        "user": "U0GFBAM8U",
+        "ts": "1671931892.770489",
+        "blocks": [
+          {
+            "type": "rich_text",
+            "block_id": "ezS",
+            "elements": [
+              {
+                "type": "rich_text_section",
+                "elements": [
+                  {
+                    "type": "text",
+                    "text": "なんかクオリティのパーセントでサイズ落とせた記憶"
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "team": "T0GFBAM8C",
+        "thread_ts": "1671931892.770489",
+        "reply_count": 2,
+        "reply_users_count": 1,
+        "latest_reply": "1671932695.135949",
+        "reply_users": [
+          "U0GFBAM8U"
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1671932695.135949"
+      },
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "m+r5",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "(パーセントは付けなくていいぽい)"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "client_msg_id": "e2b6fac6-0ecb-470a-8f70-3392c26b2dc4"
+    },
+    {
+      "type": "message",
+      "subtype": "thread_broadcast",
+      "text": "```$ convert -quality 80% in.jpg out.jpg```",
+      "user": "U0GFBAM8U",
+      "ts": "1671932664.737399",
+      "thread_ts": "1671931892.770489",
+      "root": {
+        "client_msg_id": "55170B29-6845-44A3-9940-CF3703D05DAB",
+        "type": "message",
+        "text": "なんかクオリティのパーセントでサイズ落とせた記憶",
+        "user": "U0GFBAM8U",
+        "ts": "1671931892.770489",
+        "blocks": [
+          {
+            "type": "rich_text",
+            "block_id": "ezS",
+            "elements": [
+              {
+                "type": "rich_text_section",
+                "elements": [
+                  {
+                    "type": "text",
+                    "text": "なんかクオリティのパーセントでサイズ落とせた記憶"
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "team": "T0GFBAM8C",
+        "thread_ts": "1671931892.770489",
+        "reply_count": 2,
+        "reply_users_count": 1,
+        "latest_reply": "1671932695.135949",
+        "reply_users": [
+          "U0GFBAM8U"
+        ],
+        "is_locked": false,
+        "subscribed": true,
+        "last_read": "1671932695.135949"
+      },
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "gVzr",
+          "elements": [
+            {
+              "type": "rich_text_preformatted",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "$ convert -quality 80% in.jpg out.jpg"
+                }
+              ],
+              "border": 0
+            }
+          ]
+        }
+      ],
+      "client_msg_id": "184de4e0-92d3-4b82-8b0d-71a3ca2f57dd"
+    },
+    {
+      "client_msg_id": "1df3d846-0cba-45fe-bc43-235939134a06",
+      "type": "message",
+      "text": "アイコンの変換はこんな感じなんじゃない？\n```convert archlinuxjp.svg -resize 32x32 archlinuxjp.png```",
+      "user": "U0H9QUFA5",
+      "ts": "1671932098.516389",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "mX0sB",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "アイコンの変換はこんな感じなんじゃない？\n"
+                }
+              ]
+            },
+            {
+              "type": "rich_text_preformatted",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "convert archlinuxjp.svg -resize 32x32 archlinuxjp.png"
+                }
+              ],
+              "border": 0
+            }
+          ]
+        }
+      ],
+      "team": "T0GFBAM8C"
+    },
+    {
+      "client_msg_id": "64a8a264-2979-417d-b536-55a75ea4c080",
+      "type": "message",
+      "text": "%指定もできるよね。でも、リサイズしたい時は、ほぼピクセル上限が決ってることがおおいから、あまりつかってないな。",
+      "user": "U0H9QUFA5",
+      "ts": "1671931982.498769",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "/uw",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "%指定もできるよね。でも、リサイズしたい時は、ほぼピクセル上限が決ってることがおおいから、あまりつかってないな。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "team": "T0GFBAM8C"
+    },
+    {
+      "client_msg_id": "DC5DC5B6-3D18-4E06-A5BD-29CEF59ADEFD",
+      "type": "message",
+      "text": "あと単純にpngからjpgにするとサイズ落とせそう",
+      "user": "U0GFBAM8U",
+      "ts": "1671931918.252769",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "+6+",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "あと単純にpngからjpgにするとサイズ落とせそう"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "team": "T0GFBAM8C"
+    },
+    {
+      "client_msg_id": "55170B29-6845-44A3-9940-CF3703D05DAB",
+      "type": "message",
+      "text": "なんかクオリティのパーセントでサイズ落とせた記憶",
+      "user": "U0GFBAM8U",
+      "ts": "1671931892.770489",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "ezS",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "なんかクオリティのパーセントでサイズ落とせた記憶"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "team": "T0GFBAM8C",
+      "thread_ts": "1671931892.770489",
+      "reply_count": 2,
+      "reply_users_count": 1,
+      "latest_reply": "1671932695.135949",
+      "reply_users": [
+        "U0GFBAM8U"
+      ],
+      "is_locked": false,
+      "subscribed": true,
+      "last_read": "1671932695.135949"
+    },
+    {
+      "client_msg_id": "38197551-1a0e-40ff-a7b6-63b9ab3a8fea",
+      "type": "message",
+      "text": "x=1024(yは可変) にリサイズ\n```convert IMAG0471.jpg -resize 1024x camera.jpg```",
+      "user": "U0H9QUFA5",
+      "ts": "1671931814.981909",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "U2Yz",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "x=1024(yは可変) にリサイズ\n"
+                }
+              ]
+            },
+            {
+              "type": "rich_text_preformatted",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "convert IMAG0471.jpg -resize 1024x camera.jpg"
+                }
+              ],
+              "border": 0
+            }
+          ]
+        }
+      ],
+      "team": "T0GFBAM8C"
+    },
+    {
+      "client_msg_id": "3fbe0a7b-c441-4649-b688-b879cb7cedce",
+      "type": "message",
+      "text": "imagemagick の convert の動作を絵付きで解説したページがあって、重宝していたんだけど、今はみつからないなあ。",
+      "user": "U0H9QUFA5",
+      "ts": "1671931400.288529",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "uHhOD",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "imagemagick の convert の動作を絵付きで解説したページがあって、重宝していたんだけど、今はみつからないなあ。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "team": "T0GFBAM8C"
+    },
+    {
+      "client_msg_id": "29662a6a-1778-4921-8ee5-aceb12fd5e4e",
+      "type": "message",
+      "text": "このアイコンもimagemagickでレンダリングしたはず（元はSVG）なのにもう何も覚えてない",
+      "user": "UGA29R3FH",
+      "ts": "1671900043.687169",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "P=4xS",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "このアイコンもimagemagickでレンダリングしたはず（元はSVG）なのにもう何も覚えてない"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "team": "T0GFBAM8C"
+    },
+    {
+      "client_msg_id": "ce669847-306f-419a-91b5-792bb1849e73",
+      "type": "message",
+      "text": "基本的には `convert input.[ext] output.[ext]` なんですよね\nオプションは多すぎる",
+      "user": "U0PM6EYR1",
+      "ts": "1671898242.499919",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "9xk",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "基本的には "
+                },
+                {
+                  "type": "text",
+                  "text": "convert input.[ext] output.[ext]",
+                  "style": {
+                    "code": true
+                  }
+                },
+                {
+                  "type": "text",
+                  "text": " なんですよね\nオプションは多すぎる"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "team": "T0GFBAM8C",
+      "reactions": [
+        {
+          "name": "wakaru",
+          "users": [
+            "UGA29R3FH",
+            "U0H9QUFA5"
+          ],
+          "count": 2
+        }
+      ]
+    },
+    {
+      "client_msg_id": "28db34db-cfa3-4b98-a15a-8ba4a8e85abb",
+      "type": "message",
+      "text": "imagemagick便利（なお使い方が一生覚えられない）",
+      "user": "UGA29R3FH",
+      "ts": "1671897644.889379",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "8+so/",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "imagemagick便利（なお使い方が一生覚えられない）"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "team": "T0GFBAM8C"
+    },
+    {
+      "client_msg_id": "BAC58691-8390-450E-8D37-25C0E7168436",
+      "type": "message",
+      "text": "squoosh-cliとかも便利だけどnodeなのでインストールが面倒かも",
+      "user": "U0GFBAM8U",
+      "ts": "1671890448.602649",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "aciVO",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "squoosh-cliとかも便利だけどnodeなのでインストールが面倒かも"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "team": "T0GFBAM8C"
+    },
+    {
+      "client_msg_id": "5A1BC09F-A2A5-4E41-A3E2-DE62EB7DB2E4",
+      "type": "message",
+      "text": "imagemagick使ってます",
+      "user": "U0GFBAM8U",
+      "ts": "1671890211.386629",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "ubW",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "imagemagick使ってます"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "team": "T0GFBAM8C",
+      "edited": {
+        "user": "U0GFBAM8U",
+        "ts": "1671890541.000000"
+      },
+      "reactions": [
+        {
+          "name": "me-too",
+          "users": [
+            "UGA29R3FH"
+          ],
+          "count": 1
+        }
+      ]
+    },
+    {
+      "client_msg_id": "2c377a24-630a-4389-91eb-c64dbc9d1b30",
+      "type": "message",
+      "text": "facebookの写真投稿は１２００＊１２００ピクセル１．４MBらしいのですが、私のカメラは２MBでおもすぎるようです。データサイズを軽くするArchソフトが見つからないのですが、皆さんはどうしていますか？ご教授ください。",
+      "user": "U046DBL3GUC",
+      "ts": "1671890143.369399",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "nH5",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "facebookの写真投稿は１２００＊１２００ピクセル１．４MBらしいのですが、私のカメラは２MBでおもすぎるようです。データサイズを軽くするArchソフトが見つからないのですが、皆さんはどうしていますか？ご教授ください。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "team": "T0GFBAM8C"
+    },
+    {
+      "type": "message",
+      "subtype": "channel_join",
+      "ts": "1671685443.651479",
+      "user": "U04G73X4R9T",
+      "text": "<@U04G73X4R9T>さんがチャンネルに参加しました",
+      "reactions": [
+        {
+          "name": "archjp-joy",
+          "users": [
+            "U03JYF13SQP",
+            "U0GFBAM8U",
+            "U01HE1ENNJZ"
+          ],
+          "count": 3
+        }
+      ]
+    },
+    {
+      "client_msg_id": "2bef3dee-b9cc-4614-9acc-6b194966166b",
+      "type": "message",
+      "text": "&gt; 24時間に連続2件の制限\nと仰られていますが、待てば投稿できるということでしょうか？",
+      "user": "UUWBU08TU",
+      "ts": "1671608745.757849",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "Kw2=u",
+          "elements": [
+            {
+              "type": "rich_text_quote",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "24時間に連続2件の制限"
+                }
+              ]
+            },
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "と仰られていますが、待てば投稿できるということでしょうか？"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "team": "T0GFBAM8C",
+      "thread_ts": "1671608745.757849",
+      "reply_count": 1,
+      "reply_users_count": 1,
+      "latest_reply": "1671875998.049659",
+      "reply_users": [
+        "U046DBL3GUC"
+      ],
+      "is_locked": false,
+      "subscribed": false
+    },
+    {
+      "client_msg_id": "a49c27da-a759-4098-889c-8b54fe899874",
+      "type": "message",
+      "text": "LibleOfficeのバグについて「<http://ask.libreoffice.org|ask.libreoffice.org>」の日本担当者に問われたことに返信したいのですが、どなたか連絡先をご存知ありませんか？\nいまだにメールで返事の催促をいただくのですが、投稿場所には、新人が投稿数を２つに制限され返事ができません。編集もできず回答できないのです。環境や条件の問いに答え、バグの改善を願いたいのです。メールが来ても、返事の宛先にできぬアドレスで、通信ができません。日本担当者に連絡したいのです。担当者かリスナーが数名いらっしゃるようですが、通信のままならない状況で、困惑し、失礼を続けています。Saburo Yoshida 氏Shinji Enoki 氏",
+      "user": "U046DBL3GUC",
+      "ts": "1671589403.046169",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "+YI",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "LibleOfficeのバグについて「"
+                },
+                {
+                  "type": "link",
+                  "url": "http://ask.libreoffice.org",
+                  "text": "ask.libreoffice.org"
+                },
+                {
+                  "type": "text",
+                  "text": "」の日本担当者に問われたことに返信したいのですが、どなたか連絡先をご存知ありませんか？\nいまだにメールで返事の催促をいただくのですが、投稿場所には、新人が投稿数を２つに制限され返事ができません。編集もできず回答できないのです。環境や条件の問いに答え、バグの改善を願いたいのです。メールが来ても、返事の宛先にできぬアドレスで、通信ができません。日本担当者に連絡したいのです。担当者かリスナーが数名いらっしゃるようですが、通信のままならない状況で、困惑し、失礼を続けています。Saburo Yoshida 氏Shinji Enoki 氏"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "team": "T0GFBAM8C",
+      "edited": {
+        "user": "U046DBL3GUC",
+        "ts": "1671590134.000000"
+      },
+      "reactions": [
+        {
+          "name": "thinking_face",
+          "users": [
+            "U0H9QUFA5"
+          ],
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "message",
+      "subtype": "thread_broadcast",
+      "text": "unicode(UTF8)で読めました。「列の種類」は「テキスト」で読み込は読み込むときに列ごとに文字の種類を日付などとしていができるのですね。　ご指摘をいただかないとどちらもわかりませんでした。ありがとうございます。",
+      "user": "U046DBL3GUC",
+      "ts": "1671588436.564249",
+      "thread_ts": "1671240213.804879",
+      "root": {
+        "client_msg_id": "ee1614df-02c9-4c22-9b38-65d7d31cedd5",
+        "type": "message",
+        "text": "LibleOfficeWriterでは数々のバグに出会いました。こんがらかる話かと思うのでそのうちに機会があれば私の事件と環境をお知らせしたいと思います。「　<https://ask.libreoffice.org/t/csv/85202>　」に\nひとつ知らせたのですが、投稿数と編集数等に数々の項目で制限があって、投稿が続けられないので、機器条件など問われたのに回答ができなくて交流が進まなくなってしまいました。入会初心者はスレッドと編集が最大2件までの制限、文字数制限、24時間に連続2件の制限があったのです。環境を問う回答を早速くださったのにお答えできないのが残念です。　Calcでは筆まめで保存したcsvファイルガCalcで読み込むと文字化けで使えませんでした。でもクロームブックのGoogleオフィスの表で保存したcsvファイルからは文字化けせずに使えました。",
+        "user": "U046DBL3GUC",
+        "ts": "1671240213.804879",
+        "blocks": [
+          {
+            "type": "rich_text",
+            "block_id": "eMfU",
+            "elements": [
+              {
+                "type": "rich_text_section",
+                "elements": [
+                  {
+                    "type": "text",
+                    "text": "LibleOfficeWriterでは数々のバグに出会いました。こんがらかる話かと思うのでそのうちに機会があれば私の事件と環境をお知らせしたいと思います。「　"
+                  },
+                  {
+                    "type": "link",
+                    "url": "https://ask.libreoffice.org/t/csv/85202"
+                  },
+                  {
+                    "type": "text",
+                    "text": "　」に\nひとつ知らせたのですが、投稿数と編集数等に数々の項目で制限があって、投稿が続けられないので、機器条件など問われたのに回答ができなくて交流が進まなくなってしまいました。入会初心者はスレッドと編集が最大2件までの制限、文字数制限、24時間に連続2件の制限があったのです。環境を問う回答を早速くださったのにお答えできないのが残念です。　Calcでは筆まめで保存したcsvファイルガCalcで読み込むと文字化けで使えませんでした。でもクロームブックのGoogleオフィスの表で保存したcsvファイルからは文字化けせずに使えました。"
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "team": "T0GFBAM8C",
+        "edited": {
+          "user": "U046DBL3GUC",
+          "ts": "1671240668.000000"
+        },
+        "attachments": [
+          {
+            "from_url": "https://ask.libreoffice.org/t/csv/85202",
+            "ts": 1670800600,
+            "thumb_url": "https://ask.libreoffice.org/uploads/asklibo/original/1X/349bf948f8eef82959e42163f3882a22fb2256e0.png",
+            "thumb_width": 120,
+            "thumb_height": 120,
+            "service_icon": "https://ask.libreoffice.org/uploads/asklibo/optimized/1X/349bf948f8eef82959e42163f3882a22fb2256e0_2_180x180.png",
+            "id": 1,
+            "original_url": "https://ask.libreoffice.org/t/csv/85202",
+            "fallback": "Ask LibreOffice: クロームブックで作ったcsvファイルの文字化け",
+            "text": "CalcにクロームブックのGooglSheetで作ったcsvをインポートさせたかったのですが、どの種類を選んでも、日本語のすべてが文字化けしました。読めるように文字化けしないように改良をお願いします。",
+            "title": "クロームブックで作ったcsvファイルの文字化け",
+            "title_link": "https://ask.libreoffice.org/t/csv/85202",
+            "service_name": "Ask LibreOffice",
+            "fields": [
+              {
+                "value": "1 mins :clock2:",
+                "title": "Reading time",
+                "short": true
+              },
+              {
+                "value": "3 :heart:",
+                "title": "Likes",
+                "short": true
+              }
+            ]
+          }
+        ],
+        "thread_ts": "1671240213.804879",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1671588436.564249",
+        "reply_users": [
+          "UEED0BQ4A",
+          "U046DBL3GUC"
+        ],
+        "is_locked": false,
+        "subscribed": false
+      },
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "av+",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "unicode(UTF8)で読めました。「列の種類」は「テキスト」で読み込は読み込むときに列ごとに文字の種類を日付などとしていができるのですね。　ご指摘をいただかないとどちらもわかりませんでした。ありがとうございます。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "client_msg_id": "eea9e9b0-52e2-4c23-99ec-96c72f08dda6",
+      "reactions": [
+        {
+          "name": "+1",
+          "users": [
+            "UEED0BQ4A"
+          ],
+          "count": 1
+        }
+      ]
+    },
+    {
+      "client_msg_id": "7f977ae5-2f2c-4db5-b9fa-a27786bdf0ed",
+      "type": "message",
+      "text": "Steam Deck をやっと開封できた。ゲームもできる Arch マシンとして買ったけど、ゲーム機としての完成度にひびった。64GBストレージとけちったので、大作ゲームは入れられず、Vampire Survivir とメタルギア5グラウンドゼロをプレイした。あれこのゲーム Linux 版だったっけと思うほどなんの問題もなくプレーできた。画面のサイズ感もちょうど良いし、音もいい。ええ買い物やった。\nArch 情報はまた今度。",
+      "user": "U0H9QUFA5",
+      "ts": "1671545899.049379",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "8Bnbc",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "Steam Deck をやっと開封できた。ゲームもできる Arch マシンとして買ったけど、ゲーム機としての完成度にひびった。64GBストレージとけちったので、大作ゲームは入れられず、Vampire Survivir とメタルギア5グラウンドゼロをプレイした。あれこのゲーム Linux 版だったっけと思うほどなんの問題もなくプレーできた。画面のサイズ感もちょうど良いし、音もいい。ええ買い物やった。\nArch 情報はまた今度。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "team": "T0GFBAM8C",
+      "reactions": [
+        {
+          "name": "eyes",
+          "users": [
+            "UGA29R3FH",
+            "U6DL9D3AB",
+            "U027RN1LZT6",
+            "U02MLKKUXMF",
+            "UUWBU08TU",
+            "UPYQ3CUJ1",
+            "UAPRYSVPS"
+          ],
+          "count": 7
+        },
+        {
+          "name": "video_game",
+          "users": [
+            "U0GFBAM8U"
+          ],
+          "count": 1
+        }
+      ]
+    },
+    {
+      "client_msg_id": "9bae7ca8-fe91-47d4-b0d6-b55715081cfb",
+      "type": "message",
+      "text": "Chromiumにそんな機能あったんや。知らんかった。",
+      "user": "U0H9QUFA5",
+      "ts": "1671529558.766179",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "uxl",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "Chromiumにそんな機能あったんや。知らんかった。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "team": "T0GFBAM8C",
+      "reactions": [
+        {
+          "name": "me-too",
+          "users": [
+            "UGA29R3FH"
+          ],
+          "count": 1
+        }
+      ]
+    },
+    {
+      "client_msg_id": "87c0c32b-028a-410e-bc02-9261e6ce821e",
+      "type": "message",
+      "text": "使ってないので知らないな（マイクも普段繋いでないし）",
+      "user": "UGA29R3FH",
+      "ts": "1671529448.823949",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "sb6",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "使ってないので知らないな（マイクも普段繋いでないし）"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "team": "T0GFBAM8C"
+    },
+    {
+      "client_msg_id": "74ae82c9-811f-4cc8-a0da-1220075caf5e",
+      "type": "message",
+      "text": "こんにちは\nＡｒｃｈｌｉｎｕｘ（AlterLinux）のブラウザにChromium\nバージョン: 108.0.5359.98（Official Build）Arch Linux （64 ビット）を使っています。検索窓に音声認識のボタンがあり、うまく働いています。そこでLibreOfficeにも使いたいものだと思うのですが、皆さんは音声認識を使っていらっしゃいますか？ArchLinuxでは音声認識のソフトがありますか？",
+      "user": "U046DBL3GUC",
+      "ts": "1671525117.824639",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "0RB",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "こんにちは\nＡｒｃｈｌｉｎｕｘ（AlterLinux）のブラウザにChromium\nバージョン: 108.0.5359.98（Official Build）Arch Linux （64 ビット）を使っています。検索窓に音声認識のボタンがあり、うまく働いています。そこでLibreOfficeにも使いたいものだと思うのですが、皆さんは音声認識を使っていらっしゃいますか？ArchLinuxでは音声認識のソフトがありますか？"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "team": "T0GFBAM8C"
+    },
+    {
+      "type": "message",
+      "subtype": "thread_broadcast",
+      "text": "遅くなりました\nただエイリアスを登録しているだけでこの2つを追加しています\n因みにzshです\n\n`command -v trash-put &amp;&gt; /dev/null &amp;&amp; alias rm='trash-put'`\n\n`alias rm!='\\rm -rf'`",
+      "user": "v3rn3j",
+      "ts": "1671355567.793519",
+      "thread_ts": "1671327830.393879",
+      "root": {
+        "client_msg_id": "1dd9954f-34ef-4ce0-9cc2-2353d24f09c8",
+        "type": "message",
+        "text": "おー、それ、どうやってやるの？おしえてー。、",
+        "user": "U0H9QUFA5",
+        "ts": "1671327830.393879",
+        "blocks": [
+          {
+            "type": "rich_text",
+            "block_id": "=Ii",
+            "elements": [
+              {
+                "type": "rich_text_section",
+                "elements": [
+                  {
+                    "type": "text",
+                    "text": "おー、それ、どうやってやるの？おしえてー。、"
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "team": "T0GFBAM8C",
+        "thread_ts": "1671327830.393879",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1671356954.571909",
+        "reply_users": [
+          "v3rn3j",
+          "U0H9QUFA5"
+        ],
+        "is_locked": false,
+        "subscribed": false
+      },
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "y7b9",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "遅くなりました\nただエイリアスを登録しているだけでこの2つを追加しています\n因みにzshです\n\n"
+                },
+                {
+                  "type": "text",
+                  "text": "command -v trash-put &> /dev/null && alias rm='trash-put'",
+                  "style": {
+                    "code": true
+                  }
+                },
+                {
+                  "type": "text",
+                  "text": "\n\n"
+                },
+                {
+                  "type": "text",
+                  "text": "alias rm!='\\rm -rf'",
+                  "style": {
+                    "code": true
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "client_msg_id": "3f0690c7-015c-432e-a886-0399bd438edb",
+      "reactions": [
+        {
+          "name": "naruhodo",
+          "users": [
+            "U02SRH9D0DP"
+          ],
+          "count": 1
+        }
+      ]
+    },
+    {
+      "client_msg_id": "daa83900-8ab1-484b-9262-b8d513b8ed20",
+      "type": "message",
+      "text": "事故防止のための運用なら正しいプロセスで電源を切ると消えるとかよさそう",
+      "user": "UGA29R3FH",
+      "ts": "1671342299.113569",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "dVuls",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "事故防止のための運用なら正しいプロセスで電源を切ると消えるとかよさそう"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "team": "T0GFBAM8C"
+    },
+    {
+      "client_msg_id": "6190E890-6757-4A4D-91B1-E257C34376B1",
+      "type": "message",
+      "text": "ただ、たぶんtrashは容量食ってしまうので頻繁に空にするコマンド打つか、-rfのとき限定の運用も良さそうなので、好みや環境によりそうな気もしてる",
+      "user": "U0GFBAM8U",
+      "ts": "1671339949.359279",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "D7O",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "ただ、たぶんtrashは容量食ってしまうので頻繁に空にするコマンド打つか、-rfのとき限定の運用も良さそうなので、好みや環境によりそうな気もしてる"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "team": "T0GFBAM8C"
+    },
+    {
+      "client_msg_id": "799F638E-4832-42AC-AFA7-13B654CECAED",
+      "type": "message",
+      "text": "よさそう",
+      "user": "U0GFBAM8U",
+      "ts": "1671339748.081139",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "zb8",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "よさそう"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "team": "T0GFBAM8C"
+    },
+    {
+      "client_msg_id": "9c2b5153-525a-44c8-8ce7-62d95c4efe91",
+      "type": "message",
+      "text": "自分は環境にあればaliasとして貼る運用してますが、こんな使い方の人が多いじゃないでしょうか\nこれだと-rfがなくてもゴミ箱に放り込んでくれます\n<https://github.com/endaaman/dotfiles/blob/master/zshrc#L616-L618|https://github.com/endaaman/dotfiles/blob/master/zshrc#L616-L618>",
+      "user": "U4XEJUJ8K",
+      "ts": "1671339586.417449",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "iJQ",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "自分は環境にあればaliasとして貼る運用してますが、こんな使い方の人が多いじゃないでしょうか\nこれだと-rfがなくてもゴミ箱に放り込んでくれます\n"
+                },
+                {
+                  "type": "link",
+                  "url": "https://github.com/endaaman/dotfiles/blob/master/zshrc#L616-L618",
+                  "text": "https://github.com/endaaman/dotfiles/blob/master/zshrc#L616-L618"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "team": "T0GFBAM8C",
+      "attachments": [
+        {
+          "id": 1,
+          "footer_icon": "https://slack.github.com/static/img/favicon-neutral.png",
+          "color": "24292f",
+          "bot_id": "B03JFQRLYDD",
+          "app_unfurl_url": "https://github.com/endaaman/dotfiles/blob/master/zshrc#L616-L618",
+          "is_app_unfurl": true,
+          "app_id": "A01BP7R4KNY",
+          "fallback": "<https://github.com/endaaman/dotfiles/blob/master/zshrc | zshrc>",
+          "text": "```\nif which trash-put &> /dev/null; then\n  alias rm='trash-put'\nfi\n```",
+          "title": "<https://github.com/endaaman/dotfiles/blob/master/zshrc | zshrc>",
+          "footer": "<https://github.com/endaaman/dotfiles|endaaman/dotfiles>",
+          "mrkdwn_in": [
+            "text"
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "6a013ad6-d82f-48d6-a050-5ea0e0fcd450",
+      "type": "message",
+      "text": "$*",
+      "user": "U0GFBAM8U",
+      "ts": "1671332258.206059",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "PH0td",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "$*"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "team": "T0GFBAM8C"
+    },
+    {
+      "client_msg_id": "e244b2c1-24de-4904-98db-bd8ccf39eb41",
+      "type": "message",
+      "text": "あとさっきのバインドのやつ、すみません\nダブルクオーテーションで囲ってしまってたので動かないので修正",
+      "user": "U0GFBAM8U",
+      "ts": "1671332182.783859",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "VaSLH",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "あとさっきのバインドのやつ、すみません\nダブルクオーテーションで囲ってしまってたので動かないので修正"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "team": "T0GFBAM8C"
+    },
+    {
+      "client_msg_id": "d21bb549-b600-490b-815c-27fa41adb08b",
+      "type": "message",
+      "text": "いや、なんか全般的にzshの挙動がおかしいというかちょっと変わってる気がする",
+      "user": "U0GFBAM8U",
+      "ts": "1671331881.194249",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "W1H",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "いや、なんか全般的にzshの挙動がおかしいというかちょっと変わってる気がする"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "team": "T0GFBAM8C"
+    },
+    {
+      "client_msg_id": "aa8ed2b5-1b69-448a-a09f-16c59428f86f",
+      "type": "message",
+      "text": "trash コマンド、zsh 補完がきかないの俺だけ？",
+      "user": "U0H9QUFA5",
+      "ts": "1671331678.112779",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "tG5",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "trash コマンド、zsh 補完がきかないの俺だけ？"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "team": "T0GFBAM8C"
+    },
+    {
+      "client_msg_id": "14c5f62a-0887-42fd-9d15-7771af22673e",
+      "type": "message",
+      "text": "trash-putなら-rf付けても問題なさそう\ntrash-listで見てtrash-restoreで回復できた",
+      "user": "U0GFBAM8U",
+      "ts": "1671331200.048219",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "JDH9r",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "trash-putなら-rf付けても問題なさそう\ntrash-listで見てtrash-restoreで回復できた"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "team": "T0GFBAM8C",
+      "reactions": [
+        {
+          "name": "benri",
+          "users": [
+            "UGA29R3FH"
+          ],
+          "count": 1
+        }
+      ]
+    },
+    {
+      "client_msg_id": "58e3ec26-7a4a-4251-971a-83f846ec9164",
+      "type": "message",
+      "text": "trash-cli使ってる、便利",
+      "user": "U0GFBAM8U",
+      "ts": "1671331167.005119",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "y1rE",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "trash-cli使ってる、便利"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "team": "T0GFBAM8C"
+    },
+    {
+      "client_msg_id": "0c80c6b3-9ce6-45f3-b497-d580d0b66787",
+      "type": "message",
+      "text": "rmはついつい -rf 付けちゃうんですよね、その癖を直したい",
+      "user": "U0GFBAM8U",
+      "ts": "1671330605.495509",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "J2B3",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "rmはついつい -rf 付けちゃうんですよね、その癖を直したい"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "team": "T0GFBAM8C"
+    },
+    {
+      "client_msg_id": "e5397f2c-28f7-4bdc-8f49-3913d357279d",
+      "type": "message",
+      "text": "一応、バインドぽい仕組みできた <https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1671330099597029?thread_ts=1671329160.884459&amp;cid=C0GFH3RHC>",
+      "user": "U0GFBAM8U",
+      "ts": "1671330297.591009",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "dldU",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "一応、バインドぽい仕組みできた "
+                },
+                {
+                  "type": "link",
+                  "url": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1671330099597029?thread_ts=1671329160.884459&cid=C0GFH3RHC"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "team": "T0GFBAM8C",
+      "edited": {
+        "user": "U0GFBAM8U",
+        "ts": "1671330394.000000"
+      },
+      "attachments": [
+        {
+          "from_url": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1671330099597029?thread_ts=1671329160.884459&amp;cid=C0GFH3RHC",
+          "ts": "1671330099.597029",
+          "author_id": "U0GFBAM8U",
+          "channel_id": "C0GFH3RHC",
+          "channel_team": "T0GFBAM8C",
+          "channel_name": "general",
+          "is_msg_unfurl": true,
+          "is_reply_unfurl": true,
+          "message_blocks": [
+            {
+              "team": "T0GFBAM8C",
+              "channel": "C0GFH3RHC",
+              "ts": "1671330099.597029",
+              "message": {
+                "blocks": [
+                  {
+                    "type": "rich_text",
+                    "block_id": "boPg",
+                    "elements": [
+                      {
+                        "type": "rich_text_section",
+                        "elements": [
+                          {
+                            "type": "text",
+                            "text": "~/.bashrc\nalias rm=\"~/bin/rm-rf\""
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            }
+          ],
+          "id": 1,
+          "original_url": "https://archlinuxjp.slack.com/archives/C0GFH3RHC/p1671330099597029?thread_ts=1671329160.884459&amp;cid=C0GFH3RHC",
+          "fallback": "[December 17th, 2022 6:21 PM] syui: ~/.bashrc\nalias rm=\"~/bin/rm-rf\"",
+          "text": "~/.bashrc\nalias rm=\"~/bin/rm-rf\"",
+          "author_name": "syui",
+          "author_link": "https://archlinuxjp.slack.com/team/U0GFBAM8U",
+          "author_icon": "https://avatars.slack-edge.com/2019-11-01/804484365746_6822720a4b6050bb8c57_48.png",
+          "author_subname": "syui",
+          "mrkdwn_in": [
+            "text"
+          ],
+          "footer": "#general のスレッドから"
+        }
+      ]
+    },
+    {
+      "client_msg_id": "43cfb7cf-2c73-4840-90c9-768cf1b97c65",
+      "type": "message",
+      "text": "man trash には並べて書いてあるから、一緒かな",
+      "user": "U0H9QUFA5",
+      "ts": "1671330235.207639",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "UOhXT",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "man trash には並べて書いてあるから、一緒かな"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "team": "T0GFBAM8C"
+    },
+    {
+      "client_msg_id": "bcd5d233-2286-40d6-aec4-8f078a7e4209",
+      "type": "message",
+      "text": "わかりません、私も使ってみようかな",
+      "user": "U0GFBAM8U",
+      "ts": "1671330196.242319",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "ihxdW",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "わかりません、私も使ってみようかな"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "team": "T0GFBAM8C"
+    },
+    {
+      "client_msg_id": "d243cfe4-3c7b-42a8-884c-80d704d60122",
+      "type": "message",
+      "text": "trash と trash-put って同じ？",
+      "user": "U0H9QUFA5",
+      "ts": "1671329768.430999",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "d1Vp",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "trash と trash-put って同じ？"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "team": "T0GFBAM8C"
+    },
+    {
+      "client_msg_id": "e97a2ea7-1ab3-492b-bb34-d35b095f9bf7",
+      "type": "message",
+      "text": "$*が機能してないぽい",
+      "user": "U0GFBAM8U",
+      "ts": "1671329708.606959",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "xHC7",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "$*が機能してないぽい"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "team": "T0GFBAM8C"
+    },
+    {
+      "client_msg_id": "588c5492-4f50-48ea-b5d4-a0f5ad26477f",
+      "type": "message",
+      "text": "zsh -cで回避できたぽい?",
+      "user": "U0GFBAM8U",
+      "ts": "1671329651.405119",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "y0KH6",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "zsh -cで回避できたぽい?"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "team": "T0GFBAM8C"
+    },
+    {
+      "client_msg_id": "e7cd8503-b4e7-4295-8554-a6cdb2af093f",
+      "type": "message",
+      "text": "違うかもしれないけどfoolproofというやつ",
+      "user": "UGA29R3FH",
+      "ts": "1671329593.975429",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "1z9",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "違うかもしれないけどfoolproofというやつ"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "team": "T0GFBAM8C"
+    },
+    {
+      "client_msg_id": "dbae20c1-a685-4f71-b744-d6d045fb0b2b",
+      "type": "message",
+      "text": "私は人(自分)の注意力を信用してないので注意しない(手が滑ってもリカバリできる)方に倒した",
+      "user": "UGA29R3FH",
+      "ts": "1671329534.136679",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "lLLj",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "私は人(自分)の注意力を信用してないので注意しない(手が滑ってもリカバリできる)方に倒した"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "team": "T0GFBAM8C"
+    },
+    {
+      "client_msg_id": "c9362380-a839-41c1-b38d-00f38a0356fb",
+      "type": "message",
+      "text": "今時分で書いたやつ試してるけど、無理っぽい(回避できればいいけど",
+      "user": "U0GFBAM8U",
+      "ts": "1671329476.327729",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "1iS",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "今時分で書いたやつ試してるけど、無理っぽい(回避できればいいけど"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "team": "T0GFBAM8C"
+    },
+    {
+      "client_msg_id": "53249dbc-302d-4557-886b-6fba31449a48",
+      "type": "message",
+      "text": "もう、rm は trash にエイリアスしとく。",
+      "user": "U0H9QUFA5",
+      "ts": "1671329472.055659",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "tABTy",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "もう、rm は trash にエイリアスしとく。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "team": "T0GFBAM8C"
+    },
+    {
+      "client_msg_id": "5e75064f-ba7e-43ef-bec1-4a9d1ab62662",
+      "type": "message",
+      "text": "反射で打った時に `put: command not found` と言われる方が心臓に良い",
+      "user": "UGA29R3FH",
+      "ts": "1671329454.361709",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "jk+2e",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "反射で打った時に "
+                },
+                {
+                  "type": "text",
+                  "text": "put: command not found",
+                  "style": {
+                    "code": true
+                  }
+                },
+                {
+                  "type": "text",
+                  "text": " と言われる方が心臓に良い"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "team": "T0GFBAM8C"
+    },
+    {
+      "client_msg_id": "19b2d6c2-09e5-4abd-8cce-a46459a53689",
+      "type": "message",
+      "text": "たまに事故ります(ただそれほど致命的ではないケース",
+      "user": "U0GFBAM8U",
+      "ts": "1671329422.774299",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "55lc2",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "たまに事故ります(ただそれほど致命的ではないケース"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "team": "T0GFBAM8C",
+      "reactions": [
+        {
+          "name": "sweat_smile",
+          "users": [
+            "UGA29R3FH"
+          ],
+          "count": 1
+        }
+      ]
+    },
+    {
+      "client_msg_id": "4381947a-8dfe-4e30-a23a-a1319d94ccfc",
+      "type": "message",
+      "text": "rm使わないのは別の環境に行った時に事故らないためなので事故らない人ならそれでもいいのかもしれない",
+      "user": "UGA29R3FH",
+      "ts": "1671329386.834069",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "E=d",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "rm使わないのは別の環境に行った時に事故らないためなので事故らない人ならそれでもいいのかもしれない"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "team": "T0GFBAM8C"
+    },
+    {
+      "client_msg_id": "a75a58c4-5bbb-4fbd-b61c-a138d84ea754",
+      "type": "message",
+      "text": "私は普通にrm使ってて、たまに間違えて消しちゃうけど、まあいっかってなってる",
+      "user": "U0GFBAM8U",
+      "ts": "1671329216.171699",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "0eXHV",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "私は普通にrm使ってて、たまに間違えて消しちゃうけど、まあいっかってなってる"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "team": "T0GFBAM8C"
+    },
+    {
+      "client_msg_id": "bc0a4309-670d-4d76-9864-39e859c722ce",
+      "type": "message",
+      "text": "こういうのはどうでしょう\n&gt;  ~/bin/rm-rf\n```#!/bin/bash\nif [ \"$1\" = \"-rf\" ];then\n\ttrash-put $*\nelse\n\trm $*\nfi```",
+      "user": "U0GFBAM8U",
+      "ts": "1671329160.884459",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "Fvn",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "こういうのはどうでしょう\n"
+                }
+              ]
+            },
+            {
+              "type": "rich_text_quote",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": " ~/bin/rm-rf"
+                }
+              ]
+            },
+            {
+              "type": "rich_text_preformatted",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "#!/bin/bash\nif [ \"$1\" = \"-rf\" ];then\n\ttrash-put $*\nelse\n\trm $*\nfi"
+                }
+              ],
+              "border": 0
+            }
+          ]
+        }
+      ],
+      "team": "T0GFBAM8C",
+      "edited": {
+        "user": "U0GFBAM8U",
+        "ts": "1671332408.000000"
+      },
+      "thread_ts": "1671329160.884459",
+      "reply_count": 1,
+      "reply_users_count": 1,
+      "latest_reply": "1671330099.597029",
+      "reply_users": [
+        "U0GFBAM8U"
+      ],
+      "is_locked": false,
+      "subscribed": true,
+      "last_read": "1671330099.597029"
+    },
+    {
+      "client_msg_id": "1dd9954f-34ef-4ce0-9cc2-2353d24f09c8",
+      "type": "message",
+      "text": "おー、それ、どうやってやるの？おしえてー。、",
+      "user": "U0H9QUFA5",
+      "ts": "1671327830.393879",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "=Ii",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "おー、それ、どうやってやるの？おしえてー。、"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "team": "T0GFBAM8C",
+      "thread_ts": "1671327830.393879",
+      "reply_count": 2,
+      "reply_users_count": 2,
+      "latest_reply": "1671356954.571909",
+      "reply_users": [
+        "v3rn3j",
+        "U0H9QUFA5"
+      ],
+      "is_locked": false,
+      "subscribed": false
+    },
+    {
+      "client_msg_id": "09872ce9-01d9-4bd6-b735-e9ecf6c0666a",
+      "type": "message",
+      "text": "自分もrmはtrash-putにしてrm -rfはrm!でバインドしてる",
+      "user": "v3rn3j",
+      "ts": "1671327754.715439",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "u=ITA",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "自分もrmはtrash-putにしてrm -rfはrm!でバインドしてる"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "team": "T0GFBAM8C"
+    },
+    {
+      "type": "message",
+      "subtype": "channel_join",
+      "ts": "1671292838.518979",
+      "user": "U04FH6Z2U6A",
+      "text": "<@U04FH6Z2U6A>さんがチャンネルに参加しました",
+      "reactions": [
+        {
+          "name": "archjp-joy",
+          "users": [
+            "U03JYF13SQP"
+          ],
+          "count": 1
+        }
+      ]
+    },
+    {
+      "client_msg_id": "ac5cbc28-d626-40b3-ba0e-7e4fa375cdce",
+      "type": "message",
+      "text": "極力 trash を使う",
+      "user": "U0H9QUFA5",
+      "ts": "1671282221.013629",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "t0G",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "極力 trash を使う"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "team": "T0GFBAM8C"
+    },
+    {
+      "client_msg_id": "43eefddd-0cc7-4de0-9baa-114fab775978",
+      "type": "message",
+      "text": "rm を使うのは 無理 ってこと！？",
+      "user": "U0PM6EYR1",
+      "ts": "1671281682.570339",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "w6xcK",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "rm を使うのは 無理 ってこと！？"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "team": "T0GFBAM8C",
+      "reactions": [
+        {
+          "name": "rolling_on_the_floor_laughing",
+          "users": [
+            "U04A1GTET29",
+            "U01HE1ENNJZ",
+            "U02MLKKUXMF"
+          ],
+          "count": 3
+        }
+      ]
+    },
+    {
+      "client_msg_id": "8e9f51fb-e9d6-404c-b599-6dc336bcfa7c",
+      "type": "message",
+      "text": "まじで懲りたので rm コマンドは封印する",
+      "user": "U0H9QUFA5",
+      "ts": "1671275835.437699",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "JAoeb",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "まじで懲りたので rm コマンドは封印する"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "team": "T0GFBAM8C",
+      "edited": {
+        "user": "U0H9QUFA5",
+        "ts": "1671275862.000000"
+      },
+      "reactions": [
+        {
+          "name": "+1",
+          "users": [
+            "UGA29R3FH"
+          ],
+          "count": 1
+        }
+      ]
+    },
+    {
+      "client_msg_id": "c2dca64a-c422-4c24-af73-830c876d71f5",
+      "type": "message",
+      "text": "後はこれ\n```alias put=trash-put\n#こちらは事故防止のため極力使わないこと\nalias rm=trash-put```\n手元の定義そのまま持ってきたけど書いてある通りrmは極力打たないようにしてる",
+      "user": "UGA29R3FH",
+      "ts": "1671274528.772139",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "j52Sp",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "後はこれ\n"
+                }
+              ]
+            },
+            {
+              "type": "rich_text_preformatted",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "alias put=trash-put\n#こちらは事故防止のため極力使わないこと\nalias rm=trash-put"
+                }
+              ],
+              "border": 0
+            },
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "手元の定義そのまま持ってきたけど書いてある通りrmは極力打たないようにしてる"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "team": "T0GFBAM8C",
+      "reactions": [
+        {
+          "name": "goodpoem",
+          "users": [
+            "U0H9QUFA5",
+            "U01J1GGMHDJ"
+          ],
+          "count": 2
+        }
+      ]
+    },
+    {
+      "client_msg_id": "33b022d7-7d5f-4598-8205-03fdbd72844a",
+      "type": "message",
+      "text": "btrfs snapshotはいいぞ(何度か救われた)",
+      "user": "UGA29R3FH",
+      "ts": "1671274376.822219",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "RGY",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "btrfs snapshotはいいぞ(何度か救われた)"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "team": "T0GFBAM8C"
+    },
+    {
+      "client_msg_id": "fdb2b25f-0478-4701-b7c2-b46948de7923",
+      "type": "message",
+      "text": "だよねー。さっさと開けて遊びたい。",
+      "user": "U0H9QUFA5",
+      "ts": "1671270542.762019",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "u4u",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "だよねー。さっさと開けて遊びたい。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "team": "T0GFBAM8C"
+    },
+    {
+      "client_msg_id": "68C8AF91-0E7F-4579-B620-49951DECC468",
+      "type": "message",
+      "text": "つらい\nstream deckの環境構築とかめちゃくちゃ楽しそう",
+      "user": "U0GFBAM8U",
+      "ts": "1671270516.440189",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "G8Uek",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "つらい\nstream deckの環境構築とかめちゃくちゃ楽しそう"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "team": "T0GFBAM8C"
+    },
+    {
+      "client_msg_id": "000b47f3-a025-40cf-960d-e765ae6bc8f6",
+      "type": "message",
+      "text": "ああ、作業環境を  rm - rf  でぶっとばしてしまった。\n前もやったけど、ほぼリカバリーできなかったんだよなあ。\nSteam deck が届いても、がんばって開封せずにやってたのに、残念すぎる。ふてくされて風呂入る。",
+      "user": "U0H9QUFA5",
+      "ts": "1671270445.043619",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "NGM",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "ああ、作業環境を  rm - rf  でぶっとばしてしまった。\n前もやったけど、ほぼリカバリーできなかったんだよなあ。\nSteam deck が届いても、がんばって開封せずにやってたのに、残念すぎる。ふてくされて風呂入る。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "team": "T0GFBAM8C",
+      "thread_ts": "1671270445.043619",
+      "reply_count": 1,
+      "reply_users_count": 1,
+      "latest_reply": "1671332886.684349",
+      "reply_users": [
+        "U0H9QUFA5"
+      ],
+      "is_locked": false,
+      "subscribed": false
+    },
+    {
+      "client_msg_id": "3DBABEC4-BA21-42B9-A7A0-83368413AEFE",
+      "type": "message",
+      "text": "あとpdf関連のチェックを外すといいという情報もあります",
+      "user": "U0GFBAM8U",
+      "ts": "1671244689.966299",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "Hvg+",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "あとpdf関連のチェックを外すといいという情報もあります"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "team": "T0GFBAM8C"
+    },
+    {
+      "client_msg_id": "876CF9E3-01C6-437E-B02E-CBE2CC655362",
+      "type": "message",
+      "text": "私が設定したのは印刷のほかに互換性、フォントあたりだった記憶があります",
+      "user": "U0GFBAM8U",
+      "ts": "1671244622.455689",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "tO/C6",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "私が設定したのは印刷のほかに互換性、フォントあたりだった記憶があります"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "team": "T0GFBAM8C"
+    },
+    {
+      "client_msg_id": "3700EB32-5B4A-4C67-8FDF-1A8FBF8D5FA4",
+      "type": "message",
+      "text": "こちらを参考にやってみてください\n<https://www.nofuture.tv/20210826|https://www.nofuture.tv/20210826>",
+      "user": "U0GFBAM8U",
+      "ts": "1671244585.390759",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "8al",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "こちらを参考にやってみてください\n"
+                },
+                {
+                  "type": "link",
+                  "url": "https://www.nofuture.tv/20210826",
+                  "text": "https://www.nofuture.tv/20210826"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "team": "T0GFBAM8C"
+    },
+    {
+      "client_msg_id": "ee1614df-02c9-4c22-9b38-65d7d31cedd5",
+      "type": "message",
+      "text": "LibleOfficeWriterでは数々のバグに出会いました。こんがらかる話かと思うのでそのうちに機会があれば私の事件と環境をお知らせしたいと思います。「　<https://ask.libreoffice.org/t/csv/85202>　」に\nひとつ知らせたのですが、投稿数と編集数等に数々の項目で制限があって、投稿が続けられないので、機器条件など問われたのに回答ができなくて交流が進まなくなってしまいました。入会初心者はスレッドと編集が最大2件までの制限、文字数制限、24時間に連続2件の制限があったのです。環境を問う回答を早速くださったのにお答えできないのが残念です。　Calcでは筆まめで保存したcsvファイルガCalcで読み込むと文字化けで使えませんでした。でもクロームブックのGoogleオフィスの表で保存したcsvファイルからは文字化けせずに使えました。",
+      "user": "U046DBL3GUC",
+      "ts": "1671240213.804879",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "eMfU",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "LibleOfficeWriterでは数々のバグに出会いました。こんがらかる話かと思うのでそのうちに機会があれば私の事件と環境をお知らせしたいと思います。「　"
+                },
+                {
+                  "type": "link",
+                  "url": "https://ask.libreoffice.org/t/csv/85202"
+                },
+                {
+                  "type": "text",
+                  "text": "　」に\nひとつ知らせたのですが、投稿数と編集数等に数々の項目で制限があって、投稿が続けられないので、機器条件など問われたのに回答ができなくて交流が進まなくなってしまいました。入会初心者はスレッドと編集が最大2件までの制限、文字数制限、24時間に連続2件の制限があったのです。環境を問う回答を早速くださったのにお答えできないのが残念です。　Calcでは筆まめで保存したcsvファイルガCalcで読み込むと文字化けで使えませんでした。でもクロームブックのGoogleオフィスの表で保存したcsvファイルからは文字化けせずに使えました。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "team": "T0GFBAM8C",
+      "edited": {
+        "user": "U046DBL3GUC",
+        "ts": "1671240668.000000"
+      },
+      "attachments": [
+        {
+          "from_url": "https://ask.libreoffice.org/t/csv/85202",
+          "ts": 1670800600,
+          "thumb_url": "https://ask.libreoffice.org/uploads/asklibo/original/1X/349bf948f8eef82959e42163f3882a22fb2256e0.png",
+          "thumb_width": 120,
+          "thumb_height": 120,
+          "service_icon": "https://ask.libreoffice.org/uploads/asklibo/optimized/1X/349bf948f8eef82959e42163f3882a22fb2256e0_2_180x180.png",
+          "id": 1,
+          "original_url": "https://ask.libreoffice.org/t/csv/85202",
+          "fallback": "Ask LibreOffice: クロームブックで作ったcsvファイルの文字化け",
+          "text": "CalcにクロームブックのGooglSheetで作ったcsvをインポートさせたかったのですが、どの種類を選んでも、日本語のすべてが文字化けしました。読めるように文字化けしないように改良をお願いします。",
+          "title": "クロームブックで作ったcsvファイルの文字化け",
+          "title_link": "https://ask.libreoffice.org/t/csv/85202",
+          "service_name": "Ask LibreOffice",
+          "fields": [
+            {
+              "value": "1 mins :clock2:",
+              "title": "Reading time",
+              "short": true
+            },
+            {
+              "value": "3 :heart:",
+              "title": "Likes",
+              "short": true
+            }
+          ]
+        }
+      ],
+      "thread_ts": "1671240213.804879",
+      "reply_count": 2,
+      "reply_users_count": 2,
+      "latest_reply": "1671588436.564249",
+      "reply_users": [
+        "UEED0BQ4A",
+        "U046DBL3GUC"
+      ],
+      "is_locked": false,
+      "subscribed": false
+    },
+    {
+      "client_msg_id": "6fdbc2a4-ac7d-4b66-8018-4f4c839a9d77",
+      "type": "message",
+      "text": "しかし、どうやって印刷したのか、あまり覚えてないです",
+      "user": "U0GFBAM8U",
+      "ts": "1671239595.407309",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "hP351",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "しかし、どうやって印刷したのか、あまり覚えてないです"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "team": "T0GFBAM8C"
+    },
+    {
+      "client_msg_id": "3ee354ed-cc60-4114-9f40-539523f92e56",
+      "type": "message",
+      "text": "そういえばそういう現象にも遭遇した記憶があります\nちゃんと印刷レビューで表示できているのに、印刷すると真っ白けという",
+      "user": "U0GFBAM8U",
+      "ts": "1671239515.655119",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "RSaPu",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "そういえばそういう現象にも遭遇した記憶があります\nちゃんと印刷レビューで表示できているのに、印刷すると真っ白けという"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "team": "T0GFBAM8C"
+    },
+    {
+      "client_msg_id": "b1bb7c68-af20-49b5-80f8-9061bd6e83c1",
+      "type": "message",
+      "text": "ArchLinux（AlterLinux ）のLibreOffice Writerで印刷ができません。\n印刷できるようにするにはどのようにしたらよいか教えてください。印刷すると、ほとんど空白で全体のなかの一行もしくはひとつのpngファイルだけ印刷されます。はがき印刷で部分ひとつだけが印刷されていました。pdfも印刷できません。\nパソコンはOSをAlterLinuxにしたソニーVAIO VPCEB48FJ\nです。\nプリンターはキャノンMG3630でUSB接続しています。webのhtmlファイルは印刷できていたような覚えがあるのです確認していません。年賀状はpdfを作ってから、ほかのPCとプリンターでなんとか事件を乗り越えました。ご教授は急ぎませんのでよろしくお願いします。",
+      "user": "U046DBL3GUC",
+      "ts": "1671239420.214339",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "rF5w",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "ArchLinux（AlterLinux ）のLibreOffice Writerで印刷ができません。\n印刷できるようにするにはどのようにしたらよいか教えてください。印刷すると、ほとんど空白で全体のなかの一行もしくはひとつのpngファイルだけ印刷されます。はがき印刷で部分ひとつだけが印刷されていました。pdfも印刷できません。\nパソコンはOSをAlterLinuxにしたソニーVAIO VPCEB48FJ\nです。\nプリンターはキャノンMG3630でUSB接続しています。webのhtmlファイルは印刷できていたような覚えがあるのです確認していません。年賀状はpdfを作ってから、ほかのPCとプリンターでなんとか事件を乗り越えました。ご教授は急ぎませんのでよろしくお願いします。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "team": "T0GFBAM8C",
+      "thread_ts": "1671239420.214339",
+      "reply_count": 1,
+      "reply_users_count": 1,
+      "latest_reply": "1671251209.005009",
+      "reply_users": [
+        "UEED0BQ4A"
+      ],
+      "is_locked": false,
+      "subscribed": false
+    },
+    {
+      "client_msg_id": "4d78d173-984d-48c4-8280-c60d3848390d",
+      "type": "message",
+      "text": "郵便番号の位置とか色々ずれてるですよね\nそのときはたしか画像、背景にして移動させてた気がする(そんな感じの操作設定という意味で",
+      "user": "U0GFBAM8U",
+      "ts": "1671239183.178089",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "USdP2",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "郵便番号の位置とか色々ずれてるですよね\nそのときはたしか画像、背景にして移動させてた気がする(そんな感じの操作設定という意味で"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "team": "T0GFBAM8C",
+      "thread_ts": "1671239183.178089",
+      "reply_count": 2,
+      "reply_users_count": 2,
+      "latest_reply": "1671239846.816579",
+      "reply_users": [
+        "U046DBL3GUC",
+        "U0GFBAM8U"
+      ],
+      "is_locked": false,
+      "subscribed": true,
+      "last_read": "1671239846.816579"
+    },
+    {
+      "client_msg_id": "6d0d158c-e092-450e-99d3-86228f462924",
+      "type": "message",
+      "text": "年賀状はですね、一度、親に頼まれて設定したことがあります\nあらゆるバグに遭遇して時間がかかったのを覚えています",
+      "user": "U0GFBAM8U",
+      "ts": "1671239079.265209",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "A7t",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "年賀状はですね、一度、親に頼まれて設定したことがあります\nあらゆるバグに遭遇して時間がかかったのを覚えています"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "team": "T0GFBAM8C"
+    },
+    {
+      "client_msg_id": "dbc2c529-cb9f-4814-a75c-968a3a957032",
+      "type": "message",
+      "text": "こんにちは　差し込み印刷機能を初めて使いました。みなさまねんがじょうはどのような方法でつくりましたか？\nArchLinux（AlterLinux）のＯＳでLibreOffice Writerソフトで年賀状の宛名印刷用テンプレ＝トの宛名郵便番号の位置を微調整するにはどのようにしたら良いのでしょうか。ご教授ください。すでに失敗のまま投函したので、急ぎではありませんがよろしくお願いします。\nテンプレートは\n<https://ja.osdn.net/projects/openoffice-docj/releases/59979>\nはがき宛名書き.zip のodtファイルです。",
+      "user": "U046DBL3GUC",
+      "ts": "1671238860.647839",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "IO+",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "こんにちは　差し込み印刷機能を初めて使いました。みなさまねんがじょうはどのような方法でつくりましたか？\nArchLinux（AlterLinux）のＯＳでLibreOffice Writerソフトで年賀状の宛名印刷用テンプレ＝トの宛名郵便番号の位置を微調整するにはどのようにしたら良いのでしょうか。ご教授ください。すでに失敗のまま投函したので、急ぎではありませんがよろしくお願いします。\nテンプレートは\n"
+                },
+                {
+                  "type": "link",
+                  "url": "https://ja.osdn.net/projects/openoffice-docj/releases/59979"
+                },
+                {
+                  "type": "text",
+                  "text": "\nはがき宛名書き.zip のodtファイルです。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "team": "T0GFBAM8C",
+      "attachments": [
+        {
+          "from_url": "https://ja.osdn.net/projects/openoffice-docj/releases/59979",
+          "thumb_url": "https://static-cdn.osdn.net/default-photo.png",
+          "thumb_width": 100,
+          "thumb_height": 100,
+          "service_icon": "https://ja.osdn.net/favicon.ico",
+          "id": 1,
+          "original_url": "https://ja.osdn.net/projects/openoffice-docj/releases/59979",
+          "fallback": "リリース はがき宛名書き 1.0 - OpenOffice.org ドキュメントプロジェクト - OSDN",
+          "text": "リリース はがき宛名書き 1.0 - <http://OpenOffice.org|OpenOffice.org> ドキュメントプロジェクト #osdn",
+          "title": "リリース はがき宛名書き 1.0 - OpenOffice.org ドキュメントプロジェクト - OSDN",
+          "title_link": "https://ja.osdn.net/projects/openoffice-docj/releases/59979",
+          "service_name": "ja.osdn.net"
+        }
+      ],
+      "thread_ts": "1671238860.647839",
+      "reply_count": 1,
+      "reply_users_count": 1,
+      "latest_reply": "1671250855.330989",
+      "reply_users": [
+        "UEED0BQ4A"
+      ],
+      "is_locked": false,
+      "subscribed": false
+    },
+    {
+      "type": "message",
+      "subtype": "channel_join",
+      "ts": "1670980072.419069",
+      "user": "U04EX525WNA",
+      "text": "<@U04EX525WNA>さんがチャンネルに参加しました",
+      "reactions": [
+        {
+          "name": "archjp-joy",
+          "users": [
+            "U0GFBAM8U",
+            "U045CFM1NNB",
+            "U0H9QUFA5"
+          ],
+          "count": 3
+        }
+      ]
+    },
+    {
+      "type": "message",
+      "subtype": "channel_join",
+      "ts": "1670898036.899939",
+      "user": "U04EGHRM5AB",
+      "text": "<@U04EGHRM5AB>さんがチャンネルに参加しました",
+      "reactions": [
+        {
+          "name": "archjp-joy",
+          "users": [
+            "U03JYF13SQP",
+            "U0GFBAM8U",
+            "U045CFM1NNB",
+            "U7NBCFT1S",
+            "U01HE1ENNJZ",
+            "U0H9QUFA5"
+          ],
+          "count": 6
+        }
+      ]
+    },
+    {
+      "client_msg_id": "6b4666bd-986c-4b9b-95ea-9c395ed28994",
+      "type": "message",
+      "text": "ありがとうございます。試してみます",
+      "user": "U1FD39S8K",
+      "ts": "1670893447.359449",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "7O3+N",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "ありがとうございます。試してみます"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "team": "T0GFBAM8C"
+    },
+    {
+      "client_msg_id": "d68d76e5-68c7-4f4e-9841-96f3c505e730",
+      "type": "message",
+      "text": "<https://unix.stackexchange.com/questions/259502/resize-vfat-partition>",
+      "user": "U0H9QUFA5",
+      "ts": "1670893103.539059",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "=I1L",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "link",
+                  "url": "https://unix.stackexchange.com/questions/259502/resize-vfat-partition"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "team": "T0GFBAM8C",
+      "attachments": [
+        {
+          "from_url": "https://unix.stackexchange.com/questions/259502/resize-vfat-partition",
+          "thumb_url": "https://cdn.sstatic.net/Sites/unix/Img/apple-touch-icon@2.png?v=32fb07f7ce26",
+          "thumb_width": 316,
+          "thumb_height": 316,
+          "service_icon": "https://cdn.sstatic.net/Sites/unix/Img/apple-touch-icon.png?v=5cf7fe716a89",
+          "id": 1,
+          "original_url": "https://unix.stackexchange.com/questions/259502/resize-vfat-partition",
+          "fallback": "Unix &amp; Linux Stack Exchange: Resize VFAT partition?",
+          "text": "I'm migrating a machine to another boot drive with more space. I've done the following:\n\nsudo partclone.vfat -c -R -o partclone.sda1.vfat.img -s /dev/sdg1\nand then I created my partitions on the new",
+          "title": "Resize VFAT partition?",
+          "title_link": "https://unix.stackexchange.com/questions/259502/resize-vfat-partition",
+          "service_name": "Unix &amp; Linux Stack Exchange"
+        }
+      ]
+    },
+    {
+      "client_msg_id": "52f0ae74-ade9-4efe-9180-95daa4904128",
+      "type": "message",
+      "text": "<https://manpages.ubuntu.com/manpages/kinetic/en/man1/fatresize.1.html>\nやったことないけど、これによると、fatresize を使うってことかな。AUR にあるけど。",
+      "user": "U0H9QUFA5",
+      "ts": "1670893071.637249",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "=+a",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "link",
+                  "url": "https://manpages.ubuntu.com/manpages/kinetic/en/man1/fatresize.1.html"
+                },
+                {
+                  "type": "text",
+                  "text": "\nやったことないけど、これによると、fatresize を使うってことかな。AUR にあるけど。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "team": "T0GFBAM8C"
+    },
+    {
+      "client_msg_id": "b8ccd641-7725-4ea7-9aaf-23985c6d5955",
+      "type": "message",
+      "text": "あっvfatですね",
+      "user": "U1FD39S8K",
+      "ts": "1670892886.142299",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "Dlt",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "あっvfatですね"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "team": "T0GFBAM8C"
+    },
+    {
+      "client_msg_id": "f359846d-8465-42e9-9119-b7d4921d8a2f",
+      "type": "message",
+      "text": "パーティションとファイルシステムがごっちゃになってました。ありがとうございます\nresize2fsってEFIでも使用できますか？Wikiにはextの手順って書いてありますが",
+      "user": "U1FD39S8K",
+      "ts": "1670892807.713349",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "3siRX",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "パーティションとファイルシステムがごっちゃになってました。ありがとうございます\nresize2fsってEFIでも使用できますか？Wikiにはextの手順って書いてありますが"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "team": "T0GFBAM8C"
+    },
+    {
+      "client_msg_id": "56964b4b-af84-441b-a69b-77a887ea5ac9",
+      "type": "message",
+      "text": "<https://wiki.archlinux.jp/index.php/Parted#.E3.83.91.E3.83.BC.E3.83.86.E3.82.A3.E3.82.B7.E3.83.A7.E3.83.B3.E3.81.AE.E3.83.AA.E3.82.B5.E3.82.A4.E3.82.BA|https://wiki.archlinux.jp/index.php/Parted#.E3.83.91.E3.83.BC.E3.83.86.E3.82.A3.E3.82.B7.E3.83[…].83.B3.E3.81.AE.E3.83.AA.E3.82.B5.E3.82.A4.E3.82.BA>",
+      "user": "U0H9QUFA5",
+      "ts": "1670892460.927939",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "Debm",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "link",
+                  "url": "https://wiki.archlinux.jp/index.php/Parted#.E3.83.91.E3.83.BC.E3.83.86.E3.82.A3.E3.82.B7.E3.83.A7.E3.83.B3.E3.81.AE.E3.83.AA.E3.82.B5.E3.82.A4.E3.82.BA",
+                  "text": "https://wiki.archlinux.jp/index.php/Parted#.E3.83.91.E3.83.BC.E3.83.86.E3.82.A3.E3.82.B7.E3.83[…].83.B3.E3.81.AE.E3.83.AA.E3.82.B5.E3.82.A4.E3.82.BA"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "team": "T0GFBAM8C"
+    },
+    {
+      "client_msg_id": "beb48ef7-1e8e-4a0a-b301-9bfaf5e17b12",
+      "type": "message",
+      "text": "パーティションのサイズを変えた後にファイルシステムのサイズも変えないと反映はされないです",
+      "user": "UCA1NQM5K",
+      "ts": "1670892368.445149",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "ECA",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "パーティションのサイズを変えた後にファイルシステムのサイズも変えないと反映はされないです"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "team": "T0GFBAM8C"
+    },
+    {
+      "client_msg_id": "defcd035-a2f4-4456-9350-360f7498f940",
+      "type": "message",
+      "text": "初質問失礼します。EFIシステムパーティションのサイズ変更について、教えてください。\n\n一度WindowsとのデュアルブートでArch Linuxをインストールしたのですが、後からEFIシステムパーティションのサイズが足りないことに気がついて、UbuntuのライブメディアからGPartedを使って 96 -&gt; 200MBに変更しました。\n\n再起動して両OS起動できることは確認できたのですが、システム上では96MBのままで反映されていません。また、`fdisk`や`lsblk`コマンドでは200になっていますが、`df`コマンドでは96のままで、表示が食い違っているのも気になります。\n\nシステムインストール後にパーティションサイズを変更する際、GParted以外に何かするべきことがあるのでしょうか？",
+      "user": "U1FD39S8K",
+      "ts": "1670892306.149459",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "JUsoz",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "初質問失礼します。EFIシステムパーティションのサイズ変更について、教えてください。\n\n一度WindowsとのデュアルブートでArch Linuxをインストールしたのですが、後からEFIシステムパーティションのサイズが足りないことに気がついて、UbuntuのライブメディアからGPartedを使って 96 -> 200MBに変更しました。\n\n再起動して両OS起動できることは確認できたのですが、システム上では96MBのままで反映されていません。また、"
+                },
+                {
+                  "type": "text",
+                  "text": "fdisk",
+                  "style": {
+                    "code": true
+                  }
+                },
+                {
+                  "type": "text",
+                  "text": "や"
+                },
+                {
+                  "type": "text",
+                  "text": "lsblk",
+                  "style": {
+                    "code": true
+                  }
+                },
+                {
+                  "type": "text",
+                  "text": "コマンドでは200になっていますが、"
+                },
+                {
+                  "type": "text",
+                  "text": "df",
+                  "style": {
+                    "code": true
+                  }
+                },
+                {
+                  "type": "text",
+                  "text": "コマンドでは96のままで、表示が食い違っているのも気になります。\n\nシステムインストール後にパーティションサイズを変更する際、GParted以外に何かするべきことがあるのでしょうか？"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "team": "T0GFBAM8C"
+    },
+    {
+      "client_msg_id": "64250d42-6069-4833-bb87-0943d439daec",
+      "type": "message",
+      "text": "お騒がせでしたありがとうございます。すべて解決しました。２面目がいらないのですが、２面目の削除のやり方は１面目の文末で以降をdeleteしdeleteし続けて２面が消えるまでやれば済みました。力が足りず助けを求めましたすみませんでした。",
+      "user": "U046DBL3GUC",
+      "ts": "1670767282.498139",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "Jb6",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "お騒がせでしたありがとうございます。すべて解決しました。２面目がいらないのですが、２面目の削除のやり方は１面目の文末で以降をdeleteしdeleteし続けて２面が消えるまでやれば済みました。力が足りず助けを求めましたすみませんでした。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "team": "T0GFBAM8C",
+      "reactions": [
+        {
+          "name": "archjp-joy",
+          "users": [
+            "U0H9QUFA5"
+          ],
+          "count": 1
+        }
+      ]
+    },
+    {
+      "client_msg_id": "070814fa-44fd-4c19-8d4e-00471102797f",
+      "type": "message",
+      "text": "「LibreOfficeを使ってLinuxで年賀状作成」が現在のバージョンでは通用しない古い形式でした。なんとか差し込みができるようになりました。ありがとうございます。でもLibreOfficeを使ってLinuxで年賀状作成のテンプレートにはがきの表が２面あります。２面目がいらないのですが、２面目の削除のやり方がわからないで困っています。削除の仕方をお願いします。",
+      "user": "U046DBL3GUC",
+      "ts": "1670764535.180539",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "rcJr",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "「LibreOfficeを使ってLinuxで年賀状作成」が現在のバージョンでは通用しない古い形式でした。なんとか差し込みができるようになりました。ありがとうございます。でもLibreOfficeを使ってLinuxで年賀状作成のテンプレートにはがきの表が２面あります。２面目がいらないのですが、２面目の削除のやり方がわからないで困っています。削除の仕方をお願いします。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "team": "T0GFBAM8C"
+    },
+    {
+      "client_msg_id": "c2aac574-251d-4be0-8c09-b1cd7962e6fa",
+      "type": "message",
+      "text": "今日は疲れ切ったのでかってながら退出します。また明日よろしくお願いします。",
+      "user": "U046DBL3GUC",
+      "ts": "1670752295.236459",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "KEcly",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "今日は疲れ切ったのでかってながら退出します。また明日よろしくお願いします。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "team": "T0GFBAM8C"
+    },
+    {
+      "client_msg_id": "84556b9d-1099-4037-bffd-64e04d34bf48",
+      "type": "message",
+      "text": "もう一つ並行してお尋ねします。\n<https://www.archlinux.site/2018/12/libreofficelinux.html>\nを参考にして\nLibreOficeのwriterで差し込み印刷を試みたのですが、解凍した手本のファイルが読み込まれてきません。再込みファイルと同じディレクトリにおいたつもりですが、ホームの下位にするとか、ファイル名を指定するとか、なにかの制約があるのでしょうか教えてください。ReadMe.txtをLibreOficeのwriterで開いたら文字化けで読めませんでした。ZIPに問題があったかもしれません。",
+      "user": "U046DBL3GUC",
+      "ts": "1670752034.157589",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "tjD",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "もう一つ並行してお尋ねします。\n"
+                },
+                {
+                  "type": "link",
+                  "url": "https://www.archlinux.site/2018/12/libreofficelinux.html"
+                },
+                {
+                  "type": "text",
+                  "text": "\nを参考にして\nLibreOficeのwriterで差し込み印刷を試みたのですが、解凍した手本のファイルが読み込まれてきません。再込みファイルと同じディレクトリにおいたつもりですが、ホームの下位にするとか、ファイル名を指定するとか、なにかの制約があるのでしょうか教えてください。ReadMe.txtをLibreOficeのwriterで開いたら文字化けで読めませんでした。ZIPに問題があったかもしれません。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "team": "T0GFBAM8C",
+      "edited": {
+        "user": "U046DBL3GUC",
+        "ts": "1670752221.000000"
+      },
+      "attachments": [
+        {
+          "from_url": "https://www.archlinux.site/2018/12/libreofficelinux.html",
+          "image_url": "https://2.bp.blogspot.com/-KkLkTs-hW5M/XCeXSSwrKlI/AAAAAAAAUfg/8nBg4lOsIeIiAJ3ZzH98YMpxk-686Yr0wCLcBGAs/w1200-h630-p-k-no-nu/Screenshot%2Bfrom%2B2018-12-29%2B21-37-13.png",
+          "image_width": 476,
+          "image_height": 250,
+          "image_bytes": 106408,
+          "service_icon": "https://www.archlinux.site/favicon.ico",
+          "id": 1,
+          "original_url": "https://www.archlinux.site/2018/12/libreofficelinux.html",
+          "fallback": "LibreOfficeを使ってLinuxで年賀状作成",
+          "text": "LibreOfficeを使って、Linuxで年賀状作成する方法の解説記事。",
+          "title": "LibreOfficeを使ってLinuxで年賀状作成",
+          "title_link": "https://www.archlinux.site/2018/12/libreofficelinux.html",
+          "service_name": "archlinux.site"
+        }
+      ]
+    },
+    {
+      "client_msg_id": "d4028c87-fa5a-4936-bf00-3ced44143378",
+      "type": "message",
+      "text": "そういえば何も知らないな、試しはしたけど色々見る前に戻ってしまった",
+      "user": "UGA29R3FH",
+      "ts": "1670742856.020169",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "Vzk",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "そういえば何も知らないな、試しはしたけど色々見る前に戻ってしまった"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "team": "T0GFBAM8C"
+    },
+    {
+      "type": "message",
+      "text": "Arch はそうなんですけど、ALTERLinux って単純に Arch のリポジトリ使ってるんですかね？",
+      "user": "U257W41DW",
+      "ts": "1670742824.402939",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "qPfp",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "Arch はそうなんですけど、ALTERLinux って単純に Arch のリポジトリ使ってるんですかね？"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "team": "T0GFBAM8C"
+    },
+    {
+      "client_msg_id": "8ad99991-ff60-4a80-a575-0948b17da4a3",
+      "type": "message",
+      "text": "本家のビルド済みモジュールは全部無印用なので他のカーネル使ってるならdkmsにする必要があるはず",
+      "user": "UGA29R3FH",
+      "ts": "1670742646.657819",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "/5i",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "本家のビルド済みモジュールは全部無印用なので他のカーネル使ってるならdkmsにする必要があるはず"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "team": "T0GFBAM8C"
+    },
+    {
+      "type": "message",
+      "text": "dkms はインストールされてるカーネルに合わせてモジュールをビルドしてくれるものなので、もう一方で動かないなら dkms を試してみてください。",
+      "user": "U257W41DW",
+      "ts": "1670742203.636099",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "4B0hG",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "dkms はインストールされてるカーネルに合わせてモジュールをビルドしてくれるものなので、もう一方で動かないなら dkms を試してみてください。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "team": "T0GFBAM8C"
+    },
+    {
+      "client_msg_id": "084b13b3-f36c-4c82-b4e2-6cd04c0dcb99",
+      "type": "message",
+      "text": "virtualbox-host-dkms ともう一つの全部で２つの中からどちらかを選択するようになっていた。virtualbox-host-dkms ではない方でインストールしたが間違いだったのだろうか？",
+      "user": "U046DBL3GUC",
+      "ts": "1670741880.450549",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "shr",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "virtualbox-host-dkms ともう一つの全部で２つの中からどちらかを選択するようになっていた。virtualbox-host-dkms ではない方でインストールしたが間違いだったのだろうか？"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "team": "T0GFBAM8C"
+    },
+    {
+      "type": "message",
+      "text": "デフォルト zen カーネルなら dkms じゃなくて公式でパッケージ用意してくれてるかもしれないけど、触ったことがないから分らない……",
+      "user": "U257W41DW",
+      "ts": "1670740620.026919",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "Xcb",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "デフォルト zen カーネルなら dkms じゃなくて公式でパッケージ用意してくれてるかもしれないけど、触ったことがないから分らない……"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "team": "T0GFBAM8C"
+    },
+    {
+      "client_msg_id": "51f8d234-a42b-4bd4-91dc-3ef9deccd47a",
+      "type": "message",
+      "text": "AlterLinux、zen使ってるのかマジか",
+      "user": "UGA29R3FH",
+      "ts": "1670739459.265289",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "ztuS0",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "AlterLinux、zen使ってるのかマジか"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "team": "T0GFBAM8C",
+      "reactions": [
+        {
+          "name": "desune",
+          "users": [
+            "U02SRH9D0DP"
+          ],
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "message",
+      "text": "派生ディストリビューションだからパッケージ名が違うかもしれませんが、zen カーネル使ってるなら virtualbox-host-dkms が必要です。",
+      "user": "U257W41DW",
+      "ts": "1670735902.730299",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "Fzy",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "派生ディストリビューションだからパッケージ名が違うかもしれませんが、zen カーネル使ってるなら virtualbox-host-dkms が必要です。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "team": "T0GFBAM8C"
+    },
+    {
+      "client_msg_id": "4852766D-E995-4EDC-A781-A109D4E7F448",
+      "type": "message",
+      "text": "errはqt関連なのでvirtualbox qtで検索してみるといいかも",
+      "user": "U0GFBAM8U",
+      "ts": "1670734487.117909",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "T97",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "errはqt関連なのでvirtualbox qtで検索してみるといいかも"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "team": "T0GFBAM8C"
+    },
+    {
+      "client_msg_id": "58E42C76-F428-439A-A446-2B970569C85F",
+      "type": "message",
+      "text": "wikiに書かれてるvirtualbox関連の色々インストールすると自動でモジュールとかロードしてくれると思います。\nあとpc自体のbiosで独自の設定を開放する必要があったりします",
+      "user": "U0GFBAM8U",
+      "ts": "1670734371.130569",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "QHz",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "wikiに書かれてるvirtualbox関連の色々インストールすると自動でモジュールとかロードしてくれると思います。\nあとpc自体のbiosで独自の設定を開放する必要があったりします"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "team": "T0GFBAM8C"
+    },
+    {
+      "client_msg_id": "ce17f9e4-3bae-4476-93b8-77adc9ee6025",
+      "type": "message",
+      "text": "皆様ご指導ありがとうございます。\nインストールはOracle VM　VertualboxをALTERLinuxのメニューからソフトウェアの削除と追加という機能で行いました。エラーの内容は\nターミナル上で\nvirtualboxとしたら下記の警告がでました。カーネルモジュールがロードされていない。となりました。\n<https://wiki.archlinux.jp/index.php/VirtualBox>\nはせっかく教えていただきましたが私の力不足で何も内容がまったく理解できません。\nすみませんが手をとり足を取り教えていただけると幸いです。\n ~  %  virtualbox\nWARNING: The vboxdrv kernel module is not loaded. Either there is no module\n         available for the current kernel (6.0.8-zen1-1-zen) or it failed to\n         load. Please recompile the kernel module and install it by\n\n           sudo /sbin/vboxconfig\n\n         You will not be able to start VMs until this problem is fixed.\nQt FATAL: Cannot mix incompatible Qt library (5.15.2) with this library (5.15.7)\nzsh: IOT instruction (core dumped)  virtualbox\n masanobu  masa-VAIO  ~  SIGABRT  % ",
+      "user": "U046DBL3GUC",
+      "ts": "1670729337.813979",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "FFCA",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "皆様ご指導ありがとうございます。\nインストールはOracle VM　VertualboxをALTERLinuxのメニューからソフトウェアの削除と追加という機能で行いました。エラーの内容は\nターミナル上で\nvirtualboxとしたら下記の警告がでました。カーネルモジュールがロードされていない。となりました。\n"
+                },
+                {
+                  "type": "link",
+                  "url": "https://wiki.archlinux.jp/index.php/VirtualBox"
+                },
+                {
+                  "type": "text",
+                  "text": "\nはせっかく教えていただきましたが私の力不足で何も内容がまったく理解できません。\nすみませんが手をとり足を取り教えていただけると幸いです。\n ~  %  virtualbox\nWARNING: The vboxdrv kernel module is not loaded. Either there is no module\n         available for the current kernel (6.0.8-zen1-1-zen) or it failed to\n         load. Please recompile the kernel module and install it by\n\n           sudo /sbin/vboxconfig\n\n         You will not be able to start VMs until this problem is fixed.\nQt FATAL: Cannot mix incompatible Qt library (5.15.2) with this library (5.15.7)\nzsh: IOT instruction (core dumped)  virtualbox\n masanobu  masa-VAIO  ~  SIGABRT  % "
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "team": "T0GFBAM8C",
+      "edited": {
+        "user": "U046DBL3GUC",
+        "ts": "1670730288.000000"
+      }
+    },
+    {
+      "client_msg_id": "6664a155-d91f-4ec9-abb4-50b00ce901a8",
+      "type": "message",
+      "text": "archwikiは最高です",
+      "user": "U04302AEB8U",
+      "ts": "1670704728.500789",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "mvA9",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "archwikiは最高です"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "team": "T0GFBAM8C",
+      "reactions": [
+        {
+          "name": "wakaru",
+          "users": [
+            "UGA29R3FH",
+            "U02SRH9D0DP",
+            "U01HE1ENNJZ",
+            "U027RN1LZT6"
+          ],
+          "count": 4
+        }
+      ]
+    },
+    {
+      "client_msg_id": "b50c4032-d40a-4a4e-8fea-0bd58d000886",
+      "type": "message",
+      "text": "<https://wiki.archlinux.jp/index.php/VirtualBox>\nインストールしただけではまず動かないでしょうね。\nまずはここをしっかり読んでください。\nその上で、\nカーネルモジュールのロードを確認してください。\nあと、関連モジュールも確認してください。\nターミナル上で\nvirtualbox\nと入力して、その時にでてくるエラーを見てください。",
+      "user": "U0H9QUFA5",
+      "ts": "1670667834.581099",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "KdSKN",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "link",
+                  "url": "https://wiki.archlinux.jp/index.php/VirtualBox"
+                },
+                {
+                  "type": "text",
+                  "text": "\nインストールしただけではまず動かないでしょうね。\nまずはここをしっかり読んでください。\nその上で、\nカーネルモジュールのロードを確認してください。\nあと、関連モジュールも確認してください。\nターミナル上で\nvirtualbox\nと入力して、その時にでてくるエラーを見てください。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "team": "T0GFBAM8C"
+    },
+    {
+      "client_msg_id": "33c41f5c-3750-42b9-852a-b799588e2fa4",
+      "type": "message",
+      "text": "vt-xとかAMD-V が有効になってなくてもアプリ自体は上がるはず......(64bit仮想マシンは上がらないけど)",
+      "user": "UCA1NQM5K",
+      "ts": "1670665180.582789",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "zDZ1U",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "vt-xとかAMD-V が有効になってなくてもアプリ自体は上がるはず......(64bit仮想マシンは上がらないけど)"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "team": "T0GFBAM8C"
+    },
+    {
+      "client_msg_id": "0f2009c9-fad8-4679-8192-c4ec5032eeb4",
+      "type": "message",
+      "text": "VT 系が有効になってないかもしれません\nBIOS で操作するものです",
+      "user": "U0PM6EYR1",
+      "ts": "1670663903.023729",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "08E",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "VT 系が有効になってないかもしれません\nBIOS で操作するものです"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "team": "T0GFBAM8C"
+    },
+    {
+      "type": "message",
+      "text": "Oracle VM　VertualboxをALTERLinuxにインストールを完了しました。ウィンドウズ７を入れる手順を知りたいのですが、参考WEBを探しています。どなたか試された方はいませんか？ご指導ください。メニューのシステム管理にOracle VM　Vertualboxのアイコンが現れたので、クリックしましたが起動しません。",
+      "files": [
+        {
+          "id": "F04EJR1EQ85",
+          "created": 1670662441,
+          "timestamp": 1670662441,
+          "name": "スクリーンショット_2022-12-10_17-47-53.png",
+          "title": "スクリーンショット_2022-12-10_17-47-53.png",
+          "mimetype": "image/png",
+          "filetype": "png",
+          "pretty_type": "PNG",
+          "user": "U046DBL3GUC",
+          "user_team": "T0GFBAM8C",
+          "editable": false,
+          "size": 358492,
+          "mode": "hosted",
+          "is_external": false,
+          "external_type": "",
+          "is_public": true,
+          "public_url_shared": false,
+          "display_as_bot": false,
+          "username": "",
+          "url_private": "https://files.slack.com/files-pri/T0GFBAM8C-F04EJR1EQ85/____________________________2022-12-10_17-47-53.png",
+          "url_private_download": "https://files.slack.com/files-pri/T0GFBAM8C-F04EJR1EQ85/download/____________________________2022-12-10_17-47-53.png",
+          "media_display_type": "unknown",
+          "thumb_64": "https://files.slack.com/files-tmb/T0GFBAM8C-F04EJR1EQ85-feeeb63fda/____________________________2022-12-10_17-47-53_64.png",
+          "thumb_80": "https://files.slack.com/files-tmb/T0GFBAM8C-F04EJR1EQ85-feeeb63fda/____________________________2022-12-10_17-47-53_80.png",
+          "thumb_360": "https://files.slack.com/files-tmb/T0GFBAM8C-F04EJR1EQ85-feeeb63fda/____________________________2022-12-10_17-47-53_360.png",
+          "thumb_360_w": 360,
+          "thumb_360_h": 192,
+          "thumb_480": "https://files.slack.com/files-tmb/T0GFBAM8C-F04EJR1EQ85-feeeb63fda/____________________________2022-12-10_17-47-53_480.png",
+          "thumb_480_w": 480,
+          "thumb_480_h": 256,
+          "thumb_160": "https://files.slack.com/files-tmb/T0GFBAM8C-F04EJR1EQ85-feeeb63fda/____________________________2022-12-10_17-47-53_160.png",
+          "thumb_720": "https://files.slack.com/files-tmb/T0GFBAM8C-F04EJR1EQ85-feeeb63fda/____________________________2022-12-10_17-47-53_720.png",
+          "thumb_720_w": 720,
+          "thumb_720_h": 384,
+          "thumb_800": "https://files.slack.com/files-tmb/T0GFBAM8C-F04EJR1EQ85-feeeb63fda/____________________________2022-12-10_17-47-53_800.png",
+          "thumb_800_w": 800,
+          "thumb_800_h": 426,
+          "thumb_960": "https://files.slack.com/files-tmb/T0GFBAM8C-F04EJR1EQ85-feeeb63fda/____________________________2022-12-10_17-47-53_960.png",
+          "thumb_960_w": 960,
+          "thumb_960_h": 512,
+          "thumb_1024": "https://files.slack.com/files-tmb/T0GFBAM8C-F04EJR1EQ85-feeeb63fda/____________________________2022-12-10_17-47-53_1024.png",
+          "thumb_1024_w": 1024,
+          "thumb_1024_h": 546,
+          "original_w": 1366,
+          "original_h": 728,
+          "thumb_tiny": "AwAZADBfsY5/fR0C0H/PZKoNz2FNPQfSncRpCxB6SofpS/2fk/6wflUOlf65/wDd/rWqKLjM5rIKceaoPpSrZBjxIp9RUtwjmU4L446DpTrWN1YlmYjHQ0XEY+RgjHegkYHWnn7x+tKKQyzpX+vfr93+taorN07/AFr/AO7/AFrQFAEch+c4XP4Uqfe6EHHPFMl/1jUsP3z9KYH/2Q==",
+          "permalink": "https://archlinuxjp.slack.com/files/U046DBL3GUC/F04EJR1EQ85/____________________________2022-12-10_17-47-53.png",
+          "permalink_public": "https://slack-files.com/T0GFBAM8C-F04EJR1EQ85-04b5b85a70",
+          "is_starred": false,
+          "has_rich_preview": false,
+          "file_access": "visible"
+        }
+      ],
+      "upload": false,
+      "user": "U046DBL3GUC",
+      "display_as_bot": false,
+      "ts": "1670662465.445179",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "u9ZJ",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "Oracle VM　VertualboxをALTERLinuxにインストールを完了しました。ウィンドウズ７を入れる手順を知りたいのですが、参考WEBを探しています。どなたか試された方はいませんか？ご指導ください。メニューのシステム管理にOracle VM　Vertualboxのアイコンが現れたので、クリックしましたが起動しません。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "edited": {
+        "user": "U046DBL3GUC",
+        "ts": "1670662586.000000"
+      },
+      "client_msg_id": "8fa9cb75-ddce-42c1-a873-a03694deb03d"
+    },
+    {
+      "client_msg_id": "486dada7-1b90-4cf4-aa5b-9cbc487cb30f",
+      "type": "message",
+      "text": "筆まめクラウドはfgaファイルをインポートできない。Virtualboxをいんすとーるしてみるが、そのあと、ウィンドウズと筆ぐるめが入れられるか、よく故障するCDドライブの動作が不安だ。",
+      "user": "U046DBL3GUC",
+      "ts": "1670655131.767389",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "6Tb",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "筆まめクラウドはfgaファイルをインポートできない。Virtualboxをいんすとーるしてみるが、そのあと、ウィンドウズと筆ぐるめが入れられるか、よく故障するCDドライブの動作が不安だ。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "team": "T0GFBAM8C"
+    },
+    {
+      "client_msg_id": "bdd66520-9f9f-4971-9192-ae2df28f2799",
+      "type": "message",
+      "text": "Windows アプリの問題ははVirtualbox で解決してますね。",
+      "user": "U0H9QUFA5",
+      "ts": "1670653871.687979",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "Mzh66",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "Windows アプリの問題ははVirtualbox で解決してますね。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "team": "T0GFBAM8C"
+    },
+    {
+      "client_msg_id": "e96b5c6b-159d-4d02-81e5-67326bb12cca",
+      "type": "message",
+      "text": "日本語OCRをインストールしてjpgファイルに入っている住所録を読み取らせたいのですが、みなさんはどんな方法で行っていますか？",
+      "user": "U046DBL3GUC",
+      "ts": "1670653545.581569",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "twh",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "日本語OCRをインストールしてjpgファイルに入っている住所録を読み取らせたいのですが、みなさんはどんな方法で行っていますか？"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "team": "T0GFBAM8C"
+    },
+    {
+      "client_msg_id": "8fed5a13-f0c2-49bc-aecb-b1900587a923",
+      "type": "message",
+      "text": "早速ご教授ありがとうございます。筆まめがウィンドウズのみ対応のようで、現在私にはウィンドウズがありません。持っているのはALTERLinuxとクロームブックとスマホのアンドロイドです。実は筆ぐるめだったかも",
+      "user": "U046DBL3GUC",
+      "ts": "1670653418.014059",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "keG",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "早速ご教授ありがとうございます。筆まめがウィンドウズのみ対応のようで、現在私にはウィンドウズがありません。持っているのはALTERLinuxとクロームブックとスマホのアンドロイドです。実は筆ぐるめだったかも"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "team": "T0GFBAM8C",
+      "edited": {
+        "user": "U046DBL3GUC",
+        "ts": "1670653737.000000"
+      }
+    },
+    {
+      "client_msg_id": "426c139a-0572-4e87-926e-6b6ae49716a9",
+      "type": "message",
+      "text": "筆まめからCSVやvCard でエクスポートできるので、そっちで対応するしかなさそうな気がします",
+      "user": "U0PM6EYR1",
+      "ts": "1670652932.157859",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "kwo=",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "筆まめからCSVやvCard でエクスポートできるので、そっちで対応するしかなさそうな気がします"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "team": "T0GFBAM8C"
+    },
+    {
+      "client_msg_id": "1cfbf671-966e-43ea-a556-8b1428fb0aa6",
+      "type": "message",
+      "text": "こんにちは\n　筆まめで作った年賀状住所録のfgaファイルを開いてデータを助けたいのですが、できますか？一昨年の暮に作ったので助けられるとありがたいです。もうウィンドウズには戻りたくないのですが、筆まめにLINUX版がない。Linuxのソフトはありますか？うっかり筆まめと書いたが、実は筆ぐるめだったかも",
+      "user": "U046DBL3GUC",
+      "ts": "1670651854.275349",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "qNY",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "こんにちは\n　筆まめで作った年賀状住所録のfgaファイルを開いてデータを助けたいのですが、できますか？一昨年の暮に作ったので助けられるとありがたいです。もうウィンドウズには戻りたくないのですが、筆まめにLINUX版がない。Linuxのソフトはありますか？うっかり筆まめと書いたが、実は筆ぐるめだったかも"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "team": "T0GFBAM8C",
+      "edited": {
+        "user": "U046DBL3GUC",
+        "ts": "1670653717.000000"
+      }
+    },
+    {
+      "type": "message",
+      "subtype": "channel_join",
+      "ts": "1670590982.342529",
+      "user": "U04E3CHUPL7",
+      "text": "<@U04E3CHUPL7>さんがチャンネルに参加しました"
+    },
+    {
+      "type": "message",
+      "subtype": "channel_join",
+      "ts": "1670475630.295339",
+      "user": "U04E6P48C93",
+      "text": "<@U04E6P48C93>さんがチャンネルに参加しました"
+    },
+    {
+      "type": "message",
+      "subtype": "channel_join",
+      "ts": "1670459515.648499",
+      "user": "U04EMJJBB8R",
+      "text": "<@U04EMJJBB8R>さんがチャンネルに参加しました",
+      "reactions": [
+        {
+          "name": "archjp-joy",
+          "users": [
+            "U03JYF13SQP",
+            "U01HE1ENNJZ"
+          ],
+          "count": 2
+        }
+      ]
+    },
+    {
+      "client_msg_id": "7BA70DFE-3C57-46AA-81DF-2963FC8D2CF5",
+      "type": "message",
+      "text": "なるほど",
+      "user": "U0GFBAM8U",
+      "ts": "1670405309.591099",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "u84",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "なるほど"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "team": "T0GFBAM8C"
+    },
+    {
+      "client_msg_id": "bf91dbb8-a1a9-41ba-9659-676dcf918991",
+      "type": "message",
+      "text": "<https://wiki.archlinux.jp/index.php/%E7%92%B0%E5%A2%83%E5%A4%89%E6%95%B0#.E3.82.A2.E3.83.97.E3.83.AA.E3.82.B1.E3.83.BC.E3.82.B7.E3.83.A7.E3.83.B3.E3.81.94.E3.81.A8|https://wiki.archlinux.jp/index.php/%E7%92%B0%E5%A2%83%E5%A4%89%E6%95%B0#.E3.82.A2.E3.83.97.E3.83.AA.E3.82.B1[…].E3.83.A7.E3.83.B3.E3.81.94.E3.81.A8>\nアプリケーション毎だとこっちですね。",
+      "user": "U0H9QUFA5",
+      "ts": "1670401240.143679",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "YpNq",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "link",
+                  "url": "https://wiki.archlinux.jp/index.php/%E7%92%B0%E5%A2%83%E5%A4%89%E6%95%B0#.E3.82.A2.E3.83.97.E3.83.AA.E3.82.B1.E3.83.BC.E3.82.B7.E3.83.A7.E3.83.B3.E3.81.94.E3.81.A8",
+                  "text": "https://wiki.archlinux.jp/index.php/%E7%92%B0%E5%A2%83%E5%A4%89%E6%95%B0#.E3.82.A2.E3.83.97.E3.83.AA.E3.82.B1[…].E3.83.A7.E3.83.B3.E3.81.94.E3.81.A8"
+                },
+                {
+                  "type": "text",
+                  "text": "\nアプリケーション毎だとこっちですね。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "team": "T0GFBAM8C"
+    },
+    {
+      "client_msg_id": "271e05b8-8536-4e06-8d4a-f6f1b3551394",
+      "type": "message",
+      "text": "そうみたいですね。",
+      "user": "U0H9QUFA5",
+      "ts": "1670401100.216779",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "IXSx1",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "そうみたいですね。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "team": "T0GFBAM8C"
+    },
+    {
+      "client_msg_id": "5050EE83-4A9C-45D9-BB66-45CEE5848D66",
+      "type": "message",
+      "text": "よくわかってないんだけど全体的に適用されそうと思ってる",
+      "user": "U0GFBAM8U",
+      "ts": "1670400394.881359",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "tYUif",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "よくわかってないんだけど全体的に適用されそうと思ってる"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "team": "T0GFBAM8C"
+    },
+    {
+      "client_msg_id": "0e96c09c-e65b-4d6e-aa0a-e7f7274c3447",
+      "type": "message",
+      "text": "`/etc/profile.d`  に書いておけば、そのアプリケーションでだけ、その環境変数を使ってくれるって事？",
+      "user": "U0H9QUFA5",
+      "ts": "1670400344.191789",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "F7ACz",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "/etc/profile.d ",
+                  "style": {
+                    "code": true
+                  }
+                },
+                {
+                  "type": "text",
+                  "text": " に書いておけば、そのアプリケーションでだけ、その環境変数を使ってくれるって事？"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "team": "T0GFBAM8C"
+    },
+    {
+      "client_msg_id": "39C6B927-9925-4A2B-8BF9-E97A05D7004F",
+      "type": "message",
+      "text": "よかった",
+      "user": "U0GFBAM8U",
+      "ts": "1670399771.850009",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "I0l",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "よかった"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "team": "T0GFBAM8C"
+    },
+    {
+      "client_msg_id": "40d716ba-1849-4ef7-9b2b-24d7c0c25334",
+      "type": "message",
+      "text": "```env QT_SCALE_FACTOR=1.5 wireshark```\nおお、できた。qt5ct とかで、フォントサイズ変えようかと思ったけど、これで十分でした。あざっす。",
+      "user": "U0H9QUFA5",
+      "ts": "1670399746.684709",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "Yhf1",
+          "elements": [
+            {
+              "type": "rich_text_preformatted",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "env QT_SCALE_FACTOR=1.5 wireshark"
+                }
+              ],
+              "border": 0
+            },
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "おお、できた。qt5ct とかで、フォントサイズ変えようかと思ったけど、これで十分でした。あざっす。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "team": "T0GFBAM8C"
+    },
+    {
+      "client_msg_id": "8af5448a-1668-43ad-a1cf-4a506b801cd3",
+      "type": "message",
+      "text": "このあたり設定してみるのはどうでしょう\nQT_SCREEN_SCALE_FACTORS\nQT_SCALE_FACTOR\nQT_FONT_DPI\n`/etc/profile.d`で読み込むといいらしい",
+      "user": "U0GFBAM8U",
+      "ts": "1670399309.529999",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "4mwvF",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "このあたり設定してみるのはどうでしょう\nQT_SCREEN_SCALE_FACTORS\nQT_SCALE_FACTOR\nQT_FONT_DPI\n"
+                },
+                {
+                  "type": "text",
+                  "text": "/etc/profile.d",
+                  "style": {
+                    "code": true
+                  }
+                },
+                {
+                  "type": "text",
+                  "text": "で読み込むといいらしい"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "team": "T0GFBAM8C",
+      "reactions": [
+        {
+          "name": "naruhodo",
+          "users": [
+            "U0H9QUFA5"
+          ],
+          "count": 1
+        }
+      ]
+    },
+    {
+      "client_msg_id": "4752d8a5-79aa-466c-bdd4-f1c4e27e37f1",
+      "type": "message",
+      "text": "wireshark は GTK 版がなくなったのがつらい。",
+      "user": "U0H9QUFA5",
+      "ts": "1670396241.466919",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "mIY",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "wireshark は GTK 版がなくなったのがつらい。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "team": "T0GFBAM8C"
+    },
+    {
+      "client_msg_id": "ae80c79d-89c6-48e6-a675-495c6c620486",
+      "type": "message",
+      "text": "あ、そういえば、Wireshark が該当した。",
+      "user": "U0H9QUFA5",
+      "ts": "1670396124.544199",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "go+Vo",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "あ、そういえば、Wireshark が該当した。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "team": "T0GFBAM8C"
+    },
+    {
+      "client_msg_id": "f8d9e68e-758e-4285-ad14-d6ad76aa38c0",
+      "type": "message",
+      "text": "Qt を使ったアプリはあんまり入れてないから、気づいてないだけかもしれない。",
+      "user": "U0H9QUFA5",
+      "ts": "1670396089.256719",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "Z=O",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "Qt を使ったアプリはあんまり入れてないから、気づいてないだけかもしれない。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "team": "T0GFBAM8C"
+    },
+    {
+      "type": "message",
+      "text": "他のアプリはフォント小さくないんですかね？",
+      "user": "U257W41DW",
+      "ts": "1670396034.145449",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "qoM8",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "他のアプリはフォント小さくないんですかね？"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "team": "T0GFBAM8C",
+      "edited": {
+        "user": "U257W41DW",
+        "ts": "1670396055.000000"
+      }
+    },
+    {
+      "client_msg_id": "368def86-0829-4a36-9258-1cf043e889f7",
+      "type": "message",
+      "text": "pinentry-gnome にしたら、だいぶましになったので、これで良いことにします。",
+      "user": "U0H9QUFA5",
+      "ts": "1670395944.130719",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "TxBv",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "pinentry-gnome にしたら、だいぶましになったので、これで良いことにします。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "team": "T0GFBAM8C"
+    },
+    {
+      "client_msg_id": "d56b32c3-5ac7-456a-8658-9902569fb6c6",
+      "type": "message",
+      "text": "breeze を入れて QT のスタイルを代えればとおもったら、インストール時の依存パッケージが多すぎてやめた。pinentry-gnome にするかな。",
+      "user": "U0H9QUFA5",
+      "ts": "1670395222.706069",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "zhCnz",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "breeze を入れて QT のスタイルを代えればとおもったら、インストール時の依存パッケージが多すぎてやめた。pinentry-gnome にするかな。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "team": "T0GFBAM8C"
+    },
+    {
+      "client_msg_id": "7d360fdb-316f-448d-85e4-12fd3981973a",
+      "type": "message",
+      "text": "2560x1440 の画面で小さく表示される問題なので、HiDPIの問題ではないと思う。",
+      "user": "U0H9QUFA5",
+      "ts": "1670394787.819249",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "IkL8f",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "2560x1440 の画面で小さく表示される問題なので、HiDPIの問題ではないと思う。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "team": "T0GFBAM8C"
+    },
+    {
+      "type": "message",
+      "text": "ArchWiki の HiDPI ページに何か書いてるかもしれない（未確認）",
+      "user": "U257W41DW",
+      "ts": "1670394374.817979",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "Oxxe",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "ArchWiki の HiDPI ページに何か書いてるかもしれない（未確認）"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "team": "T0GFBAM8C"
+    },
+    {
+      "client_msg_id": "1d158935-a4de-4c52-95aa-e3aeeed3db2a",
+      "type": "message",
+      "text": "pinentry-qt を使ってました。あとは、どうやって、文字を大きくするかやな。",
+      "user": "U0H9QUFA5",
+      "ts": "1670394302.634349",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "M8A",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "pinentry-qt を使ってました。あとは、どうやって、文字を大きくするかやな。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "team": "T0GFBAM8C"
+    },
+    {
+      "client_msg_id": "5d8620b1-e3b5-45fb-bb22-029f64ca4f2a",
+      "type": "message",
+      "text": "それでした。",
+      "user": "U0H9QUFA5",
+      "ts": "1670394160.394889",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "OPKC1",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "それでした。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "team": "T0GFBAM8C"
+    },
+    {
+      "type": "message",
+      "text": "HiDPI のモニタだからとかですかね？ pass のダイアログは `pinentry-*` 系コマンドのどれかが使われるので GTK とか Qt の HiDPI 設定が怪しいかもしれません。",
+      "user": "U257W41DW",
+      "ts": "1670394048.617059",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "+Ms1+",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "HiDPI のモニタだからとかですかね？ pass のダイアログは "
+                },
+                {
+                  "type": "text",
+                  "text": "pinentry-*",
+                  "style": {
+                    "code": true
+                  }
+                },
+                {
+                  "type": "text",
+                  "text": " 系コマンドのどれかが使われるので GTK とか Qt の HiDPI 設定が怪しいかもしれません。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "team": "T0GFBAM8C"
+    },
+    {
+      "client_msg_id": "40ca724e-4728-4273-9a2e-0a7358bf18c8",
+      "type": "message",
+      "text": "pass を使ってて、パスワードを復号するとき、gpg2 -d hoge.gpg とか復号してるはずなんだけど、この時、出てくるダイアログおよびフォントが小さくて、困ってます。誰かわかりますか？",
+      "user": "U0H9QUFA5",
+      "ts": "1670393748.554099",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "kBXd",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "pass を使ってて、パスワードを復号するとき、gpg2 -d hoge.gpg とか復号してるはずなんだけど、この時、出てくるダイアログおよびフォントが小さくて、困ってます。誰かわかりますか？"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "team": "T0GFBAM8C",
+      "edited": {
+        "user": "U0H9QUFA5",
+        "ts": "1670393760.000000"
+      },
+      "thread_ts": "1670393748.554099",
+      "reply_count": 1,
+      "reply_users_count": 1,
+      "latest_reply": "1670394142.781949",
+      "reply_users": [
+        "U0H9QUFA5"
+      ],
+      "is_locked": false,
+      "subscribed": false
+    },
+    {
+      "type": "message",
+      "subtype": "channel_join",
+      "ts": "1670392260.177889",
+      "user": "U04E5HD0ECC",
+      "text": "<@U04E5HD0ECC>さんがチャンネルに参加しました"
+    },
+    {
+      "type": "message",
+      "subtype": "channel_join",
+      "ts": "1670321055.584099",
+      "user": "U04DUF83QQM",
+      "text": "<@U04DUF83QQM>さんがチャンネルに参加しました"
+    },
+    {
+      "type": "message",
+      "subtype": "channel_join",
+      "ts": "1670145614.217419",
+      "user": "U04D7JHD6S3",
+      "text": "<@U04D7JHD6S3>さんがチャンネルに参加しました",
+      "reactions": [
+        {
+          "name": "archjp-joy",
+          "users": [
+            "U03JYF13SQP",
+            "U045CFM1NNB",
+            "U0GFBAM8U",
+            "U01HE1ENNJZ"
+          ],
+          "count": 4
+        }
+      ]
+    },
+    {
+      "client_msg_id": "30999582-dce0-43c4-9761-1b8e49eea1f6",
+      "type": "message",
+      "text": "Wayland環境でIntelliJ Ideaを使用し、“マウスのドラッグで“テキストを選択するとコンポジタごと落ちるの分かる人いますか…？",
+      "user": "U04302AEB8U",
+      "ts": "1670073682.762479",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "x4Iw",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "Wayland環境でIntelliJ Ideaを使用し、“マウスのドラッグで“テキストを選択するとコンポジタごと落ちるの分かる人いますか…？"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "team": "T0GFBAM8C"
+    },
+    {
+      "client_msg_id": "df53c884-ad16-469e-adc1-31fc07b8d541",
+      "type": "message",
+      "text": "大変懐かしい記事が共有されていた......",
+      "user": "U0HJ7EB9T",
+      "ts": "1669992743.478629",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "ZW38U",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "大変懐かしい記事が共有されていた......"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "team": "T0GFBAM8C",
+      "reactions": [
+        {
+          "name": "taskall",
+          "users": [
+            "UHBE4FUJV"
+          ],
+          "count": 1
+        },
+        {
+          "name": "arch",
+          "users": [
+            "U0GFBAM8U"
+          ],
+          "count": 1
+        }
+      ]
+    },
+    {
+      "client_msg_id": "bf927544-8e38-42fe-9405-efe026e733ed",
+      "type": "message",
+      "text": "けど環境固定が難しいのでやっぱ実験用だなー",
+      "user": "UGA29R3FH",
+      "ts": "1669989113.007439",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "0VWzU",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "けど環境固定が難しいのでやっぱ実験用だなー"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "team": "T0GFBAM8C"
+    },
+    {
+      "client_msg_id": "aa7a78f0-018b-49e5-930f-a3a47abd10a2",
+      "type": "message",
+      "text": "自分で構築するのならホストのキャッシュ流用できるというメリットはある",
+      "user": "UGA29R3FH",
+      "ts": "1669989095.480629",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "SzxA",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "自分で構築するのならホストのキャッシュ流用できるというメリットはある"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "team": "T0GFBAM8C"
+    },
+    {
+      "client_msg_id": "b68fcdde-a1c0-4c94-94af-528dc2c10b71",
+      "type": "message",
+      "text": "実験用にArchベースのコンテナをいつも用意してるんだけどついこの間とうとうDockerベースからnspawnベースになった",
+      "user": "UGA29R3FH",
+      "ts": "1669988920.409189",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "V6=V",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "実験用にArchベースのコンテナをいつも用意してるんだけどついこの間とうとうDockerベースからnspawnベースになった"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "team": "T0GFBAM8C"
+    },
+    {
+      "client_msg_id": "950510d7-3e4e-4c0c-94df-8b5b4e7d5e24",
+      "type": "message",
+      "text": "systemd-nspawn シンプルでいいですよ。スケールしないような場面では特に。ただ、archをコンテナにするのはあんまメリットないかもだけど。",
+      "user": "U0H9QUFA5",
+      "ts": "1669987680.107629",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "6b/KB",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "systemd-nspawn シンプルでいいですよ。スケールしないような場面では特に。ただ、archをコンテナにするのはあんまメリットないかもだけど。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "team": "T0GFBAM8C"
+    },
+    {
+      "client_msg_id": "f7844567-5662-4905-a928-5f6569166d6a",
+      "type": "message",
+      "text": "そもそもpacmanそのものには権限昇格機能が無いので最初からrootで走らせるしかないような",
+      "user": "UGA29R3FH",
+      "ts": "1669982922.293079",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "fB7as",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "そもそもpacmanそのものには権限昇格機能が無いので最初からrootで走らせるしかないような"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "team": "T0GFBAM8C"
+    },
+    {
+      "client_msg_id": "c1cecef4-d609-479b-9d15-16f5e1ec6aad",
+      "type": "message",
+      "text": "そういやarchの場合、pacman等はrootだからpasswdはいらない感じなのでしょうか?",
+      "user": "U0GFBAM8U",
+      "ts": "1669982843.320469",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "FviV",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "そういやarchの場合、pacman等はrootだからpasswdはいらない感じなのでしょうか?"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "team": "T0GFBAM8C"
+    },
+    {
+      "client_msg_id": "232f19df-e397-460d-9d04-8acf82ddf6e3",
+      "type": "message",
+      "text": "一般ユーザーでブートしようとするので謎のエラーが出る",
+      "user": "UGA29R3FH",
+      "ts": "1669982682.096799",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "+aAT",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "一般ユーザーでブートしようとするので謎のエラーが出る"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "team": "T0GFBAM8C"
+    },
+    {
+      "client_msg_id": "f129b4cd-acf2-45a5-a090-974537a75664",
+      "type": "message",
+      "text": "systemd-nspawnといえば、この前 `-b` と `-u 1000` を同時に付けて爆死してました:innocent:",
+      "user": "UGA29R3FH",
+      "ts": "1669982665.773219",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "bvZtv",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "systemd-nspawnといえば、この前 "
+                },
+                {
+                  "type": "text",
+                  "text": "-b",
+                  "style": {
+                    "code": true
+                  }
+                },
+                {
+                  "type": "text",
+                  "text": " と "
+                },
+                {
+                  "type": "text",
+                  "text": "-u 1000",
+                  "style": {
+                    "code": true
+                  }
+                },
+                {
+                  "type": "text",
+                  "text": " を同時に付けて爆死してました"
+                },
+                {
+                  "type": "emoji",
+                  "name": "innocent",
+                  "unicode": "1f607"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "team": "T0GFBAM8C"
+    },
+    {
+      "client_msg_id": "cebac57d-f1a9-4c02-880d-32517e052a2e",
+      "type": "message",
+      "text": "ちなみに、私はあまり詳しくないのでよくわかってない",
+      "user": "U0GFBAM8U",
+      "ts": "1669982641.098419",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "MX3",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "ちなみに、私はあまり詳しくないのでよくわかってない"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "team": "T0GFBAM8C"
+    },
+    {
+      "client_msg_id": "4f4ea3af-d6af-4fbc-bf0a-a473e27f6cd5",
+      "type": "message",
+      "text": "systemd-nspawn関連、こちらの記事がすごく便利そう\n<https://qiita.com/Aruneko/items/ddf4581ab33d658854c4>",
+      "user": "U0GFBAM8U",
+      "ts": "1669982618.546879",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "3Su8",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "systemd-nspawn関連、こちらの記事がすごく便利そう\n"
+                },
+                {
+                  "type": "link",
+                  "url": "https://qiita.com/Aruneko/items/ddf4581ab33d658854c4"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "team": "T0GFBAM8C",
+      "attachments": [
+        {
+          "from_url": "https://qiita.com/Aruneko/items/ddf4581ab33d658854c4",
+          "image_url": "https://qiita-user-contents.imgix.net/https%3A%2F%2Fcdn.qiita.com%2Fassets%2Fpublic%2Farticle-ogp-background-9f5428127621718a910c8b63951390ad.png?ixlib=rb-4.0.0&w=1200&mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTkxNiZ0eHQ9JTVCQXJjaCUyMExpbnV4JTVEJTIwc3lzdGVtZC1uc3Bhd24lRTMlODElQTclRTglQkIlQkQlRTklODclOEYlRTMlODIlQjMlRTMlODMlQjMlRTMlODMlODYlRTMlODMlOEElRTMlODIlOTIlRTUlQkIlQkElRTMlODElQTYlRTMlODIlODglRTMlODElODYlRUYlQkMlODEmdHh0LWNvbG9yPSUyMzIxMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT01NiZ0eHQtY2xpcD1lbGxpcHNpcyZ0eHQtYWxpZ249bGVmdCUyQ3RvcCZzPTNmNjU4NDJkYjhiYTQzMjdiMmE2YWI1ZjBhYjRhZTM2&mark-x=142&mark-y=112&blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTYxNiZ0eHQ9JTQwQXJ1bmVrbyZ0eHQtY29sb3I9JTIzMjEyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTM2JnR4dC1hbGlnbj1sZWZ0JTJDdG9wJnM9YTY4MGI2Yzg5YWQxNTM2NTdmMjIzOTBiYzEzYjA2MGE&blend-x=142&blend-y=491&blend-mode=normal&s=700f0e55b5a0e60b02d111ccdaeaa5ed",
+          "image_width": 476,
+          "image_height": 250,
+          "image_bytes": 48051,
+          "service_icon": "https://cdn.qiita.com/assets/favicons/public/apple-touch-icon-ec5ba42a24ae923f16825592efdc356f.png",
+          "id": 1,
+          "original_url": "https://qiita.com/Aruneko/items/ddf4581ab33d658854c4",
+          "fallback": "Qiita: [Arch Linux] systemd-nspawnで軽量コンテナを建てよう！ - Qiita",
+          "text": "はじめに\n\nSystemdには軽量コンテナ(というよりはすごいchroot)を建てる機能がなぜか備わっています。\nDockerをわざわざ入れるまでもないような場面で活躍してくれるかもしれません。\nそれでは早速Arch Linuxに...",
+          "title": "[Arch Linux] systemd-nspawnで軽量コンテナを建てよう！ - Qiita",
+          "title_link": "https://qiita.com/Aruneko/items/ddf4581ab33d658854c4",
+          "service_name": "Qiita"
+        }
+      ]
+    },
+    {
+      "client_msg_id": "6961296e-b58f-4973-b082-0a67bb641ce1",
+      "type": "message",
+      "text": "という感じでやってみることはできますか?",
+      "user": "U0GFBAM8U",
+      "ts": "1669982345.647249",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "m65s",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "という感じでやってみることはできますか?"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "team": "T0GFBAM8C"
+    },
+    {
+      "client_msg_id": "792c6654-a1ac-4512-a7ae-be05d15b1ac6",
+      "type": "message",
+      "text": "```$ systemd-nspawn -b -D /var/lib/machines/arch```",
+      "user": "U0GFBAM8U",
+      "ts": "1669982319.989089",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "7GLuZ",
+          "elements": [
+            {
+              "type": "rich_text_preformatted",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "$ systemd-nspawn -b -D /var/lib/machines/arch"
+                }
+              ],
+              "border": 0
+            }
+          ]
+        }
+      ],
+      "team": "T0GFBAM8C"
+    },
+    {
+      "type": "message",
+      "text": "コンテナ内に入ってない場合、ホスト側の `/etc/pacman.d/gnupg` 見てて、そっちが古い可能性がありそう",
+      "user": "U257W41DW",
+      "ts": "1669982144.690969",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "xCt5",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "コンテナ内に入ってない場合、ホスト側の "
+                },
+                {
+                  "type": "text",
+                  "text": "/etc/pacman.d/gnupg",
+                  "style": {
+                    "code": true
+                  }
+                },
+                {
+                  "type": "text",
+                  "text": " 見てて、そっちが古い可能性がありそう"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "team": "T0GFBAM8C"
+    },
+    {
+      "type": "message",
+      "text": "ちょっと気になるのは、画像のシェルプロンプトの感じだとコンテナに入ってなくて、単純にディレクトリ上に居るだけのような感じがするけど入ってますかね？",
+      "user": "U257W41DW",
+      "ts": "1669981914.687829",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "Pib",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "ちょっと気になるのは、画像のシェルプロンプトの感じだとコンテナに入ってなくて、単純にディレクトリ上に居るだけのような感じがするけど入ってますかね？"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "team": "T0GFBAM8C"
+    },
+    {
+      "type": "message",
+      "text": "そもそも `pacman-key --init` や `pacman-key --populate` を実行しないと `/etc/pacman.d/gnupg/` がないし、実行すると有効な署名鍵が振ってくる……",
+      "user": "U257W41DW",
+      "ts": "1669981758.507729",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "tCF7",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "そもそも "
+                },
+                {
+                  "type": "text",
+                  "text": "pacman-key --init",
+                  "style": {
+                    "code": true
+                  }
+                },
+                {
+                  "type": "text",
+                  "text": " や "
+                },
+                {
+                  "type": "text",
+                  "text": "pacman-key --populate",
+                  "style": {
+                    "code": true
+                  }
+                },
+                {
+                  "type": "text",
+                  "text": " を実行しないと "
+                },
+                {
+                  "type": "text",
+                  "text": "/etc/pacman.d/gnupg/",
+                  "style": {
+                    "code": true
+                  }
+                },
+                {
+                  "type": "text",
+                  "text": " がないし、実行すると有効な署名鍵が振ってくる……"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "team": "T0GFBAM8C"
+    },
+    {
+      "client_msg_id": "bf346a4d-5e94-4043-9f78-1861b7f11123",
+      "type": "message",
+      "text": "何らかのバグの可能性高そう(本来意図した挙動ではないという意味で",
+      "user": "U0GFBAM8U",
+      "ts": "1669981619.856289",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "1H2",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "何らかのバグの可能性高そう(本来意図した挙動ではないという意味で"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "team": "T0GFBAM8C"
+    },
+    {
+      "client_msg_id": "376d72a4-f2de-4ccc-8e66-5d4d18feec5d",
+      "type": "message",
+      "text": "ミラーの指定が必要だったと思うけど変な所指定してしまったとかだろうか",
+      "user": "UGA29R3FH",
+      "ts": "1669981544.441019",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "ijtLK",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "ミラーの指定が必要だったと思うけど変な所指定してしまったとかだろうか"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "team": "T0GFBAM8C"
+    },
+    {
+      "client_msg_id": "5cab3626-e8b6-48bf-9a76-5e0177fae0e3",
+      "type": "message",
+      "text": "ですよねー",
+      "user": "UGA29R3FH",
+      "ts": "1669981525.958659",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "Zyl0T",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "ですよねー"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "team": "T0GFBAM8C"
+    },
+    {
+      "type": "message",
+      "text": "同じように `/var/lib/machines/arch` に構築してみたけど普通に新しいですね",
+      "user": "U257W41DW",
+      "ts": "1669981480.131909",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "6IW",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "同じように "
+                },
+                {
+                  "type": "text",
+                  "text": "/var/lib/machines/arch",
+                  "style": {
+                    "code": true
+                  }
+                },
+                {
+                  "type": "text",
+                  "text": " に構築してみたけど普通に新しいですね"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "team": "T0GFBAM8C"
+    },
+    {
+      "type": "message",
+      "text": "archlinux-bootstrap ってコンテナ用じゃないような。使えなくはないでしょうが必要ないパッケージも入ってそう。",
+      "user": "U257W41DW",
+      "ts": "1669979966.951189",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "rjOn",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "archlinux-bootstrap ってコンテナ用じゃないような。使えなくはないでしょうが必要ないパッケージも入ってそう。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "team": "T0GFBAM8C"
+    },
+    {
+      "client_msg_id": "8edb3f9c-9914-4fb2-b79d-f6d7bccf04d5",
+      "type": "message",
+      "text": "うーむ…",
+      "user": "UGA29R3FH",
+      "ts": "1669979701.682469",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "pxxF7",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "うーむ…"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "team": "T0GFBAM8C"
+    },
+    {
+      "client_msg_id": "b3aed38e-4991-4da4-ad03-1114ff26ced5",
+      "type": "message",
+      "text": "うーんもういっかい最初からやってみます",
+      "user": "UP57VNN6T",
+      "ts": "1669979700.693319",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "kUYaU",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "うーんもういっかい最初からやってみます"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "team": "T0GFBAM8C"
+    },
+    {
+      "client_msg_id": "21144d38-e20b-498b-9e39-96246f9133c5",
+      "type": "message",
+      "text": "同じURLで同じチェックサムでした。",
+      "user": "UP57VNN6T",
+      "ts": "1669979687.281749",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "80LZ",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "同じURLで同じチェックサムでした。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "team": "T0GFBAM8C"
+    },
+    {
+      "client_msg_id": "4b0a19a0-447d-4863-b4e1-cd99336eb2d3",
+      "type": "message",
+      "text": "更に中でpacstrapぶっ叩くというのも成功\nちなみに使ってるのはこれ <http://ftp.tsukuba.wide.ad.jp/Linux/archlinux/iso/2022.12.01/archlinux-bootstrap-x86_64.tar.gz>",
+      "user": "UGA29R3FH",
+      "ts": "1669979665.092029",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "SYi",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "更に中でpacstrapぶっ叩くというのも成功\nちなみに使ってるのはこれ "
+                },
+                {
+                  "type": "link",
+                  "url": "http://ftp.tsukuba.wide.ad.jp/Linux/archlinux/iso/2022.12.01/archlinux-bootstrap-x86_64.tar.gz"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "team": "T0GFBAM8C"
+    },
+    {
+      "client_msg_id": "e7e882c9-d512-4d0d-b9fc-f803c03a7080",
+      "type": "message",
+      "text": "拾ってきたコンテナでkeyの初期化をしてbase-develをインストールするという操作は通った",
+      "user": "UGA29R3FH",
+      "ts": "1669979544.698199",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "Am=",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "拾ってきたコンテナでkeyの初期化をしてbase-develをインストールするという操作は通った"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "team": "T0GFBAM8C"
+    },
+    {
+      "client_msg_id": "174C1C79-63D5-4A02-9228-864A5D4D7B8C",
+      "type": "message",
+      "text": "あれそうなんですか...\nこれは一からコンテナを作成する上で参考になるかもしれないスクリプトです\n<https://github.com/ArchLinuxJP/docker-arch/blob/master/dockerfile/docker-arch/mkimage-arch/base.sh|https://github.com/ArchLinuxJP/docker-arch/blob/master/dockerfile/docker-arch/mkimage-arch/base.sh>",
+      "user": "U0GFBAM8U",
+      "ts": "1669979401.922749",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "GxNi",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "あれそうなんですか...\nこれは一からコンテナを作成する上で参考になるかもしれないスクリプトです\n"
+                },
+                {
+                  "type": "link",
+                  "url": "https://github.com/ArchLinuxJP/docker-arch/blob/master/dockerfile/docker-arch/mkimage-arch/base.sh",
+                  "text": "https://github.com/ArchLinuxJP/docker-arch/blob/master/dockerfile/docker-arch/mkimage-arch/base.sh"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "team": "T0GFBAM8C",
+      "attachments": [
+        {
+          "id": 1,
+          "footer_icon": "https://slack.github.com/static/img/favicon-neutral.png",
+          "color": "24292f",
+          "bot_id": "B03JFQRLYDD",
+          "app_unfurl_url": "https://github.com/ArchLinuxJP/docker-arch/blob/master/dockerfile/docker-arch/mkimage-arch/base.sh",
+          "is_app_unfurl": true,
+          "app_id": "A01BP7R4KNY",
+          "fallback": "<https://github.com/ArchLinuxJP/docker-arch/blob/master/dockerfile/docker-arch/mkimage-arch/base.sh | base.sh>",
+          "text": "```\n#!/usr/bin/env bash\n# Generate a minimal filesystem for archlinux and load it into the local\n# docker as \"archlinuxjp\"\n# requires root\nset -e\n\nhash pacstrap &>/dev/null || {\n  echo \"Could not find pacstrap. Run pacman -S arch-install-scripts\"\n  exit 1\n}\n\nhash expect &>/dev/null || {\n  echo \"Could not find expect. Run pacman -S expect\"\n  exit 1\n}\n\n\nexport LANG=\"C.UTF-8\"\n\nROOTFS=$(mktemp -d ${TMPDIR:-/var/tmp}/rootfs-archlinux-XXXXXXXXXX)\nchmod 755 $ROOTFS\n\n# packages to ignore for space savings\nPKGIGNORE=(\n    cryptsetup\n    device-mapper\n    dhcpcd\n    iproute2\n    jfsutils\n    linux\n    lvm2\n    man-db\n    man-pages\n    mdadm\n    nano\n    netctl\n    openresolv\n    pciutils\n    pcmciautils\n    reiserfsprogs\n    s-nail\n    systemd-sysvcompat\n    usbutils\n    vi\n    xfsprogs\n)\nIFS=','\nPKGIGNORE=\"${PKGIGNORE[*]}\"\nunset IFS\n\nPACMAN_CONF='./mkimage-arch-pacman.conf'\nPACMAN_MIRRORLIST=\"Server = <http://mirror.archlinux.jp/\\$repo/os/\\$arch\\nServer> = <https://jpn.mirror.pkgbuild.com/\\$repo/os/\\$arch>\"\nPACMAN_EXTRA_PKGS=''\nEXPECT_TIMEOUT=200\nARCH_KEYRING=archlinux\nDOCKER_IMAGE_NAME=archlinuxjp/archlinux\n\n\nexport PACMAN_MIRRORLIST\n\nexpect <<EOF\n  set send_slow {1 .1}\n  proc send {ignore arg} {\n    sleep .1\n    exp_send -s -- \\$arg\n  }\n  set timeout $EXPECT_TIMEOUT\n\n  spawn pacstrap -C $PACMAN_CONF -c -d -G -i $ROOTFS base haveged $PACMAN_EXTRA_PKGS --ignore $PKGIGNORE\n  expect {\n    -exact \"anyway? \\[Y/n\\] \" { send -- \"n\\r\"; exp_continue }\n    -exact \"(default=all): \" { send -- \"\\r\"; exp_continue }\n    -exact \"installation? \\[Y/n\\]\" { send -- \"y\\r\"; exp_continue }\n    -exact \"delete it? \\[Y/n\\]\" { send -- \"y\\r\"; exp_continue }\n  }\nEOF\n\narch-chroot $ROOTFS /bin/sh -c 'rm -r /usr/share/man/*'\narch-chroot $ROOTFS /bin/sh -c \"haveged -w 1024; pacman-key --init; pkill haveged; pacman -Rs --noconfirm haveged;pacman-key --populate $ARCH_KEYRING\"\narch-chroot $ROOTFS /bin/sh -c \"ln -s /usr/share/zoneinfo/JST /etc/localtime\"\necho -e \"en_US.UTF-8 UTF-8\\nja_JP.UTF-8 UTF-8\" > $ROOTFS/etc/locale.gen\narch-chroot $ROOTFS locale-gen\narch-chroot $ROOTFS /bin/sh -c 'echo -e $PACMAN_MIRRORLIST > /etc/pacman.d/mirrorlist'\n\n# udev doesn't work in containers, rebuild /dev\nDEV=$ROOTFS/dev\nrm -rf $DEV\nmkdir -p $DEV\nmknod -m 666 $DEV/null c 1 3\nmknod -m 666 $DEV/zero c 1 5\nmknod -m 666 $DEV/random c 1 8\nmknod -m 666 $DEV/urandom c 1 9\nmkdir -m 755 $DEV/pts\nmkdir -m 1777 $DEV/shm\nmknod -m 666 $DEV/tty c 5 0\nmknod -m 600 $DEV/console c 5 1\nmknod -m 666 $DEV/tty0 c 4 0\nmknod -m 666 $DEV/full c 1 7\nmknod -m 600 $DEV/initctl p\nmknod -m 666 $DEV/ptmx c 5 2\nln -sf /proc/self/fd $DEV/fd\n\ntar --numeric-owner --xattrs --acls -C $ROOTFS -c . | docker import - $DOCKER_IMAGE_NAME\ndocker run --rm -t $DOCKER_IMAGE_NAME echo Success.\nrm -rf $ROOTFS\n\n```",
+          "title": "<https://github.com/ArchLinuxJP/docker-arch/blob/master/dockerfile/docker-arch/mkimage-arch/base.sh | base.sh>",
+          "footer": "<https://github.com/ArchLinuxJP/docker-arch|ArchLinuxJP/docker-arch>",
+          "mrkdwn_in": [
+            "text"
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "df5fcdf0-8d9b-4bf1-ba21-e9899e99e774",
+      "type": "message",
+      "text": "iso配布してるところと同じページから取得できるtarを/var/lib/machines/archに展開してから `systemd-nspawn -D /var/lib/machines/arch` しました。\ntarは昨日ビルドされたものなので古いってことはないと思うんですけど...",
+      "user": "UP57VNN6T",
+      "ts": "1669979352.451489",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "mgVeF",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "iso配布してるところと同じページから取得できるtarを/var/lib/machines/archに展開してから "
+                },
+                {
+                  "type": "text",
+                  "text": "systemd-nspawn -D /var/lib/machines/arch",
+                  "style": {
+                    "code": true
+                  }
+                },
+                {
+                  "type": "text",
+                  "text": " しました。\ntarは昨日ビルドされたものなので古いってことはないと思うんですけど..."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "team": "T0GFBAM8C"
+    },
+    {
+      "client_msg_id": "2F1D2039-3582-45A3-B7F5-5834455E300B",
+      "type": "message",
+      "text": "この場合、どうしようもないですね。コンテナが古いのです\n一からコンテナを作成するしかない",
+      "user": "U0GFBAM8U",
+      "ts": "1669979247.519259",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "cH3",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "この場合、どうしようもないですね。コンテナが古いのです\n一からコンテナを作成するしかない"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "team": "T0GFBAM8C"
+    },
+    {
+      "client_msg_id": "2eee903f-83dd-4b1e-bd24-ca5f114bec6e",
+      "type": "message",
+      "text": "あ、公式が配ってるあれか",
+      "user": "UGA29R3FH",
+      "ts": "1669979188.277309",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "ZZ7t",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "あ、公式が配ってるあれか"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "team": "T0GFBAM8C"
+    },
+    {
+      "client_msg_id": "6708455a-16de-43a3-867f-e82a6b83a8f5",
+      "type": "message",
+      "text": "コンテナといってもsystemd-nspawnです。tarballで導入して、コンテナ内で `pacman -S base base-devel`を実行しました",
+      "user": "UP57VNN6T",
+      "ts": "1669979160.068749",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "P2Bt",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "コンテナといってもsystemd-nspawnです。tarballで導入して、コンテナ内で "
+                },
+                {
+                  "type": "text",
+                  "text": "pacman -S base base-devel",
+                  "style": {
+                    "code": true
+                  }
+                },
+                {
+                  "type": "text",
+                  "text": "を実行しました"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "team": "T0GFBAM8C",
+      "edited": {
+        "user": "UP57VNN6T",
+        "ts": "1669979200.000000"
+      }
+    },
+    {
+      "client_msg_id": "756fe34f-a392-4a5a-9b10-5e7cd271b58d",
+      "type": "message",
+      "text": "手元のArchでpacstrap走らせたら普通に通ったので再現手順が知りたいです",
+      "user": "UGA29R3FH",
+      "ts": "1669979134.893619",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "htqz",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "手元のArchでpacstrap走らせたら普通に通ったので再現手順が知りたいです"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "team": "T0GFBAM8C"
+    },
+    {
+      "client_msg_id": "D716AF77-3354-4AB5-BBA9-649477BC7CA6",
+      "type": "message",
+      "text": "dockerの公式イメージはありますが、そういうことではないですよね",
+      "user": "U0GFBAM8U",
+      "ts": "1669979054.828219",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "wsA0Q",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "dockerの公式イメージはありますが、そういうことではないですよね"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "team": "T0GFBAM8C"
+    },
+    {
+      "client_msg_id": "828a3864-6bb5-45ff-9f3c-3240fed89bc1",
+      "type": "message",
+      "text": "Arch Linuxのメーリングリストとかに顔出してる人いたら報告をお願いしたいです",
+      "user": "UP57VNN6T",
+      "ts": "1669978937.817779",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "rH6g",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "Arch Linuxのメーリングリストとかに顔出してる人いたら報告をお願いしたいです"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "team": "T0GFBAM8C"
+    },
+    {
+      "type": "message",
+      "text": "Arch Linuxをコンテナ環境に入れようとしてるんですが、パッケージの署名の期限が切れててインストールできないんですよね\n同じ人いますか？それとも自分だけ...?`pacman-key --init` や `pacman-key --populate` の実行、`pacman -S archlinux-keuring` はもう実行しています。",
+      "files": [
+        {
+          "id": "F04E62N00U8",
+          "created": 1669978899,
+          "timestamp": 1669978899,
+          "name": "image.png",
+          "title": "image.png",
+          "mimetype": "image/png",
+          "filetype": "png",
+          "pretty_type": "PNG",
+          "user": "UP57VNN6T",
+          "user_team": "T0GFBAM8C",
+          "editable": false,
+          "size": 97661,
+          "mode": "hosted",
+          "is_external": false,
+          "external_type": "",
+          "is_public": true,
+          "public_url_shared": false,
+          "display_as_bot": false,
+          "username": "",
+          "url_private": "https://files.slack.com/files-pri/T0GFBAM8C-F04E62N00U8/image.png",
+          "url_private_download": "https://files.slack.com/files-pri/T0GFBAM8C-F04E62N00U8/download/image.png",
+          "media_display_type": "unknown",
+          "thumb_64": "https://files.slack.com/files-tmb/T0GFBAM8C-F04E62N00U8-92f92b6908/image_64.png",
+          "thumb_80": "https://files.slack.com/files-tmb/T0GFBAM8C-F04E62N00U8-92f92b6908/image_80.png",
+          "thumb_360": "https://files.slack.com/files-tmb/T0GFBAM8C-F04E62N00U8-92f92b6908/image_360.png",
+          "thumb_360_w": 360,
+          "thumb_360_h": 119,
+          "thumb_480": "https://files.slack.com/files-tmb/T0GFBAM8C-F04E62N00U8-92f92b6908/image_480.png",
+          "thumb_480_w": 480,
+          "thumb_480_h": 159,
+          "thumb_160": "https://files.slack.com/files-tmb/T0GFBAM8C-F04E62N00U8-92f92b6908/image_160.png",
+          "thumb_720": "https://files.slack.com/files-tmb/T0GFBAM8C-F04E62N00U8-92f92b6908/image_720.png",
+          "thumb_720_w": 720,
+          "thumb_720_h": 238,
+          "thumb_800": "https://files.slack.com/files-tmb/T0GFBAM8C-F04E62N00U8-92f92b6908/image_800.png",
+          "thumb_800_w": 800,
+          "thumb_800_h": 264,
+          "thumb_960": "https://files.slack.com/files-tmb/T0GFBAM8C-F04E62N00U8-92f92b6908/image_960.png",
+          "thumb_960_w": 960,
+          "thumb_960_h": 317,
+          "thumb_1024": "https://files.slack.com/files-tmb/T0GFBAM8C-F04E62N00U8-92f92b6908/image_1024.png",
+          "thumb_1024_w": 1024,
+          "thumb_1024_h": 338,
+          "original_w": 1244,
+          "original_h": 411,
+          "thumb_tiny": "AwAPADCmOTiikBwc0ZoAXFNOaXdSUAGaM0UUAf/Z",
+          "permalink": "https://archlinuxjp.slack.com/files/UP57VNN6T/F04E62N00U8/image.png",
+          "permalink_public": "https://slack-files.com/T0GFBAM8C-F04E62N00U8-492f54fee7",
+          "is_starred": false,
+          "has_rich_preview": false,
+          "file_access": "visible"
+        }
+      ],
+      "upload": false,
+      "user": "UP57VNN6T",
+      "display_as_bot": false,
+      "ts": "1669978904.735319",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "YI6T",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "Arch Linuxをコンテナ環境に入れようとしてるんですが、パッケージの署名の期限が切れててインストールできないんですよね\n同じ人いますか？それとも自分だけ...?"
+                },
+                {
+                  "type": "text",
+                  "text": "pacman-key --init",
+                  "style": {
+                    "code": true
+                  }
+                },
+                {
+                  "type": "text",
+                  "text": " や "
+                },
+                {
+                  "type": "text",
+                  "text": "pacman-key --populate",
+                  "style": {
+                    "code": true
+                  }
+                },
+                {
+                  "type": "text",
+                  "text": " の実行、"
+                },
+                {
+                  "type": "text",
+                  "text": "pacman -S archlinux-keuring",
+                  "style": {
+                    "code": true
+                  }
+                },
+                {
+                  "type": "text",
+                  "text": " はもう実行しています。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "client_msg_id": "d8c67621-5c5a-4183-97cc-7f75c3d62a41"
+    },
+    {
+      "type": "message",
+      "subtype": "channel_join",
+      "ts": "1669972032.700109",
+      "user": "U04DFRGU4LA",
+      "text": "<@U04DFRGU4LA>さんがチャンネルに参加しました"
+    },
+    {
+      "type": "message",
+      "subtype": "channel_join",
+      "ts": "1669873411.294309",
+      "user": "U04D1P9FLPQ",
+      "text": "<@U04D1P9FLPQ>さんがチャンネルに参加しました",
+      "reactions": [
+        {
+          "name": "archjp-joy",
+          "users": [
+            "U03JYF13SQP",
+            "U0GFBAM8U",
+            "U01HE1ENNJZ",
+            "UGA29R3FH"
+          ],
+          "count": 4
+        }
+      ]
+    }
+  ],
+  "has_more": false,
+  "is_limited": true,
+  "pin_count": 16,
+  "channel_actions_ts": null,
+  "channel_actions_count": 0
+}
