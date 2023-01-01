@@ -32,7 +32,7 @@ user_json(){
 	# https://api.slack.com/methods/users.list
 	url=https://slack.com/api/users.list
 	if [ ! -f $d/user.json ];then
- 	curl -X GET -H 'Content-type: application/json' "$url?token=$token" >! $d/user.json
+ 	curl -X GET -H 'Content-type: application/json' "$url?token=$token&limit=1000" >! $d/user.json
 	fi
 }
 
@@ -97,21 +97,21 @@ name_rewrite(){
 		tt=`echo "$t"|awk "NR==$i"`
 		ttt=`cat $tt |jq -r ".messages|.[].user"|sort|uniq`
 		if [ -n "$ttt" ];then
-		nn=`echo "$ttt"|wc -l`
-		for ((ii=1;ii<=$nn;ii++))
-		do
-			id=`echo "$ttt"|awk "NR==$ii"`
-			name=`cat $d/user.json|jq -r ".members|.[]|select(.id == \"$id\")|.name"`
-			if [ -z "$name" ];then
-				echo ok $tt
-				break
-			fi
-			if [ "$id" != "null" ] && [ -n "$name" ];then
-				echo $id $name
-				echo sed -i \"\" \"s/$id/$name/g\" $tt
-				sed -i "" "s/$id/$name/g" $tt
-			fi
-		done
+			nn=`echo "$ttt"|wc -l`
+			for ((ii=1;ii<=$nn;ii++))
+			do
+				id=`echo "$ttt"|awk "NR==$ii"`
+				name=`cat $d/user.json|jq -r ".members|.[]|select(.id == \"$id\")|.name"`
+				if [ -z "$name" ];then
+					echo ok $tt
+					break
+				fi
+				if [ "$id" != "null" ] && [ -n "$name" ];then
+					echo $id $name
+					echo sed -i \"\" \"s/$id/$name/g\" $tt
+					sed -i "" "s/$id/$name/g" $tt
+				fi
+			done
 		fi
 	done
 }
