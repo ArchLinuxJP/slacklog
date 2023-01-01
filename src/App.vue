@@ -53,12 +53,13 @@
 <script>
 import axios from 'axios'
 import moment from 'moment';
+var first_id = moment().add(-1, 'months').format('YYYYMM');
 export default {
 	data() {
 		return {
 			message: null,
 			latest: null,
-			id: 202005,
+			id: first_id,
 			items: null,
 			itemsr: null,
 		}
