@@ -32,8 +32,9 @@ test_time(){
 user_json(){
 	# https://api.slack.com/methods/users.list
 	url=https://slack.com/api/users.list
+	rm $d/user.json
 	if [ ! -f $d/user.json ];then
- 	curl -X GET -H 'Content-type: application/json' "$url?token=$token" >! $d/user.json
+ 	curl -X GET -H 'Content-type: application/json' "$url?token=$token&limit=1000" >! $d/user.json
 	fi
 }
 
