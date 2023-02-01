@@ -56,7 +56,7 @@
     {
       "type": "message",
       "text": "以前 iphone 使ってた時に wiki の方法でマウントしてデータ移動したりバックアップとった記憶があるんですが、今はできないんですかね？",
-      "user": "U257W41DW",
+      "user": "odknt",
       "ts": "1673598346.289139",
       "blocks": [
         {
@@ -144,7 +144,7 @@
       "client_msg_id": "3626F17F-2E24-40B6-88CE-364AD7D13CA4",
       "type": "message",
       "text": "そうですね\nsyncはやっといた方が確実",
-      "user": "U0GFBAM8U",
+      "user": "syui",
       "ts": "1673596751.563469",
       "blocks": [
         {
@@ -198,7 +198,7 @@
       "client_msg_id": "24C70773-C750-44EE-9B69-2B24944C104B",
       "type": "message",
       "text": "(真似しないように)",
-      "user": "U0GFBAM8U",
+      "user": "syui",
       "ts": "1673589804.206399",
       "blocks": [
         {
@@ -223,7 +223,7 @@
       "client_msg_id": "D747FFE6-03E0-4F35-9B35-A5EB1C8CE869",
       "type": "message",
       "text": "私はcpした直後にumountせずに引っこ抜く時はsyncしてる",
-      "user": "U0GFBAM8U",
+      "user": "syui",
       "ts": "1673589400.765379",
       "blocks": [
         {
@@ -248,7 +248,7 @@
       "client_msg_id": "02FE8946-13BF-4D54-9995-394261BB31CA",
       "type": "message",
       "text": "umountした時の雰囲気わかる\nなんか裏で処理してる感あるんよね",
-      "user": "U0GFBAM8U",
+      "user": "syui",
       "ts": "1673589336.951299",
       "blocks": [
         {
@@ -273,7 +273,7 @@
       "client_msg_id": "0c11e114-fc3c-4199-b530-d6667a38bcd2",
       "type": "message",
       "text": "たぶんね。SD カードとか umount するときには sync してなかったけど、壊れたことないし。",
-      "user": "U0H9QUFA5",
+      "user": "kusanaginoturugi",
       "ts": "1673588754.284729",
       "blocks": [
         {
@@ -323,7 +323,7 @@
       "client_msg_id": "7d7af514-fc9e-4a4c-baa4-4788a7e5d086",
       "type": "message",
       "text": "man にも書いてないことを、さらっと返事する人がいるなあ。",
-      "user": "U0H9QUFA5",
+      "user": "kusanaginoturugi",
       "ts": "1673588276.707269",
       "blocks": [
         {
@@ -348,7 +348,7 @@
       "client_msg_id": "66d6b919-707e-4788-886d-29c32e7cf6ee",
       "type": "message",
       "text": "<https://unix-stackexchange-com.translate.goog/questions/345917/does-umount-calls-sync-to-complete-any-pending-writes?_x_tr_sl=auto&amp;_x_tr_tl=ja&amp;_x_tr_hl=ja|https://unix-stackexchange-com.translate.goog/questions/345917/does-umount-calls-sync-to-comple[…]nding-writes?_x_tr_sl=auto&amp;_x_tr_tl=ja&amp;_x_tr_hl=ja>",
-      "user": "U0H9QUFA5",
+      "user": "kusanaginoturugi",
       "ts": "1673588216.056829",
       "blocks": [
         {
@@ -390,7 +390,7 @@
       "client_msg_id": "5b5659e4-6700-42c0-b3bf-aed14ff9f6bb",
       "type": "message",
       "text": "umount時にsyncが実行されるのか、syncが実行されてない場合にアンマウントを待ってくれるのか",
-      "user": "UVB7L4CKH",
+      "user": "tatsumigamou",
       "ts": "1673588085.754709",
       "blocks": [
         {
@@ -439,7 +439,7 @@
         {
           "name": "sorena",
           "users": [
-            "U0H9QUFA5",
+            "kusanaginoturugi",
             "naokihirokitomoki"
           ],
           "count": 2
@@ -450,7 +450,7 @@
       "client_msg_id": "4b24f39c-d041-42eb-b2fa-f3be872f356d",
       "type": "message",
       "text": "syncしてるって言い方は悪いか\nwriteを待ってくれる印象",
-      "user": "UCA1NQM5K",
+      "user": "angel.beats.kanade.yu",
       "ts": "1673587921.078379",
       "blocks": [
         {
@@ -475,7 +475,7 @@
       "client_msg_id": "ecd1fb0c-03b8-456c-b106-b05a9dd220c2",
       "type": "message",
       "text": "umount叩いたときの雰囲気がある気がしてる\nまだWriteしてるときはumount叩いてもすぐに帰ってこない(裏で勝手にsyncしてる)",
-      "user": "UCA1NQM5K",
+      "user": "angel.beats.kanade.yu",
       "ts": "1673587817.293089",
       "blocks": [
         {
@@ -500,7 +500,7 @@
       "client_msg_id": "a5b5a729-63a2-4f5e-a465-d917241f3e8a",
       "type": "message",
       "text": "sync の話をすると、UNIX から使ってる古参が sync; sync; sync; と唱えて、若手が sync は一回でええねんでという話で、ちょいちょい盛りあがる。",
-      "user": "U0H9QUFA5",
+      "user": "kusanaginoturugi",
       "ts": "1673587779.929029",
       "blocks": [
         {
@@ -525,7 +525,7 @@
       "client_msg_id": "e302c802-8aaa-4466-8377-9b35ad8944f9",
       "type": "message",
       "text": "先にsyncだけ叩いておいて横で別の作業して、適当なタイミングでumountして抜いて、みたいな感じでやる事が多いんですよね",
-      "user": "UVB7L4CKH",
+      "user": "tatsumigamou",
       "ts": "1673587627.504569",
       "blocks": [
         {
@@ -575,7 +575,7 @@
       "client_msg_id": "4509b7ab-231f-49a4-8fdf-7bffe7ba5821",
       "type": "message",
       "text": "```       ファイルシステムが  `busy'   である時にはアンマウントは実行できな\n       い。  例えばそのファイルシステム上で、 ファイルがオープンされてい\n       る (あるいはスワップファイルが使用中である) 場合や、 あるプロセス\n       のワーキングディレクトリがそこにある場合などが該当する。 この原因\n       となるプロセスが umount 自身の場合もありうる。 umount は libc  を\n       オープンするし、  libc はまた多くのファイル (locale ファイルなど)\n       をオープンする可能性がある。 lazy  アンマウントにより、この問題は\n       回避できる。```\nman を見ると、この通りなので、umount するなら sync いらなそう。",
-      "user": "U0H9QUFA5",
+      "user": "kusanaginoturugi",
       "ts": "1673587586.868449",
       "blocks": [
         {
@@ -619,7 +619,7 @@
       "client_msg_id": "7C2A90B9-2125-4BB2-9A1D-01FC7D6F1248",
       "type": "message",
       "text": "私も同じく、なんかこう特殊な事情ある時はsyncする感じ",
-      "user": "U0GFBAM8U",
+      "user": "syui",
       "ts": "1673587571.033379",
       "blocks": [
         {
@@ -644,7 +644,7 @@
       "client_msg_id": "CF046767-8C6D-4494-8A36-922D9866389E",
       "type": "message",
       "text": "syncした方が確実だと思うけど",
-      "user": "U0GFBAM8U",
+      "user": "syui",
       "ts": "1673587526.377099",
       "blocks": [
         {
@@ -694,7 +694,7 @@
       "client_msg_id": "0CAEBA05-8148-423C-8DD5-4D9B74EE12C1",
       "type": "message",
       "text": "私はunmountだけしてる",
-      "user": "U0GFBAM8U",
+      "user": "syui",
       "ts": "1673587455.521309",
       "blocks": [
         {
@@ -744,8 +744,8 @@
       "reply_users_count": 3,
       "latest_reply": "1673598655.797829",
       "reply_users": [
-        "U0H9QUFA5",
-        "U0GFBAM8U",
+        "kusanaginoturugi",
+        "syui",
         "seekerkrt"
       ],
       "is_locked": false,
@@ -781,7 +781,7 @@
       "client_msg_id": "97afaa80-8b81-4606-8279-b2713e04e6c0",
       "type": "message",
       "text": "umount するなら、sync いらんような気がするんやけど、しないとマズいんかな？",
-      "user": "U0H9QUFA5",
+      "user": "kusanaginoturugi",
       "ts": "1673587426.864649",
       "blocks": [
         {
@@ -806,7 +806,7 @@
       "client_msg_id": "3a3c3910-6ad6-4f2c-9733-efc5bc914c8c",
       "type": "message",
       "text": "ブラウザにD&amp;Dしたい時ぐらいしかGUIのファイラー出さない",
-      "user": "UVB7L4CKH",
+      "user": "tatsumigamou",
       "ts": "1673587415.549839",
       "blocks": [
         {
@@ -831,7 +831,7 @@
       "client_msg_id": "EFEF9DDB-EE4C-4C7C-91EB-05C7BC3FFE69",
       "type": "message",
       "text": "ファイルシステムあたり本当に面倒でトラブル起こりやすい",
-      "user": "U0GFBAM8U",
+      "user": "syui",
       "ts": "1673587382.180999",
       "blocks": [
         {
@@ -856,7 +856,7 @@
       "client_msg_id": "0778a9a0-e9ff-48a0-8ba4-a373c0968506",
       "type": "message",
       "text": "手動でmountコマンド叩いてcpしてsyncしてumountまでは体が覚えてる",
-      "user": "UVB7L4CKH",
+      "user": "tatsumigamou",
       "ts": "1673587353.398769",
       "blocks": [
         {
@@ -881,7 +881,7 @@
       "client_msg_id": "85210065-0126-43BC-892A-BCA695E2E248",
       "type": "message",
       "text": "sync、確かにそうですね\n私も取り出すボタンでsync, unmount あたりやってくれてるという認識",
-      "user": "U0GFBAM8U",
+      "user": "syui",
       "ts": "1673587280.520579",
       "blocks": [
         {
@@ -902,7 +902,7 @@
       ],
       "team": "T0GFBAM8C",
       "edited": {
-        "user": "U0GFBAM8U",
+        "user": "syui",
         "ts": "1673587292.000000"
       }
     },
@@ -910,7 +910,7 @@
       "client_msg_id": "723fcba4-7510-482b-a7d2-c4743cf1d35b",
       "type": "message",
       "text": "ここには、GUI に詳しい人がいない説",
-      "user": "U0H9QUFA5",
+      "user": "kusanaginoturugi",
       "ts": "1673587191.369809",
       "blocks": [
         {
@@ -960,7 +960,7 @@
       "client_msg_id": "0f6f65e8-9d5a-4b8b-bb44-65f76f9ae21f",
       "type": "message",
       "text": "nemo とかのファイラーを使う場合は、windows explorer のように「取り出し」とかを選べば、sync されるんじゃないの？(使わないのでわからない)",
-      "user": "U0H9QUFA5",
+      "user": "kusanaginoturugi",
       "ts": "1673587109.767369",
       "blocks": [
         {
@@ -1036,8 +1036,8 @@
       "latest_reply": "1673596030.905659",
       "reply_users": [
         "masanobuban",
-        "U0GFBAM8U",
-        "U0H9QUFA5"
+        "syui",
+        "kusanaginoturugi"
       ],
       "is_locked": false,
       "subscribed": true,
@@ -1163,7 +1163,7 @@
       "client_msg_id": "e903dd57-7874-4986-ba53-c82acfb208cb",
       "type": "message",
       "text": "`sync; sync; sync; halt` なんていうおまじないがあってですね……\n冗談はさておき、普通に `sync` 一回叩いてみてください",
-      "user": "UVB7L4CKH",
+      "user": "tatsumigamou",
       "ts": "1673571885.453689",
       "blocks": [
         {
@@ -1207,7 +1207,7 @@
       "latest_reply": "1673575637.040649",
       "reply_users": [
         "masanobuban",
-        "UVB7L4CKH"
+        "tatsumigamou"
       ],
       "is_locked": false,
       "subscribed": false
@@ -1241,8 +1241,8 @@
       "type": "message",
       "subtype": "channel_join",
       "ts": "1673541953.347289",
-      "user": "U04KCAZEWBA",
-      "text": "<@U04KCAZEWBA>さんがチャンネルに参加しました",
+      "user": "renoma",
+      "text": "<@renoma>さんがチャンネルに参加しました",
       "reactions": [
         {
           "name": "archjp-joy",
@@ -1341,7 +1341,7 @@
       "client_msg_id": "5C9F3D2A-5397-4810-AF03-CBC8E79F41FE",
       "type": "message",
       "text": "案外、フォルダをデスクトップとかにドラッグ&amp;ドロップとかでできるかも\nappleはそういうとこある(分かりにくい",
-      "user": "U0GFBAM8U",
+      "user": "syui",
       "ts": "1673511389.329999",
       "blocks": [
         {
@@ -1438,7 +1438,7 @@
       "client_msg_id": "9ddb88a7-5b3b-49a0-8bb0-22566fa8eea9",
       "type": "message",
       "text": "(libimobiledevice についてはわたしも知らないのでお任せして) URL は特別なものじゃなくて、iCloud とぐぐると出てくるやつですね (google drive とかと同じ)",
-      "user": "UPYQ3CUJ1",
+      "user": "shota.af083",
       "ts": "1673495465.169509",
       "blocks": [
         {
@@ -1459,7 +1459,7 @@
       ],
       "team": "T0GFBAM8C",
       "edited": {
-        "user": "UPYQ3CUJ1",
+        "user": "shota.af083",
         "ts": "1673495749.000000"
       }
     },
@@ -1467,7 +1467,7 @@
       "client_msg_id": "7f33aa2b-02ff-4787-99e9-e54d1dd61c91",
       "type": "message",
       "text": "(使ってないからわからない",
-      "user": "U0GFBAM8U",
+      "user": "syui",
       "ts": "1673495462.874379",
       "blocks": [
         {
@@ -1492,7 +1492,7 @@
       "client_msg_id": "c1d5e7cd-9ada-4a85-9caa-db8b73583ddb",
       "type": "message",
       "text": "起動してれば、普通にファイルマネージャーとかでマウントされてそう",
-      "user": "U0GFBAM8U",
+      "user": "syui",
       "ts": "1673495402.683639",
       "blocks": [
         {
@@ -1542,7 +1542,7 @@
       "client_msg_id": "9de8d605-4de1-4e63-99d5-8aca87b20474",
       "type": "message",
       "text": "iCloud のデータ全てをコントロールできる訳ではな無さそうですが、web からできていそうです",
-      "user": "UPYQ3CUJ1",
+      "user": "shota.af083",
       "ts": "1673494744.199999",
       "blocks": [
         {
@@ -1567,7 +1567,7 @@
       "client_msg_id": "7ad7098c-bf1f-45de-9d75-7a84a7f0eff8",
       "type": "message",
       "text": "そういえば、icloudってwebからもアクセスできるんでしたっけ(多分、できそう",
-      "user": "U0GFBAM8U",
+      "user": "syui",
       "ts": "1673494599.896629",
       "blocks": [
         {
@@ -1592,7 +1592,7 @@
       "client_msg_id": "6f5f380c-6337-4e4c-8be0-5ad9dae5d145",
       "type": "message",
       "text": "（質問への直接の回答ではないけども）ファイルを移動したいだけであれば、web ページから iCloud を開いて、ファイルをどこかにダウンロードした上で、消して容量を空けてを繰り返せす事も悪くはない策なのかも。何もインストールせずに済みそう。",
-      "user": "UPYQ3CUJ1",
+      "user": "shota.af083",
       "ts": "1673494522.770019",
       "blocks": [
         {
@@ -1617,7 +1617,7 @@
       "client_msg_id": "4ef5f133-6b44-46f2-86b0-70fb09b63aa8",
       "type": "message",
       "text": "iphoneのストレージが一杯の場合の対処法を書きます。\n設定 -&gt; iphoneのストレージと進み、非使用のappを取り除くを選択してください\nこれにより保存データ(ユーザーデータ)は削除せず、アプリのみを削除することができます\n再びアプリをインストールすると、元通りに動きます\nつまり、一旦、この処理を行ったあとtermiusアプリが不要になった時点でこのアプリを削除して、再び元のアプリを入れればいいです",
-      "user": "U0GFBAM8U",
+      "user": "syui",
       "ts": "1673493374.636149",
       "blocks": [
         {
@@ -1667,7 +1667,7 @@
       "client_msg_id": "896e171a-b22f-4af4-b8e9-1ffb0cea3418",
       "type": "message",
       "text": "私はandroidも使いますが、androidのほうが楽ですね\nadbもあるし、kuuさんが言うようにrsyncが動くので",
-      "user": "U0GFBAM8U",
+      "user": "syui",
       "ts": "1673492924.104479",
       "blocks": [
         {
@@ -1692,7 +1692,7 @@
       "client_msg_id": "6504cd87-091b-4c62-bfa9-9df22f250b95",
       "type": "message",
       "text": "本筋の回答ではないけどAndroidだと普通にrsync動いたりするので楽なんですよねーこのへん",
-      "user": "UGA29R3FH",
+      "user": "znmxodq1",
       "ts": "1673492882.663049",
       "blocks": [
         {
@@ -1717,7 +1717,7 @@
       "client_msg_id": "f19c8e68-a599-4ba6-8658-5663ad0ed1d7",
       "type": "message",
       "text": "iPhone は Mac とセットで使うのが楽だと思います。Windows の iTunes も使えると思いますが、茨の道かなあ。うちでは、その方式で放置プレイできています。(まあ、高いアップル税を納めてますが)。",
-      "user": "U0H9QUFA5",
+      "user": "kusanaginoturugi",
       "ts": "1673492874.190329",
       "blocks": [
         {
@@ -1742,7 +1742,7 @@
       "client_msg_id": "077a1424-98b3-421e-bd05-35b03e6a9133",
       "type": "message",
       "text": "前者のほうが簡単そうですし、一般的だと思いますが、sshに慣れているような人は、後者の方法が便利だと思われます",
-      "user": "U0GFBAM8U",
+      "user": "syui",
       "ts": "1673492855.237639",
       "blocks": [
         {
@@ -1767,7 +1767,7 @@
       "client_msg_id": "57754956-1b8d-48ac-ad86-7f4f1687a7ed",
       "type": "message",
       "text": "もう一つは、私が使っている方法ですが、iphoneにtermiusをインストールして、archにssh-serverを立て、termiusのsftpでiosのファイルをarchに送る方法です",
-      "user": "U0GFBAM8U",
+      "user": "syui",
       "ts": "1673492750.173319",
       "blocks": [
         {
@@ -1792,7 +1792,7 @@
       "client_msg_id": "7ac4de9d-f7ba-41e5-bcfb-ba0a467eb983",
       "type": "message",
       "text": "一つはこちらの方法です、私は使ったことありませんが\n<https://wiki.archlinux.jp/index.php/IOS>",
-      "user": "U0GFBAM8U",
+      "user": "syui",
       "ts": "1673492634.814249",
       "blocks": [
         {
@@ -1821,7 +1821,7 @@
       "client_msg_id": "E3329986-B7A1-44E7-A514-5946D00D19E7",
       "type": "message",
       "text": "様々な方法があります",
-      "user": "U0GFBAM8U",
+      "user": "syui",
       "ts": "1673492490.777889",
       "blocks": [
         {
@@ -1846,7 +1846,7 @@
       "client_msg_id": "9d4c3e38-cd85-45aa-a645-0ab13c2da86d",
       "type": "message",
       "text": "宗教上の理由であいほんは使っていない",
-      "user": "UGA29R3FH",
+      "user": "znmxodq1",
       "ts": "1673492413.745799",
       "blocks": [
         {
@@ -1899,7 +1899,7 @@
     {
       "type": "message",
       "text": "まぁ、リポジトリの python はコミュニティが管理するパッケージの依存先という意味合いが大きいと思ってるので、開発には env 系ツール使ったほうが良いと思いますね。",
-      "user": "U257W41DW",
+      "user": "odknt",
       "ts": "1673252221.445649",
       "blocks": [
         {
@@ -1923,7 +1923,7 @@
         {
           "name": "wakaru",
           "users": [
-            "UGA29R3FH",
+            "znmxodq1",
             "U04A1BBST53",
             "naokihirokitomoki",
             "getalotofmail"
@@ -1936,7 +1936,7 @@
       "client_msg_id": "203587cd-caae-496b-befb-9373074d7c48",
       "type": "message",
       "text": "Arch更新早いとはいえコアに近い所は保守的ですし（おかげさまで安心してSyuできる)",
-      "user": "UGA29R3FH",
+      "user": "znmxodq1",
       "ts": "1673251702.652749",
       "blocks": [
         {
@@ -1976,7 +1976,7 @@
       "client_msg_id": "2618f5dd-d853-4c50-bc72-4dbd865d4adc",
       "type": "message",
       "text": "どうしても先っちょ使いたかったらenv系ツールとかでどうにかするなー",
-      "user": "UGA29R3FH",
+      "user": "znmxodq1",
       "ts": "1673251665.961149",
       "blocks": [
         {
@@ -2000,7 +2000,7 @@
     {
       "type": "message",
       "text": "単純にバージョン上げておわりではないので、気長に待ったほうがいいと思う。\n今回は特に、追加で色々やってるらしいから普段より遅れてるんじゃないですかね。\n<https://lists.archlinux.org/archives/list/arch-dev-public@lists.archlinux.org/thread/ZK57U5LPIDDJWPXWU5DSIYSI3EWUBGPP/>",
-      "user": "U257W41DW",
+      "user": "odknt",
       "ts": "1673251178.013469",
       "blocks": [
         {
@@ -2054,21 +2054,21 @@
       "type": "message",
       "subtype": "channel_join",
       "ts": "1673091108.197679",
-      "user": "U04HQE681AS",
-      "text": "<@U04HQE681AS>さんがチャンネルに参加しました"
+      "user": "multi.tk.2022",
+      "text": "<@multi.tk.2022>さんがチャンネルに参加しました"
     },
     {
       "type": "message",
       "subtype": "channel_join",
       "ts": "1673075125.508239",
-      "user": "U04HTSKS7PX",
-      "text": "<@U04HTSKS7PX>さんがチャンネルに参加しました",
+      "user": "yuta13.y",
+      "text": "<@yuta13.y>さんがチャンネルに参加しました",
       "reactions": [
         {
           "name": "archjp-joy",
           "users": [
             "U03JYF13SQP",
-            "U0GFBAM8U"
+            "syui"
           ],
           "count": 2
         }
@@ -2078,7 +2078,7 @@
       "client_msg_id": "429DCC0B-AC60-46FD-A5F2-42EE2BEEE325",
       "type": "message",
       "text": "<https://piyolog.hatenadiary.jp/entry/2023/01/07/000622|https://piyolog.hatenadiary.jp/entry/2023/01/07/000622>",
-      "user": "U0GFBAM8U",
+      "user": "syui",
       "ts": "1673054133.470449",
       "blocks": [
         {
@@ -2122,15 +2122,15 @@
       "type": "message",
       "subtype": "channel_join",
       "ts": "1672916062.348179",
-      "user": "U04H686KQEB",
-      "text": "<@U04H686KQEB>さんがチャンネルに参加しました",
+      "user": "daichikobayashi1409",
+      "text": "<@daichikobayashi1409>さんがチャンネルに参加しました",
       "reactions": [
         {
           "name": "archjp-joy",
           "users": [
             "U03JYF13SQP",
-            "U0H9QUFA5",
-            "U0GFBAM8U"
+            "kusanaginoturugi",
+            "syui"
           ],
           "count": 3
         }
@@ -2140,7 +2140,7 @@
       "client_msg_id": "0E466413-2697-4108-BF4F-B941DFE0F458",
       "type": "message",
       "text": "<https://www.itmedia.co.jp/news/spv/2301/03/news033.html|https://www.itmedia.co.jp/news/spv/2301/03/news033.html>",
-      "user": "U0GFBAM8U",
+      "user": "syui",
       "ts": "1672743941.865869",
       "blocks": [
         {
@@ -2183,14 +2183,14 @@
       "type": "message",
       "subtype": "channel_join",
       "ts": "1672731386.312409",
-      "user": "U04HM5P1PDF",
-      "text": "<@U04HM5P1PDF>さんがチャンネルに参加しました",
+      "user": "hddamin6844",
+      "text": "<@hddamin6844>さんがチャンネルに参加しました",
       "reactions": [
         {
           "name": "archjp-joy",
           "users": [
             "U03JYF13SQP",
-            "U0GFBAM8U"
+            "syui"
           ],
           "count": 2
         }
@@ -2200,7 +2200,7 @@
       "client_msg_id": "dd924c72-b7ff-4fa5-85fd-2708217162e9",
       "type": "message",
       "text": "AURの方は上げた人が手で更新しないとって感じなので",
-      "user": "UGA29R3FH",
+      "user": "znmxodq1",
       "ts": "1672679885.372309",
       "blocks": [
         {
@@ -2225,7 +2225,7 @@
       "client_msg_id": "cb44494d-b238-488e-b3c2-5b098f73aba6",
       "type": "message",
       "text": "pkgver関数に書いてあるコマンドの結果によりバージョンを自動で更新するって仕組みがあったはず",
-      "user": "UGA29R3FH",
+      "user": "znmxodq1",
       "ts": "1672679813.208209",
       "blocks": [
         {
@@ -2246,7 +2246,7 @@
       ],
       "team": "T0GFBAM8C",
       "edited": {
-        "user": "UGA29R3FH",
+        "user": "znmxodq1",
         "ts": "1672679831.000000"
       }
     },
@@ -2279,7 +2279,7 @@
       "client_msg_id": "1357eed0-8a2e-4495-a8f3-022f96b0c52e",
       "type": "message",
       "text": "表示されるバージョンは古いけどPKGBUILD覗いた感じ自動で更新される仕組みになってるみたいですし",
-      "user": "UGA29R3FH",
+      "user": "znmxodq1",
       "ts": "1672678736.294379",
       "blocks": [
         {
@@ -2304,7 +2304,7 @@
       "client_msg_id": "e756c481-d1ec-4139-a9d1-ea96bfcf9d18",
       "type": "message",
       "text": "これそのまま使ったりとかできないだろうか\n<https://aur.archlinux.org/cgit/aur.git/tree/PKGBUILD?h=neovim-nightly-bin>",
-      "user": "UGA29R3FH",
+      "user": "znmxodq1",
       "ts": "1672678712.554829",
       "blocks": [
         {
@@ -2358,8 +2358,8 @@
       "type": "message",
       "subtype": "channel_join",
       "ts": "1672672810.837679",
-      "user": "U04H97D7YG4",
-      "text": "<@U04H97D7YG4>さんがチャンネルに参加しました",
+      "user": "osagame",
+      "text": "<@osagame>さんがチャンネルに参加しました",
       "reactions": [
         {
           "name": "archjp-joy",
@@ -2374,7 +2374,7 @@
       "client_msg_id": "b3a8497c-33b1-4d34-b75b-3785315b7f0a",
       "type": "message",
       "text": "virtualbox orgが機能してない気がする\noracleのサイトに移行したんだろうか",
-      "user": "U0GFBAM8U",
+      "user": "syui",
       "ts": "1672634147.384829",
       "blocks": [
         {
