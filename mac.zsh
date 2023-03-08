@@ -4,6 +4,7 @@ team=archlinuxjp
 repo=slacklog
 general=C0GFH3RHC
 random=C0GFH3RHU
+alias date="/bin/date"
 now=`date '+%Y%m01'`
 date=20191201
 #date=20201201
