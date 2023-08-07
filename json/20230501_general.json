@@ -1,0 +1,799 @@
+{
+  "ok": true,
+  "latest": "1685601151.000000",
+  "oldest": "1682922751.000000",
+  "messages": [
+    {
+      "client_msg_id": "e6af8804-15fd-4fd0-b1ad-2602ffaae53e",
+      "type": "message",
+      "text": "`python-validity` を yay でインストールすると、`/usr/lib/python3.10/site-packages/` にインストールされ、`PKGBUILD` ファイルを `makepkg -s` してから、`pacman -U` でインストールすると、 `/usr/lib/python3.11/site-packages/` にインストールされることに気付いた。この違いってどこからくるのだろう。",
+      "user": "kusanaginoturugi",
+      "ts": "1685336439.152549",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "Pff",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "python-validity",
+                  "style": {
+                    "code": true
+                  }
+                },
+                {
+                  "type": "text",
+                  "text": " を yay でインストールすると、"
+                },
+                {
+                  "type": "text",
+                  "text": "/usr/lib/python3.10/site-packages/",
+                  "style": {
+                    "code": true
+                  }
+                },
+                {
+                  "type": "text",
+                  "text": " にインストールされ、"
+                },
+                {
+                  "type": "text",
+                  "text": "PKGBUILD",
+                  "style": {
+                    "code": true
+                  }
+                },
+                {
+                  "type": "text",
+                  "text": " ファイルを "
+                },
+                {
+                  "type": "text",
+                  "text": "makepkg -s",
+                  "style": {
+                    "code": true
+                  }
+                },
+                {
+                  "type": "text",
+                  "text": " してから、"
+                },
+                {
+                  "type": "text",
+                  "text": "pacman -U",
+                  "style": {
+                    "code": true
+                  }
+                },
+                {
+                  "type": "text",
+                  "text": " でインストールすると、 "
+                },
+                {
+                  "type": "text",
+                  "text": "/usr/lib/python3.11/site-packages/",
+                  "style": {
+                    "code": true
+                  }
+                },
+                {
+                  "type": "text",
+                  "text": " にインストールされることに気付いた。この違いってどこからくるのだろう。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "team": "T0GFBAM8C",
+      "reactions": [
+        {
+          "name": "thinking_face",
+          "users": [
+            "U03JYF13SQP"
+          ],
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "message",
+      "subtype": "thread_broadcast",
+      "text": "わたしも試しに別アカウントで作ってみましたが、確かにメールはこないですね。",
+      "user": "kusanaginoturugi",
+      "ts": "1685323357.345339",
+      "thread_ts": "1685294075.728589",
+      "root": {
+        "client_msg_id": "18688a85-e5a2-4b2e-99b1-ce202f501eee",
+        "type": "message",
+        "text": "ArchWikiのアカウント作ったけど確認メールが1日立っても来ないですね…",
+        "user": "kerthical",
+        "ts": "1685294075.728589",
+        "blocks": [
+          {
+            "type": "rich_text",
+            "block_id": "oRTOW",
+            "elements": [
+              {
+                "type": "rich_text_section",
+                "elements": [
+                  {
+                    "type": "text",
+                    "text": "ArchWikiのアカウント作ったけど確認メールが1日立っても来ないですね…"
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "team": "T0GFBAM8C",
+        "thread_ts": "1685294075.728589",
+        "reply_count": 3,
+        "reply_users_count": 3,
+        "latest_reply": "1685890061.738909",
+        "reply_users": [
+          "kusanaginoturugi",
+          "shun819.mail",
+          "kerthical"
+        ],
+        "is_locked": false,
+        "subscribed": false
+      },
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "Piw",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "わたしも試しに別アカウントで作ってみましたが、確かにメールはこないですね。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "client_msg_id": "555a0448-612e-4a7c-84ba-f4cde1133e94",
+      "reactions": [
+        {
+          "name": "thinking_face",
+          "users": [
+            "kerthical"
+          ],
+          "count": 1
+        }
+      ]
+    },
+    {
+      "client_msg_id": "18688a85-e5a2-4b2e-99b1-ce202f501eee",
+      "type": "message",
+      "text": "ArchWikiのアカウント作ったけど確認メールが1日立っても来ないですね…",
+      "user": "kerthical",
+      "ts": "1685294075.728589",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "oRTOW",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "ArchWikiのアカウント作ったけど確認メールが1日立っても来ないですね…"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "team": "T0GFBAM8C",
+      "thread_ts": "1685294075.728589",
+      "reply_count": 3,
+      "reply_users_count": 3,
+      "latest_reply": "1685890061.738909",
+      "reply_users": [
+        "kusanaginoturugi",
+        "shun819.mail",
+        "kerthical"
+      ],
+      "is_locked": false,
+      "subscribed": false
+    },
+    {
+      "type": "message",
+      "subtype": "channel_join",
+      "ts": "1684846878.157439",
+      "user": "urataw421",
+      "text": "<@urataw421>さんがチャンネルに参加しました"
+    },
+    {
+      "type": "message",
+      "subtype": "channel_join",
+      "ts": "1684844261.652479",
+      "user": "watanove",
+      "text": "<@watanove>さんがチャンネルに参加しました"
+    },
+    {
+      "type": "message",
+      "subtype": "channel_join",
+      "ts": "1684828901.367149",
+      "user": "som399",
+      "text": "<@som399>さんがチャンネルに参加しました",
+      "reactions": [
+        {
+          "name": "archjp-joy",
+          "users": [
+            "U03JYF13SQP"
+          ],
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "message",
+      "subtype": "channel_join",
+      "ts": "1684736800.938829",
+      "user": "watanabe",
+      "text": "<@watanabe>さんがチャンネルに参加しました",
+      "reactions": [
+        {
+          "name": "archjp-joy",
+          "users": [
+            "U03JYF13SQP",
+            "U0GFBAM8U",
+            "kusanaginoturugi"
+          ],
+          "count": 3
+        }
+      ]
+    },
+    {
+      "type": "message",
+      "subtype": "bot_message",
+      "text": "<https://archlinux.org/news/git-migration-completed/|Git migration completed>\nWe are proud to announce that the migration to Git packaging succeeded! :partying_face:\nThanks to everyone who has helped during the migration!\nPackage sources are now available on <https://gitlab.archlinux.org/archlinux/packaging/packages|GitLab>. Note that the bugtracker is still <https://bugs.archlinux.org/|flyspray> and that merge requests are not accepted as of now. \nWe intend to open the issue tracker and merge requests on the Gitlab package repos in the near future.\nMirrors...",
+      "ts": "1684668576.014559",
+      "username": "Arch Linux: Recent news updates",
+      "icons": {
+        "image_36": "https://a.slack-edge.com/80588/img/services/rss_36.png",
+        "image_48": "https://a.slack-edge.com/80588/img/services/rss_48.png",
+        "image_72": "https://a.slack-edge.com/80588/img/services/rss_72.png"
+      },
+      "bot_id": "B3WNLSQ4W",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "k2NAJ",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "link",
+                  "url": "https://archlinux.org/news/git-migration-completed/",
+                  "text": "Git migration completed"
+                },
+                {
+                  "type": "text",
+                  "text": "\nWe are proud to announce that the migration to Git packaging succeeded! "
+                },
+                {
+                  "type": "emoji",
+                  "name": "partying_face",
+                  "unicode": "1f973"
+                },
+                {
+                  "type": "text",
+                  "text": "\nThanks to everyone who has helped during the migration!\nPackage sources are now available on "
+                },
+                {
+                  "type": "link",
+                  "url": "https://gitlab.archlinux.org/archlinux/packaging/packages",
+                  "text": "GitLab"
+                },
+                {
+                  "type": "text",
+                  "text": ". Note that the bugtracker is still "
+                },
+                {
+                  "type": "link",
+                  "url": "https://bugs.archlinux.org/",
+                  "text": "flyspray"
+                },
+                {
+                  "type": "text",
+                  "text": " and that merge requests are not accepted as of now. \nWe intend to open the issue tracker and merge requests on the Gitlab package repos in the near future.\nMirrors..."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "attachments": [
+        {
+          "from_url": "https://gitlab.archlinux.org/archlinux/packaging/packages",
+          "service_icon": "https://gitlab.archlinux.org/assets/apple-touch-icon-b049d4bc0dd9626f31db825d61880737befc7835982586d015bded10b4435460.png",
+          "thumb_url": "https://gitlab.archlinux.org/assets/twitter_card-570ddb06edf56a2312253c5872489847a0f385112ddbcd71ccfa1570febab5d2.jpg",
+          "thumb_width": 1024,
+          "thumb_height": 1024,
+          "id": 1,
+          "original_url": "https://gitlab.archlinux.org/archlinux/packaging/packages",
+          "fallback": "GitLab: Packages · GitLab",
+          "text": "GitLab Enterprise Edition",
+          "title": "Packages · GitLab",
+          "title_link": "https://gitlab.archlinux.org/archlinux/packaging/packages",
+          "service_name": "GitLab"
+        },
+        {
+          "from_url": "https://bugs.archlinux.org/",
+          "service_icon": "https://bugs.archlinux.org/themes/ArchLinux/favicon.ico",
+          "id": 2,
+          "original_url": "https://bugs.archlinux.org/",
+          "fallback": "Arch Linux Bugtracker:: Arch Linux: Tasklist",
+          "text": "Flyspray, a Bug Tracking System written in PHP.",
+          "title": "Arch Linux Bugtracker:: Arch Linux: Tasklist",
+          "title_link": "https://bugs.archlinux.org/",
+          "service_name": "bugs.archlinux.org"
+        }
+      ],
+      "edited": {
+        "user": "B3WNLSQ4W",
+        "ts": "1684668576.000000"
+      },
+      "reactions": [
+        {
+          "name": "archjp-joy",
+          "users": [
+            "U01HE1ENNJZ",
+            "U027RN1LZT6",
+            "U04E6P48C93",
+            "U045CFM1NNB",
+            "U03JYF13SQP",
+            "U035Y3PV4PP",
+            "U041F8GDZL7"
+          ],
+          "count": 7
+        },
+        {
+          "name": "partying_face",
+          "users": [
+            "U01J1GGMHDJ"
+          ],
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "message",
+      "subtype": "channel_join",
+      "ts": "1684542006.734419",
+      "user": "kawaisounayuriko",
+      "text": "<@kawaisounayuriko>さんがチャンネルに参加しました"
+    },
+    {
+      "type": "message",
+      "subtype": "channel_join",
+      "ts": "1684468639.646669",
+      "user": "zoizoi.dayo",
+      "text": "<@zoizoi.dayo>さんがチャンネルに参加しました",
+      "reactions": [
+        {
+          "name": "archjp-joy",
+          "users": [
+            "U03JYF13SQP",
+            "kusanaginoturugi"
+          ],
+          "count": 2
+        }
+      ]
+    },
+    {
+      "client_msg_id": "a5831f46-ccb8-4c80-bfaf-2ebbaf3d8733",
+      "type": "message",
+      "text": "AUR はやっぱ便利。ちょっと試したツールがよかったりして、他の Linux ユーザーに紹介したら、ビルドからやらてしまう事になる。さくっと試して、さくっと削除できる環境が用意されてるってのは重要。",
+      "user": "kusanaginoturugi",
+      "ts": "1684379371.122369",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "5fA6w",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "AUR はやっぱ便利。ちょっと試したツールがよかったりして、他の Linux ユーザーに紹介したら、ビルドからやらてしまう事になる。さくっと試して、さくっと削除できる環境が用意されてるってのは重要。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "team": "T0GFBAM8C"
+    },
+    {
+      "client_msg_id": "4329a591-7272-4a33-94ed-f204f9e7f653",
+      "type": "message",
+      "text": "でもAURの代替がないから……",
+      "user": "syobon.hinata.public",
+      "ts": "1684377410.044639",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "zidP",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "でもAURの代替がないから……"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "team": "T0GFBAM8C",
+      "reactions": [
+        {
+          "name": "tashikani",
+          "users": [
+            "U03QSM40L5R"
+          ],
+          "count": 1
+        }
+      ]
+    },
+    {
+      "client_msg_id": "ea228c50-c1a3-4a8a-a74a-4912bfe5ccad",
+      "type": "message",
+      "text": "openSUSE Tumbleweedはローリングリリースなんですね",
+      "user": "syobon.hinata.public",
+      "ts": "1684377380.539749",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "Ae/l",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "openSUSE Tumbleweedはローリングリリースなんですね"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "team": "T0GFBAM8C"
+    },
+    {
+      "client_msg_id": "c6c35262-49a4-4aad-8a46-664b0d1f635a",
+      "type": "message",
+      "text": "一度ローリングリリースに触れるともう戻れない",
+      "user": "znmxodq1",
+      "ts": "1684377368.882609",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "i5anz",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "一度ローリングリリースに触れるともう戻れない"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "team": "T0GFBAM8C",
+      "reactions": [
+        {
+          "name": "wakaru",
+          "users": [
+            "U02SRH9D0DP",
+            "U04E6P48C93",
+            "guregorio8970",
+            "U01HE1ENNJZ",
+            "U045CFM1NNB",
+            "U041F8GDZL7"
+          ],
+          "count": 6
+        }
+      ]
+    },
+    {
+      "client_msg_id": "5617dad2-1628-47ea-a420-5a04dd9536f9",
+      "type": "message",
+      "text": "やはりローリングリリースの魔力には逆らえない",
+      "user": "syobon.hinata.public",
+      "ts": "1684377328.877519",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "nDevC",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "やはりローリングリリースの魔力には逆らえない"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "team": "T0GFBAM8C",
+      "reactions": [
+        {
+          "name": "sorena",
+          "users": [
+            "znmxodq1",
+            "kusanaginoturugi",
+            "U01JJAE8LMA",
+            "U01J1GGMHDJ",
+            "U04E6P48C93",
+            "guregorio8970",
+            "U045CFM1NNB",
+            "U03QSM40L5R",
+            "U11R8UHM0"
+          ],
+          "count": 9
+        }
+      ]
+    },
+    {
+      "client_msg_id": "8c651091-7b9a-481b-bed4-7d4cbb6bdcde",
+      "type": "message",
+      "text": "Q<https://www.reddit.com/r/linuxmasterrace/comments/13k2bah/serious_if_arch_linux_died_what_distro_youll/>\nreddit で面白いのやってる。gentoo かなあ。",
+      "user": "kusanaginoturugi",
+      "ts": "1684373167.364699",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "z/3",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "Q"
+                },
+                {
+                  "type": "link",
+                  "url": "https://www.reddit.com/r/linuxmasterrace/comments/13k2bah/serious_if_arch_linux_died_what_distro_youll/"
+                },
+                {
+                  "type": "text",
+                  "text": "\nreddit で面白いのやってる。gentoo かなあ。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "team": "T0GFBAM8C",
+      "attachments": [
+        {
+          "from_url": "https://www.reddit.com/r/linuxmasterrace/comments/13k2bah/serious_if_arch_linux_died_what_distro_youll/",
+          "service_icon": "http://www.redditstatic.com/desktop2x/img/favicon/apple-icon-57x57.png",
+          "thumb_url": "https://www.redditstatic.com/new-icon.png",
+          "thumb_width": 256,
+          "thumb_height": 256,
+          "id": 1,
+          "original_url": "https://www.reddit.com/r/linuxmasterrace/comments/13k2bah/serious_if_arch_linux_died_what_distro_youll/",
+          "fallback": "reddit: [Serious] If Arch Linux died, what distro you'll switch?",
+          "text": "A subreddit for Linux enthusiasts.",
+          "title": "[Serious] If Arch Linux died, what distro you'll switch?",
+          "title_link": "https://www.reddit.com/r/linuxmasterrace/comments/13k2bah/serious_if_arch_linux_died_what_distro_youll/",
+          "service_name": "reddit"
+        }
+      ]
+    },
+    {
+      "type": "message",
+      "subtype": "channel_join",
+      "ts": "1684210096.982179",
+      "user": "y.amgsk",
+      "text": "<@y.amgsk>さんがチャンネルに参加しました",
+      "reactions": [
+        {
+          "name": "archjp-joy",
+          "users": [
+            "U03JYF13SQP"
+          ],
+          "count": 1
+        }
+      ]
+    },
+    {
+      "client_msg_id": "3c8fc0b7-7f7c-46a3-8af1-9b6b0a27f7aa",
+      "type": "message",
+      "text": "Sway+nwg-shellを使ってます(以前半年ほどAlterlinux使ってました)",
+      "user": "guregorio8970",
+      "ts": "1684197139.377459",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "+btI",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "Sway+nwg-shellを使ってます(以前半年ほどAlterlinux使ってました)"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "team": "T0GFBAM8C"
+    },
+    {
+      "type": "message",
+      "subtype": "bot_message",
+      "text": "<https://archlinux.org/news/git-migration-announcement/|Git migration announcement>\nThis Friday morning (2023-05-19) the Git packaging migration will start until Sunday (2023-05-21). The Arch Linux packaging team will not be able to update packages in any of the repositories during this period.\nNotification when the migration starts, and when it is completed, will be published on the [arch-dev-public] mailing list.\nHow does this impact Arch Linux users?\nThe [testing] repository will be split into [core-testing] and [extra-testing], the [staging] repository will be split into...",
+      "ts": "1684181374.796119",
+      "username": "Arch Linux: Recent news updates",
+      "icons": {
+        "image_36": "https://a.slack-edge.com/80588/img/services/rss_36.png",
+        "image_48": "https://a.slack-edge.com/80588/img/services/rss_48.png",
+        "image_72": "https://a.slack-edge.com/80588/img/services/rss_72.png"
+      },
+      "bot_id": "B3WNLSQ4W",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "H0Cd/",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "link",
+                  "url": "https://archlinux.org/news/git-migration-announcement/",
+                  "text": "Git migration announcement"
+                },
+                {
+                  "type": "text",
+                  "text": "\nThis Friday morning (2023-05-19) the Git packaging migration will start until Sunday (2023-05-21). The Arch Linux packaging team will not be able to update packages in any of the repositories during this period.\nNotification when the migration starts, and when it is completed, will be published on the [arch-dev-public] mailing list.\nHow does this impact Arch Linux users?\nThe [testing] repository will be split into [core-testing] and [extra-testing], the [staging] repository will be split into..."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "client_msg_id": "bc089d18-3bf4-4333-80b5-7ab423e9c961",
+      "type": "message",
+      "text": "i3使ってるならswayに移行するのが順当という気がします",
+      "user": "syobon.hinata.public",
+      "ts": "1684166118.027309",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "xZk7",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "i3使ってるならswayに移行するのが順当という気がします"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "team": "T0GFBAM8C",
+      "reactions": [
+        {
+          "name": "wakaru",
+          "users": [
+            "U04E6P48C93",
+            "U03JYF13SQP",
+            "znmxodq1",
+            "U027RN1LZT6",
+            "U01HE1ENNJZ"
+          ],
+          "count": 5
+        }
+      ]
+    },
+    {
+      "client_msg_id": "91fcd45a-7317-4bf5-883a-e78d3f759541",
+      "type": "message",
+      "text": "i3wm+Picom+NVIDIAな環境で、異様にブロックノイズが多くなったり、↑の原神もFPSが急激に低下したりするので、Waylandに移行しようと思ってるんですがおすすめのタイル型ウィンドウマネージャとステータスバー、アプリランチャーがあれば教えてほしいです。Hyprlandがめちゃくちゃ不安定だったのでそれ以外で。",
+      "user": "shun819.mail",
+      "ts": "1684158207.426209",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "M8tX",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "i3wm+Picom+NVIDIAな環境で、異様にブロックノイズが多くなったり、↑の原神もFPSが急激に低下したりするので、Waylandに移行しようと思ってるんですがおすすめのタイル型ウィンドウマネージャとステータスバー、アプリランチャーがあれば教えてほしいです。Hyprlandがめちゃくちゃ不安定だったのでそれ以外で。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "team": "T0GFBAM8C",
+      "thread_ts": "1684158207.426209",
+      "reply_count": 9,
+      "reply_users_count": 4,
+      "latest_reply": "1684746104.319319",
+      "reply_users": [
+        "U257W41DW",
+        "U02Q7PAJYT1",
+        "U015CDRQDD0",
+        "shun819.mail"
+      ],
+      "is_locked": false,
+      "subscribed": false
+    },
+    {
+      "type": "message",
+      "subtype": "channel_join",
+      "ts": "1683988371.693809",
+      "user": "tarotene.dev",
+      "text": "<@tarotene.dev>さんがチャンネルに参加しました",
+      "reactions": [
+        {
+          "name": "archjp-joy",
+          "users": [
+            "U03JYF13SQP"
+          ],
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "message",
+      "subtype": "channel_join",
+      "ts": "1683738300.058069",
+      "user": "kokusaiynonakakana",
+      "text": "<@kokusaiynonakakana>さんがチャンネルに参加しました",
+      "reactions": [
+        {
+          "name": "archjp-joy",
+          "users": [
+            "U03JYF13SQP"
+          ],
+          "count": 1
+        }
+      ]
+    }
+  ],
+  "has_more": false,
+  "is_limited": true,
+  "pin_count": 16,
+  "channel_actions_ts": null,
+  "channel_actions_count": 0
+}

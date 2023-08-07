@@ -1,0 +1,1125 @@
+{
+  "ok": true,
+  "latest": "1690871552.000000",
+  "oldest": "1688193152.000000",
+  "messages": [
+    {
+      "type": "message",
+      "subtype": "channel_join",
+      "ts": "1690859426.208929",
+      "user": "U05K7PPDXJB",
+      "text": "<@U05K7PPDXJB>さんがチャンネルに参加しました"
+    },
+    {
+      "type": "message",
+      "subtype": "channel_join",
+      "ts": "1690590792.951149",
+      "user": "U05KQMABBT3",
+      "text": "<@U05KQMABBT3>さんがチャンネルに参加しました"
+    },
+    {
+      "type": "message",
+      "subtype": "channel_join",
+      "ts": "1690309916.697859",
+      "user": "U05K2U1AQSV",
+      "text": "<@U05K2U1AQSV>さんがチャンネルに参加しました",
+      "reactions": [
+        {
+          "name": "archjp-joy",
+          "users": [
+            "U01HE1ENNJZ",
+            "U03JYF13SQP"
+          ],
+          "count": 2
+        }
+      ]
+    },
+    {
+      "client_msg_id": "a60afc18-9e0a-40e3-a371-0fc9696b5332",
+      "type": "message",
+      "text": "memosのreadmeの下の方に、memosをapiとして利用して完全ブログ化するプラグインみたいなのも紹介されてますね おもしろいな〜",
+      "user": "UAPRYSVPS",
+      "ts": "1689769784.730579",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "B6v3",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "memosのreadmeの下の方に、memosをapiとして利用して完全ブログ化するプラグインみたいなのも紹介されてますね おもしろいな〜"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "team": "T0GFBAM8C"
+    },
+    {
+      "client_msg_id": "5ADB8A75-B1F0-4E52-9B11-33C5741C90F4",
+      "type": "message",
+      "text": "すごいな、もうブログこれでいいんじゃないか",
+      "user": "U0GFBAM8U",
+      "ts": "1689761944.611469",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "MOY",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "すごいな、もうブログこれでいいんじゃないか"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "team": "T0GFBAM8C",
+      "reactions": [
+        {
+          "name": "sorena",
+          "users": [
+            "U0H9QUFA5"
+          ],
+          "count": 1
+        }
+      ]
+    },
+    {
+      "client_msg_id": "5ef0af6c-d726-4b74-b76b-6f2c3b354672",
+      "type": "message",
+      "text": "<https://memos.showway.biz/m/1|https://memos.showway.biz/m/1>\nmemos は基本自分のメモなんだけど、こんなふうに、公開もできるし、人気なのもわかるわー。",
+      "user": "U0H9QUFA5",
+      "ts": "1689761769.484539",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "OmVs",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "link",
+                  "url": "https://memos.showway.biz/m/1",
+                  "text": "https://memos.showway.biz/m/1"
+                },
+                {
+                  "type": "text",
+                  "text": "\nmemos は基本自分のメモなんだけど、こんなふうに、公開もできるし、人気なのもわかるわー。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "team": "T0GFBAM8C",
+      "reactions": [
+        {
+          "name": "hee",
+          "users": [
+            "U02MLKKUXMF"
+          ],
+          "count": 1
+        },
+        {
+          "name": "majika",
+          "users": [
+            "watanabe"
+          ],
+          "count": 1
+        },
+        {
+          "name": "+1",
+          "users": [
+            "amano.takahisa",
+            "U041F8GDZL7"
+          ],
+          "count": 2
+        }
+      ]
+    },
+    {
+      "client_msg_id": "7c288be6-a0d3-4df1-9062-b83b9eac9dea",
+      "type": "message",
+      "text": "すごいなあ\nアプリやらbotやら出てるのがまた",
+      "user": "watanabe",
+      "ts": "1689761550.625499",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "qYO",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "すごいなあ\nアプリやらbotやら出てるのがまた"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "team": "T0GFBAM8C"
+    },
+    {
+      "client_msg_id": "bbe8e70c-259a-4437-b27e-409e02a00ae3",
+      "type": "message",
+      "text": "そうか、こういうのも自前でホスティングできるのか",
+      "user": "UAPRYSVPS",
+      "ts": "1689734511.777499",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "OP/",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "そうか、こういうのも自前でホスティングできるのか"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "team": "T0GFBAM8C",
+      "thread_ts": "1689734511.777499",
+      "reply_count": 2,
+      "reply_users_count": 2,
+      "latest_reply": "1689736552.301439",
+      "reply_users": [
+        "U0H9QUFA5",
+        "UAPRYSVPS"
+      ],
+      "is_locked": false,
+      "subscribed": false
+    },
+    {
+      "client_msg_id": "92ff8bd2-a9fe-4782-b9d9-72e56328db41",
+      "type": "message",
+      "text": "16.5k って、すごいなー。これいれてみよう。",
+      "user": "U0H9QUFA5",
+      "ts": "1689679709.971199",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "Y1yC",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "16.5k って、すごいなー。これいれてみよう。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "team": "T0GFBAM8C",
+      "edited": {
+        "user": "U0H9QUFA5",
+        "ts": "1689680071.000000"
+      },
+      "reactions": [
+        {
+          "name": "+1",
+          "users": [
+            "amano.takahisa"
+          ],
+          "count": 1
+        }
+      ]
+    },
+    {
+      "client_msg_id": "5dfcbb2e-b406-43e0-833d-36c77184348c",
+      "type": "message",
+      "text": "ものすごい勢いでスターを稼いでいるメモアプリがありました。\n<https://github.com/usememos/memos>",
+      "user": "amano.takahisa",
+      "ts": "1689679671.910579",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "YuGJ",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "ものすごい勢いでスターを稼いでいるメモアプリがありました。\n"
+                },
+                {
+                  "type": "link",
+                  "url": "https://github.com/usememos/memos"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "team": "T0GFBAM8C",
+      "attachments": [
+        {
+          "id": 1,
+          "color": "24292f",
+          "bot_id": "B03JFQRLYDD",
+          "app_unfurl_url": "https://github.com/usememos/memos",
+          "is_app_unfurl": true,
+          "app_id": "A01BP7R4KNY",
+          "fallback": "usememos/memos",
+          "text": "A privacy-first, lightweight note-taking service. Easily capture and share your great thoughts.",
+          "title": "usememos/memos",
+          "fields": [
+            {
+              "value": "<https://usememos.com>",
+              "title": "Website",
+              "short": true
+            },
+            {
+              "value": "16507",
+              "title": "Stars",
+              "short": true
+            }
+          ]
+        }
+      ],
+      "reactions": [
+        {
+          "name": "+1",
+          "users": [
+            "U041F8GDZL7",
+            "UQDJXPHJ9"
+          ],
+          "count": 2
+        }
+      ]
+    },
+    {
+      "client_msg_id": "fd91dbf0-ab58-4f1a-bc5a-805ec65bb51f",
+      "type": "message",
+      "text": "<https://wiki.archlinux.jp/index.php/Joplin|https://wiki.archlinux.jp/index.php/Joplin> 第一候補。",
+      "user": "U0H9QUFA5",
+      "ts": "1689679644.094539",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "cro",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "link",
+                  "url": "https://wiki.archlinux.jp/index.php/Joplin",
+                  "text": "https://wiki.archlinux.jp/index.php/Joplin"
+                },
+                {
+                  "type": "text",
+                  "text": " 第一候補。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "team": "T0GFBAM8C"
+    },
+    {
+      "client_msg_id": "3297b64b-c52f-4e17-aaf5-d023ef972921",
+      "type": "message",
+      "text": "そのつもりです。まあ、すでに立ててあるので、そこに入れて使おうかと。",
+      "user": "U0H9QUFA5",
+      "ts": "1689679417.897509",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "yKrV",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "そのつもりです。まあ、すでに立ててあるので、そこに入れて使おうかと。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "team": "T0GFBAM8C"
+    },
+    {
+      "client_msg_id": "991ce939-9e9c-44ae-bfbb-8c1c81555de2",
+      "type": "message",
+      "text": "&gt;  ec2 にインストールして使う予定でいます\nサーバーを建てるということですか？",
+      "user": "amano.takahisa",
+      "ts": "1689679378.550239",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "wyfzG",
+          "elements": [
+            {
+              "type": "rich_text_quote",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": " ec2 にインストールして使う予定でいます"
+                }
+              ]
+            },
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "サーバーを建てるということですか？"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "team": "T0GFBAM8C"
+    },
+    {
+      "client_msg_id": "BBBC0EFA-614D-4A33-BE19-AFCB40ABACE6",
+      "type": "message",
+      "text": "hackmdって昔無料でしたっけ?",
+      "user": "U0GFBAM8U",
+      "ts": "1689677982.386349",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "IGR2",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "hackmdって昔無料でしたっけ?"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "team": "T0GFBAM8C",
+      "thread_ts": "1689677982.386349",
+      "reply_count": 2,
+      "reply_users_count": 2,
+      "latest_reply": "1689734510.349439",
+      "reply_users": [
+        "UAPRYSVPS",
+        "U0GFBAM8U"
+      ],
+      "is_locked": false,
+      "subscribed": true,
+      "last_read": "1689734510.349439"
+    },
+    {
+      "client_msg_id": "06d6b0fc-172c-4def-b3d7-cd940230eee2",
+      "type": "message",
+      "text": "最近はNotionをちょこちょこ使いますが昔はHackMD使ってました",
+      "user": "UAPRYSVPS",
+      "ts": "1689676185.008099",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "s71C",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "最近はNotionをちょこちょこ使いますが昔はHackMD使ってました"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "team": "T0GFBAM8C"
+    },
+    {
+      "client_msg_id": "1564fb2d-7f4d-4cf0-9270-7bcdf6025374",
+      "type": "message",
+      "text": "Notionつかってます\n~何でも~貼れるし雰囲気は近いと思います\n使い込めば便利みたいです、私は深追いしてませんが\nあとはVivaldiにもちょっとしたメモ機能があったはず",
+      "user": "watanabe",
+      "ts": "1689671797.515669",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "iUX",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "Notionつかってます\n"
+                },
+                {
+                  "type": "text",
+                  "text": "何でも",
+                  "style": {
+                    "strike": true
+                  }
+                },
+                {
+                  "type": "text",
+                  "text": "貼れるし雰囲気は近いと思います\n使い込めば便利みたいです、私は深追いしてませんが\nあとはVivaldiにもちょっとしたメモ機能があったはず"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "team": "T0GFBAM8C",
+      "edited": {
+        "user": "watanabe",
+        "ts": "1689671819.000000"
+      }
+    },
+    {
+      "client_msg_id": "21efcc1c-76f9-4b6d-94e5-4e025010d8c4",
+      "type": "message",
+      "text": "Google Keep をメモに使っていたんだけど、ここから別のWebアプリに移行しようと思っています。普通にメモできて、検索できれば十分で、ベンダーロックインがイヤなだけです。何か良いWebアプリがあれば教えてください。ec2 にインストールして使う予定でいます。",
+      "user": "U0H9QUFA5",
+      "ts": "1689652668.207419",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "NZR",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "Google Keep をメモに使っていたんだけど、ここから別のWebアプリに移行しようと思っています。普通にメモできて、検索できれば十分で、ベンダーロックインがイヤなだけです。何か良いWebアプリがあれば教えてください。ec2 にインストールして使う予定でいます。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "team": "T0GFBAM8C"
+    },
+    {
+      "type": "message",
+      "subtype": "channel_join",
+      "ts": "1689635160.509169",
+      "user": "U05H13B0ZC7",
+      "text": "<@U05H13B0ZC7>さんがチャンネルに参加しました"
+    },
+    {
+      "type": "message",
+      "subtype": "channel_join",
+      "ts": "1689635154.039619",
+      "user": "U05HJ2SNK28",
+      "text": "<@U05HJ2SNK28>さんがチャンネルに参加しました"
+    },
+    {
+      "type": "message",
+      "subtype": "channel_join",
+      "ts": "1689559091.165759",
+      "user": "U05GV2A7EMV",
+      "text": "<@U05GV2A7EMV>さんがチャンネルに参加しました"
+    },
+    {
+      "type": "message",
+      "subtype": "channel_join",
+      "ts": "1689490324.268269",
+      "user": "U05HLSK13K3",
+      "text": "<@U05HLSK13K3>さんがチャンネルに参加しました",
+      "reactions": [
+        {
+          "name": "archjp-joy",
+          "users": [
+            "U03JYF13SQP"
+          ],
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "message",
+      "text": "wineでできました！\n初回起動でアカウント名とパスワードが聞かれるウィンドウが開くんですが、素早く入力しないと何故か落ちちゃって先に進めなかったので、アップデートの確認溶かしに言っているのかと思い、まずはログインせずにkindleの自動アップデートをオフにしてやってみました。",
+      "files": [
+        {
+          "id": "F05GJCWS18W",
+          "created": 1689181482,
+          "timestamp": 1689181482,
+          "name": "image.png",
+          "title": "image.png",
+          "mimetype": "image/png",
+          "filetype": "png",
+          "pretty_type": "PNG",
+          "user": "amano.takahisa",
+          "user_team": "T0GFBAM8C",
+          "editable": false,
+          "size": 391147,
+          "mode": "hosted",
+          "is_external": false,
+          "external_type": "",
+          "is_public": true,
+          "public_url_shared": false,
+          "display_as_bot": false,
+          "username": "",
+          "url_private": "https://files.slack.com/files-pri/T0GFBAM8C-F05GJCWS18W/image.png",
+          "url_private_download": "https://files.slack.com/files-pri/T0GFBAM8C-F05GJCWS18W/download/image.png",
+          "media_display_type": "unknown",
+          "thumb_64": "https://files.slack.com/files-tmb/T0GFBAM8C-F05GJCWS18W-755dc88ee5/image_64.png",
+          "thumb_80": "https://files.slack.com/files-tmb/T0GFBAM8C-F05GJCWS18W-755dc88ee5/image_80.png",
+          "thumb_360": "https://files.slack.com/files-tmb/T0GFBAM8C-F05GJCWS18W-755dc88ee5/image_360.png",
+          "thumb_360_w": 360,
+          "thumb_360_h": 232,
+          "thumb_480": "https://files.slack.com/files-tmb/T0GFBAM8C-F05GJCWS18W-755dc88ee5/image_480.png",
+          "thumb_480_w": 480,
+          "thumb_480_h": 310,
+          "thumb_160": "https://files.slack.com/files-tmb/T0GFBAM8C-F05GJCWS18W-755dc88ee5/image_160.png",
+          "thumb_720": "https://files.slack.com/files-tmb/T0GFBAM8C-F05GJCWS18W-755dc88ee5/image_720.png",
+          "thumb_720_w": 720,
+          "thumb_720_h": 465,
+          "thumb_800": "https://files.slack.com/files-tmb/T0GFBAM8C-F05GJCWS18W-755dc88ee5/image_800.png",
+          "thumb_800_w": 800,
+          "thumb_800_h": 516,
+          "thumb_960": "https://files.slack.com/files-tmb/T0GFBAM8C-F05GJCWS18W-755dc88ee5/image_960.png",
+          "thumb_960_w": 960,
+          "thumb_960_h": 620,
+          "thumb_1024": "https://files.slack.com/files-tmb/T0GFBAM8C-F05GJCWS18W-755dc88ee5/image_1024.png",
+          "thumb_1024_w": 1024,
+          "thumb_1024_h": 661,
+          "original_w": 1532,
+          "original_h": 989,
+          "thumb_tiny": "AwAeADDRUYGCST60pwKO9I/Kn6GgCH7TED1/WlFzESBnGfU1XSzVXY5yD0FNksC/3So/Oi3mK5oDBGaMCmwrtiVfQYp9AwxSN0/Ck3j3oLD3oArNI4ONxz9KEkcuo3HGalMcROSpJoVIgQwU5FRyyHdEo4FLTQwo3j3qxH//2Q==",
+          "permalink": "https://archlinuxjp.slack.com/files/amano.takahisa/F05GJCWS18W/image.png",
+          "permalink_public": "https://slack-files.com/T0GFBAM8C-F05GJCWS18W-af134fa84a",
+          "is_starred": false,
+          "has_rich_preview": false,
+          "file_access": "visible"
+        }
+      ],
+      "upload": false,
+      "user": "amano.takahisa",
+      "display_as_bot": false,
+      "ts": "1689181605.674969",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "vlLh",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "wineでできました！\n初回起動でアカウント名とパスワードが聞かれるウィンドウが開くんですが、素早く入力しないと何故か落ちちゃって先に進めなかったので、アップデートの確認溶かしに言っているのかと思い、まずはログインせずにkindleの自動アップデートをオフにしてやってみました。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "client_msg_id": "b3eb36a8-4e41-445b-a35d-0323743d9411",
+      "reactions": [
+        {
+          "name": "+1",
+          "users": [
+            "U01JJAE8LMA",
+            "U03JYF13SQP",
+            "U0594T23P6G",
+            "U03L6BKDC4D",
+            "UUGUHGBFH",
+            "U03D2HTU60H",
+            "U0H9QUFA5",
+            "U02Q7PAJYT1",
+            "U01HE1ENNJZ",
+            "U041F8GDZL7"
+          ],
+          "count": 10
+        },
+        {
+          "name": "+1::skin-tone-2",
+          "users": [
+            "U01J1GGMHDJ"
+          ],
+          "count": 1
+        }
+      ]
+    },
+    {
+      "client_msg_id": "3916cc8e-70d1-4a71-85d4-9d49f4865ae4",
+      "type": "message",
+      "text": "Arch linuxでkindle読めている人いますか？買った本がcloud reader対応してなかった。",
+      "user": "amano.takahisa",
+      "ts": "1689177364.957869",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "2h/Lz",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "Arch linuxでkindle読めている人いますか？買った本がcloud reader対応してなかった。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "team": "T0GFBAM8C"
+    },
+    {
+      "client_msg_id": "692C3B19-80C9-4AFE-AAF1-17AFFFE722E2",
+      "type": "message",
+      "text": "多分やりたいことか、やりたくないことかでは笑",
+      "user": "U0GFBAM8U",
+      "ts": "1689168951.841179",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "Z60",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "多分やりたいことか、やりたくないことかでは笑"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "team": "T0GFBAM8C",
+      "reactions": [
+        {
+          "name": "laughing",
+          "users": [
+            "U0H9QUFA5"
+          ],
+          "count": 1
+        }
+      ]
+    },
+    {
+      "client_msg_id": "2d776f80-0807-4eb9-9b43-7653e6f653c4",
+      "type": "message",
+      "text": "Libreoffice で編集して、知らんぷりしてファイルを出せる図々しさが欲しい。",
+      "user": "U0H9QUFA5",
+      "ts": "1689167293.639279",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "1zb",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "Libreoffice で編集して、知らんぷりしてファイルを出せる図々しさが欲しい。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "team": "T0GFBAM8C",
+      "reactions": [
+        {
+          "name": "smile",
+          "users": [
+            "amano.takahisa",
+            "U01J1GGMHDJ",
+            "U04E6P48C93",
+            "U01HE1ENNJZ"
+          ],
+          "count": 4
+        }
+      ]
+    },
+    {
+      "client_msg_id": "e808f0fa-e350-42bf-8e61-a9374ad8e6ab",
+      "type": "message",
+      "text": "使う頻度ですかね",
+      "user": "U0PM6EYR1",
+      "ts": "1689166591.304199",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "60w2",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "使う頻度ですかね"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "team": "T0GFBAM8C"
+    },
+    {
+      "client_msg_id": "3ca912d7-627d-4590-a205-292bc359aba1",
+      "type": "message",
+      "text": "office365 毎月1490円は高いけど、xbox game pass ultimate 毎月1210円は安く感じるのは何でかなあ。",
+      "user": "U0H9QUFA5",
+      "ts": "1689165370.731059",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "zKmV",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "office365 毎月1490円は高いけど、xbox game pass ultimate 毎月1210円は安く感じるのは何でかなあ。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "team": "T0GFBAM8C"
+    },
+    {
+      "client_msg_id": "5c5d20a7-18de-4495-bf21-4247dbb243af",
+      "type": "message",
+      "text": "Office 36~0~5とかどうなんでしょう。(私は使ってない)",
+      "user": "amano.takahisa",
+      "ts": "1689154052.187749",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "WbDc",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "Office 36"
+                },
+                {
+                  "type": "text",
+                  "text": "0",
+                  "style": {
+                    "strike": true
+                  }
+                },
+                {
+                  "type": "text",
+                  "text": "5とかどうなんでしょう。(私は使ってない)"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "team": "T0GFBAM8C",
+      "edited": {
+        "user": "amano.takahisa",
+        "ts": "1689177095.000000"
+      }
+    },
+    {
+      "client_msg_id": "b73e61c8-570b-451c-a4b2-797ee08f6766",
+      "type": "message",
+      "text": "そう，LinuxユーザーならMS Officeから解脱すべし，と言われたらそれまでなんですが，出張の申請書とか`xlsx`なのでそうもいかず。",
+      "user": "watanabe",
+      "ts": "1689141359.984699",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "PFl",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "そう，LinuxユーザーならMS Officeから解脱すべし，と言われたらそれまでなんですが，出張の申請書とか"
+                },
+                {
+                  "type": "text",
+                  "text": "xlsx",
+                  "style": {
+                    "code": true
+                  }
+                },
+                {
+                  "type": "text",
+                  "text": "なのでそうもいかず。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "team": "T0GFBAM8C",
+      "reactions": [
+        {
+          "name": "sorena",
+          "users": [
+            "U0H9QUFA5",
+            "U01J1GGMHDJ",
+            "U01HE1ENNJZ"
+          ],
+          "count": 3
+        }
+      ]
+    },
+    {
+      "client_msg_id": "6e65d020-d643-4920-b431-6d1e90b0ec8b",
+      "type": "message",
+      "text": "libreoffice が悪いわけじゃないけど、msofficeでないとダメなケースがあるよね。で、結局、デュアルブートかつvirtualbox で対応してます。kvmも最近は調子いいらしいけど、環境移すのがめんどい。",
+      "user": "U0H9QUFA5",
+      "ts": "1689141009.449529",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "h528",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "libreoffice が悪いわけじゃないけど、msofficeでないとダメなケースがあるよね。で、結局、デュアルブートかつvirtualbox で対応してます。kvmも最近は調子いいらしいけど、環境移すのがめんどい。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "team": "T0GFBAM8C",
+      "edited": {
+        "user": "U0H9QUFA5",
+        "ts": "1689141455.000000"
+      }
+    },
+    {
+      "client_msg_id": "d29c0598-5873-4ada-8af6-5982c433d010",
+      "type": "message",
+      "text": "私もOffice/AutoCAD/Adobeのためにデュアルブートしてます\nOfficeツールだけでもArchでストレスなく使えると良いんですが、おすすめありませんか？\nカリグラは日本語入力がだめで…",
+      "user": "watanabe",
+      "ts": "1689140804.413139",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "21NU",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "私もOffice/AutoCAD/Adobeのためにデュアルブートしてます\nOfficeツールだけでもArchでストレスなく使えると良いんですが、おすすめありませんか？\nカリグラは日本語入力がだめで…"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "team": "T0GFBAM8C"
+    },
+    {
+      "client_msg_id": "58ea8a32-e789-44f2-adb8-02b4e0c2f26e",
+      "type": "message",
+      "text": "Arch と Windows のデュアルブート環境がまたぶっこわれたので、Windows を再インストールした。EFI パーティションを作ってから、Linux を入れて、ブートローダーを設定して、Windows をクリーンインストールするのが、やっぱりよさそう。ついでに、wsl も最新を入れて、試しに Arch WSL を入れたらさくっと動いて満足。",
+      "user": "U0H9QUFA5",
+      "ts": "1689131380.092419",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "Ik4b1",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "Arch と Windows のデュアルブート環境がまたぶっこわれたので、Windows を再インストールした。EFI パーティションを作ってから、Linux を入れて、ブートローダーを設定して、Windows をクリーンインストールするのが、やっぱりよさそう。ついでに、wsl も最新を入れて、試しに Arch WSL を入れたらさくっと動いて満足。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "team": "T0GFBAM8C",
+      "reactions": [
+        {
+          "name": "+1",
+          "users": [
+            "U0GFBAM8U",
+            "watanabe",
+            "U01HE1ENNJZ",
+            "U04E6P48C93",
+            "U0594T23P6G",
+            "U045CFM1NNB"
+          ],
+          "count": 6
+        },
+        {
+          "name": "+1::skin-tone-2",
+          "users": [
+            "U01J1GGMHDJ"
+          ],
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "message",
+      "subtype": "channel_join",
+      "ts": "1688967011.091419",
+      "user": "U05GWTJK000",
+      "text": "<@U05GWTJK000>さんがチャンネルに参加しました"
+    },
+    {
+      "type": "message",
+      "subtype": "channel_join",
+      "ts": "1688627622.285269",
+      "user": "U05FK54CRQE",
+      "text": "<@U05FK54CRQE>さんがチャンネルに参加しました"
+    },
+    {
+      "type": "message",
+      "subtype": "channel_join",
+      "ts": "1688608459.327969",
+      "user": "U05FT8QD4LU",
+      "text": "<@U05FT8QD4LU>さんがチャンネルに参加しました"
+    },
+    {
+      "type": "message",
+      "subtype": "channel_join",
+      "ts": "1688461232.983529",
+      "user": "U05G4KYJYD6",
+      "text": "<@U05G4KYJYD6>さんがチャンネルに参加しました"
+    },
+    {
+      "type": "message",
+      "subtype": "channel_join",
+      "ts": "1688424356.125309",
+      "user": "U05G2LNCUUQ",
+      "text": "<@U05G2LNCUUQ>さんがチャンネルに参加しました",
+      "reactions": [
+        {
+          "name": "archjp-joy",
+          "users": [
+            "U03JYF13SQP",
+            "U01HE1ENNJZ"
+          ],
+          "count": 2
+        }
+      ]
+    },
+    {
+      "client_msg_id": "9E1F600F-11B4-4D53-8A44-8F1178442DC8",
+      "type": "message",
+      "text": "みれた、個人環境か",
+      "user": "U0GFBAM8U",
+      "ts": "1688390122.592649",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "FOPD",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "みれた、個人環境か"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "team": "T0GFBAM8C"
+    },
+    {
+      "client_msg_id": "a3bb61a7-5e88-4560-9c74-707145a1f3c6",
+      "type": "message",
+      "text": "なんかslackのここの部屋、iosでだけ見れない",
+      "user": "U0GFBAM8U",
+      "ts": "1688390105.342929",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "vUR",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "なんかslackのここの部屋、iosでだけ見れない"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "team": "T0GFBAM8C"
+    },
+    {
+      "type": "message",
+      "subtype": "channel_join",
+      "ts": "1688369120.776919",
+      "user": "U05F8U2L534",
+      "text": "<@U05F8U2L534>さんがチャンネルに参加しました"
+    },
+    {
+      "type": "message",
+      "subtype": "channel_join",
+      "ts": "1688315550.150859",
+      "user": "U05F48R444V",
+      "text": "<@U05F48R444V>さんがチャンネルに参加しました"
+    },
+    {
+      "type": "message",
+      "subtype": "channel_join",
+      "ts": "1688307338.158279",
+      "user": "U05F6U2QR7D",
+      "text": "<@U05F6U2QR7D>さんがチャンネルに参加しました"
+    }
+  ],
+  "has_more": false,
+  "is_limited": true,
+  "pin_count": 16,
+  "channel_actions_ts": null,
+  "channel_actions_count": 0
+}

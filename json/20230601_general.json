@@ -1,0 +1,661 @@
+{
+  "ok": true,
+  "latest": "1688193151.000000",
+  "oldest": "1685601151.000000",
+  "messages": [
+    {
+      "type": "message",
+      "subtype": "channel_join",
+      "ts": "1688172915.846369",
+      "user": "U05F1QESK7F",
+      "text": "<@U05F1QESK7F>さんがチャンネルに参加しました"
+    },
+    {
+      "type": "message",
+      "subtype": "channel_join",
+      "ts": "1688052028.680189",
+      "user": "U05ESLX2B0D",
+      "text": "<@U05ESLX2B0D>さんがチャンネルに参加しました"
+    },
+    {
+      "type": "message",
+      "subtype": "channel_join",
+      "ts": "1687781626.764449",
+      "user": "U05E0SQGJ0N",
+      "text": "<@U05E0SQGJ0N>さんがチャンネルに参加しました"
+    },
+    {
+      "type": "message",
+      "subtype": "channel_join",
+      "ts": "1687708222.477069",
+      "user": "U05E48U5C0J",
+      "text": "<@U05E48U5C0J>さんがチャンネルに参加しました"
+    },
+    {
+      "type": "message",
+      "subtype": "channel_join",
+      "ts": "1687458235.890659",
+      "user": "U05E6L4SGQZ",
+      "text": "<@U05E6L4SGQZ>さんがチャンネルに参加しました",
+      "reactions": [
+        {
+          "name": "archjp-joy",
+          "users": [
+            "U03JYF13SQP",
+            "U0H9QUFA5"
+          ],
+          "count": 2
+        }
+      ]
+    },
+    {
+      "client_msg_id": "67f5baf2-2f2f-4a78-afb4-da389eac3653",
+      "type": "message",
+      "text": "昨日もAurが落ちてるって話がredditで出てましたね\nそのあと復旧したって話でしたが今日もですか",
+      "user": "watanabe",
+      "ts": "1687436735.947819",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "F82",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "昨日もAurが落ちてるって話がredditで出てましたね\nそのあと復旧したって話でしたが今日もですか"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "team": "T0GFBAM8C"
+    },
+    {
+      "client_msg_id": "BF69137F-252E-4B11-9CEE-3A6421DDB7C0",
+      "type": "message",
+      "text": "私が見てたところも閉鎖されたりしてる",
+      "user": "U0GFBAM8U",
+      "ts": "1687417926.891649",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "q/Kv",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "私が見てたところも閉鎖されたりしてる"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "team": "T0GFBAM8C"
+    },
+    {
+      "client_msg_id": "FBD49A59-9816-455F-9D15-61B68C136352",
+      "type": "message",
+      "text": "そんな感じぽいですね",
+      "user": "U0GFBAM8U",
+      "ts": "1687417906.565429",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "Wg0j",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "そんな感じぽいですね"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "team": "T0GFBAM8C"
+    },
+    {
+      "type": "message",
+      "text": "reddit が API 有料化する関係で炎上してサブレディットがアクセスブロックしてるみたいな記事を最近見たけどそれですかね",
+      "user": "U257W41DW",
+      "ts": "1687417815.981959",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "Azu7I",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "reddit が API 有料化する関係で炎上してサブレディットがアクセスブロックしてるみたいな記事を最近見たけどそれですかね"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "team": "T0GFBAM8C"
+    },
+    {
+      "client_msg_id": "E9BC4607-8182-4E79-8B9E-C766A6504E29",
+      "type": "message",
+      "text": "関係ないけど最近reddit壊滅してる?",
+      "user": "U0GFBAM8U",
+      "ts": "1687417557.829749",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "Ot3wy",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "関係ないけど最近reddit壊滅してる?"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "team": "T0GFBAM8C"
+    },
+    {
+      "type": "message",
+      "text": "reddit 見ると半日以上ダウンしてるっぽい？",
+      "user": "U257W41DW",
+      "ts": "1687417515.652839",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "1rQ8",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "reddit 見ると半日以上ダウンしてるっぽい？"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "team": "T0GFBAM8C"
+    },
+    {
+      "client_msg_id": "aa857a28-3a37-4602-bc31-ace11605aa73",
+      "type": "message",
+      "text": "こっちはブラウザでアクセスは出来ますね",
+      "user": "U0PM6EYR1",
+      "ts": "1687416768.087969",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "s2UAI",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "こっちはブラウザでアクセスは出来ますね"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "team": "T0GFBAM8C"
+    },
+    {
+      "client_msg_id": "0716d8af-765f-4c99-b3ca-93d690fa5427",
+      "type": "message",
+      "text": "パッケージの更新ができない",
+      "user": "UAPRYSVPS",
+      "ts": "1687414967.049369",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "jZ9Pk",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "パッケージの更新ができない"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "team": "T0GFBAM8C"
+    },
+    {
+      "client_msg_id": "96bd9aa9-6fb4-48b0-83f3-a7dd1e743a41",
+      "type": "message",
+      "text": "<https://aur.archlinux.org> しんでる……？",
+      "user": "UAPRYSVPS",
+      "ts": "1687414949.682659",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "Hon",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "link",
+                  "url": "https://aur.archlinux.org"
+                },
+                {
+                  "type": "text",
+                  "text": " しんでる……？"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "team": "T0GFBAM8C"
+    },
+    {
+      "type": "message",
+      "subtype": "bot_message",
+      "text": "<https://archlinux.org/news/tex-live-package-reorganization/|TeX Live package reorganization>\nStarting from version 2023.66594-9, TeX Live packages have been reorganized to mirror upstream collections. Even though the new texlive-basic replaces the old texlive-core, many of the texlive-core contents (including language specific files) are now split between different packages. To find out which Arch package contains a specific CTAN package, you can use the tlmgr utility, eg.\n$ tlmgr info euler | grep collection\ncollection:  collection-latexrecommended\n\nwhich means the euler CTAN...",
+      "ts": "1687080576.514659",
+      "username": "Arch Linux: Recent news updates",
+      "icons": {
+        "image_36": "https://a.slack-edge.com/80588/img/services/rss_36.png",
+        "image_48": "https://a.slack-edge.com/80588/img/services/rss_48.png",
+        "image_72": "https://a.slack-edge.com/80588/img/services/rss_72.png"
+      },
+      "bot_id": "B3WNLSQ4W",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "65vQ",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "link",
+                  "url": "https://archlinux.org/news/tex-live-package-reorganization/",
+                  "text": "TeX Live package reorganization"
+                },
+                {
+                  "type": "text",
+                  "text": "\nStarting from version 2023.66594-9, TeX Live packages have been reorganized to mirror upstream collections. Even though the new texlive-basic replaces the old texlive-core, many of the texlive-core contents (including language specific files) are now split between different packages. To find out which Arch package contains a specific CTAN package, you can use the tlmgr utility, eg.\n$ tlmgr info euler | grep collection\ncollection:  collection-latexrecommended\n\nwhich means the euler CTAN..."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "reactions": [
+        {
+          "name": "face_with_rolling_eyes",
+          "users": [
+            "watanabe"
+          ],
+          "count": 1
+        }
+      ]
+    },
+    {
+      "type": "message",
+      "subtype": "channel_join",
+      "ts": "1686901106.289739",
+      "user": "s20c1081bt",
+      "text": "<@s20c1081bt>さんがチャンネルに参加しました",
+      "reactions": [
+        {
+          "name": "archjp-joy",
+          "users": [
+            "U03JYF13SQP",
+            "watanabe"
+          ],
+          "count": 2
+        }
+      ]
+    },
+    {
+      "type": "message",
+      "subtype": "bot_message",
+      "text": "<https://archlinux.org/news/openblas-0323-2-update-requires-manual-intervention/|OpenBLAS &gt;= 0.3.23-2 update requires manual intervention>\nThe openblas package prior to version 0.3.23-2 doesn't ship optimized\nLAPACK routine and CBLAS/LAPACKE interfaces for compatibility. This\ndecision has been reverted now, and the ability to choose a different\ndefault system BLAS/LAPACK implementation while keeping openblas\ninstalled is now provided to allow future co-installation of BLIS,\nATLAS, etc.\nThe default BLAS implementation will be used for most packages like\nNumPy or R. Please install \"blas-openblas\" and \"blas64-openblas\" to make...",
+      "ts": "1686775170.694089",
+      "username": "Arch Linux: Recent news updates",
+      "icons": {
+        "image_36": "https://a.slack-edge.com/80588/img/services/rss_36.png",
+        "image_48": "https://a.slack-edge.com/80588/img/services/rss_48.png",
+        "image_72": "https://a.slack-edge.com/80588/img/services/rss_72.png"
+      },
+      "bot_id": "B3WNLSQ4W",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "WLEVE",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "link",
+                  "url": "https://archlinux.org/news/openblas-0323-2-update-requires-manual-intervention/",
+                  "text": "OpenBLAS >= 0.3.23-2 update requires manual intervention"
+                },
+                {
+                  "type": "text",
+                  "text": "\nThe openblas package prior to version 0.3.23-2 doesn't ship optimized\nLAPACK routine and CBLAS/LAPACKE interfaces for compatibility. This\ndecision has been reverted now, and the ability to choose a different\ndefault system BLAS/LAPACK implementation while keeping openblas\ninstalled is now provided to allow future co-installation of BLIS,\nATLAS, etc.\nThe default BLAS implementation will be used for most packages like\nNumPy or R. Please install \"blas-openblas\" and \"blas64-openblas\" to make..."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "message",
+      "subtype": "channel_join",
+      "ts": "1686712588.556249",
+      "user": "sim.tokyotech.n",
+      "text": "<@sim.tokyotech.n>さんがチャンネルに参加しました",
+      "reactions": [
+        {
+          "name": "archjp-joy",
+          "users": [
+            "U03JYF13SQP",
+            "U01HE1ENNJZ",
+            "watanabe"
+          ],
+          "count": 3
+        }
+      ]
+    },
+    {
+      "type": "message",
+      "text": "分かる方いたら教えてください。tar.gz版Visual Studio Codeで、フォントの半角スペースや数字の表示が変で(全角や絵文字で表示されて)困っています。デスクトップはPlasma (KDE)を使っています。\nfontconfigに\n```  &lt;match&gt;\n    &lt;test name=\"family\"&gt;&lt;string&gt;Noto Mono&lt;/string&gt;&lt;/test&gt;\n    &lt;edit name=\"family\" mode=\"prepend\" binding=\"strong\"&gt;\n      &lt;string&gt;Noto Color Emoji&lt;/string&gt;\n    &lt;/edit&gt;\n  &lt;/match&gt;```\nをしている箇所があり、それをコメントアウトして `fc-cache -f` して起動し直すと、この問題は起こらないことを確認したのですが、絵文字が表示される設定にはしたいのと、VS Code以外では同じ問題が起こっていないのがシンプルに疑問です。\n原因やうまい解決法はありますでしょうか?",
+      "files": [
+        {
+          "id": "F05CPKF9DLZ",
+          "created": 1686672617,
+          "timestamp": 1686672617,
+          "name": "image.png",
+          "title": "image.png",
+          "mimetype": "image/png",
+          "filetype": "png",
+          "pretty_type": "PNG",
+          "user": "U2YNMHCTV",
+          "user_team": "T0GFBAM8C",
+          "editable": false,
+          "size": 13991,
+          "mode": "hosted",
+          "is_external": false,
+          "external_type": "",
+          "is_public": true,
+          "public_url_shared": false,
+          "display_as_bot": false,
+          "username": "",
+          "url_private": "https://files.slack.com/files-pri/T0GFBAM8C-F05CPKF9DLZ/image.png",
+          "url_private_download": "https://files.slack.com/files-pri/T0GFBAM8C-F05CPKF9DLZ/download/image.png",
+          "media_display_type": "unknown",
+          "thumb_64": "https://files.slack.com/files-tmb/T0GFBAM8C-F05CPKF9DLZ-37a1d88dd8/image_64.png",
+          "thumb_80": "https://files.slack.com/files-tmb/T0GFBAM8C-F05CPKF9DLZ-37a1d88dd8/image_80.png",
+          "thumb_360": "https://files.slack.com/files-tmb/T0GFBAM8C-F05CPKF9DLZ-37a1d88dd8/image_360.png",
+          "thumb_360_w": 360,
+          "thumb_360_h": 151,
+          "thumb_480": "https://files.slack.com/files-tmb/T0GFBAM8C-F05CPKF9DLZ-37a1d88dd8/image_480.png",
+          "thumb_480_w": 480,
+          "thumb_480_h": 201,
+          "thumb_160": "https://files.slack.com/files-tmb/T0GFBAM8C-F05CPKF9DLZ-37a1d88dd8/image_160.png",
+          "original_w": 615,
+          "original_h": 258,
+          "thumb_tiny": "AwAUADCkOnWl+hpB0o/GgA59aSjNGaADFGKM0ZoAASOlGTSUUALmjNJRQAtJRRQB/9k=",
+          "permalink": "https://archlinuxjp.slack.com/files/U2YNMHCTV/F05CPKF9DLZ/image.png",
+          "permalink_public": "https://slack-files.com/T0GFBAM8C-F05CPKF9DLZ-bb14b46d9f",
+          "is_starred": false,
+          "has_rich_preview": false,
+          "file_access": "visible"
+        }
+      ],
+      "upload": false,
+      "user": "U2YNMHCTV",
+      "display_as_bot": false,
+      "ts": "1686672965.603509",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "KB/",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "分かる方いたら教えてください。tar.gz版Visual Studio Codeで、フォントの半角スペースや数字の表示が変で(全角や絵文字で表示されて)困っています。デスクトップはPlasma (KDE)を使っています。\nfontconfigに\n"
+                }
+              ]
+            },
+            {
+              "type": "rich_text_preformatted",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "  <match>\n    <test name=\"family\"><string>Noto Mono</string></test>\n    <edit name=\"family\" mode=\"prepend\" binding=\"strong\">\n      <string>Noto Color Emoji</string>\n    </edit>\n  </match>"
+                }
+              ],
+              "border": 0
+            },
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "をしている箇所があり、それをコメントアウトして "
+                },
+                {
+                  "type": "text",
+                  "text": "fc-cache -f",
+                  "style": {
+                    "code": true
+                  }
+                },
+                {
+                  "type": "text",
+                  "text": " して起動し直すと、この問題は起こらないことを確認したのですが、絵文字が表示される設定にはしたいのと、VS Code以外では同じ問題が起こっていないのがシンプルに疑問です。\n原因やうまい解決法はありますでしょうか?"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "edited": {
+        "user": "U2YNMHCTV",
+        "ts": "1686673016.000000"
+      },
+      "client_msg_id": "0f8178b4-a6d4-46d9-952b-20790d5a06ea",
+      "thread_ts": "1686672965.603509",
+      "reply_count": 7,
+      "reply_users_count": 4,
+      "latest_reply": "1686840034.893789",
+      "reply_users": [
+        "U257W41DW",
+        "watanabe",
+        "U2YNMHCTV",
+        "U01HE1ENNJZ"
+      ],
+      "is_locked": false,
+      "subscribed": false
+    },
+    {
+      "type": "message",
+      "subtype": "channel_join",
+      "ts": "1686498351.257159",
+      "user": "U05CNQKEDC0",
+      "text": "<@U05CNQKEDC0>さんがチャンネルに参加しました",
+      "reactions": [
+        {
+          "name": "archjp-joy",
+          "users": [
+            "U03JYF13SQP",
+            "watanabe"
+          ],
+          "count": 2
+        }
+      ]
+    },
+    {
+      "client_msg_id": "17b846ec-877c-4813-ac81-d4c4bbf8eb98",
+      "type": "message",
+      "text": "自分もi3でthunar使っていて、以下の設定をi3configに仕込んでいますね。\n```exec --no-startup-id thunar --daemon```",
+      "user": "yasunori.kirin0418",
+      "ts": "1686460661.126419",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "hivM8",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "自分もi3でthunar使っていて、以下の設定をi3configに仕込んでいますね。\n"
+                }
+              ]
+            },
+            {
+              "type": "rich_text_preformatted",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "exec --no-startup-id thunar --daemon"
+                }
+              ],
+              "border": 0
+            }
+          ]
+        }
+      ],
+      "team": "T0GFBAM8C"
+    },
+    {
+      "client_msg_id": "8054f3a0-4411-429f-9e15-90cce92fa6fc",
+      "type": "message",
+      "text": "<@UP57VNN6T>これはどうだろう．\n<https://qiita.com/YuH25/items/162ed34bc4257372c48f>",
+      "user": "git-repos-rkarsnk",
+      "ts": "1686456817.566989",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "Arf",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "user",
+                  "user_id": "UP57VNN6T"
+                },
+                {
+                  "type": "text",
+                  "text": "これはどうだろう．\n"
+                },
+                {
+                  "type": "link",
+                  "url": "https://qiita.com/YuH25/items/162ed34bc4257372c48f"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "team": "T0GFBAM8C",
+      "thread_ts": "1686456817.566989",
+      "reply_count": 2,
+      "reply_users_count": 1,
+      "latest_reply": "1686820204.985409",
+      "reply_users": [
+        "UP57VNN6T"
+      ],
+      "is_locked": false,
+      "subscribed": false
+    },
+    {
+      "client_msg_id": "e5fee43e-15ac-4205-a785-efa6cfd30a9c",
+      "type": "message",
+      "text": "i3wm環境でThunarの起動が異様に遅くて、調べてみたらxdg-desktop-portalが原因って出てきたんですが同じ症状の人いますかね？",
+      "user": "UP57VNN6T",
+      "ts": "1686405556.448339",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "bOI",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "i3wm環境でThunarの起動が異様に遅くて、調べてみたらxdg-desktop-portalが原因って出てきたんですが同じ症状の人いますかね？"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "team": "T0GFBAM8C",
+      "edited": {
+        "user": "UP57VNN6T",
+        "ts": "1686405563.000000"
+      }
+    },
+    {
+      "type": "message",
+      "subtype": "channel_join",
+      "ts": "1686314030.306729",
+      "user": "dchf.jp",
+      "text": "<@dchf.jp>さんがチャンネルに参加しました"
+    },
+    {
+      "type": "message",
+      "subtype": "channel_join",
+      "ts": "1685711089.566519",
+      "user": "harada",
+      "text": "<@harada>さんがチャンネルに参加しました",
+      "reactions": [
+        {
+          "name": "archjp-joy",
+          "users": [
+            "U03JYF13SQP",
+            "U0H9QUFA5",
+            "U01HE1ENNJZ"
+          ],
+          "count": 3
+        }
+      ]
+    }
+  ],
+  "has_more": false,
+  "is_limited": true,
+  "pin_count": 16,
+  "channel_actions_ts": null,
+  "channel_actions_count": 0
+}
